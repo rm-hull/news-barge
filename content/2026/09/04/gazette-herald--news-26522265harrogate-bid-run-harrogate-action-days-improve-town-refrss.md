@@ -14,6 +14,16 @@ categories:
 - York
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Harrogate
+people:
+- Jason Maxwell
+organisations:
+- Great Yorkshire Show
+- Harrogate BID
+- Harrogate Business Improvement District
+- Pic
+- VAT
 ---
 
 *(Image: Pic supplied)*

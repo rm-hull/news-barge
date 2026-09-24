@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- China
+- France
+- Germany
+- Iran
+- Israel
+- Russia
+- Tehran
+- U.S.
+- United States
+- Vienna
+- Washington
+people:
+- Rafael Grossi
+organisations:
+- AP
+- Associated Press
+- Board of Governors
+- General Assembly
+- IAEA Board of Governors
+- International Atomic Energy Agency
+- Members of the Agency
+- Reuters
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
+- United Nations
 ---
 
 The United States, Britain, France and Germany have drafted a resolution for possible consideration by the Board of Governors of the U.N. nuclear watchdog that seeks to refer Iran to the U.N. Security Council for failure to comply with its nuclear nonproliferation obligations, diplomats say.

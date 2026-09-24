@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/z7mG3g3QpevS3axGq35p99-1536-80.png
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+- Japan.
+- Kadena Air Base
+- Okinawa
+people: []
+organisations:
+- Efosa
+- Google News
+- SAA-LT
+- TechRadar Pro
+- US Navy
+- Via Defense News
 ---
 
 ![Aviation ordnancemen load a Mark 54 torpedo on a P-8A Poseidon aircraft during a proficiency exercise on Kadena Air Base, Okinawa, Japan.](https://cdn.mos.cms.futurecdn.net/z7mG3g3QpevS3axGq35p99.png) 

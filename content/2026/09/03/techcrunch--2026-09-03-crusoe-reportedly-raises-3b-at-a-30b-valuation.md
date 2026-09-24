@@ -12,6 +12,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Abu Dhabi
+- Jane Street
+people:
+- Crusoe
+organisations:
+- AI
+- Atreides Management
+- Axios
+- Bloomberg
+- Crusoe
+- Goldman Sachs
+- Meta
+- Microsoft
+- Morgan Stanley
+- Mubadala Capital
+- OpenAI
+- Oracle
+- Valor Equity Partners
 ---
 
 Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported.

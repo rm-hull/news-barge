@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Atlanta
+- Flushing Meadows
+- U.S.
+people:
+- Andy Roddick
+- Ben Shelton
+- Carlos Alcaraz
+- Denis Shapovalov
+- Frances Tiafoe
+- Novak Djokovic
+- Venus Williams
+organisations:
+- No. 8
 ---
 
 The late-night action at the U.S. Open has now reached an extreme.

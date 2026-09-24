@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- West Yorkshire
+people:
+- Jessica Armitage
+organisations:
+- Made Smarter Yorkshire
+- SME
+- SYMCA
+- Sheffield Hallam University
+- Smarter Yorkshire
 ---
 
 *(Image: SYMCA)*

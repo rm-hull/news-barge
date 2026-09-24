@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/16/10/2026-09-15T215938Z_1687729
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- China
+- San Francisco
+- U.S.
+- Washington
+people:
+- Camilla
+- Charles
+- Donald Trump
+- Elon Musk
+- Jensen Huang
+- Tim Cook
+- Xi Jinping
+organisations:
+- AI
+- Apple
+- Nvidia
+- SpaceX
+- Trump
 ---
 
 Nvidia CEO Jensen Huang is set to attend a state dinner hosted by President Donald Trump for Chinese President Xi Jinping, according to a source familiar with the matter on Tuesday.

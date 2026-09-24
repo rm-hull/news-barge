@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Brisbane
+- Queensland Children’s
+people:
+- Connor Dean
+- Stephanie Gallagher
+- X‑rays
+organisations: []
 ---
 
 A six-year-old boy died from scurvy, the so‑called “sailor’s disease” common in the convict era, a coroner has found.

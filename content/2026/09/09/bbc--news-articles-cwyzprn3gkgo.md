@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- London
+- UK
+- United Kingdom.
+- Westminster
+people:
+- Alison Hammond
+- Caroline Dinenage
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Priya Dogra
+organisations:
+- BBC
+- Channel 4
+- First Sight
+- Gogglebox
+- The Great British Bake
 ---
 
 ![A general view of the Channel 4 headquarters in Westminster on May 20, 2026 in London, United Kingdom.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f2e/live/b26fc5b0-ac40-11f1-a540-61c3f7fc4e6c.jpg)

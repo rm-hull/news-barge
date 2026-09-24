@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Blackwell
+- Bromsgrove
+- England
+- Midlands
+- Oxford Magistrates' Court
+- Oxfordshire
+- Worcestershire
+people:
+- Ryan Bridge
+organisations:
+- Birmingham City Council
+- Bridge
+- High Court
+- Oxfordshire County Council
+- St George's Cross
+- Thames Valley Police
+- Union Jack
 ---
 
 ![Image shows a man with tied back blonde/grey hair holding a black microphone.  He is talking and smiling, wearing a black jacket and a black hoodie with a white logo that says in blue 'Raise The Colours'](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/376a/live/43691bb0-aa30-11f1-bdbb-8bb5df16290b.png)

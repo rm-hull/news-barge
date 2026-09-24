@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Barnsley
+- Humber
+- North Yorkshire
+- York
+people:
+- Cathryn Fairhurst
+- York
+organisations:
+- :** York
+- Barnsley
+- Care Quality Commission
+- Kirklees
+- Lovett Care
+- North Yorkshire
+- Rotherham
 ---
 
 *(Image: Pixabay)*

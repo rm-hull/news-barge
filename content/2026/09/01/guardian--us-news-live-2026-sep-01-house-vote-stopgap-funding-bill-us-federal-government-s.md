@@ -13,6 +13,109 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Boston
+- Canada
+- China
+- Chonburi
+- Fortress North America
+- Idaho
+- Iran
+- Lincoln
+- Massachusetts
+- Michigan
+- Middle East
+- Montana
+- New Jersey
+- North Carolina
+- Northern California
+- Ottawa
+- Pattaya
+- Shasta
+- Singapore
+- Tehran
+- Thailand
+- US
+- US-Canada
+- United States
+- Washington
+- White House
+people:
+- Abdul El-Sayed
+- Abraham Lincoln
+- Alexandria Ocasio-Cortez
+- Bernie Sanders
+- Dan Driscoll
+- Donald Trump
+- Ed Markey
+- Elizabeth Warren
+- Frank E Petersen Jr
+- Gavin Newsom
+- Green
+- Howard Lutnick
+- JD Vance
+- Jamieson Greer
+- Kamala Harris
+- Mark Carney
+- Michael Kratsios
+- Mike Johnson
+- Mikie Sherrill
+- Patrick Roath
+- Pete Hegseth
+- Poramet Ngampichet
+- Richard Blumenthal
+- Scott Bessent
+- Seth Moulton
+- Stephen Lynch
+- Tina Peters
+- Tom Schultz
+organisations:
+- AAF
+- AFT
+- AP
+- American Accountability Foundation
+- American Federation of Teachers
+- Associated Press
+- BLET
+- BMWED
+- Border Patrol
+- Boston Globe
+- Brotherhood of Locomotive Engineers and Trainmen
+- Brotherhood of Maintenance of Way Employees Division
+- Congress
+- Defense
+- Federal Forest Resource Coalition
+- Forest Service
+- Fortress North America
+- Freedom Foundation
+- G20
+- Heritage Foundation
+- House
+- Hugging Face
+- Idaho Forest Group
+- Kratsios
+- Office of Management and Budget
+- Politico
+- Postal Service
+- Public Citizen
+- Reuters
+- Scale AI
+- Senate
+- Smart Transportation Division
+- Smart-TD
+- Supreme Court
+- Treasury
+- Trump
+- Truth Social
+- US Forest Service
+- US Marine Corps
+- US Postal Service
+- US Supreme Court
+- United Auto Workers
+- United Nations
+- United Steelworkers
+- VoteVets
+- World Bank
 ---
 
 US trade official downplays Canada trade war: 'It's more their emergency than ours'

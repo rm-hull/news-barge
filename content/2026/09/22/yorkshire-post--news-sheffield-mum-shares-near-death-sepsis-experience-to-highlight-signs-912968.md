@@ -14,6 +14,20 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3ZWM1YTkwLTdjMGItNGUyNC05ZjA1LTI0ZTJkZTRiOWY4ZTo5NDY0OTFlZS1hMmIzLTQ1YTYtOTdjNy1mYmM0ZTYwYTkxZTg=.jpg?crop=3:2,smart&trim=&width=418&auto=webp&quality=75
+locations:
+- Greenhill
+- Northern General Hospital
+- Sheffield Children’s Hospital
+people:
+- Alex
+- Alexandra Plank
+- Allegra
+- Anushka
+- Rachel Foster
+- Richard
+organisations:
+- CPR
+- Sheffield Teaching Hospitals NHS Foundation Trust
 ---
 
 # Sheffield mum shares near-death sepsis experience to highlight signs

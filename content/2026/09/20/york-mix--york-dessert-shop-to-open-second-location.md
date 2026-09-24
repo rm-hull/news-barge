@@ -12,6 +12,21 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/alys-cheesecake.webp
+locations:
+- Clifton Moor Retail Park
+- Gillygate
+- San Sebastián
+- Turkey
+- York
+people:
+- Ali Açıkgül
+- Aly
+- Peynirli Lezzetler
+organisations:
+- Aly’s Cheesecake
+- Blueberry Cheesecake
+- Cheesy Delights
+- Purple Basil
 ---
 
 Something sweet is coming to York…

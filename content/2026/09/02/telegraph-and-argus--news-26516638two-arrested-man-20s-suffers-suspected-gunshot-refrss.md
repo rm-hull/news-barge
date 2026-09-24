@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Cambrian Street
+- Holbeck
+- Leeds
+people:
+- Daniel Bates
+organisations:
+- Homicide and Major Enquiry Team
 ---
 
 *(Image: Stock)*

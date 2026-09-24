@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Newcastle
+- Scarborough
+- Sea
+people:
+- Alison Carr
+- Catja Hamilton
+- Colin
+- Deborah
+- Hannah Sibai
+- Maria Crocker
+- Ms Crocker
+- Phil Corbitt
+- Roma Yagnik
+- Sarah Belcher
+- Ziad Jabero
+organisations:
+- All at Sea
+- Live Theatre
+- Newcastle’s Live Theatre
+- SJT
+- SPACE
+- Stephen Joseph Theatre
 ---
 
 A new play inspired by the canoe man story is set to hit the stage this autumn.

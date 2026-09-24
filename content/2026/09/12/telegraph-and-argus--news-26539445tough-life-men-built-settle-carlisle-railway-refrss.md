@@ -14,6 +14,35 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Ascension Church
+- Batty Green
+- Blea Moor Tunnel
+- Chapel-le-dale
+- Dales
+- Dent
+- Denthead
+- Holy Ascension Church
+- London
+- Newry County Down
+- Ribblehead Viaduct
+- Ribblehead station
+- Scotland
+- Settle
+- Settle-Carlisle Railway
+- Yorkshire Pennines
+people:
+- Mary Jane Ferris
+- Rev Pearson
+- Sarah Lister
+- Thomas Cooper
+- Thomas Ferris
+- Tiplady
+- William Peacock
+organisations:
+- Midland Railway Company
+- Railway Touring Company
+- Yorkshire
 ---
 
 THIS year is the 150th anniversary of the opening to passenger traffic of the Settle-Carlisle Railway.

@@ -13,6 +13,14 @@ categories:
 - True Crime
 - Sports
 image: https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/406_0_2155_1724/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad6e8da92c77ad23285a2a8474a4848a
+locations:
+- Fairway Drive
+- Norwest
+- Norwood
+- Sydney
+people:
+- Naomi Moore
+organisations: []
 ---
 
 An 11-year-old boy has been taken to hospital in a serious condition after being shot in a home in Sydney’s north-west.

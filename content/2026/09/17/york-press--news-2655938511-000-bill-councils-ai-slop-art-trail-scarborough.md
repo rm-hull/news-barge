@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Central Tramway Station
+- Deckchair At Scarborough Railway Station
+- Deckchair Trail
+- Giant Deckchair Trail
+- North Yorkshire
+people:
+- Adrian Riley
+- Courtesy Numminen
+- Hannah Grahamslaw
+- Tony Watson
+organisations:
+- AI
+- FOI
+- Freedom of Information
+- LDRS
+- Local Democracy Reporting Service
+- North A council
+- North Yorkshire Council
+- Scarborough
 ---
 
 ## Controversial ‘AI slop’ art trail cost council more than £11,000

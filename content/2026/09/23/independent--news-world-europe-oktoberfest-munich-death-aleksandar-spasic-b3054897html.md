@@ -12,6 +12,18 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/23/10/43/Aleksandar-Spasic-Oktoberfest-2.jpeg?trim=114,0,7,0&width=1200&height=800&crop=1200:800
+locations:
+- Germany
+- Munich
+- Oktoberfest
+- Serbia
+people:
+- Adrijana
+- Aleksandar Spasic
+- Lazar
+- Thomas Schelshorn
+organisations:
+- CPR
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

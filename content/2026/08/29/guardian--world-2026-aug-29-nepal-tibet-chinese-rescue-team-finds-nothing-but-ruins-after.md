@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Asia
+- Beijing
+- China
+- Devighat
+- Gyirong
+- Himalayas
+- India
+- Kathmandu
+- Mount Langtang Lirung
+- Nepal
+- Nuwakot
+- Rasuwa
+- Tibet
+- Trishuli River
+people:
+- Li Qiang
+- Shisir Khanal
+- Swarnim Waglé
+- Xi Jinping
+- Zou Mingqi
+organisations:
+- BBC
+- New York Times
+- Red Cross
+- Xinhua
 ---
 
 A Chinese rescue team has reached the all-but-obliterated Gyirong border crossing complex for the first time and found “nothing but ruins” as Nepal and China continue their arduous rescue operations in the flood-hit Himalayas.

@@ -15,6 +15,27 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- County Durham
+- England
+- Newcastle
+- North East
+- Northumberland
+- South Tyneside
+- Tees Valley
+people:
+- Jenny Allinson
+- Lynsey Sweeney
+organisations:
+- BOOST
+- Bernicia
+- HENNE
+- Housing Employment Network North East
+- New Start and Green Start
+- Tees Valley Housing Partnerships
+- UK Shared Prosperity Fund
+- UKSPF
+- Work
 ---
 
 *(Image: Supplied)*

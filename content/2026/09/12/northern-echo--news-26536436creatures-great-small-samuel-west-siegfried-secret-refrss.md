@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Darrowby
+- Grassington
+- Skeldale House
+- Yorkshire Dales
+people:
+- Alf Wight
+- Donald Sinclair
+- James Herriot
+- Samuel West
+- Siegfried Farnon
+organisations:
+- All Creatures Great
+- All Creatures Great and Small
+- Channel 5
+- Yorkshire
 ---
 
 *(Image: CHANNEL 5)*

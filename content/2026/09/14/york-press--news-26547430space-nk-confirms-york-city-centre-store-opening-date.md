@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Coney Street
+- Davygate
+- Guildhall
+- Ireland
+- Lush
+- St Martin’s Church
+- St Martin’s Yard
+- UK
+- York
+people:
+- Dylan Connell
+organisations:
+- )* Space NK
+- :** Space NK
+- Beverley
+- City of York Council
+- Harrogate
+- Helmsley Group
+- JD Sport
+- JD Sports
+- Leeds
+- Space NK
+- St Martins Yard
+- TAG Heuer
 ---
 
 ## Popular retailer reveals York opening date with free treats for first 100 customers

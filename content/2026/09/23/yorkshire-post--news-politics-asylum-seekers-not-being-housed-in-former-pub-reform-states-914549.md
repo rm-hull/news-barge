@@ -15,6 +15,19 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg5ZjA5ZDMyLWM4YjMtNGVkZC05MWRmLWE4MjdhZjg5NjA0ODpiNjcwZWJlYS04NGI4LTQ4ZTItODM5YS03YzY1OWQwMTM4NWQ=.jpg?crop=3:2,smart&trim=&width=1176&auto=webp&quality=75
+locations:
+- Conisbrough
+- Eagle
+people:
+- Coun Reed
+- Rachel Reed
+organisations:
+- Google Streetview
+- Home Office
+- Mears Housing
+- Reform UK
+- St Leger Homes
+- The Council
 ---
 
 # Asylum seekers not being housed in former pub, Reform states

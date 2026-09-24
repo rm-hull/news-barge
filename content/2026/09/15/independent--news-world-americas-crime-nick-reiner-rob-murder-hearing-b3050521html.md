@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brentwood
+- California
+- Hollywood
+- Los Angeles
+- Santa Monica
+people:
+- Alan Jackson
+- Conan O'Brien
+- Harry Met Sally
+- Jake
+- Michele Reiner
+- Michele Singer
+- Nathan Hochman
+- Nick Reiner
+- Rob Reiner
+- Romy Reiner
+- Sam Ohta
+organisations:
+- Los Angeles Superior Court
+- USC
 ---
 
 Nick Reiner, the 33-year-old son of famed filmmaker Rob Reiner and photographer Michele Reiner, is set to appear in a downtown Los Angeles courtroom today for a high-stakes pretrial hearing following his grand jury indictment for the brutal murders of his parents inside their Brentwood home.

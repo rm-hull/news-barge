@@ -13,6 +13,37 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Hong Kong
+- Iran
+- Los Angeles
+- New York
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Alex Veiga
+- Damian J. Troise
+- Donald Trump
+- Michelle Chapman
+organisations:
+- Amazon
+- Chevron
+- Exxon Mobil
+- Facebook
+- Federal Reserve
+- Home Depot
+- Instagram
+- Meta Platforms
+- Muse
+- S&P
+- Starbucks
+- Taiex
+- U.S. Treasury Department
 ---
 
 Asian shares skidded Thursday following a retreat on Wall Street as the price of crude oil again traded above $100 a barrel.

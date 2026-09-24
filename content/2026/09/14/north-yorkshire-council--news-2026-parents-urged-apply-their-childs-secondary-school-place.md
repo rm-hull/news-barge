@@ -16,6 +16,12 @@ categories:
 - Family & Parenting
 - Education & Learning
 - Society & Culture
+locations:
+- North Yorkshire
+people:
+- Cllr Annabel Wilkinson
+organisations:
+- North Yorkshire Council
 ---
 
 ![Children in school](https://www.northyorks.gov.uk/sites/default/files/2026-09/Generic%20school%20pic%201.jpg) 

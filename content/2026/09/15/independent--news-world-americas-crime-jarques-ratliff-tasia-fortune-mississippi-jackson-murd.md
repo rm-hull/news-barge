@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Jackson
+- Kentucky
+- Mississippi
+- Vicksburg
+people:
+- Black
+- Christy Spivey
+- Jarques Ratliff
+- RaShall Brackney
+- Tasia Fortune
+organisations:
+- Delta State University
+- Jackson Police
+- Municipal Court
+- NAACP
+- WAPT
 ---
 
 A Mississippi man accused of murder in the hanging death of a 29-year-old Black woman behind an abandoned home pleaded not guilty during his first court appearance Monday.

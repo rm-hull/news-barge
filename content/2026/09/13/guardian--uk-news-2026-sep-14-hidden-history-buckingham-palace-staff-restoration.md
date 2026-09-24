@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+- Durham
+- Minton
+- UK
+- West End
+people:
+- Charles
+- Elizabeth II
+- George VI
+- Philip
+organisations:
+- Buckingham Palace
+- Daily Express
+- Great Train Robbers
+- Royal Household Social Club
+- Schweppes
+- Silver Jubilee Diplomatic Corps
+- Standard
 ---
 
 Lost or long-discarded items revealing glimpses of the behind-the-scenes life of Buckingham Palace staff over decades have been uncovered during the restoration of the UK monarchy’s HQ.

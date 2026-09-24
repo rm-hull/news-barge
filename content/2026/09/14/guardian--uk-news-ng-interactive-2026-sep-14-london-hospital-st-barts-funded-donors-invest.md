@@ -13,6 +13,67 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Barbados
+- Benin
+- Bristol
+- Britain
+- City of London
+- Great Hall
+- Great Hall of St Bartholomew
+- Hannibal
+- Hoxton
+- Jamaica
+- Lambeth
+- Museum of the Home
+- North Wing
+- Ouidah
+- St Barts
+- St Thomas’
+- US
+- Whydah
+people:
+- Capt Thomas Phillips
+- Diane Abbott
+- Edward Colston
+- Hannibal
+- Henry VIII
+- Jeffrey Jeffreys
+- Jeffrey Jeffreys’
+- John Jeffreys
+- Robert Geffrye
+- Robert Vyner
+- Samuel Stanier
+- Viner
+- William Hogarth
+- William Humphreys
+- William Pettigrew
+- William Prichard
+organisations:
+- Adventurers’
+- Barts Charity
+- Barts Health and Barts Heritage
+- Barts Heritage
+- Black Lives Matter
+- Board of Trade
+- Company of Royal Adventurers
+- Cotton Capital
+- Countess of Chesterfield
+- Hackney North
+- Lancaster University
+- Manchester Guardian
+- Phillips
+- RAC
+- Register of British Slave Traders
+- Royal African Company
+- Scott Trust
+- St Barts
+- Stoke Newington
+- The Good Samaritan
+- The Pool of Bethesda
+- University College London
+- University of Manchester
 ---
 
 Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.

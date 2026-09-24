@@ -13,6 +13,24 @@ categories:
 - Society & Culture
 - Travel
 image: https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fafecbebdf90954d8dad2b5de9c2bd44
+locations:
+- California
+- Central America
+- Huntington Beach
+- Long Beach
+- Mexico
+- Orange county
+- Pacific Ocean
+- Seal Beach
+- US
+- Viezbicke
+people:
+- Justin Viezbicke
+- Lance Adams
+organisations:
+- Aquarium of the Pacific
+- National Oceanic and Atmospheric Association
+- Noaa
 ---
 
 A sea turtle crawled out of the surf in southern California last weekend around sunset and started laying eggs in the sand.

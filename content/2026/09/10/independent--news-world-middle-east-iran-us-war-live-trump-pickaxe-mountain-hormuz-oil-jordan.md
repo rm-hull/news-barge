@@ -13,6 +13,82 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Al Mukalla
+- Ankara
+- Bab el-Mandeb
+- Britain
+- Chabahar
+- China
+- Dallas
+- Dhubab
+- Dubai
+- France
+- Germany
+- Ghana
+- Iran
+- Islamabad
+- Jawaf
+- Khamis Mushait
+- Marib
+- Mocha
+- Natanz
+- Niger
+- Pakistan
+- Pickaxe Mountain
+- Red Sea
+- Riyadh
+- Russia
+- Saada
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- Tehran
+- Texas
+- Turkey
+- U.S.
+- UKMTO The
+- US
+- United States
+- Vienna
+- Washington
+- White House
+- Yemen
+- al-Hodeidah
+people:
+- '## Trump'
+- Di
+- Diana
+- Dodi Fayed
+- Donald Trump
+- JD Vance
+- John Bowden
+- Khamis Mushait
+- Khawaja Asif
+- Marco Rubio
+- Mohamed Al-Fayed
+- Mohamed Al-Fayed.’
+- Yahya Saree
+organisations:
+- Anduril
+- Fars
+- Hercules Star
+- IAEA
+- ICYMI
+- IRGC
+- Oval Office
+- Pakistani TV
+- Peninsula
+- Pentagon
+- Republican Party
+- Reuters
+- Revolutionary Guards
+- Situation Room
+- U.S. Space Force
+- UKMTO
+- UN Security Council
+- United Kingdom Maritime Trade Operations
+- Wall Street Journal
 ---
 
 Iranian officials have mocked the US military after claiming they captured a cutting-edge sea drone and “picked it up like a plastic bottle”.

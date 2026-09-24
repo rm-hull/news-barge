@@ -14,6 +14,30 @@ categories:
 - UK
 - Arts & Culture
 - Books & Literature
+locations:
+- Beijing
+- China
+- Greenfield
+- Guangdong
+- Hong Kong
+- Taiwan
+- Tiananmen Square
+people:
+- Brian Leung
+- Cheng Tsu-Bang
+- Chris Tang
+- Fleming Cheng
+- Greenfield
+- Hunter
+- Iris Wang
+- Lam Wing-kee
+- Lee
+organisations:
+- Causeway Bay Books
+- FTV
+- Greenfield Book Store
+- Hunter Bookstore
+- Tunghai University
 ---
 
 Chinese university student Fleming Cheng found the political books he had only glimpsed online in a Hong Kong bookstore last year.

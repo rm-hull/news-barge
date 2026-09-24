@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations:
+- Black
+- Christchurch
+- Forsyth County
+- Islamic Centre
+- New Zealand
+- North Carolina
+- San Diego
+- Winston-Salem
+people:
+- '## Sarah Santiago'
+- Alan Doorasamy Sr.
+- Amin Abdullah
+- Cain Clark
+- Caleb Vazquez
+- James O'Neill's
+- Jim O’Neill
+- O'Neill
+- Sarah L. Santiago
+organisations:
+- Associated Press
+- LGBTQ
 ---
 
 ## Sarah Santiago, 17, will be charged as an adult, according to a press release issued by prosecutor James O'Neill's office.

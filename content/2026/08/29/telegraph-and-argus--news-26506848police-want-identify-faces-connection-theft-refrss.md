@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Bradford City
+- Bradford West
+- Shipley
+- West Yorkshire
+people: []
+organisations:
+- CCTV
+- Crimestoppers
 ---
 
 *(Image: WYP)*

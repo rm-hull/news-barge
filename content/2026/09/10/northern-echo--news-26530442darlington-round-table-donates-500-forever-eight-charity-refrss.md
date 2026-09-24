@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Darlington Memorial Hospital
+- North East
+- Santa
+people:
+- Alan Britton
+- Amelia Davies
+- Chris Barron
+- Heather Hill
+organisations:
+- Darlington Round Table
 ---
 
 *(Image: Chris Barron)*

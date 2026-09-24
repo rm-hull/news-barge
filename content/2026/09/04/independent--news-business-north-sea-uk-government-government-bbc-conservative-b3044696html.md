@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Aberdeen
+- Andrew Milligan
+- Jackdaw
+- Nepal
+- North East
+- North Sea
+- PA
+- Rosebank
+- UK
+people:
+- Adura
+- Andrew Bowie
+- Caroline Rance
+- Miatta Fahnbulleh
+- Peter Byrne
+- Russell Borthwick
+- Tessa Khan
+organisations:
+- Aberdeen
+- Adura
+- BBC
+- DESNZ
+- Department for Energy Security and Net Zero
+- Equinor
+- Friends of the Earth Scotland
+- Grampian Chamber of Commerce
+- Ithaca
+- Jackdaw
+- Labour
+- OEUK
+- Offshore Energies UK
+- Rosebank
+- Shell
+- The Guardian
+- Tory
+- Treasury
+- UK Government
+- Uplift
 ---
 
 The Jackdaw gas field off the coast of Aberdeen will be approved by the UK Government, reports have suggested.

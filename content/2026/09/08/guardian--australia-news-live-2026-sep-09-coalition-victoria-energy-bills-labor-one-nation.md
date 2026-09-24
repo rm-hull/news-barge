@@ -11,6 +11,62 @@ image: https://i.guim.co.uk/img/media/95b59546b2de46174c48dfbff944d11bf1194fa4/7
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Canada
+- Cooks River
+- Greece
+- Greece’
+- Marrickville
+- Middle East
+- New Zealand
+- Sydney
+- UK
+- US
+people:
+- Andrew Hauser
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Clare Jason Clare
+- Jason Clare
+- Jim Chalmers
+- Joseph Daoud
+- Matt Canavan
+- Mick Tsikas
+- Patrick Commins
+- Sarah Hanson-Young
+- Sunrise
+organisations:
+- 2025 Programme for International Student Assessment
+- AAP
+- ABC News
+- ABC News Breakfast
+- AI
+- Adeshola Ore The Reserve Bank
+- Coalition
+- Environment Victoria
+- Greens
+- Guillaume Horcajuelo
+- IGR
+- Lukas Coch/AAP
+- Lukas Coch/AAP Albanese
+- Nationals
+- Nexa Advisory
+- One Nation
+- Pisa
+- RBA
+- RN Breakfast
+- Red Kite
+- Regional Australia
+- Regional Australia Institute
+- Reuters Labor
+- Senate
+- St Vincent’s
+- Super Members Council
+- Treasury
+- VNI West
+- Western Renewables Link
 ---
 
 Anthony Albanese confirmed on Wednesday that he was made an honorary member of the Marrickville golf club some 15 years ago, but did not say if he should have declared it. Photograph: Lukas Coch/AAP

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Afghanistan
+- Africa
+- Europe
+- Kabul
+- Ramadan
+- Sierra Leone
+- UK
+- Ukraine
+- United States
+- Yemen
+people:
+- Andy Burnham
+- Gideon Rabinowitz
+- Jennifer Doherty
+- Keir Starmer
+organisations:
+- Active Learning Network for Accountability and Performance
+- Alnap
+- Bond
+- Foreign, Commonwealth and Development Office
+- Official Development Assistance
+- Starmer
 ---
 
 The world’s poorest countries were worst hit by British aid cuts under Keir Starmer’s government, while higher-income countries saw their share of aid increase, new figures reveal.

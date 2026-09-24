@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- Hampshire
+- Havant Thicket
+- Makerfield
+- Thames Water
+- US
+people:
+- Andy Burnham
+- Angela Eagle
+- Emma Reynolds
+- Ewan McGaughey
+- Gordon Brown
+- Tony Blair
+organisations:
+- Apollo Global Management
+- Eagle
+- Elliott Management
+- Guardian
+- King’s College London
+- National Drought Group
+- Thames Water
 ---
 
 Britain’s insolvency laws cannot deal with the aggressive behaviour shown by the companies that control Thames Water, the environment secretary has said, as she confirmed ministers were prepared to take it into public ownership.

@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Birmingham
+- Darlington
+- Gatwick
+- London Stansted
+- New York
+- YORK
+people:
+- Alice Kavanagh
+organisations:
+- ITV
+- JFK
+- John F Kennedy International Airport
+- London Gatwick
+- London Gatwick Airport
+- Newsquest
+- Norse Atlantic Airways
+- The Aviation Herald
+- Z0701
 ---
 
 A YORK woman has spoken of her shock after her Norse Atlantic Airways flight to New York was forced to make an emergency stop on the runway.

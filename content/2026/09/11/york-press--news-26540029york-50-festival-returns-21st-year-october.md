@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Age UK York
+- River Ouse
+- UK York
+people:
+- Simon Holmes
+- York
+organisations:
+- Age UK York
+- Age UK York and York Older People’s Assembly
+- Borthwick Institute
+- City Cruises
+- YOPA
+- York Older People
 ---
 
 ## Popular York 50+ Festival returns with packed programme this October

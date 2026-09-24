@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Ahmad al-Jaber
+- Al Minhad
+- Bahrain
+- Gulf
+- Hormuz
+- Iran
+- Islamic Republic
+- Israel
+- Jordan
+- Kheibar Shekan
+- Kuwait
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+people:
+- Hossein Mohebbi
+- Israel Katz
+- Trump
+organisations:
+- Islamic Revolutionary Guard Corps
 ---
 
 Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump administration as an “economic D-day”.

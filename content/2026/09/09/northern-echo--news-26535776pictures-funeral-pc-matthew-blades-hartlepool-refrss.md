@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- CLEVELAND
+- Cleveland
+- Hartlepool
+- Hutton Avenue
+- Redcar
+- South Bank
+- St Joseph
+- St Joseph's Church
+people:
+- Anna Turley
+- Dad
+- Matthew Blades
+- PC Blades'
+- Tom Clough
+organisations:
+- A66
+- Cleveland Police
+- Middlesbrough
+- PC Blades
+- Redcar & Cleveland
+- Roman Catholic Church
+- Union Jack
 ---
 
 Silence fell across a packed street as hundreds gathered to say a final goodbye to PC Matthew Blades.

@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/13/47/1200x675_cmsv2_08b8b3d1-ef24-55df-952d-468a890766c6-9921347.jpg
+locations:
+- Bisha
+- Earth
+- Farasan
+- Indian Ocean
+- Iran
+- Khatam al-Anbiya
+- King Khalid International Airport
+- Middle East
+- New York
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- Tehran
+- US
+- Washington
+- White House
+- Yanbu
+- Yemen
+people:
+- Donald Trump
+- Hossein Mohebi
+- Mohammad Bagher Ghalibaf
+- Mohammed bin Salman
+- Mohsen Rezaei
+organisations:
+- Aramco
+- Armed Forces General Staff
+- Fox News
+- Gulf Cooperation Council
+- IRGC
+- Khatam al-Anbiya Central Headquarters
+- Supreme National Security Council
+- UN General Assembly
+- US State Department
 ---
 
 **Euronews Persian**

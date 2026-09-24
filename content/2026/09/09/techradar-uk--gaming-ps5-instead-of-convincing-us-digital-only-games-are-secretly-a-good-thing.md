@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/7vGTGm6oeVieBpVSY2DgsV-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- CA
+- Delhi
+- Paris
+- US
+people: []
+organisations:
+- Bluemonkey88
+- Fallen Order
+- Google News
+- Hamish
+- Microsoft
+- PS5
+- RRP
+- Reddit
+- Sony
+- TechRadar
+- Uber
 ---
 
 ![A white PS5 DualSense controller sitting on a wooden surface next to a white PS5](https://cdn.mos.cms.futurecdn.net/7vGTGm6oeVieBpVSY2DgsV.jpg) 

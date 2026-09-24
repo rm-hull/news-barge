@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Beauregard Parish
+- DeRidder
+- Louisiana
+people:
+- Adam Johnson
+- James Lestage
+- Karin McGee
+- Kent Savoie
+- Misty Roberts
+- Roberts'
+- Ryan Clark
+- Todd S Clemons
+organisations:
+- Beauregard Parish Courthouse
+- Court
+- DeRidder
+- KALB
+- KPLC
 ---
 
 A former Louisiana mayor, Misty Roberts, is out of jail after serving her 90-day prison sentence for raping a 16-year-old boy during her tenure.

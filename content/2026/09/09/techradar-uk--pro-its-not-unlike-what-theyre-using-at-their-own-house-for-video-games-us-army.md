@@ -11,6 +11,33 @@ description: An Xbox Series drone killer?
 image: https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Iran
+- Middle East
+- US
+- Ukraine
+people:
+- Aaron Westman
+- Christian Cawley
+- John Garrity
+- Shahed
+- Wahid Nawabi
+organisations:
+- AV
+- AeroVironment, Inc
+- AeroVironment, Inc.
+- Computer Weekly
+- ComputerActive
+- Department of Defense
+- Google News
+- Group 3
+- LOCUST X3
+- Linux Format
+- Matter Alpha
+- Space Force
+- TechRadar Pro
+- U.S. Army
+- US Army
 ---
 
 ![Russian Garpia-A1E loitering munition](https://cdn.mos.cms.futurecdn.net/vqC2P3Yd6xwVstjW8G9DQb.jpg) 

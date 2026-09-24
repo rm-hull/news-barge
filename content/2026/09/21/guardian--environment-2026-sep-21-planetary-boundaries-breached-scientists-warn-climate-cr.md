@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15ced60d789a6750b635ccd957367236
+locations:
+- Amazon
+- Colombia
+- Earth
+- Europe
+- New York City
+- Pakistan
+- Tibet-Nepal
+- US
+people:
+- Boris Sakschewski
+- Helen Clarkson
+- Hindou Oumarou Ibrahim
+- Johan Rockström
+- Juan Manuel Santos
+- Mary Robinson
+- Sylvia Earle
+organisations:
+- Climate Group
+- Planetary Guardians
+- Potsdam Institute for Climate Impact Research
+- UN
 ---
 
 The planetary life support systems relied upon by humans have deteriorated to their worst levels ever recorded amid ongoing pollution and habitat destruction, according to a key yet grim annual update by scientists.

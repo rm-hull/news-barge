@@ -12,6 +12,27 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/17/20/APTOPIX_Bolivia_Protest_49765.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Bolivia
+- Buenos Aires
+- Iran
+people:
+- Christian Morales
+- Evo Morales
+- Rodrigo Paz
+- \_\_\_ DeBre
+organisations:
+- Bolivian Workers’ Central
+- Christian Democratic Party
+- Congress
+- IMF
+- Inter-American Development Bank
+- International Monetary Fund
+- Movement Toward Socialism
+- Senate
+- Trump
+- World Bank
 ---
 
 Bolivian lawmakers approved a $1.9 billion loan agreement with the International Monetary Fund on Friday, delivering the conservative government a key victory in its efforts to ease the country's deep economic crisis as unions threatened renewed protests.

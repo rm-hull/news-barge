@@ -15,6 +15,42 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- British Columbia
+- Canada
+- China
+- Greensboro
+- India
+- Iran
+- Jasper Hill Farm
+- Lake America
+- Lake Ontario
+- Middle East
+- Nashville
+- Rosedale
+- San Juan Island
+- Tennessee
+- U.S.
+- United States
+- Vancouver Island
+- Vermont
+- Washington
+- White House
+people:
+- Cassandra Sotos
+- Darcy Lane
+- Donald Trump
+- Mark Carney
+- Mateo Kehler
+- Peter Awram
+organisations:
+- AmpRx
+- Kehler
+- Revival Stillworks
+- Revival Stillworks'
+- The Associated Press
+- Trump
+- Worker Bee Honey Co.
 ---
 
 A trade war between the United States and Canada is making it more difficult and expensive for small businesses in the economically entwined countries to operate, according to business owners caught in the crossfire.

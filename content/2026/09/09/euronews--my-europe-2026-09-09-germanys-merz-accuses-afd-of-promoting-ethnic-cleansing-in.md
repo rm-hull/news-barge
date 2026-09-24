@@ -12,6 +12,22 @@ image: https://images.euronews.com/articles/stories/09/90/71/39/1200x675_cmsv2_f
 categories:
 - Europe
 - News & Politics
+locations:
+- Berlin
+- Bundestag
+- Germany
+- Leipzig
+- Russia
+- Saxony-Anhalt
+people:
+- '''** Weidel'
+- Alice Weidel
+- Friedrich Merz
+- Julia Kloeckner
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
 ---
 
 ## The AfD, which fell three seats short of an absolute majority, in state elections in Saxony-Anhalt said it was now in talks with other groups and MPs in an effort to form a state government.

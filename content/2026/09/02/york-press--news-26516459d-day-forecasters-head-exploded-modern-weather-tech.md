@@ -14,6 +14,27 @@ categories:
 - Science
 - History
 - Technology & Software
+locations:
+- Disneyland
+- England
+- North Yorkshire
+- Northallerton
+- RAF
+- hopes’ York
+people:
+- Bernard) Montgomery
+- Bill Shiel Dods
+- Disneyland
+- Eisenhower
+- Jim Stagg
+- Shiel Dods
+organisations:
+- Joint Chiefs of Staff
+- Met Office
+- Post Office
+- Press Association
+- RAF Leeming
+- Stagg
 ---
 
 *(Image: PA Wire)*

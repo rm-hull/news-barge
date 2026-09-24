@@ -12,6 +12,15 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- UK
+people:
+- Will Orr
+organisations:
+- Gym Group
+- PA
+- Press Association
+- The Gym Group
 ---
 
 The Gym Group has revealed its sales jumped by a tenth in the first half of the year after increasing its prices and topping one million members.

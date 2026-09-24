@@ -11,6 +11,23 @@ image: https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- Auchtertool
+- Ayrshire
+- Dumfries House
+- Fife
+- Holyrood
+- Scotland
+people:
+- Charles
+- Hannah Mary Goodlad
+- Kat Jones
+organisations:
+- AI
+- NGO Action to Protect Rural Scotland
+- Scottish Greens
+- Torness
 ---
 
 Large-scale datacentres will face mandatory environmental assessments before they can go ahead, the Scottish government has announced, amid growing public concern about the impact of the AI boom.

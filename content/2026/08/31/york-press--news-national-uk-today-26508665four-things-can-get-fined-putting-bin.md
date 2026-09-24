@@ -12,6 +12,9 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations: []
+people: []
+organisations: []
 ---
 
 ## Avoid doing these 4 things when putting out your bins or be issued with an £80 fine

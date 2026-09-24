@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Aldwark Bridge
+- Covid
+- UK
+- Ukraine
+- York
+people:
+- David Cash
+- Paul Murphy
+- Sue Taylor
+- Warren
+organisations:
+- Aldwark Arms
+- Aldwark Arms Pub
+- Christie and Co
+- Companies House
+- FRP Advisory
+- HMRC
+- Investec Bank
+- The Aldwark Arms
+- The Press
 ---
 
 *(Image: Supplied)*

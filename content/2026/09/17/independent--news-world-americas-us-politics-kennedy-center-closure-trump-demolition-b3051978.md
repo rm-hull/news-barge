@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/09/17/15/2295088964..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- D.C
+- D.C.
+- Kennedy Center
+- Washington
+people:
+- Andrew Feinberg
+- Bill Pulte
+- Brendan Smialowski
+- Christopher R. Cooper
+- Donald J. Trump
+- Donald Trump
+- John F. Kennedy
+- Joyce Beatty
+- Matt Floca
+- Plaintiff
+organisations:
+- AFP
+- Air Force One
+- Board
+- Congress
+- Court and Defendants
+- Defendants’
+- Department of Justice
+- Federal Housing Finance Agency
+- Floca
+- Justice Department
+- Kennedy Center
+- National Intelligence
+- The Independent
+- Trump
 ---
 
 A federal judge has ordered Donald Trump’s administration to provide at least 30 days’ notice before making any physical changes to the Kennedy Center — including demolishing it.

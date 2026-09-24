@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Knaresborough
+people:
+- Jamie Nicholson-Ruther
+- Simon Myers
+organisations:
+- Development and Communications Manager
+- Harrogate Neighbours
+- Harrogate Neighbours’ Meals
+- Knaresborough Library
+- Knaresborough Rotary Club
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99550cbded68a7a78.jpg) 

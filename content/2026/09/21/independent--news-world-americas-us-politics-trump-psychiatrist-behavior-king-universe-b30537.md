@@ -12,6 +12,28 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/21/15/04/GettyImages-2295969458.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Ground Zero
+- Harvard
+- Twin Towers
+- White House
+- Yale
+people:
+- Bandy Lee
+- Davis Ingle
+- Donald Trump
+- Dr. Lee
+- Henry David Abraham
+- Jonathan Reiner
+organisations:
+- CNN
+- Harvard and Yale
+- MeidasTouch
+- New York Magazine
+- The Independent
+- Trump
+- Truth Social
+- YouGov
 ---
 
 A top psychiatrist has issued a new warning about what she described as President Donald Trump’s deteriorating mental health, comparing his behavior to that of a “toddler” responding to feelings of helplessness.

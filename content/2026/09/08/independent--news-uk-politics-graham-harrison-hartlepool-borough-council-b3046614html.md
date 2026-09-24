@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Burn Valley
+people:
+- Graham Harrison
+organisations:
+- Hartlepool Borough Council
+- Labour
+- Reform UK
 ---
 
 A Reform UK council leader has announced he is stepping down after four months in the role.

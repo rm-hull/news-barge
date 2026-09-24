@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/fbcfad1feacdf6f1a144ffd7c725b5ac9a499550/2_0_3506_2805/master/3506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52c953f92a92df9c5ab755495b30eee3
+locations:
+- Baird’s Paddington
+- Lamarre-Condon
+- Melbourne
+- Sydney
+people:
+- Beau Lamarre-Condon
+- Brett Hatfield SC
+- Corey-Dean Thorpe
+- Damon Wilson
+- Jesse Baird
+- John Stratton SC
+- Luke Davies
+- Matthew Edwards
+- Natalie Adams
+organisations:
+- AFL
+- Baird’s
+- Instagram
+- Lamarre-Condon
+- New South Wales
 ---
 
 Jesse Baird was “petrified” of Beau Lamarre-Condon because he was an armed police officer who could make a false allegation that would ruin his career, a court has heard.

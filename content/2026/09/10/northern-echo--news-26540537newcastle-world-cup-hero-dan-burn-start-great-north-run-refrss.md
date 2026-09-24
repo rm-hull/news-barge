@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Darlington
+- England
+- Great North Run
+- North East
+- UK
+people:
+- Alan Shearer
+- Ant
+- Big Dan Burn
+- Bobby Robson
+- Brendan Foster
+- Craig Liddle
+- Dan Burn
+- Dec
+- Jill Scott
+- Sting
+organisations:
+- BBC One
+- Great North Run
+- Middlesbrough FC Foundation
+- Mini Great North Run
+- Newcastle
+- RNLI
 ---
 
 Newcastle legend and World Cup hero Dan Burn will officially start this year's Great North Run.

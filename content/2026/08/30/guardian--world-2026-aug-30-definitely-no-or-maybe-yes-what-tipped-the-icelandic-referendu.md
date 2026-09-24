@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Europe
+- Greenland
+- Iceland
+- Reykjavík Art Museum
+- Schengen
+- UK
+- US
+people:
+- Snædis Inga Rúnarsdóttir
+- Þorgerður Katrín Gunnarsdóttir
+- Þòrir Snoor
+organisations:
+- AI
+- Brexit
+- EEA
+- EU
+- European Economic Area
+- European Union
+- Guardian
+- RUV
 ---
 
 It was always going to be a close contest. But on the night, the figures showed just how divided Iceland was on the issue of whether or not to restart negotiations with the European Union.

@@ -14,6 +14,23 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/20/11/45/thug-caught-on-1605231.jpeg?trim=18,0,18,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Abbey Orchard Street
+- King’s Cross
+- Leeds
+- London
+- Old Bailey
+- St James' Park
+- Westminster
+people:
+- Farmanullah Sherzad
+- Sulaiman Tajzai
+- Wayne Jolley
+organisations:
+- CCTV
+- Met Police
+- Snapchat
+- Tajzai
 ---
 
 # Watch: Smirking killer buys knife before 150-mile journey to murder man

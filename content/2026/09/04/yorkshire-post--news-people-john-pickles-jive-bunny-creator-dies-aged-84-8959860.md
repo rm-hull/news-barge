@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Rotherham
+- UK
+people:
+- Andrew
+- John Pickles
+- Les Hemstock
+organisations:
+- Doncaster DJ
+- Jive Bunny
+- Mastermix
+- The Mastermixers.
+- The Music Factory Entertainment Group
 ---
 
 # John Pickles: Jive Bunny creator dies aged 84

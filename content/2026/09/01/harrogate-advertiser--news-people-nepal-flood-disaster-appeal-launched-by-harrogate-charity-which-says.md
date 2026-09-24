@@ -14,6 +14,25 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Catterick
+- Harrogate
+- Kathmandu
+- Nepal
+- Tibet
+people:
+- Brigantes
+- Charlotte Gale
+- Guy Wilson
+- Lil Gurung MBE
+organisations:
+- Changing Young Lives
+- Crown Hotel
+- Harrogate Brigantes
+- Harrogate Brigantes Rotarian
+- Harrogate Brigantes Rotary
+- Himalayan Gurkhas Rotary Club
+- The Himalayan Gurkhas Rotary Club
 ---
 
 # Nepal flood disaster appeal launched by Harrogate charity which says country is ‘close to its heart’

@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Barbican Road
+- Birmingham
+- UK
+- York
+people:
+- Kheng Chooi Koay
+- Zhong Le Chen
+organisations:
+- '## Licence'
+- '***YorkMix***'
+- City of York Council
+- HMRC
+- Home Office
+- ICE
+- Immigration Compliance and Enforcement
+- Immigration Enforcement
+- North Yorkshire Police
+- Sky Blue
+- Sky Blue York Ltd
+- The Regency Chinese Restaurant
 ---
 
 A government bid to shut down a York restaurant after immigration raids found people working there illegally is set for a decision.

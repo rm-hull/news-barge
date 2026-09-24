@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Darlington
+- Durham
+- NORTH East
+- Newcastle Cathedral
+- North East
+- Northumbrian Water
+people:
+- Deborah Walton
+- John McCabe
+- Louise Hunter
+- Mr Haughton
+- Natasha McDonough
+- Nicky Rogerson
+- Palintest
+organisations:
+- Kevin Gibson Photography
+- MMC Research
+- Newcastle
+- North East Chamber of Commerce
+- Tees Valley Combined Authority
 ---
 
 *(Image: Kevin Gibson Photography/Nicky Rogerson)*

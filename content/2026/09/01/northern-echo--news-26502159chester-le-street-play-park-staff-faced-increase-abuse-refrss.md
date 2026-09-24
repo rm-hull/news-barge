@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Edmondsley
+- Holmside Park
+- Middlesbrough
+- Mini Moos Fun Farm
+- UK
+people:
+- Jack Grealish
+organisations:
+- Aldi
+- Asda
+- Black Cats
+- Darlington Bank Holiday
+- Sunderland
+- THE NORTHERN ECHO
+- Tesco
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- France
+- Moscow
+- Russia
+- UK
+- Ukraine
+- Ukraine-Poland
+- Yahodyn
+people:
+- Andy Burnham
+- Boris Johnson
+- Jonathan Powell
+- Keir Starmer
+- Volodymyr Zelensky
+organisations:
+- BBC
+- Kyiv
+- Ministry of Defence
+- MoD
+- Scalp
+- Union Jack
 ---
 
 ![A close-up shot of a British soldier's uniform. A black and brown Union Jack patch is visible on their shoulder. The rest of the uniform is green, white and brown camouflage.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg)

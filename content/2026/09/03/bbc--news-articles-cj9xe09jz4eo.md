@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Aberdeen
+- Edinburgh
+- Europe
+- Iran
+- Jackdaw
+- London
+- Nepal
+- North Sea
+- Norway
+- Rosebank
+- Scotland
+- Shetland
+- UK
+- United States
+people:
+- Adura
+- Andy Burnham
+- Kate White
+- Miatta Fahnbulleh
+- Tessa Khan
+organisations:
+- Adura
+- BBC
+- Court of Session
+- Department for Energy Security
+- Equinor
+- House of Commons
+- Ithaca
+- Jackdaw
+- Net Zero
+- Rosebank
+- Shearwater
+- Shell
+- Uplift
 ---
 
 ![A mostly yellow-painted gas platform and allied grey rig stand in calm blue seas with a clear blue sky behind them. It is sunny.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg)

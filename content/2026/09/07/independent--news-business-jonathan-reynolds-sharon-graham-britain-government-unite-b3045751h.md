@@ -14,6 +14,27 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Britain
+- Halewood
+- Merseyside
+- Solihull
+- UK
+- West Midlands
+people:
+- Emma Reynolds
+- Jonathan Reynolds
+- Laura Kuenssberg
+- PB Balaji
+- Sharon Graham
+organisations:
+- BBC Radio 4
+- Government
+- JLR
+- Jaguar Land Rover
+- Treasury
+- Unite
+- ZEVs
 ---
 
 Jaguar Land Rover is expected to announce thousands of job cuts as part of a voluntary redundancy programme to help save £1.7 billion over the next two years.

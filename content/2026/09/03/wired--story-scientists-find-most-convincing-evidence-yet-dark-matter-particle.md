@@ -14,6 +14,21 @@ categories:
 - Science
 - Film & TV
 - True Crime
+locations:
+- Earth
+- Japan
+- Milky Way
+- South Dakota
+people:
+- Rick Gaitskell
+- Sam Eriksen
+organisations:
+- Brown University
+- SURF
+- Sanford Underground Research Facility
+- TeV Particle Astrophysics Conference
+- University of Bristol
+- WIMP
 ---
 
 More than a kilometer underground, in what used to be a gold mine, inside a tank filled with tons of liquid xenon, “something” struck the nucleus of an atom. The tiny collision left an unusual energy signature that researchers are still unable to explain, but the scientists behind the experiment believe this could be the most convincing physical evidence of dark matter to date.

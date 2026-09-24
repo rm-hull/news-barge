@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dagestan
+- Kremlin
+- Moscow
+- Russia
+- St Petersburg
+- Stavropol Krai
+- Tambov
+- Tyumen
+- Ukraine
+people: []
+organisations:
+- Bank of Russia
 ---
 
 ## The October increase follows a January rise and is the first double tariff hike in four years. The central bank warned it would push annual inflation further above its 4% target in an economy already squeezed by the costs of its war, sanctions and a 21% key interest rate.

@@ -12,6 +12,25 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Birkby
+- Blacker Road
+- Bradford Road
+- Clare Road
+- Cleckheaton
+- Fartown
+- Huddersfield
+- Manchester Crown Court
+- Ripon Avenue
+- Sufton Street
+- West Yorkshire
+people:
+- Jamal Nedd
+- Paul Hutchinson
+- Samreen Akhtar
+- Tabish Ali
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

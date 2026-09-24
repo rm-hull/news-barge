@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Amberley
+- Durham
+- Elvet station
+- Framwellgate Bridge
+- Gilesgate Bank
+- Gilesgate Moor
+- Hallgarth Street
+- Leazes
+- Market Place
+- Milburngate Bridge
+- Moatside Cottage
+- New Elvet
+- Prebends Bridge
+- Racecourse
+- Saddler Street
+- Silver Street
+- St Lawrence’s
+- St Nicholas' Church
+- St Nicholas’ Church
+people:
+- Algin
+- David Armstrong
+- Ephraim Meade
+- George Sanger
+- James Crawford
+- Mary
+- Michael Richardson
+- Pat
+- Pittington
+- Samuel Guest Williams
+- T Kipling
+- Warren
+- Wynne
+organisations:
+- Amberley)* Memories
+- Durham District Services
+- Durham Gas Company
+- Durham Grammar School
+- Gilesgate Archive
+- Messerschmitt
+- Middlesbrough
+- Salvation Army
+- The Sands
+- Victory
+- Waterstones
+- Wings
 ---
 
 THE classic views of Durham of the imperious cathedral high on its rocky plinth with the river sweeping through its wooded banks below are renowned and recognisable around the world.

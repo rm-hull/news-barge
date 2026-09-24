@@ -13,6 +13,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/15/08/GettyImages-2263543885.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Canada
+- Florida
+- Iowa
+- Iran
+- Kuwait
+- Maryland
+- Middle East
+- Nebraska
+- U.S.
+- Washington
+- White House
+people:
+- Andy Harris
+- Ashley Hinson
+- Davis Ingle
+- Don Bacon
+- Donald Trump
+- Donald Trump Jr.
+- John Curtis
+- Lisa Murkowski
+- Maria Elvira Salazar
+- Mariannette Miller-Meeks
+- Mike Flood
+- Utah Sen
+- Zach Nunn
+organisations:
+- AAA
+- CNBC
+- Congress
+- House
+- Politico
+- Republican Party
+- Senate Judiciary Committee
+- The Hill
+- The Independent
+- Trump
 ---
 
 With the midterm elections just six weeks away, a growing number of Republican elected officials and candidates are distancing themselves from — and in some cases openly breaking with — President Donald Trump.

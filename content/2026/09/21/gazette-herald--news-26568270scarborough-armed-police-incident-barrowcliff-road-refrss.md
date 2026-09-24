@@ -15,6 +15,15 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21482315.jpg?type=og-image
+locations:
+- Barrowcliff Road
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 Police were called to a man making threats to harm other people and himself with a firearm and bladed weapon during an incident in a North Yorkshire town.

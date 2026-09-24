@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Dane County
+- Fond du Lac
+- Gein
+- Illinois
+- Madison
+- Wisconsin
+people:
+- Benjamin C. Larson
+- Edward Gein
+- Edward Gein Book
+- Fond du Lac
+- John Wayne Gacy
+organisations:
+- Larson’s
+- WBAY
 ---
 
 A Wisconsin man accused of stalking his ex-girlfriend for more than a decade was allegedly found with a disturbing collection of human skulls, skeletal remains and a jar purportedly containing part of serial killer John Wayne Gacy’s brain.

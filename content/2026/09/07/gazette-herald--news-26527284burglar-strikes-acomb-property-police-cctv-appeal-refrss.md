@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Acomb
+- Manor Drive South
+- York Road
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

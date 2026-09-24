@@ -12,6 +12,36 @@ image: https://media.wired.com/photos/6aab095b6efac6d4d3b8cb0b/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- US
+people:
+- Andrew Ferguson
+- David Lawrence
+- David Sacks
+- Donald Trump
+- John Bergmayer
+- Mark Zuckerberg
+- Roger Alford
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- CFO
+- CNBC
+- Council of Advisors on Science & Technology
+- DOJ Antitrust Division
+- Department of Defense
+- Department of Justice’s Antitrust Division
+- FTC
+- Federal Trade Commission
+- Google
+- LinkedIn
+- Meta
+- Notre Dame Law School
+- OpenAI
+- Public Knowledge
+- Wall Street Journal
 ---
 
 Following multiple reports of AI agent swarms hacking websites and coordinating via secret message boards, along with a dire message for humanity from an outgoing Anthropic engineer, leading AI companies have called for a coordinated AI development “slowdown.” Alongside various versions of this specific phrase—slowdown—they’ve also expressed concerns that doing so would run afoul of antitrust laws.

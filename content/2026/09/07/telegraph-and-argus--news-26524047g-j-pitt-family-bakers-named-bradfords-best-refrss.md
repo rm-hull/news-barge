@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Swain House Road
+people:
+- Geoff
+- Janet Pitt
+- Stephen
+organisations:
+- Argus Best Bakery
+- Facebook
+- G&J Pitt Family Baker’s
+- Newsquest
+- Telegraph & Argus
 ---
 
 *(Image: Newsquest)*

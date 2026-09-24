@@ -12,6 +12,42 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- Princeton
+- San Francisco
+- Silicon Valley
+- White House
+people:
+- Anthropic
+- Arvind Narayanan
+- Claude
+- Dario Amodei
+- David Sacks
+- Gwen Stefani
+- Jacob Coxon
+- Jensen Huang
+- Marc Benioff
+- Sam Altman
+- Sayash Kapoor
+- Sydney Von Arx
+- Trump
+- Von Arx
+organisations:
+- AI
+- AIs
+- Anthropic
+- Benioff
+- Congress
+- Dreamforce
+- Maxwell Zeff’sModel Behavior
+- Nightingale
+- Nvidia
+- OpenAI
+- RubyGems
+- Salesforce
+- UC Berkeley
+- WIRED
 ---
 
 Decked out in purple and plaid, Gwen Stefani belted her 2002 single “Underneath It All” to a packed conference center in San Francisco on Tuesday morning—but she was just the warm-up. At the end of her performance, Stefani shouted “Dreamforce! Let’s go!” into a checkered microphone before Salesforce CEO Marc Benioff strode into the spotlight. Dreamforce is billed as the world’s largest enterprise software conference but feels more like attending a megachurch—especially this year.

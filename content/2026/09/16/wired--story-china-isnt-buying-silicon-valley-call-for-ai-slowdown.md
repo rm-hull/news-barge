@@ -12,6 +12,40 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- Silicon Valley
+- US
+- Washington
+- White House
+people:
+- Alvin Wang Graylin
+- Barack Obama
+- Chen Yixin
+- Dario Amodei
+- Donald Trump
+- Guo Jiakun
+- Kevin Xu
+- Kristy Loke
+- Michelle Nie
+- Xi Jinping
+organisations:
+- AGI
+- Amodei
+- Anthropic
+- Asia Society Policy Institute
+- CCP
+- Center for China Analysis
+- Center for a New American Security
+- Chinese Communist Party
+- DeepSeek
+- Interconnected Capital
+- MATS Research
+- Ministry of Foreign Affairs
+- OpenAI
+- Stanford Institute for Human-Centered AI
 ---
 
 For years, many of the most powerful people in Silicon Valley have argued that the US is locked in an AI arms race with China, and that the consequences of losing would be disastrous. But over the past week, those same executives have started emphasizing a different message. AI has the potential to become so dangerous, tech leaders say, that the two countries urgently need to work together to slow the race down.

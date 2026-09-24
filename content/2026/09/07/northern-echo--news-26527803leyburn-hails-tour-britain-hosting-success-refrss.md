@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Leyburn
+- North Yorkshire
+- Wensleydale Railway
+- Yorkshire Dales
+people:
+- Alison Littlewood Laws
+- Cllr Littlewood Laws
+- Leyburn
+- Littlewood Laws
+organisations:
+- British Cycling
+- HGV
+- ITVX
+- LDRS
+- Leyburn Town Council
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Police
+- York
+- Yorkshire Dales
 ---
 
 A council has hailed the town’s hosting of the Tour of Britain as a success, while acknowledging that for some businesses and residents the event was not “all raindrops and kittens”.

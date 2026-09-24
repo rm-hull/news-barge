@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bogs Lane
+- Harrogate
+- Henshaws
+people:
+- Alistair How
+- Henshaws
+- Pete Bulkley
+- Sally Daniels
+- Tom Harte
+organisations:
+- Executive Leadership Team
+- Henshaws
+- Interim
 ---
 
 **HARROGATE**— Harrogate-headquartered disability and sight loss charity Henshaws is facing a complete top-down governance overhaul following the sudden announcement that both its Chief Executive and Chair of Trustees are stepping down simultaneously.Chief Executive Sally Daniels will officially vacate her role in October, followed immediately by Chair of Trustees Alistair How. While the charity’s official statement frames the dual departures as a managed transition to “the next stage of development,” the simultaneous exit of both executive and non-executive heads represents a total clean sweep of the organisation’s highest leadership levels.

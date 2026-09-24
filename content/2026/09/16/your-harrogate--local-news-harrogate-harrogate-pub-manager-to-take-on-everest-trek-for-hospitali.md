@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg
+locations:
+- Everest Base Camp
+- Harrogate
+- Knaresborough
+- London
+- North East
+- Wetherby Road
+people:
+- Louise Jackson
+organisations:
+- Burnt Chef Project
+- Everest Base Camp
+- The Burnt Chef Project
+- The Kestrel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg)

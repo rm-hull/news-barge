@@ -13,6 +13,83 @@ categories:
 - Science
 - Family & Parenting
 image: https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg
+locations:
+- Amazon
+- America
+- California
+- Canada
+- China
+- DC
+- Florida
+- Georgia
+- Germany
+- Harvard
+- Hill
+- Hungary
+- Israel
+- Kentucky
+- Oval Office
+- Pennsylvania
+- Tennessee
+- US
+- Waters
+- Waters’
+people:
+- Adam
+- Austin Rogers
+- Ben Hurlbut
+- Brian Armstrong
+- Emma Waters
+- Gen Z-er
+- Gertie
+- God
+- Greta Gerwig
+- Hitler
+- JD Vance
+- Jack
+- Jackson Waters
+- Jael
+- James Uthmeier
+- Jessica Valenti
+- Josh Shapiro
+- Lauren Hall
+- Malcolm Collins
+- Melania Trump
+- Nick Fuentes
+- Nietzsche
+- Noor Siddiqui
+- Ophelia
+- Phyllis Schlafly
+- Rick Scott
+- Ron Poole-Dayan
+- Ronald Reagan
+- Sam Altman
+- Simone Collins
+- Tucker Carlson
+- Tylenol
+- Waters’
+organisations:
+- Coinbase
+- Constitution
+- Department of Health and Human Services
+- Fox News
+- Google
+- HVAC
+- Heritage Foundation
+- IVF
+- MAGA
+- Men Having Babies
+- OpenAI
+- Orchid
+- Republican Party
+- Rochester Institute of Technology
+- Texas GOP
+- The Wall Street Journal
+- UN
+- WIRED
+- Waters
+- Waters’
+- Zoom
 ---
 
 By 5 am every morning, Emma Waters is on the sofa with a blanket, plotting America’s baby-making future. For two hours, she stays off her phone, inspired by *Deep Work*, the self-help bestseller. At 7:30, she does emails. Waters, 28 years old, is a monk of productivity who makes motherhood look like all-­natural Adderall.

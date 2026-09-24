@@ -14,6 +14,42 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- '### A167 A'
+- '### Auckland Avenue One'
+- '### Edinburgh'
+- '### Neasham Road Construction'
+- '### St Alban'
+- A67 Coniscliffe Road
+- A68 West Auckland Road
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Aycliffe
+- B6280 Coniscliffe Road
+- Beechwood Avenue
+- Bishop Auckland
+- Bishop Auckland Person
+- Bracken Road
+- Brinkburn Road
+- Burma Road
+- Darlington
+- Edinburgh Drive
+- Faverdale
+- Green One
+- Hollyhurst Road
+- M
+- Neasham Road
+- Southend Avenue
+- St Alban
+- Teesdale Avenue
+- Winchester Way
+people: []
+organisations:
+- '### Beechwood Avenue Telecoms'
+- A68 Woodland Road Telecoms
+- B6444 St Andrews Way
+- Edinburgh Drive
 ---
 
 *(Image: GOOGLE)*

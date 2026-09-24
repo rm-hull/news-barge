@@ -12,6 +12,21 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/04/14/21/2267416699.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canterbury
+- England
+- Kent
+- Manchester
+people:
+- Charlene Rodrigues
+organisations:
+- JCVI
+- Joint Committee on Vaccination and Immunisation
+- NHS
+- Oxford University
+- UK Health Security Agency
+- UKHSA
+- University of Kent
 ---
 
 Scientists have identified the reasons why the bacterial strain that caused a fatal meningitis B outbreak in Kent was so dangerous.

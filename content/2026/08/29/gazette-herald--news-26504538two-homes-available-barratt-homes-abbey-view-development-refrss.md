@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Abbey View
+- Barratt Homes
+- Kingsville
+- North Yorkshire
+- North Yorkshire Moors
+- Whitby
+people:
+- Steven Ball
+organisations:
+- Abbey View
+- Barratt Homes
+- Barratt Homes North East
+- Deposit Boost
 ---
 
 *(Image: Barratt Homes)*

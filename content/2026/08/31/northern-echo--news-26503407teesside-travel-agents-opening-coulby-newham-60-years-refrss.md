@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Travel
+locations:
+- Carlisle
+- Coulby Newham
+- Doncaster
+- Hull
+- M Parkway
+- Middlesbrough
+- North East
+- North of England
+- Stockton
+- Teesside
+- Timpson
+people: []
+organisations:
+- All Things Good
+- Boyes
+- Dawson & Sanderson
+- Greggs
+- Parkway Shopping Centre
+- Popular Teesside
+- Ramsdens
+- Superdrug
 ---
 
 A travel agent that has been helping North East families make memories for more than 60 years is opening a new Middlesbrough branch next month.

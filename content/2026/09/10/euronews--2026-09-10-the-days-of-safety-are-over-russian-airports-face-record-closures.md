@@ -14,6 +14,30 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Moscow
+- Moscow-St Petersburg
+- Pulkovo
+- Russia
+- St Petersburg
+- Ukraine
+people:
+- Andrey Nikitin
+- Andriy Zagorodnyuk
+- Mykhailo Samus
+- Volodymyr Zelenskyy
+organisations:
+- Agentstvo
+- Air India
+- Centre for Army, Conversion and Disarmament Studies
+- FlightRadar24
+- Flydubai
+- Insider
+- Osprey Flight Solutions
+- Pegasus
+- Telegram
+- Ukrainska Pravda
+- Vnukovo
 ---
 
 ## Ukraine's drone campaign forced an average of 32 airport closures a day across 32 Russian airports including Moscow and St Petersburg, with summer totals already exceeding all of 2025, as Zelenskyy warned airlines and insurers that "the days of safety in Russia's skies are over."

@@ -13,6 +13,46 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- County Durham
+- Huddersfield
+- North East
+- Northallerton
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Stockton Fire
+- Upper Swaledale
+people:
+- '## Amanda'
+- Amanda Owen
+- Annas
+- Anty John
+- Anty John’s
+- Clementine
+- Clive Amanda
+- Edith
+- Lorraine
+- Miles
+- Nancy
+- Owens
+- Raven
+- Ravenseat
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John
+- Channel 4
+- Channel 5
+- Clive and Kids
+- ITV
+- More4
+- Our Yorkshire Farm
+- Our Yorkshire Farm Television
+- Puffin
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 Amanda Owen became one of Britain’s best-known farmers when millions watched her extraordinary family life on Our Yorkshire Farm.

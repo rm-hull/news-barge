@@ -12,6 +12,26 @@ categories:
 - Self-Improvement
 - Careers & Productivity
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/12/M_5_OTO-2026-09-18-08-26-26_6_1789729603_6188ac34-8cbad2356e02c9c0.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Clotherholme Road
+- Ripon Grammar
+people:
+- Big Ben
+- Big Ben’
+- Clotherholme
+- Edmund Beckett
+- Iona O'Hare
+- Jonathan Webb
+- Lord Grimthorpe
+- Matthew Buller
+- Ripon
+- William Renton
+organisations:
+- Houses of Parliament
+- RGS
+- Ripon Grammar
+- Ripon Grammar School
+- W Potts & Sons of Leeds
 ---
 
 # Iconic Ripon clock springs back to life after decades of silence

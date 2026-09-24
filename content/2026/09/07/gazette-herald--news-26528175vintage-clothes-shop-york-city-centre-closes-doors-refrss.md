@@ -14,6 +14,29 @@ categories:
 - York
 - Lifestyle & Fashion
 - Shopping & Deals
+locations:
+- Castlegate
+- Grape Lane
+- Jack Wolfskin
+- Lendal
+- North East
+- York
+people:
+- Betsy Vaca
+- Chris Brown
+- Dylan Connell
+- James Ratcliffe
+- Nic Musgrove-Barker
+- Sammy Clews
+organisations:
+- Castlegate
+- Colenso
+- Dog & Bone Vintage
+- Dog and Bone
+- Grape Lane
+- Newsquest
+- The Press
+- Vintage Works
 ---
 
 *(Image: Newsquest)*

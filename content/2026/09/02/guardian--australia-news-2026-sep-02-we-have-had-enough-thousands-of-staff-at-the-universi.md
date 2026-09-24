@@ -15,6 +15,24 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Australia
+- Gaza
+- Sydney
+people:
+- Annamarie Jagose
+- Dana Kafina
+- Kurt Iveson
+- Laura Shepherd
+- Peter Chen
+- Vince Caughley
+organisations:
+- AI
+- NTEU
+- National Tertiary Education Union
+- New South Wales division
+- Student Representative Council
+- University of Sydney
 ---
 
 The same week union members at the University of Sydney agreed to a 24-hour strike, staff received the results of an internal survey.

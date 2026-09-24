@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- California
+- Clear Creek
+- Clear Creek Route
+- Konwakiton Glacier
+- Mount Shasta
+- Mount Shasta Avalanche Center
+- Mud Creek
+- Mud Creek Canyon
+- Oregon
+- Roseville
+- Sacramento
+- USFS Mount Shasta Ranger
+- Wintun Glacier
+people:
+- YouTuber Jimmy Donaldson
+organisations:
+- Gemini A.I.
+- Gemini AI
+- Gemini”
+- Google
+- MrBeast
+- Siskiyou County Sheriff’s Office
+- The Independent
+- USFS Climbing Rangers
 ---
 
 A trio of hikers were rescued from a California mountain after using A.I. to plan their route.

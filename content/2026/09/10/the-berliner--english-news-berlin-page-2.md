@@ -12,6 +12,17 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866497683h-scaled.jpg
+locations:
+- Berlin
+people:
+- Die Linke
+organisations:
+- '### Thousands Protest AfD'
+- Brandenburger Tor
+- CDU
+- Harry Styles
+- SPD
+- Steffen Krach Investigations
 ---
 
 ## News

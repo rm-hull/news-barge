@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Auckland
+- Hilda Place
+- James Cook University Hospital
+- Saltburn
+- UK
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Halloween Cleveland Police
+- NEAS
+- NORTHERN ECHO
+- North East Ambulance Service
 ---
 
 *(Image: NORTHERN ECHO)*

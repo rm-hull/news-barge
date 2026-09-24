@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Calcutt
+- Forest Moor Road
+- Knaresborough
+- Thistle Hill Road
+people:
+- Hannah Gostlow
+- Tyler Reeton
+organisations:
+- Knaresborough East
+- Knaresborough East division
+- Liberal Democrat
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa101895dce5ef836c.jpg) 

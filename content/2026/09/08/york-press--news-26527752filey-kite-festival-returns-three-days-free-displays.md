@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Filey Brigg
+- Filey Brigg Country Park
+- Yorkshire
+people:
+- Cllr Myers
+- Simon Myers
+organisations:
+- North Yorkshire Council
+- Northern Kite Group
 ---
 
 ## Filey Kite Festival returns with spectacular new Friday Night Flight

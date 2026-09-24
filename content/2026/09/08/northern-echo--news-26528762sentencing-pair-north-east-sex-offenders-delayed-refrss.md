@@ -12,6 +12,16 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Norwich Gardens
+- Willington
+people:
+- Deborah Sherwin
+- Jim Smith
+- Paul Rhodes
+organisations:
+- SHPO
+- Teesside Crown Court
 ---
 
 *(Image: NORTHERN ECHO)*

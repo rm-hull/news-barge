@@ -13,6 +13,35 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Guernsey
+- Malton
+- Marton
+- Matt Stanley
+- North Yorkshire
+- Pickering
+- Tadcaster
+- York
+people:
+- Connor Anderson
+- Josh Barnes
+- Lewis Sadler
+- Mary Celeste
+- Matt Stanley
+- Mum Sheila
+- One
+- Pic
+- Sabina
+- Sam Smith
+organisations:
+- Angel & White Horse
+- AppleTree Country Inn
+- Appletree Country Inn
+- Facebook
+- Glaves Butchers of Scarborough
+- Hodgson Fish of Hartlepool
+- Pic
+- Press
 ---
 
 A North Yorkshire village pub reports a “fantastic” re-opening after 13 long years of closure.

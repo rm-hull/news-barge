@@ -15,6 +15,11 @@ categories:
 - History
 - Travel
 image: https://static.independent.co.uk/2026/09/21/17/Lebanon_Underwater_Ruins_19825.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Lebanon
+- Tyre
+people: []
+organisations: []
 ---
 
 Photos of divers exploring Tyre’s ancient ruins after the Israel-Hezbollah ceasefire

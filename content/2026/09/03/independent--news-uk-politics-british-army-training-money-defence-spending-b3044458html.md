@@ -13,6 +13,34 @@ categories:
 - UK
 - Sports
 - Health & Fitness
+locations:
+- Argentina
+- Britain
+- Falkland Islands
+- Iran
+- Russia
+- UK
+- Ukraine
+people:
+- Al Carns
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Tan Singh Dhesi
+organisations:
+- Apache
+- British Army
+- Commons Defence Select Committee
+- GB News
+- Labour
+- Ministry of Defence
+- The Independent
+- The Times.
+- Tory
+- United States’
 ---
 
 The British Army has reportedly been told to stop training personnel as financial pressures put the military under strain.

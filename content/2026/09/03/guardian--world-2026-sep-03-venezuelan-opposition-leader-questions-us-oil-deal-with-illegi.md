@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Caracas
+- China
+- Miraflores
+- Russia
+- US
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Chris Wright
+- Delcy Rodríguez
+- Donald Trump
+- María Corina Machado
+- Nicolás Maduro
+organisations: []
 ---
 
 The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”.

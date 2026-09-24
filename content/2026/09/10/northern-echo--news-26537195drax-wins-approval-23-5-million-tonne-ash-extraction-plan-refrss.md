@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barlow Ash Mound
+- Drax Power Station
+- North Yorkshire
+- Selby
+people:
+- Barlow
+- Cllr Crane
+- Mark Crane
+- Thall
+- Tim Thrall
+organisations:
+- Bank Holidays
+- Barlow Parish Council
+- Drax Power Ltd
+- North Yorkshire Council
+- Yorkshire Dales Council
 ---
 
 Plans to extract up to 23.5 million tonnes of ash from a huge mound next to Drax Power Station have been approved with limits on when the site can be worked.

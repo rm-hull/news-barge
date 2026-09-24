@@ -12,6 +12,12 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Castlegate
+- Knaresborough
+people: []
+organisations:
+- Castle Creamery
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e67405fee4be4a90.jpg) 

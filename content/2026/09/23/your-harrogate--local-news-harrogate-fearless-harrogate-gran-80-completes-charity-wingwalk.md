@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6ab3ca68262974ecbc6.jpg
+locations:
+- Australia
+- China
+- Hampsthwaite
+- Leeds East Airport
+- South America
+- South-East Asia
+- Yorkshire
+people:
+- Janet Mills
+- Mad Nanna
+organisations:
+- Macular Society
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab3ca68262974ecbc6.jpg)

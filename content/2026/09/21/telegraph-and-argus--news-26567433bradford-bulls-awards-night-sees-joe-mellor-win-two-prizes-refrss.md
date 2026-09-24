@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21014141.jpg?type=og-image
+locations: []
+people:
+- Alex Whitehead
+- Andy Ackers
+- Caleb Aekins
+- Connor Wynne
+- Ethan Ryan
+- Finn Thompson
+- Joe Mellor
+- Joel Walsh
+- Kurt Haggerty
+- Marley Williams
+- Mason Peach
+- Ryan Sutton
+organisations:
+- BRADFORD Bulls
+- Elite Academy
+- Hull KR
+- MNA Group Fans’ Man of Steel
+- The Cedar Court Hotel
 ---
 
 *(Image: Alex Whitehead/SWpix.com)*

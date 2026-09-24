@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bangsamoro Autonomous Region
+- Marawi
+- Muslim Mindanao
+- Philippine
+- Philippines
+- U.S.
+people:
+- Abdulraof Macacua
+- Ahod “Al Haj Murad” Ebrahim
+- Erwin Garcia
+- Murad
+organisations:
+- BFP
+- Bangsamoro Federalist Party
+- Commission on Elections
+- Facebook
+- Islamic State
+- Moro Front
+- Moro Islamic Liberation Front
+- United Bangsamoro Justice Party
 ---
 
 Candidates from parties associated with a former rebel group appeared to be leading the first elections in a predominately Muslim region in the southern Philippines, official results showed Wednesday.

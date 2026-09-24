@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon Canal
+people:
+- Peter Byrne
+organisations:
+- North Yorkshire Police
+- PA Wire
 ---
 
 *(Image: Peter Byrne/PA Wire)*

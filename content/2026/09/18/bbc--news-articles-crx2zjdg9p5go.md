@@ -14,6 +14,16 @@ categories:
 - Technology & Software
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a5b/live/b0649390-b36b-11f1-a430-4d16ee157c41.jpg
+locations:
+- Abercwmboi
+- Merthyr Tydfil Crown Court
+- Mountain Ash
+- Rhondda Cynon Taf
+people:
+- Jacob Roberts
+- Megan
+- PC Kerswell
+organisations: []
 ---
 
 Police officer given lift by driver in Nissan Micra mid-chase

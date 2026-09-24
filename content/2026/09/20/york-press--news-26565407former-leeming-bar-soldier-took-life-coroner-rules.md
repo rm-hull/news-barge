@@ -14,6 +14,23 @@ categories:
 - Health & Fitness
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21467448.jpg?type=og-image&xType=0&yType=0
+locations:
+- Afghanistan
+- Darlington Memorial Hospital
+- Iraq
+- Leeming Bar
+- North Yorkshire
+- Northallerton Coroner's Court
+people:
+- Caitlin
+- Gill Kane
+- Rufus Barraclough
+- Scott James McNeice
+organisations:
+- Armed Forces Para Snowsports Team
+- Army Nursing Corps
+- NORTHERN ECHO
+- Team UK
 ---
 
 ## North Yorkshire medal-winning para athlete had mental health struggles, inquest told

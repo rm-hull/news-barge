@@ -11,6 +11,12 @@ image: https://images.euronews.com/articles/stories/09/89/67/50/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Gaza City
+- Tal al-Hawa
+people: []
+organisations:
+- Hamas
 ---
 
 Israeli airstrikes killed at least five Palestinians in Gaza City on Monday, according to hospital officials and rescuers.

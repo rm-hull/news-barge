@@ -14,6 +14,22 @@ categories:
 - Music
 - Arts & Culture
 - Film & TV
+locations:
+- Guiseley
+people:
+- Amy Campbell
+- Dodgy
+- Grassman
+- Nigel Clark
+- Tom Hingley
+organisations:
+- Dodgy
+- Google Street View
+- Guiseley Sounds Unplugged
+- Guiseley Theatre
+- Inspiral Carpets
+- Inspiral Carpets’
+- Yorkshire
 ---
 
 *(Image: Google Street View)*

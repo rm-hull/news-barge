@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations: []
+people:
+- Grace Kirby
+- Ruby
+organisations:
+- David Harrison Photography
+- York St John University
 ---
 
 ## Inspirational teen who gives up Saturdays to volunteer at local cemetery awarded

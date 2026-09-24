@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Skipton Road
+- The Devonshire Tap House
+people:
+- Andrew
+- Charli
+- Darren Winder
+- Ethan
+- Hayley Francis
+- Jason Evans
+- Jess
+- Katie
+- Sophie
+organisations:
+- Deli Bar
+- Deli Bar Cafe
+- Harrogate Deli Bar
+- Health and Safety
 ---
 
 # Rising costs blamed as popular independent Harrogate cafe shuts its doors for the final time

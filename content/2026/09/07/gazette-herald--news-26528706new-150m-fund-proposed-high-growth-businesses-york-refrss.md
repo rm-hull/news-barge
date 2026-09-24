@@ -14,6 +14,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brighton
+- North of England
+- UK
+- York
+people:
+- John Healey
+- Leandros Kalisperas
+organisations:
+- British Business Bank
+- Northern Powerhouse Investment Fund II
+- Regional Angels Programme
+- South East Investment Fund
+- West Yorkshire Pension Fund
 ---
 
 *(Image: West Yorkshire Pension Fund)*

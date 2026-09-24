@@ -12,6 +12,30 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/20923405.jpg?type=og-image
+locations:
+- '* York'
+- Micklegate
+- Nunnery Lane
+- YOUR
+people:
+- Barry Crux
+- Clem Burke
+- Cllr Kilbane
+- Katie Lomas
+- Nabeel Hanif
+- Nick Love
+- Pete Kilbane
+organisations:
+- '![]()City of York Council'
+- ACV
+- Blondie
+- City of York Council
+- Labour
+- Planning Inspectorate
+- Public Notice Portal
+- The Happy Mondays
+- Victoria Vaults
+- York CAMRA
 ---
 
 ## Hopes to rescue York venue in 'sorry state' after conversion ruling

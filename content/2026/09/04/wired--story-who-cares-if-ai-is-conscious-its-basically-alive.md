@@ -11,6 +11,26 @@ image: https://media.wired.com/photos/6a9a07e3356d3dfac634d3e8/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Galápagos
+people:
+- Cameron Berg
+- Chalmer
+- Claude
+- David Chalmers
+- Isabella Cognita
+- Memento
+- Sammy Jankis
+- Steven Levy’sBackchannel
+- Tom Stoppard
+organisations:
+- AI
+- AIs
+- ChatGPT
+- Cognita
+- NYU
+- New York Times
+- OpenAI
 ---
 
 I spent the waning days of summer grinding away at columns and working on a feature. But I missed a chance at a striking change of scenery—cruising the Galápagos with about a dozen prominent philosophers studying consciousness.

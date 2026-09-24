@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- Lincoln Continental
+- Morrisburg
+- New York
+- North America
+- St. Lawrence River
+- Toronto
+- U.S.
+people:
+- Being Heumann
+- Ben Foster
+- Cameron Bailey
+- Donald Trump
+- Evel Knievel
+- God
+- Jay Baruchel
+- Ken Carter
+- Michael Dowse
+- Olivia Chow
+- Peter Farrelly
+- Sylvester Stallone
+- The Mad Canadian’
+organisations:
+- Apple
+- Dallas Cowboys
+- Google
+- Stunt Driver
+- TIFF
+- The Associated Press
 ---
 
 The 51st Toronto International Film Festival has unspooled against a backdrop of r ising tensions between the U.S. and Canadian governments, though it would be hard to tell it from the convivial atmosphere on the ground.

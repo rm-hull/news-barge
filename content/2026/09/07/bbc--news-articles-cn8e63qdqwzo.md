@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Grindr
+- Norway
+- UK
+- US
+- Wall Street
+people:
+- Austen Hayes
+- Chaya Hanoomanjee
+- Grindr
+organisations:
+- Apptimize
+- Grindr
+- High Court
+- Kunlun
+- LGBTQ
+- Localytics
+- New York Stock Exchange
+- UK Information Commissioner
+- US Securities and Exchange Commission
 ---
 
 ![Grindr's app logo, displayed on a smartphone screen, is held in front of a yellow and black backdrop bearing the company's logotype.](https://ichef.bbci.co.uk/ace/standard/984/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg)

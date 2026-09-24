@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Oregon
+- U.S.
+people:
+- Christina Davidson
+- Sandra Fryhofer
+- Sarah Nosal
+- Trump
+organisations:
+- AAFP
+- ACOG
+- AMA
+- AP Fund for Journalism
+- American Academy of Family Physicians
+- American Academy of Pediatrics
+- American College of Obstetricians and Gynecologists
+- American Medical Association
+- CDC
+- Centers for Disease Control and Prevention
+- FDA
+- Food and Drug Administration
+- Infectious Diseases Society of America
+- JAMA
+- Moderna
+- Novavax
+- Pfizer
+- Sanofi
+- Trump
+- University of Minnesota
+- Vaccine Integrity Project
+- Walgreens
 ---
 
 Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall, banding together Wednesday to issue shot guidelines — and highlight the science behind them — saying they hope to ease confusion caused by the Trump administration's changing advice.

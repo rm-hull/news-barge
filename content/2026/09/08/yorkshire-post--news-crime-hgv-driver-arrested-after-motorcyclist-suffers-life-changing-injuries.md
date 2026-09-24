@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A614
+- East Yorkshire
+- Spaldington Road
+people: []
+organisations:
+- Ducati
+- HGV
 ---
 
 # HGV driver arrested after motorcyclist suffers life-changing injuries in crash

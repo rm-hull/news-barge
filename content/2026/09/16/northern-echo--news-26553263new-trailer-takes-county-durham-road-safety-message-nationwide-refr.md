@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Britain
+- County Durham
+- Darlington
+- Northern Ireland
+- Seaham
+people:
+- Brian Simpson
+- Chris Booth
+- David Daglish
+- Elaine Sullivan
+- Joy Allen
+- Mari Johnson
+- Ms Allen
+- Stiller
+organisations:
+- A1
+- Association of Police and Crime Commissioners
+- Department for Transport
+- Durham Constabulary
+- Durham Police and Crime
+- KATEM Logistics Ltd
+- National Highways and RoadSafe
+- National Highways’ Driving for Better Business
+- Police, Crime and Justice Plan
+- Roads Policing Unit
+- Stiller Warehousing & Distribution Ltd
 ---
 
 *(Image: Chris Booth)*

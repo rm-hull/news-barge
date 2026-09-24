@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Iran
+- Middle East
+- North
+- Seoul
+- Somalia
+- South Korea
+- Strait of Hormuz
+- US
+- Washington
+people:
+- Donald Trump
+- Kim Jong-un
+- Lee Jae Myung
+organisations:
+- Wall Street Journal
 ---
 
 South Korea’s president, Lee Jae Myung, has said he will not deploy the military to the Middle East in a way that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran.

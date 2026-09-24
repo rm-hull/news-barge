@@ -12,6 +12,38 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/B38KCG4ZYZznuf8T9ybxLi-1600-80.jpg
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North America
+- North and South America
+- PT
+- Singapore
+- UK
+- US
+people:
+- '![Higgins'
+- Alice
+- Beard
+- Gemma
+- Keeley
+- Rebecca
+- Ted Lasso
+- Tom
+organisations:
+- Apple TV
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TV Originals
+- TechRadar
+- Ted Lasso
 ---
 
 ![Coach Beard, Ted, and Alice looking at something from the touchline in Ted Lasso season 4 episode 8](https://cdn.mos.cms.futurecdn.net/B38KCG4ZYZznuf8T9ybxLi.jpg)

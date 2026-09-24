@@ -16,6 +16,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Creator Economy & Marketing
+locations: []
+people:
+- Kate Sanders
+organisations:
+- '## Creative Enterprise'
+- BFI National Lottery
+- Barclays
+- Creative Enterprise
+- Creative UK
+- Fast Forward
 ---
 
 # New scheme launched to aid firms working in film, TV and games

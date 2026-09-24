@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- 34m York
+- Blossom Street
+- Dylan Connell
+- Empire State Building
+- Lendal Bridge
+- Station Road
+- Tea Room Square
+- York station
+people:
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- Blue Badge
+- City of York Council
+- Eiffel Tower
+- Station Gateway
+- The Press
+- York Cycle Campaign
 ---
 
 *(Image: Dylan Connell)*

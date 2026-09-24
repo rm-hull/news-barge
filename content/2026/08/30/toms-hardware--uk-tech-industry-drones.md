@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Fort Bragg
+- Pacific
+- Russia
+- San Francisco
+- Texas
+- Zaporizhzhia
+people: []
+organisations:
+- Engels-2
+- Get Tom's Hardware
+- Mara
+- U.S. Navy
+- US Army
 ---
 
 ![an anti-drone laser system mounted on a vehicle](https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek-320-80.jpg)

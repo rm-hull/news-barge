@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Belgrade
+- France
+- Kosovo
+- Pristina
+- Serbia
+- Switzerland
+- The Hague
+- United States
+people:
+- Hashim Thaci
+- Jakup Krasniqi
+- Kadri Veseli
+- Molly Quell
+- Rexhep Selimi
+- Snake
+organisations:
+- Associated Press
+- European Union
+- European Union-backed
+- KLA
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- NATO
 ---
 
 Former Kosovo President Hashim Thaci will learn his fate Wednesday when international judges at a court in The Hague deliver verdicts in his war crimes trial.

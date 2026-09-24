@@ -14,6 +14,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Canada
+- Iran
+- Middle East
+- Wall Street
+people:
+- Christopher Waller
+- Donald Trump
+- Kathy Bostjancic
+- Kevin Warsh
+- Scott Bessent
+organisations:
+- Congress
+- FactSet
+- Fed
+- Federal Reserve
+- GOP
+- Nationwide
+- Treasury
 ---
 
 Friday's inflation report is shaping up to be among the most consequential in years.

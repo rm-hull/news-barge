@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Graubünden
+- Susch
+- Switzerland
+- Zernez
+people:
+- Guy Parmelin
+organisations:
+- ANVR
+- Blick*
+- Foreign Ministry
+- Oad
 ---
 
 Police say five people have died and 40 others were injured after a Dutch tour bus slammed into a roadside crash barrier and overturned in eastern Switzerland.

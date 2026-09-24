@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Basingstoke Magistrates' Court
+- Berkshire
+- England
+- Hampshire
+- M3
+- Manchester City
+- Minley
+- Netherlands
+- Qatar
+people:
+- Raheem Sterling
+organisations:
+- Arsenal
+- Chelsea
+- City
+- Feyenoord
+- Hampshire Police
+- Lamborghini
+- Liverpool
+- Sterling
 ---
 
 ![Raheem Sterling in a red and white Feyenoord club shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg)

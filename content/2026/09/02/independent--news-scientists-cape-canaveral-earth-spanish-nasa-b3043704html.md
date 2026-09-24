@@ -14,6 +14,21 @@ categories:
 - UK
 - Science
 - Technology & Software
+locations:
+- Chile
+- Earth
+- Jupiter
+- Saturn
+people:
+- Agustin Sanchez-Lavega
+- Leigh Fletcher
+organisations:
+- AP Fund for Journalism
+- European Southern Observatory
+- NASA
+- Saturn
+- University of Leicester
+- University of the Basque Country
 ---
 
 Scientists have discovered an enormous 10-sided wave pattern in the icy ammonia clouds over Saturn’s south pole.

@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/Y7fN8BcXHNE5wifVe2fYtE-2048-80.png
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- UK
+- White Gold
+people:
+- Carrie Marshall
+- Shark
+organisations:
+- Clinic Body
+- Google News
+- Unquiet Mind
 ---
 
 ![A woman with a white towel on her head puts on the Shark Beauty CryoGlow Clinic Face + Body mask](https://cdn.mos.cms.futurecdn.net/Y7fN8BcXHNE5wifVe2fYtE.png) 

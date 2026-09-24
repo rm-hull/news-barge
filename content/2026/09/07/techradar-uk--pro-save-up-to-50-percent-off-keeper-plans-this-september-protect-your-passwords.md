@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/QFvexowkpqsxcqY8TUgdgc-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Benedict Collins
+- Keeper
+organisations:
+- APT
+- BUCSIS
+- Business Starter
+- Keeper
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![The Keeper logo next to a label stating "Price Cut".](https://cdn.mos.cms.futurecdn.net/QFvexowkpqsxcqY8TUgdgc.jpg) 

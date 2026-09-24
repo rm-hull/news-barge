@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- York
+people:
+- Fulford
+- Graham Souter
+- Luke Charters
+organisations:
+- Fulford Football Club
+- Persimmon
+- York Outer
 ---
 
 *(Image: Supplied)*

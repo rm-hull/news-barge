@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Society & Culture
 - Technology & Software
+locations:
+- Kirkleatham Walled Garden
+- North East
+- Plantation Road
+- South Bank
+- Teesside
+people:
+- Ann Ming
+- Matthew Blades
+- Noah
+- PC Clough
+- STUART BOULTON
+- Tom Clough
+organisations:
+- A66
+- Army
+- British Transport Police
+- Civil Nuclear Constabulary
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- Clough
+- PC 2443 Blades
+- Redcar
+- VW
 ---
 
 The family of PC Tom Clough has expressed their heartfelt thanks to the people of Teesside for the support shown during his funeral on Thursday, September 10.

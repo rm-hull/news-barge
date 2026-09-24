@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Geraldton
+- New South Wales
+- Perth
+- Sorrento Beach
+- Sydney Harbour
+- Western Australia
+people:
+- Jac
+- Jacqui Rapaic
+- Ryan Rowe
+organisations:
+- ABC News
+- Australian Broadcasting Corp
+- Australian Shark Incident Database
+- DPIRD
+- Department of Primary Industries and Regional Development
+- Flinders University
+- Taronga Conservation Society Australia
+- The West Australian
+- WA Police
 ---
 
 A swimmer has died following a shark attack at a beach in Western Australia on Friday.

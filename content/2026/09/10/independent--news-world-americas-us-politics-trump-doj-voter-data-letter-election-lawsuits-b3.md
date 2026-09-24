@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/02/16/2276575198..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Nevada
+- U.S.
+- Utah
+- West Virginia
+people:
+- Cisco Aguilar
+- David Becker
+- Deidre Henderson
+- Donald Trump
+- George W. Bush
+- Harmeet Dhillon
+- Kris Warner
+- Thomas Johnson
+organisations:
+- All Election Records
+- Center for Election Innovation and Research
+- Civil Rights Division
+- Court
+- DOJ
+- Department of Justice
+- Justice Department
+- Salt Lake Tribune.
+- The Nevada Independent.
+- The New York Times.
 ---
 
 Not a single federal judge has granted Donald Trump’s administration access to voter files in any of the 30 states where the Department of Justice is fighting a legal battle for sensitive data for millions of Americans.

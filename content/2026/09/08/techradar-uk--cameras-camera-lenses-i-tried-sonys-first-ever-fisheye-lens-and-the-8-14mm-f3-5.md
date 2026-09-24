@@ -12,6 +12,24 @@ description: Sony has announced its first-ever fisheye lens, the FE 8-14mm F3.5 
 image: https://cdn.mos.cms.futurecdn.net/n4nMi5qYaMDVSpL4dcYqcn-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Europe
+- Kenya
+- Nairobi
+- UK
+- US
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- FE
+- Google News
+- Sony
+- TBC
+- TechRadar
 ---
 
 ![Sony FE 8-14mm F3.5 G fisheye lens attached to a Sony A7R V camera, close up of the bulbous front element](https://cdn.mos.cms.futurecdn.net/n4nMi5qYaMDVSpL4dcYqcn.jpg) 

@@ -12,6 +12,22 @@ image: https://images.euronews.com/articles/stories/09/89/57/21/1200x675_cmsv2_c
 categories:
 - Europe
 - News & Politics
+locations:
+- Belarus
+- Cincinnati
+- Kazakhstan Tennis Federation
+- New York
+- Toronto
+people:
+- Artyom Ostapenko
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina
+- Iga Swiatek
+- Jessica Pegula
+organisations:
+- No. 1
+- WTA
 ---
 
 ## Kazakhstan's Elena Rybakina has moved to the top of the WTA live rankings as the 2026 US Open begins, putting her in contention to become the world's official No. 1 for the first time.

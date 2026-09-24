@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Bradford
+- Brighouse
+- Deighton
+- Dewsbury
+- Fartown
+- Huddersfield
+- Illingworth
+- Kirklees
+- Lindley
+- Ovenden
+- West Yorkshire
+people:
+- Nathaniel Walsh
+organisations:
+- '## FULL'
+- Crimestoppers
+- LiveChat
+- West Yorkshire Police
+- West Yorkshire Police)* Police
 ---
 
 *(Image: West Yorkshire Police)*

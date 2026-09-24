@@ -15,6 +15,22 @@ categories:
 - True Crime
 - History
 - Society & Culture
+locations:
+- Annapolis
+- Dallas
+- New Jersey
+people:
+- Donald Trump
+- George Haag
+- God
+- Jonathan Cahn
+- Layne Lundeen
+organisations:
+- American Airlines
+- Baltimore Banner
+- Baltimore-Washington International Thurgood Marshall Airport
+- Long Realty
+- The New York Times
 ---
 
 Layne Lundeen, the man who made headlines after he had to be duct-taped to his American Airlines seat following an alleged violent outburst, has spoken publicly for the first time about the incident.

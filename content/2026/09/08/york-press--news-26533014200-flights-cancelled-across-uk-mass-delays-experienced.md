@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Birmingham
+- Gatwick
+- Heathrow
+- Manchester
+- North Yorkshire
+- UK
+- York
+people:
+- Heidi Alexander
+organisations:
+- Birmingham
+- Bread Bin
+- FlightRadar24
+- Heathrow Airport
+- Leeds Bradford Airport
+- Ltd of Harrogate
+- Manchester Airport
+- NATS
+- Nats
+- Newsquest
 ---
 
 *(Image: Newsquest)*

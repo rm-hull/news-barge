@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Downing Street
+- London
+- UK
+people:
+- Larry The Cat
+- Larry The Cat’
+- Rory Boland
+organisations:
+- Booking.com
+- Booking.com’s
+- Houses of Parliament
+- Ofcom
+- Which?
 ---
 
 A consumer watchdog has said it uncovered “systemic security failures” on Booking.com after it was able to set up and accept payment for a fake listing for 10 Downing Street.

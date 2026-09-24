@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Manchester Road
+- Royal Jewellers
+people: []
+organisations:
+- '## Full'
+- Newsquest
+- Royal Jewellers
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

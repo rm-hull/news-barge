@@ -12,6 +12,74 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- Coventry
+- Croydon
+- Darent Valley Hospital
+- Dartford
+- Essex
+- Gosainkunda Lake
+- Guildford
+- Gyirong
+- Kathmandu
+- London
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Rasuwa
+- Rasuwagadhi-Kerun
+- Slough
+- Surrey
+- Sussex
+- Tibet
+- UK
+people:
+- Anant Patel
+- Andy Moore
+- Angchering Sherpa
+- Babar Gurung
+- Bal Kumar Tamang
+- Bhupesh Bector
+- Bipin Patel
+- Deepesh Patel
+- Ed Miliband
+- Hema Amin
+- Kumar Adhikari
+- Leena Bector
+- Lopsang Sherpa
+- Mala Patel
+- Naresh Goyal
+- Neetu Goyal Tiwari
+- Pramod Poudel
+- Rajendra Pudasaini
+- Santosh Sahu
+- Sarada Simkhada
+- Spandan Sahu
+- Sunil Amin
+- Surabhi Manmath Padhy
+- Suraj
+- Syna Kumari Sahu
+- Tara
+- Tejkumari Gurung
+- Thaneswar
+organisations:
+- Alpine Eco Trek
+- BBC Radio Sussex
+- Charac
+- EverTrek
+- Fishtail Tours and Travels
+- Foreign Office
+- Kailash Journeys
+- Leaf Holidays
+- LinkedIn
+- Non-Resident Nepali Association UK
+- PA
+- Press Association
+- Rapid Deployment Team
+- Royal Grammar School
+- Sky News
+- The Trekkers’ Society
 ---
 
 More than 30 British people remain missing following devastating flash floods in Nepal.

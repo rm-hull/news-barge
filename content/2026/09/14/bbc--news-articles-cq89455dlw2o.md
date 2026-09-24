@@ -12,6 +12,68 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Allegiant Stadium
+- Allianz Arena
+- Amsterdam
+- Barcelona
+- Boston
+- California
+- Cardiff
+- County Meath
+- England
+- Etihad Stadium
+- Europe
+- Gillette Stadium
+- Glasgow
+- Hertfordshire
+- Ireland
+- Johan Cruijff Arena
+- Knebworth House
+- KnebworthHouse
+- Las Vegas
+- Maine Road
+- Manchester City
+- Munich
+- Paris Metro
+- Pasadena
+- Rome
+- Slane Castle
+- Stade de France
+- Stadio Olimpico
+- UK
+- US
+- Venice
+people:
+- '![Liam'
+- Alan McGee
+- Led Zeppelin
+- Liam Gallagher
+- Noel Gallagher
+- Paul "Guigsy" McGuigan
+- Paul McCartney
+- Richard Ashcroft
+- Robbie Williams
+organisations:
+- BBC
+- Britpop
+- CMA
+- Celtic Park
+- Charlatans
+- Chemical Brothers
+- Competition and Markets Authority
+- Creations Records
+- Estadi Olímpic Lluís Companys
+- Gallaghers
+- Glasgow
+- Manchester City
+- Manic Street Preachers
+- Metallica
+- Noel Gallagher of Oasis
+- TalkSport
+- The Beatles
+- The Prodigy
+- Ticketmaster
 ---
 
 ![Liam and Noel Gallagher of Oasis with their arms outstretched accepting applause from the audience at the Rose Bowl Stadium in Pasadena, California in September 2025](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f285/live/5ada9660-9280-11f1-9985-cdf6a137096d.jpg)

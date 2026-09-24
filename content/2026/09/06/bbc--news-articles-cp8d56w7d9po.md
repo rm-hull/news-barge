@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bahrain
+- Gulf of Oman
+- Iran
+- Jordan
+- Kuwait
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Washington
+people:
+- Chris Wright
+- Donald Trump
+- Mohammad Bagher Ghalibaf
+- Pete Hegseth
+- Tim Hawkins
+organisations:
+- Associated Press
+- BBC
+- CNN
+- Centcom
+- Navy
+- US Central Command
 ---
 
 US Central Command released footage on Saturday showing strikes on Iran-linked tankers

@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bankfoot
+- Bradford
+- Leeds Crown Court
+- M606
+- M62
+- Ripponden
+- Smiddles Lane
+people:
+- Christopher Dunn
+- Humaira Batool
+- Mohammed Shaan Hussain
+organisations:
+- Lamborghini Urus
+- West Yorks Police
 ---
 
 *(Image: West Yorks Police)*

@@ -12,6 +12,70 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alikhani Square
+- Dastgerd Prison
+- Dizicheh
+- Fariman
+- Iran
+- Isfahan
+- Islamic Republic
+- Israel
+- Karaj
+- Khuzestan
+- Lordegan
+- Malekshahi
+- Mashhad
+- Qarchak Prison
+- Qazvin
+- Ramhormoz
+- Saqqez
+- Shahroud Prison
+- Shandiz
+- Shiraz
+- United States
+- Urmia
+- Vakilabad Prison
+- Varamin
+people:
+- Abolfazl Sepahi
+- Abolqasem Salavati
+- Ali Rahimi Rigi
+- Ali Zaghi
+- Amirhossein Safari
+- Arvin Kheirkhah
+- Benyamin Naghdi
+- Celine Assaf
+- Donald Trump
+- Erfan Esfandiyari
+- God
+- Gol-Mohammad Mohammadi
+- Hossein Mozaffari
+- Mehdi Ghoreishi
+- Mehdi Roshani
+- Mehdi Zarif
+- Mehrdad Takesh
+- Mohammad Zanganeh
+- Mostafa Nili
+- Najmeh Amini
+- Omid Behzad
+- Pouria Safvat
+- Rahimi Rigi
+- Rasoul Rezaei
+- Saeed Madani
+- Sepehr Amirzadeh
+- Shahram Sadeghi
+- Shamsi Khosravi
+- Tooba Khokhar
+- Vahid Khedrikhah
+organisations:
+- European Union
+- High Representative
+- Instagram
+- Revolutionary Court
+- Shahrekord Intelligence Department
+- Supreme Court
+- Tehran Revolutionary Court
 ---
 
 *This article appeared on our partner site,**Independent Persian*

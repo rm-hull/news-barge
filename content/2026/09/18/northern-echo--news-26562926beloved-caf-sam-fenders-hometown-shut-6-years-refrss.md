@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- Nile Street
+- North East
+- North Shields
+- Teesside
+people:
+- Rachel
+- Sam Fender
+organisations:
+- Middlesbrough
+- North Shields
 ---
 
 A North East coffee shop in the hometown of chart-topping singer Sam Fender has announced it will close its doors after six years in the town and almost a decade in business.

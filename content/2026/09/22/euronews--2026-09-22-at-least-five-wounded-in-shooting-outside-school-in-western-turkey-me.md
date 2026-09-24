@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/26/20/1200x675_cmsv2_1d026220-8656-59bf-ba66-64b505aa1168-9922620.jpg
+locations:
+- Izmir
+- Kahramanmaraş
+- Manisa
+- Turgutlu
+- Turkey
+- United States
+- Şanlıurfa
+people:
+- Akin Gürlek
+- Mustafa Çiftçi
+- Recep Tayyip Erdoğan
+- Yusuf Tekin
+organisations:
+- CCTV
+- DHA
+- IHA
+- Justice
+- NTV
+- interior ministry
 ---
 
 ## Police and medical teams were on the scene, and authorities searched for the attacker while security around the school was tightened.

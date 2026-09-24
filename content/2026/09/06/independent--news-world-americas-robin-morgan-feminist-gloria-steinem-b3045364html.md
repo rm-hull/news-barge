@@ -13,6 +13,61 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Born
+- Florida
+- Lake Worth
+- Manhattan
+- New York
+people:
+- Abbie Hoffman
+- Abbott
+- Anthony Hecht
+- Arraignment
+- Auden
+- Barney Rosset
+- Blake Morgan
+- Costello
+- Dan Ehrenreich
+- Dave Dellinger
+- Dvorak
+- Eve Ensler
+- Gloria Steinem
+- Hugh Hefner
+- Jane Fonda
+- Jerry Rubin
+- Joffrey
+- Julie Burton
+- Jury
+- J’Accuse Ted Hughes
+- Kenneth Pitchford
+- Little Robin Morgan
+- Robin Morgan
+- Sal Mineo
+- Simone de Beauvoir
+- Sylvia Plath
+- Ted Hughes
+- Tuli
+- Uncle Dave
+organisations:
+- Columbia University
+- FBI
+- Fugs
+- Grove Press
+- Kraft Theater
+- Liberation
+- Ms
+- New World
+- New York Radical Women and Women's International Terrorist Conspiracy from Hell
+- Parkinson’s
+- Playboy Mansion
+- Robert Montgomery Presents
+- Sisterhood Is Global Institute
+- W.I.T.C.H.
+- WMC
+- Women’s Media Center
+- Yippies
+- Youth International Party
 ---
 
 Robin Morgan, a wholesome child star of the 1940s and 1950s who grew up to become a poet, essayist, editor and second-wave feminist, has died. She was 85.

@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Angel of the North
+- Argyll
+- Barcaldine Castle
+- Brighouse
+- Calderdale
+- Eiffel Tower
+- Loch Creran
+- London Eye
+- Oban
+- Rastrick
+- Scotland
+- Wales
+- Yorkshire
+people:
+- Alasdair Ruadh MacIain
+- Campbell
+- Christa Ross
+- David Whitehead
+- Glencoe MacDonalds
+- Olice Rogers
+- William III
+organisations:
+- Argyll
+- Bute Council
+- Stonehenge
 ---
 
 # Yorkshire businessman fights to keep stone circle he put up by Scottish castle

@@ -12,6 +12,24 @@ image: https://i.guim.co.uk/img/media/9e2fcee9402ae137c6d282ba3a9bdcd81a9199be/7
 categories:
 - UK
 - News & Politics
+locations:
+- Brighton
+- England
+- Holborn
+- Palestine
+- St Pancras
+- Wales
+people:
+- Keir Starmer
+- Zack Polanski
+organisations:
+- Commons
+- Green
+- Greens
+- Greens’
+- Guardian
+- Labour
+- St Pancras
 ---
 
 Zack Polanski requested that the Greens’ ruling executive committee postpone the party’s imminent annual conference so they could focus on the Holborn and St Pancras byelection but was refused.

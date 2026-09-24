@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Kirkleatham Walled Garden
+- Kirkleatham Walled Gardens
+- Plantation Road
+- STUART BOULTON
+- South Bank
+people:
+- Frank
+- Lauren Somerville
+- Matthew Blades
+- PC Blades
+- PC Clough
+- PC Matthew Blades
+- STUART BOULTON
+- Tom Clough
+organisations:
+- A66
+- British Transport Police
+- Civil Nuclear Police
+- Cleveland Police
+- Cleveland Police Federation
+- Cleveland Police Officer
+- Clough
+- PC 2443 Blades
+- VW
 ---
 
 Hundreds of mourners gathered to pay their respects to PC Tom Clough, who was killed in the line of duty on the A66.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Calais
+- France
+- London
+- Port of Dover
+people:
+- Chris Vinson
+- Mike Tapp
+- Nigel Farage
+organisations:
+- Conservative Party
+- Facebook
+- Labour Party
+- National Highways agency
+- P&O Ferries
+- Reform UK
 ---
 
 A group of masked men blocked roads leading to Britain’s busiest ferry port on Saturday in what officials said appeared to be an anti-immigration protest.

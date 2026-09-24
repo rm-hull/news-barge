@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Black Caribbean
+- Central and Eastern European
+- Roma
+people:
+- Jeet Kun Do
+- Jiujitsu
+- Kali
+- Masira Hans
+- Suleyman Cetin
+organisations:
+- Hope and Light
+- Martial Arts
 ---
 
 *(Image: Getty Images)*

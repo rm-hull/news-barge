@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Boroughbridge Manor
+- North Yorkshire
+- UK
+people:
+- Andy
+- Lynnette Sellers
+organisations:
+- Barchester Healthcare group
+- Boroughbridge Manor
 ---
 
 A North Yorkshire care home has raised a glass in celebration of National Beer Lovers’ Day.

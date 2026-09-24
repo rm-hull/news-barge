@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Self-Improvement
+locations:
+- Australia
+- Canada
+- Latin America
+- United Kingdom
+- United States
+people:
+- AI
+- Christian Cawley
+- Ihor Herasymov
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- European Union
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
+- Use.AI
 ---
 
 ![A person making a sales call in an office.](https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6.jpg) 

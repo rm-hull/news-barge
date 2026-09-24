@@ -14,6 +14,12 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Kebs Road
+- Todmorden
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 # Woman dies after being hit by car as man arrested on suspicion of dangerous driving

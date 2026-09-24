@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Las Vegas
+- Los Angeles-area
+- Malibu
+- Pacific Coast Highway
+- Southern California
+people:
+- John Madden
+- Marie
+- Nicolas Cage
+organisations:
+- Amazon
+- NFL
+- New York Times
+- Utility SoCalGas
 ---
 
 The driveway of a coastal mansion in Malibu owned by actor Nicolas Cage collapsed Tuesday morning, opening up a giant hole in front of the house.

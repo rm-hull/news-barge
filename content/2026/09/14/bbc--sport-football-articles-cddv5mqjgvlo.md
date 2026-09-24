@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Carrington
+- City
+- Europe
+- Hull
+- Middlesbrough
+- Netherlands
+- Old Trafford
+people:
+- Alex Ferguson
+- Andrey Santos
+- Bruno Fernandes
+- Carlos Baleba
+- Enzo Maresca
+- Erik
+- Erling Haaland
+- Hag
+- Jose Mourinho
+- Joshua Zirkzee
+- Luke Shaw
+- Man Utd
+- Marcus Rashford
+- Michael Carrick
+- Ole Gunnar Solskjaer
+- Phil Foden
+- Ruben Amorim
+- Youri Tielemans
+organisations:
+- Brighton
+- Everton
+- Fulham
+- Ipswich
+- Manchester City
+- Manchester United
+- PFA
+- Sabah FK
+- Unitedhave
 ---
 
 ![Manchester United head coach Michael Carrick](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/4070/live/d8628f60-b031-11f1-9ae0-e316eeb4632d.jpg)

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Emden
+- Germany
+- Hannover
+- Neckarsulm
+- US
+- Zwickau
+people:
+- Daniela Cavallo
+- Hans Dieter Pötsch
+- Oliver Blume
+organisations:
+- Executive Board
+- Executive Board of Volkswagen AG
+- Future Plan
+- Supervisory Board
+- Volkswagen Group
 ---
 
 Volkswagen Group is preparing to trim its vehicle range substantially while removing 50,000 roles under newly introduced corporate restructuring plans.

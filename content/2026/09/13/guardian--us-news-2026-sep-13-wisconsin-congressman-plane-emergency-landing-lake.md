@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- La Crosse
+- Lake Wausau
+- Wisconsin
+people:
+- Donald Trump
+- Tom Tiffany
+organisations: []
 ---
 
 A Republican congressman said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday.

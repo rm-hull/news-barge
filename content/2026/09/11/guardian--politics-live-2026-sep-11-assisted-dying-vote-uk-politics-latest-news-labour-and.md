@@ -11,6 +11,84 @@ image: https://i.guim.co.uk/img/media/bda97ddc628ceb4fa53f31b2cc34f951693967ec/1
 categories:
 - UK
 - News & Politics
+locations:
+- Braintree
+- Essex
+- Filton
+- Gloucestershire
+- Holborn
+- King's Place
+- London
+- MDP Wethersfield
+- Manchester
+- Northern Ireland
+- Old Palace Yard
+- PA
+- St Pancras
+- Switzerland
+- Thames Water
+- Tottenham
+people:
+- Andy Burnham
+- Ashley Dalton
+- Ben Montgomery
+- Claire Hazelgrove
+- David Lammy
+- Denton
+- Gorton
+- Green
+- Hamza Chowdhury
+- Hannah Spencer
+- Helena Horton
+- Henry Nicholls
+- Hilary Benn
+- Jack Taylor
+- James Manning
+- Joe Giddens
+- Karen Bradley
+- Keir Starmer
+- Kemi Badenoch
+- Kim Leadbeater
+- Lauren Edwards
+- Layla Moran
+- Mum
+- PA Polanski
+- Peter Harris
+- Polanski Helena Horton
+- Ruth Hazelgrove
+- Sean Smith
+- Tom Cunningham
+- Zack Polanski
+- Zubair Ahmed
+- Zubir Ahmed
+organisations:
+- AFP
+- Alishia Abodunde
+- Bradley Stoke
+- Camden
+- Crown Prosecution Service
+- DWP
+- Department for Work and Pensions
+- Getty Images
+- Getty Images Badenoch
+- Glasgow South West
+- Green Party
+- Greens
+- Holborn
+- House of Commons
+- House of Lords
+- Lords Labour
+- NHS
+- Ofcom
+- PA Liberal Democrat
+- Palestine Action
+- Reform UK
+- Reuters
+- St Pancras
+- The Guardian
+- The Guardian Conservative
+- The Guardian Polanski
+- Tottenham
 ---
 
 Assisted dying bill sponsor opens debate with criticism of Lords

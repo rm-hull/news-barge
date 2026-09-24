@@ -11,6 +11,34 @@ description: After an executive order from the White House, Google Maps is relab
 image: https://cdn.mos.cms.futurecdn.net/dShAur2oD3u562Ac4iTWAE-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Canada
+- England
+- Great Lake
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- New York State
+- Stockport
+- US
+- White House
+people:
+- Dave
+- David Nield
+- Donald Trump
+- Kathy Hochul
+organisations:
+- Apple Maps
+- BBC
+- Gizmodo
+- Google Maps
+- Google News
+- PC Explorer
+- Reddit
+- The Hardware Handbook
+- US Board on Geographic Names
+- United States Geological Survey
 ---
 
 ![Google Maps on a phone being held in someone's hand](https://cdn.mos.cms.futurecdn.net/dShAur2oD3u562Ac4iTWAE.jpg) 

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Chapel Lane Chapel
+- Russell Street
+people:
+- Bradford
+- Jo James
+organisations:
+- Bradford Unitarian Church
+- Bradford Unitarians
 ---
 
 *(Image: Supplied)*

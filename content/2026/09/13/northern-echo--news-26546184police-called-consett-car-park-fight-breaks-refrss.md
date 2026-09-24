@@ -12,6 +12,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Consett
+- County Durham
+- Front Street
+people: []
+organisations:
+- Aldi
+- Durham Police
+- GOOGLE)* Police
+- North East Ambulance Service
+- Northern Echo
 ---
 
 *(Image: GOOGLE)*

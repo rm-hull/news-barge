@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/4kUpFvUWG273RyxcDygNAV-2048-80.png
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Dali Sonik
+people:
+- Carrie Marshall
+- Dali Basik
+- Dali Kupid
+organisations:
+- Basik Sub
+- Caramel White
+- Dali Basik Sub
+- Golden Yellow
+- Google News
+- MDF
+- Solid Black
+- Solid White
+- Unquiet Mind
 ---
 
 ![Dali Basik Sub in yellow, next to a sideboard with a yellow Dali speaker on top](https://cdn.mos.cms.futurecdn.net/4kUpFvUWG273RyxcDygNAV.png) 

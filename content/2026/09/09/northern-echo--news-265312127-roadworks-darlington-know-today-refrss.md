@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '### A68'
+- '### Auckland Avenue One'
+- '### Napier Street One'
+- '### St Alban'
+- '### Thornton Street One'
+- '### Winchester Way One'
+- A67 Coniscliffe Road
+- A68 Woodland Road
+- Auckland Avenue
+- Auckland Oval
+- Bracken Road
+- Brinkburn Road
+- Corporation Road
+- Darlington Station
+- Darlington station
+- Edinburgh Drive
+- Gladstone Street
+- Green One
+- Hollyhurst Road
+- Napier Street
+- Outram Street
+- Rochester Way
+- St Alban
+- Teesdale Avenue
+- Thornton Street
+- Winchester Way
+people: []
+organisations:
+- A66
+- Tory
 ---
 
 *(Image: GOOGLE)*

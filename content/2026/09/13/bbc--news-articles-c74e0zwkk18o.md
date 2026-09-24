@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Coventry City
+- University Hospital
+people:
+- Becky Jones
+- Fiona Tinsley
+- Ian Brown
+- Pete
+- Prof Brown
+- Prof Ian Brown
+organisations:
+- BBC
+- Brabners
+- CCTV
+- Jones
+- NHS Trust
+- RCP
+- RPC
+- Royal College of Physicians
+- TMZ
+- UHCW
+- University Hospital
+- University Hospitals Coventry
+- Warwickshire
 ---
 
 ![Becky Jones has shoulder-length brown hair with a fringe. She is standing in a park and is wearing a dress with multi-coloured flowers on it.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg)

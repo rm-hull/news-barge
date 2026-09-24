@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Alex Lyon House
+- Dringhouses
+- Tang Hall
+- UK
+- York
+people:
+- Dave Merrett
+- Di Harris
+- George
+organisations:
+- City of York Council
+- Honeysuckle House
+- Net Zero Fund
+- York and North Yorkshire Combined Authority
 ---
 
 A housing upgrade in York has helped residents cut energy use by nearly one third.

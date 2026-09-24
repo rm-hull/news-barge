@@ -13,6 +13,37 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- BBC
+- York
+- Yorkshire
+people:
+- Alexandra Roach
+- Amanda Searle
+- Anna Maxwell Martin
+- Cathy Tyson
+- David Mitchell
+- David Suchet
+- Dylan Hughes
+- Henry
+- Hercule Poirot
+- Jason Flemyng
+- Joe Wilkinson
+- John “Ludwig” Taylor
+- Kiell Smith-Bynoe
+- Lucy
+- Ludwig
+- Mark Brotherhood
+- Maxwell Martin
+- Taylors
+organisations:
+- BBC
+- Big Talk Studios
+- ITV Studios
+- PA Wire
+- That Mitchell
+- University of York
+- Webb Company
 ---
 
 *(Image: Amanda Searle/Big Talk Studios/BBC/PA Wire)*

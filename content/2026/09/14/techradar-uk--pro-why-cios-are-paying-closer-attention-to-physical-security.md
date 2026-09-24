@@ -10,6 +10,19 @@ image: https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations: []
+people: []
+organisations:
+- AI
+- CCTV
+- CIO
+- CIOs
+- Future plc
+- GM
+- TechRadar Pro
+- TechRadarPro
+- VP EMEA
+- Verkada
 ---
 
 ![Cybersecurity ensures data protection on internet. Data encryption, firewall, encrypted network, VPN, secure access and authentication defend against malware, hacking, cyber crime and digital threat](https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF.jpg) 

@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- East Jerusalem
+- Gaza
+- Israel
+- Kiryat Gat
+- Palestine
+- Sheikh Jarrah
+- South Africa
+- Tel Aviv
+- UK
+- United Kingdom
+- West Bank
+people:
+- Alon Liel
+- Benjamin Netanyahu
+- Doron Spielman
+- Ed Miliband
+- Gideon Saar
+- Helen Winterton
+- Ilan Baruch
+- Nadav Tamir
+organisations:
+- British Labour Government
+- J Street
+- Palestinian Authority
+- The Independent
 ---
 
 Israel’s decision to close the East Jerusalem consulate is a punishment for Palestinians, ex-Israeli diplomats have told *The Independent**,* after the UK announced its trade ban.

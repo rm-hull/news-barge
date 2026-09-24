@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Grand Canyon
+- Grand Canyon Village
+- Salt Lake City
+- South Rim
+people:
+- Bing Pan
+- Dave Black
+- Gloria Barrett
+organisations:
+- National Park Service
+- Pan
+- Pennsylvania State University
+- Western Incident Management Team
+- ___ Schoenbaum
 ---
 
 National Park Service officials expect to restore a reliable water supply in the Grand Canyon in weeks — not months — as the deadly flash flood didn’t damage most of a near-complete pipeline project, they said Wednesday.

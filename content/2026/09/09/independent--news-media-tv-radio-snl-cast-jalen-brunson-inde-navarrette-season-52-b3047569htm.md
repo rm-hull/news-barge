@@ -13,6 +13,48 @@ categories:
 - UK
 - Film & TV
 - Sports
+locations:
+- Peacock
+people:
+- Al Nash
+- Ania Magliano
+- Annabel Marlow
+- Ayoade Bamgboye
+- CMAT
+- Celeste Dring
+- Charles Barkley
+- Dakota Johnson
+- Emma Sidi
+- George Fouracres
+- Gracie Abrams
+- Hammed Animashaun
+- Hannah Waddingham
+- Inde Navarrette
+- Jack Shep
+- Jalen Brunson
+- Jamie Dornan
+- Jeff Goldblum
+- Katseye
+- Larry Dean
+- LeBron James
+- Meredith
+- Michael Jordan
+- Nick Mohammed
+- Paddy Young
+- Ricky Gervais
+- Riz Ahmed
+- Rosalía
+- Shane Gillis
+- Ted Lasso
+- Tina Fey
+organisations:
+- Freddie Meredith
+- NBA
+- NBC
+- New York Knicks
+- SNL UK
+- TV
+- Turnstile
 ---
 
 New York Knicks star Jalen Brunson, fresh off an NBA championship win, will host the season premiere of *Saturday Night Live* later this month, leading a roster of future guests that includes Inde Navarrette, Gracie Abrams, and Katseye.

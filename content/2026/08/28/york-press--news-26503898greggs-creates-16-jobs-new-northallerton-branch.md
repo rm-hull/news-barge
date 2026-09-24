@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '**York'
+- Iceland
+- North Moor Road
+- Northallerton
+people:
+- '**Greggs'
+- Donna Mason
+- Gillian Long
+organisations:
+- '**York Greggs'
+- BBQ Chicken & Bacon
+- Chicken Tandoori
+- Greggs App
+- Greggs’
+- Iced Blueberry Matcha
+- McDonald's
+- Motor Fuel Group
+- PA)* Greggs
+- Premier Forrester of York
+- Southern Fried Chicken Goujons
+- Unit 1
+- Veggie Feast
 ---
 
 *(Image: PA)*

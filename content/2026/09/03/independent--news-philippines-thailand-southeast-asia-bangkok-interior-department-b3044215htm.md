@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bangkok
+- Kamphaeng Phet
+- Nonthaburi Province
+- Philippines
+- San Rafael
+- Southeast Asia
+- Thailand
+people:
+- Jonvic Remulla
+- Malcolm Garma
+organisations:
+- Bureau of Fire Protection Local Disaster Risk Reduction and Management Office
+- Department of Education
+- Department of the Interior
+- Department of the Interior and Local Government
+- Interior Department
+- Office of Civil Defense
+- Philippine National Police
+- Sarawittaya School
+- Thai PBS
 ---
 
 A school shooting this week in Thailand may spark greater interest in holding more active shooter drills at educational institutions, as Southeast Asian nations consider measures to curb gun violence.

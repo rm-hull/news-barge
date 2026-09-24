@@ -11,6 +11,35 @@ image: https://cdn.mos.cms.futurecdn.net/noaDwoAvNKqQgbHVYkMYQM-2560-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Gatwick
+- Heathrow
+- Manchester
+- Stansted
+- UK
+people:
+- Benedict Collins
+- Heidi Alexander
+- Martin Rolfe
+organisations:
+- APT
+- BA
+- BUCSIS
+- British Airways
+- CAA
+- Civil Aviation Authority
+- Google News
+- London Area Control Centre
+- London Heathrow Terminal
+- NAS
+- NATS
+- National Air Traffic Services
+- National Airspace System
+- Nats
+- Nats'
+- Nats’
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![London Heathrow Terminal 5, the home of British Airways. Looking down on the runways and bays of BA planes. Strike action may cause them to be grounded during summer 2019.](https://cdn.mos.cms.futurecdn.net/noaDwoAvNKqQgbHVYkMYQM.jpg) 

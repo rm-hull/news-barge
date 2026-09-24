@@ -14,6 +14,17 @@ categories:
 - Home, Garden & DIY
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21480183.jpg?type=og-image&xType=0&yType=797
+locations:
+- High Street
+- North Yorkshire
+- Redcar Central
+- Redcar High Street
+- Teesside
+people:
+- Danielle - Cute
+organisations:
+- Button
+- Saltburn
 ---
 
 A Teesside florist says she is still "pinching herself" after getting the keys to her first shop after years of working from a summer house in her garden.

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Athens
+- Greece
+- Sifnos
+- Tanagra
+- Tholos
+people:
+- Alex Cromie
+- Alexander Cromie
+- Giorgos Raikos
+- Marie Ebert
+organisations:
+- Blackstone
+- CCTV
 ---
 
 Thousands of spectators looked on as a Greek air force jet crashed during an aerial display north of Athens on Saturday, triggering a fire that sent large plumes of black smoke into the sky.

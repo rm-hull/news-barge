@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- India
+- UK
+people:
+- Simon Tinkler
+organisations:
+- FNB
+- FNN
+- High Court
+- Home Office
 ---
 
 The Home Office could be forced to pay damages after breaching the human rights of a married couple held in separate accommodation prior to their planned deportation to India, the High Court has ruled.

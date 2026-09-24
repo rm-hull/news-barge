@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Darlington
+- Darlington’s
+- Ignite
+- MonGay
+- Skinnergate
+- UK
+people:
+- Flowers
+- Nathan Dawe
+- Spark
+organisations:
+- Club Ignite Leisure Limited
+- Darlington
+- Firkin
+- Ignite Nightclub
+- Institute Nightclub
+- Mardi Gras
+- THE NORTHERN ECHO
+- The Keys
+- Ticket Tailor
 ---
 
 A Darlington nightclub is to reopen this weekend under new ownership, with plans to bring big name DJs and themed events to the town centre.

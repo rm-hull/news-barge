@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- County Durham
+- New Darlington
+- North East
+people:
+- Darush Dodds
+- David Pratt
+- Dawn McNamara
+- Esh
+- Ona-Naura Lum
+organisations:
+- Esh Group
+- Esh-Stantec
+- Northumbrian Water
 ---
 
 *(Image: Dawn McNamara)*

@@ -12,6 +12,57 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/kRgHmuuVaoen2ysXRBj7G5-1999-80.jpg
+locations:
+- Asus'
+- Australia
+- Canada
+- France
+- Germany
+- Ireland
+- Kotaku
+- Panther Lake
+- U.K.
+- U.S.
+people:
+- Andrew E. Freedman
+- Googlebook
+- Rambler
+- Sameer Samat
+organisations:
+- 1TB
+- Acer
+- Adobe
+- Android
+- Antigravity
+- Asus
+- CapCut
+- Chromebooks
+- Claude CLI
+- Dell
+- Disney+
+- Gemini AI
+- Gemini Intelligence
+- Get Tom's Hardware
+- Google Flow
+- Google Search
+- HP OmniBook Ultra
+- Intel
+- Laptop Mag
+- Lenovo Googlebook
+- Lightroom
+- MacBook Air
+- MediaTek
+- Microsoft
+- Netflix
+- PCMag and Complex
+- Panther Lake
+- Photoshop
+- Play Store
+- Qualcomm
+- Tom's Guide
+- Tom's Hardware
+- XPS
+- YouTube Premium
 ---
 
 ![Googlebooks](https://cdn.mos.cms.futurecdn.net/kRgHmuuVaoen2ysXRBj7G5.jpg)

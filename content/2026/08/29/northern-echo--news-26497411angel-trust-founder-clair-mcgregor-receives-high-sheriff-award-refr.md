@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Auckland
+- County Durham
+- High Sheriff of the County Palatine of Durham
+- North East
+people:
+- Angel Trust
+- Arnab Basu
+- Clair McGregor
+organisations:
+- Angel Trust
+- High Sheriff
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Supplied)*

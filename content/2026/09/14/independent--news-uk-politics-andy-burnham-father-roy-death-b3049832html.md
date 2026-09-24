@@ -11,6 +11,13 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- England
+people:
+- Andy Burnham
+- Roy Burnham
+organisations:
+- The Times
 ---
 
 Prime minister Andy Burnham has cancelled all of his engagements on Monday and Tuesday following the death of his father, who was suffering from Alzheimer’s, *The Independent* understands. 

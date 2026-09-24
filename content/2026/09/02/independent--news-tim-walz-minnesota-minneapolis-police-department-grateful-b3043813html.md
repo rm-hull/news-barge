@@ -14,6 +14,20 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Downtown Minneapolis
+- Loring Park
+- Minnesota
+people:
+- Hallie Golden
+- Lisa Demuth
+- Mark Vancleave
+- Tim Walz
+organisations:
+- AP
+- Minneapolis Convention Center
+- Minneapolis Police Department
+- Minnesota House
 ---
 
 Authorities were responding to a shooting in downtown Minneapolis on Wednesday afternoon with multiple victims, including two police officers, according to officials.

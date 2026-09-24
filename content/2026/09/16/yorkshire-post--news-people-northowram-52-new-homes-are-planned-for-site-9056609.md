@@ -15,6 +15,13 @@ categories:
 - Business & Entrepreneurship
 - Home, Garden & DIY
 - Personal Finance & Investing
+locations:
+- Northowram
+- Windmill Drive
+people: []
+organisations:
+- Saleem Architects
+- Springhead Developments
 ---
 
 # Northowram: 52 new homes are planned for site

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Chicago
+- Mid-Atlantic
+- Missouri
+- Ozark
+- St Louis
+- US
+- United States
+- Washington DC
+- mid-Atlantic
+people:
+- Chris Wright
+- Miso
+organisations:
+- Howell-Oregon Electric Cooperative
+- Midcontinent Independent System Operator
+- Miso
+- PJM Interconnection
+- US Department of Energy
 ---
 
 The risk of power outages is expected to escalate across a broad swath of the United States on Wednesday as intense heat will test the capacity of electricity supplies serving millions of homes and businesses from the midwest through the mid-Atlantic.

@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- 16th Street Baptist Church
+- Alabama
+- America
+- Birmingham
+people:
+- Addie Mae
+- Addie Mae Collins
+- Arthur Price Jr.
+- Bobby Frank Cherry
+- Bryan Stevenson
+- Carole Robertson
+- Cynthia Wesley
+- Denise McNair
+- Donald Trump
+- George Wallace
+- Klansmen
+- Ku Klux Klan
+- Lisa McNair
+- Robert Chambliss
+- Sarah Collins Rudolph
+- Thomas Blanton
+organisations:
+- 16th Street Baptist
+- Civil Rights Movement
+- Equal Justice Initiative
+- Ku Klux Klansmen
+- National Park Service
 ---
 
 Sixty-three years ago, dynamite planted by Ku Klux Klan members exploded through the 16th Street Baptist Church in Birmingham, Alabama, killing four girls as they prepared for Sunday services.

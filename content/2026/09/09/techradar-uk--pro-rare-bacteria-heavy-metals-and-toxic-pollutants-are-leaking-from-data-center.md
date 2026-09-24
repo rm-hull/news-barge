@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/BnVEW5NVYG22Tcg6Mka4GV-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Chattahoochee
+- Cheyenne
+- Georgia
+- Lake Seneca
+- New York
+- US
+- United States
+- West Virginia
+- Wyoming
+people:
+- Benedict Collins
+- Chris Manganiello
+- Mangeniello
+organisations:
+- APT
+- BUCSIS
+- Chattahoochee Riverkeeper
+- Goat Systems
+- Google News
+- Meta
+- Seneca Lake Guardian
+- TechRadar Pro
+- The Guardian
+- University of Buckingham Centre for Security and Intelligence Studies
+- Vulcan Infrastructure and Power
 ---
 
 ![AI robot generating AI content and draining earth: the impact of AI on water consumption and environment](https://cdn.mos.cms.futurecdn.net/BnVEW5NVYG22Tcg6Mka4GV.jpg) 

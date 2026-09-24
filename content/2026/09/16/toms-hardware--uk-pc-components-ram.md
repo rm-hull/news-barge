@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- Alibaba Group
+- CXMT
+- Cambricon Technologies
+- G.Skill
+- Get Tom's Hardware
+- HBM5
+- MSI
+- Project Hefei
+- Ryzen
+- Samsung
+- T-Head
+- US Department of Defense
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-320-80.jpg)

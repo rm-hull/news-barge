@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Harborne
+- UK
+people:
+- Ben Delo
+- Christopher Harborne
+- Georgia Gould
+- Lisa Smart
+- Matt Chorley
+- Nigel Farage
+- Paul Nowak
+- Philip Rycroft
+- Sharon Graham
+- Tom Tugendhat
+organisations:
+- BBC
+- Conservative Party
+- Delo
+- Green Party
+- House of Lords
+- Houses of Parliament.
+- Labour Party
+- Liberal Democrat Cabinet Office
+- Reform UK
+- TUC
+- Trade Unions Congress
+- Unite
 ---
 
 ![Nigel Farage wearing a dark suit and a dark blue tie with small white dots](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/60f5/live/135f4a00-b045-11f1-b8b3-61fcc3f5ed40.jpg)

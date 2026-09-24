@@ -13,6 +13,17 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.gazetteherald.co.uk/resources/images/21491729.jpg?type=og-image
+locations:
+- Gift Centre
+- Harlow Carr Gardens
+- North Yorkshire
+- RHS Harlow Carr Plant
+- York
+people: []
+organisations:
+- CCTV
+- PC1488 Bell
+- Yorkshire
 ---
 
 *(Image: North Yorkshire Police)*

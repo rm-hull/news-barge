@@ -14,6 +14,57 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Cambridge
+- Hong Kong
+- Lord Williams’s School
+- Mosborough
+- North
+- Oxfordshire
+- Sheffield
+- Thailand
+- Thame
+- UK
+people:
+- '## Ben Delo'
+- Anthony Devlin
+- Ben Delo
+- Chris
+- Christopher Harborne
+- Donald Trump
+- Duncan Hames
+- Gawain Towler
+- Mark Vellacott
+- Nigel Farage
+- Sarah
+- Stella Creasy
+organisations:
+- AML Global
+- Ben Delo Foundation
+- Bill
+- BitMEX
+- Brexit Party
+- Commons
+- Daily Telegraph
+- GSA Capital
+- Government
+- House of Lords
+- JP Morgan
+- Labour
+- Oxford University
+- Parliamentary Standards Commissioner
+- Peel Hunt
+- QinetiQ
+- Reform UK
+- Sherriff Global
+- Spotlight on Corruption
+- Tether
+- The Guardian
+- The Sunday Times Rich List
+- Transparency International UK
+- Westminster School
+- Yorkshire
 ---
 
 # Ben Delo and Christopher Harborne: Who are the Sheffield-born crypto-billionaires who have donated £72m to Reform?

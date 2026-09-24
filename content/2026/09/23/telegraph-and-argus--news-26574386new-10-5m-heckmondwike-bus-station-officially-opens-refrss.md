@@ -14,6 +14,23 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490898.jpg?type=og-image
+locations:
+- Dewsbury Bus Station
+- Heckmondwike Bus Station
+- Huddersfield Bus Station
+- Kirklees
+- Weaver
+- West Yorkshire
+people:
+- Brabin
+- John Hardie
+organisations:
+- '![]()Heckmondwike Bus Station'
+- Heckmondwike
+- Kirklees Council
+- WYCA
+- Weaver Network
+- West Yorkshire Combined Authority
 ---
 
 A NEW multi-million pound bus station has officially opened in a West Yorkshire town.

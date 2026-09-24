@@ -13,6 +13,16 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21486090.jpg?type=og-image
+locations:
+- B1249
+- East Yorkshire
+- Foxholes
+- Humberside
+- Langtoft
+- North Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

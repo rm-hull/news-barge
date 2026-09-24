@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2026/09/04/13/Kenya_Tata_Chemicals_32834
 categories:
 - News & Politics
 - UK
+locations:
+- India
+- Kajiado
+- Kenya
+- Lake Magadi
+people:
+- William Ruto
+organisations:
+- National Stock Exchange of India
+- Tata Chemicals
+- Tata Chemicals Magadi Limited
 ---
 
 Kenya's president William Ruto on Friday directed Tata Chemicals to leave the country, saying the Indian company failed to generate any economic impact in one of Kenya's most important export sectors.

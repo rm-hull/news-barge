@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Travel
+locations:
+- Auckland Gardens
+- Auckland Palace
+- Bishop Auckland
+- County Durham
+- England
+- Historic Yorkshire
+- London
+- Market Place
+- Newgate Street
+- North East
+- Walled Garden
+people:
+- Francisco de Zurbarán
+- Jacob
+- Murillo
+- Trevor
+- Velázquez
+organisations:
+- Auckland Project
+- El Greco
+- Fifteas Vintage Tea Room
+- Mining Art Gallery
+- No. 42
+- Prince Bishops of Durham
+- Rightmove
+- Spanish Gallery
+- World Atlas
 ---
 
 A market town in County Durham has been named one of the most wallet-friendly spots to retire to in England.

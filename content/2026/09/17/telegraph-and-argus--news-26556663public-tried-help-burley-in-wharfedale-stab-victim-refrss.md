@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- Burley-in-Wharfedale
+- Bury
+- Derry Hill
+- Iron Row
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- John Robinson
+- Mason Jones
+- Miss Ramsay
+- Will Clarke
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 A jury has heard how members of the public who tried to help a stab victim were met with a gruesome sight.

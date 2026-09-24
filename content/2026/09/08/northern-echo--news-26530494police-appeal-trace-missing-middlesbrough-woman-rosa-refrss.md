@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Lytton Street
+- Middlesbrough
+people:
+- Rosa Moone
+organisations:
+- Cleveland Police
 ---
 
 *(Image: CLEVELAND POLICE)*

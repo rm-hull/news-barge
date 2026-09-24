@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- UK
+people: []
+organisations:
+- CISO
+- Cyber Security and Resilience Bill
+- FCA
+- FireMon
+- Future plc
+- NCSC
+- Ofgem
+- SCADA
+- SVP
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

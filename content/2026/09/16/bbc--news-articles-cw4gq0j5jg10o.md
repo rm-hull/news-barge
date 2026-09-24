@@ -11,6 +11,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- California
+- Chatsworth
+- Los Angeles
+- Lurline Avenue
+- Metro
+- Nordhoff Street
+- US
+people:
+- Branden Silverman
+- Colleen Williams
+- Gavin Newsom
+- Karen Bass
+organisations:
+- BBC
+- CBS
+- Central Division
+- KNBC 4
+- LAFD
+- LAPD
+- Los Angeles Fire Department
+- Los Angeles Police Department
+- NBC Los Angeles
+- NBC4
+- NTSB
+- National Transportation Safety Board
+- NewsChopper4
+- SUV
 ---
 
 Watch: Smoke and flames rise from Los Angeles fatal helicopter crash site

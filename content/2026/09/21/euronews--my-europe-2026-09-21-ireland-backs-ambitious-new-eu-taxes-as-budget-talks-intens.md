@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/13/29/1200x675_cmsv2_b6c13185-2667-5f1d-9e0c-39377ea895b5-9921329.jpg
+locations:
+- Austria
+- Brussels
+- Cyprus
+- Denmark
+- Europe
+- Finland
+- Hungary
+- Italy
+- Poland
+- Portugal
+- Spain
+people:
+- Friedrich Merz
+- Thomas Byrne
+organisations:
+- CBAM
+- CORE
+- Corporate Resource for Europe
+- ETS
+- EU Emissions Trading System
+- European Commission
+- European Council
+- European Parliament
+- European Union
+- Friends of Cohesion
 ---
 
 ## The Irish government, which is chairing member-state discussions on the EU’s long-term budget, will present an “ambitious” draft text featuring proposals for new EU taxes.

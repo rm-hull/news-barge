@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Common Side Lane
+- Featherstone
+- Pontefract
+- Wakefield Road
+people:
+- Cupra
+- Nina Roper
+organisations:
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 # Woman dies after being hit by car near Featherstone as driver arrested

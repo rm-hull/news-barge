@@ -13,6 +13,12 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_302535788.jpg
+locations:
+- Bristol
+- UK
+people:
+- Man
+organisations: []
 ---
 
 **What is an itch, and why are most so easily calmed with a simple touch?**

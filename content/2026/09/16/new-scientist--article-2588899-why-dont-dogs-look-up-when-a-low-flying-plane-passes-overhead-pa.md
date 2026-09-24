@@ -13,6 +13,20 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- Australia
+- Newport
+- Oregon
+- Sydney
+- UK
+- US
+- West Yorkshire
+people:
+- Guffy
+- Harry Olund
+- Ron Bennett
+organisations:
+- Blu
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304354522_fcf165.jpg?w=840)

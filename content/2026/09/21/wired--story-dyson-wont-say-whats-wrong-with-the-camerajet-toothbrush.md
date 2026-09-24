@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab140218da5aa2e264dbbfa/191:100/w_1280,c_limit/092126-Dyson%20Jetbrush%20Leak.jpg
+locations:
+- Dyson CameraJet
+- Paris
+- Singapore
+- UK
+- US
+people:
+- Adam Toner
+- CameraJet
+- James Dyson
+- Kyle Wiens
+- Liv Thomas
+- Ming
+- Tomlinson Moseley
+organisations:
+- Beauty Communications
+- Consumer Reports'
+- Dyson CameraJet
+- Dyson Reddit
+- Formula One Management
+- NASA
+- Numerama
+- Panasonic
+- Ripcord Designs
+- WIRED
+- iFixit
 ---
 
 There's always a danger in over-complicating products. Simple is so often best. The apocryphal story of NASA spending millions crafting a space pen while Soviet cosmonauts used a pencil is often cited as a prime example, even if it's actually not true. Perhaps it's not surprising that Dyson has got into hot water trying to reinvent the electric toothbrush.

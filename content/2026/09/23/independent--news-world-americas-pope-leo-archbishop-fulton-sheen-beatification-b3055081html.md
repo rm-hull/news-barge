@@ -12,6 +12,29 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/23/13/44/GettyImages-2270661865-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Illinois
+- Mass
+- Missouri
+- New York City
+- Peoria
+- St. Louis
+- St. Peter’s Square
+- U.S.
+- United States
+- Vatican
+people:
+- Francis
+- Fulton J. Sheen
+- Fulton Sheen
+- Luis Tagle
+- Pope Leo XIV
+- Robert Prevost
+organisations:
+- Catholic University of America
+- Sheen
+- The Pontifical Mission Societies
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

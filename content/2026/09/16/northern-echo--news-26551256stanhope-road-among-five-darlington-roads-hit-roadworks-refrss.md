@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '### Auckland Avenue One'
+- '### Auckland Oval'
+- '### Kendal Close Kendal Close'
+- '### Stanhope Road South Stanhope Road South'
+- A167 Grange Road
+- A68 West Auckland Road
+- Auckland Avenue
+- Auckland Oval
+- Blackwell Lane
+- Brinkburn Road
+- Coniscliffe Road
+- Darlington
+- Duke Street
+- Middlesbrough-Redcar
+- Rochester Way
+- Winchester Way
+- Winchester Way One
+people: []
+organisations:
+- Manchester Airport
 ---
 
 *(Image: GOOGLE)*

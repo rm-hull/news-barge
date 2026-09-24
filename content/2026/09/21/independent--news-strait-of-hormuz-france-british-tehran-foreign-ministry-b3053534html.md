@@ -13,6 +13,25 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/05/APTOPIX_Iran_War__5_4.jpg?width=1200&height=800&crop=1200:800
+locations:
+- France
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Old City
+- Paris
+- Strait of Hormuz
+- Tehran
+- U.S.
+- West Bank
+- Western Wall
+- Yom Kippur
+people: []
+organisations:
+- Foreign Ministry
+- UKMTO
+- United Kingdom Maritime Trade Operations Center
 ---
 
 The British military says an “unknown projectile” struck a tanker as it entered the Strait of Hormuz. Two crew members were injured in Monday's attack as the ship headed to port under its own power.

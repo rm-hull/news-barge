@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Alaska
+- Amazon
+- Antarctic
+- California.
+- Calipatria
+- Fumaroles
+- Greenland
+- Salton Sea
+- Yukon Delta
+people:
+- Bill Ripple
+- Rob Jackson
+- Sam Abernethy
+organisations:
+- Climate Action Tracker
+- Oregon State University
+- Spark Climate Solutions Research
+- Stanford University
+- United Nations
 ---
 
 Rising global temperatures caused by the burning of fossil fuels are transforming the world’s forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has found.

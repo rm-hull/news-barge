@@ -11,6 +11,33 @@ image: https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- India
+people:
+- Claude Cowork
+- Dhruv Jaglan
+- Georgi Boby
+- Rahul Gupta
+- Rahul Mathur
+organisations:
+- Adobe
+- Amazon
+- Canva
+- ChatGPT Work
+- Day Zero Ventures
+- DeVC
+- Gemini
+- Google
+- IIT
+- LinkedIn
+- Meta
+- Peak XV
+- Rephrase.ai
+- Rilo
+- Rilo’s IP
+- SEO
+- Semrush
+- TechCrunch
 ---
 
 Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed. This is Adobe’s second acquisition from India after it bought video platform Rephrase.ai in 2023. The companies didn’t disclose the deal’s terms.

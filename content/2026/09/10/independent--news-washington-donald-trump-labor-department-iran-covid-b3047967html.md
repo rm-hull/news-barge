@@ -13,6 +13,12 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+people:
+- Donald Trump
+organisations:
+- Labor Department
 ---
 
 Slightly fewer Americans filed for unemployment claims last week as jobless claims remain at historically low levels and layoffs are still relatively rare.

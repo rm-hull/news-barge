@@ -14,6 +14,56 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- Beckington
+- Castle Hill
+- Garthowen Crescent
+- Greenwood
+- Hills Shire
+- Macquarie Street
+- Melbourne
+- NSW
+- Nassif’s Toplace
+- Nobu
+- North Castle Hill
+- Old Northern Rd
+- Parramatta
+- Snowy Hydro
+people:
+- Anita
+- Charles Perrottet
+- Christian Ellis
+- David Chandler
+- David Elliott’
+- Dominic Perrottet
+- Eleni Petinos
+- Elliot
+- Garthowen
+- Jean Nassif
+- Jean** Charles Perrottet
+- Jeremy Greenwood
+- Peggy Dwyer SC
+- Rob Stokes
+- Sharangan Maheswaran
+- Toplace
+organisations:
+- Australian Competition and Consumer Commission
+- Baulkham Hills
+- Beckington
+- Covid-era New South Wales
+- Greenwood
+- Icac
+- Liberal
+- Mascot
+- NSW Audit Office
+- NSW Building
+- NSW Independent Commission Against Corruption
+- Nassif
+- PDU
+- Property Council
+- Sharangan
+- The Australian
+- Toplace
 ---
 
 Did the former premier’s brother, Charles Perrottet, have prior knowledge of a Covid-era New South Wales government policy to introduce a fast track to approve major developments?

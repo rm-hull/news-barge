@@ -16,6 +16,28 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Linton
+- Linton-on-Ouse
+- MoD Barnham
+- MoD Bicester
+- North Yorkshire
+- Oxfordshire
+- Principality of Piddington
+- RAF
+- Suffolk
+- UK.
+people:
+- Andy Burnham
+- Anna Turley
+- Linton
+- Martin Sanderson
+- Tim McNally
+organisations:
+- Home Office
+- Linton Village Action Group
+- Ministry of Housing, Communities and Local Government
+- Parish
 ---
 
 # Linton-on-Ouse: Campaigners hail Oxfordshire village's protest vote - but won't follow suit

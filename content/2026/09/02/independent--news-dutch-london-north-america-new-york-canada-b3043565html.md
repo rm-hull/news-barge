@@ -14,6 +14,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - History
+locations:
+- Atlantic Ocean
+- Canada
+- London
+- New York
+- North America
+- Ottawa
+- United States
+- Zeist
+people:
+- Olaf Sleijpen
+organisations:
+- Bank of England
+- DNB
 ---
 
 The Dutch central bank announced Wednesday that it has moved billions of dollars worth of its gold reserves out of North America in a move it described as “crisis preparedness” in a time of global political unrest.

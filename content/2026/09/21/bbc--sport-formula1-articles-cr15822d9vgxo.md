@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg
+locations: []
+people: []
+organisations:
+- F1 Commission
+- FIA
+- Formula 1
 ---
 
 ![The wet start of the 2025 Belgian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg)

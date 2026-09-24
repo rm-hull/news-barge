@@ -16,6 +16,32 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Cheltenham Racecourse
+- Suffolk
+- UK
+- Westminster
+people:
+- Alex Lovén
+- Burnham
+- Jade Holland Cooper
+- Joe Giddens
+- John Healey
+- Julian Dunkerton
+- Minette Batters
+- Mo Metcalf-Fisher
+- Sarah Todd
+- Son
+- Superdry
+organisations:
+- Amazon
+- Apple
+- Badminton Horse Trials
+- Countryside Alliance
+- Labour
+- NFU
+- Starbucks
 ---
 
 # The Government needs to tap into the brilliant brains featured on the Rich List - Sarah Todd

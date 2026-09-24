@@ -13,6 +13,21 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/21/14/25/Screenshot-2026-09-21-at-15-11-53.png?trim=156,0,73,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- England
+- London
+- North West
+- North and West
+- Northern Ireland
+- Scotland
+- South East
+- UK
+- Wales
+people:
+- Tony Wisson
+organisations:
+- Met Office
 ---
 
 The UK is expected to experience a warm spell in the coming days, with temperatures potentially reaching as high as 26C in some areas.

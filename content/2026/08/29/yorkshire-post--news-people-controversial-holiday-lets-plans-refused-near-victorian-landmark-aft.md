@@ -14,6 +14,18 @@ categories:
 - York
 - Travel
 - News & Politics
+locations:
+- Larpool Lane
+- Larpool Viaduct
+- North Yorkshire
+- Riverside Walk
+- Ruswarp
+- Whitby
+people:
+- Stephen Clough
+organisations:
+- Knapton & Knapton
+- North Yorkshire Council
 ---
 
 # Controversial holiday lets plans refused near Victorian landmark after backlash

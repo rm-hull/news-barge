@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Bernese Mountain Dog-Collie
+- Darlington
+- Homestay
+- Nala
+- UK
+people:
+- Jake Flatman
+- Nala
+organisations:
+- Dogs Trust
+- Homestay
 ---
 
 Dogs Trust has launched a Darlington service helping struggling owners rehome their dogs without sending them to kennels.

@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Aberdeen
+- Jackdaw
+- New York
+- North Sea
+- Rosebank
+- Shetland
+- UK
+people:
+- Andy Burnham
+- Donald Trump
+- Elizabeth Robinson
+- Jane Barlow
+- Joanna Haigh
+- Miatta Fahnbulleh
+- Paul Behrens
+- Prof Haigh
+- Prof Robinson
+organisations:
+- Adura
+- BBC
+- Desnz
+- Energy Department
+- Government
+- Grantham Research Institute on Climate Change
+- Imperial College London
+- Labour
+- Ms Fahnbulleh
+- Rosebank
+- The Guardian
+- Trump
+- University of Oxford
 ---
 
 Almost 600 climate scientists, health professionals and conservationists have issued a fresh plea urging Prime Minister Andy Burnham to decline licence applications for the Rosebank oil field in the North Sea.

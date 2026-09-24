@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- York Rescue Boat
 ---
 
 *(Image: Newsquest)*

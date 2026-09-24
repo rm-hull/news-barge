@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Mesa
+people: []
+organisations:
+- AMD Radeon RX
+- Asus Dual OC
+- FSR
+- Forza Horizon
+- GPU
+- Huawei Arm
+- INT8
+- NVK
+- Nvidia GPUs
+- Reddit
+- VoidTech
+- Vulkan
+- Zluda
 ---
 
 ![Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-320-80.jpg)

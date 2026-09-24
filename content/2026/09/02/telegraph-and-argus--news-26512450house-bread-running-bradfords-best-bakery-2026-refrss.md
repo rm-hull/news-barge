@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Road
+- Frizinghall
+people:
+- Barbara
+- Ms Laszkowski
+- Sara Laszkowski
+organisations:
+- House of Bread
+- Newsquest
+- Telegraph & Argus
 ---
 
 *(Image: Newsquest)*

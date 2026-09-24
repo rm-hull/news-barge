@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brantham
+- Essex
+- Felixstowe
+- Holbrook
+- Ipswich
+- Manningtree
+- Merriam Close
+- River Stour
+- Suffolk
+people:
+- Noah Woods
+- Pete Partridge
+- Zoie O'Brien
+organisations:
+- Brantham BBC
+- Coastguard Rescue Teams
+- HM Coastguard
+- Suffolk Constabulary
+- Suffolk Police
 ---
 
 ![Noah, who has ginger hair, is pictured smiling on a bed.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/4617/live/300dc0e0-b14a-11f1-a383-57f33d64a166.jpg)

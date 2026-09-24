@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cathedral of the Archangel
+- Donetsk
+- Kremlin
+- Mariupol
+- Moscow
+- Russia
+- Saur-Mogila
+- Ukraine
+people:
+- Alexander Nevsky
+- Alexander Zanemonets
+- Dmitry Donskoy
+- God
+- Kirill
+- Vladimir Putin
+organisations:
+- Metropolitan Vladimir
 ---
 
 The Russian Orthodox church has sent a fragment of a medieval warrior prince’s remains to troops fighting in Ukraine, saying the relic would “spiritually strengthen” soldiers and help them achieve victory.

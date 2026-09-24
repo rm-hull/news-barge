@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png
+locations:
+- Barbados
+- Britain
+- Caribbean
+- Jamaica
+- London
+- United Kingdom
+people:
+- Charles
+- Olivia Grange
+organisations:
+- Caricom
+- Commonwealth
+- Crown
+- Grange
+- House of Representatives
+- Jamaica Labor Party
+- Judicial Committee
+- Privy Council
+- U.K.’s
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

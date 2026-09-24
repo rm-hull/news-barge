@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20093579.jpg?type=og-image
+locations:
+- Bradford
+- Dubai
+- Keighley Market
+- Middle East
+people:
+- Ian Walker
+organisations:
+- Bradford Council
+- Darley Street Market
+- Keighley Market
+- Oud Project
+- The Oud Project
 ---
 
 *(Image: Other)*

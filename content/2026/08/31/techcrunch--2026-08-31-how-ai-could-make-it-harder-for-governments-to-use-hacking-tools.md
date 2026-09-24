@@ -11,6 +11,26 @@ description: AI is proving effective at finding and exploiting vulnerabilities. 
 image: https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675
 categories:
 - Technology & Software
+locations:
+- U.S.
+people:
+- Eva Galperin
+- Hamid Kashfi
+- James Comey
+- Katie Moussouris
+- Luna Tong
+- Matthew Green
+- Paolo Stagno
+organisations:
+- AI
+- Apple
+- Crowdfense
+- DarkCell
+- Electronic Frontier Foundation
+- Luta Security
+- TechCrunch
+- Xbow
+- then-FBI
 ---
 
 Earlier in August, cryptography professor Matthew Green wrote a controversial thread on X and a longer blog post that went viral within the cybersecurity community.

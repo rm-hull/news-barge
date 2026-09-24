@@ -14,6 +14,14 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/02/North-Yorkshire-Police.webp
+locations:
+- Killinghall
+people:
+- Andrew Stenson
+- Kirsty Greenbank
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 A 39-year-old man from Killinghall has been sentenced at York Crown Court after assaulting his partner on multiple occasions and leaving her in fear for her life.

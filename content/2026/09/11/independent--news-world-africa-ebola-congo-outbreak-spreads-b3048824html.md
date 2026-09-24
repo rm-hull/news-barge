@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bas-Uele
+- Bulu
+- Bundibugyo
+- Central African Republic
+- Congo
+- Ebola
+- Guinea
+- Gwaka
+- Haut-Uele
+- Ituri
+- Katwa
+- Kinshasa
+- Liberia
+- Mongala
+- North Kivu
+- Rwanda
+- Sierra Leone
+- South Kivu
+- South Sudan
+- Sud-Ubangi
+- Tshopo
+- Uganda
+- West Africa
+- Zaire
+people:
+- Dr. Papy Mafuta
+- Jean-Jacques Mbungani
+- Jean-Rene Galekwa Vundawe
+- Placide Mbala Kingebeni
+organisations:
+- CDC
+- Ervebo
+- World Health Organization
 ---
 
 Local authorities confirmed that Congo’s record-breaking Ebola outbreak has expanded into a seventh province, with the rapid spread showing no indication of slowing down.

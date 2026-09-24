@@ -13,6 +13,29 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Africa
+- Europe
+- Greenland
+- India
+- Latin America
+- Lomé
+- North America
+- Russia
+- Togo
+- UK
+- US
+people:
+- Arno Peters
+- Robert Dussey
+organisations:
+- African Group
+- African Union
+- Gall-Peters
+- Google Maps
+- Mercator
+- UN
+- Unesco
 ---
 
 The UN general assembly has voted to replace the traditional world map with one that more accurately reflects the size of all nations.

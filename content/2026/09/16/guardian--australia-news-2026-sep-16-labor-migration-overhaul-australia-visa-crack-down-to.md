@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Canberra
+- New York
+people:
+- Andrew McKellar
+- Angus Taylor
+- Anthony Albanese
+- David Pocock
+- Hanson
+- Tony Burke
+organisations:
+- ABC
+- Australian Bureau of Statistics
+- Australian Chamber of Commerce and Industry
+- Coalition
+- Department of Home Affairs
+- Labor
+- National Press Club
+- Nom
+- One Nation
+- United Nations
 ---
 
 Foreign students will face tough restrictions on the ability to bring family members into Australia, as the federal government shifts sections of the country’s immigration system away from demand-driven settings.

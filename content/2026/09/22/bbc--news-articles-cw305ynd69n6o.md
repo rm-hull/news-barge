@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e040/live/3904a2b0-b675-11f1-b711-df5e4d50c2fd.jpg
+locations:
+- China
+- Europe
+- Hull
+- Humberside
+- Iran
+- Monaco
+- Saltend
+- Strait of Hormuz
+- UK
+- US
+people:
+- Bridget
+- Jim Ratcliffe
+- Laura Kuenssberg
+organisations:
+- BBC News
+- Brexit
+- British Industrial Competitiveness Scheme
+- Department for Business, Innovation, Science and Trade
+- EU
+- Ineos
+- Manchester United
 ---
 
 ![Sir Jim Ratcliffe in a green coat and red scarf](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/e040/live/3904a2b0-b675-11f1-b711-df5e4d50c2fd.jpg)

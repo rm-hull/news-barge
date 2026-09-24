@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21484440.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Bishop Auckland Retail Park
+- Bloom
+- County Durham
+- Darlington
+- Fylands Drive
+- Michigan
+- Northumbria
+- Portrack Lane
+- Poundstretcher
+- St Andrews Park
+- Stockton
+- Sunderland
+- UK
+- US
+- YOUR
+people:
+- Henry Dunn Wickes
+organisations:
+- Bishop Auckland
+- Durham County Council
+- High Court
+- Nando
+- Pennywell Industrial Estate
+- Poundstretcher
+- Public Notice Portal
+- Public Notice Portal Wickes
+- The Range, Home Bargains
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,38 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/20/60/1200x675_cmsv2_14f72e3b-421a-5763-9ba8-afba104cd7d9-9922060.jpg
+locations:
+- Beijing
+- Berlin
+- Bucharest
+- Canada
+- Ceuta
+- Europe
+- Frankfurt
+- Georgescu
+- Germany
+- Iran
+- Morocco
+- Queens
+- Romania
+- San Francisco.
+- UK
+- United Russia
+- Washington.
+- White House
+- Zaporizhzhia
+people:
+- Dmitry Medvedev
+- Michael Probst
+- Sergey Lavrov
+- Taurimas Valys
+organisations:
+- China International Supply Chain
+- Euronews
+- Lens
+- Trump
+- US Navy
+- USS Abraham Lincoln
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

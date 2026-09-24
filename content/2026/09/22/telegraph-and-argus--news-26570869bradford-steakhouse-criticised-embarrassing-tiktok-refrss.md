@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486384.jpg?type=og-image
+locations:
+- Bradford
+- Thornton Road
+people: []
+organisations:
+- Porterhouse Bros
+- Porterhouse Bros Social
+- STEAKHOUSE
+- TikTok
 ---
 
 *(Image: @porterhousebros)*

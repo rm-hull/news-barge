@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Asenby
+- Aysgarth Falls
+- Boroughbridge
+- Britain
+- Castle Bolton
+- Crathorne
+- Great Whernside
+- Humber Estuary
+- Masham
+- Middleham
+- North Yorkshire
+- Northumberland river
+- Ouse The Ure
+- Ripon
+- River Ouse
+- River Ure
+- The River Ure
+- Thirsk
+- Wensleydale
+- York
+- Yorkshire Dales National Park
+people:
+- Muker
+- Osmotherley
+organisations:
+- Vikings
+- Yorkshire
 ---
 
 If you've ever spotted the River Ure on a map of North Yorkshire and wondered how on earth you're supposed to say it, you're certainly not alone.

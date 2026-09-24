@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/19968448.jpg?type=og-image
+locations:
+- A1
+- Blaydon Bridge
+- Consett Turn Off
+- County Durham
+- Derwenthaugh Road
+- Newburn
+- Newcastle City
+- North East A690
+- Tyneside
+people: []
+organisations:
+- A1
+- NORTHERN ECHO
+- National Highways
+- Northumbria Police
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -11,6 +11,18 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=
 categories:
 - Technology & Software
 - Creator Economy & Marketing
+locations:
+- U.S.
+people:
+- Goose
+- Instagram
+organisations:
+- AI
+- Facebook
+- Instagram
+- Meta
+- The New York Times
+- Wired
 ---
 
 Instagram announced Monday that it’s changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so.

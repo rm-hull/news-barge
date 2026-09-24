@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- A64
+- Barton Hill Crossroads
+- Dunnington
+- Flaxton Moor
+- Kexby
+- Towthorpe Moor Lane
+- York Road
+people: []
+organisations:
+- AA
+- Tesco Express
+- The Scrap Box
 ---
 
 *(Image: Public submission)*

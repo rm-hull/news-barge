@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Dunelm Road
+- Hartlepool
+- Holme House Prison
+- Milton Road
+- Northside Buildings
+- Salter’s Lane
+- Stockton
+- Trimdon Grange
+- Trimdon Village
+people:
+- Amanda Rippon
+- Calum McNicholas
+- Caroline McGurk
+- Man
+- Miss McGurk
+- Philip Hewitson
+organisations:
+- CCTV
+- Durham Constabulary
+- Durham Crown Court
+- Durham Police
 ---
 
 *(Image: Durham Constabulary)*

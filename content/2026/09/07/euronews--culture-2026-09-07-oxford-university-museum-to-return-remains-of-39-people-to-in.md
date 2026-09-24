@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Ga
+- India
+- Kyrchyn Gorge
+- Kyrgyzstan
+- Ringgold
+- UK
+people:
+- James Philip Mills
+- John Henry Hutton
+- Laura Van Broekhoven
+organisations:
+- AFP
+- Euronews
+- FNR
+- Forum for Naga Reconciliation
+- Indian Civil Service
+- Oxford University
+- Pitt Rivers Museum
 ---
 
 ## The Pitt Rivers Museum said it has been "working closely" with the Naga people on finding a date for a handover ceremony, after which a Naga delegation is set to accompany the remains home.

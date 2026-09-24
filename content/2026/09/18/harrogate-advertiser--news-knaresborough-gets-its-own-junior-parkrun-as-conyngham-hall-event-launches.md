@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Family & Parenting
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Conyngham Hall
+- Knaresborough
+- The Kingfisher
+people:
+- Hannah
+organisations:
+- Harrogate
+- Knaresborough
 ---
 
 # Knaresborough gets its own junior parkrun as Conyngham Hall event launches this Sunday

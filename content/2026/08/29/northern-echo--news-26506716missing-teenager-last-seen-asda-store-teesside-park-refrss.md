@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- CLEVELAND
+- Teesside Retail Park
+- Yarm
+people:
+- Brandon Fox
+organisations:
+- Asda
+- Cleveland Police
+- Cortez
+- Nike
 ---
 
 *(Image: CLEVELAND POLICE)*

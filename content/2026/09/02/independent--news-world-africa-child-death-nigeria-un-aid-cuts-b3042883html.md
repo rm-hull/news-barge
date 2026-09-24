@@ -14,6 +14,19 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- UK
+- US
+- Unicef Nigeria
+people:
+- Judith Leveillee
+- Ms Leveillee
+organisations:
+- The Independent
+- UN
+- UNHCR
+- Unicef Nigeria
+- United Nations High Commissioner for Refugees
 ---
 
 Ensuring children across the world reach their fifth birthday is set to be a “top priority” in Unicef Nigeria’s strategy into the 2030s, the UN agency’s field chief has told *The Independent –* as aid cuts risk reversing years of progress*.*

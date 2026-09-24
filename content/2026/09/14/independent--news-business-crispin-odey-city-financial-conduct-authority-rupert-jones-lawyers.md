@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/09/14/14/35ea2825439c8d6ec1946e24c1
 categories:
 - News & Politics
 - UK
+locations:
+- City
+- London
+- UK
+people:
+- Cathy Farquharson
+- Crispin Odey
+- Justice Thompsell
+- Rupert Jones
+organisations:
+- ExCo
+- ExCos
+- FCA
+- Financial Conduct Authority
+- OAM
+- Odey Asset Management
+- Simmons & Simmons
+- Upper Tribunal
 ---
 
 Former hedge fund manager Crispin Odey has lost a legal challenge against the Financial Conduct Authority (FCA) over its decision to ban him from the UK finance industry over the handling of allegations of sexual misconduct against him.

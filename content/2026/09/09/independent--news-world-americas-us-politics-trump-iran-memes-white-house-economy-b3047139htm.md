@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/08/30/1/18/trump-lake-america-truth
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- U.S.
+- White House
+people:
+- Andrew Bates
+- Barack Obama
+- Donald Trump
+- Jesus
+- Joe Biden
+- Kaelan Dorr
+- Kevin Madden
+- Mark Carney
+- Michelle
+organisations:
+- AP-NORC
+- Congress
+- Trump
 ---
 
 While President Donald Trump confronts real-world political challenges—struggling to curb inflation, defeat the Iranian government, and revive American manufacturing through tariffs—his online presence tells a drastically different story.

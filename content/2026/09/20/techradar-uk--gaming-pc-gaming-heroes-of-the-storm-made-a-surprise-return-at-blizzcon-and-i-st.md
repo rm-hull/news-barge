@@ -14,6 +14,28 @@ categories:
 - Video Gaming
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/fkZ6nG3bcCKtF9gLPDfjDV-1920-80.jpg
+locations:
+- MOBA
+people:
+- Blizzard
+- Diablo
+- Hanzo
+- James Pickard
+- Jim Raynor
+- Robin Williams
+- Thrall
+- Tracer
+- Zerg
+organisations:
+- Black Friday
+- Blizzard
+- Eurogamer
+- Google News
+- MOBA
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- The Lost Vikings
 ---
 
 ![A hero image of Xal&#039;atath from Heroes of the Storm with the TechRadar Under the Radar logo in the top right corner](https://cdn.mos.cms.futurecdn.net/fkZ6nG3bcCKtF9gLPDfjDV.jpg)

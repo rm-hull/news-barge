@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Africa
+- Aramburú
+- Argentina
+- Australia
+- Djibouti
+- French Basque Country
+- Hungary
+- Mali
+- New Zealand
+- Niger
+- Paris
+- Sablé-sur-Sarthe
+- Scotland
+- Ukraine
+- Western France
+people:
+- Aramburu
+- Federico Martín Aramburú
+- Justicia por Fede
+- Le Priol
+- Loïk Le Priol
+- Lyson Rochemir
+- Romain Bouvier
+- Shaun Hegarty
+organisations:
+- Biarritz
+- Dax
+- Fede
+- Glasgow
+- Latin Quarter
+- Le Mabillon
+- Le Priol
+- Perpignan
 ---
 
 Four people including two men linked with France’s extreme right are set to stand trial in Paris over the killing of former Argentina rugby player Federico Martín Aramburú.

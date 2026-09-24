@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Chelmsford
+- England
+- Essex
+- Kew Gardens
+- London
+- RHS Hyde Hall
+- Surrey
+- UK
+people:
+- Cat Hood
+- Guy Barter
+- Liz Mooney
+- Simone Bratt
+organisations:
+- Met Office
+- RHS Bridgewater
+- RHS Garden Wisley
+- Royal Horticultural Society
 ---
 
 They are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, according to the Royal Horticultural Society.

@@ -13,6 +13,32 @@ categories:
 - York
 - Science
 image: https://www.gazetteherald.co.uk/resources/images/21485873.jpg?type=og-image
+locations:
+- Cambridge
+- Europe
+- North Yorkshire
+- UK
+people:
+- Liz Cashon
+organisations:
+- 3Keel
+- Abingdon Health
+- CHAP
+- Cargill Bioindustrial
+- Centre for Crop Health and Protection
+- Fera Science Limited
+- Fera Science of York
+- Food and Environment Research Agency
+- Innovate UK
+- Insect Research Laboratory
+- Labcorp
+- Labskin Limited
+- Pic
+- Sand Hutton
+- YBC
+- York Biotech
+- York Biotech Campus
+- Yorkshire
 ---
 
 *(Image: Pic supplied)*

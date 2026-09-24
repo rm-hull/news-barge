@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - Family & Parenting
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Thorp Arch
+- Yorkshire
+people:
+- Charlotte Farrington
+organisations:
+- '## Yorkshire Children’s Charity'
+- Thorp Arch
+- YCC
+- Yorkshire Children’s Charity
+- Yorkshire Children’s Charity’s
 ---
 
 # Thousands of winter items packed at Thorp Arch warehouse to support Yorkshire children

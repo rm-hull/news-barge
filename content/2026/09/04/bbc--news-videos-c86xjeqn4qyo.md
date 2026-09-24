@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+people:
+- Chris Mason
+- Farage
+organisations:
+- Channel 4 News
+- Reform UK
 ---
 
 # Mason: 'Not what Farage wanted today to look like'

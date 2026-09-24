@@ -14,6 +14,14 @@ categories:
 - York
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Castlegate
+- Malton
+people:
+- Mariana Madalina Horea
+organisations:
+- Da Elia Pizza & Restaurant
+- Elia's Corner
 ---
 
 A family-run Italian restaurant in Malton has been named a finalist in the UK Small Business Awards.

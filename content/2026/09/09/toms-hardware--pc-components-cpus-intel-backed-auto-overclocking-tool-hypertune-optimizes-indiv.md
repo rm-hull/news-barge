@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/UKj3qUKNrrWkzkmSLq4azG-2560-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Austin Copeland
+- Plaisier
+- Tom
+organisations:
+- Apex
+- Easy Anti-Cheat
+- Extreme Tuning Utility
+- Game Hub
+- Get Tom's Hardware
+- Google News
+- Hypertune
+- Intel
+- Marvel Rivals
+- Pieter Plaisier
+- Riot Vanguard
+- SkatterBencher
+- TSM
+- Tom’s Hardware
+- Valorant
+- XTU SDK
 ---
 
 ![The Hypertune application.](https://cdn.mos.cms.futurecdn.net/UKj3qUKNrrWkzkmSLq4azG.png) 

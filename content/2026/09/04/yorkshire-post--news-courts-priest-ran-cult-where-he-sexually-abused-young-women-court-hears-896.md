@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Cheshire
+- Elizabeth Cook
+- PA
+- Sheffield
+- Wilmslow
+people:
+- Christopher Brain
+- Lycra Nuns
+- Robert De Niro
+- Tim Clark
+organisations:
+- Church of England
+- Inner London Crown Court
+- KC
+- NOS
+- Nine O’Clock Service
+- Ponds Forge Rotunda
+- Present Tense
 ---
 
 # Priest ran ‘cult’ where he sexually abused young women, court hears

@@ -12,6 +12,52 @@ image: https://i.guim.co.uk/img/media/c44144ae2b2a7e0d2a8c94a5392b601177817c0f/0
 categories:
 - UK
 - News & Politics
+locations:
+- California City
+- Conroe
+- Georgia
+- Gilroy
+- Los Angeles
+- Mexico
+- Montgomery
+- Otay Mesa
+- Pearsall
+- Philippines
+- San Diego
+- San Francisco
+- San Jose
+- South Texas
+- Stewart
+- US
+people:
+- Alex Padilla
+- Allen Tayson
+- Christopher Chestnut
+- Deborah Lee
+- God
+- Guillermo
+- Gustavo Guevara
+- Michelle Brané
+- Mom
+- Ryan Gustin
+- Samantha Sanchez
+- Teresa Reyes
+- Trump
+- Val Suarez
+organisations:
+- CCIJ
+- California Collaborative for Immigrant Justice
+- Congress
+- CoreCivic
+- Department of Homeland Security
+- DoJ
+- ICE
+- Immigration and Customs Enforcement
+- Instagram
+- Interfaith Movement for Human Integrity
+- Together and Free
+- Trump
+- United States Citizenship and Immigration Services
 ---
 
 Teresa Reyes drove 300 miles to be with her son on his 32nd birthday in May, but she couldn’t give him a gift, share a meal with him or give him a hug. She couldn’t even touch him.

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Aomori
+- Beijing
+- China
+- Japan
+- North Korea
+- Tottori
+people:
+- Sanae Takaichi
+organisations:
+- Air Self-Defense Force
+- Global Hawks
+- Misawa Air Base
+- RQ-4B
+- Self-Defense Forces’
 ---
 
 Japan's air force lost contact on Tuesday with one of its long-distance surveillance drones after it went missing during a flight off the country's northwestern coast.

@@ -11,6 +11,17 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/20/17/Tropical_Weather_91992.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Colima
+- Jalisco
+- Mexico
+- Miami
+- Michoacán
+- Polo
+people: []
+organisations:
+- Tropical Storm Polo
+- U.S. National Hurricane Center
 ---
 
 Tropical Storm Polo has formed off southwestern Mexico

@@ -13,6 +13,16 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21491142.jpg?type=og-image
+locations:
+- North Yorkshire
+- Spurriergate
+- York
+- Zara
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- Zara
 ---
 
 Clothing was stolen from a high street store in York city centre, prompting a police CCTV appeal.

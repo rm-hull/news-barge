@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Nandi County
+- National Republic of Kenya
+- Sen
+people:
+- Ahmed Abdullahi
+- Davji Bhimji Atellah
+- James Murimi
+- Samson Cherargei
+- Seth Panyako
+organisations:
+- COG
+- Council of Governors
+- Council of Governors and the Salaries and Remuneration Commission
+- Council of Governors’
+- Salaries and Remuneration Commission
+- Senate
 ---
 
 Doctors in Kenya on Tuesday threatened to join a walkout by nurses that is now in its sixth week, citing an increased workload in hospitals as they cope with the impact of the strike.

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Las Vegas
+- TSA PreCheck
+- U.S.
+people: []
+organisations:
+- Dallas-Fort Worth International Airport
+- Harry Reid International Airport
+- Los Angeles International Airport
+- Salt Lake City International Airport
+- TSA PreCheck
+- Transportation Security Administration
 ---
 
 For decades, the airport security checkpoint has marked the end of the road for friends and relatives seeing off a traveler. That is changing for some travelers.

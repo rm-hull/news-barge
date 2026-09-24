@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Illinois
+- Massachusetts
+- North Carolina
+- Plymouth
+- Texas
+- TikTok
+- UK
+- US
+people:
+- Avram Mack
+- Callan
+- Clancy Fournier
+- Cora
+- Dawson
+- Jennifer Tufts
+- Jodi Fournier
+- Katelyn Kazmirci
+- Lindsay Clancy
+- Maryanne Drysdale
+- Melissa Merrill
+- Nicole Russell
+- Patrick Clancy
+- Vincenzo Vazquez
+organisations:
+- American Psychiatric Association
+- BBC
+- CNN
+- Clancy
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

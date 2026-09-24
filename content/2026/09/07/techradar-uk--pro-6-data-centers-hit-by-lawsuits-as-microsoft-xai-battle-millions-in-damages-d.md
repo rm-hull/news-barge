@@ -11,6 +11,33 @@ image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
 - Society & Culture
+locations:
+- Dowagiac
+- Fairwater
+- Hood County
+- Michigan
+- Mississippi
+- Mount Pleasant
+- New Jersey
+- New York
+- North Tonawanda
+- Oregon
+- Southaven
+- Texas
+- Vineland
+- Wisconsin
+- xAI
+people: []
+organisations:
+- '## xAI'
+- Amazon
+- Defendant’s Data Center
+- Efosa
+- Google News
+- Microsoft
+- TechRadar Pro
+- Weitz & Luxenberg
+- dBA
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

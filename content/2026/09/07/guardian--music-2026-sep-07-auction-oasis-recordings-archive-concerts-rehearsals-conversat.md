@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Asia
+- Australia
+- Britain
+- Evesham
+- Littleton
+- Loch Lomond
+- North America
+- Scotland
+- Venice
+- Worcestershire
+people:
+- Ben Homer
+- Huw Richards
+- Liam Gallagher
+- Noel Gallagher
+- Owain Richards
+organisations:
+- Adidas Kegler Super Ostrich
+- Guardian
+- Littleton Auctions
+- Oasis
+- Times
 ---
 
 An archive of more than 100 hours of Oasis recordings, including concerts, rehearsals and candid conversations between Noel and Liam Gallagher, is to be auctioned for up to £1.6m despite objections from the band.

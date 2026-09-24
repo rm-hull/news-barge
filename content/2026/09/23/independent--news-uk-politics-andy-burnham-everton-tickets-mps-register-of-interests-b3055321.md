@@ -13,6 +13,41 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/22/16/197df6ae5d7775880eabb0b491ea0af4Y29udGVudHNlYXJjaGFwaSwxNzg3NDk0MTk4-2.85628886.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Athens
+- Canada
+- Crystal Palace
+- Greater Manchester
+- Greece
+- Hill Dickinson Stadium
+- Hill-Dickinson Stadium
+- Liverpool
+- London
+- Restore Britain
+people:
+- Andy Burnham
+- Keir Starmer
+- Kemi Badenoch
+- Kyriakos Mitsotakis
+- Lee Anderson
+- Marie-France van Heel
+- Mark Carney
+- Ms Badenoch
+- Musk
+- Nigel Farage
+- Rosie
+- Rupert Lowe
+- Rupert Murdoch
+organisations:
+- Arsenal FC
+- Elon Musk’s X
+- Everton
+- Google
+- MPs'
+- News Corp UK
+- Reform UK
+- Tottenham Hotspur
+- Wolverhampton Wanderers
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

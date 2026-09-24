@@ -11,6 +11,24 @@ description: Could the RAM crisis get any gloomier? Yes, it just did, with the l
 image: https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- Kim Dong-won
+organisations:
+- AI
+- Business Korea
+- Framework
+- GPU
+- Google News
+- HBM
+- Hachette UK
+- KB Securities
+- RAM
+- SK Hynix
+- Samsung
+- VideoCardz
+- Wccftech
 ---
 
 ![RAM sticks stacked on top of each other](https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta.jpg) 

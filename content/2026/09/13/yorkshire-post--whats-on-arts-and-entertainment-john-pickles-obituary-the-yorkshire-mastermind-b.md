@@ -16,6 +16,26 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Doncaster
+- Great North Road
+- Hollywood
+- UK
+- Woodlands
+- Yorkshire
+people:
+- Andrew
+- Frankie Goes
+- Gerry
+- Glen Miller
+- John Pickles
+- Little Richard
+organisations:
+- Doncaster DJ
+- Jive Bunny
+- Les Hemstock
+- Mastermix
+- The Mastermixers.
 ---
 
 # John Pickles obituary: The Yorkshire mastermind behind Jive Bunny And The Mastermixers

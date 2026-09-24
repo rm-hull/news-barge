@@ -10,6 +10,19 @@ description: Microsoft dresses up expensive hardware requirements as a thoughtfu
 image: https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- AI
+- Efosa
+- GitHub Copilot
+- Google News
+- Microsoft
+- Project Zenith
+- TechRadar Pro
+- WinAppCLI
+- Windows Dev Skills
+- Windows Terminal
 ---
 
 ![Windows 11](https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g.jpg) 

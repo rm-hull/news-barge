@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Asia
+- Bab al-Mandab
+- Bahrain
+- Djibouti
+- Egypt
+- Europe
+- Gulf of Aden
+- Hodeidah
+- Hormuz
+- Iran
+- Mayun
+- Mocha
+- Oman
+- Pakistan
+- Perim
+- Red Sea
+- Riyadh
+- Salalah
+- Saudi Arabia
+- Somalia
+- Suez
+- Tehran
+- Turkey
+- UK
+- US
+- United Arab Emirates
+- Washington
+- Yemen
+people:
+- Donald Trump
+- Maj Gen
+- Mocha
+- Rashad al-Alimi
+- Tareq Saleh
+- Tawakkol Karman
+organisations:
+- GCC
+- Gulf Cooperation Council
+- National Resistance forces
+- UN
 ---
 
 Yemen’s rampant Houthi forces have captured a strategic island in the Bab al-Mandab strait, expanding their control of the narrow waterway, one of the world’s vital shipping routes.

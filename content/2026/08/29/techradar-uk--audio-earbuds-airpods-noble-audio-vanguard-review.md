@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/scrie39iTJsMJTRR3m8jcV-1920-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Harry Padoan
+- Marco Castello
+- Vitess
+organisations:
+- Amazon
+- Astell & Kern
+- Astell & Kern A
+- IEM
+- IEMs
+- Noble Audio
+- Noble Audio Vanguard
+- TechRadar
 ---
 
 ### TechRadar Verdict

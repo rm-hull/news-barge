@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bayeux
+- Bulgaria
+- Canada
+- East Jerusalem
+- Falklands
+- France
+- Gaza
+- Germany
+- Iran
+- Israel
+- Italy
+- Jordan
+- Kiryat Gat
+- London
+- Middle East
+- Palestine
+- Paris
+- UK
+- US
+- Washington
+- West Bank
+- White House
+people:
+- Andy Burnham
+- Benjamin Netanyahu
+- Donald Trump
+- Ed Miliband
+- Emmanuel Macron
+- Marco Rubio
+organisations:
+- Board of Peace
+- British Museum
+- EU
+- EU27
+- House
+- International Gaza Support Center
+- Palestinian Authority
+- Senate
+- Sky News
+- UN
 ---
 
 British intelligence has been given assurances by its Israeli counterpart that information sharing with the UK will continue as before, Ed Miliband, the foreign secretary has said.

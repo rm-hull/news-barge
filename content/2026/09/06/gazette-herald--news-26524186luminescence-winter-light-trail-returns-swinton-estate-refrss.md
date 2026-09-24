@@ -14,6 +14,28 @@ categories:
 - York
 - Travel
 - History
+locations:
+- England
+- Hollywood
+- Masham
+- North Yorkshire
+- Ripon
+- Swinton Estate
+- Swinton Park
+- The Terrace
+- UK
+people:
+- Felicity Cunliffe-Lister
+- Ramune Aleks
+organisations:
+- Access the Dales
+- Luminesce Trail
+- Luminescence
+- Michelin Guide
+- Swinton Country Club
+- Swinton Estate
+- Swinton Estate?
+- Swinton Park Hotel
 ---
 
 A mile-long trail of light installations is set to illuminate the grounds of a historic estate in North Yorkshire.

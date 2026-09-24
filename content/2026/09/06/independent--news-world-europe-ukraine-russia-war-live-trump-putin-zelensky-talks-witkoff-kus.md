@@ -13,6 +13,58 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Berlin
+- Bishkek
+- Boryspil Airport
+- Crimea
+- Europe
+- Germany
+- Kremlin
+- Kyiv Airport
+- Kyiv India
+- Kyrgyzstan
+- Leipzig
+- Middle East
+- Moscow
+- Norway
+- Russia
+- Svalbard
+- The Hague
+- UK
+- US
+- Ukraine
+- White House
+- Zhuliany
+people:
+- '## Zelensky'
+- Andrii Sybiha
+- Bohdan
+- Donald Trump
+- Francis Tusa
+- Gavin Gray
+- Jared Kushner
+- Molchanov
+- Narendra Modi
+- S Jaishankar
+- Sergei Lavrov
+- Steve Witkoff
+- Vitaliia Poliakova
+- Vladimir Putin
+- Volodymyr Zelensky
+- Volodymyr Zelenskyy
+- Yuri Ushakov
+organisations:
+- EU
+- G7
+- IMF
+- International Monetary Fund
+- Kyiv
+- Naftogaz
+- Reuters
+- SCO
+- Shanghai Cooperation Organisation
+- Trump
 ---
 
 Negotiations between Ukraine and the US have officially begun in Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in the capital following their three-hour meeting with Vladimir Putin in Moscow.

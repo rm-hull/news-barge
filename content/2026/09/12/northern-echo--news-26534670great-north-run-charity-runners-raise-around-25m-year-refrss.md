@@ -15,6 +15,43 @@ categories:
 - Health & Fitness
 - Business & Entrepreneurship
 - Sports
+locations:
+- Claremont Road
+- Durham
+- Home’
+- Junior
+- Newcastle Civic Centre
+- North East
+- Rose Bridge
+- South Shields
+- St Oswald
+- St. Oswald’s
+- Tyne Bridge
+- UK
+- US
+- Wideopen
+people:
+- Addison
+- Alfie Joey
+- Anna Hodgson
+- Louie
+- Peter Rabbit
+- Peter Rabbits
+- Shannon Taylor
+- Taylor Wimpey
+- Vincent
+organisations:
+- BBC Newcastle
+- Freeman Hospital
+- Great North Run team
+- Louie’s Charity
+- Mini GNR
+- Pilgrim Newcastle
+- RVI
+- The Sick Children’s Trust
+- US Active’
+- US Active’ Social
+- Yellow Pages
 ---
 
 **Alfie Joey on the great work that is done each year by everyone taking part in the Great North Run**

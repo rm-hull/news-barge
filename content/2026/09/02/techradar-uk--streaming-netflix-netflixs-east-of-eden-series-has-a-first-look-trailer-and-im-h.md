@@ -11,6 +11,35 @@ image: https://cdn.mos.cms.futurecdn.net/mqrF7Ag4wwQ2uFa5cp6XY5-1956-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- East of Eden
+- Hollywood
+people:
+- Adam Trask
+- Aron
+- Cal
+- Cathy Ames
+- Christopher Abbott
+- Ciaran Hinds
+- Elia Kazan
+- Florence Pugh
+- Hamilton
+- James Dean
+- Joe Anders
+- John Steinbeck
+- Joseph Zada
+- Lucy Buglass
+- Samuel
+- Zoe Kazan
+organisations:
+- East of Eden
+- Google News
+- Lucy Goes
+- Netflix
+- Rotten Tomatoes
+- TechRadar
+- The Simpsons
+- Trask
 ---
 
 ![Florence Pugh as Cathy in East of Eden](https://cdn.mos.cms.futurecdn.net/mqrF7Ag4wwQ2uFa5cp6XY5.png) 

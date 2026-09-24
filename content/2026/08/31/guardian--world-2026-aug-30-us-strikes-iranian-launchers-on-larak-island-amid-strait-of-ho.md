@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Gulf
+- Hormuz
+- Iran
+- Israel
+- Jordan
+- Kharg
+- Larak
+- Lebanon
+- Pakistan
+- Qatar
+- Tehran
+- US
+- United States
+- Washington
+- White House
+- al-Azraq
+people:
+- Donald Trump
+- Hussein
+organisations:
+- Agence France-Presse
+- Fars
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Mehr
+- Reuters
+- Revolutionary Guards
+- Tasnim
 ---
 
 Iran has launched retaliatory strikes on airbases in Jordan after the United States attacked Iranian rocket launchers on an island in the strait of Hormuz, the first such strikes in a month.

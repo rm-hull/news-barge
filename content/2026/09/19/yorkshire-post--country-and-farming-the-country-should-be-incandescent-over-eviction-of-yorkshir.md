@@ -16,6 +16,34 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQyNzdjNjhiLTM0MGYtNGVlMy1iZDMzLThiOGRlNzEzMDQwODo1ZjA2NGVkZi0yNDAwLTQwMTQtYTVmYy1mZTVmZmUxYTc2NDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Eden Farm
+- France
+- Great Hatfield
+- North Yorkshire
+- Old Malton
+- UK
+people:
+- Andy Burnham
+- Baroness Rock
+- Emma Sturdy
+- Farmers Emma
+- Goliath
+- James Hardisty.
+- James Mitchinson
+- Keir Starmer
+- Peter Auty
+- Rob Sturdy
+- Robert
+- Shylock
+organisations:
+- Fitzwilliam Estate
+- Government
+- HM Opposition
+- House of Lords
+- NFU
+- The Yorkshire Post
 ---
 
 # The country should be incandescent over eviction of Yorkshire farmers - James Mitchinson

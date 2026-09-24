@@ -14,6 +14,69 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- America
+- Brooklyn Bridge
+- Brownsville
+- City Hall
+- D.C.
+- Episcopal Chapel
+- Episcopal Church
+- Florida
+- Lower Manhattan
+- Marcy Borders
+- Marsh and McLennan
+- New York
+- New York City
+- North Tower
+- Pennsylvania
+- Pentagon
+- Sarasota
+- South Tower
+- South Towers
+- St Francis of Assisi Church
+- St Paul
+- Washington
+- White House
+- Winter Garden
+- World Trade Center
+people:
+- Andrew Card
+- Diana
+- Edward Fine
+- Frank
+- George W Bush
+- Gerard McGibbon
+- Ken Radigan
+- Marcy Borders
+- Mychal Judge
+- Sandy
+- Tony James
+organisations:
+- American Airlines
+- Bank of America
+- Borders
+- City Hall
+- Department of Defense
+- Emma E Booker Elementary School
+- FDNY
+- NBC News
+- NYPD
+- National Geographic
+- New York Fire Department
+- North Tower
+- Passersby
+- Pentagon
+- Smoke
+- South Tower
+- St Paul
+- Statue of Liberty
+- The Irish Times
+- The New York Times
+- Twin Towers
+- United Airlines
+- World Trade Center
+- World Trade Center Towers
 ---
 
 The trauma of 9/11 still lingers 25 years on from the attacks on New York City and Washington, D.C., that left nearly 3,000 people dead.

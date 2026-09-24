@@ -11,6 +11,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=120
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- John Ternus
+- Tim Cook
+organisations:
+- AI
+- Apple Intelligence
+- Surprise
 ---
 
 Apple’s new CEO John Ternus used the opening of the company’s Surprise and Shine event Wednesday to make its AI strategy clear: the iPhone is already the best AI device out there, and Apple cares more about data privacy than its rivals.

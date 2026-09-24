@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Clarkson’s Farm
+- Leyburn
+- Tennants
+- Yorkshire
+people:
+- Alicia Martin
+- Charlotte Kingham
+- Helen Wyman
+- Irwin Mitchell
+- Laura Millar
+- Ms Bowers
+- Ms Wyman
+- Nicola Bowers
+organisations:
+- Applied Animal Behaviour and Welfare
+- Barclays
+- Frontier Agriculture
+- H&H
+- HECK!
+- Hops & Chops
+- Jerseys and Holsteins
+- Newcastle University
+- Nuffield Farming Scholar
+- Tennants
+- The Garden Rooms
+- Women In Farming Autumn Network
+- Women in Farming Network
+- Yorkshire Agricultural Society
+- Yorkshire Rural Support Network
 ---
 
 *(Image: Yorkshire Agricultural Society)*

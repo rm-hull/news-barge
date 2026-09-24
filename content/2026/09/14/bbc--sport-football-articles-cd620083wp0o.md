@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Banik Ostrava
+- Boleyn Ground
+- Czech Republic
+- Czechoslovakia
+- England
+- Europe
+- Heathrow Airport
+- London
+- Moscow
+- Prague
+- Prostejov
+- United
+- West Ham
+people:
+- Alex Ferguson
+- Andy Cole
+- Billy Bonds
+- Frank McAvennie
+- Ian Bishop
+- Julian Dicks
+- Lee Sharpe
+- Lou Macari
+- Ludek Miklosko
+- Ludo Miklosko
+- Mark Hughes
+- Phil Parkes
+- Trevor Morley
+organisations:
+- Banik Ostrava
+- Blackburn
+- Hammers
+- Liverpool
+- Manchester United
+- Miklosko
+- Premier League
+- Queens Park Rangers
+- Red Devils
+- Rovers
+- West Ham
+- West Ham United
 ---
 
 ![Ludek Miklosko is applauded by fans before West Ham's match against Liverpool in December 2024](https://ichef.bbci.co.uk/ace/standard/774/cpsprodpb/fe22/live/17d69a90-30a6-11f0-8519-3b5a01ebe413.jpg)

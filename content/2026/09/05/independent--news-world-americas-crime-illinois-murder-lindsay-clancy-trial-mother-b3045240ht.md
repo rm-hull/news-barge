@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Frankfort
+- Illinois
+- Plymouth
+- U.S.
+people:
+- Andrea Lyon
+- Corie Walsh
+- Lindsay Clancy
+- William Sullivan
+organisations:
+- ABC
+- CPR
+- Chicago
+- NBC News
+- Will County Adult Detention Facility
 ---
 
 An Illinois mom murdered her 2-year-old son after she became “very invested” in the Lindsay Clancy murder trial, police said.

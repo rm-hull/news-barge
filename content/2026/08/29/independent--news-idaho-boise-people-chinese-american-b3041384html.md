@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- America
+- Boise
+- Caldwell
+- China
+- Japan
+- Laos
+- Meridian
+- Nampa
+- New York
+- South Korea
+- Thailand
+- U.S.
+- Vietnam
+people:
+- Bailey Hughes
+- Beryl Shereshewsky
+- Lola Osinkolu
+- Manjula Jain
+- Palina Louangketh
+organisations:
+- IBISWorld
+- Idaho Capital Asian Market
+- Idaho Museum of International Diaspora
+- YouTube
 ---
 
 When kitchen burnout hits, figuring out what to make for dinner every day can feel like an impossible task.

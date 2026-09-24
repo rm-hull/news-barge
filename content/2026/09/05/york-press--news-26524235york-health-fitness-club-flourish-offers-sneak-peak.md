@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Bootham
+- Clifton
+- England
+- Flourish
+- London
+- White House
+- YOUR
+- York
+people:
+- Claire Riddell
+- Stacey Dix
+- Vanessa Warn
+organisations:
+- Flourish
+- Public Notice Portal
+- Ultra Telsa
 ---
 
 ## Sneak peak inside state-of-the-art health club opening in 'beautiful' York building

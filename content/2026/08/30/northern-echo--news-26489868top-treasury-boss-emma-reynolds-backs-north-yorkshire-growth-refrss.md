@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Crazy Kingdom
+- Darlington
+- Echo
+- North East
+- North Yorkshire
+- North of England
+- Northallerton
+- UK
+- Westminster
+- Whitehall
+- York
+people:
+- Andy Burnham
+- Emma Reynolds
+- Ms Reynolds
+organisations:
+- Darlington Economic Campus
+- Government
+- Great British Summer Savings
+- HM Treasury
+- No.11 North
+- No11 North
+- North Yorkshire Council
+- Northallerton Town Investment Plan and High Street Growth Plan
+- Simon Walker
+- The Northern Echo
+- York and North Yorkshire Combined Authority
 ---
 
 A top Treasury boss has vowed the Government will provide the funding to back growth in North Yorkshire after revealing a £40m investment connected to high streets.

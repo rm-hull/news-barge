@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478361.jpg?type=og-image
+locations:
+- England
+- M62
+- West Yorkshire
+people: []
+organisations:
+- M62
 ---
 
 The M62 is shut between junctions 22 and 24 due to a “concern for safety” incident involving a person on a bridge.

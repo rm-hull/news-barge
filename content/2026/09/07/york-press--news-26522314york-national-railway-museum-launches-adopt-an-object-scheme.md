@@ -13,6 +13,43 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Asia
+- Barrow Station
+- Bullet Train
+- Coppernob
+- Edwardian Britain
+- Europe
+- Furness Railway
+- Great Hall
+- Japan
+- NRM JR West
+- North Shed
+- Osaka
+- Queen Adelaide
+- Shinkansen Bullet Train
+- Shinkasen
+- Surbiton
+- Tokyo
+- Vauxhall
+- York
+people:
+- Andrew McLean
+- Anthony Coulls
+- George Parker
+- King
+- Rob Scargill
+- William Pearson
+organisations:
+- British Railways
+- Coppernob
+- Evening Star
+- NRM credit Science Museum Group
+- National Collection
+- National Railway Museum
+- Science Museum Group
+- Shinkansen
+- York National Railway Museum
 ---
 
 ## From a bullet train to a murder trial relic: 6 objects you can adopt at York's NRM

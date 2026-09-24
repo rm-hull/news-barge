@@ -14,6 +14,15 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- New York
+- New York City
+people:
+- Michael Mulgrew
+- Zohran Mamdani
+organisations:
+- AI
+- United Federation of Teachers
 ---
 
 New York City’s public schools will temporarily ban students in elementary and middle schools from using artificial intelligence tools in the upcoming school year, Mayor Zohran Mamdani announced Wednesday.

@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- AI
+- Ampere
+- Blackwell GPUs
+- DLAA
+- DLL
+- DLSS 5
+- Everness
+- Get Tom's Hardware
+- Google News
+- Nvidia
+- RTX
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

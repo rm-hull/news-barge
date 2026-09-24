@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Makerfield
+- UK
+people:
+- Andy Burnham
+- Dan Jukes
+- James Orr
+- Nigel Farage
+- Robert Jenrick
+organisations:
+- BBC Breakfast Reform
+- Budget
+- Cambridge University
+- Channel 4 News
+- Electoral Commission
+- Faculty of Divinity
+- Houses of Parliament.
+- Labour
+- Metropolitan Police
+- Philosophy of Religion
+- Reform UK
+- Sky News
+- Times
+- Today
+- Verbatim Investigations Farage
 ---
 
 Robert Jenrick on Reform's proposed increase in tax-free personal allowance

@@ -13,6 +13,29 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- '## York'
+- Bath
+- Bristol
+- Europe
+- Foss basin
+- London
+- Piccadilly
+- Plymouth
+- Tin Can Alley’
+- UK
+- UNESCO Durham Cathedral
+people:
+- Derek ReedMiddlethorpe
+- John JonesRusset
+- Sue Gabbattiss
+organisations:
+- Delay Repay
+- Durham Castle
+- NRM
+- UN World Heritage Site
+- UNESCO WHS
+- World Heritage
 ---
 
 *(Image: Sue Gabbattiss)*

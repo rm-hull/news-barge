@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21479021.jpg?type=og-image
+locations:
+- Cayton Low Road
+- North Yorkshire
+- Scarborough
+people:
+- Alexander Dennis
+- Dan Stephens
+- Sharon Graham
+organisations:
+- Alexander Dennis
+- Unite
 ---
 
 *(Image: Unite)*

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Baltic States
+- Belarus
+- Estonia
+- Europe
+- France
+- Kaunas
+- Latvia
+- Lithuania
+- Lithuania.
+- Moscow
+- Poland
+- Russia
+- Russian Federation
+- Siauliai
+- Ukraine
+- Vilnius
+people:
+- Gitanas Nausėda
+organisations:
+- Enhanced Air Policing
+- Ministry of Defence
+- NATO
+- Nato Air Defence Mission
+- eAP
 ---
 
 ![A Rafale B standard F4 fighter jet of France's air force flies as part of Nato's Enhanced Air Policing (eAP) mission in the Baltic States, on December 17, 2024 at Siauliai airbase in Lithuania.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg)

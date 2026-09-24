@@ -16,6 +16,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Heathers.
+- Leeds
+- North Yorkshire
+- TikTok
+- West Yorkshire
+people:
+- Christian Slater
+- Heather McNamara
+- J.D. Where
+- Lou Henry
+- Veronica Sawyer
+- Winona Ryder
+organisations:
+- Leeds Grand
+- Leeds Grand Theatre
 ---
 
 # 'We're humans too': Heathers star Lou Henry on online critics and returning to Leeds

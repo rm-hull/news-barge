@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Ohio
+- Texas
+- U.S.
+- White House
+people:
+- Bernie Moreno
+- Davis Ingle
+- Donald Trump
+- Elon Musk
+- Laura Ingraham
+organisations:
+- Congress
+- Fox News’
+- The Independent
+- Trump
+- U.S. Constitution
 ---
 
 President Donald Trump has offered a vague answer when asked about the timing of the $5,000 “Trump Dividend” checks he said his administration would send to Americans after the midterms.

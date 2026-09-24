@@ -13,6 +13,16 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21483791.jpg?type=og-image
+locations:
+- George Hudson Street
+- North Yorkshire
+- Popworld
+- York
+people:
+- Peter Maw
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

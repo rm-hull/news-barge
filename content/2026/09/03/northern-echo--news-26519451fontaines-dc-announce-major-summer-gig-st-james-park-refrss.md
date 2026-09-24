@@ -15,6 +15,34 @@ categories:
 - Music
 - Sports
 - Travel
+locations:
+- Cardiff
+- Europe
+- Exhibition Park
+- Glasgow
+- London
+- Manchester
+- Newcastle
+- North America
+- North East
+- Norwich
+- St James’ Park
+- St. James’ Park
+- Tyneside
+- UK
+people:
+- Brad Miller
+- Steve Hunt
+organisations:
+- BRIT
+- Fontaines D.C.
+- Fontaines D.C.’s
+- Fontaines DC
+- Fontaines'
+- Mags
+- Newcastle United
+- The LCR
+- UEA
 ---
 
 Irish rock band Fontaines DC are set to play a huge summer gig at St James’ Park.

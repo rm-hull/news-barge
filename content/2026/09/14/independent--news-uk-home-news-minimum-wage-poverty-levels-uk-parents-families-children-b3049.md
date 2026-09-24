@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- UK
+people:
+- Darren Baxter
+organisations:
+- JRF
+- Joseph Rowntree Foundation
+- Loughborough University
+- Zoopla
 ---
 
 Hundreds of thousands of parents in the UK are more than £20,000 below the annual income needed for a decent living standard, new research has warned.

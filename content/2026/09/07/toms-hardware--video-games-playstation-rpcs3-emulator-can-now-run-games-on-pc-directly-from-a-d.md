@@ -12,6 +12,17 @@ image: https://cdn.mos.cms.futurecdn.net/ujdrnFj7KsYUGnaXtPXBVi-2000-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Google News
+- PS3
+- PS4
+- PS5
+- RPCS3
+- Tom's Hardware
 ---
 
 ![PS3 games](https://cdn.mos.cms.futurecdn.net/ujdrnFj7KsYUGnaXtPXBVi.jpg) 

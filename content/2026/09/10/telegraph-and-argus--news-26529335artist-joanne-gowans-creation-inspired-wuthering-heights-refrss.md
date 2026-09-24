@@ -12,6 +12,32 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Ash
+- Germany
+- Haworth
+- Heathcliff
+- Ida Oberstein
+- North Yorkshire
+- Pateley Bridge
+- Ponden Hall
+- Wuthering Heights
+- York
+people:
+- Alice Clarke
+- Alice Clarke Jacqueline Warrington
+- Alison Tetley Joanne
+- Cathy
+- Edgar Linton
+- Emily Bronte
+- Heathcliff
+- Jacqueline Warrington
+- Joanne Gowan
+- Nelly
+organisations:
+- Acquire
+- Ampleforth Abbey
+- RM Weare
 ---
 
 WHAT does it take to make an heirloom of the future?

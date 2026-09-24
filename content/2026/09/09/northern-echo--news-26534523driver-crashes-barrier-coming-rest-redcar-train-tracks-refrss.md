@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- North East
+- Redcar Central
+- Redcar Lane
+- Saltburn
+people: []
+organisations:
+- BBC
+- Darlington
+- Network Rail
+- Northern Echo
+- RNLI
+- Saving Lives at Sea
+- The Northern Echo
 ---
 
 *(Image: GOOGLE)*

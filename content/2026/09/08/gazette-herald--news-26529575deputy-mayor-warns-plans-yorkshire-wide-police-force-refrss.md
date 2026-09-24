@@ -15,6 +15,14 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- York
+people:
+- Jo Coles
+organisations:
+- Government’s White Paper
+- Yorkshire Post
 ---
 
 *(Image: Supplied)*

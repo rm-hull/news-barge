@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg
+locations:
+- Athens
+- Greece
+- Vouliagmeni
+people: []
+organisations:
+- CPR
+- Kathimerini
+- Ta Nea
 ---
 
 ![The beach with the sea in the background. There are sun beds and straw shades](https://ichef.bbci.co.uk/ace/standard/986/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg)

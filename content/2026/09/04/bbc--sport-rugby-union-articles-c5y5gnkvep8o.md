@@ -13,6 +13,81 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Australia
+- Baltimore
+- FNB Stadium
+- Johannesburg
+- New Zealand
+- Samoa
+- South Africa
+- Soweto
+- Sydney Football Stadium
+people:
+- :** Kolbe
+- :** McKenzie
+- Amarante
+- Amarante.
+- Annaleah Rush
+- Arendse
+- Aumua
+- Bower
+- Carter
+- Darry
+- De Jager
+- Esterhuizen
+- Etzebeth
+- Feinberg-Mngomezulu
+- Fourie
+- Hanekom
+- Holland
+- Hooker
+- J Barrett
+- Jacobson
+- Jordan
+- Kriel
+- Lakai
+- Libbok
+- Lienert-Brown
+- Lomax
+- Louw
+- Love
+- Marx
+- Moorby
+- Mzwandile] Stick
+- Nche
+- New Zealand
+- Newell
+- Nortje
+- Numia
+- PS du Toit
+- Preston
+- Reinach
+- Roigard
+- Savea
+- Semo Sititi
+- Siya Kolisi
+- Soweto
+- Steenekamp
+- T du Toit
+- Taukei'aho
+- Tupaea
+- Vaa'I
+- Van den Berg
+- Wallace Sititi
+- Wiese
+- Xavier
+- de Allende
+organisations:
+- All Black
+- All Blacks'
+- Black Ferns'
+- Borders
+- Instagram
+- Meta
+- Newcastle
+- Siya Kolisi
+- Springboks
 ---
 
 ![Siya Kolisi celebrates scoring a try](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/07f9/live/9df4cf20-a89b-11f1-bec1-0df3834ee043.jpg)

@@ -13,6 +13,21 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- Aberdeen
+- Bonnyrigg
+- Glasgow
+- Midlothian
+- Nazareth House
+people:
+- Kathleen McLean
+- Margaret McLafferty
+- Marie Docherty
+- Mary Broderick
+- Mary Doyle
+- Renucci
+organisations:
+- High Court
 ---
 
 A further hearing has been set in the case of five nuns accused of historic abuse against several children.

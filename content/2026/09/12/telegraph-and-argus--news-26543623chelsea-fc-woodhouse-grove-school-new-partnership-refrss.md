@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Apperley Bridge
+- The Grove
+- Woodhouse Grove
+people:
+- James Lockwood
+- Steve Shipp
+organisations:
+- Bradford City AFC
+- Chelsea FC
+- Chelsea FC Football Projects Manager
+- Chelsea Football Club
+- Grove Golf Academy
+- SCHOOL
+- Woodhouse Grove
+- Woodhouse Grove School
 ---
 
 A SCHOOL has announced a major new partnership with Chelsea Football Club.

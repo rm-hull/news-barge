@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bradford
+- Wales
+people:
+- Claire Redman
+- Eric Shaw
+- Kerri Holland
+organisations:
+- Jade Pearl
+- Steeton Primary School
+- Yorkshire
 ---
 
 *(Image: Steeton Primary School)*

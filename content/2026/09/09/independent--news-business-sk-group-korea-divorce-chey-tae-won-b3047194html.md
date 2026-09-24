@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AI
+- Seoul
+- South Korea
+people:
+- Chey Tae-won
+- Lee Jae Myung
+- Lee Jae-keun
+- Lee Jae-yong
+- Roh So-yeong
+- Roh Soh-yeong
+- Roh Tae-woo
+organisations:
+- AI
+- Chey
+- SK Group
+- SK Hynix
+- SK Inc
+- Samsung Electronics
+- Seoul High Court
+- Supreme Court
+- Yonhap News Agency
 ---
 
 Billionaire SK Group Chairman Chey Tae-won is expected to accept 700 billion won (£386 million) of the 944 billion won (£520 million) property division ordered by a South Korean court in a case that has been dubbed the “divorce of the century”.

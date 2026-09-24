@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Business & Entrepreneurship
+locations:
+- County Durham
+- DURHAM
+- Dennis Street
+- Peterlee Magistrates’ Court
+- Wheatley Hill
+people:
+- William Etherington
+organisations: []
 ---
 
 *(Image: DURHAM CONSTABULARY)*

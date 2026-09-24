@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Education & Learning
 image: https://cdn.mos.cms.futurecdn.net/dKDnduziWejXTeL4okJ3Mj-1920-80.jpg
+locations:
+- UK
+people:
+- Dashiell Wood
+organisations:
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
 ---
 
 ![Modern Warfare 3](https://cdn.mos.cms.futurecdn.net/dKDnduziWejXTeL4okJ3Mj.jpg)

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- County Durham
+- Darlington
+- Deck
+- Redcar
+- Teesside
+- Yorkshire
+people:
+- Max McDonald
+- Sammi Wheater
+organisations:
+- Ibiza
+- The Deck
 ---
 
 From changing music trends to the rise of social media - one Teesside nightclub has stood the test of time and is now gearing up to celebrate its 60th anniversary.

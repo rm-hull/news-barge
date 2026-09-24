@@ -11,6 +11,45 @@ image: https://i.guim.co.uk/img/media/2320bc0848788fb945b165fcfb69500931255964/4
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- East Germany
+- Europe
+- France
+- Iran
+- Italy
+- Mecklenburg-Western Pomerania
+- Mudde
+- Poland
+- Saxony Anhalt
+- Saxony-Anhalt
+- Spain
+- Stockholm
+- Sweden
+- UK
+people:
+- Alice Weidel
+- Ann-Cathrine Jungar
+- Carolin Würfel
+- Cas Mudde
+- Constanze Stelzenmuller
+- Elon Musk
+- Florian Ranft
+- Giorgia Meloni
+- Magdalena Andersson
+- Martin Gelin
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- Brothers of Italy
+- Das Progressive Zentrum
+- FT
+- Greens
+- Guardian
+- Jungar
+- Left
+- Södertörn University
 ---
 
 Europe’s focus turned nervously to Sweden on Sunday, after an explosive election in Germany just a week earlier placed a far-right party, officially classed as “extremist”, on the brink of power in a German state for the first time since the Nazi era. A party with neo-Nazi roots has been pulling the government’s strings in Sweden for the last four years – would the country’s general election put the far right formally in government? Or would enough Swedes opt for a gear change, having seen the Sweden Democrats’ hardline (some would say poisonous) agenda in action?

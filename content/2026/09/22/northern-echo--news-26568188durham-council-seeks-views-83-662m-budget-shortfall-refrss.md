@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/13028333.jpg?type=og-image
+locations:
+- County Durham
+- Newsquest
+people:
+- Cllr Grimes
+- Darren Grimes
+organisations:
+- County Durham Reform
+- Durham County Council
+- Government
+- Let’s Talk County Durham
+- Liberal Democrat
 ---
 
 *(Image: Newsquest)*

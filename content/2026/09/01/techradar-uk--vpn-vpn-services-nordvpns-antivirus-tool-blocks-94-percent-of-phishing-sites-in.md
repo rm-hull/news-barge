@@ -11,6 +11,21 @@ description: The cybersecurity giant continues its winning streak in the AV-Comp
 image: https://cdn.mos.cms.futurecdn.net/zmJ2RgmxhzQ8HMH2mDJdXi-1280-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Domininkas Virbickas
+- Rene Millman
+organisations:
+- AV-Comparatives
+- Avast One Free Antivirus
+- Computer Weekly
+- Financial Times
+- Google News
+- IT Pro
+- No Trace
+- NordVPN
+- Norton Antivirus Plus
+- The Guardian
 ---
 
 ![NordVPN on a mobile phone](https://cdn.mos.cms.futurecdn.net/zmJ2RgmxhzQ8HMH2mDJdXi.jpg) 

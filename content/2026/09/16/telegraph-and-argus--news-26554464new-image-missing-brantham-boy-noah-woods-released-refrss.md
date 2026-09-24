@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Brantham
+- Suffolk Constabulary
+people:
+- Noah Woods
+organisations:
+- Brantham Parish Council
 ---
 
 *(Image: Suffolk Constabulary)*

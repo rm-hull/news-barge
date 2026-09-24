@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bandar Abbas
+- India
+- Iran
+- Pakistan
+- Shahid Rajaee
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- Washington
+people:
+- Abbas Golzanaei
+- Bandar Abbas
+- Hamid Hajizadeh
+- Mahsa Shojaei
+- Mehrdad Jahangiri
+- Mohammad Bagher Qalibaf
+- Mohammad Torabian
+- Shahid Rajaee
+organisations:
+- Associated Press
+- IRNA
 ---
 
 In the Iranian port city of Bandar Abbas on the Strait of Hormuz, a waterfront once busy with boats, trucks and workers has fallen quiet. It's a front line of the economic pain that the United States now hopes to intensify after six months of war.

@@ -14,6 +14,59 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Afghanistan
+- America
+- Basra
+- Europe
+- Falluja
+- Gaza
+- Harvard
+- Iran
+- Iraq
+- Israel
+- London
+- Middle East
+- Middle Eastern
+- Moscow
+- Mosul
+- New York
+- Pakistan
+- Raqqa
+- Russia
+- Syria
+- Tora Bora
+- Twin Towers
+- UK
+- US
+- Ukraine
+- Washington
+- West
+people:
+- Alex Younger
+- Bashar al Assad
+- Bin Laden
+- George W Bush
+- Isis
+- Osama Bin Laden
+- Osama bin Laden
+- Prof Huntingdon
+- Saddam Hussein
+- Samuel Huntingdon
+- Steven Sotloff
+- Tony Blair
+- Vladimir Putin
+- bin Laden
+organisations:
+- Brown University’s Costs of War
+- European Union
+- Islamic State
+- Nato
+- North Atlantic Treaty Organization
+- Pentagon
+- Special Forces
+- UN
+- United Nations
 ---
 
 It’s unlikely that Osama bin Laden picked up the idea of a clash of civilizations from a Harvard professor’s essay in a 1993 edition of *Foreign Affairs*, but when Al Qaeda terrorists slammed two aircraft into New York’s Twin Towers and attacked the Pentagon eight minutes later - that’s what he got.

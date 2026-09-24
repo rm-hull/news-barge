@@ -15,6 +15,29 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRjNDkxMTdiLWQ1MjctNGFkOS04OWFiLWI3Yzc2YWI4MDEzYzozZjJjYmI5ZS0yY2QyLTQ1NjktYTE4OS04NmY4MzRjMGZkZDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- '## Yorkshire Cat Rescue'
+- Keighley
+- Selby
+- Wakefield
+- West Yorkshire
+- Xander
+people:
+- Bradley Shaw
+- John Blow
+- Lynn Nicholls
+- Pete
+- Sara Atkinson
+- Spud
+- Turlough O'Neill
+- Xander
+organisations:
+- Government
+- Haworth Cat Rescue
+- Paragon Veterinary Referrals
+- YCR
+- YP
+- Yorkshire Cat Rescue
 ---
 
 # Yorkshire Cat Rescue: Keighley-based centre on the frontline of cat overpopulation crisis

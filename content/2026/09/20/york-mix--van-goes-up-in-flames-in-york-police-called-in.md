@@ -12,6 +12,15 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/firefighter-approaching-fire-engine-dreamstime.webp
+locations:
+- Acomb
+- Dringhouses
+- Southfield Crescent
+- York
+people: []
+organisations:
+- '#### **Southfield Crescent'
+- North Yorkshire Fire & Rescue Service
 ---
 
 A van went up in flames in York late last night (Saturday).

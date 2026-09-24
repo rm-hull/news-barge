@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bridges Shopping Centre
+- Fawcett Street
+- Mowbray Park
+- North East
+- Sunderland
+- Wilko
+people:
+- Acuitus
+- Alex Auterac
+organisations:
+- Acuitus
+- Binns
 ---
 
 *(Image: Provided)*

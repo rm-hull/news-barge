@@ -14,6 +14,17 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- Britain
+- Queen Adelaide’s Saloon
+- Shinkansen
+- York
+people:
+- Anthony Coulls
+organisations:
+- British Railways
+- Evening Star
+- National Railway Museum
 ---
 
 *(Image: Supplied)*

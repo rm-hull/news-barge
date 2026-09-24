@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Lake America
+- Lake Ontario
+- Mexico
+- US
+- White House
+people:
+- Deborah Elms
+- Donald Trump
+- Mark Carney
+organisations:
+- BBC
+- Bombardier
+- Hinrich Foundation
+- Switchboards Carney
+- West Wing of the White House
 ---
 
 ![US President Donald Trump speaks to Canadian Prime Minister Mark Carney  during a welcome outside the West Wing of the White House in October 2025](https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg)

@@ -12,6 +12,23 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/20468085.jpg?type=og-image&xType=0&yType=1256
+locations:
+- Abbey Headland
+- Market Place
+- New Quay Road
+- Pier Road
+- UK
+- West Cliff
+- Whitby
+- York
+people:
+- Chris Riddolls
+- Jacqui Layman
+organisations:
+- '![]()Whitby Town Council'
+- Colostomy UK
+- North Yorkshire Council
+- Whitby Town Council
 ---
 
 ## Public toilets could be adapted to support people with ‘hidden condition’

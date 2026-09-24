@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e23e/live/599420d0-b668-11f1-b785-7d19738c6de2.png
+locations:
+- Alabama
+- London
+- Portobello Road
+- US
+people:
+- Atticus Finch
+- Harper Lee
+- Olivia Haysman-Walker
+- Tom Robinson
+organisations:
+- BBC London
+- BBC Radio London
+- British Library
+- Oxfam
 ---
 
 ![A close-up of the top half of a hardback book](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e23e/live/599420d0-b668-11f1-b785-7d19738c6de2.png)

@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21464102.jpg?type=og-image&xType=0&yType=2
+locations:
+- Coast to Coast
+- Keld
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Yorkshire Dales
+people:
+- '## Ravenseat'
+- Amanda Owen
+- Amanda Owen Amanda Owen
+- Annas
+- Anty John
+- Clementine
+- Clive Owen
+- Clive Reuben
+- Edith Owen
+- Instagram
+- Miles
+- Nancy
+- Raven
+- Sidney
+- Violet
+organisations:
+- Channel 5
+- Clive and Kids
+- Cream Teas
+- GOOGLE
+- Our Yorkshire Farm
+- Ravenseat Instagram
 ---
 
 *(Image: GOOGLE)*

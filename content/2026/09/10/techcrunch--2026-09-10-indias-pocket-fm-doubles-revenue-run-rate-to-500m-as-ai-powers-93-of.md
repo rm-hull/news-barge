@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Creator Economy & Marketing
 - Business & Entrepreneurship
+locations:
+- AI
+- Culver City
+- France
+- Germany
+- India
+- U.K.
+- U.S.
+people:
+- Rohan Nayak
+- Vasu Sharma
+organisations:
+- AI
+- Apple App Store Pocket Entertainment
+- Bengaluru
+- Meta
+- Pocket Entertainment
+- Pocket FM
+- TechCrunch
+- Tesla
 ---
 
 Pocket FM, an Indian audio storytelling platform, has doubled its annualized revenue run rate to $500 million over the past year as it increasingly turns to artificial intelligence to produce its content.

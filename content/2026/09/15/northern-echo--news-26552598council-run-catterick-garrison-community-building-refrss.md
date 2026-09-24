@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Catterick Garrison
+- North Yorkshire
+- Shute Road
+people:
+- Cllr Wilkinson
+- Peter Wilkinson
+organisations:
+- Catterick Garrison
+- Community and Enterprise Building
+- HIVE
+- North Yorkshire Council
 ---
 
 North Yorkshire Council will run Catterick Garrison’s new Community and Enterprise Building itself after councillors unanimously agreed an operating model for the facility.

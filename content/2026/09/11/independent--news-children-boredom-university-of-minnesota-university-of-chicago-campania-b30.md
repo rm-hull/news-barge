@@ -15,6 +15,30 @@ categories:
 - Family & Parenting
 - Self-Improvement
 - Education & Learning
+locations:
+- Arizona
+- Campania
+- Chicago
+- D.C.
+- Flagstaff
+- Italy
+- Washington
+people:
+- Caroline Chirichella
+- Dana Suskind
+- Jean Twenge
+- Jemia Cunningham-Elder
+- Kiryn Hoffman
+- Lucia
+- Nicole Knoth
+- Stephanie Carlson
+organisations:
+- AP
+- Associated Press’
+- Institute of Child Development
+- National Children’s Museum
+- University of Chicago
+- University of Minnesota
 ---
 
 When children forget their lunch, can't solve a math problem or don't know how to get somewhere, the instinct for parents can be to step in immediately. But sometimes, the problem is an opportunity.

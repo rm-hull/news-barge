@@ -12,6 +12,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc0/live/a22ffb
 categories:
 - UK
 - News & Politics
+locations:
+- Al-Mughayyir
+- East Jerusalem
+- Gaza
+- Khirbet al-Tabban
+- Masafer Yatta
+- Middle East
+- Qusra
+- Ramallah
+- South Hebron Hills
+- State of Israel
+- West Bank
+- al-Mughayyir
+people:
+- B'Tselem
+- Khalil Abu Alia
+- Lucy Williamson
+- Omar al-Nassan
+- Qusra
+organisations:
+- B'Tselem
+- BBC
+- Supreme Court
+- UN
 ---
 
 ![Relatives mourn two Palestinians who were killed in al-Mughayyir during an attack by Israeli settlers and soldiers, at a hospital in Ramallah, in the occupied West Bank (2 September 2026)](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg)

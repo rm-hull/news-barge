@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford Moor Park
+- Gazz Hall
+- Killinghall Road
+people:
+- Paul Conroy
+organisations:
+- MCET
+- Major Collision Enquiry Team
+- The Major Collision Enquiry Team
 ---
 
 *(Image: Gazz Hall)*

@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- A659 Leeds Road
+- Cherry Tree Court
+- Kiwi Street
+- North Yorkshire
+- Salford
+- Tadcaster
+- York Magistrates' Court
+people:
+- James Johnson
+organisations:
+- Audi
+- Bank Holiday
+- York Crown Court
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/qWgzfkCyruQrZtvsK2gbTg-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Virgin River
+people:
+- Alan Ritchson
+- George Cooper Sr.
+- Greyston Holt
+- Hudson
+- Maria Sten
+- Neagley
+- Nicholas Wootton
+- Reacher
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Neagley
+- Netflix
+- Radio Times
+- Reacher's
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Reacher and Neagley sit in the crowd at a baseball game](https://cdn.mos.cms.futurecdn.net/qWgzfkCyruQrZtvsK2gbTg.jpg) 

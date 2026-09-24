@@ -14,6 +14,18 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Donald Trump
+- Mike Johnson
+- Rosa DeLauro
+- Tom Cole
+organisations:
+- Border Patrol
+- Department of Homeland Security
+- House Appropriations Committee
+- Senate
+- Trump
 ---
 
 Members of the House voted have passed a short-term funding measure to keep the federal government open into early December and prevent a shutdown as lawmakers campaign for reelection.

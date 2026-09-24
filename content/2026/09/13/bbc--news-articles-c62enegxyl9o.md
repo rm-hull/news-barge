@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cardiff
+- Downing Street
+- Europe
+- Northern Ireland
+- Scotland
+- Senedd
+- UK
+- United Kingdom
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Ap Iorwerth
+- Darren Millar
+- Emma Little-Pengelly
+- John Swinney
+- Mary Lou McDonald
+- Michelle O'Neill
+- Rhun ap Iorwerth
+organisations:
+- Barnett
+- Commons
+- DUP
+- Plaid Cymru
+- Reform UK Wales
+- SNP
+- Scotland
+- Sinn Féin
+- Welsh NHS
 ---
 
 ![The image is made up of three photographs. The left-hand photo shows Rhun ap Iorwerth. The centre image shows Michelle O'Neill. The right-hand image is of John Swinney. All three are speaking from a podium.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7a40/live/c6871800-adee-11f1-b1d1-571ed4d7ff2c.png)

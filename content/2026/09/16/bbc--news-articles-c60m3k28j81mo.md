@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- Stanford
+- US
+people:
+- Ilary Allodi
+- James Ainge
+- Sarah Chan
+- Sergiu Pașca
+organisations:
+- BBC News
+- St Andrews University
+- Stanford University
+- University of Edinburgh
 ---
 
 ![A white laboratory mouse sits on a human hand inside a lab. The human hands holding the mouse have blue protective gloves on](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg)

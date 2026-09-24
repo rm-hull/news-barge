@@ -13,6 +13,19 @@ categories:
 - UK
 - Sports
 - Travel
+locations:
+- Ecuador
+- Mexico
+- Quito
+people:
+- Ciegocleta
+- Franklin Ochoa
+- José Paéz
+- Miguel Ramos
+- Ramos’
+- Ximena Lozano
+organisations:
+- Ciegocleta
 ---
 
 Franklin Ochoa says that since losing his eyesight 16 years ago, he has started to take on new adventures that he hadn’t thought of when he could see, and it’s all thanks to a bicycle club.

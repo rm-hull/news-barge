@@ -15,6 +15,38 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bradford District
+- Cons
+- Gipton
+- Harehills
+- Harrogate
+- Ilkley
+- Leeds
+- Pudsey
+- Skipton
+- West Yorkshire
+- Westgate Gyratory
+people:
+- Cllr Cohn
+- Ian Eglin
+- Ms Brabin
+- Ralph Cohn
+- Salma Arif
+- Simon Pope
+- Tong
+- Tracy Brabin
+organisations:
+- Airedale
+- Authority
+- Baildon
+- Bradford Council
+- Labour
+- Leeds City Council
+- Reform
+- Transport Capital Programme
+- WYCA
+- West Yorkshire Combined Authority’s Investment Committee
 ---
 
 # Bradford Councillor says recent transport schemes in Leeds have "damaged" city centre

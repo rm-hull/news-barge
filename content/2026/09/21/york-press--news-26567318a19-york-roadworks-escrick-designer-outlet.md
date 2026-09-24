@@ -11,6 +11,28 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/4491892.jpg?type=og-image
+locations:
+- '**York'
+- A162
+- A19
+- A63
+- A64 Tadcaster Road
+- Barlby
+- Designer Outlet
+- Elmet
+- Escrick
+- Naburn Lane
+- Selby
+- Sherburn
+- Skipwith Road
+- Towton
+- York Station Gateway
+- Yorkshire
+people: []
+organisations:
+- A19
+- City of York Council
+- Lane Rentals Services
 ---
 
 ROADWORKS are set to begin next week in a major York road.

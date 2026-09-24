@@ -13,6 +13,33 @@ categories:
 - UK
 - Technology & Software
 - Society & Culture
+locations:
+- AI
+- China
+- Mar a Lago
+- U.S.
+- U.S.A.
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- Jacob Coxon
+- Leakers
+- Raymond La Raja
+- Sam Altman
+organisations:
+- AI “EVIL
+- Anthropic
+- Big Tech
+- MAGA
+- New York Time
+- New York Times
+- Politico
+- Siena University
+- Trump
+- Truth Social
+- University of Massachusetts Amherst
 ---
 
 President Donald Trump’s Truth Social posting spree attempting to quash fears over the rise of artificial intelligence was met with a rare show of revolt from his base.

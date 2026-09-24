@@ -11,6 +11,15 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/03/police-slow-road-closed-canva.webp
+locations:
+- '#### Crash'
+- Huntington
+- North Lane
+- York
+people: []
+organisations:
+- A64
+- North Yorkshire Police
 ---
 
 **\*\* The road has now reopened \*\***

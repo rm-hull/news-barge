@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- '**‘Prestigious’ Yorkshire'
+- Harrogate
+- Kirk Deighton
+- North Yorkshire
+- Wetherby
+- Wolds
+people:
+- David Hockney
+- Kirk Deighton
+organisations:
+- Barry Crux & Co
+- Christie & Co
+- Google Reviews
+- Horse & Hound
+- Pic
+- The Bay Horse
+- TripAdvisor
+- Ye Olde Red Lion
 ---
 
 A popular North Yorkshire village pub is on the market for £550,000 freehold.

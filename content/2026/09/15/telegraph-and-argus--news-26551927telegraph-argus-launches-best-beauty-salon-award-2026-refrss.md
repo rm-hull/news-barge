@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Commercial Street
+- Shipley
+people:
+- Chloe
+- Donna Perkins
+- Emma
+- Mum Donna Perkins
+organisations:
+- Perks of Beauty
+- Telegraph & Argus
 ---
 
 The Telegraph & Argus is once again searching for the Bradford district’s finest beauty businesses as it launches its Best Beauty Salon Award 2026 competition.

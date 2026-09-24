@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brantham
+- Felixstowe
+- Holbrook
+- Merriam Close
+people:
+- Noah
+organisations:
+- BBC
+- Brantham Parish Council
+- CAD
+- Coastguard Rescue Teams
+- HM Coastguard
+- Suffolk Constabulary
+- Suffolk Police
 ---
 
 A police search is under way to locate a three-year-old boy who went missing in a playground in Brantham.

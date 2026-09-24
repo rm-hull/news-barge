@@ -12,6 +12,25 @@ categories:
 - Health & Fitness
 - Sports
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/22/15/Tom_D_1_TO-2026-09-18-11-23-10_1790084050_6754b8e9-570e6a6049b3f6f2.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Catterick
+- Coast to Coast Walk
+- Great North Children’s Hospital
+- James Cook University Hospital
+- Newcastle
+people:
+- '![Tom'
+- Dad Robin
+- Rachel
+- Samina O’Brien
+- Tom Davies
+organisations:
+- Great North Children’s Hospital
+- RGS
+- Richmond Dales
+- Richmond Dales Amateur Swimming Club
+- Ripon Grammar
+- Ripon Grammar School
 ---
 
 # Half-marathon triumph for Ripon schoolboy stroke victim

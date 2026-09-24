@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Easingwold
+- Linton
+- North Yorkshire
+- Ouse
+- RAF Linton-on-Ouse
+- Redcar
+- York
+people:
+- Anna Turley
+- Malcolm Taylor
+- Rachael Maskell
+- Ryan McDougall
+organisations:
+- Home Office
+- Linton Action Group
+- PA Wire
+- RAF Linton-On-Ouse
+- The Press
 ---
 
 *(Image: Ryan McDougall/PA Wire)*

@@ -13,6 +13,18 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21473303.jpg?type=og-image
+locations:
+- Britain
+- Toxteth
+- UK
+people:
+- David Cannadine
+- Richard Holmes
+- Sadiah Qureshi
+- Sam Wetherell
+organisations:
+- Liverpool
+- University of York
 ---
 
 *(Image: Supplied)*

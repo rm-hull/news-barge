@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kyiv
+- Moscow
+- Myla
+- Russia
+- U.S.
+- Ukraine
+- Vyshneve
+people:
+- Kyiv
+- Myla
+- Volodymyr Zelenskyy
+organisations:
+- Emergency Service
+- Kyiv
 ---
 
 At least 37 people were killed when a Russian drone struck a warehouse in the village of Myla, west of Kyiv. The attack Friday night was the deadliest this year in the war and came as Russia steps up the frequency of major attacks on its neighbor in the hopes of exhausting Ukraine's defenses.

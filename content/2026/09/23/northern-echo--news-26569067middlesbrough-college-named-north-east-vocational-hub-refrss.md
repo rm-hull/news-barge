@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21483320.jpg?type=og-image
+locations:
+- England
+- North East
+people:
+- David Hughes
+- Jessica Barwell
+organisations:
+- Association of Colleges
+- Darlington STEM
+- Department for Education-funded
+- Middlesbrough College
+- Middlesbrough College the North East’s Technical and Vocational Excellence Hub
+- TVE Hub
+- TVE Hubs
+- Technical and Vocational Hubs
 ---
 
 *(Image: Supplied)*

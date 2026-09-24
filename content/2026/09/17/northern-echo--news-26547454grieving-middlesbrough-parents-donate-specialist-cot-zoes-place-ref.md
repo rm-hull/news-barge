@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Middlesbrough
+- Teesside Hospice
+- Zoe's Place
+people:
+- Abigail
+- Abigail’s Footsteps
+- David Ward
+- David Ward MBE
+- Jasmine
+- Jessica
+- Jo
+- Joe Jennings
+- Noah
+- Sarah Jennings
+organisations:
+- Abi Cooling Cot
+- Abigail’s Footsteps
+- Heartbroken North East
+- Zoe's Place
+- Zoe's Place Baby Hospice
+- Zoe’s Place
+- Zoe’s Place Baby Hospice
 ---
 
 A grieving couple in Teesside have created a legacy of hope and comfort for other families in memory of their baby daughter.

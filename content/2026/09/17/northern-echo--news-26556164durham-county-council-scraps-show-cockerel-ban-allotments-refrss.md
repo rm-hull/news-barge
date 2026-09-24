@@ -12,6 +12,23 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Auckland
+- County Durham
+people:
+- Andrew Husband
+- Brian
+- Cllr Bellingham
+- Dawn Bellingham
+- Howard Brown
+- Tom Amos
+- Tom Barker Amos
+organisations:
+- )* Council
+- Animal and Plant Health Agency
+- County Durham
+- Durham County Council
+- Reform UK
 ---
 
 Durham County Council has scrapped its controversial ban on cockerels on council-owned allotments after a campaign by tenants, poultry enthusiasts and a County Durham teenager.

@@ -14,6 +14,23 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- Shanghai
+- U.S.
+- Washington
+people:
+- Donald Trump
+- George Chen
+- Xi Jinping
+organisations:
+- AI
+- Huawei
+- Nvidia
+- SuperPod
+- The Asia Group
 ---
 
 Chinese technology giant Huawei launched new chip technologies in a challenge to global leaders such as Nvidia that highlights the narrowing gap between China and the U.S. in artificial intelligence.

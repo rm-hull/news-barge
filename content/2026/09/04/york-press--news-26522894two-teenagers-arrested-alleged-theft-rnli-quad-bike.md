@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- North Yorkshire
+- Whitby
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- RNLI
 ---
 
 *(Image: RNLI)*

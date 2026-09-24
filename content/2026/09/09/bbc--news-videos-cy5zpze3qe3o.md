@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- E1
+- East Jerusalem
+- Israel
+- Maale Admumim
+- Middle East
+- UK
+- West Bank
+people:
+- Khan al Ahmar
+- Lucy Williamson
+organisations:
+- BBC
 ---
 
 # Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement

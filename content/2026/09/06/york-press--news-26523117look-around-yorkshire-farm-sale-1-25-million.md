@@ -12,6 +12,21 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cock Beck
+- Leeds
+- North Yorkshire
+- Riverside
+- Stutton
+- Tadcaster
+- Treetops Farm
+- York
+people:
+- Andrew Black
+organisations:
+- Savills York
+- Savills’
+- Treetops Farm
 ---
 
 ## Look around North Yorkshire farm as it hits the market – for £1.25 million

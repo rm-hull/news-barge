@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- London
+- Russia
+- Soviet Union
+- UK
+- Ukraine
+people:
+- Badri Patarkatsishvili
+- Inna
+- Iya Patarkatsishvili
+- Liana Patarkatsishvili
+- Meera Syal
+- Mikhail Fridman
+- Toby Jones
+- Vladimir Putin
+- Yaroslava Maksymenko
+organisations:
+- Alfa Group
+- Arma
+- IDS Ukraine
+- IDS Ukraine Group
+- National Anti-Corruption Bureau of Ukraine
+- New World Value Fund Limited
+- Sage & Jester
+- Storehouse
+- Ukrainain
 ---
 
 A British theatre impresario and her billionaire family are embroiled in a bitter dispute with Ukrainian authorities seeking to seize a water company they jointly own with a Russian oligarch.

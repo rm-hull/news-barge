@@ -13,6 +13,21 @@ image: https://static.independent.co.uk/2026/09/16/08/Philippines_Corruption_7_8
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Manila
+- Quezon City
+- Sandiganbayan
+people:
+- Ade Fajardo
+- Ferdinand Marcos Jr.
+- Jesus Crispin Remulla
+- Martin Romualdez
+- Zaldy Co
+organisations:
+- Harvard University
+- House of Representatives
+- Senate Blue Ribbon
 ---
 
 A Philippine lawmaker and former speaker of the House of Representatives pleaded not guilty Wednesday to charges alleging he pocketed millions of dollars in kickbacks from flood control projects, his lawyer said.

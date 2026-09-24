@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Leeds
+- Millennium Square
+- Skelton Grange
+- Stourton
+people:
+- Kate Pearson
+- Lianne Marie Mease
+organisations:
+- Leeds City Council
+- Microsoft
+- No Leeds Data Centre
 ---
 
 # Hundreds protest against Microsoft data centre in Leeds

@@ -13,6 +13,22 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74dd/live/e565c490-b773-11f1-a7b2-f3bdba1cd194.png
+locations:
+- Bootle
+- Liverpool
+- Merseyside
+- Stone Square
+people:
+- Elisha Brabin
+- Ellis
+- Leo
+- Loti Nambombe
+- Prudence
+- Rachel
+- Steve Rotheram
+organisations:
+- BBC Merseyside
+- BBC Radio Merseyside
 ---
 
 ![A woman holds her daughter in her arms laughing, a child in front of a christmas tree, a child in fancy dress, an older child in a white shirt](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/74dd/live/e565c490-b773-11f1-a7b2-f3bdba1cd194.png)

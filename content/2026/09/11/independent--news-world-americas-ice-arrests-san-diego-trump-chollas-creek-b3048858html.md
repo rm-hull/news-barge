@@ -13,6 +13,32 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- C
+- Chollas Creek
+- John Marshall Elementary
+- San Diego City College
+people:
+- James Mervil
+- Josselene Polidor
+- Scott Peters
+- Todd Gloria
+- Trump
+organisations:
+- ABC10
+- City College
+- DHS
+- Department of Homeland Security
+- FEDERAL POL
+- ICE
+- John Marshall Elementary School
+- SDCCD
+- SDUSD
+- San Diego City College
+- San Diego Community College District
+- San Diego Education Association
+- San Diego Unified School District
+- U.S. Immigration and Customs Enforcement
 ---
 
 Community leaders and public officials have voiced sharp criticism over two recent U.S. Immigration and Customs Enforcement operations conducted near educational institutions, labeling the actions as cruel and exploitative.

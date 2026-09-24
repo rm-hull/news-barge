@@ -11,6 +11,20 @@ image: https://static.independent.co.uk/2026/07/20/11/2283706530..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Ireland
+- Qatar
+- Turkey
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+organisations:
+- Air Force One
+- NATO
+- The Independent
+- Washington Post
 ---
 
 President Donald Trump plans to fly to Ireland next week on the Boeing 747 donated by Qatar, despite concerns over its security and unfinished upgrades, a senior White House official told the *Washington Post*.

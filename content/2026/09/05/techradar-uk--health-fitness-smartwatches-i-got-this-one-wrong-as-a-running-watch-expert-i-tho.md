@@ -10,6 +10,26 @@ description: Almost all smartwatches could use an LED light, in my opinion.
 image: https://cdn.mos.cms.futurecdn.net/gRM86JyQioPdaVuLWKHWvY-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Amazfit
+- Coros
+- Garmin
+- Michael Sawh
+- Suunto
+organisations:
+- Amazfit Cheetah 2 Pro
+- BBC Science Focus
+- GQ
+- Garmin
+- Google News
+- Men's Fitness
+- Metro and Stuff
+- Polar Street X
+- The Run Testers
+- Wareable
+- Wired UK
+- YouTube
 ---
 
 ![Garmin Venu 4](https://cdn.mos.cms.futurecdn.net/gRM86JyQioPdaVuLWKHWvY.jpg) 

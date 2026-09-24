@@ -12,6 +12,23 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brussels
+- Europe
+- Frankfurt
+- US
+people:
+- Christine Lagarde
+- Piero Cipollone
+organisations:
+- Cipollone
+- ECB Executive Board
+- ECB Governing Council
+- EU
+- European Central Bank
+- Maria Skłodowska-Curie
+- Mastercard
+- Visa
 ---
 
 ## The European Central Bank is inviting people across Europe to vote on the designs for future euro banknotes before its public survey closes on 21 September.

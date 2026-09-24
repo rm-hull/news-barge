@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Dallas
+- Florida
+- New York
+- Texas
+- White House
+- Wisconsin
+people:
+- Anna Paulina Luna
+- Derrick Van Orden
+- Donald Trump
+- Greg Abbott
+- Hail Mary
+- JD Vance
+- Kamala Harris
+- Ken Paxton
+- Mike Lawler
+- Steve Austin
+organisations:
+- Congress
+- Cook Political Report
+- Dallas Cowboys
+- GOP
+- House
+- Lean Democratic
+- MAGA
+- No. 2
+- Senate
+- Trump
+- YouGov
 ---
 
 Welcome to the 2026 Republican midterm convention. Like everything else in the past two years, this is President Donald Trump’s latest scheme to defy history and hold onto the Republican majorities in the House and the Senate.

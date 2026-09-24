@@ -14,6 +14,50 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Canberra
+- Chitwan
+- Gyirong Port
+- Himalayas
+- Kathmandu
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Nepal.
+- New South Wales
+- Nuwakot
+- Syabrubesi
+- Tadi rivers
+- Tibet
+- Trishuli
+people:
+- '**.** Pandey'
+- Aarush Muralitharan
+- Ashwin Muralitharan
+- Cara Severino
+- Chandrasekaran Muralitharan
+- Chitra Venkatraman
+- Dfat
+- Karan Bhardwaj
+- Keats’
+- Michael Keats
+- Penny Wong
+- Sagar Pandey
+- Sagar Shrestha
+- Saluja
+- Shylaja Muralitharan
+- Simon Ernst
+- Sumi Adhikari
+- Thulu Safru
+- Venkatraman Balakrishnan
+organisations:
+- Department of Foreign Affairs
+- Department of Foreign Affairs and Trade
+- Disaster and Crisis Management Department
+- Himalaya Glacier Company
+- Isha Foundation
+- Nepal Red Cross Society
 ---
 
 Some of them are young, some old; most of them appear to be men. Some of them could be sleeping, except for the mud that covers their bodies. Some, it seems, would be impossible to recognise even if you knew them well.

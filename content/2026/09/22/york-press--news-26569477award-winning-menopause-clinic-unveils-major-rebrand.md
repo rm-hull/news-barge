@@ -12,6 +12,26 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21483700.jpg?type=og-image
+locations:
+- East Yorkshire
+- Milton Keynes
+- UK
+- York
+people:
+- Arturo Almeida
+- Matthew Johnson
+- Ms Dennison
+- Tracey Dennison
+organisations:
+- Advanced Specialist
+- Aesthetics
+- BMS
+- Best Menopause Clinic
+- British Menopause Society
+- Dennison Clinic
+- East Riding Wellness
+- North of England
+- The Dennison Clinic
 ---
 
 *(Image: Supplied)*

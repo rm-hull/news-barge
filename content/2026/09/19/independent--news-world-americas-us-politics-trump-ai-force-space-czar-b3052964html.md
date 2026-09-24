@@ -12,6 +12,12 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Donald Trump
+organisations:
+- AI Force
+- Space Force
 ---
 
 President Donald Trump announced Saturday that he’s forming a new “AI force” to oversee the development of artificial intelligence — just days after dismissing concerns about the potential threat posed by the cutting-edge technology as a “hoax.”

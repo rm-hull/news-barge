@@ -13,6 +13,16 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Disney
+- Google News
+- Netflix
+- Pixar
+- TechRadar
+- The Simpsons
 ---
 
 ![A remote pointing at a TV and a TV frame with the Disney+ homepage](https://cdn.mos.cms.futurecdn.net/xTzdG3qrwaRAPEzWtxvTkP.jpg) 

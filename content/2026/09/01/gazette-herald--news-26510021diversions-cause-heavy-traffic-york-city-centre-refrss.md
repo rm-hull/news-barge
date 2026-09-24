@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Fishergate
+- Paragon Street
+- York
+people: []
+organisations: []
 ---
 
 - Motorists are being reminded of heavy and building traffic in York city centre after part of the city's inner ring road was closed.

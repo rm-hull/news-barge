@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21492457.jpg?type=og-image&xType=0&yType=59
+locations:
+- Metrocentre
+- North East
+- Red Mall
+- UK
+people:
+- Ben Cox
+organisations:
+- Bershka
+- CBRE
+- Inditex
+- Metrocentre
+- Sovereign Centros
+- Stradivarius
+- Zara
 ---
 
 *(Image: Metrocentre)*

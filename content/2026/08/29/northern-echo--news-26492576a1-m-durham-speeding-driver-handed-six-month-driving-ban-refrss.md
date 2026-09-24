@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belle Isle Road
+- Bowburn
+- Bradbury
+- County Durham
+- Darlington
+- Junction 60
+- Junction 61
+- Leeds
+- M
+- Newton Aycliffe He
+- Peterlee Magistrates’ Court
+people:
+- Lee Walker
+organisations:
+- A1
+- A1(M)
+- PA MEDIA
+- Vauxhall
 ---
 
 *(Image: PA MEDIA)*

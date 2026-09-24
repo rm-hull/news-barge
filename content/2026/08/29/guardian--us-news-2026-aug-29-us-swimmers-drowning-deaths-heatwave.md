@@ -11,6 +11,18 @@ image: https://i.guim.co.uk/img/media/f60eb6ce957614453856486dc51296a8e9083d69/1
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- Laguna Beach
+- Santa Cruz
+- Trinity River
+- US
+people:
+- Mike Garel
+organisations:
+- NPS Lake Mead
+- National Park Service
+- US Centers for Disease Control and Prevention
 ---
 
 As a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite from the summer heat, especially amid a score of recent deadly water-related incidents.

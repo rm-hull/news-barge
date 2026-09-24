@@ -12,6 +12,44 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Atlantic
+- Canada
+- Caribbean
+- Central America
+- Elysee Palace
+- Europe
+- France
+- Greenland
+- Guadeloupe
+- Iceland
+- Martinique
+- Mexico
+- North America
+- Ottawa
+- Ottawa-Washington
+- Paris
+- Saint-Pierre-and-Miquelon
+- Strasbourg
+- US
+- Ukraine
+- United States
+people:
+- '## Carney'
+- '## Macron'
+- Donald Trump
+- Emmanuel Macron
+- Francois Hollande
+- Friedrich Merz
+- Mark Carney
+organisations:
+- EU
+- European Commission
+- European Parliament
+- European Union
+- Truth Social
+- WSJ
+- Wall Street Journal
 ---
 
 ## Carney reportedly seeks ‘associate’ EU membership as Ottawa-Washington ties hit fresh low. He will address the European Parliament next week.

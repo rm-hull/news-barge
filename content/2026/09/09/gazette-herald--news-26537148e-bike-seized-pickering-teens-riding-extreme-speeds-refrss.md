@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- North Yorkshire
+- Pickering
+- Surron
+people: []
+organisations:
+- North Yorkshire Police
+- Ryedale Neighbourhood Policing Team
 ---
 
 *(Image: North Yorkshire Police)*

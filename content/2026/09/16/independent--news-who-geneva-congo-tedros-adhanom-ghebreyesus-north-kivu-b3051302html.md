@@ -14,6 +14,20 @@ categories:
 - UK
 - Health & Fitness
 - Society & Culture
+locations:
+- Bundibugyo
+- Congo
+- Geneva
+- Ituri
+- North Kivu
+- South Kivu
+people:
+- Maria Van Kerkhove
+- Tedros Adhanom Ghebreyesus
+organisations:
+- U.N.
+- WHO
+- World Health Organization
 ---
 
 The head of the U.N. health agency is hailing “encouraging signs” in the fight against an Ebola outbreak in one part of eastern Congo, while warning that case counts are rising fast in another as officials race to tamp down the virus.

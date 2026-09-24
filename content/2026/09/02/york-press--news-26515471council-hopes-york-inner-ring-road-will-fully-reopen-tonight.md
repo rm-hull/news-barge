@@ -13,6 +13,22 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Fishergate Gyratory
+- George Street
+- Lead Mill Lane
+- North Yorkshire
+- Paragon Street
+- Part of York
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+people:
+- Kevin Glenton
+organisations:
+- City of York Council
+- First Bus
+- Yorkshire Water
 ---
 
 *(Image: Kevin Glenton)*

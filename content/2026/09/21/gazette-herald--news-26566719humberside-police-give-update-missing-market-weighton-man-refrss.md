@@ -13,6 +13,13 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/20815329.jpg?type=og-image
+locations:
+- Market Weighton
+- York
+people: []
+organisations:
+- Humberside Police
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

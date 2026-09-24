@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Pembrokeshire
+- Wales
+- Ysgol Dyffryn Aman
+people:
+- Doreen Morris
+- Jonathan Pritchard
+- Matthew Roberts
+- Thomas
+- Vicki Williams
+organisations:
+- CCTV
+- CPS
+- Crown Prosecution Service
+- Cwmbran Celtic FC
+- Grian Chatten
+- Milford Haven Comprehensive School
+- Swansea Crown Court
 ---
 
 ![Posed headshot image of vicki williams wearing red blouse and smiling. She has long blonde hair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fd4/live/4c99a8e0-841e-11f1-b3ec-1d7f0502d196.jpg)

@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Canada
+- Central America
+- Cincinnati
+- Colombia
+- Congo
+- Lockland
+- Mauritania
+- Ohio
+- Pular
+- South
+- Springfield
+- Sy
+- Togo
+- Turkey
+- U.S.
+- Ukraine
+- United States
+- Uzbekistan
+people:
+- Aaron Kessler
+- Carolyn Kaster
+- Donald Trump
+- God
+- Khalidou Sy
+- Samba Diallo
+- Souvi Ould Jibril Ould Cheine
+- Vincent Wilson
+organisations:
+- AP
+- ICE
+- Immigration and Customs Enforcement
+- KKK
+- The Associated Press
+- U.S. State Department
+- Valley Interfaith Community Resource Center
 ---
 
 He keeps his American clothes in the closet: jeans, T-shirts, a hard hat for his job at a meatpacking plant.

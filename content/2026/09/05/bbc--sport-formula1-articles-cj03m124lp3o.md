@@ -13,6 +13,59 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- Belgium
+- Bologna
+- China
+- Hungary
+- Imola
+- Italy
+- Japan
+- Monza
+- Silverstone
+- Zandvoort
+people:
+- Adrian Hussain
+- Alberto Ascari
+- Alessandro
+- Andrew Benson
+- Axl
+- Charles Leclerc
+- Daniele
+- Davide Valsecchi
+- Demis
+- Emanuele
+- Emma
+- George Russell
+- Giulia Toninelli
+- Jannik Sinner
+- Kimi Antonelli
+- Kimi Raikkonen
+- Lewis Hamilton
+- Marco Melandri
+- Matilde
+- Monegasque Leclerc
+- Monza
+- Pope
+- Sebastian Vettel
+- Thomas
+- Tommaso
+- Toto Wolff
+organisations:
+- Axl
+- BBC F1
+- BBC Sport
+- Chiacchiere da Box
+- F1 TV
+- Formula 1
+- La Gazzetta dello Sport
+- Maranello
+- Mercedes
+- Monza
+- Paddock Chatter
+- Scuderia Ferrari Club Silverstone
+- Silver Arrows
 ---
 
 ![Kimi Antonelli celebrates after winning the Belgium Grand Prix, with an Italian flag draped over his shoulders](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/f337/live/88ad9d50-a877-11f1-824a-0fc4c5d895ae.png)

@@ -14,6 +14,19 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Gauteng
+- Johannesburg
+- Kempton Park
+- Kwa-Thema
+- Olifantsfontein
+- South Africa
+people:
+- Elizabeth “Tsontso” Moselakgomo
+- Fred Kekana
+organisations:
+- SAPS
+- United Nations'
 ---
 
 The bodies of eight women have been discovered by South African police in the Kempton Park area, east of Johannesburg, in the last two months.

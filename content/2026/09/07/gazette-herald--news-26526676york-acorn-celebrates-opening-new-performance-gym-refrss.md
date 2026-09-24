@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Thanet Road
+- West Bowling
+people:
+- Jamie Peacock
+organisations:
+- BLK BOX
+- Bradford Bulls
+- Leeds Rhinos
+- York Acorn
+- York Acorn ARLFC
 ---
 
 York Acorn ARLFC celebrated a major milestone on Saturday as rugby league legend Jamie Peacock officially opened the club’s new performance and development gym at Thanet Road.

@@ -11,6 +11,46 @@ image: https://static.independent.co.uk/2026/09/16/01/Congress_College_Sports_Ac
 categories:
 - News & Politics
 - UK
+locations:
+- Arkansas
+- Colorado
+- D-Conn
+- D-Wash.
+- Denver
+- Gonzaga
+- R-Mo.
+- R-Texas
+- Sen
+- Washington
+people:
+- Angela Alsobrooks
+- Calmer
+- Chris Murphy
+- Cory Booker
+- Deion Sanders
+- Eric Schmitt
+- God
+- John Calipari
+- Lisa Blunt Rochester
+- Maria Cantwell
+- Mark Few
+- Nick Saban
+- Raphael Warnock
+- Ted Cruz
+organisations:
+- Big Ten
+- House
+- LSU
+- NAACP
+- NCAA
+- NFL
+- Power Four
+- SEC
+- Senate
+- Southeastern Conference
+- Southeastern and Big Ten
+- The Associated Press
+- ___ Pells
 ---
 
 A bill that proposes to fix some of the biggest problems in college sports — spiraling spending, constant lawsuits and a transfer portal run amok — cleared a major hurdle Tuesday when the Senate voted 74-24 to halt debate and move the measure one step closer to a final up-or-down vote.

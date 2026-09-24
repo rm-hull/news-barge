@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Aycliffe Village
+- Chester-le-Street
+- Cockfield
+- Consett
+- DH8 5RL
+- Darlington
+- Front Street
+- Nationwide
+- Newton Aycliffe
+- North East
+- North Terrace
+- Spennymoor
+- St Davids Close
+- Station Road
+- YOUR
+people: []
+organisations:
+- Aycliffe Village Primary School
+- Aycliffe school Durham County Council
+- Durham County Council
+- Portal Durham County Council
+- Public Notice Portal
+- Shop 2
+- Spennymoor Permission
+- The King's Head
 ---
 
 *(Image: THE NORTHERN ECHO)*

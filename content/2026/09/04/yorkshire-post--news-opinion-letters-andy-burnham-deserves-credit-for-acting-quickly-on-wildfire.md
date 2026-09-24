@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Britain
+- Covid
+- Exeter
+- Leeds
+- North Sea
+people:
+- Andy Burnham
+- Baroness Blake
+- Barry Cohen
+- Dan Harris
+- Polanski
+- Starmer
+organisations:
+- COBRA
+- Greens
+- Labour
+- National Emergency Briefing
+- Totnes
+- Yorkshire Post Letters
 ---
 
 # Andy Burnham deserves credit for acting quickly on wildfires but the risks will not disappear - Yorkshire Post Letters

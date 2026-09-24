@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg
+locations:
+- Bahrain
+- Britain
+- China
+- Cuba
+- Denmark
+- Greenland Trump
+- Iran
+- Islamic Republic
+- Israel
+- Kuwait
+- Manhattan
+- Middle East
+- New York
+- North Atlantic
+- Oman
+- Qatar
+- Russia
+- Saudi Arabia
+- Tehran
+- US
+- Ukraine
+- United Arab Emirates
+- United States
+people:
+- AI
+- Abbas Araghchi
+- Andy Burnham
+- António Guterres
+- Donald Trump
+- Mette Frederiksen
+- Steve Witkoff
+- Trump Trump
+- Volodymyr Zelensky
+organisations:
+- Antifa
+- BBC
+- Communist Party USA
+- Democratic Socialists of America
+- Moment Trump
+- UN Headquarters
+- United Nations
+- United Nations General Assembly
 ---
 
 Watch: Trump threatens to 'annihilate' Iran if no deal reached

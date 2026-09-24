@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+people:
+- Dave Plummer
+organisations:
+- Free Software Foundation Europe
+- Get Tom's Hardware
+- Italian Linux Society
+- Microsoft Defender
+- Ministry of State Security
+- RAM
+- Refund4Freedom
+- TMOG
+- Task Manager
+- VLC
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-320-80.jpg)

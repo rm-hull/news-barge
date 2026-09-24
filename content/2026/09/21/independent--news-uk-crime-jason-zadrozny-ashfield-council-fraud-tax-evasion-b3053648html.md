@@ -12,6 +12,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2023/08/18/11/49f88ecb840ec79ef0e4a377ecd05481Y29udGVudHNlYXJjaGFwaSwxNjkyNDM1Mzkz-2.73070505.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ashfield
+- Covid
+- Kirkby-in-Ashfield
+- Northampton Crown Court
+- Nottinghamshire
+- PA
+- Sutton Road
+- Tony Marshall
+people:
+- David Herbert KC
+- James Varley KC
+- Jason Zadrozny
+- Tony Brewer
+organisations:
+- Ashfield District Council
+- Ashfield Heritage Society
+- Ashfield Independents
+- Classic Cinema Club
+- Crown
+- Labour
+- Liberal
+- Nottinghamshire County Council
 ---
 
 A council leader who created a fake heritage society to scam a local authority out of more than £9,000 has been convicted of fraud.

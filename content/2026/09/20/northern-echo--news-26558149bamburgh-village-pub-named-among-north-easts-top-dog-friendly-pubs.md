@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21475506.jpg?type=og-image
+locations:
+- Bamburgh Castle
+- Darlington
+- Front Street
+- Middle Inn
+- North East
+- Northumberland
+- Ravenseat Farm
+- The Middle Inn
+people:
+- Amanda Owen
+- Anty John
+organisations:
+- Middle Inn
+- Rover
+- Tavern Testers
+- The Brandling Villa
+- The Middle Inn
+- The Owl & Otter
+- The Star Inn
 ---
 
 A Bamburgh pub has been named one of the North East’s five most dog-friendly venues.

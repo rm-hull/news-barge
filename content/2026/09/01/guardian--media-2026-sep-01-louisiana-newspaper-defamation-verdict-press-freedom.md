@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Alabama
+- Iberville
+- Louisiana
+- US
+people:
+- Austin
+- Berkley Durbin
+- George Freeman
+- Jeff Hughes
+- Jefferson Davis Hughes III
+- Kai Spears
+- Kevin Hall
+- Scott Sternberg
+- Seth Stern
+organisations:
+- Advocate
+- CBS
+- Freedom of the Press Foundation
+- Media Law Resource Center
+- New York Times
+- The Times
+- Times’
+- WWL Louisiana
+- Washington Post
+- the Times
 ---
 
 A $300,000 jury verdict won recently by a Louisiana supreme court justice who sued the Advocate, the state’s largest newspaper, for libel over an editorial has caused concern among some US press freedom defenders.

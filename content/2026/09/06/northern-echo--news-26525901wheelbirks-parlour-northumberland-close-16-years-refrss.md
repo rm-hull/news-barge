@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Jersey
+- North East
+- Northumberland
+- Stocksfield
+people:
+- Richardson
+- Wheelbirks Parlour
+organisations:
+- The Richardson Family
+- Wheelbirks Parlour
 ---
 
 *(Image: Wheelbirks Parlour)*

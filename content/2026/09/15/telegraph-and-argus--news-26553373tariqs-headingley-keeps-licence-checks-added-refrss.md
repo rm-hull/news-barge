@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Headingley
+- Leeds Civic Hall
+- North East
+- St Michael’s Road
+- UK
+people:
+- Tariq Shafiq
+organisations:
+- Home Office
+- Humber Immigration Compliance and Enforcement
+- ICE
+- LDRS
+- Leeds City Council
+- Tariq’s
+- Yorkshire
 ---
 
 *(Image: LDRS)*

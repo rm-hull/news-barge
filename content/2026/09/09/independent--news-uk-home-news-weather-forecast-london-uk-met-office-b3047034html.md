@@ -13,6 +13,20 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Cardiff
+- England
+- Kew Gardens
+- London
+- Manchester
+- North Atlantic
+- North Sea
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Milder conditions are set to return following a rainy start to the week as temperatures are forecast to creep back up to 23C.

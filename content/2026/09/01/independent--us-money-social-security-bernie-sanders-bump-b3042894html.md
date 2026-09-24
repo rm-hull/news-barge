@@ -13,6 +13,17 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Vermont
+people:
+- Bernie Bump
+- Bernie Sanders
+- Sanders’
+organisations:
+- COLA
+- Congress
+- Social Security
+- Social Security Disability Insurance
 ---
 
 Millions of Social Security recipients could get an extra $200 a month under a proposal backed by Senator Bernie Sanders.

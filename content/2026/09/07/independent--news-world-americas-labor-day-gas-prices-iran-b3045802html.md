@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bandar Abbas
+- Claymont
+- Delaware
+- Iran
+- Israel
+- Middle East
+- Philadelphia
+- South Carolina
+- Strait of Hormuz
+- Texas
+- U.S.
+- White House
+people:
+- Chris Wright
+- Donald Trump
+- Doug Burgum
+- Matthew Metzgar
+- Nicole Collins
+- Tom Seng
+organisations:
+- AAA
+- ABC
+- Oval Office
+- Texas Christian University
+- Trump
+- UNC Charlotte
 ---
 
 Motorists across the U.S. are encountering record prices to fill their tanks for one final summer getaway over Labor Day weekend.

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Clear Creek County
+- Colorado
+- Colorado.
+- Golden
+- Idaho Springs
+- St. Mary's
+- St. Mary's Glacier
+- St. Mary’s Glacier
+people:
+- Jeremy Elder
+- Jonathan Ingraham
+- Jordan Lipp
+organisations:
+- Aspen Times
+- Colorado Climate Center
+- Fox31
+- NOAA
+- Rocky Mountain Journal
 ---
 
 Hikers hoping to visit St. Mary's Glacier in Clear Creek County Colorado might find themselves disappointed since the geological feature recently melted.

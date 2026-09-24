@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Clare
+- Doonbeg
+- Dublin Airport
+- Gaza
+- Ireland
+- Ireland.
+- Israel
+- Maryland
+- Middle East
+- Phoenix Park
+- Republic
+- US
+- United States
+- Washington DC
+people:
+- Catherine Connolly
+- Donald Trump
+- Donald Trump Junior
+- Ed Walsh
+- Eric
+- Micheál Martin
+- Rory McIlroy
+- Sinn Féin
+- Taoiseach
+organisations:
+- Air Force One
+- BBC
+- Borderlands
+- European Union
+- Hotel Doonbeg
+- Joint Base Andrews
+- Nike
+- Trump International Doonbeg
+- Trump International Golf Links
+- Trump International Golf Links Ireland
+- Trump National
+- Trump National Golf Club
+- US Embassy
 ---
 
 ![Donald Trump is wearing a navy suit jacket with a white shirt and a bright red tie.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ac44/live/b00e6bd0-ae5e-11f1-8a9e-031899e1c94f.jpg)

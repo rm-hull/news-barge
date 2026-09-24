@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/4tnZtfQFt3cH2VbwsbnmP5-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- America
+people:
+- Aaron Garbut
+- Rob Nelson
+organisations:
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- NPC
+- PS5
+- Rockstar North
+- TechRadar
+- The New York Times
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/4tnZtfQFt3cH2VbwsbnmP5.jpg) 

@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- London
+- North Sea
+people:
+- Andrew Bowie
+- Andrew Griffith
+- Andy Burnham
+- Claire Coutinho
+- Daisy Cooper
+- Dame Priti
+- Dame Priti Patel
+- Ed Miliband
+- Emma Reynolds
+- Griffiths
+- Harriet Cross
+- James Cleverly
+- Julia Lopez
+- Kemi Badenoch
+- Like Priti
+- Liz Truss
+- Margaret Thatcher
+- Mel Stride
+- Ms Truss
+- Nigel Farage
+- Rachel Reeves
+- Richard Fuller
+- Stuart Andrew
+- Tom Tugendhat
+- Torsten Bell
+organisations:
+- Conservative Economic Unit
+- Conservative Party
+- Kemi
+- Labour
+- Lib Dem
+- NHS
+- National Insurance
+- Reform UK
+- Sky News
+- Tories
+- Tory
+- Treasury
+- Truss
+- Un
 ---
 
 Tory leader Kemi Badenoch has ruthlessly sacked her shadow chancellor, Sir Mel Stride, and replaced him with one of the architects of Liz Truss’s disastrous mini-Budget.

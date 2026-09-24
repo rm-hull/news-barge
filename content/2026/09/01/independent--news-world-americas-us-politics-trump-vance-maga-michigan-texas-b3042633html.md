@@ -12,6 +12,43 @@ image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- Columbia
+- Iran
+- Louisiana
+- Michigan
+- Sen
+- South Carolina
+- Texas
+- U.S.
+- Virginia
+- White House
+people:
+- Dan Eberhart
+- Darline Graham
+- Donald Trump
+- JD Vance
+- James Blair
+- James Talarico
+- John Cornyn
+- John Kennedy
+- Ken Paxton
+- Lindsey Graham
+- Mar-a-Lago
+- Ralph Norman
+organisations:
+- Congress
+- Fox News
+- MAGA Inc
+- MAGA Inc.
+- Paxton
+- Punchbowl News
+- R-SC
+- Republican National Committee
+- Senate
+- Talarico
+- The Atlantic
+- Trump
 ---
 
 A campaign event in Michigan featuring Vice President JD Vance on Monday was financed by MAGA Inc., marking a rare expenditure in a battleground state from a dominant political action committee that has largely stayed on the sidelines this year.

@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Consett
+people:
+- Joshua Nichol
+organisations:
+- Northern Echo
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

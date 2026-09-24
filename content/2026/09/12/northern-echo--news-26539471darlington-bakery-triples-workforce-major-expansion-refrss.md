@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Barnard Castle
+- Carlisle
+- Clark's Yard
+- County Durham
+- Dalston Road
+- Darlington
+people:
+- Andy Futers
+- Andy Futers)* Bakerman
+- Dan Booth
+organisations:
+- 5NP
+- Bakerman
+- Covid
+- LocalIQ House
 ---
 
 A Darlington bakery founded to help young people overcome barriers has grown rapidly after a major expansion saw its workforce triple.

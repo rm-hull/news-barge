@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Catterick Garrison
+- Gough Road
+- Low Row
+- North Yorkshire
+- Plumer Road
+- Richmondshire
+- Whitaside
+people:
+- Cllr Foster
+- Colburn
+- Hipswell
+- Kevin Foster
+organisations:
+- Catterick Garrison
+- North Cowton Parish Council
+- North Yorkshire Council
+- Tesco
 ---
 
 # Catterick Garrison: Council rejects request to upgrade gritting on roads

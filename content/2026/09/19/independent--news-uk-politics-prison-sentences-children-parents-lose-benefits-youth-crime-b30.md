@@ -14,6 +14,17 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://static.independent.co.uk/2025/09/18/00/5b1d165b4fd0a93f2ebe198601bbaef9Y29udGVudHNlYXJjaGFwaSwxNzU4MTg1Mjcx-2.21314939.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- David Lammy
+- Jake Richards
+- Nikki Rutter
+organisations:
+- BBC
+- Durham University
+- Sentencing Council
+- The Times
+- Youth Justice White Paper
 ---
 
 Parents could face losing their benefits, paying fines, and even prison sentences for their children’s crimes under reforms to the youth justice system, a minister has said.

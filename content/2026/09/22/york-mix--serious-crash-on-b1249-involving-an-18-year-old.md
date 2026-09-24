@@ -11,6 +11,15 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/788563318_1376348077993742_4054717335995899187_n.png.jpeg
+locations:
+- B1249
+- East Yorkshire
+- Foxholes
+- Humberside
+- Langtoft
+- North Yorkshire
+people: []
+organisations: []
 ---
 
 Police are appealing for witnesses and dashcam footage following a serious crash near Foxholes. Both drivers are still in hospital with serious injuries.

@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Brookside
+- Heartbeat
+- Lancashire
+- North Yorkshire
+people:
+- '## Tricia Penrose'
+- Gina
+- Heartbeat
+- Tricia Penrose
+- Trish
+organisations:
+- Aidensfield Arms
+- Goathland Hotel
+- Heartbeat
+- MINI
 ---
 
 # Tricia Penrose: "I bought my first car as a young actress on Brookside"

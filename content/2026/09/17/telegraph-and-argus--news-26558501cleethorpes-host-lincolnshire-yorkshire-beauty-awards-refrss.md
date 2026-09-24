@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Beachcomber
+- Cleethorpes
+- Lincolnshire
+- Miss England
+- UK
+- Yorkshire
+people:
+- Phil Green
+organisations:
+- Limited
+- Lincolnshire Peoples Choice
+- Miss World
+- The Agency Group
+- Yorkshire
 ---
 
 *(Image: Supplied)*

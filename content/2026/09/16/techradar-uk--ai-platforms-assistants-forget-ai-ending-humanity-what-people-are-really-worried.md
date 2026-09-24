@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Society & Culture
 - Health & Fitness
+locations:
+- AI
+- White House
+people:
+- Claude
+- Lance Ulanoff
+organisations:
+- AI
+- BBC
+- CNBC
+- CNN
+- Gallup Work and Education
+- Gemini
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- New York Times
+- Pew Research
+- Today Show
+- Ziff Davis, Inc
 ---
 
 ![AI worries](https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH.jpg) 

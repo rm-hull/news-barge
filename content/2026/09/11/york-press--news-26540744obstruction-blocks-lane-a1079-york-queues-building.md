@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1079
+- Dunnington
+- Kexby
+- York Road
+people:
+- Kevin Glenton
+organisations:
+- The Scrap Box
 ---
 
 *(Image: Kevin Glenton)*

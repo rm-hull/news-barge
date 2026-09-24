@@ -11,6 +11,91 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/3VLcuXN8UJiwazXHXNDd43-1024-80.jpg
+locations:
+- Australia
+- Canada
+- Glastonbury
+- Los Angeles
+- Middleweight
+- Myanmar
+- Prelims
+- UK
+- US
+people:
+- Alexandre Pantoja
+- Alonzo Menifield
+- Andy Murray
+- Arman Tsarukyan
+- Brandon Moreno
+- Brandon Royval
+- Brunno Ferreira
+- Cannibal
+- Casey O'Neill
+- Charles Jourdain
+- Choi Doo-ho
+- Dana White
+- Deiveson Figueiredo
+- Edmen Shahbazyan
+- Eduarda Moura
+- Iwo Baraniewski
+- Joanderson Brito
+- Joshua Van
+- Kai Asakura
+- Kai Kara-France
+- Marlon Vera
+- Maurício Ruffy
+- Michael Aswell Jr
+- Osman Diaz
+- Pantjoa
+- Patrício Pitbull
+- Prelims
+- Radiohead
+- Robelis Despaigne
+- Ryan Gandra
+- Sean Sharaf
+- Steve Erceg
+- SurfShark**
+- Tai Tuivasa
+- Tatsuro Taira
+- Yoo Joo-sang
+organisations:
+- Android TV
+- Apple TV
+- Bantamweight
+- CBS
+- Chromecast
+- Crypto.com Arena
+- EE TV
+- Early Prelims
+- Facebook
+- Fearless
+- Featherweight
+- FourFourTwo
+- Future Publishing
+- Gable Steveson
+- Giga Chikadze
+- HBO Max
+- Instagram
+- Kayo Sports
+- Light Heavyweight
+- MMA
+- Pantoja
+- Paramount Plus
+- Premier League
+- SHOWTIME Originals
+- Samsung TV
+- Sportsnet
+- Sun
+- TNT Sports
+- TVA Sports
+- TechRadar
+- Telstra TV
+- TikTok
+- UFC Fight Pass
+- Virgin Media
+- Walmart
+- Women's Flyweight
+- YouTube
 ---
 
 ![Joshua Van and Alexandre Pantoja trade blows in the UFC.](https://cdn.mos.cms.futurecdn.net/3VLcuXN8UJiwazXHXNDd43.jpg)

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Sex and the City
+- UK
+people:
+- Emma
+- Gen Z
+- Shirley Valentine
+organisations:
+- University of Greenwich
 ---
 
 A MIDDLE-AGED man buys a motorbike, a 40-plus woman heads out on the town in a cropped top and mini skirt. Fingers are pointed and ‘midlife crisis’ mutterings are heard.

@@ -12,6 +12,38 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Airspeed
+- Atlantic
+- British Empire
+- Howden
+- Norway
+- Red Lion
+- The York
+people:
+- Barnes Wallace
+- Barnes Wallis
+- Dennis Burney
+- Derek ReedDerek ReedMiddlethorpe DriveYorkWhat
+- Ivan Martin
+- Martin SmithMain
+- Nevil Shute
+- Nevil Shute Norway
+- Spark’
+organisations:
+- Air Ministry
+- Airship Guarantee Company
+- British Air Ministry
+- City of York Council
+- Government
+- Hybrid Air Vehicle Co
+- Image NQ
+- R101
+- Spark’
+- The Press
+- Vickers-Armstrongs
+- Yorkshire Air Museum
+- Yorkshire Evening Press
 ---
 
 *(Image: Photo from Air Museum..)*

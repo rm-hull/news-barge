@@ -11,6 +11,50 @@ image: https://static.independent.co.uk/2026/07/07/8/13/GettyImages-1024850174.j
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Asia
+- Asian Football Confederation
+- Belgium
+- Caribbean
+- Central America
+- Concacaf
+- Grenada
+- Lebanon
+- Mexico
+- Morocco
+- Nevis
+- North
+- Paraguay
+- Portugal
+- Qatar
+- Saudi Arabia
+- Spain
+- St Kitts
+- Switzerland
+- US
+- United Arab Emirates
+- Uruguay
+people:
+- Aleksander Ceferin
+- Donald Trump
+- Folarin Balogun
+- Gianni Infantino
+- Jamie Raskin
+organisations:
+- AFC
+- Concacaf
+- Conmebol
+- FFE
+- Fifa Forward Enterprise
+- Financial Times
+- Infantino
+- Press Association
+- RBFA
+- Raskin
+- The Times
+- Uefa
+- United States House Judiciary Committee
 ---
 
 Fifa president Gianni Infantino has failed to respond to a request to appear before the United States House Judiciary Committee or supply documents sought by one of its members more than a month after the deadline passed, the Press Association understands.

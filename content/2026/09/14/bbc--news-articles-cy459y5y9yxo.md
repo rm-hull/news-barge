@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Kenya
+- Lusaka
+- Tanzania
+- Zambia
+people:
+- Bruce Ellender
+- Scott Creel
+organisations:
+- Kafue Conservation
+- Montana State University
+- The Nature Conservancy
+- UN Convention on Migratory Species
 ---
 
 ![Close-up of an African wild dog looking into the distance, showing its large, rounded ears and speckled tan, black and white fur.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg)

@@ -11,6 +11,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brighton
+- Cheshire
+- Culcheth
+- Head North
+- Liverpool
+- Warrington
+people:
+- Alzheimer
+- Andy Burnham
+- Angela Rayner
+- Eileen
+- Roy
+- Steve Rotheram
+organisations:
+- GP
+- TUC
+- Times
 ---
 
 Andy Burnham has cancelled his engagements for Monday and Tuesday after his father, Roy, died.

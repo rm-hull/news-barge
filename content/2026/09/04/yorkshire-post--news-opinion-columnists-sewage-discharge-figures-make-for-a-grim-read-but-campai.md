@@ -16,6 +16,15 @@ categories:
 - York
 - Society & Culture
 - Health & Fitness
+locations:
+- PA
+- Yorkshire
+people:
+- Rui Vieira
+organisations:
+- SAS
+- Surfers Against Sewage
+- Yorkshire Water
 ---
 
 # Sewage discharge figures make for a grim read but campaigners are to be applauded

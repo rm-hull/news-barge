@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Asia
+- Azerbaijan
+- China
+- Donetsk
+- Europe
+- Gulf
+- Kremlin
+- Kyiv
+- Kyrgyzstan
+- Moscow
+- Odesa
+- Russia
+- St Petersburg
+- Sumy
+- Turkey
+- Ukraine
+people:
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Azerbaijan Airlines
+- Malaysia Airlines
+- Malaysia Airlines Flight MH17
+- News Daily
+- Osprey Flight Solutions
+- Ozon
+- Shanghai Co-operation Organisation
+- UN
+- Wildberries
 ---
 
 ![Ukraine's President Volodymyr Zelensky gives a press conference in Kyiv, standing in front of a blue and yellow flag.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg)

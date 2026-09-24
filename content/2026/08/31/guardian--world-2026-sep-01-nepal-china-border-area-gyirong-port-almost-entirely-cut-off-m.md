@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- China
+- Gyirong Port
+- Japan
+- Kailash Journeys
+- Kathmandu
+- Nepal
+- Tibet
+- Trishuli River
+people:
+- Akhilesh Surjan
+- Sujan Wasti
+- Zou Mingqi
+organisations:
+- Charles Darwin University
+- Facebook
+- Guardian
+- Himalaya Glacier Company
+- Isha Foundation
+- Kailash Journeys’ Nepal
 ---
 
 It has been almost a week since the catastrophic floods in Nepal and not even a vehicle can get into the area where the majority of missing Australians were last heard from.

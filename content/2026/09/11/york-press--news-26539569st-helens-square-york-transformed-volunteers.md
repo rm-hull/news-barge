@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- St Helen’s Square
+- York
+people:
+- Carl Alsop
+- Kitty Greenbrown
+- Owen Turner
+- Tabatha Hurst
+- York
+organisations:
+- GMI Construction
+- Hilton York
+- Nestle
+- Portakabin
+- Trustmarque
+- United by Design
+- York Art Trail
+- York BID
 ---
 
 ## New public artwork unveiled as volunteers give York square a fresh look

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Science
 - Technology & Software
+locations:
+- China
+- Earth
+- Kremlin
+- Moscow
+- Russia
+- US
+- United States
+- Washington
+people:
+- Dmitry Peskov
+- Jonathan McDowell
+- Troy Meink
+- Victoria Samson
+organisations:
+- Agence France-Presse
+- Defence One
+- Guardian
+- Harvard-Smithsonian Center for Astrophysics
+- International Space Station
+- Secure World Foundation
+- US Space Force
 ---
 
 The US has deployed weapons in space, the US military has confirmed, in an extraordinary public announcement that analysts warn will accelerate a high-risk arms race with Russia and China in Earth’s orbit.

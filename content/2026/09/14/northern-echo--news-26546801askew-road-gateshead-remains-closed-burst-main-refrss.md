@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Automotive
 - Travel
+locations:
+- Askew Road
+- Burst
+- Great North Run
+- North East
+- Northumbria Water
+people: []
+organisations:
+- Gateshead Council
+- Northumbrian Water
 ---
 
 Parts of a major North East road remain closed after a burst main flooded the carriageway and left it covered in debris.

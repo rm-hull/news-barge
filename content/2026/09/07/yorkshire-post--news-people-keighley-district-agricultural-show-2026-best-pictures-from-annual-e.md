@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Halifax
+- Highland
+- Keighley
+- Queensbury
+people:
+- Dianne Bradley
+- Florence Clarkson
+- James Hardisty
+- John Oxtley
+- Mark Brown
+- Marrow
+organisations:
+- Keighley & District Agricultural
+- National Dahlia
 ---
 
 The annual event featured livestock, horses, crafts, food and countryside activities and the highly prized Horticulture Show.

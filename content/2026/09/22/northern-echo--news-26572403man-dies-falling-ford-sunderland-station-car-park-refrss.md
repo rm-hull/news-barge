@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21487732.jpg?type=og-image
+locations:
+- County Durham
+- Holmeside
+- North East
+- Northumbria Police
+- Station Car Park
+- Sunderland
+people:
+- Dave Roberts
+- Man
+- Michael Burke
+organisations:
+- Northumbria Police
+- Serious Collision Investigation Unit
 ---
 
 *(Image: NEWSQUEST)*

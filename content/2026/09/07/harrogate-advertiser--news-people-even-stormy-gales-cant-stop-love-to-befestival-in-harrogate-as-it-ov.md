@@ -14,6 +14,18 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+people:
+- Claptone
+- Gok Wan
+- Grant Nelson
+- K‑Klass
+- Marc Dennis
+- Mouse-T
+- Roger Sanchez
+- Todd Terry
+organisations: []
 ---
 
 # Even stormy gales can't stop Love to Be...Festival in Harrogate as it overcomes 'huge challenges' to be a huge hit

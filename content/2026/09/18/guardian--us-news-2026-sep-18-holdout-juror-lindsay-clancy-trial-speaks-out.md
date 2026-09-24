@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Massachusetts
+- Plymouth
+people:
+- Edward Andrew Paltzik
+- Kellie Farina
+- Kevin Reddington
+- Lindsay Clancy
+- Michael P Desronvil
+- Paula Devlin
+- Roni Carlson
+- Timothy Cruz
+- William F Sullivan
+organisations:
+- Boston Globe
+- NBC10
+- NewsNation
 ---
 
 The lone holdout juror in the Lindsay Clancy murder trial is speaking out, saying that he “didn’t have any doubts” during the jury’s deliberations of the case which ended in a mistrial.

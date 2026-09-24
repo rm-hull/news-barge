@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c881/live/9a4148b0-b5af-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Cowley Road
+- England
+- Oxford
+- Panorama
+- Rochdale
+- Rotherham
+- Telford
+- Wales
+people:
+- Chloe
+- Rachel
+- Sarah
+- Simon Morton
+organisations:
+- BBC One
+- BBC Panorama
+- Oxford City Council
+- Thames Valley Police
 ---
 
 Watch: 'I see my abusers in the supermarket' - survivors of Oxford gang tell of ongoing torment

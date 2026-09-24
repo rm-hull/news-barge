@@ -11,6 +11,22 @@ image: https://images.euronews.com/articles/stories/09/89/46/13/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- America
+- Hemisphere
+- US
+- Venezuela
+- Washington
+people:
+- Delcy Rodríguez
+- Donald Trump
+- Marco Rubio
+- Oswaldo Felizzola
+organisations:
+- AFP
+- IESA
+- Institute of Advanced Studies in Administration
+- Petróleos de Venezuela
 ---
 
 ## Venezuela's acting president says the aim is to turn the country's underground resources into a "source of social and economic well-being for the people of Venezuela."

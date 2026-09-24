@@ -11,6 +11,10 @@ image: https://static.independent.co.uk/2026/09/15/18/APTOPIX_Romania_Farmers_Pr
 categories:
 - News & Politics
 - UK
+locations:
+- Bucharest
+people: []
+organisations: []
 ---
 
 Photos of Romanian farmers protesting export restrictions

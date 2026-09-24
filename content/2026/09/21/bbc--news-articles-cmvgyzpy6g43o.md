@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c21f/live/f6ffc310-b5b9-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Electra
+- Hamlet
+- London
+- West End
+people:
+- Alma
+- Andrew Scott
+- Benedict Andrews
+- Cate Blanchett
+- Clytemnestra
+- Cynthia Erivo
+- Daniel Craig
+- Dracula
+- Elisabeth
+- Hugh Jackman
+- Ingmar Bergman
+- Lesley Manville
+- Nina Hoss
+- Patti LuPone
+- Rosamund Pike
+organisations:
+- BBC Radio 4
+- Electra
+- Inter Alia
+- National Theatre
 ---
 
 ![Cate Blanchett wearing a black velvet jacket and dark sunglasses](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c21f/live/f6ffc310-b5b9-11f1-8d1d-a985658d9d3a.jpg)

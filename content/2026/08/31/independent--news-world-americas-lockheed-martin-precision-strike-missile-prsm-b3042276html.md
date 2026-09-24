@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Lamerd
+- London
+- Minab
+- Syria
+- U.S.
+- US
+- Ukraine
+people:
+- Brad Cooper
+- Lamerd
+- Michael Meier
+- Trevor Ball
+- Wes Bryant
+organisations:
+- AP
+- ATACMS
+- Adm
+- Airwars
+- Army Tactical Missile System
+- CENTCOM
+- Central Command
+- Congress
+- Islamic Revolutionary Guard Corps
+- Lockheed Martin
+- Pentagon
+- PrSM
+- Precision Strike Missile
+- The Associated Press
+- U.S. Army
+- U.S. Central Command
+- US New Missile
 ---
 
 Promoted by its manufacturer as the next generation of ballistic rocketry, Lockheed Martin’s Precision Strike Missile has drawn billions in U.S. military funding to modernize American weapons.

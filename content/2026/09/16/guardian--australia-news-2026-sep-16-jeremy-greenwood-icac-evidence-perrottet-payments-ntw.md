@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beirut
+- Greenwood
+- UK
+people:
+- Anita Perrottet
+- Beckington
+- Charles Perrottet
+- Christian Ellis
+- Dominic Perrottet
+- Fabian Gleeson
+- Jean Nassif
+- Jeremy Greenwood
+- No,” Greenwood
+- Peggy Dwyer SC
+- Philip Morris
+organisations:
+- Beckington
+- Ellis
+- Greenwood
+- Icac
+- Independent Commission Against Corruption
+- JPG Advisory
+- Liberal
+- Macquarie Consulting
+- NSW
+- New South Wales
+- Redfield
+- Toplace
 ---
 
 A Liberal factional figure has rejected a suggestion he gave “ridiculous” evidence that Dominic Perrottet’s sister-in-law shared in $660,999 for giving a “mum’s perspective” on lobbying clients, the New South Wales anti-corruption watchdog has heard.

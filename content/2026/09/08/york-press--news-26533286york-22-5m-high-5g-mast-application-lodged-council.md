@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations:
+- Bad Gateway Azure Front Door
+people: []
+organisations:
+- Azure Front Door
 ---
 
 # 502

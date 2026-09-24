@@ -13,6 +13,22 @@ categories:
 - York
 - History
 - Travel
+locations:
+- Boroughbridge
+- Coxwold
+- Easingwold
+- Helmsley
+- Leyburn
+- North Yorkshire
+- Ripon Racecourse
+- Ripon Studley Road
+- SWpix.com
+- Yorkshire Dales National Park
+people: []
+organisations:
+- North Yorkshire Council
+- Yorkshire Dales National Park
+- Zac Williams
 ---
 
 ## Where to see Tour of Britain race as it makes its way through North Yorkshire

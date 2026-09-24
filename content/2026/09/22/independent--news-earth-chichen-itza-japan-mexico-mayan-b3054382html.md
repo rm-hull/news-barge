@@ -11,6 +11,17 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/22/15/Equinox_Solstice_Explainer_75334.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chichen Itza
+- Earth
+- Japan
+- Mexico
+- Northern Hemisphere
+- Southern Hemisphere
+people: []
+organisations:
+- AP Fund for Journalism
+- El Castillo
 ---
 
 The fall equinox is Tuesday, when light and darkness split the day evenly. It marks the beginning of fall for the Northern Hemisphere and the beginning of spring in the Southern Hemisphere.

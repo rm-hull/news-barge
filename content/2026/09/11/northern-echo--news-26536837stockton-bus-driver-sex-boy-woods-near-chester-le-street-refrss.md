@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- A19
+- Claymond Court
+- County Durham
+- Stockton
+people:
+- Andrew Jackson
+- Ben Sayers
+- David Callan
+- Richards Clews
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: Durham Constabulary)*

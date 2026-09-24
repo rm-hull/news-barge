@@ -13,6 +13,121 @@ categories:
 - Technology & Software
 - Society & Culture
 image: https://i.guim.co.uk/img/media/92a055969a32a2b7574d2f152ae1fc3422e7a067/0_0_1283_1026/master/1283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9fa0861f2b72db28b7b3fdc666cb272e
+locations:
+- Atlantic
+- Bab al-Mandab
+- Bahamas
+- Bahrain
+- China
+- Greenland
+- Hamilton
+- Hormuz
+- Iran
+- Kennedy Center
+- Kingdom of Denmark
+- Kremlin
+- Kuwait
+- Moscow
+- New York
+- New York City
+- Oman
+- Oval Offcie
+- Oval Office
+- People’s House
+- Qatar
+- Russia
+- Saudi Arabia
+- U.S.
+- UK
+- US
+- Ukraine
+- United Arab Emirates
+- United States
+- Utah
+- Venezuela
+- Washington
+- White House
+- Yemen
+people:
+- Aaron Terr
+- Andy Burnham
+- Baby Trump
+- Barack Obama
+- Breitbart
+- Catherine Lucey
+- Chuck Schumer
+- Daniel Baldwin
+- Danny Kemp
+- David Smith
+- Delcy Rodríguez
+- DelcyRodríguez
+- Don
+- Donald Trump
+- Donald Trump Jr
+- Donny
+- Fox
+- Hasan Piker
+- JD Vance
+- Jack Kennedy
+- Jacqui Heinrich
+- Jameel Jaffer
+- Jens-Frederik Nielsen
+- Jim Acosta
+- Joe Biden
+- John Curtis
+- José Luis Magaña
+- Katie Miller
+- Kelly O’Donnell
+- Lindsay Clancy
+- Mette Frederiksen
+- Mike Waltz
+- Nicolás Maduro
+- Pete Hegseth
+- Rodriguez
+- Seth Stern
+- Someone
+- Tim Richardson
+- Umar Kremlev
+- Wicked
+- Willie Nelson
+organisations:
+- ABACA/Shutterstock Trump
+- ABC News
+- AFP
+- BBC
+- CBS News
+- CNN
+- Capitol
+- Colgate University
+- Columbia University
+- Constitution
+- First Amendment
+- Foundation for Individual Rights in Education
+- Fox News
+- Freedom of the Press Foundation
+- House of Representatives
+- Iran Act
+- John F Kennedy Center for the Performing Arts
+- Knight First Amendment Institute
+- Lindsey O Graham Sanctioning Russia
+- MS Now
+- MSNOW
+- NBC News
+- Nato
+- New York Times
+- One America News
+- One American News
+- Oval Office
+- PEN America
+- Politico
+- Salem Media
+- Senate
+- United Nations
+- WHCA
+- Wall Street Journal
+- Washington Examiner
+- Washington Post
+- White House Correspondents’ Association
 ---
 
 Press freedom groups sound the alarm: 'The White House can’t be allowed to decide which journalists are able to cover the president'

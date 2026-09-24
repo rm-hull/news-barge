@@ -13,6 +13,23 @@ categories:
 - York
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- East End
+- London
+- Nepal
+- South Asia
+- York
+people:
+- Emma Clayton
+- Greggs
+- Matthew Laverack
+- Phill Thomas
+- Skelton
+organisations:
+- ATTRO
+- Anti Terror Traffic Regulation Order
+- Rotary
+- ShelterBox
 ---
 
 **Why a York bacon sandwich disappointed this Londoner**

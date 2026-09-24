@@ -14,6 +14,40 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Argentina
+- Britain
+- Buenos Aires
+- Denmark
+- Europe
+- Falkland Islands
+- Falklands
+- Finland
+- Kajaani
+- London
+- South Atlantic Ocean
+- UK
+- US
+- United Kingdom
+- United States
+- Vuosanka
+- Washington
+people:
+- Belgrano
+- Donald Trump
+- Javier Milei
+- John Healey
+- Margaret Thatcher
+- Philip Ingram MBE
+organisations:
+- British Army
+- British Royal Navy
+- Nato
+- Patria Pasi
+- Royal Navy
+- Stryker
+- The Independent
+- United States’
 ---
 
 Javier Milei told his nation on Thursday that Argentina would “prevail” in its efforts to reclaim the Falkland Islands, after Donald Trump said he would reconsider the United States’ long-standing neutrality and cast doubt on Britain’s ability to defend itself.

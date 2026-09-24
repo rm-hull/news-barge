@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Caribbean
+- Florida
+- Latin America
+- Miami International Airport
+- Miami-Dade County
+- North Carolina
+- Puerto Rico
+- San Juan
+- US
+people:
+- Daniella Levine Cava
+- Kelly Nantel
+- Raied Jadallah
+organisations:
+- 21 Air
+- Amazon Air
+- BBC
+- Corporate Global Media Relations
+- FAA
+- Federal Aviation Administration
+- FlightRadar24
+- Luis Muñoz Marín International Airport
+- MIA
+- Miami Dade Fire Rescue
+- Miami Fire
+- Miami International Airport
+- National Transportation Safety Board
+- TSA
+- Transportation Safety Administration
 ---
 
 Video shows damaged Amazon cargo plane after crash

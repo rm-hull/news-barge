@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Gulf of Mexico
+- Iran
+- Israel
+- Lake Ontario “Lake America
+- South Korea
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Doug Ford
+- Fox
+- Mark Carney
+- Trey Gowdy
+- Trey Gowdy Canada
+organisations:
+- ABC
+- Ford
+- Fox News
+- Trump
+- Truth Social
+- U.S. Leadership
 ---
 
 Donald Trump has defended his bitter trade war with Canada by arguing that America’s neighbor to the north is not a state and therefore not eligible for favorable terms.

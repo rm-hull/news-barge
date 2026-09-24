@@ -13,6 +13,52 @@ categories:
 - Sports
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/5Q97LpCC4JHTPm3WJn5PtJ-1920-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Great White North
+- London
+- The Den
+- UK
+- US
+- USA
+- West Ham
+- canada
+- uk
+people:
+- Greg Lea
+- Jarrod Bowen
+- Nuno Espírito Santo
+- Wilfried Zaha
+organisations:
+- AU
+- CBS Sports Golazo Network
+- Crystal Palace
+- DAZN
+- DAZN**
+- ESPN
+- English Football League
+- Europa League
+- FourFourTwo
+- Future Publishing
+- Guardian
+- Hull City
+- ITV
+- ITV1
+- Lions
+- Millwall
+- Paramount
+- Port Vale
+- Premier League
+- Sky Sports
+- TechRadar
+- The Set Pieces
+- UK.Sky Sports
+- West Ham
+- West Ham.
+- Whitehorse Manor
+- beIN Sports
 ---
 
 ![Jarrod Bowen celebrates scoring for West Ham](https://cdn.mos.cms.futurecdn.net/5Q97LpCC4JHTPm3WJn5PtJ.jpg)

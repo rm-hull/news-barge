@@ -13,6 +13,16 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andrew Bailey
+organisations:
+- Bank of England
+- MPC
+- Ofgem
 ---
 
 The Bank of England has held interest rates at 3.75%, but policymakers warned that pressure to raise rates is building as the Iran war goes on.

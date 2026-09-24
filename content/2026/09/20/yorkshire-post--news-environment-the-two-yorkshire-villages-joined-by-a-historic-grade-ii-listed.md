@@ -15,6 +15,47 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ1ODhmZDFhLTc5ZTktNDg4YS04OGExLTI2NDdlZmQzZmI5YToyMjVlZGE5Ni0wOWRkLTRkYjItYjlhNS1iZjlmYmEyYzY2MmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Ainderby Steeple
+- Great Langton
+- James Hardisty.
+- Langton Hall
+- Morton Bridge
+- North Riding of Yorkshire
+- Northallerton
+- River Swale
+- Scarborough
+- Skipton
+- St Helen's Church
+- St Helen’s Church
+- United Methodist Free Church
+- Warlaby
+- Wensleydale
+- Wesleyan Chapel
+- Wykeham Abbey
+- Yorkshire Water
+people:
+- Ainderby Steeple
+- Hawes
+- John Carr
+- Lady Fragrant
+- Morton
+- Thomas Christopher Booth
+- William Henry Fife-Cookson
+organisations:
+- Ainderby Steeple
+- Ainderby Steeple Church of England Primary School
+- Buxton Crescent
+- HMS Royal George
+- Harewood House
+- Morton Quilters’
+- Northallerton Angling Club
+- Ofsted
+- Old Royal George Inn
+- Royal Agricultural Society
+- The Dales School
+- Wellington Heifer
+- Yorkshire Regiment
 ---
 
 # The two Yorkshire villages joined by a historic Grade II-listed bridge

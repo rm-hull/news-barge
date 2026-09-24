@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Akershus Castle
+- Norway
+- Oslo Cathedral
+- Royal Palace
+people:
+- Haakon VIII
+- Harald V
+organisations: []
 ---
 
 King Harald V's coffin leaves the Royal Palace in Oslo on Wednesday, 9 September, as a funeral procession makes its way to Oslo Cathedral. King Haakon VIII walks behind the coffin and salutes the troops, followed by senior members of the royal family.

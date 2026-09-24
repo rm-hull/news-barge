@@ -12,6 +12,17 @@ categories:
 - UK
 - Pets & Animals
 - Lifestyle & Fashion
+locations: []
+people:
+- Man
+organisations:
+- Bark
+- Girl Scout
+- Girl Scouts
+- Girl Scouts of the USA
+- Partake Foods
+- Patch Pals
+- Thin Mints
 ---
 
 Man’s best friend is getting some love from the Girl Scouts.

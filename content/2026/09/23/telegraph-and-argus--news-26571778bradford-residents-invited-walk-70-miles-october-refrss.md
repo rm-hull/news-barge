@@ -14,6 +14,24 @@ categories:
 - Society & Culture
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480189.jpg?type=og-image
+locations:
+- Bingley
+- Bradford
+- Cartwright Hall
+- Ilkley Moor
+- Lister Park
+- Roberts Park
+- Saltaire
+- UK
+- West Yorkshire
+people:
+- Alison
+- Damson
+- Gina Evans
+- Tom Powell
+organisations:
+- Hearing Dogs for Deaf People
+- NATIONAL
 ---
 
 A NATIONAL charity is encouraging people to step up and support a life-changing cause.

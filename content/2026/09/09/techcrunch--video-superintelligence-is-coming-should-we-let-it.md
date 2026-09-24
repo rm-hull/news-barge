@@ -11,6 +11,20 @@ image: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Connor Leahy
+- Rebecca Bellan
+organisations:
+- AI
+- Apple Podcasts
+- ControlAI
+- EquityPod
+- Overcast
+- Spotify
+- TechCrunch’s Equity
+- YouTube
 ---
 
 AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?

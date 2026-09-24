@@ -14,6 +14,22 @@ categories:
 - Books & Literature
 - Education & Learning
 - Self-Improvement
+locations:
+- Gateshead
+people:
+- Clive Gifford
+- Graeme Weeks
+- J Archer
+organisations:
+- Barnard Castle
+- Department for Education
+- Dragon's Den
+- Durham Cricket Foundation
+- Farshore Books
+- National Literacy Trust
+- White Mere
+- White Mere Community Primary School
+- White Mere Primary School
 ---
 
 *(Image: Supplied)*

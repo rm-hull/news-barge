@@ -11,6 +11,45 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png
+locations:
+- New York
+- Oval Office
+- South Lawn
+- US
+- Washington
+- White House
+people:
+- '![Trump'
+- Bryan Boughton
+- Donald Trump
+- Zohran Mamdani
+organisations:
+- ABC
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CBS
+- CNN
+- Fake News
+- Fox News
+- Fox News Washington bureau
+- MS NOW
+- NBC
+- National Security
+- Oval Office
+- Politico
+- Real America
+- Third Rate Clowns
+- Trump Administration
+- Trump TV
+- UN General Assembly
+- US Constitution
+- US TV
+- United Nations
+- Voice
+- White House Correspondents' Association
+- White House Press
 ---
 
 ![Trump, dressed in a suit, stands next two two men with high-viz jackets to his left and a man in a dark suit to his right at a ribbon-cutting ceremony for a new helipad on the South Lawn of the White House in Washington, 21 September 2026](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png)

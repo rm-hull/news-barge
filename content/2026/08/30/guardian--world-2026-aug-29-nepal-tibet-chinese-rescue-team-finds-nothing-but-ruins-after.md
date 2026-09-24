@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Asia
+- Beijing
+- China
+- Devighat
+- Gyirong
+- India
+- Kathmandu
+- Nepal
+- Nepal.
+- Nuwakot
+- Rasuwa
+- Tibet
+people:
+- Kawan Koirala
+- Li Qiang
+- Shisir Khanal
+- Swarnim Waglé
+- Xi Jinping
+organisations:
+- Agence France-Presse
+- BBC
+- National Disaster Risk Reduction and Management Authority
+- Nepal Scout Disaster Response Team
+- New York Times
+- Red Cross
+- Xinhua
 ---
 
 Poor weather temporarily hampered aerial rescue operations in Nepal on Saturday as the search for thousands of missing people in areas devastated by catastrophic flash floods along the border with China continued.

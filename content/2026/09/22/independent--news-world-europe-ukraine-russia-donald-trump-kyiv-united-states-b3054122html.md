@@ -11,6 +11,42 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/10/Russia_Ukraine_War_6_114.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- Crimean Peninsula
+- Dnipro
+- Dnipropetrovsk
+- Fire Point
+- Iran
+- Kuibyshev
+- Kyiv
+- Lisbon
+- Moscow
+- New York
+- Poltava
+- Portugal
+- Russia
+- Samara
+- Strait of Hormuz
+- U.S.
+- Ukraine
+- United States
+- hub
+people:
+- Donald Trump
+- Emmanuel Macron
+- Oleksandr Hanzha
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Vyacheslav Fedorishchev
+- \_\_\_ Barry Hatton
+organisations:
+- Defense Ministry
+- General Assembly
+- Kyiv
+- Rosneft
+- Trump
+- U.N
 ---
 
 Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing four people, officials said Tuesday, and Ukraine’s forces damaged another Russian oil refinery in their latest long-range strike.

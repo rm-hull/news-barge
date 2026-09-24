@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/10/46/Malibu1.png?trim=193,0,193,0&width=1200&height=800&crop=1200:800
+locations:
+- Cage
+- Los Angeles-area
+- Malibu
+- Pacific Coast Highway
+- Point Dume State Beach
+- Southern California
+- Westward Beach Road
+people:
+- John Madden
+- Marie
+- Nicolas Cage
+organisations:
+- Amazon
+- Malibu
+- NFL
+- New York Times
+- SoCalGas
 ---
 
 Severe coastal erosion has prompted Malibu officials to warn the public about hazardous beach conditions after a late-summer storm damaged shoreline properties, including a mansion owned by actor Nicolas Cage.

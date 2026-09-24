@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Texas
+people: []
+organisations:
+- ACR
+- Consumer Reports
+- Gamers Nexus
+- LG TVs
+- Level1Techs
+- Malwarebytes
+- Samsung
+- The Independent
+- Vizio
 ---
 
 Some consumers may have TVs in their homes that can listen in to their conversations even while turned off.

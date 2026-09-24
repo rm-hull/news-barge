@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- France
+- Germany
+- India
+- Israel
+- Lower Saxony
+- Osnabrück
+- UK
+- US
+- Wolverhampton
+people:
+- Donald Trump
+- Patrick McGillycuddy
+organisations:
+- Arrow
+- Aurelius Capital
+- Chrysler
+- David’s Sling
+- Defender Wolf and Land Rovers
+- Financial Times
+- General Motors
+- Ineos
+- Iron Dome
+- JLR
+- Jaguar Land Rover
+- Land Rovers
+- Le Mans
+- Ministry of Defence
+- Nato
+- Renault
+- Stellantis
+- Sunday Times
+- Tata Motors
+- VW
+- Volkswagen
 ---
 
 Jaguar Land Rover is in talks with Nato countries about selling them the newly revamped Defender military vehicle, as the UK-based carmaker seeks to tap into Europe’s defence spending boom.

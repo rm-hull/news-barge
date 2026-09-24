@@ -13,6 +13,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/13/Philanthropy-Macklemore_78425.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Gillette Stadium
+- Israel
+- Jordan
+- Lebanon
+- MetLife Stadium
+- New Jersey
+- Palestine
+- West Bank
+people:
+- Alicia Phillips Mandaville
+- Anera
+- Ed Sheeran
+- Macklemore
+- Mara Kronenfeld
+- Rachel
+- Robert Kraft
+- Tareq Hailat
+organisations:
+- AP
+- Anera
+- Instagram
+- Kraft Group
+- Lilly Endowment Inc
+- Macklemore
+- Mandaville
+- Medical Aid for Palestinians
+- New England Patriots
+- Palestine Children's Relief Fund
+- Palestine Children’s Relief Fund
+- Palestinian Children's Relief Fund
+- Palestinian Children’s Relief Fund
+- Rachel's
+- The Conversation US
+- Thrift Shop
+- U.N.
+- UNRWA USA
 ---
 
 For the Palestinian relief nonprofits behind a $1 million pledge from rapper Macklemore, the Grammy winner's latest contributions offer more than just money.

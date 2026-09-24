@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Fifth Avenue
+- Mossdale Avenue
+- York
+people: []
+organisations:
+- City of York Council
+- Kendal House Properties Ltd
+- Tang Hall Explore
+- Tang Hall Library
+- YMCA North Tyneside
 ---
 
 The sale of the site of a former York library has been approved, paving the way for new homes there.

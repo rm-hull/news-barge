@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dangote
+- East Africa
+- India
+- Iran
+- Jamnagar
+- Kenya
+- Nigeria
+- U.S.
+- West Africa
+people:
+- Aliko Dangote
+- Joachim McEbong
+- Mohammed Saidu
+- Titi Adetoye
+organisations:
+- Control Risks
+- Dangote
+- IPO
+- Lagos-based TrustBanc
+- The Associated Press
 ---
 
 Nigerian industrialist Aliko Dangote opened his refinery to public ownership Monday with plans to raise $1.6 billion from retail investors across the continent in Africa’s biggest initial public offering, or IPO.

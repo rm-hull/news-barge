@@ -12,6 +12,25 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/17/07/2026-09-17T054800Z_570830625_RC2JKNAKDNG8_RTRMADP_3_BRITAIN-CANADA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Hill Dickinson Stadium
+- Liverpool
+- Wales
+people:
+- Andy Burnham
+- Steve Rotheram
+- Tom Greatrex
+organisations:
+- EFL
+- Everton
+- FSA
+- Football Supporters’ Association
+- Oasis
+- Taylor Report
+- UK Football Policing Unit
+- WSL
+- WSL2
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - History
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-553891013.jpg@webp
+locations:
+- Berlin
+- Braunschweig
+- East and West Germany
+- Europe
+- Federal Republic of Germany
+- Hannover
+- Hanover
+- IC
+- Lehrter Stammbahn
+- Magdeburg
+- Middle East
+- Munich
+people: []
+organisations:
+- Central Advance Care Planning Register
+- Deutsche Bahn
+- EU
+- PFAS
 ---
 
 **Fuel tax cut for drivers**

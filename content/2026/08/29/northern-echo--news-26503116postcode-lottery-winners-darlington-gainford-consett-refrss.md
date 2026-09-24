@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Alnwick
+- Blyth
+- Consett
+- County Durham
+- Darlington
+- Esh Winning
+- Gainford
+- Gateshead
+- Hebburn
+- Horden
+- Morpeth
+- North East
+- Northallerton
+- Ouston
+- Seaham
+- Sunderland
+- Teesside
+- UK
+people: []
+organisations:
+- Bingo
+- Dogs Trust
+- Maggie’s
+- NSPCC
+- Postcode Lottery
 ---
 
 *(Image: Postcode Lottery)*

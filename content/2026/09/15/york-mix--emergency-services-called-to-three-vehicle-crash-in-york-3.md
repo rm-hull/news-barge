@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a three-vehicle crash in York last night (Monday).

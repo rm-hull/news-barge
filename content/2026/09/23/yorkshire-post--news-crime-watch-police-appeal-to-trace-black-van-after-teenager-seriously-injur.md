@@ -14,6 +14,19 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/14/07/A1-crash-appeal.jpeg?trim=11,0,11,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- A1
+- B6474
+- Darrington
+- Ford Transit
+- Wentbridge
+people:
+- Polo
+organisations:
+- A1
+- Scania HGV
+- VW Polo
+- West Yorkshire Police
 ---
 
 # Watch: Police appeal to trace black van after teenager seriously injured in A1 crash

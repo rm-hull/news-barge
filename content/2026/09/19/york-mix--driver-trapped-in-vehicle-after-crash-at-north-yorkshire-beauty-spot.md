@@ -11,6 +11,15 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/07/paramedics-ambulance-canva.webp
+locations:
+- Bolton Abbey
+- Harrogate
+- North Yorkshire
+- Skipton
+people: []
+organisations:
+- '#### Bolton Abbey'
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a single vehicle crash in North Yorkshire last night.

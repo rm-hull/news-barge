@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Midlands
+- Scotland
+- UK
+- Wales
+- Westminster
+- Whitehall
+people:
+- Alan Milburn
+- Alun Francis
+- Bridget Phillipson
+- Burnham
+- Gordon Brown
+- Iain Duncan Smith
+- Nadhim Zahawi
+organisations:
+- Blackpool
+- Cabinet Office
+- Child Poverty Commission
+- Child Poverty and Social Mobility Commission
+- Labour
+- SMC
+- Social Mobility Commission
+- The Fylde
+- Yorkshire
 ---
 
 Ministers are considering a shake-up of the government’s social mobility watchdog that could range from giving it more teeth to abolishing it outright.

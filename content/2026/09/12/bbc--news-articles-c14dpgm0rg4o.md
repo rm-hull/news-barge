@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- China
+- US
+people:
+- Dario Amodei
+- Donald Trump
+- OpenAI
+organisations:
+- AI
+- Anthropic
+- OpenAI
 ---
 
 ![Dario Amodei hld the closed fingers of his left hand together as he mades a point. He is wearing a white shirt and blue jacket, black-rimmed glasses and has slightly curly hair. He is sat against a blue background, with a yellow-lit square just behind and to the left of his head.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg)

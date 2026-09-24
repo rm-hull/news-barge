@@ -12,6 +12,19 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- AI
+people:
+- Nscale
+organisations:
+- AI
+- Aker
+- Anthropic
+- Bloomberg
+- Nscale
+- Nvidia
+- TechCrunch
+- The Information
 ---
 
 Nscale, a British AI infrastructure company founded just two years ago, has said it may go public as early as later this month. Ahead of that expected IPO, the company is reportedly in talks to raise an additional $3.5 billion.

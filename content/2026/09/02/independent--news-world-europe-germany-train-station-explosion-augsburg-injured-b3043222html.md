@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Augsburg
+- Bavaria
+- Bergheim
+- Berlin
+- Explosion
+- Germany
+- Halle
+- Leipzig
+- Munich
+- Russia
+people: []
+organisations:
+- Bild
+- Die Zeit
+- Schwaben North Police
 ---
 
 At least two people have been injured following an explosion at a train station in southern Germany, police have said.

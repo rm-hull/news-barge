@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Tesco York
+people: []
+organisations:
+- ASDA Express York
+- Morrisons York
+- Sainsbury's Monks Cross
+- Tesco York
 ---
 
 *(Image: Archive)*

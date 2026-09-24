@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- Amazon
+- Darlington Hippodrome
+- Eastbourne Sports Complex
+- Newcastle
+people:
+- Carl Mansfield
+- Hellberg
+- Jack Docherty
+- Mick Dawson
+- Millie Garnett
+- Tommy Conway
+organisations:
+- Amazon Darlington
+- Blackwell Meadows
+- Boro
+- Darlington FC
+- Darlington FC Foundation
+- Northern Echo
+- QPR
+- Your Feet’
 ---
 
 A Darlington man who has battled depression for most of his life says a community football programme transformed his mental health and wants others to join.

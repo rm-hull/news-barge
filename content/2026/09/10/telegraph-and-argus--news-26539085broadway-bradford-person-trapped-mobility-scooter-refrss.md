@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- River Island
+- The Broadway
+people: []
+organisations:
+- Newsquest
+- Telegraph & Argus
+- WYFRS
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

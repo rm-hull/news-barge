@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Africa
+- Angola
+- Burundi
+- Cabo Delgado
+- Dar es Salaam
+- Democratic Republic of Congo
+- Kenya
+- Kwale
+- Malawi
+- Momba
+- Mombasa County
+- Mozambique
+- Mozambique.
+- Mpemba
+- Tanzania
+- TikTok
+- Tunduma
+- Zambia
+people:
+- Asha Steven Mwakilasa
+- Boniface Mgala
+- Daniel Chapo
+- Elias Daniel Mwandobo
+- Julien Bonhomme
+- Michael Silavwe
+- Mohamed Noor
+organisations:
+- BBC Disinformation Unit
+- BBC Global Disinformation Unit
+- BBC News Africa
+- Facebook
+- Meta
+- Momba
+- TikTok
 ---
 
 ![A medium shot of an adult man with short hair seated outdoors against a beige plastered wall looking directly into the camera with a serious facial expression. He is wearing a long-sleeved, collared button-down shirt featuring vertical blue, white, and thin pink stripes.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e7c7/live/037d7ef0-a1fd-11f1-a97e-999c5aae08bf.png)

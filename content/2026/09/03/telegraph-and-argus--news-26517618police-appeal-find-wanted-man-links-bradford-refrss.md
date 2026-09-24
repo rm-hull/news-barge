@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Leamington
+- Nuneaton
+- West Yorkshire
+people:
+- Blake Turner
+organisations:
+- Bradford
+- GBH
+- Leamington Police
+- Warwickshire Police
 ---
 
 *(Image: Warwickshire Police)*

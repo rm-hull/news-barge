@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '#### Haxby Road'
+- Haxby Road
+- York
+people: []
+organisations:
+- Facebook
+- North Yorkshire Fire & Rescue Service
+- Yorkshire Water
 ---
 
 Fire crews were called in after a road flooded in York this morning (Monday).

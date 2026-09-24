@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Jerry Sandusky
+- Joe Paterno
+- R.R.
+organisations:
+- Hall of Fame
+- Penn State
+- Pennsylvania Office of Attorney
+- The Second Mile
 ---
 
 Former Penn State assistant football coach Jerry Sandusky was scheduled to appear in court remotely Tuesday for a hearing on a claim that an accuser wants to recant allegations that Sandusky sexually abused him years ago.

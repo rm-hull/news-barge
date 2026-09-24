@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/07/02/13/06/GettyImages-2258686448.
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Main Street
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Dean Cain
+- Donald Trump
+- Grant Cardone
+- Joe Gebbia
+- Kelly Loeffler
+- Nicki Minaj
+- Superman
+organisations:
+- Airbnb
+- Clover Network, Inc
+- NBC
+- Shark Tan
+- Small Business Administration
+- Trump Accounts
 ---
 
 The Trump administration is set to host its own *Shark Tan* k-style competition later this month, with rapper Nicki Minaj and*Superman* actor Dean Cain as judges.

@@ -14,6 +14,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/06/South_Korea_Financial_Markets_8_126.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asia
+- Australia
+- China
+- Hong Kong
+- India
+- Iran
+- Japan
+- Middle East
+- New York
+- Saudi Arabia
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- U.S.
+- United States
+- Wall Street
+- Washington
+people:
+- Donald Trump
+- He Lifeng
+- Scott Bessent
+- Stan Choe
+- Xi Jinping
+organisations:
+- AI
+- Bank of Japan
+- Federal Reserve
+- Heng Seng
+- Kospi
+- SK Hynix
+- Samsung Electronics
+- Sensex
+- TSMC
+- Taiex
+- Taiwan Semiconductor Manufacturing Co.
+- Treasury
+- \_\_\_ AP Business
 ---
 
 Asian shares mostly advanced Monday as investors monitor updates ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington which could cover trade, artificial intelligence and geopolitics.

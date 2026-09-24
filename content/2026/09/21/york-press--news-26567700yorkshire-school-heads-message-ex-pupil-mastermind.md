@@ -12,6 +12,23 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21480900.jpg?type=og-image&xType=0&yType=55
+locations:
+- BBC
+- East Yorkshire
+- Pocklington
+- York
+people:
+- Becky Lovelock
+- Beth Goodliff
+- Clive Myrie
+- Jeanette Winterson
+- Ms Lovelock
+- Nicole Kidman
+organisations:
+- English Literature
+- Mastermind
+- Pocklington School
+- Scarborough
 ---
 
 *(Image: BBC)*

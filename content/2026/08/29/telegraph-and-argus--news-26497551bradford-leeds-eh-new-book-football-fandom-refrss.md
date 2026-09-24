@@ -13,6 +13,58 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- BRADFORD
+- Bradford
+- Briggate
+- EH
+- Freeman
+- Kop
+- LEEDS
+- Ladyhill Park
+- Leeds
+- Leeds.’
+- Shipley
+- Upper Piccadilly
+- Valley Parade
+people:
+- Bobby Campbell
+- Crooty
+- Dalglish
+- Dave Burden
+- George Best
+- Jimmy Hill
+- Keegan
+- Lee Marron
+- Lineker
+- Mama Mia
+- Mums
+- Nicky D’Agostino
+- Noel Blake
+- Paul Finney
+- Peter Jackson
+- Ray Clemence
+- Shoot
+- Sorry Alison
+- Steve Daniels
+- Stuart McCall
+- Vinnie Jones
+- Zico
+organisations:
+- Amazon
+- Bantams
+- Beautiful South
+- Bradford
+- City
+- Elland Road
+- Hardy & Willis
+- Hollins Hall Golf Club
+- Leeds
+- Leeds!
+- Liverpool
+- Mighty Reds
+- Panini
+- Roy of the Rovers
 ---
 
 *(Image: Jay Croot)*

@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Armytage Road
+- Brighouse
+- Kirkdale House
+people:
+- Jonathan Webb
+- Mark Chamberlain
+organisations:
+- AGM
+- Board Assurance Framework
+- NHS West Yorkshire ICB
+- NHS West Yorkshire Integrated Care Board
+- West Yorkshire Health and Care Partnership
+- West Yorkshire Joint Capital Resource Plan
+- West Yorkshire Manufacturing Services
 ---
 
 *(Image: Supplied)*

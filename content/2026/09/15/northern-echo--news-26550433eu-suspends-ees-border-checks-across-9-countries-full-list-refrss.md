@@ -12,6 +12,37 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Belgium
+- France
+- Germany
+- Greece
+- Italy
+- Malta
+- Portugal
+- Schengen Area
+- Spain
+- Switzerland
+- The Netherlands
+- UK
+people:
+- David O’Brien
+- Magnus Brunner
+organisations:
+- EES
+- ETIAS
+- EU
+- EU-Lisa
+- European Commission
+- European Travel Information and Authorisation System
+- European Union
+- IATA
+- International Air Transport Association
+- Jet2
+- Jordan Pettitt/PA Wire
+- Malta Air
+- Ryanair
+- The Times
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

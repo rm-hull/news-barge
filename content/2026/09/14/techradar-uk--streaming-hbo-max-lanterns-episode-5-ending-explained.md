@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Rushville
+- Will Macon
+people:
+- Antaan
+- Bill Macon
+- Guy Gardner
+- Hal Jordan
+- John Stewart
+- Kerry Kane
+- Kyle Chandler
+- Manhunter
+- Tom
+- Will Macon
+- Zoe Macon
+organisations:
+- Antaan
+- DC Universe
+- DCU
+- Disney Plus
+- Earth
+- Google News
+- Green Lantern
+- Green Lantern Corps
+- Guardians
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
+- Zoe's
 ---
 
 ![John Stewart wearing some hospital clothes and standing at a bar in Lanterns episode 5](https://cdn.mos.cms.futurecdn.net/RHsjDGDjZd58HTUnJFA5Bc.jpg) 

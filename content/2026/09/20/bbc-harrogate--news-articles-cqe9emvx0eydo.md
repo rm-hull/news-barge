@@ -12,6 +12,45 @@ categories:
 - Harrogate
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79c0/live/3fcce250-b419-11f1-8a8e-d9778c1036bb.jpg
+locations:
+- East Yorkshire
+- Greater Manchester
+- Harrogate
+- Hull
+- London
+- North Yorkshire
+- Northern Powerhouse Rail
+- Scotland
+- South Yorkshire
+- Wales
+- West Yorkshire
+- York station
+people:
+- Andy Burnham
+- Chris Steward
+- David Cameron
+- David Skaith
+- George Osborne
+- James Brokenshire
+- Luke Campbell
+- Oliver Coppard
+- Tom Gordon
+- Tracy Brabin
+- Yorkshire Gordon
+organisations:
+- BBC Politics North
+- Harrogate
+- Houses of Parliament
+- Knaresborough Lib Dem
+- Labour
+- Lib Dem
+- Liberal Democrat
+- Liverpool City Region
+- North Yorkshire Council
+- Reform UK
+- Rotherham
+- Sheffield
+- Yorkshire Party
 ---
 
 ![Image shows a man standing in front of the Houses of Parliament in London. 

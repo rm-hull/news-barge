@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Harborne
+- Hong Kong
+- Mayfair
+- Thailand
+- US
+people:
+- Ben Delo
+- Chris
+- Christopher Harborne
+- Desmond
+- Dicky Tice
+- Donald Trump
+- Honest Bob
+- Laura Kuenssberg
+- Nige
+- Nigel Farage
+- Posh George
+- Richard “Dirty
+- Robert Jenrick
+organisations:
+- BBC
+- Conservative
+- Delo
+- GB News
+- Labour
+- Lords
+- Reform
+- Rycroft
+- Tories
+- Tory
 ---
 
 You wait years for one party donation of £36m and then two come along at once. Reform can hardly believe its luck. All hail the crypto billionaires. Tacky pale turquoise suits all round. And Nigel Farage won’t have to worry about spending any of his own money – if you can call the £5m freebie his own money – on his security. Nor do those champagne and oyster lunches to discuss loose change donations of £500k from people living overseas pay for themselves. From now on Reform won’t need to bother getting out of bed for anything less than eight figures.

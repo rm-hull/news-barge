@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - Sports
 - Travel
+locations:
+- Dales
+- North Yorkshire
+- South
+- UK
+- West Yorkshire
+- York Minster
+people:
+- Sarah Cowling
+organisations:
+- '**Institute of Tourist Guiding**'
+- Blue Badge Guide
+- Blue Badge Tour Guide
+- British Guild of Tourist Guides
+- Harrogate Informer
+- Yorkshire Blue Badge
 ---
 
 **HARROGATE** — Professional tourism training is set to return to the region for the first time in more than a decade, as applications officially open for the prestigious Yorkshire Blue Badge Tourist Guide Training Course.

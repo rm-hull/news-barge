@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Afghanistan
+- America
+- Arabia
+- Bahrain
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Italy
+- Jordan
+- Kharg Island
+- Kremlin
+- Kuhestak
+- Kuwait
+- Larak Island
+- Middle East
+- Moscow
+- Oval Office
+- Persian) Gulf
+- Qatar
+- Russia
+- Strait of Hormuz
+- Straits
+- Tehran
+- UAE
+- US
+- Ukraine
+- Washington
+- West Bank
+people:
+- Donald Trump
+- Mojtaba Khamenei
+- Vladimir Putin
+organisations:
+- Guardian Council
+- Pentagon
+- Shahed
+- Stars and Stripes
+- US Fifth Fleet
 ---
 
 In an age of rogue lawlessness dominating international affairs since Donald Trump returned to the Oval Office and then staggered about the globe like a toddler with a chainsaw, it is inevitable that other outlaw nations, Russia and Iran, would see opportunity in the mayhem.

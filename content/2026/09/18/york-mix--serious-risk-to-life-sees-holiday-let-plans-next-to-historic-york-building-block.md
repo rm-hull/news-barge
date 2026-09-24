@@ -12,6 +12,20 @@ categories:
 - York
 - History
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cumberland-villa-cumberland-street-york-gsv.webp
+locations:
+- Cumberland House
+- Cumberland Street
+- England
+- King’s Staith
+- River Ouse
+- York
+people:
+- William Cornwall
+organisations:
+- Cumberland Villa
+- Duke of Cumberland
+- Helmsley Group
+- York Council
 ---
 
 Plans for a holiday let next to an historic York building have been blocked.

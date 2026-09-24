@@ -12,6 +12,27 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/20/18/0fa8d98a7afed0116cb15b27cc3ceeb8Y29udGVudHNlYXJjaGFwaSwxNzkwMDEwNzA4-2.5838393.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Riddlesworth Hall
+- St George’s Chapel
+- UK
+- USA
+- Wales
+- Windsor Castle
+people:
+- Charles Spencer
+- Diana
+- Earl Spencer
+- Gabor Maté
+- Harry
+- Martin Keene
+- William
+organisations:
+- 988 Suicide and Crisis Lifeline
+- BBC
+- Cleveland Clinic
+- NHS
 ---
 
 Princess Diana displayed “some of the key symptoms associated with ADHD” as a child, according to her brother Charles Spencer’s highly anticipated memoir.

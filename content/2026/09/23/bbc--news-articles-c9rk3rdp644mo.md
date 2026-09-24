@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4179/live/afee5d30-b710-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Africa
+- Amsterdam
+- Asia
+- Dublin
+- Düsseldorf
+- Europe
+- Faceland
+- Germany
+- Ireland
+- Netherlands
+- Switzerland
+- UK
+people:
+- Caryn Harte
+- Colin Vize
+- Faceland
+- Laura
+- Nikita Morgan
+- TikTok
+organisations:
+- A&E
+- BBC
+- Bopss
+- British Oculoplastic Surgery Society
+- Caryn
+- Faceland
+- NHS
+- Nikita
+- TikTok
 ---
 
 ![A close-up of a Nikita's face showing post-surgical healing, with adhesive strips and sutures around both eyes and across the bridge of the nose. The eyelids appear swollen and red, indicating recent medical treatment.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7f16/live/be443850-b5c6-11f1-b1d1-571ed4d7ff2c.jpg)

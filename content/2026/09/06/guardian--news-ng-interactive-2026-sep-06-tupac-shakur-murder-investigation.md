@@ -12,6 +12,68 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- America
+- California
+- Chicago
+- Clark
+- Compton
+- Las Vegas
+- Los Angeles
+- Mob Piru
+- Nevada
+- New York
+- South Central
+- US
+people:
+- Afeni Shakur
+- Christopher “Biggie Smalls” Wallace
+- Compton
+- Daryn Dupree
+- Duane “Keffe D” Davis
+- Garry Dale
+- Greg Kading
+- Jody Armour
+- Marion “Suge” Knight
+- Mark Chutkow
+- Me
+- Mob James
+- Mob James” McDonald
+- Mob Piru
+- Orlando “Baby Lane” Anderson
+- Reggie Wright Jr
+- Reginald Wright Sr
+- Robert Ladd
+- Sean “Diddy” Combs
+- Shirin Bakhshay
+- Steve Wolfson
+- Suge Knight
+- Tupac Shakur
+- Voletta
+- Wright Jr
+- Wright Sr
+organisations:
+- Bad Boy Records
+- Bureau of Alcohol, Tobacco, Firearms and Explosives
+- Compton Crips
+- Compton Street Legend
+- Death Row Records
+- Death Row Records’
+- Drug Enforcement Administration
+- FBI
+- Guardian
+- LAPD
+- Las Vegas Metro Police Department
+- Las Vegas Metropolitan police Department
+- Los Angeles Times
+- MGM
+- Mob Piru
+- Mob Piru Bloods
+- Southside Crips
+- UCLA
+- USC
+- University of Southern California
+- then-Compton
 ---
 
 For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s murder on the lack of cooperation from key witnesses, and on gang members’ “snitches get stitches” culture.

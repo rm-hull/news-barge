@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Austin
+- Florida
+- Houston
+- New York
+- Texas
+- US
+people:
+- Adolf Hitler
+- Brandon Herrera
+- Donald Trump-endorsed
+- George W Bush
+- Greg Abbott
+- Heather Heyer
+- John Cornyn
+- Jon Rosenthal
+- Karl Rove
+- Ken Paxton
+- Kevin Eltife
+- Lacey Hull
+- Ludwig Oberacker
+- Mark Davis
+- Marshall Rowson
+- Peter Oberacker
+organisations:
+- League of the South
+- Longhorn
+- Longhorns
+- Ohio State
+- Politico
+- Republican Jewish Coalition
+- Republican Party
+- Talking Points Memo
+- Texas Global
+- Texas Tribune
+- US House
+- UT
+- University of Texas
+- Washington Post
 ---
 
 A senior Republican has called a party colleague running for office in Texas “a bigot” over a racist social media post attacking college football fans – and said he is so outraged by the comments that he will vote for the candidate’s Democratic rival.

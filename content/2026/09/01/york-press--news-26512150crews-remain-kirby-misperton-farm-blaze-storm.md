@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Miles
+- North Yorkshire
+- Scarborough
+- Whitby
+- York
+people:
+- Lottie
+- Steve Mason
+- William Easterby
+organisations:
+- Met Office
+- North Yorkshire Fire and Rescue Service
 ---
 
 ## REVEALED - Aftermath of North Yorkshire fire sparked by lightning strike

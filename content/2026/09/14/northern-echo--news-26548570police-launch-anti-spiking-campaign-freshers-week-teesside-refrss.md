@@ -12,6 +12,22 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- England
+- Middlesbrough
+- North East
+- Pubwatch
+- Stockton
+- Teesside BT
+people:
+- Glyn Bavin
+organisations:
+- Cleveland Police
+- Cleveland Police’s Licensing Support Unit
+- Engagement Team
+- Holly Guard
+- Newsquest
+- Northern Echo)* Pubs
 ---
 
 Students starting college, sixth form or university this month are being urged to stay alert as police launch an anti-spiking campaign across Teesside.

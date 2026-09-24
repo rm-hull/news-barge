@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/QbooqapPNKpPkdSXsf6z3Q-1920-80.png
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- Blackwell
+- Efosa
+- GPU
+- Google News
+- Nvidia
+- PCB
+- TechRadar Pro
 ---
 
 ![Nvidia RTX Pro 5500 workstation edition](https://cdn.mos.cms.futurecdn.net/QbooqapPNKpPkdSXsf6z3Q.png) 

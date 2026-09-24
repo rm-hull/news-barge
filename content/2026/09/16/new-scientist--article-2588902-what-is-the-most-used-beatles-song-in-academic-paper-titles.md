@@ -13,6 +13,20 @@ categories:
 - Science
 - Technology & Software
 - Music
+locations:
+- Eesh
+- Netherlands
+- Switzerland
+- US
+- Zurich
+people:
+- Gabriel Budel
+- Marc Abrahams
+- Willow Rosenberg
+organisations:
+- Delft University of Technology
+- Igs
+- The Animal Ethics Committee of Butantan Institute
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312555278.jpg?w=840)

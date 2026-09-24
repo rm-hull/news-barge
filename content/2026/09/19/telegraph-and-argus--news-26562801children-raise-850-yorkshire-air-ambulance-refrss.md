@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404371.jpg?type=og-image
+locations:
+- Ashmoor
+- Bradford
+- Burnley
+- Partou Yorkshire
+- Shipley
+- Woodlands House
+people:
+- Gary
+- Kelly
+- Laura Clay
+- Lydia Spencer-Plumb
+- Ms Spencer-Plumb
+organisations:
+- Ms Spencer-Plumb
+- Partou Habergham Day Nursery
+- Partou Little People Day Nursery
+- Pre-School
+- Turn Yorkshire Yellow’
+- Yorkshire Air Ambulance
 ---
 
 *(Image: Supplied)*

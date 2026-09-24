@@ -12,6 +12,55 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Dublin
+- Europe
+- Glastonbury
+- Gnarly
+- Katseye
+- London
+- Los Angeles
+- Manchester
+- Pinky Up
+- UK
+- UK.
+- US
+people:
+- Daniela Avanzini
+- Daniella Although
+- Gabriela
+- Gabriella
+- Hootie Frutti
+- Katseye
+- Lara Raj
+- Lia
+- Manon Bannerman
+- Megan Skiendiel
+- Melanie C
+- Moka
+- Olivia Rodrigo
+- Sophia Laforteza
+- Yooncahe
+- Yoonchae Jeong
+organisations:
+- ABS-CBN News
+- BBC News
+- BTS
+- Bel Air
+- Dream Academy
+- Geffen
+- Hootie Frutti
+- Hybe
+- Illit
+- Instagram
+- Internet Girl
+- Itzy
+- K-Pop
+- Katseye
+- Le Sserafim
+- M.IA
+- O2 Arena
+- Rolling Stones
 ---
 
 ![Katseye on stage in London](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg)

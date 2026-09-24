@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Bathla
+- Stephen Longley
+organisations:
+- Bathla Group
+- Bathla’s
+- New South Wales
+- Teneo
 ---
 
 The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat.

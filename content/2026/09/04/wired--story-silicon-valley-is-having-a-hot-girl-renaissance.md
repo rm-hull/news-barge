@@ -13,6 +13,29 @@ categories:
 - Science
 - Arts & Culture
 - Society & Culture
+locations:
+- Georgia
+- Patagonia
+- San Francisco
+- Silicon Valley
+- Tesla
+people:
+- Brooke LeBlanc
+- Cat Orman
+- Celeste Amadon
+- Georgia Witchel
+- Jasper Carmichael-Jack
+- Known
+- Madison Kanna
+organisations:
+- Artisan
+- Corgi
+- Hot List
+- Hot Listers
+- Known
+- Mantis Biotech
+- SF
+- WIRED
 ---
 
 Since the dawn of Silicon Valley, there’s been a widespread perception that San Francisco is, put gently, not exactly a dating mecca.

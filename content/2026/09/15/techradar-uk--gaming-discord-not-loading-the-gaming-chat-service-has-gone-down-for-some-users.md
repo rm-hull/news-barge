@@ -9,6 +9,25 @@ description: '"This is devastating for people who don''t take showers"'
 image: https://cdn.mos.cms.futurecdn.net/5DhwmrZ5Fwe9E26HGPpVQd-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people: []
+organisations:
+- Dash
+- Discord
+- Edge
+- FaceTime
+- Google Meet
+- Google News
+- Marco Polo
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- Skype
+- TechRadar
+- Zoom
 ---
 
 ![Assorted video chat apps are seen on an iPhone, including Zoom, Skype, Google Meet, Discord, FaceTime, Messenger, Marco Polo, WhatsApp, and Cisco Webex Meetings.](https://cdn.mos.cms.futurecdn.net/5DhwmrZ5Fwe9E26HGPpVQd.jpg) 

@@ -13,6 +13,15 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21484343.jpg?type=og-image
+locations:
+- A162 Old Great North Road
+- Brotherton
+- Selby
+- West Yorkshire
+- York
+people: []
+organisations:
+- Tadcaster Fire and Rescue Service
 ---
 
 ## Our live feed has now finished.

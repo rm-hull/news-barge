@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Fiio
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- FT5
+- Fiio
+- GamesRadar
+- Google News
+- Gryphon4
+- KA15 DAC
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![The FiiO FT15 on a black background.](https://cdn.mos.cms.futurecdn.net/2bUf2JeyuHSPKmYcywHuM9.jpg) 

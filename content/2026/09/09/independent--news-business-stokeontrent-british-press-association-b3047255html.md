@@ -13,6 +13,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- London
+- UK
+- US
+people:
+- Michael Sanford
+- Stephen Feinberg
+- Timothy J W Goodwin
+organisations:
+- Cerberus
+- GI
+- GSC
+- Goodwin
+- Pumps
 ---
 
 British engineering firm Goodwin has struck a £1.1 billion deal to sell parts of its business, which supplies components for submarines and naval vessels.

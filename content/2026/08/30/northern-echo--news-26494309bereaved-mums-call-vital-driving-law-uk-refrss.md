@@ -14,6 +14,46 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- B6268
+- Bedale
+- Canada
+- County Durham
+- England
+- Jervaulx
+- London
+- Masham Market Place
+- New Zealand
+- North East
+- North Yorkshire
+- Northern Ireland
+- PA
+- PATRICK GOULDSBROUGH
+- UK
+- USA
+- Wales
+people:
+- Aaron Bell
+- Andy Burnham
+- Brake
+- Jordan Pettitt
+- Joshua Chapman
+- Joy Allen
+- Kevin Hollinrake
+- Nicola Bell-Percy
+- PATRICK GOULDSBROUGH
+organisations:
+- AA
+- Darlington Police
+- Department for Transport
+- Durham
+- GDL
+- GDLs
+- Graduated Driver Licensing
+- Graduated Driving Licences
+- Malton
+- PCC Allen
+- Thirsk
 ---
 
 A bereaved mum who lost her son to a tragic road crash has said there is a "glimmer of hope" to introduce a "vital" driving law in England after Northern Ireland moved ahead with proposals for the changes.

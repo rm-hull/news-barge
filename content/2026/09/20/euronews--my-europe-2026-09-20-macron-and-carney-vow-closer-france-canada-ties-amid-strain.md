@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/04/78/1200x675_cmsv2_ed5c0be3-fb78-5bf5-9ff4-5b34b0899daf-9920478.jpg
+locations:
+- Atlantic
+- Brussels
+- Canada
+- Canada-France
+- China
+- Europe
+- France
+- Greenland
+- Iran
+- Miquelon
+- Ottawa
+- Paris
+- Saint Pierre
+- Saint-Pierre-et-Miquelon
+- Strasbourg
+- US
+- United States
+people:
+- '## Macron'
+- Donald Trump
+- Emmanuel Macron
+- Mark Carney
+organisations:
+- European Commission
+- European Union
+- Macron
+- NATO
 ---
 
 ## Macron welcomed Canadian PM Mark Carney to Saint-Pierre-et-Miquelon for talks aimed at deepening economic and security ties, as Canada seeks closer relations with France and Europe amid tensions with the US.

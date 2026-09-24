@@ -15,6 +15,41 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Arizona
+- Austin
+- Caraballeda
+- Caracas
+- Colombia
+- Doral
+- Florida
+- Guatire
+- La Guaira
+- Miami
+- Phoenix
+- Texas
+- Tucson
+- U.S.
+- United States
+- Venezuela
+people:
+- Alejandro Marquina
+- Dariela Merchan
+- Diana Ramos
+- Donald Trump
+- Duneida
+- Granado Montano
+- Jesús
+- Kelly Granado Montano
+- Marina
+- Nicolás Maduro
+organisations:
+- AP Fund for Journalism
+- Associated Press
+- Caplin News
+- Conecta Arizona
+- Lilly Endowment Inc
+- The Conversation US
 ---
 
 After her parents went missing under the rubble of their Venezuela apartment building, Kelly Granado Montano spent her days here “lost, worried, on the phone,” her body in one country, her mind in another.

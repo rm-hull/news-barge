@@ -11,6 +11,20 @@ description: How well does this retro-looking mechanical keyboard perform by mod
 image: https://cdn.mos.cms.futurecdn.net/s52omdsz54X9Coa43bVrCi-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Vibe99
+people:
+- Lewis Maddison
+organisations:
+- BlackWidow
+- Fn
+- MechLand
+- MechLand’s
+- Razer
+- Synapse
+- TechRadar Pro
+- Vibe99
+- WASD
 ---
 
 ### TechRadar Verdict

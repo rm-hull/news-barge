@@ -13,6 +13,75 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Barcola
+- Bournemouth
+- Europe
+- France
+- Ipswich
+- Isak
+- Liverpool
+- St James' Park
+people:
+- Alexander Isak
+- Alexis Mac Allister
+- Alisson
+- Andoni Iraola
+- Andy Robertson
+- Arne Slot
+- Bradley Barcola
+- Cody Gakpo
+- Conor Bradley
+- Curtis Jones
+- Daniel Sturridge
+- Darwin Nunez
+- Dominik Szoboszlai
+- Fabinho
+- Florian Wirtz
+- Giorgi Mamardashvili
+- Giovanni Leoni
+- Goncalo Ramos
+- Ibrahim Mbaye
+- Ibrahima Konate
+- Ifeanyi Ndukwe
+- Jarell Quansah
+- Jeremie Frimpong
+- Jeremy Jacquet
+- Joe Gomez
+- Lamine Camara
+- Lee Kang-in
+- Lucca Brughmans
+- Luis Diaz
+- Malo Gusto
+- Milos Kerkez
+- Mohamed Salah
+- Mor Talla Ndiaye
+- Randal Kolo Muani
+- Ronald Araujo
+- Ryan Gravenberch
+- Thibaut Courtois
+- Trey Nyoni
+- Victor Munoz
+- Virgil van Dijk
+- Wataru Endo
+organisations:
+- Anfield
+- Arsenal
+- Barcelona
+- Barcola
+- Bayern Munich
+- Chelsea
+- Genk
+- Inter Milan
+- Liverpool
+- Manchester City
+- Newcastle
+- PSG
+- Paris St-Germain
+- Premier League
+- Reds
+- Wirtz
 ---
 
 ![Bradley Barcola tugging on his Liverpool shirt badge with a smile on his face as he celebrates joining Liverpool](https://ichef.bbci.co.uk/ace/standard/633/cpsprodpb/c396/live/a95425d0-a6bd-11f1-ae1e-219da1d6451a.jpg)

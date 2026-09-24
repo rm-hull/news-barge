@@ -13,6 +13,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Bishop Auckland
+- Bishop Auckland Market Place
+- Christmas Town
+- Darlington
+- North East
+people:
+- Thomas Wales
+organisations:
+- Baccanalia for Culture CIC
+- Bridge Creative Enterprise CIC
+- STUART BOULTON
 ---
 
 *(Image: STUART BOULTON)*

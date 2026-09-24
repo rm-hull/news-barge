@@ -12,6 +12,16 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Chester-le-Street
+- County Durham
+- Darlington
+- HMP Frankland
+- Newton Aycliffe Magistrates’ Court
+people:
+- Edward Little
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

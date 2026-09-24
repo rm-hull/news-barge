@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- '## Long-standing York'
+- A LONG-STANDING York
+- Alice Kavanagh
+- Colliergate
+- Coney Street
+- Lendal
+- Micklegate
+- North Yorkshire
+people: []
+organisations:
+- High Court
+- Post Office
+- Post Office Ltd
+- TG Jones
+- The Press
+- WHSmith
+- WHSmiths
+- York Post Office
 ---
 
 ## Long-standing York city centre shop and Post Office set to close next month

@@ -14,6 +14,50 @@ categories:
 - UK
 - Business & Entrepreneurship
 - History
+locations:
+- Asia
+- Chatham House
+- Dubai
+- Gulf
+- Iran
+- Middle East
+- Oman
+- Pakistan
+- Qeshm Island
+- Strait of Hormuz
+- Tehran
+- UK
+- US
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Andreas Krieg
+- Ayatollah Ali Khamenei
+- Donald Trump
+- Lindsay Newman
+- Marjorie Taylor Greene
+- Masoud Pezeshkian
+- Nicolas Maduro
+- Shehbaz Sharif
+organisations:
+- Center for American Progress
+- Dubai International Airport
+- House of Representatives
+- Human Rights Activists News Agency
+- King's College London
+- Ministry of Justice
+- National Institute of Economic and Social Research
+- New York Post
+- Ofgem
+- Pentagon
+- Resolution Foundation
+- Reuters/Ipsos
+- Senate
+- The Independent
+- Watson School of International and Public Affairs
+- “* Trump
 ---
 
 Barely a week after American bombs rained down across Iran, Donald Trump picked up the phone to a reporter at the *New York Post*. 

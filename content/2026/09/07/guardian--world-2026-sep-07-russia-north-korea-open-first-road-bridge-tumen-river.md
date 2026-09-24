@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 - Travel
+locations:
+- Iran
+- Kazakhstan
+- Khasan
+- Kursk
+- Moscow
+- North Korea
+- Pyongyang
+- Russia
+- Tumangang
+- Tumen River
+- Ukraine
+- Vladivostok
+people:
+- Kassym-Jomart Tokayev
+- Kim Il-sung
+- Mikhail Mishustin
+- Sergei Lavrov
+- Vladimir Putin
+- Yakov Novichenko
+organisations:
+- RBC
+- Truth Hounds
 ---
 
 Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine.

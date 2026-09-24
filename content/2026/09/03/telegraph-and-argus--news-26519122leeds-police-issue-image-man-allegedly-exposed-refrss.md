@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Leeds
+- Selby Road
+- West Yorkshire
+- York Road
+people: []
+organisations:
+- Crimestoppers
+- Leeds Safeguarding
 ---
 
 *(Image: West Yorkshire Police)*

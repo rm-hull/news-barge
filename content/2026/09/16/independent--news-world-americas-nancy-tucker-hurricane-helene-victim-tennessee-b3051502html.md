@@ -13,6 +13,29 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Health & Fitness
+locations:
+- Appalachian
+- Carolinas
+- Cherokee National Forest
+- Florida
+- Helene
+- Jackson Island
+- Nolichucky River
+- North Carolina
+- Tennessee
+- Washington County
+people:
+- Alena Ayers
+- Helene
+- James Matthews
+- Jimmy Tucker
+- Keith Sexton
+- Nancy Tucker
+- Susan Saylor
+organisations:
+- Emergency Management Agency
+- U.S. Army
+- Washington County Sheriff’s Department
 ---
 
 The remains of the final missing victim in Tennessee from Hurricane Helene have been located, two years after the storm laid waste to Appalachian mountain communities with catastrophic floods.

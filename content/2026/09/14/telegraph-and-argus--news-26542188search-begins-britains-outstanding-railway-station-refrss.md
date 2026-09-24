@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Ashington station
+- Britain
+- Great British Railways
+- Northumberland Line
+people:
+- Dan Mann
+- Paul Henry
+organisations:
+- Ashington
+- Northumberland Line
+- Rail Delivery Group
 ---
 
 *(Image: Supplied)*

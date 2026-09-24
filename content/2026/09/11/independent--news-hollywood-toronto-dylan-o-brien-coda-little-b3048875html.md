@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Hollywood
+- North America
+- San Francisco Federal Building
+- U.S.
+people:
+- Andrew Pilkington
+- Being Heumann
+- Being Heumann’
+- CODA’
+- Charlie Rush-Reese
+- Daniel Durant
+- Dylan O’Brien
+- Evan White
+- Joseph Califano
+- Judy Heumann
+- Madeline Delp
+- Mark Ruffalo
+- Marlee Matlin
+- Rio Finnegan
+- Ruth Madeley
+- Siân Heder
+- Troy Kotsur
+organisations:
+- Apple
+- CODA
+- Centers for Disease Control and Prevention
+- Marvel
+- USC Annenberg Inclusion Initiative
 ---
 
 A line has been running through Siân Heder’s head lately: “What would Judy do?”

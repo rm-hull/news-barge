@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/FmsSY7hkCo2KKkcUhjoHyV-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+- John Ternus
+- Steve Jobs
+- Tim Cook
+organisations:
+- ANC
+- Apple Intelligence
+- Apple Pencil
+- Apple Watch
+- Apple Watches
+- Brand
+- Duo
+- Gemini
+- Gizmodo
+- Google News
+- PC Explorer
+- Pro Max
+- Samsung Galaxy Z Fold 8
+- Siri AI
+- Siri Recap
+- The Hardware Handbook
+- iOS 27
 ---
 
 ![Apple event September 2026](https://cdn.mos.cms.futurecdn.net/FmsSY7hkCo2KKkcUhjoHyV.jpg) 

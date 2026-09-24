@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Jefferson County
+- Lancaster County
+- Mexico
+- Mifflin County
+- Pennsylvania
+- U.S.
+people:
+- Debra Bogen
+- Robert F. Kennedy Jr.
+organisations:
+- AP Fund for Journalism
+- Trump
 ---
 
 Pennsylvania officials have reported a fourth measles-associated death.

@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/09/08/04/Nepal_Year_Of_Turmoil_2_39
 categories:
 - News & Politics
 - UK
+locations:
+- Himalayas
+- Kathmandu
+- Nepal
+- Tibet
+people:
+- Balen Shah
+- Binaj Gurubacharya
+- Guna Raj Luitel
+- K.P
+- Sharma Oli
+- Shristi Kafle
+- Sumnima Udas
+- Uttam Bhlon
+organisations:
+- Associated Press
+- Independent Power Producers’ Association
+- The Diplomat Nepal
+- United Nations
+- World Bank
 ---
 
 The flash floods two weeks ago swallowed settlements and swept away roads and bridges in Nepal's mountains and river valleys. Roughly 7,500 homes were destroyed, another 20,000 need rebuilding and at least 12 hydropower projects were damaged. The damage estimate so far of $2.56 billion is a staggering bill for a country with a total budget of $14 billion for the current fiscal year.

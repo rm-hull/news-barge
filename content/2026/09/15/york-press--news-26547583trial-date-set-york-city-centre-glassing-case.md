@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- James Street
+- St Saviourgate
+- York
+people:
+- Paul Reid
+- Sarah Ogden
+organisations:
+- York Crown Court
 ---
 
 *(Image: Staff)*

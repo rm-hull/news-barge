@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- East Orange
+- Gray
+- Lubec
+- Maine
+- New Jersey
+- Philadelphia
+- U.S.
+people:
+- Adonis
+- Bailey
+- Benjamin Rush
+- Charles Ponzi
+- Charles Stanley
+- Clark Stanley
+- George C. Parker
+- Jonathan Fahey
+- Lydia Kang
+- Radithor
+- Rattlesnake King
+- Robert F. Kennedy
+- Tali Sharot
+- William J.A
+organisations:
+- AP Fund for Journalism
+- Associated Press’
+- Bailey Radium Laboratories
+- Brooklyn Bridge
+- Declaration of Independence
+- Quackery
+- Radithor
+- The Associated Press
+- U.S. Bureau of Chemistry
+- University College London
+- University of Nebraska Medical Center
 ---
 
 America: land of possibility. And also: land of suckers.

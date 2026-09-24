@@ -13,6 +13,34 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Buckingham Palace
+- Germany
+- Highgrove House
+- Leipzig-Halle Airport
+- Russia
+- Sandringham
+- UK
+- US
+- Ukraine
+- Windsor Castle
+people:
+- Andy Burnham
+- Charles
+- King
+- Stefan Rousseau
+- Tan Singh Dhesi
+- Volodymyr Zelensky
+organisations:
+- Commons Defence Select Committee
+- KillNet
+- Labour
+- NHS
+- National Cyber Security Centre
+- PA
+- Prince William’s
+- Royal Family
 ---
 
 Buckingham Palace has more than doubled its taxpayer-funded cyber security spending amid concerns over Russian hackers targeting the Royal Family.

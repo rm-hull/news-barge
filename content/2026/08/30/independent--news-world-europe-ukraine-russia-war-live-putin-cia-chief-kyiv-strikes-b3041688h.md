@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bucha
+- Dnipro
+- Donetsk
+- Iran
+- Kharkiv
+- Kherson
+- Kirishi
+- Kramatorsk
+- Kremlin
+- Kyiv
+- Latvia
+- Leningrad
+- Moscow
+- Nikopol
+- Riga
+- Strait of Hormuz
+- Sumy
+- Tehran
+- US
+- Ukraine
+- Vnukovo
+- Washington DC
+- Zaporizhzhia
+- Zelensky Russia
+people:
+- Alexander Drozdenko
+- Dimitry Peskov
+- Donald Trump
+- John Ratcliffe
+- Kyiv
+- Kyrylo Budanov
+- Maira Butt
+- Peter Frankopan
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yevhenii Khmara
+organisations:
+- Amazon”
+- Andrews Air Force Base
+- Axios
+- CIA
+- EU
+- European Union
+- Kyiv
+- Shahed
+- Telegram
+- US Air Force
+- Zelensky
 ---
 
 The CIA director floated a summit with Vladimir Putin, Volodymyr Zelensky, and Donald Trump during his mysterious meeting in Moscow, it is understood.

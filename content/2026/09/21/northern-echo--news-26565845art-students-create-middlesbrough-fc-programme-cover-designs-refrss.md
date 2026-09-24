@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21478250.jpg?type=og-image&xType=0&yType=451
+locations:
+- Lincoln City
+- Middlesbrough
+- New North East
+- North East
+- Teesside
+people:
+- Ace Edwards
+- Amelie Smith
+- Matthew Barber
+organisations:
+- BA
+- Hartlepool
+- MFC
+- Middlesbrough FC
+- Middlesbrough Football Club
+- North East town centre School
+- Northern School of Art
+- Roseberry Topping-inspired
+- The Northern School of Art
+- Wrexham
 ---
 
 A partnership with a North East football club is putting college artists’ work in front of a much bigger audience.

@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Harrogate Hospital
+- North Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: Supplied)*

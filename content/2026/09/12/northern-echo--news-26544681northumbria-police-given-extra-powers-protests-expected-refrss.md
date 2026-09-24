@@ -13,6 +13,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Civic Centre
+- England
+- Newcastle
+- North East
+- Portsmouth
+- River Tyne
+- Tamworth
+people: []
+organisations:
+- Newcastle
+- Northumbria Police
 ---
 
 *(Image: PROVIDED)*

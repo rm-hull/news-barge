@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Braintree
+- Brent East
+- England
+- London
+people:
+- Andy Burnham
+- David Lammy
+- Dawn Butler
+- Enoch Powell
+- Giles Dilnot
+- James Cleverly
+- Kemi Badenoch
+- Nigel Farage
+- Pat McFadden
+- Rosena Allin-Khan
+- Sadiq Khan
+- Susan Hall
+- Tony Travers
+organisations:
+- Conservative Home
+- Greens
+- LBC
+- Labour
+- Liberal Democrats
+- London School of Economics
+- Mile End Institute
+- Queen Mary University of London
+- Reform UK
+- Savanta
+- Times Radio
+- Tory
+- YouGov
 ---
 
 James Cleverly has pledged to run a “classically Conservative” campaign to become the mayor of London, insisting that his victory in the capital would be a stepping stone for Kemi Badenoch to become prime minister.

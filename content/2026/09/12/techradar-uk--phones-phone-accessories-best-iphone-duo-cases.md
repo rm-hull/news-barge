@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/xZdzwhGuTn5xAad2JssCDm-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+- US
+people:
+- Ruth Hamilton
+organisations:
+- Apple
+- Google News
+- Mous
+- OtterBox
+- Ruth
+- Spigen
+- TechRadar
 ---
 
 ![A selection of iPhone Duo cases against a colorful background](https://cdn.mos.cms.futurecdn.net/xZdzwhGuTn5xAad2JssCDm.jpg) 

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Anzoategui
+- Aragua
+- Carabobo
+- Caracas
+- Iberia
+- La Guaira
+- Latin America
+- Maiquetía
+- Miranda
+- Panama
+- Simón Bolívar International Airport
+- Spain
+- Venezuela
+- Yaracuy
+people:
+- Francisco Garcés
+organisations:
+- Air Europa
+- Copa Airlines
+- Simón Bolívar International Airport
 ---
 
 Venezuela's main airport partially resumed commercial operations on Tuesday, nearly 10 weeks after two devastating earthquakes struck the South American country.

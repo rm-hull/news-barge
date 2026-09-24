@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Birchwood House
+- Edinburgh
+- Harrogate
+- Leeds
+- North Yorkshire
+- Ripley Castle
+- UK
+people: []
+organisations:
+- Boar's Head Hotel
+- Cadbury
+- Carter Jonas
+- Zoopla
 ---
 
 A “prestigious” North Yorkshire hotel has hit the market – for £1.95 million.

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Arguineguín
+- Atlantic Ocean
+- Canary Islands
+- Gran Canaria
+- Spain
+- The Gambia
+- West Africa
+- sub-Saharan Africa
+people:
+- Fernando Clavijo
+- Helena Maleno Garzón
+organisations:
+- Caminando Fronteras
+- Maritime Rescue
+- Spanish Maritime Rescue
 ---
 
 ![Migrants disembark vessel in Arguineguín, Gran Canaria, Spain, on 3 September](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0d3f/live/2ff9a0d0-a77f-11f1-b2d5-535b3b3d379f.png)

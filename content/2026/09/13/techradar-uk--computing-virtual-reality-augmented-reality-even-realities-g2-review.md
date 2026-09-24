@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/xnavpvV8i4yPjxfgZziLMa-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Even AI
+- Lance Ulanoff
+organisations:
+- AI
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta
+- Today Show
+- VR
+- X3 Pro
+- Ziff Davis, Inc
 ---
 
 ### TechRadar Verdict

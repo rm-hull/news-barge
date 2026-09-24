@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Newcastle
+- York
+people:
+- Ernest Wilson
+- Ernest Wilson**
+organisations:
+- Cheltenham Crescent
+- Phranakhon Thai Tapas
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa2562ce7dedeb6643.jpg) 

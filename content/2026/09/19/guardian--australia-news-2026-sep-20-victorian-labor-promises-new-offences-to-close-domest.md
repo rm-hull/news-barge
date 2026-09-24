@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/a7c58e17b74f2161e1519d48832a5e3923225435/79_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b3cb0d31d8930688e04a7c369ace0bb
+locations:
+- Carroll
+- Cranbourne
+- Maryborough
+- Melbourne
+people:
+- Belinda Jones
+- Ben Carroll
+- Liberty Sanger
+- Narelle Simmons
+organisations:
+- Coalition
+- Labor
 ---
 
 A re-elected Victorian Labor government will create two new Australian-first offences aimed at closing “loopholes” it says have allowed perpetrators of family violence to escape punishment.

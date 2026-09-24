@@ -17,6 +17,16 @@ categories:
 - York
 - Family & Parenting
 - Health & Fitness
+locations:
+- Harrogate
+people:
+- Ella Smith-Dunn
+- Gianna
+- Kate Mortimer
+organisations:
+- Cocoon Healthcare
+- Lead Midwife at Cocoon Healthcare
+- NHS
 ---
 
 # 'There was no pregnancy glow - I didn’t know neurodivergent motherhood could feel so different'

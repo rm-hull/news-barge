@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gatwick
+- Heathrow Airport
+- Luton Airport
+- UK
+people:
+- Heidi Alexander
+- Martin Brundle
+- Martin Rolfe
+- Neal McMahon
+- Simon Calder
+organisations:
+- '## Luton Airport'
+- '## Nats'
+- BA
+- Bristol Airport
+- British Airways
+- Commons
+- Flightradar24
+- National Air Traffic Control Service
+- Nats’
+- Ryanair
+- Sky News
+- The Daily Telegraph
+- The Times
+- Transport Secretary
+- Wizz Air
+- Wizz Air UK
 ---
 
 Airports have warned of further disruption on Wednesday after more than 1,000 flights to and from the UK were cancelled due to a “technical issue”.

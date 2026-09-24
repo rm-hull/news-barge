@@ -13,6 +13,29 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21484448.jpg?type=og-image&xType=0&yType=66
+locations: []
+people:
+- Aitch
+- Alesha Dixon
+- Cheryl
+- Danny Jones
+- Emma Willis
+- Kelly Rowland
+- McFly
+- Stacey Solomon
+- Tom Fletcher
+- Tom Jones
+- Will.i.am
+organisations:
+- '## ITV'
+- BBC One
+- ITV1
+- ITVX
+- Instagram
+- STV Player
+- The Voice
+- The Voice UK
+- iPlayer
 ---
 
 *(Image: ITV)*

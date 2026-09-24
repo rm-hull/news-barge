@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- East Magnolia Avenue
+- Minnesota
+- New York
+- St. Paul
+people:
+- Alaynah
+- Atlas
+- Aurora
+- Bonnie Pierce
+- Grace —
+- Gregory Duren
+- Jemma
+- Jenny McGovern
+- Jessica Buol
+- Paul Fire
+- Terri Pierce
+organisations:
+- CBS News
+- GoFundMe
+- KARE
+- NBC
+- Saint Paul Fire Department
+- Walmart
 ---
 
 A Minnesota mother died after re-entering a burning duplex to save her 3-year-old daughter, shielding the toddler with her own body until firefighters reached them.

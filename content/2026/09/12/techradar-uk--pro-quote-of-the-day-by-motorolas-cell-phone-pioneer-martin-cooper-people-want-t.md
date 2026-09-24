@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/MB6pJa8ZzL8fom8JKMHzwV-1590-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- New York
+- then-Burlington House
+people:
+- Bob Greene
+- Keumars Afifi-Sabet
+- Mark Cooper
+- Martin Cooper
+organisations:
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- Motorola
+- QOTD
+- Tech Radar
+- TechRadar Pro
 ---
 
 ![Martin Cooper](https://cdn.mos.cms.futurecdn.net/MB6pJa8ZzL8fom8JKMHzwV.jpg) 

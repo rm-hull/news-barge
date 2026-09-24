@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Calder Quarry
+- Calderdale
+- Elland
+- West Yorkshire Magistrates’ Court
+people:
+- Ben Hocking
+organisations:
+- Calder Quarry
+- Calderdale Council
+- EA
+- Environment Agency
+- Yorkshire Area Environment Manager
 ---
 
 # 'Coming down hard' - Access blocked to Yorkshire quarry where waste was illegally dumped

@@ -12,6 +12,68 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3388/live/21337b30-b610-11f1-bc1f-3f186ca4140c.png
+locations:
+- Britain
+- Cambridge
+- England
+- Folkestone
+- Iran
+- Kent
+- Kremlin
+- Metro
+- New York City
+- Piddington
+- Saudi Arabia
+- UK
+- US
+- Ukraine
+- Yemen
+- Zaporizhzhia
+people:
+- '!["Burnham'
+- Andy Burnham
+- Cindy Crawford
+- Donald Trump
+- Ed Miliband
+- Fred Done
+- Heidi Alexander
+- John Gibbs
+- Kemi Badenoch
+- Lucy Letby
+- Presley Gerber
+- Putin
+- Wes Streeting
+organisations:
+- Betfred
+- Citigroup
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Daily Telegraph.
+- Financial Times
+- Financial Times.
+- GB News
+- Guardian
+- Martha's Rule
+- Metro
+- Ministry of Justice
+- NHS
+- National Air Traffic Services
+- Nats
+- PM
+- Probation Service
+- RAF
+- Standard Chartered
+- The Independent
+- The Star
+- The Telegraph
+- The Times
+- The i Paper
+- UN
+- University of Cambridge
 ---
 
 !["Air traffic out of control" reads the headline on the front page of Metro.](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/7b90/live/d73ee850-b602-11f1-bc1f-3f186ca4140c.jpg)

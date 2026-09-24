@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486187.jpg?type=og-image
+locations:
+- Emmerdale
+people:
+- Belle King
+- Eden Taylor-Draper
+- Emmerdale
+- James Chase
+- Kammy
+- Laura Shaw
+- Minnie (aka Piper
+- Tom King
+- Tom**
+organisations:
+- Emmerdale
+- ITV
+- Ofcom
+- PA Wire
+- STV
 ---
 
 *(Image: ITV/ Emmerdale/PA Wire)*

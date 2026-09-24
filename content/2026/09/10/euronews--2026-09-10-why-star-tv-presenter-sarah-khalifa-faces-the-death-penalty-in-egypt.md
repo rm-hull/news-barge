@@ -14,6 +14,27 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Agouza
+- Cairo
+- Egypt
+- Mansoura
+people:
+- Fathi el-Abyad
+- Grand Mufti
+- Karim Salim
+- Mohamed El-Gendy
+- Mohamed Hamouda
+- Sarah Khalifa
+organisations:
+- Cairo Felony Appeals Court
+- Court of Cassation
+- Euronews
+- Felony Appeals Court
+- Felony Appeals Courts
+- Interior Ministry
+- MDMB-4en-PINACA
+- United Nations Office on Drugs and Crime
 ---
 
 ## Egyptian law allows capital punishment for some serious drug offences, while a 2024 reform gives felony defendants a full appeal before the Court of Cassation. Euronews examines how the process works before a death sentence becomes final in Egypt.

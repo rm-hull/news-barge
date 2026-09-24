@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc07/live/9cad4b
 categories:
 - UK
 - News & Politics
+locations:
+- Camden
+- Holborn
+- London
+- St Pancras
+- UK
+people:
+- '** Polanski'
+- Andrew Feinstein
+- Andy Burnham
+- Green
+- Keir Starmer
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Camden People's Alliance
+- Green Party
+- Greens
+- Houses of Parliament.
+- Labour
 ---
 
 ![Zack Polanski, wearing a black jacket and green T-shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dc07/live/9cad4bc0-a76e-11f1-993c-a325009c1935.jpg)

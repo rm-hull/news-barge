@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/08/20/12/261c62d2ad116498f47e9831cd
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- California
+- Cotswolds
+- Duke
+- Montecito
+- UK
+people:
+- Archie
+- Duke
+- Harry
+- Lilibet
+- Oprah Winfrey
+- Scott Hamer
+organisations:
+- Duchess of Sussex
+- Home Office
+- Home Secretary
+- Metropolitan Police
+- Oprah Winfrey
+- Ravec
+- Royal and VIP Executive Committee
+- Sussexes
+- The Independent
+- The Telegraph
 ---
 
 The Duke and Duchess of Sussex view the daily school run as their primary security risk following their return to the UK, it has been reported.

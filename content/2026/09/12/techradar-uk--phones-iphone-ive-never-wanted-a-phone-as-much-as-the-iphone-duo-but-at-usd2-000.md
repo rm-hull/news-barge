@@ -11,6 +11,19 @@ description: The iPhone Duo is Apple’s most exciting phone in years, but I’m
 image: https://cdn.mos.cms.futurecdn.net/YLRkQdbWeVWJhUM2FSxnNe-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+organisations:
+- Apple Store
+- Creative Bloq
+- Duo
+- Google News
+- MacFormat
+- TechRadar
+- iMore
+- iOS
+- iPhone Air
 ---
 
 ![The iPhone Duo on a light colored background](https://cdn.mos.cms.futurecdn.net/YLRkQdbWeVWJhUM2FSxnNe.jpg) 

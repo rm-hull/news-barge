@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/vQD4izcoidZSwM4iDnNEHR-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Frere-Jones Type
+- Google News
+- Intel
+- Phoronix
+- Readme
+- Tom’s Hardware
+- VMLY&R
 ---
 
 ![The Intel One Mono open-source font](https://cdn.mos.cms.futurecdn.net/vQD4izcoidZSwM4iDnNEHR.png) 

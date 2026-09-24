@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- New York
+people:
+- Alex Michelsen
+- Annabel Croft
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina.
+- Frances Tiafoe
+- Iga Swiatek
+- Jessica Pegula
+- Madison Keys
+- Mirra Andreeva
+- Rybakina
+- Zheng Qinwen
+organisations:
+- BBC Radio 5 Live
+- Gauff
 ---
 
 ![Coco Gauff, wearing a pale yellow vest, puts her left index finger behind her ear](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/96e4/live/c7227bb0-ac90-11f1-ab14-5b9069dc795d.jpg)

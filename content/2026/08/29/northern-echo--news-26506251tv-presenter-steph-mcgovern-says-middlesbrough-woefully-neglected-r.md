@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- A66
+- Atlee Road
+- BBC
+- Birchington Avenue
+- CLEVELAND
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- South Bank
+- Steele Crescent
+- Teesside
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Minute
+- Natalie McDonald
+- PC Blades
+- PC Clough
+- Passat
+- Pc Tom Clough
+- SARAH CALDECOTT
+- Steph McGovern
+- Stuart Boulton
+- Theo Rae
+- Valentina Foster
+organisations:
+- A66
+- Class A
+- Cleveland Police
+- Independent Office for Police Conduct
+- Mercedes
+- Middlesbrough
+- UGC
 ---
 
 TV presenter Steph McGovern has said Middlesbrough has been “woefully neglected” for decades and warned that the problems facing the town go far deeper than policing following a devastating week on Teesside.

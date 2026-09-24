@@ -12,6 +12,15 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Chan Chan
+- Chimú
+- Lima
+- Peru
+- Trujillo
+people:
+- Chan Chan
+organisations: []
 ---
 
 Archaeologists have uncovered a collective tomb containing the remains of 38 people at Chan Chan, a vast pre-Hispanic adobe citadel in northern Peru. Aerial footage shows teams working among the remains and excavating the site.

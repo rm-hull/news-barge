@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Japan
+people: []
+organisations:
+- IFA Berlin
+- TCL
 ---
 
 ## Under the theme “The Future is Now”, IFA Berlin 2026 put the focus on technology designed for everyday life.

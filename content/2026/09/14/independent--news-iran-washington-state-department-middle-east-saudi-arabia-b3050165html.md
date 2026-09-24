@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/09/14/23/Iran_US_Pentagon_648_9.jpg
 categories:
 - News & Politics
 - UK
+locations:
+- Athens
+- Bahrain
+- Europe
+- Iran
+- Iraq
+- Israel
+- Istanbul
+- Jordan
+- Kuwait
+- Middle East
+- New York
+- Oman
+- Qatar
+- Saudi Arabia
+- U.S.
+- UAE
+- United Arab Emirates
+- Washington
+people:
+- Pete Hegseth
+- Trump
+- ___ Amiri
+organisations:
+- Congress
+- Defense and State departments
+- NBC News
+- Pentagon
+- State Department
+- U.S. Agency for International Development
 ---
 
 A U.S. government watchdog released its first report on the impact of the Iran war on Monday, acknowledging the military's advanced weapons shortfalls and offering the first public look at the damage to American aircraft, bases and diplomatic outposts in the Middle East.

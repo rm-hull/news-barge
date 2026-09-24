@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- York Outer
+- __York
+people:
+- Chris Steward
+- Cllr Kent
+- Cllr Paula Widdowson
+- Cllr Steward
+- Cllr Widdowson
+- Green
+- Ian Hoult
+- Jenny Kent
+- Luke Charters
+organisations:
+- City of York Council
+- City of York Council)* Council
+- Conservative
+- Council Labour Environment
+- Liberal Democrat environment
 ---
 
 MOVES to ditch recycling boxes and replace them with bins in York could prove difficult for some households, an opposition councillor has said.

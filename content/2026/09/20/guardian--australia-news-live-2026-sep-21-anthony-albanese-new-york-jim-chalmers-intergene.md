@@ -11,6 +11,75 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/43497f8f487bb3db9791c2b65280faec40d8c394/921_0_3179_2543/master/3179.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5cd96a55e2b8cd74db3c91402c271223
+locations:
+- Australia
+- Cairo
+- China
+- Dili
+- Egypt
+- Iran
+- King Street
+- Middle East
+- NSW
+- New York
+- New York City
+- Papua New Guinea
+- Port Moresby
+- Sydney
+- Timor-Leste
+- US
+- Ukraine
+- United States
+people:
+- Angus Taylor
+- Anthony Albanese
+- Beau Lamarre-Condon
+- Donald Trump
+- Gayle Sloan
+- Heather Ridout
+- Jamie Isbister
+- Jesse Baird
+- Jim Chalmers
+- Joel McGregor
+- Kat Wong
+- Katy Gallagher
+- Lachlan Murdoch
+- Lucienne Manton
+- Luke Davies
+- Mick Tsikas
+- Natalie Adams
+- Penny Sharpe
+- Penny Wong
+- Quinn Rooney
+- Sarah Basford Canales
+- Siobhan McKenna
+- Trump Sarah Basford Canales
+organisations:
+- AAP
+- AI Force
+- Australia Post
+- Australian Industry Group
+- Coalition
+- Commonwealth
+- Getty Images
+- Getty Images Albanese
+- Guardian Australia
+- IGR
+- Malaysia Airlines
+- Murdoch
+- NSW
+- National Broadband Network
+- New South Wales
+- News Corp
+- RN Breakfast
+- TV
+- Trump
+- UN General Assembly
+- UN Security Council
+- United Nation
+- United Nations
+- United Nations General Assembly
+- Waste Management and Resource Recovery Association of Australia
 ---
 
 Anthony Albanese has named former News Corp executive Siobhan McKenna as Australia’s next consul-general in New York. Photograph: Quinn Rooney/Getty Images

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- England
+- Gateshead
+- Great Lumley
+people:
+- Kanaparthy
+- Karl Clezy
+- Kim Gamble
+- Ms Gamble
+organisations:
+- A66
+- Christie & Co
+- Lumley Pharmacy
+- Sri Kanaparthy
 ---
 
 *(Image: Supplied)*

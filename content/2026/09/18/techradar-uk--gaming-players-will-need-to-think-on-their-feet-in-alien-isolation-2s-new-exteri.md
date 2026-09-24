@@ -14,6 +14,19 @@ description: 'Alien: Isolation 2''s exterior setting will increase both tension 
 image: https://cdn.mos.cms.futurecdn.net/R3ENoBkvnuzZyareGCynpP-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Weyland-Yutani
+people:
+- Laura Mouther
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- TechRadar
 ---
 
 ![A close up of a Xenomorph in Alien: Isolation 2 ready to attack.](https://cdn.mos.cms.futurecdn.net/R3ENoBkvnuzZyareGCynpP.jpg) 

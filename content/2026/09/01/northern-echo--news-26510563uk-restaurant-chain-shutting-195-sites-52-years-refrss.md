@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ireland
+- UK
+- US
+people:
+- Dominic Paul
+- Whitbread
+organisations:
+- 20 Bar
+- All Beefeater
+- Bar + Block
+- Beefeater Grill Reward Club
+- Berni Inn
+- Brewers Fayre
+- Cookhouse
+- JD Wetherspoon
+- Newsquest
+- Premier Inn
+- Pub
+- Queensway Inns
+- Table Table
+- Whitbread
 ---
 
 *(Image: Tripadvisor)*

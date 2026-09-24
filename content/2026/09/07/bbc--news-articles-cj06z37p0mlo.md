@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- China
+- London
+- UK
+people:
+- Met
+- Zhenhao Zou
+organisations:
+- BBC London
+- BBC Radio London
+- CPS
+- Crown Prosecution Service
+- Met Police
+- Metropolitan Police
+- PhD
 ---
 
 ![Police custody image of Zhenhao Zou](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/20fc/live/e67b6d10-f9da-11ef-9e61-71ee71f26eb1.jpg)

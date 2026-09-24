@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Las Vegas
+- U.S.
+people:
+- Ajeet
+- Baby
+- Es Devlin
+- Gary Gerard Hamilton
+- Jacob Collier
+- Jason White
+- Jon Hopkins
+- Max Richter
+- Maya Angelou
+- Ocean Vuong
+- Oprah Winfrey
+- Tarell Alvin McCraney
+- Wintley Phipps
+organisations:
+- AHA
+- All Media
+- Associated Press
+- Eagles
+- GaryGHamilton
+- The Associated Press
+- The Backstreet Boys
+- The Oprah Winfrey Show
+- U2
 ---
 
 Oprah Winfrey stood alone at the Sphere, attempting to comprehend what she had witnessed after U2’s opening night performance in 2023. Mesmerized by the multisensory event, the Queen of All Media had a thought: Could she use the groundbreaking, 4D capabilities of the globe-shaped arena to help others reach their highest potential?

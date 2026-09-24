@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations: []
+people:
+- Max Spero
+- Pangram
+organisations:
+- AI
+- Apple Podcasts
+- EquityPod
+- Overcast
+- Pangram
+- Spotify
+- Substack
+- TechCrunch’s Equity
+- YouTube
 ---
 
 The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.

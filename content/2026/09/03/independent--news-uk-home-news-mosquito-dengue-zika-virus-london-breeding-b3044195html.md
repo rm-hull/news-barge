@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- London
+- UK
+people:
+- Jolyon Medlock
+- Zika
+organisations:
+- UK Health Security Agency
+- UKHSA
 ---
 
 For the first time, an invasive species of mosquito known to transmit diseases such as dengue and Zika virus has been discovered breeding in the UK.

@@ -14,6 +14,86 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzYzFlMGM3LWQzZmQtNDBkOC05YjA0LTUxNGVmNzIyNTc0MzowMDkwYTYwNS1iMWRmLTRlODQtOTE3ZC1kNDA1MDRhYmQ3ZjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bournemouth
+- Cambridge
+- Clare
+- Continent
+- Dorset
+- Downing Street
+- Evesham
+- Harrogate
+- High Ackworth
+- London
+- Long Lane Close
+- Norton
+- Paris
+- Poole
+- South Africa
+- South Yorkshire
+- United Reformed Church
+- Victoria Avenue
+- West Park
+- West Park Centre
+- West Yorkshire
+- Winfrith
+people:
+- Alan Bennett
+- Alison Harris
+- Alison Sturley
+- Alyson
+- Audrey
+- Ava
+- Charles Harris KBE
+- Clare
+- Coun Trevor Chapman
+- Ed
+- Emily née Thompson
+- Janet Chapman
+- Joan
+- John Harris
+- Lady Harris
+- Les Parkes
+- Liz Charnley
+- Margaret Thatcher
+- Richard Cyster
+- Sam
+- Sue
+- Vivi
+organisations:
+- CBE
+- City of London
+- Coal Authority
+- Coal Industry
+- DL MA LLM FRSA
+- District City of Sanctuary
+- Dulwich College
+- EU
+- Girton
+- Guild of Freeman
+- Harrogate Heritage and Community Development Project
+- Harrogate Homeless Project
+- Harrogate Theatre
+- Harrogate u3a
+- Knaresborough District of Sanctuary
+- Knaresborough Labour Party
+- Mid Yorkshire Hospitals NHS Trust
+- National Service in the Intelligence Corp
+- Nato
+- Northern Counties Housing Association
+- OECD Dragon Project
+- Royal Hall Restoration Trust
+- South Africa Housing Network Trust Limited
+- South Yorkshire Metropolitan County Council
+- The Atomic Energy Authority
+- The Harrogate Theatre
+- The Labour Party
+- The Queen
+- The Royal Hall Restoration Trust
+- U3a
+- UNA
+- United Nations Association
+- United Reformed Church
 ---
 
 # Obituary: 'Much-loved' Harrogate man who received CBE for a lifetime of service and achievement

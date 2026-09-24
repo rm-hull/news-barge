@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+people:
+- Jayne Morgan
+organisations:
+- Bradford Council
+- DDFA
+- DFG
+- Disabled Facilities Grant
+- Discretionary Disabled Facilities Assistance
 ---
 
 *(Image: T&A)*

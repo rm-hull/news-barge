@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- County Durham
+- Darlington
+- Gainford
+people: []
+organisations:
+- CSI
+- Durham Constabulary
+- GNAAS
+- Great North Air Ambulance Service
+- NEAS
+- NORTHERN ECHO
+- North East Ambulance Service
 ---
 
 Crime scene investigators are scouring a house on a quiet County Durham street after a suspected shooting saw one person taken to hospital.

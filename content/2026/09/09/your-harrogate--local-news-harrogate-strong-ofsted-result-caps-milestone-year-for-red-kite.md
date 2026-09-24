@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations: []
+people:
+- Victoria Lickley
+organisations:
+- Early Career Leaders
+- Ofsted
+- Red Kite
+- Red Kite Teacher Training
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa1161e8cb6f964892.jpg) 

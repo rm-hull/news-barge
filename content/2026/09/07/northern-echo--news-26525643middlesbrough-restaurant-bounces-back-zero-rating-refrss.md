@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bazaar
+- Captain Cook Square
+- North East
+- Northumberland
+- Teesdale
+people:
+- Bazaar
+- Hannah Hauxwell
+organisations:
+- Bazaar Restaurant
+- Middlesbrough Council
 ---
 
 A swanky North East restaurant has bounced back from the worst possible food hygiene rating to be one away from the top score.

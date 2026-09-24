@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Bronte Birthplace
+- Bronte Country
+- Thornton Road
+- Thorton
+- US
+people:
+- Benedict
+- JONATHAN
+- Jonathan There
+- Paul Addy-Armitage
+- Thornton Rd
+organisations:
+- Bistro
+- Tripadvisor
+- Wuthering Delights
+- Wuthering Delights Café
 ---
 
 JONATHAN and Paul Addy-Armitage run Wuthering Delights Café and Bistro on Thornton Road, Thornton. We spoke to Paul about their business.

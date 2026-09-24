@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Budapest
+- Edinburgh
+- Great Britain
+- Hungary
+- London
+- Los Angeles
+- Paris
+- USA
+people:
+- Brooks
+- Josh Kerr
+organisations:
+- BBC Sport
+- Diamond League
+- National Lottery
+- Nike
+- UK Sport
+- World Athletics
 ---
 
 ![Josh Kerr celebrates while holding the 1500m trophy after winning the inaugural World Athletics Ultimate Champion event in Budapest, Hungary](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg)

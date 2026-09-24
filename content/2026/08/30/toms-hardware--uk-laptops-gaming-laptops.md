@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Aurora
+people: []
+organisations:
+- Alienware
+- Dell Deals
+- Get Tom's Hardware
+- Lenovo
+- Walmart
 ---
 
 ## Explore Gaming Laptops

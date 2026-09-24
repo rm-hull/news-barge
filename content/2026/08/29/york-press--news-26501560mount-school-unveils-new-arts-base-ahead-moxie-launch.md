@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Dalton Terrace
+- Holgate
+- Mount School
+- The Moxie
+- YORK
+- York
+people:
+- Anna Wilby
+- Chris Haltiner
+- Connie
+- Duncan Lomax
+- Holgate
+- Lucy
+- York
+organisations:
+- MAXINE GORDON
+- Mount School
+- Mount School in York
+- Moxie Centre for Art
+- The Mount
+- The Mount School
+- The Moxie
+- The Moxie Centre for Art
+- The Press
 ---
 
 ## First look: York school unveils new dance studio as arts hub prepares to open

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482982.jpg?type=og-image
+locations:
+- Call Lane Red Zone
+- Leeds City Centre
+- Leeds Civic Hall
+- Swinegate
+- West Yorkshire
+people: []
+organisations:
+- Google
+- Leeds City Centre CIA
+- Leeds City Council
+- Society
+- West Yorkshire Police
 ---
 
 *(Image: Google)*

@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Munich
+- San Francisco
+people:
+- Huyn
+- Jack Huynh
+organisations:
+- AI
+- AMD
+- Internationale Funkausstellung
+- Nvidia
+- NvidiaDGX Station
+- Nvidia’s
+- Threadripper Halo Station
 ---
 
 ## The American chipmaker launched what they have described as a ‘personal supercomputer’ in Berlin on Friday, designed and made for a “completely new era of computing” driven by AI.

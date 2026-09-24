@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Los Angeles
+- North America
+people:
+- Aradhna Tripati
+- Jasmina Wiemann
+- Robert Eagle
+- T. rex
+organisations:
+- AP Fund for Journalism
+- Johns Hopkins University
+- UCLA
+- University of California
 ---
 
 Using fossilized teeth, scientists have finally taken the T. rex's temperature — and it wasn't too different from our own.

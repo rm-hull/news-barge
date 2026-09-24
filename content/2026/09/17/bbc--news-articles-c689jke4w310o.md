@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Berkshire
+- Bracknell
+- Brighton
+- UK
+- Westminster
+- Windsor
+people:
+- Bobby Forbes
+- Jack Rankin
+- Keir Mather
+- Peter Swallow
+organisations:
+- BBC News
+- British Youth Council
+- Chamber of the House of Commons
+- DCMS
+- Department of Culture, Media and Sport
+- House of Commons
+- House of Commons.
+- Houses of Parliament.
+- Labour
+- National Youth Agency
+- UK Youth Parliament
+- Youth Select Committee
 ---
 
 ![Members of Youth Parliament smile while sat on the benches of the House of Commons.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/6261/live/9de122a0-b2b8-11f1-a430-4d16ee157c41.jpg)

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baildon
+- Manchester
+- UK
+- Westgate
+people: []
+organisations:
+- AO Arena
+- Best Apprentice
+- One Hair Studio
 ---
 
 *(Image: Supplied)*

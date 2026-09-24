@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Europe
+- Gorgie
+- Hampden Park
+- Midlothian
+- Scotland
+- Spain
+- Sweden
+- Switzerland
+- Ukraine
+people:
+- '** Graham'
+- Calvin Miller
+- Heart
+- James Wilson
+- Josh McPake
+- Luke Graham
+- Poconogli
+- Robbie Ure
+- Scott Brown
+- Sebastien Pocognoli
+- Steve Clarke
+- Wouter Vrancken
+organisations:
+- Curacao
+- Dundee
+- Hearts
+- Kilmarnock
+- La Liga
+- Rangers
+- Sevilla
+- Sirius
+- Slovenia
+- Stoke City
+- The Potters
+- Ure
 ---
 
 ![Luke Graham and Robbie Ure](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/13fd/live/57f44cd0-b070-11f1-b1d1-571ed4d7ff2c.png)

@@ -13,6 +13,55 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Acklam Grange
+- Acklam Road
+- CLEVELAND
+- Cargo Fleet Lane
+- Cleveland
+- Kemi
+- Ladgate Lane
+- Middlesbrough
+- Ormesby Road
+- Redcar
+- South Bank
+- St Bede’s Chapel
+- Teesside Crematorium
+- UK
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- James Manning
+- John Wrintmore
+- Kemi Badenoch
+- Lucy Powell
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Pc Tom Clough
+- Richard Townshend
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Acklam Whin Primary School
+- BBC Radio 4
+- Badenoch
+- Cleveland Police
+- Conservative Party
+- Government
+- Green Lane School
+- Home Office
+- Labour Education Secretary
+- NORTHERN ECHO
+- Newham Bridge Primary School
+- Outwood Academy Acklam
+- PA Wire
+- PC Blades
+- PC Clough
+- SOCIAL MEDIA
 ---
 
 The political row over school closures has reignited after several Middlesbrough schools announced early finishes ahead of another funeral linked to the fatal A66 crash.

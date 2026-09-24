@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Cameroon
+- Côte d’Ivoire
+- London
+- Nigeria
+- Southwark
+people:
+- Alex Beard
+- Andrew Gibson
+- David Perez
+- Martin Wakefield
+- Paul Hopkirk
+- Ramon Labiaga
+organisations:
+- Glencore
+- London Stock Exchange
+- SFO
+- Serious Fraud Office
 ---
 
 Glencore’s billionaire former head of oil trading has pleaded not guilty to two bribery charges after allegedly facilitating payments to west African officials in order to advance the Swiss commodity group’s operations in the continent.

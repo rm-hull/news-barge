@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Bridlington Lifeboat Station
+- Bridlington Old Town
+- Bridlington South Beach
+- Bridlington Spa
+- Church Green
+- East Yorkshire
+- North Sea
+- Old Boating Lake
+- Royal Hall
+- South Marina Drive
+- UK
+- Yorkshire Bus Bar
+people:
+- Ken Fox
+organisations:
+- 3QN
+- Bridlington Lions
+- Bridlington Spa
+- East Riding of Yorkshire Council
+- SWB Motorsport
+- South Cliff Park & Ride
+- South Marine Drive
+- Strawberry Fields
 ---
 
 A beach racing event is returning to East Yorkshire this weekend with a three-day event.

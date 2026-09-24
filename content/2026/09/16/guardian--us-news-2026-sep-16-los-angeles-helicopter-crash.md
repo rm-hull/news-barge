@@ -11,6 +11,19 @@ image: https://i.guim.co.uk/img/media/c7cf9c1086b42c27fd309ae974845d44bbb33dfb/3
 categories:
 - UK
 - News & Politics
+locations:
+- Chatsworth
+- Los Angeles
+- NBC4 Los Angeles
+- San Fernando Valley
+people:
+- Capt Branden Silverman
+organisations:
+- Federal Aviation Administration
+- Los Angeles Fire Department
+- MTA
+- National Transportation Safety Board
+- SUV
 ---
 
 A news helicopter crash in a Los Angeles neighborhood has killed at least three people, after it came to the ground and burst into flames near the site of a bus crash that occurred hours earlier.

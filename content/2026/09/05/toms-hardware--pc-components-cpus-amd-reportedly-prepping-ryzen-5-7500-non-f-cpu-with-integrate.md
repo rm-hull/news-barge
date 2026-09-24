@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Amazon
+- Germany
+- Newegg
+- US
+people:
+- Hassam Nasir
+- Roland Quandt
+- Tom
+organisations:
+- AMD
+- Amazon
+- Google News
+- iGPU
+- irrelevant.COLGeek
 ---
 
 ![Zen 4 CPU](https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H.jpg) 

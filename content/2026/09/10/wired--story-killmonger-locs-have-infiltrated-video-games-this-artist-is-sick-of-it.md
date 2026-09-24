@@ -13,6 +13,22 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations: []
+people:
+- Danielle Udogaranya
+- God
+- Michael B. Jordan
+organisations:
+- Code My Crown
+- DLC
+- EA
+- Ebonix Patreon
+- Loc & Kinky Strand Generator Tool
+- Open Source Afro Hair Library
+- SEGA
+- Triple-A
+- Udogaranya
+- WIRED
 ---
 
 When the life-simulation game *Paralives* was released in early access, Danielle Udogaranya’s hand ached at the thought of making new Black hairstyles for it.

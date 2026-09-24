@@ -15,6 +15,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Millbank Tower
+- UK
+- Whitehall
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Cleo Watson
+- Danny Kruger
+- Helen MacNamara
+- Nigel Farage
+organisations:
+- '![Reform UK'
+- Brexit Party
+- Cabinet Office
+- Channel 4
+- Crypto
+- Reform
+- Ukip
 ---
 
 For Reform UK, money has become a story in its own right.

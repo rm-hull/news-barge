@@ -15,6 +15,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford District
+- Humber
+- Keighley
+- North of England
+- Providence Park
+- Space Test North Centre
+- UK
+- US
+- Yorkshire
+people:
+- Andrew Judson
+- Caroline Firth
+- Dave Shepherd
+- Ian Eglin
+- Keighley
+organisations:
+- BSC Filters
+- Bradford Council’s Executive
+- Council
+- Dover Corporation
+- Hayfield Robinson)* COUNCIL
+- Keighley East
+- Keighley Local Regeneration Fund
+- Lab
+- Ministry of Housing, Communities and Local Government
+- Portfolio Holder
+- Portfolio Holder for Economy, Regeneration and Planning
+- Reform
+- Skynet 6A
 ---
 
 *(Image: Hayfield Robinson)*

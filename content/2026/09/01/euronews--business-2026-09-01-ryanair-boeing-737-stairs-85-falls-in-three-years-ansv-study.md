@@ -13,6 +13,33 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Alicante
+- Bologna
+- Bologna**
+- Dublin
+- Europe
+- Genoa
+- Ireland
+- Italy
+- Netherlands
+- Spain
+- Venice
+people: []
+organisations:
+- AAIU
+- ANSV
+- Amsterdam Schiphol Airport
+- Boeing
+- CIAIAC
+- CIAIAC**)
+- Corriere della Sera.
+- EASA
+- EU
+- European Union Aviation Safety Agency
+- Istanbul Airport
+- National Agency for Flight Safety
+- Ryanair
 ---
 
 ## A study examined 104 falls in Italy between 2023 and 2025: 85 involved travellers using the built-in stairs of Boeing 737s, but analysts say the key factor was passenger inattention.

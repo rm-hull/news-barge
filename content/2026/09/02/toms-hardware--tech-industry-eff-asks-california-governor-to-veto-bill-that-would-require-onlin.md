@@ -15,6 +15,23 @@ categories:
 - Hardware
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Bill A.B
+- Bruno Ferreira
+- Gavin Newsom
+- Tom
+organisations:
+- A.B
+- Attorney General
+- EFF
+- Electronic Frontier Foundation
+- Equifax
+- Google News
+- PC
+- Target
+- Tom's Hardware
+- UnitedHealth Group
 ---
 
 ![Age verification](https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE.jpg) 

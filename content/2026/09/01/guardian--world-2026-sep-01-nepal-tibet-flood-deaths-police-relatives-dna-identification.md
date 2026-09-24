@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Canada
+- China
+- Himalayas
+- India
+- Kathmandu
+- Mount Kailash
+- Nepal
+- Nukawot
+- Tibet
+- UK
+- US
+people:
+- Balendra Shah
+- Prakaiti Jurnj
+organisations:
+- People’s Liberation Army
 ---
 
 Nepali rescuers have built temporary bridges to reach remote areas and dug through the ruins of hydropower projects in the Himalayas to rescue hundreds of trapped workers, as the death toll passed 1,000 nearly a week after devastating floods left a trail of destruction across the country’s towns and valleys.

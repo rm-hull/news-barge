@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Iran
+- Ireland
+- Middle East
+- UK
+- US
+- Wales
+people:
+- Andy Burnham
+- Mind
+organisations:
+- British Gas
+- DWP
+- Department for Work and Pensions
+- E.ON
+- EDF
+- Joseph Rowntree Foundation
+- Labour
+- OVO
+- Octopus
+- Ofgem
+- Resilience Fund’
+- Scope
+- Scottish Power
+- The NHS
+- Turn2us
+- Universal Credit
 ---
 
 Autumn is well underway, with falling temperatures bringing the cost of living to the forefront of many people’s minds across the UK.

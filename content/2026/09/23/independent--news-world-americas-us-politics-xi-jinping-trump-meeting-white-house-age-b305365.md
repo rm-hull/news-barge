@@ -13,6 +13,48 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/11/35/GettyImages-2244072479.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- California
+- China
+- Europe
+- Florida
+- France
+- Harvard
+- India
+- Iran
+- New Delhi
+- New Zealand
+- North Korea
+- Russia
+- Saint Petersburg
+- Silicon Valley
+- Taiwan
+- US
+- Washington
+- White House
+people:
+- '![Trump'
+- Brent Franson
+- Donald Trump
+- Elon Musk
+- Joe Biden
+- Melania Trump
+- Mitch McConnell
+- Peter Thiels
+- Sam Altman
+- Sheldon Solomon
+- Vladimir Putin
+- Walter Reed
+- Xi Jinping
+organisations:
+- AI
+- Anatoly Rakhlin Olympic Reserve Sports School
+- Armed Forces-led
+- DeathClock
+- Google
+- OpenAI
+- Skidmore University
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

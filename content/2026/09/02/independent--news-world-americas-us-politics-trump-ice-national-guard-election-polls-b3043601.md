@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlanta
+- Charlotte
+- Cleveland
+- Detroit
+- Georgia
+- Michigan
+- North Carolina
+- Ohio
+- U.S.
+- White House
+people:
+- Al Sharpton
+- Chioma Chukwu
+- Dan Caine
+- Donald Trump
+- Elissa Slotkin
+- Harmeet Dhillon
+- Karoline Leavitt
+- Markwayne Mullin
+- Mary Corcoran
+- Steve Bannon
+- Wayne Allyn Root
+organisations:
+- American Federation of Teachers
+- American Oversight
+- Congress
+- DHS
+- DOJ
+- Department of Homeland Security
+- Department of Justice
+- Federal
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Joint Force
+- National Action Network
+- National Guard
+- Office of the General Counsel
+- Save America Movement
+- Save America Movement.
+- Trump
+- Vote Safe
 ---
 
 A coalition of civil rights groups are planning to deploy hundreds of poll watchers in several key states to combat alleged threats of election interference and voter intimidation from Donald Trump’s administration and his MAGA allies.

@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Derry Township
+- Florida
+- Jeannette
+- McKeesport
+- Pennsylvania
+- St. Josaphat Eparchy
+- Vero Beach
+- West Mifflin
+- Westmoreland County Courthouse
+people:
+- God
+- Gregory Allen Madeya
+- Joseph R DeMarchis
+- Patrick Schulte
+- Patrick Thomassey
+- Robert G Del Greco Jr
+organisations:
+- Fox News
+- Knights of Columbus
+- Magisterial District Court
+- Pennsylvania AG Dave Sunday
+- Virgin Mary Ukrainian Catholic Church
 ---
 
 A former Catholic priest has been arrested and accused of stealing $740,000 from his church, its affiliates and parishioners – and even his own mother.

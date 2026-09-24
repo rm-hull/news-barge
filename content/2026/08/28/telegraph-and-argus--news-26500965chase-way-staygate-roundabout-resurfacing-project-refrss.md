@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Chase Way
+- Eurocam Technology Park
+- Mayo Avenue
+- Parkway
+- Staygate
+- YOUR
+people: []
+organisations:
+- Bradford Council
+- Chase Way
+- Jointline
+- National Highways, Heidelberg Materials
+- Public Notice Portal
 ---
 
 *(Image: Bradford Council)*

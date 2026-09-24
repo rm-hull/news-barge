@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- CPR
+- Check Point
+- Check Point Research
+- Google News
+- Represent Communications
+- SVG
+- TechRadar Pro
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf.jpg) 

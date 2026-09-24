@@ -12,6 +12,52 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/18/23/01M2TQV0J49SK2MWDCYMMJT1B8.jpg?trim=196,0,196,0&width=1200&height=800&crop=1200:800
+locations:
+- BBC
+- Britain
+- Buckingham Palace
+- PA
+- Paris
+- SNL UK
+- Sussex
+- US
+- Wales
+- Westminster Abbey
+people:
+- '## Charles Spencer'
+- Aaron Chown
+- Bridget Phillipson
+- Charles Spencer
+- Charles'
+- Dan Wakeford
+- Diana
+- Dickie Arbiter
+- Donald Trump
+- Duchess
+- Earl Charles Spencer
+- Earl Spencer
+- Ed Davey
+- Ed Sheeran
+- Harry
+- Jeff Overs
+- Kemi Badenoch
+- King
+- Laura Kuenssberg
+- Meghan
+- Viscount Althorp
+- Wales’
+- William
+organisations:
+- AI
+- BBC
+- BBC’s
+- Celebrity Intelligence
+- Conservative Party
+- Duchess of Sussex
+- Labour
+- Laura Kuenssberg
+- Liberal Democrats
+- Tory
 ---
 
 Prince Harry and Meghan, Duchess of Sussex, should be given official security now because the media is treating them in a similar way to Princess Diana, Earl Spencer has said.

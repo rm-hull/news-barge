@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/11/35/1200x675_cmsv2_a88f3c61-30cc-5cd8-b294-935eeda146e6-9921135.jpg
+locations:
+- Iran
+- Karaj
+- Shahrak-e Valiasr
+- Shahriar
+- Tehran
+- Vahidieh
+people:
+- Arya
+- Bita
+- Maryam
+- Masoud Pezeshkian
+- Mehra
+- Roksana
+organisations:
+- Euronews
+- Islamic Azad University
+- Ministry of Education
 ---
 
 ## As Iran’s academic year begins, families face severe strain from doubling tuition fees, soaring stationery prices, war fears and a plunging currency. Euronews Persian spoke to Iranians about declining enrollments and deep economic distress across the country.

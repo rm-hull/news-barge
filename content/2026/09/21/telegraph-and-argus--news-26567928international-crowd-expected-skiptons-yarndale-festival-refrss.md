@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481138.jpg?type=og-image&xType=0&yType=371
+locations:
+- Skipton Auction Mart
+- UK
+people:
+- Yarndale
+organisations:
+- '![]()Yarndale'
+- DripDrop Theatre
+- SKIPTON
+- Skipton Auction Mart
+- Sue Stratford Knits
+- The Gatsbys
+- The Ginjammers
+- West Yorkshire
+- Yarndale
 ---
 
 SKIPTON is set to host an international crowd this weekend for the annual Yarndale festival.

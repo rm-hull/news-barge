@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Coldyhill Lane
+- Newby
+- North Yorkshire
+- Scarborough
+- Territorial Army Reserve Centre
+people: []
+organisations:
+- Highway Authority
+- Ministry of Defence
+- MoD
+- Newby and Scalby Town Council
+- North Yorkshire Council
+- Territorial Army Reserve Centre On Coldyhill Lane
 ---
 
 THE conversion of a North Yorkshire army reserve centre into a business park has been officially approved by the council.

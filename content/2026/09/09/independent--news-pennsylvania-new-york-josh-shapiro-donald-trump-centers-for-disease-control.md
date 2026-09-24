@@ -15,6 +15,28 @@ categories:
 - UK
 - Family & Parenting
 - True Crime
+locations:
+- Lancaster County
+- Mexico
+- Pennsylvania
+- U.S.
+people:
+- Donald Trump
+- Georges Benjamin
+- Ivan Miller
+- Josh Shapiro
+- Mary Stoltzfus
+- Robert F. Kennedy Jr.
+- Stephen Diamantoni
+organisations:
+- AP Fund for Journalism
+- American Public Health Association
+- CDC
+- Centers for Disease Control and Prevention
+- Fox
+- The Associated Press
+- Trump
+- WPMT-TV
 ---
 
 The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.

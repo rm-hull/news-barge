@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Burqa
+- Homesh
+- Israel
+- West Bank
+people: []
+organisations:
+- AP
+- Supreme Court
 ---
 
 Israeli settlers, some carrying rifles, sang, danced and carried Torah scrolls as they inaugurated a synagogue at the newly revived settlement of Homesh.

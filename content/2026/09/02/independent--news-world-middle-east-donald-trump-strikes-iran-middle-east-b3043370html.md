@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Hormuz Strait
+- Iran
+- Iraq
+- Islamic Republic
+- Jordan
+- Kuwait
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Masoud Pezeshkian
+organisations:
+- Axios
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Truth Social
+- US Centcom
 ---
 
 US president Donald Trump has insisted he “couldn’t care less” if Iran signs a “worthless” deal to end the war, as both sides launched fresh strikes in the spiralling conflict.

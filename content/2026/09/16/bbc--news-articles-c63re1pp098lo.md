@@ -13,6 +13,46 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Basingstoke Magistrates' Court
+- Countess of Chester Hospital
+- England
+- France
+- Healey
+- London
+- Russia
+- UK
+people:
+- Andy Burnham
+- Daisy Edgar-Jones
+- Diana
+- Earl Spencer
+- Jane Austen
+- John Healey
+- Justice Thirlwall
+- Lucy Letby
+- Raheem Sterling
+- Yvette Cooper
+- Zia Yusuf
+organisations:
+- Budget
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Financial Times
+- Guardian
+- Independent
+- Lamborghini
+- Letby
+- Metro
+- NHS
+- Royal Family
+- Sun
+- Teenagerss
+- The Daily Telegraph
+- The Times
 ---
 
 ![The headline on the front page of the Daily Express reads: 'Cot Cams After "complete failure to protect babies".'](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/3162/live/fb5d0340-b146-11f1-a430-4d16ee157c41.jpg)

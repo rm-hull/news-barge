@@ -12,6 +12,26 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- South Africa
+- Switzerland
+- UK
+people:
+- Debra Roberts
+- Inger Andersen
+- James Dyke
+- Joeri Rogelj
+- Konstantin Weber
+- Oliver Geden
+- Reto Knutti
+organisations:
+- ETH Zurich
+- German Institute for International and Security Affairs
+- Imperial College London
+- UN Environment Programme
+- UNEP
+- University of Exeter
+- University of KwaZulu-Natal
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310266094.jpg?w=840)

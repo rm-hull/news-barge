@@ -13,6 +13,17 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Bavaria
+- Germany
+- Hesse
+- North Rhine-Westphalia
+- Rhineland-Palatinate
+people: []
+organisations:
+- BBK
+- BKK
+- Federal Office for Civil Protection and Disaster Assistance
 ---
 
 Alarm sirens rang out in cities across Germany on Thursday morning at 11am. Mobile phones made shrill alarm noises and displayed warning text messages. Official warning apps triggered notifications.

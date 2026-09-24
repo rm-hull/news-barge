@@ -12,6 +12,22 @@ image: https://i.guim.co.uk/img/media/d3cc664724e6376ff66f5f578425e07d3bfbc731/1
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+people:
+- Chris Foley
+- Cip Hamilton
+- Jeff Angel
+- Murray Watt
+- Suzanne Toumbourou
+- Tanya Plibersek
+organisations:
+- Australian Council of Recycling
+- Australian Marine Conservation Society
+- Australian Packaging Covenant Organisation
+- Boomerang Alliance
+- Clean Up Australia
+- Commonwealth
 ---
 
 The Albanese government has been accused of breaking a promise after it shelved a longstanding commitment to bring in packaging standards intended to force manufacturers and retailers to cut plastic waste.

@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Britain
+- England
+- Europe
+- Holborn
+- Jackdaw
+- North Sea
+- UK
+- Wales
+people:
+- Alan Milburn
+- Andy Burnham
+- Ben Delo
+- Dame Esther Rantzen
+- Jesy Nelson
+- Zack Polanski
+organisations:
+- Conservative Party
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Delo
+- Department for Energy
+- End of Life
+- Farage
+- Financial Times
+- Green Party
+- Guardian
+- House of Commons
+- Labour
+- Ministry of Defence
+- National Air Traffic Services
+- Reform UK
+- Sun
+- Terminally Ill Adults
+- The Daily Telegraph
 ---
 
 ![The headline on the front page of the FTWeekend reads: “Military jet tripped air traffic chaos”.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/1e3e/live/07306810-ae22-11f1-a540-61c3f7fc4e6c.jpg)

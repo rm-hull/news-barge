@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Newark
+people:
+- Covid
+- Danny Kruger
+- Robert Jenrick
+organisations:
+- Adam Smith Institute
+- Reform UK
+- Tory
+- Treasury
 ---
 
 Reform MP Danny Kruger has condemned his colleague Robert Jenrick’s programme of delivering free food boxes to shielding households during the Covid-19 pandemic, describing them as "revolting" and "unhealthy."

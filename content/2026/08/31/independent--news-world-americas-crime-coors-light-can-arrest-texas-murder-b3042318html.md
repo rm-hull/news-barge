@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Arizona
+- Cottonwood
+- Seattle
+- Texas
+- Universal City
+people:
+- Kelly Lee Brower
+- Stephen Rios
+- Yolanda Herrera
+organisations:
+- ABC
+- Coors Light
+- Cottonwood Police Department
+- FamilyTreeDNA
+- Texas Department of Public Safety’s Sexual Assault Kit Initiative
+- Universal City Police Department
+- WNEP
 ---
 
 Authorities in Texas have arrested a man in connection with a 1981 cold-case murder after forensic investigators matched DNA found under the victim’s fingernails to a discarded beer can retrieved from the suspect’s trash.

@@ -14,6 +14,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Stefan Rousseau
+- Steve Webb
+organisations:
+- DWP State Pension
+- FOI
+- Freedom of Information
+- Government
+- HMRC
+- LCP
+- St Michael
+- State Pension
+- State Pensions
 ---
 
 *(Image: Stefan Rousseau)*

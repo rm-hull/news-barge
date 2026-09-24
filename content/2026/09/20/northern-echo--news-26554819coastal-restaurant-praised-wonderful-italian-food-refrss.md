@@ -15,6 +15,15 @@ categories:
 - Food & Cooking
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21462073.jpg?type=og-image
+locations:
+- Italy
+- North East
+- Saltburn
+- Saltburn-by-the-Sea
+people:
+- Alessi
+organisations:
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Arizona
+- Covid-19
+- El Salvador
+- Michigan
+people:
+- Abdul El-Sayed
+- Anderson Cooper
+- Bari Weiss
+- Cecilia Vega
+- Delia Ramirez
+- Donald Trump
+- Mehdi Hassan
+- Oliver Darcy
+- Scott Pelley
+- Yassamin Ansari
+organisations:
+- CBS News
+- CBS News’
+- CECOT
+- Independent
+- Liberal
+- Paramount
+- Senate
+- Skydance
 ---
 
 CBS News boss Bari Weiss reportedly had a direct hand in creating a headline that insinuated Michigan Senate candidate Abdul El-Sayed deleted supposedly controversial tweets about the September 11, 2001 terrorist attacks.

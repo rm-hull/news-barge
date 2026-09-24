@@ -15,6 +15,42 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Chester-le-Street
+- County Durham
+- Lumley Castle
+people:
+- Alison Limerick
+- Ben Santiago
+- Danny Howard
+- Danny Rampling
+- Daz Flatman
+- Emma Harbs
+- Gabrielle
+- Jon Pleased Wimmin
+- Kate Bond
+- Lovely Laura
+- Marti Pellow
+- Neil Hargreaves
+- Paul Taylor
+- Richard Tulip
+- Sam Divine
+- Smoove
+- Todd Terry
+organisations:
+- ANDY FUTERS
+- ATA Events
+- Eat Everything
+- Groove Armada
+- Lawn Stage
+- Lumley Castle
+- North East
+- Opulence
+- PBR Street Gang
+- The Beat Boutique
+- The Hutchinson Bros
+- The Missus
+- Turrell, Soulutions
 ---
 
 Music, glamour and big-name performances took over a County Durham castle as its first ever festival brought two days of entertainment.

@@ -13,6 +13,41 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/18/23/01M2TQV0J49SK2MWDCYMMJT1B8.jpg?trim=196,0,196,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Buckingham Palace
+- London
+- Prince of Wales
+- Princess of Wales
+- Sussex
+people:
+- '## Harry'
+- Alexander Larman
+- Charles Spencer
+- Charles’
+- Diana
+- Dodi
+- Duke
+- Earl Spencer
+- Gaby Roslin
+- Gosh
+- King
+- Liz Truss
+- Martin Bashir
+- Mohammed Al Fayed
+- Prince Harry
+- William
+- Windsors
+organisations:
+- Archewell Productions
+- BBC
+- Duke of Sussex
+- Harrods
+- Netflix
+- Royal Lancaster Hotel
+- Sussexes’
+- The Duke of Sussex
+- The Telegraph
 ---
 
 Prince Harry is in talks to make a documentary about his mother Princess Diana, according to a report, as the fallout over Earl Spencer’s bombshell memoir continues.

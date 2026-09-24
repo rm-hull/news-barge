@@ -12,6 +12,26 @@ categories:
 - York
 - Family & Parenting
 image: https://www.yorkpress.co.uk/resources/images/21480642.jpg?type=og-image
+locations:
+- China
+- Harrogate
+- North Yorkshire
+- Princes Square
+- UK
+people:
+- Adam Curtis
+- Curt
+- Janet
+- Shaun the Sheep
+- Shirley the Sheep
+- Wool Hugger
+organisations:
+- Keys Inn
+- North Yorkshire
+- Sam Smiths Brewery
+- Shaun the Sheep
+- Shirley the Sheep
+- Wool Hugger
 ---
 
 ## Spotlight on North Yorkshire first woollen toys as Shaun the Sheep film returns

@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20230510__33ET2E3__v1__MidRes__GermanyUkraineMigrationHealthHospitalEducationIn-1.jpg@webp
+locations:
+- Bavaria
+- Germany
+- Hackerbrücke
+- Krankenkasse
+- Munich
+- Turkey
+- UK
+- US
+- United States
+- Virginia
+people:
+- Cansu
+- Carolyn Wack
+- Jenifer Stambaugh
+- Kenneth
+- Leni
+- Lorie Whitaker
+- Rahul
+- Ruth
+organisations:
+- Bates College
+- Destatis
+- EU
+- FedEx
+- Katholische Universität
+- Mickey Mouse
+- Smith College
+- Telegram
+- The Yale Psychiatric Institute
+- ZAB
 ---
 
 Last year German authorities set their personal record for approving the most applications for the recognition of foreign professional qualifications – throughout 2025 a total of approximately 86,600 applications were approved according to Germany’s statistics office (Destatis).

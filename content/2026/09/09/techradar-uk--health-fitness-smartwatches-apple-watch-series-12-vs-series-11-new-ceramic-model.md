@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/AVjtbkFUysH5z7iVQUQDKL-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Rowan Davies
+- Siri Recaps
+organisations:
+- Apple Intelligence
+- Apple Watch
+- Apple Watches
+- Audio Intelligence
+- Cupertino
+- Google News
+- Jet Black
+- LED
+- Rose Gold
+- Silver for Aluminum
+- Space Gray
+- TechRadar
 ---
 
 ![Apple Watch Series 12 vs Series 11 on wrist](https://cdn.mos.cms.futurecdn.net/AVjtbkFUysH5z7iVQUQDKL.jpg) 

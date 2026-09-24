@@ -12,6 +12,22 @@ description: Full storage and RAM configuration details for the Samsung Galaxy S
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/FqkFtZBxGhK9tMzv4hsGXU-1920-80.jpg
+locations:
+- Galaxy S26
+people:
+- James
+organisations:
+- AI
+- Clarity Media
+- GSMArena
+- Google News
+- Lanzuk
+- Qualcomm
+- RAM
+- S27
+- Samsung Galaxy
+- TechRadar
+- Ultra
 ---
 
 ![Samsung Galaxy S26 Ultra REVIEW](https://cdn.mos.cms.futurecdn.net/FqkFtZBxGhK9tMzv4hsGXU.jpg)

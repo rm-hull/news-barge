@@ -14,6 +14,52 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - History
+locations:
+- Africa
+- America
+- Barbados
+- Britain
+- Canary Wharf
+- Caribbean
+- Evesham
+- Gambia
+- Jamaica
+- London
+- Threadneedle Street
+- US
+- Virginia
+people:
+- Alexandre
+- Catherine
+- Christopher Puller
+- Clement Attlee
+- Humphry Morice
+- John Rudge
+- Mary II
+- Michael Bennett
+- Nicholas Draper
+- Pierre
+- Prof Matthew David Mitchell
+- William III
+organisations:
+- BLM
+- Bank of England
+- Bank’s
+- Bennett
+- Cotton Capital
+- LBS
+- Labour
+- Legacies of British Slavery
+- London’s
+- Manchester Guardian
+- RAC
+- Register of British Slave Traders
+- Royal African Company
+- Scott Trust
+- South Sea Company
+- Treasury
+- University College London
+- University of Sheffield
 ---
 
 The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history.

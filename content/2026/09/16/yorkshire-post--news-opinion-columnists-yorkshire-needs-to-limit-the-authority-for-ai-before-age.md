@@ -19,6 +19,26 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- England
+- Scotland
+- UK
+- Wales
+people:
+- AI
+- Dominic Lipinski
+- Evan Hubinger
+- Gleb Tsipursky
+- Jacob Coxon
+organisations:
+- Anthropic
+- Disaster Avoidance Experts
+- Hugging Face
+- METR
+- OpenAI
+- PhD
+- The Psychology of AI
+- Yorkshire Post
 ---
 
 # Yorkshire needs to limit the authority for AI before agents get the keys - Dr Gleb Tsipursky

@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/aVVGwyeKbyPmdcU6WfmBif-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- Rakan Alkhaldi
+- Redditor
+organisations:
+- Autopilot
+- DLSS 5
+- Darren
+- GitHub
+- Google News
+- Hachette UK
+- Nvidia
+- Reddit
+- Redditor
+- Swapper
+- Team Green
+- ToxicFatee
+- TweakTown
 ---
 
 ![A PC gamer looking happy](https://cdn.mos.cms.futurecdn.net/aVVGwyeKbyPmdcU6WfmBif.jpg) 

@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- AI
+- Europe
+people:
+- Craig Hale
+organisations:
+- AI Fluency Pathway
+- Craig’s
+- Financial Times
+- Google News
+- Morgan Stanley
+- TechRadar Pro
+- UBS
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5.jpg) 

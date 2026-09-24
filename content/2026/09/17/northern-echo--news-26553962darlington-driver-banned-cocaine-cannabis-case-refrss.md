@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Calder Avenue
+- Coatham Mundeville
+- County Durham
+- Darlington
+- Durham Road
+- Peterlee Magistrates’ Court
+people:
+- Damon Michael Bridges
+organisations:
+- County Durham
+- DVLA
+- Ford
+- Newsquest
+- THC
 ---
 
 *(Image: Newsquest)*

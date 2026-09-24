@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Livia’s
+- Liv’s
+- York Racecourse
+people:
+- Ali
+- Alison Goude
+- Liv Forever
+- Livia Wilson
+- Molly Grace
+organisations:
+- David Harrison Photography
+- ISF York
+- Meningitis Research Foundation
+- York Community Pride
 ---
 
 ## Inspirational York mum wins Charity Fundraiser of the Year Award

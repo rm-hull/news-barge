@@ -13,6 +13,18 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P-1920-80.jpg
+locations:
+- China
+- Taiwan
+people:
+- Jason Chen
+organisations:
+- Acer
+- Economic Daily News
+- Google News
+- Hachette UK
+- RAM
+- VideoCardz
 ---
 
 ![Happy PC gamer sat at a desk](https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P.jpg)

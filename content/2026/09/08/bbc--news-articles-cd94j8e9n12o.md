@@ -12,6 +12,73 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Abraham Lincoln
+- China
+- East Asia
+- Europe
+- Germany
+- Gulf
+- Iran
+- Kremlin
+- Kyiv
+- Middle East
+- Moscow
+- Pacific
+- Russia
+- Strait of Hormuz
+- Thailand
+- US
+- USS Abraham Lincoln
+- Ukraine
+- United States
+- United States of America
+- Washington
+- White House
+people:
+- Anna Kelly
+- Dan Driscoll
+- Donald Trump
+- Elbridge Colby
+- Ezra Cohen
+- George Washington
+- JD Vance
+- John Ratcliffe
+- Jon Duffy
+- Liana Fix
+- McMaster
+- Michael Schiffer
+- Obama
+- Pete Hegseth
+- Prof Fix
+- Signalgate
+- Thom Tillis
+- Vladimir Putin
+- Volodymyr Zelensky
+- Xi Jinping
+organisations:
+- 82nd Airborne Division
+- Air Force
+- Army National Guardsman
+- BBC
+- CBS
+- CIA
+- CSIS
+- Cai Pigliucci
+- Center for American Progress
+- Commander-in-Chief
+- Council on Foreign Relations
+- Department of War
+- Fox News
+- Hudson Institute
+- NBC News
+- Nato
+- Navy
+- Pentagon
+- Trump
+- US Army
+- USS
+- Washington DC-based Center for Strategic and International Studies
 ---
 
 ![Image shows Pete Hegseth](https://ichef.bbci.co.uk/ace/standard/910/cpsprodpb/16f3/live/80b86570-ab8e-11f1-aa04-efbf6a882854.jpg)

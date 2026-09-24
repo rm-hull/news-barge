@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Buenos Aires
+- Tango Escenario
+people: []
+organisations:
+- Teatro Gran Rex
 ---
 
 If you're a fan of 'Strictly' or 'Dancing with the Stars' you'll most likely love the dancing now on display in the Argentine capital, Buenos Aires.

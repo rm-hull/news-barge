@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- South East Water
+- Thames Water
+- Wessex Water
+people:
+- Angela Eagle
+- Mike Keil
+organisations:
+- Bristol Water
+- CCW
+- Consumer Council for Water
+- Debt-laden Thames Water
+- Ofwat
+- Portsmouth Water
+- Severn Trent Water
+- South West Water
+- Southern Water
+- Water UK
 ---
 
 Household complaints about water companies to the sector watchdog have seen their largest-ever annual increase following the steepest hike in charges since privatisation.

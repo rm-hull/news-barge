@@ -12,6 +12,44 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/46/76/1200x675_cmsv2_8058f15e-c837-5c81-928d-3f81c7745a10-9924676.jpg
+locations:
+- Atacama Desert
+- Beijing
+- Bogota
+- Britain
+- Brussels
+- Busan
+- Chiba
+- Chile
+- Colombi
+- Copiapó
+- Dujuan
+- Europe
+- France
+- Hungary
+- Japan
+- Los Angeles.
+- South Korea
+- Ukraine
+people:
+- Abelardo de la Espriella
+- Aboubakr Jamai
+- Andy Burnham
+- Donald Trump
+- Emmanuel Macron
+- John Mollo
+- Peter Magyar
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+- Xi Jinping
+organisations:
+- EU
+- Euronews
+- European Commission
+- Gimhae International Airport
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

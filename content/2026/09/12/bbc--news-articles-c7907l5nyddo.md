@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Alaska
+- Anchorage
+- Savoonga
+- St Lawrence Island
+- St Lawrence Island Yupik
+people:
+- Adam White
+- Bob Little
+- Derek Parker Aghnaanga
+- Rear Adm
+- Vina Kulowiyi
+organisations:
+- Arctic District
+- Coast Guard
+- Facebook
+- KTUU-TV
+- Samaritan
+- US Coast Guard
+- USCG
 ---
 
 ![A teenage boy, wearing a rain jacket, sitting on his knees on top of an overturned boat surrounded by blue-green waters.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d7b6/live/d9d73050-aeb8-11f1-ae38-d350b022f499.jpg)

@@ -14,6 +14,13 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Sedgefield
+people:
+- Paul Fleming
+organisations:
+- Ofsted
+- Sedgefield Community College
 ---
 
 *(Image: chris bishop (picturesbybish))*

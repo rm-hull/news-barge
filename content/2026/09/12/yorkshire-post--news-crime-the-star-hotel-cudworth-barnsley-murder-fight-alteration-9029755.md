@@ -15,6 +15,17 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Barnsley
+- Cudworth
+- Yorkshire
+people:
+- Laura Procter
+organisations:
+- Crimestoppers
+- Major Crime Team
+- South Yorkshire Police
+- The Star Hotel
 ---
 
 # 'Devastating incident' - Murder arrest after death of man outside Yorkshire village pub

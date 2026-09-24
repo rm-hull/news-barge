@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Venice
+- York Castle Museum
+people:
+- Alaïa
+- Ali Bodley
+- Charlotte Davies
+- Daniel Roseberry
+- Dior
+- Elizabeth I
+- Kendall Jenner
+- Kim Kardashian
+- Kylie
+- Marilyn Monroe
+- Rosalía
+- Schiaparelli
+- Susie Orbach
+- Teyana Taylor
+- Victoria Pitts-Taylor
+organisations:
+- M&S
+- Skims
+- Surgery Junkies
+- Wesleyan University
 ---
 
 For decades shapewear has been used to compress and cinch. But now there is a sub-genre emerging. Rather than shrinking a silhouette, it aims to add inches.

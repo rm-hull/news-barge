@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Darlington
+- Durham
+- Northallerton
+- West Rounton
+- Whitegate's Garden Centre
+- Whitegates
+people:
+- Adam Frost
+- Albert Grainge
+- Arthur
+- Bryan
+- Charlotte
+- Colin Chapman
+- Jonathan Grainge
+- Rishi Sunak
+organisations:
+- BBC Gardeners’ World
+- Google
+- Whitegates Nursery
 ---
 
 A family-run garden centre in Northallerton is celebrating its 60th anniversary after winning glowing customer reviews.

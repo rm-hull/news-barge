@@ -13,6 +13,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21480400.jpg?type=og-image
+locations:
+- Amsterdam
+- Beverley
+- East Yorkshire
+- Harrogate
+- Leeds
+- Toll Gavel
+- UK
+- YOUR
+people:
+- Raymond Cloosterman
+organisations:
+- East Riding of Yorkshire Council
+- Public Notice Portal
+- Rituals Cosmetics
+- Rituals Cosmetics UK Limited
+- TG Jones
+- WHSmith
 ---
 
 *(Image: East Riding of Yorkshire Council planning)*

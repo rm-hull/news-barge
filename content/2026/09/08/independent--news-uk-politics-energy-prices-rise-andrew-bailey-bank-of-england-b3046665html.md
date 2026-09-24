@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- England
+- Europe
+- Iran
+- Red Sea
+- Scotland
+- Strait of Hormuz
+- UK
+- Wales
+people:
+- Andrew Bailey
+- Andy Burnham
+- Donald Trump
+organisations:
+- Bank of England
+- Ofgem
+- Treasury Committee
 ---
 
 The boss of the Bank of England has warned energy prices could rise even higher as Britain continues to feel the impact of Donald Trump’s war on Iran and the closure of the Strait of Hormuz.

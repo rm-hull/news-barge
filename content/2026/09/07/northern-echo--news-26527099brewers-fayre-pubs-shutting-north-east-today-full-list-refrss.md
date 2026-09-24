@@ -14,6 +14,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beefeater
+- Bishop Auckland
+- Broomside Park
+- Darlington
+- Durham
+- Hartlepool
+- Morton Park
+- North East
+- North Tyneside
+- Old West Quay
+- Stockton-on-Tees
+- Sunderland
+- The Talpore
+- Tindale Crossing
+- UK
+- Wessington
+- Whitley Bay
+people: []
+organisations:
+- Beefeater
+- Brewers Fayre
+- Christie Owen & Davies
+- National Insurance
+- Premier Inn
+- Whitbread
 ---
 
 *(Image: Christie Owen & Davies)*

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Durham
+- England
+- North East
+- Tees Valley
+- Teesside
+people: []
+organisations:
+- Department for Education
+- Government
+- Ramsay Health Care UK
+- Uniting Uniforms
 ---
 
 New rules coming into force this week will cut school-uniform costs for thousands of children returning to classrooms across Teesside and County Durham.

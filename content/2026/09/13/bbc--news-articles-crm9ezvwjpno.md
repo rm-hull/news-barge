@@ -13,6 +13,43 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bitan Cho
+- Dhauliganga
+- East Sikkim
+- Elephant Lake
+- Himalaya-Karakoram
+- Himalayas
+- Hindu Kush Himalayan
+- India-China
+- Jelep La Pass
+- Kupup Lake
+- Nepal
+- Old Silk Route
+- Rangpo
+- Rishiganga
+- Sikkim India
+- South Asia
+- Tibet
+- Uttarakhand
+people:
+- Arushi Chopra
+- Francis Mascarenhas
+- Lord Nicholas Stern
+- Pallava Bagla
+- Pema Gyamtsho
+organisations:
+- Central Water Commission
+- Corbis
+- GB Pant National Institute of Himalayan Environment
+- Getty Images
+- Grantham Research Institute on Climate Change
+- ICIMOD
+- Integrated Mountain Initiative
+- International Centre for Integrated Mountain Development
+- London School of Economics
+- REUTERS
+- Systemiq
 ---
 
 ![Kupup Lake, also known as Bitan Cho or Elephant Lake, is a high-altitude glacial lake near Jelep La Pass in East Sikkim, India, on April 17, 2026. The lake, situated at approximately 13,066 feet, is part of the Old Silk Route loop near the India-China border and is often frozen from winter through mid-May. I](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg)

@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Church View
+- County Durham
+- Darlington
+- Sedgefield
+- Sofia
+people:
+- Julia
+organisations:
+- Google
+- Julia & Sofia
+- Saltburn pizzeria
+- TripAdvisor
 ---
 
 *(Image: Google)*

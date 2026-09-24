@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Scarborough
+- Selby
+- Tennessee
+- UK
+- York
+people:
+- Bob Webb
+- David Skaith
+- Dolly Parton
+- Mark Crane
+- Ms Parton
+- Selby
+organisations:
+- Dolly Parton Imagination Library
+- Imagination Library
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- Selby Library
+- YNYCA
+- York and North Yorkshire Combined Authority
 ---
 
 A DOLLY Parton Imagination Library project will be set up in a North Yorkshire town as part of a plan to encourage reading and school readiness.

@@ -15,6 +15,26 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Germany
+- Landesamt für Einwanderung
+- New York
+people:
+- Die Linke
+organisations:
+- AfD
+- Alternative for Germany
+- CDU
+- Christian Democratic Union
+- Greens
+- LEA
+- NY City ID
+- SPD
+- Social Democrats
+- The Left party
+- The Local
+- Zurich ID
 ---
 
 Voters in Berlin will head to the ballot box on Sunday to elect a new state parliament.

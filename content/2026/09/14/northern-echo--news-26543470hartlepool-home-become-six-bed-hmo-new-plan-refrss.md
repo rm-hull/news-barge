@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Elwick Road
+- Hartlepool
+- YOUR
+people: []
+organisations:
+- HMO
+- Hartlepool Borough Council
+- Public Notice Portal
 ---
 
 *(Image: Google Maps)*

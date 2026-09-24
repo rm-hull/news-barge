@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- London
+- UK
+people:
+- Grolsch
+- Peroni
+- Pilsner Urquell
+- Roger White
+organisations:
+- Asahi UK
+- C&C Group
+- Chris Radburn
+- Fuller
+- Fullers
+- Gunn
+- Innis
+- MCB
+- Magners
+- Matthew Clark Bibendum
+- Smith & Turner
+- Tennent
 ---
 
 Magners and Tennent’s lager maker C&C has agreed a deal to buy the UK wholesale arm of Japanese beer brand Asahi.

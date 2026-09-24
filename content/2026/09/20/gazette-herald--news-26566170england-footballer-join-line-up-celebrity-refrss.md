@@ -13,6 +13,24 @@ categories:
 - York
 - Comedy & Entertainment
 image: https://www.gazetteherald.co.uk/resources/images/21478235.jpg?type=og-image
+locations:
+- England
+people:
+- Ade Adepitan
+- Chloe Burrows
+- Coleen Rooney
+- Gavin
+- Ian West
+- Jesy Nelson
+- Joanna Page
+- Ricky Wilson
+- Stacey
+- Wayne Rooney
+organisations:
+- ITV
+- Kaiser Chiefs
+- PA Wire
+- The Sun
 ---
 
 *(Image: Ian West/PA Wire)*

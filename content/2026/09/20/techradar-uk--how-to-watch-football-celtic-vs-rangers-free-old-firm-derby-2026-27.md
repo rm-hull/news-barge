@@ -12,6 +12,59 @@ categories:
 - Sports
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/y26y3CkCUkC5jWKbMhe2K3-1920-80.jpg
+locations:
+- Australia
+- Canada
+- Glasgow
+- Ibrox Stadium
+- Parkhead
+- Scotland
+- UK
+- US
+- canada
+- uk
+people:
+- Aatif Sulleyman
+- Auston Trusty
+- Cameron Carter-Vickers
+- Camilo Duran
+- Dan Neil
+- Derek McInnes'
+- Ferencvarosi
+- Haissem Hassan
+- Kasper Hogh
+- Kevin Kelsy
+- Liam Scales
+- Martin O'Neill's
+- O'Neill
+- Sam Johnstone
+- Sebastian Tounekti
+- Viljami Sinisalo
+organisations:
+- 7Plus
+- Aatif
+- Bhoys
+- CBS Sports Golazo
+- CBS Sports Golazo Network
+- Celtic Park
+- Europa Conference League
+- Europa League
+- Future Publishing
+- Gers
+- Gizmodo
+- NFL
+- NOW Sports
+- Newsweek
+- Old Firm Derby
+- Paramount
+- Ranger
+- Rangers
+- Scottish Premiership
+- Sky Sports
+- Sky Sports Football
+- TechRadar
+- The Independent
+- Trusted Reviews
 ---
 
 ![Dan Neil scoring for Rangers against Celtic in the Old Firm Derby at Ibrox Stadium on September 13, 2026, in Glasgow, Scotland](https://cdn.mos.cms.futurecdn.net/y26y3CkCUkC5jWKbMhe2K3.jpg)

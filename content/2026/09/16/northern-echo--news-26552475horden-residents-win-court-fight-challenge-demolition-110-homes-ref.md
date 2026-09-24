@@ -13,6 +13,36 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- County Hall
+- Fifth Street
+- High Court
+- Horden
+- Ninth Street
+- Numbered Streets
+- Third Street
+- Third and Fifth Streets
+- YOUR
+people:
+- Cllr Quinn
+- Horden
+- Joe Quinn
+- Keith Derby
+- Moira
+- Ray Bellingham
+- SARAH CALDECOTT
+organisations:
+- Durham County Council
+- Durham County Hall
+- High Court
+- Horden Masterplan
+- Judicial Review
+- Leeds High Court
+- New Reform
+- North East Combined Authority
+- Public Notice Portal
+- Save Our Homes
 ---
 
 ### What is the Public Notice Portal?

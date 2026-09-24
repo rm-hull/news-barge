@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- America
+- California
+- Chicago
+- Long Beach
+- Los Angeles
+- Los Angeles County
+- Marie
+- Newport Beach
+- Orange County
+- Pacific
+- Seal Beach
+- Seal Beach Municipal Pier
+people:
+- Adam Yacenda
+- Marie
+- Mayes-Osterman
+- Rose Schoenfeld
+- Ryan J. Foley
+organisations:
+- Associated Press
+- National Hurricane Center
+- National Weather Service
+- Report for America Statehouse News Initiative
+- The Associated Press
+- ___ Mayes-Osterman
 ---
 
 Hurricane Marie, well out in the Pacific, created flooding and dangerous conditions at some southern California beaches over Labor Day weekend, with strong currents and huge waves presenting a threat to swimmers and surfers.

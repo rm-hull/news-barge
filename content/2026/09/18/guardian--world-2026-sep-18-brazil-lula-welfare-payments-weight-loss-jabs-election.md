@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Brazil
+- Latin America
+people:
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+- Miriam Leitão
+- Renan Santos
+- Victor Escobar
+organisations:
+- Bolsonaro
+- Laboratory of Parties, Elections and Comparative Politics
+- O Globo
 ---
 
 Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme for poor families, as well as free weight-loss jabs, prompting criticism from opponents who say the moves are electorally motivated just two weeks before the presidential election.

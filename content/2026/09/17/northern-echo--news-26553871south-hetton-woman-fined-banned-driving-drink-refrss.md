@@ -12,6 +12,19 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Darlington
+- Passfield Way
+- Peterlee Magistrates’ Court
+- South Hetton
+people:
+- Lauren Smith
+- Slurring
+organisations:
+- County Durham
+- Crown Prosecution Service
+- Mini Cooper
 ---
 
 *(Image: None)*

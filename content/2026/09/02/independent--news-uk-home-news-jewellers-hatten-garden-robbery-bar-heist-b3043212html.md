@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Czechoslovakia
+- Hatton Garden
+people:
+- Emil Katz
+- George Katz
+- Mark Pastor
+- Michael Caine
+organisations:
+- Camden Council
+- E Katz & Co
+- Hatton Garden Safe Deposit
+- Islington Tribune
+- Katz & Co
+- Pearl & Coutts
+- The Times
 ---
 
 Jewellers have criticised a “bad taste” plan to transform the site of the infamous Hatton Garden burglary into a break-in-themed bar.

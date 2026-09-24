@@ -11,6 +11,16 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- United Kingdom
+people:
+- Chris Schmitz
+- Claude
+organisations:
+- AI Ethics and Society
+- CFPB
+- TechCrunch
+- United States’ Consumer Financial Protection Bureau
 ---
 
 As AI makes it easier to fill forms and file complaints, public services around the world are seeing enormous jumps in applications and other requests.

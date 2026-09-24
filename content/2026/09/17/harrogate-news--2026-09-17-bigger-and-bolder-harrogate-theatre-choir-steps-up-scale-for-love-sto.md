@@ -14,6 +14,21 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Broadway
+- Hollywood
+people:
+- Andrew Lloyd Webber
+- Cole Porter
+- Irving Berlin
+- Leonard Bernstein
+- Stephen Sondheim
+organisations:
+- HARROGATE
+- Harrogate Theatre Choir
+- Harrogate Theatre Studio
+- The Crown Hotel
+- West End
 ---
 
 **HARROGATE**— Following a completely sold-out two-night debut earlier this year, Harrogate Theatre Choir has announced an ambitious, expanded sequel to its flagship production, set to take over the historic surroundings of The Crown Hotel next month.Scheduled for

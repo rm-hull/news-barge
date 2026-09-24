@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Athens
+- Attica Zoological Park
+- Born
+people:
+- Homer
+organisations: []
 ---
 
 Three Sumatran tiger cubs have undergone their first health checks at Attica Zoological Park near Athens, receiving vaccinations and microchips for identification. Born in July, the two-month-old cubs were briefly separated from their mother for the examination.

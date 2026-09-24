@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude
+- Craig Hale
+- Decodo
+- Gabriele Vitke
+organisations:
+- AI
+- ChatGPT Chrome Extension
+- Craig’s
+- Decodo
+- Gemini
+- Google News
+- OpenAI
+- TechRadar Pro
 ---
 
 ![ChatGPT, Gemini and Claude on smartphones in one image.](https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7.jpg) 

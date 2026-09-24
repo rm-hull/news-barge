@@ -9,6 +9,27 @@ description: Get better control and visibility by self-hosting your apps and dat
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/wqDphyjN5ftDvvJ4dKJLhn-1376-80.jpg
+locations:
+- Docker Hub
+- India
+- West Bengal
+people:
+- Docker
+- Ritoban Mukherjee
+organisations:
+- AI
+- Creative Bloq
+- Docker Hub
+- Gizmodo
+- IT Pro
+- OpenLiteSpeed
+- Plesk
+- Quartz
+- Ritoban Mukherjee
+- SSH
+- TechRadar Pro
+- Tom's Guide
+- VPS
 ---
 
 ![a woman sat at a desk coding an app](https://cdn.mos.cms.futurecdn.net/wqDphyjN5ftDvvJ4dKJLhn.jpg)

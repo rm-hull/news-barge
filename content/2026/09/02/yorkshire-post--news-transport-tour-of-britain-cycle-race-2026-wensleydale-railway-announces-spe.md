@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- '## Wensleydale Railway'
+- Bedale
+- Earlston
+- East and North Yorkshire
+- Leeming Bar
+- Leyburn Station
+- Lincoln
+- Lincolnshire
+- North Yorkshire
+- Scottish Borders
+- Swaledale
+- Upper Wensleydale
+- Wensleydale Railway
+- Yorkshire Dales
+people:
+- Nick Keegan
+organisations:
+- Little White Bus
+- Little White Bus Team
+- Wensleydale Railway
+- Yorkshire
 ---
 
 # Tour of Britain Cycle Race 2026: Wensleydale Railway announces special park and ride train service for race finish in Yorkshire Dales town

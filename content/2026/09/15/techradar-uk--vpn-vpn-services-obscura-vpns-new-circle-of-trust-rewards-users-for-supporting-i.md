@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/nLNVLqd7LA7y4NAtpBViP7-460-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Big Tech
+people:
+- Mullvad
+- Rene Millman
+organisations:
+- Apple iCloud
+- Bitcoin
+- Circle of Trust
+- Computer Weekly
+- Ente Photos
+- Financial Times
+- Google News
+- Google Photos
+- IT Pro
+- Lightning Network
+- No Trace
+- Obscura VPN
+- Obscura VPN**
+- Obscura's Circle of Trust
+- Obscura’s Circle of TrustCircle of Trust
+- The Guardian
+- Windscribe
 ---
 
 ![Obscura VPN app on mobile](https://cdn.mos.cms.futurecdn.net/nLNVLqd7LA7y4NAtpBViP7.png) 

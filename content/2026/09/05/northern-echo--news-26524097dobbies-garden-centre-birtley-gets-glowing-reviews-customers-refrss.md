@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- Birtley
+- County Durham
+- DH3 2BQ
+- Durham Road
+- North East
+people: []
+organisations:
+- Dobbies Garden Centre Birtley
+- Dobbies' Little Seedlings Club
+- Tripadvisor
 ---
 
 *(Image: GOOGLE MAPS)*

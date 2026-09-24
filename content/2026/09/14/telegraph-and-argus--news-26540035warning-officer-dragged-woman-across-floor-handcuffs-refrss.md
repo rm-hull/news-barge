@@ -13,6 +13,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- UGC
+people: []
+organisations:
+- Crown Prosecution Service
+- IOPC
+- Independent Office for Police Conduct
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

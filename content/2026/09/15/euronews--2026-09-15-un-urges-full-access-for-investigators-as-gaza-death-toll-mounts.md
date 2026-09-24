@@ -11,6 +11,16 @@ image: https://images.euronews.com/articles/stories/09/91/41/18/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- Gaza City
+- Israel
+people:
+- Volker Turk
+organisations:
+- Hamas
+- Palestinian Civil Defence
+- UN
+- United Nations
 ---
 
 ## A UN access request over Gaza's uncounted dead raises questions that could shape how this war is judged.

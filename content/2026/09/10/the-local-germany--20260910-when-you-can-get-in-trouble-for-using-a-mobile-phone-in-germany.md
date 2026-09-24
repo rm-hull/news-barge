@@ -14,6 +14,13 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Europe
+- Flensburg
+- Germany
+- Potsdam
+people: []
+organisations: []
 ---
 
 In Germany the consequences of reaching for your phone at the wrong time can range from a fine and penalty points on your licence to being removed from a venue or, in some cases, even facing criminal charges.

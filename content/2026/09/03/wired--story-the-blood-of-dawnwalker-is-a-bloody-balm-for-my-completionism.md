@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Science
 - Video Gaming
+locations:
+- White Wolf
+people:
+- Coen
+- Dawnwalker
+- Hell
+- Konrad Tomaszkiewicz
+- Mikolai Stroinski
+- Young Geralt
+organisations:
+- Projekt Red
+- Rebel Wolves
+- The Witcher
 ---
 
 I drink the blood of my fourth rat tonight. It’s only got so much life to give, so as soon as I drain it, I know I'll need to feed again. My hunger is not fulfilled. My health bar is only half full. I need more blood. Now.

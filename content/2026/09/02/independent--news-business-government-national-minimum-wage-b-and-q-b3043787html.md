@@ -14,6 +14,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Epsom
+- Leeds
+- Leicester
+- Slough
+- St Helier
+people:
+- Jonathan Reynolds
+- Kate Dearden
+- Paul Nowak
+organisations:
+- Acas
+- B&Q
+- Elysium Healthcare Holdings Limited
+- Fair Work Agency
+- Forest Holidays Ltd
+- Lanes Group Limited
+- St George’s
+- St George’s University Hospitals NHS Foundation Trust
+- St Helier Hospital Group
+- TUC
+- UK Care Team Ltd
 ---
 
 The government has publicly named hundreds of businesses after they failed to pay staff the National Minimum Wage.

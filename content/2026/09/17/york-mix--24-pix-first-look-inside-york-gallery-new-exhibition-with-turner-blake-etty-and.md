@@ -12,6 +12,33 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-3.webp
+locations:
+- York
+people:
+- Beatrice Addressing Dante
+- Beatrice Bertram
+- Jean-Auguste-Dominique Ingres
+- John Flaxman
+- Josiah Wedgwood
+- Paolo
+- Polyphemus – Homer
+- Turner
+- Ulysses
+- William Blake
+- William Etty
+organisations:
+- Barber Institute
+- Barber Institute of Fine Art
+- Flaxman
+- Leeds Art Gallery
+- National Gallery
+- National Portrait Gallery
+- Royal Academy
+- Scarborough Art Gallery
+- Tate
+- V&A
+- Wedgwood & Beyond
+- York Art Gallery
 ---
 
 A brand new exhibition celebrating the life and legacy of a York-born artist who influenced the likes of Turner and Blake will open tomorrow.

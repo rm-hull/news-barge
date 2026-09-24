@@ -12,6 +12,27 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482111.jpg?type=og-image
+locations:
+- Britain
+- England
+- Scotland
+- UK
+people:
+- Bobbie Upton
+- Mark Franks
+- Martin Lewis
+- Niall Carson
+- Owen Humphreys
+organisations:
+- DWP
+- Government
+- IFS
+- Institute for Fiscal Studies
+- LSE
+- London School of Economics
+- Nuffield Foundation
+- PA Wire
+- State Pension
 ---
 
 *(Image: Niall Carson)*

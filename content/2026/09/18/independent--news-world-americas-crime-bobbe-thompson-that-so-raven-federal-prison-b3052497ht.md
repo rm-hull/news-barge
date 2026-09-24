@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Cerro Gordo County
+- Iowa
+- Kansas City
+- Sioux City
+people:
+- '![Thompson'
+- Bobb'e J. Thompson
+- Bobb’e J
+- Fred Claus
+- Leonard T. Strand
+- Stanley
+- Tina Fey
+- Tracy Jr
+- Tracy Morgan
+organisations:
+- NBC
+- U.S. District Court
+- U.S. Marshals Service
 ---
 
 An actor who starred in the hit 2000’s Disney sitcom *That’s So Raven* has been sentenced to 30 months behind bars at a federal jail for a firearm charge.

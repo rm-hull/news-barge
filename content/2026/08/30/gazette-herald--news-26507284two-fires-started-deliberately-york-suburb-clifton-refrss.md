@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Clifton
+- Peter Hill Court
+- York
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: IWCP)*

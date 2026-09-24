@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Burnley
+- Finland
+- San Diego
+- Turf Moor
+- US
+- United States
+people:
+- Jackie Bachteler
+organisations:
+- BBC Sport
+- Bachteler
+- Burnley
+- Grey's Anatomy
+- ICU
+- NHS
+- Sunderland
 ---
 
 Jackie Bachteler says Burnley stepped up and 'supported me through everything' as she learned how to walk again

@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Great Britain
+people:
+- Gareth Davies
+- Geoffrey Clifton-Brown
+- Michael Shanks
+organisations:
+- DESNZ
+- Department for Energy Security
+- NAO
+- National Audit Office
+- National Energy System Operator
+- Neso
+- Net Zero
+- Ofgem
+- Public Accounts Committee
 ---
 
 Failure to accelerate updates to Britain’s ageing power grid to handle rising renewable generation could cost consumers billions of pounds by 2030, the official spending watchdog has warned.

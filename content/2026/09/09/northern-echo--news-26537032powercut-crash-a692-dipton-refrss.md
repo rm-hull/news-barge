@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A19
+- County Durham
+- Dipton
+- Northern Powergrid
+- Pontop High Stables
+people: []
+organisations:
+- Durham Police
+- Northern Echo
+- Northern Powergrid
+- Toyota
 ---
 
 *(Image: GOOGLE)*

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432662.jpg?type=og-image
+locations:
+- Beckfoot Thornton
+- Clayton
+people:
+- Beckfoot Thornton
+- Richard Hanson
+organisations:
+- '### ''School'
+- B13
+- BT13
+- P78
+- West Yorkshire Combined Authority
 ---
 
 A school has been caught up in a bus route row after a service was withdrawn without consultation.

@@ -18,6 +18,22 @@ categories:
 - Society & Culture
 - History
 - News & Politics
+locations:
+- 1st Avenue
+- America
+- Belle Vue Hospital
+- E29th
+- New York
+- US
+people:
+- David Blunkett
+- Ken McCallum
+- Paul Berriff
+- Tony Blair
+- York Stephen Cottrell
+organisations:
+- MI5
+- World Trade Centre
 ---
 
 # Educating future generations on 9/11 is important in an increasingly dangerous world

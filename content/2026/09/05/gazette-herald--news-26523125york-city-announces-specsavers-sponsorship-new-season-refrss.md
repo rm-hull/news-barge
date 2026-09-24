@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Low Ousegate
+- UK
+people:
+- Charlotte Turner
+- Pete Sutton
+organisations:
+- )* York City FC
+- Minstermen
+- Specsavers York
+- Vangarde
+- YCFC Foundation
+- York City FC
 ---
 
 *(Image: Supplied)*

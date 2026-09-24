@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Davy Jones
+- Hassam Nasir
+- Rob Nelson
+- Tom
+- Zen
+organisations:
+- CPU
+- Digital Foundry
+- FPS
+- GPU
+- GTA V
+- GTA VI
+- Get Tom's Hardware
+- Google News
+- Head of Development
+- IPC
+- PC
+- PS6
+- Rockstar North
 ---
 
 ![GTA VI cover art](https://cdn.mos.cms.futurecdn.net/JBoMqFsHXVdepshijzND6G.jpg) 

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+- US
+people:
+- Andrew Griffith
+- John Healey
+- Liz McKeown
+- Mitchell Labiak
+- Paul Dales
+- Richard Carter
+- Rob Arnold
+- Yael Selfin
+organisations:
+- AI
+- Ascendea
+- BBC News
+- Bank of England
+- Budget
+- Capital Economics
+- Houses of Parliament.
+- IT
+- KPMG
+- Labour
+- ONS
+- Office for National Statistics
+- Quilter Cheviot
 ---
 
 ![Stock photo shows a person leaning over the computer of another person in an office environment](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg)

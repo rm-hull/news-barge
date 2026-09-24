@@ -15,6 +15,16 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- North
+people:
+- Boris Johnson
+- Daxa Manhar Patel
+- Daxa Patel
+- Peter Byrne
+organisations:
+- House of Commons
+- PA Wire
 ---
 
 # Are contactless payments making us less human? - Daxa Patel

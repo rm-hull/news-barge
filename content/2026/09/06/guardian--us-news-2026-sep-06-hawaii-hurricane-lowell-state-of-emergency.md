@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/4ec21ba47fba56699afd8ea34f2aed0f3e55bbc5/4
 categories:
 - UK
 - News & Politics
+locations:
+- Big Island
+- Hawaii
+- Kauai
+- Mexico
+- Ni’ihau
+- Pacific
+people:
+- Josh Green
+- Karina
+- Lala
+- Lowell
+- Marie
+organisations:
+- El Niño
+- NHC
+- NOAA
+- National Hurricane Center
+- National Oceanic and Atmospheric Administration
+- UN
 ---
 
 Hawaii has declared a state of emergency as powerful Hurricane Lowell makes its way toward the islands, with the first impacts expected as soon as Monday.

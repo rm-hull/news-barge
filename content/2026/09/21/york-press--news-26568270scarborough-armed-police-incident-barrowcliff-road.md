@@ -14,6 +14,16 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21482315.jpg?type=og-image
+locations:
+- Barrowcliff Road
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- Newsquest)* Police
+- North Yorkshire Police
 ---
 
 ## Armed police called to incident in North Yorkshire town

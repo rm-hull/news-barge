@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/07/10/2264339143..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Australia
+- Brisbane
+- Iran
+- South Korea
+- Sydney
+- Tehran
+- US
+people:
+- Anthony Albanese
+- Atefeh Ramezanisadeh
+- Donald Trump
+- Fatemeh Pasandideh
+- Tony Burke
+organisations:
+- Nine Network
+- Wynnum Wolves
 ---
 
 Two members of the Iranian women’s football team who claimed asylum in Australia have confirmed that their refusal to sing the national anthem during the Women’s Asian Cup in March was a protest against Tehran.

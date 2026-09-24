@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/35/22/1200x675_cmsv2_da7da674-cd4a-5722-8162-206ef21bd9e3-9923522.jpg
+locations:
+- Baltics
+- Belarus
+- Estonia
+- Europe
+- Kaliningrad
+- Latin America
+- Latvia
+- Lithuania
+- Middle East
+- Moscow
+- NATO
+- Russia
+- U.S.
+- US
+- Ukraine
+- Vilnius
+people:
+- Ally
+- Deividas Matulionis
+- Donald Trump
+- Gitanas Nausėda
+- Kęstutis Budrys
+- Robertas Kaunas
+organisations:
+- Allied
+- Euronews
+- Europe Today
+- LRT Radio
+- NATO
 ---
 
 ## It comes despite repeated threats from US President Donald Trump to reduce the US' military presence in Europe.

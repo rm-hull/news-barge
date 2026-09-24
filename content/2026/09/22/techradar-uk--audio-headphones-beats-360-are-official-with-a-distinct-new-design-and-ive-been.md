@@ -10,6 +10,40 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/HTR5Hn4fyTRvFfNyPaMrYT-2560-80.jpg
+locations:
+- Australia
+- UK
+- US
+people:
+- Beats
+- Bruce Springsteen
+- Jacob Krol
+- Oliver Schusser
+- Olivia Rodrigo
+organisations:
+- ANC
+- Adaptive EQ
+- Apple
+- Beats Studio
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- Dolby Atmos
+- Google News
+- Jacob Krol
+- Marvel
+- Mashable
+- Men’s Journal
+- Navy
+- News for TechRadar
+- Samsung
+- Sony
+- Spatial Audio
+- TheStreet
+- USB-C
+- VP of Music
+- iCloud
 ---
 
 ![Beats 360](https://cdn.mos.cms.futurecdn.net/HTR5Hn4fyTRvFfNyPaMrYT.jpg)

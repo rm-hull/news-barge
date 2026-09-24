@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Leeds
+- Roundhay
+- Terry Yorath House
+- Thornton
+- UK
+people:
+- John of God
+- Paul Bott
+organisations:
+- Bede’s Close
+- Do Good Charity
+- LONG-STANDING
+- SJOG
+- Saint John of God Hospitaller Services
+- The Do Good Charity
 ---
 
 A LONG-STANDING charity has announced a new name after more than a century of service.

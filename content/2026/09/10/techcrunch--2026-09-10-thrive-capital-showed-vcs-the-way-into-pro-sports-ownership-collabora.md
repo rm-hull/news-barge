@@ -12,6 +12,58 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=12
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Baltimore
+- Loudoun County
+- New York
+- U.S.
+- Virginia
+- Washington, D.C.
+people:
+- Bob Iger
+- Bret Taylor
+- Craig Shapiro
+- Joshua Kushner
+- Lionel Messi
+- Vinod Khosla
+organisations:
+- AC Milan
+- AI
+- Apollo
+- Arctos
+- Ares
+- Audi Field
+- Boston Celtics
+- Chelsea
+- Collaborative Fund
+- D.C
+- D.C. United
+- D.C.’s
+- Disney
+- Fenway Sports Group
+- Inter Miami
+- Lakers
+- Liverpool
+- Lyft
+- MLB
+- MLS
+- Miami Dolphins
+- NBA
+- NFL
+- New England Patriots
+- Olipop
+- OpenAI
+- Red Sox
+- RedBird
+- Reddit
+- San Francisco 49ers
+- San Francisco Giants
+- Seattle Seahawks
+- Sixth Street
+- Sweetgreen
+- TechCrunch
+- Thrive Capital
+- Whoop
 ---
 
 Collaborative Fund, the 15-year-old, New York-based generalist venture firm that has roughly $1 billion under management and which made early bets on Lyft, Reddit, Sweetgreen, and Olipop, among others, is taking a stake in the soccer club D.C. United and its stadium, Audi Field.

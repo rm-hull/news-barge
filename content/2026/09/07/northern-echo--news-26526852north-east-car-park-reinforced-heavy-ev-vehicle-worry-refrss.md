@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Europe
+- Newcastle
+- North East
+- St James’ Park
+- Times Square
+- UK
+- Utilita Arena
+people:
+- Claire Adams
+- Phil Burridge
+organisations:
+- Centre for Life
+- MGM Construction
+- Times Square Car Park
 ---
 
 *(Image: MGM)*

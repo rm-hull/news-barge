@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/16345667.jpg?type=og-image
+locations:
+- Southfield Crescent
+- York
+people:
+- Craig Fletcher
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: Craig Fletcher)*

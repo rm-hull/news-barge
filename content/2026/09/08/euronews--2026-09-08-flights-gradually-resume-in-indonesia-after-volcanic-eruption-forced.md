@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Anak Krakatau
+- Indonesia
+- Jakarta
+- Java
+- Pacific Ocean
+- Soekarno
+- Sumatra
+- Sunda Strait
+people:
+- Dudy Purwagandhi
+- Lana Saria
+organisations:
+- Angkasa Pura Indonesia
+- Geology Agency
+- Hatta International Airport
 ---
 
 ## Indonesia has more than 120 active volcanoes and frequently experiences eruptions due to its location along the Pacific "Ring of Fire," the ring of seismic faults around the Pacific Ocean where most global seismic activity occurs.

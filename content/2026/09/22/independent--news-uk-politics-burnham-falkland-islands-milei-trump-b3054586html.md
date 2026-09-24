@@ -13,6 +13,30 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/2026-09-22T181841Z_1834698994_RC2DONANADAA_RTRMADP_3_UN-ASSEMBLY-BRITAIN-BURNHAM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Britain
+- British Overseas Territory
+- Falkland Islands'
+- Falklands
+- Ireland
+- New York
+- South Atlantic
+- UK
+- US
+- United States
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- Mr Burnham
+organisations:
+- Falkland Islanders
+- Navitas Petroleum
+- UN
+- United Nations
+- United Nations General Assembly
 ---
 
 Andy Burnham has asserted that the UK "will stand firm in the face of any threats" regarding the Falkland Islands' sovereignty, following fresh friction stoked by Argentinian president Javier Milei over the territory.

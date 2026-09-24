@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- America
+- Ohio
+people:
+- Anthony Russo
+- Bluth
+- Doctor Doom
+- Iron Man
+- Joe
+- Jonathan Majors
+- Kang the Conqueror
+- Kevin Feige
+- Robert Downey Jr
+- Russos
+- Sergio Leone
+- Spider-Man’
+- Steve McFeeley
+organisations:
+- AGBO
+- Apple Studios
+- Arrested Development
+- Brave New World
+- MCU
+- Marvel Studios
+- Netflix
+- New Avengers
+- The Marvels
+- Walt Disney Co.
+- X-Men
 ---
 
 Before they were the most-trusted hands behind Marvel’s largest epics, Joe and Anthony Russo presided over a slightly less potent assemblage of talent: the Bluth family of “Arrested Development.”

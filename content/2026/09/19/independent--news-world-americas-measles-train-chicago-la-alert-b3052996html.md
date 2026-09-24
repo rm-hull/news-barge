@@ -13,6 +13,40 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/19/23/2188283415..?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Arkansas
+- California
+- Chicago
+- Denver
+- District of Columbia
+- Golden State
+- Hawaii
+- Los Angeles
+- Mississippi
+- Nevada
+- New Hampshire
+- Pennsylvania
+- U.S.
+people:
+- Donald Trump
+- Josh Michaud
+- Rita Nguyen
+- Robert F. Kennedy Jr.
+organisations:
+- Amtrak
+- CDC
+- CDPH
+- California Department of Public Health
+- Center for Infectious Disease Research & Policy
+- Centers for Disease Control and Prevention
+- Department of Health and Human Services
+- FactCheck.org
+- KFF
+- National Center for Health Statistics
+- The Independent
+- University of Minnesota
+- World Health Organization
 ---
 
 A traveler infected with measles may have spread the highly contagious disease while riding an Amtrak train from Chicago to Los Angeles and then taking trains and buses across at least six California counties and a train to Denver.

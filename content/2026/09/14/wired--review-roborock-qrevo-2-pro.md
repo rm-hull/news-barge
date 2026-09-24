@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Science
 - Personal Finance & Investing
+locations:
+- FlexiArm
+- Qrevo
+people:
+- Qrevo
+- Roborock
+organisations:
+- Qrevo Curv
+- Roborock Qrevo
+- WIRED
 ---
 
 Roborock's been a favorite of the robot vacuum game for a while. Here at WIRED, our reviewers are longtime fans of the affordable Qrevo line, but it was left without updates for for years. The company has been more focused on more unique designs, such as the Saros Z70, which has an entire arm attached to it to grab your socks. These have a way to go before they're actually useful.

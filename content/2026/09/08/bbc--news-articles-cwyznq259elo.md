@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Society & Culture
 - Education & Learning
+locations:
+- England
+- Neet
+people:
+- Alan Milburn
+- Cath Sezen
+- Dame Rachel
+- Dame Rachel de Souza
+- Liam Sloan
+organisations:
+- Association of Colleges
+- BBC
+- Bolton College
+- Department for Education
+- DfE
+- Office for National Statistics
 ---
 
 ![Classroom scene with several students seated at desks facing a teacher at the front. A whiteboard is visible behind the teacher, while notebooks and devices rest on desks.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5730/live/d5ee1a10-aba9-11f1-8e72-a346833ed029.jpg)

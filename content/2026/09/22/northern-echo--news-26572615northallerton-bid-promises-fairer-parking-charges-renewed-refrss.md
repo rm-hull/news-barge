@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21332576.jpg?type=og-image
+locations:
+- North Yorkshire
+- Northallerton
+people:
+- Chris Booth
+organisations:
+- Business Improvement District
+- Northallerton BID
+- Pubwatch
+- Shopwatch
 ---
 
 *(Image: Chris Booth)*

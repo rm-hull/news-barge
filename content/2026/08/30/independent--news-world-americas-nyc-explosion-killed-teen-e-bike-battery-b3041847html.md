@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Albany Houses
+- Brooklyn
+- Crown Heights
+- New York City
+- Troy Avenue
+people: []
+organisations:
+- NY1
+- New York City Housing Authority
+- Pix 11
 ---
 
 An explosion at a New York City housing authority building that left a teenager dead and set the building on fire over the weekend was linked to an e-bike’s lithium-ion battery, according to a report.

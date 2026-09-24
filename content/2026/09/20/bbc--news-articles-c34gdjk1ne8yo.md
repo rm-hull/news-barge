@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- China
+- Elysee Palace
+- Fastiv
+- India
+- Kherson
+- Kotelniki
+- Kremlin
+- Kyiv
+- Moscow
+- Orekhovo-Zuevo
+- Russia
+- Sheremetyevo
+- Sofyino
+- Sumy
+- US
+- Ukraine
+- Vnukovo
+- Vyshhorod
+people:
+- Andrei Vorobyev
+- Donald Trump
+- Emmanuel Macron
+- Oleh Hryhorov
+- Sergei Sobyanin
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- European Union
+- Kyiv
 ---
 
 Moscow oil refinery seen on fire after Ukrainian drone attack

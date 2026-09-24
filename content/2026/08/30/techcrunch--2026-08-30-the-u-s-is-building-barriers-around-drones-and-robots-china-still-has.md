@@ -12,6 +12,47 @@ image: https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- Japan
+- Latin America
+- Mandal
+- Middle East
+- North America
+- South Korea
+- Southeast Asia
+- Taiwan
+- U.S.
+- United States
+- Washington
+people:
+- Ankur Saxena
+- Bentzion Levinson
+- Soumen Mandal
+- Yang Fang
+organisations:
+- AI
+- AgiBot
+- Agility Robotics
+- Beagle Technology
+- Boston Dynamics
+- Counterpoint Research
+- Covered List
+- FCC
+- Heven AeroTech
+- Hikvision
+- Huawei
+- Hyundai
+- Leju Robotics —
+- Mandal
+- TDK Ventures
+- TechCrunch
+- Toyota
+- UBTECH
+- Unitree
+- XPeng
+- ZTE
 ---
 
 In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and their components, both moves citing national-security concerns. The drone tariffs take effect in September, with additional component tariffs following in 2027.

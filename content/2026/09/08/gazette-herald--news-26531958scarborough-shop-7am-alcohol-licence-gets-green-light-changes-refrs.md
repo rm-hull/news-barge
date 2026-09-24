@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Newborough
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- CCTV
+- Google Maps
+- Newborough
+- North Yorkshire Council
+- Scarborough Town Council
 ---
 
 A new town centre shop allowed to sell alcohol from 7am onwards has been given the green light for further changes in a North Yorkshire town.

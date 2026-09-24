@@ -10,6 +10,27 @@ image: https://cdn.mos.cms.futurecdn.net/sKspbBqFfNwy2af2Btoqyi-2560-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- UK
+people:
+- Dashiell Wood
+- Kirby
+- Layton
+organisations:
+- Bloober Team
+- Dash
+- Edge
+- Google News
+- Nintendo Direct
+- Nintendo Switch
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Proto Man
+- SFX
+- Tag Force
+- TechRadar
+- Yokai Watch
 ---
 
 ![The next Metroid game.](https://cdn.mos.cms.futurecdn.net/sKspbBqFfNwy2af2Btoqyi.png) 

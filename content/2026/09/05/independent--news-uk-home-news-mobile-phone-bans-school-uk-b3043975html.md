@@ -15,6 +15,22 @@ categories:
 - Education & Learning
 - Law & Justice
 - Technology & Software
+locations:
+- Leicestershire
+- London
+- Northern Ireland
+people:
+- Guy Holder
+- Helen Newbery
+- Jo Sharrock
+- Ms Sharrock
+organisations:
+- Department for Education
+- King’s College London
+- Manor High School
+- Putney High School
+- The Independent
+- Yondr
 ---
 
 This week, schools have reopened for the new academic year tasked with a huge responsibility – keeping children off their mobile phones.

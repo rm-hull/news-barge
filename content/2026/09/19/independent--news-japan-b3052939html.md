@@ -12,6 +12,10 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/17/APTOPIX_Asian_Games_Opening_Ceremony_8_486.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations:
+- AP
 ---
 
 The opening ceremony of the Asian Games has marked the official start of the 16-day event.

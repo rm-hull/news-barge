@@ -12,6 +12,40 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bosnia
+- Budapest
+- Czech Republic
+- Danube River
+- England
+- Great Hungarian Plain
+- Hungary
+- Lake Pristava
+- Leamington Spa
+- Novi Sad
+- Prague
+- Romania
+- Serbia
+- Slovenia
+- Trebinje
+people:
+- Catalin Platon
+- Danijel Fras
+- Dusan Jovanovic
+- Eldar Emric
+- Jan Sokolik
+- Justin Spike
+- Stanislav Hodina
+- Steven McGrath
+- Veljko Budjen
+organisations:
+- Agriculture and Food Economy Ministry
+- Czech Fishing Association
+- Hungarian Aquaculture and Fisheries Inter-branch Organization
+- Pesnica Lenart Fishing Association
+- ROMFISH National Association of Fish Producers
+- RTV Slovenia
+- Rybarstvi Trebon
 ---
 
 Small boats stand idle on cracked ground in a shriveled side channel of the Danube River in northern Serbia, where the water has receded into a couple of shrinking ponds under pressure from extreme drought and heat. Fish circle in the shallow waters.

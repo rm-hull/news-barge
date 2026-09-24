@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Harewood House
+- 'Harewood House ## DogFest'
+- Plus Paddock
+- Yorkshire
+people:
+- James Martin
+- James Martin.
+organisations:
+- Agria Pet Insurance
+- DogFest Plus
+- Kitchen Theatre
+- Yorkshire
 ---
 
 # James Martin: Yorkshire celebrity chef to attend DogFest on the Farm event at Harewood House

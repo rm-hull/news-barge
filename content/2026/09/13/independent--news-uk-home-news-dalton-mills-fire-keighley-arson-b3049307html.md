@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Dalton Mills
+- Danny Lawson
+- Keighley
+- PA
+people:
+- Keighley
+- Robbie Moore
+organisations:
+- Downton Abbey
+- Grade II
+- Ilkley
+- Keighley
+- Local Authority Emergency Planning
+- Peaky Blinders
+- WYFRS
 ---
 
 Crews responded to another fire at Dalton Mills in Keighley on Saturday evening.

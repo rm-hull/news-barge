@@ -15,6 +15,23 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- Africa
+- Europe
+- Iran
+- Persian Gulf
+- Russia
+- South Asia
+- Turkey
+people:
+- AI
+- Claude Opus
+- Jacob Coxon
+organisations:
+- AI
+- Anthropic
+- OpenAI
 ---
 
 Anthropic said Thursday it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to biological weapons.

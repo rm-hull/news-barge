@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Newcastle
+- North East
+- The Common Room
+people:
+- Kim McGuinness
+- Ross Armstrong
+- Stew Horne
+organisations:
+- Energy Saving Trust
+- North East Warm Homes Summit
+- Ofgem
+- UK Government
+- Warmworks
 ---
 
 *(Image: Supplied)*

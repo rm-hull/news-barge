@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- London
+- UK
+people:
+- Andy Burnham
+- Hilda Hayo OBE
+- Kirsty Wigglesworth
+organisations:
+- Dementia UK
+- Government
+- Promise to Care
+- Yorkshire Post Letters
 ---
 
 # People need not suffer silently with Alzheimer’s - Yorkshire Post Letters

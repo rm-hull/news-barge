@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21475415.jpg?type=og-image&xType=0&yType=15
+locations:
+- Bishop Auckland
+- County Durham
+- Newgate Street
+- North East
+people:
+- Emily Blackmore
+- Joseph McLachlan
+- Joy Allen
+- Lou Hamilton
+- Man
+- Mark Edwards
+- Sarah Caldecott
+organisations:
+- BACAG
+- Bishop Auckland Community Action Group
+- CCTV
+- Durham County Council
+- Durham Police
+- Inspiral Cycles
+- NHS Trust
 ---
 
 *(Image: Joseph McLachlan)*

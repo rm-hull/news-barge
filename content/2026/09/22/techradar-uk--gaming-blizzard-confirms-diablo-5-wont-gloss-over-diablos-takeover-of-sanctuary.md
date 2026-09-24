@@ -14,6 +14,22 @@ categories:
 - Video Gaming
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/iQYH94gYDvuqdXSfpYDeuN-2000-80.jpg
+locations: []
+people:
+- Diablo
+- Heir of Westmarch
+- Jennifer Hepler
+- Joe Shely
+organisations:
+- Blizzard Entertainment
+- Demi Williams
+- Diablo
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Sanctuary
+- TechRadar Gaming
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/iQYH94gYDvuqdXSfpYDeuN.jpg)

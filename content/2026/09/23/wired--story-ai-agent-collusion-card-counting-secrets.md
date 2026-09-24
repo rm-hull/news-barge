@@ -13,6 +13,32 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab16fccade3d66cae78d5ff/191:100/w_1280,c_limit/AI-Lab-How-Bunch-of-AI-Agents-Planned-Casino-Heist-Business.jpg
+locations:
+- US
+people:
+- Aaron Rose
+- Carissa Cullen
+- Christian Schroeder de Witt
+- Claude
+- Diyi Yang
+- Sam Altman
+- Satya Nitta
+- Schroeder de Witt
+organisations:
+- Amazon
+- Anthropic
+- Emergence AI
+- Gemini
+- Google
+- Meta
+- Muse AI
+- OpenAI
+- Oxford University
+- PhD
+- Shanghai Artificial Intelligence Laboratory
+- Shanghai Jiao Tong University
+- Stanford University
+- United Nations General Assembly
 ---
 
 This week I bring news of a daring casino caper hatched by a pair of rogue AI agents—as well as the clever trick that revealed their antics.

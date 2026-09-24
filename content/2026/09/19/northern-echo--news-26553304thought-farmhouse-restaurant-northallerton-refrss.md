@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21459876.jpg?type=og-image&xType=0&yType=649
+locations:
+- Crosby Road
+- DL6
+- Darlington
+- FarmhouseThe Treadmills
+- Hannah Chapman
+- Harrogate
+- Leeds
+- Northallerton
+- Soju
+- Sumo
+people:
+- Claire
+organisations:
+- Farmhouse
+- House
 ---
 
 I have been in plenty of farmhouses in my time.

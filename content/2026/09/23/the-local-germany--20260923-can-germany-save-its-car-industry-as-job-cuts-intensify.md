@@ -16,6 +16,35 @@ categories:
 - Business & Entrepreneurship
 - Automotive
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620602006.jpg@webp
+locations:
+- Berlin
+- Berlin-Brandenburg
+- China
+- Germany
+- GermanyThe
+- Neckarsulm
+- Osnabrück
+people:
+- Christiane Benner
+- Hildegard Müller
+organisations:
+- Audi
+- BMW
+- BYD
+- Bosch
+- EU
+- EY
+- Federal Motor Transport Authority
+- German Association of the Automotive Industry
+- IG Metall
+- KBA
+- Mercedes
+- Porsche
+- Tesla
+- Union
+- VDA
+- Volkswagen
+- Wolfsburg
 ---
 
 Tens of thousands of automotive workers across Germany demonstrated on Monday in one of the largest nationwide labour mobilisations the industry has seen in years.

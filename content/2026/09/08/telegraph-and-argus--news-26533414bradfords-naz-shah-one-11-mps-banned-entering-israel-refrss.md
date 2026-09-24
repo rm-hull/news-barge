@@ -14,6 +14,39 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Palestine
+- State of Israel
+- UK
+- West Bank
+people:
+- Adrian Ramsay Fahad Ansari
+- Benjamin Netanyahu
+- Carla Denyer
+- Diane Abbott
+- Ed Miliband
+- Ellie Chowns
+- Gideon Saar
+- Hannah Spencer
+- Jeremy Corbyn
+- John McDonnell
+- Naz Shah
+- Richard Burgon
+- Sian Berry
+- Zarah Sultana
+organisations:
+- BRADFORD
+- Bradford West
+- Green Party
+- Islington North
+- Labour
+- Members of Parliament
+- Newsquest
+- Riverway
+- Sea
+- Telegraph & Argus
+- UN
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/06/14/08/GettyImages-2275699438.
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Iran
+- Israel
+- Pennsylvania
+people:
+- Gisele
+- John Fetterman
+organisations:
+- CNN
+- Children’s Hospital of Philadelphia
+- Fox News
+- Keystone State
+- New York Magazine
+- Senate
+- The Independent
+- The Wall Street Journal
 ---
 
 Senator John Fetterman dismissed a scathing profile of his Senate tenure as a “hit piece” driven by “disgruntled staffers.”

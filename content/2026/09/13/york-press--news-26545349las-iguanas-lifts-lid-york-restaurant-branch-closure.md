@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- A York
+- Las Iguanas
+- Las Iguanas’ York
+- London
+- Swinegate
+- UK
+people:
+- Justice Meade
+- Maxine Gordon
+- Ryan Perkins
+organisations:
+- Banana Tree
+- Bella Italia
+- Big Table
+- Frankie & Benny’s
+- High Court
+- Iguanas Holdings
+- Iguanas Holdings Limited
+- Iguanas Holdings'
+- La Tasca
+- Las Iguanas
+- Newsquest
+- The Big Table Group
+- The Press
 ---
 
 *(Image: Newsquest)*

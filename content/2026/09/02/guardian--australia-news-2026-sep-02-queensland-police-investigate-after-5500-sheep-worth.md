@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Blackall
+- Blackall-Tambo
+- Brisbane
+- Dorper
+- Queensland
+people:
+- Andrew Martin
+- Dorper
+- Paul Elliot
+- Shane McCarthy
+organisations:
+- AgForce
+- National Livestock Identification System
 ---
 
 Queensland police are investigating after about 5,500 Dorper sheep worth more than $1.7m were allegedly stolen from a western Queensland farm.

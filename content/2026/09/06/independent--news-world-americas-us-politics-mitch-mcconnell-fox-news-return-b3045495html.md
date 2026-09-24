@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Alabama
+- Capitol Hill
+- Kentucky
+- Russell Senate Office Building
+people:
+- Andy Beshear
+- Donald Trump
+- James Comer
+- Joe Concha
+- Mitch McConnell
+- Tomi Lahren
+- Tommy Tuberville
+organisations:
+- Congress
+- Fox News
+- Senate
+- The Independent
 ---
 
 A Fox News co-host urged Senator Mitch McConnell to either return to work or resign, underscoring mounting frustration over the Kentucky Republican’s nearly three-month absence from Congress.

@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/04/16/13/2270936535.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- District of Columbia
+- Hill
+- Iran
+- Kennedy Center
+- National Mall
+- Receptive Circle
+- United States
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Chuck Todd
+- Donald Trump
+- Karoline Leavitt
+- Tanya Chutkan
+organisations:
+- Arch
+- Capitals
+- Circuit Court
+- Congress
+- East Wing
+- Lincoln Memorial Reflecting Pool
+- National Security
+- Reflecting Pool
+- Secret Service
+- Senate
+- Trump
+- Truth Social
+- United States Military
 ---
 
 Donald Trump made another push on Sunday to redefine one of his Washington, D.C. “beautification” projects that is likely aimed at securing funding for the project from a skeptical Congress.

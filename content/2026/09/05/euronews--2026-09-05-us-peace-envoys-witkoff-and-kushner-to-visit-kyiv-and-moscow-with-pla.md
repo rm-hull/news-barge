@@ -12,6 +12,25 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Boryspil
+- Dnipropetrovsk
+- Kamianske
+- Kyiv
+- Moscow
+- Russia
+- US
+- Ukraine
+people:
+- Donald Trump
+- Jared Kushner
+- Oleksandr Hanzha
+- Steve Witkoff
+- Volodymyr Zelenskyy
+organisations:
+- Dnipropetrovsk Oblast Military Administration
+- SBU
+- Security Service
 ---
 
 ## The announcement came as Russian strikes on Ukraine's Dnipropetrovsk region killed four overnight, per local authorities.

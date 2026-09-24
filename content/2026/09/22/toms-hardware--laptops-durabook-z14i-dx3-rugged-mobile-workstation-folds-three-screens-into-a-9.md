@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/w44EMAP6JdaBhy7qKSGX2T-1920-80.jpg
+locations: []
+people:
+- Tom
+organisations:
+- Durabook Z14I-DX3
+- Get Tom's Hardware
+- Google News
+- Intel
+- Kunal Khullar
+- NFC
+- Nano SIM
+- Nvidia
+- Tom’s Hardware
 ---
 
 ![The Durabook Z14I-DX3 comes with three integrated displays along with military grade rugged design](https://cdn.mos.cms.futurecdn.net/w44EMAP6JdaBhy7qKSGX2T.jpg)

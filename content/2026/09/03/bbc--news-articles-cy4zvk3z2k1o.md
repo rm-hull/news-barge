@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bandar Abbas
+- Iran
+- Israel
+- Kuhestak
+- Kuwait
+- Sirak
+- Sirik
+- US
+- United Arab Emirates
+- White House
+people:
+- Amirali Karimi
+- Esmaeil Baqaei
+- JD Vance
+- Kolsum Mallahi Nazhdnia
+- Mohammad Mallahi
+- Zarkhatoon Taheri
+organisations:
+- BBC Persian Forensics
+- BBC Verify
+- IRCS
+- Iranian Red Crescent Society
+- JD Vance
+- US Central Command
 ---
 
 Watch: JD Vance "extremely sceptical" over alleged strike on Iranian wedding

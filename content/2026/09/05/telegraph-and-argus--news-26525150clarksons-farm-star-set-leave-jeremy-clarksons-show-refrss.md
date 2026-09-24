@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Australia
+- Chipping Norton
+people:
+- Cheffins
+- Chipping Norton
+- Fazia Khan
+- Howard Pauling
+- Jeremy Clarkson
+- Kaleb Cooper
+- Taya
+organisations:
+- Amazon MGM Studios
+- Australia
+- Clarkson's Farm
+- Kaleb Cooper
+- UK Originals
 ---
 
 *(Image: Cheffins)*

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+locations:
+- Fountain Head Village
+- Halifax
+- Maltings Road
+- Ovenden Wood Road
+- West Yorkshire
+people: []
+organisations:
+- Calderdale CID
+- Fountain Head Brewery
+- Halifax Neighbourhood Policing Team
+- UGC
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

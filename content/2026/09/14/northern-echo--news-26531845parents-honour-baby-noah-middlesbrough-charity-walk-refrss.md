@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- County Durham
+- James Cook Hospital
+- Middlesbrough
+- North East
+people:
+- Aleem Ditta
+- Aleem Ditta)* Aleem
+- Alina Pervez
+- Noah Aleem Ditta
+- Sands
+organisations:
+- Aleem
+- James Cook Hospital NICU
+- MND
+- Middlesbrough Cricket Club
+- NHS
+- Teesside
+- Tommy's
 ---
 
 A North East couple hope to help other families after the heartbreaking loss of their son.

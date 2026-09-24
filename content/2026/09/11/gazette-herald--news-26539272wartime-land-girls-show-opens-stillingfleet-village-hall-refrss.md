@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Beverley
+- Catton Village Hall
+- Green Hammerton Village Hall
+- North Yorkshire
+- Poppleton
+- Skirlaugh Village Hall
+- Stillingfleet
+people:
+- Biddy
+- Buff
+- Kate Bramley
+- Sarah
+organisations:
+- All Saints Hall
+- Badapple Theatre
+- Land Girls
+- Yorkshire Land Girl
+- Yorkshire Land Girls
 ---
 
 A popular wartime comedy has kicked off its tour in North Yorkshire.

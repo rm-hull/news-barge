@@ -13,6 +13,64 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Argentina
+- Brazil
+- Croatia
+- Czechoslovakia
+- England
+- Europe
+- France
+- Netherlands
+- Spain
+people:
+- '## Kane'
+- Bobby Charlton
+- Cristiano Ronaldo
+- Declan Rice
+- Diego Maradona
+- Erling Haaland
+- Fabio Cannavaro
+- Franck Ribery
+- Gabriel Hanot
+- Garrincha
+- Gerd Muller
+- Harry Kane
+- Johan Cruyff
+- Josef Masopust
+- Jude Bellingham
+- Kevin Keegan
+- Kylian Mbappe
+- Lamine Yamal
+- Lionel Messi
+- Lothar Matthaus
+- Luis Suarez
+- Luka Modric
+- Mario Kempes
+- Matthias Sammer
+- Michael Olise
+- Michael Owen
+- Mohamed Salah
+- Paolo Rossi
+- Pau Cubarsi
+- Pele
+- Raymond Kopa
+- Rodri
+- Romario
+- Stanley Matthews
+- Wesley Sneijder
+- Zinedine Zidane
+organisations:
+- Barcelona
+- Bayern Munich
+- Copa America
+- DFB-Pokal
+- France Football
+- Inter Milan
+- La Liga
+- Paris St-Germain
+- Portugal
+- Real Madrid
 ---
 
 ![Harry Kane celebrating for England](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg)

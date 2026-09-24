@@ -11,6 +11,52 @@ image: https://i.guim.co.uk/img/media/3d46576558674f731a30ef983b43fa418b4297eb/8
 categories:
 - UK
 - News & Politics
+locations:
+- Asia
+- Bab al-Mandab
+- Beijing
+- China
+- East-West
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Jeddah
+- Khamis Mushait
+- Marib
+- Middle East
+- New York
+- Oman
+- Qatar
+- Red Sea
+- Saudi Arabia
+- UAE
+- UK
+- US
+- United Arab Emirates
+- Washington
+- White House
+- Yanbu
+- Yemen
+people:
+- Abbas Araghchi
+- Donald Trump
+- Ibrahim al-Hashmi
+- JD Vance
+- Khalid
+- Marco Rubio
+- Maysaa Shuja al-Deen
+- Sayyid Badr Albusaidi
+- Tareq Saleh
+organisations:
+- Giants Brigade
+- Gulf Cooperation Council
+- Homeland Shield Forces
+- Reuters
+- Sana’a Center
+- Saudi Aramco
+- Southern Transitional Council
+- UN
 ---
 
 Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced.

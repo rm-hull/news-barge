@@ -10,6 +10,29 @@ image: https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg
 categories:
 - Technology & Software
 - Education & Learning
+locations:
+- ANKLE
+- BERTH
+- EXILE
+- North London
+- Quordle
+- TITAN
+people:
+- '## Quordle'
+- A
+- Elton John
+- Fred
+- Johnny
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+organisations:
+- Channel 5
+- LEGAL
+- NYT Strands
+- Pop Detective
 ---
 
 ![Quordle on a smartphone held in a hand](https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL.jpg) 

@@ -13,6 +13,31 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/14/Ethiopia-Opposition-Alliance_92656.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Amhara
+- Assab
+- Eritrea
+- Ethiopia
+- Oromia
+- Tigray
+people:
+- Abiy Ahmed
+- Michael Asgedom
+- Zemene Kassie
+organisations:
+- Afar Revolutionary Democratic Unity Front
+- Amhara Fano National Movement
+- Benishangul Peoples’ Liberation Movement
+- Ethiopian Media Authority
+- Ethiopian Peoples’ Forces Alliance for Survival
+- Gumuz Peoples’ Democratic Movement
+- Ogaden National Liberation Front
+- Oromo Liberation Army
+- Prosperity Party
+- TPLF
+- The Associated Press
+- Tigray People’s Liberation Front
+- Tigray TV
 ---
 
 Seven opposition groups in Ethiopia have formed an alliance aimed at removing Prime Minister Abiy Ahmed and his government, according to an announcement on Sunday.

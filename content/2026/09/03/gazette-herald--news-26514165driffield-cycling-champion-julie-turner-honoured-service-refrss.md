@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Driffield
+- East Riding
+people:
+- Julie Turner
+- Paul West
+organisations:
+- Bikeability Trust
+- East Riding of Yorkshire Council
 ---
 
 A lifelong cycling advocate in Driffield has been honoured with a national lifetime achievement award.

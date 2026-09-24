@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Kenya
+- Nandi County
+- Sen
+people:
+- Davji Bhimji Atellah
+- Samson Cherargei
+- Seth Panyako
+organisations:
+- Council of Governors and the Salaries and Remuneration Commission
+- Council of Governors’
+- Senate
 ---
 
 A 43-day strike by hospital nurses in Kenya ended on Wednesday after the government and union signed a return-to-work agreement.

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Trinidad and Tobago
+- U.S.
+- Washington D.C.
+people:
+- Criston J. Williams
+- Dana Seetahal
+- Earl Richards
+- Jennifer Johnson-Carroll
+- Kamla Persad-Bissessar
+- Pennelope Beckles
+- Roger Alexander
+- Tricia Richards
+organisations:
+- Inter-American Commission on Human Rights
 ---
 
 Trinidad and Tobago ended a lengthy state of emergency on Thursday with authorities on alert for a possible surge in violence as activists and lawyers decried the mass arrests stemming from the measure.

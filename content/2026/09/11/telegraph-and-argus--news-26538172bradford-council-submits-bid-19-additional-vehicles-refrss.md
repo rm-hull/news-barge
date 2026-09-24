@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- BD18 3DE
+- Great Horton Road
+- Harehills Lane
+- Hillcrest House
+- LS9 6NF
+- Leeds
+- Northcliffe Park
+- Rae Bradford Road
+- Shearbridge Depot
+- Shipley
+people: []
+organisations:
+- 1PU
+- BRADFORD Council
+- Bradford Metropolitan District Council
+- Google Street View
+- Parks & Landscapes Depot
+- Shipley
 ---
 
 *(Image: Google Street View)*

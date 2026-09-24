@@ -14,6 +14,20 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/21/12/52/Council-did-not-approve-giant-memorial-structure-in-Shiregreen-Cemetery.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Majorca
+- Sheffield
+- Shiregreen Cemetery
+- Spain
+people:
+- Big Willy
+- Michael Collins
+- Willy Collins
+organisations:
+- Bereavement Services
+- SCC
+- Sheffield City Council
+- Sheffield Council
 ---
 
 # Approval not given for Collins family's latest giant memorial in cemetery, says Sheffield Council

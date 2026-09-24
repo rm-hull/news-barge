@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Piccadilly
+- York
+people: []
+organisations:
+- Newsquest)* Police
+- North Yorkshire Police
+- Tesco Express
 ---
 
 *(Image: Newsquest)*

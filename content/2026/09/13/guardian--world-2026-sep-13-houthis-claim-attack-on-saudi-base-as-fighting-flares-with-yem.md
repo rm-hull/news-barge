@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aden
+- Bab al-Mandab
+- Djibouti
+- Gaza
+- Gulf
+- Hormuz
+- Iran
+- Israel
+- Middle East
+- Mocha
+- Qeshm Island
+- Red Sea
+- Riyadh
+- Sana’a
+- Saudi Arabia
+- Sharurah
+- Taiz
+- US
+- Washington
+- Yemen
+people:
+- Donald Trump
+- Ilyas Moussa Dawaleh
+- Mohammed bin Salman
+- Yahya Saree
+organisations:
+- Air Force of the Armed Forces
+- Axios
+- Hamas
+- Saba
+- UKMTO
+- UN
 ---
 
 Houthi fighters on Sunday said they used drones and missiles to attack a military base in southern Saudi Arabia as renewed fighting with Yemen’s government forces led growing numbers of civilians to flee.

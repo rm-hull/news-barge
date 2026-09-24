@@ -12,6 +12,22 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21487318.jpg?type=og-image
+locations:
+- '![]()Yorkshire'
+- Yorkshire
+people:
+- Dacre
+- Rebecca Reeves
+organisations:
+- Dacre
+- Dacre, Son & Hartley
+- Kempston Parkes Chartered Surveyors
+- Mortgage Advice Bureau
+- Son & Hartley
+- The Principle Trust
+- The Principle Trust Children’s Charity
+- Yorkshire Three Peaks
+- Yorkshire Three Peaks Challenge
 ---
 
 ## Yorkshire Three Peaks challenge raises £3,300 for children’s charity

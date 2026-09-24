@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Humber
+- Parkland
+people:
+- Alasdair Hutson
+organisations:
+- Burton Constable
+- Burton Constable Foundation
+- Burton Constable’s Wildlife and Parkland Officer
+- HFR Solutions CiC
+- HFR Solutions Community Interest Company
+- HUMBSAR
+- Humberside Search and Rescue
 ---
 
 A defibrillator and five water rescue throw lines have been donated to the parkland team.

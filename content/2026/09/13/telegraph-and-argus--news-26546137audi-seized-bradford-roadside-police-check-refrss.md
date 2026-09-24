@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Tong Street
+people: []
+organisations:
+- '## Police'
+- Audi
+- Bradford South Neighbourhood Policing Team
+- DVLA
+- Driver and Vehicle Licensing Agency
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

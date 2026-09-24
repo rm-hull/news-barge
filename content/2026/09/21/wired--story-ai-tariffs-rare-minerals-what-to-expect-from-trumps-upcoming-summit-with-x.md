@@ -13,6 +13,38 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab15a857fffb9bb745696eb/191:100/w_1280,c_limit/trumpxi.jpg
+locations:
+- AI
+- Africa
+- Beijing
+- Busan
+- China
+- Iran
+- Latin America
+- Middle East
+- New York
+- Taiwan
+- US
+- Washington
+- White House
+people:
+- Anna Ashton
+- Donald Trump
+- He Lifeng
+- Jamieson Greer
+- Scott Bessent
+- Xi Jinping
+organisations:
+- AI
+- Ashton Intelligence
+- Boeing
+- CNBC
+- Joint Base Andrews
+- State Council
+- Treasury
+- Trump and Xi
+- United Nations General Assembly
+- World Economic Forum
 ---
 
 Of all the events in the United Nations General Assembly taking place this week, the most anticipated by far is the upcoming meeting between Donald Trump and Chinese president Xi Jinping.

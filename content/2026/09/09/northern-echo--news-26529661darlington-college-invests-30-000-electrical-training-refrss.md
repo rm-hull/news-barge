@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- County Durham
+people:
+- Gary Cook
+organisations:
+- Darlington College
+- Government
 ---
 
 *(Image: Supplied)*

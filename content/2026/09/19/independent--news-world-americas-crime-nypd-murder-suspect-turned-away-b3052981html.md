@@ -12,6 +12,20 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/19/21/2291477768..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- 156th Street
+- New York City
+- Washington Heights
+people:
+- Lovay Williams
+- Michael Alcazar
+- Neville Onielle Dexter Mitchell
+- Tiliek Shamel Thompson
+- Williams’
+organisations:
+- 33rd Precinct
+- NYPD
+- New York Post
 ---
 
 A murder suspect accused of beating a New York City mother to death and leaving her body with her 7-year-old daughter allegedly walked out of an NYPD station after trying to surrender, according to his attorney and the *New York Post**.*

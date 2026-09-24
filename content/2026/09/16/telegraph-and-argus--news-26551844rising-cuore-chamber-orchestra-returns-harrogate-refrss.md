@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Yorkshire
+people:
+- Grieg
+- Jennifer Pike
+- Michael Berkeley
+- Mozart
+- William Dutton
+organisations:
+- Cuore Chamber Orchestra
+- Google Street View
+- Harrogate
+- Royal Hall
+- Yorkshire
 ---
 
 *(Image: Google Street View)*

@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/08/30/15/Niger_Gunfire_62938.jpg?wi
 categories:
 - News & Politics
 - UK
+locations:
+- Base 101
+- Burkina Faso
+- Diffa
+- France
+- Mali
+- Niamey
+- Niger
+- Russia
+- Tillaberi
+- United States
+people:
+- Abdourahamane Tchiani
+- Brig
+- Maj
+- Mamane Sani Kiaou
+- Mohamed Bazoum
+- Moussa Salaou Barmou
+organisations:
+- Africa Corps
+- Defense Ministry
+- Diori Hamani International Airport
+- The Associated Press
 ---
 
 Niger’s junta leader appointed a new armed forces chief, less than two weeks after a deadly mutiny threatened the junta’s grip on power.

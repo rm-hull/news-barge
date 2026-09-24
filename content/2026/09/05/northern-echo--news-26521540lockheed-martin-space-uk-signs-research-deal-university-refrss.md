@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Science
 - Business & Entrepreneurship
+locations:
+- North East
+- Northumbria
+- UK
+people:
+- Andy Long
+- Kim McGuinness
+- Robert Lightfoot
+organisations:
+- A66
+- LOCKHEED Martin Space UK
+- Lockheed Martin
+- Lockheed Martin Space
+- Lockheed Martin UK
+- MRA
+- Memorandum of Understanding
+- NESST
+- North East Space Skills and Technology Centre
+- North News & Pictures Ltd
+- Northumbria University
+- UK Space Agency
 ---
 
 *(Image: North News & Pictures Ltd)*

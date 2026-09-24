@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Bishop Auckland
+- Brancepeth Castle
+- County Durham
+- Croxdale
+- Durham City
+- England
+- Hardwick Park
+- River Wear
+- SARAH CALDECOTT
+- Spennymoor
+- St Charles' Catholic Church
+- Sunderland Bridge
+- Tudhoe Green
+- Tudhoe Hall
+- Tudhoe Village
+people:
+- Tudhoe
+organisations:
+- Durham County Council
+- Tudhoe
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Asia
+- Cape Town
+- South Africa
+- UK
+- sub-Saharan Africa
+people:
+- Jessica Ringshaw
+- Steve Williams
+organisations:
+- Brain Communications
+- IoPPN
+- King’s College London
+- King’s Institute of Psychiatry, Psychology & Neuroscience
+- University of Cape Town
+- World Health Organization
 ---
 
 Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.

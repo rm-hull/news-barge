@@ -13,6 +13,21 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Bayeux Cathedral
+- Hastings
+- London
+- North of England
+- UK
+people:
+- Christopher Norton
+- Christopher Norton**
+- Harold Godwinson
+organisations:
+- Art History
+- British Museum
+- Viking
+- Yorkshire Museum
 ---
 
 For centuries, international scholars fiercely debated why the masterpiece was configured in such a remarkably long, narrow strip. The answer has officially been uncovered by **Professor Christopher Norton**, Professor Emeritus of Art History, whose meticulous architectural analysis proved the textile was custom-made to fit precisely along the nave walls of Bayeux Cathedral for its consecration in 1077.

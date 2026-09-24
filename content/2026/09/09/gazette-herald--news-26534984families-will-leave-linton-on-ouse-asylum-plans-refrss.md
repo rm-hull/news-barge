@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Easingwold
+- North Yorkshire
+- RAF Linton-on-Ouse
+- York
+people:
+- Anna Turley
+- Keir Starmer
+- Olga Matthias
+- Ryan McDougall
+organisations:
+- Burnham - Council
+- Hambleton District Council
+- Home Office
+- Labour
+- Linton Action Group
+- Linton-on-Ouse
+- PA Wire
+- RAF Linton-On-Ouse
+- York North Yorkshire Council
 ---
 
 *(Image: Ryan McDougall/PA Wire)*

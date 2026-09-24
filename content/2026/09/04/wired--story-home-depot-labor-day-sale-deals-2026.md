@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Science
 - Home, Garden & DIY
+locations:
+- Home Depot
+- Milwaukee
+- Pacific Northwest
+- Weber Kettle
+people:
+- Kat Merck
+- Scott Gilbertson
+- Traeger
+- Weber
+organisations:
+- '## Home Depot DeWalt Tool BOGO My'
+- '## Home Depot Milwaukee Tool'
+- '## Home Depot Ryobi Landscaping'
+- DeWalt Deals
+- Home Depot
+- Parker Hall
+- Traeger
+- Traeger's
+- WIRED
+- Weber
 ---
 
 Labor Day sales are the last gasp of summer DIY season, and it almost always means steep discounts on tools and batteries—especially as retailers clear inventory space for the holidays. The Home Depot Labor Day sale goes pretty hard this year, bolstering the usual battery of BOGO deals, as well as end-of-season grill discounts.

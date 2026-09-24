@@ -16,6 +16,71 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Arncliffe
+- Bradford
+- Charlotte
+- Grassington AKA Darrowby
+- Kettlewell
+- Mrs Hall
+- Ripley
+- Skeldale House
+- The Drovers
+- Yorkshire Dales
+people:
+- Alf Wight
+- Alfred
+- Andy Hay
+- Anna Madeley
+- Brian Percival
+- Callum Woodhouse
+- Caolan McCarthy
+- Debbie O’Malley
+- Dora
+- Dorothy
+- Geoff Hatfield
+- Granville Bennett
+- Helen Herriot
+- Helen Williams
+- Imogen Clawson
+- Isabella Ward
+- James Herriot
+- Jennie Paddon
+- Jenny
+- Jimmy Herriot
+- Kellie Smith
+- Maggie
+- Maimie McCoy
+- Maxine Alderton
+- Mollie Winnard
+- Mrs Hall
+- Neil Jones
+- Nicholas Ralph
+- Patricia Hodge
+- Pumphrey
+- Rachel Shenton
+- Richard Alderson
+- Rosie Herriot
+- Samuel West
+- Siegfried Farnon
+- Thomas Riches
+- Tony Pitts
+- Tricki
+- Tristan Farnon
+- Yvonne Francas
+organisations:
+- BAFTA
+- Broadcasting Limited
+- Channel 5
+- Episodes
+- Gaia Wise
+- Mrs Hall
+- PBS
+- Playground Television UK Ltd
+- School’
+- Skeldale House
+- Small
+- Thirsk
 ---
 
 # All Creatures Great and Small Series 7: This is when the new series will air as romance blooms at Skeldale House

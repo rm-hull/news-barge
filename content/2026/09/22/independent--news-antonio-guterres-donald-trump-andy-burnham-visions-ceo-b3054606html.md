@@ -14,6 +14,47 @@ categories:
 - Technology & Software
 - Science
 image: https://static.independent.co.uk/2026/09/22/23/UN_General_Assembly_Trump__7875.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- America
+- China
+- Finland
+- U.S.
+- UK
+- United States
+people:
+- AI
+- Alexander Stubb
+- Andy Burnham
+- Antonio Guterres
+- Clément Delangue
+- Dario Amodei
+- Donald Trump
+- Edith M. Lederer
+- Emmanuel Macron
+- Henry Hoffmann
+- Ian Bremmer
+- Jennifer Peltz
+- Jill Lawless
+- Sam Altman
+organisations:
+- AP
+- Anthropic
+- Associated Press’
+- Eurasia Group
+- G20
+- General Assembly
+- Hugging Face
+- Macron
+- OpenAI
+- Security Council
+- Security Council AI
+- U.N
+- U.N.
+- U.S. National Oceanic and Atmospheric Administration
+- UN
+- United Nations
+- University of Chicago
 ---
 
 It's killer robots versus super intelligence.

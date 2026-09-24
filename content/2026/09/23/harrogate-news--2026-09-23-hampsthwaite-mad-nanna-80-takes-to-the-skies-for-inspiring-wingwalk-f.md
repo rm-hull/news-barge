@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Janet-on-top-of-the-plane.webp
+locations:
+- Hampsthwaite
+- Leeds East Airport
+- UK
+- Yorkshire
+people:
+- Janet Mills
+- Mad Nanna
+organisations:
+- AMD
+- Macular Society
 ---
 
 **23 September 2026** — An 80-year-old grandmother from Hampsthwaite is back on solid ground after completing a daring aerial wingwalk challenge, raising hundreds of pounds for a national sight loss charity close to her heart.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21475806.jpg?type=og-image
+locations: []
+people:
+- Amanda Owen
+- Anna Haugh
+- Franc Roddam
+- Giorgio Locatelli
+- Grace Dent
+- Gregg Wallace
+- John Torode
+- Lisa Faulkner
+- Lisa’s Kitchen
+- Miles
+- Reuben
+organisations:
+- BBC
+- Masterchef
+- The Telegraph
+- YouTube
 ---
 
 *(Image: PA)*

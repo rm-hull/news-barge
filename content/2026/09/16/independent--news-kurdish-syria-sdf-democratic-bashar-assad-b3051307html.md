@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aleppo
+- Baniyas
+- Beirut
+- Damascus
+- Hassakeh
+- Iran
+- Kobani
+- M4
+- Qamishli
+- Rmeilan
+- Syria
+- Tal Tamr
+- U.S.
+people:
+- Ahmad al-Sharaa
+- Bashar Assad
+- Masoud Bouzi
+- Mazloum Abdi
+- Noah Bonsey
+- Nowruz Ahmad
+- Sewell
+organisations:
+- General Security
+- Interior Ministry
+- International Crisis Group
+- Islamic State
+- SDF
+- Syrian Democratic Forces
+- The Associated Press
+- Women’s Protection Units
+- YPJ
+- interior ministry
 ---
 
 Hundreds of oil tanker trucks were stranded in northeastern Syria's Kurdish region Wednesday after demonstrators blocked a major highway near the town of Tal Tamr in protest over rising fuel prices.

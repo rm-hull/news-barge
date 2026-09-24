@@ -14,6 +14,21 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Rightmove
+- Sheffield
+- Sunbridge Road
+people:
+- '## Chippy'
+- Ernest Wilson
+- Kieran Osborne
+- Laura Hollingsworth
+organisations:
+- City Fisheries
+- In Plaice
+- Sunbridge Friary
+- T&A
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Darlington
+- East Cleveland
+- Historic North Yorkshire
+- Longscar
+- Marske
+- North East
+- North Sea
+- Peterlee Cemetery
+- Teesside
+people:
+- Donna Louise
+organisations:
+- Northern Echo
 ---
 
 A giant bell hauled on to an East Cleveland beach has left locals asking where it came from and how it ended up underwater.

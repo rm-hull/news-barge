@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people: []
+organisations:
+- The Associated Press
 ---
 
 Sept. 3 - Sept. 9, 2026 AP Mobile Scroll: a selection of standout vertical images published by The Associated Press in the last week.

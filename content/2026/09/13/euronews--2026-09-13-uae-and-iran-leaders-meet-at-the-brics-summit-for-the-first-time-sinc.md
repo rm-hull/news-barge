@@ -14,6 +14,39 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Abu Dhabi
+- Brazil
+- China
+- Gulf
+- Hengam
+- India
+- Iran
+- Israel
+- Middle East
+- Muscat
+- Oman
+- Qeshm
+- Russia
+- South Africa
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United States
+people:
+- Amir Teymouri
+- Anwar Gargash
+- Danny Citrinowicz
+- Esmaeil Baghaei
+- Khaled bin Mohamed bin Zayed Al Nahyan
+- Masoud Pezeshkian
+- Xi Jinping
+organisations:
+- Abu Dhabi Media Office
+- BRICS
+- International Maritime Organisation
+- New Development Bank
 ---
 
 ## The talks follow the UAE’s suspension of trade and financial dealings with Iran in August and follow UAE's firm position that trust with Iran "is a mountain to climb" after Iran's attacks on the Gulf countries.

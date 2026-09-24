@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://mmo.aiircdn.com/409/6ab38382919379358e4.jpg
+locations:
+- Harrogate Convention Centre
+- Kings Road
+- King’s Road Well
+- Royal Baths
+people:
+- Murals
+- Sarah
+organisations:
+- Harrogate BID
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab38382919379358e4.jpg)

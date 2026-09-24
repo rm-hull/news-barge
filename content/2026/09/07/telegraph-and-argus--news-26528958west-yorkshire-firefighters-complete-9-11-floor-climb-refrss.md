@@ -13,6 +13,35 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Atlanta
+- Georgia
+- Ireland
+- New York
+- UK
+- US
+- United States
+- West Yorkshire
+people:
+- Kev Sutcliffe
+- Luke Garnett
+- Matty Birch
+- Spencer Priestley
+- Zoe Ricketts
+organisations:
+- Al-Qaeda
+- Atlanta Fire Department Training Facility
+- Cobb County Fire & Rescue Service
+- Facebook
+- New York Fire Department
+- Terry Farrell Firefighter Foundation
+- Terry Farrell Firefighters’ Fund Memorial Stair Climb
+- The Blue Light Card Foundation
+- The Fire Fighters Charity
+- The Terry Farrell Firefighter Foundation
+- WYFRS
+- West Yorkshire Fire and Rescue Service
+- World Trade Centre
 ---
 
 Five West Yorkshire firefighters have completed a 110-floor climb in the US in memory of colleagues killed in the 9/11 attacks.

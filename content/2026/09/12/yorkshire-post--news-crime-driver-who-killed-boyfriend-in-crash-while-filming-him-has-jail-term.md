@@ -14,6 +14,26 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Brinham Rocks
+- Durham
+- HMP Low Newton
+- Harrogate
+- North Yorkshire
+- Snapchat
+- UK
+people:
+- Alfie Lovett
+- Glenn Parsons
+- Justice Hill
+- Justice Linden
+- Justice Popplewell
+- Kelly Brocklehurst
+- Mia Howarth
+organisations:
+- Court of Appeal
+- National Trust
+- York Crown Court
 ---
 
 # Driver who killed boyfriend in crash while filming him has jail term increased

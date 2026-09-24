@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Johannesburg
+- Sharpeville
+- South Africa
+- africa
+people:
+- Abram Mofokeng
+- Albert Luthuli
+- Charne Tracey
+- Dan Leader
+- Ishmael Poho
+- Paulina Mathinye
+- Steve Biko
+organisations:
+- AP Africa
+- Cradock Four
+- Lawyers for Human Rights
+- Leigh Day
+- Truth and Reconciliation Commission
 ---
 
 More than six decades after South African apartheid police opened fire on an unarmed crowd protesting pass laws in Sharpeville, a township south of Johannesburg, survivors and relatives of the victims announced on Thursday they would launch a class-action lawsuit against the government.

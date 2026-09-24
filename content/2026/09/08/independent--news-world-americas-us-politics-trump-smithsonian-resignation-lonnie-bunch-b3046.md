@@ -10,6 +10,26 @@ image: https://static.independent.co.uk/2026/09/08/18/2245077622..?trim=651,726,
 categories:
 - News & Politics
 - UK
+locations:
+- Smithsonian
+- Washington
+- White House
+people:
+- Donald Trump
+- Doug Burgum
+- JD Vance
+- John Roberts
+- Lonnie Bunch
+- Vince Haley
+organisations:
+- Board of Regents
+- Congress
+- Kennedy Center
+- National Museum of American History
+- Smithsonian Institution
+- Smithsonian Museum of American History
+- Supreme Court
+- White House Domestic Policy Council
 ---
 
 Lonnie Bunch, the first Black secretary of the Smithsonian Institution, has announced that he will retire from the role.

@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations: []
+people:
+- Allen
+organisations:
+- Branch
+- POV
+- Sega
 ---
 
 There aren’t many differences between what you’d need for a good office chair versus a good gaming chair, but for some reason, they’re often marketed differently. And that’s usually what separates them: marketing. When Branch released variations of the WIRED-favorite Ergonomic Chair Pro in collaboration with Sega, I was stoked to try it from a gamer perspective for our buying guide rather than from an office warrior POV. It checks every box: It has the comfortable ergonomics you'd expect from an adjustable office chair, with the subtle, pleasing designs inspired by one of gaming's most revered companies.

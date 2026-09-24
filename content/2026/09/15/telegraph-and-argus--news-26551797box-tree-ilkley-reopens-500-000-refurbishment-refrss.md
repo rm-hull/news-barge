@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Box Tree
+- Box Tree House
+- Church Street
+- Ilkley
+- London
+- North
+- The Box Tree
+- Yorkshire
+people:
+- Brayden Davies
+- Colin Long
+- Edward Denny
+- Malcolm Reid
+- Marco Pierre White
+- Michael Truelove
+- Septimus Wray
+organisations:
+- Box Tree
+- Grantley Hall
+- Michelin
+- Raby Hunt
+- The Box Tree
+- UGC
 ---
 
 A RESTAURANT where celebrity chef Marco Pierre White once worked has reopened after a £500,000 refurbishment.

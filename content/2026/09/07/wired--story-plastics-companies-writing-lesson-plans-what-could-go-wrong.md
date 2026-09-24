@@ -11,6 +11,30 @@ image: https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Beaver County
+- Berkeley
+- California
+- Pennsylvania
+- US
+people:
+- Jacqueline Omania
+- Katie Allen
+- Madison Dennis
+- Suzie Hicks
+- Wendy Johnson
+organisations:
+- Algalita
+- American Association of Chemistry Teachers
+- California Department of Education
+- Dow Chemical Company
+- Grist
+- National Center for Science Education
+- Plastic Pollution Coalition
+- Plastics Industry Association
+- SPE
+- Shell
+- Society of Plastics Engineers
 ---
 
 *This story originally appeared on Grist and is part of the Climate Desk collaboration.*

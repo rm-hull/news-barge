@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bolivia
+- Brooklyn
+- Brooklyn’s Eastern Parkway
+- Canarsie
+- Caribbean
+- Colombia
+- Crown Heights
+- East Flatbush
+- Ecuador
+- Greece
+- Haiti
+- Harlem
+- Lafontant
+- Mexico
+- Miami
+- Mullin
+- New York
+- Panama
+- Peru
+- U.S.
+- Venezuela
+people:
+- Clara Poteau
+- Doe
+- Duckens Nazon
+- Edwina Paul
+- Emmanuel Sanon
+- Fanm Se
+- Jean-Claude “Baby Doc” Duvalier
+- Jean-Jacques Dessalines
+- Jesus Luc
+- Lespri Ayiti
+- Natalie Lafontant
+organisations:
+- Fashion Institute of Technology
+- Migration Policy Institute
+- SPM
+- Supreme Court
+- TPS
+- Team Madada
 ---
 
 Steel drums, flag-draped floats, and the smell of jerk chicken will fill Brooklyn’s Eastern Parkway on Monday, as hundreds of thousands turn out for the West Indian Day Parade, one of the largest celebrations of Caribbean culture in the country.

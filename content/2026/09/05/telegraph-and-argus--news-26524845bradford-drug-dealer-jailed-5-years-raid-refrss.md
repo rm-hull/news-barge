@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Cockcroft Grove
+- Holme Wood
+- West Yorkshire
+people:
+- Andrew Leeming
+- Charlie Smallwood
+organisations:
+- Bradford Crown Court
+- Bradford South Neighbourhood Policing Team
+- Leeming
+- Operation Sweetgill
 ---
 
 *(Image: West Yorkshire Police)*

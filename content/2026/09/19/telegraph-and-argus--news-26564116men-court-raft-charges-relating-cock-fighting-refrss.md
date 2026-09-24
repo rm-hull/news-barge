@@ -14,6 +14,41 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21475485.jpg?type=og-image
+locations:
+- Accrington
+- Bradford Crown Court
+- Bradford Magistrates Court
+- Brantwood Road
+- Burton Upon Trent
+- Empress Road
+- Girlington Road
+- Great Sankey
+- Hood Lane North
+- Kingfisher Grove Bradford
+- Leylands Lane
+- Magistrates Court
+- Park View Road
+- Royal Gardens
+- Victoria Street
+- Walsall
+people:
+- Adnan Khan
+- Daniel Burns
+- Kabir Zaman
+- Khalid Mahmood Khan
+- Mohammed Hussain
+- Muhammad Ifraz Amin
+- Muhammed Ihtishaam
+- Mukhtar Ahmed
+- Philip Brown
+- Sadir Hussain
+- Warrington
+- Zafar Ali
+organisations:
+- Bradford Crown Court
+- Kingfisher Grove
+- Northamptonshire Police
+- RSPCA
 ---
 
 *(Image: T&A)*

@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Arabian Peninsula
+- Hazm
+- Iran
+- Jawf
+- Khamis Mushait
+- King Khalid Air Base
+- Marib
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Yemen
+people:
+- Anees al-Asbahi
+- Brig.
+- Hassan Saboula
+- Yahya Saree
+organisations:
+- Houthi
+- Saudi Energy Ministry
+- U.N.
+- World Health Organization
+- al-Masirah
 ---
 
 Rescuers in Yemen pulled more bodies from the rubble Wednesday of a prison run by Iran-backed Houthi rebels that was hit in a deadly airstrike earlier this week, as an escalation between the rebels and a Saudi-led coalition threatened Yemen's fragile ceasefire.

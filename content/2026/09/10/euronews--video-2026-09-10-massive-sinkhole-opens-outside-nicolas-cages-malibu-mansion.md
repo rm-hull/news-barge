@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Malibu
+- Southern California
+people:
+- Marie
+- Nicolas Cage
+organisations:
+- New York Times
+- SoCalGas
 ---
 
 Aerial footage shows a large sinkhole where the driveway of a Malibu mansion once stood, after coastal erosion linked to the remnants of Hurricane Marie. The collapse opened a gaping hole in front of the property, which entertainment outlets say belongs to actor Nicolas Cage.

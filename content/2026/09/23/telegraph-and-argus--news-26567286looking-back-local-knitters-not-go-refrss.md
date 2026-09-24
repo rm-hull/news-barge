@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21480213.jpg?type=og-image
+locations: []
+people:
+- Julia Roberts
+- Tom Daley
+organisations: []
 ---
 
 KNITTING is becoming more and more popular, driven heavily by younger generations, social media tutorials, and celebrity knitters such as Tom Daley and Julia Roberts.

@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Science
 image: https://static.independent.co.uk/2025/07/22/11/07/Russia-Putin-3v37gx85.jpeg?trim=0,102,0,198&width=1200&height=800&crop=1200:800
+locations:
+- Kremlin
+- Moscow
+- Russia
+people:
+- Andrey Okun
+- Keir Giles
+- Mark Galeotti
+- Max
+- Roya Ensafi
+- Vladimir Putin
+organisations:
+- FSB
+- Georgia Institute of Technology
+- Google
+- Hotmail
+- Indian Institute of Technology
+- Mayak Intelligence
+- Meta
+- Proton Mail
+- Skype
+- Telegram
+- The Guardian
+- The Independent
+- The Times
+- University of Calgary
+- University of Michigan
+- VK
+- WhatsApp
 ---
 
 Every new digital device in Russia is mandated to come equipped with a messenger app named Max.

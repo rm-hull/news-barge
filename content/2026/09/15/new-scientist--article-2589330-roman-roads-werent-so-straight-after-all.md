@@ -13,6 +13,22 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Alps
+- Asia
+- Australia
+- Denmark
+- Europe
+- Middle East
+- North Africa
+- Roman Empire
+- Rome
+people:
+- Ray Laurence
+- Tom Brughmans
+organisations:
+- Aarhus University
+- Macquarie University
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312552640.jpg?w=840)

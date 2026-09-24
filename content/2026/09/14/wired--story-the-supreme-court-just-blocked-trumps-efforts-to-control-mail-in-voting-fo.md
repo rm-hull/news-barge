@@ -14,6 +14,27 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- Nevada
+- US
+- Washington
+- White House
+people:
+- Brett Kavanaugh
+- Cisco Aguilar
+- Clarence Thomas
+- Donald Trump
+- Ketanji Brown Jackson
+- Richard Blumenthal
+- Samuel Alito
+organisations:
+- Constitution
+- District Court
+- Postal Service
+- Supreme Court
+- Trump
+- USPS
+- United States Postal Service
 ---
 
 The Supreme Court has rejected the Trump administration’s bid to impose severe restrictions on mail-in voting just weeks ahead of the midterms.

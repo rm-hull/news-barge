@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Asia
+- Bradford
+- Manningham
+- Nuneaton
+people:
+- Mrs Patel
+- Neelam Patel
+organisations:
+- NPD Academy
+- T&A
 ---
 
 A Bradford sewing school hosted its first ever children's fashion show in Manningham.

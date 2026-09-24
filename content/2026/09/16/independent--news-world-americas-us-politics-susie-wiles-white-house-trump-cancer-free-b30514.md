@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Florida
+- U.S.
+- White House
+people:
+- Donald Trump
+- Eisenhower
+- Reagan
+- Susie Wiles
+organisations:
+- America First Agenda
+- Mayo Clinic
+- Truth Social
 ---
 
 Six months after announcing that she’d be undergoing treatment for what President Donald Trump called “early stage breast cancer,” White House Chief of Staff Susie Wiles says she is now “cancer free” following a checkup this week at the Mayo Clinic.

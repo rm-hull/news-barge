@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Islamabad
+- Lahore
+- Pakistan
+people:
+- Razia Noreen
+- Shehbaz Sharif
+organisations:
+- CCTV
+- Pakistan Institute of Medical Sciences
+- Samaa TV
+- Sitara-i-Khidmat
+- Star of Service
 ---
 
 A Pakistani nurse who rescued the sole surviving newborn from a hospital nursery fire that killed 14 other infants will receive one of the country’s most prestigious civil awards.

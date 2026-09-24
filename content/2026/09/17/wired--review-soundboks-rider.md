@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Science
 - Music
+locations:
+- New York City
+people:
+- Harry Rabinowitz
+- Rider
+- Soundboks
+organisations:
+- JBL PartyBox Club
+- Marshall
+- NBC Select
+- Popular Mechanics
+- Popular Science
+- Rider
+- SPL
+- Samsung
+- Sony Tower
+- WIRED
 ---
 
 Gets very loud for its size. Clear, detailed sound. Very durable build. Swappable battery. IP66 dust and waterproof.

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- England
+- London
+- North West
+- Northern Ireland
+- Scotland
+- South East
+- UK
+- Wales
+- Windy
+people:
+- Emma Salter
+organisations:
+- Met Office
 ---
 
 Blustery conditions and cooler temperatures are expected across most of the country this week ahead of a dry and sunny spell over the weekend.

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- White House
+people:
+- Bryan Freedman
+- DONALD J
+- Don Lemon
+- Donald Trump
+- Fox
+- God
+- Karoline Leavitt
+- Maria Bartiromo
+- Maria!
+- Megyn Kelly
+- Pete Hegseth
+- Tucker Carlson
+organisations:
+- CNN
+- FOX News Media
+- Fox Business
+- Fox News
+- FoxNews/Business
+- NBC News
+- Status News
+- Trump
 ---
 
 Maria Bartiromo’s lawyer sharply denied that she was fired from her job at Fox News on Friday, after reports that she was dismissed after divulging the network’s editorial guidance to the White House.

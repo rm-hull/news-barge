@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Sandy Lane
+- Stockton-on-the-Forest
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Supplied)*

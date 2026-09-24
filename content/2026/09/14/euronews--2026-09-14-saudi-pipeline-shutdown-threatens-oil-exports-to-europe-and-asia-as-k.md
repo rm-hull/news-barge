@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Africa
+- Asia
+- Bab el-Mandeb
+- East-West
+- Egypt
+- Europe
+- Gulf of Aden
+- Indian Ocean
+- Iraq
+- Medina
+- Mediterranean
+- Middle East
+- Perim Island
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Yanbu
+- Yemen
+people: []
+organisations:
+- Aramco
+- International Energy Agency
 ---
 
 ## The pipeline disruption comes as Gulf oil exports have already fallen sharply and shipping routes face further threats. With no restart date announced, the impact on deliveries to Europe and Asia depends on how long the shutdown lasts.

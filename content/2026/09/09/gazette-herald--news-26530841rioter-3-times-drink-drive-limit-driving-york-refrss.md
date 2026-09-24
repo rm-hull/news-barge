@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Barnsley
+- Fulford Road Police Station
+- Goldthorpe
+- Ouse Bridge
+- Pearwood Close
+- Rotherham
+- Sheffield Crown Court
+- York
+people:
+- '** Cotton'
+- Martin Butterworth
+- Ricky Cotton
+organisations:
+- Holiday Inn
 ---
 
 *(Image: Press Association)*

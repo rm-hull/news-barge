@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Astley Business Park
+- Greater Manchester
+- Henfold Estate
+- Retford
+- Tyldesley
+- Whistl’s
+people:
+- John Peters
+- Stephen Retford
+- Whistl
+organisations:
+- Astley Warehouse Action
+- Astley Warehouse Action Group
+- British Standard
+- Murray Acoustics
+- PLP Astley
+- The Independent
+- Whistl
+- Wigan Council
 ---
 
 After a miserable winter, Stephen Retford thought things were looking up. How wrong he was.

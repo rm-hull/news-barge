@@ -13,6 +13,74 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311337863_a99a7c.jpg
+locations:
+- Americas
+- Amsterdam
+- Attenborough
+- BAS
+- Brussels
+- Dublin
+- Earth
+- Europe
+- France
+- Friesland
+- Greenland
+- Gulf Stream
+- Gulf of Mexico
+- Harwich
+- Holland
+- India
+- Ivory Coast
+- London
+- Netherlands
+- New York
+- Norfolk
+- North America
+- North Atlantic
+- North Sea
+- Norway
+- Oslo
+- Paris
+- Scotland
+- Sorgenfri
+- Spain
+- Spitsbergen
+- Svalbard
+- UK
+- West Africa
+people:
+- Athena Dinar
+- David Attenborough
+- Gemma Bale
+- James Bond
+- Jon Robson
+- Kelly Hogan
+- Paul Holland
+- Pierre Dutrieux
+- René van Westen
+- Richard Dale
+- Sven-Erik Arndt
+- Tim Lenton
+- Van Westen
+- Wallace Broecker
+organisations:
+- AI
+- AMOC
+- ARIA
+- Advanced Research and Invention Agency
+- Attenborough
+- BAS
+- British Antarctic Survey
+- Columbia University
+- GIANT
+- Greenland Ice to Atlantic
+- Met Office
+- Richard Dale
+- Sorgenfri Gletsjer
+- Universal Images Group
+- University of Exeter
+- University of Reading
+- Utrecht University
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312996311.jpg?w=840)

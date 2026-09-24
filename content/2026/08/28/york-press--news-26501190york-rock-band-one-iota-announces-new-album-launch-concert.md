@@ -13,6 +13,21 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- Joseph Rowntree Theatre
+people:
+- Adam Dawson
+- Andrew Bowen
+- Andrew Prudames
+- Chuck Walton
+- Dave Clements
+- Dave Creffield
+- Dave Soulsby
+- Mr Dawson
+- Phil Everard
+organisations:
+- Kaiser Chiefs
+- One Iota
 ---
 
 *(Image: One Iota)*

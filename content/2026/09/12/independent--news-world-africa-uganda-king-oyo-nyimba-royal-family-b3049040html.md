@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Congo
+- Fort Portal
+- Kabarole District
+- Karambi Royal Tombs
+- Karuziika Royal Palace
+- South Africa
+- Tooro Kingdom
+- Uganda
+people:
+- Babiito
+- Best Kemigisa
+- Bob Marley
+- King Oyo
+- Moammar Gadhafi
+- Nelson Mandela
+- Omukama of Tooro
+- Oyo Nyimba
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Oyo Nyimba Kabamba Irugu Rukidi IV
+- Ruth Komuntale
+- Timothy Kalyegira
+organisations:
+- Tooro
 ---
 
 The funeral has been held in western Uganda for a traditional monarch who ascended the throne of the Tooro Kingdom as an infant in 1995 and died last month at 34, triggering a succession dispute that has rocked the royal family and gripped the nation.

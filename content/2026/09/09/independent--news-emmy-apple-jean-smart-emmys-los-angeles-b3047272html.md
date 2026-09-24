@@ -14,6 +14,63 @@ categories:
 - UK
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Los Angeles
+- New England
+people:
+- Baby Jane Doe
+- Bay’
+- Beef
+- Betty Gilpin
+- Carey Mulligan
+- David Harbour
+- Deborah Vance
+- Donald Trump
+- Ernest Harden Jr.
+- Fiona Dourif
+- Hacks
+- Hannah Einbinder
+- Harrison Ford
+- Jayne Mansfield
+- Jean Smart
+- Jimmy Kimmel
+- Kate O’Flynn
+- Katherine LaNasa
+- Linda Cardellini
+- Mariska Hargitay
+- Matthew Rhys
+- Michael “Robby” Robinavitch
+- Noah Wyle
+- Nurse Dana
+- Oscar Isaac
+- Patrick Ball
+- Peacock
+- Pluribus
+- Rhea Seehorn
+- Saul
+- Sepideh Moafi
+- Shawn Hatosy
+- Stephen Colbert
+- Taylor Dearden
+- Ted Lasso
+- The Pitt
+- Vince Gilligan
+- Widow
+- Widow’s Bay
+- Zendaya
+organisations:
+- Abbott Elementary
+- Apple TV
+- Apple’s “The Studio
+- DTF St. Louis
+- Emmy
+- FXX
+- HBO
+- NBC
+- Peacock Theater
+- Pluribus
+- The Associated Press
+- The Pitt
 ---
 
 It’s “The Pitt” versus “Pluribus” and “Hacks” against “Widow’s Bay” at the 78th Emmy Awards on Monday night.

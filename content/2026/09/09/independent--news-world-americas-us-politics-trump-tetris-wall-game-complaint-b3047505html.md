@@ -13,6 +13,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Mexico
+- Rio Grande
+- Rio Run
+- U.S.
+- US-Mexico
+- White House
+- Zombie Border Siege
+people:
+- Tetris
+organisations:
+- Border Patrol
+- ICE
+- Spider Man
+- Tetris
+- The Independent
+- Trump
 ---
 
 The White House has taken down a “Build the Wall” arcade game from its official website days after the owner of the Tetris brand warned it could constitute copyright infringement.

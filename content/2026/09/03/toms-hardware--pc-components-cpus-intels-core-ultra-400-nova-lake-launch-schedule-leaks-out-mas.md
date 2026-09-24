@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Coyote Cove
+- Nova Lake
+- Razor Lake
+people:
+- Anton Shilov
+- Tom
+organisations:
+- AMD
+- Arctic Wolf
+- CPU
+- Get Tom's Hardware
+- Google News
+- HEDT
+- Hammer Lake
+- Intel
+- Intel's
+- Nova Lake-S
+- Razor Lake
+- Tom’s Hardware
+- bLCC
 ---
 
 ![13th Gen Raptor Lake CPU](https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d.jpg) 

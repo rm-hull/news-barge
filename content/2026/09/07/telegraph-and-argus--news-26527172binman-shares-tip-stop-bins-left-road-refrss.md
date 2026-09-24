@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- Getty
+- The Herald
 ---
 
 If you simply put your house number in the correct place, your bin will be returned to the correct place. (Image: Getty)

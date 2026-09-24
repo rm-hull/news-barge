@@ -12,6 +12,19 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21074695.jpg?type=og-image&xType=0&yType=67
+locations:
+- Darrington
+- J39
+- Popular York
+- Thirsk
+- Wentbridge
+- West Yorkshire
+people: []
+organisations:
+- A1
+- AA Traffic News
+- J40
+- YorkshireAirAmb
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Yellow Drawing Room
+people:
+- David Lascelles
+- Earl of Harewood
+- George Lascelles
+- Gottlob Berger
+- Mary
+- Molly Kelly
+- Trevor Nicholson
+organisations:
+- Cartier
+- Fabergé
+- Harewood House
+- Harewood House Trust
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e596653d0a21a7e3.jpg) 

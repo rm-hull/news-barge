@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Atlantic Ocean
+- Atlantic.
+- Cristobal
+- El Niño
+- Galveston
+- Hawaii
+- Lowell
+- Pacific
+- Sahara
+- Texas
+- US
+people:
+- Arthur
+- Bertha
+- Dolly
+organisations:
+- El Nino
+- El Niño
+- National Hurricane Center
+- National Oceanographic and Atmospheric Administration
+- Super El Niño
 ---
 
 ![The shoreline in Galveston, Texas during a tropical storm warning on June 17, 2026](https://ichef.bbci.co.uk/ace/standard/767/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png)

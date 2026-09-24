@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- China
+- Cincinnati
+- Flushing Meadows
+- Indian Wells
+- Kazakhstan
+- Madrid
+- Melbourne
+- Miami
+- New York
+- Rome
+people:
+- Annabel Croft
+- Anton Dubrov
+- Aryna Sabalenka
+- Coco Gauff
+- Diana Shnaider
+- Elena Rybakina
+- Hailey Baptiste
+- Jason Stacy
+- Jessica Pegula
+- Sara Bejlek
+- Serena Williams
+- Sorana Cirstea
+- Zheng Qinwen
+organisations:
+- Aryna Sabalenka
+- BBC Radio 5 Live
+- Rybakina
 ---
 
 ![Aryna Sabalenka clenches her fist after beating Jessica Pegula in the 2026 US Open semi-finals](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/38c4/live/bd4601d0-ae29-11f1-9093-3900149a77e4.jpg)

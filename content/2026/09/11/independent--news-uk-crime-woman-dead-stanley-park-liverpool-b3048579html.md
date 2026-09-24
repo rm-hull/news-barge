@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Anfield
+- Goodison Park
+- Liverpool’s Stanley Park
+- Stanley Park
+people:
+- John Fitzgerald
+organisations:
+- CCTV
+- Merseyside Police
+- Nike
 ---
 
 Police have been unable to identify a woman who was found dead in a black bin bag in Liverpool’s Stanley Park two weeks ago.

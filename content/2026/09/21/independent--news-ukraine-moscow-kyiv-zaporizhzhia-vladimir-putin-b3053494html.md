@@ -13,6 +13,32 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/10/CORRECTION_APTOPIX_Russia_Ukraine_War_55113.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- England
+- Leamington Spa
+- Moldova
+- Moscow
+- New York
+- Romania
+- Russia
+- U.S.
+- Ukraine
+- Zaporizhzhia
+- hub
+people:
+- Donald Trump
+- Kyiv
+- Maia Sandu
+- Stephen McGrath
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- General Assembly
+- Ministry of Defense
+- U.N
+- \_\_\_ AP
 ---
 
 Russian drones blasted Ukraine’s southern city of Zaporizhzhia, a day after Kyiv’s forces fired more than 1,000 drones at Russia, officials said Monday.

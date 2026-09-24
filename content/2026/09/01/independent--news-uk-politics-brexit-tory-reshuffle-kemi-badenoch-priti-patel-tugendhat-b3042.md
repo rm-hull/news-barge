@@ -12,6 +12,41 @@ image: https://static.independent.co.uk/2026/08/31/19/7f47e708dac435128b31703aca
 categories:
 - News & Politics
 - UK
+locations:
+- Brexit
+- China
+- East Anglia
+- England
+- Essex
+- Israel
+- London
+- UK
+people:
+- Boris Johnson
+- Brexit
+- Brexiteers
+- Dame Priti
+- Dame Priti Patel
+- Kemi Badenoch
+- Liz Truss
+- Margaret Thatcher
+- Ms Badenoch
+- Nigel Farage
+- Penny Mordaunt
+- Rishi Sunak
+- Theresa May
+- Tom Tugendhat
+organisations:
+- Brexit
+- Commons
+- Conservative Party
+- EU
+- European Convention of Human Rights
+- Labour
+- Lib Dems
+- Reform UK
+- Single Market or Customs Union
+- Tory
 ---
 
 Reshuffles are not just about putting different faces in different jobs but about changing the message of the party – and its policy – going forward.

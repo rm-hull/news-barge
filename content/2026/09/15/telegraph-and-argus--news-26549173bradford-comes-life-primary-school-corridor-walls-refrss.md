@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bradford
+- Saltaire
+- Shipley
+people:
+- Dave Draws
+- Sarah Hodge
+organisations:
+- Atlas Community Primary School
+- Green Lane Primary School
+- Margaret McMillan Primary School
+- Priestley Academy Trust
+- UNESCO World Heritage Site
 ---
 
 *(Image: Supplied)*

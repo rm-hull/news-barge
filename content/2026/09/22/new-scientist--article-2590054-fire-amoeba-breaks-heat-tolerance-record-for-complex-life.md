@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312960872.jpg
+locations:
+- Australia
+- California
+- Dead Sea
+- Lassen Volcanic National Park
+- New York
+- New Zealand
+- Taupō Volcanic Zone
+- US
+- Yellowstone National Park
+people:
+- Angela Oliverio
+- Bob Leung
+organisations:
+- Monash University
+- Syracuse University
 ---
 
 ![Incendiamoeba cell undergoing mitosis](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312960872.jpg?w=840)

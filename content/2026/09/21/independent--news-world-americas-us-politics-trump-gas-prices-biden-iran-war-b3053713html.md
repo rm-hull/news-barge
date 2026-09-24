@@ -12,6 +12,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/16/2295077500..?trim=0,107,0,107&width=1200&height=800&crop=1200:800
+locations:
+- Great Lakes
+- Iran
+- Michigan
+- Russia
+- Tennessee
+- Ukraine
+people:
+- Chris Wilson
+- Donald Trump
+- Joe Biden
+- Patrick De Haan
+organisations:
+- AAA
+- Center for Economic and Policy Research
+- Gas Buddy
+- TRUMP
+- Trump
+- Truth Social
+- Yahoo Finance.
 ---
 
 President Donald Trump is facing backlash from his own social media base after he said that fuel costs were “much higher” under his Democratic predecessor Joe Biden as the cost of his war in Iran continues to hurt Americans.

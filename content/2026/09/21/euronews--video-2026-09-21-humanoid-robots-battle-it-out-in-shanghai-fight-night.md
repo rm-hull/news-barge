@@ -13,6 +13,12 @@ categories:
 - Technology & Software
 - Science
 image: https://images.euronews.com/articles/stories/09/92/12/25/1200x675_cmsv2_b74d8029-19c2-5053-bea5-343c6193856e-9921225.jpg
+locations:
+- Shanghai
+people: []
+organisations:
+- AI
+- URKL
 ---
 
 Humanoid robots battled in Shanghai on Saturday at the first stop of the Ultimate Robot Knock-out Legend (URKL) national city tour.

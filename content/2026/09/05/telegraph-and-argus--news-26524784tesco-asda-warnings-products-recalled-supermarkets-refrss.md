@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Republic of Ireland
+- Skin Micellar Cleansing Water
+- UK
+people:
+- Bacon Coleslaw
+organisations:
+- '## Tesco'
+- ASDA
+- Asda Customer Relations
+- Bacon Coleslaw
+- Consumer Careline
+- FSA
+- Food Standards Agency
+- Ladies Handbags
+- OPSS
+- Office for Product Safety and Standards
+- Simple
+- Superdrug
+- Tesco Finest Caesar
+- Unilever’s Consumer Careline
 ---
 
 *(Image: Getty)*

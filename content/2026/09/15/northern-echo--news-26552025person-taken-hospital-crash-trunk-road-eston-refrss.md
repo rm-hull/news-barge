@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- A66
+- Church Lane
+- Eston
+- James Cook Hospital
+- Middlesbrough
+- Stockton
+- Teesside
+- Trunk Road
+people:
+- Matthew Blades
+organisations:
+- Cleveland Police
+- NEAS
+- North East Ambulance Service
+- Our Fire Brigade
 ---
 
 *(Image: Google Maps)*

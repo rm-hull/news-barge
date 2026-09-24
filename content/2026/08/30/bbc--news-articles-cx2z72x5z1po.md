@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Bandar Abbas
+- Bandar Abbas.
+- Gulf
+- Iran
+- Israel
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Donald Trump
+- Hossein Mohebbi
+- Kazem Gharibabadi
+- Tim Hawkins
+organisations:
+- BBC
+- CBS News
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Tasnim
+- US Central Command
 ---
 
 ![Large ships in the Strait of Hormuz are visible near the beach of Bandar Abbas.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg)

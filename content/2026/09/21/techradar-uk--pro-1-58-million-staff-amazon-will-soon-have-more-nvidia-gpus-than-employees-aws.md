@@ -12,6 +12,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/ABdYnex3UvLSEgFZqq9eSZ-2560-80.jpg
+locations:
+- US
+people:
+- Andy Jassy
+- Beth Galetti
+- Ian Buck
+- Rahim Amir
+- Rubin Ultra
+- Vera Rubin
+organisations:
+- AWS
+- Amazon Web Services
+- Blackwell Ultra
+- CFO
+- CloudTech News
+- GPU
+- Google News
+- Microsoft
+- NVL144
+- Nvidia
+- Omdia
+- PC
+- PCs
+- RGB
+- Reuters
+- Rubin Ultra GPUs
+- SFF
+- TechRadar Pro
 ---
 
 ![A hand holding a phone with the AWS logo in front of the AWS logo on an orange background](https://cdn.mos.cms.futurecdn.net/ABdYnex3UvLSEgFZqq9eSZ.jpg)

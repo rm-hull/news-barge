@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- Ottawa
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Joseph-Armand Bombardier
+organisations:
+- Bombardier
+- Canadair
+- Challenger
+- Gulfstream
 ---
 
 ## In January, Trump also threatened to decertify Bombardier aircraft as he raged against what he said was Canada's refusal to certify certain US-made Gulfstream planes.

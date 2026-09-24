@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Cmdr
+- Cyprus
+- Gaziantep
+- Girne
+- Isin
+- Kyrenia
+- Mersin
+- Republic of Turkey
+- Silifke
+- Tasucu
+people:
+- Filo Denizcilik
+- Huseyin Ozdemir
+- Nihat Balyemez
+- Nisa Torer
+- Ulas Cesur
+- Unal Ustel
+organisations:
+- Anadolu
+- Filo Denizcilik
+- Filo Jet
+- Kibris
+- TCG Isin
 ---
 
 A submersible vessel joined the search Tuesday for 20 people missing for two days following a ferry disaster off the coast of Cyprus.

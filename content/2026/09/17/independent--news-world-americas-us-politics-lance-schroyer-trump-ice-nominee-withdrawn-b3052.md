@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/06/29/20/2026-06-27T201855Z_1180175
 categories:
 - News & Politics
 - UK
+locations:
+- Oklahoma
+- U.S.
+- White House
+people:
+- David Venturella
+- Donald Trump
+- Lance Schroyer
+- Markwayne Mullin
+- Obama
+- Todd Lyons
+- Tom Homan
+- Veturella
+organisations:
+- DHS
+- Department of Homeland Security
+- Homeland Security
+- ICE
+- Marine Corps
+- Politico
+- Senate
+- U.S. Immigration and Customs Enforcement
+- WSJ
 ---
 
 The White House has pulled its controversial nomination of Lance Schroyer, a former Oklahoma state trooper, to lead U.S. Immigration and Customs Enforcement.

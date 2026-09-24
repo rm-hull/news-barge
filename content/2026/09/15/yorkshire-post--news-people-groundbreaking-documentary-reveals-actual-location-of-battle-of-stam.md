@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- East Riding of Yorkshire
+- England
+- Hastings
+- London
+- Low Catton
+- River Derwent
+- Stamford Bridge
+people:
+- Dan Snow
+- Harald Hardrada
+- Harold Godwinson
+- John Benfield
+- Simon Richardson
+- William the Conqueror
+organisations:
+- Battle of Stamford Bridge Heritage Society
+- British Museum
+- History Hit
 ---
 
 # Groundbreaking documentary reveals actual location of Battle of Stamford Bridge

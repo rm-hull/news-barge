@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Hollywood
+- London
+- UK
+people:
+- )* Wilmot
+- Alfred Enoch
+- Anthony
+- Damian Lewis
+- Emily Goldie Photography
+- Gal Gadot
+- Kev
+- Kevin Macdonald
+- Maia
+- Neville Longbottom
+- Noah Marten
+- Rory Wilmot
+organisations:
+- Articulate Drama School
+- Articulate Drama School and Agency
+- FBI
+- HBO
+- Harry Potter
+- Netflix
 ---
 
 A RISING young actor is making a name for himself on the big screen alongside some of Hollywood’s biggest stars.

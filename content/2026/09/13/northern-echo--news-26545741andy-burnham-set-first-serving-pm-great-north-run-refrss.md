@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Greater Manchester
+- Newcastle
+- South Shields
+people:
+- Andy Burnham
+- Ben Shepherd
+- Chris Kamara
+- Dan Burn
+- Joe Wicks
+- Rt Hon Andy Burnham
+organisations:
+- BBC
 ---
 
 Andy Burnham is set to become the first serving Prime Minister to take part in the Great North Run to raise money for a homelessness charity.

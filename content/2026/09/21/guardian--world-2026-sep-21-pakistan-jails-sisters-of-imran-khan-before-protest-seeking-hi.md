@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/096fcac3875728a28f87e585ac334a8c7b44589f/458_0_4583_3666/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be96c409f1b1f402b772c5e373c2dce5
+locations:
+- Bangladesh
+- Gulf
+- Islamabad
+- Lahore
+- London
+- Middle East
+- Nepal
+- Pakistan Tehreek-e-Insaf
+- Punjab
+- Sri Lanka
+people:
+- Aleema Khan
+- Field Marshall Asim Munir
+- Imran Khan
+- Mohsin Naqvi
+- Noreen Niazi
+- Rana Mudassir Umar
+- Uzma Khan
+- Waqas Akram
+organisations:
+- Guardian
+- PTI
 ---
 
 Three sisters of Pakistan’s incarcerated former prime minister Imran Khan have been arrested amid a heavy-handed government crackdown on plans for a nationwide protest to demand Khan’s release.

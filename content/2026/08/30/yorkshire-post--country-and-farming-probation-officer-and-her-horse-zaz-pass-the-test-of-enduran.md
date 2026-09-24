@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Crabtree Grange Farm
+- Doncaster
+- England
+- Great Houghton
+- Scotland
+- Thetford
+- Zaz
+people:
+- Covid
+- Emma Martin
+- Julie Martin
+- Vlacq Mr Pizzaz
+- Zaz
+organisations:
+- Barnsley
+- EHPS
+- Endurance GB Home Internationals
+- Endurance Horse and Pony Society
+- Northern Racing College
+- Zaz
 ---
 
 # Probation officer and her horse Zaz pass the test of endurance

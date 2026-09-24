@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21467091.jpg?type=og-image
+locations:
+- Durham
+- East Coast Main Line
+- Ferryhill
+- Heighington station
+- High Street
+- Hopetown
+- Middridge
+- Newton Aycliffe
+- North
+- Old Towns Quarry
+- Rochester Road
+- Shildon
+- Skerne
+- Stockton & Darlington Railway
+- Stockton station
+- Tornado
+people:
+- Dave Wilkin
+- Edward
+- John Dobbin
+- Sarah Caldecott
+- William the Conqueror
+organisations:
+- Facebook
+- Friends of the S&DR
+- Ghost Train
+- Northern Perspectives
+- Northern Perspectives'
 ---
 
 AS the year since the bicentenary of the Stockton & Darlington Railway was celebrated has flown by, we asked our regular photographic contributor, Northern Perspectives, whose drone flew alongside the replica of Locomotion No 1, to look back – or, more accurately, look down – on the recreation of the inaugural journey.

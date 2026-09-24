@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/6125f75bf9594fe29706d1d7aa5be8821c41d620/476_0_4760_3808/master/4760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62b1345c30fff3d036daba4eb673ed74
+locations:
+- Ekurhuleni
+- Johannesburg
+- KwaZulu-Natal
+- Pretoria
+- Sandton
+- South Africa
+- WhatsApp
+people:
+- Firoz Cachalia
+- Puleng Dimpane
+- Shadrack Sibiya
+- Vusimuzi ‘Cat’ Matlala
+organisations:
+- Madlanga Commission
+- News24
 ---
 
 One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls.

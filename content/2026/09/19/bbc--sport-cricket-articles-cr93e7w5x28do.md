@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c792/live/4301a7b0-b43e-11f1-8eb0-59fdbbab66e7.jpg
+locations:
+- Africa
+- Brook
+- Durham
+- England
+- India
+- Old TraffordSri Lanka
+- Sri Lanka
+people:
+- ):** Nissanka
+- Adil Rashid
+- Aneurin Donald
+- Buttler-Brook
+- Charith Asalanka
+- Dilshan Madushanka
+- Eshan Malinga
+- Harry Brook
+- Jacks
+- Jacob Bethell
+- Jamie Overton
+- Jofra Archer
+- Jos Buttler
+- K Mendis
+- Kamil Mishara
+- Kamindu Mendis
+- Lahiru Udara
+- Liam Dawson
+- Pathum Nissanka
+- Phil Salt
+- Sam Curran
+- Sonny Baker
+- Stephen Fleming
+- Tharindu Rathnayake
+- Tom Banton
+- Wanindu Hasaranga
+organisations:
+- England
+- Salt
 ---
 
 England thump Sri Lanka to sweep T20 series 3-0

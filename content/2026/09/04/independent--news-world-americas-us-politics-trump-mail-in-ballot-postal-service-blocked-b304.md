@@ -12,6 +12,15 @@ image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,
 categories:
 - News & Politics
 - UK
+locations:
+- Massachusetts
+people:
+- Donald Trump
+- Indira Talwani
+organisations:
+- Supreme Court
+- Trump
+- U.S. Postal Service
 ---
 
 A federal judge has blocked new mail-in ballot rules from the U.S. Postal Service that were ordered by Donald Trump after states and election officials warned that it would be “virtually impossible” to comply with changes that could spark chaos for voters in the middle of midterm elections.

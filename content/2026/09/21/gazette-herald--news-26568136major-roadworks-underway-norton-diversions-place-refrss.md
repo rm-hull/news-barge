@@ -13,6 +13,28 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21481621.jpg?type=og-image
+locations:
+- Church Street
+- Lakeside Way
+- Langton Road
+- NORTH Yorkshire
+- Newsquest
+- North of England
+- Norton
+- Park Road
+- Springfield Garth
+- St Nicholas Street
+- The Avenue
+- Welham Road
+people:
+- Cllr Duncan
+- Stewart Whitehead
+organisations:
+- NGN
+- NGN’s Customer Care Team
+- North Yorkshire Council
+- Northern Gas Networks
+- Site Manager
 ---
 
 *(Image: Newsquest)*

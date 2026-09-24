@@ -15,6 +15,18 @@ categories:
 - UK
 - Society & Culture
 - Health & Fitness
+locations: []
+people:
+- Ashton Collins
+- Christine Jardine
+- Ms Collins
+- Nora Nugent
+organisations:
+- British Association of Aesthetic Plastic Surgeons
+- Government
+- Save Face
+- WEC
+- Women and Equalities Committee
 ---
 
 Failure to swiftly outlaw untrained practitioners from offering dangerous cosmetic interventions such as liquid Brazilian butt lifts (BBLs) is "prolonging a significant risk to patient safety", MPs have warned.

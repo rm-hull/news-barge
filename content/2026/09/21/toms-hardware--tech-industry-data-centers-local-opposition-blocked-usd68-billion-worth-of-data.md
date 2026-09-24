@@ -15,6 +15,44 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5-1920-80.png
+locations:
+- AI
+- China
+- Hawaii
+- Hyperion
+- Israel
+- Mississippi
+- Mount Pleasant
+- U.S.
+- United States
+- Virginia
+- Wisconsin
+people:
+- Guy
+- Peter Thiel
+- Sam Altman
+- Tom
+- Trump
+organisations:
+- AI
+- AI.Rand0m
+- Amazon
+- Bloomberg
+- CCP
+- Capex
+- Data Center Watch
+- Elon Musk's Colossus 2
+- Entergy Louisiana
+- Etiido Uko
+- Get Tom's Hardware
+- Google Datacenter
+- Google News
+- LMAO!
+- Meta
+- Microsoft
+- OpenAI
+- PC
+- Tom's Hardware
 ---
 
 ![a &#039;No Data Center!&#039; sign at a protest](https://cdn.mos.cms.futurecdn.net/ZJHe5GD6PvvVnP72E7Miu5.png)

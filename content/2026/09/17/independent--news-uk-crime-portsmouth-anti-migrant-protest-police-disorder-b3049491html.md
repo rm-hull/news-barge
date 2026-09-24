@@ -10,6 +10,21 @@ image: https://static.independent.co.uk/2026/09/17/9/04/Hampshire-Split.jpg?trim
 categories:
 - News & Politics
 - UK
+locations:
+- Eastney Marina
+- Guildhall Square
+- Hampshire
+- Hayling
+- Isle of Wight
+- Paulsgrove
+- Portsmouth
+- Southampton
+people:
+- Del Somerville
+- Tony Rowlinson
+organisations:
+- Crimestoppers
+- Hampshire Police
 ---
 
 Police have released photos of four men they’d like to speak to after disorder at an anti-migrant protest on Sunday 6 September.

@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Miles
+- North Yorkshire
+- Scarborough
+- Whitby
+- York
+people:
+- Lottie
+- Steve Mason
+- William Easterby
+organisations:
+- Met Office
+- North Yorkshire Fire and Rescue Service
 ---
 
 FIRE crews are expected to remain at the scene of a major blaze at a farm in North Yorkshire ‘for some time’.

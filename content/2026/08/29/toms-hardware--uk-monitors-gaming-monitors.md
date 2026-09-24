@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people: []
+organisations:
+- AW2527HX
+- Acer
+- Alienware
+- Asus
+- Get Tom's Hardware
+- Samsung
 ---
 
 ## Explore Gaming Monitors

@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/FtgYPUYH2FARg7BAfsPMTi-1960-80.jpg
+locations:
+- London
+- US
+people:
+- Alistair
+- Eufy
+organisations:
+- Alistair Charlton
+- Digital Camera World
+- Eufy
+- Eufy’s E
+- Google News
+- Grand Designs Magazine
+- IFA
+- Omni E35
+- Scrub AI
+- TechRadar
+- The Independent
+- Wired
 ---
 
 ### TechRadar Verdict

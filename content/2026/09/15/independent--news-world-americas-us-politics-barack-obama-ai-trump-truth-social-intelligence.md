@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- U.S.A.
+- US
+people:
+- AI
+- Barack Obama
+- Dario Amodei
+- Kamala Harris
+- Musk
+- Sam Altman
+- Trump
+organisations:
+- 44th
+- A.I.
+- AI
+- Anthropic
+- Grok’s Elon Musk
+- OpenAI
+- Truth Social
 ---
 
 Barack Obama has weighed in on the dangers of artificial intelligence just a day after President Trump said that he could serve as a “guardrail.”

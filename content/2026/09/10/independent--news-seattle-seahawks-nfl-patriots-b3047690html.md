@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people: []
+organisations:
+- NFL
+- New England Patriots
+- Seattle Seahawks
 ---
 
 Photos of the NFL season opener, a rare Super Bowl rematch between the Seahawks and Patriots

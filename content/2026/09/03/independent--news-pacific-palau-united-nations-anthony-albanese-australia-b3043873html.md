@@ -14,6 +14,40 @@ categories:
 - UK
 - History
 - Travel
+locations:
+- Australia
+- Beijing
+- China
+- Earth
+- Melbourne
+- Melekeok
+- New Zealand
+- Pacific Island
+- Pacific Ocean
+- Palau
+- Paris
+- Taipei
+- Taiwan
+- Tonga
+- Tuvalu
+- Vanuatu
+people:
+- Anthony Albanese
+- Bol Sebalt
+- Fatafehi Fakafanua
+- Maina Talia
+- Melekeok
+- Ralph Regenvanu
+- Rod McGuirk
+- Surangel Whipps Jr.
+- Vanuatu
+organisations:
+- Forum
+- PRF
+- Pacific Resilience Facility
+- SPC
+- The Associated Press
+- United Nations
 ---
 
 When stormy seas batter Melekeok state on Palau’s biggest island, the Pacific Ocean floods right into people’s homes.

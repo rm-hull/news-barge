@@ -12,6 +12,31 @@ image: https://i.guim.co.uk/img/media/7be32d2dd4a0d762a8cfcf52aa5d0a4bb524f54d/7
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- Washington
+people:
+- Arlene Blum
+- Lakendra Barajas
+- Maria Doa
+- Michael Dourson
+- Penny Fenner-Crisp
+organisations:
+- ACC
+- American Chemistry Council
+- EPA
+- Earthjustice
+- Environmental Defense Fund
+- Environmental Protection Agency
+- Environmental Protection Network
+- Green Science Policy Institute
+- International Agency for Research on Cancer
+- Science Advisory Committee on Chemicals
+- TBBPA
+- Tera
+- Toxicology Excellence for Risk Assessment
+- Trump
+- US Consumer Product Safety Commission
 ---
 
 The Environmental Protection Agency is manipulating safety data around a highly toxic flame retardant deployed across the US economy, public health advocates allege.

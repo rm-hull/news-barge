@@ -10,6 +10,19 @@ description: Reviews Recap — our top-rated gadgets for September
 image: https://cdn.mos.cms.futurecdn.net/qN4Ustj7ndKNkuXCtGcDAf-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- DJI
+- Galaxy Z Fold
+- Google News
+- Marshall
+- Mic 3
+- Ruth
+- Samsung
+- TechRadar
+- Ultra
 ---
 
 ![DJI mic, Xiaomi phone and Marshall speaker in the hands of reviewers](https://cdn.mos.cms.futurecdn.net/qN4Ustj7ndKNkuXCtGcDAf.jpg) 

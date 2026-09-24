@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bunge
+- Dnipro
+- Dnipropetrovsk
+- Kyiv
+- Moscow
+- Pavlohrad
+- Russia
+- Sumy
+- Ukraine
+- Zaporizhzhia
+people:
+- Andrii Sybiha
+- Sergii Koretskyi
+- Volodymyr Zelensky
+organisations: []
 ---
 
 At least five people were killed and 67 others were injured as Russian drones hit a shopping mall in Pavlohrad, Ukrainian authorities have said.

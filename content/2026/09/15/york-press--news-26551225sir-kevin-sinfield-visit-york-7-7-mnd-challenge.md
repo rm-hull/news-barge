@@ -13,6 +13,33 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bishopthorpe Palace
+- DIY Kitchens Stadium
+- LNER Community Stadium
+- Manchester
+- Market Weighton
+- North of England
+- Old Trafford
+- Shiptonthorpe
+- Wakefield Trinity
+- York Minster
+- York Minster and York Racecourse
+people:
+- Danny Lawson
+- Danny Lawson PA Wire
+- Haydn Lewis
+- Kevin Sinfield
+- Rob Burrow
+- Stephen Cottrell
+organisations:
+- Hull KR
+- Leeds Rhinos
+- MND
+- Oxen Sports
+- PA Wire
+- University of York
+- York Knights
 ---
 
 *(Image: PA/ Danny Lawson)*

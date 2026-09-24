@@ -12,6 +12,32 @@ image: https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Amazon
+- Arizona
+- California
+- Illinois
+- John Deere
+- Missouri
+- Santa Clara
+- US
+- Wall Street
+people:
+- Jahmy Hindman
+- Jared Wilson
+- John Deere
+- Kelli Sullivan
+- Willie Cade
+organisations:
+- '## Oh Deere John Deere'
+- AI
+- FTC
+- JD
+- Operations Center
+- Pro Service
+- Repair.org
+- US Federal Trade Commission
+- WIRED
 ---
 
 There is something wrong with the tractor. The water-in-fuel sensor, a small device embedded in the John Deere machine that monitors the integrity of its diesel engine, is disconnected. And I’ve got to fix it.

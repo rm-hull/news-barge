@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cardiff
+- England
+- Greater Manchester
+- London
+- Northern Ireland
+- Scotland
+- Senedd
+- UK
+- United Kingdom
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Ap Iorwerth
+- John Swinney
+- Keir Starmer
+- Michelle O’Neill
+- Nigel Farage
+- Plaid
+- Rhun ap Iorwerth
+- Stephen Kinnock
+- ap Iorwerth
+organisations:
+- Ap Iorwerth
+- Commission
+- Guardian
+- Labour
+- Plaid Cymru
+- Reform UK
+- Scottish National party
+- Senedd
+- Sinn Féin
+- Telegraph
 ---
 
 Andy Burnham has to be serious about devolution and understand that Wales is a nation and “not a region in England”, according to the country’s first minister.

@@ -12,6 +12,18 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309686906.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Alessandro Gandolfi
+- Amsterdam
+- IJburg
+- Lake IJmeer
+- Netherlands
+- Philippines
+- Vietnam
+- Zeeburgerbaai
+people:
+- Alessandro Gandolfi
+organisations: []
 ---
 
 ![Houses built on the water in the Zeeburgerbaai area of Lake IJmeer. About one and a half metres above the water, two concrete platforms overlooking the bay accommodate dozens of houses, connected to the mainland by two bridges.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309686906.jpg?w=840)

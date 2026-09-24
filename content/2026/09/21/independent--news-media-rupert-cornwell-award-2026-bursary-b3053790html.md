@@ -12,6 +12,31 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2021/10/11/17/Rupert%20by%20his%20car%2C%20parked%20just%20off%20Red%20Square%2C%20May%201%201987.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Albania
+- Britain
+- Canada
+- Ceuta
+- Europe
+- Georgia
+- Melilla
+- Mexico
+- North America
+- Soviet Union
+- UK
+- US
+people:
+- Eleanor Myers
+- Lemma Shehadi
+- Rachel Savage
+- Rupert
+- Sam McIlhagga
+- Susan Cornwell
+- Thomas Graham
+organisations:
+- Reuters
+- Rupert Cornwell Trust
+- The Independent
 ---
 
 The Independent, in association with the Rupert Cornwell Trust, has opened applications for its annual award to honour the memory of one of our longest-serving foreign correspondents, who was one of the most distinguished in the business.

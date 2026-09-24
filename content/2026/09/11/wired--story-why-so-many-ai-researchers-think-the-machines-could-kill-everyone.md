@@ -11,6 +11,25 @@ image: https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+people:
+- AI
+- Daniel Kokotajlo
+- Jacob Coxon
+- Kokatajlo
+- Nate Soares
+- Rishub Jain
+organisations:
+- AI
+- Anthropic
+- Google DeepMind
+- MIRA
+- OpenAI
+- Recursive Intelligence
+- Sampura Research
+- WIRED
+- ex-Google DeepMind
 ---
 
 Earlier this year, Rishub Jain left his position as an artificial intelligence researcher at Google DeepMind after a revelation.

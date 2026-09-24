@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- A York
+- Beautiful’ York
+- Driffield Terrace
+- Mount
+- Yorkshire
+people:
+- Churchills
+organisations:
+- Churchills
+- Zoopla
 ---
 
 A York flat with a hidden roof terrace has hit the market.

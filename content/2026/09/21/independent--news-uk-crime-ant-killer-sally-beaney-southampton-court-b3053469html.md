@@ -12,6 +12,18 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/9/17/1121238359-96f2eb68.jpeg?trim=26,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Hants
+- Southampton Crown Court
+people:
+- Edward Armitage
+- Gaylene Coles
+- Lucy
+- Matthew Perry
+- Nicholas Rowland
+- Sally Beaney
+organisations:
+- Southampton Crown Court
 ---
 
 A pensioner has avoided jail after spraying ant-killer into her terminally ill neighbour's eyes in a row over parking.

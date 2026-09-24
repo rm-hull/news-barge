@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Dormanstown
+people:
+- Alex O'Leary
+organisations: []
 ---
 
 - Welcome to The Northern Echo's live breaking news blog on a 'stab attack' in Dormanstown.

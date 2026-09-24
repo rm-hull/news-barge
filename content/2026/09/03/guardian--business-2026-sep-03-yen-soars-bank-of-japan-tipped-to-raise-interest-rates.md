@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Jackson Hole
+- Japan
+- UK
+people:
+- Atsushi Mimura
+- Hajime Takata
+- Kevin Warsh
+- Nigel Green
+- deVere
+organisations:
+- Bank of Japan
+- BoJ
+- Citi
+- Fed
+- US Federal Reserve
 ---
 
 The Japanese yen has soared by more than 1.7% against the dollar amid speculation the Bank of Japan is set to raise interest rates.

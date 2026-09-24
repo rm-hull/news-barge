@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Christian Cawley
+organisations:
+- Computer Weekly
+- ComputerActive
+- Google News
+- Intel
+- Intel’s
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

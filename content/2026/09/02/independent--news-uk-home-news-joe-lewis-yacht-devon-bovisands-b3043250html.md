@@ -12,6 +12,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Aviva
+- Bovisands Lodge Holiday Park
+- Bridgwater
+- Cayman Islands
+- Cedar Park
+- Devon
+- Gibraltar
+- Jennycliff and Staddon Heights
+- Monaco
+- Plymouth Sound
+- Somerset
+people:
+- Bovisands
+- Jennycliffe
+- Joe Lewis
+- Me
+- Reymond Langton
+- Sandra Hunter
+organisations:
+- Abeking & Rasmussen
+- Aviva
+- Bank Holiday
+- ENIC Group
+- Spurs
+- Tavistock Group
+- Tottenham Hotspur Football Club
 ---
 
 Billionaire Joe Lewis has been accused of "blocking" the sea view for holidaymakers after docking his £200million super yacht in front of two family resorts.

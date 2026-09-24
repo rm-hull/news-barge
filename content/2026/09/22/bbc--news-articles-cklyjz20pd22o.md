@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1697/live/5ebd8b80-b372-11f1-9023-9990160baacc.jpg
+locations:
+- BBC
+- Bristol
+- Britain
+- Cardiff
+- Dalston
+- Dundee
+- Edinburgh
+- England
+- Leeds
+- Liverpool
+- London
+- Manchester
+- Newcastle
+- Northern Ireland
+- Scotland
+- Somerset House
+- UK
+- Wales
+- Westfield Stratford City
+people:
+- Charles Jeffrey
+- Imarnie Bennett
+- Potter
+- Priya Ahluwalia
+- Sean Pajarillo
+organisations:
+- BBC Newsbeat
+- BCU
+- Birmingham City University
+- British Fashion Council
+- Fashion Britain
+- House of Commons
+- LFW
+- London Fashion Week
+- Loverboy
+- Natalie Potter
 ---
 
 ![Models backstage during London Fashion Week in September 2026 . There are five models waiting under an arch, wearing an assortment of outfits with a pink and checkered theme.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/1697/live/5ebd8b80-b372-11f1-9023-9990160baacc.jpg)

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Harrogate Valley Gardens
+- Knaresborough Castle
+- North Yorkshire
+people:
+- Jackie Crozier
+- Janine Calvert
+organisations:
+- Beau Pens
+- Harrogate Valley Gardens
+- Knareborough Artisan Market
+- Little Bird Made
 ---
 
 A weekend of outdoor artisan markets is set to celebrate the start of autumn with a showcase of handmade goods.

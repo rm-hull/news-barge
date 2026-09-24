@@ -16,6 +16,26 @@ categories:
 - York
 - News & Politics
 - History
+locations:
+- Birmingham
+- Hong Kong
+- National Exhibition Centre
+- Thailand
+- UK
+- US
+people:
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Nigel Farage
+- Philip Rycroft
+- Stefan Rousseau
+organisations:
+- Labour
+- PA Wire
+- Reform UK
+- Yorkshire Post
 ---
 
 # Record-breaking £72m donations to Reform will change British politics: The Yorkshire Post says

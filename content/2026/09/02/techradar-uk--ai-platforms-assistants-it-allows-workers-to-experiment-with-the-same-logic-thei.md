@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- China
+- New York City
+people:
+- Duolingo
+- Eric Hal Schwartz
+organisations:
+- '## Human accountability OpenExecutive'
+- '## Org'
+- AI
+- Claude
+- Google Gemini
+- Google News
+- TechRadar
+- Voicebot.ai
 ---
 
 ![Guest Robots are seen during the world's robots competition in China in 2021](https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa.jpg) 

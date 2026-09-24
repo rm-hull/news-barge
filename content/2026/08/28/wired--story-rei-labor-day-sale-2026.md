@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations:
+- Denali
+- Jetboil
+- Jetboil's Stash
+- US
+people:
+- Coleman
+- Jetboil
+organisations:
+- Backcountry
+- Big Agnes
+- Coleman
+- Deluxe
+- Garmin
+- Insta360
+- Jetboil
+- MSR Guardian
+- Mountain Hardwear
+- Nemo Equipment
+- REI Co-op
+- REI Outlet
+- Smartwool
+- X5
 ---
 
 REI's annual Labor Day Sale has come to feel like the end of summer to me. This year’s event kicks off on August 28 and ends on Labor Day, September 7. Many items are up to 40 percent off, and REI Co-op members save up to 20 percent on any REI Outlet item.

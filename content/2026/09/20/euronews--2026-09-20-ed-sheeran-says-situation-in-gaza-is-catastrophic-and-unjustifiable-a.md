@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/01/64/1200x675_cmsv2_b7fdbcb8-d9b6-5ff6-a2d7-603c32e5141a-9920164.jpg
+locations:
+- Free Palestine
+- Gaza
+- Israel
+- Lincoln Financial Field
+- New Jersey
+- Pennsylvania
+- Philadelphia
+- South America
+- Stroudsburg
+- US
+people:
+- Aaron Rowe
+- Billie Eilish
+- Diane Savitz
+- Ed Sheeran
+- Finneas
+- Hillary Steinberg
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Beoga
+- New England Patriots
 ---
 
 ## The English singer-songwriter opened his show sharing his opinions on Gaza, noting that while 7 October attacks were horrific, the Israeli response which killed countless women and children was “catastrophic” and “disproportionate”.

@@ -14,6 +14,66 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/16604347.jpg?type=og-image
+locations:
+- '### Darlington Arena'
+- Abbey Road
+- Aldi Warehouse
+- Aycliffe Village
+- Bishopton
+- Carlton
+- Cockerton Village
+- County Durham
+- Crook
+- Darlington Arena
+- Darlington Rail Station
+- Durham Road
+- Faverdale Grange
+- Great Stainton
+- Heighington
+- High Grange
+- Hummersknott
+- Letch Lane
+- Little Stainton
+- Middlesbrough
+- Mowden
+- Neasham Road
+- Newton Aycliffe
+- Newton Aycliffe Rail Halt
+- North Tees Hospital
+- Old Stillington
+- Redmarshall
+- Riverside Park
+- Sadberge
+- School Aycliffe
+- Skerne Park
+- Spennymoor
+- Stockton High Street
+- Tindale Crescent
+- Tornado Way
+- West Park
+- West Park Hospital
+- Westgate Crescent
+- Whinfield
+- Whitton
+people:
+- Crook
+- Hummersknott
+- John Fowler Way
+organisations:
+- '### Faverdale'
+- '### New Services'
+- 87 New Services
+- Arriva
+- BBC Lowest
+- Geneva Crescent
+- New College
+- Newton Aycliffe
+- Queen Elizabeth College
+- Service 7
+- THE NORTHERN ECHO
+- Tees Valley Combined Authority
+- Tow Law
+- X66
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- Gulf
+- Hormuz
+- Iran
+- UK
+- US
+people:
+- Lauri Myllyvirta
+- Muyi Yang
+organisations:
+- Centre for Research on Energy and Clean Air
+- Ember
+- National Bureau of Statistics
 ---
 
 China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to a sharp reduction in oil consumption and a steady rise in the use of electric vehicles and public transport, analysis shows.

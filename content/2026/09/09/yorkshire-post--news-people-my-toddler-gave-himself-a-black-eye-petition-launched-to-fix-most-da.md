@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- '##'
+- Crosland Moor
+- Huddersfield
+- Kirkburton
+- North of England
+- Rashcliffe Park
+- Victoria Road Mosque
+people:
+- Coun Safdar
+- Crosland Moor
+- Imran Safdar
+- Pip Harvey
+organisations:
+- Green Party
 ---
 
 # 'My toddler gave himself a black eye' - Petition launched to fix 'most dangerous park in the north of England'

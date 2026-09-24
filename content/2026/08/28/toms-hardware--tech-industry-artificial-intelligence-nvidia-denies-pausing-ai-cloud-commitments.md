@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Mount Pleasant
+- Wisconsin
+people:
+- Anton Shilov
+- Colette Kress
+- Tom
+organisations:
+- AI Compute Partners'
+- AI Compute Partnership
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- NeoCloud
+- Nvidia
+- Securities and Exchange Commission
+- Tom's Hardware
+- Tom’s Hardware
+- WSJ
+- Wall Street Journal
 ---
 
 ![Nvidia logo](https://cdn.mos.cms.futurecdn.net/dRrumQbyPzGfGLECutnkSU.jpg) 

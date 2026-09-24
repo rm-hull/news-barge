@@ -12,6 +12,19 @@ description: The Xteink X4 Pro is a truly tiny ereader with some great features,
 image: https://cdn.mos.cms.futurecdn.net/c78JKv7bzH9Dnr59Rpsh2A-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- AiPaper Reader
+- Clarity Media
+- CrossInk
+- DRM
+- Google News
+- TechRadar
+- USB-C
+- Xteink
 ---
 
 ![A hand holding the Xteink X4 Pro next to the device on a wooden table](https://cdn.mos.cms.futurecdn.net/c78JKv7bzH9Dnr59Rpsh2A.jpg) 

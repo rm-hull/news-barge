@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- A174 Kilton Lane
+- Alford Road
+- Brotton
+- Kilton Lane
+- Landsdowne Road
+- Redcar
+- Yorkshire
+people:
+- Barry Hunt
+- Chris Dodds
+- Claire Griffiths
+- Graham Cutler
+- Skelton
+organisations:
+- Brotton Parish Council
+- Cleveland Council
+- Gleeson Regeneration Limited
 ---
 
 # Brotton: Almost 90 new homes to be built on farmland near Yorkshire coastal village

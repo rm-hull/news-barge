@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Ilkley Town Hall
+people:
+- Ian Walker
+organisations:
+- Bradford Council
+- Ilkley Parish Council
+- UGC)* Ilkley Library
+- Visitor Information Centre
 ---
 
 *(Image: UGC)*

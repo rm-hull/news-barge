@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- El Niño
+- Europe
+- Iran
+- North Sea
+- Pacific Ocean
+- Russia
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Chris O'Shea
+- Craig Lowrey
+- Hamad Hussain
+- Ángel Talavera
+organisations:
+- BBC
+- British Gas
+- Capital Economics
+- Centrica
+- Cornwall Insight
+- DESNZ
+- Department for Energy Security and Net Zero
+- El Niño
+- LinkedIn
+- Ofgem
+- Oxford Economics
 ---
 
 ![A picture of a woman in a red t shirt and jeans leaned back on a sofa checking her energy consumption on a mobile app.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e55d/live/76f88ba0-a792-11f1-b64a-71b1e45ff5c7.jpg)

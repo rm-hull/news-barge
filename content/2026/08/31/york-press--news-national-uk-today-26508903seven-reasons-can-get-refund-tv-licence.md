@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Technology & Software
+locations: []
+people: []
+organisations:
+- ARC
+- BBC iPlayer
+- Licensing Authority
+- TV Licensing
 ---
 
 *(Image: Getty)*

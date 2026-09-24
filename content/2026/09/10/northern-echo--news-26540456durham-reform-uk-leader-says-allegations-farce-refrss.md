@@ -12,6 +12,52 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- CHRIS BOOTH
+- Chester-le-Street
+- County Durham
+- Easington
+- Lower Teesdale
+- Peterlee
+- Seaham
+- Sedgefield
+- Shildon
+- West Auckland
+people:
+- Andrew Harrison
+- Andrew Husband
+- Andrew Kilburn
+- Benfieldside
+- Cllr Hope
+- Cllr Husband
+- Crook
+- David Cumming
+- Dawdon
+- Dawn Saunders
+- Delves Lane
+- Ian Catchpole
+- Jack McGlenen
+- Jasmine Fox
+- John Bailey
+- Kate Rowland
+- Kenny Hope
+- Michael Ramage
+- Murton
+- Nick Brown
+- Nigel Farage
+- Paul Bean
+- SARAH CALDECOTT
+- Shotton
+organisations:
+- Advance UK
+- Delves Lane
+- Durham County Council
+- Durham HMO
+- Durham High School
+- Independent
+- Northern Echo
+- Reform UK
+- Sky News
 ---
 
 *(Image: SARAH CALDECOTT)*

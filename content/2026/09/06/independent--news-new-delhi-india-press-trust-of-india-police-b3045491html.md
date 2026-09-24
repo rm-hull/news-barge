@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- India
+- New Delhi
+- Satya Niketan
+people:
+- Anil Sharma
+organisations:
+- Delhi University
+- Press Trust of India
 ---
 
 A building collapsed in New Delhi on Sunday, killing at least one person and trapping several others, officials said.

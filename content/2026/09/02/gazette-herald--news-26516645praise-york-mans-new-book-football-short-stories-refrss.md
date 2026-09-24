@@ -14,6 +14,19 @@ categories:
 - York
 - Arts & Culture
 - Books & Literature
+locations:
+- A York
+- High Petergate
+- Museum Street
+people:
+- Gary Imlach
+- John Wheatcroft
+- Jonathan Wilson
+- Lucy Worsley
+organisations:
+- Little Apple
+- Newsquest
+- York Explore Library
 ---
 
 *(Image: John Wheatcroft)*

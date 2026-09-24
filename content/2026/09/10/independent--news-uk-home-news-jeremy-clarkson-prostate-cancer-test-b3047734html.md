@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Barbican Medical Centre
+- Europe
+- London
+- UK
+people:
+- Colin McFarlane
+- Jeremy Clarkson
+- Lord David Cameron
+- Nick Jones
+- Rishi Sunak
+- Stephen Fry
+- Steve McQueen
+- Yvette Cooper
+organisations:
+- Central London Healthcare
+- Daily Mail
+- GP
+- NIHR
+- National Institute for Health and Care Research
+- Nuffield Health
+- PSA
+- Prostate Cancer UK
+- Stockholm3
+- UK National Screening Committee
 ---
 
 Men in London will be able to access a £99 prostate cancer test that is thought to be more effective than the NHS standard PSA detection.

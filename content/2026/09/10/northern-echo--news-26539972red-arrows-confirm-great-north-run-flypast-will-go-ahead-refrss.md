@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Belgium
+- Great North Run
+- Newcastle
+- Sanicole
+- South Shields
+people:
+- GAVIN ENGELBRECHT
+organisations:
+- BBC One
+- BBC Three
+- Guernsey Air Display
+- RAF
+- Red Arrows
 ---
 
 *(Image: GAVIN ENGELBRECHT)*

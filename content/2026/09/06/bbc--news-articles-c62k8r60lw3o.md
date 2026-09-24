@@ -11,6 +11,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cobham
+- Ford Focus
+- Gravesend
+- Sole Street
+people: []
+organisations:
+- BBC Radio Kent
+- Kent Police
 ---
 
 ![Flashing police lights.](https://ichef.bbci.co.uk/ace/standard/600/cpsprodpb/e0d7/live/2b7ef7e0-aa21-11f1-8046-e7e0d3946c1a.jpg)

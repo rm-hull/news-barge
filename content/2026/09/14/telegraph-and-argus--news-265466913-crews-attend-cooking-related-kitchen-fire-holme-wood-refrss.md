@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Holme Wood
+- St Margarets Avenue
+people: []
+organisations:
+- Telegraph & Argus
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Telegraph & Argus)*

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Earth
+- Italy
+- Netherlands
+- Piacenza
+- Switzerland
+people:
+- Edoardo Puglisi
+- Esperanza Huerta Lwanga
+organisations:
+- Catholic University of the Sacred Heart
+- Countryside and Community Research Institute
+- Minagris
+- University of Gloucestershire
+- Wageningen University
 ---
 
 Microplastics act like a “Trojan horse” delivering pollutants, pesticides and bacteria through the soil, a five-year multinational research project has found.

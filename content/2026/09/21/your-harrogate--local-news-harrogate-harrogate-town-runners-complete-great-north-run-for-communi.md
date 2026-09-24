@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://mmo.aiircdn.com/409/6ab0daa64ebb51d435d.jpg
+locations:
+- England
+- Harrogate
+- Newcastle
+- South Shields
+people:
+- Aaron Philps
+- Dan Burn
+- Jon Vangorph
+- Lizzie Vangorph
+- Oliver Aksoy
+- Rose Haigh
+- Seb Henry
+organisations:
+- Community Foundation
+- Harrogate Town AFC Community Foundation
+- Newcastle United
+- Red Arrows
+- Seb
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0daa64ebb51d435d.jpg)

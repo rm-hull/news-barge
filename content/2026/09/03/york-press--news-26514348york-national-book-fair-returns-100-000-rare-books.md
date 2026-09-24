@@ -11,6 +11,34 @@ categories:
 - Local
 - York
 - History
+locations:
+- Britain
+- California
+- London
+- Memorial Gardens
+- Pixabay
+- Railway Street
+- UK
+- York Racecourse
+- Yorkshire
+people:
+- George Orwell
+- James Freemantle
+- Ken Spelman
+- Lawrence
+- Roland Belgrave
+- Son Bindery
+- W. H. Smith
+organisations:
+- Ashton Rare Books
+- Grimes Hill Books
+- Homer
+- M J Books
+- Provincial Booksellers Fairs Association
+- Rooke Books
+- T.E
+- York Book Fair
+- York National Book Fair
 ---
 
 *(Image: Pixabay)*

@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Gulf
+- Iran
+- Iraq
+- Jordan
+- Kuhestak
+- Kurdistan
+- Kuwait
+- Middle East
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Washington
+- White House
+people:
+- Ahmad Vahidi
+- Ayatollah Ali Khamenei
+- Donald Trump
+- JD Vance
+- Tim Hawkins
+organisations:
+- Ahmad al-Jaber Air Base
+- Al Minhad Air Base
+- CENTCOM
+- IRGC
+- Iranian Red Crescent
+- Revolutionary Guards
+- US Central Command
 ---
 
 ## Oil prices again spiked this week after a few weeks of relative stability following the renewed fighting as Iran continues to maintain a stranglehold over the strategic Strait of Hormuz, responsible for roughly 20% of global oil shipping.

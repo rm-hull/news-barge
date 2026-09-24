@@ -12,6 +12,24 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB-1920-80.png
+locations:
+- China
+- Earth
+- Gigasat
+people:
+- Tom
+organisations:
+- AI
+- AI1
+- CAS Space
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- PC
+- S-AIDC
+- Space Computing Industry Innovation Center
+- SpaceX
+- Tom's Hardware
 ---
 
 ![satellite beams down sunlight from space](https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB.png)

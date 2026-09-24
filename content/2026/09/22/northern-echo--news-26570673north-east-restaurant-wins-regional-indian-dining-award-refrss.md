@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21485410.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bombay
+- Delhi
+- Gateshead
+- Goa
+- Kerala
+- London
+- Newcastle
+- North East
+- North India
+- RAVAL
+- Tamil Nadu
+- The Edwardian Manchester
+- Tyne Bridge
+- UK
+people:
+- Nas Islam
+- Raval
+organisations:
+- '![]()Raval Indian Brasserie & Bar'
+- Pride of Britain National Innovation Centre for Data
+- RAVAL
+- Raval Indian Brasserie & Bar
+- Sunderland FC
 ---
 
 *(Image: RAVAL)*

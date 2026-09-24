@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Econ Engineering
+- Lease and Hire of Specialist Vehicles Framework
+- NY Highways
+- NY Highways’
+- North Yorkshire Council
+- YPO Purchase
 ---
 
 A multimillion-pound deal to replace gritters and other winter maintenance vehicles used on North Yorkshire’s roads is set to be approved, following preparations for winter road treatment across the county.

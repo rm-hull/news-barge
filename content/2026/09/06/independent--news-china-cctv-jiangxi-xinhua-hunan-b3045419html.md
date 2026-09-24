@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China Jiangxi Mudslide
+- Fujian Province
+- Hunan
+- Saudel
+- Suichuan County
+- Xinhua
+- Zhejiang Province
+people:
+- Saudel Bookmark
+organisations:
+- CCTV
+- Xinhua
 ---
 
 Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel

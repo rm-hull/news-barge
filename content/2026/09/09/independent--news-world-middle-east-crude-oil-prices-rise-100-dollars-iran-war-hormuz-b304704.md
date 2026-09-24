@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Abha Bulk
+- France
+- Germany
+- Gulf
+- Iran
+- Jazan
+- London
+- Middle East
+- Saudi Arabia
+- Saudi Aramco
+- US
+- Yemen
+people:
+- Trump
+organisations:
+- ECB
+- European Central Bank
+- London Stock Exchange-compiled
+- MAGA!
+- Reuters
+- US Navy
 ---
 
 The price of oil crossed the $100 a barrel mark for the first time since July as continued chaos in the Middle East spooked the market.

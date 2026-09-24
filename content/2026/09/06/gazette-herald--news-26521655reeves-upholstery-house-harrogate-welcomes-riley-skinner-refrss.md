@@ -14,6 +14,22 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Harrogate
+- North Yorkshire
+- Reeves Upholstery House
+people:
+- Dad
+- Ken
+- Mark Skinner
+- Michaela Reeves
+- Riley Skinner
+organisations:
+- Ebru Evrim Roberts of Harrogate
+- FK Building Ltd of Harrogate
+- Harrogate Brewing Company
+- Pic
+- Reeves Upholstery House
 ---
 
 A Harrogate family firm known for its luxury furniture is welcoming a new apprentice and the next generation of craftsmanship.

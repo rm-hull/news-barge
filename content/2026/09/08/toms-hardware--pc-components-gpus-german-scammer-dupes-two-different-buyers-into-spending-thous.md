@@ -13,6 +13,20 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Germany
+people:
+- Roman “der8auer” Hartung
+- Tom
+organisations:
+- Blackwell
+- Get Tom's Hardware
+- Google News
+- Hardwareluxx
+- Nvidia
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![GeForce RTX graphics card](https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM.jpg) 

@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - True Crime
 - Business & Entrepreneurship
+locations:
+- DC.
+- Florida
+- Kirk
+- Orem City Center Park
+- Tennessee
+- U.S.
+- US
+- Utah
+- Washington
+- White House
+people:
+- Brittney Brown
+- Charlie Kirk
+- Charlie Kirk.
+- Darren Michael
+- Davis Ingle
+- Donald Trump
+- Gerald Bourguet
+- JD Vance
+- Jeb Jacobi
+- Jordan Pace
+- Karen Attiah
+- Larry Bushart
+- Laura Loomer
+- Tamar Shirinian
+organisations:
+- Austin Peay State University
+- BBC
+- Delta Air Lines
+- Fish and Wildlife Conservation Commission
+- JD Vance
+- Office Depot
+- PHNX Sports
+- Reuters
+- South Carolina House of Representatives
+- The Washington Post
+- Turning Point USA
+- University of Tennessee
+- Utah Valley University
+- White House Briefing Room
 ---
 
 Watch: These Americans were fired for posting about Charlie Kirk

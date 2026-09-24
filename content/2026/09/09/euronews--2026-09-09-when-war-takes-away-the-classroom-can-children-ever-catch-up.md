@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Education & Learning
 - Family & Parenting
+locations:
+- Gaza
+- Gulf
+- Qatar
+- Sudan
+- Ukraine
+people:
+- Maleiha Malik
+organisations:
+- Above All Foundation
+- COVID
+- Education Under Attack
+- Euronews
+- UN
 ---
 
 ## Attacks on education have surged worldwide. Education Above All Foundation's Dr Maleiha Malik says keeping children learning is possible, but conflict-caused damage cannot be undone easily.

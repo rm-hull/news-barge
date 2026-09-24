@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/09/23/Brazil_Lula_Justice_93173.
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Caribbean
+- Iran
+- Israel
+- Latin America
+- Middle East
+- Rio de Janeiro
+- Strait of Hormuz
+- U.S.
+people:
+- Armando Castelar Pinheiro
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+organisations:
+- Federal University of
+- Itaú BBA
 ---
 
 Brazilian President Luiz Inácio Lula da Silva signed a decree and a provisional measure Wednesday aimed at lowering fuel prices, weeks ahead of the presidential election and as the U.S.-Iran war drives up the cost of filling the tank.

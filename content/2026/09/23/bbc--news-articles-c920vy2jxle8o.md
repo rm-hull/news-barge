@@ -13,6 +13,25 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6817/live/74cc1330-b73f-11f1-aa9c-3d062fa3aea7.jpg
+locations:
+- England
+- Northern Ireland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Helen Barnard
+- Kemi Badenoch
+- Robert Jenrick
+organisations:
+- Department for Work and Pensions
+- Houses of Parliament.
+- Labour Party
+- Politics Essential
+- Reform UK
+- Tories
+- Trussell
+- Universal Credit
 ---
 
 ![Kemi Badenoch](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6817/live/74cc1330-b73f-11f1-aa9c-3d062fa3aea7.jpg)

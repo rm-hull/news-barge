@@ -13,6 +13,26 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Brighton
+people:
+- Andy Burnham
+- Anna Whitehouse
+- Antonia Romeo
+- Eddie Mulholland
+- Louise Haigh
+- Lucy Powell
+- Petra Wilton
+organisations:
+- CMI
+- Cabinet
+- Chartered Management Institute
+- Civil Service
+- Daily Telegraph
+- Starbucks
+- State Pension
+- TUC
+- Trade Union Congress
 ---
 
 ## New work-from-home rules could make it harder for bosses to reject requests

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Manchester
+- North East
+- Sunderland
+- Timber Beach Road
+- UK
+people:
+- Bobby Parks
+- Chloe Carney
+- Satchi
+- Scott Atchison
+organisations:
+- Best Colour Salon
+- Best New Salon
+- Best Salon Team
+- Everlast Gym
+- Satchi Junior Team
+- Satchi Salons
 ---
 
 *(Image: Satchi)*

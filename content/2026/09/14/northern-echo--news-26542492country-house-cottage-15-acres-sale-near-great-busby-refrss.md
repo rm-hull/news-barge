@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Busby House
+- Great Busby
+- North York Moors National Park
+people:
+- Jean de La Fontaine
+organisations:
+- BUSBY House
+- Busby House
 ---
 
 BUSBY House has remained in the same family since 1917, a much loved home that has no doubt evolved over the years as its occupants – and their requirements – have changed and fashions and trends have come and gone.

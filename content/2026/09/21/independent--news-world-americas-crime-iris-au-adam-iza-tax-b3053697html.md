@@ -12,6 +12,24 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.the-independent.com/2026/09/15/16/2026-09-15T072157Z_1210996267_RC22PGAD8HMS_RTRMADP_3_FINANCE-CRYPTOCURRENCY-COINEX.JPG?trim=0,42,0,42&width=1200&height=800&crop=1200:800
+locations:
+- Beverly Hills
+- Connecticut
+- Irvine
+- Los Angeles
+- Los Angeles County
+- Newport Beach
+- Orange County
+people:
+- Adam Iza
+- Iris Ramaya Au
+organisations:
+- Au
+- Facebook Inc.
+- Iza
+- Meta Platforms Inc.
+- The Godfather
+- U.S. Attorney's Office
 ---
 
 An Orange County woman who previously dated a cryptocurrency fraud defendant known as “The Godfather” is scheduled to be sentenced on Monday for failing to report more than $2.6 million obtained through her former partner's criminal operation.

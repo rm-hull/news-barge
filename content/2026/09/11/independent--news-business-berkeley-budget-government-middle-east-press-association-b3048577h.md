@@ -13,6 +13,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Berkeley
+- Middle East
+- UK
+people: []
+organisations:
+- Berkeley Group
+- Government
 ---
 
 Housebuilder Berkeley Group has urged the Government to cap stamp duty for first-time buyers and downsizing homeowners in order to support property demand.

@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/08/29/00/Measles_Deaths_658_7.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Jefferson County
+- Lancaster County
+- Pennsylvania
+- Pittsburgh
+people:
+- Donald Trump
+- Greg Furlong
+- Josh Shapiro
+- Stephen Diamantoni
+organisations:
+- CDC
+- NCHS
+- National Center for Health Statistics
+- Pennsylvania Department of Health
+- The Associated Press
+- U.S. Centers for Disease Control and Prevention
 ---
 
 A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.

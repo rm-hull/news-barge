@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Religion & Spirituality
+locations:
+- Elbow Lake
+- Italy
+- Mayo Clinic
+- Minnesota
+- Naples
+- Rochester
+- United States
+people:
+- '![Junker'
+- Elizabeth
+- Jeanine Junker
+- Love
+- Stephen Junker
+- Stephen “Steve” Junker
+- Steve
+organisations:
+- Chippewa Lutheran Church
+- Creighton University
+- Facebook
+- Fox News Digital
+- GoFundMe
+- Princess Cruises
+- Sun Princess
+- The Independent
 ---
 
 A Minnesota pastor has died after suffering a severe spinal injury while on a cruise celebrating his son’s wedding.

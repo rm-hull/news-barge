@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5af6/live/e8f22290-b5a5-11f1-abe6-535e7b14de4c.png
+locations:
+- America
+- Britain Wembley Stadium
+- Cardiff Arms Park
+- Cardiff Principality Stadium
+- Las Vegas
+- London
+- Madison Square Garden
+- Manhattan
+- New York
+- Principality Stadium
+- UK
+- US
+- United Kingdom
+- United States
+- Wales
+people:
+- '## Joshua'
+- Anthony Joshua
+- Carlos Takam
+- Eddie Hearn
+- Frank Bruno
+- Joe Calzaghe
+- Joseph Parker
+- Kristian Prenga.
+- Lennox Lewis
+- Mariusz Wach
+- Mikkel Kessler
+- Oleksandr Usyk
+- Sadiq Khan
+- Sela
+- Tyson Fury
+organisations:
+- BBC Sport
+- Brent Council
+- Cardiff
+- Fury
+- Fury's
+- IBF
+- Matchroom
+- Netflix
+- O2
+- Sela
+- Showtime
+- WBA
+- WBC
+- WBO
+- Welsh Rugby Union
+- Wembley
 ---
 
 ![Tyson Fury (left) at the official weigh-in before his fight with Mariusz Wach.

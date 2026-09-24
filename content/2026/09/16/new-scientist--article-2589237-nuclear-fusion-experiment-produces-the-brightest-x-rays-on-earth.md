@@ -11,6 +11,19 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- California
+- New Jersey
+- New Mexico
+people:
+- Berzak Hopkins
+- Ryan Lester
+organisations:
+- Laura Berzak Hopkins
+- Lawrence Livermore National Laboratory
+- Los Alamos National Laboratory
+- National Ignition Facility
+- Princeton Plasma Physics Laboratory
 ---
 
 ![An artist's illustration of the X-rays produced during nuclear fusion](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg?w=840)

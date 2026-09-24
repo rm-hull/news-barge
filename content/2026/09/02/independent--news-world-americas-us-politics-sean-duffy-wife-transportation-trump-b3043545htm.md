@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Iran
+- U.S.
+- White House
+people:
+- Donald Trump
+- Fox
+- Katie Miller
+- Rachel Campos-Duffy
+- Sean Duffy
+- Stephen Miller
+organisations:
+- Cabinet
+- Department of Transportation
+- Fox News
+- Harvard University
+- Ivy League
+- MTV
+- The Independent
+- Transportation Department
+- Trump
 ---
 
 Transportation Secretary Sean Duffy’s wife claimed that he received his Cabinet position because it was what President Donald Trump had “left.”

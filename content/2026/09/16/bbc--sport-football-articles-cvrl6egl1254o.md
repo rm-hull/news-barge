@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Chelsea
+- Clearlake
+- Stamford Bridge
+- UK
+- US
+people:
+- Behdad Eghbali
+- Clearlake
+- Hansjorg Wyss
+- Jose E. Feliciano
+- Mark Walter
+- Roman Abramovich
+- Todd Boehly
+- Vladimir Putin
+- Xabi Alonso
+organisations:
+- BBC Sport
+- Blues
+- Chelsea
+- Clearlake Capital.
+- English Premier League
+- Guggenheim Partners
+- Los Angeles Dodgers
+- Los Angeles Lakers
+- NBA
+- Premier League
+- Securities and Exchange Commission
 ---
 
 ![Todd Boehly (left) and Mark Walter (right) at the 2025 Fifa Club World Cup final](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/9719/live/c0654da0-b223-11f1-a9d3-d1d2b06c2bad.jpg)

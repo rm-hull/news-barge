@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Brazil
+- California
+- Orkney
+- Pyka
+- San Francisco Bay
+- San Joaquin Valley
+- Shetland
+- UK
+- US
+- Ukraine
+people:
+- Matt George
+- Merlin
+- Michael Norcia
+- Mykel Kochenderfer
+- Pyka
+- Robert Rose
+- Russ Marotzke
+- Stephen Wright
+organisations:
+- AI
+- ALPA
+- Boeing
+- Lockheed Martin
+- Merlin Labs
+- Pyka
+- Reliable Robotics
+- Stanford University
+- US Air Line Pilots Association
+- US National Agricultural Aviation Association
+- Windracers
 ---
 
 ![A Pyka crop-duster flies low over a field spraying liquid.](https://ichef.bbci.co.uk/ace/standard/922/cpsprodpb/3a73/live/30054c70-971f-11f1-a7ab-8b30adf0800a.jpg)

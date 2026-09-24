@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Fishergate
+- George Street
+- Lead Mill Lane
+- Margaret Street
+- Newsquest
+- Paragon Street
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+- York
+people: []
+organisations:
+- City of York Council
+- First Bus
+- Fishergate
+- Newsquest
+- The Press
+- Yorkshire Water
 ---
 
 ## 'It's chaotic' - drivers caught in traffic queues following York road closure

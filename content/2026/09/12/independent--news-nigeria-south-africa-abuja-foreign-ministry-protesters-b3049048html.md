@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/11/14/Nigeria_South_Africa_Migra
 categories:
 - News & Politics
 - UK
+locations:
+- Cape Town
+- Johannesburg
+- Kensington
+- Nigeria
+- South Africa
+people:
+- James Uchechukwu Nwankwo
+- Oluwafemi Adeniyi
+- Sola Enikanolaiye
+- Taiwo Michael Fakunle
+organisations:
+- Foreign Ministry
 ---
 
 Two Nigerian nationals have been killed in South Africa, Nigeria's Foreign Ministry said, as tensions run high between the two countries over anti-immigrant protests.

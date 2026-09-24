@@ -12,6 +12,50 @@ description: Lanterns fans have spotted a crucial new detail about Hal Jordan in
 image: https://cdn.mos.cms.futurecdn.net/Ru2sV5Hfpzg3tnoWfG5xmg-1600-80.jpg
 categories:
 - Technology & Software
+locations:
+- DC
+- Hal
+- Jordan
+- Manhunter
+- Rushville
+- Sinestro
+- Stewart
+people:
+- '## Lanterns'''
+- Aaron Pierre
+- Earth
+- Geoff Johns
+- Guy Gardner
+- Hal Jordan
+- Ivan Reis
+- John Stewart
+- Kyle Chandler
+- Kyle Rayner
+- Lars Ulrich Thomsen
+- Nathan Fillion
+- Nekron
+- Sinestro
+- Tom
+- Zoe
+organisations:
+- DC Comics
+- DC Studios
+- DC Universe
+- DCU
+- Disney Plus
+- Earth
+- Google News
+- Green Lantern
+- Green Lanterns
+- HBO TV
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Nekron
+- Netflix
+- Sinestro
+- Star Wars
+- TechRadar
 ---
 
 ![Aaron Pierre's John Stewart sitting in a jail cell and looking at Nathan Fillion's Guy Gardner who's off-camera in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/Ru2sV5Hfpzg3tnoWfG5xmg.jpg) 

@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/20/10/37/GettyImages-2177658423-
 categories:
 - News & Politics
 - UK
+locations:
+- Camden
+- England
+- Holborn
+- London
+- PA
+- Russia
+- St Pancras
+- Westminster
+people:
+- Andy Burnham
+- Frank Dobson
+- Gareth Fuller
+- Holborn
+- John Healey
+- Keir Starmer
+- Kevin Hollinrake
+- Polanksi
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Conservative Party
+- Green Party
+- Green Pary
+- House of Commons
+- Labour
+- London Assembly
+- Sky News
+- The Independent
+- Tories
 ---
 
 Former prime minister Sir Keir Starmer is to step down as the MP for Holborn and St Pancras, a move that will trigger a by-election in the London seat.

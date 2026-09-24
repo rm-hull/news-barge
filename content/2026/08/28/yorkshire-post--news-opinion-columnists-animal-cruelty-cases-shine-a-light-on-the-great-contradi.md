@@ -18,6 +18,18 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Britain
+- Grassington
+- Sharlston Common
+people:
+- Daxa Manhar Patel
+- Daxa Patel
+organisations:
+- BBC
+- Castleford Hedgehog Rescue
+- Lucinda Herbert
+- RSPCA
 ---
 
 # Animal cruelty cases shine a light on the great contradiction we face in this country - Daxa Patel

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Orem
+- Provo
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+- Erika Kirk
+- Grof
+- Kathryn Kirk
+- Robert
+- Ryan McBride
+- Tony Graf
+- Tyler James Robinson
+- Tyler Robinson
+organisations:
+- MAGA
+- Turning Point USA
+- Utah Valley University
 ---
 
 Erika Kirk, the widow of conservative activist Charlie Kirk, has said a judge’s decision to allow the man accused of killing him to stand trial marks “an important step” for her grieving family.

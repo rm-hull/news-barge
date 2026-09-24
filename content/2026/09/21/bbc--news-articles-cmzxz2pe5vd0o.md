@@ -12,6 +12,62 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7389/live/d29c46a0-b5d3-11f1-b1d1-571ed4d7ff2c.png
+locations:
+- Britain
+- England
+- Erdem
+- Lincoln's
+- London
+- Paris
+- Yuhan Wang
+people:
+- Alexander McQueen
+- Armani
+- Bora Aksu
+- Chanel
+- Chopova Lowena
+- Christopher Kane
+- Christopher Nolan
+- Conner Ives
+- Edeline Lee
+- Elektra Kotsoni
+- Enny Atelier
+- Erdem
+- Francesca Hayward
+- Justin Cassin
+- Kylie Jenner
+- Laura Weir
+- Loewe
+- Mulberry
+- Pauline Dujancourt
+- Roberto Bolle
+- Seán McGirr
+- Sinead Gorey
+- Timothée Chalamet
+- Vin + Omi
+- Yuhan Wang
+organisations:
+- BBC
+- Bora Aksu
+- British Fashion Council
+- Chopova Lowena
+- Conner Ives
+- Dujancourt
+- Enny Atelier
+- Enny Atelier Fashion Scout Ones-To-Watch
+- Erdem
+- Inn Chapel
+- Justin Cassin
+- La Scala
+- London Fashion Week
+- London Fashion Week SS27
+- Mulberry
+- Pantone
+- Sinead Gorey
+- Vogue Business
+- Vogue Italia
+- Vogue Runway
+- Yuhan Wang
 ---
 
 ![Models on the runway for McQueen’s London Fashion Week show at Lincoln's Inn Chapel](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7389/live/d29c46a0-b5d3-11f1-b1d1-571ed4d7ff2c.png)

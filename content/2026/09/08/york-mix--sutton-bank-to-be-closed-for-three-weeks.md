@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Hillside
+- Raskelf
+people:
+- Alyson Baker
+- Cllr Malcolm Taylor
+organisations:
+- A170
+- Sutton Bank
 ---
 
 The annual closure of the A170 at Sutton Bank will last three weeks this year.

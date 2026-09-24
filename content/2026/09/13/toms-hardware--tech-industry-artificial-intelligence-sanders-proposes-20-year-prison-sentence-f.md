@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/oAKof7fdsFDAFkCAKvWZud-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- America
+- Earth
+- U.S.
+- USA
+people:
+- Bernie Sanders
+- Dario Amodei
+- Elon Musk
+- Greg Cezar
+- Mark Tyson
+- Sam Altman
+- Tom
+organisations:
+- AI
+- Anthropic
+- Congress
+- Google News
+- Manhattan Project II
+- MrK26
+- Reply Cool.MrK26
+- ReplyUSAFRet
+- Tom's Hardware
+- USA Today
 ---
 
 ![Bernie Sanders](https://cdn.mos.cms.futurecdn.net/oAKof7fdsFDAFkCAKvWZud.jpg) 

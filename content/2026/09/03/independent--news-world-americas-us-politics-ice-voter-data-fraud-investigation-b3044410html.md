@@ -13,6 +13,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Trump
+organisations:
+- Coalition for Humane Immigrant Rights
+- Congress
+- Congressional
+- Constitution
+- Department of Justice
+- Homeland Security
+- Homeland Security Investigations
+- ICE
+- Immigration and Customs Enforcement
+- Senate
+- U.S. Postal Service
+- USPS
 ---
 
 Immigration and Customs Enforcement is looking to pay a company up to $5 million to collect voter information — including ballot history — for virtually every American as part of the Trump administration’s war on “fraud.”

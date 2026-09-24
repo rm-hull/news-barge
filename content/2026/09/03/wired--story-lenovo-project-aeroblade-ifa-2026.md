@@ -11,6 +11,19 @@ image: https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AirJet
+- Berlin
+people:
+- Frore
+organisations:
+- CPU
+- Frore Systems
+- IFA
+- Lenovo
+- MacBook Air
+- Project AeroBlade
+- Project Swan
 ---
 
 Lenovo is well-known for its creative, if wacky, concept laptops, usually involving some sort of display trickery. But at the IFA Berlin 2026 consumer electronics trade show, the company showed a proof of concept that actually looks production-ready.

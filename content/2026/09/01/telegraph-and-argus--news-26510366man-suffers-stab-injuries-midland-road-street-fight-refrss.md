@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Bradford
+- Midland Road
+people: []
+organisations:
+- '## Full'
+- Bradford CID
+- Crimestoppers
 ---
 
 *(Image: newsquest)*

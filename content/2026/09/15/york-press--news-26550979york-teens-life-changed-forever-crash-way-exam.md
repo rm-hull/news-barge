@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Self-Improvement
+locations:
+- Marston Lane
+- Ripon
+- STEPS Rehabilitation Centre
+- Sheffield
+- York
+people:
+- David King
+- Irwin Mitchell
+- Joshua Kay-Shaw
+- Teen
+- York
+organisations:
+- Day One Trauma Support
+- York College
 ---
 
 ## 'My last memory was leaving for my exam': Teen's life changed by York crash

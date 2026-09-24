@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Brighton
+- Istanbul
+- Senegal
+- Tottenham
+people:
+- Aaron Wan-Bissaka
+- Emi Buendia
+- George Hemmings
+- George Hemmings'
+- Joao Gomes
+- John McGinn
+- Nicolas Jackson
+- Nicolo Tresoldi
+- Ollie Watkins
+- Unai Emery
+- Villa
+- Villaand
+- Yann Sommer
+organisations:
+- Bayern Munich
+- Bologna
+- Chelsea
+- Club Brugge
+- Coventry
+- Emi Buendia
+- Europa League
+- Fenerbahce
+- Hull City
+- Nottingham Forest
+- Uefa
+- Viking
+- Villa
+- Villarreal
 ---
 
 ![Emi Buendia and Joao Gomes](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ef22/live/c18a0230-abba-11f1-be3c-77d601a01c16.jpg)

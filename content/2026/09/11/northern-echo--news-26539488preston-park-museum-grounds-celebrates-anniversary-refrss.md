@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- North East
+- Stockton
+- THE Spence Building
+- Tees Valley
+people:
+- Henri Matisse
+- Mr Haughton
+- Nigel Cooke
+- Rebecca Louise Law
+- Stuart Boulton
+- William Powell Frith
+- Yann Nguema
+organisations:
+- La Voix
+- Preston Park
+- Preston Park Museum
+- Royal Collection
+- Stockton Borough Council
+- Stockton-on-Tees’
+- The Spence Building
 ---
 
 *(Image: Stuart Boulton)*

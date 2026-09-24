@@ -14,6 +14,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Monza
+- Netherlands
+- Red Sea
+people:
+- '## Antonelli'
+- '## Russell'
+- Ascari
+- Aston Martin
+- Charles Leclerc
+- George Russell
+- Hamilton
+- Kimi Antonelli
+- Lance Stroll
+- Lando Norris' McLaren
+- Lewis
+- Max Verstappen
+- Pierre Gasly
+- Toto Wolff
+organisations:
+- F1
+- Ferrari
+- Formula 1
+- Hamilton
+- Mercedes
+- VSC
 ---
 
 ![Kimi Antonelli kissing the trophy after winning the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e758/live/62a1a840-aa16-11f1-bbe8-51444f709166.jpg)

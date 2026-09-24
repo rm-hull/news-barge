@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21054660.jpg?type=og-image&xType=0&yType=0
+locations:
+- A1 Southbound
+- A690
+- Birtley
+- County Durham
+- M
+- University Hospital North Durham
+people: []
+organisations:
+- A1
+- Durham Police
+- National Highways
+- North East Ambulance Service
 ---
 
 *(Image: NORTHERN ECHO)*

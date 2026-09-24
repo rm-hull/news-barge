@@ -12,6 +12,13 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Killinghall Road
+people: []
+organisations:
+- T&A
+- West Yorkshire Police
 ---
 
 *(Image: Archive photo)*

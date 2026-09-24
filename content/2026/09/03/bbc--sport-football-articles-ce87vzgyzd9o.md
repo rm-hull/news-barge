@@ -12,6 +12,58 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- La Liga
+- Senegal
+- Spain
+- Stamford Bridge
+people:
+- Alejandro Garnacho
+- Andrey Santos
+- Behdad Eghbali
+- Chelsea
+- Danny Welbeck
+- Emiliano Martinez
+- Enzo Fernandez
+- Joao Pedro
+- Jordan Henderson
+- Kai Havertz
+- Kepa Arrizabalaga
+- Liam Delap
+- Marc Cucurella
+- Maxence Lacroix
+- Moises Caicedo
+- Morgan Rogers
+- Mykhailo Mudryk
+- Nasser Al-Khelaifi
+- Nicolas Jackson
+- Noni Madueke
+- Paul Macdonald
+- Pierre-Emerick Aubameyang
+- Reece James
+- Roman Abramovich
+- Todd Boehly
+- Xabi Alonso
+organisations:
+- Arsenal
+- Aston Villa
+- BBC Sport
+- Blues
+- Brighton
+- Chelsea
+- Chelseahave
+- Clearlake Capital
+- FootballTransfers.com
+- Manchester City
+- PSG
+- Paris St-Germain
+- Premier League
+- Real Madrid
+- Spurs
+- Strasbourg
+- Tottenham
+- Uefa
 ---
 
 ![Xabi Alonso talking to Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/1694/live/66294a90-a7b4-11f1-a291-b542ee92de7c.jpg)

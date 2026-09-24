@@ -12,6 +12,87 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa
+- Blackpool
+- Burnley
+- Chelsea
+- England
+- Leeds
+- Leicester
+- Liverpool
+- Manchester City
+- Michu
+- Mo
+- Northern Ireland
+- Old Trafford
+- Swansea
+- Tottenham
+- West Ham
+- White Hart Lane
+people:
+- Andy Robertson
+- Charlie Adam
+- Claudio Ranieri
+- Clint Dempsey
+- Cole Palmer
+- Cristiano Ronaldo
+- Emmanuel Adebayor
+- Frank Lampard
+- Harry Kane
+- Ian Holloway
+- Jamie Vardy
+- Joe Hart
+- John Lundstram
+- Julian Dicks
+- Juninho
+- Lord Lundstram
+- Luis Suarez
+- Marcelo Bielsa
+- Mauricio Pochettino
+- Michail Antonio
+- Michel Vorm
+- Michu
+- Mo Salah
+- Mohamed Salah
+- Nani
+- Riyad Mahrez
+- Roberto Soldado
+- Stuart Dallas
+- Thierry Henry
+- Thomas Woods
+- Trent Alexander-Arnold
+organisations:
+- Arsenal
+- Blackpool
+- Blades
+- Blues
+- Chelsea
+- Everton
+- FPL
+- Fantasy Football Scout
+- Kane
+- La Liga
+- Leeds
+- Leicester
+- Liverpool
+- Lundstram
+- Manchester City
+- Manchester United
+- Michu
+- Napoli
+- Norwich
+- Premier League
+- QPR
+- Salah
+- Seasiders
+- Sheffield United
+- Spurs
+- Stamford Bridge
+- Sunderland
+- Swansea City
+- Tottenham
+- West Ham
 ---
 
 ![Graphic with Mahrez, Michu and Alexander-Arnold](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a1f4/live/2009f780-b0fb-11f1-a540-61c3f7fc4e6c.jpg)

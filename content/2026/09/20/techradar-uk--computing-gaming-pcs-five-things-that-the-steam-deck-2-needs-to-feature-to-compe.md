@@ -13,6 +13,50 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/i93oeRRHWHGjN2fNMcqUxV-2500-80.jpg
+locations:
+- Steam Deck
+people:
+- Aleksha McLoughlin
+- Gabe Newell
+- Valve
+organisations:
+- AAA
+- APU
+- Asus ROG Ally
+- Asus ROG Ally X
+- Asus ROG Xbox Ally X
+- CPU
+- Dexerto
+- EX AI
+- Esports Insider
+- GPU
+- GamesRadar
+- Google News
+- Hall Effect
+- Intel Arc
+- Kyusai
+- Lenovo Legion Go
+- Lenovo Legion Go S
+- MSI Claw
+- MSI Claw A1M
+- PC Gamer
+- PC Guide
+- Play Magazine
+- RDNA
+- ROG Ally
+- Scuf Omega
+- Steam Deck
+- Steam Deck 2
+- Steam Machine
+- TMR
+- TechRadar Gaming
+- The Escapist
+- Trusted Reviews
+- Tunnelling Magnetoresistance
+- Valve
+- Z1
+- Z2
+- Zotac Zone
 ---
 
 ![Person playing with the Steam Deck with dog in photo](https://cdn.mos.cms.futurecdn.net/i93oeRRHWHGjN2fNMcqUxV.jpg)

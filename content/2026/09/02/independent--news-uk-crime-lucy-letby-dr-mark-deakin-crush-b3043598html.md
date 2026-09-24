@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cheshire
+- Countess of Chester Hospital
+- Hereford
+- Liverpool’s Alder Hey Children’s Hospital
+people:
+- Alder Hey
+- Child N
+- Justice Singh
+- Lucy Letby
+- Mark Deakin
+- Oh Lucy
+organisations:
+- Alder Hey Children’s NHS Foundation Trust
+- Associated Newspapers
+- Cheshire Coroner’s Court
+- Countess of Chester
+- Countess of Chester Hospital
+- Criminal Cases Review Commission
+- Letby
 ---
 
 A doctor who was accused of being a “crush” of child serial killer nurse Lucy Letby has been named after reporting restrictions were lifted following his death two months ago.

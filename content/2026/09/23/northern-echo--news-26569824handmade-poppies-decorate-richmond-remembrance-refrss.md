@@ -14,6 +14,31 @@ categories:
 - Arts & Culture
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21484320.jpg?type=og-image
+locations:
+- Bloom
+- Catterick Garrison
+- Darlington
+- Green Howards Museum
+- North Yorkshire
+- Northumbria
+- Richmond
+- St Mary’s Church
+- Trinity Church
+- Victoria Crosses
+people:
+- George Crosses
+organisations:
+- Bishop Auckland
+- Catterick Garrison
+- Green Howards
+- Green Howards Museum
+- Richmond Remembers
+- Richmond Town Council
+- Richmond Town Hall
+- Royal British Legion
+- Swale WI
+- The Green Howards Museum
+- The Yorkshire Regiment
 ---
 
 *(Image: Green Howards Museum)*

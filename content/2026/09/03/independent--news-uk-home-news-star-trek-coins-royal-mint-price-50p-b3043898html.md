@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Britain
+- Brooklands
+- Surrey
+- Weybridge
+people:
+- Ruth Henriquez
+- Tim Mulhall
+organisations:
+- Paramount EMEA
+- Royal Mint
+- The Royal Mint
+- Warner Bros Discovery Global Consumer Products
 ---
 
 The Royal Mint is releasing a new range of commemorative coins to mark six decades of Star Trek on television screens.

@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Britain
+- Keighley and Worth Valley Railway
+- Worth Valley
+- Yorkshire
+people:
+- Ebenezer Scrooge
+- Jacob Marley
+- Noel Hartley
+organisations:
+- KWVR
+- Tom Marshall
 ---
 
 A FESTIVE theatre experience is set to return this winter, bringing a classic Christmas story to life on a Yorkshire heritage railway.

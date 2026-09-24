@@ -12,6 +12,55 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- Dallas
+- Gulf of America
+- Gulf of Mexico
+- Hormuz
+- Iran
+- Lake America
+- Lake Ontario
+- Maine
+- North Carolina
+- Pennsylvania
+- Texas
+- US
+- White House
+people:
+- Charlie Kirk
+- Chris Stein
+- Dan Sullivan
+- Dave McCormick
+- Donald Trump
+- Erika
+- Helene
+- James Talarico
+- Jim Lo Scalzo
+- Joe Biden
+- John Fetterman
+- John Thune
+- Julia Demaree Nikhinson
+- Ken Paxton
+- Mary Peltola
+- Michael Whatley
+- Mike Johnson
+- Roy Cooper
+- Susan Collins
+- Thom Tillis
+organisations:
+- American Airlines Center
+- Congress
+- EPA Trump
+- East Wing Modernization Project
+- GOP
+- Guardian
+- House
+- RNC
+- Reuters
+- Secret Service
+- Senate
+- Turning Point USA
 ---
 
 Donald Trump speaks during the Republican National Midterm Convention at the American Airlines Center in Dallas, Texas on 9 September. Photograph: Jim Lo Scalzo/EPA

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/02/22/1200x675_cmsv2_8159f572-b225-5066-b5a0-7854f2047951-9920222.jpg
+locations:
+- East Sea
+- Indo-Pacific
+- Japan
+- North Korea
+- Pyongyang
+- Seoul
+- South Korea
+- US
+- Western Pacific
+- White House
+people:
+- Kim Jong-un
+- Kim Yo Jong
+- Lee Jae Myung
+- Shinjiro Koizumi
+- Trump
+organisations:
+- DPRK
+- EEZ
+- Foreign Ministry
+- International Atomic Energy Agency
+- KCNA
+- UN
+- US Pacific Command
 ---
 
 ## In August, Trump told reporters that North Korean leader Kim Jong-un had "57 very powerful nuclear weapons" as he once again touted the pair's relationship.

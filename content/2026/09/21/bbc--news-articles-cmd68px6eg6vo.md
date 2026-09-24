@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1249/live/16d55520-b5af-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Febuary
+- Hollywood
+- Mold Road
+- Racecourse Ground
+- St David
+- The Racecourse Ground
+- The Turf
+- Wales
+- Wrexham
+- Wrexham.
+people:
+- Channing Tatum
+- Eric Allyn
+- Paul Rudd
+- Rob Mac
+- Ryan Reynolds
+- Wayne Jones
+- Will Ferrell
+- William
+organisations:
+- Admiral Taverns
+- Deadpool
+- Disney
+- Racecourse Ground
+- Red Dragon Ventures
+- The Turf
+- The Turf Tavern
+- Turf Hotel
+- Wrexham AFC
+- Wrexham AFC Football Club
 ---
 
 ![Ryan Reynolds and Rob Mac holding a trophy between them. They are both smiling and looking at the camera. Mac is wearing a black short sleeved polo shirt. Reynolds is wearing a red hoodie. They are stood on the pitch of The Racecourse Ground. People can be seen also on the pitch behind them.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1249/live/16d55520-b5af-11f1-8d1d-a985658d9d3a.jpg)

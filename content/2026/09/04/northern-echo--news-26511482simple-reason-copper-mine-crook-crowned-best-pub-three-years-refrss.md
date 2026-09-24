@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Copper Mine
+- County Durham
+- Crook
+- North East
+- Teesside Hospice
+- The Copper Mine
+- UK
+- Weardale
+people:
+- Anne Binks
+- Cheryl Carson
+- Crook
+- Jess Littlefair
+- Jess Rowell
+- Liv King
+- SARAH CALDECOTT
+- Scott Brunning
+- Sisters
+organisations:
+- Copper Mine
+- Job’s Hill Bank
+- The Copper Mine
+- The Northern Echo
 ---
 
 *(Image: SARAH CALDECOTT)*

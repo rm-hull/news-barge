@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Arizona
+- Baja California
+- Bright Angel Creek
+- Colorado River
+- Crystal Rapids
+- Grand Canyon
+- Hawaii
+- Hawaiian Islands
+- Hilo
+- Karina
+- Mexico
+- Miami
+- Pacific Ocean
+- Southern California
+- Tropical Storm Lowell
+people:
+- Karina
+- Lowell
+organisations:
+- NOAA
+- National Park Service
+- U.S. National Hurricane Center
 ---
 
 Hurricane Karina strengthened into a major Category 4 system over the Pacific Ocean on Monday, though weather forecasters said it poses no direct threat to land.

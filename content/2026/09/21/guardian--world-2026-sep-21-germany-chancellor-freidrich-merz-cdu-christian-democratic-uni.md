@@ -11,6 +11,34 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/9feb1e6c4cdb2cbd16a829c5a8bbd21c855fad74/388_0_3880_3104/master/3880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=674e49f51bf0534fb11bfa343d911cbf
+locations:
+- Berlin
+- Germany
+- Kremlin
+- Mecklenburg
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+people:
+- Alice Weidel
+- Bärbel Bas
+- Dmitry Peskov
+- Elif Eralp
+- Friedrich Merz
+- Karin Prien
+- Kristin Brinker
+- Lars Klingbeil
+- Leif-Erik Holm
+- Manuela Schwesig
+- Tino Chrupalla
+organisations:
+- AfD
+- Alternative für Deutschland
+- CDU
+- Christian Democratic Union
+- Deutschlandfunk
+- Labour
+- Linke
+- SPD
 ---
 
 Germany’s beleaguered leader, Friedrich Merz, has sought to shore up support for his flagging chancellorship among senior members of his conservative party after its drubbing at the polls in two state elections.

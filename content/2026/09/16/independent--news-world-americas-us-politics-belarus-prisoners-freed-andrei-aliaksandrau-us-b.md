@@ -12,6 +12,37 @@ image: https://static.independent.co.uk/2026/09/16/14/download.-2.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Belarus
+- Bellesbumprom
+- Lakokraska
+- Lithuania
+- Minsk
+- Moscow
+- Poland
+- U.S.
+- Ukraine
+- United States
+- Vilnius
+- Washington
+- White House
+people:
+- Alexander Lukashenko
+- Andrei Aliaksandrau
+- Andrzej Poczobut
+- Donald Trump
+- Dzmitry Navazhylau
+- John Coale
+- Kiryl Pazniak
+- Liudmila Chekina
+- Pavel Sapelka
+- Sviatlana Tsikhanouskaya
+organisations:
+- AP
+- EU
+- Finance Ministry
+- The Associated Press
+- Viasna
 ---
 
 Belarusian authorities have agreed to release 25 prisoners following a deal that sees the United States remove sanctions against two Belarusian firms, according to Washington’s special envoy.

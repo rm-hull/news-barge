@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Beirut
+- Iran
+- Israel
+- Lebanon
+- Nabatiyeh
+- Rome
+- U.S.
+- Washington
+people:
+- Ali Taher
+- Joseph Aoun
+organisations:
+- Hezbollah
+- National News Agency
+- State Department
 ---
 
 Lebanon’s president made a rare visit to a southern city Saturday, close to where Israel captured a strategic hill, amid fears of more Israeli attacks.

@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Church Fenton
+- Leeds
+- Liverpool Lime Street
+- Micklefield
+- Selby
+- York
+people: []
+organisations:
+- CrossCountry
+- National Rail
+- Network Rail
+- Newcastle Some
+- Newsquest
+- Northern
+- The Press
+- TransPennine Express
 ---
 
 *(Image: Newsquest)*

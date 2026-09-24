@@ -14,6 +14,59 @@ categories:
 - News & Politics
 - Technology & Software
 - Sports
+locations:
+- Atlantic
+- Austin
+- Barajas
+- Birmingham
+- Europe
+- Ifema
+- Italy
+- Madrid
+- Madring
+- Miami
+- Turn Five
+people:
+- Alex Albon
+- Andrea Stella
+- Andrew Benson
+- Arvid Lindblad
+- Colton Herta
+- Esteban Ocon
+- Fernando Alonso
+- George Russell
+- Haas
+- Kimi Antonelli
+- Kyle** Lando Norris'
+- Lando Norris
+- Leonardo Fornaroli
+- Liam Lawson
+- Matt
+- Max Verstappen
+- Mercedes' Kimi Antonelli
+- Mia
+- Nikola Tsolov
+- Rafael Camara
+- Ryo Hirakawa
+- Ugo Ugochukwu
+organisations:
+- BBC F1
+- Cadillac
+- F1 Commission
+- F2
+- FIA
+- Ferrari
+- Formula 1
+- Formula 2
+- Haas'
+- McLaren
+- Monopoly
+- NEC
+- Racing Bulls
+- Red Bull
+- Toyota
+- Ugochukwu
+- VSC
 ---
 
 ![Kimi Antonelli ahead of Max Verstappen and Lando Norris during the Spanish Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/92fa/live/62daf490-afa4-11f1-a27d-17e2480354ed.jpg)

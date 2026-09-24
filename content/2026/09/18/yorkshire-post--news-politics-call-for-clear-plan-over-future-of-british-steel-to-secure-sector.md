@@ -15,6 +15,23 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Scunthorpe
+people:
+- Alasdair McDiarmid
+- Chris Etchells
+- Clive Betts
+- Clive Betts.
+organisations:
+- Board and Chair
+- British Steel
+- Community Assistant
+- Government
+- PAC
+- Public Accounts Committee
+- Scunthorpe
+- Sheffield South East
+- Steel Strategy
 ---
 
 # Call for clear plan over future of British Steel to secure sector and 4,000 jobs

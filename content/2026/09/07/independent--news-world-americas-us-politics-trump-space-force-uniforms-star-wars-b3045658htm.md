@@ -13,6 +13,30 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Earth
+- Nazi-occupied Netherlands
+- White House
+people:
+- Aka
+- Darth Vader
+- Derek Guy
+- Donald Trump
+- Erick Erickson
+- Jennifer Zilla
+- Jonah Goldberg
+- Melanie D'Arrigo
+- Palpatine
+- Paul Verhoeven
+- Wu Tang
+organisations:
+- Imperial Army
+- Imperial Forces
+- Independent
+- Space Academy
+- Space Force
+- Space Force Delta
+- The Dispatch
 ---
 
 Donald Trump has been mocked over his new design for Space Force uniforms, with social media users comparing them to the costumes worn by sci-fi villains – and even Nazis.

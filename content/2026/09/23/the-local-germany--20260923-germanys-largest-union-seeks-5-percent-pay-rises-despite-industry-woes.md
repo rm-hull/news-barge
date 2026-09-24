@@ -15,6 +15,20 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260921__C8VZ68V__v1__HighRes__GermanyEconomyLabourUnionsProtest.jpg@webp
+locations:
+- Europe
+- Germany
+- Iran
+- US
+people:
+- Christiane Benner
+- Markus Forschner
+organisations:
+- Bosch
+- IG Metall
+- Mercedes-Benz
+- Union
+- Volkswagen
 ---
 
 Europe's biggest economy has been stagnating for years as weak demand for its key exports, US tariffs, Chinese competition and high energy costs weigh on industry.

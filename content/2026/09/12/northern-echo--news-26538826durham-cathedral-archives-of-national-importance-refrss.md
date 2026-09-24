@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- County Durham
+- North East
+- North East England
+people:
+- Bobby Robson
+organisations:
+- Arts Council England
+- Designation Scheme
+- Dorset Museum
+- Durham Cathedral
+- Library and Archive Collections
+- Priory Archives and Library
+- Thomas Hardy Memorial Collection
+- University of Liverpool
+- World Rugby Museum
 ---
 
 A collection containing three copies of the Magna Carta and centuries of records charting life in the North East has been recognised as being of national importance.

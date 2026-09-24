@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations: []
+people:
+- Steve Jobs
+organisations:
+- Apple
+- Get Tom's Hardware
+- Nvidia
+- OpenAI
+- Oracle
+- PAC
+- RR Auction
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7-320-80.jpg)

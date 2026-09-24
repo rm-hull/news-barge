@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Belfast Coroner's Court
+- Belfast Lough
+- Cave Hill
+- Lower Ormeau Road
+- Northwood Road
+people:
+- Davy Beck
+- Fiona Donohoe
+- Justice Rooney
+- Liz Kimmins
+- Niall Murphy
+- Noah Donohoe
+organisations:
+- Belfast Coroner's Court
+- Department for Infrastructure
+- Department of Infrastructure
+- DfI
+- Noah Donohoe
+- PSNI
+- Police Service of Northern Ireland
+- St Malachy's College
 ---
 
 ![Noah Donohoe, a boy with dark hair, wearing a black blazer, with a white shirt and green, black and white tie.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a64/live/fca12c00-64e7-11f1-8e1d-bbbb1017d210.jpg)

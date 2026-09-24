@@ -12,6 +12,24 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Las Vegas
+- Middle Eastern
+- Nashville
+- Nevada
+- Tennessee
+- United Arab Emirates
+people:
+- Andreessen Horowitz
+organisations:
+- Boring Company
+- Elon Musk
+- Human Capital
+- Sequoia Capital
+- The Boring Company
+- Valor Equity Partners
+- Vy Capital
+- Wall Street Journal
 ---
 
 Elon Musk’s tunneling company, The Boring Company, has raised a $3 billion Series D funding round that pushes its valuation to $23 billion.

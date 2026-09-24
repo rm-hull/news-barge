@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations: []
+people:
+- Amol Rajan
+- Charlotte
+- Emma Barnett
+organisations:
+- BBC Radio 4
 ---
 
 # Watch: Amol Rajan says goodbye to Today programme

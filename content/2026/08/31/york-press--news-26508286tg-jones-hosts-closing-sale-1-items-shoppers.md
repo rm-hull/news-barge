@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Basildon
+- Essex
+- Maldon
+- Southend
+- UK
+- US
+people:
+- Alex Willson
+- Tom Smith KC
+organisations:
+- Cadbury
+- High Court
+- Modella Capital
+- Stroud
+- TG Jones
+- TG Jones’
+- WH Smith
 ---
 
 *(Image: Getty)*

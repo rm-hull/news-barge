@@ -14,6 +14,43 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21475070.jpg?type=og-image&xType=0&yType=69
+locations:
+- Central Park
+- Darlington
+- North East
+- Science Park
+- Tees Valley
+- UK
+people:
+- Andy Burnham
+- David Gartland
+- David Hodgson
+- Ellie Fotheringham
+- Huw Lewis
+- Kim McGuinness
+- Mark Stamper
+- Rachel Anderson
+- Rose Rouse
+- Sophie Walton
+organisations:
+- BUSINESSiQ
+- CPI
+- Cummins
+- Darlington Borough Council
+- Darlington College
+- Darlington STEM Centre of Excellence
+- Durham County Council
+- HM Treasury
+- Inclusive Growth and Partnerships
+- Lola McEvoy
+- Mission Growth Fund
+- North East Chamber of Commerce
+- North East Mayoral Strategic Authority
+- Northern Echo
+- Planning and Budget Group
+- STEM Centre of Excellence
+- Teesside University
+- UK Bus Territory Manager
 ---
 
 A £21 million STEM Centre of Excellence planned for Darlington has been hailed as a landmark for the region, as figures reveal 173,000 unfilled STEM vacancies across the UK.

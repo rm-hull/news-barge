@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- BetWright Stadium
+people:
+- Thomas Gadd
+organisations:
+- Bradford City
+- Leyton Orient
 ---
 
 AN AWAY following of 556 in a crowd of just 3,165 saw Bradford City beat Leyton Orient in the Carabao Cup third round last night.

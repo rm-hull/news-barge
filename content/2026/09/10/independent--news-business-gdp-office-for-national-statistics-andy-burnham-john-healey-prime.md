@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Middle East
+- PA
+- UK
+people:
+- Andy Burnham
+- Elliott Jordan-Doak
+- John Healey
+organisations:
+- Deutsche Bank
+- Investec
+- Leon Neal
+- ONS
+- Office for National Statistics
+- Pantheon Macroeconomics
 ---
 
 UK economic growth is set to have ground to a halt in July, as consumers swapped spending in shops for drinking in pubs amid the heatwaves and Fifa World Cup, economists think.

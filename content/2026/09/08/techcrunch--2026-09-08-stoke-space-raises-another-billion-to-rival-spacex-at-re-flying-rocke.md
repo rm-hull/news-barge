@@ -11,6 +11,34 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Moses Lake
+- Stoke
+- U.S.
+people:
+- Andy Lapsa
+- Steve Cohen
+organisations:
+- Elon Musk
+- Falcon 9
+- Firefly Aerospace
+- General Innovation
+- Glade Brook Capital
+- Lapsa
+- Pathfinder
+- Point72 Ventures
+- Relativity Space
+- Rocket Lab
+- SpaceX
+- SpaceX’s Starship
+- Spark Capital
+- Stoke Space Technologies
+- TechCrunch
+- US Innovation Technology
+- Washington Harbour Partners
+- Woven Capital
+- Y Combinator
 ---
 
 The fuel for a fully reusable rocket that can unlock truly low-cost access to space isn’t methane or liquid oxygen. It’s cash, and Stoke Space Technologies is tanking up. The company has now “completed the initial closing” of a $1 billion Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.

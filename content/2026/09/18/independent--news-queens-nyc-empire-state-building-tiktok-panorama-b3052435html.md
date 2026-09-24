@@ -14,6 +14,42 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- Albany
+- America
+- Brooklyn Bridge
+- Central Park
+- City of New York
+- D.C.
+- Empire State Building
+- Gotham
+- Kosciuszko Bridge
+- Long Island
+- Lower East Side
+- Macken
+- Midtown Manhattan
+- Museum of the City of New York
+- New Jersey
+- New York
+- New York City
+- Queens Museum
+- Rockefeller Center
+- TikTok
+- Washington
+- Williamsburg Bridge
+- Yankee Stadium
+people:
+- Elisabeth Sherman
+- Joe Macken
+- Jonathan Skolnik
+- Philip Marcelo
+- Tosha
+organisations:
+- Lincoln Logs
+- One World Trade Center
+- Statue of Liberty
+- TikTok
+- World Trade Center
 ---
 
 For more than two decades, truck driver Joe Macken spent his free time building a massive scale model of his native New York City out of balsa wood and foam board.

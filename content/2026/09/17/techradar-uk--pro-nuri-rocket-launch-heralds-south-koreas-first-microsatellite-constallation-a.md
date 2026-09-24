@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Korean Peninsula
+- Mars
+- North Korea
+- Seoul
+- South Korea
+people:
+- Christian Cawley
+- Park Jae-sung
+organisations:
+- Computer Weekly
+- ComputerActive
+- Elon Musk
+- Google News
+- KASA
+- Korea AeroSpace Administration
+- Linux Format
+- Matter Alpha
+- NEONSATS
+- New-space Earth Observation Satellite Constellation for National Safety
+- Nuri
+- SpaceX
+- Starlink
+- TechRadar Pro
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

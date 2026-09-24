@@ -10,6 +10,71 @@ image: https://i.guim.co.uk/img/media/b56b86894b0a21d70ca572bbdc615bfcf1a2b4fb/7
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- Dallas
+- Germany
+- Iran
+- Jordan
+- Middle East
+- Missouri
+- New Hampshire
+- Northridge
+- Persian Gulf
+- Providence’s Washington Bridge
+- Rhode Island
+- Texas
+- U.S.
+- US House
+- White House
+people:
+- Alex Brandon
+- Chamberlain Harris
+- Chris Pappas
+- Dan McKee
+- Donald Trump
+- Dzian Tran
+- Friedrich Merz
+- Heather Haggarty
+- Helena Foulkes
+- JD Vance
+- Jim Lo Scalzo
+- John E Sununu
+- Julia Demaree Nikhinson
+- Julio Cortez
+- Karishma Manzur
+- Kevin Dietsch
+- Lonnie G Bunch III
+- Margo Martin
+- Natalie Harp
+- Walt Nauta
+organisations:
+- AP Production
+- AP Trump
+- AfD
+- American Airlines Center
+- Associated Press
+- Associated Press-NORC Center for Public Affairs Research and USA Facts
+- CVS
+- California State University
+- Congress
+- Democracy + Donuts
+- Donuts + Democracy
+- EPA
+- GOP
+- House
+- Mercedes
+- Nauta
+- Oval Office
+- RNC
+- Republican National Committee
+- Smithsonian Institution
+- The Washington Post
+- Truth Social
+- US Census Bureau
+- US Central Command
+- US Senate
+- US Supreme Court
 ---
 
 A gold-painted Mercedes with Donald Trump's face on the hood is parked outside the American Airlines Center in Dallas where the RNC will be held later today Photograph: Jim Lo Scalzo/EPA

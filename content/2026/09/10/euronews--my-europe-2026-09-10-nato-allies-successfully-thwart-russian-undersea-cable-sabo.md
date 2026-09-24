@@ -13,6 +13,29 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Britain
+- Europe
+- Germany
+- High North
+- Kremlin
+- Moscow
+- Nord Stream
+- Norway
+- Russia
+- Svalbard
+- UK
+- US
+people:
+- Bruce Jones
+- Tore Sandvik
+organisations:
+- Brookings Institution
+- Defence Ministry
+- Euronews
+- GUGI
+- NATO
+- Reuters
 ---
 
 ## Western officials revealed that a joint NATO operation had succeeded in thwarting a secret Russian training exercise to disable critical undersea data cables.

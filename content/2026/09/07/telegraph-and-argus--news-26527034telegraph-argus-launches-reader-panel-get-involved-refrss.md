@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+people:
+- Nigel Burton
+organisations:
+- Argus Reader Panel
+- Reader Panel
+- Telegraph & Argus
 ---
 
 *(Image: Staff)*

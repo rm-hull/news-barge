@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Newcastle
+- Redcar
+people:
+- Emily Harrison
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- Cleveland Local Policing Commander
+- RVI
+- UGC
 ---
 
 A woman remains in a critical condition after a house fire which killed a seven-year-old girl and her aunt.

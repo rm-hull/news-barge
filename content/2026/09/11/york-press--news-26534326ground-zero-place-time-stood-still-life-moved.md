@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Broadway
+- Ground Zero
+- Lower Manhattan
+- New York
+- South Tower
+- Twin Towers
+- US
+people: []
+organisations:
+- Hill Street Blues
+- Twin Towers
+- World Trade Center
 ---
 
 *(Image: Newsquest)*

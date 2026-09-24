@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Arctic
+- Black Sea
+- Crimea
+- Moscow
+- Olenya
+- Russia
+- Ukraine
+- Wildberries
+people:
+- Mykola Bielieskov
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- AFP
+- European Commission
+- Kyiv
+- NGO Come Back Alive
+- National Institute for Strategic Studies
+- Shahed
 ---
 
 In 2023, a year into Russia’s unprecedented invasion of Ukraine, Kyiv was producing around 800,000 drones a year. By 2024, that number had more than doubled to two million.

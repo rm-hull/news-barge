@@ -12,6 +12,20 @@ description: Shelly has launched a new security camera with free microSD storage
 image: https://cdn.mos.cms.futurecdn.net/QnxagvS5wXnkTNfMwA4due-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Shelly
+people:
+- Rowan Davies
+- Shelly
+organisations:
+- Alexa
+- Google Home
+- Google News
+- IFA
+- Samsung SmartThings
+- Shelly Camera
+- Shelly Premium
+- TechRadar
 ---
 
 ![The Ring indoor cam next to the Shelly indoor camera](https://cdn.mos.cms.futurecdn.net/QnxagvS5wXnkTNfMwA4due.jpg) 

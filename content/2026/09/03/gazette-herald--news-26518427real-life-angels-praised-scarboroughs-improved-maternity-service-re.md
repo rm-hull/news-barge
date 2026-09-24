@@ -15,6 +15,21 @@ categories:
 - York
 - Health & Fitness
 - Family & Parenting
+locations:
+- MAJOR
+- North Yorkshire
+- Scarborough Hospital
+- York Hospital
+people:
+- Gill Hodgson-Reilly
+organisations:
+- CQC
+- Care Quality Commission
+- Maternity and Neonatal Voices Partnership
+- Midwifery at York
+- Sascha Wells-Munro OBE
+- Scarborough Hospital
+- Scarborough Teaching Hospitals NHS Foundation Trust
 ---
 
 A MAJOR hospital on the North Yorkshire coast has significantly improved the quality of its maternity services.

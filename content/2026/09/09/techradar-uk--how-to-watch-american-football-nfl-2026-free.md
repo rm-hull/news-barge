@@ -11,6 +11,170 @@ categories:
 - Technology & Software
 - Film & TV
 - Sports
+locations:
+- '## Americas'
+- Angola
+- Australia
+- Austria
+- Belgium
+- Benin
+- Botswana
+- Brazil
+- Burkina Faso
+- Burundi
+- Cabo Verde
+- California
+- Cameroon
+- Canada
+- Central African Republic
+- Chad
+- China
+- Colts
+- Comoros
+- Cote d'Ivoire
+- Democratic Republic of Congo
+- Eagles
+- Equatorial Guinea
+- Eritrea
+- Eswatini
+- Ethiopia
+- Europe
+- France
+- Gabon
+- Gambia
+- Germany
+- Ghana
+- Giants
+- Guinea-Bissau
+- India
+- Inglewood
+- Ireland
+- Italy
+- Jaguars
+- Japan
+- Kenya
+- Latin America
+- Lesotho
+- Liberia
+- Liechtenstein
+- Lions
+- Lumen Field
+- Luxembourg
+- MCG
+- Madagascar
+- Madrid
+- Malawi
+- Mali
+- Mauritania
+- Mauritius
+- Melbourne
+- Mexico
+- Mozambique
+- Munich
+- NZ
+- Namibia
+- New Zealand
+- Niger
+- Nigeria
+- Oceania
+- Panthers
+- Paris
+- Poland
+- Portugal
+- Principe
+- Rams
+- Republic of Congo
+- Rwanda
+- Sao Tome
+- Seahawks
+- Senegal
+- Seychelles
+- Sierra Leone
+- SoFi Stadium
+- Somalia
+- South Africa
+- South Sudan
+- States
+- Switzerland
+- Tanzania
+- Tasman Sea
+- Texans
+- Togo
+- UK
+- US
+- Uganda
+- Zambia
+- Zimbabwe
+people:
+- Aaron Donald
+- Adam Marshall
+- Drake Maye
+- Fernando Mendoza
+- IPVanish**
+- Mike Macdonald
+- Patrick
+- Sam Darnold
+organisations:
+- '## Africa'
+- '## Asia'
+- '## Europe DAZN'
+- ABC
+- AFC
+- Baltimore Ravens
+- Bengals
+- Broncos
+- Buffalo Bills
+- CBS
+- CTV
+- Chargers
+- Cowboys
+- Crave
+- Detroit Lions
+- Disney
+- ESPN Unlimited
+- England Patriots
+- Fox Sports
+- Future Publishing
+- Giants
+- IPVanish
+- Instagram
+- Kansas City Chiefs
+- Kayo Sports
+- LA Rams
+- Las Vegas Raiders
+- Los Angeles Rams
+- Melbourne Cricket Ground
+- NBC
+- NFC
+- NFL London
+- NFL Network
+- NTV G+
+- National Football League
+- New England Patriots
+- Philadelphia Eagles
+- RTL
+- San Francisco 49ers
+- Seattle Seahawks
+- Sky Sports
+- SporTV
+- Star Sports
+- Steelers
+- TSN
+- TV Sky Sports
+- TVNZ
+- TechRadar
+- TelevisaUnivision
+- Texans
+- TikTok
+- Titans
+- Tom's Guide
+- Twitter
+- VM Play
+- Vikings
+- Virgin Media
+- Virgin Media**
+- YouTube
+- beIN Sports
 ---
 
 ![Sam Darnold #14 of the Seattle Seahawks drops back to pass against the New England Patriots during the second quarter in Super Bowl LX.](https://cdn.mos.cms.futurecdn.net/nkGw5rLRYh4gxPrkxb5vfJ.jpg) 

@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Amersfoot
+- Amsterdam Centraal
+- Deventer
+- France
+- Holten
+- Netherlands
+- Normandy
+- Paris
+- Schiphol
+- Steenwijk
+- Utrecht
+- Veenendaal
+- Zwolle
+people:
+- Laurent Nunez
+- ProRail
+organisations:
+- BBC
+- Eurostar
+- NOS
+- Nederlandse Spoorwegen
 ---
 
 ![Two people are seen from behind looking up at an information board at Zwolle station in Zwolle, Netherlands, where trains are facing significant disuption](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg)

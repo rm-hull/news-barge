@@ -10,6 +10,86 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/fkjCzydpSdfWNrjLXAR3j5-2560-80.jpg
+locations:
+- Australia
+- BELGIUM
+- BRITAIN
+- Belgium
+- CHINA
+- Canada
+- China
+- Czechia
+- Great Britain
+- Hungary
+- ITALY
+- Italy
+- KAZAKHSTAN
+- Kazakhstan
+- Malta
+- Ostend
+- Poland
+- SPAIN
+- Shenzhen
+- Slovakia
+- Spain
+- Switzerland
+- U.K.
+- UK
+- UKRAINE
+- US
+- Ukraine
+people:
+- Anne Keothavong
+- Barbora Strycova
+- Carla Suarez Navarro
+- Cristina Bucsa Jessica Bouzas Maneiro Kaitlin Quevedo Marina Bassols Ribera Sara
+  Sorribes Tormo
+- Czechia
+- Elena Rybakina
+- Elina Svitolina
+- Elina Svitolina Marta Kostyuk Oleksandra Oliynykova Dayana Yastremska Lyudmyla Kichenok
+- Elisabetta Cocciaretto Lucia Bronzetti Sara Errani Tyra Grant
+- Hanne Vandewinkel Jeline Vandromme
+- Illya Marchenko
+- Jasmine Paolini
+- Karolina Muchova
+- Katie Boulter Harriet Dart Sonay Kartal Mika Stojsavljevic Jodie Burrage
+- Krishi
+- Linda Noskova
+- Linda Noskova Karolina Muchova Marie Bouzkova Katerina Siniakova Sara Bejlek
+- Marta Kostyuk
+- Minnen Magali Kempen
+- Sara Errani
+- Tathiana Garbin
+- Wim Fissette
+- Yulia Putintseva Anna Danilina Zhibek Kulambayeva Sonja Zhiyenbayeva
+- Yuriy Schukin
+- Zheng Jie
+- Zheng Qinwen Wang Xiyu Zhang Shuai Guo Hanyu Jiang Xinyu
+organisations:
+- BBC iPlayer
+- Belgium
+- CBC
+- CZECHIA
+- Czechia
+- Finals
+- Future Publishing
+- Hulu
+- Krishi
+- NordVPN
+- NordVPN**
+- Shenzhen Bay Sports Centre Arena
+- Sling TV
+- TVE
+- TechRadar
+- Techopedia
+- Tennis Channel
+- The Tech Report
+- Tom's Guide
+- UK TV
+- USA
+- WTA
+- beIN Sports
 ---
 
 ![Jasmine Paolini of Italy](https://cdn.mos.cms.futurecdn.net/fkjCzydpSdfWNrjLXAR3j5.jpg)

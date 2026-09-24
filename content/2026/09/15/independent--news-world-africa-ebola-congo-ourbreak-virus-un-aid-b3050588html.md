@@ -15,6 +15,26 @@ categories:
 - UK
 - Health & Fitness
 - Sports
+locations:
+- Bundibugyo
+- Butembo
+- DRC
+- Democratic Republic of Congo
+- North Kivu
+- Sud-Ubangi
+- West Africa
+people:
+- Julien Harneis
+- Olivier Le Polain
+- Samuel Roger Kamba
+organisations:
+- DRC
+- Ebola
+- The Independent
+- UN
+- United Nations
+- WHO
+- World Health Organisation
 ---
 
 The world’s fastest-growing Ebola outbreak is showing signs of slowing in parts of the Democratic Republic of Congo (DRC), but United Nations health officials have warned it is too early to say the epidemic has passed its peak.

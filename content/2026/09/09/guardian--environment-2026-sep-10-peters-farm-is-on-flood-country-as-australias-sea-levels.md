@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brisbane
+- Clarence Valley
+- Coldstream River
+- Gold Coast
+- Grafton
+- Melbourne
+- NSW
+- New South Wales
+- Port Phillip Bay
+- Queensland
+- Western Australia
+- Yamba
+- Yarra River
+people:
+- Grazier Peter Lake
+- Peter Lake
+- Tom Kompas
+organisations:
+- Climate Council
+- Kompas
+- Scientific Reports
+- University of Melbourne
 ---
 
 When grazier Peter Lake moved to the Clarence Valley in the New South Wales northern rivers region in 2007, he knew was “buying in flood country with … eyes open”.

@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Canberra
+- Longford
+- Ross
+- Tasmania
+people:
+- '![Hanson'
+- Adam Hanson
+- Brenton Trott
+- David Farley
+- Lee Hanson
+- Nicki Waldron
+- Pauline Hanson
+- Sean Bell
+- Tassie
+- Tony Zagorski
+organisations:
+- AgFest
+- Concerned Farmers Tasmania
+- Department of Finance
+- Guardian Australia
+- Hanson
+- Hanson’s
+- Members of Parliament
+- New South Wales One Nation
+- One Nation
+- One Nation Tasmania
+- Scouts Tasmania
 ---
 
 Pauline Hanson’s daughter, Lee Hanson, has been working in Tasmania as a senior adviser to a New South Wales One Nation senator without the required ministerial approval, Guardian Australia can reveal.

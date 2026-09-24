@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Britain
+- London
+- UK
+people:
+- Jason Arday
+- Sunder Katwala
+organisations:
+- British Future
+- Cambridge University
+- Green
+- Labour
+- Nuffield Foundation
+- Ofcom
+- Reform UK
 ---
 
 Many Britons feel inequality is worsening and that discrimination has become more common, according to a thinktank study.

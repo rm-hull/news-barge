@@ -12,6 +12,14 @@ categories:
 - UK
 - Books & Literature
 image: https://static.independent.co.uk/2026/09/23/14/Ian_McEwan_51946.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Amsterdam
+people:
+- Alfred A. Knopf
+- Ian McEwan
+- Jordan Pavlin
+organisations:
+- Knopf Publisher
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

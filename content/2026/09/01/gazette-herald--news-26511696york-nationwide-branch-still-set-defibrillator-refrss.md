@@ -14,6 +14,27 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Coney Street
+- England
+- Flooded York
+- Nationwide’s Parliament Street
+- Parliament Street
+- St John Ambulance
+- Steet
+- YOUR
+people:
+- Amanda Beech
+- Andrew Hartle
+organisations:
+- British Heart Foundation
+- Nationwide Retail Services
+- Public Notice Portal
+- Resuscitation Council
+- St John Ambulance
+- Virgin Money
+- Visa
+- York Council
 ---
 
 *(Image: Nationwide)*

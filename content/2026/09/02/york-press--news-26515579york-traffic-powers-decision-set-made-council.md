@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - History
+locations:
+- Duncombe Place
+- York Minster
+people:
+- PC Rosie Prior
+organisations:
+- ATTRO
+- Anti-Terror Traffic Regulation Order
+- Blue Badge
+- City of York Council
+- Deangate
+- North Yorkshire Police
+- York Christmas Markets
 ---
 
 ## Powers to bar traffic from York to help stop terror attacks branded 'draconian'

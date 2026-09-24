@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bangalore
+- Hyderabad
+- India
+- Leeds
+- Mumbai
+- New Delhi
+- West Yorkshire
+people:
+- Tracy Brabin
+organisations:
+- White Rose
+- YORKSHIRE
+- Yorkshire
 ---
 
 *(Image: Supplied)*

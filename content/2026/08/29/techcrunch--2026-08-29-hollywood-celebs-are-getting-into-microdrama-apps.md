@@ -11,6 +11,41 @@ image: https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_dire
 categories:
 - Film & TV
 - Comedy & Entertainment
+locations:
+- China
+- Hollywood
+- U.S.
+people:
+- Chris Delmas
+- GammaTime
+- Issa Rae
+- James Franco
+- Jesse Tyler Ferguson
+- Kim Kardashian
+- Kris Jenner
+- Taye Diggs
+organisations:
+- All Mine
+- Archivio Marilla Sicilia
+- CandyJar
+- DramaBox
+- Getty
+- Hoorae Media
+- Instagram Reels
+- Lies & Frank
+- Lifetime
+- Marilla Sicilia
+- Microhouse Films
+- Mondadori Portfolio
+- NBC
+- Nathan Congleton
+- Omdia
+- PineDrama
+- ReelShort
+- SAG-AFTRA
+- Shortical
+- TikTok
+- YouTube Shorts
 ---
 
 Hollywood’s finest — the people accustomed to massive eight-figure checks and exotic movie sets — are now betting on something much smaller: microdramas.

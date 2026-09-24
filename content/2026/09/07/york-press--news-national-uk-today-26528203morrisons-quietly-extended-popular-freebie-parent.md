@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations: []
+people: []
+organisations:
+- Apple Crumble Tart
+- Baby & Toddler Club
+- Biscoff Cheesecake
+- Blueberry Muffins
+- Coffee
+- HMRC
+- Jam Press
+- Lemon Muffins
+- Morrisons Cafés
+- Quadrient
+- Raspberry & Almond Slice
+- Salted Caramel Brownies
+- Sticky Toffee Muffins
+- Toffee Crunch Pie
+- Walnut Loaf Cake
 ---
 
 *(Image: Jam Press/Morrisons/Quadrient)*

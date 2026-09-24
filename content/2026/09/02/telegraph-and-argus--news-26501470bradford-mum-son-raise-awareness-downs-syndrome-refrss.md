@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- TikTok
+people:
+- Down
+- Eisa is' Miss Khan
+- Miss Khan
+- Shab
+- Shabana Khan
+- Zack Knight!
+organisations:
+- Bradford
+- Google
+- Pinnacle Performance
+- SEN
 ---
 
 *(Image: T&A)*

@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21481264.jpg?type=og-image
+locations:
+- A66
+- Eston
+- Grangetown
+- Middlesbrough
+- Redcar
+- South Bank
+- South Yorkshire
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Man
+- Matthew Blades
+- Michael Robert Cahill
+- Surron
+- Teenager
+- Theo Rae
+- Tom Clough
+organisations:
+- Cleveland Police
+- Dormanstown Primary School
+- Magistrates
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- Surron
 ---
 
 Twenty people were arrested in a crackdown on suspected organised crime groups.

@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Central Hall
+- Chicago
+- Darlington
+- Grangetown
+- New York
+people:
+- Amiri Harewood
+- Benjamin Britten
+- Chopin
+- Ethan Loch
+- Mishka Rushdie Momen
+- Rose McLachlan
+- Samson Tsoy
+- Stravinsky
+- Thomas Kelly
+organisations:
+- BBC
+- Cleveland Police
+- Darlington Piano Society
+- First Class Honours
+- Leeds International Competition
+- Moscow Tchaikovsky Conservatory
+- Royal College of Music
+- Royal Conservatoire of Scotland
 ---
 
 *(Image: Darlington Piano Society)*

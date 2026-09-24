@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Bishop Auckland
+- Coundon Grange
+- County Durham
+- Gibson Street
+- Middlesbrough
+people:
+- Claire Patchett
+- Nick Blackburn
+organisations:
+- Environmental Health
+- Environmental Health and Durham County Council
+- Lingfield Education Trust
+- NORTHERN ECHO
+- Prince Bishops Primary School
+- The Northern Echo
 ---
 
 Parents have been left furious after a County Durham school stopped serving hot lunches when rats were allegedly found in the kitchen area.

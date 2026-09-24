@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bay
+- North Yorkshire
+- Old Coastguard Station
+- Ravenscar
+- Robin Hood
+- Whitby
+people: []
+organisations:
+- National Trust
 ---
 
 Two North Yorkshire cafés will close at the end of this week.

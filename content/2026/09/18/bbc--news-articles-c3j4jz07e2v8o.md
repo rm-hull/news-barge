@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png
+locations:
+- England
+- London
+- Thames House
+people:
+- Aaron Watkins
+- Agent X
+- Baroness Sue Carr
+- Beth
+- Charlotte Kilroy KC
+- John Goldring
+- Jude Bunting KC
+- Justice Chamberlain
+- Ken McCallum
+- Matthew Butt KC
+- Tim Otty KC
+- Victoria Sharp
+- Witness A.
+organisations:
+- BBC
+- Goldring
+- High Court
+- Investigatory Powers Tribunal
+- King's Bench Division
+- MI5
+- Wales'
 ---
 
 ![Composite styled image of a shadowy figure, with an orange box around him. The letters MI5 are prominent in the top left of the frame. And the exterior of Thames House in London is also pictured with a light blue colour wash.](https://ichef.bbci.co.uk/ace/standard/801/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png)

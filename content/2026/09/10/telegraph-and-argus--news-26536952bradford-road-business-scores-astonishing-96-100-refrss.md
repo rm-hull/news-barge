@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bradford
+- UK
+people:
+- Ian Mitchell
+organisations:
+- Avetta
+- BRADFORD
+- Jet Plant Hire
+- NPS
 ---
 
 *(Image: Supplied)*

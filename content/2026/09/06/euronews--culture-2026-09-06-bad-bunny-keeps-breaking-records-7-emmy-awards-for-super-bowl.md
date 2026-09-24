@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- America
+- Canada
+- Chile
+- Los Angeles
+- Pacific Time
+- US
+- United States
+people:
+- Adam Blackstone
+- Bad Bunny
+- Bruce Springsteen
+- Charm La'Donna
+- Elvis Costello
+- Hamish Hamilton
+- Jay-Z
+- Jayne Mansfield
+- Jeff Hiller
+- Karina Ortiz
+- Kendrick Lamar
+- Lady Gaga
+- Liza Colón-Zayas
+- Mariska Hargitay
+- Martin Scorsese
+- Miguel Gandelman
+- Paul McCartney
+- Rihanna
+- Sabrina Carpenter
+- Stephen Colbert
+- Taylor Swift
+- Tony Russell
+- Tyler Strickland
+organisations:
+- Apple TV
+- Bad Bunny
+- FXX
+- Hulu
+- Muppets
+- NBC
+- Netflix
+- Peacock Theater
+- Sofia Kourtesis
+- Television Academy
 ---
 
 ## The Puerto Rican artist has picked up seven Emmy Awards for his Super Bowl LX show at the pre-ceremony gala ahead of the main event on 14 September in Los Angeles.

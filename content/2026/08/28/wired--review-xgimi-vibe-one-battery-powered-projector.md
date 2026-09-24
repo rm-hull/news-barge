@@ -11,6 +11,11 @@ image: https://media.wired.com/photos/6a90caae879a1ee9037eecfd/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- LED
+- Vibe One
 ---
 
 The fact that a battery-powered, Google-certified, Netflix-streaming, Full HD LCD projector can cost less than $250 is remarkable. The fact that it’s actually pretty good verges on preposterous. The XGIMI Vibe One manages both, which is great news you’re looking to project your next bingeable series just about anywhere.

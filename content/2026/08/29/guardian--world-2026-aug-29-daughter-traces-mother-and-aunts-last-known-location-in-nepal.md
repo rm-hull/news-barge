@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- China
+- Friendship Bridge
+- India
+- Kailash Mansarovar
+- Kathmandu
+- Milton Keynes
+- Nepal
+- Nepal-China
+- Slough
+- Tibet
+- UK
+people:
+- Bhupesh Bector
+- Hema Sunil Amin
+- Hemangini Jitendra Patel
+- Leena Bector
+- Matt Frei
+- Naresh Goyal
+- Neetu Goyal Tiwari
+- Tulshi Patel
+organisations:
+- Home Office
+- LBC
+- NHS
+- TikTok
+- Times
+- US Geological Survey
 ---
 
 The daughter of a woman missing in Nepal has told how she traced her mother’s location through a TikTok video posted hours before the devastating flash flood hit.

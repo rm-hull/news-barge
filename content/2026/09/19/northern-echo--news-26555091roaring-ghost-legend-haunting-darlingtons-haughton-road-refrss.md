@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21462408.jpg?type=og-image
+locations:
+- '![]()Throstlenest Avenue'
+- Albert Hill
+- Baltic Sea
+- Bishop Auckland
+- Bishop Auckland station
+- Blackett Road
+- Blacketts
+- Darlington Forge
+- Dona Paz
+- Durham
+- Egypt
+- Frosterley Drive
+- Haiti
+- Haughton Road
+- Highland Laddie
+- Hundens Lane
+- Leeds
+- Newcastle
+- Saudi Arabia
+- Shincliffe Colliery
+- Skerne
+- St Aidan’s Academy
+- Stanley House
+- Stockton & Darlington Railway
+- Tees Valley
+- Throstle Nest
+- Throstlenest Avenue
+- White Star
+- York
+people:
+- Chris Lloyd
+- David Pickup
+- Haughton Green
+- John Askwith
+- Michael Stead
+- R Blackett
+- Sarah Caldecott
+- WT Stead
+organisations:
+- BLACKETTS
+- Burmantofts
+- Clark Maker Durham
+- Eastern Transport Corridor
+- MV Wilhelm Gustloff
+- Messrs William Blackett & Sons
+- NER
+- Rookhope Court
+- Salem Express
+- Station Approach
+- The Northern Echo
 ---
 
 IN olden times, on the road between Darlington and Haughton, there used to be a steep-sided, tree-lined dip with a streamlet running through it and a barquest haunting it.

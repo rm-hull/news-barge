@@ -13,6 +13,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- J.P
+- U.S.
+people:
+- David Kelly
+- Donald Trump
+- Gregory Daco
+- Lydia Boussour
+organisations:
+- EY-Parthenon
+- FactSet
+- Federal Reserve
+- Labor Department
+- Morgan Asset Management
 ---
 
 The U.S. employment landscape experienced a rebound in August, with business owners adding an unexpected 162,000 positions while the unemployment rate remained steady at 4.1 percent.

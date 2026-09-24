@@ -13,6 +13,23 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/23/14/Cancer_Test_32495.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Minneapolis
+- Sunnyvale
+- U.K.
+- U.S.
+people:
+- Badrinath Konety
+- Galleri
+- Nickolas Papadopoulos
+organisations:
+- AP Fund for Journalism
+- Allina Health Cancer Institute
+- FDA
+- Food and Drug Administration
+- Grail Inc.
+- Johns Hopkins
+- National Health Service
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

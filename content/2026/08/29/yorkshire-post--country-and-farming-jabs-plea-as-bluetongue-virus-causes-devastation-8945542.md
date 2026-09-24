@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Darlington
+- East
+- North
+- South-West
+- UK
+- West Yorkshire
+people:
+- Clare Wise
+- Ms Wise
+- Stephen Morgan
+organisations:
+- Government
+- NFU Livestock Board
+- NFU North Livestock Board
+- Yorkshire Post
 ---
 
 # Jabs plea as bluetongue virus causes ‘devastation’

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Gaza
+- Hollywood
+- Lido
+- Minneapolis
+- Ukraine
+- Venice
+people:
+- Alberto Barbera
+- Danny Boyle
+- Ellen Burstyn
+- Ewan McGregor
+- George Clooney
+- Guy Pearce
+- Jack O’Connell
+- James Graham
+- Larry Lamb
+- Liam Gallagher
+- Noel
+- Robert Pattinson
+- Rupert Murdoch
+organisations:
+- AP
+- Elon Musk
+- The Associated Press
+- The Sun
+- U.S. Immigration and Customs Enforcement
 ---
 
 George Clooney and Danny Boyle are helping kick off the Venice Film Festival in style Wednesday on the Lido. Clooney, a festival mainstay, is receiving a lifetime achievement award, while Boyle is premiering “Ink,” his film about Rupert Murdoch's acquisition of the British tabloid “The Sun” in 1969.

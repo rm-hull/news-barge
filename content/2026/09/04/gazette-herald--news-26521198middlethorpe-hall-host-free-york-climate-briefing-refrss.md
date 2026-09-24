@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Middlethorpe Hall
+- Spa
+- UK
+people:
+- Lionel Chatard
+- Margaret Wells
+organisations:
+- Barlow Room
+- GoodGym York
+- Middlethorpe Hall
+- National Emergency Briefing
+- York Hoteliers’ Association
 ---
 
 A free event is set to highlight the urgent need for action on climate and nature crises.

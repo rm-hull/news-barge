@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/qq5nkjdGduHiRw4mPNWPYH-2000-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Asia
+people:
+- Joy Lyons
+organisations:
+- AMD
+- Board Channels
+- ChannelGate
+- Google News
+- Hachette UK
+- Harukaze5719
+- PC Gamer
+- RAM
+- Steam Frame
+- TSMC
+- Team Red
+- VR
+- Valve
+- Wccftech
 ---
 
 ![A masculine hand holding an AMD Radeon RX 9060 XT](https://cdn.mos.cms.futurecdn.net/qq5nkjdGduHiRw4mPNWPYH.jpg) 

@@ -12,6 +12,60 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/nYafq5cU6KcuwDLDt6qcAo-2560-80.jpg
+locations:
+- Batcave
+- Mitchell’s
+- UK
+- US
+people:
+- Alfred
+- Bruce
+- James Davidson
+- Mario
+- Tizen
+organisations:
+- ALLM
+- AU
+- AV
+- Aline Romulus
+- America’s Got Talent
+- Apple TV
+- BBC iPlayer
+- Batman
+- Disney
+- Dolby Atmos
+- Dolby Vision
+- Freesync
+- G-Sync
+- G-sync
+- Game Hub
+- Gaming Hub
+- Hisense UR8
+- ITVX
+- LG
+- Lumas
+- Luna
+- Netflix
+- Nvidia GeForce Now
+- OLED
+- OTS
+- Object Tracking Sound
+- PS5
+- Prime Video
+- QD-OLED
+- QLED
+- R95H
+- RGB TV
+- S99H
+- SDR
+- Samsung TV Plus
+- Samsung Vision AI
+- Sony
+- Standard
+- TechRadar
+- Tizen
+- USB-C
+- Xbox
 ---
 
 ### TechRadar Verdict

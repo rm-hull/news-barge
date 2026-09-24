@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1
+- A64 York Road
+- Boston Spa
+- Bramham Crossroads
+- Kiddal Lane End
+- M
+- Scarcroft
+- Shadwell
+- Tadcaster
+- Thorner
+- Wattle Skye Roundabout
+- West Yorkshire
+- Wetherby
+people: []
+organisations:
+- A1
+- AA Traffic
 ---
 
 MOTORISTS are being warned of long delays following the end of Leeds Festival.

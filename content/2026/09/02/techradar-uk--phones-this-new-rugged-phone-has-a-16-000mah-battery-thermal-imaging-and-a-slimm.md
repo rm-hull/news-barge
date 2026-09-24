@@ -11,6 +11,15 @@ description: The Oukitel WP70 Ultra combines an enormous battery with solid spec
 image: https://cdn.mos.cms.futurecdn.net/fUee8mNLqyyNB2KvUisNUC-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- Clarity Media
+- Google News
+- TechRadar
+- Ultra
 ---
 
 ![The Oukitel WP70 Ultra on an orange background](https://cdn.mos.cms.futurecdn.net/fUee8mNLqyyNB2KvUisNUC.jpg) 

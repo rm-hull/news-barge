@@ -10,6 +10,41 @@ image: https://cdn.mos.cms.futurecdn.net/PvdDvrGm2ZXajgRYC4yHtk-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- '### River City'
+- Australia
+- Canada
+- River City
+- Shieldinch
+- States
+- UK
+- US
+people:
+- Bob
+- Carmen Pieraccini
+- Frank Gallagher
+- 'Gayle Telfer Stevens ## You'
+- Grant Stott
+- Harry
+- Hayley Valentine
+- Jacqueline Leonard
+- Jakob Barnes
+- Jordan Young
+- Lenny
+- Ludwig
+- Sally Howitt
+- Stephen Purdon
+organisations:
+- '## River City'
+- BBC Scotland
+- BBC iPlayer
+- FourFourTwo
+- Future Publishing
+- Golf Monthly
+- NordVPN
+- TechRadar
+- Tom's Guide
+- UK TV
 ---
 
 ![Still from the series finale of River City on BBC](https://cdn.mos.cms.futurecdn.net/PvdDvrGm2ZXajgRYC4yHtk.jpg) 

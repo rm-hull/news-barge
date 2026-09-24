@@ -15,6 +15,34 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Cairo
+- China
+- Darfur
+- Khartoum
+- Moscow
+- Russia
+- South Kordofan
+- Sudan
+- U.S.
+- United States
+people:
+- Al-Harith Mohamed
+- Anna Evstigneeva
+- Carl Skau
+- Fay Abuelgasim
+- Jeffrey Bartos
+- Omar al-Bashir
+- Sun Lei
+organisations:
+- RSF
+- Rapid Support Forces
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
+- WFP
+- World Food Program
 ---
 
 The U.N. Security Council voted unanimously Friday to briefly extend the arms embargo on Sudan’s western Darfur region while negotiations continue on a contentious U.S. proposal to expand the embargo throughout the country to pressure the warring parties to end their more than three-year conflict.

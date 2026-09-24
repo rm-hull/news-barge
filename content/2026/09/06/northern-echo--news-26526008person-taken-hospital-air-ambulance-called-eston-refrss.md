@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bishop Auckland
+- Burns Road
+- Eston Recreational Ground
+- Middlesbrough
+people: []
+organisations:
+- Cleveland Police
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
+- Northern Echo
 ---
 
 *(Image: GNAAS)*

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- Europe
+- US
+- USA
+people:
+- Chen Yixin
+- Dario Amodei
+- Demis Hassabis
+- Donald Trump
+- Elon Musk
+- Jim Reid
+- Sam Altman
+organisations:
+- AI and Data Centers
+- AMD
+- ASML
+- Advanced Micro Devices
+- Amodei
+- Anthropic
+- Deutsche Bank
+- Financial Times
+- Google DeepMind
+- Micron Technology
+- Nvidia
+- OpenAI
+- Relx
+- Sandisk
+- SoftBank
+- SpaceX
+- Taiwan Semiconductor Manufacturing Company
+- WPP
 ---
 
 Donald Trump has dismissed calls to increase controls on AI as a “sick conspiracy”, as stocks linked to the technology slumped after appeals from leading developers on the weekend for the industry to slow down.

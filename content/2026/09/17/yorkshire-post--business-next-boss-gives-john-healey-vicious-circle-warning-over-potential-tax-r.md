@@ -16,6 +16,20 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- India
+- Iran
+- London
+- Middle East
+- UK
+people:
+- Ben Whitley
+- John Healey
+- Lord Simon Wolfson
+- Lord Wolfson
+organisations:
+- Next
 ---
 
 # Next boss gives John Healey 'vicious circle' warning over potential tax rises in first Budget

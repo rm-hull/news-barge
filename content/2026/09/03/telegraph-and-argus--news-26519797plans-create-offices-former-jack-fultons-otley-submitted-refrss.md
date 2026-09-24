@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Market Place
+- Otley Town Centre Conservation Area
+- YOUR
+people:
+- Azhar Hussain
+organisations:
+- FU
+- Fulton
+- Leeds City Council
+- Numu Properties Ltd
+- Public Notice Portal
 ---
 
 *(Image: submitted)*

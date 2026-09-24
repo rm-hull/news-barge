@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Azerbaijan
+- Black Sea
+- Caspian Sea
+- Central Asia
+- China
+- East and West
+- Europe
+- Georgia
+- Kazakhstan
+- Kyrgyzstan
+- Middle Corridor
+- Russia
+- Seoul
+- Silk Road
+- South Korea
+- Tajikistan
+- Turkey
+- Turkmenistan
+- Uzbekistan
+people:
+- Emomali Rahmon
+- Kassym-Jomart Tokayev
+- Lee Jae-myung
+- Sadyr Japarov
+- Shavkat Mirziyoyev
+organisations:
+- AI
+- Europe Transport
+- Regional Investment Alliance for Critical Minerals
+- Trans-Caspian International Transport Route
 ---
 
 ## The leaders of the six nations agreed to deepen cooperation in manufacturing, technology and transport, with a stronger focus on regional value chains. The new format will meet again at the leaders’ level in Kazakhstan in 2028.

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations: []
+people:
+- Andy Wood
+organisations:
+- DWP State Pension
+- Government’s State Pension
+- HMRC
+- National Insurance
+- State Pension
+- Tax Barrister UK
+- Universal Credit
+- Work and Pensions Committee
 ---
 
 *(Image: Getty Images)*

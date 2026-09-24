@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alabama
+- Alaska
+- Aliquippa
+- America
+- Crafton
+- Franklin Street
+- Midwest
+- Ohio River
+- Pennsylvania
+- Pittsburgh
+- Southern California
+people:
+- Akiva Woods’
+- Bruce Howard
+- Darrelle Revis
+- Jennifer Damico
+- Lester Longmire
+- Mark Swan
+- Mars
+- Mike Ditka
+- Mike Warfield
+- Paul Royba
+- Paul Skenes
+- Quips
+- Rich Boronyak
+- Ty Law
+- Woods
+organisations:
+- Aliquippa High
+- Aliquippa Works
+- Alquippa
+- Crafton High
+- Gateway
+- Hometown Heroes
+- Mars Area High
+- Mars Planets
+- NFHS
+- National Federation of State High School Associations
+- No. 1
+- Penn Hills
+- Pittsburgh Pirates
+- Slippery Rock University
 ---
 
 The phone calls, all asking the same question, started coming long before the lights at “The Pit” flickered on for the first time this fall.

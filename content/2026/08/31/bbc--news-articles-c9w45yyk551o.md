@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Derwentwater Road
+- Eston
+- Grangetown
+- Middlesbrough
+- Teesside Magistrates' Court
+people:
+- Matthew Blades
+- PC Blades
+- PC Clough
+- Tom Clough
+- Wayne Fox
+organisations:
+- BBC Sounds
+- Cleveland Police
 ---
 
 ![Derwentwater Road between Grangetown and Eston near Middlesbrough. On the right of the residential street is a green wired fence in front of a community hall. On the left is some gardens, then a children's park, with an estate containing two-storey homes further along. There is a rolling hill in the distance which is green with large areas of woodland.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/1374/live/7ab46c40-a54f-11f1-8689-6589354d0f8e.jpg)

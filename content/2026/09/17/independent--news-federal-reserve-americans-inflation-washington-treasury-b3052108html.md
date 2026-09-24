@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- U.S.
+- Wall Street
+people:
+- Donald Trump
+- Jerome Powell
+- Kevin Warsh
+- Oscar Munoz
+organisations:
+- AAA
+- AI
+- Fed
+- Federal Reserve
+- TD Securities
+- Treasury
+- Trump
 ---
 
 About six weeks ago, Federal Reserve Chairman Kevin Warsh announced that a divided central bank was keeping its key interest rate unchanged.

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55db/live/648ac0a0-b287-11f1-8096-b33a1297275a.jpg
+locations:
+- BBC
+- Bramall Lane
+- Chesterfield Coroner's Court
+- Derby
+- Derbyshire
+- Scargill Park
+- Sheffield United
+- West Hallam
+people:
+- Emily Reilly
+- Jonathan Morgan
+- Maddy Cusack
+- Olivia Cusack
+organisations:
+- BBC Newsbeat
+- Football Association
+- Sheffield United
 ---
 
 ![Maddy Cusack pictured smiling at home. She has long blonde hair worn loose and wears a silver heart necklace over a black top. She's pictured inside, in front of a side board with ornaments and plants ](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/55db/live/648ac0a0-b287-11f1-8096-b33a1297275a.jpg)

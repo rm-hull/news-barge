@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/40ead01c4898564ea9343aac926e0409dee6deb6/130_44_1163_930/master/1163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e09df4a452256d05f9e688d4f552931
+locations:
+- Bayeux
+- Bruton
+- Gaza
+- Iran
+- Somerset
+- UK
+- US
+people:
+- Charlotte Appleyard
+- Donald Trump
+- George Osborne
+- Peter Thiel
+organisations:
+- BP
+- British Museum
+- Foreign Office
+- Guardian
+- NHS
+- Palantir
+- PayPal
 ---
 
 George Osborne has said he thought no one would find out about a private viewing of the Bayeux tapestry he organised for the tech billionaire Peter Thiel at the British Museum.

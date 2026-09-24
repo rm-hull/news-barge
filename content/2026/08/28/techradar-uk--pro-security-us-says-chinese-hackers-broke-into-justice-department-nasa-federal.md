@@ -10,6 +10,39 @@ description: Hackers abused IoT devices to break into multiple US departments
 image: https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- America
+- FBI San Diego
+- People’s Republic of China
+- U.S.
+- US
+people:
+- Benedict Collins
+- Kash Patel
+- Trump
+organisations:
+- APT
+- BUCSIS
+- DOJ
+- Department of Energy
+- Department of Health and Human Services
+- Department of Justice
+- FBI Cyber Division
+- Federal Reserve
+- Google News
+- Justice Department
+- NASA
+- Nanjing Xinjiuwei Network Technology Company
+- National Aeronautics and Space Administration
+- National Institutes of Health
+- NordStellar
+- PRC
+- QTFY
+- Southern District of California
+- TechRadar Pro
+- US Office of Public Affairs
+- US Senate
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A group of 7 hackers, 6 slightly blurred in the background and one in the foreground, all wearing black with hoods pulled up over their heads. You cannot see their faces. The hacker in the foreground sits with an open laptop in front of them. The background, behind the hackers, is a Chinese flag](https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY.jpg) 

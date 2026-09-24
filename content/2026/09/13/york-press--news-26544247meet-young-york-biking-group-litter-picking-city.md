@@ -13,6 +13,21 @@ categories:
 - York
 - Society & Culture
 - Arts & Culture
+locations:
+- Deliveroo
+- New York
+- San Francisco
+- UK
+people:
+- Callum
+- Gabriel Macarthur
+- Jiggs'
+- Ryan Stephenson
+- Tom
+organisations:
+- Gabriel Macarthur
+- Local Transport Strategy
+- Phoenix Inn
 ---
 
 ## Meet the growing York biking group litter picking in city

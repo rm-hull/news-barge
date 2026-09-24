@@ -10,6 +10,26 @@ description: The Galaxy Buds On could launch soon
 image: https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Tom Bedford
+people:
+- Bixby
+organisations:
+- Android Police
+- BGR
+- Buds Manager
+- Digital Trends
+- Galaxy Wearable
+- GamesRadar
+- Gemini
+- Google News
+- SammyGuru
+- Samsung
+- Shokz OpenFit
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![The Samsung Galaxy Buds 4 Pro in their case, atop a Galaxy S26 Ultra.](https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ.jpg) 

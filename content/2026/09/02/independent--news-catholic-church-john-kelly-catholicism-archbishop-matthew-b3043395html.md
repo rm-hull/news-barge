@@ -13,6 +13,57 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alberta
+- Bloomington
+- Central Illinois
+- Edmonton
+- El Paso
+- Middle America
+- New York
+- Peoria
+- Peoria’s Cathedral
+- Sheen
+- St. Louis
+- St. Mary of the Immaculate Conception
+- St. Patrick’s Cathedral
+- United States
+- Vatican
+- Washington
+people:
+- Blessed Fulton Sheen
+- Bonnie Engstrom
+- Francis
+- Frank Sinatra
+- Fulton Sheen
+- Gospel
+- James Fulton
+- Jason Gray
+- Jessie Wardarski
+- Jesus Christ
+- Joe Taggart
+- John Kelly
+- Juanita Aguila-Corrales
+- Leo XIV
+- Lizzy Taggart
+- Louis Tylka
+- Luke
+- Mark
+- Matthew
+- Milton Berle
+- Patricia Stephen
+- Sainthood
+organisations:
+- AP
+- Associated Press
+- Catholic Church
+- Diocese of Rochester
+- Fulton J. Sheen Foundation
+- Lilly Endowment Inc
+- Second Vatican Council
+- Sheen Foundation
+- The Catholic University of America
+- The Conversation US
 ---
 
 Bonnie Engstrom believes a long-deceased TV priest helped save her son’s life after he was born in 2010 without a pulse.

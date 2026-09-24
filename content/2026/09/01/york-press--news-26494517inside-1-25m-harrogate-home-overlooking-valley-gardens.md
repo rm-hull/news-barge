@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Rangemaster
+- Valley Drive
+- Valley Gardens
+people:
+- Enfields Luxe
+- Thomas Rutling
+organisations:
+- Enfields Luxe
 ---
 
 ## Six-bedroom Harrogate house with historic musical connection on sale for £1.25m

@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/TJzxserxHW3rVVEeAgD9Y6-1920-80.jpg
+locations: []
+people:
+- Rob Dwiar
+- Tom Clancy
+organisations:
+- GamesRadar+
+- Google News
+- Hardware
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![Three-way title art consisting of key art from Tom Clancy&#039;s The Division 1 and The Division 2](https://cdn.mos.cms.futurecdn.net/TJzxserxHW3rVVEeAgD9Y6.jpg)

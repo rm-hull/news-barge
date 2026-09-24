@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cobham
+- Gravesend
+- Kent
+- Meopham
+- Round Street
+- Sole Street
+people: []
+organisations:
+- CCTV
+- Ford Focus
+- Kent Police
+- Kent Police SCIU
+- Serious Collision Investigation Unit
 ---
 
 Three people have been arrested after a car hit three cyclists on a road, killing two of the riders.

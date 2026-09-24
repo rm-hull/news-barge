@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/14/22/2275415171..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Buckingham Palace
+- London
+- St James’ Palace
+- Waterloo
+people:
+- Luke Pollard
+- Peta
+organisations:
+- British Army
+- Government
+- Green Party
+- King’s Guard
+- Labour
+- Lib Dems
+- Ministry of Defence
+- MoD
+- People for the Ethical Treatment of Animals
+- Peta
 ---
 
 Ministers have been urged by a cross-party group of parliamentarians to end the use of real bear pelts for the hats worn by guards at Buckingham Palace.

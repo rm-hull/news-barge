@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/UvF4ZHj8iCE2bSMnPZBquB-1920-80.jpg
+locations:
+- Hawaii
+- San Diego
+- Silicon Valley
+people:
+- Axel
+- Sarah McMurray
+- Ziad Asghar
+organisations:
+- ANC
+- Apple
+- Axel Metz
+- Bose and Bowers & Wilkins
+- Bowers & Wilkins
+- Esquire
+- Google News
+- Grace Bramwell
+- Original Equipment Manufacturers
+- Personal AI
+- Product Marketing
+- Qualcomm PR
+- Snapdragon
+- TechRadar
+- University of Warwick
+- Wearables
+- XR
 ---
 
 ![The Bose Ultra Open earbuds alongside key art for the Snapdragon Sound Elite Gen 2](https://cdn.mos.cms.futurecdn.net/UvF4ZHj8iCE2bSMnPZBquB.jpg)

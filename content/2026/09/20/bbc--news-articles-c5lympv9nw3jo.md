@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f40/live/5a9dd5e0-b53a-11f1-b5cd-8b602fff2a70.jpg
+locations:
+- England
+- London
+- Old Bailey
+- Wales
+people:
+- Andy Burnham
+- Charlotte Nichols
+- Ciara Bergman
+- David Lammy
+- Nick Timothy
+organisations:
+- BBC News
+- Commons
+- Courts and Tribunals Bill
+- Crown Prosecution Service
+- Labour
+- Ministry of Justice
+- Rape Crisis England
+- Salford Survivor Project
+- Wales
 ---
 
 ![The statue of Lady Justice atop the Old Bailey in London](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9f40/live/5a9dd5e0-b53a-11f1-b5cd-8b602fff2a70.jpg)

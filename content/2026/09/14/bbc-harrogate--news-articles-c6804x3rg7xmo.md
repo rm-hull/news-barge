@@ -12,6 +12,39 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Barton Hill
+- Easingwold
+- Hopgrove Junction
+- Hopgrove Roundabout
+- Hopgrove to Barton
+- Knaresborough
+- Malton
+- Malton.
+- North Yorkshire
+- Scarborough
+- Thirsk
+- Wetherby
+- York
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Boris Johnson
+- David Sakith
+- Julian Smith
+- Kevin Hollinrake
+- Tom Gordon
+organisations:
+- A64
+- Harrogate
+- Labour
+- Liberal Democrat
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Number 10 North team
+- Ripon
+- Road Investment Strategy
+- Skipton
 ---
 
 ![The Hopgrove Junction on the A64, with a sign pointing to Scarborough and Malton.](https://ichef.bbci.co.uk/ace/standard/951/cpsprodpb/c188/live/903c5a40-b02c-11f1-a8a9-13be82d23441.jpg)

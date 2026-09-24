@@ -15,6 +15,30 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21481700.jpg?type=og-image
+locations:
+- Haxby
+- North Yorkshire
+- York
+people:
+- '![]()Haxby'
+- Andrew Hollyer
+- Haxby
+- Ian Cuthbertson
+- Jo Coles
+- Luke Charters
+- Richard Watson
+organisations:
+- '![]()York Outer'
+- ASB
+- Channel Four
+- Government
+- Haxby Town Council
+- North Yorkshire Police
+- The Press
+- Town Council
+- Wigginton Liberal Democrat
+- York Liberal Democrats
+- York Outer
 ---
 
 EFFORTS by a York town council urging residents to report anti-social behaviour (ASB) directly to police have received unanimous backing from officials it is working with to tackle the long-term problem.

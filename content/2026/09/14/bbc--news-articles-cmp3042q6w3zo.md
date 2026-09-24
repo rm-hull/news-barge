@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Cheshire
+- Derbyshire
+- Greater Manchester
+- Ilkeston
+- Kent
+- Manchester Minshull Street Crown Court
+- Minshull Street
+- Northwich
+- Rochdale
+- Somerset
+- Stockport
+- Taunton
+- Whitstable
+people:
+- Alan Keelan
+- Daniel Rayner
+- David Graves
+- Graham Brougham
+- Jonathan Kirk
+- Jordan Wallace
+- Karl Lindsay
+- Mohammed Sabir
+- Philip Wild
+- Richard Townsend
+- Robert Stewart
+- Sean Peers
+organisations:
+- Manchester Crown Court
 ---
 
 ![Manchester Crown Court at Minshull Street](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png)

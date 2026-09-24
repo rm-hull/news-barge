@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- New York
+- Switzerland
+- US
+people:
+- Donald Trump
+- Gianni Infantino
+- Greg Maffei
+- Joshua Kushner
+organisations:
+- BBC Sport
+- FFE
+- Fifa Council
+- Fifa Forward Enterprise
+- Uefa
 ---
 
 ![Gianni Infantino holding the World Cup trophy](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/5525/live/946ce110-a7c7-11f1-8174-fd95759f3bfe.jpg)

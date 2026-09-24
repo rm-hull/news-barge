@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Ghana
+- Kenya
+- Namibia
+- South Africa
+- U.S.
+- United States
+- Washington
+- Zambia
+- Zimbabwe
+people: []
+organisations:
+- America First
+- Emergency Plan for AIDS Relief
+- Trump
 ---
 
 The United States will start phasing out its financial support for Namibia's HIV response programs, the latest among southern African countries to feel the effects of the withdrawal of foreign aid by the U.S. administration.

@@ -13,6 +13,35 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Britain
+- England
+- North East
+- UK
+people:
+- Leeds Beckett
+organisations:
+- Cambridge
+- Daily Mail Guide
+- Daily Mail University Guide
+- Guardian Guide
+- Guardian University Guide
+- Higher Education Policy Institute
+- Huddersfield
+- Imperial College London
+- Leeds Arts
+- Leeds Trinity
+- Newsquest
+- Oxford
+- QS World University Rankings
+- St Andrews
+- The Sunday Times
+- The Sunday Times Good University Guide
+- The Sunday Times Good University Guide 2027
+- The Sunday Times University of the Year 2027
+- The Times
+- University of Bradford
+- University of the Year for Student Experience
 ---
 
 *(Image: Newsquest)*

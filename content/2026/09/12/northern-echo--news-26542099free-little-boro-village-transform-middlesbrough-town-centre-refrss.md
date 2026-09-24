@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Centre Square
+- Little Boro
+- Middlesbrough
+- New County Durham
+- North East
+- Teesside
+people:
+- Liam Slevin
+- Morag Myerscough
+- Philippa Storey
+organisations:
+- Centre Square
+- Little Boro
+- Middlesbrough Art Week
+- Middlesbrough Council
+- Sawdust
+- Tees Valley Combined Authority
+- UK City of Culture
 ---
 
 A new creative neighbourhood made from repurposed shipping containers is set to transform the heart of Middlesbrough.

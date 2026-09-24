@@ -14,6 +14,41 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/Louisiana_ICE_Death_26_68.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Costa Rica
+- Iowa
+- Los Angeles
+- Louisiana
+- Michigan
+- U.S.
+- Winn Correctional Center
+- Winnfield
+people:
+- Ana Leon Castro
+- Carlos Josue Marchena Marchena
+- Donald Trump
+- Franciny Marchena
+- Leon Castro
+- Luis Herrera Andy
+- Rajesh Garg
+- Ryan Foley
+- Scott Sutterfield
+- Winn
+- \_\_\_ Pineda
+organisations:
+- AP
+- Associated Press
+- DHS
+- Department of Homeland Security
+- Harbor-UCLA Medical Center
+- Homeland Security
+- ICE
+- LaSalle Corrections
+- Ottawa County Sheriff's Department
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
+- Winn Parish Coroner’s Office
+- Winn Parish Sheriff’s Office
 ---
 
 A 36-year-old Costa Rican man whose family says he complained of missing insulin shots and meals to manage his diabetes is the third detainee to die in less than six months at a U.S. Immigration and Customs Enforcement facility in Louisiana.

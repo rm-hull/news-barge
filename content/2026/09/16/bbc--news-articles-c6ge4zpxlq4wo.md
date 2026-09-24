@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- DC
+- DC.
+- Rose Garden
+- South Lawn
+- U.S.
+- US
+- Washington
+- White House
+people:
+- Barack Obama
+- Bo
+- Donald Trump
+- Malia
+- Michelle Obama
+- Pete Souza
+- Pope Francis
+- Sasha
+- Sunny
+organisations:
+- Blue Room
+- Portuguese Water Dogs
+- Sunny
+- White House Press Room
 ---
 
 ![Presidential dog Sunny walks outside the White House Press Room as she was brought out by her handler September 9, 2013 at the White House in Washington, DC](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0bb2/live/d2c7e010-b1d9-11f1-8c0b-c1113bf3b7c0.jpg)

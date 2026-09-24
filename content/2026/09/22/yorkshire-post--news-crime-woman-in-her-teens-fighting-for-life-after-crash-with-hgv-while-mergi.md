@@ -14,6 +14,19 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlkMzY1NDNhLWNlYjgtNGM1OC1iZmI3LTY4YTVkMWJiYmIzNDpmNTQ2NzU1YS1jYzllLTQwNDctOWIyZi1iNjdiMjBlOWU2NzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- A1
+- B6474
+- Darrington
+- Wentbridge
+- Yorkshire
+people:
+- Polo
+organisations:
+- A1
+- Scania HGV
+- VW Polo
+- West Yorkshire Police
 ---
 
 # Woman in her teens fighting for life after crash with HGV while merging onto A1

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/6WhoYKo8UoN3qzhyFX7sYW-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- Adata
+- Apple
+- Get Tom's Hardware
+- HBF
+- Micron
+- OXMIQ
+- Redditor
+- SK
+- Samsung
+- SanDisk
+- Sandisk
+- Seagate
+- Svelte
+- Tom's Hardware
+- Xbox
 ---
 
 Tom's Hardware is an industry leader in SSD testing, reviews, and analysis. Here you can find all the details about the latest and greatest SSDs, including news and reviews covering the entire span of options with different types of storage interfaces and memory. We also have an extensive roster of buying guides to help you select the best SSD for you and your use case, including the best SSDs list, the best SSD for the PS5, and the best SSD for the Steam Deck.

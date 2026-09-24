@@ -12,6 +12,88 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Afghanistan
+- America
+- Atlantic
+- Australia
+- Azadi Square
+- Basra
+- Ben Gurion
+- Britain
+- Canada
+- China
+- Cuba
+- El Salvador
+- Florida
+- Gaza
+- Guantanamo Bay
+- Gulf
+- Iran
+- Iraq
+- Israel
+- Jerusalem
+- Libya
+- London
+- Manchester Arena
+- Middle East
+- New York
+- New Zealand
+- North Korea
+- Pakistan
+- Red Square
+- Russia
+- Sibylline
+- Strait of Hormuz
+- Tehran
+- Tel Aviv
+- Terrorism Confinement Centre
+- Thailand
+- Twin Towers
+- UK
+- US
+- Ukraine
+- Washington DC
+- West
+people:
+- Abdelhakim Belhaj
+- Alex Younger
+- Donald Trump
+- Emma Barnett
+- George W Bush
+- John Simpson
+- Kim Philby
+- Lord Evans
+- Lord Jonathan Evans
+- Mohammed Sidique Khan
+- Muammar Gaddafi
+- Osama Bin Laden
+- Richard Shirreff
+- Saddam Hussein
+- Sam Olsen
+- Tony Blair
+organisations:
+- British Army
+- CIA
+- Chinese Armed Forces
+- Commission
+- Counter Terrorism Operations Centre
+- FBI
+- Five Eyes
+- GCHQ
+- ISIS
+- MI5
+- MI6
+- National Counter Terrorism Center
+- National Intelligence
+- Nato
+- Police Counter Terrorism
+- Secret Intelligence Service
+- Security Service
+- Sibylline
+- Twin Towers
+- World Trade Centre
+- al-Qaeda
 ---
 
 **The first duty of a government, countless leaders over the decades have said, is to safeguard its population. On 11 September 2001 the US manifestly failed to do that. The intelligence was there, yet tragically, nobody joined up the dots in time.**

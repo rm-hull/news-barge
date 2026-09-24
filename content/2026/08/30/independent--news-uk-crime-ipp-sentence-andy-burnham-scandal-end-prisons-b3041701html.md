@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+people:
+- Abdullahi Suleman
+- Andrea Coomber
+- Andrew Harper
+- Andy Burnham
+- Bernadette Emerson
+- James Lawrence
+- John McDonnell
+- Josh Mcrae
+- Joshua Mcrae
+- Kim Johnson
+- Leroy Douglas
+- Liam Bennett
+- Luke Ings
+- Marc Conway
+- Nick Timothy
+- Shaun Lloyd
+- Shirley Debono
+- Thomas White
+- Tommy Nicol
+- Wayne Williams
+- Yusuf Ali
+organisations:
+- BBC
+- Howard League for Penal Reform
+- IPP Committee in Action
+- IPP Solidarity Movement
+- Ministry of Justice
+- New Labour
+- The Independent
+- UN
+- UNGRIPP
+- United Group for Reform of IPP
+- United Nations
+- Working Group
 ---
 
 The prime minister has announced he will end the injustice of indefinite jail terms in this parliament in a major victory for victims of the scandal.

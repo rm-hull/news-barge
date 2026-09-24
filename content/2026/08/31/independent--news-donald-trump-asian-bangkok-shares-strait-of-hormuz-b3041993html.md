@@ -14,6 +14,31 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Asia
+- Australia
+- Hong Kong
+- India
+- Jackson Hole
+- Middle East
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- Wyoming
+people:
+- Donald Trump
+- Kevin Warsh
+- Stephen Innes
+organisations:
+- Fed
+- SPI Asset Management
+- Sensex
+- Shein
+- Taiex
+- U.S. Federal Reserve
+- U.S. Treasury
 ---
 
 Shares were mostly lower in Asia and U.S. futures also declined Monday on expectations that the U.S. Federal Reserve may raise interest rates soon.

@@ -11,6 +11,51 @@ image: https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF-1280-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- AU
+- Hollywood
+- Stan
+- UK
+- US
+people:
+- '## Carrie'
+- CARRIE
+- Clark
+- Ethan Hawke
+- Grace
+- Hugh Grant
+- Kane Parson
+- Lucy
+- Margaret
+- Mary Kline
+- Mike Flanagan
+- Piper Laurie
+- Reed
+- Renate Reinsve
+- Riley
+- Samara Weaving
+- Shudder
+- Sissy Spacek
+- Sister Barnes
+- Sister Paxton
+- Sophie Thatcher
+- Stephen King
+organisations:
+- A24
+- AU
+- Chiwetel Ejiofor
+- Chloe East
+- Disney
+- Google News
+- Lionsgate
+- Lucy Buglass
+- Lucy Goes
+- MGM Studios
+- Netflix
+- Rotten Tomatoes
+- TechRadar
+- The Grabber
+- The Simpsons
 ---
 
 ![A disheveled Mary Kline looking scared while stuck between two yellow walls in A24's Backrooms movie](https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF.jpg) 

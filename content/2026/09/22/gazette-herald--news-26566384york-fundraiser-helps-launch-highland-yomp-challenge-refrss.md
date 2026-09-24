@@ -14,6 +14,20 @@ categories:
 - History
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21479186.jpg?type=og-image
+locations:
+- A York
+- Afghanistan
+- Perthshire
+- Scottish Highlands
+- UK
+people:
+- Commando Stevenson
+- Ed Smith
+- Gregg Stevenson
+- Iain Forbes
+organisations:
+- ABF
+- Army Benevolent Fund
 ---
 
 *(Image: Ed Smith)*

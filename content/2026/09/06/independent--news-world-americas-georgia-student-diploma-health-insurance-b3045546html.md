@@ -13,6 +13,21 @@ categories:
 - UK
 - Education & Learning
 - Health & Fitness
+locations:
+- Georgia
+- New York
+people:
+- Carla Merrell
+- Dylan Merrell
+- Reginald Shareef
+organisations:
+- AI
+- Blue Cross Blue Shield
+- CBS Atlanta
+- LIU
+- Long Island University
+- The EDGE Foundation
+- The Independent
 ---
 
 A college graduate from Georgia is being denied his diploma until he pays back a medical debt he incurred while he was enrolled at the university.

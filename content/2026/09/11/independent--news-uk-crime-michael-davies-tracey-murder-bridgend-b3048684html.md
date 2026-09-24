@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Abu Dhabi
+- Bridgend
+- Cefn Cribwr
+- South Wales
+people:
+- Claire Lamerton
+- Michael Davies
+- Tracey Davies
+organisations:
+- Newport Crown Court
+- South Wales Police
 ---
 
 A husband who strangled his wife in bed has been found guilty of murder.

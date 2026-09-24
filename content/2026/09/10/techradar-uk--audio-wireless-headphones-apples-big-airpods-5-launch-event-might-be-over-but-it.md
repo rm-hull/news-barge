@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/dhYBHopZJvTnhXm4RvPCD8-2034-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Culver City Campus
+people:
+- Tom Bedford
+organisations:
+- Android Police
+- Apple
+- BGR
+- Beats
+- Beats'
+- Bose QuietComfort Headphones3
+- Digital Trends
+- GamesRadar
+- Google News
+- MacRumors
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![Beats Culver City Campus](https://cdn.mos.cms.futurecdn.net/dhYBHopZJvTnhXm4RvPCD8.jpg) 

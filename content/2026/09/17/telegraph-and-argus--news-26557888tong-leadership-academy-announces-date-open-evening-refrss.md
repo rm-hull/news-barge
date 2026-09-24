@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bradford
+- UK
+- Westgate Hill Street
+people:
+- Tong
+organisations:
+- Star Academies
+- Tong Leadership Academy
 ---
 
 *(Image: Supplied)*

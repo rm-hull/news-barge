@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford East
+- Wakefield Road
+- Wakefield Road West Yorkshire
+- West Yorkshire Police
+people: []
+organisations:
+- '## Police'
+- BMW
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

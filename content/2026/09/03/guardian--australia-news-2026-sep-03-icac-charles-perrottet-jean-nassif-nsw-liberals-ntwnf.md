@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - True Crime
 - Business & Entrepreneurship
+locations:
+- Australia
+- Baulkham Hills
+- Crown Casino
+- Elliott
+- Lebanon
+- Melbourne
+- New South Wales
+- Toplace
+people:
+- '## **‘Charles'
+- Anita
+- Charles Perrottet
+- Christian Ellis
+- David Chandler
+- David Elliott
+- Dominic Perrottet
+- Jean Nassif
+- Jean-Claude Perrottet
+- Jeremy Greenwood
+- Peggy Dwyer SC
+- Robyn Preston
+- Sharangan Maheswaran
+- Toplace
+organisations:
+- Beckington
+- Cherrybrook
+- Icac
+- Independent Commission Against Corruption
+- NSW Liberal
+- NSW Liberals
+- Nobu
+- Perrottet
+- Toplace
 ---
 
 A property developer who allegedly made prohibited donations to support factional Liberal work claimed “the premier is my best friend” in a secretly recorded phone call the day after Dominic Perrottet was chosen as New South Wales premier, an inquiry has heard.

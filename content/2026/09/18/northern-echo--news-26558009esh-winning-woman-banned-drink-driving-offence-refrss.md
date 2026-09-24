@@ -12,6 +12,16 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- '** County Durham'
+- County Durham
+- Front Street
+- Quebec
+people:
+- Esh Winning
+- Kelly Wilson
+organisations:
+- BMW
 ---
 
 *(Image: None)*

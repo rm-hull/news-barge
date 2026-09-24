@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Africa
+- Bobo-Dioulasso
+- Burkina Faso
+- Houet Province
+- Ouagadougou
+- Sahara
+- Sahel
+people:
+- Adanabou Eric Pascal
+- Ibrahim Traoré
+- Kola Jean
+- Mdme Kaba Séré
+- Oumarou Compaoré
+- Pascal Bazongo
+organisations:
+- AP
+- Associated Press
+- Gates Foundation
+- U.N.
+- University of Fada N’Gourma
 ---
 
 The soil beneath Oumarou Compaoré's boots is sandy and stony. It’s hardly the lush setting usually needed to support growing pineapples.

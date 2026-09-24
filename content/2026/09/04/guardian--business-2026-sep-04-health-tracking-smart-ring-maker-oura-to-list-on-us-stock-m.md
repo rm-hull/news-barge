@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Finland
+- New York
+- San Francisco
+- US
+people:
+- Jennifer Aniston
+- Kim Kardashian
+- Meghan
+- Prince Harry
+- Tom Holland
+organisations:
+- Oura
 ---
 
 Fans of Oura are accustomed to using its trendy smart rings to fastidiously monitor their health but now investors are preparing to track a new metric: its share price.

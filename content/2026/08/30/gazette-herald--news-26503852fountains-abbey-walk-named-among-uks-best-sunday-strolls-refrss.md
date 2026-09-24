@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Fountains Abbey
+- Grindleford
+- Ripon
+- River Skell
+- Studley Royal
+- Studley Royal Walk
+- The Royal Oak
+- UK
+people:
+- Chris Lacey
+organisations:
+- Fountains Abbey
+- GO Outdoors
+- Padley Gorge Circular
+- Studley Royal Walk
+- UNESCO World Heritage Site
 ---
 
 *(Image: National Trust Images/, Chris Lacey)*

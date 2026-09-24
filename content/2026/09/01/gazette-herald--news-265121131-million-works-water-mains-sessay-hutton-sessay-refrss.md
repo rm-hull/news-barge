@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Bedale
+- East Cowton
+- Grassington
+- Hauxwell
+- Hunton
+- Hutton Sessay
+- Islebeck Lane
+- Low Lane
+- North Cowton
+- North Yorkshire
+- Sandy Lane
+- Settle
+- Sutton
+- Thirn
+- Thirsk
+- Thornton
+- Yedingham
+people:
+- Nichola Fairbairn
+organisations:
+- United Infrastructure
+- Yorkshire Water
 ---
 
 *(Image: Yorkshire Water)*

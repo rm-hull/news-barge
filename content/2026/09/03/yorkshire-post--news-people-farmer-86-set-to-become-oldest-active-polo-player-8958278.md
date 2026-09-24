@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Brazil
+- Driffield
+- England
+- Kenya
+- Nepal
+- New Zealand
+- Norfolk
+- North Yorkshire
+- Rio de Janeiro
+- Tadcaster
+people:
+- Armando Klabin
+- Caroline
+- Farmer
+- John Nash
+- Nashie
+- Riley-Smith
+- Toulston
+organisations:
+- Guinness World Records
+- Toulson Polo Club
+- Toulston Polo Club
+- White Rose Club
+- Yorkshire
 ---
 
 # Farmer, 86, set to become oldest active polo player

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Boston
+- Massachusetts
+people:
+- '### Lindsay Clancy'
+- Brad Bailey
+- Karen Read
+- Kevin Reddington
+- Lindsay Clancy
+- William Sullivan
+organisations: []
 ---
 
 The jury in Lindsay Clancy’s murder trial has once again told the judge that they are unable to reach a verdict on whether she is criminally responsible for killing her three children.

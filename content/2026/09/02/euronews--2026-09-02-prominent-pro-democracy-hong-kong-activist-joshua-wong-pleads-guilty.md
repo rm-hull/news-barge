@@ -12,6 +12,19 @@ image: https://images.euronews.com/articles/stories/09/89/78/05/1200x675_cmsv2_0
 categories:
 - Europe
 - News & Politics
+locations:
+- Beijing
+- China
+- Hong Kong
+- US
+people:
+- '## Wong'
+- Demosisto
+- Hang
+- Joshua Wong
+- Nathan Law
+organisations:
+- 2014 Occupy Movement
 ---
 
 ## Wong, already serving prison time for a separate case, pleaded guilty to a second offence under Beijing’s 2020 National Security law, which could see his sentence extended by a minimum of three years and up to life imprisonment.

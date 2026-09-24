@@ -14,6 +14,26 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Miami
+- Singapore
+- U.S.
+- Washington
+- Washington, D.C.
+people:
+- Colleen Kollar-Kotelly
+- Donald Trump
+- Jeandiel Serrano
+- Joe Biden
+- Malone Lam
+- Veer Chetal
+- Victim
+organisations:
+- FBI
+- Gemini
+- Google
+- Justice Department
+- ZachXBT
 ---
 
 A 22-year-old man pleaded guilty on Tuesday to pulling off one of the largest cryptocurrency thefts in history, duping a stranger out of bitcoin worth over $240 million.

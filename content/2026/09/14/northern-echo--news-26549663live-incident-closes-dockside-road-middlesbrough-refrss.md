@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Dockside Road
+- Middlesbrough
+people: []
+organisations:
+- Cleveland Police
+- The Northern Echo
 ---
 
 - Welcome to The Northern Echo's live blog on an incident on Dockside Road, Middlesbrough.

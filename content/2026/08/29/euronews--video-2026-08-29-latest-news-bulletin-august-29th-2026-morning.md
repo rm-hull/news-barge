@@ -12,6 +12,34 @@ image: https://images.euronews.com/articles/stories/09/89/36/36/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- Ceuta.
+- Congo
+- Europe
+- French Guiana.
+- Hirtenberg
+- Kisangani
+- Kyiv
+- Leobersdorf
+- Lithuania
+- London
+- Lower Austria.
+- Norway
+- Rasuwa Hydropower
+- Rome
+- Rétimajor
+- Seattle.
+- Slottsplassen
+- St Peter's Basilica
+- Ukraine
+people:
+- Daniil Mireshkin
+- Harald
+- Odysseus
+- Roger Kamba
+organisations:
+- Euronews
+- New Spitalfields Market
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dorset
+- London
+- Poole
+- Salisbury Crown Court
+- Sandbanks
+- US
+people:
+- Gemma Martin
+- Graham Gilbert
+- Harriet Summerhayes
+- Henry
+- Ms Martin
+- Paul Pressland
+organisations:
+- Ms Martin
+- Salisbury Law Court
+- Sandbanks
 ---
 
 A wealthy property developer strangled his wife in a drunken row after a family Sunday roast at their £3m Sandbanks home, a court has heard.

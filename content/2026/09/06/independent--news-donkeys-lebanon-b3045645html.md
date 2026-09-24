@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Lebanon
+people:
+- Al-Aawar
+- Kevin Nakhleh
+organisations: []
 ---
 
 Donkeys don bows and sunglasses for a summer race in southern Lebanon, in photos

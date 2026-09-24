@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- London
+- UK
+- Wales
+- Westminster
+- Whitehall
+people:
+- Andy Burnham
+- John Cunliffe
+- Keir Starmer
+organisations:
+- CCW
+- Consumer Council for Water
+- Cunliffe
+- Department for Environment Food and Rural Affairs
+- House of Commons
+- Independent Water Commission
 ---
 
 ![UK Prime Minister Andy Burnham speaks at the House of Commons in London, while wearing a navy suit with a burgundy tie and brown glasses.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/207e/live/73d40960-b172-11f1-b1d1-571ed4d7ff2c.png)

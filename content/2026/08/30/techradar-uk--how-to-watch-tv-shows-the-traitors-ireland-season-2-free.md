@@ -11,6 +11,34 @@ image: https://cdn.mos.cms.futurecdn.net/y4ep6pzXWaCLk6kMf78uud-1600-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- CA
+- Canada
+- Dublin
+- Ireland
+- Slane Castle
+- UK
+- US
+- uk
+people:
+- Adam Marshall
+- Kevin McGahern
+- Siobhán McSweeney
+organisations:
+- BBC iPlayer
+- Crave
+- Future Publishing
+- HBO
+- NordVPN
+- NordVPN**
+- Paramount Plus
+- Peacock
+- RTÉ One
+- RTÉ Player
+- TechRadar
+- Tom's Guide
+- Traitors Ireland
 ---
 
 ![The Traitors Ireland host Siobhán McSweeney standing in front of the logo for the show ahead of season 2.](https://cdn.mos.cms.futurecdn.net/y4ep6pzXWaCLk6kMf78uud.jpg) 

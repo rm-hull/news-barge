@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Britain
+- Fire Station
+- Middlesbrough
+- North East
+- North East Teesside
+- Stockton
+- Sunderland
+- Yarm
+people:
+- Chris Rea
+- Eoghan O’Neill
+- John McCoy
+- Mr Rea
+- Paul Casey
+organisations:
+- Arc
+- Charity Shop Girl
+- Goffy Media
+- Middlesbrough
+- Shamrock Diaries
+- Stockton
+- Sunderland
+- The Kirk Club
+- The Road to Hell
 ---
 
 *(Image: Supplied by Goffy Media)*

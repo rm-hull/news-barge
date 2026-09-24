@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aichi Prefecture
+- Costa Serena
+- Japan
+- Nagoya
+- South Korea
+people:
+- Abraham Tolentino
+- Hideaki Omura
+- Jung Jae-yong
+- Yuta Matsuo
+organisations:
+- AFP
+- Airbnb
+- Korea Basketball Association
+- Olympic Council of Asia
+- Philippine Olympic Committee
+- Reuters
 ---
 
 ![Wooden containers lined next to each other](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fcba/live/af1dbb70-b199-11f1-bcc9-0dceb5c756df.jpg)

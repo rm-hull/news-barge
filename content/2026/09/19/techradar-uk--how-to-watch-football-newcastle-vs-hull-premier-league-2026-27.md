@@ -13,6 +13,62 @@ categories:
 - Sports
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/Hmhb6jrhdRmB5txZx6AEjF-819-80.jpg
+locations:
+- Abu Dhabi
+- Australia
+- CA
+- Canada
+- England
+- London
+- Newcastle
+- St. James’ Park
+- UK
+- US
+- canada
+- uk
+people:
+- Adrian Back
+- Daniel Farke
+- Lukáš Horníček
+- Man Utd
+- Matt Crooks
+- Matthias Jaissle
+- Mohamed Belloumi
+- Nobel Mendy
+- Oli McBurnie
+- Ollie McBurnie
+- Sergej Jakirović
+organisations:
+- AU
+- BBC One
+- Chelsea
+- Formula 1
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Hull City
+- Instagram
+- Leeds
+- Magpies
+- Magpies'
+- NBA
+- Newcastle
+- Newsweek
+- NordVPN
+- Peacock
+- Premier League
+- PremierLeague
+- Red Bull
+- Sky Sports
+- Stan Sport
+- Super Rugby
+- TechRadar
+- Tigers
+- TikTok
+- Walmart
+- World Soccer Magazine
+- Yahoo
+- YouTube
 ---
 
 ![Mohamed Belloumi of Hull City celebrates their second goal with Nobel Mendy, Ollie McBurnie and Matt Crooks. ](https://cdn.mos.cms.futurecdn.net/Hmhb6jrhdRmB5txZx6AEjF.jpg)

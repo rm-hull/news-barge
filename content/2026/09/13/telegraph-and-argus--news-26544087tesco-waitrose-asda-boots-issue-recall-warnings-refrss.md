@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - Health & Fitness
 - Beauty & Skincare
+locations:
+- Republic of Ireland
+- Skin Micellar Cleansing Water
+- UK
+- Waitrose
+people:
+- Kimball
+organisations:
+- '## Boots'
+- ASDA
+- Asda Customer Relations
+- Black Olives
+- Consumer Careline
+- Disney
+- FSA
+- Food Standards Agency
+- Kennedy News
+- Ladies Handbags
+- OPSS
+- Office for Product Safety & Standards
+- Office for Product Safety and Standards
+- Primark
+- Simple
+- Superdrug
+- Tesco
+- Unilever’s Consumer Careline
+- Waitrose Customer Care
 ---
 
 *(Image: Getty)*

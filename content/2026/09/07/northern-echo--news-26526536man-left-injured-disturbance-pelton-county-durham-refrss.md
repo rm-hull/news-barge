@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bishop Auckland
+- Chester-Le-Street
+- Constance Street
+- County Durham
+- Ferryhill
+- Newton Aycliffe Aldi
+- Pelton
+people:
+- Boy
+organisations:
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- GOOGLE
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

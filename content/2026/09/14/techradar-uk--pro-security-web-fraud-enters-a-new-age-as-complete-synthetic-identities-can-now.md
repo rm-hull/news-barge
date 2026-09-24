@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/sFwyWVhzZ3pH6hBkwH8Lra-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Coveron
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Google News
+- NordLayer Intelligence
+- Represent Communications
+- TechRadar Pro
+- Telegram Channels
 ---
 
 ![Several figures wearing paper bags on their heads with smiley faces drawn on them.](https://cdn.mos.cms.futurecdn.net/sFwyWVhzZ3pH6hBkwH8Lra.jpg) 

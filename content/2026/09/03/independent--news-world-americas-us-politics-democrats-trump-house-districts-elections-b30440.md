@@ -12,6 +12,63 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Austin
+- Bexar County
+- Carson City
+- Charleston County
+- Fayette County
+- Iran
+- Kentucky
+- Lexington
+- Nevada House
+- Reno
+- San Antonio
+- Sen
+- South Carolina
+- South Texas’
+- Washington
+people:
+- Andy Barr
+- Andy Beshear
+- Ben Chandler
+- Carlos De La Cruz
+- Carlos de la Cruz
+- David Flippo
+- Donald Trump
+- James Settelmeyer
+- Jeffrey Epstein
+- Jenny Costa Honeycutt
+- Joe Cunningham
+- John Lujan
+- Johnny Garcia
+- Mark Amodei
+- Mike Johnson
+- Mike Marinella
+- Mitch McConnell
+- Monica De La Cruz
+- Nancy Lacore
+- Nancy Mace
+- Pete Hegseth
+- Ralph Alvarado
+- Suzan DelBene
+- Teresa Benitez-Thompson
+- Zach Dembo
+organisations:
+- 6th District
+- Air Force
+- Congress
+- Democratic Congressional Campaign Committee
+- Democratic Party
+- House
+- Kentucky
+- Legislature
+- National Republican Congressional Committee
+- Navy
+- Pentagon
+- South Carolina 1st District
+- Texas 35th District Major
+- Trump
 ---
 
 These contests are far from toss-ups, yet Democrats are eyeing ambitious long-shot House districts where Republicans reliably hold power. The party hopes an unexpected political wave in November could narrow the gaps in these traditional GOP strongholds.

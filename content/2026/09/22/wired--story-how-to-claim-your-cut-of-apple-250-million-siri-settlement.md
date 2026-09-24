@@ -13,6 +13,14 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/191:100/w_1280,c_limit/GettyImages-1683464893%20(1).jpg
+locations:
+- US
+people: []
+organisations:
+- Apple Intelligence
+- PayPal
+- Siri AI
+- Siri Apple Intelligence
 ---
 
 In May, Apple agreed to pay out $250 million as part of a class action lawsuit over claims the company overhyped its Apple Intelligence tools, specifically the long-delayed Siri AI overhaul.

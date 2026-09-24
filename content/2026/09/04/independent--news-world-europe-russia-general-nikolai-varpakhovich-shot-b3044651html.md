@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Engels
+- Kyiv
+- Okhmatdet Children's Hospital
+- Probuzhdenie
+- Russia
+- Saratov
+- Ukraine
+people:
+- Kyiv
+- Nikolai Varpakhovich
+- Vasyl Malyuk
+- Volodymyr Zelensky
+organisations:
+- 22nd Heavy Bomber Aviation Division
+- Kyiv
+- Mash
+- National Children's Specialized Hospital
+- Okhmatdyt
+- SBU
+- SotaVision
+- Varpakhovich
 ---
 
 A Russian general who was linked with an attack on a children’s hospital in Ukraine is seriously injured after being shot in the head, according to reports.

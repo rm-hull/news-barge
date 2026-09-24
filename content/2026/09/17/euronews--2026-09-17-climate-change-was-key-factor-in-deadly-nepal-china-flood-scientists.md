@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- China
+- Giza
+- Himalayas
+- Langtang Lirung
+- Nepal
+- Trishuli River
+people:
+- Ben Clarke
+- Friederike Otto
+- Jakob Steiner
+organisations:
+- Imperial College London
+- United Nations
+- University of Graz
+- World Weather Attribution
 ---
 
 ## Researchers said the flood was caused by a "compound crisis" shaped by long-term warming, glacier retreat, permafrost thaw and geological instability. A 2015 earthquake is also thought to have played a role.

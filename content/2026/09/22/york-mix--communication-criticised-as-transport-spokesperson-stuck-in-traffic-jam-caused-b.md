@@ -11,6 +11,25 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-monks-cross-link-road-works-sept-2026.webp
+locations:
+- Huntington
+- LNER Community Stadium
+- Monks Cross
+- Monks Cross Garden Village
+- Monks Cross Link Road
+people:
+- Carol Runciman
+- Chris Cullwick
+- Cllr Orrell
+- Cllr Ravilious
+- Kate Ravilious
+- Keith Orrell
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat Huntington
+- New Earswick
+- Redrow
 ---
 
 City of York Council’s transport spokesperson was stuck in traffic for more than an hour after being caught out by roadworks linked to a housing development.

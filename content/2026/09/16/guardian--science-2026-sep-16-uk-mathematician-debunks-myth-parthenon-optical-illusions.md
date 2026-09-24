@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Acropolis
+- Athens
+- Greece
+- Parthenon
+people:
+- Alain Goriely
+- Frank Salmon
+- Vitruvius
+organisations:
+- Parthenon
+- Royal Society Open Science
+- University of Cambridge
+- University of Oxford
 ---
 
 A mathematician has uncovered what may be one of the longest-running myths in history after studying optical illusions and the Parthenon, the famed Greek temple that overlooks Athens.

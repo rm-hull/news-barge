@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg
+locations:
+- Folkestone
+- Grand Burstin Hotel
+- London
+- Three Hills Sports Park
+people:
+- Ben Cuthbert
+- Bill Owen
+- Kathleen
+- Kevin Crawford
+- Lawrence Pater
+- Linden Kemkaran
+- Ross Honeycomb
+organisations:
+- BBC South East
+- Britannia Hotels Group
+- Folkestone & Hythe District Council
+- Grand Burstin Hotel
+- Kent County Council
+- Kent Fire & Rescue Service
+- Kent Police
+- South East Coast Ambulance Service
+- The Harbour Inn
 ---
 
 ![A fire in the basement of a hotel. Flames can be seen from below the building, and emergency services can be seen in the foreground.](https://ichef.bbci.co.uk/ace/standard/924/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg)

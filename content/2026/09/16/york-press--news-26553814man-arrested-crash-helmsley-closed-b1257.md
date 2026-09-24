@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Helmsley
+- North Yorkshire
+people: []
+organisations:
+- Mitsubishi
+- Newsquest
+- North Yorkshire Police
+- The Feversham Arms
 ---
 
 *(Image: Newsquest)*

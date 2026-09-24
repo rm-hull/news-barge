@@ -13,6 +13,25 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cheltenham
+- China
+- Iran
+- Netherlands
+- Russia
+- UK
+- US
+people:
+- Paul Chichester
+- Richard Horne
+organisations:
+- Chosen Brick
+- FBI
+- GCHQ
+- MOIS
+- Ministry of Intelligence and Security
+- NCSC
+- National Cyber Security Centre
 ---
 
 British intelligence has issued a warning after finding Iranian spies have targeted dissidents with spyware that can enable tracking of their movements.

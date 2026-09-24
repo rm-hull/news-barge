@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Bradford
+people:
+- Ian Walker
+- Nuzhat Rashid
+organisations:
+- Bradford Council
+- Darley Street Market
+- Nuzhat
+- TALLOW
 ---
 
 *(Image: Supplied)*

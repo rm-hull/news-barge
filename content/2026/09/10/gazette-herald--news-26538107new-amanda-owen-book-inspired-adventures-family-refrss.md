@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Huddersfield
+- North Yorkshire
+- Ravenseat Farm
+- UK
+people:
+- Amanda Owen
+organisations:
+- Becca Hall
+- Puffin
+- Sunday Times
+- THE Yorkshire Shepherdess
 ---
 
 THE Yorkshire Shepherdess Amanda Owen has released a new children’s book.

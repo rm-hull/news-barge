@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21481757.jpg?type=og-image
+locations:
+- County Durham
+- Coverdale
+- Darlington
+- Newton Aycliffe
+- RIGHTMOVE
+- STUART BOULTON
+- Shotley Bridge
+- St Michael's Church
+- Swineside Heighington
+people:
+- Heighington
+- Ptolemy Dean
+organisations:
+- A1
+- A68
+- BBC
+- Heighington Parish Council
+- STUART BOULTON
 ---
 
 A substantial detached family home on the edge of a County Durham village once judged to be “perfect” by the BBC is on the market.

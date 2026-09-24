@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- China
+- China-Nepal
+- Himalayas
+- India
+- Kathmandu
+- Kolkata
+- Nepal
+- Newbiggin
+- North East
+- North Yorkshire Gurkha
+- River Tyne
+- Trishuli River
+- UK
+- the-Sea
+people:
+- Alan Campbell
+- Anirban Battacharyya
+- Ian Lavery
+- Woman
+organisations:
+- Ashington
+- BBC
+- Blyth
+- FCDO
+- FCO
+- Foreign, Commonwealth and Development Office
+- House of Commons
+- The Guardian
+- Tynemouth
 ---
 
 A North East MP has voiced concern in Parliament for a constituent caught up in devastating floods in Nepal.

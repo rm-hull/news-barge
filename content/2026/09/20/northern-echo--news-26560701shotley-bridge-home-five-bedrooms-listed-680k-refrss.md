@@ -14,6 +14,16 @@ categories:
 - Lifestyle & Fashion
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21470880.jpg?type=og-image
+locations:
+- Barnard Castle
+- Benfieldside Road
+- Bishop Middleham
+- Harrington Brown
+- Shotley Bridge
+- St Cuthberts House
+people:
+- Harrington Brown
+organisations: []
 ---
 
 Set within the leafy grounds of St Cuthberts House in the village of Shotley Bridge is this detached family home that combines space, style and versatility.

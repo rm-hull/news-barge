@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Brisbane
+- Federation Square
+- Luca Ittimani
+- Melbourne
+- NSW
+- Nepal
+- Perth
+- RAAF Base Amberley
+- Sydney
+- Victoria
+- WA
+people:
+- AI
+- Ben Carroll
+- Bernie Smith
+- Cotality
+- Hanson Penny Wong
+- Jim Chalmers
+- Josh Stanyer
+- Josh Taylor
+- Michael Errey
+- Pauline Hanson
+- Penny Wong
+- Sophie Cotsis
+- Taylor Anderson
+- Tim Lawless
+- Tom McIlroy
+- Vic
+organisations:
+- AAP Australia
+- ABC
+- ACT
+- AI
+- Cotality
+- Labor
+- Non-Resident Nepali Association
+- One Nation
+- RAAF
+- SDA NSW
+- Senate
+- Shop and Warehouse Workers Union
+- Shutterstock
+- Treasury
+- WA
+- Zuma Press Wire
+- iStockphoto
 ---
 
 The typical capital city home price has slipped back below $1m as the number of buyers fall, Cotality says. Photograph: zstockphotos/Getty Images/iStockphoto

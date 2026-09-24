@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21484368.jpg?type=og-image&xType=0&yType=219
+locations:
+- Steeton
+people:
+- Alison Dixon
+- Anne Sedgwick
+- Christine Bank
+- Colin Surrey
+- Cynthia Bevan
+- David Openshaw
+- Dinah Whittingham
+- Gillian de ’Cort
+- Idris Wade
+- Irene Green
+- Jan Turner
+- Jennifer Martin
+- Josie Palmer
+- Judith Nevin
+- June Mosley
+- Linda Hudson
+- Linda Waterhouse
+- Ms Dixon
+- Pamela Rycroft
+- Pauline Starkey
+- Richard Bateson
+- Sandra Walton
+- Susan Bateson
+- Susan Duncan
+- Susan Ingham
+- Susan Surrey
+- Vincent Curran
+organisations:
+- Airedale General Hospital
+- Friends of Airedale
 ---
 
 *(Image: Friends of Airedale)*

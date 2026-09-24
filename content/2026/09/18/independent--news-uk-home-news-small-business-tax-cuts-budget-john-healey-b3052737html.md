@@ -12,6 +12,20 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/08/20/13/2290642680..?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Downing Street
+- England
+people:
+- Andy Burnham
+- John Healey
+- Kate Nicholls
+organisations:
+- Labour
+- SBRR
+- The Telegraph
+- Treasury
+- UKHospitality
 ---
 
 Chancellor John Healey is preparing to deliver tax cuts for high street businesses in his first Budget, as the Treasury considers sweeping reforms to England’s commercial property taxes, according to*The Telegraph*.

@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - History
+locations:
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+- York
+people: []
+organisations:
+- City of York Council
+- Newsquest
+- Yorkshire Water
 ---
 
 ## Part of major road in York city centre remains closed following storm damage

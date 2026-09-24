@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- A6110
+- Filey
+- Leeds Outer Ring Road
+- Welford Road
+- West Yorkshire Police
+- Wortley
+people:
+- Alan Lloyd
+- Dad
+- Grandad
+- Granddad Alan Lloyd
+- Nina Roper
+- Reece Manley
+organisations:
+- Kawasaki EX
+- M621
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

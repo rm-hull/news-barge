@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- A YORK
+- Acomb
+- Alice Kavanagh
+- Clifton Moor
+- Colliergate
+- Grade I
+- Malton
+- North Yorkshire
+- Pocklington
+- Popular York
+- Selby
+- St Leonard’s Hospice
+people:
+- Sarah Baldock
+organisations:
+- Acomb St Leonard
+- Alice Kavanagh
+- St Leonard
+- St Leonard’s Hospice
+- TLC
 ---
 
 ## WATCH - Popular York charity shop reopens after major renovation project

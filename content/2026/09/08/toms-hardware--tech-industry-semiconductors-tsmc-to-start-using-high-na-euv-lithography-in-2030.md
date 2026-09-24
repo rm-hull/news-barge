@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Anton Shilov
+- Christophe Fouquet
+- Tom
+organisations:
+- A12
+- A13
+- ASML
+- EDA
+- Get Tom's Hardware
+- Google News
+- High NA EUV
+- Intel
+- Samsung
+- TSMC
+- Tom’s Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj.jpg) 

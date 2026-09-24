@@ -14,6 +14,15 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Coron
+- Manila
+- Palawan
+- Philippines
+people:
+- Commodore Noemie Cayabyab
+- June Aster
+organisations: []
 ---
 
 Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead

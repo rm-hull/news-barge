@@ -11,6 +11,36 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/mVEGUNr4j5GaFJZjRyhfk3-450-80.png
+locations: []
+people:
+- Anton Shilov
+organisations:
+- AMD
+- Anton Shilov Published
+- Bruno Ferreira Published
+- CXMT
+- DDR4
+- DDR4MSI
+- DDR5CXMT
+- DDR5Gigabyte
+- DDR5Lexar
+- DRAMAcer
+- DRAMCXMT
+- DRAMChina
+- DRAMMicron
+- Hassam Nasir
+- Hassam Nasir Published
+- Jowi Morales
+- Jowi Morales Published
+- Luke James
+- MSI
+- Mark Tyson Published
+- Micron
+- News AnalysisDDR4
+- SK
+- Samsung
+- Stephen Warwick Published
+- Zak Killian Published
 ---
 
 ## Latest about DRAM

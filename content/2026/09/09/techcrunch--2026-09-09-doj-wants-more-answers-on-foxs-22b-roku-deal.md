@@ -11,6 +11,24 @@ image: https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=12
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- David Ellison
+- Fox
+- Lachlan Murdoch
+- Larry Ellison
+- Semafor
+- Trump
+organisations:
+- DOJ
+- Fox
+- Fox-Roku
+- Justice Department
+- Oracle
+- Paramount
+- Roku
+- Trump
+- Warner Bros
 ---
 
 Fox’s $22 billion plan to buy Roku has hit a new hurdle.

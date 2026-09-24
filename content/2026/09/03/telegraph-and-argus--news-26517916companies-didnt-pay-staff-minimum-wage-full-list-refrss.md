@@ -15,6 +15,19 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Guys
+- Jonathan Reynolds
+- Kate Dearden
+organisations:
+- Acas
+- B&Q
+- Department for Business and Trade
+- Five Guys
+- HMRC
+- NHS
 ---
 
 *(Image: Pixbay)*

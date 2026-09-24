@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Canada
+- Great Lake
+- Greenland
+- Gulf of America
+- Kingdom of Denmark
+- Lake America
+- Lake Ontario
+- Ottawa
+- U.S.
+- US
+people:
+- Donald Trump
+- Francois-Philippe Champagne
+- Mark Carney
+organisations:
+- Reuters/Ipsos
+- Trump
 ---
 
 While President Donald Trump seems to love the renaming of Lake Ontario to “Lake America,” the rest of America isn’t as thrilled, a new poll found.

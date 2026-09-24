@@ -14,6 +14,34 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Ball Room
+- Ball Room Annexe
+- Buckingham Palace
+- Durham Prison
+- Schweppes Still Malvern English Spring Water
+- West End
+people:
+- Charles
+- Elizabeth II
+- George VI
+- King
+- Philip
+- Queen
+organisations:
+- Ball Room
+- Blank Littlewoods Football Pool
+- Blue Drawing Room
+- Buckingham Palace
+- Daily Express
+- Diplomatic Corps
+- Great Train Robbers
+- Royal Family
+- Royal Household
+- State Dining Room
+- State Rooms
+- The Standard*
+- West Gallery
 ---
 
 A ticket to a card game night organised by the Royal Household’s social club nearly eight decades ago is among a collection of forgotten objects uncovered during ongoing restoration work at Buckingham Palace.

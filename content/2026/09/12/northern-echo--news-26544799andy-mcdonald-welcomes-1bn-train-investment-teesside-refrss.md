@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Adessia Stream
+- Britain
+- Manchester Airport-to-Saltburn
+- Metro
+- Middlesbrough
+- North East
+- North Yorkshire
+- Redcar
+- Saltburn
+- Teesside
+- Thornaby
+- UK
+- Yarm
+people:
+- Andy Burnham
+- Andy McDonald
+- Chris Jackson
+- Heidi Alexander
+- SARAH CALDECOTT
+organisations:
+- Department for Transport
+- Great British Railways
+- HGV
+- Labour Government
+- Middlesbrough
+- Thornaby East
+- TransPennine Express
+- TransPennine Route Upgrade
 ---
 
 *(Image: DEPARTMENT FOR TRANSPORT)*

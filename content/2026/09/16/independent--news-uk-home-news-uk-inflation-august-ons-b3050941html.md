@@ -12,6 +12,29 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Iran
+- Middle East
+- UK
+people:
+- Alice Haine
+- Grant Fitzner
+- John Healey
+- Liliana Danila
+- Scott Gardner
+organisations:
+- Bank of England
+- El Niño
+- Food and Drink Federation
+- Hargreaves Lansdown
+- J.P.
+- Morgan Personal Investing
+- ONS
+- Office for National Statistics
+- PA
+- RAC
+- The Independent
 ---
 
 The UK inflation rate rose to 3.1 per cent in the year to August, pushed up by “soaring” petrol and diesel prices.

@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Dushanbe
+- Independence Square
+- National Stadium
+- Tajikistan
+people: []
+organisations: []
 ---
 
 Tajikistan marked the 35th anniversary of its independence with a military parade in Dushanbe, where more than 27,000 personnel took part in a ceremonial march at Independence Square.

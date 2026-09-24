@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - Careers & Productivity
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate-civic-centre.webp
+locations:
+- A61
+- Harrogate Civic Centre
+- North Yorkshire
+people:
+- Edward Maxwell
+- Harry Briggs
+- Matt Robinson
+- Steve Brown
+organisations:
+- '## Parking Strategies'
+- '**Harrogate'
+- A59
+- Council Chamber
+- Democratic Services
+- Flow Control
+- Head of Parking Services
+- Head of Resilience and Emergencies
+- Head of Waste Operations
+- Knaresborough Area Committee
+- North Yorkshire Council Democratic Services Hub
+- Severe Weather Resilience
+- Street Scene
+- Waste Operations
 ---
 
 Senior highways and parking chiefs are set to descend on the Harrogate Civic Centre tomorrow morning for a high-stakes local government session, with the mounting crisis over regional roadworks coordination topping the municipal agenda.

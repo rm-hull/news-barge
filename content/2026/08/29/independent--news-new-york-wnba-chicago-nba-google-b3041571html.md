@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Chicago
+- United States of America
+people:
+- Aicha Coulibaly
+- Enes Kanter Freedom
+- Michael Alter
+- Natasha Cloud
+- Royce White
+organisations:
+- Chicago Sky
+- Freedom
+- Google
+- Indiana Fever
+- NBA
+- New York Liberty
+- The Associated Press
+- WNBA
 ---
 
 Natasha Cloud didn't want to waste time and energy talking about Enes Kanter Freedom on Saturday as she prepared for the Chicago Sky's game against the New York Liberty.

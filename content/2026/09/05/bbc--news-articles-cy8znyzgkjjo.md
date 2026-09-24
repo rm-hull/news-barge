@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cheshire
+- Dover Priory
+- England
+- English Channel
+- Folkestone
+- Folkstone
+- Herne Bay
+- Kent
+- London
+- Netherlands
+- Port of Dover
+- Sandwich
+- UK
+- Wales
+people:
+- Chris Vinson
+- Danny Thomas
+- Lania Tkaczyk
+- Mike Tapp
+- Nigel Farage
+- Paul King
+- Rafael Pittman
+- Remco van Schellen
+- Roger Gale
+- Tommy Robinson
+organisations:
+- BBC Radio Kent
+- DFDS
+- Deal
+- Dover District Council
+- Dover West
+- Facebook
+- Ferry
+- Kent Police
+- P&O
+- Patriot Platform
+- Reform UK
 ---
 
 Masked men chanting 'stop the boats' protest at Port of Dover

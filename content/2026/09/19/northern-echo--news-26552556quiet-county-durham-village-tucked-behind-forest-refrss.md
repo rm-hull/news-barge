@@ -15,6 +15,32 @@ categories:
 - Outdoors & Nature
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20006346.jpg?type=og-image
+locations:
+- '##'
+- Bedburn
+- Bishop Auckland
+- County Durham
+- Crook
+- Cross Keys
+- Darlington
+- Durham City
+- England
+- Hamsterley Forest
+- North East
+- North Yorkshire
+- Pennine
+- St James' Church
+- Teesdale
+- Wear Valley
+- Weardale
+- Woodland
+people:
+- Hamsterley
+- Roy Davenport
+organisations:
+- Forestry England
+- Hamsterley
+- Tow Law
 ---
 
 Hamsterley is the kind of County Durham village that manages to be known for something much bigger than itself.

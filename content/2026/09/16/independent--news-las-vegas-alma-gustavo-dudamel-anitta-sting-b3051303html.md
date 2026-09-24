@@ -12,6 +12,192 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Amarillo
+- BRava
+- Beele
+- Demian
+- Joaquina
+- LUX
+- Las Vegas
+- Quevedo
+- Rawayana
+- Venezuela
+people:
+- ARIA VEGA
+- Alex Cuba
+- Algo Nuevo De Ayer
+- Alma
+- Amaro Freitas
+- Anitta
+- Antes Que
+- Antes Que El Tiempo Se Vaya
+- Arath Herce
+- Bad Gyal
+- Becky G
+- Borondo
+- CONAN OSÍRIS
+- Candela,” Greeicy
+- Carminho
+- Carín León
+- Coleccionando Heridas
+- Color Fania
+- Como Se Ama
+- Contra Todo
+- Criolo
+- Cristian Castro
+- Cualquiera Se Enamora
+- Daddy Yankee
+- Dayhan Díaz
+- De Amor
+- De Parte Mía
+- Delilah
+- Desde Que Te Tengo
+- Dima Slobodeniouk
+- Dime
+- Dinastía
+- Dino d’Santiago
+- Djavan
+- Dora Sanches
+- Dosis
+- Edgar Barrera
+- Edward Gardner
+- Edén Muñoz
+- Elena Rose
+- Ese Hombre Es Malo
+- Estamos Todos
+- Eternamente Omara
+- FABIAN
+- FEMME FATALE
+- Federico Vindver
+- Femme Fatale
+- Fonseca
+- Gabriela Ortiz
+- Gilberto Santa Rosa
+- Grupo Frontera
+- Gustavo Dudamel
+- Ha Ha
+- Hasta Jesús Tuvo Un Mal Día
+- Humano
+- Improviso
+- Indole
+- Isabel Silvestre
+- Iván Gámez
+- J Balvin
+- Jenni Mosello
+- Johnny Hooker
+- Jorge Drexler
+- Jorge Luis Chacín
+- Josep Vicent
+- Juan Pablo Vega
+- Juanes
+- Julio Pereira
+- Julio Raposo
+- KAROL G
+- Kakalo
+- Kany García
+- Karina Canellakis
+- Karol G
+- Kendall Peña
+- La Niña Que Fui
+- La Perla
+- Leoni Torres
+- Los Tri-O
+- Loulu Gilberto
+- Ludom
+- Luedji Luna
+- Macario Martínez
+- Marco Antonio Solís
+- Marina Sena
+- Marisa Monte
+- Melancolía
+- Memória
+- Metamorfosis
+- Mi Gran Amor
+- Milo J
+- Moleirinha
+- Mon Laferte
+- Musas En Mi,” Arath Herce
+- Más Cara
+- Ney Matogrosso
+- Nilo
+- Niña Pastori
+- Niño
+- No Capea
+- No Vento De Nós
+- O Amor Nos Encontrou
+- Odyssey
+- Ojitos Bellos
+- Omar Courtz
+- Omara Portuondo
+- Omerta
+- Opus
+- Orgánico
+- Osadía
+- Paco Amoroso
+- Peso Pluma
+- Por Si Mañana No Estoy
+- Rauw Alejandro
+- Reliquia Do
+- Romantic Cello’
+- Rosalía Feat
+- Ryan Castro
+- Santana Feat
+- Santiago Ruiz “Tatool
+- Sara Schell
+- Sauvignon Blanc
+- Silvana Estrada
+- Sinfonia Em Quadrinhos
+- Sofia Monroy
+- Solifican12
+- Sua Onda
+- Sueños Y Cantares
+- Tamara Flores
+- Tania León
+- Taracá
+- Teo Planell
+- Tiago Costa
+- Tito
+- Urias
+- Vendrán Suaves Lluvias
+- Viver e Morrer De Amor Na América Latina
+- Vivir Quintana
+- Xavi
+- Yahritza y Su Esencia
+- Yanga
+- Yo Y Tú
+- Yoel Henriquez
+- Young Miko
+- Zanna
+- Zeca Veloso
+- maye
+- Águas De Um Mar Azul
+- Íntimo
+organisations:
+- Buenos Términos
+- Bzrp Music Sessions
+- CA7RIEL & Paco Amoroso
+- CA7RIEL & Paco Amoroso Feat
+- Daddy Yankee
+- En Vivo
+- Guerras Invisíveis
+- Horizons
+- INRI,” Los Tres
+- La Vida Era Más Corta
+- Latin Recording Academy
+- London Philharmonic Orchestra
+- London Symphony Orchestra
+- Los Angeles Philharmonic
+- MARINADA
+- Origins
+- Orquestra Jovem Tom Jobim
+- Pasajes
+- Raíces
+- Rosalía
+- Simón Bolívar Symphony Orchestra
+- Stride
+- The Drums
+- de Castelos & Ruínas
 ---
 
 Here's a selected list of nominees for the Latin Grammys 2026 as announced on Wednesday by the Latin Recording Academy. The 27th edition of the Latin Grammys will be celebrated on Nov. 12 in Las Vegas.

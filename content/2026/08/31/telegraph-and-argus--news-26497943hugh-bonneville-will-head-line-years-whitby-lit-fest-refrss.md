@@ -13,6 +13,45 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Coliseum
+- Downton Abbey
+- Paddington
+- Whitby Pavilion
+- Yorkshire
+people:
+- Alex Thomson
+- Ann Cleeves
+- Brown
+- Corinne Bailey Rae
+- Earl of Grantham
+- Elly Griffiths
+- Greta Scacchi
+- Hairy Biker Si King
+- Hugh Bonneville
+- Jess Kidd
+- Joanne Harris
+- John Boyne
+- Lois Kirtlan
+- Loretta Schauer
+- Louise Minchin
+- Lucinda Hawksley
+- Mark Billingham
+- Peter Oborne
+- Rory Sparkes
+- Sian Williams
+organisations:
+- Channel 4
+- Downton Abbey
+- Flowergate Hall
+- Jet Black Jewel
+- Northern Lights Suite
+- Sunday Times
+- The Boy
+- Whitby Library
+- Whitby Lit Fest
+- Whitby Museum
+- Whitby Pavilions
 ---
 
 *(Image: Supplied)*

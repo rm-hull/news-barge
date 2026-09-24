@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- England
+- Wales
+people:
+- Andy Burnham
+- Satvir Kaur
+organisations:
+- Protection Order Teams
+- Safeguarding and Violence Against Women and Girls
 ---
 
 *(Image: PA)*

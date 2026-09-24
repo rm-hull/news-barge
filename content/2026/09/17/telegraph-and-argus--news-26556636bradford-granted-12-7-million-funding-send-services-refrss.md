@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Tunbridge Wells
+people:
+- Imran Khan
+- Jim McMahon OBE
+- Rishi Sunak
+organisations:
+- '## Council'
+- BRADFORD Council
+- Bradford Bradford Council
+- Bradford Council
+- Bradford Council’s Reform UK-led Executive
+- Devolution and Regional Growth
+- District Special Educational Needs and Disabilities
+- EFS
+- Labour
+- SEND
+- Telegraph & Argus
+- Tory
+- UK Government
 ---
 
 *(Image: T&A)*

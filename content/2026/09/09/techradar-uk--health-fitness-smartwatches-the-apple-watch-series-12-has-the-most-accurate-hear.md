@@ -10,6 +10,17 @@ description: The Apple Watch 12 has arrived – see today's best preorder deals
 image: https://cdn.mos.cms.futurecdn.net/jUskjda3twDSmusBtBLwyD-2000-80.png
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Mackenzie Frazier
+organisations:
+- Amazon
+- Apple
+- Argos
+- TechRadar at Future plc
+- iPhone Duo
 ---
 
 ![Apple Watch 12](https://cdn.mos.cms.futurecdn.net/jUskjda3twDSmusBtBLwyD.png) 

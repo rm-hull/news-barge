@@ -14,6 +14,15 @@ categories:
 - York
 - Technology & Software
 - True Crime
+locations:
+- Ford Transit
+- Huddersfield
+- Leeds General Infirmary
+- Leeds Road
+- UK
+people: []
+organisations:
+- Ford Transit
 ---
 
 # Police update after Ford Transit crashes into wall outside bowling centre

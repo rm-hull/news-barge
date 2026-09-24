@@ -15,6 +15,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Europe
+- Germany
+- Sweden
+people:
+- Lars Klingbeil
+organisations:
+- EC
+- Finance Ministry
+- SPD
 ---
 
 Anyone who has lived in Germany for a while has probably encountered the famous “cash only” (*Nur Barzahlung*) sign.

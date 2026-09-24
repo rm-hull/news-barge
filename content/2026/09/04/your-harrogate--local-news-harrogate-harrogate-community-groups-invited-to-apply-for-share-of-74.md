@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Harrogate
+people:
+- Cllr Warr
+- Mark Warr
+organisations:
+- Finance and General Purposes Committee
+- General Purposes Committee
+- Harrogate Town Council
+- Small Grants Scheme
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a63a88140a778f0f.jpg) 

@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AIX
+- Alatau City
+- Astana
+- Central Asia
+- China
+- Kazakhstan
+- Kyrgyzstan
+- Oman
+- United Kingdom
+people:
+- Dimash Qudaibergen
+- Renat Bekturov
+- Timur Suleimenov
+organisations:
+- AFD
+- AFSA
+- AIFC
+- AIX
+- Astana Financial Services Authority
+- Astana International Exchange
+- Astana International Financial Centre
+- Junior Mining Platform
+- National Bank of Georgia
+- National Bank of Kazakhstan
+- Suleimenov
+- VCS
+- Valor Carbon
+- Verified Carbon Standard
 ---
 
 ## Around 8,000 participants from 90 countries, including representatives of major global financial institutions and asset managers with more than €22 trillion under their control wrap up their sessions in Astana Finance Days with discussion about further development of Central Asian financial markets.

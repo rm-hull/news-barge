@@ -11,6 +11,83 @@ image: https://i.guim.co.uk/img/media/ed6393748491c430e54fa03b6f014c581910ee71/1
 categories:
 - UK
 - News & Politics
+locations:
+- Antilles
+- Australia
+- Canada
+- Cuba
+- Dallas
+- Florida
+- Mexico
+- Texas
+- US
+- Washington
+- White House
+people:
+- Albert Huddleston
+- Alberto Martinez
+- Armando Labrador
+- Biden
+- Carlos Trujillo
+- Cohiba
+- Crowley
+- Dominari
+- Donald Trump
+- Erik Cartelle
+- Franklin Graham
+- John Barsa
+- Jorge Mas Santos
+- Marco Rubio
+- Mario Díaz-Balart
+- María Elvira-Salazar
+- Nicolás Maduro
+- Otto Reich
+- Pepe Fanjul
+- Ray Washburne
+- Raúl Castro
+- Raúl Guillermo Rodríguez Castro
+- Tony Costa
+- Viviana Bovo
+organisations:
+- American Sugar Refineries
+- Antilles Gold Ltd
+- Axios
+- CANCC
+- Citigroup
+- Continental Strategy –
+- Crab”
+- Cuban-American National Chamber of Commerce
+- DC
+- Digital News
+- Digital News Association Inc
+- Dominari Holdings
+- FHRC
+- Fortune
+- Foundation for Human Rights
+- Foundation for Human Rights in Cuba
+- GAESA
+- General Cigar Co
+- Global Emerging Markets
+- Guardian
+- House
+- Iberostar
+- MasTec
+- Mastercard
+- Meliá
+- Office Depot
+- Organization of American States
+- Rubio
+- Samaritan’s Purse
+- Sherritt International
+- State Department
+- The Cormac Group
+- Treasury
+- Trump Organization
+- Trump-ballroom
+- UN
+- USAID
+- Vima World SL
+- Visa
 ---
 
 Spanish hotel chains. A Canadian mining firm. European shipping giants. Visa and Mastercard. Scores of foreign companies have been driven out of Cuba this summer over fear of being hit with potent, new secondary sanctions. Marco Rubio, the secretary of state, told Axios last month there are “no escape valves” from his unprecedented pressure campaign against the island.

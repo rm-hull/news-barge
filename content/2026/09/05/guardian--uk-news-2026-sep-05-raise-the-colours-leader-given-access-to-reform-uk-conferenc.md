@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/7e45723c8f25a785a75e207e156689685799e235/1
 categories:
 - UK
 - News & Politics
+locations:
+- Abingdon Road
+- Birmingham
+- Brighton
+- Bromsgrove
+- East Sussex
+- England
+- France
+- Oxford
+- Oxfordshire
+- Ryan Bridge
+- Thames Valley
+- Worcestershire
+people:
+- Jeremy Kyle
+- Nigel Farage
+- Ryan Bridge
+organisations:
+- Bridge
+- Guardian
+- Raise the Colours
+- Reform UK
+- Restore Britain
+- St George
 ---
 
 The leader of a flag campaign group who was arrested on suspicion of causing religiously and racially aggravated harassment was given access to Reform UK’s annual conference.

@@ -15,6 +15,36 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Beijing
+- China
+- Europe
+- Guangdong
+- Hong Kong
+- Iran
+- London
+- New York
+- Singapore
+- U.S.
+- West
+people:
+- Gary Ng
+- Jacob Cooke
+- Leigh Gui
+- Lorraine Tan
+- Shein
+- Sky Xu
+- William Ma
+organisations:
+- Asia Pacific
+- EU
+- European Union
+- Everlane
+- GROW Investment Group
+- Morningstar
+- Natixis
+- Shein
+- WPIC Marketing + Technologies
 ---
 
 Shares in fast-fashion online retail giant Shein lost around 10% after it began trading on Hong Kong’s stock market Tuesday, after a long delay in the company’s plans to list its shares publicly.

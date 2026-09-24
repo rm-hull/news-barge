@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Boston
+- Massachusetts
+people:
+- Brad Bailey
+- Karen Read
+- Lindsay Clancy
+organisations:
+- Plymouth County District Attorney
 ---
 
 The judge in Lindsay Clancy’s murder case declared a mistrial Friday after deadlocked jurors failed to reach a verdict despite seven days of deliberations.

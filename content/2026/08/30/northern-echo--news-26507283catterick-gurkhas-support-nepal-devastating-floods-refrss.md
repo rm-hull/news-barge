@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- AP
+- Bhotekoshi River
+- Catterick Garrison
+- China
+- Devighat
+- Infantry Training Centre
+- Nepal
+- North Yorkshire
+- Nuwakot
+- PA
+- River Tyne
+- Tadi
+- Tibet
+- Trishuli
+- UK
+people: []
+organisations:
+- 2nd Infantry Training Battalion
+- Area Welfare Centres
+- British Army
+- Commandant Brigade of Gurkhas
+- DWP
+- Gurkha Brigade Association
+- Gurkha Company
+- Gurkha Welfare Trust
+- National Disaster Risk Reduction and Management Authority
+- Nepal Army
+- Rapid Deployment Team
 ---
 
 North Yorkshire’s Gurkha community has joined an international show of support for Nepal after catastrophic flooding killed more than 700 people and left thousands missing.

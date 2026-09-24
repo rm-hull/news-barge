@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Fishergate
+- Paragon Street
+- Piccadilly
+- Tower Street
+- Walmgate
+- York
+people: []
+organisations:
+- City of York Council
+- Yorkshire Water
 ---
 
 Good news for York drivers – the inner ring road is fully open.

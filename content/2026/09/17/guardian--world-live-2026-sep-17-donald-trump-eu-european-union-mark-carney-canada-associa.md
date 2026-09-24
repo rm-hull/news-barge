@@ -11,6 +11,122 @@ image: https://i.guim.co.uk/img/media/9f2661b34427c01edaf8291a0589125ad652a1fb/4
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Berlin
+- Brandenburg Gate
+- Bundestag
+- Champs-Élysées
+- Chancellery
+- China
+- East Germany
+- Evian-les-Bains
+- France
+- Gävle
+- Magdeburg
+- Meck-Pomm
+- Mecklenburg-Vorpommern
+- Mecklenburg-Western Pomerania
+- Moderates’
+- Moscow
+- North Rhine-Westphalia
+- Russia
+- Sager House
+- Saxony-Anhalt
+- Schloss Meseberg
+- Schwerin
+- Soviet Union
+- Stockholm
+- Strangnas
+- Sweden
+- UK
+- US
+- Ukraine
+- Washington
+people:
+- Anders Wiklund
+- Angela Merkel
+- Claudio Bresciani
+- Deborah Cole
+- Deborah Cole Chymist
+- Deborah Cole ColinDerek
+- Deborah Cole GrumpyOldFool
+- Deborah Cole JamesRyan
+- Deborah Cole Wd
+- Denis Balibouse
+- Die Linke
+- Donald Trump
+- Ebba Busch
+- Elisabeth Thand Ringqvist
+- Fabrizio Bensch
+- Friedrich Merz
+- Hendrik Wüst
+- Herr Merz
+- Jakub Krupa
+- Jens Büttner
+- Jimmie Åkesson
+- Jonathan Nackstrand
+- Lars Klingbeil
+- Leif-Erik Holm
+- Liesa Johannssen
+- Magdalena Andersson
+- Manuela Schwesig
+- Maryam Majd
+- Matthias Schräder
+- Moderaterna Ulf Kristersson
+- Nooshi Dadgostar
+- Olaf Scholz
+- Simona Mohamsson
+- Thibault Camus
+- Thomas Lohnes
+- Tobias Schwarz
+- Ulf Kristersson
+- Ulrich Siegmund
+- Vladimir Putin
+- Volker Hartmann
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- AP
+- AfD
+- Alternative for Germany
+- Annegret Hilse
+- Berlin Wall
+- CDU
+- Centre Party
+- Christian Democratic Union
+- Christian Democrats’
+- DPA
+- Die Linke
+- EU
+- Eiffel Tower
+- G7
+- Getty Images
+- Getty Images The Centre Party
+- Greens
+- Jonas Ekstromer
+- Kyiv
+- Left Party
+- Liberal Party
+- Macron
+- Mecklenburg-Western Pomerania State
+- Moderates’
+- Nato
+- Nicholas AylottofSödertörn University
+- Odd Andersen
+- Reuters Deborah
+- Reuters Kristersson
+- Riksdag
+- SPD
+- SVT
+- Shutterstock Deborah
+- Social Democratic Party
+- Social Democratic party
+- Social Democrat’s HQ
+- TT News Agency
+- TV4
+- Tidö
+- Welt TV
 ---
 
 Swedish PM Kristersson resigns after election defeat

@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Grangetown
+- Greystones Road
+people:
+- Andy Burnham
+- Roy
+organisations:
+- Cleveland Fire Brigade
 ---
 
 *(Image: FIRE SERVICE)*

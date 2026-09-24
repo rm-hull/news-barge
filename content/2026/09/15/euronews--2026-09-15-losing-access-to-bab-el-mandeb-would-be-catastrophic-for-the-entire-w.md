@@ -14,6 +14,34 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Africa
+- Arabian Peninsula
+- Asia
+- Bab al-Mandeb
+- Bab el-Mandeb
+- Doha
+- East-West
+- Europe
+- Greater and Lesser Hanish
+- Gulf of Aden
+- Houthi Red Sea
+- Iran
+- Mokha
+- Perim Island
+- Qatar
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- US
+- Yemen
+people:
+- Al Hashmi
+- Bab el-Mandeb
+- Ibrahim bin Sultan Al Hashmi
+organisations:
+- US Energy Information Administration
 ---
 
 ## The Houthi Red Sea coast offensive has placed another vital shipping route at risk as the Hormuz blockade disrupts trade and energy supplies. Qatar said closing the Red Sea gateway would worsen the crisis and has called for a diplomatic solution.

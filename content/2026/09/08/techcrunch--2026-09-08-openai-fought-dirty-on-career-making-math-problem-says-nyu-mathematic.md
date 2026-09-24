@@ -12,6 +12,27 @@ image: https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Diego
+- OpenAI
+people:
+- Bubeck
+- Claude AI
+- Fefferman
+- Levent Alpöge
+- Luis
+- Tristan Buckmaster
+organisations:
+- AI
+- Alpöge
+- Anthropic
+- Astra
+- Buckmaster
+- Buckmaster’s
+- Clay Mathematics Institute
+- Codex
+- NYU
+- OpenAI
 ---
 
 NYU mathematics professor Tristan Buckmaster announced three proofs on Tuesday with a preliminary finding on one of the major unsolved problems in theoretical mathematics. The findings, made in collaboration with Anthropic mathematician Levent Alpöge and using both Codex and Claude AI models, are significant in themselves — but they’re also accompanied by an unusual controversy surrounding OpenAI’s attempts to solve the same problem.

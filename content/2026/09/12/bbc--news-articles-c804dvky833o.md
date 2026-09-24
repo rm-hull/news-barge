@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Cagnes-sur-Mer
+- Denis Diderot Maison des Lumières
+- Europe
+- France
+- Langres
+- Louvre
+- Paris
+- Renoir
+- Spain
+- Sweden
+- Vienna
+people:
+- Arthur Brand
+- Christopher A. Marinello
+- Ibrahim Bulut
+- Kumar Sokka
+- Lilli Hollein
+- Madeleine Lake
+- Peg Magnusson
+- Pierre-Auguste Renoir
+- Théo Caviezel
+- Vincent van Gogh
+organisations:
+- ARCA
+- Acre Security
+- Art Recovery International
+- Association for Research into Crimes against Art
+- BBC
+- Brand
+- Bronze Age
+- Europol
+- House of Enlightenment
+- International Committee for Museum Security
+- Louvre
+- MAK
+- Madame Colonna Romano
+- Maison des Lumières
+- Museum of Applied Arts
+- Musée Renoir
+- Renoir Museum
+- Reuters
+- Sokka
+- UNESCO
 ---
 
 ![A composite image of two photos. On the left a local policeman with the words POLICE on his back stands next to a hole in the outer fence of the Renoir Museum. There is police tape across the fence. On the right is a painting of a woman sitting on an old-fashioned chaise-longue. She is wearing a floaty white dress with a piece of blue fabric as a belt.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/4d48/live/a7c0a8c0-ac48-11f1-96a2-2f464854ded4.png)

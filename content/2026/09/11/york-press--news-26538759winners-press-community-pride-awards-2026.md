@@ -12,6 +12,39 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Britain
+- Parkinson’s UK
+- York Racecourse
+people:
+- Alison Goude
+- Aviva
+- Ben Hardy
+- Ceri Wright
+- Duncan Wood
+- Ella Bond
+- Finley Barrett-Carter
+- Grace Kirby
+- Lexi Medforth
+- Livia
+- Millie
+- Nigel *(Image
+- Rosie Stewart
+- Ruby
+- Tim Bryan
+organisations:
+- Acute Hepatitis Associated Aplastic Anaemia
+- Chocolate Works Care Home
+- Lord Deramore’s Primary School
+- Meningitis Research Foundation
+- Millie Wright Children’s Charity
+- Parkinson’s UK
+- Rawcliffe Rovers
+- Rawcliffe Rovers U16s Football Team
+- St Nicks
+- The Press
+- Urban Wild Youth Group
+- York Museums Trust
 ---
 
 ## Winners of The Press York Community Pride Awards revealed

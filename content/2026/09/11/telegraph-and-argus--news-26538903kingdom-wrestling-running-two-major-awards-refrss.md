@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Shipley
+people:
+- Gareth ‘Angel’ Thompson
+organisations:
+- Darley St Market
+- Keighley Library
+- Kingdom Wrestling
 ---
 
 *(Image: Supplied)*

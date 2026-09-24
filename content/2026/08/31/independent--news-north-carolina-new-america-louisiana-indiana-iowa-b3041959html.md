@@ -13,6 +13,44 @@ categories:
 - UK
 - Education & Learning
 - Careers & Productivity
+locations:
+- Indiana
+- Iowa
+- Kansas City
+- Louisiana
+- Michigan
+- Nebraska
+- New America
+- North Carolina
+- Pennsylvania
+- Washington
+- Winston-Salem
+people:
+- Carrie Warick-Smith
+- Chandler LeBoeuf
+- Devin Purgason
+- Dominique Baker
+- Grant Carlson
+- Jim Hermes
+- Robert Kelchen
+- Sydney Webb
+- Taylor Swift
+- Wesley Whistle
+organisations:
+- AP
+- American Association of Community Colleges
+- Associated Press’
+- Association of Community College Trustees
+- Forsyth Tech
+- Forsyth Technical Community College
+- Johnson County Community College
+- Louisiana Community and Technical College System
+- National Center for Education Statistics
+- Ticketmaster
+- Trump
+- University of Delaware
+- University of Tennessee
+- Workforce Pell
 ---
 
 Sydney Webb scrimped and saved to pay for an eight-week certified nursing assistant program at a North Carolina community college.

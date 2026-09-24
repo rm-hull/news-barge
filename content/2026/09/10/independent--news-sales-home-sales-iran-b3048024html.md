@@ -16,6 +16,14 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 - Business & Entrepreneurship
+locations:
+- Iran
+- U.S.
+people: []
+organisations:
+- FactSet
+- NAR
+- National Association of Realtors
 ---
 
 Sales of previously occupied U.S. homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.

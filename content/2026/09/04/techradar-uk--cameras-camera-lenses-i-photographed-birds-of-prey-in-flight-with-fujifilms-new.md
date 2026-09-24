@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Film & TV
 - Photography & Video
+locations:
+- Australia
+- Kenya
+- Nairobi
+- UK
+people:
+- Tim Coleman
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Fujifilm
+- Google News
+- Hawks
+- Nikon
+- Sony
+- TechRadar Cameras
 ---
 
 ![A black-chested buzzard eagle in flight (left) and TechRadar Cameras Editor Tim Coleman holding a Fujifilm camera and telephoto lens in same location outdoors (right)](https://cdn.mos.cms.futurecdn.net/zK3FyvEjY4uWtYKXA6qdDb.jpg) 

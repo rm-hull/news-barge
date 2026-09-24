@@ -10,6 +10,70 @@ image: https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Australia
+- CA
+- Canada
+- India
+- Ireland
+- UK
+- US
+people:
+- Kenan Thompson
+- Kevin Hart
+- Krishi
+- Kyle Larson
+- Novak Djokovic
+- Rory McIlroy
+- Ted Lasso
+organisations:
+- ATP
+- AU
+- Amazon Fire TV Sticks
+- Amazon Originals
+- Amazon Prime Video
+- Apple TV
+- Apple TV 4K
+- Champions League
+- Chromecast
+- Comcast
+- Cubes
+- DAZN
+- English Premier League
+- Fire Tablets
+- Future Publishing
+- Google Chrome
+- Krishi
+- LG
+- MLB Network
+- Microsoft Edge
+- Microsoft Internet Explorer
+- Microsoft Xbox
+- Mozilla Firefox
+- NASCAR
+- NBA League Pass
+- NBA TV
+- NFL
+- Nvidia Shield
+- PS4
+- PS5
+- Panasonic
+- Prime Video
+- Roku
+- Samsung
+- Sony PlayStations
+- TechRadar
+- Techopedia
+- Tennis Channel
+- The Tech Report
+- Tom's Guide
+- UFC
+- WNBA League Pass
+- WTA
+- WWE
+- Willow
+- beIN Sports
 ---
 
 ![The logo of e-commerce subscription service Amazon Prime is seen displayed on a smartphone in front of an abstract background](https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF.jpg) 

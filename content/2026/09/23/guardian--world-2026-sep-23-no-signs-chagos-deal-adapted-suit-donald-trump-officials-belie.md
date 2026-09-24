@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/156523eec2f23040517498bcd70e8465f7a15210/0_17_4650_3720/master/4650.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2eeca294bec50eb73134d68546d05759
+locations:
+- Chagos Islands
+- Diego Garcia
+- Indian Ocean
+- Iran
+- Mauritius
+- New York
+- UK
+- US
+- Washington
+people:
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Rishi Sunak
+- Wes Streeting
+organisations:
+- BBC Radio 4’s Today
+- UN
 ---
 
 The Chagos Islands deal is on hold for as long as Donald Trump objects to it, UK officials believe, with no immediate signs it can be adapted to suit the US president.

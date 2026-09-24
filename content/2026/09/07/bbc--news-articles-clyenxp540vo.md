@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Eiffel Tower
+- France
+- London
+- Los Angeles
+- Paris
+- Sydney
+people:
+- Ariel Weil
+- Diane Davoine
+- Emmanuel Grégoire
+- Gabriel Attal
+- Marine Le Pen
+- Yaël Braun-Pivet
+organisations:
+- AFP
+- BAPS
+- BBC
+- Bochasanwasi Akshar Purushottam Swaminarayan Sanstha
+- CGT
+- Eiffel Tower
+- National Assembly
+- Reuters
+- SETE
+- Union Confédération générale du travail
 ---
 
 ![A man wearing a backpack is out of focus in the foreground of the picture, which shows the entrance to the Eiffel Tower and a sign showing that it is closed.](https://ichef.bbci.co.uk/ace/standard/862/cpsprodpb/003c/live/32769c20-ab0b-11f1-8752-55e448d02b6b.jpg)

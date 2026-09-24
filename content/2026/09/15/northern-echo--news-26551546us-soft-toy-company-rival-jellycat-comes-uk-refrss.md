@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Chad Valley
+- Chad Valley Alfie
+- Jo
+- UK
+people:
+- Chantal Pearce
+- Colette Duck
+- John Lewis
+- John Lewis’
+- Mon Ami
+- Sara Fulmer
+organisations:
+- '## Argos'
+- Jellycat
+- John Lewis
+- John Lewis'
+- Mon Ami
 ---
 
 *(Image: Getty Images)*

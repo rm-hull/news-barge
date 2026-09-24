@@ -12,6 +12,50 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Abingdon
+- Benenden
+- Denmark
+- England
+- Kent
+- Oxfordshire
+- River Thames
+- Suffolk
+- Thames Water
+- UK
+- Wales
+- Wembley Stadium
+- Wessex Water
+people:
+- Daniel Johns
+- Daniel Sizer
+- Emma Barnett
+- Esme Stallard
+- Feargal Sharkey
+- James Ramsay
+- John Keats
+- John Simpson
+- Nicci Russell
+- Paul Tomkins
+- Ross Woods
+- Will Willoughby
+organisations:
+- Affinity Water
+- Cunliffe Review
+- Daniel's
+- Danva
+- EA
+- Environment Agency
+- Lightsonic
+- National Farmers' Union of England and Wales
+- Nationally Significant Infrastructure Projects
+- Ofwat
+- Radio 4
+- Southern
+- The Undertones
+- University of Bristol
+- Water Resources East
+- Waterwise
 ---
 
 ![Esme Stallard](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/144a/live/8ec2aae0-a2ec-11f1-a291-b542ee92de7c.png)

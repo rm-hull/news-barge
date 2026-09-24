@@ -11,6 +11,23 @@ image: https://media.wired.com/photos/6a98a54e69e7125a8c6504dc/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Brooklyn
+- New York City
+people:
+- Airthings
+- Lisa Wood Shapiro
+organisations:
+- AQI
+- AirNow
+- AirVisual
+- Airthings View Plus
+- Best Air Purifiers
+- Google**
+- IQAir
+- PurpleAir
+- US EPA Standards
+- WIRED Reviews
 ---
 
 Having An air quality monitor for your home is more important than you may think. As climate change speeds up and wildfires increasingly engulf large swaths of land, leaving behind smoke that makes air potentially hazardous to breathe, it's more important than ever to ensure you're breathing clean air. An at-home air quality monitor is a simple way to ensure that, whether it be car exhaust, wildfire smoke, pollutants from seasonal changes, or simply fumes from your gas stove, the air around you is safe to breathe.

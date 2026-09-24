@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- California
+- India
+- Mexico
+- Sacramento County
+- U.S.
+people:
+- Jim Cooper
+- Raissa Morris
+- Rohit Rohit
+- Shalini Thakur
+- Sudesh Kumari
+organisations:
+- ABC 7
+- Border Patrol
+- CBS News
+- CNN
+- DHS
+- Department of Homeland Security
+- DoorDash
+- KCRA
+- Panera Bread
+- Sacramento County Sheriff’s Office
+- Sacremento County Sheriff's Office
+- Social Security
+- The Independent
 ---
 
 A California woman was shot dead in the street by a man who had stalked her for months, authorities say.

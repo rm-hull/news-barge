@@ -12,6 +12,11 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- UK
+people: []
+organisations:
+- Wheeldon Brothers
 ---
 
 *(Image: Getty)*

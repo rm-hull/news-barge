@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- CXMT
+- ChangXin Memory Technologies
+- DDR5
+- Get Tom's Hardware
+- HBM
+- MSI
+- Micron
+- Samsung
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg)

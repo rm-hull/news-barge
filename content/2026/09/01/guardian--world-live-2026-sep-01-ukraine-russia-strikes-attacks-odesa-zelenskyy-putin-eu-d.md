@@ -13,6 +13,60 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Akershus Fortress
+- Berlin
+- Brandenburg
+- Britain
+- Germany
+- Italy
+- Jänschwalde
+- Kyiv
+- Leipzig
+- Moscow
+- Norway
+- Oslo Cathedral
+- Palermo Russia
+- Rome
+- Turnow-Preilack
+- Ukraine
+- Washington
+people:
+- Anatolii Stepanov
+- Cornelius Poppe
+- Dylan Martinez
+- Guido Crosetto
+- Haakon VIII
+- Handesblatt
+- Harald V
+- Ingrid Alexandra
+- Jonas Gahr Støre
+- King
+- Lorenzo Tondo
+- Maria Zakharova
+- Masud Gharahkhani
+- Mette-Marit
+- Mykhailo Fedorov
+organisations:
+- 50Hertz
+- AFP
+- Ansa
+- Claudia Greco
+- Constitution
+- DPA
+- Die Welt
+- Kyiv
+- MAZ
+- Military Academy
+- Märkische Allgemeine
+- NRK
+- NTB
+- Norstat
+- Oath of Allegiance
+- Reuters Norway
+- Reuters Russia
+- Royal Flag
+- Royal Palace Chapel
 ---
 
 German police investigating reported explosives at Brandenburg power substation

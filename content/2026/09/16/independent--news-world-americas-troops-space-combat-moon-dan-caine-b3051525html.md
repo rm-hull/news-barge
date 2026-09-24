@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Earth
+- People's Republic of China
+- Russia
+- U.S.
+- US
+- Washington
+people:
+- Dan Caine
+- Donald Trump
+- Gregory Gagnon
+- Guo Jiakun
+- Troy Meink
+organisations:
+- '## Space Force'
+- Air Force
+- Air, Space and Cyber Conference
+- Combat Forces Command
+- Joint Chiefs of Staff
+- PRC
+- Pentagon
+- Space Force
+- U.S. Space Force
+- UN
 ---
 
 American troops must ready themselves for combat not only in Earth's orbit but in the region surrounding the moon, according to President Donald Trump’s top military adviser on Wednesday, following the first public revelation that the U.S. has deployed weapons in space.

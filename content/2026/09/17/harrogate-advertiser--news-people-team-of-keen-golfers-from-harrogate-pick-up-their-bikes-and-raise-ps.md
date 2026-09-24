@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjc2YzcyLTFlNDEtNGExMi1hNDc0LTQzOTQ5MzI0YjBkMTo4ZDFhMjVlZi02NTg0LTQzNTQtODMxYy1kZDUzZWM3OGI2ZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bordeaux
+- Harrogate
+- London
+- Portsmouth
+- St Malo
+- Yorkshire
+people:
+- David Rowley
+- Paddy Kidd
+- Phil Webb
+- Rob George
+- Simon Grafton
+- Tim North
+organisations:
+- Bordeaux
+- Brain Tumour Charity
+- Harrogate
+- Yorkshire
 ---
 
 # Team of keen golfers from Harrogate pick up their bikes and raise £41k for Yorkshire's Brain Tumour Charity

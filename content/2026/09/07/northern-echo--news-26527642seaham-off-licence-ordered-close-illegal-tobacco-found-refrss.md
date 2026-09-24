@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- DURHAM COUNTY
+- Deneside
+- Middlesbrough Man
+- Newton Aycliffe
+- North East
+- Seaham
+- The Avenue
+- UK
+people:
+- Owen Cleugh
+organisations:
+- Durham County Council
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

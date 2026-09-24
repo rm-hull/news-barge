@@ -11,6 +11,55 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alberta
+- America
+- British Columbia
+- Canada
+- China
+- Europe
+- Illinois
+- Kitchener-Cambridge-Waterloo
+- Labrador
+- London
+- Mexico
+- New Brunswick
+- New York
+- Newfoundland
+- Ohio
+- Ontario
+- Oshawa
+- Paris
+- Pennsylvania
+- Prince Edward Island
+- Quebec
+- Saskatchewan
+- Toronto
+- UK
+- US
+- Vietnam
+- White House
+people:
+- Carney
+- Derek Holt
+- Donald Trump
+- John Deere
+- Matteo Sgaramella
+- Trevor Tombe
+organisations:
+- BBC
+- Bank of Canada
+- CABC
+- Canadian American Business Council
+- Canadian Chamber of Commerce
+- Center for American Progress
+- Outclass
+- Royal Bank of Canada
+- Scotiabank
+- Statistics Canada
+- Trump
+- US-based Tax Foundation
+- USMCA
 ---
 
 ![A graphic  shows stylised images of the Canadian and US flags over graphs](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png)

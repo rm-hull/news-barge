@@ -11,6 +11,56 @@ image: https://static.independent.co.uk/2026/09/08/01/07-57465b58226e45c6bda4631
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- Lansing
+- Mexico
+- Michigan
+- Pennsylvania
+- Rio Grande Valley
+- South Carolina
+- South Texas
+- U.S.
+- Washington
+- White House
+people:
+- Abel Prado
+- Bobby Pulido
+- Dan Patrick
+- Dan Podcast
+- Donald Trump
+- Donald Trump Jr
+- JD Vance
+- James Talarico
+- John Cornyn
+- Karoline Leavitt
+- Ken Paxton
+- Matt Beynon
+- Mike Johnson
+- Mike Rogers
+- Monica de la Cruz
+- Rick Tyler
+- Robert F. Kennedy Jr.
+- Scott Bessent
+- Scott Perry
+- Suzan DelBene
+- Tejano
+- Texas Ken Paxton
+- Tom Barrett
+organisations:
+- '## Trump'
+- Congress
+- DCCC
+- Democratic Congressional Campaign Committee
+- GOP
+- House
+- MAGA Inc.
+- Michigan Senate
+- NFL
+- Republican Party
+- Securing American Greatness
+- Treasury
 ---
 
 Channeling a western persona, President Donald Trump is heading to Dallas for this week's Republican convention to rescue his party's prospects ahead of the upcoming midterm elections.

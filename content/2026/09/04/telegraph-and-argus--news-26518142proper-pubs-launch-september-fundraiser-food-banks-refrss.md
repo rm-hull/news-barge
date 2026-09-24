@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- England
+- Proper Pubs
+- Scotland
+- UK
+- Wales
+people:
+- Nathan Wall
+organisations:
+- Admiral Taverns
+- Carling
+- Proper Pubs
 ---
 
 *(Image: Proper Pubs)*

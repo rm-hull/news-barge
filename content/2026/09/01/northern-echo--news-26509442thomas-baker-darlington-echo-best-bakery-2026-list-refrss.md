@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Carlisle
+- County Durham
+- Dalston Road
+- Darlington
+- Helmsley
+- Malton
+- North East
+- North Yorkshire Moors National Park
+- The Yorkshire
+people:
+- John Thomas
+- Thomas the Baker
+organisations:
+- 5NP
+- Bakerman
+- Bank Top Bakery
+- High Row
+- LOCALLY House
+- NORTHERN ECHO
+- Number Eight Bakehouse
+- The Leas Bakery
+- Thomas the Baker
 ---
 
 *(Image: NORTHERN ECHO)*

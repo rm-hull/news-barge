@@ -11,6 +11,38 @@ description: Is the mirrorless camera market about to see a big shake-up driven 
 image: https://cdn.mos.cms.futurecdn.net/iUwzMGgbSoKtqBVknakHqd-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Hasselblad
+- Japan
+- Kenya
+- Nairobi
+- Shenzhen
+people:
+- Jingkang 'JK
+- Liu
+- Tim Coleman
+- Timothy Coleman
+- Viltrox
+organisations:
+- Amateur Photographer
+- Canon
+- DJI
+- Fujifilm
+- GoPro
+- Google News
+- Insta360
+- L-mount
+- Nano
+- Nikon
+- OM System
+- Panasonic
+- Pentax
+- Ricoh
+- Sigma
+- Sony
+- TechRadar
+- Viltrox
 ---
 
 ![Insta360 Ace Pro 2 action camera housed inside grip accessory, in user's hand](https://cdn.mos.cms.futurecdn.net/iUwzMGgbSoKtqBVknakHqd.jpg) 

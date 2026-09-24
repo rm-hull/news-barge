@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM5NWQxMjNjLWNkNDUtNGFjNi1hMzlhLTAyMWU5NWYwN2IzNTo0ZTljMjZjZC1mMjAzLTQyNmYtOWUyYS00ODYzOWQzYjIzMjM=.jpg?crop=3:2,smart&trim=&width=865&auto=webp&quality=75
+locations:
+- Judson Close
+- Lister House
+- North Yorkshire Police
+- 'Ripon ##'
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 # Windows smashed and fuel tank damaged after minibus targeted by vandals in Ripon

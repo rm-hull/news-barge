@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Croke Park
+- Croke Park.
+- Dublin
+people:
+- Alycia Baumgardner
+- Barry Jones
+- Carl Frampton
+- Caroline Dubois
+- Claressa Shields
+- Flora Pili
+- Katie Taylor
+- Londoner Dubois
+- Mikaela Mayer
+- Tony Bellew
+organisations:
+- Pili
+- Taylor
 ---
 
 ![Katie Taylor celebrates after her win](https://ichef.bbci.co.uk/ace/standard/991/cpsprodpb/bf73/live/598dbda0-a982-11f1-bc2e-61004864d4a3.jpg)

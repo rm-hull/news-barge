@@ -13,6 +13,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/02/41/1200x675_cmsv2_5c3c9748-b063-5ccb-a42c-1bf3c88bf379-9920241.jpg
+locations:
+- France
+- Greece
+- Iran
+- Italy
+- Paris
+- Portugal
+- Spain
+people:
+- Amelie de Montchalin
+- Sebastian Lecornu
+organisations:
+- EU
+- Eiffel Tower
+- HCFP
+- High Council of Public Finances
+- Insee
+- Le Parisien
 ---
 
 ## France is facing mounting pressure to rein in its public finances as it prepares a €54 billion package of spending cuts for next year.

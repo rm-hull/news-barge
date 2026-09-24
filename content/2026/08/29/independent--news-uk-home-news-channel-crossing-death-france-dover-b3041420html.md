@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Blackpool Promenade
+- Channel
+- Dover
+- Gareth Fuller
+- Gravelines
+- Home Office
+- Kent
+- PA
+- Prefecture maritime de la Manche et de la mer du Nord
+- UK
+people:
+- Shabana Mahmood
+organisations:
+- Border Security Command
+- CPR
+- Channel
+- Grand Metropole Hotel
+- Grosvenor Hotel
+- Home Office
+- Press Association
+- Statford-upon-Avon
 ---
 
 One person has died and 72 more were rescued from a boat carrying more than 110 people which was trying to reach the UK.

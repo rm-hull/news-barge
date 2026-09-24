@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Food & Cooking
 - Health & Fitness
+locations:
+- Bradford
+- Drewry Road
+- Keighley
+people: []
+organisations:
+- Ahmeds Food Store
+- Google Maps
+- Halal Meats
+- T&A
 ---
 
 *(Image: Google Maps)*

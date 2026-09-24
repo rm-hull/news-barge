@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Israel
+- Kharg Island
+- Middle East
+- Sanandaj
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Brad Cooper
+- Donald Trump
+organisations:
+- IRGC
+- IRNA
+- Islamic Revolutionary Guard Corps
+- Oval Office
+- US Central Command
+- US Navy
 ---
 
 At least 11 people have been killed and seven injured after a fuel tanker exploded in western Iran, state media said.

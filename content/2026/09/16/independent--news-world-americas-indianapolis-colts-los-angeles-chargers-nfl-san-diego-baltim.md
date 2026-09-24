@@ -12,6 +12,20 @@ image: null
 categories:
 - News & Politics
 - UK
+locations: []
+people:
+- Andre Johnson
+- Charlie Joiner
+- Keenan Allen
+- Pro Bowler
+- Shane Steichen
+organisations:
+- Baltimore Ravens
+- Indianapolis Colts
+- Indianapolis Metropolitan Police Department
+- Indy
+- NFL
+- San Diego-Los Angeles Chargers
 ---
 
 Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges in an alleged drunken driving incident, according to court records.

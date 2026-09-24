@@ -12,6 +12,44 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/2oBonQJTTuBaG93JKYzapC-1920-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Cincy
+- Houston
+- UK
+- US
+- uk
+people:
+- Aatif Sulleyman
+- CJ Stroud
+- DeMeco Ryans'
+- Ja'Marr Chase
+- Joe Burrow
+- Josh Allen
+- Zac Taylor
+organisations:
+- Aatif
+- Bills
+- Buccaneers
+- CBS
+- CBS**
+- Cincinnati Bengals
+- DAZN
+- DirecTV Stream
+- Future Publishing
+- Gizmodo
+- Houston Texans
+- Instagram
+- NFL
+- Newsweek
+- Paramount
+- The Independent
+- TikTok
+- Trusted Reviews
+- Twitter
+- YouTube
 ---
 
 ![Cincinnati Bengals quarterback Joe Burrow throwing the ball](https://cdn.mos.cms.futurecdn.net/2oBonQJTTuBaG93JKYzapC.jpg)

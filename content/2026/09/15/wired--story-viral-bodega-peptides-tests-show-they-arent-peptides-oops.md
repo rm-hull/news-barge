@@ -12,6 +12,41 @@ categories:
 - Technology & Software
 - Science
 - Comedy & Entertainment
+locations:
+- Bedford Avenue
+- Bronx
+- Brooklyn
+- China
+- Indiana
+- Louisiana
+- New York
+- South Bend
+- US
+people:
+- Caroline Haskins
+- Darshan Kulkarni
+- Finnrick
+- Fred Mills
+- Green
+- Jeff Colhoun
+- Joe Rogan
+- Marco Krause
+- Raphaël Mazoyer
+- Robert F. Kennedy Jr.
+organisations:
+- Americans for Safe and Effective Medicines
+- Bloomberg News
+- CBS News
+- FDA
+- Finnrick
+- Hims
+- INDR Labs
+- Mochi
+- NAD
+- Peptide Critic
+- Smoker’s World
+- Vanguard Laboratory
+- WIRED
 ---
 
 The Mr. Green bodega sits on a busy stretch of Bedford Avenue in Brooklyn, New York. Near the counter, you can buy the usual assortment of candy, gum, rolling papers, and soda. You can also purchase tiny vials of injectable peptides. So we did. And then we sent them to a lab.

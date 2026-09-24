@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Rainbow Centre
+- Scarborough
+people:
+- Cole Yarn
+- Thornton Le Dale
+organisations:
+- HPE Print Pickering
+- Rainbow Centre
+- Threads & Tales
 ---
 
 *(Image: Threads and Tales Thornton Le dale)*

@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - Society & Culture
 - News & Politics
+locations:
+- Knaresborough
+people:
+- Coun Simon Myers
+- Greg Kubas
+- Jamie Nicholson-Ruther
+- Maria
+organisations:
+- Harrogate Neighbours
+- Harrogate Neighbours'
+- Knaresborough Library
+- Knaresborough Rotary Club
+- North Yorkshire Council
 ---
 
 # Worrying report inspires launch of campaign in Knaresborough to alleviate 'hidden loneliness' among older people

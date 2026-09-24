@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- New South Wales
+- Orange
+- Tinder
+people:
+- Daniel Billings
+- David Greenberg
+- Kate
+- Molly Ticehurst
+- Natalie Adams
+- Olav Nielssen
+- Tony Ticehurst
+organisations:
+- Billings
+- Forbes
 ---
 
 Two hours after Daniel Billings murdered his ex-girlfriend Molly Ticehurst in a frenzied stabbing, he spoke to a woman he had met on Tinder.

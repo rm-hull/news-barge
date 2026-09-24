@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Middle East
+- UK
+people:
+- Charlotte O’Leary
+- John Healey
+- Rob Wood
+- Thomas Pugh
+organisations:
+- Bank
+- Budget
+- Government
+- MPC
+- Monetary Policy Committee
+- NIESR
+- ONS
+- Office for National Statistics
+- Pantheon Macroeconomics
+- Pantheon Macroeconomics’
+- RSM UK
 ---
 
 Inflation increased to a five-month high last month on the back of rising fuel prices and air fares.

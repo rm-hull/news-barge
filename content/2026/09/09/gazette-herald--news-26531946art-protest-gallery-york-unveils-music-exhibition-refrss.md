@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Manchester
+- Newcastle upon Tyne
+- Walmgate
+- York
+people:
+- Alex Mulholland
+- Mul
+- Peter Davis
+- Sam Josebury
+organisations:
+- National Portrait Gallery
+- Protest Gallery
 ---
 
 Art of Protest Gallery is launching a new exhibition exploring the connection between music and visual art.

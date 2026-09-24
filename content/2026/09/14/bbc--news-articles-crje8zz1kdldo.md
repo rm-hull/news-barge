@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Great North Run
+- Newcastle
+- South Shields
+- Tyne Bridge
+people:
+- Andy Burnham
+organisations:
+- BBC Newcastle
+- BBC Sounds
+- Great Run Company
+- Radio Newcastle
 ---
 
 ![The backs of hundreds of runners running across the Tyne Bridge which is partially covered by scaffolding on the left. Spectators stand on the right, many holding up colourful signs and looking to the runners on the left.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg)

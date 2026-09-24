@@ -13,6 +13,20 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Africa
+- Asia
+- Cádiz
+- Earth
+- Egypt
+- Europe
+- Luxor
+- Mercury
+- Morocco
+- Spain
+- Tangiers
+people: []
+organisations: []
 ---
 
 ![A person takes a picture as the moon partially covers the sun during a total solar eclipse as seen from Spain on 12 August 2026](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg?w=840)

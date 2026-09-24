@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Bright Angel
+- Bright Angel Creek
+- Colorado River
+- Grand Canyon
+- Lake Powell
+- North Kaibab
+- North Kaibab Trail
+- North Rim
+- Phantom Ranch
+- South Kaibab
+- South Rim
+- Sweden
+- US
+people:
+- Gustaf VI Adolf
+- Robert F Kennedy
+- Theodore Roosevelt
+organisations:
+- National Park Service
 ---
 
 Phantom Ranch has been a solitary refuge visited by some of the most famous names of history. More typically, it’s been a beacon for the half-collapsed, exhausted and overheated hikers trudging down the Grand Canyon for more than a century.

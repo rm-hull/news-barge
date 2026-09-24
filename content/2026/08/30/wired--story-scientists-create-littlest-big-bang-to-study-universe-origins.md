@@ -11,6 +11,15 @@ image: https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Netherlands
+people:
+- You Zhou
+organisations:
+- CERN
+- European Organization for Nuclear Research
+- Niels Bohr Institute
+- QGP
 ---
 
 In the very first moments of the universe, matter didn’t exist as we know today. A millionth of a second or so after the big bang, the universe was a dense, hot soup scientists call quark-gluon plasma (QGP). For several years, particle colliders—which smash molecules together at nearly the speed of light—have been able to replicate this state, but often using heavy elements like lead.

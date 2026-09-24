@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Bulmer
+- North Yorkshire
+- Sheriff Hutton
+people:
+- David Easterby
+- Michael
+- Mick
+organisations:
+- Google Street View
+- North Yorkshire Police
+- The Press
 ---
 
 A reckless car driver narrowly missed one of five horses crossing a country road in North Yorkshire.

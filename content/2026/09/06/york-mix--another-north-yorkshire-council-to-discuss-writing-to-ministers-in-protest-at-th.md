@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- RAF
+- Ripon
+- York
+people:
+- Andrew Williams
+organisations:
+- Government
+- Home Office
+- Linton Parish Council
+- North Yorkshire Council
+- Ripon City Council
+- Scarborough Town Council
 ---
 
 Ripon councillors are set to discuss raising objections to the Government’s plan to house asylum seekers at the old RAF base at Linton-on-Ouse.

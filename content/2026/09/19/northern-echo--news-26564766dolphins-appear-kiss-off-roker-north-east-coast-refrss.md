@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21476237.jpg?type=og-image&xType=0&yType=128
+locations:
+- North East
+- North Sea
+- Redcar
+- Roker Pier
+- Sunderland
+people:
+- Anthony Skordis
+- Roker
+- Sam Fender
+organisations:
+- '![]()Dolphins'
+- Ant
+- Anthony Skordis
+- DEX PHOTOGRAPHY
+- Dex Photography
+- Dolphins
+- Roker
 ---
 
 A pair of dolphins have been captured appearing to “kiss” during a remarkable sighting off the Sunderland coast.

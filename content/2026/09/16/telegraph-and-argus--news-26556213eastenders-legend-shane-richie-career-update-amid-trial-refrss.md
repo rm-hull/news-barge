@@ -13,6 +13,40 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Albert Square
+- Cliffs Pavilion
+- Colchester Magistrates’ Court
+- George Street
+- New Theatre
+- Oxford
+- Southend
+people:
+- Aaron Thiara
+- Alfie Moon
+- Bradley Walsh
+- Brian Conley
+- Charlie Suff
+- Eastenders
+- Jessie Wallace
+- Joe Pasquale
+- Kellie Bright
+- Lacey Turner
+- Michelle Ryan
+- Ms Bright
+- Muddles
+- Ravi Gulati
+- Richie
+- Scrooge
+- Shane Ritchie
+- Snow White
+- Stacey Slater
+- Zoe Slater
+organisations:
+- EastEnders
+- New Theatre
+- New Theatre Oxford
+- The Metro
 ---
 
 *(Image: PA)*

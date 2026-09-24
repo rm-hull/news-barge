@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - Society & Culture
 - Arts & Culture
+locations:
+- Ripon Cathedral
+people: []
+organisations:
+- St Wilfrid’s Stars
 ---
 
 ![](https://mmo.aiircdn.com/409/69ca8e4e15653.jpg) 

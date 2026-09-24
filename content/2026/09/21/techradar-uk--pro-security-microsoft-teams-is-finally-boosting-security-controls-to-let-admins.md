@@ -10,6 +10,15 @@ description: Teams admins are set to get more controls
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-970-80.jpg
+locations: []
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Google News
+- Microsoft
+- Teams
+- TechRadar Pro
 ---
 
 ![Microsoft Teams](https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc.jpg)

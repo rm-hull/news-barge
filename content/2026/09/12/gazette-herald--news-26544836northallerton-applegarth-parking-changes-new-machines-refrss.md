@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Applegarth Short Stay Car Park
+- High Street
+- North Yorkshire
+- Northallerton Drivers
+- Northallerton One
+- Upwell Road
+- York
+people: []
+organisations:
+- Applegarth
+- North Yorkshire Council
+- Northallerton Workers
 ---
 
 Motorists have questioned a North Yorkshire town's new ticketless parking machines, the cost of longer stays and fears that they will push cars into nearby streets.

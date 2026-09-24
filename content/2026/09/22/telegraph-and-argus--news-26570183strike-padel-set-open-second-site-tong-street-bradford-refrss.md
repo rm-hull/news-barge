@@ -15,6 +15,18 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21484779.jpg?type=og-image&xType=0&yType=32
+locations:
+- Beckside Business Park
+- Bradford
+- Tong Street
+- Weaverthorpe
+people:
+- Cezar Gniadek
+- Fahad Qureshi
+- Padel
+organisations:
+- Bradford
+- Weaverthorpe Retail Park
 ---
 
 A Bradford-born padel company is expanding its presence in the city with plans for a second venue at Weaverthorpe Retail Park.

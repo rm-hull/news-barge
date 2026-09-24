@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Maryland
+- U.S.
+- United States
+- White House
+people:
+- Deborah Boardman
+- Donald Trump
+- Joe Biden
+- Stephen Miller
+- Wong Kim Ark
+organisations:
+- Supreme Court
+- Trump
+- United States
 ---
 
 A federal judge has blocked Donald Trump’s administration from enforcing his latest executive orders targeting birthright citizenship after the president lost a landmark Supreme Court case challenging his attempt to unilaterally redefine who gets to be a citizen.

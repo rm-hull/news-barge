@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- '**York'
+- Fangfoss
+- Manor House Farm
+- North Yorkshire
+- Sauna
+- Stamford Bridge
+people: []
+organisations:
+- AGA
+- RM English
 ---
 
 An “impressive” home has hit the market in a “sought-after” Yorkshire village – for almost £1 million.

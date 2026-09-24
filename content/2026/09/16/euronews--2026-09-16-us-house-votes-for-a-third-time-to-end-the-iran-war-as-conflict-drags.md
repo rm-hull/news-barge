@@ -13,6 +13,41 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Florida
+- Iowa
+- Iran
+- Kentucky
+- Michigan
+- Ohio
+- Pennsylvania
+- South Carolina
+- Strait of Hormuz
+- US House
+- United States
+- Vietnam
+- White House
+people:
+- Brian Fitzpatrick
+- Brian Mast
+- Donald Trump
+- Mariannette Miller-Meeks
+- Mike Johnson
+- Nancy Mace
+- Seth Moulton
+- Thomas Massie
+- Tom Barrett
+- Warren Davidson
+- Zachary Nunn
+organisations:
+- AP-NORC
+- Congress
+- Congressional Budget Office
+- Constitution
+- House Foreign Affairs Committee
+- Republican Party
+- Senate
+- Trump
 ---
 
 ## For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt President Donald Trump’s ability to continue military action without congressional approval.

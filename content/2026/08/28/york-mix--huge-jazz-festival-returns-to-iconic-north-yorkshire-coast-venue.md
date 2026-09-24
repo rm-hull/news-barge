@@ -12,6 +12,12 @@ categories:
 - York
 - Arts & Culture
 - Music
+locations:
+- Yorkshire
+people:
+- Mark Gordon
+organisations:
+- Scarborough Spa
 ---
 
 Experience a spectacular celebration of live jazz this September – as the Scarborough Jazz Festival returns to the iconic Scarborough Spa.

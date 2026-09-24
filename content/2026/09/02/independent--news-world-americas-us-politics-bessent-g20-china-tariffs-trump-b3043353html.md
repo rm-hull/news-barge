@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/02/10/2026-09-02T011218Z_1204959
 categories:
 - News & Politics
 - UK
+locations:
+- Asheville
+- Canada
+- Iran
+- People’s Republic of China
+- Russia
+- Strait of Hormuz
+- U.S.
+people:
+- Anton Siluanov
+- Donald Trump
+- François-Philippe Champagne
+- Scott Bessent
+- Valdis Dombrovskis
+- Xi Jinping
+organisations:
+- AI
+- Economy
+- G20
+- Tax Foundation
+- Treasury
+- Trump
+- U.S. Supreme Court
 ---
 
 Treasury Secretary Scott Bessent stated on Tuesday that 19 members of the G20 supported measures to curb streams of inexpensive exports driving global economic imbalances, noting that China was the single nation to object.

@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Europe
+- Framwellgate Moor
+- North East
+- Poland
+- Portugal
+- Sweden
+people:
+- Barry Poskett
+- Lee
+- Mark Robinson
+- Shaun
+organisations:
+- Durham County Council
+- FA
+- Football Development Centre
+- Inside Middlesbrough College
+- MDGK
+- MUGA
+- Modern-Day GK
+- Multi-Use Games Area
+- New College Durham
+- Sport England
 ---
 
 *(Image: Supplied)*

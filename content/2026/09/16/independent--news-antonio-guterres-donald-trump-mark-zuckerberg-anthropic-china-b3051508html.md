@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- China
+- Guterres’
+people:
+- AI
+- António Guterres
+- Dario Amodei
+- Donald Trump
+- Mark Zuckerberg
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Elon Musk
+- General Assembly
+- HOAX
+- Meta
+- OpenAI
+- SpaceXAI
+- U.N.
+- United Nations
 ---
 
 The United Nations chief urged global competitors in artificial intelligence on Wednesday to cooperate in addressing threats from the technology, warning that “the world cannot afford a race to the bottom on AI safety.”

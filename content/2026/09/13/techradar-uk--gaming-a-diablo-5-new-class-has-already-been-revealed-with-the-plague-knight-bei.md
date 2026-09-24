@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/ZjkMXzhAPQ4GXb5n3zNJeH-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Anaheim
+people:
+- Joe Shely
+- Rob
+organisations:
+- Demon Hunter
+- Diablo
+- GamesRadar+
+- Google News
+- Hardware
+- Plague Knight
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![Key art from Diablo 5 showing a the new character class, the Plague Knight](https://cdn.mos.cms.futurecdn.net/ZjkMXzhAPQ4GXb5n3zNJeH.jpg) 

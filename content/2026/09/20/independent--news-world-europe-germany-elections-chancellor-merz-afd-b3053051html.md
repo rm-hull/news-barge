@@ -12,6 +12,20 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/20/08/2295772792..?trim=0,38,0,38&width=1200&height=800&crop=1200:800
+locations:
+- Berlin
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+people:
+- Friedrich Merz
+organisations:
+- AfD
+- Christian Democratic Union
+- General Assembly
+- U.N.
 ---
 
 Polling is underway on Sunday across two German state elections where projected gains for the far-right AfD threaten to weaken Chancellor Friedrich Merz’s authority and hamper his ability to deliver economic reforms across Europe’s largest economy.

@@ -14,6 +14,30 @@ categories:
 - Sports
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/27/21/APTOPIX_Haiti_Gang_Violence_83_88.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Americas
+- Artibonite
+- Cap-Haitien
+- Florida
+- Haiti
+- Indiana
+- Miami
+- New York
+- Ohio
+- Port-au-Prince
+- U.S.
+- United States
+people:
+- Michel Saint-Croix
+- Nathalye Cotrino
+organisations:
+- Human Rights Watch
+- Temporary Protected Status
+- U.N.
+- U.S. Department of Homeland Security
+- U.S. Immigration and Customs Enforcement
+- UNICEF
+- United Nations
 ---
 
 Human Rights Watch released a report on Monday detailing the hardships faced by hundreds of people deported by the United States to gang-ravaged Haiti.

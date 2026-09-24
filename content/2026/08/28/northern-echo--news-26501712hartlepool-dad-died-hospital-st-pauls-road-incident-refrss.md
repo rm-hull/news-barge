@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Hartlepool
+- James Cook Hospital
+- Middlesbrough
+- North East
+- St Paul's Road
+- St Paul’s Road
+- Teesside Coroner's Court
+people:
+- Amy
+- Anthony Armstrong
+- Chloe
+- Dad
+- Daniel
+- Darren
+- Jessie
+- Kirsty
+- Man
+- Mark James
+- Pat
+- Paul Appleton
+- Rachel
+- Ray
+- Sarah
+- Sasha
+- Tony
+organisations:
+- CPS
+- Cleveland Police
 ---
 
 *(Image: CLEVELAND POLICE)*

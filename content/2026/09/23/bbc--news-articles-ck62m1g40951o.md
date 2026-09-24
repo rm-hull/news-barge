@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/49ad/live/ae4e5010-843f-11f1-b16e-0f7ab380f520.jpg
+locations:
+- Cambridge Magistrates' Court
+- Chelsea
+- Chigwell
+- Dickens Rise
+- England
+- Essex
+- Gotham FC
+- Sweden
+- US
+- Warwick
+people:
+- Christopher Maynard
+- Grace Court
+- Instagram.** Aaryan Aggarwal
+- Jess Carter
+organisations:
+- Carter
+- Chelmsford Magistrates' Court
+- Chelsea FC Women
+- Essex
+- Gotham FC
 ---
 
 ![Jess Carter, who has her dark hair in a ponytail, wearing a warm-up top ahead of a football match on a rainy day.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/49ad/live/ae4e5010-843f-11f1-b16e-0f7ab380f520.jpg)

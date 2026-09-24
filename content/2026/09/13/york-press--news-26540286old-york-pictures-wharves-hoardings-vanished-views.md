@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bridge Street
+- Britain
+- King's Staith
+- Pavement
+- River Ouse
+- York
+people: []
+organisations:
+- Benson & Hedges
+- Tetley Bitter
+- The Press
 ---
 
 ## These remarkable old photos show a side of York that has almost disappeared

@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - History
+locations:
+- Anglo-Saxon England
+- Kirkdale
+- North Yorkshire
+- York Minster
+people:
+- Alex McCallion
+- Charles III
+- Edward the Confessor
+- Emmanuel Macron
+- Judith McNicol
+organisations:
+- British Museum
+- Centre of Excellence for Heritage Craft Skills and Estate Management
+- Works and Precinct
+- York Minster
 ---
 
 *(Image: York Minster)*

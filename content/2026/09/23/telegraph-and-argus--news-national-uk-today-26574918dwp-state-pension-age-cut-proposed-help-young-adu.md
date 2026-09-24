@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21492274.jpg?type=og-image
+locations: []
+people:
+- Helen Grice
+- Stefan Rousseau
+organisations:
+- DWP State Pension
+- Government
+- State Pension
 ---
 
 *(Image: Stefan Rousseau)*

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Eddystone Lighthouse
+- English Channel
+- Falmouth
+- Plymouth
+people: []
+organisations:
+- HM Coastguard
+- MCA
+- Maritime and Coastguard Agency
+- RNLI
 ---
 
 Three people have been rescued from a vessel “in distress” in the English Channel, the coastguard has said. But two are still unaccounted for.

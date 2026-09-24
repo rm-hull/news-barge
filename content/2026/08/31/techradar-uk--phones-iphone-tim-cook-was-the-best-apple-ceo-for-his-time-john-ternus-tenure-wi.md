@@ -12,6 +12,46 @@ image: https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- '## Cook'
+- Big Bird
+- Jason Momoa
+- John Ternus
+- Lance Ulanoff
+- Oprah
+- Siri AI
+- Steve "Jobs
+- Steve Jobs
+- Steve Jobs'
+- Tim Cook
+organisations:
+- Apple Music
+- Apple News
+- Apple TV
+- Apple Watch
+- BBC
+- CNBC
+- CNN
+- Fitness
+- Good Morning America
+- Google News
+- Intel CPUs
+- Jobs
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Netflix
+- Pixar
+- Siri AI
+- Tech and Entertainment
+- Ternus'
+- Today Show
+- Ziff Davis, Inc
+- iCloud
+- iPod
 ---
 
 ![Tim Cook](https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ.jpg) 

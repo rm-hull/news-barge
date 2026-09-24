@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Eden Camp
+- Malton
+- North Yorkshire
+- UK
+people:
+- Jo Peirson
+- Nick Hill
+organisations:
+- Eden Camp
+- Last Post
+- Standards
+- Yorkshire Volunteers Marching Band
 ---
 
 *(Image: Jo Peirson)*

@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Champney Treasure House
+- East Riding
+- Goole
+people:
+- Cllr Aitken
+- Victoria Aitken
+organisations:
+- Department for Education
+- East Riding Council
+- Kingsway Primary
+- Marshlands Primary
+- Withernsea High School
 ---
 
 Three schools in East Riding are now harnessing the power of the sun.

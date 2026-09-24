@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Allerton
+- America
+- Edinburgh Castle
+- Estonia
+- UK
+people:
+- Alex Kelly
+- Lance
+- Mark Owens
+organisations:
+- Army Jobs
+- BRADFORD
+- British Army
+- Edinburgh Tattoo
+- Lance
+- NATO
+- Royal Dragoon Guards
+- Royal Edinburgh Military Tattoo
 ---
 
 *(Image: Mark Owens)*

@@ -11,6 +11,37 @@ image: https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- Guishan District
+- Taipei
+- Taiwan
+- Taoyuan
+- U.S.
+- Washington
+- White House
+- Yangmei
+- Zhongli District
+people:
+- Luke James
+- Unimicron
+- Wang
+- Wu
+organisations:
+- ABF
+- Amazon
+- CBP
+- Get Tom's Hardware
+- Google
+- Intel
+- Nvidia
+- PCB
+- PCBs
+- Taiwan’s Criminal Code
+- Taoyuan District Prosecutors Office
+- U.S. Customs
+- U.S. Customs and Border Protection
+- Unimicron
 ---
 
 ![The Star64 board layout](https://cdn.mos.cms.futurecdn.net/Uw8GSJb5Eg3NjgZZ3HEjd7.jpg) 

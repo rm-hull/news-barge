@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- UK
+people: []
+organisations:
+- DLVA
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Driving and Vehicle Licensing Agency
+- Getty/dusanpetkovic
+- Post Office
 ---
 
 *(Image: Getty/dusanpetkovic)*

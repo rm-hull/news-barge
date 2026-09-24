@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- British Columbia
+- Canada
+- Fullerton
+- Great Lake
+- Iran
+- Lake America
+- Lake America.’
+- Lake Ontario
+- Virginia
+people:
+- Adam Kinzinger
+- Amy Coplan
+- Dan Driscoll
+- Doug Ford
+- Mark Carney
+- Pete Hegseth
+- Trump
+organisations:
+- ABC News
+- Apple
+- Army
+- California State University
+- Department of Defense
+- Fox News
+- Pentagon
+- Vernon Cadet Training Center
 ---
 
 Defense Secretary Pete Hegseth has been accused of “body shaming” a youth cadet instructor after posting her picture on social media.

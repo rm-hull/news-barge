@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Dollywood
+- Grand Ole Opry
+- Grand Ole Opry House
+- Hollywood
+- Los Angeles
+- Mausoleum
+- Nashville
+- Seattle
+- Tennessee
+- UK
+- US
+- Woodlawn Memorial Park
+people:
+- Amelia Young
+- Carl Dean
+- Carly Pearce
+- Dolly Parton
+- Granny
+- Helena Humphrey
+- Jada Star
+- Jelly Roll
+- Lainey Parton
+organisations:
+- ABC TV
+- BBC
+- Imagination Library
+- Jada Star
+- Nashville International Airport
+- NewsChannel 5
+- Official Chart Company
+- Parton
+- Woodlawn Memorial Park and Mausoleum
 ---
 
 ![More than two dozen singers and musicians in a row on stage below a large screen showing a photo of Dolly Parton and the Grand Ole Opry name](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a59e/live/0255aa10-a519-11f1-89d5-dd5482a9fcc2.jpg)

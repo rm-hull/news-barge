@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Blyth
+- County Durham
+- England
+- Northumberland
+- Ridley Avenue
+- Teesside
+- Wellington Street
+people:
+- Ford Kuga
+organisations:
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

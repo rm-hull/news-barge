@@ -11,6 +11,47 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e53f/live/440fd1
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Cotswolds
+- England
+- Heathrow
+- UK
+- US
+- Whitehall
+people:
+- Andy Burnham
+- Charles III
+- Harry
+- Jacob Coxon
+- Kemi Badenoch
+- Martin Rolfe
+- Nigel Farage
+- Richard Tice
+organisations:
+- AI Security Institute
+- Aisi
+- Anthropic
+- Channel 4 News
+- Channel 4 News and Verbatim Investigations
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Duke of Sussex
+- Electoral Commission
+- Financial Times
+- Guardian
+- Labour
+- Met
+- Metro
+- Metropolitan Police
+- National Air Traffic Services
+- Nats
+- Reform UK
+- UK Civil Aviation Authority
+- Welfare Party
 ---
 
 ![The front page headline of the Times reads: "Farage faces Met inquiry over Reform donations."](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/ce2a/live/30a28d60-ac95-11f1-b1d1-571ed4d7ff2c.jpg)

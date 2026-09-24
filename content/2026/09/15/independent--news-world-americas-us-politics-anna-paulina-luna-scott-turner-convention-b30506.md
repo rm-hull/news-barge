@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dallas
+- Florida
+- Pennsylvania
+- South Carolina
+- Texas
+people:
+- Anna Paulina Luna
+- Catherine Rampell
+- Donald Trump
+- JD Vance
+- John Fetterman
+- Johnny Maga
+- MeidasTouch
+- Pablo Manriquez
+- Sam Stein
+- Scott Turner
+- Tim Scott
+- Zapruder
+organisations:
+- American Airlines Center
+- Capitol
+- Denver Broncos
+- HUD
+- Housing and Urban Development
+- Independent
+- Los Angeles Chargers
+- NFL
+- San Diego Chargers
+- Senate
+- Texas House of Representatives
+- University of Illinois
+- Washington Commanders
+- Washington Redskins
+- White House Opportunity and Revitalization Council
 ---
 
 Florida Republican Rep. Anna Paulina Luna has brushed aside suggestions that Housing and Urban Development Secretary Scott Turner attempted to smack her butt at last week’s Republican National Convention in Texas.

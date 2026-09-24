@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/EjhowwCupWwQCjM9k2nPvf-1920-80.jpg
+locations:
+- UK
+people:
+- Brady Sun
+organisations:
+- Google News
+- Head of Europe
+- Jackery
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- Sun
+- TechRadar
 ---
 
 ![Split image of a portable solar panel in a garden, and a garden shed illuminated in the evening](https://cdn.mos.cms.futurecdn.net/EjhowwCupWwQCjM9k2nPvf.jpg)

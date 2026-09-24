@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Royal Victoria Infirmary
+- Teesside Magistrates’ Court
+people:
+- Jaden Wright
+- Katie Nicolson
+- Katie Smith
+- Natalie McDonald
+- Owen Humphreys
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- James Cook University
+- Northumbria Police
 ---
 
 # Grangetown: Man charged with murder after fatal house fire in Middlesbrough

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lake
+- Lake America
+- Lake Ontario
+- New York
+- Ottawa
+- U.S.
+- Washington
+people:
+- Donald Ducks
+- Donald Trump
+- Doug Ford
+- Mark Carney
+organisations:
+- Apple Maps
+- Google Maps
+- Reuters
+- Trump
 ---
 
 Canadian Prime Minister Mark Carney’s demand that “the Americans stop doing memes” appears to have fallen on deaf ears when it comes to President Donald Trump.

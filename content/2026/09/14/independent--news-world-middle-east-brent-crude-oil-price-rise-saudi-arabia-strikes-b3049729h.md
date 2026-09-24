@@ -14,6 +14,41 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Asia
+- Europe
+- Gulf
+- Iran
+- Japan
+- Oman
+- Saudi Arabia
+- Seoul
+- Strait of Hormuz
+- Tokyo
+- US
+- United States
+people:
+- Dario Amodei
+- Elon Musk
+- Kathleen Brooks
+- Sam Altman
+- Samy Chaar
+organisations:
+- AI
+- Anthropic
+- Bank of Japan
+- ECB
+- European Central Bank
+- Fed
+- Federal Reserve
+- Intel
+- Lombard Odier
+- Marvell
+- Micron
+- OpenAI
+- Treasuries
+- XTB
+- xAI
 ---
 
 Global stock markets slipped on Monday as a sharp drop in technology equities and rising crude prices rattled investors ahead of anticipated interest-rate increases in the United States and Japan this week.

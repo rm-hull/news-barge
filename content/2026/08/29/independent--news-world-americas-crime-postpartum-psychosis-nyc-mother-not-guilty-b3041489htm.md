@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bronx
+- Columbus Canada
+- Massachusetts
+- Mount Hope
+- New York City
+- Queens
+people:
+- Daishawn Fleming
+- Dimone Fleming
+- Eric Goldsmith
+- Lindsay Clancy
+- Octavius Canada
+- Octavius’
+organisations:
+- New York Post.
+- The Post
 ---
 
 A New York City mother was found not criminally responsible due to mental disease or defect by a Bronx judge Monday for the 2022 killings of her two young sons at a Bronx family shelter.

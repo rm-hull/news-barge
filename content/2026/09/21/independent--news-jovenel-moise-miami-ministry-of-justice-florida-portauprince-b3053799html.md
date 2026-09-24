@@ -14,6 +14,23 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/18/US_Haiti_Presidential_Killing_32352.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Colombia
+- Haiti
+- Miami
+- Port-au-Prince
+- South Florida
+- U.S.
+- United States
+people:
+- Joseph Badio
+- Jovenel Moïse
+- Lisette Reid
+- Martine
+- Moise
+organisations:
+- Ministry of Justice
+- Ministry of Justice and Public Security
 ---
 
 A former Haitian government official and more than a dozen other people appeared Monday in federal court in Miami on charges related to the 2021 assassination of Haitian President Jovenel Moïse.

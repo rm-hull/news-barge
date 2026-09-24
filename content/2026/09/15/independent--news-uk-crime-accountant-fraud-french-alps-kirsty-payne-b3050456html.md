@@ -13,6 +13,17 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cambridge Magistrates’ Court
+- French Alps
+- Peterborough Crown Court
+people:
+- Kirsty Payne
+- Valentin Radulescu
+organisations:
+- Cambridgeshire Police
+- Marshall Fleet Solutions
+- Marshall Thermo King
 ---
 
 A chartered accountant has been jailed after defrauding her employer of more than £40,000 before spending it all on a ski trip to the French Alps.

@@ -13,6 +13,19 @@ categories:
 - York
 - Education & Learning
 - Careers & Productivity
+locations:
+- Beverley
+- Bridlington
+- Cottingham
+- East Riding
+- Goole
+people:
+- Anne Handley
+- Rebecca Gorman
+organisations:
+- Adult Learning and Employability Service
+- East Riding of Yorkshire Council
+- East Riding of Yorkshrie Council
 ---
 
 ## New courses aim to help East Riding adults boost skills and confidence

@@ -12,6 +12,54 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg
+locations:
+- Bab al-Mandab
+- Bab al-Mandab Strait
+- Canada
+- Cyprus
+- Djibouti
+- Eritrea
+- Ethiopia
+- France
+- Germany
+- Gulf of Aden
+- Houthi
+- Indian Ocean
+- Iran
+- Israel
+- Italy
+- Japan
+- Lebanon
+- Middle East
+- Mokha
+- New York
+- RAF Akrotiri
+- Red Sea
+- Res Sea
+- Riyadh
+- Sana'a
+- Saudi Arabia
+- Tehran
+- UK
+- US
+- United States
+- West
+- Yemen
+- Yemen.
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Mohammed bin Salman
+- Wes Streeting
+organisations:
+- AFP
+- Fox News
+- G7
+- Hamas
+- Hezbollah
+- New York Times
+- UN General Assembly
 ---
 
 ![Houthi troopers stand guard during a protest against Saudi Arabia, in Sana'a, Yemen.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg)

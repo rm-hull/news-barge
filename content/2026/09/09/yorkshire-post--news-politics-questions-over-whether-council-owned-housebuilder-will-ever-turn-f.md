@@ -15,6 +15,22 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brierley Homes
+people:
+- Cllr Grogan
+- George Jabbour
+- Kevin Foster
+- Mark Crane
+- Tim Grogan
+- Tony Dodds
+organisations:
+- Brierley Group
+- Brierley Homes
+- Green Party
+- Laverton Oakes
+- North Yorkshire Council
+- Reform
 ---
 
 # Questions over whether council-owned housebuilder will ever turn finances around

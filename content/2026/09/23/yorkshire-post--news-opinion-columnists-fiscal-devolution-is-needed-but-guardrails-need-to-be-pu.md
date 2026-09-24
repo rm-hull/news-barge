@@ -15,6 +15,18 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJmZmJlOWE0LTExOTItNDc1ZS1hYjgxLTFjNzUwMWQzOWEzZDpkMjliYWQzMS0xMmVjLTQ4NTEtYmY1NC0zNzk3ZWJkOWIzNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Downing Street
+- England
+- Whitehall
+people:
+- Andy Burnham
+- Jim O’Neill
+- Jonathan Brady
+organisations:
+- IPPR
+- Institute for Public Policy Research
+- Treasury
 ---
 
 # Fiscal devolution is needed but guardrails need to be put in place

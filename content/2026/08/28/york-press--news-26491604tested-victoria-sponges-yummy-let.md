@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Britain
+- Iceland
+- Victoria
+people:
+- Aldi
+- Alfred Bird
+- Victoria
+organisations:
+- Asda
+- Morrisons Tesco
+- Nectar
+- Sainsbury's Aldi
 ---
 
 ## I tested the best supermarket Victoria sponge cakes

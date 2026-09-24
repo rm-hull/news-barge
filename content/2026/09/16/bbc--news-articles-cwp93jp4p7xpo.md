@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Downing Street
+- Middle East
+- Ukraine
+people:
+- Andy Burnham
+- Andy Burnham.
+- Andy Haldane
+- Darren Jones
+- John Healey
+- Keir Starmer
+- Lord O'Neill
+- Rachel Reeves
+organisations:
+- Bank of England
+- British Chambers of Commerce
+- Budget
+- Houses of Parliament.
+- LBC
+- Labour MPs'
+- Labour Party
+- Treasury
 ---
 
 ![A split composite picture of Andy Burnham and John Healey, both in Downing Street carrying red folders.](https://ichef.bbci.co.uk/ace/standard/676/cpsprodpb/a48e/live/4c8ed8e0-b1d0-11f1-8493-1910d79d53eb.png)

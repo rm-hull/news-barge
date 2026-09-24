@@ -12,6 +12,138 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- America
+- China
+- Europe
+- Iran
+- Las Vegas
+- Middle East
+- Missouri
+- Oman
+- Strait of Hormuz
+- Taiwan
+- Tokyo
+- U.S.
+- US
+- Ukraine
+- Virginia
+- Washington
+people:
+- Andrew McCalip
+- Christopher Harper
+- Claude AI
+- Donald Trump
+- Jeffrey Kampman
+- Mark Tyson
+- Sam Altman
+organisations:
+- ASML
+- AWS
+- Andrew E. Freedman
+- Anton Shilov
+- Apple
+- Artificial IntelligenceOpenAI
+- Aurora
+- Ayar Labs
+- Big TechArm
+- Big TechOracle
+- Big TechSupermicro
+- Biren
+- Blackwell GPUsBy Anton Shilov
+- Bruno Ferreira
+- Bruno Ferreira Published
+- China AI
+- Cisco
+- CryptocurrencyDigital
+- CryptocurrencyHackers
+- CryptocurrencyKorean
+- CybersecurityAliExpress
+- CybersecurityBlindLock
+- CybersecurityFBI
+- CybersecurityResearcher
+- CybersecuritySlovakia
+- CybersecurityUS Justice Department
+- DronesIran
+- DronesJapan
+- DronesStartup
+- DronesTrump
+- DronesUS Navy
+- EU
+- Earth
+- El Capitan
+- EthereumBy Hassam Nasir Published
+- Etiido Uko Published
+- FCC
+- Federal Reserve
+- Francisco Pires
+- GaN
+- Grok
+- IRIS
+- Intel
+- Jake Roach Published
+- Jon Martindale Published
+- Jowi Morales
+- Jowi Morales Published
+- Kunal Khullar
+- Los Alamos National LaboratoryBy Anton Shilov
+- Luke James
+- Luke James Published
+- Mark Tyson Published
+- NASA
+- NATOBy Stephen Warwick
+- Nashville Zoo
+- NvidiaBy Luke James
+- PACBy Anton Shilov
+- PCsBy Etiido Uko Published
+- PhotonicsIndustry
+- PolicyNashville
+- PolicyPresident Trump
+- PolicyTaiwan
+- PolicyTrump
+- PolicyWhite House
+- PolicyX
+- PremiumAI
+- PremiumChina
+- PremiumH200s
+- PremiumIBM
+- PremiumNvidia
+- PremiumOpenAI
+- PremiumTSMC
+- PremiumThe
+- PsiQuantum
+- Quantum ComputingChina
+- Quantum ComputingMicrosoft
+- Quantum ComputingNEC
+- SK Hynix Inc
+- Samsung
+- SamsungBy Anton Shilov
+- SemiconductorsChina
+- SemiconductorsIntel
+- SemiconductorsTSMC
+- Senate
+- Siemens
+- SoBy Francisco Pires
+- SpaceEurope
+- SpaceGoogle
+- SpaceIntel
+- SpaceNASA
+- SpaceSpace Force
+- SpaceSpaceX
+- SpaceX
+- Starlink
+- Stephen Warwick
+- SupercomputersAMD
+- SupercomputersChina
+- SupercomputersElon Musk
+- SupercomputersNvidia
+- SuperconductorsMIT
+- Tech IndustryGameStop
+- Tesla Dojo
+- US SecDef Pete HegsethBy Jowi Morales
+- Vera Rubin
+- Xanadu
+- Zak Killian Published
 ---
 
 # Tech Industry

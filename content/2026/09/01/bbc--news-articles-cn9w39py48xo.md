@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Detroit
+- Michigan
+- New York
+- Temple Israel
+- US
+- United States of America
+- Washington
+people:
+- Abdul El-Sayed
+- Al-Sayed
+- Donald Trump
+- Hasan Piker
+- J D Vance
+- JD Vance
+- Joe Biden
+- Mike Rogers
+- Usha Vance
+organisations:
+- CNN
+- Epic-MRA
+- Michigan Senate
+- Twitch
 ---
 
 ![J D Vance addressing a rally in Michigan](https://ichef.bbci.co.uk/ace/standard/859/cpsprodpb/5638/live/ebb6d900-a61c-11f1-9ca2-a3e18de91b7b.jpg)

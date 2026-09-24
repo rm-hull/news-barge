@@ -13,6 +13,37 @@ image: https://static.independent.co.uk/2026/09/04/7/14/james-orr-dan-jukes.jpeg
 categories:
 - News & Politics
 - UK
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Reform UK
+- US
+- Westminster
+people:
+- Dan Jukes
+- Donald Trump
+- James Orr
+- Lawrence Carter
+- Lee Anderson
+- Nigel Farage
+- Richard Tice
+organisations:
+- BBC Radio 4
+- CCR
+- Cambridge University
+- Center for Climate Reporting
+- Channel 4
+- Channel 4 News
+- Electoral Commission
+- ICE
+- Immigration and Customs Enforcement
+- LBC
+- Leave.EU
+- Reform UK
+- Sky News
+- United States Congress
+- Verbatim
 ---
 
 Two of Nigel Farage’s key allies have been forced to quit their roles in Reform UK after a bombshell undercover sting operation sparked allegations they breached political donation rules.

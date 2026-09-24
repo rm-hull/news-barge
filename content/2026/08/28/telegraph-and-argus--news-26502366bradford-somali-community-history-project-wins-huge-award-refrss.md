@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Horn of Africa
+- Leeds
+- Lister Park
+- Somali Village
+people:
+- Fozia Bora
+- Ian Walker
+organisations:
+- Arts Council England
+- Bradford 2025 UK City of Culture
+- Bradford Council
+- Bradford District Museums and Galleries
+- Cartwright Hall
+- Cartwright Hall Art Gallery
+- Culture House
+- Everyday Muslim
+- Koor Archives
+- Somali Village
+- Universities of Bradford
+- University of Bradford
+- University of Leeds
 ---
 
 A RESEARCH project exploring the legacy of a Somali community in Bradford has won a national award.

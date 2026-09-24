@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Burton Pidsea
+- East Yorkshire
+people:
+- Danielle
+- Darren Higgins
+- Kaisha
+- Keylan
+- Michelle
+- Sammi
+organisations:
+- Humberside Police
 ---
 
 TRIBUTES have been paid to a man who brought 'warmth and joy to those around him.'

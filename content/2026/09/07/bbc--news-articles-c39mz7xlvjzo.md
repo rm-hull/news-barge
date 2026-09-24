@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Downing Street
+- UK
+people:
+- John Healey
+- Lord O'Neill
+- Starmer
+organisations:
+- American AI
+- BBC
+- British Business Bank
+- Coalition Government
+- Coventry Manufacturing and Technology Centre
+- JLR
+- Jaguar Land Rover
+- MTC
+- National Wealth Fund
+- Regional Development Agencies
 ---
 
 ![Chancellor John Healey wearing a dark suit, white shirt and red tie, and making a speech](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg)

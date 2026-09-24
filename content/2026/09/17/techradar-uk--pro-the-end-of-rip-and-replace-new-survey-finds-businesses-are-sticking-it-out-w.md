@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+- US
+people:
+- Brian Klingbeil
+- Christian Cawley
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- Ensono
+- Google News
+- IT
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
 ---
 
 ![A pair of hands carefully fitting a stick of RAM into a motherboard.](https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8.jpg) 

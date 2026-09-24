@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- Europe
+- North Carolina
+- Ottawa
+- Strasbourg
+- U.S.
+- United States
+people:
+- Donald Trump
+- Jonathan Wilkinson
+- Mark Carney
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- CETA
+- EU
+- European Commission
+- European Parliament
+- European Union
+- State of the European Union
+- The Associated Press
 ---
 
 President Donald Trump has suggested that the European Union allowing Canada to become an associate member could be a “hostile act” and threatened more tariffs if it happened.

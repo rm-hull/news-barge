@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bishop Auckland
+- County Durham
+- County Durham Angel Trust
+- Darlington
+- North East
+- Safe Night Hub
+- UK
+people:
+- Clair McGregor
+- Elliot Pole
+- Megan Campbell
+organisations:
+- ANDY FUTERS
+- Angel Trust
+- Angel's Trust
+- Durham County Council
+- Head of Marketing
+- NORTHERN ECHO
+- Threaded Workwear
+- Threaded Workwear UK
 ---
 
 A Darlington-based company has become the latest corporate partner of Bishop Auckland charity Angel Trust.

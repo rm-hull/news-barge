@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/YboGzbiBu5Xg5UcSF97zA5-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Amazon
+- Chicago
+- Virgin River
+people:
+- George Cooper Sr.
+- Kudos
+- Lee Child
+- Maria Sten
+- Neagley
+- Nicholas Wootton
+- Wootoon
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Neagley looks at something offscreen](https://cdn.mos.cms.futurecdn.net/YboGzbiBu5Xg5UcSF97zA5.jpg) 

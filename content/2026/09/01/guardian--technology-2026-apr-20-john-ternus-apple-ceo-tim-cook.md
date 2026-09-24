@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- China
+- Silicon Valley
+people:
+- John Ternus
+- Johny Srouji
+- Steve Jobs
+- Tim Cook
+organisations:
+- AirPods
+- Apple Watch
+- Gemini AI
+- Google
+- Intel
+- Mac
+- New York Times
+- Ternus
+- The Journal
+- University of Pennsylvania
+- Virtual Research Systems
+- Wall Street Journal
 ---
 
 Tim Cook stepped down as CEO of Apple on 31 August. John Ternus, a longtime company veteran, succeeded him the next day as the company’s new chief executive. Cook has transitioned to the role of executive chairman of Apple’s board of directors.

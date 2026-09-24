@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Maine
+- New England
+- U.S.
+people:
+- Carl Wilson
+- Erica Fuller
+- Frank Thompson
+- Matt Gilliam
+organisations:
+- Conservation Law Foundation
+- GPS
+- Maine Department of Marine Resources
+- Supreme Court
 ---
 
 The Supreme Court will decide later this month whether to hear a lobster fisherman’s challenge to a government requirement that boats use electronic tracking devices. That case could have broad consequences for the American commercial fishing industry.

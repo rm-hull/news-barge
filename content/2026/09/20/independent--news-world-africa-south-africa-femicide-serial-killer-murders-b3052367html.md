@@ -14,6 +14,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/09/2026-09-17T172350Z_517467741_RC23LNAC8GRK_RTRMADP_3_SAFRICA-CRIME.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dawn Park
+- Johannesburg
+- Merlize
+- South Africa
+people:
+- Cyril Ramaphosa
+- Elizabeth Moselakgomo
+- Merlize Jogiat
+- Ms Moselakgomo
+- Sindisiwe Chikunga
+- Tebello Mosikili
+- Vinah Moselakgomo
+organisations:
+- Action Society
+- ENCA
+- SAPS
+- South African Police Service
+- UN Office on Drugs and Crime
+- Women For Change
 ---
 
 On 9 September, Elizabeth Moselakgomo left her home in east Johannesburg to go for a run.

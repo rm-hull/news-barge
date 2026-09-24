@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - Pets & Animals
+locations:
+- Harewood House
+- Yorkshire
+people:
+- Sam Matthews
+organisations:
+- DogFest
+- Yorkshire
 ---
 
 *(Image: Supplied)*

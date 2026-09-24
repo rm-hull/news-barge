@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/11/28/GettyImages-2280914657.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- U.S.
+people:
+- Beef
+- Benny Johnson
+- Brooke Rollins
+- Donald Trump
+- Joe Biden
+- Robert F. Kennedy Jr.
+organisations:
+- Health and Human Services
+- Reuters
+- Trump
+- U.S. Bureau of Labor Statistics
 ---
 
 Agriculture Secretary Brooke Rollins urged Americans worried about high beef prices to consider changing their diets.

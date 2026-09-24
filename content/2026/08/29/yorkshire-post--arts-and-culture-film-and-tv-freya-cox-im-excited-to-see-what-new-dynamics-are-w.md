@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Scarborough
+people:
+- Carole Poirot
+- Freya Cox
+- Lizzie
+- Nigella Lawson
+- Prue Leith
+organisations:
+- BBC Radio Sheffield
+- BBC Radio York
+- Castle Howard
+- Freyas
 ---
 
 # Freya Cox: ‘I’m excited to see what new dynamics are with Nigella Lawson as a judge on new Great British Bake Off series’

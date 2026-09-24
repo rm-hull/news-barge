@@ -12,6 +12,22 @@ categories:
 - UK
 - Sports
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Luxembourg
+- Norway
+- Spain
+- UK
+people: []
+organisations:
+- Belgian Business Court
+- Court of Justice
+- EU
+- European Union
+- Ikea Family
+- Inter IKEA
+- Vlaams Belang
+- Vrijheidsfonds
 ---
 
 The European Union’s highest court has ruled that trademark holder Inter IKEA can pursue legal action against a Belgian anti-immigration party over its use of the brand in political campaigning.

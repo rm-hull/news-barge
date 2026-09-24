@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Nolan Tanji
+organisations:
+- Athletic Equipment Managers Association
+- Boston University
+- Brown University
+- John A. Burns School of Medicine
+- Mānoa
+- University of Hawaiʻi
 ---
 
 A high school football rule, introduced 12 years ago to reduce serious head injuries among players, has had an unintended benefit: fewer leg injuries.

@@ -13,6 +13,43 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21477274.jpg?type=og-image
+locations:
+- Asia
+- Edinburgh
+- Europe
+- Forrest Road
+- Inglewood
+- London
+- Los Angeles
+- Middle East
+- Nashville
+- Old Town
+- Royal Mile
+- Stevenage
+- Texas
+- UK
+- US
+- USA
+people:
+- '### Chuck E. Cheese Chuck E. Cheese'
+- Alistair Burnett
+- Chuck E. Cheese
+- Ed Sheeran
+- Ellie Taylor
+- Emma Willis
+- Mark Kalegian
+- Randy’s Donuts
+organisations:
+- '### Houston Hot Chicken Houston Hot Chicken'
+- Angus Steakhouse
+- BBC Radio 2
+- Barburrito
+- Chuck E Cheese
+- Edinburgh City Council
+- National Museum of Scotland
+- Randy's Donuts
+- Randy’s Donuts
+- University of Edinburgh
 ---
 
 *(Image: Getty Images)*

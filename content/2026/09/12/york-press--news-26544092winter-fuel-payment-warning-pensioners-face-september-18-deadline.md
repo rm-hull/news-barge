@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations: []
+people: []
+organisations:
+- Government
+- HMRC
+- National Insurance
+- Pot Noodle
+- State Pension
+- Winter Fuel Payment Centre
 ---
 
 *(Image: Getty Images)*

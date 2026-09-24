@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/UY7ZD3njciyMaV3fY89KpG-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dyson Airsmooth
+- Dyson UK
+- US
+people:
+- Corrale
+- Dyson Coralle
+- Ruth Hamilton
+organisations:
+- Airsmooth
+- Corrale CoolShine
+- Dyson Australia
+- Dyson Corrale CoolShine
+- Dyson US
+- Google News
+- IFA
+- Ruth
+- TechRadar
 ---
 
 ![Close up of Dyson Corrale CoolShine straightener plates](https://cdn.mos.cms.futurecdn.net/UY7ZD3njciyMaV3fY89KpG.jpg) 

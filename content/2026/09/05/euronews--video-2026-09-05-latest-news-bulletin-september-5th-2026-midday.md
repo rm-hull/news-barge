@@ -12,6 +12,39 @@ image: https://images.euronews.com/articles/stories/09/90/24/93/1200x675_cmsv2_0
 categories:
 - Europe
 - News & Politics
+locations:
+- Australia
+- Belgrade
+- Boston
+- Dublin
+- Europe
+- Falkland Islands
+- Fla.
+- Gdańsk
+- Ireland
+- Islas Malvinas
+- Kyiv
+- Miami Gardens
+- Mount Tumbledown
+- North Carolina
+- Serbia
+- Stanley
+- US
+- Zaporizhzhia
+people:
+- Aryana Sayeed
+- Mackenzie McDonald
+- Nick Kyrgios
+- Ratko Mladic
+- Scott Bessent
+- Sergii Marchenko
+organisations:
+- Antonio López-Istúriz White
+- Euronews
+- European People's Party
+- General Affairs Council
+- London Ambulance Service
+- US Treasury
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

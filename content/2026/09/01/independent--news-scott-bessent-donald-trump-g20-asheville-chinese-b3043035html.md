@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- China
+- Iran
+- Strait of Hormuz
+- U.S.
+people:
+- Donald Trump
+- Larry Kudlow
+- Scott Bessent
+organisations:
+- Fox Business
+- G20
+- Tax Foundation
+- Treasury
+- Trump
+- U.S. Supreme Court
 ---
 
 Treasury Secretary Scott Bessent says he's urging some of his G20 counterparts to take a page from the Trump administration's playbook of using tariffs and other measures to crack down on trade imbalances.

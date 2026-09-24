@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- US
+- Utah
+people:
+- Chiara Castro
+organisations:
+- A/I
+- Autistici/Inventati (A/I
+- Big Tech
+- Chiara
+- No Trace
+- TechRadar
+- VPNs
 ---
 
 ![A woman's silhouette stands before a massive glowing portal shaped like a human fingerprint.](https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj.jpg) 

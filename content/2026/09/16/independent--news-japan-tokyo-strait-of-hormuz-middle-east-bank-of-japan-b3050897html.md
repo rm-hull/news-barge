@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Iran
+- Japan
+- Middle East
+- Strait of Hormuz
+- U.S.
+people:
+- Sanae Takaichi
+- Scott Bessent
+- Yuri Kageyama
+organisations:
+- Bank of Japan
+- Finance Ministry
+- Toyota Motor Corp.
+- Treasury
+- U.S. Federal Reserve
 ---
 
 Japan’s trade deficit totaled 1.1 trillion yen ($7 billion) last month as surging oil prices due to the conflicts in the Middle East sent the cost of imports soaring.

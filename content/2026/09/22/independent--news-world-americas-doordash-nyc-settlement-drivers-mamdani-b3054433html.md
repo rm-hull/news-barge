@@ -14,6 +14,15 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/07/19/47/GettyImages-1289399743.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+locations:
+- New York
+- New York City
+people:
+- DoorDash
+- Zohran Mamdani
+organisations:
+- City Hall
+- DoorDash
 ---
 
 DoorDash will pay $131.5 million to resolve claims that it shortchanged its delivery workers across New York City, Mayor Zohran Mamdani announced on Tuesday.

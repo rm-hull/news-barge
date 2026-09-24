@@ -12,6 +12,23 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg
+locations:
+- Australia
+- Brazil
+- Newby Hall
+- River Ure
+- Workington
+people:
+- Andrew Pern
+- Lawrence Wright
+- Lucas Robinson
+- Mad Hatter
+- Stuart Gill
+- Yulin Luo
+organisations:
+- Harrogate Spa Town Ukes
+- Newby Hall
+- Newby Hall Commercial
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg)

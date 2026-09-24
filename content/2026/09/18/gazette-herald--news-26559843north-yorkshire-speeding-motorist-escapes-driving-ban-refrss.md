@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Flaxton
+- Harrogate
+- Hovingham
+- Malton
+- Pasture Lane
+- York
+people:
+- Halima Kamran
+- Mark Ready
+organisations:
+- AA
 ---
 
 *(Image: PA)*

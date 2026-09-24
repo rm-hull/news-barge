@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Canada
+- France
+- Gaza
+- Germany
+- Israel
+- Jerusalem
+- Palestine
+- UK
+- West Bank
+people:
+- Avraham Burg
+- Benjamin Netanyahu
+- B’Tselem
+- Dahlia Scheindlin
+- Dan Halutz
+- David Harel
+- Ed Miliband
+- Ehud Olmert
+- Esther Solomon
+- Gideon Sa’ar
+- Haaretz
+- Itamar Eichner
+- Nadav Tamir
+- Roey Fisher
+- Roni Bar-On
+- Tone Kajzer
+- Yoram Ben Zeev
+- Yuli Tamir
+organisations:
+- Foreign Trade Administration
+- Guardian
+- Haaretz
+- Human Rights Israel
+- Israel Academy of Sciences and Humanities
+- Jewish People Policy Institute
+- Knesset
+- Trump
+- Yedioth Ahronoth
 ---
 
 Prominent Israelis have welcomed new UK sanctions as a necessary response to settlement expansion and spiralling violence in the occupied West Bank.

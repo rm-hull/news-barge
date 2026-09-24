@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/09/16/7/00/noah.jpeg?trim=0,0,0,0&w
 categories:
 - News & Politics
 - UK
+locations:
+- Brantham
+- Merriam Close
+- Noah Lowland
+- ROI
+- Suffolk
+- UK
+people:
+- '## Noah'
+- Bluey
+- Dame Esther Rantzen
+- David Beckham
+- James Cartlidge
+- Jo Youle
+- Kate McCann
+- Keir Starmer
+- Ms Keys
+- Noah Woods
+- Paul Joseph
+- Pete Partridge
+- Rhys Woods
+- Sarah Keys
+- Stephen Fry
+organisations:
+- '![Environment Agency'
+- BBC
+- Brantham Parish Council
+- CAD
+- CCTV Suffolk Police
+- Childline
+- Environment Agency
+- Facebook
+- Missing People
+- NSPCC
+- Samaritans
+- Suffolk Police
+- The Independent
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/89vobBIu/poster.jpg?width=720)

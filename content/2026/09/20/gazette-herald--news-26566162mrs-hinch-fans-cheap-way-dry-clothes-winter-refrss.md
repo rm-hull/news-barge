@@ -13,6 +13,13 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21475079.jpg?type=og-image
+locations: []
+people:
+- Hinch
+- Martin Lewis
+organisations:
+- Mrs Hinch Cleaning Tips
+- TIA
 ---
 
 With the weather getting worse and rain more frequent, you might be finding it harder to dry your clothes outside.

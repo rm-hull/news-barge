@@ -14,6 +14,17 @@ categories:
 - Society & Culture
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21481179.jpg?type=og-image
+locations:
+- North Yorkshire
+- York
+people:
+- Charlotte Farrington
+organisations:
+- JO RITCHIE
+- The Yorkshire Children’s Charity
+- YCC
+- YORKSHIRE
+- Yorkshire Children’s Charity
 ---
 
 ## 'We cannot do it without Yorkshire behind us' - charity's plea for winter support

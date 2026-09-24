@@ -13,6 +13,47 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Canterbury
+- England
+- Holyrood
+- Jersey
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Bill
+- Dame Esther Rantzen
+- Kim Leadbeater
+- Kit Malthouse
+- Lauren Edwards
+- Liz Carr
+- Rosie Jones
+- Sarah Champion
+- Sarah Mullally
+- Tynwald
+organisations:
+- Bill
+- Catholic Church
+- Childline
+- Church of England
+- Crown Dependencies
+- End of Life
+- High Court
+- House of Commons
+- House of Lords
+- Isle of Man
+- Labour
+- PMB
+- Parliament Acts
+- RCP
+- RCPsych
+- Royal College of Physicians
+- Royal College of Psychiatrists
+- States Assembly
+- Terminally Ill Adults
 ---
 
 Members of Parliament are set to decide on the future of assisted dying legislation during a further vote this Friday.

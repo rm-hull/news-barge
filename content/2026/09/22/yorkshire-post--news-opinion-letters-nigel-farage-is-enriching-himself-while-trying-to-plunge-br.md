@@ -13,6 +13,22 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFlZTI4NjMxLWNkYzUtNDU0MC04ZjEyLTYzMDNjYThhNGUwNzo3YTQ4ZjNlZi05YmY0LTRkNjMtOWQwZS02M2Y1OWJmOGZjYzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- America
+- Iran
+- Mike Baldwin
+- Nether Edge
+- Raven Road
+- Sheffield
+- Thailand
+- UK
+people:
+- Donald Trump
+- Nigel Farage
+organisations:
+- Reform UK
+- Reform UK National Conference
+- Yorkshire Post Letters
 ---
 
 # Nigel Farage is enriching himself while trying to plunge British families into poverty - Yorkshire Post Letters

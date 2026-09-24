@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bay of Seine
+- Belgium
+- Calais
+- Dover
+- Eastney
+- English Channel
+- France
+- Langstone
+- Portsmouth
+- Southampton Port
+people:
+- Anna Tippett
+- Lisa Nandy
+- Neil
+- Peter Sparkes
+organisations:
+- BBC Verify
+- Digital
+- RNLI
+- UK Border Force
+- University of Hertfordshire
 ---
 
 ![A screenshot of an RNLI crew member wearing a lifevest and yellow waterproof overalls taken from a video](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/306a/live/f9c34f70-ac6f-11f1-bc1f-3f186ca4140c.png)

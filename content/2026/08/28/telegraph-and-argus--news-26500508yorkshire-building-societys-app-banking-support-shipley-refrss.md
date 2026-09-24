@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Shipley
+- Well Croft
+people:
+- Adam Wardell
+organisations:
+- Yorkshire Building Society
 ---
 
 *(Image: Yorkshire Building Society)*

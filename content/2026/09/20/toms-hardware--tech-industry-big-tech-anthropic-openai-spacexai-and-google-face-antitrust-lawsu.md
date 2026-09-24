@@ -14,6 +14,30 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/degoS2TTSpcwauyQr4EDiU-1920-80.jpg
+locations:
+- Beijing
+- China
+people:
+- Claude
+- Dario Amodei
+- Jowi Morales
+- Nick Rowley
+- Sam Altman
+- Tom
+- Trump
+organisations:
+- AI
+- Anthropic
+- Associated Press
+- Big Tech
+- ChatGPT
+- China Daily
+- Gemini
+- Google News
+- Grok
+- HuggingFace
+- Jowi Morales
+- OpenAI
 ---
 
 ![Big Tech logos next to a hundred-dollar bill](https://cdn.mos.cms.futurecdn.net/degoS2TTSpcwauyQr4EDiU.jpg)

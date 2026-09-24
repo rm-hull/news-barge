@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Clifton
+- Landing Lane
+- River Ouse
+- York Animal Home
+people: []
+organisations:
+- RSPCA
 ---
 
 **The RSPCA in York has begun redeveloping a rescue shelter**.

@@ -17,6 +17,27 @@ categories:
 - Society & Culture
 - Arts & Culture
 - History
+locations:
+- Britain
+- Fasayil
+- Islamic Republic
+- Israel
+- Middle East
+- Qusra
+- US
+- West Bank
+people:
+- Mike Huckabee
+- Netanyahu
+- 'Qari Asim ##'
+- Rabbi Baginsky
+- Rabbi Levy
+- Rabbi Wittenberg
+organisations:
+- Masorti Judaism UK
+- Movement for Progressive Judaism
+- Qusra
+- UN
 ---
 
 # Violence against Palestinian communities in the occupied West Bank must end - Qari Asim

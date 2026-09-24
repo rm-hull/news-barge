@@ -11,6 +11,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/14/16/e6c5d59285cf76e4dbde492b0d6fb2a0Y29udGVudHNlYXJjaGFwaSwxNzg5NDg1OTYz-2.85491683.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Denton
+- Gorton
+- Holborn
+- London
+- St Pancras
+- Weald
+people:
+- Andy Burnham
+- Katie Lam
+- Keir Starmer
+- Mr Polanski
+- Sadiq Khan
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- '![Green'
+- Camden Council
+- Green Party
+- Greens
+- Instagram
+- Kent
+- Labour
+- The Independent
+- The Independent.
+- Vote Green
 ---
 
 Zack Polanski spoke in Bengali as he appealed to voters ahead of the upcoming Holborn and St Pancras by-election.

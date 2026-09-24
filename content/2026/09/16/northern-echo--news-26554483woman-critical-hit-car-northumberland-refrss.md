@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A69
+- Darlington
+- Haltwhistle Bypass Road
+- Northumberland
+people:
+- Vauxhall
+organisations:
+- GOOGLE
+- Northumbria Police
+- Our Roads Policing Unit
+- Post Office
+- RPU
+- TG Jones
 ---
 
 *(Image: GOOGLE)*

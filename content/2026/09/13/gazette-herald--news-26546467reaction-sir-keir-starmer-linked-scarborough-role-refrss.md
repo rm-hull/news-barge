@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Holborn
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- St Pancras
+people:
+- Bailiff
+- Crown Steward
+- Keir Starmer
+- Levi Tyso
+- Nicholas Hodgson
+- Nigel Farage
+- Tony Fisher
+organisations:
+- Buckinghamshire
+- House of Commons
+- Reform UK
+- The Press
+- Three Chiltern Hundreds
 ---
 
 Sir Keir Starmer took up a position linked to Buckinghamshire after quitting as an MP which led to the possibility of him becoming involved with a title in Scarborough.

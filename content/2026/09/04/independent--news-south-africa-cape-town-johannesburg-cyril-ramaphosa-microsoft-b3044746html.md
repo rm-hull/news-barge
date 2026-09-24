@@ -14,6 +14,26 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Cape Town
+- South Africa
+- U.S.
+- africa
+people:
+- Cyril Ramaphosa
+- Eileen Carter
+- Pitso Tsibolane
+- Sasha Booth-Beharilal
+organisations:
+- AP Africa
+- Amazon
+- Equinix
+- Eskom
+- Internet Service Providers Association
+- Microsoft
+- South African Human Rights Commission
+- The Associated Press
+- University of Cape Town
 ---
 
 South African civil rights groups are calling for a halt to the construction of additional data centers in the country until the use of scarce water, land and electricity resources has been investigated.

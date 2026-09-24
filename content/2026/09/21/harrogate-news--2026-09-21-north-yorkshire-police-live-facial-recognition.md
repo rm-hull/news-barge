@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/facial-recognition-west-yorkshire.webp
+locations:
+- '**York'
+- UK
+- York
+people: []
+organisations:
+- Authorising Officer
+- EU
+- LFR
+- North Yorkshire Police
+- PND
+- The Cons
 ---
 
 North Yorkshire Police have confirmed they will deploy **Live Facial Recognition (LFR) technology** for the first time in**York city centre this Wednesday, 23 September 2026**. The move marks the region’s first live operational rollout of the biometric surveillance equipment following a wider strategic announcement earlier this year.

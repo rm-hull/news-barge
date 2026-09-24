@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Afghanistan
+- Balmoral
+- Buckingham Palace
+- Edinburgh
+- Iraq
+- New York
+- Scotland
+- UK
+- United States
+people:
+- Camilla
+- Charles
+- Johnny Thompson
+- Jonny Thompson
+- Lt Col Thompson
+- Martha Stewart
+- Queen
+organisations:
+- Balaklava Company
+- Instagram
+- King’s Trust
+- Majesties
+- Royal Regiment
+- Royal Regiment of Scotland
 ---
 
 The senior equerry to the King and Queen, who captured widespread attention online, is to step down from his role supporting the royal family.

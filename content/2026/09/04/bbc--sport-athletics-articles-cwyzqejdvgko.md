@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Leeds
+- London
+- Mexico
+- Millennium Square
+- Rio
+- Tokyo
+people:
+- Alex Yee
+- Alistair
+- Freddie
+- Georgia Taylor-Brown
+- Jessica Learmonth
+- Jonny Brownlee
+organisations:
+- BBC Sport
+- London 2012
 ---
 
 ![Jonny Brownlee during the run leg of the triathlon at Rio 2016 Olympics](https://ichef.bbci.co.uk/ace/standard/971/cpsprodpb/c15f/live/d48877e0-a77d-11f1-b2d5-535b3b3d379f.jpg)

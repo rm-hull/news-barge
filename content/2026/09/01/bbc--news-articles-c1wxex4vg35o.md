@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Gaza City
+- Israel
+- Khan Younis
+- Nasser
+- Netiv HaAsara
+- Rimal
+people:
+- Amal Abu Khater
+- Ismail al-Thawabta
+- Israel Katz
+- James Henderson
+- James Kirby
+- John Chapman
+organisations:
+- BBC
+- Hamas
+- UN
+- World Central Kitchen
 ---
 
 ![An elderly woman walks past a destroyed vehicle following an Israeli strike in the Rimal neighbourhood of Gaza City (1 September 2026)](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg)

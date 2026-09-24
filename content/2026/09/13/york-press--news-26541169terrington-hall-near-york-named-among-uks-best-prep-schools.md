@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Education & Learning
+locations:
+- North
+- Scotland
+- Terrington Hall
+- UK
+- York
+people:
+- Huw Thomas
+- Tori Cadogan
+organisations:
+- 2027 Schools Guide
+- Tatler
+- Terrington Hall Prep School
 ---
 
 ## Prep school near York named among UK's best in prestigious Tatler guide

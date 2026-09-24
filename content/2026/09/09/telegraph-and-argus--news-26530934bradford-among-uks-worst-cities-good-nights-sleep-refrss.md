@@ -12,6 +12,20 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- London
+- UK
+people:
+- Getty
+organisations:
+- BRADFORD
+- Birmingham
+- Bradford
+- Dundee
+- Leeds
+- Liverpool
+- Manchester
+- Nature’s Best
 ---
 
 *(Image: Getty)*

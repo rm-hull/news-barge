@@ -12,6 +12,24 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Addingham Conservation Area
+- Bradford
+- Green Belt
+- Ilkley Moor
+- Main Street
+- Moorside
+- YOUR
+people:
+- Andrew Loy
+- Jane Sellers
+- Richard Downey
+organisations:
+- Addingham Cricket Club
+- Addingham Neighbourhood Plan
+- Bradford Council
+- Conservation Area Assessment
+- Public Notice Portal
 ---
 
 *(Image: UGC)*

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Liverpool
+- Walton Road
+people:
+- Elisha Marsay
+- Lee Spencer
+- Man
+- Miss Marsay
+- Richard Bennett
+- Tabitha Buck
+organisations:
+- B&M
+- Durham Police
+- Morrisons
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

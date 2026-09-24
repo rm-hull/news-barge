@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- B6265
+- Dairy Lane
+- Darley
+- Glasshouses
+- Harrogate Magistrates' Court
+- Headingley
+- Leeds
+- North Yorkshire
+- Pateley Bridge
+- West Yorkshire
+people:
+- Bailey Chadwick
+- Curtis Dunkley
+- Joseph Henry Stott
+- Mark Daley
+- Phil Morris
+organisations:
+- Box Bar
+- CCTV
+- North Yorkshire Police
 ---
 
 A MAN who drove over a teenager and left him fatally injured on a road in North Yorkshire is not responsible for his death, a court heard.

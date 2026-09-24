@@ -9,6 +9,22 @@ description: Fintech layoffs reveal AI hype masking deeper structural issues
 image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- US
+people: []
+organisations:
+- AI
+- Amazon
+- Coinbase
+- Deutsche Bank
+- Future plc
+- Giants
+- Google
+- McKinsey
+- PayPal
+- Schwarzwald Capital
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

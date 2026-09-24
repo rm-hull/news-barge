@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe
+- Bradford
+- Bramham
+- Brown Cow
+- Doncaster
+- Golden Ball
+- Leeds
+- Malton
+- Rufforth
+- Sam Smith
+- Scarborough
+- Tadcaster
+- Wetherby
+- York
+people:
+- Paula Dawson
+- Sam Smith
+- Tom Tavener
+- Tom Taverner
+organisations:
+- Angel & White Horse
+- Corporation Taps
+- Ebor Inn
+- GumTree
+- Red Lion
+- Sam Smith
+- Sam Smith’s Brewery
+- Tankard Inn
+- The Press
+- Wellington Inn
 ---
 
 *(Image: PA)*

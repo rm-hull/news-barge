@@ -11,6 +11,17 @@ description: I saw the Hohem Eyepic in action at IFA Berlin 2026, and it massive
 image: https://cdn.mos.cms.futurecdn.net/DPekvGmMGaj56xpuW3cnRA-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Harry Padoan
+- Hohem
+organisations:
+- DJI
+- Google News
+- Hohem Eyepic
+- IFA Berlin
+- Insta360
+- TechRadar
 ---
 
 ![Man holding the Hohem Eyepic](https://cdn.mos.cms.futurecdn.net/DPekvGmMGaj56xpuW3cnRA.jpg) 

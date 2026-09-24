@@ -11,6 +11,23 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/d94d8227f8be0521041e0b899f4506156b6fb1c0/452_0_3880_3104/master/3880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4eca2cb81768e4028e764933d0bef2e
+locations:
+- Chagos Islands
+- Greater Manchester
+- Iran
+- Mauritius
+- Missouri
+- New York
+- UK
+- White House
+people:
+- Andy Burnham
+- Diego Garcia
+- Donald Trump
+- Keir Starmer
+organisations:
+- Rolls-Royce
+- UN
 ---
 
 Donald Trump has praised Andy Burnham as a “natural businessperson” and said the UK was “more up” than under Keir Starmer. But he berated the UK for its decision to give up the Chagos Islands.

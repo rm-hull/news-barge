@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- PA
+people:
+- Chenying Cannell
+- Jon Richardson
+- Judi Love
+- Nigella Lawson
+- Paul Hollywood
+- Prue Leith
+organisations:
+- Second Helpings
 ---
 
 *(Image: Chenying Cannell / PA)*

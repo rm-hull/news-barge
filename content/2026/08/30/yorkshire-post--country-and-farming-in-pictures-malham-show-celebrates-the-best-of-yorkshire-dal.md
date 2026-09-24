@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Airton
+- Highland Cattle
+- Malham
+- Yorkshire Dales
+people:
+- Malham Show
+organisations: []
 ---
 
 Malham Show returned on Saturday (Aug 29), bringing a celebration of farming and rural traditions to the heart of the Yorkshire Dales.

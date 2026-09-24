@@ -15,6 +15,26 @@ categories:
 - Personal Finance & Investing
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Haxby Station
+- North Yorkshire
+- Station Gateway
+- York Outer Ring Road
+- York Station
+people:
+- Cllr Lomas
+- David Skaith
+- Katie Lomas
+organisations:
+- CITY of York Council
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- Network Rail
+- North Yorkshire Combined Authority
+- Press
+- Station Gateway
+- York Council
 ---
 
 CITY of York Council's finance spokesperson has answered questions on affordable housing, major projects and plans for charges on tourists ahead of work starting on next year's budget.

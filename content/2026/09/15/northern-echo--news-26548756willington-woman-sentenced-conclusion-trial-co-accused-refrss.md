@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Denewood Close
+- Durham Crown Court
+- Willington
+people:
+- Amanda Rippon
+- Jonathan McKenzie
+- Jordan Parkinson
+- Miss Parkinson
+- Samantha Caile
+- Woman
+organisations:
+- Caile
+- Northern Echo
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

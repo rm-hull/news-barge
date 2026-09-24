@@ -14,6 +14,23 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- U.S.
+- Yokohama
+people:
+- Yuri Kageyama
+organisations:
+- BMW
+- Honda
+- Infiniti
+- Leaf
+- Mercedes-Benz
+- Nissan
+- Stellantis
+- Subaru
+- Toyota Motor Corp.
+- Volkswagen
+- Waymo
 ---
 
 Japanese automakers Nissan and Honda entered a deal to jointly develop computer parts and software for vehicles set to enter the market in fiscal 2029, both sides said Monday.

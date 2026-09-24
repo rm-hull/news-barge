@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21321610.jpg?type=og-image&yType=74
+locations:
+- Bishop Auckland Simply Food
+- County Durham
+- West Park Darlington
+people: []
+organisations:
+- Bishop Auckland Simply Food, M&S
+- Marks & Spencer
 ---
 
 *(Image: GOOGLE)*

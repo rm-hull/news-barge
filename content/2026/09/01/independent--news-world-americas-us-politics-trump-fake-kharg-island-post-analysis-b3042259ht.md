@@ -16,6 +16,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- AI
+- Alabama
+- Birmingham
+- Gulf
+- Iran
+- Jordan
+- Kharg Island
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- White House
+people:
+- Christopher Lee
+- Donald Trump
+- Quinten Langley
+- Shirvin Zeinalzadeh
+organisations:
+- '![Trump'
+- Arizona State University
+- DJT
+- Defense Department
+- Department of Defense
+- Foresight Strategies
+- NOAA
+- National Iranian Oil Company
+- National Weather Service
+- Oval Office
+- Pentagon
+- School of Politics and Global Studies
+- The Independent
+- Trump
+- Truth Social
+- Yeshiva University
 ---
 
 The footage is convincing. Shot as though from the open door of a military helicopter, it shows oil storage tanks and refinery infrastructure erupting in sequence, smoke stacking into a night sky — the camera juddering the way real gun-camera video shakes.

@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Germany
+- Haworth
+- Heathcliff
+- Ida Oberstein
+- North Yorkshire
+- Ponden Hall
+- Wuthering Heights
+- York
+people:
+- Cathy
+- Edgar Linton
+- Emily Brontë
+- Heathcliff
+- Joanne Gowan
+- Nelly
+organisations:
+- Ampleforth Abbey
+- R.M Weare
 ---
 
 A jeweller is capturing the spirit of Wuthering Heights in a new piece inspired by the Yorkshire landscape and the writing of Emily Brontë.

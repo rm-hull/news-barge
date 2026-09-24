@@ -12,6 +12,16 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2024/04/29/22/newFile-1.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Wales
+people:
+- Greg Ceely
+- Lisa Pepper
+organisations:
+- ONS
+- Office for National Statistics
+- Osbornes Law
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

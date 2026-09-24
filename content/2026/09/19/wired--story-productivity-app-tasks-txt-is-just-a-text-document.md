@@ -11,6 +11,11 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aacfa7099aa97f60264424c/191:100/w_1280,c_limit/091826-Productivity%20Doc.jpg
+locations: []
+people:
+- Gina Trapani
+- Yevhen Kharkivskyi
+organisations: []
 ---
 
 I've spent decades testing, reviewing, and (most importantly) using different to-do list applications. It's a career, yes, but it's also a bit of an obsession.

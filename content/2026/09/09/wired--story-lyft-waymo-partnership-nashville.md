@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Science
 - Automotive
+locations:
+- DC
+- District
+- Nashville
+- San Francisco
+- Tennessee
+- US
+- Washington
+- Waymo
+- Waymos
+people:
+- Cristian Delgado
+- Jeremy Bird
+- Jonathan Baines
+- Lyft
+- Waymo
+organisations:
+- AI
+- AVs
+- DC
+- Flexdrive
+- Lyft
+- Waymo
 ---
 
 This week, Lyft riders in Nashville, Tennessee, who request a ride on the app might get matched with a new driver: a robot.

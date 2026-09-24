@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Great Britain
+- Sheffield
+- UK
+people:
+- Dan Coatsworth
+- Jason Tarry
+- John Lewis
+- Julie Palmer
+- Natalie Berg
+- Shein
+- Vinted
+organisations:
+- ABF
+- AJ Bell
+- BBC News
+- Boohoo
+- British Foods
+- InPost and Relay
+- Primark
+- Royal Mail
+- TikTok Shop
+- Vinted
+- Waitrose
 ---
 
 ![Woman carries Primark paper bags](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/3fd0/live/64817fa0-ace6-11f1-8d69-858c9dcdf738.png)

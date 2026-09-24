@@ -11,6 +11,41 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f662/live/68ede5
 categories:
 - UK
 - News & Politics
+locations:
+- DC
+- Damascus
+- Gaza
+- Homs
+- Lebanon
+- Sakr Rustom
+- Syria
+- Tahouneh
+- US
+- Washington
+people:
+- Abu Ali
+- Abu Obeid
+- Assad
+- Austin Tice
+- Bashar al-Assad
+- Bassam al-Hassan
+- Debra Tice
+- Hamid Abu Obeid
+- Hassan
+- Josh Baker
+- Taylor Swift
+- Then
+organisations:
+- Austin Tice
+- BBC
+- CIA
+- Georgetown University
+- NDF
+- National Defence Forces
+- National Press Club
+- Syrian Army
+- US Marines
+- Washington Post
 ---
 
 ![File image of Tice in front of a rural background. He has mid-length brown hair and a short brown beard and is wearing a khaki green polo shirt.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/68a4/live/cf888360-3f4c-11f0-b6e6-4ddb91039da1.jpg)

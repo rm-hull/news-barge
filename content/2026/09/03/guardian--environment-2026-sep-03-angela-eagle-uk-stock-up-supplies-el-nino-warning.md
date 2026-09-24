@@ -12,6 +12,34 @@ image: https://i.guim.co.uk/img/media/b818fee8c052b4289dcbd7bb977dd4e7766a1467/7
 categories:
 - UK
 - News & Politics
+locations:
+- Asia
+- Australia
+- Britain
+- El Niño
+- Europe
+- Hampshire.
+- Havant Thicket
+- India
+- Indonesia
+- Pacific
+- South America
+- UK
+people:
+- Angela Eagle
+- António Guterres
+- Celeste Saulo
+- Zeke Hausfather
+organisations:
+- Cabinet Office
+- Eagle
+- El Niño
+- Guardian
+- Portsmouth Water
+- UN
+- UN’s World Meteorological Organization
+- WMO
+- World Food Programme
 ---
 
 British people have been urged to have enough food and water on hand to survive a few days without power or water, as the UN said the El Niño climate phenomenon was “supersizing before our eyes”, exacerbating extreme weather events worldwide.

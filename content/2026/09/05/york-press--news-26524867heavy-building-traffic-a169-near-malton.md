@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- North Yorkshire
+- Old Malton
+people: []
+organisations:
+- AA Traffic
 ---
 
 ## Traffic eases along main road in North Yorkshire after incident

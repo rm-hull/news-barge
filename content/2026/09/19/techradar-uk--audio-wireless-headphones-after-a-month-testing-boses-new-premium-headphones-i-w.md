@@ -13,6 +13,34 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://cdn.mos.cms.futurecdn.net/jrPG2oTjCT8FgdnkkNnsUA-2560-80.jpg
+locations:
+- Australia
+- QuietComfort
+- UK
+- US
+- USB-C
+people:
+- Bose
+- Tom Bedford
+organisations:
+- '## Bose QuietComfort Headphones'
+- ANC
+- Android Police
+- BGR
+- Bose QuietComfort Headphones
+- Bowers & Wilkins PX7 S3
+- Column
+- Digital Trends
+- EQ
+- GamesRadar
+- QC Headphones
+- QuietComfort Headphones
+- Sony
+- Spotify
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ### TechRadar Verdict

@@ -14,6 +14,23 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Scarborough Harbour
+- Scarborough West Pier
+- West Pier
+people:
+- Chris Bourne
+- Robin Gray
+organisations:
+- Blue Sky
+- Government’s Fishing and Coastal Growth Fund
+- Green Book-standard
+- Harbours Strategy
+- North Yorkshire Council
+- Scarborough Borough Council
+- Scarborough Harbour Advisory Board
+- Scarborough Harbour Users Group
 ---
 
 # More money needed for £15m Scarborough harbour redevelopment, says council

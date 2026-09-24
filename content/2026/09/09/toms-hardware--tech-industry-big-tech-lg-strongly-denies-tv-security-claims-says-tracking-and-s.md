@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Hardware
 - Film & TV
+locations:
+- Meh
+people:
+- Jesus
+- Stephen Warwick
+- Tom
+organisations:
+- ACR
+- Apple
+- Gamers Nexus YouTube
+- Get Tom's Hardware
+- Google News
+- Hi LG
+- LG Electronics
+- LG TVs
+- TechRadar
+- Tom's Hardware
+- iMore
 ---
 
 ![LG OLED TV](https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k.jpg) 

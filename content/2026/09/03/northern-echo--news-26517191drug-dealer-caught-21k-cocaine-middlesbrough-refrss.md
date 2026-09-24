@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - True Crime
 - Sports
+locations:
+- County Durham
+- Middlesbrough
+people:
+- Albany Kidd
+- Andrew Sutcliffe KC
+- Killer
+- Mark Freer
+- Miss Butt
+- Rachel Butt
+organisations:
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Police)*

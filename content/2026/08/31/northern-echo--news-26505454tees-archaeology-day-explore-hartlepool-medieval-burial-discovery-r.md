@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Church Square
+- England
+- Greatham
+- Hart Manor
+- Hartlepool
+- Marsh House Farm
+- North East
+people: []
+organisations:
+- Cura Terrae
+- Hartlepool Art Gallery
+- Hartlepool Borough Council
+- Stockton Central Library
 ---
 
 *(Image: Hartlepool Borough Council)*

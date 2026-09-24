@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Iran
+- UK
+people:
+- Andy Burnham
+- Dhara Vyas
+- Ed Matthew
+- John Healey
+- Rachel Reeves
+organisations:
+- CBI
+- Cornwall Insight
+- E3G
+- End Fuel Poverty and Age UK
+- Energy UK
+- Octopus
+- Ofgem
+- Reeves
 ---
 
 More than 120 organisations including big businesses and charities have called for the removal of “hidden taxes” added to energy bills to help reduce costs for consumers and prevent businesses closing.

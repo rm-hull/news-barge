@@ -10,6 +10,28 @@ description: Plug-in solar is becoming easier to access across the world, and th
 image: https://cdn.mos.cms.futurecdn.net/qiEsx8MUQChRwTBsWHz3hV-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Anker
+- Berlin
+- England
+- Europe
+- Germany
+- PowerOcean
+- Stockport
+- UK
+- US
+people:
+- Anker Solix
+- Dave
+- David Nield
+organisations:
+- DJI
+- EcoFlow
+- Gizmodo
+- Google News
+- IFA
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![IFA 2026 plug-in solar](https://cdn.mos.cms.futurecdn.net/qiEsx8MUQChRwTBsWHz3hV.jpg) 

@@ -12,6 +12,19 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.the-independent.com/2026/09/21/8/38/Screenshot-2026-09-21-at-09-11-59.png?trim=0,0,107,0&width=1200&height=800&crop=1200:800
+locations:
+- Duxbury
+- Massachusetts
+people:
+- Baby Murderer
+- Callan
+- Cora
+- Dawson
+- Killer Mom
+- Lindsay Clancy
+- Patrick Clancy
+- Rachel Danis
+organisations: []
 ---
 
 Lindsay Clancy’s ex-husband has revealed why he forgave her for killing their three children, in his first interview since her mistrial.

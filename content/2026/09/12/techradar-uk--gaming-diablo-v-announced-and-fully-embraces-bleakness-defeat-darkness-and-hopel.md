@@ -13,6 +13,24 @@ image: https://cdn.mos.cms.futurecdn.net/QLRPmwh4TH7GtknXZmuyCf-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Anaheim
+people:
+- Blizzard
+- Diablo
+- Rob
+organisations:
+- Blizzard
+- Diablo 4
+- GamesRadar+
+- Google News
+- Hardware
+- Lord of Hatred
+- Streaming
+- TRG
+- TechRadar Gaming
+- Vessel of Hatred
+- WePC
 ---
 
 ![A screenshot from the Diablo V teaser trailer showing crucified victims](https://cdn.mos.cms.futurecdn.net/QLRPmwh4TH7GtknXZmuyCf.jpg) 

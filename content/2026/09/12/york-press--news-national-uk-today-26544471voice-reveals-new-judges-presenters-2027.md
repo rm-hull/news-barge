@@ -13,6 +13,37 @@ categories:
 - York
 - Film & TV
 - Music
+locations:
+- UK
+people:
+- Alesha Dixon
+- Anne Marie
+- Cheryl and Aitch
+- Danny Jones
+- Emma Willis
+- Holly Willoughby
+- Jennifer Hudson
+- Kelly Rowland
+- Kylie Minogue
+- LeAnn Rimes
+- Marvin Humes
+- McFly
+- Olly Murs
+- Reggie Yates
+- Rita Ora
+- Stacey Solomon
+- Tom Fletcher
+- Tom Jones
+- Tom Jones'
+- Will.I.Am
+organisations:
+- BBC
+- Black Eyed Peas
+- Destiny
+- ITV
+- JLS
+- The Voice
+- The Voice UK
 ---
 
 *(Image: ITV)*

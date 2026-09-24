@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2817/live/55686f10-b4d4-11f1-9da2-53121c9abf16.jpg
+locations:
+- Flames
+- Folkestone
+- Grand Burstin Hotel
+- London
+- Marine Parade
+- Marine Terrace
+- Pavilion Court
+- Three Hills Sports Park
+people:
+- John Dighton
+- Kathleen
+- Kevin Crawford
+- Lawrence Pater
+- Ross Honeycomb
+- Susan Priest
+organisations:
+- BBC
+- Britannia Hotels Group
+- Folkestone & Hythe District Council
+- Grand Burstin
+- Hythe District Council
+- Kent Fire & Rescue Service
+- Kent Police
+- Morrisons
+- Pavilion Court
+- Salvation Army
+- The Harbour Inn
+- Three Hills
 ---
 
 ![The front of a hotel damaged by fire.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2817/live/55686f10-b4d4-11f1-9da2-53121c9abf16.jpg)

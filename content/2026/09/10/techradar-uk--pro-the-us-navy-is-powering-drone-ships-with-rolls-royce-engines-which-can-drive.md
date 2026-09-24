@@ -10,6 +10,23 @@ description: The US Navy has approved two Rolls Royce engines as unmanned ships 
 image: https://cdn.mos.cms.futurecdn.net/4XdK3dcuCQuYa2bMDeCLCg-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Stingray
+people:
+- Scott Hanson
+organisations:
+- '## Rolls Royce'
+- Efosa
+- Google News
+- MQ 4C Triton
+- RQ 4 Global Hawk
+- Rolls Royce
+- Rolls Royce Power Systems North America
+- Rolls-Royce
+- Sea Hunter
+- TechRadar Pro
+- US Navy
+- United States Air Force
 ---
 
 ![Rolls Royce mtu Series 4000 engine](https://cdn.mos.cms.futurecdn.net/4XdK3dcuCQuYa2bMDeCLCg.jpg) 

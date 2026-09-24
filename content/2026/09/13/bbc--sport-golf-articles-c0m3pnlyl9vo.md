@@ -15,6 +15,40 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Europe
+- France
+- Netherlands.
+- Spain
+- US
+- USA
+people:
+- Alison Lee
+- Andrea Lee
+- Angela Stanford
+- Anna Nordqvist
+- Auston Kim
+- Carlota Ciganda
+- Celine Boutier
+- Charley Hull
+- Esther Henseleit
+- Jennifer Kupcho
+- Julia Lopez Ramirez
+- Lauren Coughlin
+- Leona Maguire
+- Lindy Duncan
+- Lopez Ramirez
+- Lottie Woad
+- Maja Stark
+- Megan Khang
+- Mimi Rhodes
+- Nastasia Nadaud
+- Nelly Korda
+- Rose Zhang
+- Yealimi Noh
+organisations:
+- Bernardus Golf Club
+- Hull
 ---
 
 How Europe won the 2026 Solheim Cup

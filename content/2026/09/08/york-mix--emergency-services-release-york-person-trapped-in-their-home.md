@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '####'
+- Acomb
+- Coggan Close
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 Emergency services were called to a person trapped in their home last night (Monday).

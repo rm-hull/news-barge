@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Americas
+- Bogotá
+- Caracas
+- Colombia
+- Ecuador
+- Europe
+- Iraq
+- Middle East
+- North Macedonia
+- Panama Canal
+- Peru
+- Slovakia
+- South America
+- Tunisia
+- US
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Abelardo de la Espriella
+- Marco Rubio
+- Nicolás Maduro
+- Trump
+- de la Espriella
+organisations:
+- Congress
+- NATO
+- State Department
+- US State Department
 ---
 
 ## It comes after US Secretary of State Marco Rubio made a trip to South America last week, where he met with the conservative leaders of Peru, Colombia and Ecuador to pledge further support and cooperation.

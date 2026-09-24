@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Health & Fitness
 - Self-Improvement
+locations:
+- Aldan
+- Ankara Bilkent City Hospital
+- Barcelona
+- India
+- Kolkata
+- Spain
+- Turkey
+people:
+- Goncagul Aldan
+- Marc Miravitlles
+organisations:
+- Congress
+- ERS
+- European Respiratory Society
+- Hacettepe University Faculty of Nursing
+- Vall d’Hebron University Hospital
 ---
 
 ![A group practises laughter yoga](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310661272.jpg?w=840)

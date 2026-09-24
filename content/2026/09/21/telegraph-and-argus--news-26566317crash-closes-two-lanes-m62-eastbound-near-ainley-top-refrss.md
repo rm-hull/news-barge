@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479400.jpg?type=og-image
+locations:
+- England
+- M62 Eastbound
+- Rishworth Moor
+people: []
+organisations:
+- AA
 ---
 
 *(Image: Highways England)*

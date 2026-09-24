@@ -15,6 +15,18 @@ categories:
 - York
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- Hawes
+- Market House
+- Wensleydale Creamery
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Hawes
+- Instagram
+organisations:
+- Calvert’s Restaurant
+- Yorkshire Wensleydale
 ---
 
 # “I visited Wensleydale Creamery - the afternoon tea where everything comes with cheese”

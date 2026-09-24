@@ -12,6 +12,11 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people: []
+organisations:
+- AP
+- Bucharest International Air Show
 ---
 
 The annual Bucharest International Air Show brings spectacular aerobatics, military aircraft and aerial demonstrations to the Romanian capital.

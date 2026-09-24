@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/15/21/2295458964..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- America
+- Iran
+- Rose Garden
+- United States
+- White House
+people:
+- AI
+- Christopher Wray
+- Donald Trump
+- Donald Trump Jr.’s
+- Donny
+- JD Vance
+- Karoline Leavitt
+- Pete Hegseth
+- Putin
+- Thomas Massie
+- Todd Blanche
+organisations:
+- AI
+- FBI
+- Nice
+- OpenAI
+- Supreme Court
+- Trump
 ---
 
 Karoline Leavitt is long gone but the show must go on — and Tuesday, in her place for the White House press conference, was the aggressively bland Todd Blanche. A painfully awkward man who currently serves as the United States Attorney General and formerly served as Donald Trump’s personal lawyer, Blanche spent most of his time at the podium talking about sweat.

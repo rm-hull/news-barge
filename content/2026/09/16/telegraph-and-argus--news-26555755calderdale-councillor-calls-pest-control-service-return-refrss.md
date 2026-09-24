@@ -13,6 +13,25 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Calderdale
+- Ind, Park
+- Park ward
+- Salterhebble
+- Southowram
+people:
+- Coun Hawkaluk
+- Coun Khalil
+- Coun Osman Khalil
+- Coun Paul Hawkaluk
+organisations:
+- Cabinet
+- Calderdale Council
+- Community Safety and Enforcement
+- Environmental Health
+- Labour
+- Reform UK
+- Skircoat Green
 ---
 
 Three years after the phasing out of a council’s pest control service, a councillor is urging it should be brought back, claiming rat infestations are on the rise.

@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 - Society & Culture
+locations:
+- Blyth Lane
+- Maltby Crags Fair
+- Muglet Lane
+- Rotherham
+- Sheffield Children's Hospital
+- South Yorkshire
+- Victoria Road
+people: []
+organisations:
+- South Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 ![A police car parks in front of a fairground scene at night.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/68b7/live/f54f08a0-ae20-11f1-ac3c-d9de82cf7bb1.jpg)

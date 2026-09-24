@@ -14,6 +14,16 @@ categories:
 - True Crime
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1N2I5OWQ3LTJlM2UtNGNmOC05NTBiLTMwNDI0ZjAxYWViYzoyNzg0M2E5MS04NDgwLTRhMDMtYTYzMC03ZGUzYjUyN2NmM2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Grangetown
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Francis Laird KC
+- Jaden Wright
+- Natalie McDonald
+- Valentina Foster
+organisations: []
 ---
 
 # Man denies murdering seven-year-old girl and her aunt in house fire

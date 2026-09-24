@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- England
+- North Yorkshire
+- Scotland
+- Wales
+- Whitby
+- York
+people:
+- Christopher H Drinkwater
+- Estelle Drye
+- Kelly Pennock
+organisations:
+- Met Office
 ---
 
 Areas of North Yorkshire experienced a 'spectacular' storm for several hours on Sunday night.

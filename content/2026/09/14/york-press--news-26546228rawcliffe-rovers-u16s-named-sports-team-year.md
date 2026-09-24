@@ -13,6 +13,19 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- York Racecourse
+- York Stadium
+people:
+- David Harrison
+- Gaz
+- Ryan
+organisations:
+- Brooklyn Lions
+- Rawcliffe Junior Football Club
+- Rawcliffe Rovers
+- Scalby
+- York College & University Centre
 ---
 
 ## Most successful team in club's history wins Community Pride Award

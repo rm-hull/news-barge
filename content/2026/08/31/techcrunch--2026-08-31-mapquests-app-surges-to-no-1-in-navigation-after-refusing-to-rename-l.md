@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lake
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- U.S
+- U.S.
+- United States
+people:
+- Donald Trump
+- Doug Berger
+- MapQuest
+organisations:
+- AOL
+- App Store
+- Apple Maps
+- Google Maps
+- MapQuest
+- No. 1
+- No. 4
+- No. 8
+- Sensor Tower
+- System1
+- Trump
+- U.S. App Store
+- U.S. Department of the Interior
+- Verizon
 ---
 
 MapQuest stood up to President Donald Trump, and now its app is reaping the rewards.

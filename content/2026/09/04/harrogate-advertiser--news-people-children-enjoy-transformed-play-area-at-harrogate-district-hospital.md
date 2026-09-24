@@ -15,6 +15,32 @@ categories:
 - Harrogate
 - Family & Parenting
 - Health & Fitness
+locations:
+- Harrogate District Hospital
+- Woodlands Ward
+people:
+- Adam
+- Carl
+- Curtis
+- Jason
+- Jen Crawford
+- Lisa
+- Mae
+- Martin
+- Paul
+- Rob
+- Stuart
+- Tanzeer
+- Yannick
+- Yvonne Campbell
+organisations:
+- British Gas
+- District NHS Foundation Trust
+- Harrogate District Hospital
+- Harrogate Hospital & Community Charity
+- Harrogate and District NHS Foundation Trust
+- Special Care Baby Unit
+- Woodlands Ward
 ---
 
 # Children enjoy transformed play area at Harrogate District Hospital thanks to hard-working volunteers

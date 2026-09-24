@@ -13,6 +13,21 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- TechRadar
+- UK
+people: []
+organisations:
+- Crispi Microwave
+- Google News
+- Ninja Crispi
+- Ninja Crispi Microwave
+- PC Format
+- PC Plus
+- SCA
+- Samsung Combi Smart Microwave
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Ninja Crispi Microwave on kitchen counter containing stuffed peppers](https://cdn.mos.cms.futurecdn.net/WK8rSfzkmPCe66hfGgupY6.png) 

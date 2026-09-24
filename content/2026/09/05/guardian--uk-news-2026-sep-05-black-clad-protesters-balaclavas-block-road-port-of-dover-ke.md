@@ -11,6 +11,39 @@ image: https://i.guim.co.uk/img/media/65221c4d71bb8f0a612a43c5a17d4f810e567007/5
 categories:
 - UK
 - News & Politics
+locations:
+- A20
+- Dover Waterfront
+- England
+- Jubilee Way
+- Kent
+- Northern Ireland
+- Port of Dover
+- Scotland
+- Wales
+people:
+- Chris Vinson
+- Danny Thomas
+- Danny Tommo
+- Mike Tapp
+- Nathan Ditchburn
+- Paul King
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- DFDS
+- Dover and Deal
+- Facebook
+- Home Office
+- KentOnline
+- Labour
+- M20
+- National Highways
+- P&O Ferries
+- Parkrun
+- Patriot Platform
+- Press Association
+- Reform UK
 ---
 
 Dozens of people dressed in black and wearing balaclavas have blocked the road at the port of Dover in Kent, forcing closures in both directions.

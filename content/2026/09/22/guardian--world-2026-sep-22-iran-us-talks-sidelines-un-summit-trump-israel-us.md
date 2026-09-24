@@ -11,6 +11,47 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/0e83809b06b6077027cd3b905b78c52f8cc12e22/87_0_2573_2058/master/2573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32956c30cfb9bebec4fd51f13def0c8e
+locations:
+- Earth
+- Gaza
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Middle East
+- New York
+- Oman
+- Qatar
+- Saudi Arabia
+- Switzerland
+- Tehran
+- Turkey
+- US
+- Washington
+- West Bank
+- White House
+people:
+- Abbas Araghchi
+- Abdullah
+- Donald Trump
+- JD Vance
+- Julia Demaree Nikhinson
+- Masoud Pezeshkian
+- Mohammad Ghalibaf
+- Mojtaba Khamenei
+- Recep Tayyip Erdoğan
+- Steve Witkoff
+- Susie Wiles
+- Volodymyr Zelenskyy
+organisations:
+- IRGC
+- Islamic Revolutionary Guards Corps
+- Kyodo
+- Reuters
+- Supreme Leader
+- UN
 ---
 
 Iranian officials held three hours of talks with US special envoy Steve Witkoff on the sidelines of the UN general assembly, Donald Trump disclosed on Tuesday.

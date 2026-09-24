@@ -12,6 +12,44 @@ image: https://static.independent.co.uk/2026/09/06/13/2026-09-06T113237Z_8130500
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Black Sea
+- Covid
+- Donbas
+- Europe
+- Germany
+- Kremlin
+- Kyiv
+- Leipzig
+- Middle East
+- Moscow
+- Poland
+- Russia
+- Sevastopol
+- Soviet Union
+- U.S.
+- US
+- Ukraine
+- Washington
+people:
+- '## Zelensky'
+- Adolf Hitler
+- Donald Trump
+- Jared Kushner
+- Kyiv
+- Mikhail Razvozhayev
+- Sergei Lavrov
+- Stepan Yermak
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yuri Ushakov
+organisations:
+- Donbas
+- Kyiv
+- Telegram
+- Trump
 ---
 
 Negotiations between Ukraine and the US have been hailed as “very substantive” by Zelensky, as the Trump administration renewed its push to end Russia's four-and-a-half-year war in Ukraine.

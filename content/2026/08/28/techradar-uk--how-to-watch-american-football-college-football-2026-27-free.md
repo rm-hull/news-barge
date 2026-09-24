@@ -12,6 +12,117 @@ image: https://cdn.mos.cms.futurecdn.net/BSBqBtnoyhCHtUcdtmEKXg-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Austin Peay
+- Australia
+- Cal Poly
+- Canada
+- Central Arkansas
+- Charleston Southern
+- Chattanooga
+- Colgate
+- Delaware State
+- Eastern Illinois
+- Eastern Michigan
+- Florida State
+- Fordham
+- Gardner-Webb
+- Georgetown
+- Hawaii
+- Houston Christian
+- Idaho
+- Jacksonville State
+- Kayo
+- LIU
+- Lafayette
+- Lindenwood
+- Maine
+- Marist
+- Memphis
+- Mercyhurst
+- Merrimack
+- Mississippi Valley State
+- Murray State
+- NC State
+- New Hampshire
+- New Haven
+- Nicholls
+- North Carolina
+- North Dakota
+- Northern Colorado
+- Oregon
+- Rhode Island
+- Sacramento State
+- San Jose State
+- Southeastern Louisiana
+- Southern California
+- Southern Illinois
+- Stanford
+- Stony Brook
+- TCU
+- Towson
+- UAlbany
+- UK
+- US
+- UT Martin
+- Villanova
+- Virginia
+- Weber State
+- West Florida
+- West Georgia
+- Youngstown State
+- canada
+people:
+- Adam Marshall
+- Arch Manning
+- Curt Cignetti
+- Dan Lanning
+- Eli
+- Fernando Mendoza
+- Ole Miss
+- Peyton
+organisations:
+- :** ABC
+- ACC Network
+- Big Ten
+- Big Ten Network
+- CBS Sports
+- DAZN
+- Disney
+- ESPN App
+- FOX One
+- FS1
+- Fox One
+- Fubo
+- Future Publishing
+- Hulu
+- Indiana Hoosiers
+- Kayo Sports
+- LSU
+- Las Vegas Raiders
+- Live TV
+- Miami Hurricanes
+- NBC Sports
+- NCAA College Sports
+- New Mexico State
+- NordVPN
+- Ohio Buckeyes
+- Paramount
+- Peacock
+- QB
+- SEC
+- Sling Orange
+- Sling TV
+- TNT
+- TSN
+- TechRadar
+- Texas Longhorns
+- The CW
+- Tom's Guide
+- UNLV
+- USA
+- William & Mary
+- YouTube TV
 ---
 
 ![Arch Manning of the Texas Longhorns looks for a pass during an NCAA college football match.](https://cdn.mos.cms.futurecdn.net/BSBqBtnoyhCHtUcdtmEKXg.jpg) 

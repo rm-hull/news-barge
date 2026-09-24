@@ -15,6 +15,37 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- A68 West Auckland Road
+- Auckland Avenue
+- Auckland Oval
+- B6279 Freemans Place
+- B6280 Parkgate
+- Bishop Auckland
+- Borough Road
+- Brinkburn Road
+- County Durham
+- Darlington
+- NORTHERN ECHO
+- Neasham Road
+- North East
+- North East.
+- Northern Rail
+- Rochester Way
+- Teesside
+- Tyne and Wear Metro
+- Upper Russell Street Eastbound
+- Winchester Way
+people: []
+organisations:
+- A1
+- A66
+- Cross Country
+- LNER
+- Met Office
+- Newcastle Airports
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: NORTHERN ECHO)*

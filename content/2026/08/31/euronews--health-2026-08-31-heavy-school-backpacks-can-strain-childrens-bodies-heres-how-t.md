@@ -12,6 +12,19 @@ categories:
 - Europe
 - News & Politics
 - Health & Fitness
+locations:
+- Congo
+- Kisangani
+- Phoenix
+- United States
+- West Nile
+people:
+- Roger Kamba
+- Sadika Kendi
+- Samantha Ness
+organisations:
+- American Academy of Pediatrics
+- Associated Press
 ---
 
 ## As back-to-school shopping gets underway, experts warn that overloaded backpacks can strain children's bodies.

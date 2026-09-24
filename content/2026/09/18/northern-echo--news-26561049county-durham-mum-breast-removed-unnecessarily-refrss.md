@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Consett
+- County Durham
+- NHS
+- North East
+people:
+- Amir Bhatti
+- Denise Howarth
+- Rachel O’Connor
+organisations:
+- CSS
+- Cathedral Surgical Services
+- County Durham
+- Darlington NHS Foundation Trust
+- Durham Police
+- Hudgell Solicitors
+- Hudgell Solicitors’
 ---
 
 A County Durham mum told she did not need a mastectomy says the operation robbed her of the person she was before surgery.

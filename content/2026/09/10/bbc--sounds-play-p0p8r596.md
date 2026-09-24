@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- UK
+- US
+people:
+- Anna Harris
+- Caitriona Perry
+- Chris Gray
+- Cordelia Hemming
+- Donald Trump
+- Faisal Islam
+- Gabriel Purcell-Davis
+- Geoffrey Hinton
+- Jack Maclaren
+- James Cook
+- Joe Tidy
+- Joe Wilkinson
+- Jonny Hall
+- Sam Bonham
+- Shiler Mahmoudi
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

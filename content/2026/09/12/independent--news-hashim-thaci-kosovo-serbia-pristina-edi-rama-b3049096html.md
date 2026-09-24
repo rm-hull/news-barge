@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Albania
+- Balkan
+- Belgrade
+- China
+- Gjilan
+- Kosovo
+- Pristina
+- Russia
+- Serbia
+- The Hague
+- United States
+people:
+- Bedri Hamza
+- Edi Rama
+- Fadil Gashi
+- Hashim Thaci
+- Jakup Krasniqi
+- Kadri Veseli
+- Rexhep Selimi
+organisations:
+- European Union
+- Facebook
+- KLA
+- Kosovo Liberation Army
+- NATO
+- U.N.
 ---
 
 Thousands of people rallied in Pristina on Saturday in support of Kosovo's former President Hashim Thaci and three other ex-fighters ahead of their verdicts next week in a war crimes trial.

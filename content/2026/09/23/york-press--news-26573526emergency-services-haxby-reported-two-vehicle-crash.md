@@ -12,6 +12,14 @@ categories:
 - York
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/21463387.jpg?type=og-image
+locations:
+- Haxby
+- North Yorkshire
+- York
+people:
+- Haxby
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 *(Image: North Yorkshire Police)*

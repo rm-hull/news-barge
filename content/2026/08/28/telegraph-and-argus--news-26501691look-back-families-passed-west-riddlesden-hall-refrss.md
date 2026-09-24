@@ -15,6 +15,45 @@ categories:
 - History
 - Arts & Culture
 - Society & Culture
+locations:
+- Aire
+- Applegarth
+- Bingley Parish Church
+- Bradford
+- East Riddlesden Hall
+- Europe
+- Hunslet
+- Keighley
+- Knowle
+- Leach
+- Leeds
+- Mohaut
+- Moorhouse
+- Morton Moor
+- Wapentake of Skyrack
+- West Riddlesden
+- West Riddlesden Hall
+- West Riding
+people:
+- Ann Leach
+- David Leach
+- Jane
+- John Greenwood
+- John Leach
+- Mary
+- Napoleon Bonaparte
+- Rachel Fenton
+- Riddlesden
+- Starkie
+- Thomas Leach
+- Thomas Maud
+- William
+organisations:
+- East Riddlesden Hall
+- Greenwoods
+- Leach
+- Lower Division
+- National Trust
 ---
 
 ONE of the finest 17th century properties in the Keighley area is East Riddlesden Hall.

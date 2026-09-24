@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Eddison Way
+- Middlesbrough
+- Stockton
+- Teesside Crown Court
+people:
+- Malcolm Stewart
+- Nathan Adams
+organisations:
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

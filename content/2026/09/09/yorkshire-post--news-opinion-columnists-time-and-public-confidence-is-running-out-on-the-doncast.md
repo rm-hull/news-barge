@@ -16,6 +16,19 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Sports
+locations:
+- South Yorkshire
+people:
+- Oliver Coppard
+organisations:
+- City of Doncaster Council
+- DSA
+- Doncaster Sheffield Airport
+- Doncaster Sheffield Airport.
+- James Hardisty
+- Peel
+- SYMCA
+- South Yorkshire Mayoral Combined Authority
 ---
 
 # Time and public confidence is running out on the Doncaster Sheffield Airport reopening project

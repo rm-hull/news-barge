@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Anty John’s
+- Coast-to-Coast Walk
+- England
+- Keld
+- Muker
+- North Yorkshire
+- Our Yorkshire Farm
+- Owen
+- Ravenseat Farm
+- Upper Swaledale
+- Whitsun Dale
+- Yorkshire Dales National Park
+- Yorkshire Farm
+people:
+- Amanda Owen
+- Anty John’s
+- Clive Owen
+- Ravenseat
+organisations:
+- Amanda, Clive and Kids
+- Clive and Kids
+- Our Farm Next Door
+- Yorkshire Shepherdess
 ---
 
 *(Image: CHANNEL 4)*

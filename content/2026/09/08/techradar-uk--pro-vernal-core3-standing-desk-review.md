@@ -10,6 +10,14 @@ description: The Vernal Core3 Standing Desk has smooth height adjustment, great 
 image: https://cdn.mos.cms.futurecdn.net/uuSNMeHMtkZezWbrMvQ7sF-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Collin Probst
+organisations:
+- Gearadical
+- TechRadar Pro
 ---
 
 ### TechRadar Verdict

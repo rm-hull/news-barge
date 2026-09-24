@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- Britain
+- North Yorkshire
+- Ravenseat
+people:
+- Amanda
+- Clive
+- James Speakman
+- Raven Owen
+organisations:
+- Channel 5
+- Clive and Kids
+- Instagram
+- Our Yorkshire Farm’
+- Raven
+- Wolfsong Media
+- York St John University
+- Yorkshire Shepherdess
 ---
 
 *(Image: James Speakman/PA Media Assignments)*

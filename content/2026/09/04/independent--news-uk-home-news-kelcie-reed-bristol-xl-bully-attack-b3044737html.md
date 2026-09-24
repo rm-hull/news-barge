@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bristol
+- Cheshire
+- Cobhorn Drive
+- Shrewsbury
+- Shropshire
+- UK
+- Warrington
+- Withywood
+people:
+- Anna Richardson
+- John McColl
+- Kelcie Reed
+- Miss Dorsett
+- Morgan Dorsett
+- Ms Dorsett
+organisations:
+- Bristol Crown Court
+- Defra
+- The Independent
+- XL
 ---
 
 A woman who was in charge of an out of control XL bully which killed her teenage cousin has avoided prison.

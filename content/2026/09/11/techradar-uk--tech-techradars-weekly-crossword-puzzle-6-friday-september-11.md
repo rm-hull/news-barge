@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg
 categories:
 - Technology & Software
 - Education & Learning
+locations: []
+people:
+- James Pickard
+- Zelda
+organisations:
+- Apple
+- Black Friday
+- Eurogamer
+- Google News
+- Grand Theft Auto
+- Nintendo
+- PS5
+- Rockstar
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A crossword puzzle with the words TechRadar Crossword in pink and other clues filled in with categories from across the site](https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh.jpg) 

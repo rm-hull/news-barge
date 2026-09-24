@@ -13,6 +13,15 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/10/09/09144557-6e3c2e8f-a2a6-4d48-b57c-2a2aac62172a.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Prof Atzil
+- Shir Atzil
+organisations:
+- British Medical Journal
+- Hebrew University of Jerusalem
+- Universitat Autònoma de Barcelona
+- Universitat Oberta de Catalunya
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

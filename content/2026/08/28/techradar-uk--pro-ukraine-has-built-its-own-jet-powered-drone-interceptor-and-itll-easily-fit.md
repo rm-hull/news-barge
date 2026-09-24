@@ -10,6 +10,26 @@ description: Ukraine's new drone hunter takes flight as Russian Shaheds face a f
 image: https://cdn.mos.cms.futurecdn.net/Y3P96kHzpnDA6EJ6sF2o55-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Britain
+- London
+- Russia
+- Skyhammer
+- Ukraine
+- United Kingdom
+people:
+- Alexa Spatium
+- Andy Burnham
+organisations:
+- Anti-Ballistic Missile Coalition
+- Cambridge Aerospace
+- Efosa
+- Google News
+- Kyiv
+- MBDA
+- Ministry of Defence
+- Storm Shadow
+- TechRadar Pro
 ---
 
 ![Drone interceptor: The Ukrainian Alexa Spatium UAS](https://cdn.mos.cms.futurecdn.net/Y3P96kHzpnDA6EJ6sF2o55.png) 

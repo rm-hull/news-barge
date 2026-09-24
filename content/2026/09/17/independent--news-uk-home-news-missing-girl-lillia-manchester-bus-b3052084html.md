@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Self-Improvement
+locations:
+- Altrincham
+- Bolton
+- Greater Manchester
+- Trafford Centre
+people:
+- Bolton
+- Helen Critchley
+- Jessica
+- Lill
+- Lillia
+organisations:
+- Greater Manchester Police
+- Nike
 ---
 
 The mother of a missing 13-year-old girl has made a tearful appeal for her safe return six days after her disappearance.

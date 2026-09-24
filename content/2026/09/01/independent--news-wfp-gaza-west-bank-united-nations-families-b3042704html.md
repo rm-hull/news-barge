@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Gaza
+- Israel
+- Kerem Shalom
+- Middle East
+- West Bank
+people:
+- Shaun Hughes
+organisations:
+- Hamas
+- Integrated Food Security Phase Classification
+- U.N.
+- United Nations'
+- WFP
+- World Food Programme
 ---
 
 The United Nations' food agency said Tuesday it is halving food assistance in the Israeli-occupied West Bank because of severe funding shortages and warned it may be forced to make further cuts in Gaza, where it supports 1.5 million people.

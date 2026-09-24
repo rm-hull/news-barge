@@ -11,6 +11,17 @@ categories:
 - UK
 - Pets & Animals
 image: https://static.independent.co.uk/2026/09/21/19/31/GettyImages-1255320087.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Japan
+- Texas
+people:
+- Shinichi Miyagawa
+- Sigal Balshine
+organisations:
+- McMaster University
+- SERT
+- Tokyo University of Science
 ---
 
 We’re exposing fish to our antidepressants — and it’s messing them up, a new study shows.

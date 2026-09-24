@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - Science
 - Comedy & Entertainment
+locations:
+- America
+- TOLUCA LAKE
+- Universal’s Florida
+people:
+- Dom Toretto
+- Kaulder
+- Vin Diesel
+organisations:
+- Diesel
+- Instagram
+- Lionsgate
+- Universal Studios Hollywood
 ---
 
 Toward the end of my college days, I harbored a not-so-secret crush. She and I carried on a mild flirtation, dancing around the possibility of more, but it wasn’t until she found out I’d never seen *The Fast and the Furious* that she gave me an opening.

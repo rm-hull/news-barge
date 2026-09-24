@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f26/live/fe5fa9
 categories:
 - UK
 - News & Politics
+locations:
+- Eastney Landing
+- Mid Dorset
+- North Poole
+- Port of Dover
+- Portsmouth
+- Southampton Port
+people:
+- Lisa Nandy
+- Peter Sparkes
+- Vikki Slade
+organisations:
+- BBC
+- Commons
+- Liberal Democrat
+- RNLI
+- UK Border Force
 ---
 
 ![An RNLI boat speeds along the sea coast with three volunteers on board.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/1f26/live/fe5fa910-abad-11f1-8e72-a346833ed029.png)

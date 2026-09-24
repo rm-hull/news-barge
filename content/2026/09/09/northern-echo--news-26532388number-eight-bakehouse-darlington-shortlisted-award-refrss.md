@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Barnard Castle
+- Carlisle
+- Dalston Road
+- Darlington Catalin
+- Darlington He
+- Post House Wynd
+people:
+- Catalin Cirimpei
+organisations:
+- 5NP
+- Covid
+- Darlington Number 8 Bakehouse
+- Darlington Number Eight Bakehouse
+- LocalIQ House
+- Number Eight Bakehouse
+- Post House Wynd
+- The Northern Echo Best Bakery 2026
 ---
 
 A Darlington bakery regularly has to close early after selling out of its freshly made stock, proving a hit with customers.

@@ -13,6 +13,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/09/7729335b6e508bccf76c0bc578031671Y29udGVudHNlYXJjaGFwaSwxNzkwMTUxMjE2-2.71280051.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Balearics
+- Canaries
+- Cape Verde
+- Dominican Republic
+- Egypt
+- Germany
+- Greece
+- Iran
+- Mexico
+- Spain
+- Thailand
+- UK
+people:
+- Tui
+organisations:
+- Tui
 ---
 
 Travel giant Tui has flagged an improvement in under-pressure bookings over the past month as travellers continue to make holiday decisions at the last minute.

@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Australia
+- Betrawati
+- China
+- Croatia
+- Nepal
+- Nuwakot
+- Omis
+- Pacific
+- Palau
+- Paris
+- Trishuli river
+people:
+- Anthony Albanese
+- Bill Hare
+- Debra Roberts
+- Inger Andersen
+- Richard Betts
+- Surangel Whipps
+- Surangel Whipps Jr
+- Vishal Prasad
+organisations:
+- Climate Analytics
+- Intergovernmental Panel on Climate Change
+- International Court of Justice
+- Pacific Island Students Fighting Climate Change
+- Pacific Islands Forum
+- UK Met Office
+- UN Environment Programme
+- UNEP
+- University of Exeter
 ---
 
 Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss, and island and coastal city submersion.

@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Ohio
+- Texas
+- White House
+people:
+- Bernie Moreno
+- Biden
+- Chip Roy
+- Davis Ingle
+- Donald Trump
+- John Thune
+organisations:
+- CBS Texas
+- Congress
+- Constitution
+- Fox News
+- GOP
+- Senate
+- The Independent
+- The Washington Sun
 ---
 
 Top Republicans were reportedly not given any warning that President Donald Trump would propose sending $5,000 checks to Americans after the midterms, a plan they reportedly have doubts will ever become reality.

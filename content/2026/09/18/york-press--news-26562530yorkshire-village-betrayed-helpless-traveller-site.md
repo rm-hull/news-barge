@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Cllr Grogan
+- Martin Grainger
+- Monk Fryston
+- Tim Grogan
+organisations:
+- HGVs
+- North Yorkshire Council
+- Reform
+- The Traveller
 ---
 
 ## Villagers left 'betrayed and helpless' by Traveller site build

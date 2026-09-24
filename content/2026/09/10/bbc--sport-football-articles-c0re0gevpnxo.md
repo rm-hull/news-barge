@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Society & Culture
+locations:
+- Gainsborough
+- York City
+people:
+- Gainsborough
+- Matt Boles
+- Russ Wilcox
+organisations:
+- Doncaster Rovers
+- Football Association
+- Gainsborough Trinity
+- Hull City
+- Northampton Town
+- Northern Premier League
+- Preston North End
+- Russ Wilcox
+- Scunthorpe United
 ---
 
 ![Russ Wilcox wearing a black jacket with a Gainsborough Trinity badge on the chest](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg)

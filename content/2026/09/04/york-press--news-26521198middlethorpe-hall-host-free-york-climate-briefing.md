@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Middlethorpe Hall
+- Spa
+- UK
+- York
+people:
+- Lionel Chatard
+- Margaret Wells
+organisations:
+- Barlow Room
+- GoodGym York
+- Middlethorpe Hall
+- National Emergency Briefing
+- York Hoteliers’ Association
 ---
 
 ## Lord Mayor to hear from experts at York climate and nature briefing

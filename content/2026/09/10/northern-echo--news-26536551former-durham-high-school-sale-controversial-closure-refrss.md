@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Durham
+- North East
+- Shotley Bridge Hospital
+- South Road
+- UK
+people:
+- Mary Kelly Foy
+- Ms Foy
+- Neil Bestwick
+- SARAH CALDECOTT
+- Stuart Boulton
+organisations:
+- City of Durham
+- Durham County Council
+- Durham High School
+- GGE
+- Galaxy Global Education
+- Sanderson Weatherall
 ---
 
 *(Image: Stuart Boulton)*

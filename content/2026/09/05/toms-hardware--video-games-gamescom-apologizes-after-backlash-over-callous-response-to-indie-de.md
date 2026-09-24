@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/PUNG9mrmukHYgPbnSA97t7-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Hall
+people:
+- Ryan Laley
+- Tom
+organisations:
+- Alienware
+- Gamescom
+- Get Tom's Hardware
+- Google News
+- Jowi Morales
+- Tessera Studios
+- iam8bit
 ---
 
 ![the crowd at Gamescom 2026](https://cdn.mos.cms.futurecdn.net/PUNG9mrmukHYgPbnSA97t7.png) 

@@ -13,6 +13,32 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=120
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Europe
+- Milan
+people:
+- Alessandro Mangano
+- Any
+- Erik de Winter
+- Lowie Vermeersch
+- Pieter Van de Velde
+- de Winter
+organisations:
+- Any
+- Aprilia
+- CCO
+- CEO
+- Cargaroo
+- European Association of Motorcycle Manufacturers
+- Ferrari
+- Granstudio
+- Harley-Davidson
+- Head of Engineering
+- LUV1
+- LinkedIn
+- Piaggio Group
+- Pininfarina
+- TechCrunch
 ---
 
 A trip to Europe often means adjusting to a lot of walking, but don’t let it fool you: cars are still the default for urban mobility. However, entrepreneurs are seeking to challenge this status quo — and the first step is understanding why it is so ingrained.

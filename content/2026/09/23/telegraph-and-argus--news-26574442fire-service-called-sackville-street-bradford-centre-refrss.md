@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/10461938.jpg?type=og-image
+locations:
+- Bradford
+- Sackville Street
+people: []
+organisations:
+- Google Maps
+- WYP
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/19155903.jpg?type=og-image&xType=0&yType=0
+locations:
+- Beck Meetings Bridge
+- Cliff Gate Road
+- Coast to Coast
+- Crooked Sike
+- Great North Run
+- Keld
+- North East
+- North Yorkshire
+- Ravenseat To Boundary
+people: []
+organisations:
+- HGV
+- Keld
+- North Yorkshire Council
+- PA MEDIA
+- Ravenseat
 ---
 
 *(Image: PA MEDIA)*

@@ -13,6 +13,30 @@ categories:
 - Science
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Bagsmart
+- United States
+people:
+- Bagsmart Moss
+- Herschel
+- Jeremy White
+- Julian Chokkattu
+- Luke Larsen
+- Scott Gilbertson
+- Shark ChillPill
+organisations:
+- Bagsmart Moss Backpack
+- Best Wireless Chargers
+- Brown Buffalo Conceal Pack
+- Cotopaxi
+- Eagle Creek Tour Lite Travel Pack
+- GoRuck G1
+- North Face Base Camp Voyager Pro
+- Photo Bundle
+- Thule
+- Velcro
+- WIRED
+- Wandrd
 ---
 
 Though I’ve been working from home for the past 15 years, both freelance and full-time, this often means needing to be available 24/7, so I typically carry my laptop everywhere I go—including sports practices, day trips, and vacations.

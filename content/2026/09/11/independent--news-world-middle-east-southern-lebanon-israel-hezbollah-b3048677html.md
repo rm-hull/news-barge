@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Ali al-Taher
+- Israel
+- Lebanon
+- Nabatieh
+- U.S.
+people:
+- Benjamin Netanyahu
+- Israel Katz
+organisations:
+- Badr
+- Hezbollah
+- NNA
+- Reuters
 ---
 
 The Israeli military destroyed an underground Hezbollah base at southern Lebanon's Ali al-Taher ridge, Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said on Thursday.

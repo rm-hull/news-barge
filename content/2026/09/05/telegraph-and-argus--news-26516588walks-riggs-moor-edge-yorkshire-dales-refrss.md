@@ -12,6 +12,34 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bycliffe Road’
+- Conistone Dib
+- Dalesway
+- England
+- Great Whernside
+- Gurling Trough
+- Kilnsey Trout Farm
+- Long Preston
+- Mossdale Caves
+- Mossdale Scar
+- National Park
+- RIGGS Moor
+- Refresher’
+- River Wharfe
+- Sandy Gate
+- The Bracken Way
+- Upper Nidderdale
+- Yorkshire Dales National Park
+people:
+- Jonathan Smith
+- Sandy Gate
+organisations:
+- Tenants Arms
+- The Dales
+- The Yorkshire
+- Where2walk
+- Yorkshire Dales
 ---
 
 RIGGS Moor on the National Park/Nidderdale border is a remote spot, possibly the most remote in England.

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/2fc89dd994e15cb51276bf052279f0c0f03c67e2/20_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fd63b1ce69776ce3fee88f62bb791de
+locations:
+- Blue Mountains
+- New South Wales
+- Valley Heights
+- Westmead Children’s
+people:
+- Peter McKenna
+organisations: []
 ---
 
 A mother has been charged after allegedly fatally stabbing one child and seriously injuring two others in the Blue Mountains.

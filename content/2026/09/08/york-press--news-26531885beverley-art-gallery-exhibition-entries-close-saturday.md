@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Humber
+people:
+- Andrew Quinn
+- Gill Crawshaw
+- Hannah Willetts
+- Nick Coultish
+organisations:
+- Beverley Art Gallery
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

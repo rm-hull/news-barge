@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/77V4mgUPPebNvaEFSULoPi-2325-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- West
+people:
+- Rahim Amir
+organisations:
+- Google News
+- Huawei
+- MateBook Pro S
+- PC
+- PCs
+- RGB
+- SFF
+- SMIC
+- Shark Fin
+- Soft Light
+- TechInsights
+- TechRadar Pro
 ---
 
 ![The Huawei MateBook Pro S comes in 5 different colors](https://cdn.mos.cms.futurecdn.net/77V4mgUPPebNvaEFSULoPi.png) 

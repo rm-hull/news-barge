@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Aberdeen
+- Downing Street
+- Jackdaw
+- North Sea
+- Norway
+- Rosebank
+- Scotland
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Miatta Fahnbulleh
+organisations:
+- Equinor
+- Jackdaw
+- Labour
+- NSTA
+- North Sea Transition Authority
+- Rosebank
+- Shell
+- Treasury
 ---
 
 Ministers are poised to approve a controversial new gasfield in the North Sea this month, according to government sources, and are considering approving a major oilfield later this year.

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- Engadine
+- Europe
+- Graubünden
+- Susch
+- Swiss National Park
+- Switzerland
+- Zernez
+people:
+- Zernez
+organisations:
+- Oad
 ---
 
 ## A coach believed to be carrying tourists through one of Switzerland's most scenic Alpine valleys has overturned near the entrance to the country's national park.

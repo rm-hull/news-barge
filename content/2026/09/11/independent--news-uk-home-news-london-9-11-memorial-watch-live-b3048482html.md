@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- London
+- New York
+- New York City
+- Pennsylvania
+- Queen Elizabeth Olympic Park
+- Twin Towers
+- Virginia
+people:
+- Andy Burnham
+organisations:
+- Pentagon
+- World Trade Center
 ---
 
 Watch live as 9/11 victims are remembered in a special event held in London 25 years on from the September 11 attacks on Friday.

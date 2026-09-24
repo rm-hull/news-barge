@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Darjeeling
+people: []
+organisations:
+- Fortnum & Mason
+- Newsquest
+- Northern Echo
+- Sadness
+- The Fortnum
 ---
 
 *(Image: Newsquest)*

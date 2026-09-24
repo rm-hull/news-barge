@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Isle of Wight
+- Port of Dover
+- Portsmouth
+people:
+- Andy Burnham
+- Chris Philp
+- Cobra
+- Mike Tapp
+- Sarah Jones
+organisations:
+- Cobra
+- Commons
+- ECHR
+- European Convention on Human Rights
+- Government
+- Hampshire
+- Isle of Wight Constabulary
+- Kent Police
+- PLP
+- Parliamentary Labour Party
+- Patriot Platform
+- Sky
 ---
 
 Andy Burnham has urged Labour to halt the "politics of poison seeping into our streets” after a weekend of unrest at anti-migrant demonstrations.

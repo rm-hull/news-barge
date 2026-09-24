@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- Brazil
+- China
+- Egypt
+- Ethiopia
+- Europe
+- Global South
+- India
+- Iran
+- Israel
+- Japan
+- Middle East
+- Moscow
+- New Delhi
+- Russia
+- Saudi Arabia
+- South Africa
+- Tehran
+- U.S.
+- UAE
+- Ukraine
+- United States
+- Washington
+people:
+- Mahesh Sachdev
+- Masoud Pezeshkian
+- Piyush Nagpal
+- Praveen Donthi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Associated Press
+- BRICS’
+- Donthi
+- Global South
+- International Crisis Group
+- Sachdev BRICS
 ---
 
 Leaders of the BRICS nations will meet in New Delhi this weekend as wars in Ukraine and the Middle East and U.S.-China tensions test the group’s ability to act together.

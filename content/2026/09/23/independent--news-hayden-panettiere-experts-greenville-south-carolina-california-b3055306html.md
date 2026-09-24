@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/15/Hayden_Panettiere_72157.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Greenville
+- Malibu
+- South Carolina
+people:
+- Hayden Panettiere
+organisations:
+- AP Fund for Journalism
+- British Medical Journal
+- Greenville County Coroner’s Office
+- MedlinePlus
+- National Institute on Drug Abuse
+- National Library of Medicine
+- New York State Department of Health
+- Pennsylvania State University
+- Social Science Research Institute
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

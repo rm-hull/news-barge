@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people: []
+organisations:
+- '## AI'
+- Denodo
+- ERP
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A representative abstraction of artificial intelligence](https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj.jpg) 

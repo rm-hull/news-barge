@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Chatsworth
+- Los Angeles
+- Los Angeles Metro
+- Orange County
+- Southern California
+people:
+- Camilla Rambaldi
+- Colleen Williams
+- Eliana Moreno
+- George Marciniw
+- NewsChopper
+- Rico A. Gross
+- Robert Barrientos
+- Zareh Sevanesian
+organisations:
+- Angel City Air
+- Burbank High School
+- Chapman University
+- Facebook
+- LinkedIn
+- Los Angeles Fire Department
+- Los Angeles Police Department
+- NBC LA
+- NBC News
+- NBC4
+- Telemundo
+- The Independent
 ---
 
 Two of the three people killed in an NBC4 Los Angeles news helicopter crash have been named.

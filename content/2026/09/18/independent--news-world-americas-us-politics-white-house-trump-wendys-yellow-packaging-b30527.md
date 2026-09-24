@@ -13,6 +13,33 @@ categories:
 - Lifestyle & Fashion
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/18/19/04/Wendys.jpeg?trim=32,0,32,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Columbus
+- Grand Rapids
+- Iran
+- Michigan
+- Ohio
+- Wendy’s
+- White House
+people:
+- Dave
+- Donald Trump
+- Gen Z
+- Thomas
+- Trump!
+- Trump!!!!!”
+- Wendy
+- Wendy’s
+- Yellow
+organisations:
+- Company
+- McDonald's
+- Meritage Hospitality Group Inc.
+- TODAY.com
+- The Independent
+- USA
+- Wendy’s
 ---
 
 The White House has tried to take credit for Wendy’s switching back to a classic look, but social media users aren’t buying it.

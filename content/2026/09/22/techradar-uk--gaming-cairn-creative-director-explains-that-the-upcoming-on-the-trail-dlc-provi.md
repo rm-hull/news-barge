@@ -14,6 +14,25 @@ categories:
 - Video Gaming
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/hWLxwXmn9pPHzUGt4nd3qG-1920-80.jpg
+locations:
+- Kami
+people:
+- Aava
+- Emeric Thoa
+- James Pickard
+- Kami
+- Marco
+organisations:
+- Black Friday
+- Cairn
+- DLC
+- Eurogamer
+- Google News
+- Kami
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- The Game Bakers
 ---
 
 ![The character Marco from Cairn hanging off an overhang above water in a screenshot from the games On the Trail DLC.](https://cdn.mos.cms.futurecdn.net/hWLxwXmn9pPHzUGt4nd3qG.jpg)

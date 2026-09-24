@@ -12,6 +12,15 @@ image: https://cdn.mos.cms.futurecdn.net/ns2wDvHXVHPAmPC7CBKegD-2000-80.jpg
 categories:
 - Technology & Software
 - Family & Parenting
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Discover Weekly
+- Google News
+- Spotify
+- TechRadar
+- YouTube Premium Family
 ---
 
 ![A smartphone with the Spotify settings](https://cdn.mos.cms.futurecdn.net/ns2wDvHXVHPAmPC7CBKegD.jpg) 

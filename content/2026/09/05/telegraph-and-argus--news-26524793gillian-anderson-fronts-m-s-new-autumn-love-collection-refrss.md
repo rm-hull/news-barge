@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ibiza
+- UK
+people:
+- Gillian Anderson
+- Moahair Vee Jumper Grey
+- Sharry Cramond
+organisations:
+- Autograph
+- F1
+- HMRC
+- Home & Beauty at M&S
+- System1
 ---
 
 Gillian Anderson has returned to M&S as its Chief Compliments Officer, and this time she is helping shoppers discover the autumn fashion pieces set to dominate wardrobes over the coming months.

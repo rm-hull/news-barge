@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21476450.jpg?type=og-image&xType=0&yType=147
+locations:
+- North East
+- North Sea
+- SIMON MCCABE
+- Stockton
+- Tees Valley
+- Teesside Airport
+- UK
+people:
+- Draken
+- Simon McCabe
+organisations:
+- Draken
+- Honey Badgers
+- Ministry of Defence
+- NATO
+- RAF
+- Red Arrows
+- Royal Air Force
+- SIMON MCCABE
+- Teesside International Airport
 ---
 
 A pair of military-style jets have been captured flying over the North East as part of a training activity involving aircraft based at Teesside Airport.

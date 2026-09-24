@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Birmingham
+- Edgbaston
+- England
+- Lord's
+- Pakistan
+- South Africa
+people:
+- Alex Carey
+- Ben Stokes
+- Brendon McCullum
+- England Robinson
+- Glenn McGrath
+- Gus Atkinson
+- Jamie Smith
+- Joe Root
+- Jofra Archer
+- Jon Lewis
+- Jonathan Agnew
+- Josh Tongue
+- Matthew Henry
+- Ollie Robinson
+- Rob Key
+- Sarah Taylor
+organisations:
+- BBC Sport
+- England
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

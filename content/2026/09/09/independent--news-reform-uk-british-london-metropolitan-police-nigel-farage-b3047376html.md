@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- U.K.
+- U.S.
+people:
+- Dan Jukes
+- James Orr
+- Nigel Farage
+organisations:
+- Cambridge University
+- Channel 4
+- Metropolitan Police
+- Reform UK
+- Verbatim
 ---
 
 British police said Wednesday that they have opened a criminal investigation into allegations that anti-immigration party Reform UK broke rules against foreign donations.

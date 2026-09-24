@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Chicago
+- Exposition Park
+- Los Angeles
+- Los Angeles Memorial Coliseum
+- Lucas' alma
+- New Orleans
+- Parrish
+- San Diego
+- San Francisco
+people:
+- Alley Oop
+- Andy Warhol
+- Charles Schulz
+- Diego Rivera
+- Eloise of “Eloise
+- Flash Gordon
+- Frank Frazetta
+- Frida Kahlo
+- George Lucas
+- Hilary Knight
+- Lucas'
+- Luke Skywalker
+- Ma Yansong
+- Maxfield Parrish
+- Mellody Hobson
+- Naoyo Kimura
+- Norman Rockwell
+- Paul Raymond Gregory
+- Picasso Bates
+- Pikachu
+- Renoir
+- Robert Crumb
+- Ruby Bridges
+- Ryan Linkof
+- Tolkien
+- Tracey Bates
+- Van Gogh
+organisations:
+- AP
+- Boy Scouts
+- C-3PO
+- California Science Center
+- Disney
+- Lucas Museum of Narrative Art
+- Lucasfilm
+- The Associated Press
+- University of Southern California
+- “'Star Wars'
 ---
 
 The new Lucas Museum of Narrative Art will serve “Star Wars” fans what they crave, but the saga George Lucas spawned represents just one small corner of the galaxy of creative work within the walls of the Los Angeles institution he calls a "temple to the people’s art.”

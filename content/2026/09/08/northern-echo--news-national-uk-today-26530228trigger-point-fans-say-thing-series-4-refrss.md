@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Film & TV
 - Sports
+locations:
+- Coronation Street
+- Deptford
+- Greenwich
+- Kent
+- Lambeth
+- Lancaster Estate
+- London
+- Putney
+- Southwark
+- St George's Wharf
+- The Victoria
+- Vauxhall
+people:
+- Lana Washington
+- Ludwig
+- Vicky McClure
+organisations:
+- Ark Putney Academy
+- BBC
+- Bishop's Terrace
+- EastEnders
+- ITV
+- Metropolitan Police
+- Old Royal Naval College
 ---
 
 *(Image: ITV)*

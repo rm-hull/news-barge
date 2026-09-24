@@ -12,6 +12,55 @@ image: https://static.independent.co.uk/2026/09/07/06/2293376208..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- '## Hormuz'
+- Abu Dhabi
+- Gulf
+- Iran
+- Israel
+- Jizan
+- Kfar Rumman
+- Kharg Island
+- Lebanon
+- Philadelphia
+- Red Sea
+- Sanandaj
+- Saudi Arabia
+- Seoul
+- South Carolina
+- South Korea
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- US
+- United Arab Emirates
+- United States
+- Vietnam
+people:
+- Anwar Gargash
+- Donald Trump
+- Majed al-Ansari
+- Mohsen Rezaei
+- Nicole Collins
+- Rachel Scott
+organisations:
+- AAA
+- ABC News
+- Central Command
+- FT
+- Financial Times
+- Focaldata
+- Hezbollah
+- Hili Forum
+- IRGC
+- IRNA
+- Islamic Revolutionary Guard Corps
+- Kpler
+- National News Agency
+- Oval Office
+- Qatari
+- Saudi Aramco
 ---
 
 Iran has said it will unveil new sanctions for ships trying to pass through the Strait of Hormuz following a weekend of renewed exchanges with the United States, casting fresh doubt on progress towards an end to the six month conflict.

@@ -14,6 +14,34 @@ categories:
 - Film & TV
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/16328155.jpg?type=og-image
+locations:
+- Bradford
+- Saltaire
+- Victoria Hall
+- Victoria Road
+- West Yorkshire
+people:
+- Barry Keoghan
+- Beatle
+- Geoffrey Brand
+- George Harrison
+- Harris Dickinson
+- John Lennon
+- Joseph Quinn
+- Paul McCartney
+- Paul Mescal
+- Ringo Starr
+- Saltaire
+- Sam Mendes'
+organisations:
+- Black Dyke Mills Band
+- LP
+- Mendes'
+- Rad Studio
+- Saltaire
+- Telegraph & Argus
+- The Beatles
+- Victoria Hall
 ---
 
 Speculation is growing that the star-studded biopic The Beatles could be filming in the Bradford district this weekend after road closures were announced in Saltaire.

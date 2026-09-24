@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bishopton Road
+- Stockton
+people: []
+organisations:
+- Cleveland Police
+- GBH
+- GOOGLE
 ---
 
 *(Image: GOOGLE)*

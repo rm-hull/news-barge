@@ -11,6 +11,43 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf8/live/bc7e82
 categories:
 - UK
 - News & Politics
+locations:
+- Canterbury
+- Efrat
+- Gaza
+- Golders Green
+- Israel
+- Jordan Valley
+- New North London
+- UK
+- Umm al-Khair
+- West Bank
+people:
+- Andy Burnham
+- Awdeh Hathaleen
+- Canterbury Justin Welby
+- Deborah Miller
+- Ed Miliband
+- Ephraim Mirvis
+- Ibrahim Mogra
+- Jonathan Wittenberg
+- Justin Welby
+- Leo Dee
+- Lucy Williamson
+- Maia
+- Michael Cohen
+- Rabbi Dee
+- Rabbi Leo Dee
+- Rabbi Wittenberg
+- Rina
+organisations:
+- BBC
+- CST
+- Community Security Trust
+- Crime Survey for England and Wales
+- Hamas
+- Labour Party
+- Metropolitan Police
 ---
 
 ![A man and a woman hug. They are smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/814/cpsprodpb/2cf8/live/bc7e8220-ac73-11f1-80f0-9795d1a5edbc.jpg)

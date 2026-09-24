@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH-1920-80.jpg
+locations:
+- Alphacool
+- Heatkiller IV
+- Old-Mate-Fetus
+people:
+- George Stephenson
+- Mark Tyson
+- Thomas Edison
+- Tom
+organisations:
+- Google News
+- Nice
+- PSU
+- Redditors
+- SFX
+- Tom's Hardware
 ---
 
 ![Fully custom copper PC ](https://cdn.mos.cms.futurecdn.net/R3HYp5NQj4sN6PaqkzisVH.jpg)

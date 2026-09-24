@@ -15,6 +15,26 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Cleveland
+- Middlesbrough
+people:
+- Andy McDonald
+- Anna Turley
+- Chris McDonald
+- Jonathan Brash
+- Luke Myer
+- Matthew Blades
+- Owen Humphreys
+- Sarah Jones
+- Tom Clough
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- Cleveland Police HQ
+- Government
+- Labour
+- Police Federation
 ---
 
 # Police forces need the Government’s support more now than ever before

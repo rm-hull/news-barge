@@ -12,6 +12,21 @@ image: https://media.wired.com/photos/6a98bd433546f162bf782073/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Arizona
+- Milky Way
+- Sonoran Desert
+people:
+- Arjun Day
+- David Schlegel
+organisations:
+- DESI
+- Dark Energy Spectroscopic Instrument
+- Lawrence Berkeley National Laboratory
+- Legacy Surveys
+- NASA
+- Nancy Grace Roman Space Telescope
+- National Science Foundation
 ---
 
 The driving force behind our universe’s accelerated expansion remains one of the greatest mysteries in astronomy. While this force, which scientists refer to as dark energy, pervades our universe, we know almost nothing about it.

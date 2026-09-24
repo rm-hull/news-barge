@@ -13,6 +13,16 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21488838.jpg?type=og-image
+locations:
+- My Sight York
+- Stamford Bridge
+- Stamford Bridge Beaumont
+people:
+- Nikki Mould
+- Vicky Colombi
+organisations:
+- Barchester Healthcare
+- Stamford Bridge Beaumont
 ---
 
 *(Image: Supplied)*

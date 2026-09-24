@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Dick Lane
+- Laisterdyke
+- New Lane
+- New Road
+people:
+- Angelique
+- Harry Davey
+- Khadija Haider
+organisations:
+- Council
+- EFR
+- Vauxhall
 ---
 
 A Bradford man had a lucky escape after a skip lorry overturned outside his home, crushing his car and spilling rubbish into three gardens.

@@ -11,6 +11,23 @@ description: The Razer Naga V3 Pro is built for almost any game you want to play
 image: https://cdn.mos.cms.futurecdn.net/Z2ysavcxRgiBeUHwfCjyFT-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+- Razer
+organisations:
+- '## Razer Naga'
+- Apple
+- Creative Bloq
+- MOBA
+- MacFormat
+- RGB
+- Razer HyperSpeed Wireless
+- Razer Mouse Dock
+- Razer Naga
+- Razer’s Synapse
+- TechRadar
+- iMore
 ---
 
 ### TechRadar Verdict

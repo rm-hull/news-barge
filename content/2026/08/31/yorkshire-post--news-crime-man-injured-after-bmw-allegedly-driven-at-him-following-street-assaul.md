@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Cavendish Street
+- Keighley
+- Lawkholme Lane
+people: []
+organisations:
+- BMW
+- Bradford CID
+- Crimestoppers
+- West Yorkshire Police
 ---
 
 # Man injured after BMW allegedly driven at him following street assault

@@ -11,6 +11,41 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- BBC
+- Iran
+- North America
+- Pattaya
+- Saigon
+- Thailand
+- US
+- Ukraine
+people:
+- Abraham Lincoln
+- Alix Pickles
+- Anthony Zurcher
+- Dan Driscoll
+- Donald Trump
+- George Dabby
+- Grace Reeve
+- Michael Regaard
+- Pete Hegseth
+- Purvee Pattni
+- Sam Bonham
+- Sumi Somaskanda
+organisations:
+- Americast
+- Anthony’s BBC
+- Army
+- BBC News Podcasts
+- BBC Sounds
+- Congress
+- Hegseth
+- Joint Chiefs
+- Navy
+- Newscast
+- Pentagon
+- US Election Unspun
 ---
 
 ## Episode details

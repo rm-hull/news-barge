@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birmingham
+- Clacton
+- England
+- UK
+- US
+- Wales
+people:
+- Bridget Phillipson
+- Dan Jukes
+- Fiona Cottrell
+- George Cottrell
+- James Orr
+- Lee Anderson
+- Lisa Smart
+- Nigel Farage
+- Richard Tice
+- Zack Polanski
+organisations:
+- BBC
+- Cabinet Office
+- Channel 4 News
+- Crown Prosecution Service
+- Electoral Commission
+- Green Party
+- Houses of Parliament.
+- Labour Party
+- Liberal Democrat
+- Met Police
+- Metropolitan Police
+- Political Parties
+- Reform UK
+- Sky News
+- Special Enquiry Team
+- Verbatim Investigations
 ---
 
 Watch: Undercover reporters posing as party donors meet with Nigel Farage

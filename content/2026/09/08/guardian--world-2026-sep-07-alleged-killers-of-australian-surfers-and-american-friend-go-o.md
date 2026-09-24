@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Baja California
+- Ensenada
+- Mexico
+- Pacific
+- Sinaloa
+- US
+people:
+- Adam Coleman
+- Callum Robinson
+- Dean Lucas
+- Debra Robinson
+- Jack Carter Rhoad
+- Jake
+- Martin Robinson
+organisations: []
 ---
 
 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.

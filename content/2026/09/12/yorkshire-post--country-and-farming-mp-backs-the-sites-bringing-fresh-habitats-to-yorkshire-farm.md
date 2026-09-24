@@ -14,6 +14,41 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Barnsley
+- Castle Howard
+- Devon
+- Doncaster
+- England
+- Harrogate
+- Hooton Pagnell
+- Keighley
+- Otley
+- Ruswarp
+- Scarborough
+- Stocksbridge
+- UK
+- West Yorkshire
+- Whitby Habitat Bank
+- White Park
+people:
+- Alison Hume
+- Elizabeth Dalby
+- Fraser Rutherford
+- Zoe Dunnett
+organisations:
+- BNG
+- Biodiversity Net Gain
+- ELMs
+- Environment Bank
+- Environmental Land Management Schemes
+- Ruswarp
+- SFI
+- Scarborough
+- Sustainable Farming Initiative
+- Whitby Environment Bank
+- Whitby Habitat Bank
+- Yorkshire Post
 ---
 
 # MP backs the sites bringing fresh habitats to Yorkshire farmland

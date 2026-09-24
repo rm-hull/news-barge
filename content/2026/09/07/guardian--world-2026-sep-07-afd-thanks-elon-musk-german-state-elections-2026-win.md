@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- Europe
+- France
+- Germany
+- Poland
+- Russia
+- Saxony-Anhalt
+- US
+- Ukraine
+people:
+- Alice Weidel
+- Benjamin Haddad
+- Donald Trump
+- Donald Tusk
+- Elon Musk
+- Friedrich Merz
+- Kirill Dmitriev
+- Sven Schulze
+- Ulrich Siegmund
+organisations:
+- AfD
+- AfD”
+- Alternative für Deutschland
+- BSW
+- Christian Democratic Union
+- German Economic Institute
+- Greens
+- Left
+- Truth Social
 ---
 
 The candidate who led the far-right Alternative für Deutschland party to a historic state election victory in Germany has thanked Elon Musk for his support, as one French minister warned that this was a “serious moment” for Europe.

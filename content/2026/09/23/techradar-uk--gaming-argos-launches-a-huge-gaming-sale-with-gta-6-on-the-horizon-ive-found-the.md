@@ -15,6 +15,25 @@ categories:
 - Video Gaming
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/6FM8QTKzux8Mida5KTp4Z4-2560-80.jpg
+locations: []
+people:
+- James Pickard
+organisations:
+- '### Argos'
+- Black Friday
+- Crimson Desert
+- Eurogamer
+- LG
+- Metroid Prime 4
+- Nex Playground
+- PS5
+- Pokémon Pokopia
+- Rockstar
+- Samsung TVs
+- Star Fox
+- Tampa Bay Buccaneers
+- TechRadar
+- Xbox Series X
 ---
 
 ![A collage featuring products in the Argos gaming sale, including a Nintendo Switch 2, PS5, JBL headset, Xbox controller, Nex Playground, Crimson Desert PS5 game, and Wolverine PS5 game.](https://cdn.mos.cms.futurecdn.net/6FM8QTKzux8Mida5KTp4Z4.jpg)

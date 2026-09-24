@@ -11,6 +11,21 @@ description: Acer had plenty to show off at IFA 2026, including a highly repaira
 image: https://cdn.mos.cms.futurecdn.net/aVHiRPVJ7Hc9A7CY9Z7MB5-1839-80.jpg
 categories:
 - Technology & Software
+locations:
+- Asia
+- Panther Lake
+people: []
+organisations:
+- Acer
+- CPU
+- Fujitsu LifeBook
+- Google News
+- Hachette UK
+- IFA
+- RAM
+- SSD
+- Vero
+- Wildcat Lake
 ---
 
 ![Acer Swift Blade 14 being used by a person sat on a concrete step outside](https://cdn.mos.cms.futurecdn.net/aVHiRPVJ7Hc9A7CY9Z7MB5.jpg) 

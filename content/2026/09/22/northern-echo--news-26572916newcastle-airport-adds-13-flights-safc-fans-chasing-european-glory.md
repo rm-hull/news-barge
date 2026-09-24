@@ -14,6 +14,49 @@ categories:
 - Sports
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21488630.jpg?type=og-image&xType=0&yType=48
+locations:
+- Amsterdam
+- Brussels
+- Europe
+- Gdansk
+- Heathrow
+- Lisbon
+- Milan Malpensa
+- Newcastle Airport
+- North East
+- PA
+- Paris
+- Poland
+- Portugal
+- Poznan
+- San Siro
+- Stadium of Light
+- Wroclaw
+people:
+- Chris Ion
+- Lech Poznan
+- Torreense
+organisations:
+- AC Milan
+- AZ Alkmaar
+- Anderlecht
+- Black Cats
+- Brussels Charleroi
+- Dinamo Zagreb
+- EasyJet
+- Jagiellonia
+- Jet2
+- Levski Sofia
+- Milan Bergamo
+- Newcastle Airport
+- Porto
+- Ryanair
+- Sport Options
+- Sunderland AFC
+- Wonky Sheep
+- World Choice Sports
+- WorldChoice Sports
+- easyJet
 ---
 
 *(Image: Sunderland AFC/PA)*

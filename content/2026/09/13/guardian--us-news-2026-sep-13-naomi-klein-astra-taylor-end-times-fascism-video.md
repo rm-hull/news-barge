@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- US
+people:
+- Astra Taylor
+- Austin Bedell
+- Emma Dessau
+- Naomi Klein
+- Nick Curran
+organisations:
+- Astra Taylor
+- Centre for Climate Justice
+- Debt Collective
+- Farrar, Straus and Giroux
+- Guardian
+- University of British Columbia
 ---
 
 An ominous evolution is under way on the far right. It is a dangerous shift that is linked to our era of existential crises, defined by its pandemics, climate emergencies, resource wars and rogue tech. Today’s fascists are part of a dangerous and fractious alliance – from messianic venture capitalists to army-controlling theocrats – united by the belief that the end of the world is upon us and that only a chosen few deserve to be saved. That is the thesis of Naomi Klein and Astra Taylor’s new book, End Times Fascism: And the Fight for the Living World.

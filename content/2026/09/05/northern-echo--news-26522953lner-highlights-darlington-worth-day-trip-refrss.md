@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Big Ben
+- Grade II-listed
+- Hatch
+- Hopetown Darlington
+- London
+- North East
+- Rockliffe Hall
+- South Park
+- Stockton and Darlington Railway
+- York
+people:
+- Stuart Boulton
+organisations:
+- Hopetown Darlington
+- Hyve
+- LNER
+- Sheldrick Wildlife Trust
 ---
 
 The weekend is here, so it's time for a fun adventure - and whether you already live in Darlington or have never been, there is so much to see and do that you may be unaware of.

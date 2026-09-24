@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Bishop Burton Village Hall
+- Stamford Bridge
+- UK
+- Yorkshire Wolds
+people:
+- Burton
+- Nick Coultish
+- Sarah Mills
+organisations:
+- Bayeux Tapestry
+- East Riding of Yorkshire Council
+- East Riding of Yorkshire Council and Arts Council England
 ---
 
 ## Poetry festival returns to Bishop Burton for eighth year

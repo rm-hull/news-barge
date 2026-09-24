@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21476774.jpg?type=og-image&xType=0&yType=272
+locations:
+- County Durham
+- Hayberries Farm
+- Mickleton
+- Ravenseat
+- Suffolk
+- Swaledale
+- Teesdale
+- Texel
+people:
+- Amanda Owen
+organisations:
+- Blue Faced Leicester
+- The Eggleston Agricultural Society
 ---
 
 Thousands of visitors gathered in Teesdale this weekend as the historic Eggleston Show returned for another celebration of farming, food and countryside life.

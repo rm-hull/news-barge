@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Buckingham Palace
+- Netherlands
+- Princess of Wales
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Harry
+- William
+organisations:
+- BBC News
+- Daily Mail.
+- Royal Family
 ---
 
 ![A young Prince William stands next to Earl Spencer, a young Prince Harry and Charles at Diana's funeral. They are all wearing dark suits with ties and are facing ahead solemnly.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/c3f8/live/92718a00-b1fe-11f1-bc1f-3f186ca4140c.jpg)

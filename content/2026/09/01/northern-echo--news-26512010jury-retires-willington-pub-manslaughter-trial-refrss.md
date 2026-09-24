@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- North East
+- Queen's Head
+- Rockingham Road
+- Sunnybrow
+- Willington
+people:
+- Angela
+- Jennifer Bolton
+- Jolyon Perks
+- Martin Greensmith
+- Paul Rooney
+- Steven Shevels
+organisations:
+- CCTV
+- THE NORTHERN ECHO
+- Teesside Crown Court
 ---
 
 A jury has retired to consider its verdict after listening to closing speeches in a manslaughter trial following an incident in a County Durham pub.

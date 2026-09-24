@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Abraham Lincoln
+- Chonburi
+- Iran
+- Laem Chabang
+- Middle East
+- Thailand
+- U.S.
+people:
+- Abraham Lincoln
+- Frank E. Petersen Jr
+- George Washington
+organisations:
+- Associated Press
+- U.S.S
 ---
 
 The USS Abraham Lincoln arrives in Thailand following its Middle East deployment

@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/47906eaef3cc46dede1c3669a922abec7257552a/6
 categories:
 - UK
 - News & Politics
+locations:
+- Harlem
+- New York
+- New York City
+- Ohio
+- Toronto
+- Upper East Side
+people:
+- Al Sharpton
+- Amy Pruden
+- Ben Crump
+- Jared Scotto
+- Jeffrey Siegel
+- Kathy Hochul
+- Virginia Maloney
+- William Schaffner
+organisations:
+- Gothamist
+- Guggenheim Museum
+- NYC Health
+- University of Toronto
+- Vanderbilt University School of Medicine
+- Virginia Tech University
+- Whole Foods
 ---
 
 New York lawmakers are now trying to better protect residents from the deadly legionnaires’ disease by increasing regulations and inspections of cooling towers after two outbreaks of the infection over the last two summers and a raft of new lawsuits.

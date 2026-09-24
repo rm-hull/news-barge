@@ -13,6 +13,30 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- Grand York Ahmed
+- Legacy
+- London
+- North Yorkshire
+- Swinton Park
+- The Grand
+- Yorebridge House
+people:
+- Ahmed Abdalla
+- James Martin
+- Kevin Bonello
+- MAXINE GORDON
+organisations:
+- BBC
+- Legacy
+- Michelin Guide
+- North East
+- Pic
+- Skosh
+- The Grand
+- The Rise
+- The Telegraph
+- Yorkshire
 ---
 
 ## Michelin Guide chef announces surprise departure from leading York restaurant

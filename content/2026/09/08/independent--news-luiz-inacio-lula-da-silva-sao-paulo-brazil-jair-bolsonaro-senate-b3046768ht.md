@@ -14,6 +14,29 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Brazil
+- Caribbean
+- Latin America
+- Sao Paulo
+people:
+- Alexandre de Moraes
+- Andrei Rodrigues
+- André Mendonca
+- Daniel Vorcaro
+- De Moraes
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Leandro Almada
+- Luiz Inácio Lula da Silva
+- William Marcel Murad
+- de Moraes
+- de Moraes'
+organisations:
+- Banco Master
+- Senate
+- Supreme Court
+- The Associated Press
 ---
 
 Brazilian Supreme Court Justice André Mendonca on Tuesday removed the head of the country’s federal police and its intelligence chief from their posts, deepening a crisis at the top court and drawing President Luiz Inácio Lula da Silva's government into the turmoil ahead of October national elections.

@@ -14,6 +14,17 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Yorkshire
+people:
+- Christina Dobson
+- Stuart Griffiths
+organisations:
+- Harrogate
+- North Kirklees
+- Research, Policy and Impact
+- Wakefield
+- Yorkshire Cancer Research
 ---
 
 # Yorkshire Cancer Research alarmed by county's poor record on contacting GP about cancer worries

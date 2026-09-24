@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Caribbean
+- Club Med Turkoise
+- Columbia
+- Connecticut
+- Florida
+- Grace Bay
+- Maryland
+- Miami
+- Providenciales
+- Turks and Caicos
+- Turks and Caicos Islands
+- U.S.
+people:
+- Jim Tate
+- Lucas Arsenault
+- Sharkey
+- Yvonne Martin
+organisations:
+- Club Med
+- Club Med Turkoise
+- The Independent
+- Turks and Caicos Club Med
 ---
 
 A U.S. tourist claims she was attacked by a shark while vacationing in the Caribbean, and blames a sailing instructor at her resort for the “permanent nerve damage” and “massive scarring” that resulted, according to a federal lawsuit reviewed by *The Independent*.

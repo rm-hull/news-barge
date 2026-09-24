@@ -11,6 +11,33 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Israel
+- Jerusalem
+- UK
+- West Bank
+people:
+- Adam Fleming
+- Anna Harris
+- Charles
+- Chris Gray
+- Ed Miliband
+- Gabriel Purcell-Davis
+- Harry
+- Jack Maclaren
+- Jeremy Bowen
+- Joe Wilkinson
+- Lois Worrow
+- Meghan
+- Philip Bull
+- Sam Bonham
+- Sean Coughlan
+- Shiler Mahmoudi
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- WhatsApp
 ---
 
 ## Episode details

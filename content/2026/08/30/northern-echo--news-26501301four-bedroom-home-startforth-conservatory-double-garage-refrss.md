@@ -14,6 +14,14 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Barnard Castle
+- East House
+- GSC GRAYS
+people:
+- Oliver Twist
+organisations:
+- GSC Grays
 ---
 
 FROM a wealth of immaculately presented accommodation that combines original Victorian features with a contemporary aesthetic to grounds that extend to approximately 1.8 acres and a location from where its elevated position means it enjoys spectacular and far-reaching views over Barnard Castle and the countryside beyond, East House has plenty to appeal to buyers who are in the market for a home that stands out from the crowd.

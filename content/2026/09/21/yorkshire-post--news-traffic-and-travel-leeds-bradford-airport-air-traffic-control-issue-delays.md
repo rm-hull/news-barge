@@ -13,6 +13,25 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjczMzE0MzFlLTY1YzctNDEyMi04NTQ5LTEwMmZhNjRjMTg1Yzo4MzUzY2FhOC03ZDliLTRiYjItYmMwYS00Y2RjYmRmM2IyOTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Leeds Bradford Airport
+- Manchester
+- Prestwick
+- Scotland
+- UK
+- West Yorkshire
+people:
+- Heidi Alexander
+- Steve Heapy
+organisations:
+- EasyJet
+- Jet2
+- LBA
+- Leeds Bradford Airport
+- NATS
+- National Air Traffic Services
+- Nats
 ---
 
 # Air traffic control: Leeds Bradford Airport issues statement as ‘technical issue’ causes delays

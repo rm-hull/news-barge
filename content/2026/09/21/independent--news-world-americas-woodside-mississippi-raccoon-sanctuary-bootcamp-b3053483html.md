@@ -12,6 +12,19 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/21/10/Raccoon_Boot_Camp_48611.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Mississippi
+- Pass Christian
+- U.S.
+- Woodside
+people:
+- '![Woodside'
+- Edward Elgar
+- Paula Woodside
+- Raquel Priest
+organisations:
+- '## Wildlife'
+- Woodside Wildlife Rescue
 ---
 
 Muddy, soaked in sweat and sometimes scraped, the dedicated team members at a Mississippi animal sanctuary operate like drill sergeants.

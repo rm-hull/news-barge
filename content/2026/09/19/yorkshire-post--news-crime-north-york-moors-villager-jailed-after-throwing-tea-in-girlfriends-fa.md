@@ -15,6 +15,16 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJhMzhjNGViLTM3NWUtNDU5NS04NTMxLWI5ZTA3N2E3MDdmMTo2YzZkZDZkOS01YTVkLTRmNGYtOTJhYy01NmRmNGJlNzEzM2M=.jpg?trim=644,0,142,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Coxwold
+- Hustwaite Road
+- North York Moors
+- North York Moors National Park
+- Thirsk
+- York Magistrates' Court
+people:
+- Max Midgley
+organisations: []
 ---
 
 # North York Moors villager jailed after throwing tea in girlfriend's face and driving car towards her

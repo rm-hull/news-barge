@@ -12,6 +12,16 @@ image: https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- ShipMonk
+- Trezor
+people:
+- Brevo
+- Trezor
+organisations:
+- Brevo
+- ShipMonk
+- Trezor
 ---
 
 Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezor’s customers to hackers.

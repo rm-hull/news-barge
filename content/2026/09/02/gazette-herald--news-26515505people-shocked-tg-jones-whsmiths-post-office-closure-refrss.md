@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Alice Kavanagh
+- Coney Street
+- Lendal
+- Monmouth
+- Poppleton
+- Wales
+- York
+people:
+- Alice Kavanagh
+- Andrew
+- Annie Donaghy
+- Gareth
+- Linda Storey
+- Pauline
+organisations:
+- Alice Kavanagh
+- Post Office
+- TG Jones
+- TK Maxx
+- The Press
+- WHSmith
+- WHSmiths
 ---
 
 PEOPLE in York have shared their shock after a long-running shop and the main Post Office for the city revealed that they will be closing their doors next month.

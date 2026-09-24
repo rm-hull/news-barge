@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/UB983hBxmcznhpvQSMZ9C6-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- New York
+- North America
+- UK
+people:
+- Dan Lind
+- Dashiell Wood
+organisations:
+- Dash
+- Edge
+- Google News
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Paradox Interactive
+- SFX
+- TechRadar Gaming
 ---
 
 ![Upcoming strategy game Afterworld.](https://cdn.mos.cms.futurecdn.net/UB983hBxmcznhpvQSMZ9C6.jpg) 

@@ -11,6 +11,21 @@ description: Authentication chips would ensure your Galaxy phone battery is safe
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/y8obuWueSSLeh7GfgU9p7M-2560-80.jpg
+locations:
+- South Korea
+- US
+people:
+- Rowan Davies
+organisations:
+- ADI
+- Apple
+- EU
+- Galaxy Phone
+- Google News
+- ICTK
+- Samsung
+- TechRadar
+- The Elec
 ---
 
 ![The Samsung Galaxy A57&#039;s camera bump.](https://cdn.mos.cms.futurecdn.net/y8obuWueSSLeh7GfgU9p7M.jpg)

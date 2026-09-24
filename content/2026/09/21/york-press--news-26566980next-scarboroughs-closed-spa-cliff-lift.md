@@ -12,6 +12,18 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21356991.jpg?type=og-image
+locations:
+- Scarborough
+people:
+- Cllr Carl Les
+organisations:
+- Cliff Lift
+- NYC
+- North Yorkshire Council
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Scarborough'S Spa Cliff Lift
+- Whitby
 ---
 
 The closure of an historic cliff lift in Scarborough will be debated by councillors a month after it was shut down.

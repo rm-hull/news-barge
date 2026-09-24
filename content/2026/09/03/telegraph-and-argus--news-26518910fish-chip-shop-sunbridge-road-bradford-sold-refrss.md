@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Rightmove
+- Sheffield
+people:
+- '## Chippy'
+- Ernest Wilson
+- Kieran Osborne
+- Laura Hollingsworth
+- Ms Hollingsworth
+organisations:
+- City Fisheries
+- In Plaice
+- Newsquest
+- Rightmove
+- Sunbridge Friary
+- T&A
 ---
 
 *(Image: Newsquest)*

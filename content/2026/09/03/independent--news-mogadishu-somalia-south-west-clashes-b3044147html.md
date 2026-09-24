@@ -13,6 +13,22 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Baidoa
+- Bay Regional Hospital
+- Mogadishu
+- Somalia
+- South West
+people:
+- Abdiaziz Hassan Mohamed Laftagareen
+- Abdikafi Omar Mohamud
+- Abdullahi Haji
+- Bishar Mayow Mukhtar
+organisations:
+- AP
+- Defense Ministry
+- The Associated Press
+- al-Shabab
 ---
 
 Renewed fighting erupted early Thursday between government forces and militias on the outskirts of Somalia’s southwestern city of Baidoa, with reports of heavy gunfire and civilians fleeing their homes.

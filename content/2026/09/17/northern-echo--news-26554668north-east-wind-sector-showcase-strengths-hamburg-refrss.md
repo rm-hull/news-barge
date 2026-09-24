@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- North East England
+- North Sea
+- Port of Blyth
+- Port of Tyne
+- River Tee
+- Rivers Tees
+- Steel River Quay
+- Tees Valley
+- Teesside
+- Tyne and Wear
+- UK
+people:
+- Ben Houchen
+- Joanne Leng MBE
+- Kim McGuinness
+organisations:
+- Blyth Energy Central
+- CPI
+- Crown Estate
+- Eastgate Engineering
+- Energi Coast
+- Kinewell
+- NOF
+- Net Zero Industry Innovation Centre
+- North East Investment Zone
+- North East Mayoral Strategic Authority
+- ORE Catapult
+- Offshore Renewable Energy Catapult
+- Port of Blyth
+- Port of Middlesbrough
+- Port of Sunderland
+- Port of Tyne
+- Shepherd Offshore
+- Steel River Quay
+- Tees Valley Combined Authority
+- Tees Valley Logistics
+- Teesside Freeport
+- Teesworks
+- WindEnergy Hamburg
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Castlegate
+- St Andrewgate
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A cycle thief described by police as ‘prolific’ is back in jail.

@@ -12,6 +12,18 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Mounjaro
+- UK
+people: []
+organisations:
+- Annals of Internal Medicine
+- Jewish General Hospital
+- MHRA
+- McGill University
+- Medicines and Healthcare products Regulatory Agency
+- Ozempic
+- Retatrutide
 ---
 
 A weight-loss jab, which is not yet legally available in the UK, may be more effective than Mounjaro, according to a new study.

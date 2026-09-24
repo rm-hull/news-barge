@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Luminous
+- North Yorkshire
+- Post House Wynd
+- UK
+people:
+- Bonnie
+- Danielle Smith
+- Dolly
+- Isabella
+- Isla
+- SARAH CALDECOTT
+organisations:
+- Danielle
+- Danielle’s Beauty Room
+- Darlington
+- Embellish
+- Sunderland
 ---
 
 *(Image: SARAH CALDECOTT)*

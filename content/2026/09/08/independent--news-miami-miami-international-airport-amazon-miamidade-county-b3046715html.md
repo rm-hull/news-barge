@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Miami International Airport
+- Miami-Dade County
+people:
+- Rosie Cordero-Stutz
+organisations:
+- Amazon
+- Miami International Airport
 ---
 
 All 5 killed in Miami cargo jet crash were in a van used by plane cleaners

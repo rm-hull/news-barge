@@ -13,6 +13,37 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024
 categories:
 - Science
 - Technology & Software
+locations:
+- AI
+- Bastrop
+- Memphis
+- Texas
+people:
+- Corey Trinetti
+- Elon Musk
+organisations:
+- AI
+- Amazon
+- Blackwell
+- COBRA
+- EPA
+- GE Vernova
+- GPU
+- Google
+- International Energy Agency
+- Meta
+- Microsoft
+- NAACP
+- Nvidia
+- OpenAI
+- Piedmont Environmental Council
+- SpaceX
+- SpaceXAI
+- Starlink
+- Tesla
+- The Information
+- University of Memphis
+- Virginia’s “Data Center Alley
 ---
 
 Elon Musk says he’s found a way to solve one of AI’s biggest bottlenecks by making a hard-to-manufacture turbine part himself.

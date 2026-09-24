@@ -13,6 +13,36 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Caribbean
+- Colombia
+- Conquista II
+- Eastern Pacific
+- Ecuador
+- El Salvador
+- Guatemala
+- Honduras
+- Latin America
+- Los Choneros
+- Manta
+- Panama
+- U.S.
+- US
+- United States
+- Western Hemisphere
+people:
+- Fiorella
+- María Candelaria
+- Pete Hegseth
+- Trump
+organisations:
+- Los Choneros
+- Los Tres Hermanos
+- Maria Candelaria
+- OM2
+- Southern Command
+- U.S. Southern Command
+- US Southern Command
 ---
 
 The US has celebrated the sinking of another Ecuadorian boat that it claims was linked to the criminal group Los Choneros.

@@ -15,6 +15,22 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+- UK
+- YORK
+- York
+people:
+- Belle Richardson
+- David Skaith
+- Simon Goon
+organisations:
+- BBC
+- Business Innovation Fund
+- Combined Authority
+- SealStop
+- UMi
+- West Offices
 ---
 
 **YORK**— Micro-businesses and regional entrepreneurs across York and North Yorkshire have secured a combined £800,000 in public funding following a series of high-stakes, Dragons’ Den-style competitive pitches at West Offices.

@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Acushnet River
+- Atlantic
+- Buzzards Bay Coalition
+- Fairhaven
+- Hamlin Road
+- Mill Pond
+- Moby-Dick
+- Nantucket
+- New Bedford
+- New Bedford Reservoir
+- Queequeg’s
+- White’s Factory
+people:
+- Chance Perks
+- Harrison Letourneau
+- Ishmael
+- John Sheppard
+- Marcus Hendricks
+- Sara Quintal
+- Smith
+- “(Beavers
+organisations:
+- Buzzards Bay Coalition
+- DMF
+- EPA
+- Fairhaven Acushnet Land Preservation Trust
+- Massachusetts Division of Marine Fisheries
+- NOAA
+- National Oceanic and Atmospheric Administration
+- PCB
+- The Associated Press
+- The New Bedford Light
 ---
 
 Submerged waist-deep in the Acushnet River, Marcus Hendricks let out a howl that echoed through the forest and brush. The Wampanoag tribal member and land manager had just sawed through a fallen tree 10 inches thick and stretched across the width of the waterway, spraying sawdust into the cloudy water. Two volunteers heaved the cut-up trunk aside, opening up the northern section of river to humans and fish for the first time in decades.

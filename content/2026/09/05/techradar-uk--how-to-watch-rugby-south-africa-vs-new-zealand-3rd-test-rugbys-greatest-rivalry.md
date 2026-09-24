@@ -12,6 +12,101 @@ image: https://cdn.mos.cms.futurecdn.net/9Uq4fTFDvouqZ5BNMWncG7-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Baltimore
+- Canada
+- Cape Town
+- DHL Stadium
+- Ellis Park
+- FNB Stadium
+- Johannesburg
+- NZ
+- NZST
+- New Zealand
+- South Africa
+- UK
+- US
+- uk
+people:
+- Andre Esterhuizen
+- Anton Lienert-Brown
+- Ardie Savea
+- Asafo Aumua
+- Cam Roigard
+- Cameron Hanekom
+- Cheslin Kolbe
+- Cobus Reinach
+- Codie Taylor
+- Damian McKenzie
+- Damian Willemse
+- Damian de Allende
+- Dave Rennie
+- Deon Fourie
+- Eben Etzebeth
+- Ethan Hooker
+- Fabian Holland
+- Fletcher Newell
+- George Bower
+- Gerhard Steenekamp
+- Hooker Asafo Aumua
+- James Roberts
+- Jasper Wiese
+- Jesse Kriel
+- Jordie Barrett
+- Josh Moorby
+- Kurt-Lee Arendse
+- Kyle Preston
+- Leroy Carter
+- Lood de Jager
+- Luke Jacobson
+- Malcolm Marx
+- Manie Libbok
+- Morne van den Berg
+- Ox Nche
+- Peter Lakai
+- Pieter-Steph du Toit
+- Quinn Tupaea
+- Rassie Erasmus
+- Ruan Nortje
+- Ruben Love
+- Sacha Feinberg-Mngomezulu
+- Sam Darry
+- Samisoni Taukei’aho
+- Simon Parker
+- Siya Kolisi
+- Thomas du Toit
+- Tupou Vaa'i
+- Tupou Vaa’i
+- Tyrel Lomax
+- Wallace Sititi
+- Wilco Louw
+- Will Jordan
+- Xavier Numia
+organisations:
+- AU
+- All Blacks
+- FourFourTwo
+- Future Publishing
+- NOW Sports
+- NZST
+- New Zealand
+- Oxford Mail
+- Oxford United
+- Proton VPN
+- Rugby
+- RugbyPass TV
+- Sky Sport
+- Sky Sport 1
+- Sky Sport NZ
+- Sky Sports
+- Sky Sports Action
+- South Africa
+- Springboks
+- Stan Sport
+- SuperSport
+- TechRadar
+- XV
 ---
 
 ![Siya Kolisi of South Africa scores a try during the Castle Double Malt Rugby's Greatest Rivalry, 2nd Test match against New Zealand at DHL Stadium on August 29, 2026 in Cape Town, South Africa](https://cdn.mos.cms.futurecdn.net/9Uq4fTFDvouqZ5BNMWncG7.jpg) 

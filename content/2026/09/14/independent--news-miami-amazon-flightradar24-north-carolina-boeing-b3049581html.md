@@ -15,6 +15,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Amazon
+- Miami
+people:
+- Kelly Nantel
+organisations:
+- 21 Air
+- Amazon
+- Boeing
+- Flightradar24
+- NTSB
+- National Transportation Safety Board
 ---
 
 Amazon said Sunday that it has suspended its partnership with 21 Air after one of the cargo carrier's planes loaded with Amazon packages careened off a Miami runway last week and killed five people.

@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Europe
+- Germany
+- Lake America
+- Lake America’
+- Lake Ontario
+- Ottawa
+- Strasbourg
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Carney
+- Donald Trump
+- Mark Manger
+- Ms von der Leyen
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
+- State of the European Union
+- University of Toronto
 ---
 
 The EU has opened the door for Canada to become its first “associate member”, as Ottawa’s relationship with Washington continues to deteriorate.

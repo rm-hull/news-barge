@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Downing Street
+- Fontwell
+- UK
+- US
+people:
+- Alan Milburn
+- Andrew Griffith
+- Andy Burnham
+- Ben Delo
+- Donald Trump
+- Emma Barnett
+- John Simpson
+- Keir Starmer
+- Kemi Badenoch
+- Laura Kuenssberg
+- Liz Truss
+- Nigel Farage
+organisations:
+- Budget
+- Conservative Party
+- House of Commons
+- Labour
+- Lib Dems
+- Reform
 ---
 
 ![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/07b8/live/19ee98c0-adbc-11f1-a540-61c3f7fc4e6c.png)

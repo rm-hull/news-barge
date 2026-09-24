@@ -12,6 +12,21 @@ image: https://i.guim.co.uk/img/media/b23ab43a5a1fd3a27636e95a8f8d19360930662f/0
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas
+- Henderson
+- Texas
+- Trinidad
+people:
+- Charles Gregory
+- Dennis Haws
+- Henderson
+- Jennifer Combs
+- Scott McKee
+organisations:
+- Guardian
+- KDFW
+- TCLE
 ---
 
 A police department in Texas that arrested a local resident for complaining on social media about their city’s contaminated water supply has been ordered closed after failing to prove it provided any benefit to the community.

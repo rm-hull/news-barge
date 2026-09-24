@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alaska
+- Bandero
+- Greenland
+- Hollywood
+- Iceland
+- Japan
+- Norway
+- Reykjavik
+people:
+- Wendy Higgins
+organisations:
+- Captain Paul Watson Foundation
+- Humane World for Animals
+- Icelandic Coast Guard
+- International Union for Conservation of Nature
+- International Whaling Commission
 ---
 
 A bill to be submitted by Iceland's government in February could outlaw whaling, leaving Norway and Japan as the world's only remaining nations to permit commercial hunts.

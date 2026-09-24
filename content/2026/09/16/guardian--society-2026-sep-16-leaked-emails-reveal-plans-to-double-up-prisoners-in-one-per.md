@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cambridgeshire
+- Channings Wood
+- Devon
+- Dorset
+- England
+- Erlestoke
+- Hertfordshire
+- Huntercombe
+- Kent
+- Lancashire
+- Littlehey
+- Norfolk
+- Nottingham
+- Oxfordshire
+- Rochester
+- The Mount
+- The Verne
+- Wales
+- Wayland
+- Whatton
+- Whitehall
+- Wiltshire
+- Wymott
+people:
+- Andrea Coomber
+- Andy Burnham
+- Mark Fairhurst
+- Tom Wheatley
+organisations:
+- HMPPS
+- Howard League for Penal Reform
+- Ministry of Justice
+- Prison Governors Association
+- Prison Officers Association
+- Prison Service
+- Prison and Probation Service
+- Rapid Deployment Cell
 ---
 
 The Prison Service has drawn up plans to “double up” hundreds of prisoners in temporary prefabricated cells built for one person, at the request of the Ministry of Justice, leaked documents show.

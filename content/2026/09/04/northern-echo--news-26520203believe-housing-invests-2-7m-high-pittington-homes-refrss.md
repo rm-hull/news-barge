@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- High Pittington
+- North East
+people:
+- David Taylor
+- Emily Axon
+- John Walker
+organisations:
+- Believe Housing
+- HND
+- Houghton-le-Spring-based Sunter Ltd
+- Sunter Limited
+- Sunter Ltd
 ---
 
 *(Image: Supplied)*

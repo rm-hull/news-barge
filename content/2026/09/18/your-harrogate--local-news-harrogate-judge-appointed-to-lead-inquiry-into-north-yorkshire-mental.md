@@ -12,6 +12,21 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg
+locations:
+- North East
+- North Yorkshire
+people:
+- Ison Harrison
+- John Potter
+- Sarah Magson
+organisations:
+- Court of Appeal
+- Criminal Division
+- Government
+- Ison Harrison
+- TEWV
+- Tees, Esk
+- Wear Valleys NHS Foundation Trust
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg)

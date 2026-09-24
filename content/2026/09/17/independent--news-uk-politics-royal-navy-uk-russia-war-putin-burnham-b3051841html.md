@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Admiralty House
+- Britain
+- High North
+- Moscow
+- North Atlantic
+- PA
+- Russia
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Gwyn Jenkins
+- Vladimir Putin
+organisations:
+- Allied
+- First Sea Lord
+- Government
+- Ministry of Defence
+- Nato
+- Royal Navy
 ---
 
 The UK must bolster its warfighting readiness as Russia "is probing us for weakness" in the North Atlantic, the head of the Navy has warned.

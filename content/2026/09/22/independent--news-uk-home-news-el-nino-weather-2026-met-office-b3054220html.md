@@ -12,6 +12,17 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/04/08/2026-09-03T215023Z_2000154535_RC2KBNAWRYXS_RTRMADP_3_COLOMBIA-WEATHER-WATER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Pacific Ocean
+- UK
+people:
+- Adam Scaife
+- Nick Dunstone
+organisations:
+- El Nino
+- El Niño
+- Met Office
 ---
 
 Global weather patterns are set to experience "far-reaching" consequences after the ongoing El Niño climate event surpassed all historical records several weeks before reaching its expected peak, the Met Office has warned.

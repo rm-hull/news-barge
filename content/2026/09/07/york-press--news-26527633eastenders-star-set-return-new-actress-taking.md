@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Albert Square
+- Australia
+- Canada
+- London
+- Walford
+people:
+- '## Ash Panesar'
+- Ash Panesar
+- Ben Wadey
+- EastEnders
+- Gurlaine Kaur Garcha
+- Honey Mitchell
+- Jemma
+- Navin Chowdhry
+- Nish Panesar
+- Rose
+- Sakira Vel
+- Suki Kaur Panesar
+organisations:
+- Balvinder Sopal
+- EastEnders
+- NHS
 ---
 
 *(Image: PA)*

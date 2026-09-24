@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Ohio State
+- Texas
+people:
+- Connor Hawkins
+- Hollywood Smothers’
+- Jeremiah Smith
+- Julian Sayin
+- Manning
+- Ryan Wingo
+- Smothers
+- Steve Sarkisian
+organisations:
+- AP
+- Arch Manning
+- Buckeyes
+- Buckeyes'
+- Kent State
+- Longhorns
+- No. 1
+- No. 4
+- Ohio State
+- Texas
+- Texas’
+- UTSA
 ---
 
 Arch Manning and No. 4 Texas stole a 24-23 victory from No. 1 Ohio State on Saturday night, rallying from a 20-point fourth-quarter deficit to win it on Hollywood Smothers’ 1-yard touchdown run with 25 seconds left.

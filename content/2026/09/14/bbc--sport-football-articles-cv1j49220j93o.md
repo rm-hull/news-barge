@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Calvert-Lewin
+- Czech Republic
+- Elland Road
+- England
+- Leeds
+- Saudi Arabia
+- Uruguay
+people:
+- Daniel Farke
+- Dominic Calvert-Lewin
+- Dominic Calvert-Lewin.
+- Harry Kane
+- Ivan Toney
+- Jamie Carragher
+- Jayden Bogle
+- Leeds'
+- Mark Viduka
+- Matthias Jaissle
+- Ollie Watkins
+- Thomas Tuchel
+organisations:
+- Arsenal
+- Bournemouth
+- England
+- Everton
+- Leeds United
+- Liverpool
+- Manchester City
+- Manchester United
+- Newcastle No
+- Newcastle United
+- Newcastle Unitedmust
+- Premier League
+- Sky Sports
+- Spain
+- Tottenham Hotspur
+- Whites
 ---
 
 ![Dominic Calvert-Lewin celebrates after scoring for Leeds United against Newcastle United](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/48b2/live/74c52a90-b08a-11f1-8f9f-33e0914f3492.jpg)

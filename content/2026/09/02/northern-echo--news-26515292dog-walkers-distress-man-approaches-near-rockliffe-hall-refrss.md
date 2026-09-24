@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- Croft
+- Darlington
+- Rockliffe Hall Hotel
+- Spa
+people: []
+organisations:
+- Durham Constabulary
+- Durham Police
 ---
 
 *(Image: Supplied)*

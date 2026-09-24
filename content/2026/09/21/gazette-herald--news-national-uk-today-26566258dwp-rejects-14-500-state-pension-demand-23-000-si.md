@@ -15,6 +15,28 @@ categories:
 - Careers & Productivity
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21377280.jpg?type=og-image
+locations:
+- Europe
+- UK
+people:
+- Richard Sobey MBE
+- Robert Perry
+organisations:
+- DWP
+- Department of Work and Pensions
+- Government
+- National Insurance
+- National Minimum Wage
+- New State Pension
+- Pension Credit
+- Pensions Commission
+- Starbucks
+- State Pension
+- State Pension and the National Minimum Wage
+- Triple Lock
+- UK State Pension
+- Warm Home Discount and Housing Benefit
+- Winter Fuel Payments
 ---
 
 *(Image: Robert Perry)*

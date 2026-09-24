@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/mUksjJUJWymmgtCP5fZY5U-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Flynn
+- Virgin River
+people:
+- Dylan
+- Elinor Lawless
+- Ellie
+- Flynn
+- George Cooper Sr.
+- Olly Rix
+- Stevie
+- William Beck
+organisations:
+- BBC iPlayer
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Olly Rix as Flynn](https://cdn.mos.cms.futurecdn.net/mUksjJUJWymmgtCP5fZY5U.jpg) 

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- East Antarctica
+- England
+- Greenland
+- Irvine
+- Jakobshavn
+- Northumbria
+- United States
+- West Antarctic Ice Sheet
+people:
+- Andrew Shepherd
+- David Holland
+- Eric Rignot
+- Ines Otosaka
+- Ted Scambos
+organisations:
+- AP
+- Associated Press’
+- European Space Agency
+- NASA
+- New York University
+- Northumbria University
+- University of California
+- University of Colorado
 ---
 
 About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, which is enough frozen water to stack ice five feet deep across the continental United States, according to a major scientific report.

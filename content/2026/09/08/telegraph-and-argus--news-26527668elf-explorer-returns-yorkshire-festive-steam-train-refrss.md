@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Shopping & Deals
+locations:
+- Britain
+- Keighley
+- Worth Valley Railway
+- Yorkshire
+people:
+- Christmas
+- Father Christmas'
+- Tom Marshall
+organisations:
+- Elf Explorer
 ---
 
 *(Image: Tom Marshall)*

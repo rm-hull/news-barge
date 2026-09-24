@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- London
+people:
+- Domitian
+- Jakob Thyr
+- Leonardo da Vinci
+- Titian
+organisations:
+- Christie's
+- Uppsala University
 ---
 
 Scientists have deployed lasers to test pigments in a painting possibly made by the Renaissance-era polymath Leonardo da Vinci, and say the cutting-edge technology could be a viable tool to check whether historic artworks are forgeries.

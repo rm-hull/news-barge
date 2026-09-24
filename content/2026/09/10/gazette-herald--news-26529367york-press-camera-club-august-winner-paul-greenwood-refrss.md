@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bootham Bar
+- Knaresborough Viaduct
+- Majorca
+- Towton
+- York Minster
+people:
+- Isaac Savage
+- Paul 'Mortz' Mortimer
+- Paul Anthony White
+- Paul Greenwood
+- Sandra Michelle Davies
+- Sandra Michelle Hillyer
+organisations:
+- Camera Club
+- Facebook
+- The Press
+- The Press Camera Club
 ---
 
 WE asked Camera Club members to focus on the theme of #outandabout26 for our latest competition.

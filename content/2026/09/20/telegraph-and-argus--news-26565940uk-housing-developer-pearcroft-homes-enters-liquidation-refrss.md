@@ -14,6 +14,18 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471546.jpg?type=og-image
+locations:
+- UK
+people:
+- Mantle
+- Paraskevi Iacovou
+- Peter Kubik
+organisations:
+- Companies House
+- Gazette
+- Pearcroft Homes
+- UHY Hacker Young LLP
+- Wolseley UK
 ---
 
 *(Image: Getty Images)*

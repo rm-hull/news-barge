@@ -13,6 +13,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bingley
+- Bradford
+- Halifax Road
+- West Yorkshire
+people: []
+organisations:
+- Audi
+- Keighley Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

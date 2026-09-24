@@ -13,6 +13,44 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- America
+- Dallas
+- Florida
+- Ground Zero
+- Holland
+- Iraq
+- Louisiana
+- Nebraska
+- New York
+- Pearl Harbor
+- Pennsylvania
+- Sarasota
+- Shanksville
+- United States
+- Washington
+- White House
+people:
+- Andrew Card
+- Dan Bartlett
+- Dick Cheney
+- George W. Bush
+- Rudy Giuliani
+- Steve Holland
+organisations:
+- Air Force One
+- Barksdale Air Force Base
+- CBS
+- Emma Booker Elementary School
+- Emma E. Booker Elementary School
+- Offutt Air Force Base
+- Oval Office
+- Panic
+- Pentagon
+- Reuters
+- Secret Service
+- White House Correspondents' Association
+- World Trade Center
 ---
 
 President George W. Bush was jogging around a Florida golf course before dawn when I first saw him on September 11, 2001.

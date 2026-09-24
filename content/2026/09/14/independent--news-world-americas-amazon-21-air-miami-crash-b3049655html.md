@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Amazon
+- Miami
+- North Carolina
+people:
+- Kelly Nantel
+organisations:
+- 21 Air
+- Amazon
+- NTSB
+- National Transportation Safety Board
 ---
 
 Amazon has halted its working relationship with 21 Air following a deadly incident last week in which a cargo plane carrying the online retailer's packages overshot a Miami runway, resulting in five fatalities.

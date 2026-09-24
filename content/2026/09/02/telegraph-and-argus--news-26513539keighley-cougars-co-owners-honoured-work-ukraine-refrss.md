@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Cougar Park
+- Ukraine
+people:
+- Artur Martyrosian
+- Kaue Garcia
+- Ryan O’Neill
+- Shaun Harrison
+organisations:
+- Hunslet
+- KEIGHLEY Cougars
+- Keighley
+- Kyiv
+- RL
+- Ukrainian Rugby League’
 ---
 
 *(Image: Shaun Harrison)*

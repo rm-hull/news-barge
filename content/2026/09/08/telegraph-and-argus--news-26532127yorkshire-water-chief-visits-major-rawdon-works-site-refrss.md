@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Arthrington Lane
+- Green Lane
+- Harrogate Road
+- Leeds Road
+- Pool
+- Rawdon
+- Yeadon Roundabout
+people:
+- Katie White
+- Nicola Shaw
+organisations:
+- Leeds North West
+- MP
+- Yorkshire Water
 ---
 
 *(Image: submitted)*

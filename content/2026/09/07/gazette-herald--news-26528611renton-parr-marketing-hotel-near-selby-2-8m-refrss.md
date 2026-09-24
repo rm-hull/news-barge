@@ -12,6 +12,26 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- A1
+- Delmont
+- Great North Road
+- Helaina
+- Leeds
+- M
+- Scarborough
+- Selby
+- South Milford
+- Walshford
+people: []
+organisations:
+- A63
+- Best Western Plus Milford Hotel
+- Christie & Co
+- Eddisons Commercial markets Central Hotel
+- Google
+- The Bridge Hotel & Spa
+- TripAdvisor
 ---
 
 A HOTEL on the A63 between Leeds and Selby is up for sale for £2.8m.

@@ -14,6 +14,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg
+locations: []
+people:
+- Gary Fielding
+- Karl Battersby
+- Nic Harne
+- Richard Flinton
+- Richard Webb
+- Stuart Carlton
+organisations:
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg)

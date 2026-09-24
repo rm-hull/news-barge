@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef77/live/62c1e770-b5bc-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Berlin
+- Germany
+- Mecklenburg-Vorpommern
+- Saxony-Anhalt
+people:
+- Alice Weidel
+- Die Linke
+- Friedrich Merz
+- Friedrich Merz.
+organisations:
+- AfD
+- Alternative for Germany
+- BBC
+- CDU
+- Christian Democratic Unionist
+- Die Linke
+- SPD
+- Social Democratic Party
 ---
 
 ![Headshot of Friedrich Merz.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ef77/live/62c1e770-b5bc-11f1-8d1d-a985658d9d3a.jpg)

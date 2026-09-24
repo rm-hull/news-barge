@@ -13,6 +13,25 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- North America
+- PA
+- UK
+- US
+people:
+- Carl Cowling
+- Chris Beauchamp
+- Rui Vieira
+- WH Smith
+organisations:
+- Deloitte
+- FCA
+- Financial Conduct Authority
+- IG
+- Modella Capital
+- PwC
+- WH Smith
 ---
 
 Retailer WH Smith has revealed more pressure on profits as it said results would be at the bottom of forecasts following a series of recent downgrades just months after a £100 million investor cash call.

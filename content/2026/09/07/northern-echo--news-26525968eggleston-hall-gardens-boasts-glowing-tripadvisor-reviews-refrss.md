@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Barnard Castle
+- Coach House
+- County Durham
+- DL12 0AG
+- Eggleston Hall
+- Eggleston Hall Gardens
+- Eggleston Lane
+- Pottager Garden
+- The Yorkshire
+- The Yorkshire Dales
+people: []
+organisations:
+- Eggleston Hall Gardens
+- Egglestone Hall
+- Google
+- TripAdvisor
 ---
 
 *(Image: TRIPADVISOR)*

@@ -12,6 +12,22 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Baildon Moor
+- Centenary Square
+- Saltaire
+- Valley Parade
+people: []
+organisations:
+- BDC Mind
+- Bantams
+- Bradford City AFC
+- Bradford District
+- Craven Mind
+- Denso Marston Nature Reserve
+- Five Rise Locks
+- Lister Park
+- Shipley Glen
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - Automotive
 - History
+locations:
+- Bradford
+- Detroit
+- Europe
+- Idle
+- Mexico
+- UK
+- Yorkshire
+people:
+- Craig Simpson
+- Dave Jones
+- Fonz
+- Gary Walker
+- Happy Days’
+- James Dean
+- Jeremy Twigden
+- Jimmy Goodall Jimmy
+- Jowitt Javelin
+- Martin Pellitt
+- Peter House
+- R Meekings
+- Richard Keith
+organisations:
+- Aston Martin Owners Club
+- Beetle
+- Burley Cricket Club
+- CCC
+- City of Leeds MG
+- Craven Old Wheels
+- Daimler Barker Sport
+- Dodge Charger
+- Harewood Hill Climb
+- Hupp Motor Car Company
+- International Motor Sport
+- Jaguar Drivers Club
+- Jaguar Drivers’ Club
+- Jowett Van
+- Jowitt Javelins
+- KT Green of Otley
+- Le Mans
 ---
 
 *(Image: submitted)*

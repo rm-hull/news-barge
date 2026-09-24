@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A171
+- Boosbeck
+- Charltons
+- James Cook University Hospital
+- Middlesbrough
+- Saltburn
+people: []
+organisations:
+- Cleveland Police
+- North East Ambulance Service
 ---
 
 *(Image: NEAS)*

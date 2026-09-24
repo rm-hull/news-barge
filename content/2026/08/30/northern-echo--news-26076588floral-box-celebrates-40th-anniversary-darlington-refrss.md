@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Burtree Lane
+- Cockerton
+- County Durham
+- Darlington
+- North Road
+people:
+- Diane
+- Having Noreen
+- Mark Fox
+- Noreen Beadle
+- Steven Raine
+- Stuart Boulton
+organisations:
+- First for Flowers
+- Floral Box
+- Houghall Agricultural College
+- The Floral Box
+- YTS
 ---
 
 A Darlington florist is celebrating its ruby milestone after 40 years of blooming success serving generations of customers.

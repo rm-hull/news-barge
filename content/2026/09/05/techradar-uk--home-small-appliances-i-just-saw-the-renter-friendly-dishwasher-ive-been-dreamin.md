@@ -12,6 +12,15 @@ image: https://cdn.mos.cms.futurecdn.net/pnhjA39c8f3PaiaRLh2Gac-1920-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Lissome
+- Ruth Hamilton
+organisations:
+- Google News
+- IFA
+- Ruth
+- TechRadar
 ---
 
 ![Lissome Countertop dishwasher](https://cdn.mos.cms.futurecdn.net/pnhjA39c8f3PaiaRLh2Gac.jpg) 

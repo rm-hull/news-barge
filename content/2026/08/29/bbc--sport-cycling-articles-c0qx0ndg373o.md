@@ -12,6 +12,64 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Aut
+- Bahrain
+- Canada
+- Fra
+- France
+- Ita
+- Paris-Roubaix
+- Slo
+- UAE
+- US
+- Ven
+people:
+- Adrian Rotunno
+- Alessandro Romele
+- Bastien Tronchon
+- Ben Turner
+- Bryan Coquard
+- Enric Mas
+- Felix Gall
+- Gregor Muhlberger
+- Harold Tejada
+- Hugo Hofstetter
+- Il Lombardia
+- Jakob Omrzel
+- Jesus Herrada
+- Jordan Labrosse
+- Jordi Meeus
+- Lidl-Trek
+- Liege-Bastogne-Liege
+- Mads Pedersen
+- Matthew Brennan
+- Mattias Skjelmose
+- Milan-San Remo
+- Orluis Aular
+- Oscar Onley
+- Primoz Roglic
+- Richard Carapaz
+- Sepp Kuss
+- Tadej Pogacar
+organisations:
+- Aut/Decathlon CMA
+- Bel/Red Bull-Bora-Hansgrohe
+- Decathlon CMA CGM
+- Den/Lidl-Trek
+- Ecu/EF Education-EasyPost
+- Emirates-XRG
+- Fra/Cofidis
+- Fra/Groupama-FDJ United
+- Fra/NSN Cycling Team
+- GB/Netcompany Ineos
+- Movistar
+- Red Bull-Bora-Hansgrohe
+- Spa
+- TNT Sports
+- Tadej Pogacar
+- Vuelta
+- XDS Astana
 ---
 
 ![Tadej Pogacar wearing a cap](https://ichef.bbci.co.uk/ace/standard/928/cpsprodpb/7c80/live/c8178300-a3dd-11f1-9323-c53d27c293d7.jpg)

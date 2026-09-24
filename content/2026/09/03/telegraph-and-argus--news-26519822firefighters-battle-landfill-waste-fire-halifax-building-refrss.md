@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Halifax
+- Lucy Street
+people: []
+organisations:
+- West Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Pixabay)*

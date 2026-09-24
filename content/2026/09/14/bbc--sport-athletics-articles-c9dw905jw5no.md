@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Budapest
+people:
+- Amy Hunt
+- Ariarne Titmus
+- Ellie Boatman
+- Gracie Kramer
+- Karl-Anthony Towns
+- Lisa Neumann
+- Melissa Jefferson-Wooden
+- Myles Garrett
+- Ronda Rousey
+- Serena Williams
+- Sophie Capewell MBE
+- Sydney Sweeney
+- Sydney Sweeney.
+- Tilly Kearns
+organisations:
+- BBC Sport
+- ESPN
+- MMA
+- NFL
+- Sydney Sweeney
 ---
 
 'Sydney Sweeney, this is what women in sport look like!' - Hunt on controversial ad

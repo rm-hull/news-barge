@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bradford
+- North Yorkshire
+- Norton
+- Ryedale
+- Scrayingham
+- Stamford Bridge
+- Welham Road
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

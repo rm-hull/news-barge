@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Asia
+- Bab al-Mandab Strait
+- Hodeidah
+- Iran
+- Mayyun
+- Mokha
+- North America
+- Perim Island
+- Red Sea
+- Republic of Yemen
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Taiz
+- US
+people:
+- Amy Pope
+- Donald Trump
+- Mohammed bin Salman
+- Yahya Sarea
+organisations:
+- AFP
+- BBC
+- CBS News
+- IOM
+- International Organization for Migration
+- Trump
 ---
 
 ![A dozen Houthi men wearing combat clothes, berets and holding large guns. The sky is blue and the men are looking straight ahead.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg)

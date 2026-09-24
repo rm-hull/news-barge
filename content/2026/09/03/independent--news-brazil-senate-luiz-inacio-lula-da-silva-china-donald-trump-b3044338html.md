@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Amazon
+- Brazil
+- Caribbean
+- China
+- France
+- Germany
+- Goias
+- India
+- Latin America
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Leonardo Paz Neves
+- Luiz Inácio Lula da Silva
+- Paz Neves
+- Serra Verde
+- Suely Araújo
+organisations:
+- AP and Reporter Brazil
+- Climate Observatory
+- Getulio Vargas Foundation
+- Mineral Activity Guarantee Fund
+- National Council for the Industrialization of Critical and Strategic Minerals
+- Pela Ema
+- Senate
+- Serra Verde
+- USA Rare Earth
 ---
 
 Brazil’s Senate Wednesday night approved a landmark bill to regulate the exploration of critical and strategic minerals in the South American country, a step toward increased exploitation of its vast reserves of rare earths that are second only to China.

@@ -13,6 +13,32 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Aral Sea
+- Bukhara
+- Central Asia
+- Gulf of Oman
+- Karakalpakstan
+- Kugitang
+- Saiga
+- Saygachiy Complex Landscape Sanctuary
+- Sudochye lake
+- Surkhan State Nature Reserve
+- UAE
+- Ustyurt Plateau
+- Uzbekistan
+people:
+- Aymuradov Tokhtamurad
+- Bobur Eshoniyev
+- Henrik Stahl
+- Jon Lapeyra
+- Muhiddin Mamatqulov
+- Ortiqbek Saydullayev
+- Stephen Widdicombe
+- Umidjon Murtazayev
+organisations:
+- Sharjah Marine Science Research Centre
+- Sudochye-Akpetki State Wildlife Sanctuary
 ---
 
 ## From heat-resilient corals in the Gulf of Oman to saiga antelopes on the Ustyurt Plateau, scientists and conservationists are using research, technology and hands-on protection to safeguard threatened wildlife.

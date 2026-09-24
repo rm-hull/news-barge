@@ -11,6 +11,18 @@ description: Watch as Equity breaks down what John Ternus inherits at Apple as N
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations: []
+people:
+- John Ternus
+- Kirsten Korosec
+- Sean O’Kane
+- Tim Cook
+organisations:
+- Apple Podcasts
+- EquityPod
+- Overcast
+- Spotify
+- YouTube
 ---
 
 It’s officially the Ternus era at Apple.

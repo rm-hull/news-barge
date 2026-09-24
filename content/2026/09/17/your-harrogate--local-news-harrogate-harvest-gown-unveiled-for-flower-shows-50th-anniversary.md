@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6aabdc2b0ccbfc18454.jpg
+locations:
+- Grand Floral Pavilion
+- Newby Hall
+people:
+- Anna Cartmell-Done
+- Jonathan Moseley
+- Nick Smith
+organisations:
+- Newby Hall & Gardens
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabdc2b0ccbfc18454.jpg)

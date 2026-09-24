@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bishkek
+- Delhi
+- Europe
+- India
+- Kremlin
+- Kyiv
+- Kyrgyzstan
+- Moscow
+- Odesa
+- Russia
+- US
+- Ukraine
+people:
+- Donald Trump
+- Jared Kushner
+- Narendra Modi
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Brics
+- Shanghai Cooperation Organisation
+- TASS
+- Telegram
 ---
 
 Indian prime minister Narendra Modi implored Vladimir Putin during a meeting in Kyrgyzstan that Russia’s war in Ukraine needed to end for the sake of humanity.

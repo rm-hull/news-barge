@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham Major
+- Framwellgate Moor
+- Newton Drive
+- YOUR
+people: []
+organisations:
+- City of Durham Trust
+- Darlington Binns
+- HMO
+- Public Notice Portal
+- Public Notice Portal Durham County Council
+- Santander bank Council
 ---
 
 *(Image: GOOGLE)*

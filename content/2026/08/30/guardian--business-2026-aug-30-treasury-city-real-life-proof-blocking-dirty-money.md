@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- City
+- London
+- UK
+people:
+- Moody
+organisations:
+- AML
+- FATF
+- Financial Action Task Force
+- Moody’s
+- National Crime Agency
+- Treasury
 ---
 
 The government is asking bankers and lawyers to provide feelgood stories about how they blocked dirty money from entering the UK, as ministers try to prove the UK’s money-laundering controls are working.

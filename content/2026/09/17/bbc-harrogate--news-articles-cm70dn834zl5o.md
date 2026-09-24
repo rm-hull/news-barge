@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - Automotive
 - Travel
+locations:
+- Daytona
+- Helwath Beck
+- North Yorkshire
+- North Yorkshire.
+- Scarborough
+- Whitby
+people: []
+organisations:
+- Volvo
 ---
 
 ![A two-lane rural road curving gently and rising uphill through a countryside landscape. The road surface is grey asphalt with white lane markings running along the centre and a dashed white line marking the edge of a junction or side road in the foreground.

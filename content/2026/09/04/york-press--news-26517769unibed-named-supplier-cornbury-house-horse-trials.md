@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Cornbury House
+- Oxfordshire
+- South Milford
+- UK
+people:
+- Jessica Vickers
+organisations:
+- '## South Milford'
+- British Eventing
+- Cornbury House Horse Trials
+- High-Performance Equine Bedding
+- UNIBED High-Performance Equine Bedding
+- Unibed
 ---
 
 ## South Milford bedding firm lands partnership with leading horse trials

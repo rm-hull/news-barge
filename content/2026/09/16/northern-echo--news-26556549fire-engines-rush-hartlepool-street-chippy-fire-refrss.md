@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Billingham
+- Grangetown Zooming
+- Hartlepool High Street
+- Middlesbrough
+- Stockton
+- Verrills Fish Shop
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Manhunt
+- Verrills Fish Shop
 ---
 
 *(Image: GOOGLE MAPS)*

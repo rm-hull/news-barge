@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- North Yorks
+- Scarborough
+- Wykeham
+people: []
+organisations: []
 ---
 
 A North Yorks fire officer is currently responding to reports of flooding in the open near Scarborough.

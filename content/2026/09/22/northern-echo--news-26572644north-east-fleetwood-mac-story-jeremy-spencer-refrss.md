@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21488931.jpg?type=og-image&xType=0&yType=128
+locations:
+- California
+- County Durham
+- North East
+- West Hartlepool
+people:
+- Elmore James
+- Elvis Presley
+- Jeremy Spencer
+- John McVie
+- Mick Fleetwood
+- Peter Green
+organisations:
+- Children of God
+- Fleetwood Mac
+- Hartlepool
+- Rock and Roll Hall of Fame
+- Stafford Art College
 ---
 
 *(Image: PA)*

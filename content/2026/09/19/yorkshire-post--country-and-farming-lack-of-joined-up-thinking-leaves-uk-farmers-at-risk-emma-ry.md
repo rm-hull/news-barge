@@ -13,6 +13,22 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwODQyMjg5LTBiODMtNGVkMS05NDYzLWI3NTMwNTJmM2I0ODpjODA5MGZjNC04OTQ0LTQ0MzktYWI3NC03NDM4YTQ1MTE4N2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bainbridge
+- Malton
+- Sheffield
+- UK
+- Wensleydale
+people:
+- Adele
+- Andrew Riddles
+- Emma Ryan
+- George Dunn
+organisations:
+- Harmony Energy
+- High Court
+- Sturdys
+- Tenant Farmers’ Association
 ---
 
 # Lack of joined-up thinking leaves UK farmers at risk - Emma Ryan

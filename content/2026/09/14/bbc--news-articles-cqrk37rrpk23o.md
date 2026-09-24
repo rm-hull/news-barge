@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Alligator Alcatraz
+- Everglades
+- Florida
+- US
+people:
+- Donald Trump
+- Ron DeSantis
+organisations:
+- Alligator Alcatraz
+- BBC
+- DHS
+- ICE
+- Immigration and Customs Enforcement
+- OIG
+- Office of the Inspector General
+- Trump
+- US Department of Homeland Security
 ---
 
 ![A metal cage sits within a larger cage that has razor wire across the top. The small cage has a door with a combination lock](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/8ceb/live/379e3ff0-b056-11f1-9902-771b6dd8af6a.jpg)

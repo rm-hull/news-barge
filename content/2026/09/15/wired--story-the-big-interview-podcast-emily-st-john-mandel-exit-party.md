@@ -14,6 +14,67 @@ categories:
 - Science
 - History
 - Arts & Culture
+locations:
+- AI
+- Adirondacks
+- Atlantic Republic
+- British Columbia
+- Brooklyn
+- Calgary
+- Canada
+- Covid
+- Denman Island
+- East Germany
+- Hollywood
+- Kingdom of Deseret
+- Manhattan
+- Montreal
+- New York
+- New York City
+- Republic of California
+- The Atlantic
+- Toronto
+- UK
+- US
+- United States
+- Vancouver Island
+- West Village
+- work.EMILY ST
+people:
+- '*[Laughs'
+- AI
+- Ari
+- Cixin Liu
+- Covid
+- Donald Trump
+- Ed Yong
+- Emily St. John Mandel
+- God
+- Ibari
+- JOHN MANDEL
+- Josh Gondelman
+- KATIE DRUMMOND
+- Katie
+- Knopf
+- Laura
+- Leo
+- Matthew Belloni
+- Miranda
+- Reels
+- Yeah
+organisations:
+- AI
+- Clorox
+- Exit Party
+- HarperCollins Canada
+- ICE
+- New Yorker
+- Pan Macmillan
+- School of Toronto Dance Theatre
+- Spotify
+- Starbucks
+- The Rockefeller University
+- Time magazine
 ---
 
 If the United States collapses in the near future, you’ll no doubt be tempted to point a few fingers. Just don’t blame Emily St. John Mandel.

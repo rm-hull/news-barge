@@ -15,6 +15,19 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Charlotte County
+- Florida
+- Fort Myers
+- Montgomery
+- U.S.
+people:
+- Daniel Owen Conahan Jr.
+- Richard Allen Montgomery
+- Ron DeSantis
+organisations:
+- Florida Supreme Court
+- U.S. Supreme Court
 ---
 
 A Florida man convicted in one of a series of suspected killings that became known as the "Hog Trail Murders” in the 1990s was scheduled Thursday to become the state's 15th person executed this year.

@@ -11,6 +11,27 @@ image: https://i.guim.co.uk/img/media/ef2be4e6aa749e7b0782673cf1f8a8f3665a6664/6
 categories:
 - UK
 - News & Politics
+locations:
+- China
+- Fujian
+- Guangdong
+- Guangxi
+- Hainan
+- Jiangxi
+- Johannesburg
+- Mississippi
+- North West
+- Northern Cape
+- Putian
+- Suichuan
+- US
+- Wenzhou
+- Zhejiang
+people:
+- Narra
+- Saudel
+organisations:
+- South African Weather Service
 ---
 
 Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with surrounding villages recording more than 500mm in the same period. In Fujian, authorities estimate that almost 600,000 people were evacuated from high-risk, flood-prone areas. A further 128,000 people in 53 counties were also affected across Jiangxi, with emergency evacuations affecting 9,000 people.

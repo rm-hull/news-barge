@@ -10,6 +10,22 @@ description: Norway is putting automated defenses around its F-35s after mysteri
 image: https://cdn.mos.cms.futurecdn.net/t38ZxURMXpQ2CUL46emGYV-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Evenes
+- Norway
+- Trondheim
+people:
+- Lars Peder Haga
+organisations:
+- C-UAS
+- Efosa
+- Evenes
+- Google News
+- ISS Aerospace
+- NRK
+- Norwegian Air Force Academy
+- Royal Norwegian Air Force
+- TechRadar Pro
 ---
 
 ![HAL10 launcher integrated into Norway’s C-UAS](https://cdn.mos.cms.futurecdn.net/t38ZxURMXpQ2CUL46emGYV.jpg) 

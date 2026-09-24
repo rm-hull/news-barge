@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Travel
 - Outdoors & Nature
+locations:
+- CLEVELAND
+- Errington Wood
+- Errington Woods
+- Eston
+- James Cook
+- James Cook Hospital
+- Land Rover
+- New Marske
+- North East
+people: []
+organisations:
+- Cleveland Mountain Rescue Team
+- Cleveland Police
+- Land Rovers
+- North East Ambulance Service
 ---
 
 *(Image: CLEVELAND MOUNTAIN RESCUE TEAM)*

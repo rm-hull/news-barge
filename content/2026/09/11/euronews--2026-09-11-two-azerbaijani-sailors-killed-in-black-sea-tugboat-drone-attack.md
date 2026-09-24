@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Black Sea
+- Chornomorsk
+- Constanta
+- Kyiv
+- Moscow
+- Odesa
+- Russia
+- Sea of Azov
+- Ukraine
+people:
+- Asim Gasimov
+- Aslan Aliyev
+- Imran Novruzov
+- Kyiv
+- Rauf Aliyev
+- TEDY
+organisations:
+- Defence Ministry
+- Foreign Ministry
+- Mert Marine Corporation
+- Ministry for Restoration, Infrastructure and Transport
+- TEDY
+- UN
 ---
 
 ## The Somali-flagged TEDY was hit near Odesa and struck twice more overnight, with two other crewmembers hospitalised with burns. Azerbaijan's foreign ministry did not attribute responsibility for the attack.

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Chelsea
+- Lister Hospital
+- London
+- Westbourne Grove
+people:
+- Fiona Wilcox
+- Joan Sarah Drummond Branson
+- Life
+- Richard Branson
+organisations:
+- HCA Healthcare UK
+- Inner West London
+- Lister Hospital
+- Virgin
 ---
 
 A coroner due to hold an inquest into the death of Sir Richard Branson’s wife has said she hopes lessons will be learnt from the hearing.

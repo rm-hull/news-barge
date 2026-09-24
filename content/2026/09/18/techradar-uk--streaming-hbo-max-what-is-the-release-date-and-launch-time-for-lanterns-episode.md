@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/ywf79SjjgAfKRsyAoaW4qU-1686-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North America
+- SGT
+- Singapore
+- Sky Atlantic
+- UK
+- US
+people:
+- Aaron Pierre
+- Hal Jordan
+- John Stewart
+- Tom
+organisations:
+- DC
+- DCU
+- Disney Plus
+- Google News
+- Green Lantern TV
+- HBO Max
+- Lanterns
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
+- Warner Bros
 ---
 
 ![A close-up of a stern-looking John Stewart in Lanterns episode 6](https://cdn.mos.cms.futurecdn.net/ywf79SjjgAfKRsyAoaW4qU.jpg) 

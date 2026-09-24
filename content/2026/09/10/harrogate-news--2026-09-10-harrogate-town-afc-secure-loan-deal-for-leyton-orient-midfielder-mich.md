@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- EnviroVent Stadium
+- Scotland
+- Watford
+people:
+- Michael Craig
+- Simon Weaver
+organisations:
+- AFC Fylde
+- FA
+- Harrogate Town
+- Harrogate Town AFC
+- Leyton Orient
+- Reading
+- Royals
+- Tamworth
+- Tottenham Hotspur
 ---
 
 Harrogate Town AFC have completed the signing of Leyton Orient midfielder **Michael Craig** on a three-month loan contract. The 23-year-old arrive at the EnviroVent Stadium with extensive League One experience, boasting over 80 appearances in the third tier for both Orient and Reading. The Scotland youth international joins just in time for Town’s home double-header against Tamworth and AFC Fylde.

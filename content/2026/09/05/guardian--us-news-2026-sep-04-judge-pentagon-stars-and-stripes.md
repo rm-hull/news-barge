@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/28a6d4d584aaee15675af89663fbbe5829d4ad4b/3
 categories:
 - UK
 - News & Politics
+locations:
+- Middle East
+- US
+- Washington DC
+people:
+- Abraham Lincoln
+- Donald Trump
+- Erik Slavin
+- Jacqueline Smith
+- Lara Korte
+- Max Lederer
+- Pete Hegseth
+- Stars
+- Susan Dardarian
+- Trevor McFadden
+- William Church
+organisations:
+- CBS News
+- CNN
+- Pentagon
+- Stars and Stripes
+- Stripes’
 ---
 
 A federal judge has declined to stop the Pentagon from firing journalists who say they were illegally punished for speaking out about the need for the Stars and Stripes publication to maintain its editorial independence.

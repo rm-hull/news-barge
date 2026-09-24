@@ -12,6 +12,47 @@ image: https://images.euronews.com/articles/stories/09/90/05/98/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Belgium
+- Bidur
+- Black Sea
+- Britain
+- Brussels
+- Ceuta
+- Downing Street
+- Eiffel Tower Stadium
+- Estonia
+- Europe
+- Gaiziunai Training Area
+- Kuopio
+- Lisbon
+- Lithuania
+- London
+- Madrid
+- Morocco
+- Munich
+- Nepal
+- Norway
+- Nuwakot
+- Odesa
+- Trishuli river
+- Ukraine
+- Valletta
+people:
+- Andy Burnham
+- Daphne Caruana Galizia
+- Efrem Lukatsky
+- Emmanuel Macron
+- Hanno Pevkur
+- Pedro Sánchez
+- Stephanie Touissaint
+- Ursula von der Leyen
+organisations:
+- Euronews
+- European Commission
+- Goethe Institute
+- NATO
+- Red Cross
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

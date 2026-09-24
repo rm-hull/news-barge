@@ -13,6 +13,50 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- China
+- Europe
+- HK
+- Hong Kong
+- London
+- Middle East
+- New York
+- Shein
+- Singapore
+- U.S.
+people:
+- '![Shein'
+- Charu Chanana
+- Jianggan Li
+- Josh Gilbert
+- Leigh Gui
+- Marcelo Claure
+- Michael Bloomberg
+- Mukesh Ambani
+- Shein
+- Sky Xu
+- Xavier Niel
+organisations:
+- AI
+- Asia-Pacific
+- Claure Group
+- Cornerstone
+- EU
+- European Commission
+- European Union
+- Everlane
+- Federal Trade Commission
+- IPO
+- Microsoft
+- Momentum Works
+- PDD
+- Reliance
+- Saxo
+- Shein
+- SoftBank 9984.T Vision Fund
+- Temu
+- Willett Advisors
+- eToro
 ---
 
 Shares in Shein dropped four per cent in its first day of Hong Kong trade on Tuesday, as investors worried about the impact of setbacks that long delayed its listing and have undermined its competitive advantages.

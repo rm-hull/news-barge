@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arlington Cemetery
+- Arlington Memorial Bridge
+- Arlington National Cemetery
+- Columbia Island
+- DC
+- Lincoln Memorial
+- Memorial Circle
+- U.S
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Doug Burgum
+- Karoline Leavitt
+- Tanya Chutkan
+organisations:
+- Capital in the World
+- National Park Service
+- Reflecting Pool
+- Trump
+- USA Today
 ---
 
 President Donald Trump announced that he's ready to begin construction on his proposed 250-foot "Great Triumphal Arch" in Washington, D.C., but a federal judge ruled on Friday that he must provide 48 hours notice before anything happens at the site.

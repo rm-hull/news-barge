@@ -14,6 +14,18 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California
+- Los Angeles
+- United States
+people:
+- Harlan
+organisations:
+- Crystal UHD
+- Mini LED
+- R.C
+- Samsung Electronics America
+- TCL North America
 ---
 
 Irvine-based consumer electronics firm TCL North America has filed a lawsuit against Samsung Electronics America, alleging the company falsely advertised its M Model televisions as featuring advanced Mini LED technology when the sets lack that feature.

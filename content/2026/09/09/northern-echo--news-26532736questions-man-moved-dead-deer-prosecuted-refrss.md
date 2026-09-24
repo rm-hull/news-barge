@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Barnard Castle
+- County Durham
+- Darlington Binns
+- Greta Bridge
+- Holmedale Benefice
+- Peterlee
+- Richmond
+- UK
+people:
+- Benjamin Elks
+- Cllr Grimes
+- Dalton
+- Darren Grimes
+- Guy Carpenter
+- Stuart Boulton
+organisations:
+- A66
+- Cleveland Police
+- Durham Council
+- Durham County Council
+- Durham Police
+- National Highways
+- TaxPayers' Alliance
+- Wetheriggs Animal Sanctuary
+- __Durham Police
 ---
 
 *(Image: CONTRIBUTOR / NORTHERN ECHO)*

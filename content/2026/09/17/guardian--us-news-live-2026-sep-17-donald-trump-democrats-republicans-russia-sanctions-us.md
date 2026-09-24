@@ -12,6 +12,78 @@ image: https://i.guim.co.uk/img/media/b608af4aa9b8a5d3f44c8c8b521c7023465562a9/0
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Canada
+- China
+- Cuba
+- Europe
+- Geneva
+- Iran
+- Kennedy Center
+- Kremlin
+- Miami
+- Minneapolis
+- Minnesota
+- Nebraska
+- New York
+- North Carolina
+- Russia
+- Strasbourg
+- Texas
+- US House
+- Ukraine
+- United States
+people:
+- Alex Pretti
+- Ben Raderstorf
+- Biden
+- Chamberlain
+- David Smith
+- Don Bacon
+- Donald Trump
+- Ed Augustin
+- Franklin Graham
+- Hakeem Jeffries
+- Ilhan Omar
+- Iryna Zarutska
+- Jeanne Shaheen
+- Joyce Beatty
+- Lee Schlenker
+- Marco Bello
+- Marco Rubio
+- Mark Carney
+- Mike Johnson
+- Mitch McConnell
+- Pete Hegseth
+- Renée Good
+- Roy Cooper
+- Thomas Massie
+- Ursula von der Leyen
+- Willie Horton
+organisations:
+- AP
+- CBP
+- Congress
+- Customs and Border Protection
+- Department of State
+- EU
+- European Commission
+- Federal Reserve
+- House
+- ICE
+- Immigration and Customs Enforcement
+- Independent International Fact-Finding Mission on Iran
+- Kennedy Center
+- Kyiv
+- Nato
+- Protect Democracy
+- Reuters One
+- Samaritan’s Purse
+- Senate Foreign Relations Committee
+- The Guardian
+- Trump Organization
+- UN Human Rights Council
 ---
 
 House Democratic leader Hakeem Jeffries said the Russia sanctions bill had “so many loopholes” as Congress passed the sweeping bill to give Donald Trump the power to raise tariffs on top buyers of Russian energy.

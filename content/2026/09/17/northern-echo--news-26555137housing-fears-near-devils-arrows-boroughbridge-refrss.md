@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Boroughbridge
+- Britain
+- Devil's Arrows
+- Devil’s Arrows
+- England
+- Marina Lane
+- NORTH YORKSHIRE
+- North Yorkshire
+- River Ure
+- Roecliffe Lane
+people: []
+organisations:
+- Arrows
+- Devil
+- North Yorkshire Council
 ---
 
 Residents and visitors have raised concerns after land surrounding one of North Yorkshire’s most important prehistoric monuments was put forward as a possible location for housing.

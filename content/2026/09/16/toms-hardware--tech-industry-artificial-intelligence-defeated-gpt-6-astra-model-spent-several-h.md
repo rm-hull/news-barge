@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/Nrm6dVjxQpX5QQxjFZiWHo-1200-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Minecraft.It
+- Mount Pleasant
+- Wisconsin
+people:
+- Creeper
+- Stephen Warwick
+- Tom
+- Twitch
+- Vals
+organisations:
+- Apple
+- Astra
+- Google News
+- Microsoft
+- OpenAI
+- Portal
+- TechRadar
+- Tom's Hardware
+- Vals AI
+- iMore
 ---
 
 ![Astra minecraft](https://cdn.mos.cms.futurecdn.net/Nrm6dVjxQpX5QQxjFZiWHo.jpg) 

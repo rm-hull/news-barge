@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Aarau
+- Aargau
+- Jura
+- Switzerland
+people:
+- '## Victim'
+- Bruno Gallo
+- Maria Spinelli
+- Matthias Schildknecht
+- Michael Leupold
+organisations:
+- AFP
 ---
 
 ## Police said two pistols and an AK-74 rifle were found in the suspect's vehicle, with initial forensic analysis linking the weapons to cartridge cases found at the scene.

@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Cairo Iran
+- Mayun
+- Middle East
+- Mokha
+- Perim
+- Red Sea
+- Saudi Arabia
+- U.S.
+- Yemen Iran
+people:
+- Claude
+- Rashad al-Alimi
+- Samy Magdy
+organisations:
+- AI
+- Anthropic
+- Claude Code
+- Foreign Ministry
+- IRNA
+- National Defense Council
+- U.N.
 ---
 
 Iranian-backed Houthi rebels in Yemen seized a key island on Friday, after taking a Red Sea port in a threat to international shipping. Iran called on Saudi Arabia to end its blockade of Yemen and immediately resume talks.

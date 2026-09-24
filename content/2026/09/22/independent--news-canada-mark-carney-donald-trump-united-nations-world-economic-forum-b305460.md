@@ -12,6 +12,24 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/23/UN_General_Assembly_Canada_7_1_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- India
+- Russia
+- U.S.
+- Ukraine
+people:
+- Anita Anand
+- Donald Trump
+- Mark Carney
+organisations:
+- European Union
+- General Assembly
+- Security Council
+- U.N
+- U.N.
+- United Nations
+- World Economic Forum
 ---
 
 Canada is embracing its growing prominence as a champion of “middle powers” at the U.N. General Assembly, Canada's top diplomat said in an interview Tuesday as the international community's biggest annual gathering got into gear.

@@ -15,6 +15,29 @@ categories:
 - York
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Staffordshire
+- UK
+people:
+- Brymer Jones
+- Clay
+- Denise Van Outen
+- Denise van Outen
+- Fatiha El Ghorri
+- Fatiha El-Ghorri
+- Keith Brymer Jones
+- Layton Williams
+- Liza Tarbuck
+- Lucy Beaumont
+- Lynn Rusk
+- Paul Merson
+- Rich Miller
+- Richard Herring
+organisations:
+- Channel 4
+- Gladstone Pottery
+- Sheffield’s Off the Shelf
+- The Big Breakfast
 ---
 
 # Keith Brymer Jones, Rich Miller and Liza Tarbuck on the new celebrity edition of The Great Pottery Throw Down

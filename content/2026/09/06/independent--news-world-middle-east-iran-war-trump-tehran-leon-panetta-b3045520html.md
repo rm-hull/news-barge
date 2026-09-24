@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/09/06/15/2167177814..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Middle East
+- Musandam
+- Oman
+- Strait of Hormuz
+- US
+- United States
+people:
+- Barack Obama
+- Chris Wright
+- Donald Trump
+- Leon Panetta
+- Mohammad Baqer Qalibaf
+organisations:
+- CIA
+- CNN
+- Islamic Revolutionary Guard Corps
+- Pentagon
+- Reuters
+- The Guardian
+- US Central Command
+- United States Navy
+- United States’
 ---
 
 The US war with Iran is likely to last another six months, according to former defence secretary Leon Panetta.

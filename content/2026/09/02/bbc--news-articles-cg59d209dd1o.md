@@ -12,6 +12,55 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4aa4/live/77faa4
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Clacton
+- Iran
+- Middle East
+- Russia
+- UK
+- US
+- Venice
+people:
+- '!["Brexit'
+- '!["Burnham'
+- '!["Katie'
+- '!["Kemi'
+- Amal
+- Andy Burnham
+- Brexit
+- Enzo Fernandez
+- George Clooney
+- Katie Price
+- Keir Starmer
+- Kemi Badenoch
+- Lee
+- Lord O'Neill
+- Masoud Pezeshkian
+- Nigel Farage
+- Thatcher
+- Vladimir Putin
+organisations:
+- '!["Markets'
+- Burnham
+- Chelsea
+- Conservative Party
+- Daily Express
+- Daily Mail
+- Daily Star
+- Daily Telegraph
+- Financial Times
+- Financial Times.
+- Goldman Sachs
+- Guardian
+- House of Commons
+- Manchester City
+- Metro
+- Premier League
+- Reform UK
+- Sun
+- The Times
+- Tory
 ---
 
 !["Brexit and Thatcher to blame for UK's era of low growth, says PM," reads the headline on the front page of the Guardian.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8cc6/live/ceb67ca0-a64b-11f1-b109-879e35c24276.jpg)

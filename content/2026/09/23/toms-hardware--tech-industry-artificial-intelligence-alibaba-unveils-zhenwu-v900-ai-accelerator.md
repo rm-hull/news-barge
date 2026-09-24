@@ -13,6 +13,34 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/f5rbsJfNhGBRpqAyBgmEw9-1200-80.png
+locations:
+- AI
+- China
+- New York
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Eddie Wu
+- Tom
+- Xi Jinping
+organisations:
+- AI
+- AP
+- Alibaba Cloud
+- Apsara Conference
+- EDA
+- Get Tom's Hardware
+- Google News
+- Huawei
+- Kimi K3
+- M890
+- Qwen3.8-Max
+- Shane Downing
+- SpaceX
+- T-Head
+- Tom’s Hardware US
+- Zhenwu
 ---
 
 ![A speaker on stage at Alibaba&#039;s 2026 Apsara Conference](https://cdn.mos.cms.futurecdn.net/f5rbsJfNhGBRpqAyBgmEw9.png)

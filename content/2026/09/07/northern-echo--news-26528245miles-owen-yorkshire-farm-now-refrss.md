@@ -13,6 +13,48 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Britain
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Wild
+- Yorkshire Dales
+people:
+- '## Miles Owen'
+- Anty John
+- Ben Fogle
+- Clive
+- Miles Owen
+- Owens
+- Raven
+- Ravenseat Amanda Owen
+- Reuben Miles'
+- Reuben Owen
+- Sid
+- Sidney
+organisations:
+- Anty John's
+- Boden
+- Channel 4
+- Channel 5
+- Clive and Kids
+- Countrywise
+- Crave Dog Foods
+- ITV
+- Miles
+- More4
+- Morrisons
+- New Lives
+- Our Yorkshire Farm
+- Our Yorkshire Farm Miles'
+- Our Yorkshire Farm TV
+- Quaker
+- Reuben's
+- The Dales
+- The Week Junior
+- Yorkshire Dales
 ---
 
 Miles Owen was still growing up when millions of viewers first watched him helping mum Amanda and dad Clive on their remote Yorkshire Dales farm.

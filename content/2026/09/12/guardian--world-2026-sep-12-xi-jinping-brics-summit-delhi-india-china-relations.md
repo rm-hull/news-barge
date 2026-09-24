@@ -11,6 +11,42 @@ image: https://i.guim.co.uk/img/media/cad574533a5de5a1eb333d303a2c514eb446b225/1
 categories:
 - UK
 - News & Politics
+locations:
+- Beijing
+- Brazil
+- Chatham House
+- China
+- Delhi
+- Egypt
+- Ethiopia
+- India
+- Indonesia
+- Iran
+- Middle East
+- Russia
+- Saudi Arabia
+- South Africa
+- South Asia
+- UAE
+- US
+- Ukraine
+- United Arab Emirates
+people:
+- Chietigj Bajpaee
+- Donald Trump
+- Jiang Shixue
+- Masoud Pezeshkian
+- Narendra Modi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Agence France-Presse
+- Brics
+- China thinktank Council for BRICs cooperation
+- G7
+- Reuters
+- South China Morning Post
+- UN
 ---
 
 The Chinese president, Xi Jinping, has received a red-carpet welcome in India for a summit of Brics developing nations, as regional rivals Beijing and Delhi make a public display of thawing relations while quietly competing to lead at a time of shaky US global dominance.

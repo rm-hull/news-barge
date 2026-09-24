@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cheshire
+- County Durham
+- Croft Rectory
+- Daresbury
+- Darlington Croft-on-Tees
+- England
+- North East
+- North Yorkshire
+- River Tees
+- River Thames
+- St Peter’s Church
+- Wonderland
+people:
+- '## Lewis Carroll'
+- Alice Liddell
+- Charles Dodgson
+- Charles Lutwidge Dodgson
+- Croft
+- Jabberwocky
+- Lewis Carroll
+- SARAH CALDECOTT
+organisations:
+- Alice’s Adventures
+- BBC
+- Cheshire Cat
+- Oxford University
+- Richmond School
+- Rugby School
+- St Peter’s Church
 ---
 
 Croft-on-Tees is a quiet village on the southern edge of Darlington — but it has an extraordinary claim to literary history as the childhood home of Lewis Carroll, creator of Alice’s Adventures in Wonderland.

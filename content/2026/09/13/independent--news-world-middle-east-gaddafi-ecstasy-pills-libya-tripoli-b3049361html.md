@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Europe
+- Libya
+- North Africa
+- Tripoli
+people:
+- Khalifa Haftar
+- Muammar Gaddafi
+organisations:
+- Al Rada for Combating Terrorism and Organized Crime
+- GNU
+- Government of National Unity
+- Presidential Council
+- U.N.
+- United Nations Office on Drugs and Crime
 ---
 
 Authorities in Libya have seized a shipment of tens of thousands of ecstasy pills, each marked with the face of ousted leader Muammar Gaddafi.

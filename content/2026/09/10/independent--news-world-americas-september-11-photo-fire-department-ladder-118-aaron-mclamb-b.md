@@ -15,6 +15,48 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Brooklyn Bridge
+- Brooklyn Heights
+- Brownsville
+- East River
+- Ground Zero
+- Leland
+- Manhattan
+- Marriott
+- Middagh Street
+- New York
+- New York City
+- North Carolina
+- Pennsylvania
+- Prospect Street
+- Shanksville
+people:
+- '![McLamb'
+- Aaron McLamb
+- Garrett McLamb
+- Gavin
+- Gerard McGibbon
+- Gina
+- John Sorrentino
+- Joseph Agnello
+- Ladder
+- Leon Smith
+- Martin Egan
+- Peter Vega
+- Robert Egan
+- Robert Regan
+- Robert Wallace
+- Scott Davidson
+- Vernon Cherry
+organisations:
+- Jehovah's Witnesses
+- Marriott Hotel
+- Pentagon
+- Port Authority
+- The Independent
+- United Airlines
+- World Trade Center
 ---
 
 Aaron McLamb was cleaning a bookbinding machine in a Brooklyn factory when he happened to glance out a window and see history unfolding on the morning of September 11, 2001.

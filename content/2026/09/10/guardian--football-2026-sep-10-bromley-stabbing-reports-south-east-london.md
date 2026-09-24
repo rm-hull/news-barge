@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Antonio’s Male Grooming
+- Bromley High Street
+- Bromley’s High Street
+- Kent
+- London
+- Metropolitan
+people:
+- George Ioannou
+- Peter Fortune
+organisations:
+- Biggin Hill
+- KFC
 ---
 
 Seven people have been arrested after four men were stabbed in south-east London, the Metropolitan police said.

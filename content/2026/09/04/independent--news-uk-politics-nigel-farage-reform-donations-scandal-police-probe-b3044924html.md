@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/09/04/18/01M1PRGPN4CH42R64NFJYCCSTH
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Birmingham
+- Clacton
+- France
+- Restore Britain
+- US
+people:
+- Aaron Banks
+- Brexit
+- Christopher Harborne
+- Dan Jukes
+- James Orr
+- Jordan Bardella
+- Keir Starmer
+- Luke Tryl
+- Nigel Farage
+organisations:
+- Channel 4
+- Channel 4 News
+- Commons
+- Labour
+- Lib Dems
+- Metropolitan Police
+- Reform UK
+- Standards Commissioner
+- The Sun
+- Verbatim
 ---
 
 An embattled Nigel Farage is fighting for his political survival as a major donations scandal completely overshadowed what Reform UK hoped would be a major comeback speech at its party conference in Birmingham.

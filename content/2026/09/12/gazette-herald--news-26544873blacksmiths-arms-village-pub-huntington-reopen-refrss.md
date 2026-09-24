@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Huntington
+- UK
+- York Central
+people:
+- Ana Mattless
+- Angela Rayner
+- Babs
+- Don Mattless
+organisations:
+- Blacksmith Arms
+- Blacksmiths Arms
+- Stonegate Group
+- The Blacksmiths Arms
 ---
 
 *(Image: Stonegate)*

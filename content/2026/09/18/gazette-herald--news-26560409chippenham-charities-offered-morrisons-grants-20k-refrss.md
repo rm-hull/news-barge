@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Chippenham
+- England
+- Scotland
+- Wales
+people:
+- David Scott
+- Mel Cook
+organisations:
+- Connecting Communities
+- Morrisons Foundation
 ---
 
 *(Image: Supplied)*

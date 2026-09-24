@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Kirkbymoorside
+- North Yorkshire
+- Ryedale
+- Scarborough
+- St Chad’s Church
+- York
+people:
+- Martin Dennison
+organisations:
+- Ryedale Neighbourhood Policing Team
 ---
 
 Two teenagers have been charged following an extensive police investigation.

@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Boston
+- California.
+- Gaza
+- Gillette Stadium
+- New Jersey
+- Palestine
+- Pennsylvania
+- Philadelphia
+- San Jose
+- San Jose McEnery Convention Center
+- US
+people:
+- Aaron Rowe
+- Benjamin Haggerty
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Beoga
+- Hamas
+- Kraft Group
+- New England Patriots
+- Sheeran
 ---
 
 Will Ed Sheeran cancel his tour as support acts quit?

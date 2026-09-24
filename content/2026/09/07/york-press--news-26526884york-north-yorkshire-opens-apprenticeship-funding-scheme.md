@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- York
+people:
+- David Skaith
+- Riley Skinner
+- Sara Jeffs
+organisations:
+- '**York College'
+- Apprenticeship Levy Transfer Scheme
+- North Yorkshire Combined Authority
+- People and Transformation at York
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Pic supplied)*

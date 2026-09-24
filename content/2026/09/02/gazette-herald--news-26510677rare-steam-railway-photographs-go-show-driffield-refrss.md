@@ -14,6 +14,23 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Derwent Valley Light Railway
+- Driffield Community Centre
+- Keighley
+- London
+- North Yorkshire Moors
+- Selby
+- UK
+- Worth Valley Railways
+people:
+- Charlie Williams
+- Tony Arnold
+organisations:
+- EYRS
+- East Yorkshire Railway Society
+- Hull Bus Restorers
+- Hull Railway Correspondence & Travel Society
 ---
 
 A railway society is hosting a special meeting showcasing preserved steam photographs.

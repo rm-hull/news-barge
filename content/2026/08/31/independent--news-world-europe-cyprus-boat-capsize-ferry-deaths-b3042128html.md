@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Cyprus
+- Kyrenia
+- Mersin
+- Tasucu
+- Turkey
+people:
+- Ayten Bicer
+- Hayri Bicer
+- Mehmet Asaf
+- Miray
+organisations: []
 ---
 
 Ayten Bicer felt her 12-year-old daughter slip from her hands and disappear as a ferry capsized off northern Cyprus on Sunday, killing at least eight people.

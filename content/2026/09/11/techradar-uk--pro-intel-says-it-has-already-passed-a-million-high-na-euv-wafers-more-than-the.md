@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/dqr8ZLorxU7QQWv8765JTQ-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Monterey
+- Panther Lake
+- US
+people:
+- Rahim Amir
+organisations:
+- ASML
+- EUV Lithography
+- EXE
+- Google News
+- Greet Storms
+- Intel Foundry
+- Nvidia
+- PC
+- PCs
+- RGB
+- SFF
+- SK Hynix
+- SPIE
+- Samsung
+- TSMC
+- TechRadar Pro
 ---
 
 ![ASML High NA EUV](https://cdn.mos.cms.futurecdn.net/dqr8ZLorxU7QQWv8765JTQ.jpg) 

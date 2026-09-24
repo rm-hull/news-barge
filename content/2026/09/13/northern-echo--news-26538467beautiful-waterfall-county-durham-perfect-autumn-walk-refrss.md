@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bowlees Visitor Centre
+- Bowless Car Park
+- County Durham
+- Darlington
+- Historic County Durham
+- Low Force Waterfall
+- Upper Teesdale
+- Wynch Bridge
+people: []
+organisations:
+- High Force
+- High Force!
+- Low Force Waterfall
+- Tripadvisor
 ---
 
 *(Image: Getty)*

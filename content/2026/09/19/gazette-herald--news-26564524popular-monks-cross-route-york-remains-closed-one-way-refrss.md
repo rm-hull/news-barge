@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21476001.jpg?type=og-image
+locations:
+- Chesterfield
+- Community Stadium
+- Hopgrove
+- Malton Road
+- Monks Cross
+- Monks Cross Link Road
+- Outer Ring Road
+- Primark
+- Vangarde
+people: []
+organisations:
+- Minstermen
+- Monks Cross Shopping Centre
+- Newsquest
+- Rotherham
+- York City FC
 ---
 
 *(Image: Newsquest)*

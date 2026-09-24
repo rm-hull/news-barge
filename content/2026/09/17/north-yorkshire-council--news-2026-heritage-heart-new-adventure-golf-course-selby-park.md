@@ -15,6 +15,23 @@ categories:
 - Harrogate
 - Government
 - Travel
+locations:
+- River Ouse
+- Selby Abbey
+- Selby Park
+- Station Gateway
+- Sweden
+people:
+- Cllr Malcolm Taylor
+- Parks
+- Selby
+organisations:
+- Abbey Quarter
+- NY Highways
+- North Yorkshire Council
+- Phase 1
+- RL Golf
+- Selby Park Development Project
 ---
 
 ![New nine-hole adventure golf facility at Selby Park](https://www.northyorks.gov.uk/sites/default/files/2026-09/2SelbyParkGolf.jpg) 

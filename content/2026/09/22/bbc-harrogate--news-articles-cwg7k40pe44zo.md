@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aaa1/live/893b95a0-b692-11f1-99b0-21d40bed432b.png
+locations:
+- B1249
+- Driffield
+- East Yorkshire
+- Foxholes
+- Langtoft
+- North Yorkshire
+- Scarborough
+people: []
+organisations: []
 ---
 
 ![Road signs on a rural junction of the B1249. One sign points towards Langtoft and Driffield, while another points towards Foxholes and Scarborough. Hedges and open countryside can be seen behind the signs.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/aaa1/live/893b95a0-b692-11f1-99b0-21d40bed432b.png)

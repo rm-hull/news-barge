@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/c0b8903dff3ef46059e3f3d4c98f9c6a84df885f/593_0_4120_3296/master/4120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28cfbd848e10e3d68f8c25456d1be5e4
+locations:
+- Brighton
+- England
+- Europe
+- Harrogate
+- Knaresborough
+- Restore Britain
+people:
+- Daisy Cooper
+- Ed Davey
+- Laura Kuenssberg
+- Nigel Farage
+- Rupert Lowe
+- Tom Gordon
+organisations:
+- BBC
+- EU
+- Gail’s
+- Greens
+- Lib Dem
+- Lib Dems
+- Reform UK
+- Restore Britain
+- Treasury
 ---
 
 The Liberal Democrats have used their conference to unveil a £2bn plan to cut fuel duty, part of a series of policy proposals intended to tackle worries that not enough voters know what Ed Davey’s party stands for.

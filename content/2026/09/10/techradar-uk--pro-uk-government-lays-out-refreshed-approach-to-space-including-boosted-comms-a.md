@@ -11,6 +11,41 @@ image: https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B-2121-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Britain
+- Shetland
+- UK
+people:
+- Christian Cawley
+- Joanne Wheeler
+- Jonathan Reynolds
+- MBE
+- Wes Streeting
+organisations:
+- ADS Group
+- Computer Weekly
+- ComputerActive
+- Defence Investment Plan
+- ESA
+- Earth & Space Sustainability Initiative
+- European Space Agency
+- Google News
+- Houses of Parliament
+- ISAM
+- Linux Format
+- Low Earth Orbit
+- Matter Alpha
+- Met Office
+- NATO
+- Rosalind Franklin Mars Rover
+- SaxaVord Spaceport
+- Space Academic Network
+- Streeting
+- TechRadar Pro
+- UK Space Strategy
+- UKspace
+- Vigil
+- Westminster Bridge
 ---
 
 ![The Houses of Parliament and Westminster Bridge](https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B.jpg) 

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Anaheim
+- Southern California
+people:
+- Jose Medrano
+- Kaitlyn Aldana
+organisations:
+- La Habra
+- Los Angeles County Fire Department
 ---
 
 Authorities in Southern California responded to a slow leak from a chemical tank on Tuesday but quickly got it under control.

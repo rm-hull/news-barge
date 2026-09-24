@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Food & Cooking
+locations:
+- Atlantic Ocean
+- Birmingham
+- Britain
+- Cambridge
+- Canary Wharf
+- Europe
+- Glasgow
+- Leeds
+- Liverpool
+- London
+- Manchester
+- Milton Keynes
+- Nashville
+- Reading
+- Solihull
+- Stevenage
+- Texas
+- UK
+- US
+people:
+- '### Chuck E. Cheese Chuck E. Cheese'
+- Alistair Burnett
+- Chuck E. Cheese
+- Dave
+- Wingstop
+organisations:
+- '### Houston Hot Chicken Houston Hot Chicken'
+- Angus Steakhouse
+- Cadbury
+- Chick-fil-A
+- Chuck E Cheese
+- Grill & Bar
+- Hot Chicken
+- McDonald’s
+- Popeyes
+- Restaurant
+- US Tex Mex
+- Wendy's
 ---
 
 A number of US-based fast food chains are set to open branches for the first time in the UK later in 2026.

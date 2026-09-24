@@ -11,6 +11,21 @@ image: https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+people: []
+organisations:
+- AI
+- ChatGPT
+- Gemini
+- Google
+- LLM
+- LLMs
+- LM Studio Bionic
+- Meta
+- Nvidia
+- RAM
+- vLLM
 ---
 
 It's no exaggeration to say the large language models that power AI bots like ChatGPT and Gemini are changing the world. Many of us are now relying on them for coding, writing, summarizing, and searching the web. Whatever directions AI goes in over the next few years, LLMs will be part of that future.

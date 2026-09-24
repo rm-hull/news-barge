@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/00/29/1200x675_cmsv2_aa536858-7815-5a4a-9fdb-19a72dabc79e-9920029.jpg
+locations:
+- The Hague
+people: []
+organisations: []
 ---
 
 A far-right demonstration in The Hague descended into violence on Saturday as protesters clashed with Dutch police.

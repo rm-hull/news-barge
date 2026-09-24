@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Canada
+- London
+- London’s O2 Arena
+- U.K.
+- U.S.
+people:
+- Ariana Grande
+organisations:
+- People magazine
 ---
 
 Ariana Grande’s final words, before she stepped offstage and out of the spotlight, were for her fans.

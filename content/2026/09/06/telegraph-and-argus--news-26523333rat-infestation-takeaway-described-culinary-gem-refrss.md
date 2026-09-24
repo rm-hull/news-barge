@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bradford
+- Girlington
+- Willow St
+- Willow Street
+people:
+- Abaseen Peshawari
+organisations:
+- Abaseen Peshawari Chapal Kebabs
+- BRADFORD
+- Bradford Council
+- Google Maps
 ---
 
 *(Image: Google Maps)*

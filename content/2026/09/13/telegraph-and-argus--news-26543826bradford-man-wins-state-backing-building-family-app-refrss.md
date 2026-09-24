@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Holland
+- Sweden
+- UK
+- Wibsey
+people:
+- Ben Peel
+- John Robert
+- Nuity
+organisations:
+- Almi
+- Botanic Request Gin
+- Buttershaw Upper School
+- Nuity
+- Sipsmith
 ---
 
 *(Image: Supplied)*

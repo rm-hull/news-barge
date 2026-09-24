@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- A68 Woodland Road
+- B6279 Freemans Place
+- B6280 Parkgate
+- Bishop Auckland
+- Borough Road
+- Bracken Road
+- Corporation Road
+- County Durham
+- Darlington
+- Gladstone Street
+- Hollyhurst Road
+- Neasham Road
+- North East
+- North East.
+- Northern Rail
+- Rochester Way
+- Teesside
+- Thornton Street
+- Tyne and Wear Metro
+- Upper Russell Street Eastbound
+- Winchester Way
+people: []
+organisations:
+- A1
+- A19
+- A66
+- AA Traffic Maps
+- Cross Country
+- LNER
+- Met Office
+- Newcastle Airports
+- The Northern Echo
+- TransPennine
 ---
 
 *(Image: THE NORTHER ECHO)*

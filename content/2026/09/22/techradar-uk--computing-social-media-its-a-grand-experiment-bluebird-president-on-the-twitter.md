@@ -14,6 +14,40 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/Kq2mN72zLVUoYMopaY9pc-1920-80.jpg
+locations: []
+people:
+- Dick Costolo
+- Lance Ulanoff
+- Osama Bin Laden
+- Stephen Coates
+- Stephen Coates Coates
+- Stephen J. Coates
+- X. Hence
+organisations:
+- App Store
+- BBC
+- Bluebird
+- Bluebird, Inc
+- Bluebird, Inc.
+- CNBC
+- CNN
+- Elon Musk
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Meta
+- Reddit
+- TikTok
+- Today Show
+- Tweet.app
+- Twitter
+- Twitter.now
+- X
+- Ziff Davis, Inc
 ---
 
 ![Tweet App](https://cdn.mos.cms.futurecdn.net/Kq2mN72zLVUoYMopaY9pc.jpg)

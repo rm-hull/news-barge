@@ -13,6 +13,33 @@ image: https://static.independent.co.uk/2026/08/11/20/44/GettyImages-2279557870.
 categories:
 - News & Politics
 - UK
+locations:
+- Concert Hall
+- Grand Foyer
+- Kennedy Center
+- Ohio
+- Washington, D.C.
+- White House
+people:
+- Christopher Cooper
+- Donald J Trump
+- Donald Trump
+- Joyce Beatty
+- Kennedy
+- Nathaniel Zelinsky
+- Norm Eisen
+organisations:
+- Building
+- Congress
+- DOJ
+- Department of Justice
+- John F Kennedy Memorial Center for the Performing Arts
+- Kennedy Center
+- The Independent
+- The New York Times
+- Trump Kennedy Center Fund
+- Trump’
+- Washington Post
 ---
 
 The John F Kennedy Memorial Center for the Performing Arts in Washington, D.C., is facing “certain fiscal collapse” in a matter of weeks if President Donald Trump’s name is not restored to the front of the building, according to its leadership.

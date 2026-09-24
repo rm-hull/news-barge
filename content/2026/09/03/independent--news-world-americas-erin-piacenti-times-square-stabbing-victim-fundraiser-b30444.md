@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Fordham
+- Madison
+- Manhattan
+- New York
+- Queens
+- Times Square
+people:
+- Erin Piacenti
+- Frank
+- GoFundMe
+- Jessica Tisch
+- Madison
+- Pamela Cisneros
+organisations:
+- Alpha Phi
+- Bank of America
+- Fordham Law School
+- GoFundMe
+- NYPD
+- The New York Times
+- University of Pennsylvania
 ---
 
 A fundraiser for the newborn daughter of Erin Piacenti, the Bank of America vice president who was fatally stabbed in Times Square, raised over $650,000 within a day.

@@ -12,6 +12,37 @@ image: https://images.euronews.com/articles/stories/09/90/19/45/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Birmingham
+- Britain
+- Calais
+- England
+- Europe
+- France
+- London
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Emmanuel Macron
+- Jean-Marie Le Pen
+- Jordan Bardella
+- Marine
+- Nigel Farage
+- Verbatim
+organisations:
+- Channel 4 News
+- Electoral Commission
+- European Parliament
+- Labour
+- Le Pen
+- Metropolitan Police
+- National Front
+- National Rally
+- National Rally Party
+- National Rally party
+- Reform UK
+- Reform UK Party
 ---
 
 ## At the Reform UK Party conference on Friday, Nigel Farage and Jordan Bardella signed an agreement, vowing to end irregular migrant crossings "forever", should their respective parties come to power.

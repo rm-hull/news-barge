@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Chatsworth
+- Los Angeles
+- Los Angeles Metro
+- Lurline Avenue
+- Nordhoff Street
+people:
+- Capt Branden Silverman
+- Karen Bass
+organisations:
+- Federal Aviation Administration
+- Fire Department
+- LAFD
+- LAPD
+- Los Angeles Fire Department
+- Los Angeles Police Department
+- MTA
+- NBC4 Los Angeles
+- National Transportation Safety Board
+- SUV
 ---
 
 At least three people died after a news helicopter crashed into a parking lot in Los Angeles, according to officials and local media reports.

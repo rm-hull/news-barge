@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amsterdam
+- Billingham
+- Darlington Fundraiser
+- James Cook University Hospital
+- Middlesbrough
+- Newcastle
+- Riverside Stadium
+- Royal Victoria Infirmary
+- Teesside Hospice
+- The Longlands
+people:
+- Ed Sheeran
+- Ethan Strike
+- Kirstie Halliday
+- Lola Moon-Halliday
+organisations:
+- DMG
+- GoFundMe
+- Lola
+- Middlesbrough FC
+- Stage 4
 ---
 
 An 18-year-old Teesside man is determined to make the most of every moment after being diagnosed with a rare, aggressive brain tumour.

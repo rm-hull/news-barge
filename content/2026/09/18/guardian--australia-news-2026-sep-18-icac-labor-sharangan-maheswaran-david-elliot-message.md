@@ -13,6 +13,39 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people:
+- Alex] Hawke
+- Anwalt
+- Ashlyn Nassif
+- Beckington
+- Charles Perrottet
+- Christian Ellis
+- David Elliott
+- Dwyer
+- Elliot
+- Evelyn Helou
+- Jean Nassif
+- Jeremy Greenwood
+- Karen Pensabene
+- Matthew Blackmore
+- Sharangan Maheswaran
+- Toplace
+organisations:
+- ALP
+- Anwalt Pty Ltd
+- Beckington
+- EA Legal
+- Greenwood
+- Guardian Australia
+- Icac
+- Independent Commission Against Corruption
+- Labor Strathfield
+- NSW Liberal
+- SMH
+- Sydney Morning Herald
+- Toplace
+- Westpac
 ---
 
 A former Labor councillor says he had a “common interest” with a conservative Liberal operative, but denied that a message he received about damaging the reputation of NSW Liberal minister David Elliott was related to political work for a fugitive property developer, an inquiry has heard.

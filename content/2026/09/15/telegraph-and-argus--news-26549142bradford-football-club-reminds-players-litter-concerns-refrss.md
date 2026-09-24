@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Primrose Lane
+people:
+- Clayton
+organisations:
+- BRADFORD
+- Clayton Albion
+- Clayton Albion AFC
+- Pixabay
 ---
 
 *(Image: Pixabay)*

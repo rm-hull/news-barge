@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- '"[Australia'
+- Adelaide
+- Australia
+- Brook
+- England
+- India
+- Pakistan
+- Pietermaritzburg
+- Sedbergh
+- South Africa
+- Southampton
+- Sri Lanka
+- The Oval
+people:
+- ):** Brook
+- ):** Wellalage
+- Aneurin Donald
+- Ben Stokes
+- Glenn McGrath
+- Harry Brook
+- Jofra Archer
+- Jos Buttler
+- Kevin Pietersen
+- Sam Curran
+- Shane Warne
+- Shubman Gill
+- Sonny Baker
+- SouthamptonEngland
+- Steven Finn
+- Travis Head
+- Yorkshireman
+organisations:
+- Brook & Baker
+- England XI
+- KP
+- TV
+- TikTok
 ---
 
 Brook's brilliant 100 against Sri Lanka

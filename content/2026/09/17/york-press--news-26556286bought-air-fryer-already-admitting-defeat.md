@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- China
+- Haxby Road
+- Huntington Road
+- LTN
+- London
+- The Groves
+- York
+people:
+- John Jones
+- Matthew Laverack
+- Phil Shepherdson
+organisations:
+- CMS
+- Child Maintenance Service
+- Panorama
 ---
 
 **I bought an air fryer and I'm already admitting defeat**

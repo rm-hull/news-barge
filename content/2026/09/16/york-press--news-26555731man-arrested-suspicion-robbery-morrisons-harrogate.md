@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- King Edward’s Drive
+- North Yorkshire
+people: []
+organisations:
+- Morrisons Daily
+- North Yorkshire Police
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Brackenfield
+- Harrogate
+people:
+- Brackenfield
+- Joe Masterson
+- John Forsyth
+- Phil Soutar
+organisations:
+- Ashville College
+- Brackenfield School
+- Executive Council of the Independent Schools Association
+- Forfar Education
+- Harrogate
+- Head of Prep
+- ISA
+- Interim Head
+- Prep School Head
 ---
 
 Brackenfield School is celebrating the significant contribution of Headmaster Mr. Joe Masterson. The school is delighted to announce the appointment of Mr. Phil Soutar as Interim Head from September 2026.

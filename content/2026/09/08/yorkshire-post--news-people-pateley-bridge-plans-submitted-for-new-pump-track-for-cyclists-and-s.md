@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- North Yorkshire
+- Pateley Bridge
+people:
+- David Skaith
+organisations:
+- BMX
+- Millennium Green
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- North Yorkshire Sport
+- Pateley Bridge Town Council
+- Sport England’s Movement Fund
+- York
 ---
 
 # Pateley Bridge: Plans submitted for new 'pump track' for cyclists and skateboarders in North Yorkshire

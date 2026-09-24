@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Egypt
+- Greece
+- India
+- Morocco
+- Spain
+people:
+- ChatGPT
+- Claude.
+- Yesim
+organisations:
+- Gemini
+- Motorola
+- Samsung
+- World Players Super League
+- Yesim
+- eSIM
 ---
 
 *(Image: Supplied)*

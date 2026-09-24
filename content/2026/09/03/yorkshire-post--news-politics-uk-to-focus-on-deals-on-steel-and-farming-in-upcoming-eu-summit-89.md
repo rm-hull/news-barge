@@ -15,6 +15,28 @@ categories:
 - York
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Britain
+- Danny Lawson
+- Downing Street
+- Europe
+- France
+- Lincolnshire
+- PA
+- Scunthorpe
+- UK
+people:
+- Andy Burnham
+- Benoit Tessier
+- Ed Davey
+- Emmanuel Macron
+organisations:
+- Brexit
+- British Steel
+- Community Union
+- EU
+- European Union
+- UK Government
 ---
 
 # UK to focus on getting 'good deal' on steel and farming in upcoming EU summit

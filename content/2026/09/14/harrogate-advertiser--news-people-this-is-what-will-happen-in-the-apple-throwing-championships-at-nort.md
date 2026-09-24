@@ -13,6 +13,27 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Australia
+- Brazil
+- Newby Hall
+- North Yorkshire
+- River Ure
+people:
+- Andrew Pern
+- Lawrence Wright
+- Lucas Robinson
+- Newby
+- Stuart Gill
+- Yulin Luo
+organisations:
+- Beijing‑based
+- Harrogate Spa Town Ukes
+- Michelin‑starred
+- Newby Hall
+- Newby Hall Commercial
+- Northern Fruit Group
+- Workington
 ---
 
 # This is what will happen in the Apple Throwing Championships at North Yorkshire stately home

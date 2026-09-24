@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473885.jpg?type=og-image
+locations:
+- London
+- UK
+people:
+- Abbie Upton
+organisations:
+- Richard Nelson LLP
 ---
 
 *(Image: Supplied)*

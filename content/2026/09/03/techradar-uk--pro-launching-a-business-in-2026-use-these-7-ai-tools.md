@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- India
+- Jasper
+- West Bengal
+people:
+- Jasper
+- Ritoban Mukherjee
+- Tidio
+organisations:
+- AI Agents
+- AI Workplace
+- Canva Pro
+- Creative Bloq
+- Gizmodo
+- IT Pro
+- Intuit
+- Jasper's Creator
+- Lyro AI
+- Mailchimp
+- Quartz
+- QuickBooks
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
 ---
 
 ![woman in an office starting a small business](https://cdn.mos.cms.futurecdn.net/irTiCRq4cLRz7XovGAmcx8.jpg) 

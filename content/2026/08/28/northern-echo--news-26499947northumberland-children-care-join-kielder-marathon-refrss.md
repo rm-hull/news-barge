@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Britain
+- County Durham
+- Kielder Marathon
+- Kielder Water
+- Northumberland
+people:
+- Allison Curbishley
+- Wendy Pattison
+organisations:
+- A66
+- Altra
+- Cleveland Police
+- Events of the North
+- Ex-Durham
+- Forestry England
+- Northumberland County Council
+- Northumbrian Water
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baltic Sea
+- Black Sea
+- Copenhagen
+- Denmark
+- Donetsk
+- Kostiantynivka
+- Kyiv
+- Moscow
+- Odesa
+- Russia
+- Sandhurst
+- South Carolina
+- UK
+- US House
+- Ukraine
+- Yaroslavl
+- Zaporizhzhia
+people:
+- Andrei Belousov
+- Anton Grunis
+- Apti Alaudinov
+- Kostiantynivka
+- Lindsey Graham
+- Mikhail Yevrayev
+- Paul Wilks
+- Robert Brovdi
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Gold Star
+- Intelligence Corps
+- Kyiv
+- Ministry of Defence
+- MoD
+- Reuters
+- Shahed
+- Telegram
+- The Independent
+- US House of Representatives
+- Unmanned Systems Forces
 ---
 
 Ukraine says its drone forces have killed a Russian general in eastern Ukraine just weeks after he was decorated as a "war hero" by Vladimir Putin.

@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- London
+- National Gallery
+- New York
+- St Martin-in-the-Fields
+- Trafalgar Square
+people:
+- Andra Ursuta
+- Ecce Homo
+- Ekow Eshun
+- Justine Simons
+- Mark Wallinger
+- Mil Veces un Instante
+- Teresa Margolles
+- Tschabalala Self
+- William IV
+organisations:
+- BBC London
+- BBC Radio London
+- Fourth Plinth Commissioning Group
+- National Gallery
+- RSA
+- Tschabalala Self
 ---
 
 ![A bronze sculpture of a black woman wearing a vivid lapis lazuli blue dress and matching heels, depicted in mid-stride atop the Fourth Plinth in Trafalgar Square. The National Gallery dome and St Martin-in-the-Fields church are visible under a bright blue sky in the background.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/8ffc/live/9243db60-acfd-11f1-beae-535b95a24b3e.jpg)

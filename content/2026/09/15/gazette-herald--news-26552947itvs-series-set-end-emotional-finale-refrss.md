@@ -14,6 +14,32 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Coronation Street
+- East London
+- Good Morning Britain
+people:
+- Andrew
+- Asif Kapadia
+- Bruce
+- Jackie
+- Jo Clinton-Davis
+- John
+- Kate Garraway
+- Michael Apted
+- Nick Hitchon
+- Peter
+- Sue
+- Suzy Dewey
+- Tony
+organisations:
+- '## ITV'
+- Emmerdale
+- Financial Times
+- ITVX
+- Line of Duty
+- MultiStory Media
+- Queen Mary University of London
 ---
 
 *(Image: ITV)*

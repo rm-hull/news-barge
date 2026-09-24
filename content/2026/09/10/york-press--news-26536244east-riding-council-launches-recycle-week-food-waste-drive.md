@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bridlington Hinge Centre
+- East Riding
+- Hornsea Hub
+- Pocklington
+people:
+- Paul West
+organisations:
+- Driffield Library and Customer Service Centre
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

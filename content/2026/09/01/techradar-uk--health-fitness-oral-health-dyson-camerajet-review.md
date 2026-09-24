@@ -10,6 +10,31 @@ description: Smile, you're on camera.
 image: https://cdn.mos.cms.futurecdn.net/tF6Dk5vQsUhHSncd9yVHya-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Dyson CameraJet
+- Dyson Mouthrinse
+- MyDyson
+- Paris
+- US
+people:
+- CameraJet
+- Dyson Camerajet
+- Dyson Toothpaste
+- Emily Peck
+- Ii
+- James Dyson
+organisations:
+- Dyson CameraJet
+- Dyson Mouthrinse
+- Dyson Toothpaste
+- GQ
+- Ideal Home
+- Livingetc
+- MyDyson CameraJet
+- Philips
+- TechRadar
+- USB-C
+- Wired
 ---
 
 ### TechRadar Verdict

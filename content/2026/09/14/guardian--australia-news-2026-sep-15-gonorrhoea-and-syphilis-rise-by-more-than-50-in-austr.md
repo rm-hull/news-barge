@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Torres Strait
+people:
+- Modelling
+- Skye McGregor
+organisations:
+- Kirby Institute
+- National Aboriginal Community Controlled Health Organisation
+- UNSW
+- UNSW’s Kirby Institute
 ---
 
 Rates of reported gonorrhoea and infectious syphilis have increased by more than 50% across Australia over the past decade, with experts warning of concerning rises among women.

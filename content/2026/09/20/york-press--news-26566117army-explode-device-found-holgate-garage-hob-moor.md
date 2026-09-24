@@ -12,6 +12,15 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21476697.jpg?type=og-image
+locations:
+- Acomb Road
+- Hob Moor
+- Holgate
+- Windmill Rise
+- York
+people: []
+organisations:
+- Army
 ---
 
 ## Drama in York as Army explode device on Hob Moor

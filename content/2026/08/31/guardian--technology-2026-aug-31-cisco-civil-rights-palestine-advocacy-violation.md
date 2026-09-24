@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- California
+- Gaza
+- Israel
+- Jerusalem
+- Middle Eastern
+- Palestine
+- San Jose
+people:
+- Christopher Ho
+- Margaret Ly
+organisations:
+- American Friends Service Committee
+- B2H
+- Bridge to Humanity”
+- Cisco
+- Connected Jewish Network
+- EEOC
+- Guardian
+- Hamas
+- Legal Aid at Work
+- National Labor Relations Board
+- Politico Pro
+- US Equal Employment Opportunity Commission
 ---
 
 The US Equal Employment Opportunity Commission, the agency tasked with enforcing federal anti-discrimination laws, has found that Cisco, the global tech company, probably violated the civil rights of Middle Eastern, Muslim and other company employees.

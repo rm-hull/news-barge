@@ -13,6 +13,22 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/13/16/Botley-Road-opening-bus-trials-16-09-263.png?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+locations:
+- Botley Road
+- Millennium Bridge
+- Network Rail
+- Oxford
+- Wales
+people:
+- Julian Le Vay
+- Richard Holden
+- Tim Walden
+organisations:
+- Bank of England
+- London Eye
+- Network Rail
+- Oxford Mail
+- The Telegraph
 ---
 
 A project to build a short railway bridge in Oxford has cost nearly £90m more than the London Eye, it has been revealed.

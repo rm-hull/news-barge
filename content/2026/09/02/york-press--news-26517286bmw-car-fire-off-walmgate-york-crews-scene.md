@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Fishergate
+- Foss Islands Road
+- Hope Street
+- Navigation Road
+- Walmgate
+- York
+people: []
+organisations:
+- BMW
+- The Press
 ---
 
 *(Image: Supplied)*

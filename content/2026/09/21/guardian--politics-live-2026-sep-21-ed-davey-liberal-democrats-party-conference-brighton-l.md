@@ -12,6 +12,125 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e16264a87a01723a944da45d56fb1d28f0c66fcc/359_0_4443_3554/master/4443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3faa1b5246072cbbd8a3420de0da5a1d
+locations:
+- Aberbargoed
+- Bangor Conwy Môn
+- Big Tech
+- Brazil
+- Brighton
+- Britain
+- Cardiff
+- Cheltenham
+- Devon
+- Downing Street
+- Dundee
+- England
+- Gwent
+- Iran
+- Iraq
+- Keir Starmer
+- NHS
+- Neath
+- New York
+- Ofwat
+- Port Talbot
+- Rochdale
+- Senedd
+- UK
+- US
+- Ukraine
+- Wales
+- Westminster
+- White House
+people:
+- Alexandra Topping
+- Andy Burnham
+- Anna Sabine
+- Ben Birchall
+- Ben Quinn Ben Quinn
+- Ben Riley-Smithin
+- Dan Thomas
+- David Steel
+- Donald Trump
+- Ed Davey
+- Fortnum
+- Helen Jenner
+- Helen Morgan
+- James Evans
+- John Curtice
+- Julian Brazil
+- Justin Webb
+- Keir Starmer
+- Kemi Badenoch
+- Lib Dems Ed Davey
+- Lisa Smart
+- Mark Carney
+- Mason
+- Max Wilkinson
+- Michael Marra
+- Nigel Farage
+- Nigel] Farage
+- PA Helen Jenner
+- PA Max Wilkinson
+- Paul Smith
+- Peter Walker
+- Peter Walker Peter Walker
+- Pippa Crerar
+- Prof Curtice
+- Robert Jenrick
+- Shabana Mahmood
+- Shutterstock Helen Jenner
+- Stefan Rousseau
+- Tim Farron
+- Wera Hobhouse
+- Yvette Cooper
+organisations:
+- BBC Breakfast
+- Brexit
+- Claridge’s
+- Clean Water Authority
+- Commons
+- Department of Health and Social Care
+- ECHR
+- EU
+- Gary Roberts Photography
+- Greens
+- Guardian
+- Hazel Grove
+- Hillsborough Disaster
+- ITV Cymru Wales
+- ITV Wales
+- Kemi Badenoch
+- Labour
+- Lib Dem
+- Lib Dem Cabinet Office
+- Lib Dems
+- Lib Dems'
+- Liberal Democrat
+- Liberal Democrats
+- Meta
+- NATO
+- NHS
+- Ofwat
+- PA How Lib Dems
+- PA Lib Dems
+- PFAS
+- Plaid Cymru
+- Press Association
+- Reform UK
+- Reform UK Wales
+- Senedd
+- Sky News
+- Sky News Davey
+- Sunday Times
+- Tories and Reform UK
+- Tory
+- Treasury
+- UN
+- Ukip
+- VisitBritain
+- Westminster
+- YouGov / Barn Cymru
 ---
 
 Farage names Helen Jenner as Reform UK's Welsh leader, saying resignation of predecessor after arrest just 'bump in road'

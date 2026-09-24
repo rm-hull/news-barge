@@ -11,6 +11,10 @@ image: https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- Apple
 ---
 
 There is no iPhone 18 this year. If you were hoping to upgrade your smartphone right now, Apple is only offering the new iPhone 18 Pro models (and a very expensive folding iPhone coming next month). Don't let that be a reason to spend extra money on a phone you might not need.

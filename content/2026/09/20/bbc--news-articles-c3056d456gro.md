@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Science
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a178/live/a9e7df60-ad15-11f1-826f-933990eae6f0.jpg
+locations:
+- London
+- NHS England
+- UK
+people:
+- Anne
+- Bharat Patel
+- Charles
+- Jeremy Isaacs
+- Jyoti
+- Sarah Daniels
+organisations:
+- Alzheimer's
+- Bharat Patel
+- DRI
+- Imperial College London
+- Jyoti
+- LifeArc
+- NHS
+- UK Dementia Research Institute
 ---
 
 ![A hindu couple are looking straight at the camera and smiling. The woman is wearing a red top with flowers on it, she has thin black hair just past her shoulders and she has a small red dot called a bindi in the middle of her forehead. Her husband has his arm around here and is wearing a maroon verticle striped shirt and has a large bindi on his forehead. ](https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a178/live/a9e7df60-ad15-11f1-826f-933990eae6f0.jpg)

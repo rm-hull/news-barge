@@ -13,6 +13,20 @@ categories:
 - Education & Learning
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/20/School_Cutbacks_Alaska_41764.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bettye Davis East Anchorage High
+- Denali Montessori
+- West High
+- Westchester Lagoon
+people:
+- Gary Snyder
+- Kersten Johnson-Struempler
+- Kjerstin Thomas
+- Mae Agnew Bemben
+organisations:
+- Alaska Public Media
+- Anchorage School District
+- The Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

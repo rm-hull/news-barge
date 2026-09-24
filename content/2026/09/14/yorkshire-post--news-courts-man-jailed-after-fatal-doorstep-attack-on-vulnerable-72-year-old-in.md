@@ -14,6 +14,26 @@ categories:
 - York
 - Sports
 - News & Politics
+locations:
+- Bradford
+- Crofton
+- Leeds Crown Court
+- Maidstone Street
+- Pinderfields Hospital
+- Thorntree Court
+- Wakefield
+people:
+- DC Jan Burrill
+- Hamza Shafique
+- Stacey Atkinson
+- Stephen Jedynak
+organisations:
+- CCTV
+- Coroner’s Office
+- Crown Prosecution Service
+- Homicide and Major Enquiry Team
+- Pinderfields Hospital
+- West Yorkshire Police
 ---
 
 # Man jailed after fatal doorstep attack on vulnerable 72-year-old in Wakefield

@@ -11,6 +11,21 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Russia
+- Shaheds
+- Ukraine
+people:
+- Geran
+- Olexandra Shekhireva
+- Shahed
+- Shaheds
+- Volodymyr Zelenskyy
+organisations:
+- Brave1
+- Kyiv
+- New Scientist
+- Shahed Aviation Industries
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426907.jpg?w=840)

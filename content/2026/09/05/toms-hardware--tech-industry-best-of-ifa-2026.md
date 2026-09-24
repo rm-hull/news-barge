@@ -10,6 +10,36 @@ image: https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL-1999-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Europe
+- Kotaku
+- Panther Lake
+- USB-C
+people:
+- Andrew E. Freedman
+- Brandon Hill
+- Jake Roach
+- Matt Safford
+- Packard Bell
+- Tom
+organisations:
+- 1TB
+- AI
+- AMD
+- Acer
+- IFA
+- Intel
+- Laptop Mag
+- Lenovo
+- Lexar
+- MinisCloud OS
+- Minisforum
+- Nvidia
+- PC
+- PCB
+- PCMag and Complex
+- Tom's Guide
+- Tom's Hardware
 ---
 
 ![IFA 2026](https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL.png) 

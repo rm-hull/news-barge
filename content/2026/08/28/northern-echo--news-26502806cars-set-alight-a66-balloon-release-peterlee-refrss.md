@@ -14,6 +14,44 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Cleveland
+- County Durham
+- Grangetown
+- Haswell
+- Humber
+- North Yorks
+- Northumbria
+- Peterlee
+- Redcar
+- South Bank
+- South Yorks
+- Teesside
+- West Yorks
+people:
+- ASHLEY FERGUSON
+- Alec Brown
+- Anna Turley
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Minute
+- Natalie McDonald
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Borough Council
+- Cleveland Police
+- FACEBOOK
+- National Crime Agency
+- Northern Echo
+- Our Government
+- Redcar & Cleveland Council
 ---
 
 Cars were reportedly set alight during a balloon release in County Durham held in memory of one of the five men killed in the wrong-way A66 crash.

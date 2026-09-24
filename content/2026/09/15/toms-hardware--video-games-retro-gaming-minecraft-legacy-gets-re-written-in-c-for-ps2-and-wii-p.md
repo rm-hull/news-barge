@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Mark Tyson
+- Tom
+organisations:
+- AKA OptiJeugos
+- ELF
+- Google News
+- Homebrew Channel
+- Minecraft Legacy
+- Nintendo Wii
+- OptiProjects
+- PS2
+- PS3
+- Tom's Hardware
+- USB
+- Wii U
 ---
 
 ![Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii](https://cdn.mos.cms.futurecdn.net/Ed6DypxjYRnxYpGgNJboXd.jpg) 

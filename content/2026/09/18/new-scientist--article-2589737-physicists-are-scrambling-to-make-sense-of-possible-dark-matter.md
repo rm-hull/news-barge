@@ -12,6 +12,25 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Higgs
+- Rhode Island
+- South Dakota
+- UK
+people:
+- Fan
+- Henning Flaecher
+- Juri Smirnov
+- Lisa Randall
+- Sarah Alam Malik
+organisations:
+- Brown University
+- Harvard University
+- JiJi Fan
+- LUX-ZEPLIN
+- LZ
+- University of Bristol
+- University of Liverpool
 ---
 
 ![The LUX-ZEPLIN main detector in a surface lab before installation underground](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310543559.jpg?w=840)

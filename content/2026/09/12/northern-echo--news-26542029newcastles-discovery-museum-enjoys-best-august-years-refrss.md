@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- Newcastle
+people:
+- Collingwood
+- Keith Merrin
+organisations:
+- Amazon Prime Air
+- Arbeia South Shields’ Roman Fort
+- Devastated County Durham
+- Discovery Museum
+- Great North Museum
+- Hancock
+- Hexham Old Gaol
+- Laing Art Gallery
+- Lumo Travel
+- North East Museums
+- Royal Sovereign
+- Shipley Art Gallery
+- South Shields Museum & Art Gallery
+- Special Exhibitions Gallery
+- Stagecoach
+- The National Lottery Heritage Fund
+- The Wolfson Foundation
+- Tyne and Wear Metro
+- Union
 ---
 
 Newcastle's Discovery Museum has recorded its busiest August since before the pandemic, welcoming more than 28,000 visitors.

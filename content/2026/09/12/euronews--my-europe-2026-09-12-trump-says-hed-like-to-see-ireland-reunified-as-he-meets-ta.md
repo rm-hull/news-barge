@@ -13,6 +13,43 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aberdeen
+- Aberdeenshire
+- Balmedie
+- Bedminster
+- Britain
+- Doonbeg
+- Doral
+- Dublin
+- Europe
+- Florida
+- Iran
+- Middle East
+- New Jersey
+- Northern Ireland
+- Republic of Ireland
+- Scotland
+- Strait of Hormuz
+- Turnberry
+- UK
+- US
+- United Kingdom
+- Virginia
+- Washington
+people:
+- Andy Burnham
+- Catherine Connolly
+- Donald Trump
+- Joe Biden
+- Keir Starmer
+- Micheál Martin
+- Ursula von der Leyen
+organisations:
+- European Commission
+- Irish Army
+- Irish Defence Forces
+- Trump
 ---
 
 ## The US president criticised Europe over trade, energy and immigration, and called relations with European allies "disappointing" over their response to his Iran war efforts

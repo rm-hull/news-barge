@@ -14,6 +14,12 @@ categories:
 - Arts & Culture
 - Home, Garden & DIY
 - Crafts & Hobbies
+locations:
+- Fairways Avenue
+- Starbeck
+people:
+- Sarah Khanye
+organisations: []
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97bfe89359dfdd858.jpg) 

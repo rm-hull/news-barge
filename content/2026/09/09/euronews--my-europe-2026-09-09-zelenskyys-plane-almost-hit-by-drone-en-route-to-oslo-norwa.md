@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Canada
+- Moldova
+- Norway
+- Oslo
+- Ukraine
+people:
+- '## Zelenskyy'
+- '," Store'
+- Espen Barth Eide
+- Harald V
+- Harald V. He
+- Jens Stoltenberg
+- Jonas Gahr Store
+- Volodymyr Zelenskyy
+organisations:
+- NRK
+- Store
 ---
 
 ## Zelenskyy travelled from Moldova to Oslo to attend the funeral of Norway's King Harald V.

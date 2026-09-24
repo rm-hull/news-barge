@@ -12,6 +12,22 @@ categories:
 - UK
 - True Crime
 - Arts & Culture
+locations:
+- Johannesburg
+- Kempton Park
+- Kwa-Thema
+- Olifantsontein
+- South Africa
+people:
+- Athlenda Mathe
+- Cyril Ramaphosa
+- Elizabeth “Tsontso” Moselakgomo
+- Javu Baloyi
+organisations:
+- Commission for Gender Equality
+- SAPS
+- South African Police Services
+- UN
 ---
 
 There are fears that a serial killer is at large after the bodies of seven women were found in the same area of a major South African city.

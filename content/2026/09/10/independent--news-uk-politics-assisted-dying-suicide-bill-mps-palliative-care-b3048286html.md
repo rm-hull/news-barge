@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- England
+- London
+- St Christopher’s
+- UK
+- Wales
+people:
+- Andy Burnham
+- Bill
+- Marie Curie
+- Matthew Reed
+- Steve Smith
+- Toby Porter
+organisations:
+- Hospice UK
+- Ipsos
+- NHS
+- Press Association
+- St Christopher
+- St Christopher’s
 ---
 
 End-of-life charities have reiterated their demands for the government to "fix" palliative care funding and provision across the country, amidst renewed attempts to introduce an assisted dying law.

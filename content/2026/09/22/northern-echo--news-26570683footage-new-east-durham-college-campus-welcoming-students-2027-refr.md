@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21485411.jpg?type=og-image&xType=0&yType=0
+locations:
+- Durham
+- Houghall Campus
+- North East
+- Peterlee
+- YOUR
+people:
+- Helen McCoy
+- Scott Bullock
+organisations:
+- Department for Education
+- East Durham College
+- Houghall Campus
+- Jefferson Sheard Architects
+- Public Notice Portal
+- Public Notice Portal A County Durham
+- Tilbury Douglas
 ---
 
 *(Image: East Durham College)*

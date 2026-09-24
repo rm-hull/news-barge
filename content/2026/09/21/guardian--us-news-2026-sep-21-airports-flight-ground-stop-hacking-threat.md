@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/8711961e23551e4675f374e2857acfe8ce673480/781_0_4331_3464/master/4331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b075e9673c013f3cdec0c003f29fd5a
+locations:
+- Boston
+- Estonia
+- Finland
+- JFK
+- LaGuardia
+- Moscow
+- New Brunswick
+- New Jersey
+- New Jersey Transit
+- New York
+- Newark Liberty
+- Oregon
+- Philadelphia
+- Russia
+- US
+people:
+- Ron Wyden
+- Sean Duffy
+organisations:
+- Amtrak
+- Department of Transportation
+- FAA
+- Federal Aviation Administration
+- GAO
+- Philadelphia Tracon
+- Senate
+- The Associated Press
 ---
 
 Airport operations across the US north-east resumed Monday evening after a communications line failure snarled flights at some of the country’s busiest airports, leading to thousands of flight cancellations and delays.

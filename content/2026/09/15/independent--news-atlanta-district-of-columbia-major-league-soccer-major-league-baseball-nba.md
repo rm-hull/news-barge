@@ -15,6 +15,21 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- Louisiana
+- Ohio
+- West Virginia
+- Wyoming
+people: []
+organisations:
+- Associated Press
+- District of Columbia
+- Major League Baseball
+- Major League Soccer
+- NBA
+- NFL
+- NHL
+- Supreme Court
 ---
 
 Five professional sports leagues and their players associations have aligned forces to ask for protections for players and staff who face threats and harassment from sports bettors.

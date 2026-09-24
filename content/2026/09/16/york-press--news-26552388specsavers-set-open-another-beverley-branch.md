@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Beverley
+- East Yorkshire
+- Grade II
+- Toll Gavel
+- Walkergate
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Public Notice Portal
+- Specsavers
 ---
 
 *(Image: astley / East Riding of Yorkshire Council planning)*

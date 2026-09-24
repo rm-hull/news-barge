@@ -11,6 +11,10 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Argentina
+people: []
+organisations: []
 ---
 
 Dancers wait backstage for Argentina’s annual Tango Championship.

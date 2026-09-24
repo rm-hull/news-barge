@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canadian Confederation
+- Great Lakes
+- Grimsby
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Oval Office
+- St. Lawrence Valley
+- Team Canada
+- Toronto
+- US
+- United States
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Nelson Wiseman
+- Pierre Picard
+- Rob Ford
+- Robert Bothwell
+- Ronald Reagan
+- Wab Kinew
+organisations:
+- Ford
+- Resolute Desk
+- The Associated Press
+- Trump Manitoba
+- U.S. Declaration of Independence
+- University of Toronto
+- Wendat Nation
 ---
 
 Canadian figures have met President Donald Trump’s command to rename Lake Ontario as "Lake America" with ridicule rather than anger.

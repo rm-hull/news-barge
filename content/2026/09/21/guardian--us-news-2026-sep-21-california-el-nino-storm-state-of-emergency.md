@@ -11,6 +11,16 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e53403d05a1a9b4685483eecc2ed1d1d7dcea669/623_0_6173_4936/master/6173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14f2f99ed75c8ee86c5acae850298b37
+locations:
+- California
+- El Niño
+- Pacific Ocean
+people:
+- Gavin Newsom
+- Marie
+- Wade Crowfoot
+organisations:
+- El Niño
 ---
 
 California is bracing for a record breaking El Niño that is expected to bring severe winter storms and flooding across the state, with the state’s governor declaring a state of emergency in anticipation of extreme weather in the months ahead.

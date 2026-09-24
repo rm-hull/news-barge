@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Video Gaming
 image: https://www.thetelegraphandargus.co.uk/resources/images/21482963.jpg?type=og-image
+locations:
+- Barwick-in-Elmet
+- Jack Heap’s Field
+- Leeds
+- Welfare Avenue
+- YOUR
+people: []
+organisations:
+- Jack Heap’s Field
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

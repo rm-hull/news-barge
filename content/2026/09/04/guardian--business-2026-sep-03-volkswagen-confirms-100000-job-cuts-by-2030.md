@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- China
+- Emden
+- Europe
+- Germany
+- Hanover
+- Iran
+- Neckarsulm
+- Osnabrück
+- US
+- Wolfsburg
+- Zwickau
+people:
+- Christiane Benner
+- Daniela Cavallo
+- Oliver Blume
+organisations:
+- Audi
+- BMW
+- Bentley
+- Citi
+- Cupra
+- Deutsche Bank
+- Group Works Councils of VW
+- IG Metall
+- Lamborghini
+- Porsche
+- Seat
+- Skoda
+- Volkswagen Group
 ---
 
 The car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals.

@@ -11,6 +11,33 @@ image: https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Amazon
+- Arizona
+- Austin
+- California
+- Florida
+- Nevada
+- Tesla
+- Texas
+- US
+people:
+- Ashok Elluswamy
+- Elon Musk
+- Silvio Brugada
+organisations:
+- Cybercab
+- Cybercabs
+- Musk
+- NHTSA
+- National Highway Traffic Safety Administration
+- Nvidia
+- Robotaxi
+- Tesla AI
+- Teslas
+- WIRED
+- Waymo
+- Zoox
 ---
 
 A Tesla launch event tends to cause a hoopla. Fans crowd into an event space; loud electronic beats are the warm up act. Finally, the star himself, the ringmaster of this electric circus, CEO Elon Musk, emerges to a roar. There are demos, powerful verbs, and sometimes, a “one more thing,” a last-minute surprise product unveiling. Fans and investors the world over look on—and post—online.

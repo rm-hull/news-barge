@@ -9,6 +9,26 @@ description: The Guinness World Records Gamer’s Edition 2027 is out now
 image: https://cdn.mos.cms.futurecdn.net/WyDauF7r6qAGPqkACCR6C9-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Alice Bell
+organisations:
+- Amazon
+- Dash
+- Edge
+- GTA
+- Google News
+- Grand Theft Auto
+- Guinness World Records
+- Netflix
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- Rockstar
+- SFX
+- TechRadar
+- YouTube
 ---
 
 ![GTA 6 characters side by side. A woman sings into a microphone, a man stands in a backyard, and another man stands in a recording studio.](https://cdn.mos.cms.futurecdn.net/WyDauF7r6qAGPqkACCR6C9.jpg) 

@@ -13,6 +13,47 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21479032.jpg?type=og-image&xType=0&yType=122
+locations:
+- Chelmsford
+- Coventry
+- Hartlepool
+- UK
+- US
+people:
+- Dominik Thiel-Czerwinke
+- Evans
+- Louise Donna Baxter
+organisations:
+- Aldi, M&S
+- Ascend Airways
+- BTG Begbies Traynor
+- Bodycare
+- British Heart Foundation
+- Claire's
+- Debenhams
+- EcoJet Airlines
+- Elite EMS
+- European Cargo
+- House
+- InPost
+- Joules
+- LK Bennett
+- Leading Labels
+- Medicare EMS
+- Morrisons
+- NHS
+- Nasty Gal
+- Quiz
+- Superdrug
+- TG Jones
+- The Gazette
+- UK Event Medical Services
+- UKEMS
+- Wayfairer Travel Limited
+- Whitbread
+- Wynsors World of Shoes
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

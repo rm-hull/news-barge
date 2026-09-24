@@ -13,6 +13,33 @@ categories:
 - Technology & Software
 - Science
 - True Crime
+locations:
+- Central Avenue
+- Downtown
+- Fillmore
+- LA
+- LA?
+- Los Angeles
+- New York
+- Ohio
+- Southern California
+people:
+- Alfred A. Knopf
+- Andy Commidy
+- Anton
+- Emily St. John Mandel
+- Face
+- Ibari
+- Nico
+organisations:
+- Ghosts and Agents
+- Internal Intelligence Service
+- Penguin Random House
+- Service Academy
+- State
+- The Knopf Doubleday Publishing Group
+- UCLA
+- UPS
 ---
 
 *True diligence is following the improbable path.* I read the sentence in a detective novel in childhood, when I was 8 or 9 years old, and then the phrase stayed with me forever after.

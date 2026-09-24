@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/dpYpu4kURRoCpERiFgAv8o-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- '** Passkeys'
+- Al Jazeera Balkans
+- Cordial Spider
+- Google News
+- MFA
+- Microsoft Exchange Online
+- Microsoft Teams
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Passkeys](https://cdn.mos.cms.futurecdn.net/dpYpu4kURRoCpERiFgAv8o.jpg) 

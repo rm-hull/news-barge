@@ -12,6 +12,19 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/26/76/1200x675_cmsv2_66a8d3c8-e896-5155-9b3f-ec80413854ec-9922676.jpg
+locations:
+- Manhattan
+- New York
+- Trump Tower
+- US
+- Ukraine
+people:
+- Donald Trump
+- Emmanuel Macron
+- Jean-Noël Barrot
+organisations:
+- Macron
+- UN General Assembly
 ---
 
 French President Emmanuel Macron walked through busy Manhattan streets on Monday evening as he headed to Trump Tower for a meeting with US President Donald Trump.

@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491600.jpg?type=og-image
+locations:
+- Baildon Common
+- Baildon Moor
+- Hawksworth Road
+people: []
+organisations:
+- West Yorkshire Police
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Google Maps)*

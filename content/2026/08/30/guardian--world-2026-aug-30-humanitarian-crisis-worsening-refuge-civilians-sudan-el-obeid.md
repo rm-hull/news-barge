@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Society & Culture
 - Health & Fitness
+locations:
+- Acled
+- Darfur
+- El Fasher
+- El Obeid
+- Iran
+- Khartoum
+- North Kordofan
+- Sudan
+- US
+people:
+- Esperanza Santos
+- Maryam
+- Nohad Eltayeb
+- Paul Byars
+organisations:
+- Acled
+- Danish Refugee Council
+- El Obeid
+- Emergency Lawyers
+- Médecins Sans Frontières
+- RSF
+- Rapid Support Forces
+- SAF
+- Save the Children
+- Sudanese Armed Forces
+- UN
+- World Food Programme
+- Yale Humanitarian Research Lab
 ---
 
 Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surrounding countryside.

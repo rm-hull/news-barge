@@ -12,6 +12,88 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bay Area
+- California
+- Chicago
+- China
+- Detroit
+- Hawaii
+- Israel
+- Maryland
+- New York
+- Port of Oakland
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Aakash Singh
+- Andrew Forrest
+- Beck
+- Brian Babin
+- Charlie Kirk
+- Clarence Thomas
+- Dinesh D'Souza
+- George Soros
+- JD Vance
+- Lee Zeldin
+- Lynde
+- Matt Davis
+- Rich McCormick
+- Ryan Mauro
+- Scott Walter
+- Stephen Miller
+- Ted Cruz
+- Tim Mayopoulos
+- Todd Blanche
+- Trump
+- Virginia "Ginni" Thomas
+organisations:
+- ActBlue
+- American Cancer Society
+- American Heart Association
+- American Journal of Public Health
+- American Lung Association
+- Arabella Advisors
+- CRC
+- Capital Research Center
+- Charles Koch Foundation
+- Chinese Communist
+- Congress
+- Crowdsourcers
+- Democratic Party
+- Department of Justice
+- Donors Trust
+- EPA
+- Environmental Protection Agency
+- Grassroots Global Justice Alliance
+- Greenhouse Gas Reduction Fund
+- Hamas
+- Harry Bradley Foundation
+- Homeland Security
+- House Science Committee
+- House Ways and Means
+- Justice Department
+- MAGA
+- Minderoo Foundation
+- NBC News
+- New York Times
+- Open Society Foundations
+- Philip Morris
+- Power Forward Communities
+- Sarah Scaife Foundation
+- Senate Judiciary
+- Soros
+- Sunrise Movement
+- Supreme Court
+- The *New York Times
+- The *Times
+- The Independent
+- The New York Times
+- The Washington Post
+- Trump
+- Walter’s Capital Research Center
+- Zeldin
 ---
 
 When a lawyer in the deputy attorney general's office instructed more than half a dozen U.S. attorneys to prep criminal investigations of a George Soros-funded foundation last September, he attached as evidence a report by the Capital Research Center.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+people:
+- Paul Evans
+organisations:
+- Harrogate BID
+- Harrogate Business Improvement District
+- National Business Crime Centre
+- North Yorkshire Police
+- Sainsbury's
+- ShopSafe
+- The Crown Hotel
 ---
 
 *(Image: Harrogate BID)*

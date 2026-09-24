@@ -11,6 +11,23 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Legora
+- Stockholm
+- Sweden
+people:
+- Daniel Ek
+- Sophia Bendz
+organisations:
+- Cherry Ventures
+- Dealroom
+- Einride
+- Equity
+- Klarna
+- Legora
+- Lovable —
+- Neko Health
+- Spotify
 ---
 
 Sweden is perhaps one of the world’s hottest tech hubs right now. It has long been home to Spotify and Klarna, but this latest wave of companies — from legal AI startup Legora to vibe-coding tool company Lovable — has left everyone wondering what’s going on in one of the world’s happiest countries.

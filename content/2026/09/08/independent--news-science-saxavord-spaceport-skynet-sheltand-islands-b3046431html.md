@@ -13,6 +13,25 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- RAF
+- SaxaVord
+- Shetland
+- UK
+- Unst
+people:
+- Jonathan Reynolds
+- Scott Hammond
+- Wes Streeting
+organisations:
+- Connectivity in Low Earth Orbit
+- Government
+- HyImpulse
+- Rocket Factory Augsburg
+- SaxaVord Spaceport
+- Skynet
+- UK Space Strategy
 ---
 
 Millions of pounds will be invested in bolstering national defences against threats from space under a new strategy from the UK government.

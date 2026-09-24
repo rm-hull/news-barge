@@ -11,6 +11,47 @@ image: https://static.independent.co.uk/2026/09/01/17/2292889473..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic
+- Capitol Hill
+- Lancaster County
+- New Mexico
+- Pennsylvania
+- Pittsburgh
+- Texas
+- U.S.
+- United States
+- Washington, D.C.
+people:
+- Amesh Adalja
+- Céline Gounder
+- Deb Houry
+- Erica Schwartz
+- Grace Davis Jamison
+- Josh Parsons
+- Josh Shapiro
+- Jr.
+- Paul Offit
+- RFK Jr
+- Robert F. Kennedy
+- Stephen Diamontoni
+- Trump
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Children’s Hospital of Philadelphia
+- DOH
+- Emory University
+- Grossman School of Medicine
+- New York University
+- Pennsylvania Health Department
+- Pennsylvania’s Health Department
+- Senate Committee
+- The Independent
+- The New York Times
+- Trump
+- WGAL
+- Yale School of Public Health
 ---
 
 Pennsylvania doctors have blasted the Trump administration over its decision to erase two measles deaths reported by the state from the federal record.

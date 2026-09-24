@@ -13,6 +13,20 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/29/11/Lindsay_Clancy_Trial__9519.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Central Park
+- Massachusetts
+- Plymouth County
+- U.S.
+people:
+- Callan
+- Cora
+- Dawson
+- Lindsay Clancy
+- Patrick Clancy
+- Rachel Danis
+organisations:
+- CBS News
 ---
 
 The ex-husband of Lindsay Clancy will give his first televised interview to “60 Minutes” on CBS News on Sunday after a jury deadlocked in her trial for killing their three young children.

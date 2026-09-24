@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Chilton
+- County Durham
+- Darlington
+- Lyne Road
+- Middlestone Moor
+- Spennymoor
+people:
+- Jess Partington
+- Jessica Partington
+- Kris Lindsay
+- Livin
+- Paul Thompson
+- SARAH CALDECOTT
+- Woman
+organisations:
+- JESS PARTINGTON
+- Livin Housing
 ---
 
 A County Durham mum has hit out at her landlord, saying an uncapped pipe leaves her home stinking of sewage every time neighbours flush the loo.

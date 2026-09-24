@@ -14,6 +14,37 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- Abu Dhabi
+- Britain
+- China
+- Croatia
+- Dubai
+- Europe
+- London
+- Middle East
+- Saudi Arabia
+- U.K.
+- U.S.
+- United States
+- WeRide
+- Zagreb
+people:
+- Sarfraz Maredia
+- Uber
+organisations:
+- Alphabet
+- Amazon
+- Baidu
+- Google
+- Pony.AI
+- Pony.ai
+- Robotaxi
+- Tesla
+- Uber
+- Waymo
+- Wayve
+- Zoox
 ---
 
 Uber and British tech company Wayve are launching London's first self-driving taxi service on Thursday, giving residents a chance to use technology that's already available in many U.S. cities and other parts of the world.

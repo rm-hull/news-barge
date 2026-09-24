@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kirishi
+- Kremlin
+- Kyiv
+- Moscow
+- Myla
+- Obolonskyi
+- Russia
+- St Petersburg
+- Ukraine
+people:
+- Alexander Drozdenko
+- Dmitry Peskov
+- Kyiv
+- Mykhailo Fedorov
+- Volodymyr Zelenskyy
+- Yevhen Khmara
+organisations:
+- Amazon”
+- Defense Ministry
+- Kirishi Petroleum Organic Synthesis
+- Kyiv
+- Ukrainian Telegram
+- Wildberries
 ---
 
 The death toll from a Russian strike on a warehouse west of Kyiv, the war's deadliest attack so far this year, rose to 38 with four people still missing, Ukrainian President Volodymyr Zelenskyy said on social media Sunday.

@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Austin
+- Cybercabs
+- Florida
+- Texas
+- Texas’ Tesla
+- US
+people:
+- Elon Musk
+- Jonathan Morrison
+organisations:
+- Amazon
+- NHTSA
+- National Highway Traffic Safety Administration
+- Robotaxi
+- Tesla
+- Volvo Group North America
+- Zoox
 ---
 
 Tesla’s Cybercab, a distinctive two-seater without a steering wheel or brake pedals, is set to start picking up members of the public in Austin, Texas, this evening. But the vehicle is already under investigation by the US federal government, which is probing whether it meets federal safety standards.

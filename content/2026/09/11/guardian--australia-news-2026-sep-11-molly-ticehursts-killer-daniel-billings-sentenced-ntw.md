@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Dalby
+- Forbes
+- NSW
+- Orange
+- Queensland
+people:
+- Billings’
+- Daniel Billings
+- Forbes
+- Gaby Shepherd
+- Molly Jean Ticehurst
+- Molly Ticehurst
+- Ms Ticehurst
+- Natalie Adams
+organisations:
+- NSW
+- Queensland State of Origin
 ---
 
 Molly Ticehurst’s ex-boyfriend has been sentenced to 28 years in jail for her senseless and brutal murder, which was revenge for her reporting allegations of sexual assault to police.

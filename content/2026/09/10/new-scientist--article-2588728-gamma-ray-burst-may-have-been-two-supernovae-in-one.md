@@ -12,6 +12,18 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Italy
+- New Zealand
+people:
+- Homi Bhabha
+- Remo Ruffini
+- Ryan Ridden
+organisations:
+- GRB
+- International Center for Relativistic Astrophysics Network
+- Neil Gehrels Swift Observatory
+- University of Canterbury
 ---
 
 ![A black hole with high energy gamma ray beams](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg?w=840)

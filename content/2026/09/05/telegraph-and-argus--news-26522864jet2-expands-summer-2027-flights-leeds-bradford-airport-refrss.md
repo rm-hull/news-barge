@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Almeria
+- Chania
+- Halkidiki
+- Heraklion
+- Leeds Bradford Airport
+- Palma
+- UK
+- Verona
+- Yorkshire
+people:
+- David Hills
+organisations:
+- Jet2
+- Jet2holidays
+- Leeds Bradford Airport
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,35 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lake
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Ottawa
+- Silicon Valley
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Eric Reguly
+- Ian Bremmer
+- Mark Carney
+organisations:
+- Apple Maps
+- GNIS
+- Google Cowards
+- Google Maps
+- Lake America’
+- Lake Ontario’
+- MeidasTouch
+- POTUS
+- The Independent
+- Trump
+- U.S. Geographic Names Information System
 ---
 
 Google Maps has changed the name of Lake Ontario to “Lake America” for users in the United States, following President Donald Trump’s executive order rebranding the lake. The move has prompted backlash from critics.

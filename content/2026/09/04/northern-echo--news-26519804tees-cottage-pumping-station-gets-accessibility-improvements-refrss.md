@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham Manjaros
+- Darlington
+- Tees Cottage Pumping Station
+- Tees Valley
+- Teesside
+people:
+- Ben Houchen
+- Martyn Brown
+organisations:
+- A66
+- Tees Cottage Pumping Station
+- Tees Valley Combined Authority
+- Unlocking Access
 ---
 
 A historic pumping station in Darlington has improved visitor access thanks to new funding.

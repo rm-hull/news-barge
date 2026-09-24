@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Beijing
+- Chilime
+- China
+- Devighat
+- India
+- Nepal
+- Nepal-China
+- Nuwakot
+- Rasuwa
+- Tibet
+- Trishuli River
+- UK
+- Upper Trishuli
+people:
+- Ashish Gurung
+- Balendra Shah
+- Mohan Kumar Dangi
+- Narendra Pariyar
+- Netra Bahadur Karki
+- Raja Ram Basnet
+organisations:
+- Agence France-Presse
+- CCTV
+- Nepal Independent Power Producers’ Association
+- Red Cross
+- Reuters
 ---
 
 Rescue teams are working to reach more than 900 missing hydropower workers, hundreds of whom are feared trapped in the tunnels and underground areas of 12 hydropower projects in Nepal after the devastating flash floods, the country’s disaster management authority has said.

@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brunswick
+- California
+- Connecticut
+- Danbury
+- Encino
+- Hamptons
+- Los Angeles
+- Maldives
+- Miami
+- New Jersey
+- Singapore
+- U.S.
+- Washington
+- Washington, D.C.
+people:
+- Alicia Valle
+- Allison Nixon
+- Colleen Kollar-Kotelly
+- Donald Trump
+- Ferris Bueller
+- Ferro
+- God
+- Hamza Doost
+- Jeandiel Serrano
+- Joe Biden
+- Jon Elswick
+- Kevin Wilson
+- Kunal Mehta
+- Malone Lam
+- Tucker Desmond
+- Veer Chetal
+- Victim
+- William Hart
+organisations:
+- FBI
+- Gemini
+- Google
+- Justice Department
+- Lamborghini
+- Los Angeles International Airport
+- The Com
+- ZachXBT
 ---
 
 They pulled off one of the largest cryptocurrency thefts in history, duping a stranger out of bitcoin worth over $240 million. And then the party started.

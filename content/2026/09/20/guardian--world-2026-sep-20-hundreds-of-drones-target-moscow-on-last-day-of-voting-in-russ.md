@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/979fa9e8d7eff9e724d5a9c0ae2bcb0daed75718/157_0_2734_2187/master/2734.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1c74d8b931a756b11daabdc6a9cb76b
+locations:
+- Flamingo
+- Kremlin
+- Kyiv
+- Moscow
+- US
+- Ukraine
+- United Russia
+people:
+- Andrey Vorobyov
+- Donald Trump
+- Ruslan Leviev
+- Sergey Sobyanin
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- Agence France-Presse
+- Conflict Intelligence Team
+- Fire Point
+- Flamingo
+- Kyiv
+- Reuters
+- Russian Telegram
 ---
 
 Ukraine has targeted Moscow and elsewhere in Russia in a major attack that involved hundreds of drones and the first acknowledged use of ballistic missiles by Kyiv in the four and a half year full scale war.

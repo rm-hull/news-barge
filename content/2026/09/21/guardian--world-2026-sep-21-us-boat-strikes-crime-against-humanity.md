@@ -15,6 +15,21 @@ categories:
 - History
 - Sports
 image: https://i.guim.co.uk/img/media/20237296add74a00f9d294b6609b91ecd9c04a07/459_0_4582_3666/master/4582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d68767e140b1e9aafb3000c594f160fc
+locations:
+- Caribbean
+- Pacific
+- US
+- United States
+people:
+- Ben Saul
+- Donald Trump
+organisations:
+- BBC
+- Congress
+- UN
+- US Department of State
+- US Southern Command
+- Washington Office on Latin America
 ---
 
 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the United States attacks on boats allegedly carrying drugs in the Pacific and Caribbean “constituted crimes against humanity”.

@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Billings
+- Montana
+- Provo
+- Utah County
+people:
+- Charlie Kirk
+- Donald Trump
+- Erika Kirk
+- Kathryn Kirk
+- Lance Twiggs
+- Robert
+- Steve Burton
+- Tania Mashburn
+- Tony Graf
+- Tyler Robinson
+organisations:
+- MDT
+- Turning Point USA
+- UVU
+- Utah Defense Attorney Association
+- Utah Valley University
+- ___ Brown
 ---
 
 LAYDOWN TO RUN TUESDAY 9/1 AT 12:01 A.M. ET//Hearing starts at 10 a.m. MDT

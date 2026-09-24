@@ -15,6 +15,41 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Birchington Avenue
+- Cleveland
+- Grangetown
+- Handout
+- Middlesbrough
+- PA
+- Stockton
+- Teesside
+- UK
+people:
+- Andy Burnham
+- Mahmood
+- Matt Storey
+- Matthew Blades
+- Natalie McDonald
+- Owen Humphreys
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- CBOs
+- CSJ
+- Centre for Social Justice
+- Cleveland Police
+- Commons
+- Criminal Behaviour Orders
+- Hijacked High Streets
+- Home Secretary
+- House
+- Labour Police and Crime
+- Middlesbrough
 ---
 
 # Cleveland Police handed additional £2m to tackle organised crime after A66 crash

@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A66
+- CLEVELAND
+- Grangetown
+- Hartlepool
+- PA
+- Riverside Stadium
+- South Bank
+- Teesside
+- Victoria Park
+people:
+- Charles III
+- Cole Robert Worthy
+- Jakub Matusiak
+- King
+- MARK FLETCHER
+- Makai Saddington
+- Matt
+- Matthew Blades
+- Michael Robert Cahill
+- Owen Humphreys
+- PC Blades
+- PC Blades'
+- PC Clough
+- Passat
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Armed Response Vehicle
+- Boro
+- Cleveland Police
+- Cleveland Police Federation
+- Eastleigh
+- Hartlepool United
+- Middlesbrough
+- Mirror
+- PC Blades
+- PC Blades'
+- West Bromwich Albion
 ---
 
 Middlesbrough supporters have paid an emotional tribute to two Cleveland Police officers killed in the devastating A66 crash.

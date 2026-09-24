@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Baildon
+- Bradford
+- Frizinghall
+- New Jersey
+- New York City
+- Penn Station
+- Texas
+- UK
+- United States
+people:
+- Bob Lawrence
+- Bobby Lawrence *(Image
+- Lawrences
+- Louise Rayner
+- Suzanne
+- Toland
+organisations:
+- Lawrences
+- World Trade Centre
 ---
 
 A Bradford woman has spoken out about losing the father of the New Jersey family she worked for.

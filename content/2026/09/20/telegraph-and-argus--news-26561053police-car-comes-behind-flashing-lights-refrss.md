@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20751178.jpg?type=og-image&xType=0&yType=263
+locations:
+- Skipton
+people: []
+organisations:
+- Craven
+- NYP
+- North Yorkshire Police
 ---
 
 *(Image: NYP)*

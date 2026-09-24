@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Britain
+- Consett
+- County Durham
+- Dunsfold Aerodrome
+- England
+- Surrey
+people:
+- Andrew "Freddie" Flintoff
+- Bean
+- Blackadder
+- Ed Havard
+- Jeremy Clarkson
+- Jimmy Carr
+- Johnny English
+- Matt Baker
+- Rowan Atkinson
+organisations:
+- BBC
+- Blue Peter
+- Countryfile
+- County Durham
+- London Evening Standard
+- Top Gear
 ---
 
 County Durham-born Rowan Atkinson is being tipped to host one of the BBC's best-known shows.

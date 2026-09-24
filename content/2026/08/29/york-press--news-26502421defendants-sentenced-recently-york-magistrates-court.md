@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Buile Hill Avenue
+- Little Hulton
+- Mount Pleasant East
+- Poundland
+- Robin Hoods Bay
+- Salford
+- Scarborough
+- Selby
+- Worsley
+- York Magistrates Court
+people:
+- Connor Atkins
+- Craig Callaghan
+- Eliza Carthy
+- Far Moss
+- Hugo Boss
+- Jaimee Reilly
+- Keith Harrison
+- Selby
+organisations:
+- Cosmetic Company
+- NQ
+- Reiss
+- Sainsbury’s
+- Swarovski
+- Tesco
+- York Designer Outlet
 ---
 
 *(Image: NQ staff)*

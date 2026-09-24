@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bedford Street
+- Middlesbrough
+- North East
+- Teesside
+- Waggon
+people:
+- Andy Brewster
+organisations:
+- Cleveland Police
+- Northern Echo
+- The Waggon
 ---
 
 *(Image: The Waggon)*

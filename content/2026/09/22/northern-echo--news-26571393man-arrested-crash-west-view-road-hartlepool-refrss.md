@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thenorthernecho.co.uk/resources/images/21484305.jpg?type=og-image
+locations:
+- Busy
+- Cleveland Road
+- Darlington
+- Hartlepool
+- James Cook Hospital
+- James Cook University Hospital
+- Middlesbrough
+- North East
+- Old Cemetery Road
+- Ropery Road
+- Stockton
+- West View Road
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- North East Ambulance Service
+- Peugeot Expert
+- Volvo
 ---
 
 *(Image: google)*

@@ -14,6 +14,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Helen Dickinson
+- Mike Watkins
+organisations:
+- AI
+- BRC
+- British Retail Consortium
+- NIQ
+- Office for National Statistics
 ---
 
 British consumers have been hit by the fastest-growing prices in two years, new data shows, as the cost of living continues to bite in the wake of the Iran war and tech-related payment surges.

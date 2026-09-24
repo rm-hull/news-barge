@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Metro
+- North Yorkshire
+- York
+people:
+- David Skaith
+organisations:
+- BSIP
+- Bus Service Improvement Plan
+- City of York Council
+- Combined Authority
+- North Yorkshire Council
 ---
 
 **HARROGATE**— A comprehensive strategic plan designed to upgrade public transport networks across York and North Yorkshire has received official cabinet approval at a Combined Authority meeting today.

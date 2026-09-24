@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- China
+- Democratic People's Republic of Korea
+- North Korea
+- Russia
+- Russian Federation
+- Tumen River
+- Ukraine
+people:
+- Mikhail Mishustin
+organisations: []
 ---
 
 Russia and North Korea opened the first road bridge across their shared border on Monday, a development Russian officials hailed as boosting the nations' deepening ties.

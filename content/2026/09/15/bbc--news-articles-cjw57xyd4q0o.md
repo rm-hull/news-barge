@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Countess of Chester Hospital
+- Grantham
+- Lincolnshire
+- New Zealand
+people:
+- Beverley Allitt
+- Geoff Chase
+- Helen Shannon
+- Justice Thirlwall
+- Lucy Letby
+- Mark McDonald
+organisations:
+- BBC Newsnight
+- CCRC
+- Cheshire Police
+- Countess of Chester
+- Court of Appeal
+- Criminal Cases Review Commission
+- Letby
+- NHS
+- Thirlwall Inquiry
+- University of Canterbury
 ---
 
 ![Custody image of Lucy Letby, who has long blonde hair and is wearing a red top.](https://ichef.bbci.co.uk/ace/standard/798/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg)

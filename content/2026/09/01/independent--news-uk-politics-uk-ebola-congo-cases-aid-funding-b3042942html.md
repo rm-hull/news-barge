@@ -14,6 +14,35 @@ categories:
 - Business & Entrepreneurship
 - Sports
 - Technology & Software
+locations:
+- Bundibugyo
+- DRC
+- Democratic Republic of Congo
+- UK
+- US
+- West Africa
+people:
+- Adrian Lovett
+- Andy Burnham
+- Kirsty McNeill
+- Rory Stewart
+organisations:
+- BBC Radio 4
+- Commonwealth & Development Office
+- DRC
+- FCD
+- FCDO
+- Foreign Office
+- House of Commons
+- NGOs
+- ONE Campaign
+- The Independent
+- UK’S Public Health Rapid Support Team
+- UN
+- WHO
+- WISH
+- Women’s Integrated Sexual Health
+- World Health Organisation
 ---
 
 The UK is almost tripling its funding to tackle the deadly Ebola outbreak in the Democratic Republic of Congo (DRC), announcing a further £51.8 million as the virus continues to spread rapidly.

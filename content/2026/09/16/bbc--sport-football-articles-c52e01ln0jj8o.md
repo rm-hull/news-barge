@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Easter Road.
+- Hampden
+- Scandinavia
+- Scotland
+people:
+- Alex Neil
+- Alex:** Sorry
+- Ben:**
+- Colin**
+- Craig Samson
+- Dave
+- Davey Gray
+- David Gray
+- Frank Sauzee
+- Hibs'
+- Ian Gordon
+- John L:** Neil Lennon
+- John Potter
+- John:**
+- Josh:**
+- Keith:** Truly
+- Kevin Thomson
+- Liam Craig
+- Malky Mackay
+- Marvin Bartley
+- Neil Lennon
+- Nick Montgomery
+- Pat Stanton
+- Richard:** David Gray
+- Robbie
+- Ross
+- Sam**
+- Scott
+- Simo Valakari
+- Steve Clarke
+- Steven Pressley
+- Tony Mowbry
+organisations:
+- Aberdeen
+- Edinburgh
+- Hearts
+- Hibernian
+- Hibs
+- Kilmarnock
+- Motherwell
+- Rangers
+- St Johnstone
 ---
 
 ![David Gray has been removed from his post after Tuesday's home defeat to Kilmarnock](https://ichef.bbci.co.uk/ace/standard/888/cpsprodpb/4b4f/live/cac13e20-b1f2-11f1-bd8b-ed45be4f6895.jpg)

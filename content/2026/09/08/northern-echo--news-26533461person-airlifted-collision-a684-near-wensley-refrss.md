@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- A684
+- Auckland
+- James Cook Hospital
+- Newcastle
+- North Yorkshire
+- UK
+- Wensley
+- YORKSHIRE
+people: []
+organisations:
+- AA Traffic Map
+- North Yorkshire Police
+- Northern Echo
+- Yorkshire Air Ambulance
+- Yorkshire Ambulance Service
 ---
 
 *(Image: YORKSHIRE AIR AMBULANCE)*

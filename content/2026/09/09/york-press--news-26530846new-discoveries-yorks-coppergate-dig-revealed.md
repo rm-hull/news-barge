@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - History
+locations:
+- JORVIK Viking Centre
+- Tempest Anderson Hall
+- York
+- Yorkshire Museum
+people:
+- Gareth Henry
+organisations:
+- Pyper York Ltd
+- Richard Hall Symposium
+- York Archaeology
 ---
 
 *(Image: Pyper York Ltd)*

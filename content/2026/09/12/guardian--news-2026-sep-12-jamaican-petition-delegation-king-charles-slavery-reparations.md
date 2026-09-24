@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Antigua
+- Britain
+- Brixton
+- Caribbean
+- Jamaica
+- London
+- New Park Road Baptist
+- Palace
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Bell Ribeiro-Addy
+- Bell Ribeiro‑Addy
+- Bob Marley
+- Charles
+- Edward Fitzgerald KC
+- Harj Narulla
+- Lord Sumption
+- Olivia Grange
+- Ulele Burnham
+- Zong
+organisations:
+- Afrikan Reparations
+- British Museum
+- Commonwealth and Development Office
+- Guardian
+- Judicial Committee
+- Labour
+- People’s National
+- UN
 ---
 
 A palpable surge of emotion swept through Brixton’s New Park Road Baptist church as the packed congregation rose to sing Bob Marley’s Redemption Song.

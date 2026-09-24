@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Japan
+people:
+- Tom
+organisations:
+- Change.org
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- PC
+- Sony Japan
+- Tom's Hardware
 ---
 
 ![PlayStation 5 Pro](https://cdn.mos.cms.futurecdn.net/h86G2dbEGA9vsJLRJvJtNL.webp) 

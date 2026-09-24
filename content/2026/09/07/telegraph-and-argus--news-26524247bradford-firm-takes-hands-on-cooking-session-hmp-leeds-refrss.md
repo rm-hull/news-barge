@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Ishfaq Farooq
+organisations:
+- HMP Leeds
+- HMP Wealstun
+- MyLahore Group
+- Wunder Crumble
 ---
 
 *(Image: Supplied)*

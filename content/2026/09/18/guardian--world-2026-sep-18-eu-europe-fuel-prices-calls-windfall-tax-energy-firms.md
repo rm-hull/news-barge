@@ -13,6 +13,39 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Denmark
+- Dublin
+- Europe
+- Finland
+- France
+- Germany
+- Hormuz
+- Iran
+- Italy
+- Middle East
+- Netherlands
+- Poland
+- Russia
+- Saxony-Anhalt
+- Spain
+- Ukraine
+people:
+- Catherine Chabaud
+- Emmanuel Macron
+- Friedrich Merz
+- Giorgia Meloni
+- Lars Klingbeil
+- Roland Lescure
+- Sébastien Lecornu
+- Valdis Dombrovskis
+organisations:
+- ADAC
+- AfD
+- CDU
+- EU
+- European Commission
 ---
 
 European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to contain mounting public discontent and the challenge of the far right.

@@ -11,6 +11,28 @@ categories:
 - York
 - Food & Cooking
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/las-iguanas-york-closed-2.webp
+locations:
+- A York
+- Back Swinegate
+- Cheadle
+- Finkle Street
+- Las Iguanas
+- Leeds
+- Liverpool
+- Manchester
+- UK
+people:
+- Srini Sundaram
+- Suresh Raje Urs
+organisations:
+- Back Swinegate
+- City of York Council
+- High Court
+- Indian Tiffin Room
+- Las Iguanas
+- Las Iguanas Holdings Ltd
+- Las Iguanas’
+- The Big Table Group
 ---
 
 A York building left empty after a restaurant suddenly closed is set for a new lease of life under fresh plans.

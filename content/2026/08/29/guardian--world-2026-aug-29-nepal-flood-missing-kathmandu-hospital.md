@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Chitwan
+- Himalayas
+- India
+- Jaydada
+- Kathmandu
+- Nepal
+- Nepal.
+- Rasuwa
+- Rusawa
+- Tibet
+- Trishuli River
+people:
+- Monita Nepali
+- Sahil
+- Sijan Tawang
+- Sujan Nepali
+- Sushisha Maluwar
+- Tulmaya Tamang
+- Vishal Nepali
+- Yavraj Lama
+organisations:
+- Tribhuvan University
 ---
 
 Posters of missing people line the wall of the hospital, the glue still fresh beneath. A schoolgirl smiling in her uniform; a beaming, chubby-cheeked baby; a couple smiling on their wedding day; a young man, hands on hips, atop a mountain peak; a young girl with flowing hair, peaking out from behind a door.

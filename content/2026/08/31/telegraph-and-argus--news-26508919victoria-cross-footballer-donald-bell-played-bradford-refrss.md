@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Contalmaison
+- France
+- Harrogate
+- Horseshoe Trench action Horseshoe Trench
+- La Boisselle
+- Somme
+people:
+- Colwill
+- Donald Simpson Bell
+- Iain McMullen
+- Mills
+- Private Batey
+- Sadly
+organisations:
+- 9th Battalion
+- Army
+- BBC
+- Bishop Auckland
+- Bradford Park Avenue
+- Commonwealth War Graves Commission
+- Footballers’ Battalion
+- Green Howards
+- National Football Museum
+- Newcastle United
+- Pen & Sword Military
+- Professional Footballer Association
+- Sky Sports
+- The Daily Telegraph
+- The Mirror
+- VC
+- Victoria Cross
+- Western Front Association
+- Yorkshire Regiment
 ---
 
 *(Image: Iain McMullen)*

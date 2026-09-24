@@ -10,6 +10,28 @@ image: https://static.independent.co.uk/2026/09/17/19/47/GettyImages-2295653697.
 categories:
 - News & Politics
 - UK
+locations:
+- Arabian Sea
+- Gulf
+- Iran
+- Kuwait
+- Middle East
+- New York City
+- Qatar
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- USS George Washington
+people:
+- Donald Trump
+organisations:
+- AAA
+- Axios
+- HRANA
+- Pentagon
+- Reuters
+- United Nations General Assembly
 ---
 
 President Donald Trump said he is weighing whether to “annihilate” Iran as the war nears the seven-month mark with no clear end in sight.

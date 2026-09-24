@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- Bering Sea
+- Russia
+- Savoonga
+- St. Lawrence Island
+- United States
+people:
+- Adam White
+- Barton Rookok
+- Derek Parker Aghnaanga
+- Sidney Kulowiyi
+- Vina Kulowiyi
+organisations:
+- Alaska State Troopers
+- Coast Guard
+- Facebook
+- KTUU-TV
+- Northwest Explorer
+- The Associated Press
+- The New York Times
 ---
 
 A 15-year-old boy has been rescued after his fishing boat capsized in the frigid Bering Sea off Alaska’s coast. His older brother and cousin, who were on the trip, did not survive.

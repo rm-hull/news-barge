@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473001.jpg?type=og-image
+locations:
+- Calder Valley
+- Calder Weir
+- Cragg Vale Heritage Trail
+- Dusty Miller
+- Halifax
+- Mytholmroyd
+- Old Norse
+- River Calder
+- West Yorkshire
+people:
+- Mytholmroyd
+organisations:
+- Bewildered Yorkshire
+- TikTok
+- Tripadvisor
 ---
 
 The English language can be incredibly confusing even to people who have lived here their whole lives.

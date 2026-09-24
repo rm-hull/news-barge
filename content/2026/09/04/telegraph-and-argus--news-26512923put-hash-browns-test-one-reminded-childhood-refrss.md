@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- UK
+people:
+- Aldi Harvest
+- Hash Browns
+- Morrisons Hash Browns
+organisations:
+- American TV
+- Hash Browns
+- Iceland Hash Browns
+- Iceland Tesco
+- Lidl Asda Hash Browns Sainsbury
+- Newsquest
+- USA Morrisons Hash Browns Hash Browns
 ---
 
 I’VE HEARD people order hash browns in diners many a time while watching American TV shows, but never tried them

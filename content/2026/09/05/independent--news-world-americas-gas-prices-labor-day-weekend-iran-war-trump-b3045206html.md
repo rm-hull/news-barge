@@ -11,6 +11,42 @@ image: https://static.independent.co.uk/2026/09/05/12/2293564567..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Colorado
+- Evergreen
+- Galveston
+- Hawaii
+- Home Depot
+- Houston
+- Idaho
+- Iran
+- Middle East
+- Montana
+- North Dakota
+- Strait of Hormuz
+- US
+- Utah
+- Washington
+- Wyoming
+people:
+- De Haan
+- Donald Trump
+- Kuan Dosmuratov
+- Madison Moore
+- O'Brien
+- Patrick De Haan
+- Randi O’Brien
+- Tom Kloza
+organisations:
+- AAA
+- Congressional
+- EIA
+- GasBuddy
+- Gulf Oil
+- Republican Party
+- US Energy Information Administration
+- Wood Mackenzie
 ---
 
 As the ongoing conflict in the Middle East continues to inflate energy expenses, American motorists are confronting historic fuel prices over the Labor Day weekend, coinciding with the official launch of political campaigns for the midterm Congressional elections.

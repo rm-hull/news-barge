@@ -14,6 +14,38 @@ image: https://cdn.mos.cms.futurecdn.net/kAL2kMi8c9mvUMyZjaDmii-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Clifton Suspension Bridge
+- South West England
+- TikTok
+- US
+- Virgin River
+- Wyvern
+people:
+- Dylan Keogh
+- Elinor Lawless
+- Flynn Byron
+- George Cooper Sr.
+- Melanie Hill
+- Neet Mohan
+- Olly Rix
+- Shabaz
+- ShabazSays
+- Stevie Nash
+- William Beck
+organisations:
+- A-List
+- BBC iPlayer
+- Google News
+- HBO Max
+- Hallmark
+- ITVX
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![A promotional shot of the cast of Casualty's 40th anniversary episodes](https://cdn.mos.cms.futurecdn.net/kAL2kMi8c9mvUMyZjaDmii.jpg) 

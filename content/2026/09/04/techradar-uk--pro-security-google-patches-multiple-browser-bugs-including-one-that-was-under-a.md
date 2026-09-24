@@ -11,6 +11,24 @@ description: A dozen flaws, including 10 high-severity ones, were addressed in o
 image: https://cdn.mos.cms.futurecdn.net/tSejjmrgK46MgdhWqD5miC-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Chrome
+- Opera
+- Sarajevo
+people:
+- Guzlia
+- Salvatore Gulizia
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Edge
+- Google Chrome
+- Google News
+- Microsoft
+- NVD
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Google Chrome app is seen on an iPhone next to Edge and other web browser apps. Microsoft is using new prompts in Edge to try and stop users from downloading Chrome.](https://cdn.mos.cms.futurecdn.net/tSejjmrgK46MgdhWqD5miC.jpg) 

@@ -16,6 +16,36 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Baltic Sea
+- Berlin
+- Germany
+- GermanyWhat
+- Mecklenburg Lake District
+- Mecklenburg-Western Pomerania
+- Mecklenburg-Western PomeraniaWho
+- Rügen
+- Saxony-Anhalt
+- Schwerin Castle
+- Ukraine
+- Usedom
+people:
+- Die Frau Gegen Blau
+- Friedrich Merz
+- Leif-Erik Holm
+- Manuela Schwesig
+- Sahra Wagenknecht
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- CDU
+- Greens
+- Landtag
+- SPD
+- Sahra Wagenknecht
+- Social Democrats
+- ZDF
 ---
 
 On Sunday September 20th, voters in Mecklenburg-Western Pomerania, Germany's north-eastern Baltic Sea state, will elect a new state parliament.

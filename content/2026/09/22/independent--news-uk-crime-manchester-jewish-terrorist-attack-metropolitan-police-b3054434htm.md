@@ -12,6 +12,22 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2024/03/08/10/1700134983.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Epworth Street
+- Greater Manchester
+- Lancaster Road
+- Liverpool
+- London
+- Newton Street
+- Salford
+- Yom Kippur
+people:
+- Vicki Evans
+organisations:
+- CTP
+- Counter Terrorism Policing
+- Metropolitan Police
+- The Independent
 ---
 
 Two men were arrested over a suspected terrorist plot to target the Jewish community in the Manchester area.

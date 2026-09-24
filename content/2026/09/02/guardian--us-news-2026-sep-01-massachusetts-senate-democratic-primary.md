@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Israel
+- Massachusetts
+- Vermont
+- White House
+people:
+- Bernie Sanders
+- Donald Trump
+- Ed Markey
+- Elizabeth Warren
+- Joe Biden
+- Joe Kennedy III
+- John Deaton
+- Kamala Harris
+- Seth Moulton
+organisations:
+- Associated Press
+- House
 ---
 
 Senator Ed Markey won the Democratic primary in Massachusetts on Tuesday, beating back a challenge from Seth Moulton, a congressman who tried to unseat him by arguing to voters his opponent was too old to be effective at his job.

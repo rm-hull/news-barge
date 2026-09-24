@@ -14,6 +14,64 @@ categories:
 - Science
 - Society & Culture
 - News & Politics
+locations:
+- Austin
+- Montgomery
+- US
+- United States
+people:
+- Brooke Rollins
+- Danah Boyd
+- David Peterson
+- Donald Trump
+- Doug Collins
+- Heidi Overton
+- Jackson Mejia
+- Jeff McCrea
+- John Abowd
+- Kevin Hassett
+- Lee Zeldin
+- Linda McMahon
+- Matthew Jensen
+- Matthew Whitaker
+- Max Kossek
+- Michael Corey
+- Michael Lachanski
+- Pam Bondi
+- Ryan Montgomery
+- Scott Turner
+- Steven Dillingham
+- Thomas Lane
+organisations:
+- AFPI
+- America First Policy Institute
+- American Association for the Advancement of Science
+- Arizona Republican Party
+- CNN
+- Census Bureau
+- Claremont Institute
+- Cornell University
+- Data Stewardship Executive Policy
+- Democracy Docket
+- Department of Commerce
+- Department of Justice
+- Environmental Protection Agency
+- House Committee on House Administration
+- Housing and Urban Development
+- IPA
+- LinkedIn
+- MIT
+- NATO
+- National Economic Council
+- Office for Fiscal and Regulatory Analysis
+- Office of the Inspector General
+- Politico
+- Talking Points Memo
+- Trump
+- US Census Bureau
+- University of Texas
+- WIRED
+- White House Domestic Policy Council
 ---
 
 Multiple staffers at a Trump-aligned policy think tank have burrowed their way into the US Census Bureau, where they have access to sensitive data and have contributed to a public report that bolsters conspiracy theories undermining trust in elections ahead of the midterms.

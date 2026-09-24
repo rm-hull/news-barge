@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- America
+- Carolina
+- Eastbourne
+- New York
+- Roland Garros
+- Spain
+- Winchester
+- Winnipeg
+people:
+- Alexander Zverev
+- Arthur Fery
+- Cameron Norrie
+- Carol Young Suh Lee
+- Jacob Fearnley
+- Jiri Lehecka
+- Katie Boulter
+- Luca Van Assche
+- Martin Landaluce
+- Toby Samuel
+- Tomas Machac
+organisations:
+- ATP
+- All American
+- BBC Radio 5 Live
+- University of South Carolina
 ---
 
 ![Toby Samuel, wearing a grey shirt and white backwards baseball cap, hits the ball with a green racquet](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/32f5/live/78c791d0-a4ca-11f1-aed2-8d6da8d75094.jpg)

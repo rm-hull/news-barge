@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Church Fenton
+- UK
+people:
+- Chris Jackson
+- Lubna Khan-Salim
+organisations:
+- Melanoma UK
+- Prostate Cancer UK
+- RJC Plant Services
+- RJC Plant Services Ltd
 ---
 
 *(Image: RJC Plant Services Ltd)*

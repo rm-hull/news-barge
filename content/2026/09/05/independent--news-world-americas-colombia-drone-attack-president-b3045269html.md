@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Catatumbo
+- Cesar
+- Colombia
+- Cucuta
+- Norte de Santander
+- Ocaña
+- Venezuela
+people:
+- Abelardo de la Espriella
+organisations:
+- ELN
+- FARC
+- National Liberation Army
+- Revolutionary Armed Forces of Colombia
 ---
 
 At least three soldiers have died, and four others have been wounded in an attack involving explosives dropped from drones, followed by a clash inside a military compound in northeastern Colombia.

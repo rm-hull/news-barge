@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Ayodele Jamgbadi
+- Ilford station
+- Kingston Road
+- London
+people:
+- Ayodele Jamgbadi
+- Elizabeth
+- Jorge Ortega
+- Michael Parsons
+- Mohammed Alim
+- Patrick Dennis
+- Paul Attwell
+organisations:
+- BTP
+- British Transport Police
+- Inner London Crown Court
+- Mental Health Tribunal
+- State for Justice
+- TfL
+- Transport for London
 ---
 
 A train passenger who missed his train and threw a fatal punch to the face of an Elizabeth line worker has been told he will be detained in hospital indefinitely.

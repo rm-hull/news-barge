@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452472.jpg?type=og-image
+locations:
+- Bradford City
+- Cardiff City Stadium
+- Leeds
+people:
+- Eleanor Powell
+- Ms Powell
+- Pippa Powell
+organisations:
+- Bantams
+- Bradford City
+- Idle
+- Sky Sports
+- Wigan Athletic
 ---
 
 *(Image: T&A)*

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Waitrose
+people: []
+organisations:
+- Food Standards Agency
+- NHS
+- Tesco Finest Caesar & Smoked Bacon Coleslaw
+- Waitrose & Partners
 ---
 
 Waitrose has issued a product recall for packs of black olives following the discovery of listeria contamination.

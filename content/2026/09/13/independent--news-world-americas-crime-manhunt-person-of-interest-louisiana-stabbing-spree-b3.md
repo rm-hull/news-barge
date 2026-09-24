@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Ashland Drive
+- Houma
+- Louisiana
+- New Orleans
+- Terrebonne Parish
+people:
+- Blake Tabor
+- Kaegan Jude Solet
+- Tim Soignet
+organisations:
+- Acadian Ambulance Service Air Med
+- Fox News Digital
+- Houma Today
+- Solet
 ---
 
 Authorities in Louisiana have arrested a person of interest in a stabbing spree that left four people dead and a child hospitalized in critical condition.

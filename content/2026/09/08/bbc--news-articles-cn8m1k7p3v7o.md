@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- America
+- Europe
+- Kyiv
+- Kyiv.
+- Moscow
+- Podilskyi
+- Russia
+- Saratov
+- Solomianskyi
+- U.S.
+- US
+- Ukraine
+people:
+- Donald Trump
+- Jared Kushner
+- Roman Busargin
+- Steve Witkoff
+- Volodymyr Zelenskiy
+- Volodymyr Zelensky
+organisations:
+- BBC Verify
+- Kyiv
+- Telegram
 ---
 
 ![People sleeping on camping mats and sitting in fold out chairs inside a metro station during a Russian strike in Kyiv.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/472f/live/84ecd810-ab25-11f1-b7f9-4f7d6b8f3d19.jpg)

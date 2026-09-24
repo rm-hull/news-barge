@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Islamic Republic of Iran
+- Jask
+- Jordan
+- Kharg Island
+- Khatam al-Anbiya
+- Kuwait
+- Strait of Hormuz
+- Tehran
+- US
+people:
+- Abdollahi
+- Derya
+- Tasnim
+- Trump
+organisations:
+- '## US CENTCOM'
+- Horizon 1
+- IRGC
+- Kivik
+- Revolutionary Guards
+- Riesco
+- US Central Command
+- US Navy
 ---
 
 ## US CENTCOM said crews were warned to abandon ship before its strikes after the IRGC fired missiles at a US Navy warship twice in two days. Tehran launched missile strikes on US targets in Jordan and warned tankers near Kuwait and Bahrain to evacuate.

@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Driffield
+- East Riding
+people:
+- Julie Turner
+- Paul West
+organisations:
+- '## Driffield'
+- Bikeability Trust
+- East Riding of Yorkshire Council
 ---
 
 ## Driffield cycling advocate wins lifetime award for 28 years of service

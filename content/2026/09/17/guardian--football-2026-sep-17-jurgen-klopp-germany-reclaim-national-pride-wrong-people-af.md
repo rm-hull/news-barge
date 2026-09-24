@@ -14,6 +14,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Berlin
+- Cologne
+- Frankfurt
+- Germany
+- Greece
+- Mecklenburg-Western Pomerania
+- Netherlands
+- Saxony-Anhalt
+- Serbia
+people:
+- Deniz Undav
+- Elversberg
+- Felix Keidel
+- Florian Wirtz
+- Jürgen Klopp
+- Kai Havertz
+- Karim Adeyemi
+- Leroy Sané
+- Manuel Neuer
+- Marc-André ter Stegen
+- Mika Baur
+- Said El Mala
+- Vitaly Janelt
+- Younes Ebnoutalib
+organisations:
+- AfD
+- Ajax
+- Alternative for Germany
+- Barcelona
+- Borussia Dortmund
+- Brentford
+- Celtic
+- Eintracht Frankfurt
+- Elversberg
+- Liverpool
+- Mainz
 ---
 
 Jürgen Klopp has said Germany’s football team can help ensure “national pride is not entrusted to the wrong people” after a recent far-right AfD election victory.

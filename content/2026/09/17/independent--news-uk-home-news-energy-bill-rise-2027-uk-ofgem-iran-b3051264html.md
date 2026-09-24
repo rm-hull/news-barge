@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- Middle East
+- Russia
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- John Healey
+- Rachel Reeves
+organisations:
+- Bloomberg Economics
+- British Industrial Competitiveness Scheme
+- Cornwall Insight
+- EDF
+- Ofgem
 ---
 
 Household energy costs could rise by over £400 in the new year, forecasters have warned, as financial pressure from conflict in the Middle East continues to affect fuel prices.

@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- YOUR
+people:
+- Antony Wright
+- Bowman Riley
+- Emma Dodsley
+- Ken Merry
+organisations:
+- Ben Johnson Interiors
+- Bowman Riley
+- Public Notice Portal
+- York College
 ---
 
 *(Image: Bowman Riley)*

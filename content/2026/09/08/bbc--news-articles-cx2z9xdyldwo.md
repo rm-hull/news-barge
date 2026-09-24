@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Scotland
+- Stenhousemuir
+people:
+- Alan MacPherson
+- Mayram Labaki
+- Rachel Wallace
+- Stephen Biggam
+organisations:
+- Falkirk Sheriff Court
+- Police Scotland
 ---
 
 ![Alan MacPherson is wearing a blue waterproof jacket with the hood up as he is led away by a custody officer](https://ichef.bbci.co.uk/ace/standard/891/cpsprodpb/c157/live/59223530-9c8a-11f1-8d19-93d7082c5662.jpg)

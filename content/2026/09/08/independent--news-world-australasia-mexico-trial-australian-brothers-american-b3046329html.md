@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Australia
+- Baja California
+- Ensenada
+- Mexico
+- Pacific
+- Perth
+- San Diego
+- US
+people:
+- '![Callum'
+- Ary Gisell Silva
+- Callum Robinson
+- Debra
+- Gerardo
+- Irineo Francisco
+- Jack Carter Rhoad
+- Jake Robinson
+- Jesús “El Kekas
+- Martin Robinson
+- Robinsons
+- Ángel Jesús
+organisations:
+- ABC
+- CBS News
 ---
 
 Three men accused of murdering two Australian brothers and their American friend two years ago have gone on trial in Mexico, with the parents of the victims attending the proceedings.

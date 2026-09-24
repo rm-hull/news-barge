@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Atlantic
+- Carangidae
+- Europe
+- Faroe Islands
+- Greenland
+- Iceland
+- Norway
+- Russia
+- South America
+- UK
+- Which?
+people:
+- Stewart Harper
+- Sue Davies
+organisations:
+- EU
+- FT
+- Financial Times
+- Ices
+- International Council for the Exploration of the Sea
+- Lidl GB
+- North Atlantic Fishing Company
+- Sainsbury’s
+- Skimpflation’
+- Tesco
+- Waitrose
 ---
 
 Tins of mackerel sold in many of the UK’s major supermarkets no longer contain any mackerel, it has emerged, as a result of overfishing concerns.

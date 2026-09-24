@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Travel
 - Technology & Software
+locations:
+- Bristol
+- Lisbon
+- Newcastle
+- North East
+- Uber
+people:
+- JOHN SLEIGH
+organisations:
+- Bank Holiday Passengers
+- EasyJet
+- Newcastle International Airport
+- Northern Echo
+- Ryanair
+- Teesside Airports
+- The Northern Echo
 ---
 
 *(Image: JOHN SLEIGH)*

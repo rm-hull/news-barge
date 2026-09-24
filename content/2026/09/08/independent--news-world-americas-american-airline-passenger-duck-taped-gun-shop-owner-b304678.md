@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Baltimore
+- Dallas
+- Maryland
+- New Jersey
+- Newark
+- Tucson
+- U.S.
+- Woodland Park
+people:
+- Arthur Layne Lundeen
+- Luan Mejia
+- Richard O’Lenick
+organisations:
+- American Airlines
+- BWI
+- CBS News
+- District of Maryland
+- FBI
+- Gun for Hire
+- Long Realty
+- Maryland Transportation Authority
+- Newsweek
+- The Independent
+- Washington International Airport
 ---
 
 A New Jersey gun range owner and his employee have been identified as the passengers who stepped up and duct-taped an out-of-control traveler to his airplane seat after he had a meltdown on an American Airlines flight last week.

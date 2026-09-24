@@ -12,6 +12,12 @@ categories:
 - Science
 - History
 image: https://static.independent.co.uk/2026/09/22/9/02/Skeletal-diagram-of-Kayrasaurus-changliensis-in-lateral-view.jpeg?trim=0,412,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Jehol Biota
+- Liaoning
+people: []
+organisations: []
 ---
 
 Researchers have identified a new long-clawed dinosaur species with “unique features” from a fossil skeleton found in China.

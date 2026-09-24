@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Carlisle
+- Chilton
+- County Durham
+- Dalston Road
+- Darlington
+- Ferryhill
+people:
+- Covid
+- Michelle Windress
+- Michelle of Shell
+- Stuart Boulton
+organisations:
+- 5NP
+- Best Bakery
+- Covid
+- LOCALLY House
+- Shell
+- Shell’s Village Bakery
+- The Northern Echo
+- Village Bakery
 ---
 
 A former car sales worker who swapped car dealerships for pasties after being furloughed during Covid now serves around 250 Sunday dinners a week.

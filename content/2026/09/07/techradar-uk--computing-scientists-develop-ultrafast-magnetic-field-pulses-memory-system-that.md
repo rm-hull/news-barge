@@ -13,6 +13,27 @@ image: https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Alberta
+- Alex Blake
+- Canada.
+- Scotland
+people:
+- Alex Blake
+- Elton J.G
+- Santos
+organisations:
+- AI
+- Advanced Materials journal
+- Apple
+- Creative Bloq
+- Google News
+- MacFormat
+- Meta
+- Science Daily
+- TechRadar
+- University of Edinburgh
+- iMore
 ---
 
 ![Data centre.](https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk.jpg) 

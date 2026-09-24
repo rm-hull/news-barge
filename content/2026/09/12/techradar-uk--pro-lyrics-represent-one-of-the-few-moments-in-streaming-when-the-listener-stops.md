@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/qafjr7aU3HQXEj2mTytryj-1920-80.png
 categories:
 - Technology & Software
 - Music
+locations:
+- Bologna
+- Oxford
+- São Paulo
+people:
+- Marco Paglia
+- Steve Clark
+organisations:
+- DSP
+- Digital Service Provider
+- Music Lens
+- Musixmatch
+- Rolling Stones
+- Spotify
+- Steve
+- TechRadar Pro
 ---
 
 ![A band on stage during a concert with fans watching on, singing along](https://cdn.mos.cms.futurecdn.net/qafjr7aU3HQXEj2mTytryj.png) 

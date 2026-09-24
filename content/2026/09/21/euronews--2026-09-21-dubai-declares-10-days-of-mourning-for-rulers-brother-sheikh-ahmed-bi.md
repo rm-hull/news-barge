@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - True Crime
 image: https://images.euronews.com/articles/stories/09/92/14/80/1200x675_cmsv2_eaa0b3f7-9042-5088-b9d7-65c2052520f5-9921480.jpg
+locations:
+- Dubai
+- UAE
+people:
+- Ahmed bin Rashid Al Maktoum
+- Hamdan bin Mohammed Al Maktoum
+- Mohamed bin Zayed Al Nahyan
+- Mohammed bin Rashid Al Maktoum
+organisations:
+- ARM Holding
+- Al Wasl Sports Club
+- Defence
+- Dubai International Marine Club
+- Dubai Media Office
+- Dubai Police and Public Security
+- Dubai Racing Club
+- Dubai Real Estate Centre
+- Jebel Ali Racecourse
+- Ruler's Court
+- Victory Team
 ---
 
 ## Dubai has declared ten days of official mourning after the death of Sheikh Ahmed bin Rashid Al Maktoum, the emirate's ruler's youngest brother.

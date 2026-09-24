@@ -11,6 +11,11 @@ image: https://media.wired.com/photos/6a925150bb3a85e785f50cc3/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- New York City
+people: []
+organisations:
+- Guinness World Records
 ---
 
 The Soundcore Liberty 5 Pro did something I wasn't expecting: It made me call my family more.

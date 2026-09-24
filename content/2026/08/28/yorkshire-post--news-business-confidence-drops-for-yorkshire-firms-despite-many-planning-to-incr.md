@@ -17,6 +17,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Leeds
+- Middle East
+- UK
+- Yorkshire
+people:
+- Amanda Murphy
+- Martyn Kendrick
+- Simon Hulme.
+organisations:
+- Lloyds Business and Commercial Banking
+- Yorkshire Post
 ---
 
 # Business confidence drops for Yorkshire firms despite many planning to increase staff numbers

@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bridge Michigan
+- Europe
+- Great Lake
+- Great Lakes
+- Great Lakes’
+- Huron
+- Lake Michigan
+- Naubinway
+- Saugatuck
+- Superior
+- US
+- Whitefish
+- Wolf Lake State Fish Hatchery
+people:
+- Dan Lord
+- Debbie Dingell
+- Doug Craven
+- Matt Herbert
+- Randy Claramunt
+- Tim Walberg
+organisations:
+- Bridge Michigan
+- Congress
+- DNR Fisheries
+- Great Lakes Fishery Trust
+- Little Traverse Bay Band
+- Michigan Department of Natural Resources and Little Traverse Bay Bands
+- Nature Conservancy
+- Odawa Indians
+- The Associated Press
 ---
 
 With time running out to save the Great Lakes’ whitefish from a deadly mussel invasion, Michigan officials have a moonshot plan to pluck fish from Lake Michigan and breed them in captivity.

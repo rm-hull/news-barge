@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- England
+- France
+- Isak
+- Liverpool
+- Newcastle
+- Sweden
+people:
+- '## Iraola'
+- Alexander Isak
+- Amit Bhatia
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Erling Haaland
+- Hugo Ekitike
+- Joe Hart
+- John Henry
+- Mohamed Salah
+- Ollie Watkins
+- Richard Hughes
+- Steven Gerrard
+organisations:
+- Anfield
+- Barcola
+- Bournemouth
+- Cherries
+- DuringLiverpool
+- Iraola
+- Liverpool
+- Newcastle
+- Nottingham Forest
+- Paris St-Germain
+- Premier League
+- TNT Sports
+- Tyneside
 ---
 
 ![Alexander Isak celebrates scoring against Forest](https://ichef.bbci.co.uk/ace/standard/633/cpsprodpb/f43c/live/1371b270-a3c1-11f1-b13c-0d78069132fa.jpg)

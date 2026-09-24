@@ -10,6 +10,23 @@ description: Maybe ease off little?
 image: https://cdn.mos.cms.futurecdn.net/uFka7M2YjcFGhhtPTMDnJY-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- Christian Cawley
+- Jakub Pachocki
+organisations:
+- AI
+- AIs
+- Computer Weekly
+- ComputerActive
+- GPT-6 Astra
+- Google News
+- Linux Format
+- Matter Alpha
+- OpenAI
+- Pachocki
+- TechRadar Pro
 ---
 
 ![Abstract digital human face. Artificial intelligence concept of big data or cyber security](https://cdn.mos.cms.futurecdn.net/uFka7M2YjcFGhhtPTMDnJY.jpg) 

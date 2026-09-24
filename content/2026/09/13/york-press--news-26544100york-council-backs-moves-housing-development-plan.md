@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Long Lane Close
+- Walmgate
+- Willow House
+- YOUR
+- York
+people:
+- Cllr Ayre
+- Cllr Merrett
+- Cllr Nigel Ayre
+- Dave Merrett
+organisations:
+- CPO
+- City of York Council
+- LDRS
+- Labour Housing Executive
+- Liberal Democrat
+- Local Transport Grant
+- Neighbourhood Improvement Plan
+- Public Notice Portal
+- Walmgate
+- Willow House
+- York and North Yorkshire Combined Authority
 ---
 
 ## Moves to avoid delays to 'important' York housing development backed

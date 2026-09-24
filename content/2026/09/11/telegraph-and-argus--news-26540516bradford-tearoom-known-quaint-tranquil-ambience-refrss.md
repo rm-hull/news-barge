@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- BRADFORD
+- Idle
+- UGC
+people:
+- Emily Beaton
+- Miss Butterfinger
+organisations:
+- T&A
+- Telegraph & Argus
+- The Green
 ---
 
 *(Image: UGC)*

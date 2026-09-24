@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alder Close
+- Chester-le-Street
+- HMP Durham
+- Newcastle
+- Pelton
+- Royal Victoria Hospital
+people:
+- Amelia Anderson
+- Cameron Green
+- Chris Knox KC
+- Richard Clews
+organisations:
+- Durham Crown Court
+- Probation Service
+- The Northern Echo
 ---
 
 A man who has admitted stabbing a woman in the back was told the only sentence he can expect is one of imprisonment, with only its length in question.

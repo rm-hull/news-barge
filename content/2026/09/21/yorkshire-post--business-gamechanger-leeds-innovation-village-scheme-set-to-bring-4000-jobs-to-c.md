@@ -15,6 +15,29 @@ categories:
 - Video Gaming
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc3NzNiMGJkLTU1ZWUtNDIyNy1iZWY5LWI5OGYwMGUxYmQwZDo0ZGUwZTI1OS1iYWIyLTQyODMtYmQyYi03NjcwYTFjMGRiYTU=.jpg?crop=3:2,smart&trim=&width=768&auto=webp&quality=75
+locations:
+- England
+- Europe
+- Innovation Village
+- Leeds Teaching Hospitals
+- Manchester
+- Old Medical Village
+- UK
+people:
+- Deb Hetherington
+organisations:
+- Birmingham
+- Deb Hetherington
+- Grade II
+- Innovation Ecosystems
+- Innovative Village
+- Leeds Innovation Village
+- Leeds Teaching Hospitals NHS Trust
+- Liverpool
+- Old Medical School
+- SGI
+- Scarborough Group International
+- The Yorkshire Post
 ---
 
 # 'Gamechanger': Leeds Innovation Village scheme set to bring 4,000 jobs to city ambitions outlined

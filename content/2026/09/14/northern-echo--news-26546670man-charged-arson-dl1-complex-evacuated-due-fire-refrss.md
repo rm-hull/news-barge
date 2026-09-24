@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- County Durham
+- DL1
+- Darlington
+- Forcett Street
+- Newton Aycliffe Magistrates’ Court
+- UK
+- Vue
+- Woollen Mill
+people:
+- Chris Williams
+- Raymond Coglan
+organisations:
+- DL1
+- Darlington Fire and Rescue Service
+- Nando’s
+- Premier Inn
 ---
 
 A man has been charged with arson after Darlington’s DL1 complex was evacuated due to a fire.

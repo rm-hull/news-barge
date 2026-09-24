@@ -13,6 +13,27 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/c723e9373ad5541713e841d1668422eec041a93f/613_33_3290_2633/master/3290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8894d8959abb2ff3427e8349d955ee9
+locations:
+- Ireland
+- US
+people:
+- Agustín Reyna
+- Finn Myrstad
+- Graham Doyle
+organisations:
+- BEUC
+- DPC
+- Data Protection Commission
+- EEA
+- EU
+- European Consumer Organisation
+- Forbrukerrådet
+- GDPR
+- Google
+- Instagram
+- Meta
+- Norwegian Consumer Council
+- TikTok
 ---
 
 Google has been fined more than €400m (£345m) over the way it processed users’ location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones.

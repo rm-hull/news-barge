@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Fulford Road
+- Iceland
+- York
+people:
+- Cllr Whitcroft
+- Conrad Whitcroft
+- McDonald
+organisations:
+- City of York Council
+- Dalian Properties Ltd
+- Greggs
+- Labour Fishergate
+- McDonald
+- McDonald’s
 ---
 
 Efforts to bring an empty York supermarket building back into use have taken a step forward amid fears over the plans.

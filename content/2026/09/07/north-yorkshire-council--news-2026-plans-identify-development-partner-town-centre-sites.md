@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - Government
 - Society & Culture
+locations:
+- Castle House
+- Resolution House
+- Scarborough Town Hall
+- West Pier
+people:
+- Mark Crane
+- Peter Wilkinson
+organisations:
+- North Yorkshire Combined Authority
+- Scarborough Town Hall
+- Station Gateway
+- Town Hall
+- York
 ---
 
 ![Scarborough Town Hall](https://www.northyorks.gov.uk/sites/default/files/2026-09/ScarboroughTownHall2.JPG) 

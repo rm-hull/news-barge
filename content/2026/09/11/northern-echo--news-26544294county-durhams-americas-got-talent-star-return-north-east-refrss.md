@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Edinburgh
+- Hartlepool
+- Leeds
+- Liverpool
+- London
+- NBC
+- Sunderland
+- UK
+people:
+- Courtney Hadwin
+- Hesleden
+- Ms Hadwin
+- Simon Cowell
+organisations:
+- America’s Got Talent
+- County Durham
+- Hartlepool
 ---
 
 *(Image: TRAE PATTON/NBC/PA WIRE)*

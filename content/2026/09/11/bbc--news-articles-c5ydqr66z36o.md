@@ -11,6 +11,43 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4eb/live/7716b7
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Gloucester
+- Grosvenor Square
+- London
+- Manchester
+- New York
+- North Tower
+- Olympic Park
+- Pennsylvania
+- Queen Elizabeth Olympic Park
+- Shanksville
+- South Tower
+- UK
+- US
+- Virginia
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Ephraim Mirvis
+- Harriet Stephens
+- Kemi Badenoch
+- Liam McKenna
+- Megan Clarke
+- Nigel Farage
+- Rhun ap Iorwerth
+- Vanessa Lawrence
+- Warren Stephens
+organisations:
+- BBC Radio Scotland
+- Changing of the Guard
+- Liberal Democrats
+- Pentagon
+- Reform UK
+- Twin Towers
+- World Trade Center
 ---
 
 ![A man stands at a podium in front of a seated audience at the Queen Elizabeth Olympic Park](https://ichef.bbci.co.uk/ace/standard/837/cpsprodpb/c4eb/live/7716b720-add6-11f1-a40e-b70f4378d974.jpg)

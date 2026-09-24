@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Skipton Town Hall
+- Yorkshire Dales
+people:
+- Henrik Uldalen
+- Jill Carver
+- Nanzy Guzik
+- Shane Wolf
+organisations:
+- Craven Arts
+- Craven Arts House
+- Craven Museum and Gallery
+- Mill Bridge Gallery
+- Skipton Little Theatre
+- Skipton Music
+- Skipton Players
+- Yorkshire Dales
 ---
 
 # Enjoy Skipton’s cultural scene – a visit full of art, theatre and inspiration in a stunning location

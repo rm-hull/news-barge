@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21488019.jpg?type=og-image
+locations:
+- Barden Moor Road
+- Darlington
+- Emley Moor Road
+- Geneva Road
+- Hundens Lane
+- Louisa Street
+- Middleton Lane
+- Middleton St George
+- Neasham Road
+- Westminster Road
+people:
+- Andrew Walker
+- Gary Metcalfe
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Nissan Pulsar
 ---
 
 *(Image: Durham Constabulary)*

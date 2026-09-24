@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Aberdeen Walk
+- North Yorkshire
+- Scarborough
+- UK
+- Whitby
+- York
+people:
+- Alison Hume
+- Andy Burnham
+- Neil Kenward
+organisations:
+- Government
+- Historic North Yorkshire
+- Markets
+- North Yorkshire Council
+- Ofgem
+- Scarborough South Bay
+- UK North Yorkshire Coast and Moors
 ---
 
 HOUSEHOLDS on the North Yorkshire coast are facing renewed cost-of-living pressure as energy prices are set to rise.

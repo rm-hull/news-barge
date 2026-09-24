@@ -12,6 +12,35 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/18/58/GettyImages-1355584993.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Austin
+- Brett’s BBQ
+- Corpus Christi
+- East Texas
+- Fort Worth
+- Houston
+- New Caney
+- Sinton
+- Wimberley
+people:
+- Andrew Soto
+- Daniel Vaughn
+- Donald Trump
+- Russell Roegels
+- Shawn Jones
+organisations:
+- Butter’s BBQ
+- Facebook
+- Fiasco BBQ
+- Kelly’s Hill Country BBQ
+- Kirby’s BBQ
+- Lenox Bar-B-Q
+- Sabar BBQ
+- Texas Monthly
+- The Washington Post
+- U.S. Department of Agriculture
+- Wright On Taco & BBQ
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Bayeux Around Britain
+- British Museum
+- France
+- London
+- UK
+- United Kingdom
+- Windsor Castle
+people:
+- Andy Burnham
+- Brigitte Macron
+- Camilla
+- Charles
+- Emmanuel Macron
+- Harold Godwinson
+- Marie-France van Heel
+organisations:
+- British Museum
+- Labour
 ---
 
 The loan of the Bayeux tapestry was the “the best possible symbol” of the “entente amicale” between France and the UK, King Charles said as he visited the famous embroidered masterpiece at the British Museum in London.

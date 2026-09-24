@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Ampleforth Abbey
+- North Yorkshire
+people:
+- Brett Payne
+- Ms Rumfitt
+- Sarah Leighton
+- Steven Moore
+- Susan Rumfitt
+organisations:
+- Acquire Ampleforth
+- Ampleforth Abbey
+- Antiques Roadshow
+- BBC
+- Susan Rumfitt
 ---
 
 ## Antiques Roadshow favourites to share their expertise at Ampleforth Abbey

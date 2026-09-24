@@ -13,6 +13,26 @@ image: https://cdn.mos.cms.futurecdn.net/9vAcD45oGxEhDzfoWGjpcS-1920-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- GameRant
+people:
+- Bigby Wolf
+- Faye
+- Isaiah Williams
+- Jessica Hara Campbell
+- Leslie Harwood
+- Snow White
+- Toad
+organisations:
+- AdHoc Studio
+- Birmingham City University
+- Capcom
+- Fabletown
+- Google News
+- Isaiah
+- PC Guide
+- TechRadar
+- Telltale
 ---
 
 ![Bigby in The Wolf Among Us 2](https://cdn.mos.cms.futurecdn.net/9vAcD45oGxEhDzfoWGjpcS.png) 

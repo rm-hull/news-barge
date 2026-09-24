@@ -13,6 +13,17 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Hannover
+- Hanover
+people:
+- Radioeins
+- Steffen Krach
+organisations:
+- Funke Foto Services
+- House of Representatives
+- SPD
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0866497683h-scaled.jpg)

@@ -11,6 +11,17 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- '#### A19'
+- North Yorkshire
+- Northallerton
+- Ripon
+- South Kilvington
+- Thirsk
+- Thirsk**
+people: []
+organisations:
+- South Kilvington A North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a crash on the A19 in North Yorkshire early this morning (Tuesday).

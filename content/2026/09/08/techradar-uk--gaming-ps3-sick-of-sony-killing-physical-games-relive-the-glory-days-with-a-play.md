@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/8Uj7DNUCXaq5YqWiLY3KaG-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people: []
+organisations:
+- Google News
+- Hamish
+- PS3
+- RPCS3
+- Sony
+- TechRadar
+- macOS
 ---
 
 ![PS3](https://cdn.mos.cms.futurecdn.net/8Uj7DNUCXaq5YqWiLY3KaG.jpg) 

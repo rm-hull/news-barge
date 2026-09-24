@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- North Yorkshire
+- Santa Run
+- South Park
+- Teesside
+- West Park
+people:
+- Gary Read
+- Reid
+- Rob Gillham
+organisations:
+- Andy Futers
+- Darlington Hippodrome
+- Quakers Running Club
+- St Teresa
+- St Teresa's Hospice
+- St Teresa’s
+- St Teresa’s Hospice
 ---
 
 A popular Christmas fundraising event has been given a new lease of life.

@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c65c/live/dd0dcc30-b6b9-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Chester-le-Street
+- England
+- Headingley
+- India
+- Sri Lanka
+- The Oval
+people:
+- '## Jacks'
+- ):** Brook
+- ):** Wellalage
+- Adil Rashid
+- Asitha Fernando
+- Brendon McCullum
+- Charith Asalanka
+- Chester-le-StreetEngland
+- Dilshan Madushanka
+- Dunith Wellalage
+- Gus Atkinson
+- Harry Brook
+- Jamie Overton
+- Joe Root
+- Jofra Archer
+- Jos Buttler
+- Josh Tongue
+- Kusal Mendis
+- Rehan Ahmed
+- Sachindu Colombage
+- Tom Banton
+- Vic Marks
+- Will Jacks'
+organisations:
+- England
+- First Metro Bank
+- ODI
 ---
 
 Root, Buttler, Overton - Colombage's debut to remember for Sri Lanka

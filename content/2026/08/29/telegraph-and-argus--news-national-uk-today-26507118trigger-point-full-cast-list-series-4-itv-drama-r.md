@@ -14,6 +14,67 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- London
+people:
+- Andy Oldfield
+- Ben Miller
+- Chris Reilly
+- Christopher Hatherall
+- DC Neil Brenton
+- DCI Amir Batra
+- Danny
+- David Mitchell
+- Davina Moon
+- Eddie
+- Ellie Hackett
+- Eric Shango
+- Esme Winston
+- Fred Pearce
+- Helen Morgan
+- Ian Conningham
+- Johanne Wollford
+- John Francis
+- Jonas Armstrong
+- Joshua Griffin
+- Julian Ovenden
+- Julie Graham
+- Kai Gadley
+- Katie Carlton
+- Kerry Godliman
+- Lana Washington
+- Ludwig
+- Maanuv Thiara
+- Maisie Ayres
+- Marc Warren
+- Matt Barkley
+- Matthew Redhead
+- Michael Balogun
+- Nabil Elouahabi
+- Natalie Simpson
+- Nia Quentin
+- Phil Croxley
+- Posy Sterling
+- Robert Wells
+- Roderick Hill
+- Sam Baker-Jones
+- Sebastian Pinchbeck
+- Sonya Reeves
+- Tom Glenister
+- Tommy French
+- Tony Miller
+- Troy
+- Van der Valk
+- Vicky McClure
+- Wren
+organisations:
+- BBC
+- Hass
+- ITV 1
+- ITVX
+- Metropolitan Police
+- Schroder
+- Trigger Point
 ---
 
 *(Image: ITV)*

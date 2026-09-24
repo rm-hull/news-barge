@@ -14,6 +14,18 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/6045a820bbc2f8aa0efdc9b84c104bc81c37fc5b/438_0_4380_3504/master/4380.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cf2a08eee9ffa9ce8c50079caad3a84
+locations:
+- New York City
+people:
+- DoorDash
+- Grubhub
+- Uber
+- Zohran Mamdani
+organisations:
+- Dashers
+- DoorDash
+- Grubhub
+- Uber Eats
 ---
 
 DoorDash said it would pay $131.5m ⁠to settle a ​New York City government investigation that found the food delivery company underpaid or waited too long to pay workers.

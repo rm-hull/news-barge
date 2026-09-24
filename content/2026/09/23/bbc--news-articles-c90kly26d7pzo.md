@@ -13,6 +13,39 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg
+locations:
+- Europe
+- Kremlin
+- New York
+- UK
+- US
+- Ukraine
+people:
+- António Guterres
+- Chris Vallance
+- Claude
+- Dario Amodei
+- Donald Trump
+- George Osborne
+- Hugging Face
+- Jamie MacColl
+- Rafe Pilling
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- BBC
+- CERT-UA
+- Computer Emergency Response Team of Ukraine
+- Daybreak
+- Google
+- OpenAI for Countries
+- RUSI
+- Royal United Services Institute
+- Sophos
+- UN General Assembly
+- United Nations
+- VPNs
 ---
 
 ![The word Daybreak in orange against a white phone background. Below it says Frontier AI for cyber defenders.](https://ichef.bbci.co.uk/ace/standard/992/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg)

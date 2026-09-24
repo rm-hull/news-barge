@@ -13,6 +13,27 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Orem
+- Provo
+- Utah
+people:
+- Astrid Tuminez
+- Charlie Kirk
+- Erika Kirk
+- Jeffrey Long
+- Kathryn Kirk
+- Loren Washburn
+- Robert
+- Trump
+- Tyler Robinson
+organisations:
+- Associated Press
+- Fourth District Courthouse
+- Turning Point USA
+- UVU Parties
+- Utah Attorney General’s Office
+- Utah Valley University
 ---
 
 Charlie Kirk’s family has accused Utah officials of failing to prevent the conservative activist’s assassination, taking the first step toward a potential wrongful death lawsuit over alleged security failures at Utah Valley University.

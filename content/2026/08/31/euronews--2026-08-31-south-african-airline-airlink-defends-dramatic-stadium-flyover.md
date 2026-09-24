@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Cape Town
+- DHL Stadium
+- New Zealand
+- South Africa
+people:
+- Gayton McKenzie
+- Scott Bateman
+organisations:
+- Air Traffic Navigation Services
+- Airlink
+- Arts and Culture
+- Flightradar24
+- South African Civil Aviation Authority
 ---
 
 ## Footage of the flyover quickly began circulating on social media, prompting mixed reactions as some expressed concerns over safety.

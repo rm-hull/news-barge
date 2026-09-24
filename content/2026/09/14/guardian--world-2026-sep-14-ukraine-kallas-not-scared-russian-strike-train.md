@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Brussels
+- Europe
+- Finland
+- Kyiv
+- Poland
+- Russia
+- UK
+- Ukraine-Poland
+- Western Ukraine
+people:
+- Andy Burnham
+- Boris Johnson
+- Carl Bildt
+- David Petraeus
+- Donald Tusk
+- Jean-Noël Barrot
+- Kaja Kallas
+- Kyiv
+- Mark Rutte
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- EU
+- Nato
+- Telegram
+- Ukrainian Railways
 ---
 
 The head of Nato has said a Russian drone attack on a train close to Ukraine’s border with Poland would not deter Kyiv’s western backers.

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 - Lifestyle & Fashion
+locations:
+- King's Hall Ilkley
+people:
+- Darius Davies
+- Eddy Brimson
+- Garrett Millerick
+- Jenny Hart
+organisations:
+- Comedy Store Ilkley
+- Google Street View
+- Live Nation
+- The Comedy Store
 ---
 
 *(Image: Google Street View)*

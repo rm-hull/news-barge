@@ -12,6 +12,19 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- US
+people:
+- Craig Hale
+- Torsten Slok
+organisations:
+- AI
+- Anthropic
+- Apollo Global Management
+- Craig’s
+- Google News
+- TechRadar Pro
+- human-AI
 ---
 
 ![An office worker speaking to a colleague in an office at night. The co-worker is seated in front of computers](https://cdn.mos.cms.futurecdn.net/Z89KwLLBdGLuNm2q4tXDKL.jpg) 

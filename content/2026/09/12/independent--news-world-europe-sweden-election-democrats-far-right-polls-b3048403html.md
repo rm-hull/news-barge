@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Europe Sweden
+- Germany
+- Mogadishu
+- Nykoping
+- Russia
+- Saxony-Anhalt
+- US
+- Ukraine
+people:
+- Birgitta Ohlsson
+- Donald Trump
+- Jan Guillou
+- Jenny Madestam
+- Jimmie Akesson
+- Jimmie Åkesson
+- Magdalena Andersson
+- Nicholas Aylott
+- Ulf Kristersson
+organisations:
+- AfD
+- Alternative for Germany
+- Associated Press
+- Center Party
+- Left
+- Right
+- Sweden Democrats
+- Södertörn University
+- The Independent
 ---
 
 It was a point of national pride that at the height of the 2015 refugee crisis across Europe Sweden took in 163,000 asylum seekers, the second highest per capita across the continent – equivalent to one person for every 60 locals.

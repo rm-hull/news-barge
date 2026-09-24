@@ -13,6 +13,82 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52b7/live/dc74eac0-b44c-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Allianz Stadium
+- Canada
+- England
+- Exeter
+- France
+- Italy
+- New Zealand
+- Sandy Park
+- Sandy Park.
+- Twickenham
+people:
+- '**Cons:** De Goede'
+- :** Clara Munarini
+- :** Gallagher
+- :** Gibson
+- :** Harrison
+- :** Kildunne
+- :** Moloney-MacDonald
+- Aitchison
+- Alexandra Ferre
+- Asia Hogan-Rochester
+- Aurelie Groizeleau
+- Bauder
+- Bern
+- Boag
+- Breach
+- Bryony Field
+- Buisa
+- Burns
+- Burton
+- Campbell
+- Carson
+- Claudia Moloney-MacDonald
+- DaLeaka Menin
+- De Goede
+- Ellie Kildunne
+- Feaunati
+- Forteza
+- Hannah Botterman
+- Idowu
+- Ives Campion
+- John Mitchell
+- Jones
+- Kevin Rouet
+- L Packer
+- Lizzie Gibson
+- M Packer
+- Matteo Liperini
+- Matthews
+- McDonald
+- Muir
+- Nelson
+- Olivia Apps
+- Omokhuale
+- Pelletier
+- Perry
+- Rempel
+- Robinson
+- Rowland
+- Royer
+- Sadia Kabeya
+- Senft
+- Smith
+- Sophie de Goede
+- Symonds
+- Talling
+- Tessier
+- WXV Global SeriesEngland
+- Williams
+organisations:
+- Australia
+- England
+- Exeter
+- Red Roses
+- WXV1
 ---
 
 Watch highlights: England 26-26 Canada

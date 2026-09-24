@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations: []
+people:
+- Brach
+- Candy Corn
+- Kelly Peyser
+organisations:
+- Brach's
+- Brach’s
+- Candy Corn
+- Caramel Corn
+- Cotton Candy
+- Ferrara Candy Company
+- Green Apple
+- Marshmallow
 ---
 
 Halloween superfans can now *smell* like their favorite spooky staple. 

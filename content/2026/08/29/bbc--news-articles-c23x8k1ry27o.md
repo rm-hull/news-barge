@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Durham
+- England
+- Europe
+- Gloucestershire
+- Kidlington
+- Manchester
+- Nottingham
+- Oxfordshire
+- UK
+- Wales
+people:
+- Andy Burnham
+- Arooj Shah
+- Gavin Lane
+- Graeme Milne
+- Jacob Hayler
+- John Redmayne
+organisations:
+- Country Land and Business Association
+- Defra
+- Department for Food and Rural Affairs
+- Ecogenesys
+- Environmental Services Association
+- European Recycling Platform
+- Houses of Parliament.
+- LGA Neighbourhoods committee
+- Local Government Association
+- Politics Essential
 ---
 
 ![A huge pile of broken fridges is pictured, with white doors removed from some units.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg)

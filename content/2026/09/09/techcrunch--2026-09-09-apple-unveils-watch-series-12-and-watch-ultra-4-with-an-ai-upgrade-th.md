@@ -13,6 +13,13 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Cupertino
+people:
+- Siri Recap
+organisations:
+- Apple Intelligence
+- Digital Crown
 ---
 
 Apple on Wednesday unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 at its iPhone launch event in Cupertino. While the smartwatches aren’t getting a major hardware makeover, they are getting some significant software updates.

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Milton Keynes
+- Paris
+people:
+- Arvid Lindblad
+- Isack Hadjar
+- Lewis Hamilton
+- Liam Lawson
+- McLaren
+- Mercedes' George Russell
+- Oscar Piastri
+- Pierre Gasly
+organisations:
+- Alpine
+- Court of Arbitration for Sport
+- F1
+- FIA
+- Ferrari
+- McLaren
+- Mercedes
+- Red Bull
 ---
 
 ![Pierre Gasly's Alpine approaches the hairpin during the 2026 Monaco Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7d7f/live/c9ff38c0-a851-11f1-80f8-c33181935c5a.jpg)

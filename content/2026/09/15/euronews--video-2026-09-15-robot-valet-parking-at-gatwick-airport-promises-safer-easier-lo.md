@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Gatwick
+people: []
+organisations:
+- '**Stanley Robotics**'
+- Stanley Robotics
 ---
 
 The robots, developed by French company **Stanley Robotics**, can park cars with centimetre-level precision. Gatwick says the system can accommodate around** 95% of vehicles**, although some cars are excluded. Vehicles must weigh no more than** 2.6 tonnes**, be under** 2.3 metres**tall, have a wheelbase of less than** 3.3 metres**and wheels no larger than** 21 inches (53,34 centimètres)**.

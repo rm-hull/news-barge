@@ -15,6 +15,46 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- CLEVELAND
+- Matusiak
+- Normanby Medical Centre
+- Normanby Road
+- Redcar
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter’s
+- Teesside
+- UK
+people:
+- Alec Brown
+- Cllr Brown
+- Jakub Matusiak
+- Lucy Powell
+- Mark Robinson
+- Matt Vickers
+- Matthew Blades
+- Pc Matthew Blades
+- Pc Tom Clough
+- Richard Townshend
+- Tammy Cooper
+- Tom Clough.
+organisations:
+- A66
+- Archway Academy Teesville
+- BBC Radio 4
+- Catholic Primary School
+- Cleveland Borough Council
+- Cleveland Police
+- Home Office
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Outwood Academy
+- Outwood Academy Normanby
+- PA Wire
+- South Bank Primary School
+- Stockton West
 ---
 
 The Education Secretary said there are “huge anxieties and worries in the community” amid a string of school closures due to an A66 crash funeral.

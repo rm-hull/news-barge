@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Keld
+- Middlesbrough
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+people:
+- Amanda Owen
+- Anty John
+- Clive
+- Owens
+- Ravenseat
+- Reuben
+- Robert Miller
+organisations:
+- Anty John's
+- Channel 4
+- Duty Free Shops
+- Farmers Weekly
+- House
+- Our Yorkshire Farm
+- Ravenseat
+- Yorkshire Shepherdess
+- Yorkshire Shepherdess Ltd
 ---
 
 *(Image: CHANNEL 4/LIME PICTURES)*

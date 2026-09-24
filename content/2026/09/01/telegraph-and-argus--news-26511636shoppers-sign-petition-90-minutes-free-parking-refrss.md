@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- UK
+people:
+- Jackson Szabo
+- Jeff Banks
+organisations:
+- Bradford
+- Getty
+- JD Wetherspoon
+- Spring & Autumn Fair
+- Vinted
+- Voice of Retail
+- Warehouse
 ---
 
 *(Image: Getty)*

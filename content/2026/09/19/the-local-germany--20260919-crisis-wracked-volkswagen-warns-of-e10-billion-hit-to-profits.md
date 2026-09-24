@@ -16,6 +16,23 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8LH3BE__v3__MidRes__GermanyEconomyAutomobileVwUnions.jpg@webp
+locations:
+- China
+- Europe
+- Germany
+- Lower Saxony
+- Osnabrueck
+people:
+- Arno Antlitz
+organisations:
+- Audi
+- BMW
+- EVs
+- Mercedes-Benz
+- Porsche
+- Rafael Advanced Defence Systems
+- VW
+- Volkswagen
 ---
 
 Europe's biggest carmaker, in the process of pushing through the global auto industry's largest job-cutting drive, said it expected a profit margin of just one percent for 2026, down from a previous forecast of between four and 5.5 percent.

@@ -14,6 +14,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2025/01/15/09/PA-78685661.jpg?width=1200&height=800&crop=1200:800
+locations:
+- NHS
+people:
+- Anita Charlesworth
+organisations:
+- AI
+- Department of Health and Social Care
+- Health Foundation
+- NHS
 ---
 
 The NHS could avoid up to 20,600 deaths each year with its current funding if it were more productive, a new think tank report has said.

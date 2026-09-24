@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Mesa
+people:
+- Tom
+organisations:
+- AMD
+- ASRock
+- BC-250
+- CPU
+- CU
+- Etiido Uko
+- FSR
+- GPU
+- Get Tom's Hardware
+- Google News
+- Mesa
+- Modders
+- PC
+- Tom's Hardware
 ---
 
 ![The BC 250 board in-hand](https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf.jpg) 

@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ankara
+- Black Sea
+- Germany
+- Hungary
+- Krasnodar
+- Moldova
+- Moscow
+- Norway
+- Novorossiysk
+- Odesa
+- Riscani
+- Romania
+- Russia
+- Saxony-Anhalt
+- Starokozache
+- Sumy
+- Turkey
+- Ukraine
+- Ukraine-Moldova
+people:
+- '## Merz'
+- '## Zelensky'
+- Alparslan Bayraktar
+- Friedrich Merz
+- Jonas Gahr Store
+- Natalie Wilson
+- Oleh Hryhorov
+- Oleh Kiper
+- Ruslan Kravchenko
+- Verkhovna Rada
+- Volodymyr Zelensky
+organisations:
+- AfD
+- Alternative for Germany
+- CNBC-e
+- Chișinău International Airport
+- EU
+- European Union
+- General Court
+- Kyiv
+- Nato
+- Odesa
+- Telegram
 ---
 
 Ukrainian president Volodymyr Zelensky's flight from Moldova to Norway was delayed after it was almost hit by a Russian drone, Norwegian prime minister Jonas Gahr Store said.

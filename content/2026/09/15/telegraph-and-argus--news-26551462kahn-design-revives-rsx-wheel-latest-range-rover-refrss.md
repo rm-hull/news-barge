@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Canal Road
+people:
+- Afzal Kahn
+organisations:
+- Bradford
+- Kahn Design
+- RSX
+- Range Rover
+- Range Rover Sport
+- Range Rovers
 ---
 
 Afzal Kahn, the Bradford-based car styling designer, has reintroduced one of his classic alloy wheel designs with a modern twist.

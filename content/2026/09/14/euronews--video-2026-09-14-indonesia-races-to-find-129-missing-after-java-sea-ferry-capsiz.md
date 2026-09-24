@@ -14,6 +14,18 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Banjarmasin
+- East Java
+- Indonesia
+- Japan
+- Masalembo
+- South Kalimantan
+- Surabaya
+- Trisakti Port
+people: []
+organisations:
+- Basarnas
 ---
 
 At least 108 people have been rescued and six bodies recovered after the vessel overturned in the waters off Masalembo, about 148 km from Banjarmasin, the capital of South Kalimantan province.

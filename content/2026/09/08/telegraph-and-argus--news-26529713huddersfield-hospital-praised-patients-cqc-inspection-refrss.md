@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Blankey Grange
+- Cygnet Hospital Wyke
+- Huddersfield Road
+people:
+- Matthew Ellis
+organisations:
+- CQC
+- Care Quality Commission
+- Cygnet Hospital Wyke
 ---
 
 *(Image: Supplied)*

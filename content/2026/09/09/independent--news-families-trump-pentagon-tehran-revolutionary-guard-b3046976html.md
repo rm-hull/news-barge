@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Hormozgan
+- Iran
+- Minab
+- Shajareh Tayyebeh
+- Tehran
+- U.S.
+people:
+- Ayatollah Ali Khamenei
+- Fatemeh Barani
+- God
+- Hami
+- Heydar Sadeghi
+- Nasim Neyestani
+- Neda Salehizadeh
+- Nila
+- Trump
+organisations:
+- AP
+- Associated Press
+- Pentagon
+- Revolutionary Guard
 ---
 
 The sun set over this southern Iranian city, and Heydar Sadeghi was where he can be found almost every evening: on a bench next to the shattered remains of his grandson’s school. His face was soaked with tears.

@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Shopping & Deals
+locations:
+- England
+- London
+- New York
+- Wales
+people:
+- Anna Harvey
+- Charles
+- Christina Stambolian
+- Diana
+- Morgane Halimi
+organisations:
+- Fashion
+- Serpentine Gallery
+- Sotheby
+- Sotheby's
 ---
 
 ![British royal Diana, Princess of Wales (1961-1997) wearing a black Christina Stambolian dress, attends a Vanity Fair party at the Serpentine Gallery in London, England, 20th November 1994.](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/712b/live/9583d4a0-ad80-11f1-b787-81bf75d2ae07.jpg)

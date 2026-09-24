@@ -11,6 +11,24 @@ description: Google Play is a go-to for downloading trustworthy apps, but this c
 image: https://cdn.mos.cms.futurecdn.net/f7VHBf7mNuETyedzPFND5Y-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Andrew Tate
+- Benedict Collins
+- Cristiano Ronaldo
+- Jason Statham
+organisations:
+- APT
+- BUCSIS
+- Bitdefender
+- Early Access
+- Google News
+- Google Play
+- Grand Theft Auto V
+- Play Store
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
+- VI
 ---
 
 ![In this photo illustration, the Google play store logo is seen displayed on a mobile phone screen.](https://cdn.mos.cms.futurecdn.net/f7VHBf7mNuETyedzPFND5Y.jpg) 

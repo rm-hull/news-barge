@@ -11,6 +11,37 @@ image: https://static.independent.co.uk/2026/09/01/14/27/GettyImages-2262888005.
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Arizona
+- North Carolina
+- Pennsylvania
+- Utah
+- Washington
+- White House
+- Wisconsin
+people:
+- Adrian Fontes
+- Brett Kavanaugh
+- Celina Stewart
+- Clarence Thomas
+- Deidre Henderson
+- Donald Trump
+- Joe Biden
+- John Roberts
+- Samuel Alito
+- Steve Hobbs
+organisations:
+- '## Leaked'
+- Brookings Institution
+- Congress
+- House Chamber of the US Capitol
+- Justice Department
+- League of Women Voters
+- Postal Service
+- State of the Union
+- Supreme Court
+- Trump
 ---
 
 On Monday, the Supreme Court turned down President Donald Trump's request to limit mail-in voting ahead of the midterm elections, ending a series of urgent legal challenges as voting is already underway.

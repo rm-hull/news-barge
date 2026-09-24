@@ -13,6 +13,25 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- County Durham
+- Darlington
+- PA
+- UK
+- US
+- USA
+people:
+- Annabel Lee-Ellis
+- David Carbon
+organisations:
+- Amazon Prime
+- Annabel Lee-Ellis
+- Civil Aviation Authority
+- Darlington
+- MK30
+- Press Association
+- Prime Air
 ---
 
 Amazon is "on the precipice" of securing approval to extend its drone delivery operation across the whole of Darlington, as it prepares to roll out the service across the UK.

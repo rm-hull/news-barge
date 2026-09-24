@@ -13,6 +13,23 @@ image: https://images.euronews.com/articles/stories/09/90/30/63/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Kremlin
+- Kyiv Central Station
+- Moscow
+- Russia
+- US
+- Ukraine
+- White House
+people:
+- Jared Kushner
+- Steve Witkoff
+- Trump
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- European NSAs
+- Peace Express
 ---
 
 ## Following talks in Kyiv with US envoys, Zelenskyy said, "We very much hope that we will be able to reach agreements with our American partners, and we are counting on the support of our European partners if the war continues in winter -- and this is how it appears at the moment."

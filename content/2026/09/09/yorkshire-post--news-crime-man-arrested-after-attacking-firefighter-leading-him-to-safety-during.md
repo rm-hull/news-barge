@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Queen Street
+- Sheffield
+- South Yorkshire
+people:
+- Chris Kirby
+organisations:
+- South Yorkshire Police
 ---
 
 # Man arrested after attacking firefighter leading him to safety during blaze

@@ -14,6 +14,35 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Abu Dhabi
+- Bahrain
+- Dubai
+- Islamic Republic of Iran
+- Israel
+- Middle East
+- U.A.E.
+- U.S.
+- United Arab Emirates
+- United States
+people:
+- Oliver Haslam
+- Tom
+organisations:
+- AWS
+- Amazon Web Services
+- Get Tom's Hardware
+- Google News
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Microsoft
+- Nvidia
+- Oliver Haslam
+- OpenAI
+- Oracle
+- U.A.E.
+- WSJ
+- Wall Street Journal
 ---
 
 ![Amazon - AWS logo](https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6.jpg) 

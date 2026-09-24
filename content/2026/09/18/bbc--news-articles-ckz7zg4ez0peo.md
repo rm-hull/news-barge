@@ -13,6 +13,64 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- BBC
+- Bristol Old Vic
+- Britain
+- Buckingham Palace
+- Coronation Street
+- London
+- Singapore
+- West End
+people:
+- Alan Bennett
+- Ann Bell
+- Beatrice Mason
+- Benedict Cumberbatch
+- Carolyn Knapp-Shappey
+- Claire Oberman
+- David Jason
+- David Neilson
+- Delphine Featherstone
+- Diana Trent
+- Doc Martin
+- Elizabeth II
+- Emma Battcock
+- God
+- Greg Davies
+- Henry Marshall
+- John Grant
+- Julie Hesmondhalgh
+- Julie Walters
+- King Lear
+- Madame Arcati
+- Maggie Smith
+- Martin Clunes
+- Muriel
+- Noel Coward
+- Peter Birrel
+- Reece Shearsmith
+- Richard II
+- Ronnie Barker
+- Roy Cropper
+- Solihull-born Cole
+- Stephanie Cole
+- Stephanie Cole.
+- Steve Pemberton
+- Suranne Jones
+- Sylvia Goodwin
+- Tenko Cole
+organisations:
+- Alzheimer's
+- BBC Radio 4
+- Bristol Old Vic Theatre School
+- Cole
+- Guardian
+- ITV
+- OBE
+- Savoy Theatre
+- Tenko
+- The Black Widow
 ---
 
 ![Stephanie Cole at the BBC spring/summer press launch. Cole stars in 'Keeping Mum'. 12th March 1997](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg)

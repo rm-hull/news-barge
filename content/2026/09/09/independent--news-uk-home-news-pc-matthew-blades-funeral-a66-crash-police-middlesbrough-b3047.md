@@ -12,6 +12,46 @@ image: https://static.independent.co.uk/2026/09/09/14/01M22W3HMCQJMEYBEC5519E2GS
 categories:
 - News & Politics
 - UK
+locations:
+- A66
+- America
+- Australia
+- France
+- Hartlepool
+- Hutton Avenue
+- Middlesbrough
+- South Bank
+- St Joseph’s Roman Catholic Church
+- UK
+people:
+- Andy Burnham
+- Anna Turley
+- Bagpipers
+- Lauren Somerville
+- Matt
+- Matthew Blades
+- Matthew Blades.
+- Ms Fuller
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Pc Tom Clough
+- Sarah Jones
+- Victoria Fuller
+- Zara Lavender
+organisations:
+- A66
+- British Army
+- Cleveland Police
+- Cleveland Police Federation
+- Commons
+- Diocese of Hexham
+- Great North Air Ambulance
+- Home Office
+- Manchester United
+- Newcastle
+- North East Ambulance Service
+- Union Flag
 ---
 
 Hundreds of police officers gathered to line the street for the funeral of a colleague killed in a collision on the A66.

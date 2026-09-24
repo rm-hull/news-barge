@@ -12,6 +12,25 @@ categories:
 - Hardware
 - History
 image: https://cdn.mos.cms.futurecdn.net/9ZzpzkMqppsvbVMaZSHmmU-1920-80.jpg
+locations:
+- Anjana
+- Europe
+- France
+- Orange
+- Spain
+- US
+- United States
+people:
+- Oliver Haslam
+- Tom
+organisations:
+- Get Tom's Hardware
+- Google News
+- Meta
+- NEC
+- Oliver Haslam
+- Petal
+- Sumitomo Electric Industries
 ---
 
 ![undersea cable cross section](https://cdn.mos.cms.futurecdn.net/9ZzpzkMqppsvbVMaZSHmmU.jpg)

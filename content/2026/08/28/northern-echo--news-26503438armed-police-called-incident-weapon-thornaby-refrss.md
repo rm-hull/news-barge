@@ -14,6 +14,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Roseberry View
+- Thornaby
+people: []
+organisations:
+- A66
+- Cleveland Police
+- Crimestoppers
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

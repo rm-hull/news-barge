@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Britain
+- Jurassic Coast
+- London
+- New Forest
+- South Western Railway
+- UK
+people:
+- Helen Skelton
+organisations:
+- Blue Peter
+- Coastal
+- Countryside
+- South Western Railway
+- Woodland
 ---
 
 *(Image: South Western Railway)*

@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Jinnah
+- Yorkshire
+people:
+- Jinnah
+- Starters
+organisations:
+- Bradford
+- Jinnah
+- Tripadvisor
 ---
 
 Bradford is known for being home to a huge range of restaurants serving cuisines from around the world.

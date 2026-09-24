@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- St James' Park
+- Valley Parade
+people:
+- Jamie Vardy
+- Mike Dean
+organisations:
+- Bradford City
+- FC Halifax Town
+- Football League
+- Newcastle United
+- Stockport County
 ---
 
 *(Image: Jamie Vardy's Having A Party YouTube)*

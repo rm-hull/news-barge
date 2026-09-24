@@ -14,6 +14,86 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Africa
+- Bangkok
+- Chicago
+- China
+- Colombia
+- Detroit
+- Hong Kong
+- Iran
+- Israel
+- Kenya
+- Kuwait
+- Las Vegas
+- Main Street
+- Nairobi
+- New York
+- New Zealand
+- Persian Gulf
+- Singapore
+- Southeast Asia
+- Strait of Hormuz
+- Sudan
+- Tehran
+- U.S.
+- United States
+- Wall Street
+- Washington
+- White House
+people:
+- Alexa Henning
+- Alexa St. John
+- Allan Olingo
+- Anduril
+- Anna Kelly
+- Anton L. Delgado
+- Arif Gasilov
+- Bernard Condon
+- Brett House
+- Carl Skau
+- Cathy Bussewitz
+- Chan Ho-him
+- Don Jr.
+- Donald Trump
+- Donald Trump Jr.
+- Eric
+- Mae Anderson
+- Michael Ashley Schulman
+- Paul Wiseman
+- Rio Yamat
+- Scott Lehmann
+- Wyatte Grantham-Philips
+organisations:
+- 1789 Capital
+- 1789 Capital Management
+- Air Force
+- Associated Press
+- Cerity Partners
+- Columbia University
+- EVs
+- Elon Musk
+- Firehawk Defense —
+- Gasilov Group
+- General Dynamics
+- International Air Transport Association
+- International Energy Agency
+- International Monetary Fund
+- Lockheed Martin
+- Lufthansa Group
+- Mission Impossible’
+- Northrop Grumman
+- Pentagon
+- Powerus
+- S&P
+- SpaceX
+- Sphera
+- Spirit Airlines
+- Trump
+- United Nations World Food Programme
+- WFP
+- World Bank
 ---
 
 As the U.S. and Israel relentlessly bombed Iran in the opening days of war, the most dramatic predictions of the conflict’s toll were unsparing: surging oil prices, worldwide recession and economic catastrophe.

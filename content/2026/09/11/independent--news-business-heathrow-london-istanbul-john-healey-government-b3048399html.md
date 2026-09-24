@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- Heathrow
+- Iran
+- Istanbul
+- London
+- Middle East
+- PA
+- Steve Parsons
+- UK
+people:
+- Heidi Alexander
+- John Healey
+- Martin Rolfe
+- Thomas Woldbye
+organisations:
+- European Union
+- Government
+- Heathrow
+- House of Commons
+- National Air Traffic Services
+- Nats
+- Treasury
 ---
 
 Heathrow airport has revealed a fall in passengers during the peak getaway month of August as it flagged “big challenges” across the sector.

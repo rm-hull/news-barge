@@ -14,6 +14,26 @@ categories:
 - Family & Parenting
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376291.jpg?type=og-image
+locations:
+- Bradford
+- Canterbury
+- Keighley
+- Little Horton
+- Manningham
+people:
+- Debbie Davies
+- Dolly Parton
+- Helen Jones
+- Ms Parton
+- Roger Moody
+organisations:
+- Baildon Imagination Library
+- Bradford
+- Canterbury Imagine
+- Dolly Parton’s Imagination Library
+- Imagination Library
+- Keighley’s Imagination Library
+- Strong Close Nursery School
 ---
 
 *(Image: Roger Moody)*

@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bishop Auckland
+- County Durham
+- Darlington
+- Felling Community Centre
+people:
+- David Snaith
+- Felling
+organisations:
+- Durham Miners' Gala
+- Felling Band
 ---
 
 *(Image: Felling Band)*

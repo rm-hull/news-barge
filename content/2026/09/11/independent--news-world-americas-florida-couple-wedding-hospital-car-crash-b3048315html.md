@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Altamonte Springs
+- Florida
+- Hermits Trail
+- ORMC
+- Orlando
+people:
+- DeRamus’
+- Kapri DeRamus
+- Maurice Mathies
+- Mr.
+- Thomas’
+- Tyasia Thomas
+organisations:
+- Altamonte Springs Police Department
+- GoFundMe
+- Orlando Regional Medical Center
+- Osborne, Francis & Pettis
+- The Independent
+- WESH 2 News
 ---
 
 A Florida couple tied the knot in a hospital room after the groom was hurt in a crash on the way to their wedding.

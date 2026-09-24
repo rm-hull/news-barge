@@ -15,6 +15,42 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bowling Back Lane
+- Bradford
+- Calderdale
+- Dewsbury
+- Featherstone
+- Huddersfield
+- Kirklees
+- Knottingley
+- Leeds
+- Normanton
+- Pontefract
+- Wakefield
+- West Yorkshire
+people:
+- Cllr Place
+- Harry Binns
+- Stephen Place
+- Tracy Brabin
+- Weaver
+organisations:
+- BDMDC
+- BRADFORD Council
+- Bradford Council
+- Castleford
+- Five Towns
+- Franchising
+- Joint Air Quality Unit
+- Mass Transit
+- Newsquest
+- Phase 2
+- Reform UK
+- WYCA
+- Weaver Network
+- Weaver Network Board
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Harry Binns)*

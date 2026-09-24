@@ -13,6 +13,31 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Blenkin & Co)* Bay
+- Crescent Terrace
+- Esplanade
+- North Terrace
+- Sandbeck Hotel
+- Scarborough
+- The Sandbeck Hotel
+- Walshford
+- West Cliff
+- Whalebone Arch
+- Whitby
+people:
+- '**__Delmont'
+organisations:
+- '**__Helaina'
+- '**__Savills'
+- Blenkin & Co
+- Captain Cook Memorial
+- Central Hotel
+- Christie & Co
+- Christie & Co__**
+- Sandbeck Hotel
+- The Bridge Hotel & Spa
+- The Sandbeck Hotel
 ---
 
 A Victorian seafront property in Whitby has been listed for sale at £1.6million.

@@ -13,6 +13,21 @@ categories:
 - UK
 - Arts & Culture
 - Technology & Software
+locations: []
+people:
+- David Higgerson
+- Piers North
+organisations:
+- BBC
+- Daily Express
+- Daily Mirror
+- Daily Star
+- GalwayBeo
+- Google
+- KentLive
+- Liverpool Echo
+- Manchester Evening News
+- Reach
 ---
 
 Daily Mirror and Daily Express publisher Reach is axing more than 200 editorial roles as part of an ongoing cost-cutting overhaul that will also see three titles close.

@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Argentina
+- Australia
+- Belgium
+- Brazil
+- Buenos Aires
+- Canada
+- Egypt
+- England
+- Estádio do Maracanã
+- Japan
+- New Zealand
+- Rio de Janeiro
+- Spain
+- U.S.
+- United States
+- Vancouver
+people:
+- Andrés Cantor
+- Carli Lloyd
+- Fox
+- Netflix
+organisations:
+- FIFA
+- Hispanic TV
+- Netflix
+- Telemundo
+- The Associated Press
+- United States’
+- Univision
 ---
 
 Andrés Cantor and his iconic “¡GOOOOL!” call will be part of Netflix’s coverage of next year’s FIFA Women’s World Cup in Brazil.

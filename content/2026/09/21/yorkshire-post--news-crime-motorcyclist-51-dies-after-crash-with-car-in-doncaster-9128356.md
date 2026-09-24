@@ -14,6 +14,15 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/21/12/53/Bawtry-Road-at-the-turning-with-Tickhill-Road.png?trim=0,101,0,100&crop=&width=1200&auto=webp&quality=75
+locations:
+- Bawtry Road
+- Doncaster
+- Tickhill Road
+people: []
+organisations:
+- Family Liaison Officers
+- Honda
+- South Yorkshire Police
 ---
 
 # Motorcyclist, 51, dies after crash with car in Doncaster

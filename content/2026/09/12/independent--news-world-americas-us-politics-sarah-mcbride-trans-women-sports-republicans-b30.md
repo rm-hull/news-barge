@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Capitol Hill
+- Dallas
+- Delaware
+- Iowa
+- Iran
+- R-S.C.
+- Texas
+people:
+- Donald Trump
+- Elon Musk
+- JD Vance
+- James Talarico
+- John Thune
+- Josh Turek
+- Kamala
+- Nancy Mace
+- Sarah McBride
+- Sophie Cunningham
+organisations:
+- Congress
+- Fox News
+- House
+- Indiana Fever
+- Majority
+- PAC
+- Senate Leadership Fund
+- The Independent
+- WNBA
 ---
 
 Throughout the Republican midterm convention, Republicans consistently fearmongered about transgender people, the possibility of their playing in women’s sports and Democratic support for children under 18 receiving health care to transition.

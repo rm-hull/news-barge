@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://i.guim.co.uk/img/media/3e86adb79c560b532ed4f1eb8d5295f2ef3d0586/820_0_4331_3465/master/4331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d3ad37926034b51ff061ce3b5a48f1b
+locations:
+- Britain
+- England
+- Makerfield
+- North
+- Whitehall
+people:
+- Alan Milburn
+- Andy Burnham
+- Daniel Kebede
+- Laura Trott
+- Lucy Powell
+- Michael Gove
+- Paul Whiteman
+- Pepe Di’Iasio
+- Sam Freedman
+organisations:
+- Association of School and College Leaders
+- Department for Education
+- DfE
+- Labour
+- NAHT
+- National Education Union
+- Ofqual
+- Pisa
 ---
 
 Teenagers are to be offered a range of new vocational GCSEs under a radical shake-up of the school system in England designed to tackle a crisis that has left nearly a million young people out of work or training.

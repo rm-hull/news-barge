@@ -13,6 +13,30 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/ZwfFt8nZVwKad3sVbp2jkh-1920-80.jpg
+locations:
+- Airbus'
+- Mars
+- Stevenage
+- UK
+people:
+- Kata Escott
+- Oliver Haslam
+- Tom Scott
+- Valve
+organisations:
+- Airbus Defence and Space UK
+- DualSense
+- ExoMars
+- Franklin
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- Oliver Haslam
+- Red Planet
+- Sony
+- Steam Deck
+- Valve
+- YouTube
 ---
 
 ![Steam Deck gaming handheld](https://cdn.mos.cms.futurecdn.net/ZwfFt8nZVwKad3sVbp2jkh.jpg)

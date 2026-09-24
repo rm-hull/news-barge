@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Dubai
+- Europe
+- US
+people:
+- Brian Rolapp
+- Brooks Koepka
+- Bryson DeChambeau
+- Cameron Smith
+- Jon Rahm
+- Patrick Reed
+- Rory McIlroy
+- Tyrrell Hatton
+organisations:
+- BBC Sport
+- DP World Tour
+- LIV Golf
+- PGA
+- Strategic Sports Group
 ---
 
 ![Golfer Bryson DeChambeau putts in front of a big blue and white LIV Golf sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg)

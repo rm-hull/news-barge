@@ -15,6 +15,32 @@ categories:
 - UK
 - History
 - Technology & Software
+locations:
+- Black Hawk
+- Garibaldi
+- Indonesia
+- Italy
+- North Jakarta
+- Pacific
+- Southeast Asia
+- Spain
+- Tanjung Priok
+- Thailand
+people:
+- Giuseppe Garibaldi
+- Khairul Fahmi
+- Muhammad Fauzan Malufti
+- Prabowo Subianto
+- TB Hasanuddin
+organisations:
+- Center for Strategic and International Studies
+- Finance Ministry
+- Garibaldi
+- HTMS Chakri Naruebet
+- Indonesian Navy
+- Institute for Security and Strategic Studies
+- KRI Gajah Mada
+- Parliament’s Commission I
 ---
 
 Indonesia welcomed its first aircraft carrier on Friday, a former Italian warship that the government says will strengthen the archipelago nation's maritime security and disaster response capabilities.

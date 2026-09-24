@@ -14,6 +14,51 @@ categories:
 - Sports
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- A189 Redheugh Bridge
+- England
+- Gatehead
+- Gateshead
+- Mul
+- Newcastle
+- Quayside
+- South Shields
+- South Tyneside
+- The Leas
+- The Tyne Bridge
+- Tyne Bridge
+people:
+- AJ Bell
+- Alex Gray
+- Alex Mulholland
+- Andy Burnham
+- Andy Burnham.
+- Brendan Foster
+- Brigid Kosgei
+- Chris Kamara
+- Dan Burn
+- David Weir
+- Emily Steel
+- Joe Wicks
+- Lydia
+- Matty Campbell
+- Melanie Woods
+- Zouhair Talbi
+organisations:
+- Adidas
+- Apollo
+- Bionic
+- Changing Lives
+- Dynamite
+- GNR
+- Mini
+- Newcastle
+- North East charity Changing Lives
+- Ovacome
+- Prostate Cancer UK
+- Red Arrows
+- Spiderman
+- The Great North Run
 ---
 
 ![Andy Burnham crossing the finishing line in South Shields. He is clenching his fists and looking upwards with an expression of strain, and wearing a pink and purple T-shirt with changing lives on it. Behind him stretch out the hoardings with crowds of spectators, and another runner leans on it to the left, with two more standing on the right.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/583e/live/fb705b90-af82-11f1-913a-7151f234deb3.jpg)

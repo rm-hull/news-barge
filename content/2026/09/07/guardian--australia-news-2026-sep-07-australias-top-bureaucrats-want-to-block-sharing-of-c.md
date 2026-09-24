@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people:
+- Celia Perkins
+- Perkins’
+- Steph Hodgins-May
+- Steven Kennedy
+organisations:
+- Albanese
+- Australian Public Service
+- Department of the
+- Greens
+- Guardian Australia
+- National Indigenous Australians Agency
+- Senate
 ---
 
 The nation’s top bureaucrats want the Albanese government to ban video footage from parliamentary hearings being edited and shared on social media, in an extraordinary attempt to stop online ridicule and abuse.

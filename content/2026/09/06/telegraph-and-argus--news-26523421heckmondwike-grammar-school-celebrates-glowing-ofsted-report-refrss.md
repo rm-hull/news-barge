@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations: []
+people:
+- Peter Roberts
+organisations:
+- Heckmondwike Grammar School
+- Ofsted
+- Personal Development and Wellbeing
 ---
 
 *(Image: Supplied)*

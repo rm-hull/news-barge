@@ -15,6 +15,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Cape Town
+- Cape Town International Airport
+- Interpol South Africa
+- Johannesburg
+- South Africa
+- U.S.
+- United States
+people:
+- Katlego Mogale
+organisations:
+- Black Axe
+- FBI
+- Federal Bureau of Investigation
+- Interpol
+- United States Secret Service
 ---
 
 Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of over $6 million through online romance scams will be extradited to the United States on Friday, South African police said.

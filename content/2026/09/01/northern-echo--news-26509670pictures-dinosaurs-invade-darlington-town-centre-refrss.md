@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- County Durham
+- Darlington
+- High Row
+- Market Square
+- SARAH CALDECOTT
+- Windermere
+people:
+- SARAH CALDECOTT
+organisations:
+- Darlington Borough Council
 ---
 
 *(Image: SARAH CALDECOTT)*

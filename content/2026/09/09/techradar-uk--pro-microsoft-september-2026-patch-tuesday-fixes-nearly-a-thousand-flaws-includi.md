@@ -10,6 +10,19 @@ description: The latest Microsoft Patch Tuesday is a big one
 image: https://cdn.mos.cms.futurecdn.net/yBsirNxrnuBxshrCgrFwsQ-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Craig Hale
+- Dustin Childs
+organisations:
+- Adobe
+- Brave
+- Craig’s
+- Google News
+- Microsoft
+- Mozilla
+- Office
+- TechRadar Pro
 ---
 
 ![Windows 10 Logo on Laptop](https://cdn.mos.cms.futurecdn.net/yBsirNxrnuBxshrCgrFwsQ.jpg) 

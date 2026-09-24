@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Aberbargoed
+- Barnet
+- Blackwood
+- Caerphilly
+- Clacton
+- Durham
+- Finchley
+- London
+- Northern Ireland
+- Scotland
+- Senedd
+- Wales
+- Westminster
+people:
+- Dan Thomas
+- Kemi Badenoch
+- Ken Skates
+- Margaret Thatcher
+- Nathan Gill
+- Nigel Farage
+- Plaid Cymru
+- Sarah Cooper-Lesadd
+organisations:
+- Barnet
+- Gwent
+- Labour Senedd
+- Plaid Cymru
+- Reform UK
+- Tory
+- Welsh Conservative
 ---
 
 The leader of Reform UK in Wales is standing down after he was arrested and bailed on suspicion of assault and controlling or coercive behaviour.

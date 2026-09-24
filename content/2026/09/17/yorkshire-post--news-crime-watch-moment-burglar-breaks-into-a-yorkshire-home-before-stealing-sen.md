@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Spittal Hardwick Lane
+- West Yorkshire
+people:
+- Patrick Nicholson
+organisations:
+- Castleford
+- Leeds Crown Court
+- West Yorkshire Police
 ---
 
 # WATCH: Moment burglar breaks into a Yorkshire home before stealing sentimental jewellery

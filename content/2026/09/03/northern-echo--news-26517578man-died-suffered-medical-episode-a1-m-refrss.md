@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Health & Fitness
 - True Crime
+locations:
+- A1
+- Bowburn
+- County Durham
+- Coxhoe
+- J60
+- Junction 61
+- Junctions 61
+people:
+- ANDY FUTERS
+organisations:
+- A1
+- A1(M)
+- CPR
+- Durham Constabulary
+- National Highways
+- National Highways North East
+- North East Ambulance Service
 ---
 
 *(Image: ANDY FUTERS)*

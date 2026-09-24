@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Harrogate
+- Leeds Road
+- North Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Police)*

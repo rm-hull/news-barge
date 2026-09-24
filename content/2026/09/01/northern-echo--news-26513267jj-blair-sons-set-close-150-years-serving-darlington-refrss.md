@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barmpton Lane
+- Darlington Market
+- North East
+people:
+- Blairs
+- Chris McEwan
+- Christine Hanlon
+- David Jackson Butchers
+- JJ Blair
+- Robin Blair
+- SARAH CALDECOTT
+- Sons
+organisations:
+- Darlington Borough Council
+- Darlington Market
+- Darlington’s Indoor Market
+- Facebook
+- JJ Blairs Indoor Market Darlington
+- Pepe’s Piri Piri
 ---
 
 A family-run Darlington greengrocer which has served generations of shoppers for more than 150 years is set to close its doors just months after the death of its long-standing owner, Robin Blair.

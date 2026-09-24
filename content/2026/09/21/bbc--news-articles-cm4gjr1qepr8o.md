@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg
+locations:
+- Arizona
+- California
+- California.
+- Colorado
+- Los Angeles
+- New Jersey
+- US
+people:
+- David Ellison
+- Rob Bonta
+organisations:
+- CBS News Broadcast
+- Congress
+- Paramount Skydance
+- Paramount Studios
+- WGA
+- Warner Bros Discovery.
+- Writers Guild of America
 ---
 
 ![Paramount Studios in Los Angeles, California. 

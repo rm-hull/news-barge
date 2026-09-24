@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bangladesh.
+- Bhote Koshi river
+- Bhotekoshi River
+- China
+- Dhading
+- Gyirong
+- Himalayas
+- India
+- Kathmandu
+- Muddy Trishuli River
+- Nepal
+- Nepal-China
+- Nuwakot
+- Rasuwa
+- Syabrubesi Bazar
+- Tibet
+- Trishuli River
+people:
+- Himanshu Thakkar
+- Kulman Ghising
+- Kushal Gurung
+- Manjeet Dhakal
+- Puspa Sharma
+- Rajan Dhakal
+- Uttam Bhlon Lama
+- Vivek Shastry
+organisations:
+- Asian Development Bank
+- BBC
+- Center on Global Energy Policy
+- Columbia University
+- Disaster Risk Reduction and Management Authority
+- Export-Import Bank
+- Independent Power Producers' Association of Nepal
+- Institute of South Asian Studies
+- International Finance Corporation
+- Mongabay
+- National University of Singapore
+- Nepal Electricity Authority
+- South Asia Network on Dams, Rivers & People
+- UN Climate Change Conference
+- WindPower Nepal
 ---
 
 ![A buzzing hive of activity with shops and vehicles lit-up at an intersection in Kathmandu, the capital of Nepal](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b62c/live/8fac6600-a87b-11f1-824a-0fc4c5d895ae.jpg)

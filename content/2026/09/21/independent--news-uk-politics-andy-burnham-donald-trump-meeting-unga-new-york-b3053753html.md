@@ -14,6 +14,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/07/19/15/39/Burnham-Trump-split.png?trim=0,108,0,142&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Iran
+- New York
+- North Sea
+- UK
+- US
+- White House
+people:
+- Andy Burnham
+- Andy’s
+- Donald Trump
+- Keir Starmer
+- Lord Kinnock
+- Neil Kinnock
+- Ronald Reagan
+organisations:
+- AI
+- Labour
+- Oval Office
 ---
 
 Keir Starmer has told friends that when Donald Trump infamously dropped the text of their historic UK-US trade agreement on the ground, after years of negotiations, the then prime minister’s first thought was “for f\*\*\*’s sake”.

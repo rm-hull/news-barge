@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Amelia Anderson
+organisations:
+- A19
+- Northern Echo
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

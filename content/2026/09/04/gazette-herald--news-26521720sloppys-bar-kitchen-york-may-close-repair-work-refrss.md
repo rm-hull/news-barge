@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- Castlegate
+- TOP York
+- Woodthorpe
+people:
+- Leon Sledmore
+- Molly McGrath
+organisations:
+- Pic
+- Sloppy's
+- Sloppy’s Bar & Kitchen
 ---
 
 A TOP York burger restaurant may have to close its doors for the second time since opening following the discovery of a collapsed pipe.

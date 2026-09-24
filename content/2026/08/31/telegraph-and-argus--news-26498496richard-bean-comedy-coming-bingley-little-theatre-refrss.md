@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bingley Arts Centre
+people:
+- Andrew Long
+- David Kirk
+- Deborah Mouat
+- Flo Kirk
+- Gilly Rogers
+- Jack
+- Kevin Moore
+- Richard Bean
+- Rita
+organisations:
+- Airedale
+- Bingley Little Theatre
+- Keighley Playhouse
+- Two Guvnors
+- Yorkshire
 ---
 
 *(Image: David Kirk)*

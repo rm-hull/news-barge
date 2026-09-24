@@ -13,6 +13,348 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Aegean Sea
+- Amazon
+- Australia
+- Bleecker Street
+- Boston
+- Canada
+- Easter Island
+- Europe
+- Germany
+- Gowanus Canal
+- Harvard
+- Hollywood
+- Houston
+- Iraq
+- Mount Everest
+- New York
+- Norway
+- Oregon
+- Paris
+- Pearl Harbor
+- Pine Ridge Indian Reservation
+- Romania
+- St. Lawrence River
+- Syria
+- Tokyo
+- U.K.
+- Ukraine
+- Wyoming
+people:
+- Aaron Sorkin
+- Abramorama
+- Adam Driver
+- Adam Wingard
+- Adria Arjona
+- Al Davis
+- Alan Ritchson
+- Alden Ehrenreich
+- Alejandro G. Iñárritu
+- Alex Gibney
+- Alexander Skarsgård
+- Alexandra Daddario
+- Ali G
+- Ali Wong
+- Alicia Vikander
+- Amanda Seyfried
+- Amazon MGM
+- Amir Bar-Lev
+- Amy Adams
+- Andrew Garfield
+- Andrew Koji
+- Andrew Scott
+- Andrey Zvyagintsev
+- Angel Studios
+- Anne Hathaway
+- Anthony Ippolito
+- Anton Corbijn
+- Archangel
+- Ariana Grande
+- Atonement
+- Austin Abrams
+- Bad Apples
+- Barbara Forever
+- Barbara Hammer
+- Baron Cohen
+- Ben Stiller
+- Beth de Araújo
+- Bette Midler
+- Beware Boiúna
+- Bill Hader
+- Bill Skarsgård
+- Boyd Holbrook
+- Brad Pitt
+- Buzz Bissinger
+- Catherine Hershey
+- Channing Tatum
+- Charles Dickens
+- Charlie Harper
+- Chris Hansen
+- Chris Pratt
+- Chris Rock
+- Christian Bale
+- Christian Slater
+- Cinderella
+- Clayface
+- Colin Meloy
+- Colleen Hoover
+- Cristian Mungiu
+- Daisy Edgar-Jones
+- Dakota Johnson
+- David Ayer (“Fury,” “The Beekeeper
+- David Fincher
+- David France
+- David Greaves
+- David Leitch
+- David O. Russell
+- Dianne Wiest
+- Digger Rockwell
+- Domhnall Gleeson
+- Drummer Boy
+- Ebenezer
+- Edmund Hillary
+- Elegance Bratton
+- Elizabeth Chai Vasarhelyi
+- Elsinore
+- Emilia Jones
+- Esmé Creed-Miles
+- Ethan Hawke
+- Fatherland
+- Fathom
+- Finn Wittrock
+- Fjord
+- Focker In-Law
+- Frances Haugen
+- Free Solo
+- Gabriel Basso
+- Gayle Rankin
+- Gemma Chan
+- Genden Phuntsok
+- George MacKay
+- Georgia Oakley
+- Gillian Jacobs
+- Gkids
+- Glenn Close
+- Grant O’Rourke
+- Ha-Chan
+- Hailee Steinfeld
+- Hanns Zischler
+- Harry
+- Haymitch Abernathy
+- Helen Mirren
+- Hiam Abbass
+- Hwang Jung-min
+- Ian Charleson
+- Ida,” “Cold War
+- Isla
+- Israa
+- Itab Azzam
+- Jack MacInnes
+- Jacob Tremblay
+- Jake
+- James Gray
+- Jane Austen
+- Javier Ambrossi
+- Javier Calvo
+- Jay Baruchel
+- Jenna Ortega
+- Jeremy Strong
+- Jesse Plemons
+- Jesse Short Bull
+- Jessica Chastain
+- Jimmy Chin
+- John Cena
+- John Madden
+- John Malkovich
+- John Turturro
+- John Wayne Western
+- John Wilson
+- Johnny Depp
+- Johnny Knoxville
+- Jordan Firstman
+- Joseph Zada
+- Josephine
+- Josh Hartnett
+- Jude Hill
+- Juliette Binoche
+- Jung Ho-yeon
+- Kazuo Ishiguro
+- Ken Carter
+- Kenneth Branagh
+- Kino Lorber
+- Kitao Sakurai
+- Klara
+- Lance Oppenheim
+- Lee Chang-dong
+- Leonard Peltier
+- Liam Neeson
+- Lili Reinhart
+- Lilith
+- Lionsgate
+- Léa Seydoux
+- Mahershala Ali
+- Margaret Qualley
+- Margot
+- Marie Kreutzer
+- Mark Wahlberg
+- Mark Zuckerberg
+- Martin McDonagh
+- Mason Reeves
+- Matt Hagen
+- Michael Fassbender
+- Mikey Madison
+- Miles Teller
+- Milton S. Hershey
+- Minotaur
+- Misty Green
+- Mubi
+- Na Hong-jin
+- Natasha Lyonne
+- Neal McDonough
+- Neon
+- Netflix
+- Nicholas Galitzine
+- Nicholas Hoult
+- Nick Robinson
+- Nicolas Cage
+- Nicole Kidman
+- Noah Centineo
+- Olivia Colman
+- Owen Wilson
+- Paloma Schneideman
+- Patricia Highsmith
+- Paul Greengrass’
+- Paweł Pawlikowski
+- Peter Berg
+- Peter Dinklage
+- Peter Farrelly
+- Quentin Tarantino
+- Rachel Morrison
+- Ralph Fiennes
+- Rama
+- Ramayana
+- Rashida Jones
+- Ray Nicholson
+- Reed Van Dyk
+- Reggie Absolom
+- Renate Reinsve
+- Richard II
+- Rinko Kikuchi
+- Rob Lowe
+- Robert De Niro
+- Robert Pattinson
+- Rosalind Eleazar
+- Row K
+- Runner
+- Russell Crowe
+- Ryan Reynolds
+- Ryûsuke Hamaguchi
+- Sacha Baron Cohen
+- Salman Rushdie
+- Sam Rockwell
+- Sandra Bullock
+- Sandra Hüller
+- Sandy
+- Saoirse Ronan
+- Scrooge
+- Sebastian Stan
+- Seuss’
+- Shaun
+- Sherpa
+- Stephanie Hsu
+- Stiletto
+- Strang
+- Sylvester Stallone
+- Taika Waititi
+- Takashi Yamazaki
+- Tao Okamoto
+- Taylor Russell
+- Ted Kaczynski
+- Tenzing Norgay
+- Thomas Mann
+- Ti West
+- Tom & Jerry
+- Tom Cruise
+- Tom Francis
+- Tom Hiddleston
+- Tom Rhys Harries
+- Tom Ripley
+- Tommy Lee Jones
+- Tyler Perry
+- Universal
+- Verity
+- Virginie Efira
+- Warner Bros.
+- Whalefall
+- Wicker
+- Will Brill
+- William Greaves
+- Yahya Abdul-Mateen II
+- Zach Cregger
+- Zachary Levi
+- Zo In-sung
+- Zoë Kravitz
+- “Rocky
+organisations:
+- 20th Century Studios
+- Amazon MGM
+- American Indian Movement
+- Angel Studios
+- Apple TV
+- Army Special Forces
+- Black Bear
+- Bleecker Street
+- Blue Fox Entertainment
+- Blue Harbor Entertainment
+- CIA
+- DC Studios
+- Duke Ellington
+- Facebook
+- Forbidden Compass
+- Forgotten Island
+- Greenwich Entertainment
+- Haru
+- Hershey Chocolate Company
+- Independent Film Company
+- J.M
+- K2
+- KGB
+- LD Entertainment
+- La Bola Negra
+- Lionsgate
+- London’s National Theatre
+- Magnolia Pictures
+- Maika Monroe
+- Marine
+- Marines
+- Mattel
+- National Geographic
+- Navy SEAL
+- Netflix
+- Oasis
+- Paper Tiger
+- Paramount Pictures
+- PhD
+- Practical Magic
+- Samuel Goldwyn Films
+- Sony Pictures
+- Sony Pictures Classics
+- Soul Patrol
+- Special Forces
+- Street Fighter
+- Sumerian Pictures
+- Sun
+- The Associated Press’
+- The Mongoose
+- The Musical
+- Tiny Fugitives
+- Victorian Psycho
+- Viva Kids
+- Walt Disney Co.
+- Warner Bros.
+- Wild Horse
 ---
 
 Here’s The Associated Press’ guide for the movies heading to theaters and the home through Thanksgiving.

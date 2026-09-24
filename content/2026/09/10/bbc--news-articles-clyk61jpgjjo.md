@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Australia
+- Belgium
+- Canada
+- England
+- Jersey
+- New Forest
+- Northern Ireland
+- Scotland
+- Switzerland
+- Wales
+people:
+- Andy Burnham
+- Baroness Grey-Thompson
+- Dame Esther
+- Esther Rantzen
+organisations:
+- Childline
+- Dignitas
+- House of Commons
+- House of Lords
+- Wales
 ---
 
 ![Esther Rantzen, pictured in 2022, wears a blue fascinator, blue blazer, yellow scarf and her CBE.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/205b/live/e8ff1fc0-ad32-11f1-9bc8-3509bd1a4ead.jpg)

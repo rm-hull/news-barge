@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Leeds
+- Liverpool Lime Street
+- North of England
+- Sheffield
+- York
+people:
+- Alex Hornby
+organisations:
+- Blackpool North
+- Manchester Piccadilly
+- Northern
+- Northern’s
 ---
 
 *(Image: Northern)*

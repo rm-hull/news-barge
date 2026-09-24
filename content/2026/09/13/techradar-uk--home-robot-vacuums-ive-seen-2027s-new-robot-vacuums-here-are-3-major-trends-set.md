@@ -10,6 +10,22 @@ description: Here's what brands like Dreame, iRobot Roomba and Dyson have cookin
 image: https://cdn.mos.cms.futurecdn.net/aGXLKSWdx3N5LVn5XtQnsa-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Dreame
+- Ruth Hamilton
+organisations:
+- DJI
+- Dreame
+- Dyson
+- Google News
+- IFA
+- Roborock
+- Ruth
+- TechRadar
+- iRobot
+- iRobot's
 ---
 
 ![Three different robot vacuums](https://cdn.mos.cms.futurecdn.net/aGXLKSWdx3N5LVn5XtQnsa.jpg) 

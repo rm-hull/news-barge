@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Catterick Garrison
+- Chichester Harbour
+- Larkhill Camp
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+- Wiltshire
+people:
+- Col Shepherd
+- Colonel Shepherd
+- Cpl Tudor
+- Derek Johashen
+- Drew Tudor
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley
+- Gunner Jaysley Beck
+- James Hook
+- Jaysley Beck
+- Leighann McCready
+- Mae King
+- Maj Hook
+- Michael Webber
+- Samantha Shepherd
+organisations:
+- Army
+- Crown
 ---
 
 # Two senior officers cleared of charges relating to teenage soldier Jaysley Beck

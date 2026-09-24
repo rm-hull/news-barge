@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Crimea
+- Europe
+- Japan
+- Kuril islands
+- Kurils
+- Moscow
+- North America
+- Northern Territories
+- Russia
+- Soviet Union
+- US
+- Ukraine
+people:
+- Minoru Kihara
+- Sanae Takaichi
+- Vladimir Putin
+organisations:
+- UN
 ---
 
 Japan has asked for the revision of a new world map adopted by the UN because it said it made the disputed Kuril islands appear to belong to Russia.

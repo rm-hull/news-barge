@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Caulfied North
+- Channel Seven
+- Collingwood
+- Fix Victoria
+- Melbourne
+- Rozner
+people:
+- Andrew Hudgson
+- Catherine Williams
+- Clancy Moore
+- Deborah Henderson
+- Ed Coper
+- Gideon Rozner
+- Jess Wilson
+- Ronald Holzer
+organisations:
+- AFL
+- Asic
+- Better Victoria
+- Centre for Public Integrity
+- Consumer Affairs Victoria
+- Coper
+- Facebook
+- Fix Victoria
+- Google
+- Greens
+- Guardian Australia
+- IPA
+- Institute of Public Affairs
+- Labor
+- Liberal
+- Meta
+- One Nation
+- Populares
+- Suburban Rail Loop
+- Transparency International Australia
+- Western Bulldogs
 ---
 
 A man clad in a balaclava and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out.

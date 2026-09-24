@@ -14,6 +14,17 @@ categories:
 - York
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Lancashire
+- Rawtenstall
+- UK
+people:
+- Mike Lane
+- WeBuyBricks
+organisations:
+- '## WeBuyBricks'
+- LEGO
+- PayPal
 ---
 
 # Watch UK’s first AI-powered LEGO sorting machine - capable of handling 40,000 pieces a day - in action

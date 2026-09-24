@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/9/11/gold-collagen.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Collagen
+- Europe
+- Italy
+- Japan
+- UK
+people:
+- Anne Redston
+- Charlotte Hawkins
+- Denise Lewis
+- Minerva
+- Tony Sanguinetti
+- Yasmin Le Bon
+organisations:
+- First-tier Tribunal
+- Gold Collagen Pure
+- HMRC
+- Minerva Research Labs
 ---
 
 The manufacturer behind a celebrity-endorsed anti-ageing drink has lost a legal challenge against a £3.6m tax bill, following an unsuccessful attempt to argue that the products should be classified as health food.

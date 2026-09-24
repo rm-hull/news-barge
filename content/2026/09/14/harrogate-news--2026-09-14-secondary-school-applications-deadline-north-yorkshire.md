@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Family & Parenting
+locations:
+- Harrogate
+- North Yorkshire
+people:
+- Cllr Annabel Wilkinson
+organisations:
+- HARROGATE
+- Harrogate Informer
+- North Yorkshire Council School Admissions
 ---
 
 **HARROGATE** — Council education chiefs have issued an urgent advisory to parents and carers across the Harrogate district, urging them to complete secondary school placement applications well ahead of a strict autumn deadline.

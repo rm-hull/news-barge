@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-2240-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- GitHub
+people:
+- Tom
+- Zak Killian
+organisations:
+- AI
+- Blackwell GPUs
+- CPU
+- GPU
+- Get Tom's Hardware
+- GitHub
+- Google News
+- HotHardware
+- NVIDIA
+- Nvidia
+- NvpwrControl
+- OEM
+- PC
+- PCB
+- Reddit
+- The Tech Report
+- Tom's Hardware
+- Zak
 ---
 
 ![Nvidia RTX 50-series gaming laptops](https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf.jpg) 

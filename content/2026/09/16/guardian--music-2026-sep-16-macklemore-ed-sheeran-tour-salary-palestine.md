@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Boston
+- Gaza
+- Gillette Stadium
+- Israel
+- MetLife Stadium
+- New Jersey
+- Palestine
+- Patriots’
+- US
+- West Bank
+people:
+- Aaron Rowe
+- Boega
+- Colin Kaepernick
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Israeli American Council
+- MeidasTouch
+- NFL
+- New England Patriots
 ---
 
 Macklemore has announced that he will donate the $1m salary he was paid as an opening act for Ed Sheeran’s Loop tour to organizations working with Palestinian people and relief in Gaza, after being dropped from the tour following backlash to his onstage comments in support of Palestine.

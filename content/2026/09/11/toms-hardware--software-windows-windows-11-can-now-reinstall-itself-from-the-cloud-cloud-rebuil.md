@@ -12,6 +12,18 @@ image: https://cdn.mos.cms.futurecdn.net/j5zs5ecSDHaXsQ5BGtwxvN-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- WinRE
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Cloud Rebuild
+- Google News
+- Microsoft Intune
+- PC
+- Tom’s Hardware
+- WinRE
 ---
 
 ![Framework Laptop 13 Pro](https://cdn.mos.cms.futurecdn.net/j5zs5ecSDHaXsQ5BGtwxvN.jpg) 

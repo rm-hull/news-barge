@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Ecclesall Woods
+- Ryan Kettlewell.
+people:
+- Andy Knowles
+- Ryan Kettlewell
+organisations: []
 ---
 
 # Man whose body was discovered in woods named as tributes paid by family

@@ -15,6 +15,32 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/05/Buffett_Celebrity_Investor_8677_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Berkshire
+- Nebraska
+- Omaha
+- U.S.
+- Wall Street
+people:
+- Andrew Carnegie
+- Bob Miles
+- Charlie Munger
+- David Musto
+- Jim Cramer
+- Kevin O'Leary
+- Morgan
+- Todd Finkle
+- Warren Buffett
+- Will Danoff
+organisations:
+- Berkshire Hathaway
+- Congress
+- Fidelity Investments
+- Jacobs Master of Science
+- Reddit
+- Salomon Brothers
+- University of Pennsylvania
+- Wharton School
 ---
 
 Even in the age of algorithms, short attention spans and TikTok teases, Warren Buffett continued to profit with his patient bargain-hunting approach while offering folksy advice on investing and life.

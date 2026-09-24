@@ -13,6 +13,10 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations: []
 ---
 
 *(Image: Getty Images/iStockphoto)*

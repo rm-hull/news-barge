@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/ck77fetjnHm7jnB2ZQWJyV-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Ruth Hamilton
+organisations:
+- CES
+- Google News
+- IFA
+- Ruth
+- Segway Navimow
+- Segway Navimow Lawnbot
+- TechRadar
+- The Segway Navimow H510 Pro
 ---
 
 ![Segway Navimow Lawnbot on show at IFA](https://cdn.mos.cms.futurecdn.net/ck77fetjnHm7jnB2ZQWJyV.jpg) 

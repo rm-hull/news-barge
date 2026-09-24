@@ -13,6 +13,16 @@ categories:
 - York
 - Arts & Culture
 - Music
+locations:
+- Scarborough
+people:
+- Daniel Ezeani
+organisations:
+- Benjamin Adebola Visuals
+- Macmillan Cancer Support
+- Scarborough
+- Studio
+- Woodend Art Gallery
 ---
 
 ## Concert at Scarborough art gallery raises funds and cancer awareness

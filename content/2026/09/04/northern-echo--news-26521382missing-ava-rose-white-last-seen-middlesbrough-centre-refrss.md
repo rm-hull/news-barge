@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Ava
+- Middlesbrough
+people:
+- Ava Rose-White
+organisations:
+- Cleveland Police)* Police
 ---
 
 *(Image: Cleveland Police)*

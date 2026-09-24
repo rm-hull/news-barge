@@ -13,6 +13,22 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Phoenix
+- Washington
+people:
+- Alzheimer
+- Josef Coresh
+- Mark Yost
+- Nicholas Ashton
+organisations:
+- Alzheimer's
+- Arizona’s Banner Health
+- Georgetown University Hospital
+- Mass General Brigham
+- NYU Langone Health
+- US Food and Drug Administration
+- Yost
 ---
 
 New blood tests might predict Alzheimer’s years before symptoms but doctors say they aren't quite ready yet — and you don’t need a test before trying to lower the risk.

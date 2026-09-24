@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations: []
+people:
+- Batley,is
+- Julie Thompson
+- Rebecca Fargie
+organisations:
+- Guts UK
+- Guts UK’s Information Manager
+- NHS
+- YouGov
 ---
 
 # Mother whose bloating made her look 'six months pregnant' was told it was anxiety before rare diagnosis

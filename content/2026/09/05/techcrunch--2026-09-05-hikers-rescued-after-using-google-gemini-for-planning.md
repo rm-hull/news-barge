@@ -11,6 +11,18 @@ image: https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.j
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California
+- Mount Shasta
+- Mud Creek Canyon
+- Siskiyou County
+- USFS Mount Shasta
+people: []
+organisations:
+- Chicago Tribune
+- Forest Service
+- Gemini
+- Google’s AI
 ---
 
 Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune.

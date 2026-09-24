@@ -12,6 +12,17 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21490499.jpg?type=og-image&xType=0&yType=39
+locations:
+- North Yorkshire
+- Ox Carr Lane
+- Strensall
+- York
+people: []
+organisations:
+- Crimestoppers
+- Google Maps
+- Newsquest
+- North Yorkshire Police
 ---
 
 ## Child taken to hospital with serious injuries after crash in York

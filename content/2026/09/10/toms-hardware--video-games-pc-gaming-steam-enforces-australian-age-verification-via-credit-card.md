@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Australia
+- Bendigo
+- St. George
+- U.S.
+- UK
+- United Kingdom
+people:
+- Bruno Ferreira
+- Tom
+- Valve
+organisations:
+- ANZ
+- Commonwealth
+- Google News
+- Macquarie
+- Mastercard
+- PC
+- Reddit
+- Sony
+- Tom's Hardware
+- Valve
+- Westpac
 ---
 
 ![Valve Steam Machine](https://cdn.mos.cms.futurecdn.net/bVqPHLV7CFqmsPwKnUs5aU.jpg) 

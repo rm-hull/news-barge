@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/N9HDYHaxijy8qbqFCFQqeS-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- GameRant
+people:
+- '**Gurman'
+- Isaiah Williams
+- Mark Gurman
+organisations:
+- Apple
+- Asus
+- Beats
+- Birmingham City University
+- Bloomberg
+- Google News
+- Isaiah
+- PC Guide
+- PC Mag
+- RAM
+- TechRadar
 ---
 
 ![Backbone One](https://cdn.mos.cms.futurecdn.net/N9HDYHaxijy8qbqFCFQqeS.jpg) 

@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- The Curious Cow
+people:
+- Barry Busby
+organisations:
+- Curious Cow
+- Harrogate Car Enthusiasts Club
+- The Squinting Cat
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa798e923ebeac23cd.jpg) 

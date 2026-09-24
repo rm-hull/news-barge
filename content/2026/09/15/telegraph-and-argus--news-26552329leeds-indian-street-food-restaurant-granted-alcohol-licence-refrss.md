@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Cardigan Road
+- Leeds Civic Hall
+people:
+- Chris Rees-Gay
+- Dur Dashan
+- Nileshvariben Hevin Zadafiya
+- Tandoori Paneer Tikka
+organisations:
+- Bhel Puri
+- CCTV
+- Leeds City Council
+- Samosa Chaat
 ---
 
 AN Indian street food restaurant will be allowed to serve alcohol after it opens in a busy student area.

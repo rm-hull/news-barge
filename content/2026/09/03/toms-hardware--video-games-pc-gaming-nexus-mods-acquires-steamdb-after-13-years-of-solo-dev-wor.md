@@ -14,6 +14,23 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Video Gaming
+locations: []
+people:
+- AI
+- Bruno Ferreira
+- Djunidk
+- Pavel Djundik
+- Tom
+- aka xPaw
+organisations:
+- COVID
+- FAQ
+- Google News
+- NM "[
+- Nexus Mods
+- PC
+- SteamDB
+- Tom's Hardware
 ---
 
 ![SteamDB screenshot](https://cdn.mos.cms.futurecdn.net/G2LZD5GiGxVJr8ZM8pFJ8i.png) 

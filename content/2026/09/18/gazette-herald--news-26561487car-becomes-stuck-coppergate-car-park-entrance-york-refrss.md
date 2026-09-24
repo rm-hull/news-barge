@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Coppergate Centre Car Park
+- Parliament Street
+- York
+people:
+- John Firth
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 A FIRE and rescue crew has been called to a car that became stuck at the entrance to a York city centre car park.

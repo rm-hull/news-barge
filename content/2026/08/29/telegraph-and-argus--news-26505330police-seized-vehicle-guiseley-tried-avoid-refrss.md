@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Guiseley
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

@@ -12,6 +12,17 @@ image: https://i.guim.co.uk/img/media/8a7b42661ddfe61586da0d7fa225d82144d62e55/5
 categories:
 - UK
 - News & Politics
+locations:
+- Sweden
+people:
+- Andersson
+- Jimmie Åkesson
+- Niclas Nilsson
+- Tidö
+- Ulf Kristersson
+organisations:
+- SD
+- Sweden Democrats
 ---
 
 Since the party was founded in 1988, the story of the far-right Sweden Democrats (SD) has been one of such continuous growth that a triumph in Sunday’s general election seemed inevitable.

@@ -11,6 +11,25 @@ description: I tested the JBL Live Buds 4, and they’re an excellent-sounding o
 image: https://cdn.mos.cms.futurecdn.net/wtjDrBDyhfmSMYQUzzh9SM-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Harry Padoan
+- Kolter
+- Ned Doheny
+organisations:
+- ANC
+- AirPods Pro 3
+- Apple AirPods Pro 3
+- Bose QuietComfort Ultra
+- Column
+- Huawei
+- JBL
+- Marshall Bromley
+- Spotify
+- TechRadar
+- Tidal
 ---
 
 ### TechRadar Verdict

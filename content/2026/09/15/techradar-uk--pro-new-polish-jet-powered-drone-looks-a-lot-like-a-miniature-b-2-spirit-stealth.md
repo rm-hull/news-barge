@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/Q4Rc8StFTJqDpXnQezM8a8-1920-80.png
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Poland
+- Ukraine
+people: []
+organisations:
+- Armaments Agency
+- Efosa
+- European Union
+- FT-5
+- Google News
+- TechRadar Pro
+- Topaz
+- Via Defence Blog
+- WB Group
+- Warmate
 ---
 
 ![Gladius 2 turbojet bomber](https://cdn.mos.cms.futurecdn.net/Q4Rc8StFTJqDpXnQezM8a8.png) 

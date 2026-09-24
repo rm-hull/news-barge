@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21252991.jpg?type=og-image&xType=0&yType=87
+locations:
+- North East
+- Sedgefield
+- UK
+people:
+- Kasam Hussain
+organisations:
+- '![]()Openreach'
+- BT Group
+- National Innovation Centre for Data
+- Openreach
 ---
 
 Homes and businesses in Sedgefield are set to get some of the UK’s fastest internet speeds as work begins on a new full fibre network.

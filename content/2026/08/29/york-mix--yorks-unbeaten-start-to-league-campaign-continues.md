@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations: []
+people:
+- Alex Newby
+- Jayden Wareham
+- Jovan Malcolm
+- Luca Woodhouse
+organisations:
+- Exeter City
+- Stevenage
+- York City FC
 ---
 
 York City FC continue to be unbeaten with a 2-1 win over Exeter City in League Two.

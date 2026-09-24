@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Middlesbrough
+- New Street
+- Parliament Road
+- Thornaby
+people:
+- Andrew Mark
+- Aunt
+- Cainan Lonsdale
+- Charlie Thompson
+- Chloe Thompson
+- Chloe Thompson Thompson
+- Leanne Yates
+- Leanne Yates Yates
+- Richard Wright
+organisations:
+- CCTV
+- County Durham
+- Teesside Crown Court
 ---
 
 Two women who helped a gang viciously attack a pensioner walking his dog have been jailed.

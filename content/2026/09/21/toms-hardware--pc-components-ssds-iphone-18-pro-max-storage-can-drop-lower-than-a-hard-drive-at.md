@@ -14,6 +14,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/urTiSnGnWhVRz88dC8qQq-2560-80.png
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Apple
+- Bilibili
+- Google News
+- HBM
+- Homolab
+- QLC NAND
+- TLC
+- Tom’s Hardware
 ---
 
 ![iPhone disassembled on a light table.](https://cdn.mos.cms.futurecdn.net/urTiSnGnWhVRz88dC8qQq.png)

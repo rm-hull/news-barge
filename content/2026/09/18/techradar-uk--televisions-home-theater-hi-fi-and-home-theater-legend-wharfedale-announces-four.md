@@ -13,6 +13,17 @@ image: https://cdn.mos.cms.futurecdn.net/n6XEFFfhcuerQhqJSTK22F-2048-80.png
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Wharfedale Nova
+people:
+- Carrie Marshall
+organisations:
+- DSP
+- Google News
+- Nova 12
+- Nova 15
+- Unquiet Mind
+- Wharfedale
 ---
 
 ![Alll four Wharfedale Nova subwoofers on a gradient grey background and dark reflective surface](https://cdn.mos.cms.futurecdn.net/n6XEFFfhcuerQhqJSTK22F.png) 

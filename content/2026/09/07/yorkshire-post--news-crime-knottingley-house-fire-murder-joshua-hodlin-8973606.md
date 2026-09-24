@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Harwood Avenue
+- Knottingley
+- Knottingley.
+- Pontefract
+- Yew Tree Walk
+- Yorkshire
+people:
+- Joshua Hodlin
+- Shirley Hodlin
+organisations:
+- HMP Leeds
+- Hodlin
+- Leeds Crown Court
 ---
 
 # Young man denies murdering elderly woman in Yorkshire house fire

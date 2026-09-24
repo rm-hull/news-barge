@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/03/04/Venezuela_Maduro_3646_.jpg
 categories:
 - News & Politics
 - UK
+locations:
+- Brooklyn
+- Caracas
+- Manhattan
+- Metropolitan Detention Center
+- New York City
+- U.S.
+- Venezuela
+people:
+- Alvin K. Hellerstein
+- Andres Sanchez
+- Cilia Flores
+- Flores’
+- Mark Donnelly
+- Nicolás Maduro
+organisations:
+- Flores’
 ---
 
 Venezuela’s former first lady wants to be let out of jail while she and her husband await trial on U.S. drug trafficking charges.

@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Openreach
+organisations:
+- BT
+- Openreach
+- PSTN
+- Public Switched Telephone Network
 ---
 
 *(Image: Getty Images)*

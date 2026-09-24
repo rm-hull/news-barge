@@ -12,6 +12,16 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- BT
+- Batley
+- Cleckheaton
+- Openreach
+people: []
+organisations:
+- CCTV
+- Spen Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

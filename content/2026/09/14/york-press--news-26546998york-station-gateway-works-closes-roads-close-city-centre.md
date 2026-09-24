@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Queen Street
+- Station Road
+- York
+people: []
+organisations:
+- City of York Council
+- Milner Hotel
+- Newsquest
+- Station Gateway
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- England
+- London
+- New York City
+- Switzerland
+- Twin Towers
+- UK
+- US
+- World Trade Center
+people:
+- Burnham
+- Dame Esther
+- Hannah Slater
+- Helen Mirren
+organisations:
+- Daily Express
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Dignitas
+- Financial Times
+- Guardian
+- House of Commons
+- Labour
+- Metro
+- Reform UK
+- Sun
+- i Paper
 ---
 
 ![The headline on the front page of the Guardian reads: “'A hammer blow': plan for English tourist tax angers hotel industry”.](https://ichef.bbci.co.uk/ace/standard/774/cpsprodpb/cd25/live/90d41290-ad5c-11f1-bc1f-3f186ca4140c.jpg)

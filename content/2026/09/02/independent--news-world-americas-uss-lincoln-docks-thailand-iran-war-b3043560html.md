@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Abraham Lincoln
+- Chonburi
+- Laem Chabang
+- Laem Chabang Port
+- Middle East
+- Pattaya City
+- San Diego
+- Strait of Hormuz
+- Thailand
+- U.S.
+- United States
+people:
+- Abraham Lincoln
+- George Washington
+- Joseph Cahill
+- Poramase Ngampiches
+- Robert E. Loughran
+organisations:
+- Carrier Strike Group 3
+- Defense Department
+- Ford
+- MS
+- Marine
+- Marines
+- Military Times
+- NBC News
+- Naval Surface Forces
+- The Independent
+- U.S. Navy
+- USS
 ---
 
 The USS *Abraham Lincoln* aircraft carrier arrived in Thailand on Wednesday bearing the wear-and-tear of its deployment in the form of rusted metal and deteriorating paint.

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Australia
+- BBC
+- Crete
+- Greece
+- UK
+people:
+- Blake Harrison
+- Carli D'Amato
+- Charlotte Hinchcliffe
+- Damon Beesley
+- Emily Atack
+- Emily Head
+- Iain Morris
+- James Buckley
+- Jay Cartwright
+- Joe Thomas
+- Neil Sutherland
+- Simon Bird
+- Simon Cooper
+- Will McKenzie
+organisations:
+- BBC Newsbeat
+- Fiat
+- Film4
+- Netflix
+- Rudge Park Comprehensive
+- The Inbetweeners
 ---
 
 ![Simon Bird, Joe Thomas, James Buckley and Blake Harrison pose for photos at the world premiere of The Inbetweeners 2. The group are all wearing suits with skinny ties.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg)

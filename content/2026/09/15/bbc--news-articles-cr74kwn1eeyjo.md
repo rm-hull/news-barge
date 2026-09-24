@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Aintree Hospital
+- Liverpool Town Hall
+- Southport
+people:
+- Adrian Fulford
+- Alice da Silva Aguiar
+- Bebe King
+- Elsie Dot Stancombe
+organisations:
+- BBC Merseyside
+- BBC Radio Merseyside
+- Data Protection Officer
+- HM Courts and Tribunals Service and HM Prison and Probation Service
+- ICO
+- Information Commissioner's Office
+- MOJ
+- Ministry of Justice
+- MoJ
+- North West Ambulance Service
+- Southport Inquiry
 ---
 
 ![A building with the words 'Ministry of Justice' written on it.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0476/live/9df74c60-b13c-11f1-8e7a-7b6c4dcbe4b5.jpg)

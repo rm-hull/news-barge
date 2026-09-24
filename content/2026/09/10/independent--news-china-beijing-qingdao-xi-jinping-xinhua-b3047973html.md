@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- China
+- Qingdao
+people:
+- Li Qiang
+- Xi Jinping
+organisations:
+- Beihai Shipbuilding
+- Beihai Shipbuilding Co.
+- Beihai Shipbuilding’s
+- China State Shipbuilding Corporation
+- VesselFinder
+- Xinhua
 ---
 
 A cargo ship docked for repairs in a Chinese port caught fire, killing 25 people, Chinese state media reported Thursday.

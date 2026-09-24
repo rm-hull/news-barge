@@ -12,6 +12,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/18/13/e54031af84cac0bbf77f0dec2d01c86aY29udGVudHNlYXJjaGFwaSwxNzg3MTM5MTAz-2.77523354.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Balmoral
+- Buckingham Palace
+- Paris
+- Wales
+people:
+- Charles’
+- Diana
+- Earl Spencer
+- Elizabeth
+- Harry
+- King
+- Laura Kuenssberg
+- Paul Costelloe
+- Prince Charles
+- Robert Fellowes
+- William
+organisations:
+- BBC One
+- BBC iPlayer
+- Daily Mail
+- Duke of Edinburgh
+- Westminster Abbey
 ---
 
 The second series of excerpts from Earl Spencer’s book about Princess Diana have been released as he doubled down on his claims in a fresh interview.

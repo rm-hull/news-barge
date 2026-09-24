@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Albuquerque
+- Kentucky
+- New Mexico
+- New York
+- U.S.
+- White House
+people:
+- Biden
+- Donald Trump
+- James Comer
+- Pam Bondi
+- Raúl Torrez
+- Terry Cole
+- Todd Blanche
+organisations:
+- AP
+- DEA
+- Fox News
+- House Oversight Committee
+- Justice Department
+- The Associated Press
+- U.S. Drug Enforcement Administration
+- ___ Mustian
 ---
 
 Republicans on the House Oversight Committee have launched an investigation into a controversial policing tactic that permitted staggering amounts of deadly fentanyl to reach the streets as federal authorities sought to build bigger drug cases.

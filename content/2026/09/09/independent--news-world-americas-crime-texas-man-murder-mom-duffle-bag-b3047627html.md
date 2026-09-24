@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Harris County
+- Texas
+people:
+- Arman Alexander Malik
+- Dyna Guadalupe Sorto De Malik
+- Ed Gonzalez
+- Jessica Willey
+- Shaun Ward
+- Sorto De Malik
+- Tampering
+organisations:
+- Facebook
+- Harris County Jail
+- Harris County Sheriff’s Office
+- Human Corpse
+- KTRK
 ---
 
 A Texas man has been charged with murder after cops found the remains of his 73-year-old mom stuffed in a duffle bag.

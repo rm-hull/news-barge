@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Tehran
+- U.S.
+- United Arab Emirates
+- Washington
+people:
+- Anonim Sirketi
+- Scott Bessent
+organisations:
+- Golden Global Yatirim Bankasi
+- U.S. Treasury
 ---
 
 The U.S. Treasury announced Friday it has imposed sanctions on a Turkish financial institution as part of its latest effort to sever “critical financial lifelines” for the Iranian government.

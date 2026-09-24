@@ -12,6 +12,12 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865826313h-scaled.jpg
+locations:
+- Berlin
+people:
+- Hendrick Holt
+organisations:
+- Brandenburg Health
 ---
 
 ## News

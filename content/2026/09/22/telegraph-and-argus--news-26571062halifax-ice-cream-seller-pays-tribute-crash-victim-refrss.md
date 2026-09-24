@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21485939.jpg?type=og-image
+locations:
+- A647 Queensbury Road
+- Halifax
+- Hyde Park
+- King Cross
+- Queensbury Road
+people:
+- Imran Shabir
+- Tarik
+- Zulekha
+organisations:
+- Honda Civic
+- Seat Leon
+- Telegraph & Argus
+- VW Golf
+- West Yorkshire Police
 ---
 
 A Halifax ice cream seller has paid tribute to a woman who died following a three-vehicle crash near Queensbury, describing her family as "friendly" and "lovely".

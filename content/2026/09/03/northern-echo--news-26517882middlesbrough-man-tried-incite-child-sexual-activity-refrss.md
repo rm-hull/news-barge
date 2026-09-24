@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- County Durham
+- Middlesbrough
+- Shelley Road
+- Teesside Crown Court
+people:
+- Anthony Hancock
+- David Philipson
+organisations:
+- Cleveland POLIT
+- Cleveland Police
+- Paedophile Online Investigation Team
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Police)*

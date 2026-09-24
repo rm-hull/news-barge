@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Asia
+- Beijing
+- Britain
+- Brunei
+- Malaysia
+- Philippines
+- Seoul
+- South China Sea
+- South Korea
+- Taiwan
+- The Hague
+- U.S.
+- Vietnam
+people:
+- Gilberto Teodoro Jr.
+- Hyung-jin Kim
+- Kim Tong-hyung
+- Mao Ning
+organisations:
+- Foreign Ministry
+- Seoul Defense Dialogue
+- United Nations Convention on the Law of the Sea
 ---
 
 China on Wednesday accused the Philippines of “stirring up trouble” after harsh words from Philippines Defense Minister Gilberto Teodoro Jr. over Beijing's increasingly aggressive pursuit of maritime claims in the South China Sea.

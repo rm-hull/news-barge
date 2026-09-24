@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations:
+- '## McDonald''s'
+- Apple Pies
+- Big Macs
+- Getty Images
+- LG
+- McDonald
+- McDonald’s
+- Monopoly
+- Quarter Pounders
+- Reddit
+- UKfood
 ---
 
 *(Image: Getty Images)*

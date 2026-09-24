@@ -12,6 +12,42 @@ image: https://static.independent.co.uk/2026/09/01/10/2292456192..?trim=17,0,17,
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- China
+- Denmark
+- Donbas
+- Europe
+- Greenland
+- India
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- New Delhi
+- Russia
+- Russian Federation
+- US
+- Ukraine
+- United Kingdom
+- White House
+people:
+- Donald Trump
+- Jared Kushner
+- John Ratcliffe
+- Narendra Modi
+- Steve Witkoff
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- CIA
+- Congress
+- House
+- Nato
+- OG
+- Order of St Andrew
+- Senate
 ---
 
 Authoritarian populists like Vladimir Putin know that when fellow anti-democrats start calling them “my friend”, the writing may be on the wall.

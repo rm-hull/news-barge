@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Bangkok
+- Iran
+- South Carolina
+- U.S.
+people:
+- Donald Trump
+- Julie Morgan
+- Scott Bessent
+organisations:
+- Bessent
+- Century Foundation
+- G20
+- Group of 20
+- International Monetary Fund
+- The Associated Press-NORC Center for Public Affairs Research
+- Treasury
+- Trump Accounts
+- World Bank
 ---
 
 Driven in part by his own experience with poverty as a child, Treasury Secretary Scott Bessent is pitching a financial literacy campaign to leaders of the world's largest economies and suggesting an investment account program begun under President Donald Trump as a model for it.

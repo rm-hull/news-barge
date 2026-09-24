@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- New York
+people:
+- Aryna Sabalenka
+- Carlos Alcaraz
+- Novak Djokovic
+- Serena Williams
+- Venus
+organisations: []
 ---
 
 The U.S. Open, the season’s final Grand Slam, is underway in New York. Carlos Alcaraz and Aryna Sabalenka defend their singles titles, Novak Djokovic seeks a record 25th major, and Venus and Serena Williams reunite in doubles.

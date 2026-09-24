@@ -12,6 +12,29 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Africa
+- Derwent Valley
+- Friends of the Lower Derwent Valley
+- Lower Derwent Valley
+- Malton
+- Norfolk
+- Scotland
+- UK
+- Yorkshire
+people:
+- Craig Ralston
+- Jean Thorpe
+- Mark Naguib
+- Ms Thorpe
+organisations:
+- Avian
+- Lower Derwent Valley National Nature Reserve
+- Lower Derwent Valley Nature Reserve
+- National Nature Reserves
+- Natural England
+- RSPB
+- Royal Society for the Protection of Birds
 ---
 
 ![A corncrake - a brown bird - is being held in a gloved hand in front of a table with people around it. There is a field in the background.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b931/live/6c3f3480-a2c3-11f1-9024-715001d09aeb.jpg)

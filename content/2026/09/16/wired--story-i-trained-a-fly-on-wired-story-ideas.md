@@ -11,6 +11,20 @@ image: https://media.wired.com/photos/6aa8849459082b83fd22fcf8/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Alex Wormuth
+- Donald Trump
+- Lyra Bubbles
+- PitchFly
+- Rubik
+organisations:
+- AI
+- Codex
+- Coinbase
+- Google
+- StonkFly
+- WIRED
 ---
 
 Meet PitchFly, WIRED’s latest editorial recruit.

@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Britain
+- Falkland Islands
+- Iran
+- Pennsylvania Avenue
+- South America
+- Tehran
+- U.K.
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Javier Milei
+- Peter Lamelas
+- Scott Bessent
+organisations:
+- Black Hawk
+- CPAC
+- GB News
+- Lockheed Martin
+- Marine One
+- Sikorsky
+- State Department
+- Treasury
+- Trump
+- UH-60L Black Hawk
 ---
 
 The State Department has announced a deal to sell four UH-60L Black Hawk helicopters and related equipment to Argentina for $140 million.

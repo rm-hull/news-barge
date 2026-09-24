@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa39/live/bfe16820-b406-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- City
+- Lille
+- Manchester
+- Old Trafford
+people:
+- '## Carrick'
+- Blake Antrobus
+- Enzo Fernandez
+- Erling Haaland
+- Howard Webb
+- Leny Yoro
+- Matt Donohue
+- Michael Carrick
+organisations:
+- Brighton
+- Fulham
+- Leny Yoro
+- Liverpool
+- Manchester City
+- Manchester United
+- Manchester United Carrick
+- Manchester Unitedhead
+- Paris St-Germain
+- Pro Ref
+- Real Madrid
+- Sabah FK
+- VAR
 ---
 
 ![Manchester City striker Erling Haaland scores against Manchester United](https://ichef.bbci.co.uk/ace/standard/948/cpsprodpb/aa39/live/bfe16820-b406-11f1-b1d1-571ed4d7ff2c.jpg)

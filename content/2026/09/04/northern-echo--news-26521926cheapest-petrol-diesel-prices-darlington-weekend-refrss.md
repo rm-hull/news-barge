@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Esso Grange Road
+- Jet Darlington Road
+- Newton Park Service Station
+- RSS Grange Road
+people: []
+organisations:
+- BP High Northgate
+- Morrisons Darlington
+- Morrisons Morton Park
+- Newton Park Service Station
+- RSS Darlington
+- Sainsbury's Darlington
 ---
 
 *(Image: Archive)*

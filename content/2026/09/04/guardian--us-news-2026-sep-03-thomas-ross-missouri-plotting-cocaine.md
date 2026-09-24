@@ -12,6 +12,21 @@ image: https://i.guim.co.uk/img/media/e5e787b3ef94cd0682e2ab0bbc7e4cf47139475c/6
 categories:
 - UK
 - News & Politics
+locations:
+- Jefferson City
+- Joplin
+- Missouri House
+- Springfield
+people:
+- Lane Roberts
+- Louise Secker
+- Peter Kinder
+- Thomas Ross
+- Walter
+organisations:
+- CS
+- FBI
+- Federal Bureau of Investigation
 ---
 
 A Missouri House race has been rocked by the Wednesday arrest of Republican candidate Thomas Ross, whom prosecutors accuse of attempting to frame his primary opponent Louise Secker for cocaine possession.

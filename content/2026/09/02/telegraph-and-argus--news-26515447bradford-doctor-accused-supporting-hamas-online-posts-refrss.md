@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Old Bailey
+- Westminster Magistrates’ Court
+people:
+- Rehiana Ali
+- Sam Goozee
+organisations:
+- Bradford South
+- Hamas
+- NHS
+- Newsquest
 ---
 
 *(Image: Newsquest)*

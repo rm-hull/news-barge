@@ -11,6 +11,62 @@ image: https://static.independent.co.uk/2026/09/15/09/2294604860..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Antigua
+- Barbados
+- Barbuda
+- Britain
+- Djibouti
+- Dominica
+- Eastern Caribbean
+- Grenada
+- Grenadines
+- Haiti
+- Houston
+- Iceland
+- Iran
+- Israel
+- Middle East
+- Musandam
+- Nevis
+- Oman
+- R-Texas
+- Reykjavik
+- Riyadh
+- Saudi Arabia
+- Somalia
+- St. Kitts
+- St. Lucia
+- St. Vincent
+- Strait of Hormuz
+- Suriname
+- Texas
+- U.S.
+- United States
+- White House
+- Yemen
+people:
+- Donald Trump
+- Gordon Sondland
+- Instagram
+- Jeffrey Ross Gunter
+- Joe Biden
+- John Cornyn
+- Ken Paxton
+- Kimberly Greenwood
+- Lee Greenwood
+- Robert "Woody" Johnson
+- Roger Nyhus
+- Wesley Hunt
+organisations:
+- Democratic Party
+- European Union
+- God Bless the USA
+- Instagram
+- Miss Universe Organization
+- Senate
+- Trump
+- U.S. Army
 ---
 
 President Donald Trump on Monday nominated Kimberly Greenwood, the wife of "God Bless the USA" singer Lee Greenwood, to serve as the U.S. ambassador to Barbados and the Eastern Caribbean.

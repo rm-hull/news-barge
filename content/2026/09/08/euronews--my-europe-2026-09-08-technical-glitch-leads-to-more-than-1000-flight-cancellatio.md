@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Dublin
+- Edinburgh
+- Heathrow
+- Ireland
+- Liverpool
+- London Luton
+- London Stansted
+- Manchester
+- UK
+people:
+- Heidi Alexander
+organisations:
+- Flightradar24
+- London Gatwick
+- London Heathrow
+- NATS
 ---
 
 ## "Our system issue is now resolved, we are operating normally and working as hard as possible to clear the backlog of flights," air traffic control operator NATS has said.

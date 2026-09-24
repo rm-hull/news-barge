@@ -11,6 +11,22 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e01/live/c6d18b
 categories:
 - UK
 - News & Politics
+locations:
+- France
+- Lebanon
+- Paris
+people:
+- '** Dati'
+- Carlos Ghosn
+- Emmanuel Grégoire
+- Emmanuel Macron
+- Nicolas Sarkozy
+- Patrick Lefas
+- Rachida Dati
+organisations:
+- European Parliament
+- Renault-Nissan
+- Transparency International France
 ---
 
 ![Rachida Dati speaks at a podium with two microphones, wearing dark-framed glasses and an olive-green shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5e01/live/c6d18b00-b1be-11f1-bdcf-d393eb724fa3.jpg)

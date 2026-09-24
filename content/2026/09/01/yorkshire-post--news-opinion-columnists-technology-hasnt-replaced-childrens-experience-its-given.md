@@ -17,6 +17,18 @@ categories:
 - York
 - Family & Parenting
 - Society & Culture
+locations:
+- River Don
+- Rotherham
+people:
+- Becky Parry
+- Paul Faith
+- Rachel Bunce
+- Rotherham
+organisations:
+- Children’s Capital of Culture
+- National Videogame Museum
+- Rotherham Children’s Capital of Culture
 ---
 
 # Technology hasn’t replaced children’s experience, it’s given them another way to look at it - Dr Becky Parry

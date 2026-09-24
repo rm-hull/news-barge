@@ -13,6 +13,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- North Carolina
+- UK
+- USA
+people:
+- Andrew Bailey
+- John Healey
+- Matthew Horwood
+organisations:
+- Bank of England
+- British AI
+- Financial Stability Board
+- G20
+- Government
+- NHS
 ---
 
 The governor of the Bank of England has cautioned governments across the globe that artificial intelligence could trigger a major international financial downturn.

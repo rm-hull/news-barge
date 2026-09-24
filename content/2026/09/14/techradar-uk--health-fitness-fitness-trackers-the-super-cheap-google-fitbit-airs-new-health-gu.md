@@ -11,6 +11,22 @@ description: Google is loading its cheapest fitness tracker, the Google Fitbit A
 image: https://cdn.mos.cms.futurecdn.net/SRb7rTeToTpaSiKXz5cuU4-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+people:
+- Matt Evans
+organisations:
+- Fitbit Air
+- Gadgets & Wearables
+- Google Fitbit Air
+- Google Health
+- Google Health Coach
+- Google News
+- Men's Health
+- Pixel Watches
+- Runner's World
+- TechRadar
+- Whoop
 ---
 
 ![Google Fitbit Air](https://cdn.mos.cms.futurecdn.net/SRb7rTeToTpaSiKXz5cuU4.jpg) 

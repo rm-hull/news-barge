@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2026/09/17/19/54/GettyImages-485211876.j
 categories:
 - News & Politics
 - UK
+locations:
+- DeKalb County
+- Georgia
+people:
+- Bernando Brown
+organisations:
+- CBS Atlanta
+- DeKalb County School District
+- DeKalb County Schools
+- Governor’s Highway Safety Association
+- Student Transportation
 ---
 
 A Georgia school district is looking to install stop-arm cameras on school buses to dissuade drivers from illegally passing — a move that warrants a $1,000 fine in the state.

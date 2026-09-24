@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Christian Cawley
+- Gianfranco Lot
+organisations:
+- AI
+- Aon
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- OpenAI
+- P&C Re
+- Swiss Re Institute
+- TechRadar Pro
 ---
 
 ![Data centre.](https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk.jpg) 

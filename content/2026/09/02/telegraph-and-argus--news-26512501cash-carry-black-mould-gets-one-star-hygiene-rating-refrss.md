@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Broomfields
+- Caledonia Street
+people: []
+organisations:
+- Afrogrocers Ltd
+- Bradford Council
+- Google Maps
+- Leeds Council
+- Safer Food Better Business for Retailers
+- T&A
+- West Yorkshire Trading Standards
 ---
 
 *(Image: Google Maps)*

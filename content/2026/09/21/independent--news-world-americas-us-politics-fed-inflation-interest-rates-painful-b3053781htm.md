@@ -14,6 +14,16 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/16/35/GettyImages-2274268113.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- London
+people:
+- Austan Goolsbee
+- Kevin Warsh
+organisations:
+- Fed
+- Federal Reserve
+- Federal Reserve Bank of Chicago
 ---
 
 The central bank may have to cause economic pain in the form of higher unemployment to combat stubbornly high inflation, a top Federal Reserve official said Monday.

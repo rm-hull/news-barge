@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Birmingham
+- Dublin
+- Gatwick
+- Heathrow
+- JFK
+- Manchester Airport Manchester Airport
+- Tel Aviv
+- UK
+people:
+- Heidi Alexander
+- Julia Pobegailova
+- Ms Pobegailova
+organisations:
+- '## BA'
+- British Airways
+- DUB
+- Flightradar24
+- LCY
+- National Air Traffic Control Service
+- Nats
+- PA
+- Ryanair
+- Wizz Air
 ---
 
 Thousands of passengers at airports including Heathrow and Gatwick are facing travel chaos due to a “technical issue” that grounded flights across the UK.

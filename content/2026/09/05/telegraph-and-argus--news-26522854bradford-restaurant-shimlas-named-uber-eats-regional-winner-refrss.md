@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Kashmir
+- North East
+- North-West Frontier
+- Pakistan
+- Punjab
+- Shimlas
+people:
+- Haji Allah Ditta
+- Nasir Uddin
+- Shimlas
+- Shimlas'
+organisations:
+- Bradford
+- Shimlas
+- Yorkshire
 ---
 
 *(Image: Shimlas)*

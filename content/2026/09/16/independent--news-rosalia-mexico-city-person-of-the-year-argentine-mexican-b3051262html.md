@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- MGM Grand Las Vegas
+- Rawayana
+people:
+- ARIA VEGA
+- Arath Herce
+- Becky G
+- Ca7riel & Paco Amoroso
+- Coleccionando heridas
+- Delilah
+- Dime
+- Dora Sanches
+- Edgar Barrera
+- Ese Hombre es Malo
+- FABIAN
+- Femme Fatale
+- Hasta Jesús Tuvo Un Mal Día
+- Jorge Drexler
+- Juanes
+- Karol G
+- Kendall Peña
+- La Perla
+- Loulu Gilberto
+- Macario Martinez
+- Marco Antonio Solis
+- Milo J
+- Milo J. Daddy Yankee
+- Mon Laferte
+- Nilo
+- Paquita la del Barrio’s “Rata de dos patas
+- Rosalía
+- Santana
+- Silvana Estrada
+- Sofia Monroy
+- Sting
+- Taracá
+- Tropicoqueta
+- Vivir Quintana
+- Zanna
+- Zeca Veloso
+organisations:
+- CA7RIEL & Paco Amoroso
+- Ca7riel & Paco Amoroso
+- Latin Recording Academy
+- Los Angeles
+- Rosalía, “LUX
+- Tiny Desk
 ---
 
 A fight of titans is coming up for the 27th edition of the Latin Grammys with singers Karol G, Rosalía, Jorge Drexler and hip hop duo Ca7riel & Paco Amoroso as the most nominated artists revealed on Wednesday.

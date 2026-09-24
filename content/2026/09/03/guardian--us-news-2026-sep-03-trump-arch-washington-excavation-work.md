@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Arlington National Cemetery
+- East Potomac Park
+- Kennedy Center
+- Lincoln Memorial
+- US
+- Washington DC
+- White House
+people:
+- Doug Burgum
+- Nicolas Sansone
+organisations:
+- Burgum
+- Congress
+- Department of Justice
+- National Park Service
+- Public Citizen Litigation Group
+- Trump
 ---
 
 The Trump administration said on Thursday that excavation work will start over the next two weeks on the site where it plans to build a towering, gilded arch, a project that is facing a lawsuit and that critics say will disrupt historic sightlines in Washington DC.

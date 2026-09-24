@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acbc/live/b0aa9520-b54b-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Belgorod
+- Bryansk
+- Donbas
+- Elysee Palace
+- Kremlin
+- Moscow
+- State Duma
+- Ukraine
+- United Russia
+people:
+- Emmanuel Macron
+- Nikolai Rybakov
+- Viktor
+- Vladimir Putin
+- Vladimir] Putin
+- Yabloko
+organisations:
+- European Union
+- State Duma
+- Supreme Court
+- United Russia
+- Yabloko
 ---
 
 ![Putin sits in front of a desk and microphone holding some notes](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/acbc/live/b0aa9520-b54b-11f1-bc1f-3f186ca4140c.jpg)

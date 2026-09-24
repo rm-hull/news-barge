@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg
+locations:
+- China
+- Copenhagen
+- Europe
+- Greenland
+- Kingdom of Denmark
+- Mestersvig
+- Mestervig
+- Narsarsuaq
+- New York
+- North Atlantic
+- Pituffik
+- Russia
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+organisations:
+- Golden Dome
+- Nato
+- Pituffik Space Base
+- UN General Assembly
 ---
 
 ![US President Donald Trump shakes hands with Danish Prime Minister Mette Frederiksen as they attend a trilateral signing event](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/90f1/live/f79db310-b6b1-11f1-a430-4d16ee157c41.jpg)

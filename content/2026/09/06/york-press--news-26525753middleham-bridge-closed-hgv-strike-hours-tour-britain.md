@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - History
+locations:
+- '## Road'
+- Grade II
+- Middleham Bridge
+- North Yorkshire
+- Wensleydale
+- Yorkshire Dales Why Leyburn
+people:
+- Carl Les
+- Cllr Les
+organisations:
+- HGV
+- LDRS
+- North Yorkshire Council
 ---
 
 ## Road closed indefinitely after HGV strike damages historic Grade II listed bridge

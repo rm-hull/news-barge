@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Shropshire
+people:
+- James Hindson
+- Marc Cavey
+organisations:
+- Moreton Hall School
+- TRA
+- Teaching Regulaton Agency
+- YouTube
 ---
 
 A school teacher accidentally revealed his YouTube search history, including “teen bikini haul”, to pupils during a geography lesson at an all-girls’ boarding school, a teaching conduct panel heard.

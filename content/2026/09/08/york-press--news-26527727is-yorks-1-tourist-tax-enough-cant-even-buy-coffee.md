@@ -14,6 +14,19 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Goodramgate
+- La Piazza
+- Piccadilly
+- YOUR
+- York
+people:
+- Matthew LaverackRetired
+- Rose BerlDe
+organisations:
+- '## York'
+- Central Historic Core Conservation Area
+- Public Notice Portal
 ---
 
 *(Image: (Image Haydn Lewis))*

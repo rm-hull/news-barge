@@ -13,6 +13,75 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f4e/live/9a0d0230-b5c3-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Midlothian
+- Nottingham Forest
+- San Jose Earthquakes
+- Scotland
+- Slovenia
+people:
+- Aaron Hickey
+- Andy Robertson
+- Angus Gunn
+- Ben Gannon-Doak
+- Billy Gilmour
+- Che Adams
+- Colby Donovan
+- Craig Gordon
+- Findlay Curtis
+- James Wilson
+- John McGinn
+- Jon McCracken
+- Josh Doig
+- Kieran Tierney
+- Kieron Bowie
+- Lawrence Shankland
+- Lennon Miller
+- Lewis Ferguson
+- Liam Kelly
+- Matty Cash
+- Nathan Patterson
+- Nicolas Jackson
+- Oli McBurnie
+- Robbie Ure
+- Ryan Christie
+- Scott Bain
+- Scott McKenna
+- Scott McTominay
+- Sebastien Pocognoli
+- Steve Clarke
+organisations:
+- Aston Villa
+- Barcelona
+- Bologna
+- Bournemouth
+- Bradford City
+- Brentford
+- Cagliari
+- Celtic
+- Chelsea
+- Dinamo Zagreb
+- Dundee
+- Everton
+- Falkirk
+- Fiorentina
+- Heart
+- Hull City
+- La Liga
+- League One
+- Liverpool
+- Lokomotiva
+- Napoli
+- Pocognoli
+- Premier League
+- Rangers
+- Sassuolo
+- Serie A
+- Sevilla
+- Spurs'
+- Torino
+- Tottenham Hotspur
+- Udinese
 ---
 
 ![Napoli's Billy Gilmour (left) celebrates his goal against Fiorentina](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/cf58/live/1eedee10-b5ba-11f1-8d1d-a985658d9d3a.jpg)

@@ -12,6 +12,37 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg
+locations:
+- Mine
+- UK
+people:
+- David Bowie
+- Garfunkel
+- James Gunn
+- Kara Zor-El
+- Krem
+- Lance Ulanoff
+- Milly Alcock
+- Simon
+organisations:
+- ANC
+- AU
+- Apple Music
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- MacBook Air
+- Mashable
+- Medium
+- Supergirl
+- Today Show
+- USB-C
+- Ziff Davis, Inc
 ---
 
 ![Beats 360 hands on](https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH.jpg)

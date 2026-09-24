@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Church Grove
+- Europe
+- Hamburg
+- Horsforth
+- Iceland
+- Italy
+- James Bovington
+- Leeds
+- Norway
+- UK
+people:
+- Erasmus
+- Steve Parsons
+organisations:
+- Brexit
+- Customs Union
+- EU
+- European Economic Area
+- Houses of Parliament
+- Single Market
+- The Beatles
+- Yorkshire Post Letters
 ---
 
 # What Iceland’s decision not to pursue EU membership tells us - Yorkshire Post Letters

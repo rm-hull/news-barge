@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Clapham
+- Kingston Crown Court
+- London
+- PA
+people:
+- Dan Knowles
+- Nick Ansell
+- Rachel Bright
+- Sgt Bright
+organisations:
+- Bright
+- Kingston Crown Court
+- Metropolitan Police
+- Met’s Directorate of Professional Standards
+- Scotland Yard
+- South West Command Unit
 ---
 
 A Metropolitan Police officer who inappropriately touched a woman during a night out has been sacked from the force, Scotland Yard officials have confirmed.

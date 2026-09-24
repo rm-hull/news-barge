@@ -12,6 +12,74 @@ image: https://cdn.mos.cms.futurecdn.net/6p6hSpsGLCmarHoe6wCxej-1024-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Atlanta
+- Australia
+- Canada
+- Flushing Meadows
+- Glastonbury
+- NZ
+- New York
+- New Zealand
+- Shelton
+- Turin
+- UK
+- US
+- Zverev
+people:
+- Alexander Zverev
+- Andy Murray
+- Andy Roddick
+- Ashe
+- Ben Shelton
+- Carlos Alcaraz
+- Dominic Thiem
+- Frances Tiafoe
+- Karen Khachanov
+- Lorenzo Sonego
+- Radiohead
+- Stan Sport**
+organisations:
+- 9Gem
+- ABC
+- ABC**
+- ACCN
+- ACCNX
+- AMC
+- AU
+- CNN
+- CW Sports
+- Champions League
+- Channel 9
+- Disney Plus
+- ESPN Deportes
+- ESPN Select**
+- ESPN Unlimited
+- ESPN2
+- ESPNEWS
+- ESPNU
+- FourFourTwo
+- Fubo**,**
+- Future Publishing
+- Hulu
+- NBA
+- NBL
+- NFL Network
+- NOW Sports
+- Premier League
+- Rugby's Greatest Rivalry
+- SECN
+- Shelton
+- Sky Sports
+- Sky Sports**
+- Stan Sport
+- Super Rugby
+- TNT
+- TSN
+- TechRadar
+- WNBA
+- Zverev
 ---
 
 ![Ben Shelton shouts in ecstasy at reaching the US Open 2026 men's final.](https://cdn.mos.cms.futurecdn.net/6p6hSpsGLCmarHoe6wCxej.jpg) 

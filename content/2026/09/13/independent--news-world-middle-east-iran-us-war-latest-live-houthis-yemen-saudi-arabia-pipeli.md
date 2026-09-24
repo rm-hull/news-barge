@@ -11,6 +11,57 @@ image: https://static.independent.co.uk/2026/09/13/12/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Bab el-Mandeb
+- Bab-al Mandeb
+- Bahrain
+- Berlin
+- Britain
+- China
+- Dublin
+- East-West
+- Eastern Province
+- Europe
+- Falkland Islands
+- Gaza City
+- Gaza Strip
+- Germany
+- Gulf
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Musandam
+- Oman
+- Perim
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Sharurah
+- Strait of Hormuz
+- Tel Al-Hawa
+- U.S.
+- UK
+- US
+- United States
+- Vienna
+- Washington
+- Yemen
+people:
+- '## Trump'
+- Donald Trump
+- Ebrahim Azizi
+- Mohammed bin Salman
+- Yahya Saree
+organisations:
+- Die Welt
+- Hamas
+- Houthi
+- Muwaffaq Salti Air Base
+- Reuters
+- United Kingdom Maritime Trade Operations
+- Wall Street Journal
 ---
 
 Yemen’s Houthi rebels claimed on Sunday to have struck facilities at a military base in Saudi Arabia as the burgeoning conflict threatens to throw the region back into chaos.

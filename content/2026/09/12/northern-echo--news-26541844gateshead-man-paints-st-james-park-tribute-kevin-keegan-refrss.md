@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Freeman Hospital
+- Gallowgate End
+- Gateshead
+- Newcastle
+- North East
+- One Strawberry Place
+- St James' Park
+- St James’ Park
+people:
+- Anisa Rahim
+- Kevin Keegan
+- Ronnie Pattison
+- Steve Brock
+organisations:
+- Bobby Robson Foundation
+- Bobby Robson Institute
+- Harley-Davidson
+- NORTHERN ECHO
+- Newcastle FC
+- Newcastle Hospitals Charity
+- Sir Bobby Robson Institute
+- The Sir Bobby Robson Foundation
 ---
 
 *(Image: Steve Brock)*

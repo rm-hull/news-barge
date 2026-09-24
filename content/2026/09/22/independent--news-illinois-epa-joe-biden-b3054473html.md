@@ -14,6 +14,21 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/22/18/Climate_Plan_Illinois_8_642.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Illinois
+people:
+- James Jennings
+- Joe Biden
+organisations:
+- Capitol News Illinois
+- Comprehensive Climate Action Plan
+- Electric Vehicle Rebate Program
+- Illinois EPA
+- Illinois Environmental Protection Agency
+- JC Kibbey
+- State Action
+- The Associated Press
+- U.S. Environmental Protection Agency
 ---
 
 A new report says Illinois has made significant strides in reducing greenhouse gas emissions from power plants such as Illinois has made substantial progress in reducing greenhouse gas emissions in recent years, but it is not yet on track to meet its goal of reaching net-zero emissions by 2050.

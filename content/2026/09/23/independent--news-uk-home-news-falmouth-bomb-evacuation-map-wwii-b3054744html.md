@@ -12,6 +12,17 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/7/41/8085239_5733690f_original.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Devon and Cornwall Police
+- Falmouth Docks
+- Falmouth Town
+people:
+- Vicky Howell
+organisations:
+- Cornwall Council
+- Explosive Ordnance Disposal
+- Explosive Ordnance Disposal team
+- GWR
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

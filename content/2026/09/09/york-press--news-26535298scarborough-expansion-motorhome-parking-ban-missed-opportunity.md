@@ -12,6 +12,35 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Belvedere Road
+- Cayton Bay
+- Esplanade Crescent
+- Holbeck Road
+- NYC
+- North Yorkshire
+- Royal Albert Drive
+- Sandsend
+- Scarborough
+- Sea Cliff Road
+- South Cliff
+- UK
+people:
+- Christine
+- Diane
+- Julia
+- Michelle
+- Nyc David
+- Rich Maw
+- Scarborough
+- William
+organisations:
+- Crown Copyright
+- Experimental Traffic Regulation Order
+- Holbeck Road Campervan ETRO
+- NYC Expanded Motohome ETRO
+- Nyc Parking Survey
+- The Press
 ---
 
 ## Expansion of overnight ban on motorhomes a 'missed opportunity'

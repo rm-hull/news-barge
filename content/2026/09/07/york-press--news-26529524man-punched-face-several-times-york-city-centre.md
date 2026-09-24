@@ -13,6 +13,13 @@ categories:
 - York
 - Sports
 - Health & Fitness
+locations:
+- Clifford Street
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

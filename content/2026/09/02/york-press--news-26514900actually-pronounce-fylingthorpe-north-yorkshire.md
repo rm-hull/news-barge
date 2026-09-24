@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Fylingdales
+- Fylingthorpe
+- Mewker
+- North York Moors
+- North Yorkshire
+- RAF
+- Robin Hood
+- Robin Hood's Bay
+- Thorpe Hall
+- Whitby Abbey
+people:
+- William de Percy
+organisations:
+- Chop Gate
+- Chop-Yat
+- Fyling Hall
+- Fylingthorpe
+- Muker
+- Northern Echo
 ---
 
 *(Image: GOOGLE)*

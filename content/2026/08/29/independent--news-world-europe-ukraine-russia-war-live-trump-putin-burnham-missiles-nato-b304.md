@@ -11,6 +11,68 @@ image: https://static.independent.co.uk/2026/08/26/13/2026-08-26T121543Z_4879062
 categories:
 - News & Politics
 - UK
+locations:
+- Arkhangelsk
+- Asia
+- Belarus
+- Black Sea
+- Croatia
+- Europe
+- Iran
+- Janaf
+- Kamchatka
+- Kherson
+- Kiev
+- Kremlin
+- Kura
+- Kyiv
+- Moscow
+- Nizhny Novgorod
+- Ozon
+- Perm
+- Rostov Oblast
+- Rostov-on-Don
+- Russia
+- Serbia
+- Tehran
+- UK
+- US
+- Ukraine
+- United States
+- West
+- Yaroslavl
+people:
+- '## Zelensky'
+- Aleksandr Bortnikov
+- Djedovic Handanovic
+- Dmitry Peskov
+- Donald Trump
+- Dubravka Djedovic Handanovic
+- John Ratcliffe
+- Ozon
+- Sergei Naryshkin
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- BBC
+- CIA
+- FSB
+- Foreign Ministry
+- Gazprom Neft
+- Instagram
+- Kyiv Independent
+- MOL
+- NATO
+- NIS
+- Nato
+- OFAC
+- Reuters
+- Strategic Missile Forces
+- TASS
+- Telegram
+- The Washington Post
+- US Office of Foreign Assets Control
+- Wall Street Journal
 ---
 
 Russia has successfully tested a nuclear-capable intercontinental ballistic missile that could reach the US, its defence ministry has said.

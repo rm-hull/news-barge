@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- America
+- Bombay
+- Canada
+- Chile
+- England
+- India
+- Iran
+- Lebanon
+- London
+- Manhattan
+- Mumbai
+- New York
+- New York City
+- South Asia
+- U.S.
+people:
+- Alex Gibney
+- Art Spiegelman
+- Ayatollah Ruhollah Khomeini
+- Dolly Parton
+- Hadi Matar
+- Isabel Allende
+- Jhumpa Lahiri
+- Kiran Desai
+- Martin Amis
+- Maya Angelou
+- Muhammad
+- Perri Klass
+- Rachel Eliza Griffiths
+- Ray(mond) Carver
+- Roxane Gay
+- Ruth Dickey
+- Salman Rushdie
+- Saul Bellow
+- Terry Gross
+- Yiyun Li
+organisations:
+- American Literary Community
+- Hezbollah
+- National Book Foundation
+- The Associated Press
+- Zoom
 ---
 
 Salman Rushdie, a U.S. citizen for the past decade, is to receive a literary honor reserved for the elite of American writers — a National Book Award medal for lifetime achievement.

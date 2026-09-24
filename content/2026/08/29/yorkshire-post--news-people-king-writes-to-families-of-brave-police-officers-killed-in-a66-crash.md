@@ -14,6 +14,28 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Middlesbrough
+- Sellafield
+people:
+- Charles III
+- King
+- PC Matthew Blades
+- Pc Blades
+- Pc Clough
+- Pc Matthew Blades
+- Tom Clough
+organisations:
+- CNC
+- Civil Nuclear Constabulary
+- Cleveland Police
+- FC Hartlepool
+- Mirror
+- Police Federation
+- Reds
+- Seahawks
+- Seaton Carew FC
+- VW
 ---
 
 # King writes to families of brave police officers killed in A66 crash

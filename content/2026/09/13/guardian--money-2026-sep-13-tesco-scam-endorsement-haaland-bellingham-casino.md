@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Anjouan
+- Caribbean
+- Curacao
+- England
+- Great Britain
+- Ireland
+- Meta
+- Norway
+- Tyson Fury
+- UK
+- US
+people:
+- Bejay Patel
+- Bruno Fernandes
+- Erling Haaland
+- Jude Bellingham
+- Lewis Hamilton
+- Monzo
+- Tyson Fury
+organisations:
+- ASA
+- Advertising Standards Authority
+- Barclays Slots
+- Barclays bank
+- Barclays’
+- City of London
+- Coral
+- Entain
+- Facebook
+- Gala Bingo
+- Gambling Commission
+- Guardian
+- Instagram
+- Manchester City
+- Manchester United
+- Meta
+- Monzo
+- National Cyber Security Centre and Report Fraud
+- Ofcom
+- Rainbet
+- Real Madrid
+- Tesco
 ---
 
 Tesco has alerted City of London police after it became the latest in a string of companies and sports stars, including Barclays bank and Lewis Hamilton, to have its image hijacked in a “scam” by unlicensed casinos advertising via Facebook and Instagram.

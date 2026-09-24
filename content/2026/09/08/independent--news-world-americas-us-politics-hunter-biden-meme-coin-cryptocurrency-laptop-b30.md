@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dallas
+- Delaware
+- Texas
+- White House
+people:
+- Andrew Callaghan
+- Changpeng Zhao
+- Donald Trump
+- Donald Trump Jr
+- Eric Trump
+- Hunter Biden
+- Joe Biden
+organisations:
+- Base
+- Binance
+- Coinbase
+- Senate Permanent Subcommittee on Investigations
+- Substack
+- The New York Post
+- Trump
+- Wall Street Journal
 ---
 
 Hunter Biden has announced he is launching a new cryptocurrency satirizing the infamous laptop scandal he found himself at the center of in 2020 and President Donald Trump’s own dabblings in the sector.

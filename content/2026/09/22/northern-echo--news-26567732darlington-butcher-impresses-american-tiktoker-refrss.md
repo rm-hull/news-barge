@@ -14,6 +14,22 @@ categories:
 - Lifestyle & Fashion
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/21481021.jpg?type=og-image&xType=0&yType=103
+locations:
+- County Durham
+- Darlington
+- Fairytale Northumberland
+- Ravenseat Farm
+- Skinnergate
+people:
+- Alex
+- Amanda
+- Clive Owen
+- Stuart Boulton
+- Taylor
+organisations:
+- '![]() Taylors'
+- TikToker
+- Traditional Butchers
 ---
 
 An American food TikToker has brought Taylor’s Traditional Butchers to more than 38,500 viewers.

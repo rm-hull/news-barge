@@ -14,6 +14,25 @@ categories:
 - Science
 - Music
 - Arts & Culture
+locations:
+- AI
+- America
+- US
+- Virginia
+- Yerba Madre
+people:
+- Alan Wilkis
+- Basura
+- Bezzy
+- Rajeev Basu
+organisations:
+- AI
+- Adopt a Data Center
+- Basura
+- Big Data
+- Joywave
+- New York
+- WIRED
 ---
 
 Uh oh, we got a cute alert! It’s Bezzy, your adorable, cuddly, anthropomorphized server-rack and stuffed-animal friend! Give this soft lil’ doll a squeeze, and it shall sing you its telltale song: the piercing, grinding ambient squeals emitted from a real US data center.

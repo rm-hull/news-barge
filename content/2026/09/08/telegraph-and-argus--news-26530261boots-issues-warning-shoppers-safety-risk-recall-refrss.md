@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Republic of Ireland
+- Skin Micellar Cleansing Water
+- UK
+people: []
+organisations:
+- Asda
+- Consumer Careline
+- PA)* Boots
+- Simple
+- Superdrug
+- Tesco
+- Unilever’s Consumer Careline
 ---
 
 *(Image: PA)*

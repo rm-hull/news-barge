@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- Bradford
+- Canterbury Avenue
+- Leeds General Infirmary
+people: []
+organisations:
+- '### Full'
+- Newsquest
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

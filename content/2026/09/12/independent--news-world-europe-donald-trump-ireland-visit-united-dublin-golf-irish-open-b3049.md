@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlantic
+- Co Clare
+- Doonbeg
+- Dublin
+- Emerald Isle
+- Farmleigh House
+- Irish Republic
+- Limerick
+- London
+- Middle East
+- Northern Ireland
+- UK
+- US
+- United Kingdom
+- United States
+- Washington
+people:
+- Ben Birchall
+- Catherine Connolly
+- Donald Trump
+- Gavin Robinson
+- James Manning
+- Micheal Martin
+- Micheál Martin
+- Trumps
+organisations:
+- Democratic Unionist Party
+- Irish Army
+- Irish Defence Forces
+- Trump
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/N8fVWUiV/poster.jpg?width=720)

@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- National Park
+- South Wales
+- UK
+people:
+- Bronwyn Lally
+- Steffan Edwards
+- Wardens
+organisations:
+- BBC Radio Wales Breakfast
+- Bannau Brycheiniog National Park Authority
+- Brecon Beacons
+- National Park
+- Wardens
 ---
 
 Authorities have issued a warning to visitors after human excrement and maggot-infested food were all found at a Welsh national park over the bank holiday weekend.

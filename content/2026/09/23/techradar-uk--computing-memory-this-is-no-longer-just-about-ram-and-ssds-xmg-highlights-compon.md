@@ -11,6 +11,30 @@ description: The RAM crisis is kicking up yet another gear as XMG hikes its lapt
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/ijhrxXurFWn98GQJhMbbhe-1920-80.jpg
+locations:
+- Middle East
+- US
+people: []
+organisations:
+- AMD
+- Dell
+- Geizhals
+- Google News
+- Hachette UK
+- Intel
+- Micron 2GB
+- Nvidia
+- RAM
+- Reddit
+- SK Hynix
+- Samsung
+- Schenker
+- Team Green
+- Uniko's Hardware
+- VRAM
+- VideoCardz
+- Wccftech
+- XMG
 ---
 
 ![A frustrated looking gamer gazing at their monitor](https://cdn.mos.cms.futurecdn.net/ijhrxXurFWn98GQJhMbbhe.jpg)

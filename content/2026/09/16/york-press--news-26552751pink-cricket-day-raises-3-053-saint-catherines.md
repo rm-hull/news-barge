@@ -13,6 +13,20 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- North Yorkshire
+- Scarborough
+people:
+- Catherine’s
+- Dan Gregory
+- Jezz Pratt
+- Saint Catherine
+- Susan Stephenson
+- Tim Watts
+organisations:
+- Leicestershire
+- Scarborough Cricket Club
+- Yorkshire
 ---
 
 *(Image: Supplied)*

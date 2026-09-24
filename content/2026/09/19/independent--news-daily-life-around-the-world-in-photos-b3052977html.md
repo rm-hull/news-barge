@@ -12,6 +12,10 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/19/20/Mideast_Wars_Yemen_74252.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations:
+- AP
 ---
 
 A look at everyday moments across countries, cultures and communities worldwide.

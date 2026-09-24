@@ -12,6 +12,30 @@ categories:
 - Science
 - Technology & Software
 - Society & Culture
+locations:
+- Australia
+- Europe
+- Iraq
+- New York
+- Switzerland
+- UK
+- US
+people:
+- Adrian Nichol
+- Dan Karlin
+- Greg Cooper
+- John Peters
+- Jules Evans
+- Katherine Templar-Lewis
+- Robert Barrow
+- Sam Conniff
+organisations:
+- Definium Therapeutics
+- FDA
+- LSD
+- The Uncertainty Toolkit
+- US Food and Drug Administration
+- University College London
 ---
 
 ![A digital illustration of an LSD molecule](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312407519.jpg?w=840)

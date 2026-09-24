@@ -14,6 +14,23 @@ categories:
 - York
 - Arts & Culture
 - Home, Garden & DIY
+locations:
+- England
+- Muker
+- Ravenseat Farm
+- Smithy Holme
+- Upper Swaledale
+people:
+- Amanda Owen
+- Anthony Clarkson
+- Anty John
+- Anty John’s
+- Clive
+- Ravenseat
+organisations:
+- Clive and Kids
+- Farm Next Door
+- Yorkshire Dales
 ---
 
 *(Image: CHANNEL 4)*

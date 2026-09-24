@@ -14,6 +14,9 @@ categories:
 - UK
 - Education & Learning
 - History
+locations: []
+people: []
+organisations: []
 ---
 
 Photos of Cuban students returning to school as they face power and fuel shortages

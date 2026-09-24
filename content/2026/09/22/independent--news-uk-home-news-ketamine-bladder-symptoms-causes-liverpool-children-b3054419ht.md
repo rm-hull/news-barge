@@ -13,6 +13,19 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/22/15/58/iStock-1499800055.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alder Hey
+- Liverpool
+- UK
+people:
+- Harriet Corbett
+- Rachel Isba
+organisations:
+- Alder Hey Children’s NHS Foundation Trust
+- Archives of Disease in Childhood
+- KIU
+- Lancaster University
+- Lancaster University’s Medical School
 ---
 
 Children as young as 13 are being referred to a specialist clinic to treat a bladder condition caused by continuous ketamine use, new analysis shows.

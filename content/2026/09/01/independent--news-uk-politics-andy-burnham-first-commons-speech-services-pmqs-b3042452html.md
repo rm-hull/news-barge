@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/01/00/fee3d6910e8681fb650ffd7954
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Jackdaw
+- North Sea
+- Rosebank
+- Westminster
+people:
+- Albert Bowers
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Dame Priti Patel
+- Jessie Cole
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Mel Stride
+organisations:
+- Bank Holiday
+- Guardian
+- House of Commons
+- Nato
+- Thames Valley Police
+- Thames Water
+- The Times
+- Treasury
 ---
 
 Andy Burnham will call for greater public control over water, energy and transport in his first House of Commons appearance since becoming prime minister.

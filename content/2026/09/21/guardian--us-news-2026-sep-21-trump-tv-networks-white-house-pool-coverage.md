@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/5f54b3b5695c2875f441ae35c5d9071ba9915648/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1f55586ec79e7c8aa1e8b8e514353a9
+locations:
+- US
+- Washington
+- White House
+people:
+- Bryan Boughton
+- Donald Trump
+organisations:
+- ABC
+- CBS
+- CNN
+- Fox News
+- Free Press
+- MS Now
+- NBC
+- Politico
+- Trump
+- Truth Social
+- US TV
+- Washington Post
 ---
 
 Major US TV news networks agreed to refuse to air coverage of Donald Trump’s White House after the administration banned certain media outlets including CNN from the grounds.

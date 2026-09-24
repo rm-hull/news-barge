@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Burlington
+- Interstate 43
+- Milwaukee County
+- Wisconsin
+people:
+- Dak Prescott
+- David Berson
+- JJ Watt
+- Jim Nantz
+- Tony Romo
+- Tracy Wolfson
+organisations:
+- CBS NFL
+- CBS Sports
+- CBS’ NFL
+- Cowboys’
+- Dallas Cowboys
+- Green Bay Packers
+- Instagram
+- Milwaukee County Sheriff’s Office
+- Minnesota Vikings
 ---
 
 Former Dallas Cowboys quarterback and current CBS NFL analyst Tony Romo has issued a public apology after pleading no contest to a charge of operating while intoxicated.

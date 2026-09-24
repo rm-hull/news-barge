@@ -14,6 +14,25 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- California
+people:
+- Jack Tretton
+- Louis Rossmann
+- Tom
+- Zak Killian
+organisations:
+- Consumer Rights Wiki
+- Get Tom's Hardware
+- Google News
+- HotHardware
+- PC
+- PlayStation Network
+- PlayStation Store
+- Sony
+- The Tech Report
+- Tom's Hardware
+- Zak
 ---
 
 ![Jack Tretton proudly announces that the PlayStation 4 supports used games during the system's launch showcase in 2014.](https://cdn.mos.cms.futurecdn.net/iEPZmfxkTcaDCWyzQMRdcZ.jpg) 

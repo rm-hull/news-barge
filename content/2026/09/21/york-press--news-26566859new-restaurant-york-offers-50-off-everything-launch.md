@@ -12,6 +12,16 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/20657376.jpg?type=og-image
+locations:
+- Heslington Road
+- Pixabay
+- York
+people:
+- Sohail Saleem
+organisations:
+- Flame N Fry
+- Kickin Chicken
+- York Flame N Fry
 ---
 
 ## New family-run restaurant opening in York

@@ -14,6 +14,78 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Britain
+- Camden
+- Canada
+- Downing Street
+- Edinburgh
+- France
+- Greater Manchester
+- Holyrood
+- Israel
+- Liverpool
+- NHS England
+- North
+- Northern Ireland
+- Paris
+- Rome
+- Russia
+- Scotland
+- UK
+- Ukraine
+- Wales
+- Westminster
+- Whitehall
+people:
+- Alex Norris
+- Allen Simpson
+- Andrew Carter
+- Andrew Griffith
+- Andy Burnham
+- Angela Rayner
+- Bibi
+- Boris Johnson
+- Brexit
+- David Cameron
+- David Simmonds
+- Eir Nolsøe
+- Emma Barnett
+- Ethan Croft
+- Harry Brennan
+- John Swinney
+- Keir Starmer
+- Kemi Badenoch
+- Lucy Powell
+- Michael Sheen
+- Rachel Reeves’
+- Stephen Evans
+- Steve Rotheram
+- Szu Ping Chan
+- Tony Blair
+- Wes Streeting
+organisations:
+- Aberdeen
+- Cabinet Office
+- Centre for Cities
+- Church of England
+- Church of Scotland
+- Commons Welsh affairs
+- Conservative
+- Crown
+- Daily Telegraph
+- LOTO
+- Labour
+- NHS England
+- National Secular Society
+- New Statesman
+- PA
+- PMQs
+- Press Association
+- SNP
+- Tory
+- UK Hospitality
 ---
 
 No 10 says visitor levy in England will mean communities keep 'more of the benefits of tourism'

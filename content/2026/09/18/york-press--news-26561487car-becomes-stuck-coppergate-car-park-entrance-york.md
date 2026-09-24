@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - History
+locations:
+- Coppergate Centre Car Park
+- John Firth
+- Parliament Street
+- York
+people:
+- John Firth
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 ## Fire and rescue called to car stuck in city car park entrance

@@ -12,6 +12,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7433/live/060e9a
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Liberal Britain
+- Milton Keynes
+people:
+- Andy Burnham
+- Daisy Cooper
+- Davey?
+- Eddie
+- Josh Babarinde
+- Keir Starmer
+- Max Wilkinson
+- Sir Ed Davey
+- Trump
+- Zack Polanski
+organisations:
+- Green Party
+- House of Commons
+- Houses of Parliament.
+- Labour
+- Lib Dem
+- Lib Dems
+- Lib Dems'
+- Reform UK
+- YouGov
 ---
 
 ![Sir Ed Davey asks a question during Prime Minister's Questions in the House of Commons](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7433/live/060e9a70-b2ae-11f1-bc1f-3f186ca4140c.jpg)

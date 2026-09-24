@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - History
 image: https://cdn.prod.www.spiegel.de/images/20a94e99-80d5-4f00-8e6c-ecf5920f2e6e_w1200_r1.778_fpx65.21_fpy52.99.jpg
+locations:
+- Black Sea
+- Demydiv
+- Dnipro
+- Kherson
+- Rhine River
+- Russia
+- Ukraine
+people:
+- Emile Ducke
+- Fedir Petrov
+- Vladimir Putin
+organisations:
+- DER SPIEGEL
+- Dnipro
+- Substack
 ---
 
 ![](https://cdn.prod.www.spiegel.de/images/20a94e99-80d5-4f00-8e6c-ecf5920f2e6e_w1024_r1.5_fpx65.21_fpy52.99.jpg)

@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Birchington Avenue
+- CLEVELAND
+- Grangetown
+- James Cook University Hospital
+- Royal Victoria Infirmary
+- Teesside Crown Court
+people:
+- Also
+- Anthony McDonald
+- Jaden Wright
+- Lisa
+- Matthew Blades
+- Mum
+- Natalie Louise
+- Natalie Louise Kirton
+- Natalie Louise McDonald
+- Natalie McDonald
+- Teresa Boland
+- Tom Clough
+- Valentia Foster
+- Valentina Foster
+organisations:
+- North News & Pictures Ltd
+- THE NORTHERN ECHO
 ---
 
 A fundraiser has been launched to help pay for the funeral of Natalie McDonald, who was killed alongside her seven-year-old niece in a house fire.

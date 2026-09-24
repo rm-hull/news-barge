@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/ZcXxhaiUxX8pSzaLpwY9Wb-1920-80.jpg
+locations:
+- US
+- Virgin River
+people:
+- Brian
+- Claire
+- Ellen
+- George Cooper Sr.
+- Harriet Slater
+- Henry Beauchamp
+- Hermione Corfield
+- Jamie Roy
+- Jeremy Irvine
+- Julia
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- MGM
+- Netflix
+- Radio Times
+- Scottish Highlands
+- Starz
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Jeremy Irvine as Henry Beauchamp](https://cdn.mos.cms.futurecdn.net/ZcXxhaiUxX8pSzaLpwY9Wb.jpg)

@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '#### Etty Avenue'
+- Etty Avenue
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Both police and fire crews were called to a petrol spill on a York road this morning (Monday).

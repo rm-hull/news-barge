@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21473935.jpg?type=og-image
+locations:
+- Framlington Place
+- Newcastle
+people:
+- Carolyn Scott
+- Colin Lether
+- Det Con Lether
+- Michael Burke
+- Michael Peter Burke
+organisations:
+- Crimestoppers
+- Newcastle Crown Court
+- Northumbria Police
+- Safeguarding Department
 ---
 
 *(Image: Northumbria Police)*

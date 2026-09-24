@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- England
+- Fairway
+- Fleetwood
+- Huyton
+- Widnes
+people:
+- David Potter
+- Joey Barton
+- Kevin Lynch
+- Mr Lynch
+organisations:
+- Bristol Rovers
+- Burnley
+- Cheshire
+- Fleetwood Town
+- Liverpool Crown Court
+- Manchester City
+- Marseille
+- Newcastle
+- NexGen Academy
+- Prescot Golf Club
+- QPR
+- Rangers
 ---
 
 Former Premier League footballer Joey Barton could remain in prison until next year, after his trial over an alleged attack on a man outside a golf club was delayed.

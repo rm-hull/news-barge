@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488279.jpg?type=og-image&xType=0&yType=0
+locations:
+- Bradford
+- UK
+people:
+- Andrew Clegg
+- Anne Forster
+- John Young
+- Mel Pickup
+organisations:
+- ASR
+- Academic Unit
+- Academic Unit for Ageing and Stroke Research
+- Bradford Teaching Hospitals
+- Bradford Teaching Hospitals NHS Foundation Trust
+- Leeds Institute of Health Sciences
+- NIHR
+- RESEARCH
+- University of Leeds
 ---
 
 *(Image: Supplied)*

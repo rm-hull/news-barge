@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Jordan
+- London
+- Middle East
+- Oxford Street
+- PA
+- UK
+people:
+- Harvir Dhillon
+- Jack Meaning
+organisations:
+- BRC
+- Barclays
+- British Retail Consortium
+- KPMG
 ---
 
 Retailers suffered a disappointing August as looming household bill increases saw consumers reining in their spending, figures show.

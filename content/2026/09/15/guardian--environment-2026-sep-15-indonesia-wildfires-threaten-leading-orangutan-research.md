@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Borneo
+- Cabang Panti
+- Gunung Palung
+- Indonesia
+- Pacific Ocean
+- Rangkong
+- West Kalimantan
+people:
+- Andrew Marshall
+- Caitlin O’Connell
+- Patrick Greenfield
+- Phoebe Weston
+- Prof Cheryl Knott
+- Rebecca Ratcliffe
+- Wahyu Susanto
+organisations:
+- Boston University
+- Cabang Panti
+- El Niño
+- Guardian
+- University of Michigan
+- Yayasan Palung
 ---
 
 Wildfires in Indonesia are sweeping through a critical research site for Bornean orangutans and are now threatening a celebrated research camp, home to one of the world’s longest-running studies of wild apes.

@@ -14,6 +14,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- America
+- Gulf
+- Israel
+- Janfaday-e Iran
+- Jerusalem
+- Oman
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- United States
+people:
+- Anna
+- Death
+- Donald) Trump
+- Hassan Hassanzadeh
+- Hossein Taeb
+- Marzieh Afaghi
+- Masoud Pezeshkian
+- ___ Karimi
+organisations:
+- Associated Press
+- Basij
+- Revolutionary Guard
+- U.K. Maritime Trade Operations
+- UKMTO
 ---
 
 Hundreds of thousands of Iranians rallied Friday in a government-organized show of defiance after months of war, pledging their readiness to take up arms in the biggest such demonstration since the United States and Israel attacked in February.

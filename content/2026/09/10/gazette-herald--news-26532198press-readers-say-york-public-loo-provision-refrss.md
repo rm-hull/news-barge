@@ -15,6 +15,19 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Liverpool
+- Silver Street
+- Visit York
+- YORK
+people:
+- Mulgrave
+organisations:
+- Facebook
+- Make it York
+- Some Press
+- The Press
+- WCs
 ---
 
 YORK attracts millions of visitors every year, and a debate continues about whether there are enough public toilets available and whether a charge should be applied for using them.

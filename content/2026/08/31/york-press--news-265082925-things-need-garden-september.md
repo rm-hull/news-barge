@@ -13,6 +13,13 @@ categories:
 - York
 - Careers & Productivity
 - Home, Garden & DIY
+locations: []
+people:
+- Craig Wilson
+- Simon Parry
+organisations:
+- Gardeners Dream
+- Trex
 ---
 
 ## Gardeners urged to complete 5 tasks in September before it's too late

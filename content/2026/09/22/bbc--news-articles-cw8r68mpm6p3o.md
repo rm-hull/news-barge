@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a78/live/50747000-b5cc-11f1-abb5-85e9be42cb76.jpg
+locations:
+- AI
+- England
+- Liverpool
+people:
+- AI
+- Anthony Seldon
+- Benjamin Barker
+- Emma
+- Tim Bunting
+organisations:
+- AI at Great Schools Trust
+- AI in Education
+- Department for Education
+- King's Leadership Academy
+- Kings Leadership Academy Wavertree
+- Ofsted
 ---
 
 ![A student wearing glasses uses a laptop in a school library, seated at a table with bookshelves blurred in the background. Other students are visible out of focus nearby.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7a78/live/50747000-b5cc-11f1-abb5-85e9be42cb76.jpg)

@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Europe
+- Portman Road
+people:
+- '## Wonderkid'
+- Arsenalteenager Max Dowman
+- Bukayo Saka
+- Cesc Fabregas
+- Christos Tzolis
+- Conor Coady
+- JJ Gabriel
+- Jack Wilshere
+- Jamie Redknapp
+- Jordan Pickford
+- Kai Havertz
+- Martin Odegaard
+- Max Dowman
+- Mikel Arteta
+- Mikel Merino
+- Wayne Rooney
+- Will Dowman
+organisations:
+- Arsenal
+- BBC Radio 5 Live
+- Brentwood School
+- Brighton
+- Everton
+- Gunners
+- Ipswich Town
+- Manchester United
+- Premier League
+- Sheffield United
+- Sky Sports
+- Wolves
+- Wrexham
 ---
 
 ![Max Dowman with a drinks bottle](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b307/live/6c0e2650-b151-11f1-8912-fb2bed4049e7.jpg)

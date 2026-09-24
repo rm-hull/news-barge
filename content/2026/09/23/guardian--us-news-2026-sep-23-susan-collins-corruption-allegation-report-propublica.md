@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/300c986981a2bc138528e6e0751f2e513ce37243/565_0_4792_3834/master/4792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc7636af50e08df0ce76caf69afda185
+locations:
+- Georgia
+- Maine
+- Michigan
+- New Hampshire
+- Portland
+- United States
+- Washington
+people:
+- Annie Clark
+- Devon Murphy-Anderson
+- Donald Trump
+- Joe Biden
+- Kamala Harris
+- Lance Dutson
+- Martin Kao
+- Sara Gideon
+- Steve Abbott
+- Susan Collins
+- Troy Jackson
+organisations:
+- Democrats’
+- Department of Justice
+- FBI
+- Navatek
+- ProPublica
+- Senate
+- Trump
 ---
 
 Democrats in Maine on Wednesday accused Republican senator Susan Collins of corruption after a major media outlet reported that the FBI had proposed investigating her for allegedly accepting bribes – before Donald Trump derailed the inquiry.

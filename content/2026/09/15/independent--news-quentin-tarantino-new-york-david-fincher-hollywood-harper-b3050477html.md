@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Hollywood
+people:
+- Brad Pitt
+- Cliff Booth
+- David Fincher
+- Harper
+- Quentin Tarantino
+organisations:
+- HarperCollins
 ---
 
 Quentin Tarantino has stepped back from directing in recent years, but he continues to build upon his career as an author. The upcoming spinoff from his “Once Upon a Time ... in Hollywood” will be accompanied by Tarantino's novelization of the new film.

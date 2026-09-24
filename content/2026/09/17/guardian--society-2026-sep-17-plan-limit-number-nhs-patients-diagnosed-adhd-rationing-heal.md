@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+people:
+- Henry Shelford
+- Mel Merritt
+- Peter Fonagy
+- Prof Peter Fonagy
+- Wes Streeting
+organisations:
+- ADHD UK
+- NHS
+- National Autistic Society
+- Prof Fonagy
+- TikTok
+- Times
+- University College London
 ---
 
 Proposals to limit the number of patients being formally diagnosed with attention deficit hyperactivity disorder have been atacked as “rationing” healthcare and pushing children and adults to self-diagnosis via social media.

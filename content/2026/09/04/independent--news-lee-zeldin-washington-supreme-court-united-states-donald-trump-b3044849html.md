@@ -13,6 +13,27 @@ image: https://static.independent.co.uk/2026/09/04/15/EPA_Water_Rule_1_445.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Glass
+- Idaho
+- J.W
+- United States
+people:
+- Chantell Sackett
+- Donald Trump
+- Glass
+- Lee Zeldin
+- Michael
+organisations:
+- Army Corps
+- Center for Biological Diversity
+- Environmental Protection Agency
+- Federal Register
+- Sackett
+- Supreme Court
+- Trump EPA
+- U.S. Army Corps of Engineers
+- WOTUS
 ---
 
 The Environmental Protection Agency is seeking additional public comments as it tries to redefine the scope of the nation’s bedrock clean water law to significantly limit the wetlands it covers.

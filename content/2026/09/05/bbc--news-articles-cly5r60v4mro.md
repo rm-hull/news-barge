@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Africa
+- Earth
+- Europe
+- Greenland
+- Peters
+people:
+- Arno Peters
+- Gerardus Mercator
+- James Cheshire
+- James Gall
+- Kioko Muendo
+organisations:
+- African Union
+- BBC
+- Cheshire
+- General Assembly
+- Google Maps
+- Mercator
+- Peters
+- UN
+- University London College
 ---
 
 ![Side-by-side maps of Africa comparing two map projections. The Mercator projection on the left makes Africa appear smaller in comparison with Europe to its north. The Equal Earth projection on the right shows a longer, more proportionally accurate shape of the continent.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/722b/live/e7c4b610-a873-11f1-b109-879e35c24276.png)

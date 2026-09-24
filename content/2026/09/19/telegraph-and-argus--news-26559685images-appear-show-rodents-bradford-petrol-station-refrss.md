@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469143.jpg?type=og-image&xType=0&yType=101
+locations:
+- Bradford
+- Listerhills Road
+- Phoenix Filling Station
+people: []
+organisations:
+- Telegraph & Argus
 ---
 
 Concerns have been raised after photographs appearing to show rodents near a Bradford petrol station were shared with the Telegraph & Argus.

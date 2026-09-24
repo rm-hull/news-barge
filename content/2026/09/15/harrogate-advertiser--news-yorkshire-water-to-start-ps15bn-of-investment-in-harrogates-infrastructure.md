@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Esplanade
+- Harrogate Harrogate
+- Montpellier Hill
+- North Yorkshire
+- Oak Beck
+people:
+- Burke
+- Ward
+organisations:
+- Harrogate
+- Yorkshire Water
 ---
 
 # Yorkshire Water to start £1.5bn of investment in Harrogate's infrastructure

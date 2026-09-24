@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Arthur Ashe Stadium
+- Flushing Meadows
+- Greece
+- Italy
+- Portugal
+- Russia
+- Spain
+people:
+- Alexander Zverev
+- Arthur Fils
+- Ben Shelton
+- Carlos Alcaraz
+- Jaime Faria
+- Jannik Sinner
+- Mariano Navone
+- Michael Jackson
+- Novak Djokovic
+- Pat Cash
+- Roger Federer
+- Roman Safiullin
+- Stefanos Tsitsipas
+- Tallon Griekspoor
+organisations:
+- Alcaraz
+- BBC Radio 5 Sports Extra
 ---
 
 ![Carlos Alcaraz yells in celebration](https://ichef.bbci.co.uk/ace/standard/905/cpsprodpb/7824/live/30db6a50-a587-11f1-b109-879e35c24276.jpg)

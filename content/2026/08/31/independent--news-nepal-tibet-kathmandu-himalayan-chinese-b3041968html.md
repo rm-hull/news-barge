@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Brig
+- Nepal
+- Tibet
+people:
+- Raja Ram Basnet
+organisations: []
 ---
 
 The death toll in the catastrophic flooding in Nepal and Tibet climbed past 900 Monday with more than 4,700 missing.

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Argentina
+- Atlantic
+- Britain
+- Dublin
+- Falkland Islands
+- Falklands
+- Iran
+- PA
+- Strait of Hormuz
+- UK
+- US
+- Washington
+people:
+- Andy Burnham
+- Ben Birchall
+- Donald Trump
+- Javier Milei
+- Micheál Martin
+organisations:
+- Commons
+- Falkland Islanders
+- GB News
+- Navitas Petroleum
+- Trump
 ---
 
 US President Donald Trump has said he expects to be called upon to “settle” any potential conflict in the ongoing row between the UK and Argentina on the sovereignty of the Falkland Islands.

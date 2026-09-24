@@ -12,6 +12,31 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- BRADFORD
+- Bradford
+- China
+- Dhading District
+- Gyirong County
+- Gyirong Port
+- India
+- Kailash Mansarovar Yatra
+- Lhasa
+- Nepal
+- Nepal-Tibet
+- Rasuwagadhi
+- Tibet Autonomous Region
+- Trishuli
+- UK
+people:
+- Ms Sharma
+- Niranjan Shrestha
+- Shashi Sharma
+organisations:
+- AP
+- BBC Radio Leeds
+- National Disaster Risk Reduction and Management Authority
+- Xinhua News Agency
 ---
 
 *(Image: BBC)*

@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/Ry5FCidt4aECzNtRkb2uf5-1920-80.jpg
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Denise
+- George Cooper Sr.
+- Stuart Fails
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Stuart looks horrified at a piece of paper](https://cdn.mos.cms.futurecdn.net/Ry5FCidt4aECzNtRkb2uf5.jpg)

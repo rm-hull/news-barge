@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Headingley
+- Tony Johnson
+- Yorkshire
+people:
+- Chris Waters’
+- Colin Graves
+- Colin Graves’
+- Harold Macmillan
+- John Jackson
+- Sanjay Patel
+organisations:
+- Board
+- Leeds
+- Yorkshire CCC
+- Yorkshire County Cricket Club
+- Yorkshire Post Letters
 ---
 
 # What happens in the future if Yorkshire County Cricket Club is demutualised? - Yorkshire Post Letters

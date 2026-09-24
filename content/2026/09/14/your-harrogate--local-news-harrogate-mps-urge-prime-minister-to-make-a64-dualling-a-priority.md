@@ -12,6 +12,36 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg
+locations:
+- Barton Hill
+- Bridlington
+- Filey
+- Harrogate
+- Hopgrove Roundabout
+- Malton
+- North Yorkshire
+- Scarborough
+- Selby
+- The York
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Boris Johnson
+- David Sakith
+- Julian Smith
+- Kevin Hollinrake
+- Tom Gordon
+organisations:
+- A64
+- Government
+- Hopgrove to Barton
+- Labour
+- No10 North
+- North Yorkshire Council
+- Number 10 North team
+- Road Investment Strategy
+- Treasury
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg)

@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Great North Run
+- Harrogate
+- Saint Michael's Hospice
+- Saint Michaels Hospice
+- Saint Michael’s Hospice
+people:
+- Michael
+- Michael’s Hospice
+- Mr Gordon
+- Tom Gordon
+- Tom’
+organisations:
+- Crohns & Colitis UK
+- Harrogate
+- Knaresborough
+- Lib Dem
+- Saint Michael’s Hospice
 ---
 
 # Harrogate's Lib Dem MP is to tackle the world's biggest half-marathon for Saint Michael's Hospice

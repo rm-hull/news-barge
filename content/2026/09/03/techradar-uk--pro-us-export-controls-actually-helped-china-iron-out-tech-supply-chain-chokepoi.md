@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Shanghai
+- US
+- USA
+people:
+- Craig Hale
+organisations:
+- Craig’s
+- Flag of China
+- Google News
+- Morgan Stanley
+- New Morgan Stanley
+- South China Morning Post
+- Star Market
+- TechRadar Pro
 ---
 
 ![Microchip on a motherboard with Flag of China and USA. Concept for the battle of global microchips production.](https://cdn.mos.cms.futurecdn.net/3yUNP35swQjB6uCRGc56g7.jpg) 

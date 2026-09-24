@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/4f34f6575fb28f543fdf2313dc8b84b6b61e05ab/2
 categories:
 - UK
 - News & Politics
+locations:
+- Edinburg
+- Jeff Davis
+- New Mexico
+- Presidio
+- Texas
+- US
+- US-Mexico
+- Zavala
+people:
+- Greg Abbott
+organisations:
+- New World
+- Reuters
+- Texas Animal Health Commission
+- Trump
+- US Department of Agriculture
+- US Equestrian Foundation
 ---
 
 A horse in southern Texas has been infected with the New World screwworm, marking the first US equine infection as health authorities race to contain an outbreak of the flesh-eating parasite.

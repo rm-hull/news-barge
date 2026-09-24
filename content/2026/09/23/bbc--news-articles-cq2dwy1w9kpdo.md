@@ -14,6 +14,39 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f34d/live/afe9b330-b719-11f1-a430-4d16ee157c41.jpg
+locations: []
+people:
+- '** Lawson'
+- Adam Miller
+- Alison Hammond
+- Anita Singh
+- Bake Off
+- Ben Dowell
+- Dame Prue Leith
+- Giuseppe Dell'Anno
+- Jan Moir.
+- Jane Rackham
+- Janet A Leigh
+- Lucy Mangan
+- Nick Hilton
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Prue Leith
+organisations:
+- BBC Radio 4
+- Bake Off
+- Channel 4
+- Daily Mail
+- Digital Spy
+- Guardian
+- Independent
+- Metro
+- Nigella
+- Prue Leith
+- Radio Times
+- TV
+- The Telegraph
 ---
 
 ![Nigella Lawson with her arm around Paul Hollywood in the Great British Bake Off tent](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f34d/live/afe9b330-b719-11f1-a430-4d16ee157c41.jpg)

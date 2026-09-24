@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A1
+- Darlington Cleveland Police
+- M
+- South Bank
+people: []
+organisations:
+- CID
+- UGC
 ---
 
 *(Image: UGC)*

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Santa Clara
+- South Korea
+- U.S.
+people: []
+organisations:
+- AI
+- Cloudflare
+- Get Tom's Hardware
+- Grace Blackwell
+- HBM
+- MSI
+- NVLink Fusion
+- Nvidia
+- Premium Marvell
+- RAM
+- SK
+- Samsung
+- Vera Rubin
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg)

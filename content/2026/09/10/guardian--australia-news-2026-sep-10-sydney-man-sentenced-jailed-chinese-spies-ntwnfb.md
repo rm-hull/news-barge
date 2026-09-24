@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- China
+- New South Wales
+- Sydney
+people:
+- Alexander Csergo
+- Craig Smith
+- Evelyn
+- Ken
+- Kevin Rudd
+organisations:
+- Australian IT
+- Csergo
+- LinkedIn
+- Quad
 ---
 
 A seemingly innocuous message on a social media platform has snowballed into a Sydney man being jailed for foreign interference.

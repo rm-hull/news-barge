@@ -14,6 +14,10 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations: []
+people: []
+organisations:
+- The Northern Echo
 ---
 
 - Welcome to The Northern Echo's live breaking news blog on the Great North Run 2026.

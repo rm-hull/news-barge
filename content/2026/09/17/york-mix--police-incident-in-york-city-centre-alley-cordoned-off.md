@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Church Lane
+- Coney Street
+- Low Ousegate
+- Spurriergate
+- Yates York
+people: []
+organisations:
+- North Yorkshire Police
+- Select Apple
 ---
 
 Police in York are investigating a serious sexual assault that took place last night (Wednesday).

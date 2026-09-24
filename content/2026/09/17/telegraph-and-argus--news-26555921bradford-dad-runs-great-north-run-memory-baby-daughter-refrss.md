@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Bradford Royal Infirmary
+people:
+- Aaron Barber
+- Alice
+- Daniaal Rauf
+- Elise Townsend
+- Laura Kettlewell
+- Laura Riach
+- Lee Haigh
+organisations:
+- Alice’s Army
+- Bradford Hospitals Charity
+- Home from Home Appeal
 ---
 
 *(Image: Supplied)*

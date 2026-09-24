@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Aarau Schachen
+- Aarauer
+- Austria
+- Europe
+- Finland
+- Freiburg
+- Germany
+- Norway
+- Switzerland
+- Zurich
+people:
+- DJ Tekibo
+- Vanessa Rumpold
+organisations:
+- Aarau Swimming Pool
+- Aargau Cantonal Disaster Response Unit
+- Aargau Cantonal Police
+- Blick
+- European Union
+- Instagram
+- KKE
+- dpa
 ---
 
 Police say one person has died and five are wounded after a shooting at a rave party in Aarau in northern Switzerland.

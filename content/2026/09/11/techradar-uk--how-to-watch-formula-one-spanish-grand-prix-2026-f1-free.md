@@ -11,6 +11,61 @@ image: https://cdn.mos.cms.futurecdn.net/gFLbtJ8WkkNNzy76Z7EKR-1024-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Alpine
+- Australia
+- Austria
+- Belgium
+- Canada
+- Italy
+- Luxembourg
+- Madrid
+- Monaco
+- Monza
+- North America
+- Parabolica
+- Spain
+- UK
+- US
+- uk
+people:
+- Charles Leclerc
+- George Russell
+- Isack Hadjar**
+- Kimi Antonelli
+- Krishi
+- Lando Norris
+- Larry
+- Lewis Hamilton
+- Liam Lawson
+- Madring
+- Max Verstappen
+- Oscar Piastri
+- Pierre Gasly
+organisations:
+- Apple TV
+- F1 TV
+- F3
+- Ferrari
+- Fox Sports
+- Future Publishing
+- Kayo
+- Krishi
+- La Monumental
+- Mad-Ring
+- McLaren
+- Mercedes
+- Now TV
+- ORF
+- RTBF Auvio
+- Racing Bulls
+- Red Bull)
+- Sky Sports
+- TSN
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![Kimi Antonelli, draped in an Italian flag, raises a finger to celebrate his victory at the Italian Grand Prix 2026.](https://cdn.mos.cms.futurecdn.net/gFLbtJ8WkkNNzy76Z7EKR.jpg) 

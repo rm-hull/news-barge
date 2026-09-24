@@ -12,6 +12,72 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/8077e6a868ec40f7bac0317ea36d57e5b80e52f1/714_506_1260_1008/master/1260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8f69bdf85e11ec6a4ae2226785d6d7e9
+locations:
+- Britain
+- Europe
+- France
+- Golan
+- Hormuz
+- Iran
+- Iran’
+- Islamic Republic
+- Israel
+- Kaliningrad
+- Kremlin
+- Kyiv
+- Latvia
+- Leipzig
+- Mehrabad
+- Middle East
+- Nepal
+- New York
+- New York City
+- Poland
+- Qatar
+- Romania
+- Russia
+- Syria
+- Tehran
+- UK
+- US
+- Ukraine
+people:
+- Abbas Araghchi
+- Ahmed al-Sharaa
+- Al-Sharaa
+- Alexi J Rosenfeld
+- Andy Burnham
+- Assad
+- Dmitri Peskov
+- Donald Trump
+- Edgars Rinkēvičs
+- Jared Kushner
+- Jean-Noël Barrot
+- Masoud Pezeshkian
+- Mike Segar
+- Nikita Khrushchev
+- Olga Fedorova
+- Patrick Wintour
+- Read Patrick
+- Rinkēvičssays
+- Robert Tait Donald Trump
+- Shaun Walker
+- Spencer Platt
+- Steve Witkoff
+- Zelenskyy
+organisations:
+- EPA
+- EU
+- Iranian Presidency Office
+- Nature
+- Polish Armed Forces’
+- Reuters
+- Russian Armed Forces
+- Telegram
+- UN
+- UNGA
+- United Nations
+- United Nations General Assembly
 ---
 
 Iran's president Pezeshkian to address UN general assembly

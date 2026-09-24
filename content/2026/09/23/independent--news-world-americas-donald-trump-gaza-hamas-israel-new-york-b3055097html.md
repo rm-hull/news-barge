@@ -14,6 +14,22 @@ categories:
 - Business & Entrepreneurship
 - History
 image: https://static.independent.co.uk/2026/09/23/15/APTOPIX_Israel_Palestinians_Gaza_5461_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Israel
+- Jerusalem
+- U.S.
+- Washington
+people:
+- Ben Finley
+- Donald Trump
+- Josef Federman
+- Julia Frankel
+- Nikolay Mladenov
+organisations:
+- Board of Peace
+- Hamas
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

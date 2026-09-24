@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+people:
+- Rubin
+organisations:
+- EPA
+- Get Tom's Hardware
+- IntelBrief
+- Microsoft
+- Soufan Center
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-320-80.png)

@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Eastfield
+- Harrogate
+- North Yorkshire
+- Pelton Wheel Lane
+- Scarborough
+people:
+- Amy Attridge
+- Jane Ashworth
+- Jessica Rogers
+- Rebecca Taylor
+organisations:
+- North Yorkshire Council
+- Scarborough Borough Local Plan
+- Scarborough Hospital
 ---
 
 # ‘Ridiculous care home plan would destroy our estate’s only green space’ say angry residents

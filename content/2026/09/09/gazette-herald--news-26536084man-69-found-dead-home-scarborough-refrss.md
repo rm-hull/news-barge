@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- North Yorkshire
+- Scarborough
+people:
+- Frrelance
+- Glenn Hardy
+organisations:
+- Coroner’s Office
+- North Yorkshire Police
 ---
 
 *(Image: Frrelance)*

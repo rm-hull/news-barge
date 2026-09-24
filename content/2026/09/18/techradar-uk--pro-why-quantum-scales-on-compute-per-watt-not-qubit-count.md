@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+people: []
+organisations:
+- AI
+- ChatGPT
+- Future plc
+- QuantWare
+- TechRadar Pro
+- TechRadarPro
+- UN
 ---
 
 ![Quantum computing](https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE.jpg) 

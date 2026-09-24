@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Archway
+- Matusiak
+- Normanby Medical Centre
+- Normanby Road
+- Outwood Academy
+- South Bank
+- St John the Evangelist Church
+- St Margaret Clitherow
+- St Peter
+- Teesside
+- Teesville
+people:
+- Jakub Matusiak
+- Laura Trott
+- Lucy Powell
+- Matthew Blades
+- Ms Trott
+- Tom Clough.
+organisations:
+- A66
+- Catholic Primary School
+- Cleveland Council
+- Cleveland Police
+- Cleveland Police Federation
+- Mackenzie Thorpe School
+- North News & Pictures Ltd
+- Nunthorpe
+- Redcar
+- South Bank Primary
 ---
 
 *(Image: GOOGLE)*

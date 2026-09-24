@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Manhattan
+people:
+- Ariana DeBose
+- Brooke Lefferts
+- Cynthia Erivo
+- David Lauren
+- Elizabeth Debicki
+- Ella Hunt
+- Meghann Fahy
+- Ralph Lauren
+- Ricky Lauren
+- Viola Davis
+organisations:
+- Associated Press
+- Ralph Lauren
+- The Associated Press
+- The Police
 ---
 
 The Ralph Lauren womenswear brand is a love letter to the designer’s wife of more than 60 years.

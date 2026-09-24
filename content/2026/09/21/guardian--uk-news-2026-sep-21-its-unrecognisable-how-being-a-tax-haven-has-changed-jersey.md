@@ -14,6 +14,43 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/1f32db7a43b4d77757259c697d163f5113ed52cd/434_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cee7007138e0e6ab61f41f823184d78
+locations:
+- Channel Island of Jersey
+- Denmark
+- Dubai
+- Elizabeth Castle
+- France
+- Gorey
+- London
+- Panama
+- Paradise
+- Singapore
+- St Aubin’s Bay
+- St Helier
+- St Paul’s Church
+- UK
+- Westminster
+people:
+- Antonio De’Lemos
+- God
+- Howard Davies
+- Ian Gorst
+- Joe Moynihan
+- Laura Craig
+- Liz Viney
+- Lucy Layton
+- Margaret Hodge
+- Roman Abramovich
+- Vini Jones
+organisations:
+- Grace Trust
+- Jersey Finance
+- Jersey Heritage
+- La Topaze D’or
+- Little Wren
+- NatWest Group
+- Panama and Paradise
+- Tax Justice Network
 ---
 
 On a late Friday afternoon on the Channel Island of Jersey, tourists and locals are flocking to St Helier’s waterfront where the town’s sprawling beach has emerged at low tide.

@@ -14,6 +14,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- North Yorkshire
+- Stockton Lane
+- York
+people:
+- Sarah Scott
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

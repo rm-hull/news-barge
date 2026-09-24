@@ -12,6 +12,42 @@ image: https://images.euronews.com/articles/stories/09/89/72/12/1200x675_cmsv2_6
 categories:
 - Europe
 - News & Politics
+locations:
+- Brussels
+- Denmark
+- Europe
+- France
+- Iceland
+- Reykjavik
+- Reykjavík
+- UK
+people:
+- António Costa
+- Björn Bjarnason
+- Brexit
+- Charles Tannock
+- Dagur Eggertsson
+- David Cameron
+- Hulda Þórisdóttir
+- Jean-Claude Juncker
+- Kristrún Frostadóttir
+- MEP Sandro Gozi
+- Marta Kos
+- Ursula von der Leyen
+organisations:
+- EU
+- Euronews
+- Europe Today
+- European Commission
+- European Council
+- European Union
+- Eurosceptic Independence Party
+- Remain
+- Renew
+- RÚV
+- UK Conservatives
+- University of Iceland
+- Washington Post
 ---
 
 ## Brussels stayed mostly silent during Iceland's referendum campaign, which ended with 52.8% voting against resuming EU accession talks, echoing its muted response to Brexit a decade earlier.

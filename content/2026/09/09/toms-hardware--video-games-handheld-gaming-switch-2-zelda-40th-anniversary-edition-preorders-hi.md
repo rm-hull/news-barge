@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- U.S.
+people:
+- Tom
+- Zhiye Liu
+organisations:
+- Amazon
+- Best Buy
+- GameStop
+- Google News
+- Nintendo Direct
+- Target
+- Tom’s Hardware
+- Walmart
+- Zhiye Liu
+- eBay
 ---
 
 ![Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition](https://cdn.mos.cms.futurecdn.net/yMZtJH9oArUtdKJCfVvKXV.jpg) 

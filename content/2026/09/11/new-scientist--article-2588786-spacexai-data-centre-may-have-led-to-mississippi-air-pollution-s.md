@@ -13,6 +13,36 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- AI
+- Berkeley
+- California
+- London
+- Mississippi
+- North America
+- SpaceXAI
+- Tennessee
+- UK
+- US
+people:
+- Kevin Gauld
+- Martyn Chipperfield
+- Peter Zoogman
+- Ronald Cohen
+organisations:
+- Gauld’s team
+- Global Energy Monitor
+- MDEQ
+- MZX Tech
+- Massachusetts Institute of Technology
+- Minerva University
+- Mississippi Department of Environmental Quality
+- NASA
+- New**
+- SpaceXAI
+- TEMPO
+- University of California
+- University of Leeds
 ---
 
 ![Colossus 2 "Macrohard" data centre in](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311839403.jpg?w=840)

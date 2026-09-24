@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Boston
+- North Carolina
+- White House
+people:
+- Donald Trump
+- Indira Talwani
+- Joe Biden
+- Lindsay Whitehurst
+- Richard Blumenthal
+organisations:
+- Brookings Institution
+- Federal Ballot Mail Portal
+- Postal Service
+- Social Security Administration
+- Supreme Court
+- U.S. Citizenship and Immigration Services
+- U.S. District Court
+- U.S. Postal Service
+- U.S. Supreme Court
+- Whistleblower Aid
+- ___ Associated Press
 ---
 
 The U.S. Postal Service is poised to launch a hastily built, error-riddled computer system that could jeopardize the process of mail voting relied upon by one-third of all voters, according to a whistleblower statement released Tuesday by Democratic Sen. Richard Blumenthal.

@@ -13,6 +13,19 @@ categories:
 - York
 - Automotive
 image: https://www.gazetteherald.co.uk/resources/images/20763596.jpg?type=og-image
+locations:
+- '**York'
+- Buckton
+- East Riding of Yorkshire
+- East Yorkshire
+- Kawasaki
+- North Yorkshire
+- Speeton Gate
+- York Station Gateway
+people: []
+organisations:
+- Humberside Police
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

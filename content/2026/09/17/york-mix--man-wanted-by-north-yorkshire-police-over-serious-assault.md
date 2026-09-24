@@ -11,6 +11,13 @@ categories:
 - York
 - True Crime
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/nathan-cammish.webp
+locations:
+- Scarborough
+people:
+- Nathan Cammish
+organisations:
+- Domestic Violence Protection Order
+- North Yorkshire Police
 ---
 
 Police are searching for 35-year-old Nathan Cammish.

@@ -13,6 +13,60 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Asheville
+- Bishkek
+- Boryspil
+- Estonia
+- Europe
+- Finland
+- Iran
+- Izmail
+- Kremlin
+- Kyiv
+- Kyrgyzstan
+- Latvia
+- Leningrad
+- Moscow
+- North Carolina
+- Novokuibyshevsk
+- Romania
+- Russia
+- Samara
+- Strait of Hormuz
+- US
+- Ukraine
+- Volga River
+people:
+- '## Bessent'
+- '## Putin'
+- Andrzej Domanski
+- Anton Siluanov
+- Donald Trump
+- Jared Kushner
+- Lars Klingbeil
+- Margus Tsahkna
+- Masoud Pezeshkian
+- Narendra Modi
+- Scott Bessent
+- Sergei Sobyanin
+- Steve Witkoff
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Vyacheslav Fedorishchev
+- Xi Jinping
+organisations:
+- Bessent
+- FPV
+- G20
+- Nato
+- Reuters
+- Rosneft
+- SCO
+- Shanghai Cooperation Organisation
+- Telegram
+- The United States'
 ---
 
 Nato fighter jets were scrambled early on Tuesday as at least four people were killed in a sixth consecutive night of Russian aerial attacks on Ukraine.

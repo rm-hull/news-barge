@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- US
+people:
+- Ione Wells
+- Lindsay Clancy
+- William Sullivan
+organisations:
+- BBC
+- Massachusetts Supreme Judicial Court
 ---
 
 # Watch: What is a mistrial and what does it mean for Lindsay Clancy?

@@ -12,6 +12,38 @@ image: https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Chubut
+- Loma de la Lata
+- OpenAI
+- Patagonia
+- US
+- United States
+- Vaca Muerta
+people:
+- Christian Cawley
+- Javier Milei
+organisations:
+- Apple
+- Computer Weekly
+- ComputerActive
+- Exxon
+- FlexDomes
+- Google News
+- Green Capital
+- Linux Format
+- Matter Alpha
+- Meta
+- OpenAI
+- OpenAI-Sur Energy
+- Pampa Energia
+- Pan American Energy
+- Pres
+- Stargate Argentina
+- Sur Energy
+- TechRadar Pro
+- Total
 ---
 
 ![The OpenAI logo displayed on a screen with the flag of the United States in the background.](https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S.jpg) 

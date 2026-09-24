@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/04/10/CORRECTION_Lebanon_Israel_
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Israel
+- Lebanon
+- Litani River
+- Naqoura
+- Rome
+- Tyre
+- U.S.
+people:
+- Benjamin Netanyahu
+- Hussein Ayash
+- Mahmoud Ayash
+- Malek Ghazi
+organisations:
+- Associated Press
+- Hezbollah
+- ICRC
+- International Committee of the Red Cross
 ---
 
 Four prisoners from Lebanon held in Israel were released and handed over to the International Committee of the Red Cross Friday as part of a deal between the two countries. In return, Lebanon agreed to search for the bodies of Jewish Lebanese citizens who went missing during the country's civil war decades ago.

@@ -11,6 +11,66 @@ image: https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Breslau
+- Brooklyn
+- California
+- La Crescenta
+- Los Angeles
+- New York
+- Pangram
+- Stanford
+people:
+- AI
+- Bradley Emi
+- Cagey
+- Claude
+- Hachette
+- Jane Friedman
+- Macmillan
+- Max Spero
+- Mia Ballard
+- Pangram
+- Regina Brooks
+- Rod Breslau
+- Sam Illingworth
+- Todd Shuster
+- Tuhin Chakrabarty
+- Yeah
+organisations:
+- AI
+- Absci
+- Aevitas
+- Association of American Literary Agents
+- Breslau
+- Chakrabarty
+- ChatGPT
+- Checkfor.ai
+- Edinburgh Napier University
+- Emi
+- FLoC
+- Google
+- Gotham Ghostwriters
+- Hachette
+- HarperCollins
+- LinkedIn
+- Notre Dame
+- Nuro
+- OpenAI
+- Originality.ai
+- Pangram
+- Penguin Random House
+- Popeyes
+- Reddit
+- Shuster
+- Simon & Schuster
+- Stony Brook University
+- Substack
+- Tesla
+- The Drey Dossier
+- The New York Times
+- YouTube
 ---
 
 Pangram is an AI startup with 24 employees, headquartered above a Popeyes in Brooklyn. It has raised $13 million to date—about 0.0072 percent of what OpenAI has—and was virtually unknown until earlier this year. But if Pangram is to be believed, it’s the one force standing in the way of a full machine takeover of the written word.

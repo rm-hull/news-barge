@@ -16,6 +16,10 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations: []
+people:
+- Ismail Mulla
+organisations: []
 ---
 
 # Why are feral youths riding around on electric bikes wearing balaclavas? - Ismail Mulla

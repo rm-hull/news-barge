@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/dQPfrUx4CgXwY6jAT2mpB6-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Anker
+- HDMI
+- UK
+- US
+- Ugreen
+people:
+- Claude
+- Collin
+organisations:
+- Anker
+- Apple
+- GPT
+- GPU
+- Gearadical
+- Intel
+- Lenovo
+- TechRadar Pro
+- ThinkPad
+- Thunderbolt
+- USB-C
 ---
 
 ### TechRadar Verdict

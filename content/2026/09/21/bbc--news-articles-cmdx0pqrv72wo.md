@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d9b/live/c1bab7b0-b595-11f1-a430-4d16ee157c41.png
+locations:
+- California
+- Los Angeles
+- US
+people:
+- Allie Jenkins
+- Calvin Klein
+- Cindy Crawford
+- George Clooney
+- Instagram
+- Kaia Gerber
+- Moschino
+- Presley Gerber
+- Presley Walker Gerber
+- Rande Gerber
+organisations:
+- BBC
+- Bottega Veneta
+- Burberry
+- CBS
+- Casamigos
+- Dolce & Gabbana
+- Los Angeles County Medical Examiner
+- People Magazine
+- Pepsi
+- Studio 22
 ---
 
 Watch: Presley Gerber seen alongside his family on the red carpet

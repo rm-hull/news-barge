@@ -11,6 +11,54 @@ image: https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3-450-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Bruno Ferreira
+- Newegg
+- US
+people:
+- Joe Shields
+- Mark Tyson
+organisations:
+- Aaron Klotz
+- Albert Thomas
+- Alibaba
+- Andrew E. Freedman
+- Anton Shilov
+- Bruno Ferreira
+- CPUsAMD
+- CPUsApple
+- CXMT
+- CoolingModder
+- Cybenetics Platinum
+- DRAMCXMT
+- DRAMChina
+- Fylladitakis Published
+- GPUsNvidia
+- GPUsWe
+- Hassam Nasir
+- Hassam Nasir Published
+- Hypertune
+- IFA
+- Intel
+- Joe Shields
+- Jowi Morales
+- Kunal Khullar
+- MSI
+- Mark Tyson Published
+- Matt Safford
+- MotherboardsGigabyte
+- NASMinisforum
+- OverclockingGPU
+- OverclockingOverclocker
+- OverclockingYou
+- PC CasesNoctua
+- Pentagon
+- PremiumHow
+- RAMG.Skill
+- SSDsFlea
+- Tom's Hardware
+- Zak Killian
+- cinephilesBy Hassam Nasir Published
 ---
 
 # PC Components

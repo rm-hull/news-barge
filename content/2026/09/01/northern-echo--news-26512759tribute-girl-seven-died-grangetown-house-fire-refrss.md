@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- Grangetown
+- Middlesbrough
+- THE NORTHERN ECHO
+- Teesside Crown Court
+- Teesside Magistrates’ Court
+people:
+- '** Man'
+- Grangetown
+- Jaden Wright
+- Katie Nicolson
+- Katie Smith
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- North News & Pictures Ltd
+- Northumbria Police
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO / CLEVELAND POLICE)*

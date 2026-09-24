@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations: []
+people:
+- Lucy Hockings
+- Maryam Moshiri
+organisations:
+- BBC News
 ---
 
 # 'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri

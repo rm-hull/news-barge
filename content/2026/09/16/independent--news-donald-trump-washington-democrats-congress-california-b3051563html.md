@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- District of Columbia Del.
+- East Potomac
+- East Potomac Park
+- East Wing
+- Maryland
+- Virginia
+- Washington
+- Washington, D.C.
+- White House
+people:
+- Don Beyer
+- Donald Trump
+- Doug Burgum
+- Eleanor Holmes Norton
+- Glenn Ivey
+- Jamie Raskin
+- Jared Huffman
+- Jessica Bowron
+organisations:
+- Congress
+- East Potomac Golf Links
+- Fazio Golf Design
+- House Natural Resources Committee
+- Interior Department
+- National Guard
+- National Park Service
+- Trump
+- Vanasse Hangen Brustlin, Inc.
 ---
 
 The Trump administration has awarded contracts to begin work on President Donald Trump’s planned takeover of the East Potomac Golf Links in Washington, Democrats on the House Natural Resources Committee said Wednesday.

@@ -13,6 +13,51 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/22/3b16647c2c3cca3b88d50f0f04c97896Y29udGVudHNlYXJjaGFwaSwxNzkwMTk3NzQ3-2.85938839.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brexit
+- England
+- Europe
+- Great Britain
+- Liverpool
+- New York
+- Newark
+- Northern Ireland
+- Reform UK
+- Scotland
+- Wales
+people:
+- Andrew Griffith
+- Andy Burnham
+- Brexit
+- Kemi Badenoch
+- Naomi Smith
+- Nigel Farage
+- Robert Jenrick
+- Tom Brufatto
+- Ursula von der Leyen
+organisations:
+- Arundel and South Downs
+- Best for Britain
+- Brexit
+- Commons
+- EU
+- European Commission
+- European Union
+- Farage
+- Greens
+- Labour Party
+- Lib Dems
+- North West Essex
+- Plaid Cymru
+- Reform UK
+- Rejoin
+- SNP
+- Sinn Fein
+- The Independent
+- Tory
+- UK-EU
+- United Nations
+- YouGov for a Best for Britain
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

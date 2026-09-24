@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Barcelona
+- City
+- Nottingham Forest
+people:
+- Allan Elias
+- Ayyoub Bouaddi
+- Cody Gakpo
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- James Trafford
+- Nico Gonzalez
+- Omar Marmoush
+- Rodri
+- Savio
+- Tijani Reijnders
+organisations:
+- Al-Qadsiah
+- Chelsea
+- Lille
+- Liverpool
+- Manchester City
+- Manchester Cityhave
+- Palmeiras
+- Tottenham Hotspur
 ---
 
 ![Allan Elias](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/96e6/live/eb9cb040-a52a-11f1-8ebe-efa2c58ecfe9.jpg)

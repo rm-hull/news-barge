@@ -14,6 +14,27 @@ categories:
 - Society & Culture
 - History
 image: https://static.independent.co.uk/2026/09/22/05/Foreign_Aid_What_to_Know__964_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Myanmar
+- Nepal
+- Nigeria
+- Somalia
+- U.S.
+- US
+people:
+- Donald Trump
+- John F. Kennedy
+organisations:
+- AP
+- Associated Press
+- Congress
+- Gates Foundation
+- The Lancet
+- The Trump
+- U.S. State Department
+- USAID
+- United States Agency for International Development
+- United States’
 ---
 
 The foreign aid landscape has changed dramatically since U.S. President Donald Trump’s administration dissolved the United States Agency for International Development, once the world’s largest humanitarian donor.

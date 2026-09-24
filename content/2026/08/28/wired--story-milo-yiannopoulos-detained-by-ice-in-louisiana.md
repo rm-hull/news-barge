@@ -12,6 +12,40 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- Alexandria
+- America
+- Caesars Superdome
+- Florida
+- Hawaii
+- Louisiana
+- New Orleans
+- New York City
+- UK
+- US
+- West
+people:
+- Adolf Hitler
+- Alex Jones’ Infowars
+- Donald Trump
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Marjorie Traitor Greene
+- Milo Yiannopoulos
+- Nick Fuentes
+- Yiannopoulis
+organisations:
+- Breitbart
+- DHS
+- Enforcement and Removal Office
+- ICE
+- Immigration Judge
+- Mar-a-Lago
+- TMZ
+- US Department of Homeland Security
+- US Immigration and Customs Enforcement
+- Yiannopoulos
 ---
 
 Milo Yiannopoulos, a British national known for his near-constant reinventions as a vizier within far-right American politics for more than a decade, has been detained by US Immigration and Customs Enforcement in Louisiana, according to the department’s records.

@@ -13,6 +13,18 @@ image: https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Steam Deck
+people:
+- VideoCardz
+organisations:
+- Darren
+- Google News
+- Hachette UK
+- RAM
+- Steam Machine
+- Valve
+- iFixit
 ---
 
 ![The Valve Steam Machine, pictured on a dark marble worktop.](https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4.jpg) 

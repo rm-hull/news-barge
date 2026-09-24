@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/08/28/12/23/a.jpeg?trim=0,0,0,0&wid
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Afghanistan.
+- Britain
+- Camp Lion
+- Dunshabe
+- Dushanbe
+- Helmand
+- Kabul
+- London
+- Pakistan
+- Qatar
+- Tajikistan
+- UK
+people:
+- '![Farhad'
+- Arap
+- Farhad
+- Hassan
+- Noor
+- Rafi Hottak
+- Tan Dhesi
+organisations:
+- Afghan National Army
+- Afghan Special Police Unit
+- Commando Force
+- Commons’
+- IOM
+- International Organization for Migration
+- Ministry of Defence
+- MoD
+- The Independent
+- Triples
 ---
 
 Farhad, a former sergeant in the Afghan special forces, spent his days hiding in the hotel room he shares with two of his daughters, aged 17 and nine, and his four-year-old son.

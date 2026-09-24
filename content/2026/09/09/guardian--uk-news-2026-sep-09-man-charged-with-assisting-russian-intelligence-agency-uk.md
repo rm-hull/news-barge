@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Britain
+- London
+- Metropolitan
+- Russia
+- Swindon
+- UK
+- Westminster
+- Wiltshire
+people:
+- Frank Ferguson
+- Joshua Cammidge
+organisations:
+- CPS
+- CTP London
+- Crown Prosecution Service
+- GRU Volunteer Corps
 ---
 
 A man has been charged with offences related to national security as part of an ongoing investigation led by counter-terrorism policing (CTP) London, according to the Metropolitan police.

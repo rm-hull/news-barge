@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Iran
+- Israel
+- Lebanon
+- Naqoura
+- UK
+- US
+- Yellow Line
+people:
+- Israel Katz
+- Kandice Ardiel
+- Naim Qassem
+organisations:
+- BBC
+- Hezbollah
+- UN
+- Unifil
 ---
 
 Watch: BBC sees Israeli military presence in southern Lebanon

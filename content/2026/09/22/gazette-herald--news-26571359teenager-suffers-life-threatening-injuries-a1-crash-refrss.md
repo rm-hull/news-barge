@@ -14,6 +14,20 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21486333.jpg?type=og-image
+locations:
+- A1
+- B6474
+- Darrington
+- Wentbridge
+- West Yorkshire
+people:
+- Polo
+organisations:
+- A1
+- North Yorkshire Police
+- Scania HGV
+- VW Polo
+- West Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

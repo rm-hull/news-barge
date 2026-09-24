@@ -13,6 +13,19 @@ image: https://cdn.mos.cms.futurecdn.net/FnrjWQbuB9eyNpWJSonsZm-2000-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations: []
+people:
+- Diablo*," Shely
+- Jennifer Hepler
+- Joe Shely
+organisations:
+- Blizzard
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/FnrjWQbuB9eyNpWJSonsZm.jpg) 

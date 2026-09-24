@@ -13,6 +13,10 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations: []
+people: []
+organisations:
+- BBC
 ---
 
 # BBC witnesses 'taxi boat' picking up migrants multiple times in a day

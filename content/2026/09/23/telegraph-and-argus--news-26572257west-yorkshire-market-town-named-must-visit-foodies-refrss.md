@@ -14,6 +14,19 @@ categories:
 - Travel
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487531.jpg?type=og-image
+locations:
+- Hebden Bridge
+- Leeds
+- Sheffield
+- West Yorkshire
+people:
+- Aya Sophia
+organisations:
+- Airbnb
+- Goo Cheese
+- Newsquest
+- Olive Magazine
+- Valley Organics
 ---
 
 *(Image: Newsquest)*

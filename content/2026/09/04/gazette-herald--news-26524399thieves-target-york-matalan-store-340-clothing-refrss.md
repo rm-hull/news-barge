@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Clifton Moor
+- Matalan
+- North Yorkshire
+- York
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

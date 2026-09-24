@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/yKgCHUZBWk6YpMUXeA2TiU-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- U.S.
+people:
+- Tom
+organisations:
+- 96GB
+- Alibaba
+- Asus
+- Blackwell
+- GDDR6X
+- Get Tom's Hardware
+- Google News
+- Micron
+- Nvidia
+- ODM
+- OEM
+- PCB
+- Shenzhen Suqiao Intelligent Technology Co.
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Nvidia GeForce RTX GPU](https://cdn.mos.cms.futurecdn.net/yKgCHUZBWk6YpMUXeA2TiU.jpg) 

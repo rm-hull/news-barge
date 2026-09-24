@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Britain
+- County Durham
+- Darlington
+- Hartlepool
+people:
+- Janet Newton
+- Lynn Hamilton
+- Maria Pearson
+- Ms Newton
+organisations:
+- HM Prison and Probation Service
+- North News & Pictures
+- Parole Board
+- Teesside Live
 ---
 
 Britain’s longest-serving female prisoner is back behind bars just weeks after being released.

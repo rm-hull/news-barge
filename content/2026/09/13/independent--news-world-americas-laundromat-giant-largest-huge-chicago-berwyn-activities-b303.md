@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Berwyn
+- Berwyn’s
+- Chicago
+- Houston
+- Illinois
+- Santa Claus
+- South Korea
+- Texas
+- Windy City
+people:
+- Eric Benson
+- Josie
+- Josie’
+- Mark
+- Tom Benson
+organisations:
+- Bensons
+- Berwyn
+- Brookfield Zoo Chicago
+- CLA
+- Coin Laundry Association
+- NBA
+- The Independent
+- World’s Largest Laundromat
 ---
 
 Free pizza, donuts and a gift from Santa: Does this sound like a trip to the laundromat?

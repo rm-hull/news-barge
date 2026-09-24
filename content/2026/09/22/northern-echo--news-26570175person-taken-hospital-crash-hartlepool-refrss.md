@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21484727.jpg?type=og-image
+locations:
+- Cleveland Road
+- Hartlepool
+- James Cook Hospital
+- James Cook University Hospital
+- Middlesbrough
+- Old Cemetery Road
+- Ropery Road
+- West View Road
+people: []
+organisations:
+- A66
+- Cleveland Police
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GOOGLE)*

@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ankara
+- Istanbul
+- Turkey
+people:
+- Akin Gurlek
+- Recep Tayyip Erdogan
+organisations:
+- Kaos GL
+- LGBTQ
+- Turkish Human Rights Association
 ---
 
 ![Riot police, with a rainbow flag in the background, chase LGBT activists as they try to gather for a pride parade, which was banned by the governorship in Istanbul. Officers are wearing black uniforms, wearing gas masks, and are carrying helmets and riot shields as they move through what appears to be a residential street.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -15,6 +15,20 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdjZWEwOWEyLWJjOGUtNDczNS04NzZjLTM2MzBkYTU4ZTM1ZTplNzYwNmU3OS1hMDFlLTQ5MGItODU4NC0xY2Y2OWY3MzU2Nzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- England
+- NHS
+- PA
+- UK
+- US
+people:
+- Fliss Murtagh
+- Jeff Moore
+organisations:
+- 'Fliss Murtagh ##'
+- NHS
+- Palliative Care
+- Wolfson Palliative Care Research Centre
 ---
 
 # An ageing population demands a new conversation about care - Fliss Murtagh

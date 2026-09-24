@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bloom
+- Cowpasture Road
+- Ilkley
+people:
+- Amy Wilson
+- Debbie Magee
+- Ms Wilson
+- Shirley Ballas
+- Sophie Walker
+- Tamzin Outhwaite
+organisations:
+- AW Aesthetics
+- NeoGen Plasma
 ---
 
 A REGISTERED nurse is set to "take the plunge" this month by opening a new clinic in a town centre.

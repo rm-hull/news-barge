@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- A439 Warwick Road
+- A46
+- Birmingham Road
+- Ford Puma
+- Stratford
+- Stratford-upon-Avon
+- Warwick Road
+people:
+- Derrick Campbell
+- Karen Joseph
+- Roman Kalas
+- Sean McGovern
+- Steve Flavell
+organisations:
+- CCTV
+- IOPC
+- Independent Office for Police Conduct
+- Warwickshire Police
 ---
 
 A woman who was critically injured in a crash during a police pursuit has died, the Independent Office for Police Conduct (IOPC) said.

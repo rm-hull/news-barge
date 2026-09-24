@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- County Durham
+- Darlington
+- Jubilee Fields Community Centre
+- North East
+- Shildon
+people: []
+organisations:
+- Church Urban Fund
+- Facebook)* Organisers
+- Jubilee Fields
+- Jubilee Fields Community Centre
+- Met Office
+- The National Lottery
 ---
 
 *(Image: Jubilee Fields Community Centre)*

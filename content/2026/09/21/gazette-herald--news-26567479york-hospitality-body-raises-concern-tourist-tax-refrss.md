@@ -14,6 +14,26 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21480669.jpg?type=og-image
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- UK
+- York
+- York’
+people:
+- David Skaith
+- HAY
+organisations:
+- HAY
+- Hospitality Association York
+- Newsquest
+- North Yorkshire
+- The Press
+- York BID
+- York St John University
 ---
 
 *(Image: Newsquest)*

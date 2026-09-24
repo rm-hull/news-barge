@@ -14,6 +14,33 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/23/7/03/4eac699e910c43ae2e88f56be524aa037617227f.png?trim=40,0,13,0&width=1200&height=800&crop=1200:800
+locations:
+- Baja
+- Kentucky
+- Long Beach
+- Los Angeles
+- Mexico
+- Puerto Vallarta
+- Redlands
+- Southern California
+- U.S.
+- UK
+- USA
+people:
+- Michelle
+- Thomas Gigler
+- Tommy McGraw
+- Wendy Dowden
+organisations:
+- 988 Suicide and Crisis Lifeline
+- CCTV
+- Carnival Cruise Line
+- Carnival Panorama
+- Daily Mail
+- Esri
+- Fox News
+- Mexico Coast Guards
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

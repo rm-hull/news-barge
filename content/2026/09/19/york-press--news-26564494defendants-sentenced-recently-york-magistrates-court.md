@@ -12,6 +12,11 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/20629021.jpg?type=og-image&xType=0&yType=24
+locations:
+- York Magistrates Court
+people: []
+organisations:
+- The Herald
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

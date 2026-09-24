@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belarus
+- Estonia
+- Kaunas
+- Kyiv
+- Latvia
+- Lithuania
+- Moscow
+- Pratkunai
+- Russia
+- Russian Samara
+- Taganrog
+- UK
+- US
+- Ukraine Poland
+- Vilnius
+- Volga River
+- Washington
+people:
+- '## Zelensky'
+- Boris Johnson
+- Donald Trump
+- Kyiv
+- Sam Kiley.
+- Vitali Klitschko
+- Vladimir Putin
+- Volodymyr Zelensky
+- Vyacheslav Fedorishchev
+- Yuri Slyusar
+organisations:
+- Air Force
+- Armed Forces
+- ISW
+- Institute for the Study of War
+- Kyiv
+- Nato Baltic Air Defence
+- Ozon
+- Reuters
+- Telegram
 ---
 
 Poland scrambled fighter jets in the early hours of Tuesday as it responded to Russia's latest attack on Ukraine involving jet-powered drones.

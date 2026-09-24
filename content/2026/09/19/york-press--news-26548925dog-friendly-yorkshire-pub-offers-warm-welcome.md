@@ -12,6 +12,22 @@ categories:
 - York
 - Comedy & Entertainment
 image: https://www.yorkpress.co.uk/resources/images/21453328.jpg?type=og-image
+locations:
+- '** York'
+- England
+- Whitby
+- Yorkshire
+people:
+- Adem Fehmi
+- Brandling Villa
+- Carolyn
+organisations:
+- Penny Hedge
+- Rover
+- Rover.com
+- Tavern Testers
+- Tripadvisor
+- York Museum Gardens
 ---
 
 ## Dog-friendly Yorkshire coastal pub that 'couldn't be more accommodating'

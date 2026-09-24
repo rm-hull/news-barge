@@ -12,6 +12,27 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- UK
+- Uganda
+people:
+- Chris Herd
+- Manoj Joshi
+- Nimisha Madhvani
+- Robinah Nabbanja
+- Stephen Place
+organisations:
+- Bradford Business Investment Promotional
+- Bradford Council
+- Midland Hotel
+- Telegraph & Argus
+- UEUKA
+- UK Business and Community Partnerships for Humanity Dialogue Meeting
+- Uganda Airlines
+- Uganda Europe United Kingdom Association
+- Uganda High Commission
+- Uganda Red Cross Society
 ---
 
 *(Image: Telegraph & Argus)*

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/19/Israel_Soldier_Pardoned_49256.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Hebron
+- Israel
+- West Bank
+- Yom Kippur
+people:
+- Abdel Fattah al-Sharif
+- Elor Azaria
+- Isaac Herzog
+- Israel Katz
+- Itamar Ben-Gvir
+organisations:
+- National Security
 ---
 
 Israel's president Saturday pardoned the combat medic who shot dead at close range a badly wounded Palestinian attacker who had stabbed a soldier in the occupied West Bank a decade ago.

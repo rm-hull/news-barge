@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Amsterdam
+- China
+- Leeds
+- Nashville
+- Smoky Mountains
+people:
+- Andrew
+- Andrew, Pepsi
+- David Essex
+- Dolly Parton
+- Freddie Mercury
+- George
+- Jilted John
+- Marvin Gaye
+- TimeDavid Olusoga
+organisations:
+- PopsWith Blondie
+- The Commodores.34
+- The Jam
 ---
 
 # Wham! 10 Days in China

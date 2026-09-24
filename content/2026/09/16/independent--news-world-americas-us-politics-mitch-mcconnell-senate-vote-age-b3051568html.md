@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/09/16/23/2026-09-16T210731Z_2906697
 categories:
 - News & Politics
 - UK
+locations:
+- Arkansas
+- Capitol Hill
+- D.C.
+- Kentucky
+- Washington
+- Washington’s Reagan
+people:
+- '![McConnell'
+- Andy Beshear
+- Elaine
+- Hill
+- John Boozman
+- John Thune
+- Kamala Harris
+- Mitch McConnell
+organisations:
+- Conference
+- DNC
+- Democratic National Committee
+- Independent
+- Senate Committee on Agriculture
 ---
 
 Sen. Mitch McConnell appeared frail and required assistance from a fellow Republican senator at a committee hearing on Wednesday, two days after returning to the Hill for the first time since his hospitalization in June.

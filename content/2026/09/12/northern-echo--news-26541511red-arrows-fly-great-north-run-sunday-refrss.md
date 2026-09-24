@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arrive RAF Waddington
+- Bay
+- Belgium
+- Consett
+- Great North Run
+- Guernsey
+- Haydon Bridge
+- Newcastle upon Tyne
+- North East
+- Patrington
+- Ponteland
+- RAF Waddington
+- Robin Hood
+- Scartho
+- Scunthorpe
+- South Shields
+- South of Ugthorpe
+- South of Wragby
+- Sunderland
+- Sweethope Loughs
+- Tyneside
+- Whisby
+- Yorkshire
+people: []
+organisations:
+- RAF
+- Red Arrows
 ---
 
 *(Image: TOM BANKS)*

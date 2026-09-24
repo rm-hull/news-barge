@@ -14,6 +14,89 @@ categories:
 - Comedy & Entertainment
 - Arts & Culture
 - Film & TV
+locations:
+- Britain
+- Coronation Street
+- London
+- South Africa
+- Southport
+people:
+- '## Clarkson'
+- '## Norton'
+- Aaron Thiara
+- Alan Carr
+- Alice da Silva Aguiar
+- Alison Hammond
+- Ann Ming
+- Ant
+- Bebe King
+- Bob Mortimer
+- Brown
+- Cain Dingle
+- Caroline Flack
+- Charlotte Church
+- Chris Hoy
+- Claudia Winkleman
+- David (Olusoga
+- David Attenborough
+- Debbie Webster
+- Dec
+- Elena Ravenscroft
+- Ella Bruccoleri
+- Elsie Dot Stancombe
+- Farm
+- Gareth Pierce
+- Gary Lineker
+- Graham Norton
+- James Martin
+- Jeff Hordley
+- Jenni Stancombe
+- Jeremy Clarkson
+- Jesy Nelson
+- Joe Swash
+- Judy Parfitt
+- Kelly Osbourne
+- Kelvin Fletcher
+- Lana Washington
+- Mark Brownlow
+- Mary Bennet
+- Michael McIntyre
+- Mohammed
+- Monica Joan
+- Nick
+- Nigel Bates
+- Ozzy Osbourne
+- Paloma Faith
+- Paul Bradley
+- Paul Whitehouse
+- Ravi Gulati
+- Richard Osman
+- Run Away
+- Ruth Jones
+- Sharon Osbourne
+- Sheridan Smith
+- Stacey Solomon
+- Sue Devaney
+- Taylor Swift
+- Todd Grimshaw
+- Trigger Point
+- Tyson Fury
+- Vicky McClure
+organisations:
+- '''s Boys'
+- BBC News
+- Coronation Street
+- EastEnders
+- Emmerdale
+- ITV
+- Mortimer & Whitehouse
+- NTA
+- Opalite
+- Our Girls
+- Southport Families
+- Stacey & Joe
+- Swift-Kelce
+- The Other Bennet Sister
 ---
 
 ![Alan Carr accepts the 'Special Recognition' award on stage during the National Television Awards 2026 show at The O2 Arena.](https://ichef.bbci.co.uk/ace/standard/752/cpsprodpb/2c81/live/a2f86a60-abdc-11f1-ba40-a905468c0295.png)

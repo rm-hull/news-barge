@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- 6am
+- Bradford, Road
+- Leeds Bradford Airport
+- Otley
+- Sunnydale Crescent
+- UK
+people:
+- Ann Forsaith
+- Martin Hemingway
+- Mike Simmonds
+- Nick Hodgkinson
+- Vincent Hodder
+organisations:
+- '## Leeds Bradford Airport'
+- FU
+- GALBA
+- Group for Action
+- Hodder
+- LBA
+- Leeds Bradford Airport
+- Leeds City Council Planning Portal
+- Yorkshire
 ---
 
 *(Image: Mike Simmonds)*

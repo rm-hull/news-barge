@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A1
+- Bradbury Interchange
+- County Durham
+- Darlington
+- Junction 59
+- Junction 60
+- M
+- Newton Aycliffe
+- Spennymoor
+people: []
+organisations:
+- A1
+- Darlington Fire and Rescue Service
+- Durham Police
+- UGC
 ---
 
 *(Image: UGC)*

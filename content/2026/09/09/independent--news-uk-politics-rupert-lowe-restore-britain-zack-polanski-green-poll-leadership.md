@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Great Yarmouth
+- Holborn
+- London
+- Restore Britain
+- St Pancras
+people:
+- Elon Musk
+- Keir Starmer
+- Luke Tryl
+- Mr Lowe
+- Rupert Lowe
+- Zack Polanski
+organisations:
+- CPS
+- Camden New Journal
+- Crown Prosecution Service
+- Elon Musk
+- Elon Musk’s
+- Green Party
+- More in Common
+- More in Common UK
+- Reform UK
+- Restore Britain
 ---
 
 More voters believe Restore Britain’s Rupert Lowe is doing a good job leading his party than Zack Polanski, according to a new survey.

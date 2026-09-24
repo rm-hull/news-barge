@@ -12,6 +12,67 @@ image: https://i.guim.co.uk/img/media/55e1861cb07fc4179b42f05da5ad22dc15681d5d/8
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- BBC
+- Britain
+- Delo
+- Dubai
+- England
+- Harborne
+- Hong Kong
+- Iran
+- London
+- Preston
+- Russia
+- Thailand
+- UK
+- United States
+- Wild West
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Claude
+- Dan Milmo
+- Dario Amodei
+- Elon Musk
+- George Osborne
+- Jeff Overs
+- Jessica Elgot
+- Jonathan Brady
+- Laura Kuennsberg
+- Laura Kuenssberg
+- Nigel Farage
+- PA Jenrick
+- Rachel Johnson
+- Robert Jenrick
+- Sam Altman
+- Sky
+- Tom Tugendhat
+- Trump
+organisations:
+- AI Security Institute
+- Anthropic
+- BBC Broadcasting House
+- Bank of England
+- Brexit
+- Channel 4
+- Delo
+- EU
+- Electoral Commission
+- European Union
+- Guardian
+- House of Lords
+- Labour
+- Neets
+- PA Reform
+- Reform Shadow
+- Reform UK
+- Reform UK Treasury
+- Sky News
+- Telegraph
+- Tory Party
 ---
 
 Communities secretary Angela Rayner with Reform UK Treasury spokesman Robert Jenrick before appearing on Sunday With Laura Kuenssberg. Photograph: Jeff Overs/BBC/PA

@@ -13,6 +13,71 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Argentina
+- Ascension Island
+- Atlantic Conveyor
+- Britain
+- East Falkland
+- Falkland Islands
+- Falklands Islands
+- Fitzroy
+- Hampshire
+- London
+- Mount Harriet
+- Mount Kent
+- Mount Longdon
+- Mount William
+- Pebble Island
+- Port Stanley
+- Portsmouth Harbour
+- RAF
+- San Carlos
+- South Atlantic
+- South Georgia
+- Teal Inlet
+- Tumbledown Mountain
+- UK
+- US
+- Wireless Ridge
+people:
+- Belgrano
+- Donald Trump
+- Galahad
+- Gary Stone
+- Javier Milei
+- Jeremy Moore
+- Lord Carrington
+- Margaret Thatcher
+- Menendez
+- Rex Hunt
+- Tristram
+- Wes Streeting
+organisations:
+- 5 Infantry Brigade
+- Central Press
+- Darwin Hill
+- Davidoff
+- Defence Secretary
+- EEC
+- European Economic Community
+- Goose Green
+- HMS Antelope
+- HMS Coventry
+- HMS Glamorgan
+- HMS Hermes
+- HMS Invincible
+- HMS Sheffield
+- Hulton Archive
+- Parachute Regiment
+- Pucara
+- Royal Fleet Auxiliaries
+- Royal Marines
+- Royal Navy
+- SAS
+- Two Sisters
+- UN General Assembly
+- UN Security Council
 ---
 
 Britain's dedication to the Falkland Islands remains "absolute and unshakeable", the Defence Secretary affirmed, following statements by Argentinian President Javier Milei that his country must reclaim them.

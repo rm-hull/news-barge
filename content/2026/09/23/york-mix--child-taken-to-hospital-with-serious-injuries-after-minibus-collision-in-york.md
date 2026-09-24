@@ -11,6 +11,15 @@ categories:
 - York
 - Health & Fitness
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/yorkshire-ambulance-service-york-august-2026.webp
+locations:
+- '#### Ox Carr Lane'
+- Ox Carr Lane
+- York
+people: []
+organisations:
+- Harry Mallett
+- North Yorkshire Police
+- Strensall A North Yorkshire Police
 ---
 
 A child was seriously hurt in a collision with a minibus in York.

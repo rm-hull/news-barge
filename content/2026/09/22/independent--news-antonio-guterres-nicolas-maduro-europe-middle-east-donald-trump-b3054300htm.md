@@ -12,6 +12,41 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/14/UN_General_Assembly_93246.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Colombia
+- Democratic Republic of the Congo
+- Ebola
+- Europe
+- Gulf
+- Iran
+- Israel
+- Middle East
+- Nepal
+- New York
+- Russia
+- Slovenia
+- Strait of Hormuz
+- Tehran
+- Tibet
+- U.S.
+- Uganda
+- Ukraine
+- Venezuela
+people:
+- António Guterres
+- Donald Trump
+- Masoud Pezeshkian
+- Nicolás Maduro
+- Robert Wood
+- Tone Kajzer
+- Volodymyr Zelenskyy
+organisations:
+- General Assembly
+- The Associated Press
+- U.N
+- U.N.
+- U.S. Mission
+- United Nations
 ---
 
 There is not much that diplomats can agree on these days. But if asked about the state of the world ahead of the annual meeting at the U.N. General Assembly, heads of state and government and ministers alike will describe a globe in massive turmoil.

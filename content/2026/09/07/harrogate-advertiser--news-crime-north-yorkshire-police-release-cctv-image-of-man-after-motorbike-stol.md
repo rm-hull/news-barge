@@ -13,6 +13,14 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Cowstail Lane
+- Harrogate
+- North Yorkshire
+- Tockwith
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police release CCTV image of man after motorbike stolen near Harrogate

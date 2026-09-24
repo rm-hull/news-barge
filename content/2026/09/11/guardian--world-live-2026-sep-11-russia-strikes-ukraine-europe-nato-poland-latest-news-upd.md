@@ -12,6 +12,82 @@ image: https://i.guim.co.uk/img/media/a67ffb5e87c0dafdab01f4d7889b50154a541bb6/5
 categories:
 - UK
 - News & Politics
+locations:
+- Austria
+- Belgium
+- Brussels
+- Dnipro
+- Dnipropetrovsk
+- Dniprovskyi
+- Euroclear
+- Europe
+- Holosiivskyi
+- Jakub Krupa The
+- Kremlin
+- Kyiv
+- Lithuania
+- Netherlands
+- Oblonskyi
+- Pavlohrad
+- Russia
+- Stockholm
+- Susch
+- Sweden
+- Switzerland
+- Ukraine
+- Vilnius
+people:
+- Andrii Sybiha
+- Balazs Ujvari
+- Bogdan Kukura
+- Denis Balibouse
+- Dmitry Peskov
+- Donald Trump
+- Efrem Lukatsky
+- Jakub Krupa
+- Jennifer Rankin
+- Jon Duschletta
+- Jonathan Nackstrand
+- Kristalina Georgieva
+- Magdalena Andersson
+- Nicholas Aylott
+- Nicolas Economou
+- Oleksandr Hanzha
+- Paulo Pinho
+- Sergii Koretskyi
+- Ulf Kristersson
+- Ursula von der Leyen
+- Valdis Dombrovskis
+- Wladimir Klitschko
+organisations:
+- AFP
+- ANVR
+- Central Bank of Russia
+- Dutch Federation of Travel Agencies
+- ENGADINER POST
+- EU Commission
+- Euroclear
+- European Commission
+- FT
+- Financial Times
+- IMF
+- Kyiv
+- Member States
+- Moderate Party
+- Nato
+- NurPhoto
+- PURL
+- RIA
+- Renew
+- Reuters Kristersson
+- Shutterstock
+- Social Democratic party
+- Sweden Democrats
+- Södertörn University
+- Ukrainefrom
+- Ukrainian Emergency Service
+- Ukrinform/Shutterstock I
+- Ukrnafta
 ---
 
 Sweden's PM channels Trump as he wants to 'make Sweden great again'

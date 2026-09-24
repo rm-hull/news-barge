@@ -12,6 +12,53 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Abraham Lincoln
+- Australia
+- Ayutthaya
+- Bangkok
+- Chachoengsao
+- Chonburi
+- Iran
+- Isan
+- Laem Chabang
+- Laem Chabang Port
+- Map Ta Phut
+- Nong Nooch Tropical Botanical Garden
+- Pattaya
+- Rayong
+- Sattahip
+- Sin City
+- Soviet Union
+- Sriracha
+- Thailand
+- U-Tapao
+- U.S.
+- US
+- Walking Street
+people:
+- A-ngoon Sombat
+- Abraham Lincoln
+- Becker
+- Dan Keeler
+- Donald Trump
+- Frank E. Petersen Jr.
+- Keith Eldridge
+- Robert Smalls
+organisations:
+- Cartoon Network
+- Hard Rock Hotel
+- Lincoln A
+- Marines
+- Sanctuary of Truth Museum
+- Sattahip Royal Thai Navy Base
+- Shore Patrol
+- Thai Navy
+- The Exploding Business of Travel and Tourism
+- US Air Force
+- US Navy
+- USS Abraham Lincoln
+- Uniform Code of Military Justice
 ---
 
 Thousands of crew members of the USS Abraham Lincoln aircraft carrier streamed into Thailand’s seaside resort city of Pattaya on Thursday, after more than 260 days at sea.

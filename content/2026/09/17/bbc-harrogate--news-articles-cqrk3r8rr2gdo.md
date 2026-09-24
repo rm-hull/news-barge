@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+people:
+- Simon Myers
+organisations:
+- Culture, Arts and Housing
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 ![A community library interior with bookshelves along one wall, a staff member seated at a desk and another person working further back near the children’s section decorated with colourful displays.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/c452/live/ffdfad20-b1b2-11f1-bdcf-d393eb724fa3.jpg)

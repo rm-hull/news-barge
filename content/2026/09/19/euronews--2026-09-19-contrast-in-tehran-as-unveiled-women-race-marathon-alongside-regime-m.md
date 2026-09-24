@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/91/98/64/1200x675_cmsv2_5904847b-74e7-58d8-a919-1b70be9e63d1-9919864.jpg
+locations:
+- Imam Hossein Square
+- Islamic Republic
+- Israel
+- Jan-Fada-ye Iran
+- Kerman
+- Kish Island
+- Tehran
+- US
+- Velayat Park
+people:
+- Masoud Pezeshkian
+organisations:
+- Basij
+- HRANA
+- Human Rights Activists News Agency
+- Human Rights Watch
+- Self-Sacrificers
+- Tehran Prosecutor's Office
 ---
 
 ## Tehran split into two worlds: unveiled women ran openly in a city marathon while state forces paraded machine guns nearby. The striking contrast exposes a deeply divided capital, caught between defiance and regime mobilisation amid rising warfare.

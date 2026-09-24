@@ -13,6 +13,24 @@ image: https://images.euronews.com/articles/stories/09/89/67/39/1200x675_cmsv2_5
 categories:
 - Europe
 - News & Politics
+locations:
+- Bishkek
+- Islamic Republic
+- Islamic Republic of Iran
+- Kyrgyzstan
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Abbas Araghchi
+- Masoud Pezeshkian
+organisations:
+- IRGC
+- SCO
+- Shanghai Cooperation Organisation
 ---
 
 **Euronews Persian**

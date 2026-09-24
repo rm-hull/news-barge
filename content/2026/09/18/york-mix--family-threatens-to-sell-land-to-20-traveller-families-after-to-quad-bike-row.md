@@ -12,6 +12,24 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/hudswell-tunstall-richmond-ldrs-3.webp
+locations:
+- Miller’s Meadow
+- North Yorkshire
+- Richmond
+- Skipton
+- Tunstall
+people:
+- James
+- Millers
+- Naomi Miller
+- Richmond
+- Yvonne Peacock
+organisations:
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- North Yorkshire Police
+- Upper Dales
+- Youse
 ---
 
 A family facing enforcement action after moving onto fields without planning permission have threatened to sell the land to “20 traveller families for a pittance” after locals called the police about a quad bike.

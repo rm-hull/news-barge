@@ -19,6 +19,73 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://cdn.jwplayer.com/v2/media/np3Yzwvn/poster.jpg?width=720
+locations:
+- Birmingham
+- Black Country
+- Chelsea
+- Dublin
+- Europe
+- Foley Street
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- Smethwick
+- UK
+- US
+- Walsall
+- Wednesbury
+- White House
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Asa Mcintosh
+- Bradley Whatmore
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Hakeem Ali
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Macklemore
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Obama
+- Putin
+- Quarnay Lee-Taylor
+- Rees Macdonald
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Waqas Hussain
+- Zelensky
+- Zuhayb Abdi
+organisations:
+- Burnham
+- Chelsea
+- De Zerbi
+- ELITE
+- Labour
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
+- White House
 ---
 
 ## Showing now | News

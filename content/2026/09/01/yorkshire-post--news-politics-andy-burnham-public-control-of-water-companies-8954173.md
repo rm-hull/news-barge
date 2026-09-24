@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- Europe
+- Greater Manchester
+- Harrogate
+- Killinghall
+- London
+- South East
+- Thames
+- UK
+- Yorkshire
+people:
+- Andy Burnham
+- Bruce Rollinson
+- Ms Shaw
+- Nicola Shaw
+organisations:
+- Government
+- House of Commons
+- Labour
+- Thames Water
+- The Yorkshire Post
+- United Utilities
+- Yorkshire Water
 ---
 
 # Andy Burnham to set out plans for public control of water companies before end of year

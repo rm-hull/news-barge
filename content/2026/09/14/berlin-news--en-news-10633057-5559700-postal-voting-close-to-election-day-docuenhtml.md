@@ -13,6 +13,11 @@ categories:
 - Germany
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+people: []
+organisations:
+- State Election Director
 ---
 
 © dpa

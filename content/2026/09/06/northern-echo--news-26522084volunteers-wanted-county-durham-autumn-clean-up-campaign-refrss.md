@@ -12,6 +12,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Crimdon
+- UK
+people:
+- Kyle Genner
+organisations:
+- A66
+- Darlington Market
+- Durham County Council
+- Durham Wildlife Trust
 ---
 
 A county-wide clean-up campaign is calling on residents to help tackle litter and keep communities tidy.

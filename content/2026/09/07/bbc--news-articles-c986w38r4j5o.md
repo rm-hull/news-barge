@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin Wall
+- Brussels
+- China
+- Europe
+- France
+- Germany
+- Italy
+- Kremlin
+- Kyiv
+- Middle East
+- Moscow
+- Poland
+- Russia
+- Spain
+- Tiny Saxony-Anhalt
+- UK
+- US
+- Ukraine
+- United States
+people:
+- Alice Weidel
+- Benjamin Haddad
+- Donald Trump
+- Emmanuel Macron
+- Friedrich Merz
+- Jess Parker.
+- Keir Starmer
+- Kirill Dmitriev
+- Marine Le Pen
+- Santiago Abascal
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- Alternative for Germany
+- BBC Berlin
+- Deutschland
+- EU
+- European Union
+- League Party
+- MAGA
+- Marine Le Pen
+- Nato
+- Russian Direct Investment Fund
+- The AfD
+- Third Reich
+- Truth Social
+- Vox
 ---
 
 ![Ulrich Siegmund, leader of the AfD in the state, raises a thumbs up at the election party.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg)

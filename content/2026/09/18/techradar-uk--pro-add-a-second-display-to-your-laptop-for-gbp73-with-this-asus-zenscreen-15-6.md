@@ -10,6 +10,18 @@ description: Give yourself a second screen on the move with this Asus ZenScreen 
 image: https://cdn.mos.cms.futurecdn.net/h7m8fYLNVbMogpV88nByTe-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+- ZenScreen
+people:
+- Wayne Williams
+organisations:
+- Amazon
+- Asus  ZenScreen
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Asus ZenScreen MB166C Portable USB Monitor](https://cdn.mos.cms.futurecdn.net/h7m8fYLNVbMogpV88nByTe.jpg) 

@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Honolulu
+- Lower Manhattan
+- Mount Washington
+- New Hampshire
+- New York
+- Pennsylvania
+- Salt Lake City
+- Shanksville
+- U.S.
+- US
+people:
+- Barack Obama
+- Bill Clinton
+- Cantor Fitzgerald
+- Charlie Kirk
+- Donald Trump
+- Gary Lutnick
+- George W. Bush
+- Howard Lutnick
+- JD Vance
+- Joe Biden
+- Pete Hegseth
+organisations:
+- Cantor Fitzgerald
+- Mississippi State University
+- NYPD
+- National Sept. 11 Memorial
+- Pentagon
+- Trump
+- World Trade Center
 ---
 
 President Donald Trump is set to observe Friday’s 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon. It’s the second year in a row for Trump to mark the day at the Pentagon.

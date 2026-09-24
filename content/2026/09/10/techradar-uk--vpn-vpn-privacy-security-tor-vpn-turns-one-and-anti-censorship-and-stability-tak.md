@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/U24bAE3CMv9iXcbJEMwZta-722-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Iran
+- Rust
+- Turkmenistan
+people:
+- Monica J. White
+- Tor Browser
+organisations:
+- APK
+- Arti
+- Digital Trends
+- F-Droid
+- Google News
+- Google Play Store
+- Monica
+- No Trace
+- Onionmasq
+- SlashGear
+- TechRadar
+- Tom’s Hardware
+- Tor Project
+- Tor VPN Beta
+- WePC
 ---
 
 ![Tor VPN Beta app on Android phone, promo image](https://cdn.mos.cms.futurecdn.net/U24bAE3CMv9iXcbJEMwZta.png) 

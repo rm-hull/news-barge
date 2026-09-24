@@ -11,6 +11,17 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/01/york-north-yorkshire-mayor-david-skaith-bus.webp
+locations:
+- North Yorkshire
+- Richmond
+- York
+people:
+- Carl Les
+- David Skaith
+organisations:
+- Labour
+- Local Transport Plan
+- North Yorkshire Council
 ---
 
 North Yorkshire’s bus services are in a “mess” after years of underinvestment, the region’s mayor has told councillors.

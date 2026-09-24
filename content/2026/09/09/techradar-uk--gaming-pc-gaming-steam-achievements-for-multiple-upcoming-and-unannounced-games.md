@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/cwV49XpqGZ6QfU2zA5gCxV-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- GameRant
+people:
+- Isaiah Williams
+- Mike Bendel
+- Steam
+organisations:
+- Birmingham City University
+- Exophase
+- Google News
+- Isaiah
+- PC Guide
+- TechRadar
+- Valve
 ---
 
 ![Game art of Control Resonant, Steam's logo, and Gears of War E-Day](https://cdn.mos.cms.futurecdn.net/cwV49XpqGZ6QfU2zA5gCxV.jpg) 

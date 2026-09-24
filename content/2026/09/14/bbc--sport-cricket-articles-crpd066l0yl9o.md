@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- England
+- India
+- London
+- Namibia
+- New Zealand
+- Pakistan
+- South Africa
+- Southampton
+- Sri Lanka
+- Wales
+- Zimbabwe
+people:
+- Adil Rashid
+- Aneurin Donald
+- Ben Stokes
+- Brendon McCullum
+- Brydon Carse
+- Carsey
+- Gus Atkinson
+- Harry Brook
+- Jamie Overton
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Jos Buttler
+- Josh Tongue
+- Kev
+- Kevin Pietersen
+- Liam Dawson
+- Phil Salt
+- Sonny Baker
+- Stephen Fleming
+- Tom Banton
+- Will Jacks
+organisations:
+- BBC Radio 5 Sports
+- BBC Sounds
+- BBC Sport
+- BBC Two
+- BBC iPlayer
+- Derbyshire
+- Durham
+- England
+- New Zealand
+- The Hundred
+- Trent Rockets
 ---
 
 ![Brendon McCullum and Kevin Pietersen share a joke during an England training session](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ad0c/live/5774a510-b03a-11f1-9ae0-e316eeb4632d.jpg)

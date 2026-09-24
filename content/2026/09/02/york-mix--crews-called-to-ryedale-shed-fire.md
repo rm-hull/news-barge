@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Helmsley
+- Keldholme
+- Kirkbymoorside
+- Malton
+- Ryedale
+people:
+- '#### Keldholme'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Firefighters were called to an incident in a Ryedale village early this morning (Wednesday).

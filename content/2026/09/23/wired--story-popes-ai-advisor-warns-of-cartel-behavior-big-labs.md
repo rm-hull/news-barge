@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab2b2dca5b69d67cc34c6bd/191:100/w_1280,c_limit/Pope-AI-Advisor-Culture-2162988420.jpg
+locations:
+- China
+- US
+people:
+- Dario Amodei
+- Leo XIV
+- Paolo Benanti
+- Pope
+- Sam Altman
+organisations:
+- Anthropic
+- Catholic Church
+- Catholic Church on AI
+- Google DeepMind
+- OpenAI
+- WIRED
 ---
 
 Recently, warnings from researchers inside the world’s largest artificial intelligence labs about the rapid pace of development have led to panic about the possibility that the technology could extinguish humanity. Those warnings are predicated on the idea that—propelled by ferocious competition and a rivalry between the US and China—labs are barreling toward superintelligent models whose abilities will far surpass those of humans.

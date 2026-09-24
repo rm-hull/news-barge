@@ -11,6 +11,12 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- England
+people:
+- Amanda Doyle
+organisations:
+- NHS England
 ---
 
 The flu vaccine roll-out has begun, with millions of children and pregnant women across England eligible to receive the jab from today.

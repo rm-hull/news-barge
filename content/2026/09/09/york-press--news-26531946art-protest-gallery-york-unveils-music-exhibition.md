@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Manchester
+- New York
+- Newcastle upon Tyne
+- Walmgate
+people:
+- Alex Mulholland
+- Mul
+- Peter Davis
+- Sam Josebury
+organisations:
+- National Portrait Gallery
+- Protest Gallery
 ---
 
 ## New York exhibition explores the connection between music and visual art

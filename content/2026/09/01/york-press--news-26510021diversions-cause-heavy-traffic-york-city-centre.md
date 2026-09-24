@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- '## Road'
+- Fishergate
+- Lead Mill Lane
+- Margaret Street
+- Newsquest
+- Piccadilly
+- Tower Street
+- 'Walmgate ## Traffic'
+- Walmgate Bar
+- York
+- Yorkshire Water
+people: []
+organisations:
+- City of York Council
+- Fishergate
+- Newsquest
+- Yorkshire Water
 ---
 
 ## Our live feed has now finished.

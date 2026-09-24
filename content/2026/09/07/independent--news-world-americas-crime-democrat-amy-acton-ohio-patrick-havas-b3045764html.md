@@ -12,6 +12,33 @@ image: https://static.the-independent.com/2026/09/07/08/2026-09-07T015951Z_16450
 categories:
 - News & Politics
 - UK
+locations:
+- Acton
+- Ohio
+people:
+- Addie Bullock
+- Amy Acton
+- Eric
+- Fran
+- Havas’
+- Henry J Gomez
+- Jerry Greene
+- Mike DeWine
+- Parkinson
+- Patrick Havas
+- Penny Jr
+- Vivek Ramaswamy
+- Wayne Penny Jr
+organisations:
+- Acton
+- CBS News
+- Canfield Fair
+- Havas
+- Mahoning County Democrat Booth
+- Mahoning County Democratic
+- Mahoning County Sheriff Office
+- Ohio State Highway Patrol
+- The Independent
 ---
 
 A man armed with pistols and brass knuckles has been arrested after lunging at a Democratic gubernatorial candidate at a county fair in Ohio.

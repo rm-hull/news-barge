@@ -15,6 +15,57 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/21/15/47/GettyImages-2236566537-c560a618.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Camp David
+- Florida
+- Iran
+- Lebanon
+- Middle East
+- New York
+- New York City
+- Strait of Hormuz
+- Straits of Hormuz
+- Tehran
+- Trump Tower
+- U.S.
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Abbas Araghchi
+- Andy Burnham
+- Antonio Guterres
+- Chris Wright
+- Delcy Rodriguez
+- Donald Trump
+- Emmanuel Macron
+- Kevin Warsh
+- Lula da Silva
+- Masoud Pezeshkian
+- Mike Walz
+- Waltz
+- Xi Jinping
+- Zoran Mamdani
+organisations:
+- Federal Reserve
+- Fox News
+- General Assembly
+- Gulf Cooperation Council
+- House
+- NBC News
+- New York Times
+- Reuters/Ipsos
+- Siena
+- Silver Bulletin
+- South Lawn —
+- State Department
+- Treasury
+- U.N.
+- UN General Assembly
+- UN Security Council
+- United Nations
+- United States’
 ---
 
 President Donald Trump will use his address to the UN General Assembly on Tuesday to cast himself as a global leader who has "confronted complex problems head-on" and boast of his purported success in formulating peace deals — even as the war he launched against Iran in February enters its seventh month with no end in sight.

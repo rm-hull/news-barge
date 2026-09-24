@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Albuquerque
+- Capitol Hill
+- Kentucky
+- New Mexico
+- U.S.
+- White House
+people:
+- Biden
+- Donald Trump
+- James Comer
+- Pam Bondi
+- Raúl Torrez
+- Terry Cole
+- Todd Blanche
+organisations:
+- DEA
+- Fox News
+- House Oversight Committee
+- Justice Department
+- The Associated Press.
+- U.S. Drug Enforcement Administration
 ---
 
 Republicans on the House Oversight Committee have opened an investigation into a contentious law enforcement strategy that permitted significant quantities of lethal fentanyl to reach American streets while federal agents built larger narcotics cases.

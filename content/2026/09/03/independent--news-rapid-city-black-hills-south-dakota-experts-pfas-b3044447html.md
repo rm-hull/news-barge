@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Ashland Heights
+- Black Hawk
+- Black Hills
+- Caputa
+- Deadwood
+- Dyess Avenue
+- Ellsworth Air Force Base
+- Inyan Kara
+- J&J Asphalt
+- Madison
+- Minnelusa
+- Pennington County
+- Piedmont
+- Rapid City
+- Rapid City Regional Airport
+- South Dakota
+- Spearfish
+- Sturgis
+- Texas
+people:
+- Connie Howie
+- Darin Klapperich
+- Gordon Howie
+- Mark Anderson
+- Nick Randall
+- Ralph Bifulco
+organisations:
+- EPA
+- Environmental Protection Agency
+- Frontier Water
+- J&J Asphalt
+- Legislature
+- News Watch
+- South Dakota Mines
+- South Dakota News Watch
+- The Associated Press
+- U.S. Geological Survey
 ---
 
 Each morning this summer, Gordon and Connie Howie have awoken on their cattle ranch in central Pennington County and turned on the kitchen faucet, unsure if any water will come out.

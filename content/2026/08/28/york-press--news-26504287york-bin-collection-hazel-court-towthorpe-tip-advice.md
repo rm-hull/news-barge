@@ -13,6 +13,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '## York'
+- Hazel Court
+- James Street
+- Towthorpe Moor Lane
+people: []
+organisations:
+- City of York Council
+- City of York Council)* York Council
 ---
 
 ## York bin collections this bank holiday weekend and what tip visitors should know

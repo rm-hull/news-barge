@@ -12,6 +12,67 @@ image: https://i.guim.co.uk/img/media/ee0922895b037426cd29c0b1af464f3c8ee2fadb/1
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Asheville
+- Bishkek
+- Canada
+- Gaza City
+- Greece
+- Hormuz
+- Iran
+- Israel
+- Jordan
+- Kharg Island
+- Kyrgyzstan
+- Larak Island
+- Persian Gulf
+- Tehran
+- Tel Aviv
+- Vance US
+- Washington
+- al-Azraq
+people:
+- Amir Baram
+- Benjamin Netanyahu
+- Donald Trump
+- Golshan Fathi
+- Hussein
+- Ioannis Bouras
+- JD Vance
+- Maj Gen
+- Masoud Pezeshkian
+- Narendra Modi
+- Omar Ashtawy
+- Patrick Wintour
+- Scott Bessent
+- Trey Yingst
+organisations:
+- AP
+- Anadolu
+- Associated Press
+- CNBC
+- Centcom
+- Fars
+- Fox News
+- Getty
+- Group of 20
+- HL
+- Hamas
+- Hormuz Reuters
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Israel Defence Ministry
+- Isreal
+- Medics
+- Mehr
+- Nato
+- Press Information Bureau
+- Revolutionary Guards
+- Shanghai Cooperation Organisation
+- TV
+- Tasnim
+- US Central Command
 ---
 
 Trump vows the US will 'hit' Iran 'hard' after Tehran targeted US bases in Jordan

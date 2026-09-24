@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Florida
+- Miami
+- US
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Julio C Pineda
+- Pablo Rojas
+- Rolando Aleman Leon
+- Yoel Rodriguez Naranjo
+organisations:
+- Amazon Prime Air
+- BBC
+- CBS News
+- Ford
+- Miami International Airport
+- NTSB
+- Tesla
+- US National Transportation Safety Board
 ---
 
 ![Crews investigate the site of an Amazon cargo plane crash at Miami International Airport on 8 September](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg)

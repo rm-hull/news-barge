@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chad
+- Colombia
+- Ethiopia
+- Libya
+- Panama
+- Somalia
+- South Sudan
+- U.S.
+- UAE
+- United Arab Emirates
+- United States
+- Zamzam
+people:
+- Volker Türk
+organisations:
+- AP
+- El Fasher
+- RSF
+- Rapid Security Forces
+- Rapid Support Forces
+- Security Council
+- The Associated Press
+- U.N High Commissioner for Human Rights
+- U.N.
+- United Nations
+- el-Fasher
 ---
 
 The United Nations said in a report Thursday that foreign networks are helping fuel the brutal war in Sudan that has raged between the army and the paramilitary group Rapid Security Forces since 2023, killing at least 59,000 people, displacing some 13 million and pushing many parts of the African nation into famine.

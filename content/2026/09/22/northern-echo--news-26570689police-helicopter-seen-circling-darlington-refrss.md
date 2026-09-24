@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21481257.jpg?type=og-image&xType=0&yType=155
+locations:
+- A1
+- Darlington Car
+- Haughton
+- M
+- Neasham Road
+- THE NORTHERN ECHO
+people: []
+organisations:
+- Durham Constabulary
+- Durham Police
+- NPAS Newcastle
+- National Police Air Service
+- Northern Echo
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

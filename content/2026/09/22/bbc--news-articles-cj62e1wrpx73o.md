@@ -13,6 +13,36 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Brighton
+- Britain
+- Dover
+- Portsmouth
+- UK
+- US
+people:
+- AI
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Kemi Badenoch
+- Nigel Farage
+- Stuart Adam
+organisations:
+- BBC Verify
+- EU
+- Frontier Economics
+- Houses of Parliament.
+- Institute for Fiscal Studies
+- International AI Safety Agency
+- Labour
+- Lib Dem
+- Lib Dems
+- NI
+- National Insurance
+- Politics Essential
+- Reform UK
+- Tory
 ---
 
 ![Ed Davey delivers speech to Lib Dem conference in suit and tie](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg)

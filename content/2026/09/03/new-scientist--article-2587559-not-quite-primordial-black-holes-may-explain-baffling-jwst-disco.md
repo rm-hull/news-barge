@@ -12,6 +12,26 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Ireland
+- Massachusetts
+people:
+- Having
+- James Webb
+- John Regan
+- Neal Weiner
+- Priyamvada Natarajan
+- Soubhik Kumar
+- Wenzer Qin
+organisations:
+- CMB
+- JWST
+- James Webb Space Telescope
+- Maynooth University
+- New York University
+- PIXIE
+- Tufts University
+- Yale University
 ---
 
 ![little red dot galaxies recorded by JWST](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310514425.jpg?w=840)

@@ -11,6 +11,40 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/05/00/UN_Africa_Map_975_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Alaska
+- Canada
+- Charlotte
+- Denali
+- Earth
+- Europe
+- Greenland
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Mount McKinley
+- North America
+- North Carolina
+- U.S.
+- United States
+people:
+- Alex Moulton
+- Donald Trump
+- Nerve Macaspac
+- Obama
+- Tony Rodono
+organisations:
+- Apple
+- General Assembly
+- Google
+- Hunter College
+- MapQuest
+- Queens College
+- The Map Shop
+- U.N.
+- United Nations
 ---
 
 Maps. Where would we be without them?

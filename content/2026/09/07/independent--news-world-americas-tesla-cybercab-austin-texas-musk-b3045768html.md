@@ -14,6 +14,30 @@ categories:
 - UK
 - Technology & Software
 - Travel
+locations:
+- Austin
+- China
+- Florida
+- Texas
+- U.S.
+people:
+- Donald Trump
+- Elon Musk
+- Waymo
+organisations:
+- Amazon Prime Air
+- Amazon’s Zoox
+- Austin
+- BYD
+- DOGE
+- European Union
+- Miami International Airport
+- Musk
+- Pew Research Center
+- RobotaxiTracker
+- Tesla Cybercabs
+- Teslas
+- Waymo
 ---
 
 Dozens of autonomous Tesla Cybercabs built without steering wheels or brake pedals were dispatched onto the streets of Austin, Texas, on Thursday to test whether Americans are ready to overcome their reluctance to ride in vehicles without manual controls.

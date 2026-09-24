@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Nicky Baker
+organisations:
+- ASA
+- Advertising Standards Authority
+- Nexaipic
+- Rusto AI
 ---
 
 A series of social media ads for AI apps have been banned for promoting the creation of sexually explicit content and objectifying women.

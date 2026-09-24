@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Highett
+- Melbourne
+- Mentone
+people:
+- Ben Carroll
+- Greg Barns SC
+organisations:
+- Australian Lawyers Alliance
+- Barns
+- Corrections Victoria
+- Labor
 ---
 
 Victorian prisoners will be put to work on road maintenance as part of Labor’s plan to fix the state’s potholes if re-elected.

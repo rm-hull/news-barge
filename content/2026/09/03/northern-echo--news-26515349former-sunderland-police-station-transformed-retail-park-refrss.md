@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Develop North
+- Durham Road
+- Farringdon Police Station
+- Sunderland
+people:
+- Bal Singh
+- Brendan O’Grady
+organisations:
+- Almscliffe Dhesi Group
+- B&M
+- Costa Drive-Thru
+- Develop North
+- Dicksons Butchers
+- Fastned
+- Greggs
+- The Tanning Shop
+- Tier One Capital
+- Westway Vets
 ---
 
 *(Image: Supplied)*

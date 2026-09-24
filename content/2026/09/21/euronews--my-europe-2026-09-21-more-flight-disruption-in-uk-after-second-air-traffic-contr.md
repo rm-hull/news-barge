@@ -14,6 +14,29 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/16/04/1200x675_cmsv2_37437354-5a41-57ef-9e26-e4b84915a7b2-9921604.jpg
+locations:
+- Belfast
+- Birmingham
+- Dublin
+- Edinburgh
+- England
+- Gatwick
+- Glasgow
+- Ireland
+- London
+- Luton
+- Manchester
+- Newcastle
+- Prestwick
+- Scotland
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+organisations:
+- Flightradar24
+- NATS
+- Ryanair
 ---
 
 ## Irish budget carrier Ryanair has called on NATS CEO Martin Rolfe to resign following the latest issue, which has impacted flights across the UK and Ireland.

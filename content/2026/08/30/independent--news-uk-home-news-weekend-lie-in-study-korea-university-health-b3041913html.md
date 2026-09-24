@@ -11,6 +11,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Brazil
+- Munich
+people:
+- Nawton Lee
+organisations:
+- British Journal of Sports Medicine
+- European Society of Cardiology
+- Korea University
+- The Times
 ---
 
 Catching up on sleep on the weekend is linked to better heart health and a lower risk of hypertension, according to new research.

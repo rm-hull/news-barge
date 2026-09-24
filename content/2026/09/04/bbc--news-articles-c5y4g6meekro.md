@@ -12,6 +12,54 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bulgaria
+- Chatham House
+- Estonia
+- Europe
+- Germany
+- Italy
+- Kremlin
+- Leipzig
+- Lithuania
+- Lublin
+- Moscow
+- Munich
+- Poland
+- Rome
+- Russia
+- Skarzysko-Kamienna
+- Slovakia
+- Tallinn
+- UK
+- Ukraine
+- White House
+people:
+- Daniela Richterova
+- Donald Tusk
+- Keir Giles
+- Kristen Michal
+- Marcin Kierwiński
+- Vladimir Putin
+organisations:
+- BBC
+- CCTV
+- DHL
+- Department of War Studies
+- EMCO
+- IISS
+- Ikea
+- International Institute for Strategic Studies
+- KNDS Ammo Italy
+- King's College
+- Kyiv Post
+- La Repubblica
+- Milrem Robotics
+- Nato
+- Rhode & Schwartz
+- Skarżysko-Kamienna
+- Slovakia:** Police
+- WB Group
 ---
 
 ![A blurred image of a man defusing a bomb on an airport runway](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg)

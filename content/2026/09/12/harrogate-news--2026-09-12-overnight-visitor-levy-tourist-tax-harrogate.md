@@ -12,6 +12,30 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- England
+- Harrogate
+- Metro
+- North Yorkshire
+- UK
+- York
+people:
+- ABID
+- Dan Siddle
+- David Skaith
+- Levy
+- Simon Cotton
+organisations:
+- ABID
+- Accommodation Business Improvement District
+- Combined Authority
+- English Devolution and Community Empowerment Bill
+- HRH Group
+- Harrogate Hoteliers Express
+- Harrogate Informer
+- Harrogate:** Having
+- The Crown Hotel
+- The Yorkshire Hotel
 ---
 
 **HARROGATE**— Plans to introduce a regional “Tourist Tax” on overnight accommodation across North Yorkshire have advanced this week, sparking intense debate between local government leaders and the district’s hospitality operators.A new economic impact report has recommended the implementation of a flat**£1-per-night Overnight Visitor Levy.**

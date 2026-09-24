@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Pets & Animals
+locations:
+- Blackpool
+- Bradford
+- Goosnargh
+- Lancashire
+- Oakhill Vets
+- Penny Farm
+- Rehoming Centre
+people:
+- Adam Cummins
+- Guy Hinnigan
+- King
+- Sarah Tucker
+- Vet Kai Cahun
+organisations:
+- Penny Farm Rescue
+- World Horse Welfare
 ---
 
 *(Image: World Horse Welfare)*

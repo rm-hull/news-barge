@@ -17,6 +17,45 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- Abilene
+- Hyperion
+- Louisiana
+- Meta
+- NavigateAI
+- Richland Parish
+- Silicon Valley
+- Texas
+- U.S.
+- United States
+people:
+- AI
+- Brian Armstrong
+- Eric Wu
+- Gil
+- Keith Rabois
+- Kelly
+- Tony Xu
+- Vinod Khosla
+organisations:
+- AI
+- Apoorva Mehta of Instacart
+- Associated Builders and Contractors
+- Coinbase
+- DoorDash
+- Elad Gil
+- Fifth Wall
+- Helix Electric
+- Khosla Ventures
+- LLM
+- Lennar
+- Meta
+- Navigate
+- NavigateAI
+- OpenAI
+- Opendoor
+- Stargate
+- Tishman Speyer
 ---
 
 Eric Wu built and ran Opendoor, one of the more ambitious real estate startups of the last decade, before stepping away in 2022 after fast-rising interest rates abruptly slowed down home sales. He spent a year resetting — he’d been running the company for eight years at that point — and could have easily jumped into investing when he felt done with his hiatus. But like a lot of founders, he’s so convinced that AI will be the defining tech platform of his lifetime that he more recently decided instead to dive back into company building. As he told me during a call earlier this summer, “I knew if I looked back in 10 years and didn’t do something related to it, I’d probably regret that.”

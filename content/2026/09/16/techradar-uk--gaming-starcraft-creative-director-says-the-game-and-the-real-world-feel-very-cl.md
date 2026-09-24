@@ -15,6 +15,18 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Film & TV
+locations: []
+people:
+- Dan Hay
+organisations:
+- BlizzCon
+- CGI
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/HyUa5PHbduF6N68wGQufKK.jpg) 

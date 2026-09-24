@@ -12,6 +12,54 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Aberdeen
+- Alnmouth
+- Alnwick
+- Avanti West Coast
+- Berwick-upon-Tweed
+- Birmingham New Street
+- Carlisle
+- Chathill
+- Doncaster
+- East Midlands Railway
+- Edinburgh
+- Euston
+- Glasgow Central
+- Great Northern and Thameslink
+- Leeds
+- Leicester
+- London Kings Cross
+- 'Manchester Piccadilly ####'
+- Manchester Rail
+- Morpeth
+- National Rail
+- Newcastle
+- Penzance
+- Peterborough
+- Plymouth
+- Preston
+- Queen Street
+- Sheffield
+- Stevenage
+- York
+people: []
+organisations:
+- Aberdeen
+- Carlisle National Rail
+- CrossCountry
+- East Midlands Railway
+- Glasgow Central
+- Kings Cross
+- Kings Cross Disruption
+- LNER
+- London St Pancras International
+- National Rail
+- National Rail Enquiries
+- Newsquest
+- Northstar
+- ScotRail
+- TransPennine Express
 ---
 
 *(Image: Newsquest)*

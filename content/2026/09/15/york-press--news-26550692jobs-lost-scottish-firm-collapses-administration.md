@@ -13,6 +13,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Edinburgh
+people:
+- Callum Carmichael
+- Michelle Elliot
+organisations:
+- FRP Advisory
+- Smart Data Foundry
+- Smart Data Foundry Limited
 ---
 
 *(Image: Getty Images)*

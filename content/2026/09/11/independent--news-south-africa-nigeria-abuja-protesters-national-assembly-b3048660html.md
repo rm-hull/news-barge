@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Nigeria
+- South Africa
+people:
+- Kamoru Ogunlana
+organisations:
+- National Assembly
 ---
 
 Nigeria's parliament said Friday that it's suspending official visits to South Africa indefinitely over anti-immigrant protests targeting other Africans.

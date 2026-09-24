@@ -12,6 +12,28 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/20/09/01M2YZ61WQBSTR6REGZ7Y1DES8.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Britain
+- Greece
+- Monaco
+- North Sea
+- UK
+people:
+- Bridget Phillipson
+- Chris Rokos
+- Jim Ratcliffe
+- John Healey
+- Laura Kuenssberg
+- Torsten Bell
+organisations:
+- BBC
+- Brexit
+- European Union
+- Government
+- Man United
+- Manchester United
+- Treasury
 ---
 
 A government minister has hit back at “tax exile” Sir Jim Ratcliffe after the billionaire Manchester United owner said he can see why rich people are leaving the UK and described the country as “on the slide”.

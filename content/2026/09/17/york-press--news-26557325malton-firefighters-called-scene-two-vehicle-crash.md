@@ -13,6 +13,12 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Malton
+- North Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

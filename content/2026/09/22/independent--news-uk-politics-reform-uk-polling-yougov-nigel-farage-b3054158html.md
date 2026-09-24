@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/11/01M31V9KWHMXYBNBA36J4PBQSE.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Birmingham
+- Britain
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Dan Jukes
+- James Orr
+- Keir Starmer
+- Nigel Farage
+- Rupert Lowe
+organisations:
+- Channel 4and
+- Green Party
+- Labour
+- Lib Dems
+- Liberal Democrats
+- Metropolitan Police
+- Reform UK
+- Spotlight on Corruption
+- Tories
+- Verbatim
+- YouGov
 ---
 
 Reform UK has recorded its worst result in YouGov polling for two years, following months of turbulence for the party.

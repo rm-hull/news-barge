@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Derby
+- England
+- Ireland
+- Leicester
+- New Road
+- Sri Lanka
+- West Indies
+people:
+- '## Dunkley'
+- ):** Dunkley
+- ):** Hunter
+- '** Dunkley'
+- Alice Capsey
+- Alice Tector
+- Amy Hunter
+- Amy Jones
+- Cara Murray
+- Charlie Dean
+- Charlotte Edwards'
+- Dani Gibson
+- Edwards
+- Freya Kemp
+- Gaby Lewis
+- Issy Wong
+- Jodi Grewcock
+- Lauren Bell
+- Lauren Filer
+- Mady Villiers
+- Maia Bouchier
+- Nat Sciver-Brunt
+- Orla Prendergast
+- Ryana Macdonald-Gay
+- Sophia Dunkley
+- Sophie Ecclestone
+- Superb Dunkley
+- Tammy Beaumont
+- Tilly Corteen-Coleman
+- WorcesterEngland
+organisations:
+- England
 ---
 
 Dunkley century helps England sweep Ireland

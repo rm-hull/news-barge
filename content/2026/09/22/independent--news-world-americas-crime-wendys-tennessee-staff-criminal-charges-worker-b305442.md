@@ -11,6 +11,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.the-independent.com/2026/09/22/15/41/Michiko-Burton.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Murfeesboro
+- Murfreesboro
+- Rutherford County Adult Detention Center
+- Tennessee
+people:
+- Dave Thomas
+- Isaac Kimes
+- Michiko Burton
+- Nicholus Murphy
+- Wendy
+organisations:
+- Adult Protective Services
+- Bowling Green
+- Special Victims Unit
+- WSMV4
+- Wendy’s
 ---
 
 A former Wendy’s manager is facing criminal charges after allegedly tying a neurodivergent employee to the fast-food restaurant’s grill with garbage bags in a cruel, caught-on-camera assault.

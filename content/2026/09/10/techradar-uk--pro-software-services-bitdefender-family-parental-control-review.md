@@ -10,6 +10,25 @@ description: A comprehensive security bundle that combines powerful parental con
 image: https://cdn.mos.cms.futurecdn.net/KheyfvHiLszLvMHdwy3tY-1612-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Krishi
+organisations:
+- '### Bitdefender'
+- '### TechRadar Verdict Bitdefender'
+- Apple ID
+- Aura
+- Bitdefender Central
+- Google Family Link
+- Google Play Store
+- Krishi
+- Parentaler
+- TechRadar Pro
+- Techopedia
+- Telegram
+- The Tech Report
+- Tom's Guide
+- Total Security Family
 ---
 
 ### TechRadar Verdict

@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Grade II
+- Patrick Pool
+- St Sampson’s Centre
+- Valhalla
+- York
+people:
+- Pivni
+organisations:
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Police
+- St Sampson’s Centre
+- Valhalla
 ---
 
 ## Beer garden plan spat between neighbouring York bars

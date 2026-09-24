@@ -12,6 +12,13 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/18497173.jpg?type=og-image
+locations:
+- Beverley
+- East Yorkshire
+- Watton
+people: []
+organisations:
+- Humberside Fire and Rescue Service
 ---
 
 *(Image: Contributed)*

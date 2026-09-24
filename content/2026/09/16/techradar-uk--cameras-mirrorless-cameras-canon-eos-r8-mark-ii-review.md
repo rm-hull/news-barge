@@ -12,6 +12,22 @@ description: Canon's EOS R8 Mark II upgrades the entry-level full-frame EOS R8 m
 image: https://cdn.mos.cms.futurecdn.net/dRdDNrMKSjQnW7yzbDbuNc-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kenya
+- London
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- '## Canon EOS'
+- '### Early Verdict Canon'
+- Amateur Photographer
+- Canon EOS
+- Canon Europe
+- Nikon
+- Sony
+- 'TechRadar ## Canon EOS'
 ---
 
 ### Early Verdict

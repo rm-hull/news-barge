@@ -12,6 +12,46 @@ image: https://static.independent.co.uk/2026/09/01/15/2026-09-01T100036Z_2014661
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Georgia
+- Michigan
+- Middle East
+- New York City
+- Sen
+- Texas
+- Wayne County
+- White House
+people:
+- Abdul El-Sayed
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Emily Suttle-Braun
+- Francis’
+- Gary Peters
+- James Talarico
+- Jesse Watters
+- Jocelyn Benson
+- Joe Rogan
+- Jon Ossoff
+- Kamala Harris
+- Kamala Harris’
+- Kathy Hochul
+- Natalie Harp
+- Trevor Francis
+- Zohran Mamdani
+organisations:
+- DSA
+- Doodle Moms
+- Fox News
+- GOP
+- House
+- Michigan Democrat
+- Republican National Committee
+- Senate
+- The Independent
+- Watters Fox
 ---
 
 Conservatives keep falling for the far-left’s charm offensive. First it was Donald Trump, beaming up at a stoic-looking Zohran Mamdani, then the newly elected mayor of New York City, at a White House visit that confounded Fox News and Mamdani’s opponents alike — even contributing to a Republican dropping out of the gubernatorial race against Gov. Kathy Hochul.

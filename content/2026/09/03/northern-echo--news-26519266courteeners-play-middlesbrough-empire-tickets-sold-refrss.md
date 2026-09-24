@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Empire
+- Manchester
+- Newcastle
+- Teesside
+people:
+- Liam Fray
+- MICHAEL ROBINSON
+organisations:
+- Jacaranda Records
+- Leeds Fontaines D.C.
+- Middlesbrough Empire
+- Overpass
+- The Courteeners
 ---
 
 A major indie rock band is heading to Teesside next month, selling out both shows in a matter of hours.

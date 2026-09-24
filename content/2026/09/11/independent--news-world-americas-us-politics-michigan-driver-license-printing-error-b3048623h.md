@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Michigan
+people:
+- Idemia
+organisations:
+- Idemia
+- The Independent
 ---
 
 Thousands of Michigan residents received driver’s licenses and state IDs bearing the photo of a random man, a mistake officials attributed to a printing error.

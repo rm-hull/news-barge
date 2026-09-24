@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Canada
+- Countess of Chester Hospital
+- Germany
+- Japan
+- London
+- Sweden
+- UK
+- US
+people:
+- David Davis
+- Dewi Evans
+- Dr Shoo Lee
+- Lucy Letby
+- Mark McDonald
+- Ms Letby
+- Neena Modi
+- Shoo Lee
+organisations:
+- CCRC
+- Canadian Neonatal Foundation
+- Court of Appeal
+- Criminal Cases Review Commission
+- The Times
+- Thirwall Inquiry
 ---
 
 A panel of experts claimed that Lucy Letby did not commit murder after its chairman presented “significant new medical evidence” on her court case.

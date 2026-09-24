@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Great North Run
+- Newcastle
+- South Shields
+- Tynemouth
+people:
+- Helen Cowan
+- James Waters
+- Katie Hill
+organisations:
+- RNLI Community Manager for the North and East
 ---
 
 *(Image: RNLI/Helen Cowan)*

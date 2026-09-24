@@ -13,6 +13,63 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21469461.jpg?type=og-image
+locations:
+- Cambridge
+- Durham
+- London
+- Newcastle
+- North East
+- North East England
+- Northumbria
+- Oxford
+- Plymouth
+- South
+- Sunderland
+- Teesside
+- UK
+people:
+- Andy Long
+- Arnab Basu
+- John McCabe
+- Kim McGuinness
+- Nigel Wilson
+- Paul Croney OBE
+- Stuart Boulton
+- Tony Hickson
+- Tony Roskilly
+organisations:
+- Cancer Research UK
+- Chamber of Commerce
+- Durham University
+- Gnosis Health
+- H2CHP
+- Imperial College
+- Inspire Fund
+- Kromek Group plc
+- Legal
+- NETPark
+- Newcastle HQ
+- Newcastle University
+- North East Accelerate
+- North East Chamber of Commerce
+- North East Elevate
+- North East England
+- North East Fund
+- North East MSA
+- North East Mayoral Strategic Authority
+- North East Spinout Inspire Fund
+- Northern Accelerator
+- Northstar Ventures
+- Northumbria University
+- NunaBio
+- Sarah Caldecott
+- Sedgefield Picture
+- Teesside University
+- The North East Fund
+- The North East Fund Limited
+- UK Research and Innovation
+- UKRI
+- Universities for North East England
 ---
 
 *(Image: North East Spinout Inspire Fund)*

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72df/live/7803b480-b600-11f1-a9e9-23cf66fffff0.jpg
+locations:
+- Bab al-Mandab Strait
+- Britain
+- Cyprus
+- Dijbouti
+- Djibouti
+- Iran
+- Mokha
+- New York
+- Obock
+- Perim Island
+- RAF Akrotiri
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- UK
+- US
+- Yemen
+people:
+- Andy Burnham
+- Ed Miliband
+- Mark Rutte
+- Martin McCluskey
+- Rishi Sunak
+- Wes Streeting
+organisations:
+- BBC
+- Houses of Parliament.
+- Nato
+- RAF
+- Royal Air Force
+- Royal Navy
+- United Nations General Assembly
+- Voyager
 ---
 
 ![A grey RAF Voyager seen flying through cloudy skies](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/72df/live/7803b480-b600-11f1-a9e9-23cf66fffff0.jpg)

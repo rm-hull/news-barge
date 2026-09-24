@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Great Horton
+- Hollingwood Lane
+people: []
+organisations:
+- '## Cause'
+- '## FULL'
+- WYFRS
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Fire and Rescue Service A
 ---
 
 *(Image: Pixabay)*

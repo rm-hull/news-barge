@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Iran
+- Rome
+people:
+- Charles
+- Francis
+- Maryam Moshiri
+- Ms Moshiri
+- Ms Mosihri
+organisations:
+- BBC News
+- Blood Cancer UK
+- The Times
 ---
 
 BBC News presenter Maryam Moshiri has revealed that she has been undergoing treatment for an incurable blood cancer for the past two years.

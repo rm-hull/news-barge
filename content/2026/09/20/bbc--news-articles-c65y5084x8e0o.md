@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7555/live/8a3a89d0-b4f7-11f1-a430-4d16ee157c41.jpg
+locations:
+- Clarkson
+- Elvington
+- Switzerland
+- York
+- Yorkshire
+people:
+- '![Hammond'
+- '** Hammond'
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+organisations:
+- BBC
+- Hammond
+- Instagram
+- Top Gear
+- Yorkshire Air Ambulance
 ---
 
 ![Richard Hammond, a middle-aged man with brown hair blowing in the wind and a brown beard stares into the middle distance off camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7555/live/8a3a89d0-b4f7-11f1-a430-4d16ee157c41.jpg)

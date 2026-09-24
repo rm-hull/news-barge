@@ -14,6 +14,34 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- North Yorkshire.
+- Ouse
+- Owen Humphreys
+- PA
+- RAF Linton-on-Ouse
+people:
+- Alec Shelbrooke
+- Alec Shelbrooke.
+- Andy Burnham
+- David Skaith
+- Wendy Hood
+- Wetherby
+organisations:
+- Easingwold MP
+- Government
+- Home Office
+- Labour
+- Lib Dem
+- Linton Lock Inn
+- Ministry of Defence
+- RAF Linton-On-Ouse
+- The Yorkshire Post
+- Tory
+- Wetherby
+- York
+- Yorkshire Water
 ---
 
 # Linton-on-Ouse: asylum camp could make North Yorkshire villagers 'prisoners in their own homes'

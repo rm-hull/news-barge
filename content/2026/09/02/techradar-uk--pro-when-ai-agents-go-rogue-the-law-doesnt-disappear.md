@@ -10,6 +10,20 @@ image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Hugging Face
+- South Africa
+- UK
+people: []
+organisations:
+- '## AI'
+- Anthropic
+- Future plc
+- KnowBe4 Africa
+- OpenAI
+- SVP Content Strategy
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

@@ -16,6 +16,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- U.S.
+people: []
+organisations:
+- Amazon
+- Amazon.com
+- First Tech Federal Credit Union
+- Walmart
+- Whole Foods
+- Whole Foods Market
 ---
 
 Online behemoth Amazon said it's increasing the minimum starting hourly wage for its U.S. full-time core operations employees to $20 ahead of the crucial holiday shopping season.

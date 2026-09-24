@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Carthouse Café
+- County Durham
+- DURHAM
+- Darlington
+- North East
+- Sherburn Hill
+- UK
+people:
+- Andrew Noble Gregory
+- David Harper
+- Durham Shabby
+- Ian Denning
+- Natasha Raskin Sharp
+- Nikki
+- Stuart Robinson
+organisations:
+- Antiques Road Trip
+- BBC One
+- Durham Antiques Cooperative
+- Durham Mustard
+- H & K Vintage
+- Old Curio
+- RAF Leeming
+- Retro
+- The Carthouse Café
+- The Old Curio
+- The Vintage Sofa Warehouse
 ---
 
 A County Durham antiques centre will appear on BBC One this week after being chosen as a filming location for Antiques Road Trip.

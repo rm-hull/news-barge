@@ -11,6 +11,13 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/08/ambulance-parliament-street-york-crop.webp
+locations:
+- Northallerton
+- Thirsk
+- Thornton-le-Street
+people: []
+organisations:
+- '#### Thornton-le-Street A North Yorkshire Fire & Rescue Service'
 ---
 
 One vehicle ended up on its roof after a crash this afternoon (Friday).

@@ -11,6 +11,56 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/UPSMFh7Dt2fPb5xfLgYo66-1920-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Craven Park
+- Down Under
+- Earth
+- England
+- Halliwell Jones Stadium
+- Old Trafford
+- UK
+- US
+- USA
+- canada
+- uk
+people:
+- Adam Marshall
+- George Williams
+- Willie Peters
+organisations:
+- AU
+- BBC Two
+- BBC iPlayer
+- Blue
+- Facebook
+- Fox One
+- Foxtel**
+- Future Publishing
+- Hull KR
+- Hull KR Super League
+- Instagram
+- Kayo Sports
+- Kayo Sports**
+- Kingston Rovers
+- Leeds Rhinos
+- NRL
+- NordVPN
+- NordVPN**
+- RLSuperLeague
+- Robins
+- SLhighlights
+- Sling TV
+- Super League
+- SuperLeague
+- TechRadar
+- Tom's Guide
+- UK TV
+- Warrington Wolves
+- Wigan Warriors
+- YouTube
 ---
 
 ![George Williams of Warrington Wolves passing the ball during a 2026 Super League match.](https://cdn.mos.cms.futurecdn.net/UPSMFh7Dt2fPb5xfLgYo66.jpg)

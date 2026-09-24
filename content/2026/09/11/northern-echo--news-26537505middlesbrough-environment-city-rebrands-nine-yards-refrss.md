@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Tees Valley
+- Teesside
+people:
+- Mr Haughton
+- Ms Putson
+- Vicki Putson
+organisations:
+- Eco Shops
+- Middlesbrough Environment City
+- Nine Yards
 ---
 
 A Teesside charity has rebranded to reflect its expanding work across the region.

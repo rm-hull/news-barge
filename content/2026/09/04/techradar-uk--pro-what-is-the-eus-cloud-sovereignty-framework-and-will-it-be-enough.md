@@ -10,6 +10,32 @@ image: https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- China
+- Europe
+- France
+- Germany
+- Persian Gulf
+- Taiwan
+- US
+people: []
+organisations:
+- CSF
+- CTO
+- Cloud Sovereignty Framework
+- DE-CIX
+- Dropbox
+- EU
+- Epoch AI
+- Future plc
+- Gaia-X
+- IXs
+- Internet Exchanges
+- Microsoft Teams
+- NIS2
+- TechRadar Pro
+- TechRadarPro
+- Zoom
 ---
 
 ![A digital cloud on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL.jpg) 

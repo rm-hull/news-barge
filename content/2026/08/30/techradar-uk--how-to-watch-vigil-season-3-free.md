@@ -10,6 +10,114 @@ image: https://cdn.mos.cms.futurecdn.net/ioPXjEEyohRGtxNyxucQs5-1595-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- Europe
+- Middle East
+- U.K.
+- UK
+- US
+people:
+- Adam Fidusiewicz
+- Alma Prelec
+- Amy Manson
+- Amy Silva
+- Artur Zai Barrera
+- Benjamin Wainwright
+- Chloe Ackroyd
+- Colin Robertson
+- Conor Berry
+- DCI Amy Silva
+- Daniel Hodge
+- Danusia Samal
+- Dawn Sievewright
+- Derek Riddell
+- Dominic Mafham
+- Eric Godon
+- Evgeni
+- Fyodor
+- Garcia
+- Gary Lewis
+- Gordon Laity
+- Henrick Becken
+- 'Holly Mitchell ## You'
+- Huang Chen
+- Ian Downing
+- Jasmine Kelly
+- Jason Collyer
+- Jason Tobin
+- Jeppe Beck Larsen
+- Jeppe Beck Laursen
+- Jordan Duvigneau
+- Kaisa Hammarlund
+- Killian Coyle
+- Kirsten Longacre
+- Korotayev
+- Krishi
+- Lorna McCallister
+- Ludwig
+- Mark Cunningham
+- Naomi Yang
+- Oli Pickford
+- Orla Russell
+- Polina
+- Poppy Silva
+- Rose Leslie
+- Shen Jia
+- Shereen Cutkelvin
+- Simon Anderson
+- Stephen Cree
+- Stephen Miller
+- Steven Cree
+- Steven Miller
+- Suranne Jones
+- Tom Edge
+- Tornike Gogrichiani
+- Vincent Mair
+organisations:
+- '### Vigil'
+- All of You*)
+- Amazon Fire
+- Android TV
+- Apple TV
+- BBC One
+- BBC iPlayer
+- BBC iPlayeriOSAndroid
+- BT
+- British Special Forces
+- Chromecast
+- Crave
+- Cube
+- Freesat
+- Future Publishing
+- Google TV
+- Humax
+- Krishi
+- LG Smart TVs
+- NVIDIA Shield
+- NordVPN
+- Olsdatter
+- PS4
+- PS5
+- Peacock TV
+- Rebus*,* Bodies
+- Roku
+- SBS On Demand
+- Sky Glass
+- Sky Q
+- Sky Stream
+- Sony
+- Tablets
+- TalkTalk
+- TechRadar
+- Techopedia
+- The Tech Report
+- TiVo
+- Tom's Guide
+- UK TV
+- Virgin Media
+- YouView
 ---
 
 ![Vigil season 3](https://cdn.mos.cms.futurecdn.net/ioPXjEEyohRGtxNyxucQs5.jpg) 

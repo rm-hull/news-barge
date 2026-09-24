@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Budapest
+- Hungary
+- Paris
+- Tokyo
+people:
+- Tara Davis-Woodhall
+organisations:
+- Tara Davis-Woodhall
 ---
 
 ![Tara Davis-Woodhall](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/701b/live/4c3fb1b0-a6ff-11f1-9deb-1f1584451e2c.jpg)

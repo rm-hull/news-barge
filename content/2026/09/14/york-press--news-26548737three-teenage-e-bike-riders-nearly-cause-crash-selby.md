@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Hemlock Drive
+- Hornbeam Close
+- North Yorkshire
+- Selby
+people:
+- Matt Alexander
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- PA Media Assignments
 ---
 
 *(Image: Matt Alexander/PA Media Assignments)*

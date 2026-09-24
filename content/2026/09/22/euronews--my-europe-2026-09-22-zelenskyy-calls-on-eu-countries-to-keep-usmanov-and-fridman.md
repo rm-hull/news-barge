@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/33/18/1200x675_cmsv2_0e94a06a-0d53-5d24-8d13-1d025e5b7d23-9923318.jpg
+locations:
+- Azerbaijan
+- Brussels
+- France
+- Kremlin
+- Latvia
+- Luxembourg
+- Moscow
+- New York City
+- Russia
+- Slovakia
+- Ukraine
+people:
+- Alisher Usmanov
+- Andris Kulbergs
+- Dmitry Peskov
+- Emmanuel Macron
+- Mikhail Fridman
+- Putin
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- European Union
+- United Nations General Assembly
+- Usmanov
 ---
 
 ## The EU must not remove Alisher Usmanov and Mikhail Fridman from the sanctions list, Volodymyr Zelenskyy said amid fraught negotiations in Brussels. "Pressure on Moscow must be strengthened," he said.

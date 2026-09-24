@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Dallas
+- Texas
+people:
+- Donald Trump
+- Fox
+- Keith Edwards
+- Natalie Baldassarre
+organisations:
+- ABC
+- C-SPAN
+- CBS
+- CNN
+- Fox News
+- Fox News’ Hannity
+- GOP
+- Gutfeld!
+- Los Angeles Rams
+- MSNOW
+- NBC
+- NFL
+- New England Patriots
+- NewsMax
+- Puck News
+- RNC
+- Republican National Committee
+- San Francisco 49ers
+- Seattle Seahawks
+- The New York Times
+- Truth Social
 ---
 
 President Donald Trump’s 105-minute speech on the opening night of his Republican midterm convention in Dallas was seen by fewer people than a typical audience for Fox News shows *Hannity* and*Gutfeld!*, according to preliminary viewing figures.

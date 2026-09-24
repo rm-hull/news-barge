@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Leeds Magistrates’ Court
+- Shepherd’s Lane
+people: []
+organisations: []
 ---
 
 # Teenager charged after boy, 13, stabbed in Leeds during Bank Holiday weekend

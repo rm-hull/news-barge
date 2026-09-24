@@ -12,6 +12,17 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Birmingham Town Hall
+- Bradford
+- UK
+people:
+- Lisa Werthmann
+- Markel
+- Simon Johnston
+organisations:
+- CMM
+- Care Management Matters
 ---
 
 *(Image: Supplied)*

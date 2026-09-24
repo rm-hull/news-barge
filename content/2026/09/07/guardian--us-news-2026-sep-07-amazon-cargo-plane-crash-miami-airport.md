@@ -12,6 +12,33 @@ image: https://i.guim.co.uk/img/media/13d51d4aa2d01dec344ac34b138fc3d73f48c8e7/2
 categories:
 - UK
 - News & Politics
+locations:
+- Amazon
+- Florida
+- Miami
+- Miami-Dade
+- North Carolina
+- Orlando
+- Puerto Rico
+- San Juan
+- US
+people:
+- Jennifer Homendy
+- Kelly Nantel
+- Mary Schiavo
+- Ray Jadallah
+- Sean Duffy
+- Steve Arroyo
+organisations:
+- 21 Air
+- Amazon Air
+- FAA
+- FlightAware
+- Flightradar24
+- Miami International Airport
+- NTSB
+- National Transportation Safety Board
+- The Associated Press
 ---
 
 Federal investigators got plans under way on Monday for determining what caused an Amazon cargo jet to barrel off a runway at Miami international airport on Sunday afternoon and crash, killing five people and injuring five others.

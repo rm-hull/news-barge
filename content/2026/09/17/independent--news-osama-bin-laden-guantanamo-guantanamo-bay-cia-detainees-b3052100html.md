@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Cuba
+- Fort Meade
+- Guantanamo Bay
+- Lithuania
+- Maryland
+- Pakistan
+- Poland
+- Saudi Arabia
+- U.K.
+- U.S.
+- US
+- United States
+people:
+- Abu Zubaydah
+- Ahmed Almudallal
+- Annika Conrad
+- Helen Duffy
+- Obama
+- Osama bin Laden
+- bin Laden
+organisations:
+- Army
+- CIA
+- European Court of Human Rights
+- Office of Military Commissions
+- Periodic Review Board
+- Senate
+- Supreme Court
+- U.S. Military Commissions
+- al-Qaida
 ---
 
 A man initially accused of being a high-profile al-Qaida figure and who was tortured in CIA custody appeared Thursday at a hearing to review his detention at the U.S. military prison at Guantanamo Bay, Cuba, where he has been held for 20 years without charges.

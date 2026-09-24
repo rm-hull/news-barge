@@ -12,6 +12,13 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21250177.jpg?type=og-image
+locations:
+- Haxby
+- York
+people: []
+organisations:
+- Google Street View
+- York Ryedale Court
 ---
 
 ## 'Public nuisance' fears over new café and restaurant planned for York

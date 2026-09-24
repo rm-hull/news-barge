@@ -14,6 +14,64 @@ categories:
 - News & Politics
 - Video Gaming
 - Sports
+locations:
+- Headingley
+- Wembley
+people:
+- '**Catalans'
+- :** Aispuro-Bichet
+- :** Keighran
+- :** Smith
+- :** Tison
+- Adam Keighran
+- Alexis Lis
+- Allen
+- Austin Daniel
+- Ben Garcia
+- Betfred Super LeagueWigan
+- Bousquet
+- Brad O'Neill
+- Catalans:** Marc
+- Cotric
+- Darrelatour
+- Descalzi
+- Dodd
+- Ellis
+- French
+- Harry Smith
+- Havard
+- Jai Field
+- Kerr
+- Laguerre
+- Les Dracs
+- Liam Farrell
+- Liam Marshall
+- Lis'
+- Mago
+- Makinson
+- Marcus Griffiths
+- Maria
+- Martin
+- Matt Peet
+- Navarrete
+- Nsemba
+- Partington
+- Thompson
+- Ugo Tison
+- Walters
+- Wigan:** Field
+- Wilson
+- Zach Eckersley
+organisations:
+- BBC Radio Manchester
+- Catalans Dragons
+- Hull FC
+- Hull KR
+- Leeds Rhinos
+- Les Dracs
+- Robins
+- Shield
+- Wigan Warriors
 ---
 
 ![Wigan Warriors celebrate Harry Smith's try against Catalans Dragons](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6056/live/bb19f3b0-ae21-11f1-ac3c-d9de82cf7bb1.jpg)

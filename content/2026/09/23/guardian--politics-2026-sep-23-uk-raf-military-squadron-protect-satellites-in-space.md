@@ -13,6 +13,31 @@ categories:
 - Sports
 - Technology & Software
 image: https://i.guim.co.uk/img/media/4cc8b1b94262a1149261a28684b773cac7485f5d/128_0_1297_1038/master/1297.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26900d9b90c5f01e71b94d6a081d786d
+locations:
+- Britain
+- China
+- Earth
+- London
+- Russia
+- UK
+- US
+- Washington
+people:
+- Harv Smyth
+- Wes Streeting
+organisations:
+- Ministry of Defence
+- MoD
+- No I Space Operations Squadron
+- No II Space Warning Squadron
+- No III Space Effects Squadron
+- RAF
+- Royal Air Force
+- Space Command
+- Streeting
+- UK Space Command
+- UN
+- United States Space Force
 ---
 
 A new military unit dedicated to defending satellites, protecting services people need on Earth and potentially supporting offensive operations is being launched by the UK.

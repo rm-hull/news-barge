@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chicago
+- D.C.
+- District of Columbia
+- ICE
+- LA
+- Los Angeles
+- Oregon
+- Portland
+- Southern California
+- Spokane
+- Texas
+- U.S.
+- Washington
+people:
+- Alanna Durkin Richer
+- Donald Trump
+- Eric Tucker
+- Jonathan Caravello
+- Juries
+- Laurie Levenson
+- Mary Fan
+- Michael Rabbitt
+- Oriana Korol
+- Pam Bondi
+- __ Rush
+organisations:
+- AP
+- Administrative Office
+- Associated Press
+- California Highway Patrol
+- California State University Channel Islands
+- DOJ
+- ICE
+- Justice Department
+- Loyola Law School
+- National Guard
+- Northern District of Illinois
+- The Associated Press'
+- U.S. Attorney
+- U.S. Courts
+- U.S. Justice Department
+- University of Washington
 ---
 
 The U.S. Justice Department failed to secure felony convictions against most of the 102 protesters arrested in four major cities last year on charges of assaulting federal authorities — a record far below the norm in federal assault prosecutions.

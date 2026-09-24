@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Yorkshire
+- Victoria Avenue
+people:
+- Jemma Louise Wilcock
+- Robert James Wilcock
+organisations:
+- '**__Rafi'
+- Clough Corporate Solutions
+- Clydesdale Bank
+- FK Building Ltd of Harrogate
+- HMRC
+- House
+- IMS Energy of York
+- Spicebox of York
+- Virgin Money
+- Yorkshire Exhibition Solutions
 ---
 
 *(Image: NQ)*

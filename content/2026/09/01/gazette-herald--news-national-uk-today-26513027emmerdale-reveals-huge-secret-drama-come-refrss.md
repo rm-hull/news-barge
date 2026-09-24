@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Dales
+people:
+- Anthea
+- Baby Tate
+- Chelsea Edge
+- Claire King
+- DS Ramsden
+- Emmerdale
+- Joe Tate
+- Kim Tate
+- Laura Shaw
+- Thea Ramsden
+organisations:
+- 7AM
+- Emmerdale
+- ITV
+- ITVX
+- STV Player
 ---
 
 *(Image: YouTube/ITV)*

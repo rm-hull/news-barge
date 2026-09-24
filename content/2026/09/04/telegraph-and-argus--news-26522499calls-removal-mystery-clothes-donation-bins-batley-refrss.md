@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Batley
+- Henry Street
+- Victoria Avenue
+people:
+- Akhtar Kasia
+- Cllr Akhtar
+- Cllr Kasia
+organisations:
+- Facebook
+- Independent
+- Kirklees Council
+- Local Democracy Service
 ---
 
 RESIDENTS have called for the removal of a pair of unmarked clothing bins, over fears they will become a “dumping site”.

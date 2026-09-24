@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- England
+- Eorsa
+- Loch na Keal
+- Mull
+- Scotland
+- UK
+people:
+- Dave Sexton
+- Iolo Williams
+- Kinky
+organisations:
+- Kinky
+- RSPB
+- Scottish Natural Heritage
 ---
 
 A “death-defying” sea eagle that wildfire experts feared wouldn’t survive to adulthood has been spotted in the skies above Scotland’s west coast.

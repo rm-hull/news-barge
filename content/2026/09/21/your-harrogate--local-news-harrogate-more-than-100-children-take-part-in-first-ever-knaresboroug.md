@@ -12,6 +12,24 @@ categories:
 - Harrogate
 - Family & Parenting
 image: https://mmo.aiircdn.com/409/6ab16666799d7bc0cc3.jpg
+locations:
+- Knaresborough
+people:
+- Hannah
+- Henshaws
+- Louise Lodh
+organisations:
+- Conyngham Hall Junior Parkrun
+- Harrogate
+- Kingfisher Kiosk
+- Knaresborough Round Table
+- Knaresborough Striders
+- Knaresborough Town Council
+- NYC Locality Fund
+- Nidd Valley Roadrunners
+- Pavers Foundation
+- Run Directors
+- Vistry Homes
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab16666799d7bc0cc3.jpg)

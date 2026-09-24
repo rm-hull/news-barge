@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Harrogate
+- Leeds
+- Spring Mount
+- York
+people: []
+organisations:
+- Myrings Estate Agents
 ---
 
 ## Take a look inside refurbished six-bedroom Harrogate home for £875,000

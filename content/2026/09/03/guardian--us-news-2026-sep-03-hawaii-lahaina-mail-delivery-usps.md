@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Colorado
+- Hawaii
+- Hawaiian Kingdom
+- Kafkaesque
+- Lahaina
+- Maui
+people:
+- Calvin Cox
+- Donald Trump
+- Ferguson
+- Gerald
+- Jill Tokuda
+- Lahaina
+- Louis DeJoy
+- Pam Reader
+- Richard Bissen
+- Sara Clark
+organisations:
+- Amazon
+- Congress
+- DMV
+- Doge
+- Elon Musk’s
+- FedEx
+- Guardian
+- Kesa Ferguson
+- National Park Service
+- Trump
+- UPS
+- USPS
+- United States Postal Service
 ---
 
 Two months after a devastating wildfire whipped through Lahaina in August 2023, Pam Reader was allowed back to see what was left of her home. With a heavy heart, she returned to the Hawaiian oceanside town now filled with endless blocks of burned houses. As she rounded her corner, she saw the only thing remaining was her bright turquoise mailbox.

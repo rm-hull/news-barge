@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Europe
+- Finland
+- Germany
+- Italy
+- New York
+- Saudi Arabia
+- United States
+- Washington
+people:
+- Bartjan Wegter
+- Bradley Cadenhead
+- Snapchat
+organisations:
+- AI
+- AP
+- EU
+- European Union Counter-Terrorism
+- Europol
+- The Associated Press
+- The COM
 ---
 
 A quarter of a century after the Al-Qaeda attacks on the United States, jihadist groups still pose a major threat to security in Europe, but a new menace has surfaced that is driven mostly by young people online and the authorities are worried.

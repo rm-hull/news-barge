@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- AI
+- Cambridge
+- France
+- London
+- New York
+- OpenAI
+- UK
+- US
+people:
+- Chris Bakal
+- Rene Haas
+organisations:
+- Arm AGI
+- Arm Holdings
+- AstraZeneca **
+- BBC AI
+- Institute of Cancer Research
+- Meta
+- Sentinal4D
+- Softbank
+- TSMC
 ---
 
 ![Rene Haas sitting being interviewed. He has short brown hair and a short beard, and is wearing a dark blue blazer over a black T-shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg)

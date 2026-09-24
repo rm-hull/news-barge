@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Muhammad Yahya Patel
+- Sead
+organisations:
+- 2FA
+- Al Jazeera Balkans
+- Dropbox
+- EMEA
+- Google News
+- Huntress
+- Lenovo IDs
+- MFA
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Dropbox logo is seen on a smartphone.](https://cdn.mos.cms.futurecdn.net/HXBM93dGYwGkVGnjAoWzpE.jpg) 

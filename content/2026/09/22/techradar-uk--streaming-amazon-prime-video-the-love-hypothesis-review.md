@@ -13,6 +13,29 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/hJEdTYhsEQHgRxXaNsktLo-1920-80.jpg
+locations:
+- Anh
+- Virgin River
+people:
+- Ali Hazelwood
+- Anh
+- Doctor Adam
+- George Cooper Sr.
+- Lili Reinhart
+- Olive
+- Olive&#
+- Rachel Marsh
+- Tom Bateman
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stanford
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

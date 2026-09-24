@@ -14,6 +14,36 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe Road
+- East Parade
+- Goodramgate
+- Heworth
+- Micklegate
+- Rowntree Park
+- The Groves
+- UK
+- York
+people:
+- Andrew Lowson
+- Cleggs
+- Cllr Nigel Ayre
+- Cllr Ravilious
+- Johnny Hayes
+- Kate Ravilious
+- Mark Jones
+- Phil Pinder
+- Ruth Phillips
+organisations:
+- Arup
+- Bishopthorpe Road Traders' Association
+- Good Food Shop
+- Indie York
+- Labour Transport
+- Liberal Democrat
+- Minster Badge
+- York Council
+- York High Street Forum
 ---
 
 # Cutting some York parking charges 'strikes right balance' as businesses slam 'over-zealous' hikes

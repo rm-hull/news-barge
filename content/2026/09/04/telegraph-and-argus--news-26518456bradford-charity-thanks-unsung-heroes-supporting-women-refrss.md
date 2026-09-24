@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Society & Culture
 - Arts & Culture
+locations:
+- Millan Centre
+people:
+- Manningham
+- Saliha Sadiq
+organisations:
+- Aziz Catering
+- Café Regal
+- Freshco
+- Kesar Jewellers
+- Millan Centre
+- My Lahore
 ---
 
 *(Image: Millan Centre)*

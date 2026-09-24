@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Germany
+- India
+- Iran
+- Ketevan Asatiani-Hermann
+- Magdeburg
+- Russia
+- Saxony-Anhalt
+people:
+- '![Hamid'
+- Fatemeh
+- Hamid
+- Hitler
+- Igor Mendel Itkin
+- Jens Schluter
+- Ketevan Asatiani-Hermann
+- Kirti
+- Mahsa Amini
+- Maria Schubert
+- Niclas Boenki
+- Otto von Bismarck
+- Rabbi Igor Mendel Itkin
+- Ulrich Siegmund
+- Undra Dreßler
+organisations:
+- AFP
+- Advisory Council for Integration and Migration
+- AfD
+- Alternative für Deutschland
+- Christian Jungeblodt
+- Fatemeh
+- Generation Germany
+- Getty Tensions
+- LGBTQ
+- Lamsa
+- Synagogue Community of Magdeburg
+- The Guardian
+- The Guardian A
 ---
 
 As the Bible study session wrapped up, leaving worshippers to mingle over cake and coffee, Fatemeh, 44, fought back tears as the conversation turned to Sunday’s state election in Saxony-Anhalt.

@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Education & Learning
+locations:
+- England
+- North and North East
+- UK
+- Wales
+- YORK
+people:
+- Helen Davies
+organisations:
+- Durham University
+- Imperial College London
+- London University of the Year 2027
+- Russell Group University of the Year 2027
+- Scottish University of the Year 2027
+- The Sunday Times Good University Guide
+- The Sunday Times University of the Year 2027
+- The Times
+- University of Cambridge
+- University of Oxford
+- University of Sheffield
+- University of St Andrews
+- University of York
+- University of the Year for Graduate Employment 2027
+- York St John University
 ---
 
 YORK's two major higher education institutions have been ranked in both regional and national tables of a university guide now in its 33rd year.

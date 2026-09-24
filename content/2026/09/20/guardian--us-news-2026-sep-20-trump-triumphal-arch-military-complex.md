@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/master/2575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=291d2589f1650cd1d0ab5c789585a630
+locations:
+- Arlington National Cemetery
+- Kennedy Center
+- Lincoln Memorial
+- Memorial Bridge
+- Ronald Reagan Washington
+- US
+- Washington DC
+- White House
+people:
+- Donald Trump
+organisations:
+- Congress
+- John F Kennedy Center for the Performing Arts
+- National Park Service
+- Truth Social
 ---
 
 Donald Trump is proffering a new argument for building his triumphal arch in Washington DC: it will be converted into a “top grade military complex” replete with drone and ammunition storage space and customised sniper facilities on the roof and plaza.

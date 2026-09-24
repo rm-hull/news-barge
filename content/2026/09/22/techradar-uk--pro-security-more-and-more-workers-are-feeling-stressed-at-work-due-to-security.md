@@ -10,6 +10,15 @@ categories:
 - Technology & Software
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/BV5jpKqSzFZAvPiNQWeHEi-970-80.jpg
+locations:
+- AI
+people:
+- Craig Hale
+- David Bennett
+organisations:
+- Craig’s
+- Google News
+- TechRadar Pro
 ---
 
 ![Stress](https://cdn.mos.cms.futurecdn.net/BV5jpKqSzFZAvPiNQWeHEi.jpg)

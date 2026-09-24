@@ -13,6 +13,28 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/18/23/01M2TQV0J49SK2MWDCYMMJT1B8.jpg?trim=196,0,196,0&width=1200&height=800&crop=1200:800
+locations:
+- Althorp
+- Buckingham Palace
+- Frogmore
+- Windsor Castle
+people:
+- Charles’
+- Diana Truth’
+- Earl Spencer
+- Elton John
+- Harry
+- Jennie Bond
+- King
+- Prince Charles
+- Queen
+- Spare
+- William
+organisations:
+- BBC
+- Duke of Sussex
+- Frogmore
+- Sky News
 ---
 
 The late Queen reacted “tetchily” to the news that Princess Diana had been in a car crash before she knew of its severity, Earl Spencer has claimed.

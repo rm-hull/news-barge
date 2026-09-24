@@ -12,6 +12,18 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- B1264 Green Lane
+- YOUR
+- Yarm
+people: []
+organisations:
+- B1264 Green Lane
+- High Court
+- Prohibition of Waiting Order
+- Public Notice Portal
+- Stockton Council
+- The Northern Echo
 ---
 
 *(Image: Web)*

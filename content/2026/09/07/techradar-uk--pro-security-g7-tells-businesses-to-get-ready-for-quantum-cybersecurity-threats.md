@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- AES
+- Al Jazeera Balkans
+- G7
+- Google News
+- PQC
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Quantum computing concept. Digital communication network. Technological abstract.](https://cdn.mos.cms.futurecdn.net/UVm4pWzxzFfM3waNQDdPrD.jpg) 

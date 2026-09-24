@@ -12,6 +12,15 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/police-facial-recognition-cameras-pa-1.webp
+locations:
+- York
+people:
+- Liberty
+- Melissa Dring
+organisations:
+- LFR
+- Live Facial Recognition
+- North Yorkshire Police
 ---
 
 Facial recognition cameras will be deployed by North Yorkshire Police for the first time today (Wednesday).

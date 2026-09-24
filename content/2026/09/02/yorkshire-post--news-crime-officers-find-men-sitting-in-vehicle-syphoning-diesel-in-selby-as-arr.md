@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Selby
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # Officers find men sitting in vehicle syphoning diesel in Selby as arrests made

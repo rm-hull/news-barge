@@ -14,6 +14,31 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Hungary
+- Indonesia
+- Japan
+- Java
+- Moldova
+- Pati
+- Russia
+- Russian Federation
+- Texas
+- US
+- White House
+people:
+- Donald Trump
+- Dorin Recean
+- Elizabeth David-Barrett
+- Ryan Nobles
+- Viktor Orban
+- Vladimir Putin
+organisations:
+- Centre for the Study of Corruption
+- Los Angeles Times
+- The Guardian
+- University of Cambridge
+- University of Sussex
 ---
 
 Donald Trump has been accused of attempting electoral bribery after promising every American voter $5,000 if the Republicans triumph in the 2026 midterms.

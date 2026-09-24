@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- China
+- Flushing Meadows
+- Kazakhstan
+- New York
+- Wimbledon
+people:
+- '## Rybakina'
+- Aryna Sabalenka
+- Chris Evert
+- Coco Gauff
+- Elena Rybakina
+- Serena Williams
+- Zheng Qinwen
+organisations:
+- Sabalenka
+- Sky Sports
 ---
 
 ![Elena Rybakina lifts the US Open trophy with Aryna Sabalenka looking on](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1640/live/9be39be0-aefd-11f1-812c-df2830a6d395.jpg)

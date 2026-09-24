@@ -14,6 +14,18 @@ categories:
 - Society & Culture
 - News & Politics
 - True Crime
+locations:
+- Harrogate
+- Knaresborough Road
+- Sarah.Moore
+- The Stray
+- Wetherby Road
+- northyorkshire.police.uk
+people:
+- Sarah Moore
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6a26f21465c70.jpg) 

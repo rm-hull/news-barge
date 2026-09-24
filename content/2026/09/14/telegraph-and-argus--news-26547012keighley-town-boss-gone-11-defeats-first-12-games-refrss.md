@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Horbury Town
+people:
+- Charlie Wysocki
+- Des Hazel
+organisations:
+- FA Vase
+- Frickley Athletic
+- Keighley Town
+- Northern Counties East League Premier Division
 ---
 
 *(Image: Keighley Town)*

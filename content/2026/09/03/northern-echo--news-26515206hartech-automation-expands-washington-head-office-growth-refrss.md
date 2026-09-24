@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+people:
+- James Jackson
+- Mark Hardy
+organisations:
+- Hartech Automation
+- North East BIC
+- Sunderland City Council
+- Washington Business Centre
 ---
 
 *(Image: Supplied)*

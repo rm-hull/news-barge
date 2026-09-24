@@ -11,6 +11,30 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cec4/live/fdcbba
 categories:
 - UK
 - News & Politics
+locations:
+- Ganim
+- Gaza
+- Hebron
+- Israel
+- Jalud
+- Qusra
+- Ramallah
+- Tel Aviv
+- UK
+- US
+- Umm Al-Kheir
+- West Bank
+- al-Mughayyir
+people:
+- Benjamin Netanyahu
+- Finn Joughin
+- Isaac Herzog
+- Lucy Williamson
+- Matthew
+- Mike Huckabee
+organisations:
+- BBC
+- Foreign Office
 ---
 
 ![Finn Joughin, a 22-year-old student activist, was arrested in Umm Al-Kheir on Saturday. He is smiling and looking directly at the camera. He is wearing a soft canvas hat and wearing a blue shirt with cream-coloured floral motifs.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cec4/live/fdcbbaf0-a4b1-11f1-b109-879e35c24276.jpg)

@@ -13,6 +13,18 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/21/01/APTOPIX_Steelers_Patriots_Football__49.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations:
+- AP
+- Chiefs
+- Colts
+- Cowboys
+- Giants
+- Jets
+- NFL
+- Packers
+- Rams
 ---
 
 Sunday’s NFL slate includes the Packers facing the Jets, the Commanders taking on the Cowboys and the Colts playing the Chiefs at night. The Giants visit the Rams on Monday. This is a photo gallery curated by AP photo editors.

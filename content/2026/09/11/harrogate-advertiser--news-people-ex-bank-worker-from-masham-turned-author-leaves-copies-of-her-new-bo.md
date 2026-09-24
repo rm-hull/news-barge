@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - Arts & Culture
 - Books & Literature
+locations:
+- Masham
+- North Yorkshire
+- Wakefield
+people:
+- Becky Farnell
+- Grantley
+- Harry Potter
+- JK Rowling
+- Masham
+organisations:
+- Instagram
+- Persephone
 ---
 
 # Ex-bank worker from Masham turned author leaves copies of her new book in unusual places to be discovered

@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab121289c2cddc08714b5cd/191:100/w_1280,c_limit/092126-Laptop%20Paper.jpg
+locations: []
+people:
+- Paperman
+- Zoé Kilperti
+organisations:
+- DoublOne
+- Paperman’s
+- Setapp
 ---
 
 Tech is so sterile now—everything lives on the same shiny screens. It's nice, then, when you find an application that exists mostly just to add a little grit to these devices.

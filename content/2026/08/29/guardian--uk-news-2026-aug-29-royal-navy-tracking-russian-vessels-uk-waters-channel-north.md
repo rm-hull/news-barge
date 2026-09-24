@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- Dover
+- Kremlin
+- Kyiv
+- Moscow
+- North Sea
+- Russia
+- Sparta
+- UK
+- Ukraine
+people:
+- Andrei Fedorov
+- Andy Burnham
+- Gwyn Jenkins
+- Levchenko
+- Skobelev
+organisations:
+- First Sea Lord
+- HMS Duncan
+- HMS Severn
+- HMS St Albans
+- Merlin
+- Nato
+- Royal Marines
+- Royal Navy
+- Smyrtos
 ---
 
 The Royal Navy spent three days tracking Russian vessels as they passed through UK waters, it has emerged.

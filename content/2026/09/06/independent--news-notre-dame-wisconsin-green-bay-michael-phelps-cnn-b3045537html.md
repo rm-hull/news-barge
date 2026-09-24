@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Green Bay
+- Lambeau Field
+people:
+- Bob Trumpy
+- Boy
+- Cris Collinsworth
+- Dan Hicks
+- Hicks'
+- Jim Kelly
+- Joe Gibbs
+- Joe Namath
+- Katie Ledecky
+- Michael Phelps
+- Michael Phelps'
+- Rowdy Gaines
+- Tiger Woods
+organisations:
+- AFC
+- CNN
+- NBC Sports
+- NFL
+- Notre Dame
+- Shamrock Series
+- Wisconsin
 ---
 
 Dan Hicks thought it was incredible when he reached 30 years at NBC Sports. As he reaches another milestone, he considers it pretty remarkable.

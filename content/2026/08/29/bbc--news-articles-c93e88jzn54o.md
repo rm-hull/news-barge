@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Travel
 - Science
+locations:
+- English Channel
+- France
+- Iran
+- Merlin
+- Moscow
+- North Sea
+- Russia
+- Skobelev
+- Sparta
+- UK
+people:
+- Admiral Levchenko
+- Gwyn Jenkins
+organisations:
+- English Channel.
+- First Sea Lord
+- HMS Duncan
+- HMS Severn
+- HMS St Albans
+- Marines
+- MoD
+- NCA
+- National Crime Agency
+- Nato
+- Naval Staff
+- Oxford Institute for Energy Studies
+- RAF
+- Royal Marine Commandos
+- Royal Navy
+- Russia Regulations
+- Russian Navy
 ---
 
 ![A grey Royal Navy warship is in the foreground with a grey Russian vessel in water in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a833/live/9b14df80-a39f-11f1-bb7c-3b1918839019.jpg)

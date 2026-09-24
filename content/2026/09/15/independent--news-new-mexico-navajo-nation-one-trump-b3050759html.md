@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Acoma Pueblo
+- Diné
+- Laguna Pueblo
+- Mount Taylor
+- Navajo Nation
+- New Mexico
+- Paguate
+- U.S.
+- Zuni
+people:
+- Angel Charley
+- Charley —
+- D-Las Cruces
+- David “D.J
+- Depth
+- Ennis
+- Jeff Steinborn
+- June Lorenzo
+- Misael Cabrera
+- Mount Taylor
+- Nick Martin
+- Trump
+organisations:
+- Energy Fuels
+- Energy, Minerals and Natural Resources Department
+- Havasupai Tribe
+- Hopi Tribe
+- La Jara Mesa
+- Laguna/Zuni/Diné
+- Mining Act Reclamation Program
+- Navajo Nation
+- New Mexico
+- New Mexico In Depth
+- Radioactive and Hazardous Materials Committee
+- Roca Honda
+- The Associated Press
+- U.S. Forest Service
 ---
 
 For Native communities in northwest New Mexico’s Grants mineral belt, one of the central concerns with the idea of resumed uranium mining is the potential harm to Mount Taylor. That concern led the state to designate Mount Taylor as a traditional cultural property nearly two decades ago. But as uranium mining companies hoping to operate within the area move through the state permitting process, state regulators still can’t say what role the designation will play in their decisions.

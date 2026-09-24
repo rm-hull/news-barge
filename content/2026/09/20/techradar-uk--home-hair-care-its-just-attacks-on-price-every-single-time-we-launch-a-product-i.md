@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/FzRjnq4vwzH5gjXRFsB3UY-1920-80.jpg
+locations:
+- Amazon
+- America
+- France
+- PencilWash
+people:
+- Dyson Pencilvac
+- Jake Dyson
+- James
+- Ruth Hamilton
+- Yves Klein
+organisations:
+- Dyson
+- Google News
+- PencilVac
+- Ruth
+- TechRadar
 ---
 
 ![Dyson vacuum, hair dryer and fans](https://cdn.mos.cms.futurecdn.net/FzRjnq4vwzH5gjXRFsB3UY.jpg)

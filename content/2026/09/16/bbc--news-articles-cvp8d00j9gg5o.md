@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Al-Shifa Hospital
+- Gaza City
+- Gaza Strip
+- Israel
+- Jabalia
+- Palestine
+- Rimal
+- Tal al-Hawa
+people:
+- Alessandro Mrakic
+- Mansour Abu Mohammed
+- Raed al-Dahshan
+- Ramiz Alakbarov
+- Umm Mohammed Bakrun
+organisations:
+- BBC
+- Civil Defence
+- Gaza Civil Defence
+- Hamas
+- UN
+- UNDP
+- United Nations Development Programme
 ---
 
 Rescuers search for survivors with their bare hands

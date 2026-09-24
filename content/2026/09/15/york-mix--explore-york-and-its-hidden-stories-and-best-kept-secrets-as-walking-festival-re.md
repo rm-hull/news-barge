@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- Kate Ravilious
+- Richard Taylor
+organisations:
+- City of York Council
+- The History Man
 ---
 
 The York Walking Festival is back next week – with a over two weeks of ideas on how to explore the city on foot.

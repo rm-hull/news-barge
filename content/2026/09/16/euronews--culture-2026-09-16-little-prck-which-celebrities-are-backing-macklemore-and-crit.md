@@ -14,6 +14,57 @@ categories:
 - Europe
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Free Palestine
+- Gaza Strip
+- Gillette Stadium
+- Israel
+- London
+- MetLife Stadium
+- New York
+- Sheeran
+- South America
+- US
+- Ukraine
+- Waters
+- West Bank
+people:
+- Aaron Rowe
+- Alexandria Ocasio-Cortez
+- Benjamin Netanyahu
+- Beoga
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Francesca Albanese
+- Hannah Einbinder
+- Kneecap
+- Lisa Nandy
+- Lukas Graham
+- Macklemore
+- Paloma Faith
+- Rachel Accurso
+- Robert Kraft
+- Roger Waters
+- Sheeran],” Waters
+- Zara Larsson
+organisations:
+- Amnesty International
+- Beoga
+- CMAT
+- Free Palestine
+- Garbage
+- Hamas
+- Human Rights Watch
+- Instagram
+- Israeli American Council
+- LBC
+- NAZA
+- New England Patriots
+- Pink Floyd
+- TMZ
+- UN
+- United Nations
 ---
 
 ## Former Pink Floyd member Roger Waters has sent a message to “little prick” Ed Sheeran amid the Macklemore-Palestine row and Sheeran refusing to "take sides". Waters is not the only one speaking out...

@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Bronte Country
+- Ingrow
+- Keighley Railway
+- Oxenhope
+- Worth Valley
+- Worth Valley Railway
+- Yorkshire
+people:
+- Noel Hartley
+organisations:
+- Keighley and Worth Valley Railway
+- Keighley and Worth Valley Railway Beer
+- Yorkshire
 ---
 
 # Keighley Railway: Yorkshire heritage station to host a beer and music festival transforming rail line into a steam-powered pub crawl

@@ -14,6 +14,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Brighton
+- Britain
+- UK
+people:
+- Andy Burnham
+- Paul Nowak
+- Peter Byrne
+organisations:
+- Hold Sway
+- Labour
+- Lib Dem
+- Reform
+- TUC Congress
 ---
 
 The UK’s most powerful union leader has called on Andy Burnham to “go further and faster” in solving the cost of living crisis by slapping a tax on banks.

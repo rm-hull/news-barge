@@ -12,6 +12,13 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Alexa
+people: []
+organisations:
+- AI
+- Alexa for Shopping
+- Amazon
 ---
 
 Amazon is turning to AI to help fight scammers, the company announced on Wednesday. The retailer said some 360,000 customers every year reach out to its customer service department wondering whether a message they received from Amazon is real or a scam. Now, customers will be able to ask Amazon’s consumer AI service, Alexa for Shopping, to help answer that question instead.

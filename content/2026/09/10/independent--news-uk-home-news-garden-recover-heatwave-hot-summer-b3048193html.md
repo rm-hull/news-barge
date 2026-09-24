@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Home, Garden & DIY
+locations:
+- Britain
+- Europe
+- UK
+people:
+- Ross Cameron
+- Salvia
+organisations:
+- Hydrangea
+- University of Sheffield
 ---
 
 UK gardens took a battering this summer as a heat dome settled over western Europe, and much of the green and pleasant land turned a dusty beige.

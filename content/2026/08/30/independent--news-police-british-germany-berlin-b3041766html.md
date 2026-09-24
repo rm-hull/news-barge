@@ -14,6 +14,11 @@ categories:
 - UK
 - True Crime
 - History
+locations:
+- Fürstenfeldbruck
+- Rosenheim
+people: []
+organisations: []
 ---
 
 A man suspected of fatally stabbing a 31-year-old British woman with a knife early Sunday morning in the southern German town of Rosenheim was detained, authorities said.

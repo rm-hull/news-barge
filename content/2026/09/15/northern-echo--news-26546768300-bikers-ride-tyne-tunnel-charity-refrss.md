@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- A19
+- Cramlington
+- Durham
+- Great North Run
+- North East
+- Northumbria
+- St John Ambulance
+- Thornaby
+- Tyne Tunnel
+people:
+- Bertie Badger
+- Lynn Horrocks CStJ
+organisations:
+- A1 Washington North Bound Service Station
+- Last Post Memorial Bar
+- Marnie
+- Northumbria & Durham
+- SJA
+- TT2
 ---
 
 *(Image: Supplied)*

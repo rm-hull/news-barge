@@ -12,6 +12,65 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Antofagasta
+- Frankfurt
+- Fresnillo
+- Japan
+- London
+- Middle East
+- New York
+- Paris
+- UK
+- US
+- Wall Street
+people:
+- Alan Taylor
+- Allan Monks
+- Andrew Bailey
+- Berenberg
+- Catherine Mann
+- Clare Lombardelli
+- Dave Ramsden
+- Huw Pill
+- Kallum Pickering
+- Kevin Warsh
+- May Rostom
+- Megan Greene
+- Russ Mould
+- Sarah Breeden
+organisations:
+- AJ Bell
+- Alliance News
+- Anglo American
+- Antofagasta
+- Bank of England
+- Bank of Japan
+- Berenberg
+- Bytes Technology
+- Citigroup
+- Coca-Cola Europacific Partners
+- DXS International
+- Deutsche Bank Research
+- Endeavour Mining
+- Fed
+- Galliford Try
+- Intertek
+- JPMorgan
+- Kingfisher
+- MPC
+- Man Group
+- Marks & Spencer
+- Monetary Policy Committee
+- Morgan Stanley
+- Next
+- Peel Hunt
+- Pershing Square Holdings
+- Reckitt Benckiser
+- SSE
+- Treasury
+- UBS
+- US Federal Reserve
 ---
 
 Stocks in London rose sharply on Thursday, boosted by falling bond yields and a lower oil price, as investors weighed a “hawkish” hold by the Bank of England.

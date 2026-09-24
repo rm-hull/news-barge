@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cameron County
+- Minneapolis
+- Minnesota
+- St. Paul
+- Texas
+- Twin Cities
+- U.S.
+people:
+- Christian Castro
+- Daniel Gerdts
+- Donald Trump
+- Greg Abbott
+- Julio Cesar Sosa-Celis
+organisations:
+- Department of Homeland Security
+- Immigration and Customs Enforcement
+- Justice Department
+- Minnesota’s Bureau of Criminal Apprehension
+- U.S. District Court
 ---
 
 An immigration officer who is accused of shooting a Venezuelan man during the immigration crackdown in Minneapolis early this year, and then lying to investigators about what happened, is scheduled to appear in U.S. District Court on Friday.

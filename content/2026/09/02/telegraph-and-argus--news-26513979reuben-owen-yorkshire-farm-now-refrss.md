@@ -12,6 +12,29 @@ categories:
 - Bradford
 - News & Politics
 - Careers & Productivity
+locations:
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Farm
+people:
+- )* Reuben
+- Amanda Owen
+- CHANNEL4
+- Clive and Sid
+- Miles Owen
+- Owens
+- Reuben Owen
+- Sidney
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- Our Yorkshire Farm
+- Our Yorkshire Farm TV
+- Reuben and Clive
+- Yorkshire Dales
 ---
 
 *(Image: CHANNEL4)*

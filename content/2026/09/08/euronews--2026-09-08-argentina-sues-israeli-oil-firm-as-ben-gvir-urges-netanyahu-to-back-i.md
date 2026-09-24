@@ -15,6 +15,40 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- '## Sea Lion'
+- Argentina
+- Buenos Aires
+- Falkland Islands
+- Falklands
+- Israel
+- London
+- North Malvinas Basin
+- Palestine
+- Sea Lion
+- Tel Aviv
+- United Kingdom
+- Ushuaia
+people:
+- '## Ben Gvir'
+- '## Milei'
+- Ben Gvir
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Itamar Ben Gvir
+- Javier Milei
+- Luis Caputo
+organisations:
+- Congress
+- Eco Atlantic Oil & Gas Ltd
+- JHI Associates Inc
+- London Stock Exchange
+- National Security
+- Navitas Petroleum Atlantic United
+- Navitas Petroleum Development & Production Ltd
+- Navitas Petroleum LP
+- Rockhopper
+- Sea Lion
 ---
 
 ## Argentina is to file criminal charges against several companies linked to Israeli oil firm Navitas for operating without authorisation in the Falklands, as Milei steps up his offensive against the Sea Lion project with new sanctions and measures to bolster territorial defence.

@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berryfields
+- Britain
+- Herefordshire
+- Longmeadow
+- Stratford-upon-Avon
+people:
+- Alan Titchmarsh
+- George Montague Don
+- Kate Phillips
+- Monty Don
+organisations:
+- Around the World
+- BBC team
+- Channel 4
+- Gardeners' World
+- ITV
+- Monty Don's Rhineland Gardens
+- My Dream Farm
 ---
 
 ![Monty Don pictured on Gardeners' World in 2024](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/36c9/live/5d567720-ab7f-11f1-a291-b542ee92de7c.jpg)

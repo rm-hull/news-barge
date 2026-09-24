@@ -15,6 +15,30 @@ categories:
 - History
 - True Crime
 image: https://images.euronews.com/articles/stories/09/91/99/08/1200x675_cmsv2_f6b12f00-3670-5178-9efa-600d76804edf-9919908.jpg
+locations:
+- Haiti
+- Kherson
+- Kremlin
+- Kyiv
+- Russia
+- Russian Federation
+- Somalia
+- Sudan
+- Ukraine
+- Yugoslavia
+- Zaporizhzhia
+people:
+- Volker Türk
+organisations:
+- Council of Europe
+- European Convention for the Prevention of Torture
+- Independent International Commission of Inquiry on Ukraine
+- International Criminal Court
+- International Criminal Tribunal
+- Rome Statute
+- UN Convention Against Torture
+- UN Human Rights Council
+- UN Office of the High Commissioner for Human Rights
 ---
 
 ## Russia was added in May to the UN Secretary-General's list of countries credibly suspected of committing sexual violence in conflict — codified into international law decades ago as war crimes and crimes against humanity.

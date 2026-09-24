@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Gatwick
+- Manchester
+- UK
+people:
+- Gareth Fuller
+- Heidi Alexander
+- Martin Rolfe
+organisations:
+- BBC Radio 4’s Today Programme
+- Commons
+- Heathrow Airport
+- LNER
+- Leeds Bradford
+- London North Eastern Railway
+- NATIONAL Rail
+- NATS
+- National Air Traffic Service
+- National Rail
+- PA Wire
+- The Press
 ---
 
 *(Image: Gareth Fuller / PA Wire)*

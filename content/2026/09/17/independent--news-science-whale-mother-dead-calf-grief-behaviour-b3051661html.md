@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Gold Coast
+- Queensland
+people:
+- Andrew Mulville
+- Olaf Meynecke
+organisations:
+- GoPro
+- Griffith University
+- Sea World Foundation
 ---
 
 Scientists have spotted for the first time a female humpback whale seemingly mourning after giving birth to a dead calf.

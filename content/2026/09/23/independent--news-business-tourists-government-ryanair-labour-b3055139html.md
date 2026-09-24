@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/15/21a56e58b7c3d23d4aa99d26ada51223Y29udGVudHNlYXJjaGFwaSwxNzkwMjU5ODU2-2.85947606.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Europe
+- London
+- Ryanair
+- UK
+- Westminster
+people:
+- Burnham
+- James Manning
+- Michael O’Leary
+organisations:
+- APD
+- G7
+- Government
+- Labour
+- Ryanair
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

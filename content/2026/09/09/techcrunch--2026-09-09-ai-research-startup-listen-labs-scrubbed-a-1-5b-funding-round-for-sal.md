@@ -12,6 +12,34 @@ image: https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Harvard
+- Outset
+people:
+- Alfred Wahlforss
+- Florian Jüngermann
+organisations:
+- Anthropic
+- Bemlo
+- Business Insider
+- CRM
+- Canva
+- Conviction
+- Fortune
+- Greenoaks
+- Listen Labs
+- Listen Labs’ AI
+- Menlo Ventures
+- Microsoft
+- Pear VC
+- Ribbit Capital
+- Salesforce
+- Salesforce’s AI
+- Sequoia
+- Simile
+- Sweetgreen
+- TechCrunch
+- VCs
 ---
 
 Listen Labs, a market research startup that uses voice AI to conduct customer interviews, recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation, with Menlo Ventures set to lead the round, according to several people with knowledge of the matter.

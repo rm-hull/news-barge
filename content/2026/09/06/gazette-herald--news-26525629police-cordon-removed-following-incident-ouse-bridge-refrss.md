@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bridge Street
+- North Street
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The York BID Street Rangers
+- York Rescue Boat
+- Yorkshire Ambulance Service NHS Trust
+- Yorkshire Ambulance Service and York Rescue Boat
 ---
 
 A police cordon placed along a section of a main York city centre road has been removed - with the road now reopen to vehicles.

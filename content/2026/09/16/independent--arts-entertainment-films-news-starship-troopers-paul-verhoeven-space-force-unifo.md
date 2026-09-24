@@ -13,6 +13,36 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations:
+- America
+- Nuremberg
+- US
+people:
+- Adolf Hitler
+- Carl Jenkins
+- Carmen Ibanez
+- Casper Van Dien
+- Denise Richards
+- Derek Guy
+- Dina Meyer
+- Dizzy Flores
+- Donald Trump
+- Jean Rasczak
+- Johnny Rico
+- Leni Riefenstahl
+- Melanie D'Arrigo
+- Michael Ironside
+- Neil Patrick Harris
+- Patrick Muldoon
+- Paul Verhoeven
+organisations:
+- Mobile Infantry
+- National Socialist movement
+- Space Force
+- Starship Troopers
+- The Hollywood Reporter
+- United Citizen Federation
+- Verhoeven
 ---
 
 *Starship Troopers* director Paul Verhoeven has said Donald Trump’s administration should be aware that the film’s heroes are all “fascists without knowing that they’re fascists”, after the US president shared a proposed Space Force uniform based on the 1997 film.

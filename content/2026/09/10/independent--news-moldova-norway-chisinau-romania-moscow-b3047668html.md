@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Moldova
+- Moscow
+- Norway
+- Riscani
+- Romania
+- Russia
+- Ukraine
+people:
+- Dumitru Ciorici
+- Volodymyr Zelenskyy
+organisations:
+- Chișinău International Airport
+- NATO
+- Spanish Air and Space Forces
 ---
 
 A flight scheduled to carry Ukrainian President Volodymyr Zelenskyy from Moldova to Norway was delayed when authorities closed Moldova’s airspace because of a drone incursion, a government spokesperson said Wednesday.

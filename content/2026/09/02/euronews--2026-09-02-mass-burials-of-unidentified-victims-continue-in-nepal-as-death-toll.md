@@ -14,6 +14,20 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- China
+- China-Nepal
+- Himalayas
+- Hindu Kush
+- Kathmandu
+- Nepal
+- South
+people:
+- Balendra Shah
+- Dolma Newar Tamang
+- Shisir Khanal
+organisations:
+- Facebook
 ---
 
 ## Many were outraged and expressed their disapproval after the government revealed it intended to carry out mass “temporary” burials of the deceased. Nepal’s largely Hindu community objected to the measure which they say goes against religious traditions.

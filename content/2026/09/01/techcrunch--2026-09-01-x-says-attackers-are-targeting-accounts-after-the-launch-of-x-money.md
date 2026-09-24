@@ -13,6 +13,13 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- James Burnham
+- Mridul Singhai
+organisations:
+- AI
+- Grok
 ---
 
 Attackers are attempting to target X users following the launch of X Money. After numerous X users reported receiving unsolicited password reset emails, a representative said the social media company was actively investigating the issue but had not yet found evidence that the hacks were successful.

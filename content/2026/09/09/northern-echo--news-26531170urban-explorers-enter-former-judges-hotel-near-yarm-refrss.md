@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- A67
+- Darlington
+- Hartlepool
+- Kirklevington Hall
+- North East
+- Rockliffe Hall
+- Tomahawk
+- UK
+- Yarm
+- Yorkshire Dales
+people:
+- Chris Musgrave
+- Richardson
+organisations:
+- Judges County House Hotel
+- Kirklevington Hall
+- Kymel
+- LNER
+- THE NORTHERN ECHO
+- The Brasserie
 ---
 
 Urban explorers have gone inside a former country house near Yarm that is set to become a five-star luxury hotel.

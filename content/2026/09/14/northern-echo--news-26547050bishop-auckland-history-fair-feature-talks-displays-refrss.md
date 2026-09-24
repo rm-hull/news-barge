@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bishop Auckland
+- County Durham
+- Durham City
+people: []
+organisations:
+- Bishop Auckland History and Heritage Fair
+- No. 43 Market Place
+- The County Durham Forum for History and Heritage
 ---
 
 *(Image: CHRIS BOOTH)*

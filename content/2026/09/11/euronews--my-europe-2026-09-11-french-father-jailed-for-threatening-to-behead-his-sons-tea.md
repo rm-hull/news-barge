@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Le Fauga
+people:
+- Fabrice Rives
+- Jocelyn Momasso-Momasso
+- Prophet Mohammed
+- Samuel Paty
+organisations: []
 ---
 
 ## The altercation broke out after the teacher told the nine-year-old boy not to “act like a tough guy”. Sentenced to six months in prison, the father was immediately taken into custody.

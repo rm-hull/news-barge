@@ -13,6 +13,22 @@ categories:
 - Health & Fitness
 - Science
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg
+locations:
+- Nashville
+- South Carolina
+- South Carolina.
+people:
+- Brian Hickerson
+- Hayden Panettiere
+- Jansen
+- Zack
+organisations:
+- DEA
+- Greenville County Coroner's Office
+- Heroes
+- People Magazine
+- US Drug Enforcement Agency
+- US TV
 ---
 
 ![Hayden Panettiere](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg)

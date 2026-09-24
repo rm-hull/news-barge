@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Chiselborough
+- Norton-sub-Hamdon
+- Somerset
+- Taunton Crown Court
+people:
+- Annabelle Boucher
+- David Rogers
+- Kit O'Brien
+- Olive Craig
+organisations:
+- BBC Action Line
+- Ministry of Justice
+- MoJ
+- Rights of Women
+- Walker Family Law
 ---
 
 ![A woman with dark brown hair and a fringe is sat on a mustard-colour sofa wearing a blue silk shirt. She has her hands on her lap.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5421/live/7e7cdc30-a78f-11f1-9bb7-af8e8fd3d806.jpg)

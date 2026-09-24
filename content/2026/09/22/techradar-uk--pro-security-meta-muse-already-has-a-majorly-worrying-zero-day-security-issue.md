@@ -10,6 +10,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4-1920-80.jpg
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Patrick Wardle
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Ars Technica
+- Artificial Intelligence
+- Google News
+- Meta Muse AI
+- Objective-See
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Meta Muse AI agent](https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4.jpg)

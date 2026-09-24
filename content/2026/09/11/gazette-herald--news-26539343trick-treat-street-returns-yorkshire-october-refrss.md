@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Castle Farm
+- North Cave
+- Treat Street
+- Trick
+- William’s Den
+- Yorkshire
+people:
+- Tor Carver
+- William’s Den
+organisations: []
 ---
 
 An immersive Halloween adventure is returning to an award-winning adventure destination in Yorkshire this autumn.

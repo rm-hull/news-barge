@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/GRD5kcjomjfu4BVoGoKA2k-1296-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Crystal Lake
+- Hollywood
+people:
+- Jason Voorhees
+- Linda Cardellini
+- Lucy Buglass
+- Pam
+organisations:
+- Crystal Lake
+- Google News
+- Lucy Goes
+- Peacock
+- Rotten Tomatoes
+- Sky
+- TechRadar
+- The Simpsons
 ---
 
 ![Linda Cardellini in Crystal Lake](https://cdn.mos.cms.futurecdn.net/GRD5kcjomjfu4BVoGoKA2k.jpg) 

@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations: []
+people:
+- Krasi Delcheva
+organisations:
+- '## Cleaning'
+- Cleaners of London
+- TikTok
 ---
 
 ## Cleaning expert urges people to avoid using this 1 common household product

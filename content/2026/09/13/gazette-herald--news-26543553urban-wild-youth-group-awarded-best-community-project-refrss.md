@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Aviva
+- Portakabin
+- St Nicks
+- Tang Hall
+- York Racecourse
+people:
+- Vicky Blakey-Archer
+organisations:
+- Police, Fire and Crime Commissioner
+- St Nicks
+- Urban Wild
+- Urban Wild Youth Group
 ---
 
 AN outdoor youth group which helps build confidence, teamwork and a sense of belonging to children from diverse backgrounds has been awarded a York Community Pride Award.

@@ -12,6 +12,14 @@ categories:
 - Automotive
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/north-yorkshire-police-car-road-night-fb.webp
+locations:
+- Kilburn
+- North Yorkshire
+- Thirsk
+people:
+- '#### Kilburn'
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to a crash in a North Yorkshire village early this morning (Saturday).

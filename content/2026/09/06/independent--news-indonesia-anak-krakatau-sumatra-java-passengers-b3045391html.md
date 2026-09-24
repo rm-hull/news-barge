@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Anak Krakatau
+- Australia
+- Banten
+- Bengkulu
+- Indian Ocean
+- Indonesia
+- Jakarta
+- Lampung
+- Mount Anak Krakatau
+- Soekarno-Hatta International Airport
+- Sumatra
+- Sunda Strait
+- West Java
+people: []
+organisations:
+- Center for Volcanology and Geological Hazard Mitigation
+- Darwin Volcanic Ash Advisory Centre
+- Geological Agency
+- Soekarno-Hatta International Airport
 ---
 
 Indonesia’s Anak Krakatau volcano erupted early Sunday, prompting the cancellation of all flights at Jakarta’s Soekarno-Hatta International Airport as volcanic ash drifted across parts of western Indonesia.

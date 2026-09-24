@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aycliffe Business Park
+- Babuls
+- County Durham
+- Darlington
+- Dubai
+- Ireland
+- Jungle Den
+- Newcastle
+- Sunderland
+- Teesside
+- Thailand
+- UK
+people:
+- Becky
+- Myk
+organisations:
+- Jungle Den
+- MBM
+- Myk Baxter Marketing
+- OneGym
+- PALI
+- Rio Steakhouse
+- SEO
+- Tomahawk Steakhouse
 ---
 
 Darlington marketing firm MBM has landed a major international deal.

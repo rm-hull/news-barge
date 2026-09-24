@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Barnard Castle
+- Belfast
+- Bishop Auckland
+- London
+- Newcastle
+- Nottingham
+people:
+- Mark Gowdridge
+- Simon Dunstan
+organisations:
+- Dragon's Den
+- GT3 Architects
 ---
 
 An architecture firm has marked a decade in business with a new name, brand and website.

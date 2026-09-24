@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Middle East
+- New South Wales
+- Queensland
+- US
+people:
+- Challenger
+- Donald Trump
+- Jim Chalmers
+- Paulo Medas
+organisations:
+- Australian Prudential Regulation Authority
+- House
+- IMF
+- International Monetary Fund
+- Labor
+- RBA
+- Reserve Bank
+- Treasury
+- US Federal Reserve
 ---
 
 The International Monetary Fund has called on Australia’s federal and state governments to cut spending as it warns the Reserve Bank may have to hike interest rates further to get price pressures back under control.

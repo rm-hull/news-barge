@@ -12,6 +12,32 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE4ZjhkMzY4LWIxZjctNDM3YS1iNzk0LWZlOTI0MzFlNjM3YzoxMDQzNzhhNC1hOTljLTQ3OTYtOTkxMS0zNTlmNjgyYzdmNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Harrogate
+- Milan
+- Royal Hall
+- UK
+- Yorkshire
+people:
+- Gilberto Serembe
+- Grieg
+- Jennifer Pike
+- Melanie Ekenazi
+- Michael Berkeley
+- Mozart
+- William Dutton
+organisations:
+- BBC Radio 3
+- Chamber Orchestra
+- Cuore Chamber Orchestra
+- Harrogate orchestra
+- Harrogate’s Royal Hall
+- Italian Conducting Academy
+- Meditations’for Strings
+- OMH Music
+- Royal Hall
+- Yorkshire
 ---
 
 # Looking ahead to the opening event of acclaimed Harrogate orchestra's new season

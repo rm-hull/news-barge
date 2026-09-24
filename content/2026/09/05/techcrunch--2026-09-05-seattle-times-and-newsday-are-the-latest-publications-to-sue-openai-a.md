@@ -12,6 +12,19 @@ image: https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- ChatGPT
+- CoPilot
+- GeekWire
+- Microsoft
+- Newsday
+- OpenAI
+- Seattle Times’
+- The New York Times
+- The Seattle Times
 ---
 
 Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.

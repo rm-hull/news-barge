@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Billingham
+- Extra Lapland
+- Middlesbrough
+- North East
+- Sleeping Beauty
+- Teesside
+people:
+- Art Simone
+- Carabosse
+- Michael Marouli
+- RuPaul
+- Santa Marouli
+organisations:
+- Billingham Forum
+- Darlington
+- Forum Theatre
+- Forum Theatre Billingham
+- RuPaul
+- Tees Active
+- The World
 ---
 
 A North East-born drag star fresh from a history-making international TV win is set to swap the runway for the stage in Teesside this Christmas.

@@ -12,6 +12,15 @@ categories:
 - Science
 - Health & Fitness
 image: https://static.independent.co.uk/2026/07/08/8/39/iStock-2170897832.jpg?trim=0,41,0,41&width=1200&height=800&crop=1200:800
+locations:
+- UK
+people:
+- Emma Davidson
+organisations:
+- Lancet Obstetrics, Gynaecology and Women’s Health
+- MFT
+- Manchester University NHS Foundation Trust
+- University of Manchester
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

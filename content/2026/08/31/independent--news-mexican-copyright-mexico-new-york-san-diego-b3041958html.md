@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Mexico
+- Mérida
+- NY
+- New York
+- San Diego
+people:
+- Alexa Soto
+- Chancy
+- Plantas
+- Santino
+- Sara
+organisations:
+- Ceviche Asado de Habanero
+- Habanero Roasted Ceviche
+- Little, Brown and Company
+- Voracious
 ---
 
 Fresh ceviche is a staple of Mexican cuisine, but my husband and I were introduced to the concept of roasted ceviche at our wedding.

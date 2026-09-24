@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A1
+- A1M Southbound
+- Burshaw Interchange
+- Burtree Gate
+- County Durham
+- Darlington
+- Junction 57
+- Junction 58
+- M
+- Newton Aycliffe Fire Stations
+- Spennymoor
+- Stapleton
+people: []
+organisations:
+- ?** National Highways
+- A1
+- A66
+- CDDFRS
+- Darlington Fire and Rescue Service
+- Durham Police
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- NEAS
+- National Highways
+- North East Ambulance Service
+- UGC
 ---
 
 The A1(M) has been closed near Darlington following a serious three-vehicle crash.

@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- County Durham
+- England
+- Grangetown
+- Greater Manchester
+- Middlesbrough
+- OWEN HUMPRHIES
+- PA
+- Teesside
+- Thornaby East
+- Wales
+- West Yorkshire
+people:
+- Andy McDonald
+- SARAH CALDECOTT
+- Victoria Fuller
+organisations:
+- A66
+- BBC Radio 4
+- Cleveland Police
+- Cleveland Police HQ Memorial Garden
+- Gwent
+- Hartlepool
+- Home Office
+- Metropolitan Police
+- Middlesbrough
+- Northamptonshire
+- Redcar
+- Stockton-on-Tees
+- West Yorkshire
 ---
 
 Cleveland Police deals with the highest overall crime rate in England and Wales, with Middlesbrough at the centre of a week of deadly violence and disorder.

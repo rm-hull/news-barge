@@ -14,6 +14,18 @@ categories:
 - Technology & Software
 - Hardware
 - Personal Finance & Investing
+locations:
+- El Reno
+- Northern Hemisphere
+- Oklahoma
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Bitcoin
+- Google News
+- Koco TV News
+- Tom's Hardware
 ---
 
 ![A technician checks cryptomining immersion cooling](https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5.jpg) 

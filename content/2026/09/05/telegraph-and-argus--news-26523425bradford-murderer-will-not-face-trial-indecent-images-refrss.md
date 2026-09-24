@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford Crown Court
+- Girlington
+- Kensington Street
+- Mannheim Road
+people:
+- Abdul Sami
+- John Batchelor
+- John Batchelor Ms Kousar
+- Jonathan Rose
+- Justice Turner
+- Kama Melly KC
+- Miss Melly
+- Ms Kousar
+- Rizwana Kousar
+organisations:
+- Bradford Crown Court
+- HMP Leeds
+- Parole Board
+- Recorder of Bradford
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

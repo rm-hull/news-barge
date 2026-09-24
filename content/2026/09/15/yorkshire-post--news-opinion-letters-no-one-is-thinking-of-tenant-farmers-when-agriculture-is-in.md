@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Great Hatfield
+- Lincolnshire
+- Parliament Square
+- Sunnybank
+- UK
+people:
+- Joe Ward
+- Peter Auty
+- Stefan Rousseau
+- Sturdy
+organisations:
+- PA Wire
+- Yorkshire Post Letters
 ---
 
 # No one is thinking of tenant farmers when agriculture is in crisis - Yorkshire Post Letters

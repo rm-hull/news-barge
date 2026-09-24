@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bunia
+- Congo
+- Ebola
+- Ituri
+- New York
+- North Kivu
+- U.S.
+- West Africa
+people:
+- Constant Same Bagalwa
+- Ebola
+- Jeannot Krikeija
+- Mike Stobbe
+- Yap Boum
+organisations:
+- AP
+- Africa CDC
+- Africa Centers for Disease Control and Prevention
+- U.S. Centers for Disease Control and Prevention
+- World Health Organization
 ---
 
 Authorities in eastern Congo are shifting to a village-centered approach to fight the Ebola outbreak, Africa’s top public health agency said Thursday, as the virus continues to spread faster than efforts to track and contain it.

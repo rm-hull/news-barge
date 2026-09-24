@@ -12,6 +12,63 @@ image: https://i.guim.co.uk/img/media/e242e61f3242e545a1b11e891ef78e2b119f549d/0
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Butler
+- California
+- China
+- Dallas
+- Florida
+- Houston
+- Iran
+- Kentucky
+- Mexico
+- Middle East
+- Minneapolis
+- New Jersey
+- New York
+- Pennsylvania
+- Queens
+- Soviet Union
+- Texas
+- US
+- White House
+people:
+- Abdul El-Sayed
+- Andy Beshear
+- Barack Obama
+- Chris Daniel
+- David Hopkins
+- Donald Trump
+- George W Bush
+- Gregorio Heise
+- Hasan Piker
+- JD Vance
+- James Talarico
+- John Zogby
+- Joseph Ditto
+- Maga
+- Mamdani
+- Marco Rubio
+- Mike Johnson
+- Pavel Sokolov
+- Robert Kennedy Jr
+- Ron DeSantis
+- Rusat Ramgopal
+- Scott Bessent
+- Sydney Kamlager-Dove
+- Ted Cruz
+organisations:
+- American Airlines Center
+- Boston College
+- Congress
+- Decision Desk HQ
+- Fox News
+- House of Representatives
+- Nielsen
+- Senate
+- Treasury
+- Trump
 ---
 
 “We’re going to have a good time listening to music,” Donald Trump told thousands of supporters in downtown Dallas before handing the mic to an opera singer, “because I’m getting a little bit tired of politics now.”

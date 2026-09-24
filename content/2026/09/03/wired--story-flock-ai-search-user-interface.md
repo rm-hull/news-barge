@@ -12,6 +12,42 @@ image: https://media.wired.com/photos/6a8750d218568cdcce1a10fe/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Flock
+- Georgia
+- Illinois
+- Kansas
+- Miami Beach
+- Milwaukee
+- North Carolina
+- San Diego
+- South Carolina
+- Southern California
+- Texas
+- US
+people:
+- Deepak Kumar
+- Don De Lucca
+- Flock
+- Garrett Langley
+- Jay Stanley
+- Kate Ruane
+- Tom Bowman
+organisations:
+- 404 Media
+- ACLU's Speech, Privacy, and Technology Project
+- Associated Press
+- Audit Assistance
+- Center for Democracy and Technology
+- Congress
+- Customs and Border Protection
+- Flock Safety
+- Immigration and Customs Enforcement
+- International Association of Chiefs of Police
+- People Detection Alert
+- The Washington Post
+- University of California
+- WIRED
 ---
 
 Flock Safety’s latest search tools give police several ways to find people on camera, not just the license plates on their cars. The capabilities sit inside a suite of software now at the center of dozens of police-stalking cases. WIRED collected and analyzed that software, and created a mockup of what officers see when interacting with the system.

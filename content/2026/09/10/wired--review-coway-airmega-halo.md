@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- Airmega
+- Coway
+people: []
+organisations:
+- Best Air Purifiers
+- Coway
 ---
 
 I cannot overstate the importance of having an air purifier that not only has enough power to actually purify a room's air but also caters to your home's particular needs. Pollutants like wildfire smoke, pollen, unventilated gas stoves, pet allergens, and even litter box odors can be potentially harmful additions to the air you breathe in your home.

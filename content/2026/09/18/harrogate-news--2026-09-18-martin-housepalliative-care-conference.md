@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- East Yorkshire
+- Martin House
+- North
+- West
+people:
+- Charlotte Walker
+- Helen Storton
+- Jen Knell
+- Mandy Thorpe
+- Michelle Hills
+- Naomi Taylor
+- Sinead McBryde
+organisations:
+- BOSTON SPA
+- Martin House Children’s Hospice
+- Martin House Children’s Hospice Webspace
+- Paediatric Palliative Medicine
 ---
 
 **BOSTON SPA**— More than 70 healthcare professionals gathered at Martin House Children’s Hospice this week to participate in the charity’s first dedicated conference focused on advancing paediatric palliative care standards across Yorkshire.

@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg
+locations:
+- AI
+- Central America
+- London
+- Paris
+- Spain
+- Syria
+people:
+- AI
+- Charles Cecil
+- George Stobbart
+- Nicole Collard
+- Oubier
+organisations:
+- AI
+- Google News
+- Nintendo Switch 2
+- Revolution Software
+- TechRadar
 ---
 
 ![The Broken Sword 2 remake alongside the original game.](https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak.jpg)

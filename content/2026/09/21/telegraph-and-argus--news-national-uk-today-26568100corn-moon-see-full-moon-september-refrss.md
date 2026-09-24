@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Science
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481553.jpg?type=og-image
+locations:
+- London
+- UK
+people: []
+organisations:
+- Corn Moon
+- RMG
+- Royal Museums Greenwich
 ---
 
 *(Image: Getty)*

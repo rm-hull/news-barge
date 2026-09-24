@@ -14,6 +14,30 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/tNbUe2eYLX3ypthQhVR3hV-1920-80.jpg
+locations:
+- UK
+- Virgin River
+people:
+- Aria
+- Dhruv
+- George Cooper Sr.
+- Hannah
+- Kavanagh
+- Nicola Walker
+- Ritu Arya
+- Sanjeev Bhaskar
+- Ursula Rani Sarma
+organisations:
+- BBC iPlayer
+- Google News
+- Hallmark
+- Jasmine
+- Kishan Law
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![The main cast of The Split Up](https://cdn.mos.cms.futurecdn.net/tNbUe2eYLX3ypthQhVR3hV.jpg)

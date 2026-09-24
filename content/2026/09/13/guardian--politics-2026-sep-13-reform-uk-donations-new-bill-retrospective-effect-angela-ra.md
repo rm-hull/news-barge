@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Hong Kong
+- Thailand
+- UK
+people:
+- Andrea Egan
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Dale Vince
+- Farage
+- John Caudwell
+- John McDonnell
+- Laura Kuenssberg
+- Michael Wills
+- Paul Nowak
+- Robert Jenrick
+- Sharon Graham
+- Stella Creasy
+organisations:
+- BBC Radio 4
+- Broadcasting House
+- Commons
+- Delo
+- Ecotricity
+- Electoral Commission
+- GMB
+- Guardian
+- House of Lords
+- Labour
+- Phones 4U
+- Reform UK
+- TUC
+- Unison
+- Unite
 ---
 
 Trade unions, MPs and donors have urged the government to look again at party funding rules, after Reform UK insisted £72m in donations from two crypto billionaires was within the law.

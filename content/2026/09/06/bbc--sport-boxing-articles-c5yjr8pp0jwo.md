@@ -14,6 +14,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Boston
+- Bray
+- Brooklyn
+- Croke Park
+- Dallas
+- Dublin
+- Leeds
+- Limerick
+- London
+- Madison Square Garden
+- Manchester
+- Manhattan
+- Republic of Ireland
+- Rio
+people:
+- Amanda Serrano
+- Bridget
+- Chantelle Cameron
+- Deirdre Gogarty
+- Eddie Hearn
+- Flora Pili
+- Jack Charlton
+- Katie Taylor
+- Lee
+- Muhammad Ali
+- Peter
+- Sofya Ochigava
+organisations:
+- Chantelle Cameron
+- Matchroom
 ---
 
 Taylor signs off in style with unanimous win over Pili

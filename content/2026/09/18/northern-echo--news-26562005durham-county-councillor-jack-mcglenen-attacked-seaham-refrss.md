@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Auckland
+- Colling Avenue
+- County Durham
+- Seaham
+people:
+- Cllr McGlenen
+- Dalton
+- Dawdon
+- Jack McGlenen
+organisations:
+- Durham Police
+- PACT
+- Police and Communities Together
+- Reform UK
+- Social Democratic Party
 ---
 
 A Durham county councillor was left with cut under his eye after being attacked.

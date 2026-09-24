@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Education & Learning
+locations:
+- America
+- New York City
+- US
+people:
+- Brad Smith
+- Christian Cawley
+- Randi Weingarten
+organisations:
+- AFT
+- American Federation of Teachers
+- Anthropic
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Los Angeles Unified School District
+- Matter Alpha
+- Microsoft
+- National AI Safety & Privacy Standard
+- OpenAI
+- TechRadar Pro
+- UFT
+- United Federation of Teachers
 ---
 
 ![students in classroom](https://cdn.mos.cms.futurecdn.net/JzkJQy6ty9CGqBpFqMkeFG.jpg) 

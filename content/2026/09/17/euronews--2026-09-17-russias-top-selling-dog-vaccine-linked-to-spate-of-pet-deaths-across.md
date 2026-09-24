@@ -12,6 +12,35 @@ image: https://images.euronews.com/articles/stories/09/91/73/05/1200x675_cmsv2_b
 categories:
 - Europe
 - News & Politics
+locations:
+- Armenia
+- Belarus
+- Belgorod
+- Kazakhstan
+- Krasnodar
+- Leningrad
+- Moscow
+- Penza
+- Russia
+- Saratov
+- St Petersburg
+- Tula
+- Ukraine
+- Yaroslavl
+people:
+- Aujeszky
+- Rosselkhoznadzor
+- Vetbiokhim
+organisations:
+- Baza
+- Govorit NeMoskva
+- Kommersant
+- Meduza
+- RBC
+- RNC Pharma
+- Rosselkhoznadzor
+- State Duma
+- Vetbiokhim
 ---
 
 ## State veterinary regulator confirmed batch 20 of Multican-8 contained a live Aujeszky's disease virus — typically fatal in dogs — after owners across at least 10 Russian regions reported hundreds of deaths since August.

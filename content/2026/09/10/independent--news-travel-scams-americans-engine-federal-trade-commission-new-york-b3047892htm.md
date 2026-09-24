@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations: []
+people:
+- Alissa Abdullah
+- Brian Cute
+- Florent Silve
+- Iskander Sanchez-Rola
+organisations:
+- AP
+- Associated Press
+- Charles Schwab Foundation
+- Charles Schwab and Co
+- Cute
+- Engine
+- Federal Trade Commission
+- Global Cyber Alliance
+- Inc
+- Mastercard
+- Norton
 ---
 
 Pickpockets were once the biggest worry for travelers heading to new destinations on vacation.

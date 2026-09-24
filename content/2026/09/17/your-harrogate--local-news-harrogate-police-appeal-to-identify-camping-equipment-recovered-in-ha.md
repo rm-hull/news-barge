@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Outdoors & Nature
 image: https://mmo.aiircdn.com/409/6aab9126166fc8f9a7b.jpg
+locations:
+- Harrogate
+- Helen.James
+people:
+- Helen James
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab9126166fc8f9a7b.jpg)

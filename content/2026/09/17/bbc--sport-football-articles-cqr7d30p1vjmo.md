@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Etihad Stadium
+- Man City
+- Manchester City
+- Manchester.
+people:
+- Chris Sutton
+- Christopher Samba
+- Daniel Sturridge
+- Enzo Maresca
+- Erling Haaland
+- Floyd Samba
+- JJ Gabriel
+- Tyrone
+organisations:
+- Aston Villa
+- BBC Radio 5 Live
+- Blackburn
+- Chelsea
+- Manchester City
+- Manchester United
+- Norwich City
+- Premier League
+- QPR
+- Samba The
 ---
 
 ![Floyd Samba smiles while pointing to the badge on his Manchester City shirt](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/cc03/live/dc8e0540-b2d1-11f1-aa00-7947ea0dbeab.jpg)

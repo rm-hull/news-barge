@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/12/23/2282216734..?trim=101,0,10
 categories:
 - News & Politics
 - UK
+locations:
+- Brentwood
+- Eaton
+- Malibu
+- Palisades
+people:
+- Doug] Emhoff
+- Jason Duron
+- Kamala Harris
+organisations:
+- KTLA
+- LA Times
+- LA Times*
+- LASD
+- Los Angeles County Sheriff's Department
+- TMZ
 ---
 
 Police were called to former Vice President Kamala Harris’s home in Malibu after a woman reportedly trespassed onto the property uninvited, according to local reports.

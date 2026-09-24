@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478904.jpg?type=og-image&yType=188
+locations:
+- A59
+- Broughton
+- Gargrave Road
+- Skipton
+people:
+- Caddy
+- NYP
+organisations:
+- North Yorkshire Police
+- Yorkshire Air Ambulance
 ---
 
 *(Image: NYP)*

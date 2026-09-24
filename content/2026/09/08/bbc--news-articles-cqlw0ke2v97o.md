@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- England
+- North Cheshire
+- Warrington Hospital
+people:
+- Adrian Boyle
+- Matthew Hopkins
+- Nat Wright
+- Oli Coppock
+- Stephen Coppock
+- Tanzeela Aslam
+organisations:
+- BBC
+- Express Solicitors
+- Mersey NHS Foundation Trust
+- NHS Alliance
+- NHS England
+- NHS Resolution
+- Oli Coppock
+- RCEM
+- Royal College of Emergency Medicine
+- Warrington's A&E
 ---
 
 ![A young man sits on a stone balustrade with landscaped grounds behind him. He wears sunglasses, pale green T-shirt and white shorts.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/43ac/live/59b864e0-aae7-11f1-b109-879e35c24276.jpg)

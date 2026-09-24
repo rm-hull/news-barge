@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Brexit
+- Downing Street
+- London
+- Long Preston
+- Skipton
+people:
+- Andy Burnham
+- Brexit
+- Leon Neal
+- Margaret Thatcher
+- Paul Morley
+organisations:
+- Labour
+- Ribblesdale Estate
+- Yorkshire Post Letters
 ---
 
 # Andy Burnham would be working down in the pit if it wasn’t for Margaret Thatcher - Yorkshire Post Letters

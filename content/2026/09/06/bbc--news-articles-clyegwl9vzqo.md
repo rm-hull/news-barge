@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bay of the Seine
+- Bembridge
+- Calais
+- Downing Street
+- English Channel
+- France
+- Gravelines
+- Normandy
+- UK
+- Yarmouth
+people:
+- Andy Burnham
+- Emmanuel Macron
+organisations:
+- BBC
+- English Channel
+- Home Office
+- Macron
+- RNLI
 ---
 
 ![Migrants on an inflatable dinghy leaving the coast of northern France at Gravelines, near Calais](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5295/live/fa800b90-aa05-11f1-afb5-a367f96884d3.jpg)

@@ -13,6 +13,23 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Germany
+- North America
+- States
+people:
+- Blackwell
+- Hassam Nasir
+- Tom
+organisations:
+- CES
+- Google News
+- MSRP
+- Newegg
+- Nvidia
+- RAM
+- RTX
+- Zotac Solid OC
 ---
 
 ![GeForce RTX 5090 Founders Edition](https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom.jpg) 

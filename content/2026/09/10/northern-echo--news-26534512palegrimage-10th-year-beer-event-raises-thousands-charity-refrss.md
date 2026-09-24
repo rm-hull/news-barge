@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bayonet Brewing
+- County Durham
+- Cumbria
+- Hartburn
+- Leyburn
+- Middlesbrough
+- North East
+- North Yorkshire
+- Northallerton
+- Stockton
+- Teesside
+- The Chapel
+- The Golden Smog
+people:
+- Dave Mockler
+- John Christie
+- Smog
+organisations:
+- GNAAS
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- Great North Air Ambulance Service Dave
+- Great North Air Ambulance Service Donations
+- Teesside pALEgrims
+- The Chapel
+- The Golden Smog
+- Wensleydale Brewery
+- Yorkshire Air Ambulance
 ---
 
 Beer lovers across Teesside have helped raise thousands of pounds for the Great North Air Ambulance Service by pushing barrels more than 50 miles.

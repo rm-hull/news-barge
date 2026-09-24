@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Dewsbury
+- Staincliffe Road
+- West Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- Kirklees District Crime Team
 ---
 
 West Yorkshire Police are appealing for information following a burglary which occurred last month.

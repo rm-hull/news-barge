@@ -16,6 +16,28 @@ categories:
 - Sports
 - Video Gaming
 - Arts & Culture
+locations:
+- Afghanistan
+- Algiers
+- Barbados
+- Bhutan
+- Brunei
+- Cape Verde
+- Cholpon Ata
+- Croatia
+- Issyk-Kul
+- Kazakhstan
+- Kazan
+- Kokpar
+- Kyrgyzstan
+- Republic of Tatarstan
+- Russian Federation
+- Saudi Arabia
+- Uzbekistan
+people:
+- Adylbek Kasymaliev
+- Kassym-Jomart Tokayev
+organisations: []
 ---
 
 ## After a week of celebrating nomadic culture and heritage with sports contests and cultural programmes, 6th Nomad Games end in their birth place Cholpon Ata in Kyrgyzstan. In traditional sports competition home team Kyrgyzstan and Kazakhstan won most medals.

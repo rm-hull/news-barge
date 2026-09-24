@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- A1
+- Cross Hill
+- Hillside
+- M
+- North York Moors
+- North Yorkshire
+- Raskelf
+- Sutton Bank
+- Sutton Bank National Park Centre
+people:
+- Alyson Baker
+- Malcolm Taylor
+organisations:
+- A170
+- North Yorkshire Council
+- Sutton Bank
 ---
 
 ## REMINDER - principal North Yorkshire road closed for maintenance until next month

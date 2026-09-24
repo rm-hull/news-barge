@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Blackwell
+- Cockerton
+- Cornmill Centre
+- Crown Street
+- Darlington
+- Haughton
+- Mowden
+- Skerne Park
+- Yarm Road
+people:
+- WH Smith
+organisations:
+- Google Maps
+- TG Jones
+- Valerie Hinchliffe
+- WH Smith
 ---
 
 *(Image: Google Maps/Valerie Hinchliffe)*

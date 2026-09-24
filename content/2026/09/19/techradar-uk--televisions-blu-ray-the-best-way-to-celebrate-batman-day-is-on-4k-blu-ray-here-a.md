@@ -13,6 +13,52 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/4NNMrUzY95d7bpcJTSxexG-2560-80.jpg
+locations:
+- Gotham
+- UK
+people:
+- Adam West
+- Alfred
+- Batman
+- Bruce Wayne
+- Burt Ward
+- Christian Bale
+- Gothan
+- Heath Ledger
+- James Davidson
+- Jim Carrey
+- Joel Schumacher
+- Joker
+- Kevin Conroy
+- Mark Hamill
+- Michael Cera
+- Paul Dano
+- Riddler
+- Robert Pattinson
+- Robin
+- Rosario Dawson
+- Tim Burton
+- Tommy Lee Jones
+- Two-Face
+- Val Kilmer
+- Will Arnett
+- Zach Galifianakis
+organisations:
+- AV
+- Batgirl
+- Batman Forever
+- Dark Knight
+- Dolby Atmos
+- Google News
+- HDR
+- IMAX
+- Joker
+- OLED
+- PS5
+- QLED
+- TechRadar
+- The Batman
+- The Dark Knight
 ---
 
 ![Shot of The Batman resume screen on LG G6 with various Batman 4K Blu-ray discs in front of screen ](https://cdn.mos.cms.futurecdn.net/4NNMrUzY95d7bpcJTSxexG.jpg)

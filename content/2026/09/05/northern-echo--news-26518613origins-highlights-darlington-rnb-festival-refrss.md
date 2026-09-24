@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Darlington Market Place
+- Quaker House
+people:
+- Andy Fairweather
+- Chris Farlowe
+- Little Stevie
+- Mike Gibb
+- Mike Prendergast
+- Mungo Jerry
+- Rory Gallagher
+organisations:
+- Amen Corner
+- Atomic Rooster
+- Darlington R
+- Darlington R’n’B Club
+- European Commission
+- Hutchison Telecom
+- Orange
+- Pennyweight
+- Rhythm Kings
+- Spencer Davis
+- The Animals
+- The Blockheads
+- The Pretty Things
+- The Yardbirds
 ---
 
 NEXT weekend, the Darlington Rhythm ‘n’ Blues Festival celebrates its 30th anniversary with a huge programme of gigs lasting three days.

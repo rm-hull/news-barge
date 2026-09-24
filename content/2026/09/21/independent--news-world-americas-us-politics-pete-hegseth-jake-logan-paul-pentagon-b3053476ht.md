@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/9/22/Screenshot-2026-09-21-at-10-33-26.png?trim=0,0,74,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Atlantic
+- Iran
+people:
+- Adam Kinzinger
+- Bad Bunny
+- Fox
+- Jake Paul
+- Logan Paul
+- Mike Johnson
+- Pete Hegseth
+- Philip DeFranco
+- Tom Nichols
+- Trump
+organisations:
+- Defense Department
+- House
+- National POW
+- The Pentagon
 ---
 
 Defense Secretary Pete Hegseth has been slammed for having influencers Jake and Logan Paul deliver a motivational speech at the Pentagon.

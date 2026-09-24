@@ -13,6 +13,17 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.gazetteherald.co.uk/resources/images/21480453.jpg?type=og-image
+locations:
+- UK
+people:
+- Crows
+- Tony King
+organisations:
+- '![]()Magpies'
+- BBC Countryfile
+- RSPB
+- RSPCA
+- The Pied Piper
 ---
 
 *(Image: Getty)*

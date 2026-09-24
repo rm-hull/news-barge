@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- America
+- California
+- Louisiana
+- UK
+- US
+- United Kingdom
+people:
+- Donald Trump
+- Milo Yiannopoulos
+- Morgan
+organisations:
+- DHS
+- Department of Homeland Security
+- Homeland Security
+- ICE
+- Immigration Judge
+- Independent
+- Piers Morgan Uncensored
 ---
 
 Far-right troll Milo Yiannopoulos alleges he was “swarmed” by Homeland Security agents and repeatedly mistreated ahead of his deportation to the UK last week.

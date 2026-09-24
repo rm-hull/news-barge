@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/11/14/2294167843..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Arlington
+- Manhattan
+- New York
+- New York City
+- Virginia
+- White House
+people:
+- Aaron Rupar
+- Davis Ingle
+- Donald Trump
+- JD Vance
+- Joe Biden
+- Melania Trump
+- Mrs. Trump
+- Pete Hegseth
+- Sleepy Joe
+organisations:
+- Oval Office
+- Pentagon
+- Resolute Desk
+- The Independent.
 ---
 
 Viewers watching a livestream of President Donald Trump at the Pentagon 9/11 remembrance ceremony commented that he appeared “tired,” while some accused the commander-in-chief of falling asleep.

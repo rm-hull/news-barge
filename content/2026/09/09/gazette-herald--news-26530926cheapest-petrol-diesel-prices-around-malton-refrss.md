@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- BP EDENHOUSE ROAD
+- BP WELHAM ROAD
+- CLIFTON SERVICE STATION
+- EDEN SERVICE STATION
+- GULF MALTON
+- Malton
+people: []
+organisations:
+- Malton
 ---
 
 *(Image: Archive)*

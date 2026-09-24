@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Aberdeenshire
+- Birchington Avenue
+- Cleveland
+- Dunbartonshire
+- Edinburgh
+- Fife
+- Glasgow
+- Lanarkshire
+- Larkhall
+- Owen Humphreys
+- PA
+- Scotland
+- Tulliallan
+- UK
+people:
+- Andrew Milligan
+- Ann Purdie
+- Christine Fulton
+- Jo Farrell
+- Matthew Blades
+- Ms Farrell
+- Neil Gray
+- Pc Lewis Fulton
+- Tom Clough
+organisations:
+- British Transport Police
+- Cleveland Police
+- Justice
+- Ministry of Defence Police
+- Police Scotland
+- Scottish Police Memorial
+- Scottish Police Memorial Trust
 ---
 
 The chief constable of Police Scotland has paid tribute to two Cleveland Police officers killed in an A66 collision last month, noting that their loss has "resonated across the UK policing family".

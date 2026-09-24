@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/22/Greenland_Denmark_US_43232.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Copenhagen
+- Greenland
+- Kingdom of Denmark
+- Manhattan
+- Nuuk
+- Russia
+- US
+- United States
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Múte Bourup Egede
+- Naaja Nathanielsen
+- Pram Gad
+- Ulrik Pram Gad
+organisations:
+- Danish Institute for International Studies
+- General Assembly
+- NATO
+- The Associated Press
+- U.N.
+- UN
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

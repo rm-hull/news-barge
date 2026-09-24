@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Birmingham
+- Britain
+- Clacton
+- UK
+- US
+people:
+- Christopher Harborne
+- Dan Jukes
+- Fiona Cottrell
+- George Cottrell
+- James Orr
+- Nigel Farage
+- Verbatim
+organisations:
+- BBC
+- Channel 4
+- Channel 4 News
+- Crown Prosecution Service
+- Electoral Commission
+- Labour
+- Lib Dems
+- Met
+- Metropolitan Police
+- Met’s Special Enquiry Team
+- Political Parties
+- Reform UK
+- Twitter
+- Verbatim
 ---
 
 The Metropolitan Police have launched a criminal investigation into claims that Reform UK breached party donation rules on illegal foreign funding.

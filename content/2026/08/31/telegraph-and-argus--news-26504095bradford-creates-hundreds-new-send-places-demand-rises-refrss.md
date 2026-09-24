@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Education & Learning
 - Family & Parenting
+locations:
+- Bradford
+people:
+- Sally Birch
+organisations:
+- Bradford Council
+- Bradford Council’s Executive
+- EHCP
+- Special Educational Needs and Disabilities
 ---
 
 *(Image: T&A)*

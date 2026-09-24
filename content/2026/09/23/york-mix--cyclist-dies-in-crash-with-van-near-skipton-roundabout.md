@@ -11,6 +11,14 @@ categories:
 - York
 - Technology & Software
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a59-skipton-near-gargrave-road-roundabout-gsv.webp
+locations:
+- Broughton
+- Gargrave Road
+- Skipton
+people:
+- Caddy
+organisations:
+- North Yorkshire Police
 ---
 
 A cyclist has died in a crash near Skipton.

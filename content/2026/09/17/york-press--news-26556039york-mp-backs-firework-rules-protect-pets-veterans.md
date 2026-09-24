@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- A York
+- Halifax
+- North Yorkshire
+people:
+- Kate Dearden
+- Ms Maskell
+- Rachael Maskell
+organisations:
+- Combat Stress
+- Consumer Protection
+- Department for Business and Trade
+- Dogs Trust
+- Labour Government
+- RSPCA
+- The Press
+- York Central
 ---
 
 *(Image: Submitted)*

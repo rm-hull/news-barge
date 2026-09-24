@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- A1
+- Beal Farm
+- Berwick station
+- Berwick-upon-Tweed
+- County Durham
+- Disgraceland
+- Elwick
+- Holy Island
+- Newcastle
+- North East
+- Northumberland
+people:
+- Conleth Maenpaa
+- Finn Forster
+- Lindisfarne
+organisations:
+- A1
+- BBC Radio 1
+- Bear Park
+- Elvana
+- Faithless
+- Ferocious Dog
+- Heather Small
+- Leazes
+- National Highways North East
+- Professor Green
+- Razorlight
+- Soul II Soul
+- Sunderland
+- Swindled
+- The Amy Winehouse Band
+- The Proclaimers
+- Utah Saints
 ---
 
 *(Image: Supplied)*

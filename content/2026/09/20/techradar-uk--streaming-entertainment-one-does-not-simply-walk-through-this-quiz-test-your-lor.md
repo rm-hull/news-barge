@@ -11,6 +11,23 @@ categories:
 - Technology & Software
 - Education & Learning
 image: https://cdn.mos.cms.futurecdn.net/aaSENTbeYb6i2etiWCP9Qn-1920-80.jpg
+locations: []
+people:
+- Beregond
+- Harry Potter
+- Rhun
+- Sam and Frodo
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- Digital Trends
+- GamesRadar
+- Google News
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![Sam and Frodo in The Lord of the Rings, one of the best new Prime Video movies](https://cdn.mos.cms.futurecdn.net/aaSENTbeYb6i2etiWCP9Qn.jpg)

@@ -13,6 +13,13 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483438.jpg?type=og-image
+locations:
+- Halifax
+people: []
+organisations:
+- Lamborghini
+- West Yorkshire Police
+- West Yorkshire Police** A
 ---
 
 *(Image: West Yorkshire Police)*

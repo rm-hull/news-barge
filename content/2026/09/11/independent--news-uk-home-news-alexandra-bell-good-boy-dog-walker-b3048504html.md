@@ -13,6 +13,21 @@ categories:
 - UK
 - Lifestyle & Fashion
 - Pets & Animals
+locations:
+- Britain
+- Haxby
+- Hull
+- North Yorks
+- Northern Ireland
+- Northern Island
+- Thirsk
+people:
+- '"[Miss Bell'
+- Alexandra Bell
+- Ian Miller
+- Miss Bell
+organisations:
+- Good Boy Dog Walker
 ---
 
 A professional dog walker sued for unfair dismissal after resigning because she had 'too many dogs to walk'.

@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Pets & Animals
 - Lifestyle & Fashion
+locations:
+- County Durham
+- Darlington
+- High Street
+- Willington
+- Yorkshire Dales
+people:
+- McDonald
+organisations:
+- GoGo Grooming
 ---
 
 *(Image: GOOGLE MAPS)*

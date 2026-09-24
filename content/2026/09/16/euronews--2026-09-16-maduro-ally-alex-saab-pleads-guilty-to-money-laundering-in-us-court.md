@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Cape Verde
+- Iran
+- Manhattan
+- US
+- United States
+- Venezuela
+- White House
+people:
+- '## Saab'
+- Alejandro Betancourt
+- Alex Saab
+- Biden Saab
+- Delcy Rodríguez
+- Donald Trump
+- Joe Biden
+- Kathleen Williams
+- Nicolás Maduro
+- Zoloft
+organisations:
+- Saab
+- Trump
 ---
 
 ## As part of the plea agreement, Saab agreed to cooperate with ongoing federal investigations in the United States and to hand over 195 million dollars (some €168.9 million) derived from the corruption scheme.

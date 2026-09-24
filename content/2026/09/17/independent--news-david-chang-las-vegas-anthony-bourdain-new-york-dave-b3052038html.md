@@ -13,6 +13,47 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- America
+- California
+- Hesperia
+- Interstate 15
+- Las Vegas
+- Lockhart
+- Miami
+- Penang
+- South Las Vegas
+- Tennessee
+- Texas
+people:
+- Amy Entelis
+- Anthony Bourdain
+- Barbs
+- Chris Hemsworth
+- Christina Tosi
+- Chuck Charnichart
+- Cord Jefferson
+- Cristela Alonzo
+- Daniel Dae Kim
+- Dave
+- David Chang
+- Dylan
+- Eugene Levy
+- Eva Longoria
+- Ewan McGregor
+- John Coltrane
+- José Andrés
+- Morgan Neville
+- Rainn Wilson
+- Rothko
+- Stanley Tucci,Orlando Bloom
+- Terrence Malick
+- Tony Shalhoub
+- Will Smith
+- Zac Efron
+organisations:
+- CNN Originals
+- Milk Bar
 ---
 
 In an episode of his new CNN travel series, chef David Chang is cruising down the highway on his way to Las Vegas when he stops at a humble truck stop off Interstate 15.

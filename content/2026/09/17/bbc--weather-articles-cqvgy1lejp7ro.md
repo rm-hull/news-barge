@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Baitings Reservoir
+- East Anglia
+- East Midlands
+- England
+- Kent
+- Lincolnshire
+- Northamptonshire
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+- West Yorkshire
+people:
+- Philip Duffy
+organisations:
+- Cornwall
+- Devon
+- EA
+- El Niño
+- Environment Agency
+- Met Office
+- Yorkshire
 ---
 
 ![Four people, separated into two couples, walk through rain along a street with restaurants either side. They are wearing coats and each pair are sharing an umbrella.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/495e/live/addfcfe0-b22b-11f1-a59b-25df709671d5.jpg)

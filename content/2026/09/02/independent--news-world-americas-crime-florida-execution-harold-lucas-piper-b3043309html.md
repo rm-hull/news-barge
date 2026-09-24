@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bonita Springs
+- Florida State Prison
+- Fort Myers
+- Starke
+- United States
+people:
+- Aileen Wuornos
+- Curtis Wilkie Beasley
+- Daniel Owen Conahan Jr.
+- God
+- Harold Gene Lucas
+- Janice Rice
+- Jill Piper
+- Lester Piper
+- Richard Byrd Jr.
+- Ron DeSantis
+- Terri Rice
+organisations:
+- Department of Corrections
+- Florida State Prison
+- Florida Supreme Court
+- Piper’s
+- Supreme Court
 ---
 
 A man convicted of killing a teenage girl who turned down his romantic advances and wounding two of her friends was put to death on Tuesday, marking the first of three lethal injections scheduled to take place in Florida this month.

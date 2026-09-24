@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cape of Good Hope
+- Galkayo
+- Gulf of Aden
+- Hobyo
+- Hormuz
+- Horn of Africa
+- Iran
+- Maraya
+- Mudug
+- Red Sea
+- Reisener
+- Somalia Puntland
+- South Africa
+- Sward
+- Turkey
+- US
+- Yemen
+people:
+- Anja Shortland
+- Federico Varese
+- Matthew Reisener
+- Mohamed Mubarak
+- Mohamed Siad Barre
+organisations:
+- Center for Maritime Security
+- Guardian
+- International Institute for Strategic Studies
+- Lloyd’s List
+- Lutuf
+- MV Sward
+- SpaceX
+- al-Shabaab
 ---
 
 The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia.

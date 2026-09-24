@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Hollywood
+- London
+- North East
+- Skinnergate
+- YOUR
+people:
+- David
+- Grace Kelly
+- Katie O’Briens
+- Katy O’Briens
+- Paul Pearson
+organisations:
+- Coffee House
+- D&J Pub Group
+- Grade II
+- Irish Bar
+- Lloyds Bank
+- NORTHERN ECHO
+- Number One Bar
+- One Gym
+- Public Notice Portal
+- The Dubliner
 ---
 
 ### What is the Public Notice Portal?

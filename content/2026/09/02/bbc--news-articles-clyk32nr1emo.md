@@ -12,6 +12,29 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d4e/live/6d3473
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Canada
+- Iran
+- Lake America
+- Lake Ontario
+- US
+- Vernon
+people:
+- David McGuinty
+- Doug Ford
+- Jennie Carignan
+- Mark Carney
+- Pete Hegseth
+- Scott Anderson
+- Sean Duffy
+- Trump
+organisations:
+- Army Cadet League of Canada
+- CBC
+- Nato
+- Pentagon
+- Trump
 ---
 
 ![Pete Hegseth gestures by lifting his hand as he frowns](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9d4e/live/6d347390-a6ed-11f1-aed2-8d6da8d75094.jpg)

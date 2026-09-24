@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://i.guim.co.uk/img/media/b787d43d8f92582cf86594df3ca90ebcd51253d4/240_0_2572_2057/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06218e792b1f4769b932240cca688c26
+locations:
+- France
+- Paris
+- Saint-Tropez
+people:
+- Alexandre Millon
+- Bernard d’Ormale
+- Brigitte Bardot
+- D’Ormale
+- Ghyslaine Calmels-Bock
+- Nicolas-Jacques Charrier
+organisations:
+- AFP
+- Agence France-Presse
+- Bardot Foundation
+- Brigitte Bardot Foundation
+- Millon
 ---
 
 An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fetched nearly €1m (£858,000, US$1.15m, A$1.61m) in Paris, almost 20 times the estimate, according to the auction house Millon.

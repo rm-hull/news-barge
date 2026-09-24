@@ -12,6 +12,22 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/23/11/e95e04811c0850d4cd6dfc0e4ad84e6aY29udGVudHNlYXJjaGFwaSwxNzkwMjQ2MTk2-2.77823483.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Mounjaro
+- Timpson
+- UK
+people:
+- Ben Whitley
+- James Timpson
+- Lord James Timpson
+- Olivier Picard
+organisations:
+- Government
+- Mounjaro
+- NHS
+- National Pharmacy Association
+- Ozempic
+- Wegovy
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

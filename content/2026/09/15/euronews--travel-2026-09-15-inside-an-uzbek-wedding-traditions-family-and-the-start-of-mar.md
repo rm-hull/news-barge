@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Kuyov Navkar’
+- Samarkand
+- Uzbekistan
+people:
+- Abbos Sabitov
+- Bobojon Ergashev
+- Challar
+- Dildora Adilova
+- Feruza Avazova
+- Kelin Salom
+- Muslima Sabitova
+organisations:
+- Samarkand
 ---
 
 ## Civil registration, wedding plov, family blessings and ‘Kelin Salom’ are among the customs that accompany couples as they begin married life in Uzbekistan.

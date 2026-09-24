@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Bolivar County
+- Cleveland
+- Jackson
+- Mississippi
+- Vicksburg
+people:
+- Christy Spivey
+- Cory Zukatis
+- RaShall Brackney
+- Tasia Fortune
+- Trey Reed
+organisations:
+- Delta State University
+- Jackson Police
+- Mississippi State Medical Examiner
 ---
 
 Mississippi police have arrested a man in the death of Tasia Fortune, a Black woman found hanging from a tree last month.

@@ -14,6 +14,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Arizona
+- Fuquay-Varina
+- Hamptons
+- Mississippi
+- Missouri
+- New Jersey
+- New York
+- North Carolina
+- Ohio
+- Tennessee
+- Texas
+- Virginia
+people:
+- Gena Fox
+- Isaac Mizrahi
+organisations:
+- At Large
+- Collection186
+- Mizrahi
+- Project Runway All Stars
+- Target
 ---
 
 Target announced this week a slew of new stores and the upcoming debut of a line of stylish employee uniforms.

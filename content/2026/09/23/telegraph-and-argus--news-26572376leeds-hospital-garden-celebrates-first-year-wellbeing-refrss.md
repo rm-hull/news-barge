@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487679.jpg?type=og-image
+locations:
+- St James's
+- St James’s University Hospital
+- Wellbeing Garden
+- White Rose Wellbeing Garden
+people:
+- Antony Kildare
+organisations:
+- Bexley Wing
+- Gledhow Wing
+- Leeds Teaching Hospitals NHS Trust
+- Royal Horticultural Society
 ---
 
 *(Image: Supplied)*

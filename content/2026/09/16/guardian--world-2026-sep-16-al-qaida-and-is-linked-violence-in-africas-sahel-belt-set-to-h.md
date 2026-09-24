@@ -13,6 +13,59 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Abyan
+- Afghanistan
+- Arabian Peninsula
+- Bamako
+- Berlin
+- Burkina Faso
+- Chad
+- Democratic Republic of Congo
+- Europe
+- Greater Sahara
+- Iran
+- Iraq
+- Israel
+- Kabul
+- Kati
+- Kidal
+- Mali
+- Middle East
+- Mogadishu
+- Mozambique
+- New York
+- Niger
+- Nigeria
+- Ouagadougou
+- Sahel
+- Shabwa
+- Somalia
+- US
+- Washington
+- sub-Saharan Africa
+people:
+- Acled
+- Ayman al-Zawahiri
+- Osama bin Laden
+- Peter Bofin
+- Saif al-Adel
+- Ulf Laessing
+organisations:
+- AQAP
+- Acled
+- Al-Qaida
+- Armed Conflict Location
+- Azawad Liberation Front
+- FLA
+- Islamic State
+- JNIM
+- Jama’at Nusrat ul-Islam wa al-Muslimin
+- Konrad Adenauer
+- UN
+- United Nations
+- al-Qaida
+- al-Shabaab
 ---
 
 Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping offensives by groups linked to al-Qaida and Islamic State, according to new figures compiled by the conflict monitor Acled.

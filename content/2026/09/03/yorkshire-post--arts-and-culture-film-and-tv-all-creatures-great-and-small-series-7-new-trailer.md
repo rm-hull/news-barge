@@ -16,6 +16,57 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Edinburgh
+- Mrs Hall
+- Skeldale House
+people:
+- '![Dorothy'
+- Alf Wight
+- Anna Madeley
+- Callum Woodhouse
+- Caolan McCarthy
+- Charlotte
+- Dad
+- Dora
+- Dorothy
+- Gaia Wise
+- Granville Bennett
+- Hall
+- Hebden
+- Helen Herriot
+- Helen Williams
+- Imogen Clawson
+- Isabella Ward
+- James Herriot
+- Jenny
+- Jimmy
+- Maggie
+- Maimie McCoy
+- Mollie Winnard
+- Nicholas Ralph
+- Patricia Hodge
+- Pumphrey
+- Rachel Shenton
+- Richard
+- Rosie
+- Sam West
+- Samuel West
+- Siegfried Farnon
+- Thomas Riches
+- Tony Pitts
+- Tricki
+- Tristan Farnon
+organisations:
+- All Creatures Great
+- All Creatures Great and Small
+- Mrs Hall
+- PBS
+- Playground Television UK Ltd
+- School’
+- Skeldale House
+- Thirsk
+- Yorkshire Dales
 ---
 
 # All Creatures Great and Small Series 7 new trailer reveals Siegfried’s surprise kitchen kiss

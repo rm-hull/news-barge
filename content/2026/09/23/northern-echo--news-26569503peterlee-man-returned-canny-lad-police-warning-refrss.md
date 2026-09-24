@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21483757.jpg?type=og-image
+locations:
+- Bede Way
+- Peterlee
+- The Canny Lad
+people:
+- Connor Marsden
+- Melissa Tate
+- Michael Embleton
+- Sian Allan-Gilbert
+organisations: []
 ---
 
 *(Image: The Northern Echo)*

@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Coffs Harbour
+- NSW
+- Sydney
+people:
+- Anthony Albanese
+- Bob Brown
+- Chris Minns
+- David Pocock
+- Larissa Waters
+- Lidia Thorpe
+- Sue Higginson
+organisations:
+- Australia Institute
+- Bob Brown Foundation
+- Coalition
+- First Nations’
+- Greenpeace
+- Ken Henry-led Australian Climate and Biodiversity Foundation
+- NSW Labor
+- New South Wales Greens
+- One Nation
+- Senate
+- WWF
+- Wilderness Society
 ---
 
 A New South Wales Greens MP has pleaded with her federal colleagues not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars’ worth in carbon credits for creating a koala national park.

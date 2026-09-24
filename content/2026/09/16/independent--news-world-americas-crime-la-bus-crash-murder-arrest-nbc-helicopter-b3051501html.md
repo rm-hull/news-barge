@@ -13,6 +13,35 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- Chatsworth
+- De Soto Avenue
+- Los Angeles
+- Los Angeles Metro
+- Manciniw
+- Metro Line 166
+- Nordhoff Street
+- Southern California
+people:
+- Bailee Lynn Rios
+- Daniel Castillo
+- Edy Gutierrez Mejia
+- Eliana Moreno
+- Gage Weida
+- George Marciniw
+- NewsChopper4
+- Zoey Tur
+organisations:
+- Los Angeles County Department of Medical Examiner
+- Los Angeles Fire Department
+- Los Angeles Police Department
+- NBC Los Angeles
+- NBC News
+- NBC4
+- NBCLA
+- PiC
+- SUV
+- Telemundo
 ---
 
 A California woman has been arrested on murder charges after an SUV crashed into a Los Angeles Metro bus on Tuesday, resulting in multiple injuries and two deaths.

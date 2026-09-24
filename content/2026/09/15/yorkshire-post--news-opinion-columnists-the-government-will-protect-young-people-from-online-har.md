@@ -17,6 +17,20 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- UK
+people:
+- Jess Phillips
+- 'Lisa Nandy ##'
+- Liz Kendall
+- Peter Byrne
+organisations:
+- Apple
+- Department
+- Google
+- Government
+- Home Office
+- Internet Watch Foundation
 ---
 
 # The Government will protect young people from online harms - Lisa Nandy

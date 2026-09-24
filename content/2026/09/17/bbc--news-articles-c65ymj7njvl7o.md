@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Dumfries House
+- Scotland
+- UK
+- US
+- Washington
+people:
+- Bernie Sanders
+- Donald Trump
+- Evan Hubinger
+- Jack Clark
+- Jacob Coxon
+- Jensen Huang
+- Kanishka Narayan
+- King Charles
+- Mustafa Suleyman
+- Pope
+- Sam Altman
+- Steve Bannon
+organisations:
+- AI
+- Anthropic
+- BBC
+- Microsoft
+- Nvidia
+- OpenAI
 ---
 
 ![King Charles wearing a grey suit jacket and white shirt and pink tie, talking to Jensen Huang, the CEO of Nvidia, who is wearing a dark suit, white shirt and blue tie.](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/bc97/live/7b12bc60-b296-11f1-9b18-ad61bef6e34f.jpg)

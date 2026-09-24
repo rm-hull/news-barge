@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- China
+- North Korea
+- Russia
+- South Korea
+- U.S.
+- Wonsan
+people:
+- Donald Trump
+- Kim Jong Un
+- Marshal Pak Jong Chon
+organisations:
+- Joint Chiefs of Staff
+- KCNA
+- Korean Central News Agency
 ---
 
 North Korea said Monday it conducted a joint live-fire drill involving missiles, artillery and drones that it claimed demonstrated “huge destructive power.”

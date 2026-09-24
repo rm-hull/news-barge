@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Brisbane
+- Fitzroy River
+- Fitzroy River Flatwater Facility
+- Queensland
+- Rockhampton
+people:
+- Andrew Liveris
+- Drew Ginn
+- Jean-Christophe Rolland
+- Thomas Konietzko
+organisations:
+- BBC Radio
+- Canoe Sprint
+- GIICA
+- Games Independent Infrastructure and Coordination Authority
+- International Canoe Federation
+- Paddle Worldwide
+- World Rowing
 ---
 
 ![An Australian saltwater crocodile basks on a riverbank](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/daef/live/b3ed1ef0-b277-11f1-8456-c95813ee5c28.jpg)

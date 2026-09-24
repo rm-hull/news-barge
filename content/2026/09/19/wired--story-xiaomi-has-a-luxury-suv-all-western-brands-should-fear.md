@@ -12,6 +12,37 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/191:100/w_1280,c_limit/8cd1c1fbdbb04c342381a7b512b285b2.png
+locations:
+- America
+- Beijing
+- China
+- Europe
+- RMB
+- Range Rover
+- Temu Range Rover
+- UK
+- US
+people:
+- Marc McGrath
+- Musk
+- Xiaomi
+organisations:
+- BYD
+- Bentley
+- Bloomberg
+- EPA
+- Ford
+- Hyundai Tucson
+- Jaecoo
+- N90 Max Studio
+- Nissan
+- Nvidia
+- Range Rover
+- SUV
+- Schaeffler Group
+- SkyNomad
+- WIRED
+- Xiaomi Auto
 ---
 
 If there's one thing that can unite the world in these AI-troubled times, it's everyone's love of SUVs. For decades, the SUV has been the savior of the car world. Accounting for nearly half of all new sales worldwide, this is by some margin the largest segment in the global auto industry.

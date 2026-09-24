@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Manhattan
+- New Jersey
+- New York City
+- Spring Street
+- UK
+- USA
+people: []
+organisations:
+- 988 Suicide and Crisis Lifeline
+- LinkedIn
+- New York Police Department
+- No. 4
+- Rutgers University
+- Samaritans
+- The Independent
+- The New York Daily News.
+- The New York Post.
+- The Post
+- amNewYork
 ---
 
 Two college friends, fatally struck by a New York City subway train while sitting on the tracks, appeared not to realize it was about to hit them, according to reports.

@@ -13,6 +13,27 @@ categories:
 - History
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- China
+- Russia
+- US
+- United States
+- White House
+people:
+- Rahim Amir
+organisations:
+- Department of the Air Force
+- Google News
+- PC
+- PCs
+- Pentagon
+- RAND Project AIR FORCE
+- RGB
+- SFF
+- Space Force
+- TechRadar Pro
+- Top Secret
+- US Space Force
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/8Lhc2Pmpds8V2SDEhPSdsY.jpg) 

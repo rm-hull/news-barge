@@ -12,6 +12,13 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-off
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Andreessen Horowitz
+organisations:
+- AI
+- a16z
 ---
 
 Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”

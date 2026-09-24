@@ -11,6 +11,23 @@ description: Gabriela Moreira, CEO of Quint, explains how catching flaws early c
 image: https://cdn.mos.cms.futurecdn.net/XtCYe6fmkjnRuMpRFwTEbc-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+people:
+- AI
+- Gabriela Moreira
+- Owain Williams
+organisations:
+- AI
+- BA
+- CRM
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain Williams
+- Quint
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![headshot of Gabriela Moreira — CEO, Quint](https://cdn.mos.cms.futurecdn.net/XtCYe6fmkjnRuMpRFwTEbc.jpg) 

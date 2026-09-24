@@ -13,6 +13,28 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Dallas.
+- Duesseldorf
+- France
+- Frankfurt
+- Germany
+- Iran
+- Middle East
+- Spain
+- Strait of Hormuz
+- US
+people:
+- Christine Lagarde
+- Donald Trump
+organisations:
+- Bank of England
+- Bank of Japan
+- ECB
+- European Central Bank
+- Federal Reserve
+- German Federal Bank
+- Governing Council
 ---
 
 ## The European Central Bank has raised interest rates by a quarter point, lifting its deposit rate to 2.5%, as the energy shock driven by the Iran war pushes eurozone inflation higher and forces a second hike in three months.

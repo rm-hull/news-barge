@@ -12,6 +12,42 @@ image: https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jp
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Dominion
+- Europe
+- Germany
+- Madison
+- Oak Ridge
+- Richmond
+- Tennessee
+- Virginia
+- Washington State
+- Wisconsin
+people:
+- Realta
+- Stellaris
+organisations:
+- AI
+- Arc
+- CFS
+- Chelan County Public Utility District
+- Commonwealth Fusion Systems
+- Dominion Energy
+- Electric
+- Eni
+- Google
+- Helion
+- Madison Gas
+- Microsoft
+- Oscar Mayer
+- Polaris
+- Proxima Fusion
+- RWE
+- Realta Fusion
+- Stellaris
+- TechCrunch
+- Tennessee Valley Authority
+- Type One Energy
 ---
 
 Fusion startup Realta Fusion this week announced a deal with Madison Gas and Electric that will place one of the first grid-connected fusion power plants in the country in Wisconsin. The partnership comes as utilities around the world have been jockeying to court fusion startups, a courtship that says as much about utilities’ anxiety over future power supply as it does about fusion’s progress.

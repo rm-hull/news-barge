@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- France
+- Queens
+- San Sebastián
+- Spain
+people:
+- Agnes Vardà
+- Alejandro Iñárritu
+- Ben Shirinian
+- Bette Davis
+- Catherine Deneuve
+- Christopher Nolan
+- David Lynch
+- Emma Stone
+- Francis Ford Coppola
+- Gregory Peck
+- Juan Antonio Bayona
+- Lauren Bacall
+- Michael Haneke
+- Naomi Watts
+- Noah Baumbach
+- Parker Posey
+- Pedro Almodóvar
+- Ryan Murphy
+- Watts **
+- Werner Herzog
+- Woody Allen
+- Zinemaldia
+organisations:
+- 21 Grams'
+- BAFTA
+- British BAFTAs
+- Emmy
+- Golden Globe
+- New York Times
+- New York Times'
 ---
 
 ## With a career spanning five decades, the English actress has moved between cult films and "blockbusters". The award she will receive with director Werner Herzog adds to her Oscar, BAFTA, Emmy and Golden Globe nominations.

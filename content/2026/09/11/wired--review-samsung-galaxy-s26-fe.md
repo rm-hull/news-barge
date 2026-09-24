@@ -12,6 +12,11 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations: []
+people: []
+organisations:
+- Motorola Moto G Stylus
+- Samsung
 ---
 
 Snapping shots in daylight with the main camera resulted in lovely photos I’d be happy to share. There’s plenty of detail, decent sharpness, pleasing dynamic range, and vibrant but not over-the-top colors. Samsung’s automatic Night Mode helps with low-light performance, as long as you hold still. The 2X zoom crops from the main camera and mostly does a good job.

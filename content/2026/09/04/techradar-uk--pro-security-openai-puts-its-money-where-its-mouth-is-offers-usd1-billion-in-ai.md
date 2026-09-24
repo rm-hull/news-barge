@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- US
+- United States
+people:
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- Blue
+- Daybreak
+- Google News
+- MS-ISCA
+- MS‑ISCA
+- Multi-State Information Sharing and Analysis Center
+- OpenAI
+- Red
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![ChatGPT logo on a smartphone.](https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX.jpg) 

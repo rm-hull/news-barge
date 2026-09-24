@@ -14,6 +14,29 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/36/94/1200x675_cmsv2_78f3280b-2051-5b7f-9e76-7996781d6dd6-9923694.jpg
+locations:
+- Greenland
+- Kingdom of Denmark
+- Mestersvig
+- Narsarsuaq
+- New York
+- North Atlantic Area
+- Pituffik
+- U.S.
+- US
+- Washington
+people:
+- Donald Trump
+- Jens-Frederik Nielsen
+- Mette Frederiksen
+organisations:
+- Foreign Ministry
+- Pituffik Space Base
+- Territorial Waters
+- Truth Social
+- US Department of Defense
+- US Space Force
+- United Nations General Assembly
 ---
 
 ## The agreement will enable the US to expand its military presence on Greenland through the modernisation and enlargement of its current Pituffik Space Base and the establishment of new defence areas at Narsarsuaq and Mestersvig.

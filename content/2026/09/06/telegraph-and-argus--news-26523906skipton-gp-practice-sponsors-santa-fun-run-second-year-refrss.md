@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Skipton
+people:
+- Paul Ellis
+- Shane Beggan
+organisations:
+- Fisher Medical
+- Fisher Medical Centre
+- Rotary
+- Skipton
 ---
 
 A GP practice is already getting into the festive spirit by sponsoring a popular community event.

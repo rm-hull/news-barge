@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baltic Sea
+- Denmark
+- England
+- Europe
+- Museums of North Jutland
+- North Sea
+- Rebild
+- Scandinavia
+people:
+- Edward the Elder
+- Thor
+- Torben Sarauw
+organisations: []
 ---
 
 A homeowner stumbled upon the largest hoard of Viking Age silver ever found in Denmark while doing gardening work to remove “stubborn grass” in his backyard.

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Malaysia
+people:
+- Goh Khuay Hou
+- Goh Khuay Par
+- Mei Hua
+organisations:
+- AP
+- Associated Press
+- Lilly Endowment Inc
+- The Conversation US
 ---
 
 Two brothers carry on the traditional art of handmade Chinese coffins in Malaysia, in photos

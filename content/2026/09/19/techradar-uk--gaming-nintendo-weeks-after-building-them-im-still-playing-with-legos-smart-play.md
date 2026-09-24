@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/QTNquTV7wYQTk7UqH42DkS-2560-80.jpg
+locations:
+- Gengar
+people:
+- Cynthia
+- Garchomp
+- Lego Eevee
+- Pikachu
+organisations:
+- Bulbasaur
+- Charizard
+- Gengar
+- Geodude
+- Google News
+- Hamish
+- LEGO
+- Lapras
+- Lego Charmander
+- Lego Cubone
+- Lego Sprigatito
+- Pikachu
+- Quaxly Battle
+- Squirtle Squad
+- TechRadar
+- The Pokémon Company
 ---
 
 ![Pikachu next to his house, it still needs to be built](https://cdn.mos.cms.futurecdn.net/QTNquTV7wYQTk7UqH42DkS.jpg)

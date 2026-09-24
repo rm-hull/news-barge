@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Australia
+- Bridgehampton
+- California
+- Cape Cod
+- Florida
+- Georgia
+- Gulf of Mexico
+- Hamptons
+- Long Island
+- Martha’s Vineyard
+- Massachusetts
+- New England
+- New York
+- North Carolina
+people:
+- Bradley Peterson
+- Frank Quevedo
+- Greg Metzger
+- Julie Walker
+- Philip Marcelo
+- Ted Shaffrey
+organisations:
+- Associated Press
+- Florida Museum of Natural History
+- Netflix
+- South Fork Natural History Museum and Nature Center
+- Southampton High School
+- Stony Brook University
 ---
 
 Just off one of New York’s famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day’s prize catches: a young but powerful sand tiger shark.

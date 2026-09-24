@@ -12,6 +12,19 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg
+locations:
+- UK
+people:
+- Craig Hale
+organisations:
+- AV
+- Craig’s
+- Google News
+- IT, HR
+- Logitech
+- ROI
+- Real Estate
+- TechRadar Pro
 ---
 
 ![Office with laptops](https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4.jpg)

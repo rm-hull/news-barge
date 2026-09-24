@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Education & Learning
+locations:
+- Far East
+- Kamchatka
+- Khabarovsk Krai
+- Moscow
+- Pacific
+- Russia
+- Russian Far East
+- Siberia
+- Trans-Siberian Railway
+- Yakutia
+people:
+- Lilia Sergeeva
+- Peter the Great
+organisations:
+- Health Ministry
+- Krasnoyarsk State Medical University
+- Mel
+- Pirogov University
+- Sechenov University
 ---
 
 **Lilia Sergeeva & Euronews**

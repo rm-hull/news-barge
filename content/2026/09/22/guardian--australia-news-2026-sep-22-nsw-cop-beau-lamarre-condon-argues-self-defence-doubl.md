@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/9d63059b5ec2b3b95e44913aa725afea85426260/0_0_649_519/master/649.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a363a8851f074e7fcc447bf2e806905
+locations:
+- Baird’s Paddington
+- Bungonia
+- Goulburn
+- Perth
+- Sydney
+- Western Australia
+people:
+- Beau Lamarre-Condon
+- Brett Hatfield SC
+- Davies’
+- Jesse Baird
+- Jesse Baird.
+- John Stratton SC
+- Luke Davies
+- Natalie Adams
+organisations: []
 ---
 
 A former police officer claims he killed two men in self-defence and began cleaning up the crime scene because he “panicked”, a Sydney court has heard.

@@ -11,6 +11,40 @@ image: https://static.independent.co.uk/2026/09/09/13/2294307059..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Downing Street
+- Gatwick
+- Heathrow
+- Manchester
+- Naples
+- PA
+- Sri Lanka
+- Swanwick
+- UK
+people:
+- Gareth Fuller
+- Heidi Alexander
+- Martin Rolfe
+- Miguel Delaney
+- Neal McMahon
+- Yvonne Moynihan
+organisations:
+- Airlines UK
+- Arsenal
+- BBC Radio 4
+- British Airways
+- Cebr
+- Centre for Economic and Business Research
+- Civil Aviation Authority
+- Napoli
+- National Air Traffic Services’
+- Nats
+- Puspamathi Manogram
+- Ryanair
+- The Independent
+- Tui Airways
+- Wizz Air UK
+- easyJet
 ---
 
 The number of flights cancelled after a technical failure of the UK’s air traffic control system rose above 2,000 on Wednesday, as the transport secretary told MPs that the meltdown suffered by passengers was avoidable.

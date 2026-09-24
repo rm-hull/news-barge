@@ -11,6 +11,36 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e98/live/598049
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Boryspil
+- China
+- Delhi
+- Europe
+- India
+- Japan
+- Kazakhstan
+- Kremlin
+- Kyiv
+- Moscow
+- Moscow-Delhi
+- Mumbai
+- Russia
+- Russia-India
+- US
+- Ukraine
+- West
+people:
+- Kassym-Jomart Tokayev
+- Kyiv
+- Narendra Modi
+- Vladimir Putin
+organisations:
+- BBC
+- Bharat Petroleum Corp
+- Kommersant
+- Quad
+- Shanghai Cooperation Organisation
 ---
 
 Watch: Modi tells Putin "move on from an endless war to an end of war"

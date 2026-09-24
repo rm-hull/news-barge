@@ -12,6 +12,48 @@ image: https://cdn.mos.cms.futurecdn.net/72NfexccWB9bbs4Y3p4Pwd-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- Jurassic Park
+- States
+- UK
+- US
+- West
+people:
+- Amy Wong
+- Bender Bending Rodríguez
+- Billy West
+- Calculon
+- David Herman
+- Hermes
+- Hubert J. Farnsworth
+- John DiMaggio
+- John Zoidberg
+- Katey Sagal
+- Kif Kroker
+- Lauren Tom
+- Maurice LaMarche
+- Nibbler
+- Phil LaMarr
+- Philip J. Fry
+- Tom Wardley
+- Tress MacNeille
+- Turanga Leela
+- Zapp Brannigan
+organisations:
+- Disney
+- Film Studies
+- Future plc
+- Hermes Conrad
+- Hulu
+- Mom
+- Morbo
+- NordVPN
+- Planet Express
+- TechRadar
+- University of South Wales
+- andDisney
 ---
 
 ![Promotional image for Futurama season 14](https://cdn.mos.cms.futurecdn.net/72NfexccWB9bbs4Y3p4Pwd.jpg) 

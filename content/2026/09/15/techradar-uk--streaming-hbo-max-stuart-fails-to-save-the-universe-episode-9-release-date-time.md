@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- SGT
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Bert
+- Denise
+- George Cooper Sr.
+- Stuart Fails
+organisations:
+- Google News
+- HBO
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Stuart, Denise and Bert look shocked](https://cdn.mos.cms.futurecdn.net/5NnRKczENMurAdWutbeTba.jpg) 

@@ -13,6 +13,23 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21479398.jpg?type=og-image
+locations:
+- Alamy
+- Fulford Ings
+- Natural England
+- Norway
+- River Ouse
+- York
+people:
+- David Hargreaves
+- Harald III
+- Robbie Brett
+- Stephen Cottrell
+organisations:
+- CCT
+- Carstairs Countryside Trust
+- Church Commissioners for England
+- Fulford Ings
 ---
 
 *(Image: Alamy)*

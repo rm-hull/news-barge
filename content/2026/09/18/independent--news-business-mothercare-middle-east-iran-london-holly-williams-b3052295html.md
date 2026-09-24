@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- Middle Eastern
+- UK
+people:
+- Clive Whiley
+organisations:
+- Boots
+- Mothercare
 ---
 
 Mothercare has warned over a “highly uncertain” future for the firm after its Middle East partner revealed it was set to close most of its franchised stores across the region next year.

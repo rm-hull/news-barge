@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Dubai
+- Gulf
+- Iran
+- Marina
+- UAE
+- US
+people: []
+organisations:
+- Aquaventure Waterpark
+- DET
+- Dubai Department of Economy and Tourism
+- Dubai Invite’
+- Dubai Mina Seyahi
+- Etihad Rail
+- IHG Hotels & Resorts
+- Le Méridien Mina Seyahi Beach Resort & Waterpark
+- LinkedIn
+- ME Dubai
+- Meliá Desert Palm
+- The Westin Dubai Mina Seyahi Beach Resort
 ---
 
 ## More than 30,000 packages have already been distributed under the scheme, which offers discounts and perks for residents who invite friends and family from overseas to visit.

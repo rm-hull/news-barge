@@ -12,6 +12,22 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Asia
+- Australia
+- Canberra
+- China
+- Great Green Wall
+- Los Angeles
+- Middle East
+- New South Wales
+- Sahel
+people:
+- Ashok Gupta
+- Tegan Clark
+organisations:
+- Australian National University
+- University of California
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685035.jpg?w=840)

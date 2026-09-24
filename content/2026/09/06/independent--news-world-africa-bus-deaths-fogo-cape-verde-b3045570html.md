@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/06/18/2293345898..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic Ocean
+- Campanas de Cima
+- Cape Verde
+- Cape Verde’s
+- Fogo Island
+- Sao Francisco de Assis Regional Hospital
+- Sao Lourenco
+- Sao Lourenco Church
+- West Africa
+people:
+- Jose Maria Pereira Neves
+- José Maria Pereira Neves
+organisations:
+- Facebook
+- Inforpress
 ---
 
 At least 25 people, many of them teenagers, have been killed after a bus plunged into a ravine on Fogo, one of Cape Verde’s islands.

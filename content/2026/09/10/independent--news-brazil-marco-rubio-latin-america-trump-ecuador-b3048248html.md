@@ -13,6 +13,20 @@ image: https://static.independent.co.uk/2026/09/10/21/APTOPIX_Brazil_Independenc
 categories:
 - News & Politics
 - UK
+locations:
+- Brazil
+- Caribbean
+- Ecuador
+- Latin America
+- Mexico City
+people:
+- Bolsonaro
+- Gilda
+- Leslie Mazoch
+- Marco Rubio
+- Trump
+organisations:
+- Trump
 ---
 
 Trump fans in Brazil, Rubio honored, and other top photos from Latin America and the Caribbean

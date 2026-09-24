@@ -12,6 +12,58 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Al Azraq
+- Baltic Sea
+- Europe
+- Guards' West Azerbaijan
+- Gulf of Oman
+- Iran
+- Israel
+- Jordan
+- Kharg Island
+- Kremlin
+- Lebanon
+- Middle East
+- Mirjaveh
+- Moscow
+- New Andros
+- Nord Stream
+- Port Rashid
+- Russia
+- Saudi Arabia
+- Sistan-Baluchistan
+- Strait of Hormuz
+- Telegram
+- US
+- Ukraine
+- United Arab Emirates
+people:
+- Dmitry Peskov
+- Mamosta Mohammad Nezhati
+- Molavi Mohammad Anvar Rigi
+- Trump
+organisations:
+- '## Centcom'
+- Basij
+- CENTCOM
+- Fars
+- Gas Infrastructure Europe
+- Guards'
+- HSBC
+- Hezbollah
+- IRGC
+- Islamic Revolutionary Guard Corps
+- LNG
+- Mehr
+- National News Agency
+- Reuters
+- Revolutionary Guard
+- Revolutionary Guards
+- UKMTO
+- US Central Command
+- US Navy
+- United Kingdom Maritime Trade Operations
 ---
 
 The US says a submarine drone “malfunctioned” before it fell into Iranian hands, adding that it was an older model and not being used for sensitive operations.

@@ -13,6 +13,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- David Davies
+- Stuart Togwell
+organisations:
+- Government
+- Kier Group
 ---
 
 Construction giant Kier Group has said it will stop new investment into its property development business, in a fresh blow to the Government’s housebuilding ambitions.

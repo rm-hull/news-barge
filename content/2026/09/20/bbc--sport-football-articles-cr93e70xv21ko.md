@@ -13,6 +13,23 @@ categories:
 - Video Gaming
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dffc/live/8ec1f110-b4d3-11f1-b55d-81b847f392df.jpg
+locations:
+- Bet365 Stadium
+- England
+- Pattani
+- Stoke
+- Thailand
+people:
+- Andros Townsend
+organisations:
+- Andros Townsend
+- Crystal Palace
+- Instagram
+- Kanchanaburi Power
+- Luton
+- PT Prachuap
+- Stoke
+- Tottenham
 ---
 
 ![Andros Townsend playing for Kanchanaburi Power](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/dffc/live/8ec1f110-b4d3-11f1-b55d-81b847f392df.jpg)

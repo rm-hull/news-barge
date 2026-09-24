@@ -14,6 +14,29 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Canada
+- China
+- Kyiv
+- Montreal
+- Ottawa
+- Strasbourg
+- US
+- Ukraine
+- United States
+people:
+- Carney
+- Donald Trump
+- Friedrich Merz
+- Von der Leyen
+- von der Leyen
+organisations:
+- CETA
+- EU
+- European Commission
+- European Union
+- State of the European Union
 ---
 
 Von der Leyen told the European Parliament in Strasbourg that, as democracies facing a "fracture in the international rules-based system", Brussels and Ottawa needed to pull closer together.

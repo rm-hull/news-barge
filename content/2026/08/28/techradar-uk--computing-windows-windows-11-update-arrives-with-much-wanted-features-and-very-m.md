@@ -11,6 +11,18 @@ description: Miss Microsoft's old-style chunky white mouse pointer? Weird Window
 image: https://cdn.mos.cms.futurecdn.net/C6fPZ2hYUPc6R6cTZMY3pQ-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Reddit
+- Redditor
+organisations:
+- Bing
+- Google News
+- Hachette UK
+- Jen Gentleman
+- Microsoft
+- Reddit
+- Windows Latest
 ---
 
 ![A woman getting frustrated by her Windows 11 laptop](https://cdn.mos.cms.futurecdn.net/C6fPZ2hYUPc6R6cTZMY3pQ.jpg) 

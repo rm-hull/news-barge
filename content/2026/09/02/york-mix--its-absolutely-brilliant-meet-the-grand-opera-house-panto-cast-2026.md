@@ -12,6 +12,32 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Grand Opera House York
+people:
+- Captain Hook
+- Ethel Mermaid
+- Holly Atterton
+- Jimmy Bryant
+- Joe Sleight
+- Jon Monie
+- Kirsty Sparks
+- Laura Castle
+- Mamma Mia
+- Nick Jr Go Go Go
+- Peter Pan
+- Rocky Horror
+- Smee
+- Tinker Bell
+- Tom Lister
+organisations:
+- Blood Brothers
+- Emmerdale
+- Grand Opera House York
+- Starlight Express
+- Top Hat
+- UK Productions
+- West End
 ---
 
 The countdown to Christmas has officially started – oh yes it has! – as we met the cast of *The Further Adventures of Peter Pan: The Return of Captain Hook* at the Grand Opera House York.

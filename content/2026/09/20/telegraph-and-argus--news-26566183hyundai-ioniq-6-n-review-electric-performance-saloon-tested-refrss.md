@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478817.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- Android Auto
+- Apple CarPlay
+- Bose
+- Hyundai IONIQ
+- Hyundai Ioniq
+- Hyundai’s N division
 ---
 
 The Hyundai Ioniq 6 N looks every inch the aggressive, track-influenced electric performance car and, crucially, it drives like one too.

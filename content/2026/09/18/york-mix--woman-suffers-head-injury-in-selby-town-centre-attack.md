@@ -11,6 +11,13 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/finkle-street-selby-zulu-lounge-gsv.jpg
+locations:
+- Finkle Street
+- Selby
+- Zuzu Lounge
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 A woman was left in hospital after an attack in Selby.

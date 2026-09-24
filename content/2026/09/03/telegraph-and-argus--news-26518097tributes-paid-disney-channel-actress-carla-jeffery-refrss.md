@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Arts & Culture
 - Film & TV
+locations:
+- Cameron Parks
+- Houston
+- Zombietown
+people:
+- Bree
+- Carla Jeffery
+- CarlaBoo
+- Carlon Jeffery
+- Chandler Kinney
+- Good Luck Charlie
+- Jeffrey
+- Keysha Black
+- Milo Manheim
+- Willa
+- Zed
+- iCarly
+organisations:
+- A.N.T
+- Alexanders Talent
+- Alexanders Talent Management
+- DISNEY Channel
+- Disney Channel
+- Instagram
+- Mo-Nique
+- Zombies
 ---
 
 *(Image: Getty Images)*

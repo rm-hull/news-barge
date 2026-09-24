@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- East Yorkshire
+- Great Hatfield
+- Hornsea
+- Hull Road
+people:
+- Liz Clapham
+organisations:
+- BBC
+- ERYC
+- East Riding of Yorkshire Council
+- Humberside Police
+- Land Rover
+- The Yorkshire Post
 ---
 
 # Wedding venue boss 'fed up' with torched car on her land which police and council won't move

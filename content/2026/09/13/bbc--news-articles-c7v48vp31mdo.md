@@ -12,6 +12,40 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- China
+- Ireland
+- Massachusetts
+- UK
+- US
+- Washington
+people:
+- Dario Amodei
+- Donald Trump
+- Elon Musk
+- George Stephanopoulos
+- Hakeem Jeffries
+- Jacob Coxon
+- Jake Tapper
+- Laura Kuenssberg
+- Mike Johnson
+- Rep Lori Trahan
+- Sam Altman
+organisations:
+- ABC
+- AI Security Institute
+- AISI
+- Anthropic
+- BBC
+- CNN
+- ChatGPT-maker
+- Congress
+- House
+- Mythos AI
+- OpenAI –
+- State of the Union
+- xAI
 ---
 
 President Trump says 'negative forces' bringing up AI risks that won't happen

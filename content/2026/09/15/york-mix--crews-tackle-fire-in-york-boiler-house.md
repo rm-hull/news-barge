@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- '#### James Street'
+- Acomb
+- James Street
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Two crews were called to a fire in York last night (Monday).

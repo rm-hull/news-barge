@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Airdrie
+- Barnsley
+- Billingham Baptist Church
+- Colney Hatch Lane
+- HMP Frankland Dad
+- Hornsey
+- London
+- Muswell Hill
+- North East
+- Stockton
+- Teesside
+- UK
+- Wood Green Crown Court
+people:
+- Dominique Burrell
+- John Grant
+- Liam Levy
+organisations:
+- Broomknoll Church of Scotland
+- Crown Prosecution Service
+- Metropolitan Police
+- Ward Green Baptist Church
 ---
 
 *(Image: PA/MET POLICE)*

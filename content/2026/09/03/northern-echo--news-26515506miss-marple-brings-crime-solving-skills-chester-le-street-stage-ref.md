@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Chester-le-Street
+- Dryburn Hospital
+- Durham
+- Miss Blacklock
+- North East
+- Park View Theatre
+people:
+- Agatha Christie
+- Jack
+- Lee Passmoor
+- Miss Marple
+- Peter Pan’
+organisations:
+- Dryburn Theatrical Workshop
+- Park View Theatre
 ---
 
 *(Image: Dryburn Theatrical Workshop)*

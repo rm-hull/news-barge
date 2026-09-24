@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- South Walmgate
+- Willow House
+- York
+people:
+- David Skaith
+organisations:
+- City of York Council’s Council Housing
+- Combined Executive Committee
+- Local Transport Grant
+- Mayoral Challenge Fund
+- NIP
+- Neighbourhood Improvement Plan
+- North Yorkshire Combined Authority
+- Ordnance Lane
+- Vibrant and Sustainable High Streets Fund
 ---
 
 Work is planned to regenerate the South Walmgate area of York with 36 new Council homes and new landscaping.

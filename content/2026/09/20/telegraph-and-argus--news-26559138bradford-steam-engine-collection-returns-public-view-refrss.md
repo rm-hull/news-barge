@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468349.jpg?type=og-image&xType=0&yType=1
+locations:
+- Bingley East
+- Bingley Ms Hall
+- Damart
+people:
+- Ben Northrop
+- David Sturdy
+- Elizabeth Llabres
+- Harry Booth
+- Jane Hall
+- Ms Hall
+- Susan Fricker
+organisations:
+- Bingley Library
+- Bradford Council Museums and Galleries
+- Bradford Museums and Galleries
+- Damart Mill After
+- Labour
+- Museums and Galleries
+- Newsquest
+- William H Smith
 ---
 
 A long-lost collection of model steam engines has returned to public display.

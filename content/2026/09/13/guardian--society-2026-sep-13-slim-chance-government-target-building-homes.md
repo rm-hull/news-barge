@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- Iran
+- London
+- US
+people:
+- Andy Burnham
+- Angela Rayner
+- Laura Kuenssberg
+organisations:
+- Labour
+- Starmer
 ---
 
 The government is unlikely to meet its target of building 1.5m homes in England, Angela Rayner has acknowledged, saying there was only a “slim chance” enough houses would be built before the next election.

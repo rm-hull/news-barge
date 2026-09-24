@@ -12,6 +12,19 @@ image: https://static.independent.co.uk/2026/09/03/13/Lebanon_Israel_3416_.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Israel
+- Lebanon
+- Naqoura
+- Rome
+- Tyre
+people:
+- Malek Ghazi
+organisations:
+- Hezbollah
+- ICRC
+- International Committee of the Red Cross
+- National News Agency
 ---
 
 A Lebanese man who had been held prisoner in Israel was released Thursday, the first such handover since the outbreak of the latest Israel-Hezbollah war six months ago, the International Committee of the Red Cross and two Lebanese security officials said.

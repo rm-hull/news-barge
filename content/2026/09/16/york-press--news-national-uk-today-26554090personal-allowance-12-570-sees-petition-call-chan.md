@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Kenneth Carmichael
+organisations:
+- Bank
+- Government
+- House of Commons
+- ONS
+- Office for National Statistics
+- PA Wire
+- State Pension
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

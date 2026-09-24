@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Lindsey Avenue
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 This is the moment a motorbike rider who failed to stop for police came into contact with the full force of the law in York.

@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI
+- Anthropic
+- OpenAI
+- RubyGems
+- Wall Street Journal
 ---
 
 Agents being tested by OpenAI uploaded hundreds of malicious packages in a cyberattack on software service RubyGems in May, two months before they hacked open-source platform Hugging Face, the company confirmed Friday.

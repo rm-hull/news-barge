@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Massachusetts
+- Plymouth District Courthouse
+- Sutton
+people:
+- '![Light'
+- Dawn Light
+- Jennifer White
+- Lindsay Clancy
+- Nicole Piacentini
+- William Sullivan
+organisations:
+- Light
+- Massachusetts State Police
+- NBC Boston
+- The Independent
+- Toyota
 ---
 
 A Massachusetts woman pleaded not guilty Wednesday after being arrested for allegedly filming jurors outside the Lindsay Clancy trial, saying she was only trying to get a photo of the alleged murderer.

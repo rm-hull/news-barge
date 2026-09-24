@@ -14,6 +14,45 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Armenia
+- Georgia
+- Kazakhstan
+- Kovcheg
+- Krasnodar
+- Kremlin
+- Kyiv
+- Motherland
+- Russia
+- Tbilisi
+- Turkey
+- Ukraine
+- Ulyanovsk
+- Yerevan
+people:
+- Alen Simonyan
+- Anastasia Burakova
+- Ani Khachatryan
+- Daniil Neonov
+- Ivan Nazarov
+- Kovcheg
+- Sophiko Megrelidze
+- Viktor Sobolev
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yabloko
+- Yan Slovitsky
+organisations:
+- AP
+- Dozhd
+- Foreign Ministry
+- Kovcheg
+- RTVI
+- Security Council
+- State Duma
+- Supreme Court
+- The Associated Press
+- Yabloko
 ---
 
 This summer, a 28-year-old digital content marketer packed up his suitcases and duct-taped boxes and fled Russia, leaving behind his family and friends and not knowing when he'll be able to return.

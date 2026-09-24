@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/09/20/05/Sagal-Abdi-Wali.png?tri
 categories:
 - News & Politics
 - UK
+locations:
+- Camden Square
+- Gaza
+- Holborn
+- Israel
+- London Borough of Camden
+- St Pancras
+people:
+- Adbi-Wali
+- Andrew Feinstein
+- Frank Dobson
+- Hamza Chowdhury
+- Keir Starmer
+- Sagal Abdi-Wali
+- Zack Polanski
+organisations:
+- Camden Council
+- Green Party
+- Greens
+- Hamas
+- Labour
+- Liberal Democrats
+- Reform
 ---
 
 Labour has announced its candidate to contest the upcoming by-election for Sir Keir Starmer’s former seat after the former prime minister’s decision to step down from Parliament.

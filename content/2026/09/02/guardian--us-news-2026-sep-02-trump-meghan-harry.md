@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/b5a30bb5a4b6452d787f2096454bd0898b73af40/1
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- California
+- Scotland
+- UK
+- US
+people:
+- Donald Trump
+- Elizabeth II
+- Harry
+- King Charles
+- Mary Anne Trump
+- Meghan
+- Prince Charles
+organisations:
+- Duchess of Sussex
 ---
 
 Donald Trump has weighed in on the Duke and Duchess of Sussex’s move back to Britain, declaring: “I’m happy about it.”

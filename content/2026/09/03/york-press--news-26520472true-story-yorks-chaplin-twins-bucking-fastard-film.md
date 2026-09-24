@@ -13,6 +13,39 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Born
+- Britain
+- Bucking Fastard
+- Fulford Cemetery
+- Hollywood
+- London
+- Tang Hall
+- York Magistrates' Court
+people:
+- Domhnall Gleeson
+- Freda Chaplin
+- God
+- Greta Chaplin
+- Greta Today
+- How York
+- Jack Davenport
+- Jean
+- Joan Holbrooke
+- Julia Darling
+- Juliet Darling
+- Kate
+- Ken Iveson
+- MAXINE GORDON
+- Orlando Bloom
+- Rooney Mara
+- Werner Herzog
+organisations:
+- Cinnamon Trust
+- Fulford Cemetery
+- Tang Hall
+- The Twins
+- York
 ---
 
 ## From Tang Hall to Hollywood: the mysterious York twins who fascinated the world

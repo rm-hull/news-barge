@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alnwick Garden
+- Bishop Auckland Christmas Town
+- Charlotte Tilbury
+- Lilidorei
+- North East
+- Oldest Tree
+- The Garden
+- The Pavilion
+- The Treehouse
+- UK
+people:
+- Christmas’ Lilidorei Grotto
+- Mark Brassell
+- Phil Wilkinson
+organisations:
+- Rare Cadbury
+- The Alnwick Garden
 ---
 
 *(Image: Phil Wilkinson)*

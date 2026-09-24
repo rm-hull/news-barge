@@ -11,6 +11,18 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- UK
+people:
+- Dame Angela Eagle
+- Rebecca McManamon
+- Richard Wilding
+- Sammie Gill
+organisations:
+- British Nutrition Foundation
+- El Niño
+- Gill
+- Guardian
 ---
 
 ![Young adult woman with glasses examining a jar in a grocery store aisle. She is focused on reading the label, surrounded by a variety of food products](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg)

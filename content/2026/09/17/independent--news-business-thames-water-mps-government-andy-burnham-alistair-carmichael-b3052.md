@@ -13,6 +13,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Thames Water
+- UK
+- US
+people:
+- Alistair Carmichael
+- Andy Burnham
+- Emma Reynolds
+- Stefan Rousseau
+organisations:
+- Apollo Global Management
+- Efra Committee
+- Elliott Management
+- Environment, Food and Rural Affairs
+- Government
+- KKR
+- London & Valley Water
+- Ofwat
+- Special Administration
+- Special Administration Regime
+- Thames Water
+- Thames Water-style
 ---
 
 Thames Water’s rescue deal by lenders should be rejected and the Government should take it back into public control after the stricken supplier has been left in a damaging “doom loop”, according to an influential group of MPs.

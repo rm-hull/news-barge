@@ -13,6 +13,19 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/10/28/christopher_thompson.jpeg?trim=71,0,80,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Great Grimsby Crown Court
+- West Yorkshire
+people:
+- Christopher Thompson
+- Tanya Wilkins
+organisations:
+- Kingston-upon-Hull Crown Court
+- Professional Standards Directorate
+- Regional Scientific Support Services
+- Sex Offenders Register
+- West Yorkshire Police
+- West Yorkshire Police’s Professional Standards Directorate
 ---
 
 # Police staff member sentenced for trying to arrange sex with child under 13

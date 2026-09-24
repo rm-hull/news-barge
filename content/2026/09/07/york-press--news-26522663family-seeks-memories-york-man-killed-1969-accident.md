@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb Road
+- Bishopthorpe Road
+- Clements Hall
+- Morrison Road
+- Nunthorpe Road
+- Ridgeway
+- South Bank
+- Stuart Road
+- UK
+- York
+people:
+- Andy
+- Brayton
+- Jane Medd
+- Kate Lock
+- Melvyn Roy Medd
+- Peter Rickaby
+organisations:
+- Clements Hall
+- EU
+- North Gas
+- Planet South Bank
 ---
 
 **Family seeks memories of York man killed in 1969 accident**

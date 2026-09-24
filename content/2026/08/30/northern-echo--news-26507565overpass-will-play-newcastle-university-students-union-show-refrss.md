@@ -15,6 +15,19 @@ categories:
 - Music
 - Technology & Software
 - Video Gaming
+locations:
+- Birmingham
+- Newcastle Overpass
+- North East
+- UK
+people:
+- LIAM RUSSELL
+organisations:
+- HMV
+- Independent Sunderland
+- Newcastle University Students’ Union
+- Overpass
+- The Cluny
 ---
 
 *(Image: LIAM RUSSELL)*

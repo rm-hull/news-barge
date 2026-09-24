@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Film & TV
 - Technology & Software
+locations:
+- Germany
+- Hollywood
+- Saxony-Anhalt
+- South Africa
+- UK
+- Venice
+people:
+- Alex Gibney
+- Ashley St Clair
+- Dogshit
+- Donald Trump
+- Elon Musk
+- George Soros
+- Katie Miller
+- Stephen Miller
+- Team Soros
+- Vladimir Putin
+organisations:
+- Enron
+- Maga
+- Musk
+- Musk’s Department of Government Efficiency
+- WikiLeaks
 ---
 
 Elon Musk has issued an angry tirade at the film-maker behind a four-hour documentary about his life and influence, labelling director Alex Gibney a “bitter old man” who has “zero integrity”.

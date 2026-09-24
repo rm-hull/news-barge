@@ -13,6 +13,18 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/15/00/william-swindells.jpeg?trim=104,0,93,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Hartington Close
+- Rotherham
+- Russell Street
+- South Yorkshire
+- South Yorkshire Police
+people:
+- Ben Partridge
+- William Swindells
+organisations:
+- Rotherham Fortify
+- Sheffield Crown Court
 ---
 
 # Watch: Drug dealer attempts to flee through window as police uncover £145,000 of crack cocaine

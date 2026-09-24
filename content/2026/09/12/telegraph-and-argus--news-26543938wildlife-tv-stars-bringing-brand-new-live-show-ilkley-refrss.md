@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Harrogate
+- Ilkley’s King’s Hall
+- UK
+people:
+- Anna Dimitriadis
+- Beccy Speight
+- Libby Penman
+- Michaela Strachan
+- Ms Strachan
+- Sarah Roberts
+organisations:
+- RSPB
+- Volvo
 ---
 
 *(Image: Supplied)*

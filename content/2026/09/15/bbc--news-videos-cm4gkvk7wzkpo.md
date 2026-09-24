@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- La Escobilla
+- Mexico
+- Oaxaca
+people: []
+organisations: []
 ---
 
 # Mass nesting brings swarms of turtles to Mexican beach

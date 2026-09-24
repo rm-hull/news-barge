@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Britain
+- Kyiv
+- London
+- Moscow
+- Poland
+- Russia
+- UK
+- Ukraine
+- West
+- Yahodyn
+- Yorkshire
+people:
+- Andrii Sybiha
+- Boris Johnson
+- Carl Bildt
+- David Petraeus
+- Stuart Anderson
+- Vladimir) Putin
+- Wes Streeting
+organisations:
+- CIA
+- Conservative Party
+- EU
+- Nato
+- PA Media
+- Telegram
+- Ukrzaliznytsia
 ---
 
 *(Image: PA Media)*

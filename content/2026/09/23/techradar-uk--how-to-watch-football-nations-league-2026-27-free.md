@@ -12,6 +12,87 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/BnxD7H9gN79x2WRyuVo36E-1024-80.jpg
+locations:
+- Andorra
+- Argentina
+- Australia
+- Austria
+- Belgium
+- CA
+- Canada
+- Denmark
+- England
+- France
+- Georgia
+- Germany
+- Glastonbury
+- Greece
+- Israel
+- Italy
+- Kosovo
+- Liechtenstein
+- Lithuania
+- Malta
+- NZ
+- Netherlands
+- New Zealand
+- Northern Ireland
+- Norway
+- Oz
+- Portugal
+- Republic of Ireland
+- Scotland
+- Serbia
+- Slovenia
+- Spain
+- UK
+- US
+- Wales
+- canada
+people:
+- Andy Murray
+- Cristiano Ronaldo
+- Jorge Jesus
+- Jurgen Klopp
+- Khvicha Kvaratskhelia
+- Radiohead
+- Roberto Mancini
+- Sebastien Pocognoli
+- Thomas Tuchel
+- Xavi
+organisations:
+- Azzurri
+- BBC Two
+- BBC iPlayer
+- DAZN
+- England
+- FOX One
+- FOX Sports
+- FS1
+- FourFourTwo
+- Fox Soccer Plus
+- Fubo
+- Future Publishing
+- ITV1
+- L'Equipe TV
+- Monaco
+- Nations League
+- Northern Ireland
+- Premier League
+- RTL
+- RTÉ 2
+- RTÉ Player
+- Scotland
+- Spain
+- TF1
+- Tartan Army
+- TechRadar
+- Three Lions
+- UEFA
+- Virgin Media
+- Virgin Media PlayGet NordVPN
+- Wales
+- YouTube TV
 ---
 
 ![Cristiano Ronaldo, wearing red of Portugal, holds the Nations League trophy.](https://cdn.mos.cms.futurecdn.net/BnxD7H9gN79x2WRyuVo36E.jpg)

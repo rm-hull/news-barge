@@ -12,6 +12,20 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/08/2294113178..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- UK
+- US
+people:
+- Dame Meg Hillier
+- Douglas Elmendorf
+- John Healey
+organisations:
+- Commons Treasury Committee
+- Congressional Budget Office
+- Government
+- Labour
+- OBR
+- Office for Budget Responsibility
 ---
 
 Politicians ought not to target the UK’s budget watchdog over tough choices caused by strained public finances, a prominent committee of MPs has warned.

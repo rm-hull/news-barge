@@ -15,6 +15,28 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Graham James
+- Sarah Silverman
+organisations:
+- Administration
+- Center for Investigative Reporting
+- ChatGPT
+- ChatGPT-maker
+- Chicago Tribune
+- Google
+- Justice Department
+- MediaNews Group-owned
+- New York Daily News
+- New York Times
+- OpenAI
+- OpenAI’s AI
+- The New York Times
+- The Times
+- The Times’
+- Trump
+- Ziff Davis
 ---
 
 The Trump administration is wading into a legal fight between OpenAI and the New York Times, backing the ChatGPT-maker's argument in a closely watched case over how it builds its AI technology by ingesting and processing millions of news articles.

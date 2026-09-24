@@ -12,6 +12,17 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/tYVZGPXqHfVT6RX3PweA7T-1920-80.png
+locations: []
+people:
+- Gabe Newell
+- Jowi Morales
+- Tom
+organisations:
+- Google News
+- Jowi Morales
+- Microsoft
+- USPTO
+- Xbox Cloud Gaming
 ---
 
 ![a gamer waiting for an ad to pass](https://cdn.mos.cms.futurecdn.net/tYVZGPXqHfVT6RX3PweA7T.png)

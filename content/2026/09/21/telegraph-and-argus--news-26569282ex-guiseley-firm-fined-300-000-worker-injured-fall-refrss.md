@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483311.jpg?type=og-image
+locations:
+- Bretton Place
+- Guiseley
+- Leeds Magistrates’ Court
+- Otley Road
+people:
+- Henrietta Ruthven
+- Joseph Tuck
+- Louise Redgrove
+- Matthew Reynolds
+organisations:
+- HART
+- HSE
+- Health and Safety Executive
+- Hillbeck Homes
+- Sowerby Bridge) Ltd
+- UGC
+- West Yorkshire Fire & Rescue
 ---
 
 *(Image: UGC)*

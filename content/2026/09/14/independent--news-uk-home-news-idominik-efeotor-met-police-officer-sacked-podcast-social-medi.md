@@ -13,6 +13,17 @@ image: https://static.independent.co.uk/2026/08/11/18/xf7z5DQHJ1fUhAJ9rJhmhvS-Yv
 categories:
 - News & Politics
 - UK
+locations:
+- Scotland Yard
+people:
+- Adam Slonecki
+- Pc Idominik Efeotor
+organisations:
+- Directorate of Professional Standards
+- Met
+- Metropolitan Police
+- Parliamentary and Diplomatic Protection Command
+- TikTok
 ---
 
 A Metropolitan Police officer has been sacked following persistent breaches of social media regulations, according to an official statement from the force.

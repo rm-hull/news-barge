@@ -14,6 +14,24 @@ image: https://cdn.mos.cms.futurecdn.net/2ENUqyqGzAaLcKfjbUUtdL-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Gamescom
+- Sweden
+people:
+- Carl Ledbetter
+- James Pickard
+- Philip Dilé
+organisations:
+- Black Friday
+- Eurogamer
+- Google News
+- IKEA
+- Ledbetter
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- Xbox
+- YXSTABY
 ---
 
 ![A wall of Xbox controllers in individual storage boxes](https://cdn.mos.cms.futurecdn.net/2ENUqyqGzAaLcKfjbUUtdL.jpg) 

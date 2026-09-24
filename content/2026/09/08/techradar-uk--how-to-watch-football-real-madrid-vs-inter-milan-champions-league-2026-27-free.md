@@ -11,6 +11,66 @@ image: https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- CA
+- Canada
+- Ireland
+- Madrid
+- UK
+- US
+- uk
+people:
+- Aatif Sulleyman
+- Arda Guler
+- Aurelien Tchouameni
+- Bernardo Silva
+- Cristian Chivu
+- Denzel Dumfries
+- Eduardo Camavinga
+- Hakan Calhanoglu
+- Jose Mourinho
+- Jude Bellingham
+- Kylian Mbappe
+- Lautaro Martinez
+- Marcus Thuram
+- Vinicius
+- Yan Diomande
+organisations:
+- AU
+- Aatif
+- Bodo/Glimt
+- ChampionsLeague
+- Coppa Italia
+- DAZN
+- EFL
+- Facebook
+- Future Publishing
+- Gizmodo
+- Instagram
+- Inter
+- Los Blancos
+- Los Merengues
+- Milan
+- NFL
+- Nerazzuri
+- Nerazzurri
+- Newsweek
+- Paramount
+- Real Betis
+- Real Madrid
+- Serie A
+- Special One
+- Stan Sport
+- TNT Sports
+- TechRadar
+- The Independent
+- TikTok
+- Trusted Reviews
+- UEFA
+- Virgin Media
+- Virgin Media Play
+- YouTube
 ---
 
 ![Jude Bellingham celebrating for Real Madrid](https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676.jpg) 

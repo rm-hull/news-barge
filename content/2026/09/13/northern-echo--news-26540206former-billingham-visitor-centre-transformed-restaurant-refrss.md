@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Billingham Beck
+- Billingham Beck Visitor Centre
+- County Durham
+- Italy
+- JAMES DURHAM
+- Manchester
+- Marana Forni
+- North East
+- Norton
+people:
+- Amelia
+- Crust Norton
+- Flaming Dough
+- JAMES DURHAM
+- James Durham
+organisations:
+- Crust K
+- Crust Norton
+- Crust.k
+- Flaming Dough
+- Pizza
 ---
 
 Renovation work is gathering pace at the former North East visitor centre, which is being turned into a pizza restaurant.

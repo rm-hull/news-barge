@@ -16,6 +16,24 @@ categories:
 - History
 - Travel
 - Arts & Culture
+locations:
+- Bradford
+- Haworth
+- Thornton
+people:
+- Alan
+- Barbara R. Lovette
+- Brontë
+- Brontës
+- Nancy
+- R. Lovette
+- Reg Lovette
+- Thomas Haigh
+- Thornton
+organisations:
+- Brontë Birthplace
+- Evie Lauren Photography
+- VIP
 ---
 
 The Brontë Birthplace has attracted fresh interest thanks to a new exhibition exploring its lesser-known history.

@@ -13,6 +13,73 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- America
+- Home Depot
+- Kickstarter
+- Silicon Valley
+- US
+- Wall Street
+people:
+- Alexandria Ocasio-Cortez
+- Andreessen Horowitz
+- Ben Horowitz
+- Bernie Sanders
+- Clarissa Redwine
+- Clinton
+- Curtis Yarvin
+- David Ulevitch
+- Elizabeth Warren
+- Elon Musk
+- JD Vance
+- Joe Biden
+- Js Tan
+- Keith Rabois
+- Lina Khan
+- Marc Andreessen
+- Mark Zuckerberg
+- Niraj Shah
+- Obama
+- Peter Thiel
+- Sundar Pichai
+- Trump
+organisations:
+- AI
+- Alphabet Workers Union
+- Amazon
+- Apple
+- Big Oil
+- Big Tech
+- ChatGPT
+- Chrysler
+- Communication Workers of America
+- Democratic Party
+- Elon Musk
+- Facebook
+- Fed
+- Federal Reserve
+- Federal Trade Commission
+- Ford
+- GM
+- Google
+- Haymarket Books
+- Microsoft Teams
+- Most Powerful Industry
+- New York Times
+- Nike
+- Office and Professional Employees International Union
+- OpenAI
+- Securities and Exchange Commission
+- Slack
+- Tesla
+- Treasury Department
+- Trump
+- Twitter
+- WFH
+- Walt Disney
+- Wayfair
+- ZIRP
+- Zoom
 ---
 
 In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home en masse. Platforms like Zoom, Slack, and Microsoft Teams surged in usage as WFH became ubiquitous. From remote schooling and virtual weddings to app-based grocery delivery and livestreamed concerts, the pandemic accelerated and cemented society’s increasing reliance on digital platforms. Already one of the most powerful forces in the American economy, the tech sector suddenly became the infrastructure underpinning every aspect of life.

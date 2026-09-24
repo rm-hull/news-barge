@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Bradford
+- Britain
+- London
+- UK
+- West End
+people:
+- David Cumming
+- Felix Hagan
+- Hitler
+- Joseph Kavanaugh
+- Matt Crockett
+- Natasha Hodgson
+- SpitLip
+- Zoë Roberts
+organisations:
+- Alhambra Theatre
+- Triple Tony
 ---
 
 *(Image: Matt Crockett)*

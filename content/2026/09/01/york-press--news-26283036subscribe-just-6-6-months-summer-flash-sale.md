@@ -13,6 +13,14 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- Apple App Store
+- Google Play
+- Newsquest Media Group
+- Reader Rewards
+- The Press
 ---
 
 *(Image: Newsquest)*

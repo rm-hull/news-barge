@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Australia
+- High Street
+- New Zealand
+- UK
+people:
+- Amanda Doyle
+- Ella Kipling
+organisations:
+- NHS England
 ---
 
 ![A girl getting her nasal flu vaccine from her GP](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg)

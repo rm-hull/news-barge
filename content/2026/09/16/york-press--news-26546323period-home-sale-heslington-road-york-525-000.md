@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Heslington Road
+- Hudson Moody
+- Prestigious’ North Yorkshire
+- York
+- Zoopla
+people: []
+organisations:
+- Hudson Moody
 ---
 
 ## ‘Charming’ period home hits the market in York – have a look inside

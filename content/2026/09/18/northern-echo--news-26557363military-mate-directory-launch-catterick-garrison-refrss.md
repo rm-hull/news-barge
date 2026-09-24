@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Catterick Garrison
+- Catterick Leisure Centre
+- North Yorkshire
+people:
+- Catterick Garrison
+- Mal Robinson
+- WILLIAM JOSEPH
+organisations:
+- British Army
+- Darlington College
+- Military Mate
+- Military Mate and Directory
+- NAFESE
+- National Armed Forces & Emergency Services Events
+- National Armed Forces and Emergency Services Events
+- North East Jobs
+- Oakwood Solicitors
+- Remembrance weekend Council
+- Spire Healthcare
+- Sunderland Council
+- UK Armed Forces Engagement Initiative
 ---
 
 *(Image: WILLIAM JOSEPH)*

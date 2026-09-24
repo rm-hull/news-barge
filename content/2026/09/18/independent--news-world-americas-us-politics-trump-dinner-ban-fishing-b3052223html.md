@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/18/1/19/GettyImages-2295823854.j
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- New York City
+- Oval Office
+- Rose Garden
+- South Lawn
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Johnny Morris
+- Theodore Roosevelt
+organisations:
+- Bass Pro Shops
+- Lockheed Martin
+- Oval Office
+- Rose Garden
+- Sikorsky Aircraft
+- Trump
 ---
 
 Donald Trump told guests at a Rose Garden dinner for outdoor enthusiasts and industry executives that he is so powerful as president that he could ban them from fishing.

@@ -11,6 +11,48 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/MmY3TpgeJqpYBqxpwL29WX-1920-80.png
+locations:
+- Australia
+- Canada
+- NHS
+- UK
+- US
+- USA
+- West Midlands
+people:
+- Aatif Sulleyman
+- Alison Hammond
+- Clara Satchell-Silva
+- Connie
+- Connie' Lewis
+- Dorset Gabe Capes
+- Essex Nikki
+- Gary Harding
+- Hertfordshire Elizabeth
+- London Danni
+- London Moyin Odeniran
+- London Shannon Amy
+- Molly Chauhan
+- Nigella Lawson
+- Noel Fielding
+- Nottinghamshire Mo Mahirr
+- Paul Hollywood
+- Tom Whittaker
+- Yannis
+organisations:
+- Aatif
+- CBC Gem
+- Future Publishing
+- Gizmodo
+- Gloucestershire
+- 'London ###'
+- Newsweek
+- NordVPN**
+- TechRadar
+- The Independent
+- Trusted Reviews
+- West Midlands
+- West Yorkshire Yannis
 ---
 
 ![The Great British Bake Off season 17 bakers](https://cdn.mos.cms.futurecdn.net/MmY3TpgeJqpYBqxpwL29WX.png)

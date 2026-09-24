@@ -10,6 +10,32 @@ description: GPT-6 reveals where OpenAI thinks ChatGPT is heading next
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/LEFyo22GaZj9xfKmFMQstb-1920-80.jpg
+locations:
+- ChatGPT
+people:
+- ChatGPT
+- Graham Barlow
+- Luna
+- OpenAI
+- Sol
+organisations:
+- AI
+- BBC One Breakfast
+- BBC TV
+- ChatGPT
+- Computeractive
+- GPT-6 Astra
+- Google News
+- Luna High
+- Mac
+- MacFormat
+- OpenAI
+- PC Pro
+- Radio 4
+- Sol Light
+- Sol Medium
+- TechRadar
+- iMore
 ---
 
 ![Woman looking confused and GPT-6.](https://cdn.mos.cms.futurecdn.net/LEFyo22GaZj9xfKmFMQstb.jpg)

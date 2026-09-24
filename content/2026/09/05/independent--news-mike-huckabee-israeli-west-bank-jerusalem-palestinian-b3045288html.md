@@ -12,6 +12,23 @@ image: https://static.independent.co.uk/2026/09/05/17/Israel_Palestinians_42198.
 categories:
 - News & Politics
 - UK
+locations:
+- Bazariya
+- Gaza
+- Israel
+- Jerusalem
+- Qusra
+- Turmus Ayya
+- U.S.
+- United States
+- West Bank
+people:
+- Benjamin Netanyahu
+- Mike Huckabee
+organisations:
+- The Associated Press
+- U.N.
+- United Nations
 ---
 
 The United States ambassador to Israel condemned Israeli settler violence in the occupied West Bank again on Saturday, calling the behavior an “act of terror" as he visited with Palestinian American residents shaken by months of attacks.

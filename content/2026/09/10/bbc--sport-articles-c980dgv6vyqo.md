@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Riviera Stadium
+- Alpes
+- Heerenveen
+- Lyon
+- Netherlands
+- Nice
+people:
+- Amelie Oudea-Castera
+- Anne Murac
+- Arthur Richer
+- Cyril Linette
+- Edgar Grospiron
+- Eric Ciotti
+- Marina Ferrari
+organisations:
+- Games'
+- IOC
+- International Olympic Committee
+- La Tribune Dimanche
+- LinkedIn
+- OGC Nice
 ---
 
 ![A smiling man in a dark suit and tie stands behind a wooden podium adorned with white Olympic rings with a folded white Olympic flag to his right](https://ichef.bbci.co.uk/ace/standard/916/cpsprodpb/df97/live/8362f040-ad34-11f1-9bc8-3509bd1a4ead.jpg)

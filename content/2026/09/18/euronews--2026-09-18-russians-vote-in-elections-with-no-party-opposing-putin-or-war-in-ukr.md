@@ -13,6 +13,33 @@ image: https://images.euronews.com/articles/stories/09/91/88/05/1200x675_cmsv2_6
 categories:
 - Europe
 - News & Politics
+locations:
+- Kremlin
+- Moscow
+- Poland
+- Soviet Union
+- Ukraine
+- United Russia
+- West
+people:
+- Alexei Navalny
+- Nikolai Petrov
+- Nikolay Rybakov
+- Tatiana Stanovaya
+- Vladimir Putin
+- Yabloko
+- Yulia Navalnaya
+organisations:
+- A Just Russia
+- Analysis of Transformation Processes
+- Carnegie Russia Eurasia Centre
+- Communist Party
+- Kyiv
+- LDPR
+- NEST
+- New People
+- State Duma
+- United Russia
 ---
 
 ## The three-day vote will fill 450 Duma seats and 11 regional governorships, with only parties backing Putin and Russia's ongoing war in Ukraine on the ballot. Despite official denials of a new draft, fears of mobilisation are overshadowing the vote.

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Health & Fitness
 - Science
+locations:
+- Australia
+people:
+- Anthony Lawler
+- Prof Robyn Langham
+organisations:
+- Retatrutide
+- TGA
+- Therapeutic Goods Administration
 ---
 
 A patient who tore their oesophagus after taking a counterfeit version of an experimental weight loss drug has prompted Australia’s medicines regulator to warn of serious risks of such products.

@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Downing Street
+- London
+- Metropolitan
+- Palantir
+- US
+people:
+- Andy Burnham
+- Joseph Barrett KC
+- Mopac
+- Palantir
+- Sadiq Khan
+- Sarah Brown
+organisations:
+- Greater London Authority
+- Met
+- Microsoft Teams
+- Mopac
+- Office for Policing and Crime
+- Palantir
+- Scotland Yard
+- Trump
 ---
 
 Sadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with Palantir, the high court has been told, after he prevented the US technology company from working with the Metropolitan police.

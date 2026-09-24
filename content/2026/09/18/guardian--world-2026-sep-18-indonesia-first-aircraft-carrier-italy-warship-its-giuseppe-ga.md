@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Black Hawk
+- Indonesia
+- Italy
+- North Jakarta
+- Pacific “Ring of Fire
+- Spain
+- Tanjung Priok
+- Thailand
+people:
+- Giuseppe Garibaldi
+- Khairul Fahmi
+- Muhammad Fauzan Malufti
+- Prabowo Subianto
+- Sjafrie Sjamsoeddin
+- TB Hasanuddin
+organisations:
+- Center for Strategic and International Studies
+- Commission I
+- Giuseppe Garibaldi
+- HTMS Chakri Naruebet
+- Indonesian Navy
+- Institute for Security and Strategic Studies
+- KRI Gajah Mada
 ---
 
 Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities.

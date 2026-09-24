@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10f/live/321a5e
 categories:
 - UK
 - News & Politics
+locations:
+- California
+- UK
+- US
+people:
+- '## Snap'
+- Evan Spiegel
+organisations:
+- Apple
+- BBC
+- Evan Spiegel
+- Google
+- Instagram
+- Meta
+- Snap Inc
+- Snapchat
+- Snapchat-parent Snap Inc
+- Specs
+- TikTok
+- YouTube
 ---
 
 Watch: CEO Evan Spiegel tells the BBC he would consider a time limit on Snapchat

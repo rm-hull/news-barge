@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Centre Court
+- Flushing Meadows
+- New York
+- New York City
+- Roland Garros
+- UK
+- US
+- Wimbledon
+people:
+- Arthur Ashe
+- Aryna Sabalenka
+- Coco Gauff
+- Jannik Sinner
+- Mariano Navone
+- Novak Djokovic
+- Roland Garros
+- Serena
+- Sofia Kenin
+- Stacey Allaster
+- Taylor Fritz
+- Venus Williams
+organisations:
+- BBC
+- ESPN
+- Wimbledon
 ---
 
 ![Sofia Kenin shakes hands with Venus Williams after winning their 2026 US Open first round match at Arthur Ashe Stadium in Flushing Meadows, New York City](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ef14/live/75725970-a524-11f1-960d-bf7772625996.jpg)

@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/02/02/1200x675_cmsv2_5a655a13-32ad-5888-b5b3-533e00373fcd-9920202.jpg
+locations:
+- Gulf of America
+- Gulf of Mexico
+- US
+- United States
+- White House
+people:
+- Akayla Gardner
+- Betsy Klein
+- Cheyenne Haslett
+- Donald Trump
+- Jacqui Heinrich
+- Jonathan Greenberger
+- Kailtan Collins
+organisations:
+- ABC
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CNN
+- Correspondents' Association
+- Fox News’
+- MS NOW
+- Oval Office
+- Politico
+- The New York Times
+- The Wall Street Journal
+- Trump
+- White House Correspondents’ Association
 ---
 
 ## The White House Correspondents’ Association, led by Fox News’ Jacqui Heinrich called on the Trump administration to immediately restore access to the representatives of the media organisations it barred, arguing that the move sets a dangerous precedent for free speech.

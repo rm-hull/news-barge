@@ -14,6 +14,13 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Middle East
+- Saudi Arabia
+- U.S.
+people: []
+organisations:
+- Navy
 ---
 
 Oil rises past $100 a barrel after the latest wave of Middle East attacks

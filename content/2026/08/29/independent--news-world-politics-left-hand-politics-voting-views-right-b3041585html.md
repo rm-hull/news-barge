@@ -11,6 +11,39 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Asia
+- Cuba
+- France
+- Germany
+- Havana
+- India
+- Italy
+- Middle East
+- Missouri
+- Spain
+- St Louis
+- UK
+- United Kingdom
+- United States
+people:
+- Alford
+- Benjamin Netanyahu
+- Caroline Perrin Chercheuse
+- Fidel Castro
+- Lawrence
+- Louis
+- Miguel Diaz-Canel
+organisations:
+- Commission
+- Gerber et al
+- IÉSEG School of Management
+- Jérémie Bertrand Professeur de finance
+- LEM-CNRS 9221
+- Laurent Weile Professeur d'Economie et de Finance
+- The Conversation
+- Université de Strasbourg
 ---
 
 Political preferences are generally explained by income, age and level of education. However, our research suggests that a far more unexpected trait may also have a hand in how we vote. A survey carried out in 18 western countries has shown that left-handed people tend to identify more strongly with the political left. This findings appear to be more related to identity than biology.

@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- Germany
+- Hobart’s Royal
+- Monash
+- Sydney
+- Westmead
+people:
+- James Chong
+- Mark Nelson
+- Prof Sophia Zoungas
+- Tom Marwick
+organisations:
+- European Society of Cardiology Congress
+- Monash University
+- New England Journal of Medicine
 ---
 
 Taking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found.

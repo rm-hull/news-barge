@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg
+locations:
+- Gulf
+- New York
+- New York City
+- UK
+- US
+people:
+- Andy Burnham
+- Kristalina Georgieva
+organisations:
+- '## AI'
+- IMF
+- International Monetary Fund
+- Qatar Economic Forum
+- UN
+- United Nations General Assembly
 ---
 
 ![Kristalina Georgieva, managing director of the IMF, speaking during the Qatar Economic Forum in New York, US, this month. She sitting down in a chair explaining her answer to a question as she raises her left arm above her head.](https://ichef.bbci.co.uk/ace/standard/778/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg)

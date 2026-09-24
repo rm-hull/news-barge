@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Germany
+people:
+- David Beckham
+- Harvey Nichols
+- Hugo Boss
+- Michael Murray
+- Mike Ashley
+- Stephan Sturm
+organisations:
+- Frasers Group
+- Frasers’
+- Hugo Boss
+- Sports Direct
 ---
 
 The boss of Frasers Group has been named as the new chairman of Hugo Boss, signalling a step up in efforts to secure majority ownership of the luxury fashion brand.

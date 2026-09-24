@@ -14,6 +14,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483772.jpg?type=og-image
+locations:
+- Iran
+- London
+- UK
+- United States
+- Yorkshire
+people:
+- Jamie Wood
+- Neil Chappelow
+- Simon Williams
+organisations:
+- AA
+- Farsley Transport
+- Farsley Transport Ltd
+- Government
+- KLG Europe
+- Nigel Rice Transport
+- RAC
+- Yorkshire
 ---
 
 Haulage firms across Yorkshire are warning that soaring diesel prices are driving up costs throughout the supply chain, with one operator reporting fuel bills have increased by as much as £40,000 a month and industry leaders are calling for Government intervention.

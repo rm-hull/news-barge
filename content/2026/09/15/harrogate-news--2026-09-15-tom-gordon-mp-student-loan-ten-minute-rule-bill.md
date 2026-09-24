@@ -12,6 +12,27 @@ categories:
 - Local
 - Harrogate
 - Education & Learning
+locations:
+- Portcullis House
+- UK
+- United Kingdom
+people:
+- Meg Hillier**
+- Oliver Gardner
+- Tom Gordon
+organisations:
+- Good Growth Foundation
+- Harrogate Informer
+- House of Commons
+- House of Commons Order Paper
+- Knaresborough
+- Liberal Democrat
+- NUS
+- National Union of Students
+- RethinkRepayment Campaign
+- Treasury Select Committee
+- WESTMINSTER
+- Young Liberals
 ---
 
 **WESTMINSTER** — Harrogate and Knaresborough MP Tom Gordon is spearheading a legislative challenge against the Treasury, introducing a fresh parliamentary mandate to force a total structural review of the national student finance framework.

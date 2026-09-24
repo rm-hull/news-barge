@@ -11,6 +11,21 @@ description: As it grapples with a bevy of lawsuits, Suno said its new model, Su
 image: https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600
 categories:
 - Technology & Software
+locations: []
+people:
+- Jack Brody
+- Jason Isbell
+- Suno
+organisations:
+- AI
+- BMG
+- Believe
+- PitchBook
+- Sony
+- Suno
+- TechCrunch
+- Universal Music Group
+- Warner Music Group
 ---
 
 AI music model maker Suno on Wednesday unveiled a new model family called Suno v6, which it says was developed using licensed data from music labels and distributors such as Warner Music Group, BMG and Believe.

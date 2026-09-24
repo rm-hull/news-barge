@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/12/03/Screenshot-2026-09-21-at-7-55-55-AM.png?trim=0,115,0,366&width=1200&height=800&crop=1200:800
+locations:
+- Colorado
+- Iran
+- Kentucky
+people:
+- Clarice Navarro
+- David Wheeler
+- Donald Trump
+- Jeffrey Small
+- Lauren Boebert
+- Raven Finegan
+- Thomas Massie
+organisations:
+- Colorado Times Recorder
+- Congress
+- Epstein Files
+- House Ethics Committee
+- Justice Department
+- Newsweek
+- PAC American Muckrakers
+- The Independent
 ---
 
 Republican congresswoman Lauren Boebert has forcefully denied allegations that she had affairs with male and female staffers, denouncing the claims as “salacious bull\*\*\*\*.”

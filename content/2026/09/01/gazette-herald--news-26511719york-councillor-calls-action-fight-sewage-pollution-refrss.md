@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- '**York'
+- Cambridge
+- England
+- Foss
+- Haxby
+- Langwith
+- Popular York
+- Wales
+- Wheldrake
+- YORK
+people:
+- Christian Vassie
+- Cllr Vassie
+organisations:
+- City of York Council
+- El Nino
+- Met Office
+- Yorkshire Water
 ---
 
 A YORK councillor has called for urgent cross-party action to tackle the issues around sewage pollution in the city's rivers - which are among the worst in the country.

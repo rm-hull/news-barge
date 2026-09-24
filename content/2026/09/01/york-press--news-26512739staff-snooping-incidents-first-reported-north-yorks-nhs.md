@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- England
+- Nottingham
+- Scarborough
+- Southport
+- York
+people:
+- Ldrs Paul Arnold
+organisations:
+- '## York NHS'
+- FOI
+- Freedom of Information
+- ICO
+- Information Commissioner’s Office
+- LDRS
+- Local Democracy Reporting Service
+- Newsquest
+- Scarborough Hospital
+- Scarborough Teaching Hospitals NHS Foundation Trust
+- The NHS Trust
+- The York and Scarborough NHS Trust
+- York Hospital
+- York and Scarborough NHS Trust
 ---
 
 ## York NHS apologises over inaccurate data on staff snooping incidents

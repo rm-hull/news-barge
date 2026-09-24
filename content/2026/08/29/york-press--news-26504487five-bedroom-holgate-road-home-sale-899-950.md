@@ -13,6 +13,16 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Holgate Road
+- Savills’
+- York
+- Yorkshire
+people:
+- Tanya Coffey
+organisations:
+- Savills
+- Savills’
 ---
 
 ## ‘Elegant’ period home hits the market in York for more than £890,000 – look inside

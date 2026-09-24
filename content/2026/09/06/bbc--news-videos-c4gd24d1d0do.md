@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Kathmandu
+- Nepal
+- Nuwakot
+people:
+- Chandika Shrestha
+organisations:
+- Armed Police Force
+- Reuters
 ---
 
 # Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home

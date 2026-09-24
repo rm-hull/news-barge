@@ -10,6 +10,34 @@ description: The new Smart Routing location is built for reaching Chinese conten
 image: https://cdn.mos.cms.futurecdn.net/Nmt4tsxFDTshS8xwXYame5-1279-80.jpg
 categories:
 - Technology & Software
+locations:
+- Africa
+- Asia
+- China
+- Hong Kong
+- Switzerland
+people:
+- Monica J. White
+organisations:
+- Bilibili
+- Chinese IP
+- CyberGhost
+- Digital Trends
+- ExpressVPN
+- Google News
+- Internet Access
+- Mango TV
+- Monica
+- No Trace
+- NordVPN
+- Proton VPN
+- PureVPN
+- SlashGear
+- Smart Routing
+- Surfshark
+- Tencent Video
+- Tom’s Hardware
+- WePC
 ---
 
 ![Proton VPN in use on a smartphone](https://cdn.mos.cms.futurecdn.net/Nmt4tsxFDTshS8xwXYame5.jpg) 

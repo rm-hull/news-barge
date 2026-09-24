@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Chile
+- Coron
+- Manila
+- Palawan
+- Philippine
+- Turda
+people:
+- Arnulfo Nokki Villanueva
+- Commodore Noemie Cayabyab
+- Rachel Conserman
+organisations:
+- Atienza Interisland Ferries Inc
+- News5
 ---
 
 Rescuers were hampered by the smoky, charred condition of a ferry drifting in Philippine waters Friday after a fire onboard that left 84 people missing and killed at least five.

@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arizona
+- Calgary
+- California
+- Canada
+- Destin-Fort Walton Beach
+- Florida
+- Golden State
+- Graceland
+- Jackson
+- Lake America
+- Lake Ontario
+- Las Vegas
+- Mexico
+- New Jersey
+- New York
+- Panhandle
+- Portland
+- San Diego
+- Seattle
+- U.S.
+- US
+- United States
+- Vancouver
+- White House
+people:
+- Andrew Bailey
+- Deborah Friedland
+- Donald Trump
+- Eileen March
+- Jennifer Adams
+- Josh Loewen
+- Kevin Warsh
+- Mark Carney
+- Steve Hill
+organisations:
+- Bank of Canada
+- Bank of England
+- Brand USA
+- Canada Connect
+- Eisner Advisory Group
+- Fed
+- Las Vegas Convention and Visitors Authority
+- Statistics Canada
+- Tourism Economics
+- Trump
+- U.S. National Travel and Tourism Office
+- Visit Florida
 ---
 
 Over the past year, Josh Loewen could hardly escape the charm offensive from American tourism organizations. Across billboards, banners, and digital platforms, US states and cities declared their fondness for Canada, promising tailored discounts to entice travelers from north of the border.

@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Harrogate District Hospital
+- Herriots
+- North Yorkshire
+people:
+- Jonathan Coulter
+organisations:
+- Café Bistro
+- Costa Coffee
+- District NHS Foundation Trust
+- Harrogate District Hospital.
+- M&S Food
+- WH Smith
 ---
 
 ![Design image of a bright, modern hospital reception area with a curved information desk, people checking in at kiosks, and a wheelchair user being assisted, all under clear signage welcoming visitors to Harrogate District Hospital.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1448/live/3eb01fe0-a5f0-11f1-8348-fb0cb1cd9761.jpg)

@@ -15,6 +15,41 @@ categories:
 - York
 - True Crime
 - Business & Entrepreneurship
+locations:
+- Abbeydale Road
+- Bradford
+- Derwentwater Road
+- Golcar
+- Huddersfield
+- James Cook University Hospital
+- Keighley
+- Leeds Crown Court
+- Leeds Road
+- London
+- Longfield Avenue
+- Middlesbrough
+- North Yorkshire
+- Redcar
+- Sharrow
+- Sheffield
+- Sladen Street
+- Teesside Crown Court
+- West
+- Wostenholm Road
+people:
+- Abubakr Ahmed
+- Charlie Hoe
+- Jack Rooke
+- Michael Flanigan
+- Mohammed Khan
+- Nathan Shaw
+- Nina Roper
+- Richard Thyne KC
+organisations:
+- Bradford Crown Court
+- Major Collision Enquiry Team
+- Sheffield Crown Court
+- West Yorkshire Police
 ---
 
 # Court round-up: Driver jailed over seven-year-old's death and drug dealer locked up after crash

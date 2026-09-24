@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- Alabama
+- Mobile
+- United States
+people:
+- AI
+- Ahmad Jackson
+- Chris Martin
+- Geoffrey Conrad
+- Justin Tomczak
+- Paul Staats
+- Sandy Avina
+organisations:
+- AI Jim
+- BLS
+- Bureau of Labor Statistics
+- Glassdoor
+- Lemonade
+- Liberate
+- Pace
+- State Farm
+- WIRED
 ---
 
 On the job review platform Glassdoor, one faction hates artificial intelligence more than any other.

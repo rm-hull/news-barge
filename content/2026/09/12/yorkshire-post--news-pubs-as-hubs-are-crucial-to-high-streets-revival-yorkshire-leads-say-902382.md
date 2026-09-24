@@ -15,6 +15,21 @@ categories:
 - York
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Halifax
+- The Hub
+- UK
+- Wales
+people:
+- Charles III
+- John Longden
+- Kate Dearden
+organisations:
+- Future of Work
+- Government
+- Pub
+- The Hub
+- Yorkshire
 ---
 
 # Pubs as hubs are crucial to high streets' revival, Yorkshire leads say

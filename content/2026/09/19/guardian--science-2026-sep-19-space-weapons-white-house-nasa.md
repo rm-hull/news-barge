@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/c70aa1245cdbffa521513b24bd5ad55f0130c3b6/444_0_4444_3557/master/4444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dedfbb7ce9d6f89b8cad57ece55fcb38
+locations:
+- Annapolis
+- China
+- Earth
+- Hollywood
+- Houston
+- Maryland
+- Russia
+- US
+- West Point
+- White House
+people:
+- Biden
+- Clayton Swope
+- Dan Caine
+- Donald Trump
+- Elon Musk
+- Gregory Gagnon
+- Jared Isaacman
+- Kirk
+- Lori Garver
+- Luke Skywalker
+- Pete Hegseth
+- Troy Meink
+organisations:
+- Air Force One
+- Air, Space and Cyber Conference
+- Ars Technica
+- CSIS
+- Center for Strategic and International Studies
+- Central Intelligence Agency
+- Guardians
+- Johnson Space Center
+- Meink
+- Military Times
+- Nasa
+- Pentagon
+- Pentagon,” Swope
+- Space Academy
+- Space Force
+- SpaceX
+- US Space Academy
 ---
 
 In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker’s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale.

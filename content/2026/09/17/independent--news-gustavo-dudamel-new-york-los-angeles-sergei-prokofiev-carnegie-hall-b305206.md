@@ -12,6 +12,67 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Carnegie Hall
+- Chelsea
+- David Geffen Hall
+- LA
+- Lincoln Center
+- Los Angeles
+- Madrid
+- Manhattan
+- Melrose Ave
+- New York
+- Twin Towers
+- Upper West Side
+- Venezuela
+- Washington, D.C.
+people:
+- Aaron Tveit
+- Alina Ming Kobialka
+- Barbra Streisand
+- Billy Joel
+- Bruno Walter
+- Cosme
+- Daniel Barenboim
+- FAO Schwarz
+- Gael García Bernal
+- Giorgio Armani
+- Gustav Mahler
+- Gustavo Dudamel
+- Jean-Michel Basquiat
+- Joaquina
+- Leonard Bernstein
+- Liev Schreiber
+- Lizzo
+- Lorin Maazel
+- Milos
+- Mozart
+- Pierre Boulez
+- Sergei Prokofiev
+- Sherry Sylar
+- St. Vincent
+- Tchaikovsky
+- Tito Puente
+- Willem Mengelberg
+organisations:
+- Casa Ora
+- Chicago Symphony Orchestra
+- El Sistema
+- Fifth Symphony
+- Kennedy Center
+- LPs
+- Los Angeles Philharmonic
+- Mercado Little Spain
+- National Children’s Symphony of Venezuela
+- New York Philharmonic
+- Radio City Music Hall
+- Rainbow Room
+- Statue of Liberty
+- The Record Collector
+- U.N
+- United Nations
+- World Trade Center
 ---
 
 Gustavo Dudamel jumped up and down on FAO Schwarz’s giant keyboard during his first trip to New York as a 14-year-old.

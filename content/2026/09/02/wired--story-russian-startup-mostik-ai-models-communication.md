@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- St. Petersburg
+people:
+- Karl Tuyls
+- Mostik
+- Sasha Malysheva
+- Stanislav Smirnov
+- Vladimir Arustamian
+organisations:
+- AI
+- Anthropic
+- Google DeepMind
+- Lovable
+- Mostik
+- OpenAI
+- University of Geneva
 ---
 
 I recently met with some brilliant Russian mathematicians who showed me a way for artificial intelligence models to communicate via something akin to machine telepathy.

@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Acklam
+- Coulby Newham
+- Ingleby Barwick
+- Middlesbrough
+- Norton
+- Redcar
+- Saltburn
+- Stockton
+- Teesside Hospice
+- Thornaby
+- Yarm
+people: []
+organisations:
+- Google Maps
+- Ingleby Barwick
+- Portrack Lane Superstore
+- Redcar
+- Teesside Hospice
 ---
 
 A Teesside charity has made the "difficult decision" to close two of its stores following a drop in sales.

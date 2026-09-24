@@ -13,6 +13,25 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Java
+- Minecraft
+- Minecraft.Not
+people:
+- Luckey Faraday
+- Mark Tyson
+- Tom
+organisations:
+- AI
+- Black Ops
+- Call of Duty
+- FPS
+- GPT Astra
+- Google News
+- Hijacked
+- Minecraft
+- Tom's Hardware
+- Twitter
 ---
 
 ![Dev gets CoD: Black Ops 2 Hijacked map running natively in Minecraft](https://cdn.mos.cms.futurecdn.net/UvdybwqrqkuUKc5paGb9t4.jpg) 

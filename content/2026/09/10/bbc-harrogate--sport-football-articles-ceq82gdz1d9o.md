@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations: []
+people:
+- Michael Craig
+- Simon Weaver
+organisations:
+- Harrogate Town
+- Leyton Orient
+- O's
+- Reading
+- Tamworth
+- Tottenham
 ---
 
 ![Michael Craig in action for Leyton Orient](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/9f82/live/3794c720-ad42-11f1-8a01-6d097895aae4.jpg)

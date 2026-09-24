@@ -13,6 +13,26 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Calcutt
+- Forest Moor Road
+- Knaresborough East
+- North Yorkshire
+- Thistle Hill Road
+- York Road
+people:
+- Hannah Gostlow**
+- Knaresborough
+- Tyler Reeton
+organisations:
+- Conservative Party
+- Green Party
+- Knaresborough Town Council
+- Labour Government
+- Labour Party
+- Liberal Democrat
+- Liberal Democrats
+- North Yorkshire Council
 ---
 
 The local political landscape is heating up ahead of the **North Yorkshire Council** and**Knaresborough Town Council** elections scheduled for**May 2027**, with the Conservative Party officially selecting transport professional Tyler Reeton to contest the Knaresborough East division.

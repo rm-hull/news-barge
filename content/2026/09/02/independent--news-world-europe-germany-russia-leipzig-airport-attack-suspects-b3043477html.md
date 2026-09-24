@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belarus
+- Berlin
+- Europe
+- Germany
+- Halle Airport
+- Hanover
+- Leipzig
+- Moscow
+- Russia
+- Schkeuditz
+- Ukraine
+people:
+- Friedrich Merz
+- Maria Zakharova
+- Mark Rutte
+- Ursula von der Leyen
+- Vladimir Putin
+organisations:
+- Alliance
+- DHL
+- EU
+- European Commission
+- European Union
+- NDR
+- Nato
+- Sueddeutsche Zeitung
+- WDR
 ---
 
 German authorities have identified two suspects in connection with an attempted drone attack on Leipzig/Halle Airport last month, according to new reports.

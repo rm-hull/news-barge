@@ -13,6 +13,20 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Hyde Park Picture House
+- Leeds
+- Palestine
+- West Yorkshire
+people:
+- Alaa Aliabdallah
+- Assif Majid
+- Charlotte Knowles
+organisations:
+- IDFA
+- Raindance
+- SXSW London
+- Sheffield DocFest
 ---
 
 A new documentary offering a fresh perspective on Palestinian stories will be screened in West Yorkshire this month.

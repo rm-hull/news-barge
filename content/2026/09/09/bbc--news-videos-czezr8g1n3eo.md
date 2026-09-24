@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- California
+- Malibu
+- US
+people:
+- Nicolas Cage
+organisations:
+- City of Malibu
+- New York Times
 ---
 
 # Sinkhole appears outside Malibu home thought to belong to Nicolas Cage

@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- D.C. Al-Marimi
+- Lockerbie
+- Scotland
+- U.S.
+- Washington
+people:
+- Abu Agila Mohammad Mas’ud Kheir Al-Marimi
+- Dabney Friedrich
+- Laura Koenig
+- Moammar Gadhafi
+organisations:
+- London Heathrow Airport
 ---
 
 A trial in the U.S. for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103 over Scotland is on track to start in January after a delay caused by the discovery of new evidence in the decades-old case.

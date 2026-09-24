@@ -15,6 +15,23 @@ categories:
 - Science
 - Technology & Software
 - History
+locations:
+- Antarctic
+- UK
+- US
+people:
+- '## Emily'
+- Barack Obama
+- Chloe Benjamin
+- Donald Trump
+- Eli Rosen
+- Emily H. Wilson
+- Laurel Salter
+- Scott Alexander Howard
+organisations:
+- Chloe Benjamin** Tinder Press
+- Scott Alexander Howard
+- Titan
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445184.jpg?w=840)

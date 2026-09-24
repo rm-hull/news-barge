@@ -14,6 +14,61 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Stadium
+- Ascot
+- Aston Villa
+- Blundell Park
+- Cirencester Town
+- Cyprus
+- Europe
+- Ghana
+- Grimsby
+- London
+- Memorial Ground
+- Munich
+- Netherlands
+- New York
+- Nottingham Forest
+- Priory
+- Stamford Bridge
+- Wembley
+people:
+- Carlo Ancelotti
+- Christian Eriksen
+- Didier Drogba
+- Farnham
+- Frank Lampard
+- Gary Cahill
+- John Terry
+- Jose Mourinho
+- Neil Bath
+- Roberto di Matteo
+- Ryan Bertrand
+- Sam Hutchinson
+- Tom Lockyer
+organisations:
+- AFC Totton
+- AFC Wimbledon
+- BBC Sport
+- Bayern Munich
+- Blues
+- British Heart Foundation
+- Chelsea TV
+- Combined Counties League
+- Dons
+- England
+- Everton
+- Farnham Town
+- Nottingham Forest
+- Pafos
+- Paris St-Germain
+- Reading
+- Sheffield Wednesday
+- Stoke City
+- Under-19s
+- Vitesse Arnhem
+- Walsall
 ---
 
 ![Sam Hutchinson (back row, third from left) lines up for Chelsea before a friendly against Paris St-Germain in New York in July 2012 - two months after the Blues won the Champions League](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d623/live/3e11cf50-b26d-11f1-b67f-2b40fa83cfed.png)

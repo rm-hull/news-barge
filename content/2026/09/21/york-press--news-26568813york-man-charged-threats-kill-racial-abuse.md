@@ -12,6 +12,16 @@ categories:
 - York
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/21482563.jpg?type=og-image
+locations:
+- Major Yorkshire
+- North Yorkshire
+- York
+people:
+- Jack Milner
+organisations:
+- North Yorkshire Police
+- York BID Street Rangers
+- York Magistrates Court
 ---
 
 *(Image: North Yorkshire Police)*

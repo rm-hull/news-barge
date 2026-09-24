@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Abraham Lincoln
+- Gulf
+- Iran
+- Israel
+- Middle East
+- Pacific
+- Pattaya
+- Saigon
+- San Diego
+- South China Sea
+- Thailand
+- US
+- Walking Street
+people:
+- Abraham Lincoln
+- Anon Saiteer
+- Poramase Ngampiches
+organisations:
+- BBC
+- Congress
+- US Navy
 ---
 
 ![The USS Abraham Lincoln](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/201f/live/e9641b80-a681-11f1-b276-f1ba527f802d.jpg)

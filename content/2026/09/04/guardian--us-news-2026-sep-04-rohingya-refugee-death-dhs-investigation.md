@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Buffalo
+- California
+- Erie County
+- Mississippi
+- New Jersey
+- New York
+- The Erie
+- US
+people:
+- Bennie Thompson
+- Letitia James
+- Lou Correa
+- Markwayne Mullin
+- Nellie Pou
+- Nurul Amin Shah Alam
+- Shah Alam
+- Tim Hortons
+- Tim Kennedy
+- Tish] James
+organisations:
+- CBP
+- DHS
+- Department of Homeland Security
+- Erie county DA
+- House
+- Investigative Post
+- US Customs and Border Protection
 ---
 
 Democratic lawmakers are demanding that the Department of Homeland Security turn over records and fully cooperate with an investigation into the death of Nurul Amin Shah Alam, a nearly blind Rohingya refugee who died after US border agents left him outside a closed coffee shop on a freezing night in Buffalo earlier this year.

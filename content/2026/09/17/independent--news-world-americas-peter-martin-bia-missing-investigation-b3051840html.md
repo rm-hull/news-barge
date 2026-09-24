@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Big Horn County Building
+- Chickasaw Nation
+- Crow Reservation
+- Fond Du Lac
+- Minnesota
+- Sault Ste
+people:
+- Andrea White
+- David Adams
+- Deb Haaland
+- Donald Trump
+- Grace Bulltail
+- Joe Biden
+- Kayla Jackson
+- Marie Tribe
+- Melissa Lonebear
+- Peter Martin
+- Pretty Places
+- Sarah Deer
+organisations:
+- BIA
+- Bureau of Indian Affairs
+- Bureau of Indian Affairs Missing and Murdered Unit
+- California State Capitol
+- Chippewa Indians
+- FBI
+- Fond Du Lac
+- Interior Department
+- Kaysera Stops Pretty Places
+- Missing and Murdered Unit
+- News
+- OIG
+- Office of Inspector General
+- The Missing and Murdered Unit
+- The Trump
+- U.S. Bureau of Indian Affairs
+- University of Kansas School of Law
 ---
 
 Two years after Peter Martin disappeared from Minnesota's Fond Du Lac reservation, his family continues searching despite a stalled federal inquiry. Relatives say the U.S. Bureau of Indian Affairs investigation into his whereabouts stalled after the assigned agent left the position in early 2025.

@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Acomb
+- Boroughbridge Road
+- Carr Lane
+- Lidgett Grove
+- The Green
+- Wetherby Road
+- York Road
+people:
+- Bob Hoskins
+organisations:
+- Beckfield Lane
+- City of York Council
 ---
 
 *(Image: Bob Hoskins)*

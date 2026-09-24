@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Alnmouth
+- Berwick-upon-Tweed
+- Carlisle
+- Dunbar
+- Edinburgh
+- Morpeth
+- Reston
+- Scotland
+- York
+people: []
+organisations:
+- LNER
+- London North Eastern Railway
+- Newcastle
+- Newsquest
 ---
 
 *(Image: Newsquest)*

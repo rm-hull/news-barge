@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - History
+locations:
+- '## York'
+- Knapton
+- Poppleton
+- Stockton on Forest
+- Stockton-on-Forest
+- Tadcaster
+- White Swan
+- Wighill
+people:
+- '**__Tom Brown'
+- Darren Greenwood
+- Lord Nelson
+- Tom Brown
+organisations:
+- Barry Crux & Co
+- Barry Crux and Co
+- Fox Inn
+- Google
+- Knapton Lion
+- Lord Nelson
+- Red Lion
+- Stockton-on-Forest
+- The Fox
+- The Knapton Lion
+- The Press
+- Tripadvisor
+- York Press
 ---
 
 ## York landlord, 28, acquires his fourth pub - which is now being refurbished

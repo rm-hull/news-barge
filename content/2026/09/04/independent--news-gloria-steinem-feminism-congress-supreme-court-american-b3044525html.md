@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Connecticut
+- London
+- U.S.
+- United States
+people:
+- Beth Allison Barr
+- Delano Squires
+- Emma Waters
+- Estelle Freedman
+- Fatima Goss Graves
+- Gloria Steinem
+- Goss Graves
+- JD Vance
+- Pete Hegseth
+- Roe
+- Wade
+organisations:
+- AP
+- Associated Press’
+- Baylor University
+- Congress
+- Equal Rights Amendment
+- Heritage Foundation
+- National Women's Law Center
+- Pivotal Ventures
+- Stanford University
+- Supreme Court
+- Trump
+- U.S. Bureau of Labor Statistics
 ---
 
 It was the fight for abortion rights that launched Gloria Steinem into feminism.

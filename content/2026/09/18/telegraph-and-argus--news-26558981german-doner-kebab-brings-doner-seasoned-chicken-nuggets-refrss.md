@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- UK
+people:
+- Chris Waters
+organisations:
+- Doner Seasoned Chicken Nuggets
+- GDK
+- GERMAN Doner Kebab
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Dublin
+- Falkland Islands
+- Falklands
+- Manchester
+- Middle East
+- New York
+- North Sea
+- Northern Ireland
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- Keir Starmer
+- Micheál Martin
+- Mr Trump
+organisations:
+- UN
 ---
 
 Andy Burnham is expected to meet Donald Trump face-to-face for the first time since entering No 10 in New York next week.

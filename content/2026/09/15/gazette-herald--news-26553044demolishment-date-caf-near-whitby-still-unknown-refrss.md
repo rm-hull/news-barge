@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- North Yorkshire
+- Sandsend Café
+- Whitby
+people:
+- Saddington Taylor Planning
+organisations:
+- Building Surveyor
+- North Yorkshire Council
+- Sandsend Café
 ---
 
 The demolition date for a much-loved café in a North Yorkshire seaside village has yet to be confirmed.

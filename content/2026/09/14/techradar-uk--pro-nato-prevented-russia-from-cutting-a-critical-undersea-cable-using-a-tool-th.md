@@ -11,6 +11,31 @@ image: https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4-1600-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Atlantic
+- Bear Gap
+- Britain
+- Europe
+- High North
+- Moscow
+- Norway
+- Russia
+- Svalbard
+people:
+- Jan Mayen
+- John Ratcliffe
+- Tore Sandvik
+organisations:
+- CIA
+- Efosa
+- GUGI
+- Google News
+- NASA
+- NATO
+- Near Space Network
+- Reuters
+- SvalSat
+- TechRadar Pro
 ---
 
 ![A SCUBA Diver Checks An Undersea Cable](https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4.jpg) 

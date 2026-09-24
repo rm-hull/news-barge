@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Greater Manchester
+- Newcastle
+- The-Bs-of-Manchester
+- Walmgate
+- York
+people:
+- Andy Burnham
+- Josebury
+- Mul aka Alex Mulholland
+- Peter Davis
+- Sam Joesbury
+organisations:
+- BOROUGHS**
+- BURNHAM
+- Lancaster University
+- Mul
+- National Portrait Gallery
+- Protest Gallery
 ---
 
 Art of Protest Gallery to host a new exhibition that explores the relationship between musical and visual culture – featuring some familiar faces.

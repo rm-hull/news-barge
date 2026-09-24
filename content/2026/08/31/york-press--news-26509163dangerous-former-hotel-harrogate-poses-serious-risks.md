@@ -14,6 +14,14 @@ categories:
 - Family & Parenting
 - Society & Culture
 - News & Politics
+locations:
+- Harrogate Fire Station
+- Kings Road
+- North Yorkshire
+people: []
+organisations:
+- Kimberley Hotel
+- North Yorkshire Police
 ---
 
 ## Police warning after children enter 'dangerous' abandoned North Yorkshire hotel

@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Bentley
+- Beverley
+- East Riding
+- Hull
+- Skidby
+- YOUR
+- York
+people:
+- Michael Lee
+organisations:
+- A164
+- Department for Transport
+- East Riding Council
+- East Riding of Yorkshire Council
+- GRAHAM
+- Public Notice Portal
 ---
 
 *(Image: East Riding of Yorkshire Council)*

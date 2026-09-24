@@ -12,6 +12,12 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21478507.jpg?type=og-image
+locations: []
+people:
+- Bill Jarvis
+organisations:
+- Aldi
+- Premium Paints
 ---
 
 ## Expert shares 69p kitchen essential you can use to get rid of driveway weeds

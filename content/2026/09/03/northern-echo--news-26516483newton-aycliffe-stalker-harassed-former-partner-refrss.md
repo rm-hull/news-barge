@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hutton Place
+- Newton Aycliffe
+people:
+- Albany Kidd
+- Andrew Sutcliffe KC
+- Jury
+- Killer
+- Lee Winward
+- Nick Addlington
+organisations:
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Candler Street
+- Holme Hill
+- Mount Pleasant East
+- Robin Hoods Bay
+- Scarborough Magistrates Court
+- St Leonards Crescent
+- Valley Road
+people:
+- Brett Taylor
+- Eliza Carthy
+- Martin Harvey
+- Michael Lovell
+- Moya Brown
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

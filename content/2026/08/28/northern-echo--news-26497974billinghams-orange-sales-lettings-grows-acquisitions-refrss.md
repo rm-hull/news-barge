@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Belasis Avenue
+- Billingham
+- Hartlepool
+- North East
+- Sunderland
+people:
+- David Lamb
+organisations:
+- Orange Sales and Lettings
+- Orange team
 ---
 
 *(Image: Supplied)*

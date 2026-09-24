@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Great Wyrley
+- Staffordshire
+- Strawberry Lane
+- Walsall
+- Wolverhampton
+people:
+- Josh Lee
+organisations:
+- Midlands Air Ambulance Charity
+- Staffordshire Police
+- West Midlands Ambulance Service
 ---
 
 Two men and two women have been arrested on suspicion of murder over the death of a three-month-old girl who was camping with family in Great Wyrley, Staffordshire Police said.

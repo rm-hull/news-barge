@@ -12,6 +12,13 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # UPDATE: Body of man found in Ripon canal – death not being treated as suspicious

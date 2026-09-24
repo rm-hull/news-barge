@@ -12,6 +12,47 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Africa
+- Cape Verde
+- Guinea
+- Guinea-Bissau
+- Portugal
+people:
+- Bubacar Turé
+- Casa dos Direitos
+- Domingos Simões Pereira
+- Fernando Dias
+- Horta Inta-A
+- Lina Ferreira
+- Nelson Moreira
+- Sissoco Embaló
+- Tamilton Teixeira
+- Umaro Sissoco Embaló
+organisations:
+- '## Constitution'
+- African Party
+- African Union
+- Bubacar Turé
+- CPLP
+- Community of Portuguese-speaking Countries
+- Council of Ministers
+- ECOWAS
+- EU
+- Economic Community of West African States
+- Euronews
+- European Union
+- Guinean League for Human Rights
+- High Military Command
+- Independence of Guinea
+- National People’s Assembly
+- Official Gazette
+- PAI-Terra Ranka
+- PAIGC
+- RFI
+- RTP África
+- Transitional Council
+- United Nations
 ---
 
 **Lina Ferreira**

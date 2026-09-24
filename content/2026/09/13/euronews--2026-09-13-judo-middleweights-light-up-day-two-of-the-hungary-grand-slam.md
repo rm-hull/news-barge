@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Azerbaijan
+- Budapest
+- Greece
+- Japan
+- Slovenia
+- Sweden
+people:
+- Attila KÁLNOKI KISS
+- Attila Kálnoki-Kiss
+- Elisavet TELTSIDOU
+- Elisavet Teltsidou
+- Kaja KAJZER ZABKAR
+- Krisztián Tóth
+- Lisa ALLAN
+- Lisa Allan
+- Megu DANNO
+- Megu Danno
+- Narek VARDANIAN
+- Obaid AL ANZI
+- Rashid MAMMADALIYEV
+- Rashid Mammadaliyev
+- Siteny RANDRIANASOLONIAIKO
+- Yoshito HOJO
+- Yoshito Hojo
+organisations:
+- HOJO
+- Hungarian Judo Association
+- International Judo Federation
+- MAMMADALIYEV
+- Sport of Hungary
 ---
 
 **Euronews** with

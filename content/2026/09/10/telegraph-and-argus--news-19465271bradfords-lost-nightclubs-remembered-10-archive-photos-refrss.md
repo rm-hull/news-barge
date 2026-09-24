@@ -15,6 +15,44 @@ categories:
 - Arts & Culture
 - History
 - Sports
+locations:
+- Bradford
+- Great Horton Road
+- Lilycroft Road
+- Manningham Lane
+- Morley Street
+- Palace
+- Tokyo
+- West End
+- Westgate
+people:
+- Billy Liar
+- Bob Too
+- Dietrich
+- Dimes
+- Doctor Livingstone
+- Dukes
+- Flares
+- Lingards
+- Manningham
+- Remember Cavernes’
+- Rita
+- Silks
+- Sue
+organisations:
+- Bierkeller
+- Bradford
+- Brewhaus
+- Castle Hotel
+- Che Bar
+- JBs
+- Livingstone's
+- Love Apple
+- Plush Silk
+- Revolution
+- Textile Club
+- The Pile Bar
+- Walkabout
 ---
 
 *(Image: Newsquest)*

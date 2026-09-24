@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- Iran
+- Middle East
+- UK
+- Wales
+people:
+- Andrew Bailey
+- John Healey
+- Suren Thiru
+organisations:
+- Bank of England
+- Government
+- Institute of Chartered Accountants
+- MPC
+- Ofgem
+- QT
 ---
 
 The Bank of England has held interest rates at 3.75%, but policymakers warned that pressure to raise rates is building as the Iran war goes on.

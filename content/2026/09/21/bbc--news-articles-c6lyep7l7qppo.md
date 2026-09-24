@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg
+locations:
+- England
+- King's College Hospital
+- London
+- Northern Ireland
+- Wales
+people:
+- '## Martha'
+- Aidan Fowler
+- Baroness Merron
+- Martha Mills
+- Merope
+- Paul
+- Prof Fowler
+organisations:
+- A&E
+- Call4Concern
+- Martha's Rule
+- NHS England
+- Scotland
 ---
 
 ![Family handout photo of Martha Mills who is pictured smiling while standing at the side of a lake](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg)

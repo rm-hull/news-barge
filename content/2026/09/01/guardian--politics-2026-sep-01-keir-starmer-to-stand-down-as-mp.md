@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Camden
+- Holborn
+- London
+- St Pancras
+people:
+- Andrew Feinstein
+- Andy Burnham
+- Frank Dobson
+- Jeremy Corbyn
+- John Healey
+- Keir Starmer
+- Kevin Hollinrake
+- Zack Polanski
+organisations:
+- Camden New Journal
+- Commons
+- Conservative
+- Green
+- Greens
+- Labour
+- New Journal
+- Your Party
 ---
 
 Keir Starmer is to quit as the MP for Holborn and St Pancras, saying it is the right time for him to leave the Commons.

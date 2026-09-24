@@ -12,6 +12,24 @@ description: The CameraJet hasn't had the smoothest start — I spoke to the bra
 image: https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- UK
+- US
+people:
+- Dyson CameraJet
+- Jake Dyson
+- James Dyson
+- James —
+- Ruth Hamilton
+- Yves Klein
+organisations:
+- AI
+- Dyson CameraJet
+- Google News
+- Parma
+- Ruth
+- TechRadar
 ---
 
 ![Dyson CameraJet toothbrush](https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC.jpg) 

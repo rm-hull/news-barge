@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Belarus
+- Estonia
+- Europe
+- Kremlin
+- Kyiv
+- Latvia
+- Lithuania
+- Moscow
+- Riga
+- Russia
+- Ukraine
+people: []
+organisations:
+- AFP
+- EU
+- International Court of Justice
+- NATO
 ---
 
 ## Latvia has become the first European country to ban imports of Russian consumer goods including books and print media, framing the move as a defense against Kremlin disinformation and hybrid warfare.

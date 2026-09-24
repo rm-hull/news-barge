@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- pre-Kaby Lake
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- GPU
+- Google News
+- Haswell
+- Intel
+- MSI Katana
+- Raptor Lake Refresh
+- Tom’s Hardware
 ---
 
 ![The MSI Katana 15 HX 14C available in DDR4 and DDR5 variants](https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3.jpg) 

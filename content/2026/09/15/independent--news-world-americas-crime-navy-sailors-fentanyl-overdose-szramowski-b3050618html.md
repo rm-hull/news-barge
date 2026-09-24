@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bangkok
+- California
+- Hawaii
+- Iran
+- Lincoln
+- Middle East
+- Pattaya
+- San Diego
+- San Leandro
+- Southeast Asia
+- Szramowski
+- Thailand
+- United States'
+people:
+- AN
+- Abraham Lincoln
+- Bailey A. Szramowski
+- Dan Keeler
+- Johnnese H. Poomaihealani
+organisations:
+- CL
+- Marines
+- Narcan
+- U.S. Attorney's Office
+- U.S. Navy
+- USS Abraham Lincoln
 ---
 
 Two former U.S. Navy sailors who are married have admitted to federal drug charges after selling counterfeit oxycodone tablets laced with fentanyl to military personnel in San Diego, leading to a fatal overdose.

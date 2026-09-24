@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Elland Road
+- UK
+people:
+- Dominic Calvert-Lewin
+organisations:
+- Leeds United
+- Newcastle United
+- Premier League
 ---
 
 # Leeds inflict heavy defeat on Newcastle to climb to third

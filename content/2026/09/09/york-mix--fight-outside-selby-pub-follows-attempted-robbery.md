@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- '#### The Bay Horse'
+- Micklegate
+- Selby
+- The Bay Horse
+people: []
+organisations:
+- North Yorkshire Police
+- Selby Officers
 ---
 
 Police are investigating a fight outside a pub in Selby.

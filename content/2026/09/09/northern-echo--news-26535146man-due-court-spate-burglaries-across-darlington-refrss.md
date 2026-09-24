@@ -14,6 +14,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Darlington
+- Haughton Road
+- Middlesbrough
+- Newton Aycliffe Magistrates’ Court
+- North Road
+- Whinfield
+people:
+- David Littlefair
+organisations:
+- Darlington Neighbourhood Police Team
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

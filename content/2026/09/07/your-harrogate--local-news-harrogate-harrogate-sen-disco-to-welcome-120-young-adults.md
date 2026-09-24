@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+- Ivory Bar
+- The Ginnel
+- The Ivory
+people:
+- DJs Max
+- Duncan
+organisations:
+- Down's Syndrome North Yorkshire
+- SEN Disco
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e9829ee13e4bd893.jpg) 

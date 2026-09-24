@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/22/Britain_Politics_24951.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Britain
+- Egypt
+- France
+- Mokha
+- New York
+- Pakistan
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- U.K.
+- U.S.
+- Yemen
+people:
+- Andy Burnham
+- Biden
+- Trump
+organisations:
+- Associated Press
+- RAF Voyager
+- Royal Air Force
+- United Nations General Assembly
 ---
 
 Prime Minister Andy Burnham said Monday that Britain has agreed to provide limited military support to Saudi Arabia to repeal attacks by Iran-backed Houthi rebels in Yemen.

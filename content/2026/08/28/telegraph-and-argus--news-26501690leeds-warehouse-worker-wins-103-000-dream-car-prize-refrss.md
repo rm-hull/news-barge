@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Video Gaming
+locations:
+- Leeds
+people:
+- Kieran Chandler
+- Nicole Jeffery
+organisations:
+- BOTB
+- Land Rover
 ---
 
 *(Image: Supplied)*

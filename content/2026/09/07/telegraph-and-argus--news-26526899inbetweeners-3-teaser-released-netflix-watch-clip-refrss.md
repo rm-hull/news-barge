@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Britain
+- Ireland
+people:
+- Jay Cartwright
+- Neil Sutherland
+- Simon Cooper
+- Will McKenzie
+organisations:
+- Netflix UK
+- NetflixUK
+- Ooh
+- THE INBETWEENERS
 ---
 
 A teaser for Inbetweeners 3 has been released.

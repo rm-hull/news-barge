@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Bents Green Road
+- Sheffield
+people:
+- Paul Brown
+organisations:
+- Civil Service
+- NHS
+- Yorkshire Post Letters
 ---
 
 # Why MPs should be selected from a range of different occupations - Yorkshire Post Letters

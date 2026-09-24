@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Ankara
+- Baltic Sea
+- Bulgaria
+- Danube River
+- Eastern Europe
+- England
+- Galati
+- Hungary
+- Isaccea
+- Isaccea-Orlivka
+- Leamington Spa
+- Moldova
+- Moscow
+- Poland
+- Romania
+- Russia
+- Slovakia
+- Tulcea County
+- U.S.
+- Ukraine
+- Washington
+people:
+- Alina Mihail
+- Donald Tusk
+- Jim Ratcliffe
+- Mark Rutte
+- McGrath
+- Nicusor Dan
+- Radu Miruta
+- Robert Marian
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- Drone Edge
+- EU
+- EU’s Security Action for Europe
+- European Union
+- Ministry of National Defense
+- NATO
+- National Defense Strategy
+- The Associated Press
 ---
 
 The text alerts blare first, then the blasts arrive.

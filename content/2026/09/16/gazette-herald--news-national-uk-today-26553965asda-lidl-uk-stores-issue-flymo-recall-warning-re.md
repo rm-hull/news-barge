@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- UK
+- uk
+people: []
+organisations:
+- Asda Customer Relations
+- Flymo
+- Getty
+- Lidl
 ---
 
 *(Image: Getty)*

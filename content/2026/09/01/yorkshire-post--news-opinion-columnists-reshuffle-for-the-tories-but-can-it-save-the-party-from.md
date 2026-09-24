@@ -15,6 +15,24 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- London
+people:
+- Andrew Griffith
+- Claire Coutinho
+- Dame Priti
+- James Cleverly
+- Jane Barlow
+- Kemi Badenoch
+- Mel Stride
+- Priti Patel
+- Tom Tugendhat
+organisations:
+- Badenoch
+- Conservative Party
+- Government
+- Reform UK
+- Tory
 ---
 
 # Reshuffle for the Tories but can it save the party from obscurity?

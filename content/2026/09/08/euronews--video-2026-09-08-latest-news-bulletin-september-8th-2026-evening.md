@@ -12,6 +12,44 @@ image: https://images.euronews.com/articles/stories/09/90/62/91/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Cagnes-sur-Mer
+- Europe
+- Germany.
+- Grand Canal
+- Halstead
+- Hannover
+- Israel
+- Israel.
+- Italy
+- Kan.
+- Kernza
+- Kyiv
+- New York
+- North Korea
+- Ottawa
+- Rason
+- Russia
+- Stockholm
+- Tel Aviv
+- UK
+- Venice
+- russia
+people:
+- Avi Issacharoff
+- David Mueller
+- Lior Raz
+- Mark Carney
+organisations:
+- Béla Anda
+- EU
+- Empire State Building
+- Euronews
+- European Commission
+- Privy Council
+- Renoir Museum
+- University of Veterinary Medicine
+- World Trade Centre
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

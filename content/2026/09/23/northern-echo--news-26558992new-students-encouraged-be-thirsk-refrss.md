@@ -14,6 +14,23 @@ categories:
 - Education & Learning
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/17226224.jpg?type=og-image
+locations:
+- Hambleton
+- North Yorkshire
+- Richmondshire
+- Sowerby
+- Thirsk
+- Topcliffe Road
+people:
+- Emma Lambden
+- Miss Lambden
+- Thirsk’
+organisations:
+- Duke of Edinburgh’s Award
+- Ofsted
+- Thirsk School
+- Thirsk School & Sixth Form College
+- YO7 1RZ
 ---
 
 Sponsored by

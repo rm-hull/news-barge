@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Halifax Road
+- Ingrow Lane
+- Keighley
+people: []
+organisations:
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*

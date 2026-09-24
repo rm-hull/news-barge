@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Leeds Bradford Airport
+people: []
+organisations:
+- Driftsky
+- Leeds Bradford Airport
 ---
 
 # Leeds Bradford Airport: Watch moment plane performs go-around in strong winds

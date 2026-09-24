@@ -14,6 +14,20 @@ categories:
 - Health & Fitness
 - Self-Improvement
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313668501.jpg
+locations:
+- Australia
+- Florida
+- Palmetto
+people:
+- Adrienne O’Neil
+- Ashwini Nadkarni
+- Patricia Dixon
+organisations:
+- CBT
+- Deakin University
+- Harvard Medical School
+- Manatee Associates of Counseling & Assessment LLC
+- O’Neil
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313668501.jpg?w=840)

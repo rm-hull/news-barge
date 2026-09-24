@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- North East
+- Raby Castle
+- Staindrop
+people:
+- Chris Booth
+- Raby Castle
+organisations:
+- High Force Hotel
+- High Force Waterfall
+- Raby Estate
+- Sarah Caldercott
 ---
 
 Raby Castle is looking to recruit festive elves and event support staff for its Christmas experience.

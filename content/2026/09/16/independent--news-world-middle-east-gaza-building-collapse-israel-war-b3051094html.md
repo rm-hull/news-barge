@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Egypt
+- Gaza City
+- Gaza Strip
+- Israel
+- Palestinians
+- U.S.
+people:
+- Alessandro Mrakic
+- Dahshan
+- Donald Trump
+- Mahmoud Basal
+- Raed Al-Dahshan
+organisations:
+- Development Programme
+- Hamas
+- Palestinian Civil Defence
+- Reuters
+- U.N
+- U.N.
+- United Nations
 ---
 
 A war-damaged apartment building in Gaza collapsed overnight, killing at least 16 Palestinians, including children, and trapping dozens of others beneath the rubble.

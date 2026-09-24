@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg
+locations:
+- BBC
+- London
+- Nye
+people:
+- Catrin Nye
+- Jatinder Kamra
+- Kristofer Deichler
+- Pounder
+- Sukhraj Singh
+organisations:
+- BBC
+- CCTV
+- Lighthouse
+- Snaresbrook Crown Court
 ---
 
 ![Photo shows three men. On the left, Kristofer Deichler, wearing a white shirt. In the middle, Jatinder Kamra, wearing a white shirt and black blazer. And on the right, Sukhraj Singh, wearing a dark shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg)

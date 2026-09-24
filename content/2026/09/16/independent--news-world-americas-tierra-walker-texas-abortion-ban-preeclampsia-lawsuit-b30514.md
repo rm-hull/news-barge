@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Oklahoma
+- San Antonio
+- Texas
+- Texas’
+people:
+- Ken Paxton
+- Roe
+- Tierra Walker
+- Wade
+organisations:
+- Texas Medical Board
+- U.S. Supreme Court
+- University of Texas Health Science Center
 ---
 
 The family of Tierra Walker, a Texas woman who died from pregnancy complications, has filed a lawsuit targeting Republican Attorney General Ken Paxton and the doctors who treated her.

@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - History
+locations:
+- Chaplin House
+- Daniel Thwaites
+- Grade II-listed
+- Middletons Hotel
+- Skeldergate
+- YOUR
+- York
+- York’s Bootham Hospital
+people:
+- Anne Middleton
+- Daniel Thwaites
+- Daniel Thwaites’
+- Hans Hess
+- John Carr
+- Ralph Dodsworth
+- Skeldergate
+organisations:
+- Crown Court
+- Judges Lodgings
+- Middletons Hotel
+- No. 55
+- No. 55 Skeldergate
+- No. 56
+- Public Notice Portal
+- York City Art Gallery
+- York Council
 ---
 
 ## Modernisation works planned in historic York hotel refurbishment

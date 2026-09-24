@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Amundsen Sea
+- South Pole
+- West Antarctica
+people:
+- Johann Klages
+- Thorsten Bauersachs
+- Tom Clough
+- Ulrich Salzmann
+organisations:
+- AWI
+- Alfred Wegener Institute
+- Northumbria University
+- RWTH Aachen University
 ---
 
 *(Image: Supplied)*

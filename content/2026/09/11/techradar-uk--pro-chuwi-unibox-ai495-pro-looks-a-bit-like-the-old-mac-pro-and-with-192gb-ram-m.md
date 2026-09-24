@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- OCuLink
+people: []
+organisations:
+- 2TB
+- AI395
+- AMD
+- Acemagic
+- Apple
+- CHUWI
+- Efosa
+- Framework
+- GMKtek
+- GPU
+- Google News
+- IFA Berlin
+- TechRadar Pro
+- UniBox
 ---
 
 ![CHUWI UniBox AI495 Pro with 192GB RAM and AMD's new Ryzen AI MAX+ PRO 495 chip](https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD.jpg) 

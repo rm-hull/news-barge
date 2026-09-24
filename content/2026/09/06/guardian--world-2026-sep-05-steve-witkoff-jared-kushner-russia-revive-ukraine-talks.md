@@ -12,6 +12,34 @@ image: https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2
 categories:
 - UK
 - News & Politics
+locations:
+- Boryspil
+- Bucha
+- Dnipro
+- Europe
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Mykolaiv
+- Nikopol
+- Russia
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Donald Trump
+- Kushner
+- Oleksandr Hanzha
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Witkoff
+- Yuri Ushakov
+organisations:
+- Kyiv
+- Nato
+- SBU
 ---
 
 Donald Trump’s envoys “discussed substantive plans for next steps” for ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladimir Putin, the White House said.

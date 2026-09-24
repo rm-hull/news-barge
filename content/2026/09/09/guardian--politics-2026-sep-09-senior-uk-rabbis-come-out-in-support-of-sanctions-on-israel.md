@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Canada
+- France
+- Israel
+- Israel’
+- Jerusalem
+- London
+- UK
+- US
+- Umm al Khair
+- Umm al-Khair
+- Washington
+- West Bank
+people:
+- Alexandra Wright
+- Benjamin] Netanyahu
+- Bezalel] Smotrich
+- Charley Baginsky
+- Ed Miliband
+- Ephraim Mirvis
+- Gideon] Sa’ar
+- Gilad Kariv
+- God
+- Jeremy Gordon
+- Jonathan Boyd
+- Jonathan Wittenberg
+- Josh Levy
+- Lev Taylor
+- Marco Rubio
+- Mike Huckabee
+- Rabbi Charley Baginsky
+- '] Katz'
+organisations:
+- Board of Deputies
+- British Friends of Rabbis for Human Rights
+- Divestment and Sanctions
+- Institute for Jewish Policy Research
+- Jewish Leadership council
+- Kingston Liberal Synagogue
+- Knesset
+- Liberal Jewish Synagogue
+- Masorti Judaism
+- New London Synagogue
+- Progressive Judaism
 ---
 
 Prominent British rabbis have backed Ed Miliband’s sanctions on Israeli settlements, warning that the time for inaction on settler violence must come to an end.

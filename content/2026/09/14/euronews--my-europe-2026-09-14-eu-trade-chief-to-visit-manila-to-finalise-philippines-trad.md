@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Asia-Pacific
+- Australia
+- Brussels
+- East Asia Pacific
+- India
+- Iran
+- Manila
+- Philippine
+- Philippines
+- Thailand
+- US
+people:
+- Donald Trump
+- Maroš Šefčovič
+organisations:
+- Brussels’
+- EU
+- Euronews
+- European Commission
+- MEPs
+- Philippines’
+- World Bank
 ---
 
 ## Manila and Brussels have already completed six rounds of talks aimed at reducing trade barriers across a broad range of sectors. The agreement would represent another step in Brussels’ efforts to diversify its trade relationships throughout the Asia-Pacific region.

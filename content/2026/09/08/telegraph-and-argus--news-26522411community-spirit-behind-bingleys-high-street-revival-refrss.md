@@ -14,6 +14,35 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bingley
+- Leeds
+- New Zealand
+- Shipley
+- Silsden
+- Skipton
+- Wibsey
+people:
+- Abbie Turton
+- Ben Oubridge
+- Bingley
+- Liz Richmond
+- Louise Ainworth
+- Maria Bija
+- Ms Ainworth
+- Ms Turton
+- Richard Hall
+organisations:
+- Autism Bricks UK
+- Bingley
+- Brick Banks Café
+- Hedgehog Organics
+- Kenyon Opticians
+- Lego
+- Louise Ainworth
+- Mulligans Bar
+- Newsquest
+- Olive Lounge Travel
 ---
 
 One of the district's high streets has been described as “revived” by business owners who say community spirit is driving a return to independence.

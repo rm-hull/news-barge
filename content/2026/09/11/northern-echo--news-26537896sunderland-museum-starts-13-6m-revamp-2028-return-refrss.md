@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- Grade II
+- Winter Gardens
+people:
+- Ciera Hudspith
+- Leo Heath
+organisations:
+- Arts Council England
+- Bellrock Consulting
+- Durham High School
+- MEND
+- Museum, Estate and Development Fund
+- NEPO Framework
+- Sunderland City Council
+- Sunderland Museum
+- Sunderland Museum & Winter Gardens
+- The National Lottery Heritage Fund
+- The Wolfson Foundation
 ---
 
 A £13.6 million redevelopment is under way at Sunderland Museum & Winter Gardens.

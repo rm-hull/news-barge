@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Balder Viaduct
+- Belah
+- Chris Lloyd
+- Cotherstone
+- Deepdale
+- Lune
+- North Eastern Railway
+- River Balder
+- Stainmore
+- Tees Railway Path
+- Tees Valley Railway
+- Teesdale
+people:
+- Alexander Nimmo
+- Baldr
+- Hannah Hauxwell
+- Thomas Bouch
+- Thomas MacNay
+organisations:
+- Darlington & Stockton Times
+- Northern Perspectives
+- Teesdale Mercury
 ---
 
 THIS is the Balder Viaduct seen majestically rising through the trees of Teesdale, on the outskirts of Cotherstone, by Northern Perspectives.

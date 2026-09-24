@@ -12,6 +12,31 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/19456486.jpg?type=og-image
+locations:
+- England
+- Humber
+- North Yorkshire
+- WYCA
+- Wales
+people:
+- Andrew Boast
+organisations:
+- BRADFORD
+- Barnsley
+- Bradford
+- Calderdale
+- Doncaster
+- East Riding of Yorkshire
+- Hull
+- Kingston
+- Leeds
+- North East Lincolnshire
+- North Lincolnshire
+- Rotherham
+- SAM Conveyancing
+- Wakefield
+- World Health Organization
+- York
 ---
 
 *(Image: WYCA)*

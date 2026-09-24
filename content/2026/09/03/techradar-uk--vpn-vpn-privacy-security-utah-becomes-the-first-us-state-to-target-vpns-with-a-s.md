@@ -13,6 +13,33 @@ image: https://cdn.mos.cms.futurecdn.net/i5GRReqaUfe7cJjs88tHwf-2119-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- Germany
+- Salt Lake City
+- US
+- Utah
+- Vyazovoy
+- Western USA
+people:
+- Denis Vyazovoy
+- Gytis Malinauskas
+- Laura Tyrylyte
+- Rene Millman
+- TechRadar
+organisations:
+- AdGuard VPN
+- Computer Weekly
+- EU
+- Financial Times
+- Gizmodo
+- Head of Products
+- IT Pro
+- No Trace
+- NordVPN
+- Surfshark
+- TechRadar
+- The Guardian
+- VPNs
 ---
 
 ![Welcome to Utah State Sign in Western USA - stock photo](https://cdn.mos.cms.futurecdn.net/i5GRReqaUfe7cJjs88tHwf.jpg) 

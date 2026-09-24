@@ -16,6 +16,78 @@ categories:
 - History
 - Society & Culture
 image: https://i.guim.co.uk/img/media/8a1111af32b508c7aedf458e07ae1af37f330f83/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41356e750fd601b9d2a9817d3e14eb95
+locations:
+- Accra
+- Afghanistan
+- Africa
+- Asia
+- Bangui
+- Cameroon
+- Caribbean
+- Central African Republic
+- Colombia
+- Democratic Republic of the Congo
+- Equatorial Guinea
+- Eswatini
+- Ghana
+- Iran
+- Iraq
+- Kinshasa
+- Kyrgyzstan
+- LA
+- Latin America
+- Liberia
+- Los Angeles
+- Mexico
+- Nika
+- Peru
+- Senegal
+- Sierra Leone
+- Tehran
+- Texas
+- US
+- US-Mexico
+- Washington DC
+- White House
+people:
+- Alice Speri
+- Alma David
+- Annan
+- Biden
+- Christian Ehrhardt
+- Donald Trump
+- Erica Reilly
+- Eswatini
+- Malick
+- Mohamed
+- Nika
+- Rabbiatu Kuyateh
+- Sahar Jalili
+- Stephen Miller
+organisations:
+- Alamy
+- CAR
+- Congress
+- DHS
+- DRC
+- Department of Homeland Security
+- Department of State
+- Forbidden Stories
+- Guardian
+- Human Rights First
+- ICE
+- IOM
+- International Organization for Migration
+- Nika
+- Office of Remigration
+- Rabbiatu Kuyateh
+- Refugees International
+- Reuters
+- TCNA
+- Trump
+- UN
+- US Immigration and Customs Enforcement
+- Washington Post
 ---
 
 ## Nika’s story

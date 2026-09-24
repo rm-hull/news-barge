@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/u4Uqwef63ZQx6aaCmVayVG-2560-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Friz Hansen
+- Oxblood
+- Pro-Ject
+- Rammstein
+- Ruth Hamilton
+organisations:
+- Clearaudio
+- Google News
+- Rammstein
+- Ruth
+- TechRadar
+- Technics'
 ---
 
 ![Selection of turntables](https://cdn.mos.cms.futurecdn.net/u4Uqwef63ZQx6aaCmVayVG.jpg) 

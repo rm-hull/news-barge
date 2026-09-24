@@ -13,6 +13,19 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Botanical Meadow Retreat
+- Britain
+- North York Moors
+- UK
+- Yorkshire Moors
+- Yorkshire Spa Retreat
+people: []
+organisations:
+- Dome Bar
+- SpaSeekers.com
+- Tripadvisor
+- Yorkshire Spa Retreat
 ---
 
 *(Image: Tripadvisor)*

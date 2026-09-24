@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- North East
+- Willows
+people:
+- Karl Kennedy
+- Matt Blyth
+organisations:
+- A66
+- Arts Centre Washington
+- Neighbours
+- Right Track and Young Musicians Project
+- Royal Northern Sinfonia
+- The Alan Fletcher Band
+- The Bright Street Band
 ---
 
 *(Image: Supplied)*

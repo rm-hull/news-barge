@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://mmo.aiircdn.com/409/6aa8efc0ba0f6a1edc8.jpg
+locations:
+- High Street
+- Knaresborough High Street
+- Lullaby Lane
+people:
+- Melani Darcy
+organisations:
+- Harrogate Baby & Toddler Show
+- Harrogate Pavilion
+- Lullaby Lane Children’s Boutique
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa8efc0ba0f6a1edc8.jpg)

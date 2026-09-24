@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Filey
+- York
+- Yorkshire
+people: []
+organisations:
+- Inghams Fish Restaurant
+- Tripadvisor
+- Yorkshire Man
 ---
 
 *(Image: Tripadvisor)*

@@ -15,6 +15,13 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- AP
+- CSC
+- College Sports Commission
+- NIL Go
 ---
 
 The College Sports Commission cleared more than $227 million worth of name, image and likeness deals in the two-month period ending Aug. 31, nearly doubling the value of all the deals cleared over its first year of existence.

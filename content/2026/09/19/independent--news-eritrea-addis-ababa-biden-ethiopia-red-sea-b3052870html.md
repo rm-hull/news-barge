@@ -12,6 +12,28 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/19/13/Eritrea_US_Sanctions_7_744.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afar
+- Amhara
+- Assab
+- Bab el-Mandeb Strait
+- Eritrea
+- Ethiopia
+- Gulf of Aden
+- Red Sea
+- Tigray
+- United States
+- Yemen
+people:
+- Biden
+- Hagos Ghebrehiwet
+- Yemane Gebremeskel
+organisations:
+- Office of Foreign Assets Control
+- Red Sea Trading Corporation
+- The Associated Press
+- Trump Administration
+- U.S. Department of the Treasury
 ---
 
 The United States lifted sanctions against Eritrea’s ruling party and the military that the former Biden administration imposed, according to the U.S. Department of the Treasury.

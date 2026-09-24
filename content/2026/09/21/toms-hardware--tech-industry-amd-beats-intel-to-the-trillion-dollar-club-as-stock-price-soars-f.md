@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/8WYKRa89vDWBz6UPYYNt7f-2560-80.jpg
+locations:
+- Wall Street
+people:
+- Saša Marinković
+- Tom
+organisations:
+- AI
+- AMD
+- Amazon
+- Apple
+- Broadcom
+- Get Tom's Hardware
+- Google News
+- Intel
+- Micron
+- Microsoft
+- Nvidia
+- SK hynix
+- Tom’s Hardware
 ---
 
 ![AMD logo](https://cdn.mos.cms.futurecdn.net/8WYKRa89vDWBz6UPYYNt7f.jpg)

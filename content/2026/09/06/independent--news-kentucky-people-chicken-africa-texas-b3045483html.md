@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Africa
+- Alpha Roost Farms
+- Austin
+- Clark Ostrich Farm
+- Danville
+- Dry Branch Farm
+- Kentucky
+- New Jersey
+- Oregon
+- Texas
+- U.S.
+- US
+- Williams'
+people:
+- Boyd Clark
+- Brent Williams
+- King
+- Leah Gibbs
+- Michael Lehman
+- W.D
+organisations:
+- Alpha Roost Farms
+- Alpha-Gal Association
+- American Ostrich Association
+- Lehman
 ---
 
 When a friend approached Brent Williams four years ago with a business proposition to start an ostrich farm, he was more than intrigued — he had a personal motivation as someone who developed a life-threatening allergy to red meat, triggered by tick bites.

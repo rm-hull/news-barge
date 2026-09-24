@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Parliament Street
+- Sheriff of York
+- St Helen’s Square
+- St Sampson’s Centre
+- Town Crier
+- York Mansion House
+people:
+- Geoff Cossins
+organisations:
+- Eventbrite
+- Goodramgate
+- Lord Mayor’s Charity Fund
+- Shared York
+- Sheriff of York
+- YO1 Radio
+- York Cares
+- York Food and Drink Festival Marquee
 ---
 
 ## Medieval ale tasting tradition returns to York with pubs and costumes

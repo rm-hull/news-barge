@@ -13,6 +13,14 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/07/09/13/39/iStock-1248520843.jpeg?trim=0,99,0,99&width=1200&height=800&crop=1200:800
+locations:
+- Deltona
+- HCA Florida Lake Monroe Hospital
+- Orlando Health Arnold Palmer
+people: []
+organisations:
+- The Independent
+- Volusia Sheriff’s Office
 ---
 
 Authorities are investigating after a Florida man said he accidentally shot his 4-year-old daughter and wife at their Deltona home over the weekend.

@@ -13,6 +13,12 @@ categories:
 - Science
 - Technology & Software
 - Pets & Animals
+locations:
+- UK
+- US
+people: []
+organisations:
+- European Commission
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501763.jpg?w=840)

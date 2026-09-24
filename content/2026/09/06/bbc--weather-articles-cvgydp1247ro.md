@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Travel
+locations:
+- Ardeche
+- England
+- Erbo valley
+- Europe
+- France
+- London
+- Moray Firth
+- Northern Ireland
+- Scotland
+- Spain
+- UK
+- Wales
+- Wimbledon Common
+people: []
+organisations:
+- Huelva
 ---
 
 ![A group of people sit in a circle on straw-like dry grass. There are trees in the background and blue sky](https://ichef.bbci.co.uk/ace/standard/814/cpsprodpb/82c5/live/7a900fb0-a952-11f1-adf0-6d46cbf5ba37.jpg)

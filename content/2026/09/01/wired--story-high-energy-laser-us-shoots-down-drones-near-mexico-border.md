@@ -12,6 +12,28 @@ image: https://media.wired.com/photos/6a95da7f647dbf9631296928/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Locust
+- Rio Grande Valley
+- Texas
+- US
+- US-Mexico
+people:
+- Curtis Taylor
+- Donald Trump
+organisations:
+- AMP-HEL
+- AeroVironment
+- Army’s High-Energy Multipurpose Laser
+- CBP
+- Customs and Border Patrol
+- JTF-SB
+- Joint Task Force Southern Border
+- Locust
+- Mexican Army
+- US Armed Forces
+- US Army
+- US Northern Command
 ---
 
 This week, the US Army used a high-energy multipurpose laser to shoot down three drones near the US-Mexico border, which official reports claimed were “posing a physical threat to US military personnel and CBP partners,” referring to Customs and Border Patrol.

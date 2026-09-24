@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Solihull
+- West Midlands
+- Wolverhampton
+people:
+- Martin Limpert
+organisations:
+- Electric Propulsion Manufacturing Centre
+- JLR
+- Range Rover
+- Range Rover Electric
 ---
 
 ![A blue Range Rover Electric prototype drives down a metal ramp from the open cargo bay of a large white aircraft. The vehicle carries “Electric Prototype” markings and technical angle indicators on its body. The aircraft is branded “Range Rover” near the windows.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg)

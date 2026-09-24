@@ -12,6 +12,12 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/69e5d62ad4eba.jpg
+locations:
+- Boroughbridge Road
+- Ripon Canal
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/69e5d62ad4eba.jpg)

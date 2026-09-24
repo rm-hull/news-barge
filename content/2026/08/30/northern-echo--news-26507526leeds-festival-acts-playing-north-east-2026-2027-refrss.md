@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Birmingham
+- Bramham Park
+- Leeds
+- Newcastle
+- North East
+- Sunderland
+people:
+- '## Dylan John Thomas'
+- '## Skye Newman'
+- Adam Kennedy
+- Dylan John Thomas
+- Holly Humberstone
+- Jamie Webster
+- Skye Newman
+organisations:
+- '## ARKAYLA'
+- '## Gurriers'
+- '## Locky'
+- '## Overpass'
+- '## Unpeople'
+- Boiler Shop
+- East End Dubs
+- KEO
+- Leeds
+- Liverpool
+- Manchester
+- NX Newcastle
+- Newcastle Boiler Shop
+- Newcastle Digital
+- Newcastle NX
+- Newcastle Think Tank
+- Newcastle University Students' Union
+- North East
+- O2 City Hall
+- O2 City Hall Newcastle
+- Rockers Unpeople
+- Sunderland Independent
+- The Lilacs
+- The North
+- Think Tank
+- Westside Cowboy
 ---
 
 *(Image: Adam Kennedy)*

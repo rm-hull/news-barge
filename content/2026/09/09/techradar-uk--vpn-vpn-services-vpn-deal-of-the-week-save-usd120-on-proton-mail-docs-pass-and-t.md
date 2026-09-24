@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Rob Dunne
+organisations:
+- Google Drive
+- Google Workspace
+- Proton
+- Rob
+- TechRadar
 ---
 
 ![Proton VPN new mobile app interface – promo image](https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5.png) 

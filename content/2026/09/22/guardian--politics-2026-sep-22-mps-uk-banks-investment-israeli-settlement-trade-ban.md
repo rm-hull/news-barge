@@ -14,6 +14,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/94359a5ee18930d829cdd00c917f5404d5445b79/1438_0_7202_5760/master/7202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af8b0711e581e696b14a9eece2d96aa9
+locations:
+- Gulf
+- Israel
+- UK
+- West Bank
+people:
+- Andy McDonald
+- Bezalel Smotrich
+- Debbie Abrahams
+- Ed Miliband
+organisations:
+- Britain-Palestine
+- E1
+- Labour
 ---
 
 British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1 settlement project even though new UK laws banning trade with illegal settlements are unlikely to be in place for months.

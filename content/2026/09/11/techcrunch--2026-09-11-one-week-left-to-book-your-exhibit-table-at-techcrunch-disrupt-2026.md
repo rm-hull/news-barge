@@ -11,6 +11,11 @@ image: https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Expo Hall
+people: []
+organisations:
+- SoWa Power Station
 ---
 
 **Book your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m. PT.** Tables are limited and can sell out before the deadline.

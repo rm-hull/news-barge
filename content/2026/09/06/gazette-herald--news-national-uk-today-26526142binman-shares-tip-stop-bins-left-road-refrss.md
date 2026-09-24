@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Mine
+people:
+- Ashley
+- Binman
+- Yessss I
+organisations: []
 ---
 
 *(Image: Getty)*

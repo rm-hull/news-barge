@@ -13,6 +13,33 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYzYjcwZWQ3LTdkOWQtNDNkYS05ZGYwLTI1ZGMyOWE0ZDc2Yjo0YjZjMDcxZS05YTBiLTRiNmMtOWZmNi1hNTE5YTBhY2UwYjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Greater Manchester
+- North
+- Northern Powerhouse Rail
+- Pennines
+- Sheffield
+- South Yorkshire
+- UK
+- West Midlands
+- West Yorkshire
+- York
+people:
+- Andy Burnham
+- Bev Craig
+- David Skaith
+- Kim McGuinness
+- Oliver Coppard
+- Richard Parker
+- Tracy Brabin
+organisations:
+- Labour
+- Liverpool City Region
+- Manchester City Council
+- North East
+- North Yorkshire
+- Sheffield
+- South Yorkshire
 ---
 
 # Better connection between Sheffield and Manchester can help the North succeed - Oliver Coppard and Bev Craig

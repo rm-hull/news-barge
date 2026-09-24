@@ -15,6 +15,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- Bradford
+people:
+- Nelson Uzenabor
+- Nire Adetimehin
+organisations:
+- AI
+- Buildathon
+- Multiverse
+- NHS
+- Oluwatimilehin Oni
 ---
 
 *(Image: Supplied)*

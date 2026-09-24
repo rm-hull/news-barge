@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Caden
+- Cone Health Hospital
+- Greensboro
+- North Carolina
+people:
+- Caden Sorrell
+- CeCe Matson
+- Vanessa Clark
+organisations:
+- GoFundMe
+- Northwest Guilford Middle School
+- Pittsburgh Steelers
+- WXII
+- Walmart
 ---
 
 A 13-year-old North Carolina football player has died days after he went into cardiac arrest during practice.

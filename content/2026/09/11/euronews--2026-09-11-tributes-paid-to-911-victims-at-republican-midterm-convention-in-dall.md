@@ -12,6 +12,38 @@ image: https://images.euronews.com/articles/stories/09/90/97/21/1200x675_cmsv2_9
 categories:
 - Europe
 - News & Politics
+locations:
+- America
+- Dallas
+- Europe
+- London
+- Manhattan
+- New York
+- New York City
+- Pennsylvania
+- South Tower
+- Twin Towers
+- US
+- United States
+- Virginia
+people:
+- Donald Trump
+- JD Vance
+- Kaja Kallas
+- Sadiq Khan
+- Sean Duffy
+- Welles Crowther
+- Welles'
+organisations:
+- American Airlines Center
+- Congress
+- EU
+- National September 11 Memorial & Museum
+- Pentagon
+- Republican Party
+- United Airlines
+- World Trade Center
+- World Trade Centre
 ---
 
 ## US President Donald Trump and Vice President JD Vance are scheduled to visit the sites of the 11 September 2001 attacks on Friday, with Trump expected to deliver a speech at the Pentagon.

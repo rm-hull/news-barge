@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bristol
+- City Hall
+- Downs
+- England
+- Kent
+- London
+- Richmond
+- St George Park
+- Swansea
+- Thanet
+- Wales
+- Waltham Forest
+- Westgate-on-Sea
+people:
+- Ailie Tam
+- Angela Brier-Stephenson
+- Chloe Broomby
+- Helen Wilson
+- Josie Appleton
+- Julia Turner
+- Stephen Williams
+- Thanet
+organisations:
+- Appleton
+- Campaign for Freedom in Everyday Life
+- Parkguard
 ---
 
 At 6am on the beach at Westgate-on-Sea in Kent, Angela Brier-Stephenson used to meet a small group of about 10 people for yoga.

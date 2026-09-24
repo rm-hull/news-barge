@@ -12,6 +12,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2025/11/06/13/13/GettyImages-2233338747.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Australia
+- California
+- Canada
+- Central Valley
+- China
+- Europe
+- Lodi
+- Napa
+- San Joaquin Valley
+- Sonoma Valley
+- U.S.
+people:
+- Bill Berryhill
+- Jeff Bitter
+- Kyle Collins
+- Rob McMillan
+organisations:
+- Allied Grape Growers
+- Berryhill Family Vineyards
+- First Citizens Bank
+- International Organization of Vine and Wine
+- Silicon Valley Bank
+- State of the Wine Industry Report
 ---
 
 Harvest season has arrived across California wine country, but many growers are struggling to sell their grapes as shifting drinking habits have caused demand to plunge.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kyiv
+- Poland
+- Sweden
+- U.K.
+- Ukraine
+- Yahodyn station
+- Yahodyn-Dorohusk
+people:
+- Boris Johnson
+- Carl Bildt
+- David Petraeus
+- Putin
+organisations:
+- CIA
+- European Union
+- Telegram
+- Ukrzaliznytsia
 ---
 
 A Russian drone struck a train near the Ukraine- Poland border on Sunday shortly after senior visiting officials — including the former prime ministers of the U.K. and Sweden -- passed through, Ukraine’s state rail operator said.

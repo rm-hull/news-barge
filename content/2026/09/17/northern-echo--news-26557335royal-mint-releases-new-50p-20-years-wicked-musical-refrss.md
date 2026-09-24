@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - History
 - Personal Finance & Investing
+locations:
+- Atlantic Salmon
+- Kew Gardens
+- London
+- UK
+people:
+- Peter Rabbit
+- Tim Mulhall
+- Wicked
+organisations:
+- '## Royal Mint'
+- London’s Apollo Victoria Theatre
+- Royal Mint
+- The Royal Mint
+- Wicked London
+- eBay
+- iStockphoto
 ---
 
 *(Image: Getty Images/iStockphoto)*

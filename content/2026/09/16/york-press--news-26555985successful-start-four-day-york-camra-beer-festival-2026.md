@@ -12,6 +12,38 @@ categories:
 - York
 - Arts & Culture
 - Travel
+locations:
+- Fulford
+- Lawrence Street
+- Scarborough
+- St Lawrence Church
+- Strensall
+- York
+people:
+- Amanda Speed
+- Brewhemian Hopsody
+- Chris Tregellis
+- Colin Povey
+- Craig Lee
+- Darren Greenwood
+- Geoff Mumford
+- Karen Crombie
+- Karl Smith
+- Katie
+- Mike Webvale
+- Millie Lee
+- Sally Scantleburn
+- Steve
+organisations:
+- Branch
+- Half Moon
+- Katie
+- North Riding Brew Co
+- North Riding Brew Pub
+- Rudgate Brewery
+- Strensall
+- Waggon and Horses
+- York CAMRA
 ---
 
 ## Ale and hearty start at major York beer festival

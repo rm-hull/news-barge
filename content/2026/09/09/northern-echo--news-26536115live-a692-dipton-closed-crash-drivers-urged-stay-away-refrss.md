@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Dipton
+people:
+- Olivia Howlett
+organisations:
+- A692
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the crash on the A692 in Dipton.

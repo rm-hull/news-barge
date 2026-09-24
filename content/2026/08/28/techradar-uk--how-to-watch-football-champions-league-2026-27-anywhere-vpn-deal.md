@@ -12,6 +12,54 @@ image: https://cdn.mos.cms.futurecdn.net/DzJtmhbsyEqTuoFgGhV9qG-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Arsenal
+- Australia
+- Belgium
+- CA
+- Canada
+- Europe
+- Ireland
+- Monaco
+- RTBF Auvio
+- Turkey
+- UK
+- US
+people:
+- Harry Kane
+- Jude Bellingham
+- Krishi
+- Kylian Mbappe
+- Lamine Yamal
+- Try Surfshark
+- Vinicius Junior
+organisations:
+- Arsenal
+- Barcelona
+- Bayern Munich
+- DAZN
+- Future Publishing
+- HBO Max
+- Krishi
+- Liverpool
+- Manchester City
+- PSG
+- Paramount
+- Paris Saint-Germain
+- RTBF Auvio
+- RTE Player,Virgin Media Play
+- Real Madrid
+- Stan Sport
+- Surfshark Starter
+- Surfshark VPN
+- TNT Sports
+- TRT
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- UCL
+- UEFA
 ---
 
 ![General view of the UEFA Champions League trophy ahead of the draw at Grimaldi Forum on August 27, 2026 in Monaco](https://cdn.mos.cms.futurecdn.net/DzJtmhbsyEqTuoFgGhV9qG.jpg) 

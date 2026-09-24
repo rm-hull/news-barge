@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361562.jpg?type=og-image&xType=0&yType=402
+locations:
+- Alaska
+- Canada
+- Clocktower
+- Europe
+- Fodder
+- Harrogate
+- Liverpool
+- Nova Scotia
+- Rudding Park
+- UK
+- USA
+- Yorkshire Life
+people:
+- Marco Pierre White
+- Steph Moon
+organisations:
+- Coniston Hotel
+- The Box Tree Ilkley
+- Yorkshire Life
 ---
 
 Chef Steph Moon has been appearing on the pages of Yorkshire Life for, dare we say it, decades? We unearthed these archive pictures of her from the magazine in 2011 and 2015 ‒ debating the merits of drinking beer with a meal ‒ and whether apple pie or apple crumble was the best.

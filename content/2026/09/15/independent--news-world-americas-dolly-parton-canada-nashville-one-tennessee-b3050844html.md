@@ -11,6 +11,38 @@ image: https://static.independent.co.uk/2026/09/15/23/Dolly_Parton_Corn_Maze_867
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Brookfield
+- California
+- Canada
+- Connecticut
+- Cornfield
+- Dollywood
+- Islands
+- Nashville
+- New York
+- Ohio
+- Parton
+- Stream
+- Tennessee
+- Texas
+- Twins BBQ
+- U.S.
+people:
+- Brett Herbst
+- Danielle Gallop
+- Dolly Parton
+- Jolene
+- Lainey Wilson
+- Luke Bryan
+- Marcelo
+- Reba McEntire
+- Stephanie Chen
+- William
+organisations:
+- Parton
+- The Maize Inc.
 ---
 
 Dolly Parton ’s megawatt smile and big wavy locks are gracing fields across the U.S. and Canada this fall.

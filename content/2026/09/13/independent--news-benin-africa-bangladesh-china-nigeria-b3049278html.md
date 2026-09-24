@@ -11,6 +11,35 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Africa
+- Bangladesh
+- Benin
+- Bétérou
+- China
+- Cotonou
+- GDIZ
+- Gogounou
+- Nigeria
+- Parakou
+people:
+- Chabi Baké
+- Fatoumata Dosso
+- Souhaïbou Gambari
+- Toussaint Bapetem
+organisations:
+- AP
+- African Development Bank
+- Arise IIP
+- Associated Press
+- Bapetem
+- DAF Collection
+- Dosso
+- GDIZ
+- Gates Foundation
+- Kiabi
+- U.S. Department of Agriculture
+- U.S. Polo Assn.
 ---
 
 The “Made in Benin” tags on Fatoumata Dosso’s fabrics represent an ambition much bigger than her fashion business: keeping more of the value of Africa’s largest cotton producer at home.

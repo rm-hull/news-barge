@@ -13,6 +13,56 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- City of Angels
+- Houston
+- Hudson River
+- L.A.
+- London
+- Los Angeles
+- Marciniw
+- Nebraska
+- Omaha
+- Phoenix
+- Santa Barbara
+- Southern California
+- U.S.
+people:
+- Edy Gutierrez Mejia
+- Eli
+- Eliana Moreno
+- Esteban Jimenez
+- George Marciniw
+- Heli
+- Jane Dornacker
+- John Silva
+- Josh Funk
+- Kellman
+- Simpson
+- Stan Chambers
+- Tammy Rose
+organisations:
+- ABC-13
+- AP Transportation
+- Airborne
+- Chapman University
+- Helicopters Inc.
+- Instagram
+- KNBC
+- KPNX
+- KTLA
+- KTLA-TV
+- NBC4 Los Angeles
+- NBCLA
+- NTSB
+- O.J
+- Procter & Gamble
+- Smithsonian Magazine
+- Telemundo
+- Television Academy Foundation
+- The Associated Press
+- WNBC Radio
+- Whiteman Airport
 ---
 
 Los Angeles has been viewed from above by news helicopters for nearly seven decades. When there was a wildfire, a mudslide or O.J. Simpson fleeing the police across its ribbons of highway, an “eye in the sky” tracked it and advised millions how to keep out of harm's way.

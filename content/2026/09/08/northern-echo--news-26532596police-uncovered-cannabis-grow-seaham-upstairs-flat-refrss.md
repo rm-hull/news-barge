@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- Filthy
+- Filthy's
+- Seaham
+- Stockton Road
+- The Mill Inn
+people:
+- Filthy
+organisations:
+- Filthy's
+- The Northern Echo
+- Unit 1
 ---
 
 *(Image: GOOGLE)*

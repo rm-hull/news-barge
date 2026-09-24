@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Lancashire
+- Wales
+- Wandsworth
+people:
+- Alex Davies-Jones
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Archie York
+- Maya Chappell
+- Minnie Mouse
+- Nick Timothy
+organisations:
+- BBC
+- IPP
+- Imprisonment for Public Protection
+- Labour
+- Ministry of Justice
+- MoJ
+- PC
 ---
 
 ![A prison guard in a white top and black trousers walks down a prison hallway. The walls and floor are white.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/fba4/live/5f7934c0-a558-11f1-9acf-19576105f049.jpg)

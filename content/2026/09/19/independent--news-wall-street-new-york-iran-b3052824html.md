@@ -14,6 +14,12 @@ categories:
 - Business & Entrepreneurship
 - Real Estate
 image: https://static.independent.co.uk/2026/09/19/09/Financial_Markets_Wall_Street_64463.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- U.S.
+- Wall Street
+people: []
+organisations: []
 ---
 
 Wall Street will get a key update this week on the U.S. housing market, along with a regular weekly unemployment update.

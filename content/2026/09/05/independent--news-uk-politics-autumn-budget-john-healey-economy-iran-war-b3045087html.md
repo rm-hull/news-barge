@@ -13,6 +13,22 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+organisations:
+- Budget
+- Financial Times
+- Nato
+- Press Association
+- Treasury
 ---
 
 The upcoming autumn Budget is expected to be tough, the chancellor has warned, as the US-Iran war continues to damage the economy.

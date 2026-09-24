@@ -11,6 +11,59 @@ image: https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb-450-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Crescent Island
+- US
+people:
+- Anton Shilov
+- Joe Shields
+- Mark Tyson
+organisations:
+- Aaron Klotz
+- Albert Thomas
+- Amazon
+- AmazonBy Jowi Morales
+- Andrew E. Freedman
+- Anton Shilov
+- CPUsApple
+- CXMT
+- CoolingModder
+- Corsair
+- DRAMCXMT
+- DRAMChina
+- Fujitsu
+- Fylladitakis
+- GPU DriversNvidia
+- GPUsNvidia
+- Hassam Nasir
+- IBM
+- Intel Crescent Island
+- Jeffrey Kampman
+- Jeffrey Kampman Published
+- Joe Shields
+- Liquid CoolingFrore
+- MSI
+- Mark Tyson Published
+- MotherboardsGigabyte
+- New HAF
+- NeweggBy Joe Shields Published
+- Nvidia
+- OverclockingGPU
+- OverclockingOverclocker
+- OverclockingYou
+- PC CasesNoctua
+- PCB
+- Pentagon
+- Power SuppliesSeasonic
+- PremiumHow
+- RAMG.Skill
+- RTX
+- SSDsSandisk
+- Samsung
+- Stephen Warwick
+- StorageMaxell
+- Tom's Hardware
+- Zak Killian
 ---
 
 # PC Components

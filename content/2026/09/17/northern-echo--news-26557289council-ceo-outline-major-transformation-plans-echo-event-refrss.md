@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- North East
+- UK
+people:
+- Andy Burnham
+- David Gartland
+- David Hodgson
+- Huw Lewis
+- Kim McGuinness
+- Mark Stamper
+- Rachel Anderson
+- Rose Rouse
+- Sophie Walton
+organisations:
+- BUSINESSiQ
+- CPI
+- Centre for Process Innovation
+- Cummins
+- Darlington Borough Council
+- Darlington College
+- Darlington College Darlington
+- Darlington Economic Campus
+- Durham County Council
+- Government
+- Inclusive Growth and Partnerships
+- North East Chamber of Commerce
+- North East Mayoral Strategic Authority
+- The Northern Echo
 ---
 
 The Chief Executive at Darlington Borough Council says the town is undergoing “one of the most significant periods of transformation in its history” as major projects change the landscape across the North East.

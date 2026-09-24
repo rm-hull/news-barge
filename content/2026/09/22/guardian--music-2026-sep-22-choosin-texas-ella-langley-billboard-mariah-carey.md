@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Music
 image: https://i.guim.co.uk/img/media/514b5c1e0b26f45e0e2df70ab458b34969d93f04/133_0_4669_3735/master/4669.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a61bdd2c404c2584d48a2609b266a8ad
+locations:
+- Abilene
+- Memphis
+- Nashville
+- Tennessee
+- Texas
+people:
+- Choosin’ Texas’
+- Ella Langley
+- Jack Daniel
+- Joybeth Taylor
+- Luke Dick
+- Mariah Carey
+- Miranda Lambert
+- Victoria Banks
+organisations:
+- Belmont University
+- Billboard
+- Choosin’ Texas
+- Guardian
 ---
 
 Ella Langley’s hit song Choosin’ Texas has made Billboard Hot 100 history, spending 23 weeks on the chart and breaking the record for the longest-running No 1 song in the chart’s 68-year old history.

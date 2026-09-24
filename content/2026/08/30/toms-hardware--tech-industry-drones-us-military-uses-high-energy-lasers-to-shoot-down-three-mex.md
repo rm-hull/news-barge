@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- U.S.
+- UK
+people:
+- Curtis Taylor
+- Jowi Morales
+- Maj
+- Tom
+organisations:
+- Army Multipurpose High Energy Laser System
+- CBS News
+- Customs and Border Protection
+- Google News
+- Joint Task Force
+- Jowi Morales
+- Pentagon
+- Royal Navy
+- U.S. Northern Command
+- USNORTHCOM
 ---
 
 ![an anti-drone laser system mounted on a vehicle](https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek.jpg) 

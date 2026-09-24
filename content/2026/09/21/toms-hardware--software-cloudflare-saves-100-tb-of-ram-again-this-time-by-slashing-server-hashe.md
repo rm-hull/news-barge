@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/URarwPfgbrbBaz3ggUPSK-1350-80.webp
+locations:
+- Ketama
+- Pingora
+people:
+- Bruno Ferreira
+organisations:
+- Cloudflare
+- Get Tom's Hardware
+- PC
+- Rust
+- Tom's Hardware
 ---
 
 ![Cloudflare - Ketama tuning](https://cdn.mos.cms.futurecdn.net/URarwPfgbrbBaz3ggUPSK.webp)

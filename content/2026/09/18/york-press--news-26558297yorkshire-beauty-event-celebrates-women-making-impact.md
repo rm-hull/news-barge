@@ -11,6 +11,22 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Grantley Hall
+- London
+- YORKSHIRE
+- Yorkshire
+people:
+- Caroline Asquith
+- Jo Goodall-Thorne
+- Lubna Khan-Salim
+- Nicola Glennon
+- Victoria Clapham
+organisations:
+- Lexus Leeds
+- Luna
+- Wellness & Aesthetics Technology
+- Yorkshire Beauty
 ---
 
 *(Image: Supplied)*

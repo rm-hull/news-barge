@@ -12,6 +12,20 @@ categories:
 - History
 - Travel
 image: https://static.independent.co.uk/2026/09/21/07/Lebanon_Underwater_Ruins_96845.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Danger
+- Lebanon
+- Mediterranean
+- Tyre
+people:
+- Ali Badawi
+- God
+- Yousef al-Jundi
+organisations:
+- Lebanon Diving Center
+- Tyre
+- UNESCO
+- World Heritage Committee
 ---
 
 Beneath the Mediterranean waters off the southern Lebanese city of Tyre, divers swim past stone walls, ancient structures and a submerged road — remnants of parts of a city that once stood above the water.

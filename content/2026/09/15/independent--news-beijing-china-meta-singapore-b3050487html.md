@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- China
+- Singapore
+- U.S.
+people:
+- Manus
+organisations:
+- Cyberspace Administration of China
+- Manus
+- Meta
+- Trivium
 ---
 
 New Chinese border control rules taking effect Tuesday could ban citizens from leaving the country if they engage in illegal activity that endangers national or industrial security.

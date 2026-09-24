@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- AI
+- Louisiana
+- Memphis
+- Silicon Valley
+- Texas
+- US
+people:
+- Austyn Gaffney
+- Boris Gamazaychikov
+- Claude
+- Max
+- Maxwell Zeff
+- Molly Taft
+- Sam Altman
+- Zeke Hausfather
+organisations:
+- Department of Energy
+- Hyperion
+- KERA News
+- Meta
+- Model Behavior
+- Muse
+- Netflix
+- OpenAI
+- SpaceX
+- Sustainable AI
+- Trump
+- Wall Street Journal
 ---
 
 *Welcome back to Power Play! Each week, senior writer Molly Taft tackles a topic around this midterm season’s biggest issue: data centers. If you’ve got a question or thought for the column, feel free to shoot Molly an email at [email protected] or reach them securely on Signal at mollytaft.76.*

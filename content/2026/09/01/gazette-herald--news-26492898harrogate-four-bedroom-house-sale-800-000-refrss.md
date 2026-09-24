@@ -14,6 +14,13 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Harrogate
+- The Grove
+- The Stray
+people: []
+organisations:
+- Verity Frearson
 ---
 
 A four-bedroom house in Harrogate is on the market for offers over £800,000.

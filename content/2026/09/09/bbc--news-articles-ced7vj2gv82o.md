@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ceuta
+- Ceuta.
+- Morocco
+- North Africa
+- Spain
+- Trampolin beach
+people:
+- Ester Muñoz
+- Jorge Buxadé
+- José Manuel Albares
+- Miguel Ángel Pérez Triano
+- Pedro Sánchez
+organisations:
+- CNI
+- National Intelligence Service
+- People's Party
+- Red Cross
+- Supreme Court
+- Vox
+- WhatsApp
 ---
 
 ![Migrants queue for a Red Cross food distribution at Trampolin beach, following recent mass crossings of migrants from Morocco to Ceuta.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg)

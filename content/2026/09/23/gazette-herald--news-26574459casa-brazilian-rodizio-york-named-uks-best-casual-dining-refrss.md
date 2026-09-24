@@ -14,6 +14,23 @@ categories:
 - Food & Cooking
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/18105198.jpg?type=og-image
+locations:
+- Brazil
+- Micklegate
+- UK
+- YORK
+- York
+- Yorkshire
+people:
+- '![]()Eduardo'
+- Eduardo
+organisations:
+- Casa Brazilian Rodizio
+- Casa Brazillian Rodizio
+- Casa Rodizio
+- No. 8
+- Tripadvisor
+- Vaquieors
 ---
 
 A YORK restaurant has been named the best casual dining spot in the UK for the second year running - as well as entering the global top ten.

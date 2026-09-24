@@ -12,6 +12,18 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations: []
+people:
+- Freddie van Mierlo
+- Tom Gordon
+- Vikki Slade
+organisations:
+- Bill
+- Harrogate
+- House of Commons
+- Knaresborough
+- Liberal Democrat
+- Parliament Green
 ---
 
 ![](https://mmo.aiircdn.com/409/681f78c66f1e0.jpg) 

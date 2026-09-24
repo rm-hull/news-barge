@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Family & Parenting
 - Sports
+locations:
+- Consett
+- Durham
+- NORTHERN ECHO
+- Newcastle
+- Royal Victoria Infirmary
+- Shotton Colliery
+- UK
+- Westminster
+people:
+- Bradley Lee Chappell
+- Dana Carr
+- Dylan Thompson
+- Gemma Chappell
+- Grace Thompson
+- Joy Allen
+- Kerrie Robinson
+- Maya Chappell
+- Michael Daymond
+- Michael Thompson
+- Rachael Walls
+- Stuart Boulton
+organisations:
+- Consett AFC
+- County Durham
+- Maya's Law
+- Maya’s Law
+- NORTHERN ECHO
+- Northern Echo
+- The Northern Echo
 ---
 
 Families and supporters came together at a charity football match for murdered County Durham toddler Maya Chappell, raising money for children and backing the campaign for Maya’s Law.

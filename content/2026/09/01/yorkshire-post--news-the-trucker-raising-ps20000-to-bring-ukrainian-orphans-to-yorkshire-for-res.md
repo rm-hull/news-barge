@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Knaresborough
+- UK
+- Ukraine
+- Volodymr
+- Volodymyr
+- Yorkshire
+people:
+- Bob Frendt
+- Mariia Petrovska
+- Oleg Malan
+organisations:
+- Bandura
+- Frazer Theatre
+- Knaresborough Aid
+- Ukrainian Heart Foundation
+- Ukrainian Red Cross
+- Wetherby Folk Club
 ---
 
 # The trucker raising £20,000 to bring Ukrainian orphans to Yorkshire for respite

@@ -12,6 +12,24 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/13438448.jpg?type=og-image&xType=0&yType=0
+locations:
+- Alamy
+- Elvington Airfield
+- Leeds General Infirmary
+- PA
+- York
+people:
+- Mindy
+- Richard Hammond
+- Ross Tomkins
+organisations:
+- Government
+- Instagram
+- NHS
+- Newsquest)* TV
+- Top Gear
+- YAA
+- Yorkshire Air Ambulance
 ---
 
 ## But for you I would have died - Richard Hammond pays tribute to 999 air medics

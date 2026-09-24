@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb-1600-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- North America
+- North and South America
+- SGT
+- Singapore
+- UK
+- US
+people:
+- Hal Jordan
+- John Stewart
+- Kelly Macdonald
+- Kerry Kane
+- Tom
+organisations:
+- DC Universe
+- DCU
+- Disney Plus
+- Google News
+- HBO Max
+- Lanterns
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Sky Atlantic
+- Star Wars
+- TechRadar
 ---
 
 ![Hal Jordan wearing glasses and holding up his fist with his Green Lantern ring activated in Lanterns](https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb.jpg) 

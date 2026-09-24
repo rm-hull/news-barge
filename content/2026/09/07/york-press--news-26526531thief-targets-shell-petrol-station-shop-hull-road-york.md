@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Hull Road
+- York
+people: []
+organisations:
+- CCTV
+- North Yorkshire Police
+- Shell Garage
 ---
 
 *(Image: North Yorkshire Police)*

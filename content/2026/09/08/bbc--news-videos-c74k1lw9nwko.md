@@ -11,6 +11,19 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/794d/live/60f7da
 categories:
 - UK
 - News & Politics
+locations:
+- Israel
+- Jerusalem
+- Ma'ale Adumim
+- Middle East
+- UK
+- West Bank
+people:
+- Ed Miliband
+- Gideon Saar
+- Lucy Williamson
+organisations:
+- BBC
 ---
 
 # Where is Israel's proposed West Bank settlement the UK opposes?

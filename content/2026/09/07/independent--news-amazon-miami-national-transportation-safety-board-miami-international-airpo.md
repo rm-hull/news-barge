@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Las Vegas
+- Louisville
+- Miami International Airport
+- Nebraska
+- North Carolina
+- Omaha
+- Phoenix
+- Puerto Rico
+- San Juan
+people:
+- Jennifer Homendy
+- Mary Schiavo
+- Ray Jadallah
+- Rio Yamat
+- Steve Arroyo
+- Tim Reynolds
+- Wufei Yu
+organisations:
+- 21 Air
+- Amazon
+- Associated Press
+- FAA
+- FlightAware
+- Flightradar24
+- Miami International Airport
+- Miami-Dade Rescue Fire
+- Muhammad Ali International Airport
+- NTSB
+- National Transportation Safety Board
+- Orlando International Airport
+- Prime Air
+- Transportation Department
+- UPS
+- ___ Funk
 ---
 
 Federal investigators on Monday are detailing their plans for determining what caused an Amazon cargo jet to barrel off a runway at Miami International Airport, killing at least five people and injuring five others as it struck vehicles and was engulfed in flames.

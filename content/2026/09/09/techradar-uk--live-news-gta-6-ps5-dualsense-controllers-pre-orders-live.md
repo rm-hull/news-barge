@@ -10,6 +10,41 @@ description: Vice City in your hands
 image: https://cdn.mos.cms.futurecdn.net/wQGCwys4uuBgGBiZZoUpQK-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Atlantic
+- BlizzCon
+- Currys
+- DualSense
+- Europe
+- UK
+- US
+- Vice City
+people:
+- Mack
+- Rob Dwiar
+organisations:
+- '### US GTA'
+- Amazon UK
+- Argos
+- Best Buy
+- Currys
+- DualSenses
+- Dualsense Controllers
+- GameStop
+- GamesRadar
+- Grand Theft Auto VI
+- Marvel
+- Nice
+- PS Blog
+- PS Direct
+- Smyths Toys
+- Sony —
+- Target
+- TechRadar Gaming
+- Very
+- Walmart
+- Wolverine DualSense
+- Wolverine PS5
 ---
 
 ## Live

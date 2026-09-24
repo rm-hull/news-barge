@@ -12,6 +12,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5d4/live/e9abe7
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Wales
+people:
+- Alex Davies-Jones
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Baby P
+- Nick Timothy
+- Peter
+- Robert Buckland
+- Shaun Lloyd
+- Shirley Debon
+- Tracey Connelly
+organisations:
+- BBC Breakfast
+- BBC Radio 4
+- IPP
+- IPPs
+- Lloyd's
+- Ministry of Justice
+- MoJ
+- PC
+- Parole Board
+- Today
 ---
 
 Watch: Prisoner release scheme "raises more questions than it answers", says shadow justice secretary Nick Timothy

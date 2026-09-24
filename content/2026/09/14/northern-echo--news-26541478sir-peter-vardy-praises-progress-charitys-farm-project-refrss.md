@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Burnhope
+- County Durham
+- Hadrian’s Wall
+- New Warlands Farm
+- North East
+- Sycamore Gap
+people:
+- John Phillipson
+- Mackenzie Thorpe
+- Paul McGinnety
+- Peter Vardy
+organisations:
+- BDM Ltd
+- Mulberry Construction Group
+- NEAS
+- North East Autism Society
+- The Vardy Foundation
+- Townsend
+- Turner
 ---
 
 ONE of the North East’s best-known business leaders has praised the “incredible” progress of a development to transform a farm into a training and employment hub for autistic people.

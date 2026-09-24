@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- A15 Humber Bridge
+- A180
+- A63
+- Humber Bridge
+- M18
+- M180
+- M62
+- North Yorkshire
+- Pixabay
+- Tadcaster
+- UK
+- York
+people: []
+organisations:
+- M180
 ---
 
 *(Image: Pixabay)*

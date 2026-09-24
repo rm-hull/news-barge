@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Heckmondwike
+people: []
+organisations:
+- Kirklees Council
+- LDRS
+- Local Democracy Service
+- Morrisons
 ---
 
 SHOPPERS were left “disgusted” after bra pads were spotted “flying” across a Morrisons car park.

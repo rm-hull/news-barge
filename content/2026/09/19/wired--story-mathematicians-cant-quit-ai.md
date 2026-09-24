@@ -11,6 +11,32 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aad73fd03ca378a32980599/191:100/w_1280,c_limit/091826-Math%20Hate%20AI.jpg
+locations:
+- AI
+people:
+- AI
+- Alex Townsend
+- Andreas Thom
+- Claude
+- Cornell
+- Levent Alpöge
+- Mark Sellke
+- OpenAI
+- Sébastien Bubeck
+- Tristan Buckmaster
+organisations:
+- AI
+- Anthropic
+- Astra
+- Buckmaster
+- Caltech
+- ChatGPT
+- ChatGPT—
+- Codex
+- Navier-Stokes
+- New York University
+- OpenAI
+- WIRED
 ---
 
 Mathematician Tristan Buckmaster believes OpenAI used his work to rush ahead and beat him to solving a legendary math problem with a $1 million bounty.

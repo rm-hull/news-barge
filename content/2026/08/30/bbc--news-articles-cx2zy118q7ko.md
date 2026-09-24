@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Fürstenfeldbruck
+- Germany
+- Innsbruck
+- Rosenheim
+- Salzburg
+- Upper Bavaria
+- Vienna
+people: []
+organisations:
+- Bavarian Police
+- DPA
 ---
 
 ![Pastel-coloured buildings in Rosenheim, Bavaria, with a church tower with green roof seen at the end of the street, against a blue sky](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/229c/live/8e80aca0-a45c-11f1-b370-b9b7934350c8.jpg)

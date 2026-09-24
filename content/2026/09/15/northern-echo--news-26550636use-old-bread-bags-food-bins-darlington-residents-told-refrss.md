@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Chris BOOTH
+- County Durham
+- Darlington
+people:
+- Chris BOOTH
+organisations:
+- Darlington Borough Council
 ---
 
 *(Image: Chris BOOTH)*

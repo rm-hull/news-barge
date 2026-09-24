@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- A655
+- Bradford Road
+- Castleford
+- Gildersome
+- Highways England
+- Junction 27
+- Junction 28
+- Junction 31
+- M62
+- Tingley
+people: []
+organisations:
+- 'National Highways: Yorkshire'
 ---
 
 *(Image: Highways England)*

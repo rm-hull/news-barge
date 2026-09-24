@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Black Sea
+- Burgas
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Netherlands
+- Slovenia
+- Spain
+- Sweden
+people:
+- Kristine
+- Martin Green
+organisations:
+- Avrotros
+- EBU
+- EU
+- European Broadcasting Union
+- European Commission
+- RTÉ
+- Reuters
 ---
 
 Ireland is to boycott Eurovision for the second year running over the “appalling” ongoing killing in Gaza, the national broadcaster has said.

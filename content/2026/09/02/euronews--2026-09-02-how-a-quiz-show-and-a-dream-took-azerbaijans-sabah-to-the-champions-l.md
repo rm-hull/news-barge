@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Azerbaijan
+- Baku
+- Denmark
+- England
+- Finland
+- Fulham
+- Norway
+- Romania
+- Sabah
+- Spain
+people:
+- Benoît Badiashile
+- Magsud Adigozalov
+- Sabah
+- Tellur Mutallimov
+- Valdas Dambrauskas
+- Valerio Zuddas
+organisations:
+- Arsenal
+- Barcelona
+- Borussia Dortmund
+- Brentford
+- Chelsea
+- Euronews
+- Hapoel Beer Sheva
+- Manchester United
+- Napoli
+- Qarabağ FK
+- Sabah FC
+- Sabah Football Club
+- Sabah Futbol Klubu
+- Slavia Prague
+- UEFA
+- Viking
+- Villarreal
 ---
 
 ## Azerbaijan’s Sabah Football Club have unexpectedly qualified for the UEFA Champions League, making it one of its most historic achievements to date.

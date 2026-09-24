@@ -14,6 +14,37 @@ categories:
 - UK
 - Society & Culture
 - Comedy & Entertainment
+locations:
+- Ireland
+- Kildare
+- Niall Carson
+- PA
+- Teesside
+- UK
+people:
+- Dame Caroline Dinenage
+- Lisa Nandy
+- Matthew Blades
+- Ms Nandy
+- Pc Matthew Blades
+- Rebecca Paul
+- TikTok
+- Tom Clough
+organisations:
+- A66
+- BBC
+- Cleveland Police
+- Commons
+- Facebook
+- Instagram
+- Irish Government
+- Meta
+- PA
+- Snapchat
+- TikTok
+- Tory
+- UK Culture, Media and Sport Committee
+- YouTube
 ---
 
 Lisa Nandy has said she will meet TikTok “in the coming days” as she told MPs there is more to do to address an “epidemic” of young people using social media to encourage dangerous behaviour.

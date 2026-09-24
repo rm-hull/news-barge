@@ -12,6 +12,31 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/06/03/3/31/Photo-shows-a-clock-in-the-background-of-a-smartphone-showing-the-time-after-daylight-saving-time-wa.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Chicago
+- Denver
+- New York City
+- Philadelphia
+- San Francisco
+- Tampa
+- US
+- United States
+- United States Studies Centre
+- Washington DC
+people:
+- Donald Trump
+- Marco Rubio
+- Samuel Garrett
+organisations:
+- American Academy of Sleep Medicine
+- Congress
+- Senate
+- The Conversation
+- US House of Representatives
+- United States Studies Centre
+- University of Sydney
+- YouGov
 ---
 
 *The article was originally published in July 2025 by*

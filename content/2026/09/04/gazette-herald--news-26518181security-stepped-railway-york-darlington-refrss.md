@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Darlington
+- Doncaster
+- East Coast
+- East Coast Main Line
+- London King’s Cross
+- Network Rail
+- Newcastle
+- Peterborough
+- Scotland
+- York
+people:
+- Chris Gostling
+- John Grainger
+organisations:
+- East Coast Partnership—
+- LNER
+- London North Eastern Railway
+- Network Rail
+- Vital
 ---
 
 A £110,000 investment is helping to tackle cable theft, vandalism and trespass on the East Coast Main Line through proactive security patrols.

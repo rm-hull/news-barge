@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bay Quiet County Durham
+- Bishop Auckland
+- County Durham
+- Durham Cathedral
+- Durham City
+- Durham City Today
+- East Durham College
+- Escomb
+- Hollywood
+- Houghall Campus
+- North East
+- North Yorkshire
+- River Wear
+- Robin Hood
+people:
+- Houghall
+- Tom Hardy
+organisations:
+- Durham Wildlife Trust
+- Houghall Discovery Centre
+- Nearby Cassop
 ---
 
 *(Image: GOOGLE)*

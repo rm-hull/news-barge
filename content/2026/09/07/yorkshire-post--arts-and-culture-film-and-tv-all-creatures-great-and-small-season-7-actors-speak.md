@@ -16,6 +16,46 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Charlotte
+- Darrowby
+- London
+people:
+- Anna Madeley
+- Bella
+- Callum Woodhouse
+- Dorothy
+- Gilbert
+- Granville Bennett
+- Helen Herriot
+- Helen Williams
+- Imogen Clawson
+- Isabella Ward
+- James Herriot
+- Jenny Alderson
+- Jimmy
+- Maggie
+- Maimie
+- Mrs Hall
+- Nicholas Ralph
+- Pumphrey
+- Rachel Shenton
+- Rosie Herriot
+- Russell Richardson
+- Sam
+- Samuel West
+- Siegfried Farnon
+- Sullivan
+- Thomas Riches
+- Tristan Farnon
+organisations:
+- All Creatures Great and Small
+- Channel 5
+- Mrs Hall
+- Playground Television UK Ltd
+- Royal Veterinary College
+- Skeldale House
+- Yorkshire Dales
 ---
 
 # All Creatures Great and Small season 7: Actors speak out about new storylines set in James Herriot’s Yorkshire Dales

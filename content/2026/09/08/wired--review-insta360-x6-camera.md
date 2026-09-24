@@ -11,6 +11,12 @@ image: https://media.wired.com/photos/6a9b6ea13bb4feaa34991767/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- DJI
+- GoPro
+- Insta360
 ---
 
 The combination of good video quality and user-friendly software has kept Insta360 at the forefront of the 360 camera world even as competitors like DJI and GoPro have carved out their own niche. With its latest camera, the Insta360 X6, the company is hoping to leap ahead of the pack again.

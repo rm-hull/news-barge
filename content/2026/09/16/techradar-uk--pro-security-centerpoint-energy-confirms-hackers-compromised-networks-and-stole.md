@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- US
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- CenterPoint Energy
+- CenterPoint’s
+- Google News
+- Represent Communications
+- SEC
+- TechRadar Pro
+- The Register
+- US Securities and Exchange Commission
 ---
 
 ![A pink triangle with a red exclamation mark inside on a blue digital landscape](https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL.jpg) 

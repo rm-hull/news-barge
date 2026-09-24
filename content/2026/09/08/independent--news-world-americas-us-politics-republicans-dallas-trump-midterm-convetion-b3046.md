@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2024/10/08/10/GettyImages-577293120.jpg?
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Michigan
+- South Carolina
+- Texas
+- Washington
+- White House
+people:
+- Donald Trump
+- Donald Trump Jr.
+- Eric Trump
+- JD Vance
+- John Cornyn
+- Karoline Leavitt
+- Ken Paxon
+- Mike Johnson
+- Mike Rogers
+- Paxton
+- Robert F. Kennedy Jr.
+- Scott Bessent
+- Ted Cruz
+- Texas Sen
+- Todd Blanche
+organisations:
+- Cabinet
+- Great Entertainment
+- House
+- Texas Senate
+- Treasury
+- Trump
 ---
 
 Republicans are heading to Dallas this week for a two-day event conceived by President Donald Trump to energize his base prior to the upcoming midterm elections.

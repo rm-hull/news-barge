@@ -13,6 +13,43 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Budapest
+- Croatia
+- LAUSANNE
+- Switzerland
+- Vaudoise Arena
+people:
+- Almaz ALSENOV
+- Anna Monta OLEK
+- Azizjon KAMILOV
+- Bozorov
+- Fontaine
+- France Judo
+- Ilia SULAMANIDZE
+- Inal TASOEV
+- Joshiro Maruyama
+- Marius Vizer
+- Martti PUUMALAINEN
+- Nurbek MURTOZOEV
+- Olek
+- Petra Orešković
+- Pierre DUCREY
+- Romane DICKO
+- Simeon CATHARINA
+- Stephane NOMIS
+- Sulamanidze
+- Tasoev
+- Timur KEMELL
+- Umar BOZOROV
+organisations:
+- Harvest Group
+- IJF
+- IOC
+- Judo Federation
+- Lea FONTAINE
+- Uzbekistan Judo Federation
+- Yelyzaveta LYTVYNENKO
 ---
 
 **Euronews with IJF**

@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Exeter
+- Riyadh
+- Saudi Arabia
+- UK
+people: []
+organisations:
+- Chevening
+- Commonwealth and Development Office
+- Exeter University
+- Guardian
+- MA
+- MStrat
+- Ministry of Defence
+- NDU
+- National Defense University
+- Russell Group
+- Saudi Armed Forces Command and Staff College
+- UCU
+- University and College Union
+- University of Cambridge
+- University of Exeter
 ---
 
 The University of Exeter has approved plans for a “formal partnership” with Saudi Arabia to train senior military officers and government officials, despite long-held concerns about the Saudi government’s human rights record, the Guardian has learned.

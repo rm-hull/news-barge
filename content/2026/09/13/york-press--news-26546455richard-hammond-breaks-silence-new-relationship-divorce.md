@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Relationships & Dating
+locations:
+- Gloucestershire
+- Oxford
+- Ross-on-Wye
+- Switzerland
+- Waitrose
+- Wales
+people:
+- Izzy
+- Kiki Glen
+- Love
+- Mindy
+- Ms Glen
+- Richard Hammond
+- Willow
+organisations:
+- Harrogate College of Art and Technology
+- Hartpury University
+- Headington Rye School
+- Ripon Grammar School
+- The Times
+- Top Gear
 ---
 
 ## Richard Hammond breaks silence on new relationship

@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/7SXTiBtEcdWM3hTKkdSr6B-2560-80.jpg
+locations:
+- UK
+- US
+people:
+- James
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Google News
+- Royal Mail
+- Ship
+- TechRadar
+- USPS
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Review](https://cdn.mos.cms.futurecdn.net/7SXTiBtEcdWM3hTKkdSr6B.jpg)

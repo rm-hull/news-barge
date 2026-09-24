@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Australia
+- New Zealand
+- South Africa
+- US
+- United Kingdom
+people:
+- Diana Tordoff
+- Karen Adams
+- Stanford
+- Stephanie Faubion
+organisations:
+- AbbVie
+- Center for Women's Health
+- Cosette Pharmaceuticals' Vyleesi
+- FDA
+- HSDD
+- Healthy Aging
+- Keenova Therapeutics' Testim
+- MIX-T
+- Mayo Clinic
+- Sprout Pharmaceuticals' Addyi
+- Stanford Medicine
+- US Food and Drug Administration
 ---
 
 US health regulators will review scientific evidence regarding testosterone use among menopausal women on Thursday, evaluating its benefits, risks, dosage options, role in female health, and perspectives from both patients and doctors.

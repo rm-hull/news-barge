@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21475380.jpg?type=og-image&xType=0&yType=36
+locations:
+- Bishop Auckland
+- County Durham
+- Newgate Street
+- North East
+- Shoezone
+- St Peter's Church
+- Teesside
+- UGC
+- UK
+people:
+- Emily Blackmore
+- Graham Wood
+- Joy Allen
+- Mark Edwards
+- Sarah Caldecott
+organisations:
+- BACAG
+- Bishop Auckland Community Action Group
+- CCTV
+- Clean and Green
+- Durham County Council
+- Durham Police
+- Grade II
+- Jaguar
+- Town of Culture
 ---
 
 *(Image: UGC)*

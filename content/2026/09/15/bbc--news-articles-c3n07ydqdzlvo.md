@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Gulf of Oman.
+- Iran
+- Israel
+- Middle East
+- Musandam
+- Oman
+- Strait of Hormuz
+- US
+people: []
+organisations:
+- El Gaia
+- International Maritime Organization
+- Maritime Security Centre
+- Revolutionary Guards
+- UK Maritime Trade Operations
+- UN
 ---
 
 ![Handout photo from Oman's Maritime Security Centre showing a fire on board the Panama-flagged oil tanker El Gaia, in the Strait of Hormuz, off the coast of Oman](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg)

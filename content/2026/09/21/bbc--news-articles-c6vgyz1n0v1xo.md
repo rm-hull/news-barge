@@ -13,6 +13,42 @@ categories:
 - History
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b119/live/e3f25800-b5be-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Beijing
+- Berlin
+- Brussels
+- China
+- Europe
+- France
+- Germany
+- Italy
+- Mecklenburg-Vorpommern
+- Mediterranean
+- Middle East
+- Moscow
+- Munich
+- Poland
+- Russia
+- Saxony Anhalt
+- Saxony-Anhalt
+- Spain
+- Sweden
+- US
+- Ukraine
+people:
+- Alice Weidel
+- Die Linke
+- Donald Trump
+- Friedrich Merz
+- Tino Chrupalla
+organisations:
+- AfD
+- CDU
+- Christian Democratic Unionist
+- Die Linke
+- EU
+- SPD
+- Trump
 ---
 
 ![Friedrich Merz looking down at podium bearing the logo of his political party, the CDU ](https://ichef.bbci.co.uk/ace/standard/946/cpsprodpb/b119/live/e3f25800-b5be-11f1-abb5-85e9be42cb76.jpg)

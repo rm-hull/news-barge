@@ -13,6 +13,67 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Aberdeen
+- Archway
+- Arndale
+- Barnsley Road
+- Batley Road
+- Bedford
+- Belper
+- Billingham
+- Blaby
+- Blackwater
+- Brackley Court
+- Bridgnorth Road
+- Brooks Road
+- Burscough
+- Chapel Street
+- Congleton
+- Corby
+- Cornhill Shopping Arcade
+- Crown Road
+- Doncaster
+- Enfield
+- Falkirk Road
+- Grooms Alley
+- Hall Green
+- Harrogate
+- Holloway Road
+- Holyhead Road
+- Knollside Close
+- Lewes
+- Linlithgow
+- Liverpool
+- London Road
+- Manchester
+- Moreland Avenue
+- Old Beck Road
+- Paisley
+- Ringtail Retail Park
+- Rockingham Road
+- Sandbach Road
+- Springbank Road
+- St. John Centre
+- Stirling
+- Stratford Road
+- Sunderland
+- Sunderland**
+- Telford
+- UK
+- Wakefield
+- Wellington
+- Westville Road
+- Wollaston
+people:
+- Jonathan Neale
+organisations:
+- '## Aldi'
+- Aldi UK
+- Getty Images
+- Lewes
+- Lidl
+- Stirling
 ---
 
 *(Image: Getty Images)*

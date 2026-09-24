@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/019d/live/f9eba800-b730-11f1-9f81-a10976817ca3.jpg
+locations:
+- Britain
+people:
+- Charlie Mayfield
+organisations:
+- BBC
+- Keep Britain Working taskforce
+- NHS
 ---
 
 ![Woman lying back on a sofa with one hand on her forehead and the other hand holding a mobile phone to her ear](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/019d/live/f9eba800-b730-11f1-9f81-a10976817ca3.jpg)

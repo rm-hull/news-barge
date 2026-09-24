@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Churchill Walk
+- East Yorkshire
+- Goole
+people: []
+organisations:
+- CCTV
+- Humberside Police
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

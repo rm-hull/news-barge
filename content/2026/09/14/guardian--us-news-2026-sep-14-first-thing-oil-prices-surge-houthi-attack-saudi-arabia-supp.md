@@ -13,6 +13,75 @@ categories:
 - News & Politics
 - History
 - Business & Entrepreneurship
+locations:
+- Bab al-Mandab
+- Baghdad
+- Britain
+- China
+- France
+- France.
+- Gironde
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Ireland
+- Isle Royale
+- Israel
+- La Crosse
+- Lake Wausau
+- Michigan
+- Michigan.
+- Middle East
+- Pennsylvania
+- Perim
+- Red Sea
+- Riyadh
+- San Jose
+- San Juan
+- Santurce
+- Saudi Arabia
+- Saumos
+- Sweden
+- Tehran
+- US
+- United States
+- West Bank
+- Wisconsin
+- Yanbu
+- Yemen
+people:
+- AI?**
+- Barack Obama
+- Craig Berg
+- Dario Amodei
+- Dhara Rivera de Jesús.
+- Donald Trump
+- Elon Musk
+- Jon Henley
+- Kirkwas
+- Oliver Wainwright
+- Robert Booth
+- Sam Altman
+- Sam Altman.
+- Sydney Sweeneyhas
+- Tom Tiffany
+- Ulf Kristersson
+organisations:
+- Amodei
+- Anthropic
+- B’Tselem
+- Coalición Exigimos Agua
+- Congress
+- Elon Musk
+- Flock
+- OpenAI
+- SpaceX
+- Turning Point USA
+- US AI
+- US Coast Guard
+- Washington DC
+- We Demand Water Coalition
 ---
 
 Good morning. Oil prices have climbed above $108 a barrel after a series of drone attacks from Iraq’s territory forced Saudi Arabia to close its east-west crude pipeline. Saudi traders said the kingdom would run out of oil stocks for export if it did not reopen within days. Gas prices also climbed higher. Energy prices have surged this year, as the US-Israel war with Iran has disrupted oil and gas supply across the Middle East.

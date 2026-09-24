@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21490678.jpg?type=og-image&xType=0&yType=161
+locations:
+- Bradford
+- Keighley Road
+- Skipton
+- UK
+- Zaiqa
+people:
+- Aidan M
+- Chris Herd
+- Jahir Ahmed
+- Zaiqa Skipton
+organisations:
+- Best Curry House
+- Cedar Court Hotel
+- SKIPTON Indian
+- Zaiqa Skipton
 ---
 
 *(Image: Zaiqa Skipton)*

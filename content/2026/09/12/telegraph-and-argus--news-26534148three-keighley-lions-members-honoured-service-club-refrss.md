@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Keighley
+people:
+- David Ogden
+- Julie Walters
+- Ms Payne
+- Ms Walters
+- Ruth Payne
+organisations:
+- Keighley Lions
 ---
 
 *(Image: Supplied)*

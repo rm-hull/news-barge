@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Pickering
+- Potters Hill
+people:
+- Emma Dineen
+organisations:
+- '## Pickering'
+- Memorial Hall
+- The Vale of Pickering Art Club
+- Vale of Pickering Art Club
 ---
 
 ## Pickering artists prepare to showcase their work at annual town exhibition

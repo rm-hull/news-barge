@@ -12,6 +12,24 @@ categories:
 - UK
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/23/14/Lionel_Richie_92252.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Columbus
+- Las Vegas’
+- Ohio
+- San Francisco
+- St. Louis
+- Wynn
+people:
+- Hello
+- Lionel Richie
+- Michael Jackson
+organisations:
+- Earth
+- King of Hearts
+- The Associated Press
+- The Commodores
+- Wind & Fire Saturday
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

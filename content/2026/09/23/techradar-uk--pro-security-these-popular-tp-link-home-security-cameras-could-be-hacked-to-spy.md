@@ -10,6 +10,23 @@ description: A fix is already available to download, so act now
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/8AQ6mNEWbxZfbYjrKfsCkF-1280-80.jpg
+locations:
+- Amazon
+people:
+- Khoi Tran
+- Rahim Amir
+- Thai Do
+organisations:
+- Google News
+- OPSWAT
+- PC
+- PCs
+- RGB
+- SFF
+- SKUs
+- TP-Link
+- Tapo C120
+- TechRadar Pro
 ---
 
 ![Privacy](https://cdn.mos.cms.futurecdn.net/8AQ6mNEWbxZfbYjrKfsCkF.jpg)

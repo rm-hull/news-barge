@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bradford
+- Holmewood
+- Leeds
+- West Yorkshire
+people:
+- BRADLEY Lowther
+- Bradley Lowther
+- James Bovington
+- John Keenan
+- Ricky Hatton
+- Wayne Woods
+organisations:
+- Bradford Police Boys Club
+- Burmantofts ABC
+- Forster Academy
+- Instagram
+- Lowther
+- Manchester
+- Mark of Perfection
+- Nelson’s Boxing Academy
+- The Life of Boxing
+- WAW Sports Management
+- Yorkshire
 ---
 
 BRADLEY Lowther is the latest local boxer to turn professional and says he is “beyond excited” to make his paid debut later this year, **writes James Bovington**.

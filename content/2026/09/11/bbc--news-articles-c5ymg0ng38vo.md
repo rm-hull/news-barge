@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Empire State Building
+- Guantanamo Bay
+- Hudson River
+- Jersey City
+- Light
+- New York
+- New York City
+- New York.
+- Reading
+- St Vincent's
+- US
+- Virginia
+- night,Jersey City
+people:
+- Gerard McGibbon
+- John Resta
+- Karen Rowland
+- Khalid Sheikh Mohammed
+- Sylvia
+organisations:
+- Pentagon
+- Twin Towers
+- World Trade Center
 ---
 
 ![Karen Rowland smiling at the camera, wearing a green jumper with yellow flourishes. She has short mousey hair.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/34e1/live/5c9674d0-ad27-11f1-980e-4fc6f1211def.png)

@@ -13,6 +13,18 @@ categories:
 - Comedy & Entertainment
 - Arts & Culture
 image: https://static.independent.co.uk/2026/04/17/10/2266527017.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Dear Fox
+- Donald Trump
+- Jessica Tarlov
+- Jessica Tarlov’
+- Suzanne Scott
+organisations:
+- Fox News
+- Fox News’
+- Los Angeles Times
+- The Guardian
 ---
 
 Fox News’ lone liberal host clapped back at President Donald Trump’s frequent criticism of her, asking, “Why is this man not busier?”

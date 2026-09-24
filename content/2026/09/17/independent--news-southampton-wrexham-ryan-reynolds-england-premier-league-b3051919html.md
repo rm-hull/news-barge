@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/17/14/Wrexham-Spygate_Taunt_3639
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Ipswich
+- Southampton
+people:
+- Rob Mac
+- Ryan Reynolds
+- Tonda Eckert
+organisations:
+- Bristol City
+- Firefox —
+- Football Association
+- Middlesbrough
+- Oxford
+- Premier League
+- Southampton
+- Watford
+- Wrexham
 ---
 
 Another week, another taunt as Southampton continues to be dogged by its conduct in the “Spygate” soccer scandal.

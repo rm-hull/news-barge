@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/yNFbiXXgP3AhJdVqBgGzYe-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Chicago
+- Virgin River
+people:
+- '## Neagley'
+- Alan Ritchson
+- George Cooper Sr.
+- Maria Sten
+- Reacher
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

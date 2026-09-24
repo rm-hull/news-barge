@@ -13,6 +13,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Boston
+- Connecticut
+people:
+- Amit Patankar
+- David Lawrence
+- Harvey
+- Michael Gropman
+- Ned Lamont
+organisations:
+- AI
+- Blue Voice
+- ChatGPT
+- Flock Safety
+- Google
+- Harvard Law
+- Harvard MBA
+- Las Olas VC
+- Lexipol
+- SignalFire
+- TechCrunch
 ---
 
 David Lawrence was a Harvard Law student when an on-campus shooting involving a police officer sparked intense controversy over police conduct. Realizing that most policing errors occur when officers lack instant access to department rules, Lawrence dropped out to tackle the problem with AI. He teamed up with co-founders Amit Patankar, a Harvard MBA and former Google engineer, and Michael Gropman, a retired Boston police deputy chief, to launch Blue Voice — a Boston-based AI startup that provides real-time policy guidance to officers in the field.

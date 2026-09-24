@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- AI
+- UK
+people: []
+organisations:
+- AI
+- Asana
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- UK IT
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

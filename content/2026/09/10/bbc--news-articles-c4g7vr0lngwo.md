@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Abha
+- Aden
+- Asia
+- Bab al-Mandab Strait
+- Europe
+- Gulf
+- Hazm
+- Hudaydah
+- Indiana
+- Iran
+- Israel
+- Jawf
+- Jazan
+- Khamis Mushait
+- Marib
+- Mocha
+- Mokha
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Saudi Aramco
+- Strait of Hormuz
+- Taiz
+- US
+- Yemen
+- Zuqar Island
+people:
+- Ansar Allah
+- Mokha
+- Rashad al-Alimi
+- Tarek Salah
+- Yahya Sarea
+organisations:
+- AFP
+- Al Masirah TV
+- BBC Arabic
+- BP
+- Houthi-run Al Masirah TV
+- Houthis' Supreme Political Council
+- Middle East Lifeline
+- Mokha
+- National Resistance Forces
+- Presidential Leadership Council
+- Supreme Political Council
 ---
 
 ![Screengrab of a video from Houthi-run Al Masirah TV showing an armed man walks next to an armoured vehicle in Mocha, Yemen, after the Houthis reportedly seized the Red Sea port city (10 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg)

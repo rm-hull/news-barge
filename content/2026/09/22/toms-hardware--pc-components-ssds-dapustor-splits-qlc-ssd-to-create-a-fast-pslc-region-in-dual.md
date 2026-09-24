@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/AFGEhgfGmJJ6HSmCnk5pQh-1920-80.png
+locations: []
+people:
+- DapuStor
+- Sandisk
+- Tom
+organisations:
+- DapuStor
+- Enmotus
+- FMS
+- Get Tom's Hardware
+- Google News
+- Micron
+- NVM Express
+- NVMe
+- Phison
+- QD1
+- QLC
+- SLC NAND
+- Sandisk
+- Shane Downing
+- TLC
+- Tom’s Hardware US
+- XTR
+- pSLC
 ---
 
 ![DapuStor J5060 U.2 SSD](https://cdn.mos.cms.futurecdn.net/AFGEhgfGmJJ6HSmCnk5pQh.png)

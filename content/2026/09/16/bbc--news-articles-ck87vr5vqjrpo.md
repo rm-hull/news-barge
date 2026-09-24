@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- C
+- Catterick Garrison
+- Chichester Harbour
+- Cumbria
+- Larkhill Camp
+- Military Court Centre
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+- Wiltshire
+people:
+- Battery Sgt Michael Webber
+- Derek Johashen
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley Beck
+- Hartley
+- James Hook
+- Jon Swift
+- Louise Sandher-Jones
+- Maj Gen
+- Maj James Hook
+- Samantha Shepherd
+organisations:
+- Air Commodore
+- Army
+- Crown
+- Gunner Beck
+- Military Court Centre
+- Royal Navy
+- Service Prosecution Authority
+- Veterans and People
 ---
 
 ![Court drawing of Mr Hartley (right), representing Major James Hook (left) who is appearing with Colonel Samantha Shepherd (centre) at the Military Court Centre in Catterick Garrison, North Yorkshire. Hook and Shepherd are dressed in khaki green Army uniforms.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/95bc/live/4aed4a00-b124-11f1-8ecc-07cd1cee2987.jpg)

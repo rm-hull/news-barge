@@ -13,6 +13,14 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Hambleton
+- North Yorkshire
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

@@ -16,6 +16,21 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Britain
+- Brooklyn
+- Canada
+- Iran
+- New York
+- U.S.
+people:
+- Brian Heberlig
+- Donald Trump
+- Parham Baheshti
+- Taylor Stout
+organisations:
+- Department of Justice
+- Huawei Technologies
 ---
 
 A racketeering conspiracy trial of Huawei Technologies began in New York on Wednesday with federal prosecutors accusing the Chinese tech company of a litany of crimes, including stealing technology from American companies, abusing the U.S. financial system and helping Iran snoop on its citizens.

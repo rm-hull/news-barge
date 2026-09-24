@@ -13,6 +13,23 @@ categories:
 - UK
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- De Niro
+- Hollywood
+people:
+- Alec Baldwin
+- Brad Pitt
+- De Niro
+- Donald Trump
+- Meryl Streep
+- Robert De Niro
+- Robert DeNiro
+- Rosie O’Donnell
+- TRUMP
+organisations:
+- The Independent
+- Truth Social
+- USA Today
 ---
 
 In a new post, President Donald Trump used an apparently AI-generated image to falsely portray Robert De Niro — long one of his sharpest critics — as a supporter.

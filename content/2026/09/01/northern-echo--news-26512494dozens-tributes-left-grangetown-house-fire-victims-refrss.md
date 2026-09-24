@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Royal Victoria Infirmary
+- Teesside Crown Court
+people:
+- Katie Nicolson
+- Katie Smith
+- Man
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+- Wright
+organisations:
+- CPS North East
+- Cleveland Police
+- North News & Pictures Ltd
+- North News & Pictures Ltd)* Police
+- Northumbria Police
 ---
 
 *(Image: NORTH NEWS AND PICTURES)*

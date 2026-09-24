@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- America
+- Putnam
+- US
+people:
+- Harms
+- James
+- Robert Putnam
+- Toms
+organisations:
+- Instagram
+- James’
+- Meta
+- The Yorkshire Post
 ---
 
 # The Thursday Thinker: 'I have seen first-hand socially active people turned into peeping Toms'

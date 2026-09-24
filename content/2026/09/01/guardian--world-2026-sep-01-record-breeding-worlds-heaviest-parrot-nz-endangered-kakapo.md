@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Kākāpō
+- New Zealand
+- South Island
+people:
+- Deidre Vercoe
+organisations: []
 ---
 
 The population of the world’s heaviest parrot, the kākāpō, has surpassed 300 birds for the first time in 75 years, after a record breeding season triggered by the mass fruiting of a native New Zealand tree.

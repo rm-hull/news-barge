@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Hollywood
+- London
+- Norfolk
+- Rhodesia
+- Scotland
+- Sussex
+- Yorkshire Dales
+people:
+- Amy Winehouse
+- Andrew Brackfield
+- Asif Kapadia
+- Bruce Balden
+- Bruce Balden Jackie Bassett
+- Charles Furneaux
+- Diego Maradona
+- Jackie Bassett
+- James Bond
+- John Brisby
+- Lynn Johnson
+- Lynne
+- Michael Apted
+- Neil Hughes
+- Nick Hitchon
+- Nick Hitchon.
+- Paul Almond
+- Paul Kligerman
+- Peter Davies
+- Sue Davis
+- Suzy Lusk
+- Symon Basterfield
+- Tony Walker
+- Tony Walker Neil Hughes
+organisations:
+- Apted
+- BBC
+- Channel 4
+- Granada TV
+- ITV
+- Jackie
+- Liberal Democrat
+- University of Wisconsin
 ---
 
 ![The cast of 70 Up pose for a photo in a cinema.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/e7de/live/4f95a3f0-a782-11f1-8858-e93489ec40ef.png)

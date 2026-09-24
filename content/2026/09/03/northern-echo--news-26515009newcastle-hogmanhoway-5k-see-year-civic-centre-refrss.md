@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Civic Centre
+- Darlington
+- Newcastle
+- North East
+people:
+- Kim McGuinness
+- Michelle Percy
+- Richard Lee
+- Steve Cram
+organisations:
+- Bobby Robson Foundation
+- Bobby Robson Institute
+- Develop North
+- Develop North PLC
+- Newcastle City Council
+- Newcastle Hospitals Chairty
+- North East Mayoral Strategic Authority
 ---
 
 *(Image: Richard Lee / Photographer)*

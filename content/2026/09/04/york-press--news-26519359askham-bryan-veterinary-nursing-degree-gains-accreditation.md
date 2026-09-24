@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '## York'
+- Gateshead
+people:
+- Askham Bryan
+- Claire Pullan
+- Darren Casey
+- Yvette Foulds-Davis
+organisations:
+- Askham Bryan College
+- Askham Bryan College’s Foundation Degree
+- Askham Bryan College’s Foundation Degree in Veterinary Nursing
+- Clearing
+- FdSc
+- RCVS Register of Veterinary Nurses
+- RVNs
+- Registered Veterinary Nurses
+- Royal College of Veterinary Surgeons
+- Veterinary Nursing
 ---
 
 ## York college celebrates accreditation for veterinary nursing degree

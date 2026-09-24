@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - History
+locations:
+- Atlanta
+- North Yorkshire
+- UK
+people: []
+organisations:
+- 343 New York
+- Atlanta Braves Baseball
+- Blue Light Card Foundation
+- FDNY
+- North Yorkshire Fire and Rescue
+- North Yorkshire Fire and Rescue Service
+- Terry Farrell Firefighters Fund
+- Terry Farrell Firefighters Fund Memorial Stair Climb
+- The Fire Fighters Charity
+- World Trade Center
 ---
 
 Last weekend, nine North Yorkshire Fire and Rescue Service firefighters took on the Terry Farrell Firefighters Fund Memorial Stair Climb in Atlanta.

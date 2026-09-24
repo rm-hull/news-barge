@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Cllr Grogan
+- Martin Grainger
+- Monk Fryston
+- Tim Grogan
+organisations:
+- HGVs
+- North Yorkshire Council
+- Reform
 ---
 
 Furious villagers say they feel “betrayed and helpless” after a Traveller site was built in the North Yorkshire countryside without planning permission over the weekend.

@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Technology & Software
 - Travel
+locations:
+- North of England
+- Northern
+- Northern’s
+- UK
+people:
+- Alex Hornby
+- Janet Kidd
+- Sue Buckingham
+- Tony Jennings
+organisations:
+- Northern
+- Shopmobility Leeds
 ---
 
 *(Image: Northern)*

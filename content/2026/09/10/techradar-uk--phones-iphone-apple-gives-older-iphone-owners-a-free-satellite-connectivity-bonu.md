@@ -12,6 +12,18 @@ description: Apple is locking some features behind its latest iPhones while exte
 image: https://cdn.mos.cms.futurecdn.net/G7A4i7aX74zNCoDraBW5Zk-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Alex Blake
+- John Ternus
+organisations:
+- Apple
+- Creative Bloq
+- Google News
+- MacFormat
+- Roadside Assistance
+- TechRadar
+- iMore
 ---
 
 ![A picture being taken using Apple's iPhone Duo.](https://cdn.mos.cms.futurecdn.net/G7A4i7aX74zNCoDraBW5Zk.jpg) 

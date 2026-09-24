@@ -12,6 +12,19 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/20/22/2026-09-20T212040Z_140994522_RC23NNASCPBD_RTRMADP_3_TEXAS-SHOOTING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Austin
+- Texas
+people:
+- Donald Trump
+- Greg Casar
+organisations:
+- Austin American-Statesman
+- Austin City Council
+- Austin Police Department
+- ICE
+- Immigration and Customs Enforcement
+- The Independent
 ---
 
 A federal immigration officer reportedly shot and wounded a man in Austin, Texas, early Sunday afternoon during the latest instance of government violence allegedly tied to President Donald Trump's mass deportation campaign.

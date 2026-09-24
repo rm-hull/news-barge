@@ -11,6 +11,26 @@ image: https://static.independent.co.uk/2026/09/11/16/2272518554..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Canterbury
+- England
+- Switzerland
+- Wales
+people:
+- Dame Esther
+- Esther Rantzen
+- Lauren Edwards
+- Rebecca Wilcox
+- Richard Moth
+- Sarah Mullally
+organisations:
+- BBC
+- Catholic Church
+- Childline
+- Church of England
+- Commons
+- Dignitas
+- Labour
 ---
 
 Dame Esther Rantzen has described it as a “tragic day” after MPs rejected the assisted dying bill, which she has tirelessly campaigned for.

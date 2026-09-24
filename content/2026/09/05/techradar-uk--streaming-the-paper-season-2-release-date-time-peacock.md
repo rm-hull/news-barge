@@ -11,6 +11,42 @@ image: https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- '![Ned'
+- Adam
+- Chelsea Frei
+- Domhnall Gleeson
+- Esmeralda
+- George Cooper Sr.
+- Kelly Kapoor
+- Mare
+- Ned
+- Nicole
+- Oscar
+- Ramona Young
+- Sabrina Impacciatore
+organisations:
+- Apple TV
+- Disney
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Sky TV
+- Stylist
+- TechRadar
+- The Paper
+- Yahoo!
 ---
 
 ![A promotional shot of the cast of The Paper season 2](https://cdn.mos.cms.futurecdn.net/brsiyJsVkh5Twvg768GZTR.jpg) 

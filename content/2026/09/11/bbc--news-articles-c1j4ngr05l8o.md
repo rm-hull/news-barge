@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Askham Bryan Wildlife Park
+- Britain
+- Ceredigion
+- Chester
+- Dudley Zoo For Hughes
+- Dudley Zoo.
+- England
+- Eryri National Park
+- Europe
+- Ian Hughes'
+- Kent
+- Llanarth
+- Llyn Tegid
+- Longleat
+- Myxas
+- Snowdonia
+- UK Hughes
+- Wales'
+- Wiltshire
+- Wingham Wildlife Park
+- York
+people:
+- Ben
+- George
+- Ian Hughes
+- Jake
+- Kerry
+- Nicky Needham
+- Samantha Eden
+- Simon Jones
+organisations:
+- BIAZA
+- Eryri National Park
+- Freshwater Habitats Trust
+- Ian
+- Irish Association of Zoos and Aquariums
+- Llyn Tegid
+- Natural Resources Wales
 ---
 
 ![A glutinous snail in a tank in Dudley Zoo.  The small, brown mollusc, flecked with spots of gold slithers across a surface covered in green algae.](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg)

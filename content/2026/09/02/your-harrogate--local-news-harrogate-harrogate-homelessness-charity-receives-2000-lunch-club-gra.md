@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Harrogate
+people:
+- Carl
+- Georgie Good
+- Kate Culverhouse
+- Ruth Skaife-Clarke
+organisations:
+- Banks Group
+- Lifeline Harrogate
+- Point North
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97f77e867e0e3c7c4.jpg) 

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Cumberland
+- North Yorkshire
+people: []
+organisations:
+- Chicken Cumberland Sausages
+- HECK!
+- Morrisons
+- Tesco
 ---
 
 *(Image: HECK!)*

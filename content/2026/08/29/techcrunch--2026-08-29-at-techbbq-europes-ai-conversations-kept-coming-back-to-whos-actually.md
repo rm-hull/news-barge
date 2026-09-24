@@ -12,6 +12,36 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- AI
+- China
+- Copenhagen
+- Denmark
+- Europe
+- London
+- TechBBQ
+- U.S.
+people:
+- Ellen de Brever
+- Emad Mostaque
+- Meredith Whittaker
+- Mia Negru
+- de Brever
+organisations:
+- AWS Startups
+- Ada Ventures
+- Anthropic
+- ChatGPT
+- HSBC
+- Intelligent Internet
+- Life With Artificials
+- Lovable
+- Novo Nordisk Foundation Cellerator
+- Nvidia
+- OpenAI
+- Signal
+- Stability AI
+- TechBBQ
 ---
 
 At TechBBQ in Copenhagen, the conversation among investors, founders, and operators from across Europe wasn’t just about what to build with AI, but who should control it. No matter where you were during the annual Nordic conference, from onstage to cocktail hours and after-parties, the chatter kept coming back to how Europe can gain more control over the technology powering AI.

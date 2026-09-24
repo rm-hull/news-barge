@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- BRADFORD
+- Gloucestershire
+people:
+- Aaron Grimshaw
+- Emma Moist
+organisations:
+- Bradford Crown Court
+- Bradford District's Safeguarding Unit
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

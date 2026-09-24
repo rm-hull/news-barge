@@ -11,6 +11,98 @@ image: https://i.guim.co.uk/img/media/1f2a0a3fe32174a75270d3c2a9fb0443ca8f9968/5
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Camden
+- Downing Street
+- Finsbury
+- Greece
+- Holborn
+- Huffpost UK
+- Islington South
+- London
+- Poland
+- Richmond Park
+- Rome
+- Russia
+- Scotland House
+- St Pancras
+- US
+- Ukraine
+- Westminster
+- Windrush
+people:
+- Andrew Griffith
+- Andy Burnham
+- Andy Rain
+- Anna Isaac
+- Brigitte Macron
+- Chris Osuh
+- Covid
+- Damian Grammaticas
+- Desmog
+- Diane Abbott
+- Emilio Casalicchio
+- Emily Thornberry
+- Emily Thornberry Polanski
+- Emmanuel Macron
+- Giorgia Meloni
+- Greens
+- Helena Horton Helena Horton
+- Hiba Kola
+- Hope
+- Iain Duncan Smith
+- Jack Taylor
+- Jonathan Walker
+- Keir Starmer
+- Kemi Badenoch
+- Kevin Schofield
+- Kiran Stacey
+- Le
+- Liz Truss
+- Marie-France van Heel
+- Matthew Doyle
+- Michael Crick
+- Mitsotakis
+- Nigel Farage
+- PA Burnham
+- Patrick Sanders
+- Peter Geoghegan
+- Peter Walker
+- Pippa Crerar
+- Rishi Sunak
+- Sam Bright
+- Toby Melville
+- Trump
+- Yui Mok
+- Zack Polanski
+- Zia Yusuf
+- fromLuke Tryl
+organisations:
+- Alliance Defending Freedom
+- BBC
+- British Army
+- Congress
+- EPA
+- GB News
+- Green Party
+- Guardian
+- Guardian’s City
+- Guardian’s Politics Weekly UK
+- Home Office
+- House of Lords
+- Kemi Badenoch
+- Labour
+- Lib Dem
+- London Scottish House
+- Macron
+- Nato
+- Politico
+- Reform UK
+- Reuters Burnham
+- UK-France
+- Victoria Jones
+- Westminster Tories
 ---
 
 Badenoch condemns Reform UK's 'authoritarian' press bans, saying Farage shouldn't be MP if he can't handle scrutiny

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/b5ff4a82d58c20b8407b9eb68cf26f80563d7b37/604_0_3548_2839/master/3548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62558cfd73c96308ffbd3e86e3c11955
+locations:
+- Britain
+- London
+- South Kensington
+people:
+- Burberry
+- Celia Birtwell
+- Daniel Lee
+- David Hockney
+- Djed Spence
+- Fiona Shaw
+- Hardy Amies’
+- Joshua Schulman
+organisations:
+- Burberry HQ
+- Central Cee
+- Chelsea School of Art
+- Hermès
+- Schulman
 ---
 
 Burberry and Celia Birtwell are both national treasures of sorts. One is Britain’s grandest luxury name, the other the textile designer who dressed bohemian 1960s London in her prints and has a place in art history as David Hockney’s favourite muse.

@@ -14,6 +14,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Leeds
+- Wellington Place
+people:
+- Lucy Bakker
+organisations:
+- DS.Emotion
+- DSE
 ---
 
 # How 'third spaces' play a key role in placemaking: Lucy Bakker

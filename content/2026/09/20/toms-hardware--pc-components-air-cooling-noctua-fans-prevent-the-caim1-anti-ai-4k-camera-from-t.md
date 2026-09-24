@@ -12,6 +12,18 @@ categories:
 - Hardware
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/oGRSAnhFAdsEgyJLJ43JjF-1920-80.jpg
+locations:
+- Japan
+people:
+- Mark Tyson
+- Noctua
+- Tom
+organisations:
+- CAIM1
+- Google News
+- Noctua Beige
+- Noctua Brown
+- Tom's Hardware
 ---
 
 ![Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera throttling ](https://cdn.mos.cms.futurecdn.net/oGRSAnhFAdsEgyJLJ43JjF.jpg)

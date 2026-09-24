@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 - Sports
+locations:
+- Church Lane
+- Saint Michael's Church
+- Spurriergate
+- York
+people:
+- Kevin Glenton
+organisations:
+- North Yorkshire Police
 ---
 
 ## 22-year-old man arrested after alleged serious offence in York

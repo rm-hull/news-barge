@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Channel Islands
+- East Midlands Airport
+- England
+- Essex
+- Hampshire
+- Heathrow Airport
+- Leicestershire
+- London
+- Nats’
+- Swanwick
+- UK
+- Wales
+people: []
+organisations:
+- Birmingham Airport
+- Jersey Airport
+- Manchester Airport
+- Manchester Airport Group
+- Nats
+- Stansted Airport
 ---
 
 # Flights departing UK disrupted by air traffic control ‘technical issue’

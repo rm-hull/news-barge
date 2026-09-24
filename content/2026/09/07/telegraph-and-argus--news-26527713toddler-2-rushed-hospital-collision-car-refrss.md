@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Derby Street
+- Little Horton
+people: []
+organisations:
+- WYP
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: T&A)*

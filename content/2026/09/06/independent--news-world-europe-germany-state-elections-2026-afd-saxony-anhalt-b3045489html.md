@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Europe
+- Germany
+- Magdeburg
+- Russia
+- Saxony-Anhalt
+- Tangermuende
+- Ukraine
+people:
+- Alice Weidel
+- Friedrich Merz
+- Simson
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- Alternative für Deutschland
+- CDU
 ---
 
 The far-right Alternative für Deutschland (AfD) party is set for a historic regional election win in the eastern state of Saxony-Anhalt – in a blow for German chancellor Friedrich Merz.

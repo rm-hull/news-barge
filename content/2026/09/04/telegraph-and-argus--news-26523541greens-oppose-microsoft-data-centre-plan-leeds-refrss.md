@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Leeds
+- Skelton Grange
+- Stourton
+- UK
+people: []
+organisations:
+- Green Party
+- Leeds City Council
+- Leeds Green Party
+- Microsoft
 ---
 
 *(Image: Microsoft)*

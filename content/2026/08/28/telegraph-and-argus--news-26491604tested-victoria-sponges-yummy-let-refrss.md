@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Britain
+- Iceland
+- Victoria
+people:
+- Aldi
+- Alfred Bird
+- Victoria
+organisations:
+- Asda
+- Morrisons Tesco
+- Nectar
+- Sainsbury's Aldi
 ---
 
 WHO doesn’t love a slice of Victoria sponge?

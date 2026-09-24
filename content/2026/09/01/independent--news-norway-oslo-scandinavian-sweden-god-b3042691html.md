@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kingdom of Norway
+- Oslo
+- Storting
+- Sweden
+- University Hospital
+people:
+- Are Holm
+- God
+- Haakon VIII
+- Harald Fairhair
+- Harald V
+- Masud Gharahkhani
+- Mette-Marit
+organisations: []
 ---
 
 Norway's King Haakon VIII pledged an oath of allegiance to the country's constitution in parliament on Tuesday, an important symbolic step as he takes over at the helm of the Scandinavian country after his late father's 35-year reign.

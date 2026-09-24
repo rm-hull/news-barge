@@ -14,6 +14,18 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Leeds
+- Merrion Street
+- Mojo’s bar
+people: []
+organisations:
+- '## Full'
+- Crimestoppers
+- Leeds Adult Safeguarding team
+- Leeds District Adult Safeguarding Unit
+- Mojo’s
+- West Yorkshire Police
 ---
 
 *(Image: T&A Camera Club)*

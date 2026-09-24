@@ -13,6 +13,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21480074.jpg?type=og-image
+locations:
+- Bradford
+- Leeds
+- York
+- Yorkshire
+people:
+- Azets
+- Claire Needham
+organisations:
+- Azets
+- North East
+- Yorkshire
 ---
 
 *(Image: Supplied)*

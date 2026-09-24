@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Sheffield
+people:
+- Amanda Barrow
+- Andrew James
+- Covid I
+- Ms Barrow
+organisations:
+- Blue Badge
+- Leeds Beckett Occupational Health
+- Leeds Beckett University
+- Library and Student Services
+- Ms Barrow
 ---
 
 An agoraphobic university employee who needed to be on campus just four days a year has claimed she was discriminated against when her parking spot was taken away.

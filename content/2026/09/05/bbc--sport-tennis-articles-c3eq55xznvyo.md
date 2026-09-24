@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Beijing
+- Britain
+- China
+- New York
+- Paris
+- Roland Garros
+people:
+- Emma Raducanu
+- Madison Keys
+- Maja Chwalinska
+- Qinwen Zheng
+- Zheng Qinwen
+organisations:
+- Madison Keys
+- Qinwen Zheng
 ---
 
 ![Qinwen Zheng falls to the ground in celebration after beating Madison Keys](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1213/live/a3fcc9c0-a965-11f1-b109-879e35c24276.jpg)

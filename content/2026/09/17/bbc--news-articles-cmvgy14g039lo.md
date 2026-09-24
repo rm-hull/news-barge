@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Afghanistan
+- Bolton
+- Georgina Court
+- Greater Manchester
+- UK
+people:
+- Charlotte Rimmer
+- Kenderik Horne
+- Snapchat
+- Sultani Bakatash
+- Umar Shehzad
+organisations:
+- BBC Manchester
+- BBC Radio Manchester
+- Bakatash
+- Bolton Crown Court
+- British Army
+- Coke
 ---
 
 ![A mug shot of a man with short black hair and a beard.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a4f4/live/69a56690-b2b8-11f1-ad9d-efc12ace03e0.jpg)

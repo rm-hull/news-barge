@@ -13,6 +13,25 @@ categories:
 - York
 - Personal Finance & Investing
 - History
+locations:
+- Dunkirk
+- North Yorkshire
+- Regal Lady
+- Scarborough
+people:
+- Ernest Wilson
+- Michael Peel
+- Regal Lady
+organisations:
+- Allied
+- Association of Dunkirk Little Ships
+- BTG Eddisons
+- Heck
+- National Historic Ship
+- Operation Dynamo
+- Regal Lady
+- Royal Navy
+- Scarborough
 ---
 
 ## Dunkirk 'Little Ship' that rescued 1,200 on sale at £250,000 in North Yorkshire

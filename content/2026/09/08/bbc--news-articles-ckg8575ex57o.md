@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- England
+- Foster Wales
+- Neath Port Talbot
+- Pontypridd
+- St Michael's
+- Swansea
+- UK
+people:
+- Alistair Cope
+- Christine Meek
+- Male
+- Ms Meek
+- Sam Gardner
+- Sheri Ingram
+- Simon Lloyd-Jones
+- Tom Jones
+organisations:
+- Alistair Cope of Foster Wales
+- BBC Wales
+- Catholic Primary School
+- Foster Wales
+- Sketty Primary School
+- St Michael
 ---
 
 I'm reunited with the teacher who changed my life

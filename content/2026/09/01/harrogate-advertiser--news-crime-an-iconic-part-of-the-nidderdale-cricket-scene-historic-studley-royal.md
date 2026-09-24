@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - Sports
 - History
+locations:
+- Deer Park
+- Nidderdale
+- Ripon
+- Studley Royal
+people: []
+organisations:
+- North Yorkshire Police
+- Studley Royal
+- Studley Royal Cricket Club
 ---
 
 # ‘An iconic part of the Nidderdale cricket scene’: Historic Studley Royal Cricket Club pavilion destroyed in devastating fire

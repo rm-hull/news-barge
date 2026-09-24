@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/01/05/California_Legislature__47
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol
+- Los Angeles
+- Northern California
+- Sacramento
+people:
+- Gavin Newsom
+- Joy Chen
+- Katelyn Roedner Sutter
+- Rick Zbur
+organisations:
+- American Property Casualty Insurance Association
+- California Catastrophe Response Council
+- Environmental Defense fund
+- Every Fire Survivor’s Network
+- Legislature
+- PG&E
+- Pacific Gas & Electric
+- Southern California Edison
 ---
 
 California lawmakers are expected to vote Tuesday on a bill aimed at supporting wildfire survivors after rejecting an ambitious proposal by Gov. Gavin Newsom that would have limited electric companies' financial liability for blazes sparked by their equipment.

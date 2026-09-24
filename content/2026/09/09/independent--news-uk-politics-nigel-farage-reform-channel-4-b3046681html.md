@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Birmingham
+people:
+- Cleo Watson
+- Dan Jukes
+- Helen MacNamara
+- James Orr
+- Nigel Farage
+organisations:
+- Channel 4
+- Reform UK
 ---
 
 Reform UK went into its annual conference last week with one piece of apparently comforting intelligence about the impending Channel 4 investigation hanging over the party: there was not much in it.

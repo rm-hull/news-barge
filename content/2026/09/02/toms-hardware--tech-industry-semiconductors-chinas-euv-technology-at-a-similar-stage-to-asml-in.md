@@ -12,6 +12,34 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+people:
+- Anton Shilov
+- Francois-Xavier Bouvignies
+- Tom
+organisations:
+- ACM Research
+- AMEC
+- AMIES
+- ASML
+- Bloomberg
+- Canon
+- Get Tom's Hardware
+- Google News
+- Huawei
+- Intel
+- KLA
+- Lam Research
+- Naura
+- Nikon
+- SMEE
+- SSA
+- Shanghai Aishengna Electronic Technology Group
+- Shanghai Micro Electronics Equipment
+- SiCarrier
+- Tom’s Hardware
+- UBS
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/pzamkiuguieyRnBYqYYHkW.jpg) 

@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Travel
 - Film & TV
+locations:
+- Carriageworks Theatre
+- Leeds
+- Pacific Ocean
+- UK
+- Uruguay
+people:
+- Nell Teasdale
+- Richard Tesore
+organisations: []
 ---
 
 A NIGHT of thrilling ocean adventure is coming to the big screen.

@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Education & Learning
+locations:
+- England
+people:
+- Duncan Burton
+- Patricia Marquis
+- Sophie du Plessis
+organisations:
+- NHS England
+- RCN England
+- Royal College of Nursing
 ---
 
 # Nurses left 'stacking shelves' after being locked out of graduate jobs, RCN says

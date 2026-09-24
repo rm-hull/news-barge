@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- Afghanistan
+- Antwerp
+- Belgium
+- Cairo
+- Gaza Strip
+- Israel
+- Italy
+- Jerusalem
+- Jordan
+- Sudan
+- UK
+- Yemen
+people:
+- Ahmed Abujami
+- Ahmed Alsalibi
+- Anneleen Van Bossuyt
+- Bart De Wever
+- Maxime Prévot
+- Salwa Abu Elhaj
+- Van Bossuyt
+organisations:
+- De Standaard
+- Free University of Brussels
+- Guardian
+- Institute of Tropical Medicine
+- KU Leuven
+- New Flemish Alliance
+- ULB
+- VRT
 ---
 
 Students who are unable to leave Gaza and take up scholarships at Belgian universities have said they are devastated after Belgium’s government hit deadlock on a plan enabling them to leave the war-torn territory.

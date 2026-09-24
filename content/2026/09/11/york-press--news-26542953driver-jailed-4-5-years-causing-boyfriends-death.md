@@ -13,6 +13,23 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Brimham Rocks
+- Durham
+- HMP Low Newton
+- Harrogate
+- Snapchat
+- York
+people:
+- Alfie Lovett
+- Girlfriend
+- Glenn Parsons
+- Justice Popplewell
+- Kelly Brocklehurst
+- Mia Howarth
+organisations:
+- Court of Appeal
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

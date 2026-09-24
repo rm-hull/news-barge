@@ -11,6 +11,77 @@ image: https://cdn.mos.cms.futurecdn.net/4SADYfByK77gYW8Yxd6Aff-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Bernardus Golf
+- Canada
+- Den Bosch
+- Denmark
+- England
+- Europe
+- France
+- Gainesville
+- Germany
+- Netherlands
+- Netherlands.
+- Republic of Ireland
+- Spain
+- Sweden
+- Team United States
+- UK
+- US
+- United States
+- canada
+- uk
+people:
+- Adam Marshall
+- Alison Lee
+- Allisen Corpuz
+- Andrea Lee
+- Angel Yin
+- Angela Stanford
+- Anna Nordqvist
+- Auston Kim
+- Carlota Ciganda
+- Charley Hull
+- Céline Boutier
+- Esther Henseleit
+- Jennifer Kupcho
+- Julia López Ramírez
+- Lauren Coughlin
+- Leona Maguire
+- Lilia Vu
+- Lindy Duncan
+- Linn Grant
+- Lottie Woad
+- Maja Stark
+- Megan Khang
+- Mimi Rhodes
+- Nanna Koerstz Madsen
+- Nastasia Nadaud
+- Nelly Korda
+- Rose Zhang
+- Stacy Lewis
+organisations:
+- AU
+- BBC iPlayer
+- Bernardus Golf Club
+- Future Publishing
+- Golf Channel
+- Hull
+- Instagram
+- Kayo Sports
+- OTT
+- Robert Trent Jones Golf Club
+- Sky Go
+- Sky Sports
+- TSN
+- Team USA
+- TechRadar
+- Tom's Guide
+- Yealimi Noh
+- YouTube
+- thesolheimcup
 ---
 
 ![Nelly Korda of Team United States tees off on the first hole during a practice round prior to the Solheim Cup 2026 at Bernardus Golf in the Netherlands.](https://cdn.mos.cms.futurecdn.net/4SADYfByK77gYW8Yxd6Aff.jpg) 

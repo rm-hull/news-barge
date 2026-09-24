@@ -13,6 +13,31 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- California
+- District of Columbia
+- Indiana Indiana
+- Indianapolis
+- Marin County
+- Minnesota
+- San Francisco
+- White House
+people:
+- Carmen Perez
+- Deaira Gresham
+- Donald Trump
+- Joe Biden
+- Malinda Cox
+- Meygan Maloney
+- Mike Braun
+- Ruth Friedman
+organisations:
+- AP
+- Associated Press’
+- Congress
+- District of Columbia
+- Office of Child Care
+- The Associated Press
 ---
 
 There's the mother of two who needs a full-time job to keep up with the bills, but can’t afford full-time childcare. There’s the medical technician who stopped buying groceries and turned to food banks so she could pay for her infant's care.

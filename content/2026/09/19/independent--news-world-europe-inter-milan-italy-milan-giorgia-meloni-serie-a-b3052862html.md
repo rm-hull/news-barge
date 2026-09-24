@@ -12,6 +12,32 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/19/12/Italy_Mazzola__1231.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Basilica of Sant’Ambrogio
+- Grande Torino’
+- Italy
+- Milan
+people:
+- Cristian Chivu
+- Ferenc Puskás
+- Franco Baresi
+- Giorgia Meloni
+- Giovanni Malagò
+- Giuseppe Marotta
+- Javier Zanetti
+- Johan Cruyff
+- Sandro Mazzola
+- Valentino Mazzola
+organisations:
+- AC Milan
+- Azzurri
+- FC Internazionale Milano
+- Inter Milan
+- Juventus
+- Nerazzurri
+- Real Madrid
+- Serie A
+- Superga
 ---
 
 Sandro Mazzola, the former Inter Milan captain who was one of Italy’s most acclaimed players, has died. He was 83.

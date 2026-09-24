@@ -11,6 +11,29 @@ image: https://i.guim.co.uk/img/media/e537a05f8bebbb78c1b1d2205678060cf8437312/7
 categories:
 - UK
 - News & Politics
+locations:
+- Hormuz
+- Iran
+- Massachusetts
+- New Hampshire
+- New Zealand
+- Samoa
+- US
+people:
+- Chris Pappas
+- Donald Trump
+- John E Sununu
+- Kelly Ayotte
+- Kristen Cianci
+- Nikki Haley
+- Scott Brown
+organisations:
+- Congress
+- Guardian
+- New Hampshire Public Radio
+- RNC
+- Republican National Committee
+- Senate
 ---
 
 Former senator John E Sununu triumphed on Tuesday in the New Hampshire Republican Senate primary Scott Brown, earning the GOP nod in what will likely be a must-win race if Democrats hope to seize the upper chamber.

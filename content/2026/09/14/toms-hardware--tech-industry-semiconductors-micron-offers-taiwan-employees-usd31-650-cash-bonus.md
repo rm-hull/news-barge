@@ -14,6 +14,28 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Asia
+- South Korea
+- Taichung
+- Taiwan
+- Taoyuan
+- U.S.
+- US
+people:
+- Tom
+organisations:
+- AI
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- Micron —
+- PC
+- Reuters
+- SK Hynix
+- Samsung
+- Tom's Hardware
+- Union
 ---
 
 ![Micron Building](https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh.jpg) 

@@ -12,6 +12,102 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Bar Lane
+- Beatles’ Abbey Road
+- Bedale
+- Beulah Street
+- County Hall
+- Deer Park
+- Dennis Richards Park Run
+- Ferrensby
+- Fewston Reservoir
+- Harrogate
+- Kex Gill
+- Knaresborough
+- Leeds
+- Manchester
+- Nepal
+- Newby Hall
+- North Yorkshire
+- Northallerton
+- Paris
+- Ripley
+- Ripon
+- Scriven
+- Spa Gardens
+- St James' Business Park
+- Studley Royal
+- Toronto
+- UK
+- Valley Gardens
+- York Crown Court
+people:
+- Andrew Stevens
+- Andy
+- Charlotte Gale
+- Coun Chris Aldred
+- Coun Graham Dixon
+- Coun Viv Poskitt
+- Dennis Richards
+- Ella Smith-Dunn
+- Ione Cumming
+- Jack Carroll
+- Janusz Piotrowicz
+- Jo Thackray
+- Kate Bramley
+- Katie Scott
+- Kieran Lawless
+- Kylie Hammond
+- Lizzie Hughes
+- Matt Richardson
+- Miriam Margolyes
+- Negroni
+- Paul Tonkinson
+- Richard Flinton
+- Robert Barrie
+- Steve Bambridge
+- Susan Goldsbrough
+- Thomas Ingilby
+- Tom Gordon
+- Vernon Kay
+- Zoe Ingham
+organisations:
+- A59
+- AO Arena
+- All Saints’ Church
+- Aura Power
+- BBC Radio 2
+- Badapple Theatre
+- Bettys Café Tea Rooms
+- Big Sleepout
+- Cancer Research UK
+- Deli Bar Cafe
+- Gaunts Ltd
+- HADCA
+- HG5
+- Harrogate Advertiser
+- Harrogate Bee Social
+- Harrogate Brigantes Rotarian
+- Harrogate Convention Centre
+- Harrogate District Hospital
+- Harrogate Homeless Project
+- Harrogate Rugby Club
+- Harrogate Theatre
+- Harrogate and District NHS Foundation Trust Board
+- Harrogate’s Great Yorkshire Showground
+- Hyena Lounge Comedy Club
+- Knaresborough
+- Mother Shipton Inn
+- North Yorkshire Council
+- Northern Gas Network
+- RHS Garden Harlow Carr
+- Ripon Youth Council
+- Rudy's FC
+- Saint Michael's Hospice
+- Specsavers Ripon
+- Sykes Holiday Cottages
+- Symphonic Ibiza
 ---
 
 ![Two healthcare organisations have each signed a three-year lease for their new office spaces at St James' Business Park in Knaresborough which are owned by West and North Yorkshire property company, Gaunts Ltd. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdjZDQyMWNlLWE4MmUtNDJlMi05MzUyLWE2Y2I5NmM5Nzc3OTozZTMwYmQ4MS1hMDAyLTQxNzEtYThjYS01MjA1ZjYwZGNmODU=.jpg?crop=5:4,smart&trim=&quality=70&width=480)

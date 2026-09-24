@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Israel
+- London
+- Poland
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+- Yemen
+people:
+- Andy Burnham
+- Chris Mason
+- Ed Miliband
+- John Healey
+- Keir Starmer
+- Mark Rutte
+- Vladimir Putin
+- Wes Streeting
+organisations:
+- BBC Elsewhere
+- Nato
 ---
 
 ![Nato chief Mark Rutte](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/0c57/live/033ecd10-b2b8-11f1-ad9d-efc12ace03e0.jpg)

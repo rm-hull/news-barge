@@ -12,6 +12,18 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/22/16/Germany_Military_Plane_Crash_99326.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Germany
+- Kaiserslautern
+- Ramstein
+- Spangdahlem
+- U.S.
+people: []
+organisations:
+- NATO
+- Spangdahlem Air Base
+- U.S. Air Base Spangdahlem
+- U.S. Air Force
 ---
 
 An American military aircraft crashed at a U.S. air base in western Germany on Tuesday, injuring the pilot, the American military said.

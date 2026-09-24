@@ -14,6 +14,30 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/20/22/ICE_Shooting_Austin_83_46.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Dakar
+- Grayson County
+- Kentucky
+- Louisville
+- Louisville’s Muhammad Ali International Airport
+- New York
+- Senegal
+- U.S.
+- United States
+people:
+- Aminata Seck
+- Morgan McGarvey
+- Sadiqa Reynolds
+organisations:
+- ACL
+- Detention Center
+- ICE
+- Immigration and Customs Enforcement
+- Kentucky State University
+- Lane College
+- Louisville Courier Journal
+- SIAC
+- Southern Intercollegiate Athletic Conference All-Conference Third Team
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

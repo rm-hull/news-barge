@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg
+locations:
+- Earth
+- North London
+people:
+- '**•** Spangram'
+- AI
+- Elton John
+- Fred
+- Johnny
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+organisations:
+- '### Yesterday'
+- '**•** Today'
+- Channel 5
+- NYT
+- Pop Detective
+- Quordle
+- Spelling Bee
+- Sun
+- Wordle and Connections
 ---
 
 ![NYT Strands homescreen on a mobile phone screen, on a light blue background](https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB.jpg)

@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Carr House
+- East Of Station Road
+- Green Lane
+- North Of Green Lane
+- North Yorkshire
+- Scarborough
+- Snainton
+- Station Road
+people: []
+organisations:
+- Mulgrave Developments Ltd
+- North Yorkshire Council
 ---
 
 MORE than a dozen new homes could be built near a North Yorkshire town after the council rejected previous plans.

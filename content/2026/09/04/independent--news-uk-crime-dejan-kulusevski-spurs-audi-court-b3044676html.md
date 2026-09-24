@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Barkingside Magistrates’ Court
+- Limehouse Link
+- London
+people:
+- Dejan Kulusevski
+- Met
+organisations:
+- Audi
+- Metropolitan Police
+- Premier League
+- Spurs
+- Tottenham Hotspur
 ---
 
 Tottenham Hotspur winger Dejan Kulusevski has insisted he needs his car to drive home from away games as the Premier League star faces a driving ban after repeatedly being caught speeding.

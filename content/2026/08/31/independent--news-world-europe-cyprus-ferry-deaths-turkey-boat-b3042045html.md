@@ -14,6 +14,20 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Cyprus
+- Girne
+- Kyrenia
+- Tasucu
+- Turkey
+people:
+- Deniz Ozpolat
+- Filo Denizcilik
+- Muhammed Ozcelik
+- Serkan Kunduraci
+- Unal Ustel
+organisations:
+- DHA
 ---
 
 The survivors of a ferry disaster off the coast of Cyprus that killed eight people described the chaotic moments of terror as they scrambled to escape the sinking vessel as others drowned around them.

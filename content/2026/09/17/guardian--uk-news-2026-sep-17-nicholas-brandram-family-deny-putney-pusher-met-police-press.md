@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Afghanistan
+- Buckingham Palace
+- Canary Wharf
+- Chiswick
+- City
+- Greece
+- Hyde Park Corner
+- London
+- Mayfair
+- Metropolitan
+- Putney Bridge
+people:
+- Katherine
+- Nicholas Brandram
+- Nick
+- Putney
+- Victoria
+organisations:
+- Citywealth
+- Daily Telegraph
+- HSBC Private Bank
+- Harley-Davidson
+- Putney Pusher’
 ---
 
 The family of Nicholas Brandram have denied he was the so-called “Putney pusher” and said he “took his own life after months of immense pressure caused by a Metropolitan police investigation”.

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21475886.jpg?type=og-image&xType=0&yType=32
+locations:
+- Hindson Crescent
+- Hindsons Crescent South
+- Houghton-le-Spring
+- North East
+- Shiney Row
+people: []
+organisations:
+- CCTV
+- Northumbria Police
+- Sainsbury's
 ---
 
 A North East shop has shared the shocking moment when a man dressed in a balaclava and black clothing threatens a staff member with a knife.

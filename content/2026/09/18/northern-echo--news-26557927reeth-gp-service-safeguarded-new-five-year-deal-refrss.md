@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Arkengarthdale
+- Darlington
+- North East
+- North Yorkshire
+- Reeth Medical Centre
+- Richmondshire Dales
+- Swaledale
+people:
+- James Dunbar
+- Marie Brookes
+- Mike Brookes
+- Rishi Sunak
+- Vicky Ewan
+organisations:
+- Central Dales Practice
+- Heartbeat Primary Care CIC
+- ICB
+- NHS 10-Year Health Plan
+- Reeth Medical Centre
+- Reeth Surgery
+- UHT
+- University Hospitals Tees
+- Yorkshire Dales GP
 ---
 
 *(Image: Other)*

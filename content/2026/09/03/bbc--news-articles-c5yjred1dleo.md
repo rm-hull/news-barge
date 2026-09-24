@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Aston Lane
+- Mersey Gateway
+- Rainhill
+- Runcorn
+- Watkinson Way
+people:
+- McClatchy
+organisations:
+- Cheshire Police
+- Diageo Packaging
+- GXO
+- Guinness
+- Whitehouse Industrial Estate
 ---
 
 ![The entrance to the Diageo Packaging on Whitehouse Industrial Estate in Runcorn. There is a red and white barrier for vehicles at the entrance.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9c09/live/a3704fe0-a7b2-11f1-b5cf-8556ae508a51.jpg)

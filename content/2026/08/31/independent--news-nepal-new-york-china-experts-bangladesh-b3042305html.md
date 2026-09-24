@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Austria
+- Bangkok
+- Bangladesh
+- Dhaka
+- Kathmandu
+- Nepal
+- Nepal-China
+people:
+- Huizhong Wu
+- Jakob Steiner
+- Jennifer Horney
+- Shristi Kafle
+- Thomas Chandler
+organisations:
+- AP
+- Associated Press
+- Associated Press Health and Science Department
+- Columbia University
+- Howard Hughes Medical Institute’s Science and Educational Media Group
+- National Center for Disaster Preparedness
+- Robert Wood Johnson Foundation
+- University of Delaware
+- University of Graz
 ---
 
 For those stranded by a flood, survival depends on many factors including access to oxygen, food and water.

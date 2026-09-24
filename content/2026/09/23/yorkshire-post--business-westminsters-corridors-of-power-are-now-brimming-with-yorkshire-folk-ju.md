@@ -16,6 +16,32 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAwZDRhYjI1LTA2NmQtNDM0Yy05OGJjLTZlYTZlODFkZjVjNDoyM2YxMjY2Zi1kZWUxLTQ1MjQtODZhOC0zNjE4MDlhOTgxZTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Sheffield
+- UK
+- Westminster
+- Yorkshire
+people:
+- Andy Burnham
+- Baroness Blake
+- Burnham Bounce’
+- Ed Miliband
+- James Speakman
+- John Healey
+- Julian Pearce
+- Louise Haigh
+- Role
+- Tom Riordan
+organisations:
+- Burnham Government
+- Labour
+- Leeds City Council
+- North
+- PA Wire
+- Sheffield Heeley
+- The Times
+- Yasper
+- Yorkshire
 ---
 
 # Westminster's corridors of power are now brimming with Yorkshire folk: Julian Pearce

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/18636995.jpg?type=og-image&xType=0&yType=45
+locations:
+- '### Auckland Avenue One'
+- '### Auckland Oval Construction'
+- '### Sadberge Road'
+- A68 West Auckland Road
+- Auckland Avenue
+- Auckland Oval
+- Bishop Auckland
+- Brinkburn Road
+- Darlington
+- Flat Hill Close
+- Rochester Way
+- Sadberge Road
+- Winchester Way
+- Winchester Way One
+people: []
+organisations:
+- Durham County Council
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

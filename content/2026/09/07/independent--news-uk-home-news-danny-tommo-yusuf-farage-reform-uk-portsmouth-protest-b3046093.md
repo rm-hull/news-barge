@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Cherbourg
+- DOVER
+- Dover
+- Eastney Ferry Landing
+- Eastney Marina
+- Hampshire
+- Isle of Wight
+- London
+- RNLI Portsmouth Lifeboat Station
+- UK
+- Unite the Kingdom
+people:
+- Barry John-Williams
+- Daniel Thomas
+- Danny Tommo
+- Nigel Farage
+- Steve Pitt
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- Home Office
+- Isle of Wight Constabulary
+- Kent Police
+- Patriot Platform
+- Portsmouth City Council
+- Press Association
+- RNLI
+- Reform UK
 ---
 
 The founder of a group of protesters who blocked roads in Dover on Saturday has confronted Reform UK’s Zia Yusuf, telling him his party leader Nigel Farage needs to be “careful with his words”.

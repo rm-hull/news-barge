@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Batley
+- Henry Street
+- Victoria Avenue
+people:
+- Akhtar Kasia
+- Cllr Akhtar
+- Cllr Kasia
+organisations:
+- Batley
+- Facebook
+- Independent
+- Local Democracy Service
 ---
 
 # Calls for removal of 'dumping site' clothes donation bins

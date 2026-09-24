@@ -12,6 +12,26 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/28/10/36/www-sixflags-com-magicmountain-attractions-138672139-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Valencia
+people:
+- Christopher Bulone
+- Christopher Hawley
+- Michael Wilk
+- Naomi Greer-Wilkinson
+- Pamela Guillen
+organisations:
+- ABC 11
+- CNN
+- Dordick Law Corporation
+- KTLA Los Angeles
+- Magic Mountain
+- S&S Worldwide
+- Six Flags Entertainment Corporation
+- Six Flags Magic Mountain and S&S Worldwide Inc
+- Six Flags Theme Parks
+- X2
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

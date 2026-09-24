@@ -11,6 +11,56 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/19/23/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- Copenhagen
+- Crimean Peninsula
+- Donetsk
+- Geneva
+- Germany
+- Iran
+- Kherson
+- Kyiv
+- Luhansk
+- Moscow
+- Turkey
+- US
+- Ukraine
+- United Russia
+- Washington
+- White House
+- Zaporizhzhia
+people:
+- Carsten Breuer
+- Christian Wigand
+- Danielle Bell
+- Giuseppe Cavo Dragone
+- Hakan Fidan
+- Kyiv
+- Mark Rutte
+- Putin
+- Sergei Ryabkov
+- Shahed
+- Volodymyr Zelensky
+organisations:
+- Alliance
+- Chiefs of Defence
+- European Commission
+- European Union
+- German Armed Forces
+- Kyiv
+- NATO
+- NTV
+- Nato
+- OHCHR
+- Office of the
+- RIA
+- Reuters
+- Russian Central Election Commission
+- State Duma
+- TASS
+- The New York Times
+- UN Human Rights Monitoring Mission
 ---
 
 Polls are set to close in Russia’s parliamentary election on Sunday, in the first State Duma election since Russia launched its full-scale war in February 2022.

@@ -14,6 +14,37 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- China
+- Florida
+- Japan
+- Liechtenstein
+- South Korea
+- Switzerland
+- Taiwan
+- U.S.
+- US
+- United Kingdom
+- United States
+- White House
+people:
+- Donald Trump
+- Donald Trump Jr.
+- Etiido Uko
+- Tom
+organisations:
+- CBP
+- DJI
+- Etiido Uko
+- European Union
+- Federal Communications Commission
+- Google News
+- PC
+- Skydio
+- Tom's Hardware
+- Trump
+- U.S. Customs and Border Protection
+- Unusual Machines
 ---
 
 ![DJI drones](https://cdn.mos.cms.futurecdn.net/VaAC9e5oeKohRSaFxAFD58.jpg) 

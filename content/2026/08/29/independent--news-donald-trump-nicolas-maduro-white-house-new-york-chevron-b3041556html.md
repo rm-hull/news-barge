@@ -11,6 +11,44 @@ image: https://static.independent.co.uk/2026/08/29/17/Trump_Venezuela_Oil_What_T
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Caracas
+- Iran
+- Mexico
+- New York
+- Persian Gulf
+- U.S.
+- US
+- United States
+- Venezuela
+- Washington
+- White House
+people:
+- Amy Myers Jaffe
+- David Oxley
+- Delcy Rodríguez
+- Donald Trump
+- Douglas Borjas
+- Hugo Chavez
+- Marco Rubio
+- Moriah Balingit
+- Nicolás Maduro
+- Paul Wiseman
+- Pete Hegseth
+- Ricardo Hausmann
+- ___ Arráez
+organisations:
+- AAA
+- AP Economics
+- Associated Press
+- Capital Economics
+- Chevron
+- Energy, Climate Justice and Sustainability Lab
+- Harvard University
+- New York University
+- Saudi Aramco
 ---
 
 Besides a social media post from President Donald Trump, the White House has said little about what he is calling “THE BIGGEST OIL DEAL IN WORLD HISTORY” in Venezuela.

@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Newcastle
+- North East
+- Scotland
+- Teesside
+- Wales
+people:
+- Jonathan Nicholson
+organisations:
+- Bank Holiday
+- CAA
+- EasyJet Ryanair
+- Newcastle International Airport
+- North News & Pictures Ltd
+- Teesside International Airport
+- Teesside International Airports
+- UK Civil Aviation Authority
 ---
 
 Newcastle and Teesside International Airports will be busy over the next few days as passengers enjoy a Bank Holiday break away.

@@ -11,6 +11,23 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- East Sussex
+- U.K.
+people:
+- Claude
+- De Swardt
+- Grant De Swardt
+organisations:
+- AI
+- Anthropic
+- Claude Code
+- Claude Code OAuth
+- Cursor
+- Dispatch
+- GitHub
+- Reddit
+- TechCrunch
 ---
 
 On August 4, Grant De Swardt, an independent AI consultant in East Sussex, U.K., noticed something strange going on with his Claude Max 20x account. He hadn’t been working that day, yet his token usage was climbing.

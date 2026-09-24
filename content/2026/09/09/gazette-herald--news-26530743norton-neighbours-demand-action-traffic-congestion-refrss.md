@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Church Street
+- Commercial Street
+- County Bridge
+- Langton Road
+- Norton
+- St Nicholas Street
+- Welham Road
+- Wold Street
+people:
+- Alex Young
+- Cllr Keal
+- David Colthup
+- Di Keal
+- Norton
+organisations:
+- Derwent Town Council
+- North Yorkshire Council
 ---
 
 *(Image: Freelancer)*

@@ -12,6 +12,14 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/20359578.jpg?type=og-image
+locations:
+- Acomb
+- Popular York
+- Tennent Road
+people:
+- Jade Wright
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Jade Wright)*

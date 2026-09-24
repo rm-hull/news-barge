@@ -13,6 +13,22 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Murton Way
+- Osbaldwick Village
+- Outgang Lane
+- Restore Britain
+- York
+people:
+- Betty Elizabeth Smith
+- Cllr Warters
+- Keyline
+- Mark Warters
+organisations:
+- City of York Council
+- Google Street View
+- Keyline
+- McDonald's
 ---
 
 ## 'Danger' on York road where elderly woman was killed by lorry prompts safety moves

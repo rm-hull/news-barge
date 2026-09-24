@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4317/live/97f51f
 categories:
 - UK
 - News & Politics
+locations:
+- Capitol Hill
+- Iran
+- UNITED STATES OF AMERICA
+- US
+people:
+- Chuck Schumer
+- Donald Trump
+- Jerome Powell
+- Kevin Warsh
+organisations:
+- BNY
+- Bank of England
+- European Central Bank
+- Fed
+- Federal Reserve
+- Freddie Mac
+- JP Morgan
+- KeyCorp
+- Senate
+- US
 ---
 
 Watch: Federal Reserve chair says rate increase decision was "responsible"

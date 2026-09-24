@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Maison Perrier
+- UK
+people: []
+organisations:
+- Aldi
+- Breakaway
+- Maison Perrier
+- McDonald's
+- Nestle
+- Perrier Lemon
+- Twitter
+- Yorkie
 ---
 
 *(Image: Getty Images)*

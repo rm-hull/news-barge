@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Real Estate
 image: https://www.thenorthernecho.co.uk/resources/images/21481609.jpg?type=og-image
+locations:
+- Auckland Palace
+- Binchester Roman Fort
+- Bishop Auckland
+- Britain
+- County Durham
+- Darlington
+- Deer Park
+- Dere Street
+- North East
+- Northumbria
+- Weardale Railway
+people:
+- Binchester
+- Eltaominus
+- Fortuna Redux
+- John Castling
+organisations:
+- Ala Vettonum
+- Auckland Project
+- Binchester Roman Fort
+- Bishop Auckland
+- Department of Archaeology
+- Durham County Council
+- Durham University
+- Faith Museum
+- Mining Art Gallery
+- Spanish Gallery
+- The Auckland Project
 ---
 
 *(Image: Durham University)*

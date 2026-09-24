@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough
+- Northumbria
+- Royal Victoria Infirmary
+people:
+- Jaden Wright
+- Katie Nicolson
+- Katie Smith
+- Natalie McDonald
+- Valentina Foster
+organisations:
+- CPS North East
+- Cleveland Police
+- James Cook University
+- Major Incident Public Portal
+- Teesside Crown Court
+- Teesside Magistrates’ Court
 ---
 
 A 23-year-old man has appeared in court charged with murder following a house fire that killed a seven-year-old girl and her aunt.

@@ -12,6 +12,45 @@ image: https://images.euronews.com/articles/stories/09/91/94/68/1200x675_cmsv2_2
 categories:
 - Europe
 - News & Politics
+locations:
+- Canada
+- Ceuta
+- Europe
+- India
+- Korosten
+- LeBreton Flats
+- Lithuania
+- Moscow
+- New Delhi
+- Ottawa
+- Poland
+- Russia
+- Seoul Railway Station
+- South Korea.
+- St. Petersburg
+- Stockholm
+- Sweden
+- U.S.
+- Ukraine
+- Vilnius
+- Zhytomyr Oblast
+people:
+- Anthony Albanese
+- Donald Trump
+- Donald Tusk
+- Kim Jong Un
+- Magdalena Andersson
+- Mark Carney
+- Olena Zelenska.
+- Simon Harris
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+organisations:
+- Auchan
+- C8
+- Euronews
+- European Commission
+- NOAA
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- County Durham
+- High Pittington
+- North East
+- UK
+people:
+- Tom Cunningham
+organisations:
+- Hotel Capital Markets
+- Savills Manchester
+- TripAdvisor
 ---
 
 *(Image: SAVILLS)*

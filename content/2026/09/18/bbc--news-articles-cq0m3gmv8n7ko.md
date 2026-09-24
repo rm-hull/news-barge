@@ -13,6 +13,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg
+locations:
+- Bab al-Mandab Strait
+- Bandar Abbas
+- Iran
+- Middle East
+- Russia
+- Strait of Hormuz
+- US
+- Ukraine
+- Yemen
+people:
+- Donald Trump
+- Kevin Warsh
+organisations:
+- BBC
+- Fed
+- Federal Reserve
+- JP Morgan
+- Trump
 ---
 
 ![A Gambia-flagged tanker vessel Bili is pictured anchored in the Strait of Hormuz off Bandar Abbas in southern Iran in May. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg)

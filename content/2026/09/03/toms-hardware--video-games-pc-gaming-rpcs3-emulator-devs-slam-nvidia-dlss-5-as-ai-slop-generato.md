@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- AI
+- DLSS 5
+- FSR
+- GeForce Now
+- Google News
+- NBA2K27
+- Nvidia
+- RPCS3
+- Tom’s Hardware
 ---
 
 ![DLSS 5 used on a game running via the RPCS3 emulator.](https://cdn.mos.cms.futurecdn.net/i3CX9yokRsm44JidzN6xrJ.jpg) 

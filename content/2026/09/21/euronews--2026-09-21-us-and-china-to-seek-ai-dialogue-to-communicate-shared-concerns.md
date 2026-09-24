@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/06/67/1200x675_cmsv2_2c42f132-8ae8-5d5b-b9e8-837fb79d007c-9920667.jpg
+locations:
+- AI
+- Beijing
+- China
+- New York
+- US
+- White House
+people:
+- Donald Trump
+- He Lifeng
+- Scott Bessent
+- Xi Jinping
+organisations:
+- Board of Trade
+- No. 1
+- No. 2 AI
+- US Treasury
+- US-China AI
+- Xinhua
 ---
 
 ## US and Chinese economic officials discussed creating a communication channel for AI concerns at meetings Sunday as they set the stage for a summit of the countries' top leaders this week.

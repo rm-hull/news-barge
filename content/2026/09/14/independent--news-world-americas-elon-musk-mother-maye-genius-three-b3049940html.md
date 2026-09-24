@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2023/09/15/17/GettyImages-1240408519.jpg
 categories:
 - News & Politics
 - UK
+locations:
+- US
+people:
+- Elon Musk
+- Errol Musk
+- Kimbal
+- Maye Musk
+- Ms Musk
+- Tommy Robinson
+- Tosca
+organisations:
+- AfD
+- Grok
+- SpaceX and X
+- The Telegraph
+- Trump
+- Twitter
 ---
 
 Elon Musk’s mother has claimed the tech billionaire and world’s richest man was “a genius” by the time he was just three years old.

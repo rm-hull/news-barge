@@ -12,6 +12,53 @@ image: https://static.independent.co.uk/2026/09/12/08/01M2A9SA61B6EA3A2TS6CE6FS6
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Aras an Uachtarain
+- Atlantic
+- Co Clare
+- Doonbeg
+- Dublin Airport
+- Dáil
+- Gaza
+- Iran
+- Israel
+- Palestine
+- Phoenix Park
+- Republic of Ireland
+- Shannon
+- US
+- Ukraine
+- United States
+- West Bank
+people:
+- Ailbhe Smyth
+- An Garda Síochána
+- Aodhán Ó Ríordáin
+- Catherine Connolly
+- Clare
+- Donald Trump
+- Joe Russell
+- Justine McCarthy
+- Mary Lou McDonald
+- Micheál Martin
+- Ms Clancy
+- Putin
+- Sarah Clancy
+- Trump’
+organisations:
+- Air Force One
+- EU
+- Irish Times
+- LGBTQ
+- Labour Dublin
+- Mr Trump International Golf Links & Hotel
+- RTÉ
+- Sinn Féin
+- Sunday Independent and Ireland Thinks
+- The Independent
+- Trump International Golf Links & Hotel
+- US Secret Service
 ---
 
 Nine months before Donald Trump was voted in as US president for the first time in 2016, he was asked at a campaign rally about a large golf course he purchased on a picturesque sliver of Ireland’s Atlantic coast.

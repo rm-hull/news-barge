@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Bruno Ferreira
+- Claude Cowork
+- Tom
+organisations:
+- AMD GPUs
+- File History
+- Get Tom's Hardware
+- Google News
+- HP
+- Lenovo
+- Microsoft
+- OEM
+- PC
+- Plan9
+- RDS
+- Remote Desktop Service
+- Remote Desktop Services
+- Tom's Hardware
+- Windows Search
 ---
 
 ![Error](https://cdn.mos.cms.futurecdn.net/ZwKwBGT6Ao4MECeuHFNjZF.png) 

@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Norway
+- Oslo Cathedral
+- Prince of Wales
+- US
+people:
+- Frank-Walter Steinmeier
+- Haakon VIII
+- Harald V
+- Jeffrey Epstein
+- Jonas Gahr Støre
+- King Harald
+- Marius Borg Høiby
+- Mette-Marit
+- Märtha
+- Olav V
+- Princess Astrid
+- Volodymyr Zelensky
+organisations:
+- Astrid
+- Royal House
 ---
 
 ![Princess Astrid is shown with white hair and wearing a thick coat aged 93 in May 2025](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/e791/live/899c1460-adfb-11f1-8169-6fdea7f79791.png)

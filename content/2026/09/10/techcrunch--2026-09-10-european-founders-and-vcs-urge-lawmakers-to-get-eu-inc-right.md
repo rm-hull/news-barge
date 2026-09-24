@@ -11,6 +11,30 @@ description: Amid negotiations for a new EU-wide corporate status, an open lette
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2266663070.jpg?resize=1200,800
 categories:
 - Business & Entrepreneurship
+locations:
+- Europe
+- Germany
+- United States
+people:
+- Alan
+- Martin Mignot
+- Michael Moritz
+- Niklas Zennström
+- Sonali De Rycker
+organisations:
+- Accel
+- Atomico
+- Delaware C Corp
+- EU Inc
+- European Commission
+- European Parliament and Council
+- European Union
+- Index Ventures
+- Lovable
+- Sequoia
+- Synthesia
+- TechCrunch
+- VCs
 ---
 
 Europe could soon have its own equivalent of the Delaware C Corp, but its advocates aren’t releasing the pressure on lawmakers. In an open letter released on Thursday, a who’s who of Europe’s startup scene stressed that this new corporate status shouldn’t be watered down.

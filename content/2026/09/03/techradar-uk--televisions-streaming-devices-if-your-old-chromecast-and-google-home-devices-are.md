@@ -11,6 +11,18 @@ description: Google has finally fixed the annoying setup issue for the first-gen
 image: https://cdn.mos.cms.futurecdn.net/5BRgdnVSZZFrWf8csXrKhT-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Amazon
+- Chromecast
+- Fire TV
+- Google Home
+- Google Nest Community
+- Google News
+- Reddit
+- TechRadar
 ---
 
 ![Google Chromecast](https://cdn.mos.cms.futurecdn.net/5BRgdnVSZZFrWf8csXrKhT.jpg) 

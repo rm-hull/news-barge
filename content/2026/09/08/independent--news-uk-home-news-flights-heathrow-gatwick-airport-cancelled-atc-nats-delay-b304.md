@@ -13,6 +13,52 @@ image: https://static.independent.co.uk/2026/09/08/17/35/IMG_4062-(1)-c35f2ada.j
 categories:
 - News & Politics
 - UK
+locations:
+- Aberdeen
+- Belfast
+- Birmingham
+- Bristol
+- Cardiff
+- Dusseldorf
+- East Midlands
+- Edinburgh
+- Gatwick
+- Glasgow
+- Heathrow
+- Jersey
+- Liverpool
+- London City
+- Manchester
+- Milan
+- New York
+- Romania
+- San Francisco
+- Shanghai
+- Southend
+- Stansted
+- UK
+- Vancouver
+people:
+- Beatrice
+- Fahima Khalil
+- Heidi Alexander
+- Marco Marcucci
+- Martin Rolfe
+- Matt Ethan
+- Neal McMahon
+organisations:
+- British Airways
+- Cirium
+- FlightRadar24
+- Flightradar24
+- National Air Traffic Services
+- National Air Traffic System
+- Nats
+- Nats’
+- Ryanair
+- Sky News
+- The Independent
+- Wizz Air
 ---
 
 Tens of thousands of passengers were forced to abandon their travel plans when a “technical issue” stopped flights across the UK taking off and landing for several hours.

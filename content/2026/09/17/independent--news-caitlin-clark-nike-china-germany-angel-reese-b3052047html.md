@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- China
+- Germany
+- U.S.
+people:
+- Angel Reese
+- A’ja Wilson
+- Breanna Stewart
+- Caitlin Clark
+- Candace Parker
+- Elena Delle Donne
+- Reebok
+- Sabrina Ionescu
+- Sheryl Swoopes
+organisations:
+- Indiana Fever
+- Nike
+- Puma
+- The Associated Press
+- WNBA
 ---
 
 Caitlin Clark doesn't have much longer to wait for her first signature shoe to come out.

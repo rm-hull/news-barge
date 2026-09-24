@@ -13,6 +13,25 @@ image: https://images.euronews.com/articles/stories/09/90/73/21/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Brussels
+- Ceuta
+- Czech Republic
+- Morocco
+- Rabat
+- Spain
+people:
+- Amaia Echevarria
+- Birgit Sippel
+- Ceuta
+- Juan Jesus Vivas
+- Juan Jesús Vivas
+- Luis Albertos Altarejos
+- Méabh Mc Mahon
+- Tomáš Svetechovský
+- Vassilis Glynos
+organisations:
+- EU
 ---
 
 ## This week on The Ring, EU lawmakers clash over the Ceuta migration crisis. From Morocco’s role and Spain’s response to whether EU member states are doing enough to help out when one member state comes under pressure, the debate raises more questions than answers.

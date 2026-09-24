@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/02/12/France_Macron_58138.jpg?wi
 categories:
 - News & Politics
 - UK
+locations:
+- Bayeux
+- Britain
+- Downing St.
+- England
+- France
+- Great Court
+- Iran
+- London
+- Normandy
+- Russia
+- U.K.
+- U.S.
+- Ukraine
+people:
+- Andy Burnham
+- Camilla
+- Charles III
+- Emmanuel Macron
+- Harold
+- William the Conqueror
+organisations:
+- British Museum
+- European Union
+- Kyiv
+- Macron
 ---
 
 French President Emmanuel Macron arrives in London on Wednesday to meet new Prime Minister Andy Burnham and visit the Bayeux Tapestry at its temporary home in the British Museum.

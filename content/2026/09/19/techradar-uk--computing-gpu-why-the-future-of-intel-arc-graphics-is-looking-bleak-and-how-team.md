@@ -11,6 +11,52 @@ description: With Celestial MIA and the status of Druid being anyone's guess, th
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/VHiu9MREXNTM9biGJCZdMi-1920-80.jpg
+locations:
+- Intel Nova Lake
+- Nova Lake
+people:
+- Aleksha McLoughlin
+- Alex Katouzian
+- Battlemage
+- Druid
+- Jaykihn
+organisations:
+- '## Druid'
+- AMD
+- APU
+- ASRock
+- C-series
+- Client Computing
+- Dexerto
+- Esports Insider
+- GM
+- GPU
+- GamesRadar
+- Google News
+- Hardware Unboxed
+- Intel Arc
+- Intel Arc Battlemage
+- Intel Celestial
+- Intel EVP
+- Intel XeSS
+- Kyusai
+- MFG
+- Mark PC
+- Nova Lake-S
+- Nvidia
+- PC Gamer
+- PC Guide
+- Play Magazine
+- Ratchet & Clank
+- Sparkle
+- Team Blue
+- TechRadar Gaming
+- The Escapist
+- Trusted Reviews
+- Tweakers
+- Xe
+- Xe3P Cestial
+- XeSS 3
 ---
 
 ![Intel Arc B-series graphics cards on a blue and purple background](https://cdn.mos.cms.futurecdn.net/VHiu9MREXNTM9biGJCZdMi.jpg)

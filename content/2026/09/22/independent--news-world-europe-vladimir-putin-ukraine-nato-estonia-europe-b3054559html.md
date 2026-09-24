@@ -14,6 +14,34 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/17/23/Poland_Russia_12747.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bulgaria
+- Estonia
+- Europe
+- Kyiv
+- Latvia
+- Leipzig
+- Lithuania
+- London
+- Moscow
+- Russia
+- UK
+- Ukraine
+- West
+people:
+- Donald Tusk
+- Emmanuel Macron
+- John Stringer
+- Kristen Michal
+- Richard Knighton
+- Vladimir Putin
+organisations:
+- AP
+- Air
+- Kyiv
+- NATO
+- The Associated Press
+- U.K’s
 ---
 
 Russian President Vladimir Putin is becoming “increasingly cavalier, dangerous and risk accepting,” as his war in Ukraine drags on and as he seeks to divide Western allies, NATO's deputy commander in Europe said Tuesday.

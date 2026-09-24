@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bondgate
+- Flaxton
+- Gennell Farm
+- Gennell Lane
+- Helmsley
+- Kirkbymoorside
+- North Yorkshire
+- Norton
+- Riverside View
+- Ryegate
+- YO17 9RB
+- YO60 7QT
+- YO62 5EZ
+- YO62 6DL
+- YOUR
+people: []
+organisations:
+- Gennell Farm Listed
+- LBC
+- Public Notice Portal
+- Public Notice Portal North Yorkshire Council
+- Ryegate
+- YO62 5AA
 ---
 
 *(Image: NQ)*

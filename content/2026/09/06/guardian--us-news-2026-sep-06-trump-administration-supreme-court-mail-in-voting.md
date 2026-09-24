@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/3f384f89bef7e9e74d066a3ab9aa76ecf2a3faa4/7
 categories:
 - UK
 - News & Politics
+locations:
+- Alabama
+- North Carolina
+- US
+people:
+- Donald Trump
+- Indira Talwani
+- Joe Biden
+- John Sauer
+organisations:
+- Congress
+- DHS
+- Department of Homeland Security
+- Postal Service
+- The Associated Press
+- Trump
+- US Postal Service
+- USPS
 ---
 
 The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on mail-in voting, after a federal judge had blocked new limits on such ballots, just ahead of November’s midterm elections.

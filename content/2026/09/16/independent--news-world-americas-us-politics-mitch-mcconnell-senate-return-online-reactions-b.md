@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/15/13/2295293401..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- Kentucky
+- Ohio
+people:
+- Aimee Lajoie
+- Donald Trump
+- John Thune
+- Marco Rubio
+- Mitch McConnell
+organisations:
+- Congress
+- Instagram
+- Senate
+- The Daily Beast
+- U.S. Census Bureau
 ---
 
 While American workers routinely face unpaid time off or a complete lack of paid family leave, Senator Mitch McConnell returned to Capitol Hill after a 92-day absence with a guaranteed paycheck.

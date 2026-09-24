@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Beverly Hills
+- California
+- City of Orlando
+- Florida
+- Kia Center
+- Orlando Venues
+- US
+people:
+- Alex Cherniss
+- Anna Eskamani
+- Ben Azoulay
+- Buddy Dyer
+- Paul Miller
+- Rick Scott
+organisations:
+- Anti-Defamation League
+- Constitution
+- Guardian
+- Instagram
+- Kia America
+- Kia Center
+- Orlando Venues
 ---
 
 Democrats in Florida have condemned a professional mixed martial arts event in Orlando at which an openly racist fighter derided his beaten opponent as “a short little fucking Jew prick”, and a spectator was ejected for waving a giant swastika flag.

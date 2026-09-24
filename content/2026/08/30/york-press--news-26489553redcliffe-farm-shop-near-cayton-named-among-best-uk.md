@@ -13,6 +13,22 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Cayton
+- Diddly Squat
+- Scarborough
+- UK Redcliffe Farm Shop
+- York
+- Yorkshire
+people:
+- Tess Annan
+organisations:
+- Diddly Squat Farm Shop
+- Google
+- Instagram
+- Redcliffe Farm Shop
+- Tripadvisor
+- Welligogs
 ---
 
 ## 'Perfect' farm shop easy to reach from York named one of the best in the UK

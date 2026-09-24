@@ -11,6 +11,34 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- England
+- Lapworth
+- South Asia
+- UK
+- Warwick Crown Court
+- Warwickshire
+- West Midlands
+people:
+- Adolf Hitler
+- Alison Hurst
+- Anthony Potter
+- Frank Ferguson
+- Jamie Scott
+- Susan Guest
+- Thomas Webster
+organisations:
+- BBC Action Line
+- BBC News
+- BBC Wales
+- CPS
+- Counter Terrorism Policing
+- Crown Prosecution Service
+- HMRC
+- LGBTQ
+- Patriotic Alternative
+- Substack
+- Warwick Crown Court
 ---
 
 Thomas Webster was investigated by police after comments he made to an undercover journalist in a BBC programme

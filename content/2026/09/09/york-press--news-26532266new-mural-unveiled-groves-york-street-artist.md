@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Groves
+- Hebden Bridge of York
+- Huntington Road
+- Lowther Street
+- Spar
+people:
+- Dylan Connell
+- Tom Sledmore
+- Tracy Ostle
+organisations:
+- Bile Beans
+- Door
+- Groves Association
+- SledOne
+- The Press
+- York The Groves Association
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Dylan Connell)*

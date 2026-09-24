@@ -14,6 +14,22 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Crewe
+- Former York
+- Millfield Lane
+- Nether Poppleton
+- YORK
+- YOUR
+people: []
+organisations:
+- City of York Council
+- Hope Centre Church
+- Manor CE Academy
+- Public Notice Portal
+- RCCG Hope Centre Church
+- Redeemed Christian Church of God
+- Saville Group
 ---
 
 ### What is the Public Notice Portal?

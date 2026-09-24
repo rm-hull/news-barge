@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+- UK
+people:
+- Kevin Keegan
+organisations:
+- Asda Express
+- Co-op
+- Durham Cathedral
+- Morrisons
+- St James’ Park
+- Tesco
+- Waitrose
 ---
 
 *(Image: Asda)*

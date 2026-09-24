@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Albania
+- Australia
+- Canada
+- Canberra
+- Finland
+- Germany
+- Iceland
+- Liechtenstein
+- Moldova
+- Montenegro
+- Norway
+- Ottawa
+- Switzerland
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States
+- Washington
+people:
+- Alexander Stubb
+- Don Farrell
+- Donald Trump
+- Friedrich Merz
+- Mark Carney
+- Steven Blockmans
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- BBC
+- CETA
+- EuroNews
+- European Commission
+- European Economic Area
+- European Parliament
+- European Political Community
+- European Union
+- Financial Times
+- International Centre for Defence and Security
+- Nato
+- State of the EU
+- The Independent
+- Wall Street Journal
 ---
 
 European Commission president Ursula von der Leyen has proposed Canada becoming the EU’s first associate member, just as relations between Ottawa and its historic ally in Washington deteriorate.

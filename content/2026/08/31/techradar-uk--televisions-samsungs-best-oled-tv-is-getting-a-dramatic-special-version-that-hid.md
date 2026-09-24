@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/PSY96ASEoKFkb6vGqz48NC-2048-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Berlin
+- US
+people:
+- Carrie Marshall
+organisations:
+- Canvas
+- FloatLayer Design
+- Google News
+- IFA Berlin
+- OLED
+- Samsung HiFi S99H
+- Unquiet Mind
 ---
 
 ![Samsung HiFi S99H on its stand in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/PSY96ASEoKFkb6vGqz48NC.png) 

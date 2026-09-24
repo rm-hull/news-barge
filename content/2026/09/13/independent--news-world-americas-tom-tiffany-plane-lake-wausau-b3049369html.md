@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Aspirus Wausau Hospital
+- Lake Wausau
+- U.S.
+- Wisconsin
+people:
+- Chris
+- Donald Trump
+- God
+- JD Vance
+- Tom Tiffany
+organisations:
+- 128th Air Refueling Wing
+- Wausau Downtown Airport
+- Wausau Fire Department
+- Wisconsin Air National Guard
 ---
 
 A Republican congressman had to swim to safety after a plane he was traveling in made an emergency landing in a lake late on Saturday night.

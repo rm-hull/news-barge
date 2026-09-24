@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Alabama
+- Florida
+- Idaho
+- Llano
+- Massachusetts
+- Nevada
+- New York
+- Sarasota
+- Sumter
+- Tennessee
+- Texas
+- US
+people:
+- Donald Trump
+- Kasey Meehan
+- Philomena Polefrone
+- Riley Gaines
+- Suzette Baker
+organisations:
+- American Library Association
+- Freedom to Read
+- Freedom to Read Project
+- Moms for Liberty
+- PEN America
 ---
 
 Public libraries in the US are “at breaking point” because of an onslaught of political interference, harassment and ideological censorship, a new report published on Tuesday said.

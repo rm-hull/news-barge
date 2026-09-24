@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Durham North Yorkshire
+- Darlington St John’s Church of England
+people: []
+organisations:
+- Abbey Infants’ School
+- Abbey Junior School
+- British Schools Guide
+- Church of England Academy
+- Corporation Road Community Primary School
+- Firthmoor Primary School
+- Harrowgate Hill Primary School
+- Heathfield Primary School
+- Heighington Church of England Primary School
+- Hurworth Primary School Darlington
+- Mount Pleasant Primary School
+- Mowden Infant School
+- Mowden Junior School
+- Northwood Primary School
+- OFSTED
+- Polam Hall School
+- Reid Street Primary School
+- Rydal Academy
+- Springfield Academy
+- St George’s Church of England Academy
+- St John
+- West Park Academy
+- Whinfield Primary School
 ---
 
 If you are thinking of moving to Darlington with your family, one of the most important things to consider is schools.

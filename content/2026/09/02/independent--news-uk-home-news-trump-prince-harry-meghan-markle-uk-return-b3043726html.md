@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- UK
+- US
+- White House
+people:
+- Archie
+- Donald Trump
+- Harry
+- King Charles
+- Lilibet
+- Meghan
+organisations:
+- Duchess of Sussex
+- Sussexes
 ---
 
 Donald Trump has said he was “happy” to hear the news that Harry and Meghan have departed the US to return to the UK, as he stated that he was "not a fan" of the couple.

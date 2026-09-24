@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Birmingham
+- Chapel Allerton
+- Eccleshill
+- Leeds
+- Midlands
+- Roundhay
+- Shipley
+- UK
+- West Yorkshire
+people:
+- Cos
+- Nigel Passey
+- Oh Nigel
+organisations:
+- MS
+- Space Kid Records
+- Space Kids Records
 ---
 
 *(Image: T&A)*

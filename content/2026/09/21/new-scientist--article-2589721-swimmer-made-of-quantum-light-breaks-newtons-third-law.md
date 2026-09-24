@@ -12,6 +12,17 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312724370.jpg
+locations:
+- China
+- Earth
+- France
+people:
+- Isaac Newton
+- Mathias Albert
+- Yi Hu
+organisations:
+- Côte d’Azur University
+- Nankai University
 ---
 
 ![Green laser on optical table in a quantum optics laboratory](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312724370.jpg?w=840)

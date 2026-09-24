@@ -13,6 +13,24 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/SRns88khhYT5vup2x7i5N8-2000-80.jpg
+locations:
+- Amazon
+people:
+- James Pickard
+organisations:
+- Amazon
+- Black Friday
+- Deep Pink
+- Eurogamer
+- PS5
+- Pulse Red
+- Razer
+- Shock Blue
+- Tampa Bay Buccaneers
+- TechRadar
+- Turtle Beach
+- Velocity Green
+- Xbox Wireless Controller
 ---
 
 ![Xbox Wireless Controller Velocity Green](https://cdn.mos.cms.futurecdn.net/SRns88khhYT5vup2x7i5N8.jpg)

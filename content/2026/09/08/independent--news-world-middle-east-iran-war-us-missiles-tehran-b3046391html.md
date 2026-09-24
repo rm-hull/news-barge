@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Abu Dhabi
+- Cairo
+- Gulf
+- Iran
+- Israel
+- Oman
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- Washington
+- White House
+people:
+- Anwar Gargash
+- Mohsen Rezaei
+- Nabil Fahmy
+- Qassem Basir
+organisations:
+- Arab League
+- Kpler
+- Qassem Basir
+- Supreme National Security Council
+- US Navy
 ---
 
 Iran has issued a fresh threat to the US over its newly upgraded ballistic missile, with officials warning that the nation "will take action against any threat, even before it is carried out."

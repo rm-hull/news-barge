@@ -12,6 +12,59 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Aden
+- America
+- Bab al-Mandab
+- Bahrain
+- Beijing
+- China
+- Egypt
+- Germany
+- Hormuz
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Marib
+- Mecca
+- Medina
+- Muscat
+- Oman
+- Pakistan
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Turkey
+- US
+- United Arab Emirates
+- Yanbu
+- Yemen
+people:
+- Abbas Araghchi
+- Abdul Wahid abu Ras
+- Adm Brad Cooper
+- Barak Ravid
+- Donald Trump
+- Houthi
+- JD Vance
+- Maj Gen
+- Mohammed abdul Salam
+- Mohammed al-Farah
+- Nabeel Khoury
+- Shehbaz Sharif
+- Turki al-Maliki
+- Wang Yi
+organisations:
+- Aramco
+- Axios
+- Hamas
+- Hezbollah
+- Houthis
+- Organisation of Islamic Cooperation
+- UN
+- US Central Command
 ---
 
 Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside Yemen.

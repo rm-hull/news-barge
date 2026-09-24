@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- East Yorkshire
+- Marton Manor Farm
+- Sewerby
+- UK
+people:
+- Noble
+- Will Waind
+organisations:
+- AgriSound
+- Happy Egg
+- Noble Foods
 ---
 
 # Acoustic trial to help improve health and welfare of chickens

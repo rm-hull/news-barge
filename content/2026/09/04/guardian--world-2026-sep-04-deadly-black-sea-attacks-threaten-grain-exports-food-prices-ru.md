@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- Black Sea
+- Bosphorus
+- Caspian
+- Chornomorsk
+- Egypt
+- Gulf of Aden
+- Hormuz
+- Iran
+- Istanbul
+- Kerch
+- Middle East
+- Novorossiysk
+- Odesa
+- Pacific
+- Red Sea
+- Russia
+- Sea of Azov
+- Turkey
+- US
+- Ukraine
+people:
+- Tatiana Orlova
+organisations:
+- International Maritime Organization
+- Kyiv
+- Oxford Economics
+- Türkiye Denizciler Sendikası
+- UN
+- Vanguard
 ---
 
 A summer of hostilities in the Black Sea proved deadly for seafarers, as Russia and Ukraine attacked each other’s ships and port infrastructure, preventing vital grain exports and prompting concerns that the conflict will push global food prices even higher.

@@ -12,6 +12,62 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Canada
+- Europe
+- Great Britain
+- Montreal
+- Paris
+people:
+- :** Aalia Clay
+- Abi Miller
+- Adam Yates
+- Alice Towers
+- Anna Henderson
+- Anna Morris
+- Awen Roberts
+- Ben Wiggins
+- Callum Thornley
+- Dexter Townsend
+- Elliot Rowe
+- Ethan Hayter
+- Evander Wishart
+- Finlay Pickering
+- Finlay Storrie
+- Flora Perkins
+- Fred Wright
+- Gabriella McHugh
+- Gus Dutton
+- Imogen Wolff
+- Jacob Bush
+- James Shaw
+- Junior Men:** Leon Atkins
+- Lauren Dickson
+- Mark Donovan
+- Mattie Dodd
+- Melanie Rowe
+- Morven Yeoman
+- Oscar Onley
+- Peggy Knox
+- Pfeiffer Georgi
+- Pinarello
+- Remco Evenepoel
+- Stephen Park
+- Tadej Pogacar
+- Tom Pidcock
+- U23 Men
+- U23 Women:** Cat Ferguson
+- Will Smith
+- Zoe Backstedt
+- Zoe Roche
+organisations:
+- BBC Sport
+- GB
+- Pidcock
+- TT
+- Under-23
+- Zoe Backstedt
 ---
 
 ![Tom Pidcock and Zoe Backstedt](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8335/live/8615c210-b093-11f1-bc1f-3f186ca4140c.png)

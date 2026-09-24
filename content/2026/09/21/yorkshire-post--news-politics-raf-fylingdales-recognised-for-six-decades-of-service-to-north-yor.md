@@ -13,6 +13,26 @@ categories:
 - York
 - History
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRhNTExYTJiLTkwNDItNDNmZi1hZWMxLTI0ZTU4OWViOWVmZTo1ZmJlNTU0MC04YmNjLTRlYTctYmY2YS0yYTg0ODJkNWE2NzY=.jpg?crop=3:2,smart&trim=&width=512&auto=webp&quality=75
+locations:
+- Freedom of the Town of Whitby
+- North York Moors
+- North Yorkshire
+- RAF Station
+- Scarborough
+- UK
+- United Kingdom
+people:
+- Alison Hume
+- Toby Steward
+organisations:
+- Corps of Royal Electrical and Mechanical Engineers
+- Freedom of the Town
+- RAF Fylingdales
+- REME
+- Royal Air Force
+- US Governments
+- Whitby Town Council
+- Wing
 ---
 
 # RAF Fylingdales recognised for six decades of service to North Yorkshire town

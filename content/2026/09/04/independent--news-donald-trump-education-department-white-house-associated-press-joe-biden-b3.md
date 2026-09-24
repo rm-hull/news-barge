@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Kansas City
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Donald Trump
+- Ivy Morgan
+- Joe Biden
+- Lauren Bouton
+- Obama
+- Seth Galanter
+organisations:
+- AP
+- Associated Press
+- Civil Rights Data Collection
+- EdTrust
+- Edley Center on Law and Democracy
+- Education Department
+- Justice Department
+- LGBTQ
+- Office for Civil Rights
+- Trump
+- UCLA School of Law
+- Williams Institute
 ---
 
 The Trump administration this week quietly released an update to a major survey on civil rights in schools that was scrubbed of all data related to nonbinary students or bullying based on gender identity.

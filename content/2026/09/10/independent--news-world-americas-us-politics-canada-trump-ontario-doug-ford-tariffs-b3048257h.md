@@ -11,6 +11,28 @@ image: https://static.independent.co.uk/2026/09/10/20/25/GettyImages-2251897034.
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Iran
+- Lake America
+- Lake Ontario
+- U.S.
+- Ukraine
+- United States
+- Washington
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Rob Ford
+- Ronald Reagan
+organisations:
+- Congress
+- Ford
+- House
+- Senate
+- The Associated Press
+- Trump
 ---
 
 Ontario Premier Doug Ford said Thursday he hopes U.S. President Donald Trump’s Republicans lose both the House and Senate in the midterm elections, arguing voters should penalize the president for his escalating trade conflict with Canada.

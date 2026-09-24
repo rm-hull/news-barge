@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/13/AI_Safety_US_China_What_to_Know_69918.jpg?width=1200&height=800&crop=1200:800
+locations:
+- AI
+- America
+- China
+- France
+- Iran
+- Silicon Valley
+- US
+people:
+- AI
+- Ben Horowitz
+- Bostrum
+- Dario Amodeis
+- Donald J. Trump
+- Donald Trump
+- Nick Bostrom
+- Sam Altman
+- Sam Altmans
+organisations:
+- AGI
+- Andreeson Horowitz
+- Anthropic
+- ChatGPT
+- Elon Musks
+- G7
+- Gemini
+- Google
+- Grok
+- King’s College London
+- London School of Economics
+- Meta
+- New York Times
+- Nvidia
+- Open AI
+- OpenAI
+- Oxford University
+- Palantir
+- Reddit
+- Stockholm University
+- Super Intelligence
+- Superintelligence
+- Truth Social
+- UN
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

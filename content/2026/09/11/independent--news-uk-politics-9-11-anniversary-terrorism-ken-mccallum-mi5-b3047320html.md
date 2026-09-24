@@ -15,6 +15,36 @@ categories:
 - History
 - Arts & Culture
 - Society & Culture
+locations:
+- Britain
+- China
+- Manhattan
+- New York
+- Pakistan
+- Russia
+- States
+- Twin Towers
+- U.S.
+- UK
+- US
+- West
+- White House
+people:
+- Alex Younger
+- Fiona Hill
+- James Woolsey
+- Jonathan Brady
+- Ken McCallum
+organisations:
+- Al-Qaeda
+- CIA
+- COBR
+- MI5 I
+- MI6
+- Pentagon
+- The Independent
+- World Trade Center
+- World Trade Center Tower
 ---
 
 The head of MI5 has issued a dramatic nationwide “call to arms”, warning that Britain faces greater and more complex terror threats than it did in 2001.

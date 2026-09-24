@@ -10,6 +10,35 @@ image: https://cdn.mos.cms.futurecdn.net/HV7U6uzSWNjHRNVUYzTXXY-1798-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- Hollywood
+- Hulu
+- India
+- New Zealand
+- SGT
+- Singapore
+- The Shards.
+- UK
+- US
+people:
+- Debbie Schaffer
+- Hayes Warner
+- Igby Rigney
+- Kaia Gerber
+- Lucy Buglass
+- Rhonda!”:**
+- Robert
+- Susan Reynolds
+organisations:
+- Disney
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- TechRadar
+- The Shards
+- The Simpsons
 ---
 
 ![Hayes Warner as Debbie Schaffer and Kaia Gerber as Susan Reynolds in The Shards.](https://cdn.mos.cms.futurecdn.net/HV7U6uzSWNjHRNVUYzTXXY.png) 

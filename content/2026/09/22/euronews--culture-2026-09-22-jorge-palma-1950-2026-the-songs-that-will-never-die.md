@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Music
 image: https://images.euronews.com/articles/stories/09/92/32/72/1200x675_cmsv2_bd85f911-0efb-5344-af1d-b02da94f3651-9923272.jpg
+locations:
+- Batalha Monastery
+- Beja
+- Brussels
+- Paris
+- Portugal
+- Saint-Michel
+people:
+- '## Fernando Vendrell'
+- '## Gabriel Gomes'
+- '## Luiz Carvalho'
+- '## Tiago Cação'
+- '***Na Terra dos Sonhos***'
+- Ana Margarida de Carvalho
+- António Zambujo
+- Durrell
+- Fernando Vendrell
+- Gabriel Gomes
+- Graça Lamy
+- Herman José
+- Jorge Palma
+- Jorge Palma**
+- Pedro Osório
+- Ricardo Figueira
+- Sétima Legião
+organisations:
+- Alexandria Quartet
+- Euronews
+- Madredeus
+- Queen Fabiola
 ---
 
 ## On Tuesday, Portugal woke in mourning: singer-songwriter Jorge Palma died at 76 after cardiac arrest. His songs remain. Euronews asked Herman José and António Zambujo to name their favourite.

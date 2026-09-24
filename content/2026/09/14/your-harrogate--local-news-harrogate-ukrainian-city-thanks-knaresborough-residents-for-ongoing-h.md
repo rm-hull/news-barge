@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Knaresborough
+- Ukraine
+- Volyn
+people:
+- Bob Frendt
+- Igor Palionka
+- Maureen Swann
+organisations:
+- Volodymyr City Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa79966b416249dec9.jpg) 

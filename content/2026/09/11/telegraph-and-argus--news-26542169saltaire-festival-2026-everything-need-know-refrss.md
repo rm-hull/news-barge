@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Caroline Street
+- Roberts Park
+- Roberts park
+- Saltaire
+people:
+- Ian Andrews Swailes
+- Jurata Reed
+- Maxime Marquette
+- Simeon Walker
+organisations:
+- '##'
+- Continental Street Market
+- Jurata Reed
+- Main Stage
+- Piano Village
+- Saltaire Festival
+- UNESCO World Heritage
 ---
 
 *(Image: Saltaire Festival Comms)*

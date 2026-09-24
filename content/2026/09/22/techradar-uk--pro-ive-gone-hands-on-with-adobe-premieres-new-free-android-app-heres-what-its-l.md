@@ -12,6 +12,19 @@ categories:
 - Creator Economy & Marketing
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/LWpVTx3QZYqZEawZ8MYUBN-1920-80.png
+locations:
+- Fairphone
+- Oxford
+people:
+- Steve Clark
+organisations:
+- Adobe Firefly
+- Adobe Premiere
+- Apple
+- Google News
+- Google Play Store
+- Steve
+- TechRadar Pro
 ---
 
 ![Using Adobe Premiere on Android to edit videos, with a blurred version of the app for background color](https://cdn.mos.cms.futurecdn.net/LWpVTx3QZYqZEawZ8MYUBN.png)

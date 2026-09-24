@@ -12,6 +12,18 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/20285390.jpg?type=og-image
+locations:
+- North Yorkshire
+- York
+people:
+- David Skaith
+- Michael Hjort
+organisations:
+- High Street Fund
+- Mayoral Challenge Fund
+- Vibrant and Sustainable High Streets Fund
+- York Food Festival
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Supplied)*

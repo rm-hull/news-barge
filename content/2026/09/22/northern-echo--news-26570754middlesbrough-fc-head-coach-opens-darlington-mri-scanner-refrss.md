@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21485525.jpg?type=og-image&xType=0&yType=231
+locations:
+- County Durham NHS
+- Darlington
+- Woodlands Hospital
+people:
+- Adam Reed
+- Debbie Dobbs
+- Kim Hellberg
+- SARAH CALDECOTT
+organisations:
+- '![]()MRI Unit'
+- Circle Health Group
+- Ian Gray Imaging Manager
+- Kim Hellberg Middlesbrough FC
+- MRI Unit
+- Middlesbrough FC
+- Middlesbrough Football Club
+- Woodlands Hospital
 ---
 
 Middlesbrough FC head coach Kim Hellberg has officially opened a new MRI scanner at Woodlands Hospital in Darlington.

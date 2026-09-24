@@ -14,6 +14,40 @@ categories:
 - UK
 - Technology & Software
 - Video Gaming
+locations:
+- Beijing
+- Britain
+- Brussels
+- China
+- Europe
+- France
+- Germany
+- Hefei
+- Italy
+- Moosburg
+- Munich
+- Saxony-Anhalt
+- U.S.
+people:
+- AntOn
+- Arno Antlitz
+- Brad Setser
+- Friedrich Merz
+- Jungheinrich
+- Nadine Despineaux
+- Sander Tordoir
+organisations:
+- Alternative for Germany
+- BMW
+- Bosch
+- Council on Foreign Relations
+- EP Equipment
+- EU
+- European Commission
+- Jungheinrich AG
+- Ministry of Commerce
+- So-Called Excess Capacity Issue
+- Volkswagen
 ---
 
 The heart of the German economy is making and exporting the big-ticket, complex goods that make global business run: everything from cars and locomotives to factory machinery, aircraft and construction equipment.

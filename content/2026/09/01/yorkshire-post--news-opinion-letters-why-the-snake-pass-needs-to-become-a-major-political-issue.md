@@ -13,6 +13,26 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Atlantic
+- Barnsley
+- Derbyshire
+- Gordon Lawrence
+- Hermer Chagos Island
+- Manchester
+- North-West
+- Sheffield
+- South Yorkshire
+- UK
+people:
+- Column
+- Jayne Dowle
+- Ms Dowle
+organisations:
+- A57
+- Sheffield’s
+- Starmer
+- Yorkshire Post Letters
 ---
 
 # Why the Snake Pass needs to become a major political issue - Yorkshire Post Letters

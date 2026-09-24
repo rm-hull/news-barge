@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- United States
+- Venice
+people:
+- AI
+- Dakota Johnson
+- Emily Maitlis
+- George Clooney
+- Graham Barlow
+- Maggie Gyllenhaal
+- Marilyn Monroe
+- Obama
+- Putin
+organisations:
+- AI
+- AIs
+- BBC One Breakfast
+- BBC TV
+- CAA
+- CCA
+- Computeractive
+- Finch & Partners
+- Finch & Partners and Creative Artists Agency
+- Finch &amp; Partners &amp
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- TechRadar
+- The Future of Creativity
+- iMore
 ---
 
 ![George Clooney at The Future of Creativity hosted by Finch & Partners and CAA in Venice.](https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f.jpg) 

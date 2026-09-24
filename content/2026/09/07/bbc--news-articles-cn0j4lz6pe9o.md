@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Belfast
+- Canada
+- County Mayo
+- Dalkeith
+- Edinburgh Stagg
+- France
+- Ireland
+- Normandy
+- Sherlock
+- UK
+- US
+people:
+- '![Ted'
+- Andrew Scott
+- Anthony Maras
+- Bernard "Monty" Montgomery
+- Brendan Fraser
+- D-Day
+- Damian Lewis
+- David Haig
+- David Sillito
+- Dwight D Eisenhower
+- General Eisenhower
+- James Stagg
+- Jim Moriarty
+- Martin Young
+- Maureen Sweeney
+- Steven Spielberg
+- Ted
+- Tom Hanks
+- Vanya
+organisations:
+- Allied
+- BBC Culture
+- British Army
+- Fleabag
+- Golden Globe
+- HMS Belfast
+- Meteorology] Office
+- TV
 ---
 
 ![Andrew Scott in a wartime shirt with a small moustache and clipped, short hair - he is on the phone on the set of the film, looking tense](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg)

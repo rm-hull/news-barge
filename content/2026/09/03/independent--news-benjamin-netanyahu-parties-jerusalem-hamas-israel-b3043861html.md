@@ -12,6 +12,22 @@ image: null
 categories:
 - News & Politics
 - UK
+locations:
+- Gaza
+- Iran
+- Israel
+- Lebanon
+people:
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Itamar Ben-Gvir
+organisations:
+- Ben-Gvir
+- Cabinet
+- Channel 14
+- Hamas
+- Jewish Power —
+- Likud
 ---
 
 As Israeli Prime Minister Benjamin Netanyahu seeks reelection, his main concern these days isn’t his political rivals. It’s some of his biggest supporters.

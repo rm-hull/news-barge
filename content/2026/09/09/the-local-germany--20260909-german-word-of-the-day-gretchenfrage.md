@@ -13,6 +13,19 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- AI
+- Berlin
+- Germany
+people:
+- Faust
+- Goethe
+- Gretchen
+- Gretchenfrage*?**
+- Kandidaten der Gretchenfrage
+- Margarete*(Margaret
+- du es mit dem Klimaschutz
+organisations: []
 ---
 
 Germany has a knack for producing almost untranslatable words that manage to capture an entire situation in a single expression.

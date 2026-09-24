@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations: []
+people:
+- '## Sue'
+- Alzheimer
+- Baroness Casey
+- Jim
+- Keith
+- Michael Fathon
+- Michael Fethon
+- Michelle Dyson CB
+- Sue Andrews
+organisations:
+- Alzheimer's Society
+- Department of Health and Social Care
 ---
 
 ![A picture of a father and son. The younger man wears a pale grey shirt and the older man wears a navy shirt with his arms crossed. Both look relaxed and happy.](https://ichef.bbci.co.uk/ace/standard/768/cpsprodpb/4cf8/live/ca44b320-a615-11f1-9a0e-e95c171695e2.jpg)

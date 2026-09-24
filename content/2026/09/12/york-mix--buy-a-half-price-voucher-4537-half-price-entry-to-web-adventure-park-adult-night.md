@@ -12,6 +12,10 @@ categories:
 - Local
 - York
 - Travel
+locations: []
+people: []
+organisations:
+- Foam Party
 ---
 
 Saturday 12th September 2026

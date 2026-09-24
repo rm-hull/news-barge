@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- Dublin
+- France
+- UK
+people:
+- Laurent Nuñez
+- Shabana Mahmood
+organisations:
+- EU
+- Home Office
 ---
 
 The government’s “one in, one out” deal is costing about £56,000 for every person sent back to France, Shabana Mahmood has told MPs.

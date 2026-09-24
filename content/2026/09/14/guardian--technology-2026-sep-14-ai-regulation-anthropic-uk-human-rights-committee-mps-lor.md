@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- China
+- Downing Street
+- Europe
+- UK
+- US
+people:
+- Alex Sobel
+- Andy Burnham
+- Dario Amodei
+- Donald Trump
+- Duff Gordon
+- Sam Altman
+- Tom Duff Gordon
+organisations:
+- AI Security Institute
+- AISI
+- ASI
+- Anthropic
+- ChatGPT
+- Elon Musk
+- Google DeepMind
+- Labour
+- Lords
+- OpenAI
+- Politico
 ---
 
 OpenAI has urged British lawmakers to capitalise on renewed fears over AI safety and impose legislation reining in the technology.

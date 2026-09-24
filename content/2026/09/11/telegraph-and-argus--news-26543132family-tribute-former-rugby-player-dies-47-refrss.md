@@ -12,6 +12,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Born
+- York Crematorium
+people:
+- '## Keighley'
+- Kris Kirk
+organisations:
+- Keighley Cougars
+- Motor Neurone Disease Association
 ---
 
 *(Image: T&A)*

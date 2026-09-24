@@ -14,6 +14,31 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Dublin
+- Los Angeles
+people:
+- Adam Clayton
+- Aerosmith
+- Berry Gordy
+- Bob Dylan
+- Bono
+- Bruce Springsteen
+- Dolly Parton
+- Fleetwood Mac
+- Grateful Dead
+- Jon Bon Jovi
+- Larry Mullen Jr.
+- Mariah Carey
+- MusiCares
+- Smokey Robinson
+organisations:
+- Los Angeles Convention Center
+- MusiCares
+- No. 1
+- Peacock Theater
+- The Edge
+- U2
 ---
 
 MusiCares will honor Irish band U2 as its Persons of the Year at a February gala kicking off Grammy Awards weekend.

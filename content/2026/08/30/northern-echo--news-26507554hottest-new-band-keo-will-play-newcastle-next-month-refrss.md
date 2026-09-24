@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Newcastle
+- North East
+- UK
+people:
+- Holly Humberstone
+- LIAM RUSSELL
+- Sam Fender
+organisations:
+- Chase And Status
+- KEO
+- LIAM RUSSELL
+- Newcastle
+- Reflex
 ---
 
 *(Image: LIAM RUSSELL)*

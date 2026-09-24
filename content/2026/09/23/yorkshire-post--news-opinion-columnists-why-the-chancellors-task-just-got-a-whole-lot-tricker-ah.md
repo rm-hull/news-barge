@@ -16,6 +16,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA4ZmE5ZGY1LTQxMjAtNDIxZS04MGY2LWUzMTJkMjliY2M4YjowYWVkOGU5ZC1hMDJhLTQ5MzEtODNmNi1iMDc5NWIxMGJlZTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Wales
+people:
+- Andy Burnham
+- John Healey
+organisations:
+- Betty Laura Zapata
+- Government
+- Labour
+- Universal Credit
 ---
 
 # Why the Chancellor’s task just got a whole lot tricker ahead of the Autumn Budget

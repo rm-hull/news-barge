@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Argentina
+- Sweden
+people:
+- '## Arsenal'
+- '**6Alysson'
+- 4Kai Havertz
+- 5Aaron Wan-Bissaka
+- 6Alejandro Garnacho
+- 6Bruno Guimaraes
+- 6Bukayo Saka
+- 6Emi Buendia
+- 6Ezri Konsa
+- 6Gabriel Magalhaes
+- 6George Hemmings:** Villa
+- 6Ian Maatsen
+- 6John McGinn
+- 6Martin Zubimend
+- 6Pau Torres
+- 6SubsEberechi Eze
+- 6Victor Lindelof
+- 7Martin Odegaard
+- 7Merino
+- 7Nicolas Jackson
+- 7Riccardo Calafiori
+- 7Ross Barkley
+- 8Declan Rice
+- Assured
+- Bizot
+- Bogarde
+- Bukayo Saka
+- Christos Tzolis
+- David Raya
+- Gabriel
+- Hemmings
+- Hincapie
+- Kamara
+- Kepa
+- Lewis-Skelly
+- Lynch
+- Madueke
+- Matteo Ruggeri
+- Mosquera
+- Ollie Watkins
+- Tammy Abraham
+- Tzolis:**
+- Zion Suzuki
+organisations:
+- Arsenal
+- Aston Villa
+- BBC Sport
+- Everton
+- Gunners
+- Ipswich
+- Parma
 ---
 
 ![Bukayo Saka](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0470/live/0bf322c0-a57b-11f1-9648-5fefd339ae88.jpg)

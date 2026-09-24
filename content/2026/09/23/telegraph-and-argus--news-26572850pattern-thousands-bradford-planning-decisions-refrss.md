@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/17881775.jpg?type=og-image
+locations:
+- Bradford
+- YOUR
+people:
+- Mark Broome
+- PlanningLens
+organisations:
+- Bradford
+- PlanningLens
+- Public Notice Portal
 ---
 
 *(Image: Pixabay)*

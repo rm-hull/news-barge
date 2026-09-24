@@ -13,6 +13,90 @@ categories:
 - News & Politics
 - Travel
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3YWVlZGVjLWQyNjAtNDU5Yy04MjQyLTAxOTQzMDQxZDU0NzowY2RlNWM2OC1mZTk4LTQ4YzctYWUyNy03MjFhZmI5MzA2NWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bishop Monkton Village Hall
+- Brafferton
+- Brazil
+- Cheltenham Mount
+- Frazer Theatre
+- Harrogate
+- Kirkby Malzeard
+- Knaresborough
+- RC Church Parish Hall
+- Ripon Cathedral
+- Royal Hall
+- Sharow
+- St Andrew’s Church
+- St John’s Church
+- St Peter’s Church
+- St. Joseph
+- Wesley Centre
+- Wetherby
+people:
+- Amy Winehouse
+- Bernstein
+- Bob Dylan
+- David Almond
+- David Broad
+- David Coulthard
+- Gershwin
+- Harp
+- Lee Mead
+- Lucinda Taylor
+- Lucine Musaelian
+- Martin Rosoe
+- Michael Morpurgo
+- Mika Häkkinen
+- Nathan Giorgetti
+- Paul Merton
+- Phil Collins
+- Rachmaninov
+- Rob Kingsley
+- Sorry
+- Suki Webster
+- Thomas James Butler
+- Tina Turner
+organisations:
+- Badapple Theatre
+- Blues Bar
+- Carnival Band
+- Danny Bryant Band
+- Drop Leg Steppers
+- FRSA
+- Formula One
+- Frazer Theatre
+- Garageland
+- Georgette & Iain
+- Grewelthorpe Village Hall
+- Halfhand Hoodoo
+- Harrogate Convention Centre
+- Harrogate Film Society
+- Harrogate Theatre
+- Haydn St. Nicholas Mass
+- Improv Show
+- Improvised Musical
+- Intesa
+- Land Girls
+- Mambo Jambo
+- Max & Veronica
+- Missa Sancti Nicolai
+- North Stainley Village Hall
+- Odeon
+- Phantoms
+- Piano Harrogate
+- RedHouse Gallery
+- Ripley Live
+- Ripley Town Hall
+- Ripon Library
+- Royal Hall
+- Spofforth Village Hall
+- St Cecilia Orchestra
+- The Band
+- The Secret Agent
+- Village Hall
+- Vinyl Sessions
+- Vocalis
+- West End
 ---
 
 # What's On in the Harrogate district in September and October 2026

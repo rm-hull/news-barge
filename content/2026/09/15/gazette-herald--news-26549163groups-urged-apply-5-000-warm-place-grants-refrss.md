@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- York
+people:
+- Katie Lomas
+organisations:
+- City of York Council
+- Warm Place Fund
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Halifax
+people:
+- Ahmed Nadim
+- Madasar Hussain
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

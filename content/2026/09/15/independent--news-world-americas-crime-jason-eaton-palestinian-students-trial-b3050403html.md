@@ -12,6 +12,25 @@ image: https://static.the-independent.com/2026/09/15/11/download.-1.?trim=0,3,0,
 categories:
 - News & Politics
 - UK
+locations:
+- Burlington
+- Chittenden County
+- Ramallah
+- U.S.
+- Vermont
+people:
+- God
+- Hisham Awartani
+- Jason Eaton
+- Joshua O’Hara
+- Kinnan Abdalhamid
+- Mossad
+- Sally Adams
+- Tahseen Aliahmad
+organisations:
+- CIA
+- NPR
+- University of Vermont
 ---
 
 A quiet college town became the backdrop for horror when an afternoon walk ended in bloodshed, leaving three childhood friends permanently altered and launching a high-stakes legal battle over mind, motive, and murder.

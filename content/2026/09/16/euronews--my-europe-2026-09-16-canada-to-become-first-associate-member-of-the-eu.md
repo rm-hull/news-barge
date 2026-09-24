@@ -14,6 +14,37 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brussels
+- Canada
+- Europe
+- Montreal
+- Norway
+- Oslo
+- Ottawa
+- Strasbourg
+- Switzerland
+- UK
+- US
+- Ukraine
+- United Kingdom
+people:
+- Friedrich Merz
+- Mark Carney
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- Alliance for the Future
+- Brexit
+- CETA
+- EU
+- Euronews
+- European Commission
+- European Council
+- European Parliament
+- European Union
+- Horizon Europe
+- State of the Union
 ---
 
 ## The status announced by von der Leyen during the State of the Union is an entirely new one, with details yet to be made clear. The European Commission’s President also proposed a new alliance with Ottawa covering tech, critical raw materials, energy and defence.

@@ -11,6 +11,24 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Church Fenton Lane
+- Dunkirk
+- Leeds
+- Methodist
+- North Yorkshire
+- Renton & Parr
+- Scarborough
+- Selby
+- Selby'**
+- Tadcaster
+- Ulleskelf
+- York
+people: []
+organisations:
+- A64
+- Methodist Church
+- Renton & Parr
 ---
 
 ## Former Methodist church in North Yorkshire village goes to market at £179,995

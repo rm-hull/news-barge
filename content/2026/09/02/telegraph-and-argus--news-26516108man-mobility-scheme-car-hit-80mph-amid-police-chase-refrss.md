@@ -14,6 +14,26 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- Cemetery Road
+- Halifax Road
+- Netherlands Avenue
+- Sutton
+- West Yorkshire
+- Woodvale Close
+people:
+- '## Man'
+- Ahmed Nadim
+- Aiden Wood-Manders
+- Kathryn Pitters
+- Seat Arona
+- Tom Harris
+- Wood-Manders’
+organisations:
+- Bradford Crown Court
+- PAVA
+- Seat
 ---
 
 *(Image: West Yorkshire Police)*

@@ -14,6 +14,17 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/18597600.jpg?type=og-image
+locations:
+- London
+- UK
+people:
+- Florence Jackson
+- Martin Lewis
+- Peter Rabbit
+organisations:
+- Blue Peter
+- Royal Mint
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

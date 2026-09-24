@@ -11,6 +11,15 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Cheslyn Hay
+- Staffordshire
+- Strawberry Lane
+people:
+- Cheslyn Hay
+- Robert Duncan
+organisations:
+- Staffordshire Police
 ---
 
 ![A midlands air ambulance which is red and has a yellow nose, tail and roof. it is parked in a field of brown grass](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/36e5/live/dbaae380-a955-11f1-adf0-6d46cbf5ba37.jpg)

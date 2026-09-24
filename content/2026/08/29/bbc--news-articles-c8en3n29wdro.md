@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Family & Parenting
 - Science
+locations:
+- Europe
+- France
+- Paris
+people:
+- Arthur Kermalvezen
+- Audrey
+- David
+- Lavinia
+- Matthew
+- Michelle Osbourne
+- Peter
+- Philippe
+- Sophie
+organisations:
+- 23andMe
+- DNA Pass
+- MyHeritage
 ---
 
 ![A close-up photograph shows a man and a woman - both with brown hair - posing together outdoors and looking toward the camera. The man wears a white hat. The backdrop is a city street with a building façade, outdoor seating and an orange scooter visible in the background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/85fe/live/2e95f2d0-8438-11f1-9435-a164a693a39f.png)

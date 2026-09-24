@@ -14,6 +14,43 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Birmingham
+- Bradford Live
+- England
+- FanZone
+- Odeon
+people:
+- Alan Carr
+- Bill Bailey
+- Darren Moore
+- Jimmy Carr
+- Scrooge!
+organisations:
+- BRADFORD Live
+- Beatles
+- Bradford Council
+- Bradford Live
+- Bradford’s Big Bash
+- Cirque Extravaganza
+- City of Culture
+- England
+- Gabrielle, Bassline Symphony
+- Gaumont Theatre
+- Gorillaz
+- ICO
+- Jools Holland
+- Kaiser Chiefs
+- La Voix Live
+- NEC Group
+- Newsquest
+- Ocean Colour Scene
+- Rolling Stones
+- T&A
+- Telegraph & Argus
+- The Prat Pack
+- Trafalgar Entertainment
+- UK City of Culture
 ---
 
 *(Image: Newsquest)*

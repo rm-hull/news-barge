@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- North America
+- PA
+- UK
+people:
+- Dave Thompson
+- PB Balaji
+organisations:
+- JLR
+- Jaguar Land Rover
 ---
 
 *(Image: Dave Thompson/PA)*

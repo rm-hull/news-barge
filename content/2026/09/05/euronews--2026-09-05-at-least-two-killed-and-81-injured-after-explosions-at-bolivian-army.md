@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Bolivia
+- Bolívar” General Maintenance Center
+- La Paz
+- Viacha
+people:
+- Ernesto Justiniano
+- Rodrigo Paz
+organisations: []
 ---
 
 ## The Bolivian Defence Minister said the first explosion "involved black powder from pyrotechnic material stored at the site," while the second, "much larger" blast was still being investigated.

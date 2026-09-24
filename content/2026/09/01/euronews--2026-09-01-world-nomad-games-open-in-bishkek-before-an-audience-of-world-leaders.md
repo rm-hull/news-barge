@@ -15,6 +15,44 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- Algeria
+- Australia
+- Bashkortostan
+- Bishkek Arena
+- Burundi
+- Cabo Verde
+- Central Asia
+- China
+- Côte d'Ivoire
+- Egypt
+- Ethiopia
+- Gambia
+- India
+- Jordan
+- Kazakhstan
+- Kyrgyzstan
+- Mongolia
+- New Zealand
+- North Macedonia
+- Oman
+- Russia
+- Tajikistan
+- Tatarstan
+- Turkmenistan
+- Tuva
+- UK
+- Uganda
+- Uzbekistan
+people:
+- Narendra Modi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Nomad Games'
+- SCO
+- Shanghai Cooperation Organisation
+- United Nations
 ---
 
 ## A spectacular performance at the Bishkek Arena opened the sixth edition of the World Nomad Games. This is the biggest competition yet, with more than 100 national teams from every continent. Athletes will compete in 43 disciplines rooted in Asia's ancient nomadic culture.

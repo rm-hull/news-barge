@@ -12,6 +12,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Calverley
+- Farsley
+- West Yorkshire
+people:
+- Peter Carlill
+- Tracy Brabin
+organisations:
+- Civic Hall
+- Leeds City Council
+- Leeds Labour
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Leeds City Council)*

@@ -12,6 +12,59 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bab-el-Mandeb
+- Britain
+- Calshot
+- Delhi
+- East-West
+- India
+- Iran
+- Iraq
+- Mecca
+- Middle East
+- Oman
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Southampton
+- Strait of Hormuz
+- U.S.
+- UK
+- US House
+- Yanbu
+- Yemen
+people:
+- Donald Trump
+- Faisal bin Farhan Al Saud
+- Hazem al-Assad
+- Randhir Jaiswal
+- S Jaishankar
+- Seth Moulton
+- Turki al-Malki
+- Yokoo Akihiko
+organisations:
+- Chosen Brick
+- Congress
+- Constitution
+- Defense and State departments
+- El Gaia
+- GCHQ
+- General Secretariat
+- Houthis
+- IRGC
+- Islamic Revolutionary Guard Corps
+- Mecca The Organisation of Islamic Cooperation
+- Mitsubishi UFJ Bank
+- National Cyber Security Centre
+- OIC
+- Pentagon
+- Reuters
+- SABA
+- U.S. Agency for International Development
+- US Central Command
+- US House
+- US West Texas Intermediate
 ---
 
 Saudi Arabia's air defences destroyed a Houthi drone south of Mecca before it entered prohibited airspace over the holy city, a spokesperson for the Saudi-led military coalition in Yemen said on Wednesday.

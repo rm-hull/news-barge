@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Calgary
+- California
+- Canada
+- Destin-Fort Walton Beach
+- Florida
+- Golden State
+- Graceland
+- Lake America
+- Lake Ontario
+- Las Vegas
+- Mexico
+- New Jersey
+- New York
+- Panhandle
+- Portland
+- San Diego
+- Seattle
+- U.S.
+- United States
+- Vancouver
+- White House
+people:
+- Deborah Friedland
+- Donald Trump
+- Eileen March
+- Jennifer Adams
+- Josh Loewen
+- Mark Carney
+- Steve Hill
+organisations:
+- Brand USA
+- Canada Connect
+- Eisner Advisory Group
+- Las Vegas Convention and Visitors Authority
+- NY Loves Canada
+- Statistics Canada
+- Tourism Economics
+- Trump
+- U.S. National Travel and Tourism Office
+- Visit California
+- Visit Florida
 ---
 
 Appeals from American tourism organizations seemed to be everywhere Josh Loewen looked over the last year. Billboards and banners proclaimed a state or city's love for Canada. Online and social media ads offered special deals for travelers from north of the border.

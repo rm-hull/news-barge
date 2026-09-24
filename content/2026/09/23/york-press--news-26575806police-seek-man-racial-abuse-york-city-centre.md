@@ -12,6 +12,14 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21492856.jpg?type=og-image
+locations:
+- Bishopthorpe Road
+- North Yorkshire
+- York
+people: []
+organisations:
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

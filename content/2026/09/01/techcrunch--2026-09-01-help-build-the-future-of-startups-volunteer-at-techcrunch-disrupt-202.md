@@ -13,6 +13,10 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Moscone West
+people: []
+organisations: []
 ---
 
 Every breakthrough company starts somewhere. Every founder who changed the world had a moment where they found their people, discovered their next co-founder, or got the advice that shifted everything.

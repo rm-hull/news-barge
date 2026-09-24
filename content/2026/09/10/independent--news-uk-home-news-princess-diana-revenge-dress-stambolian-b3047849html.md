@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Geneva
+- Hong Kong
+- London
+- New York
+- Princess of Wales
+- Sotheby’s
+people:
+- Anna Harvey
+- Camilla Parker-Bowles
+- Campbell Addy
+- Charles
+- Christina Stambolian
+- Christina Stamboulian
+- Diana
+- Morgane Halimi
+- Odette
+- Odile
+- Sotheby
+organisations:
+- NHS Lothian Charity
+- Prince of Wales
+- Princess of Wales
+- Royal Edinburgh Hospital
+- Serpentine Gallery
+- Sotheby’s
 ---
 
 The famous “revenge dress” that wowed the nation when worn by the late Diana, Princess of Wales, is going up for auction.

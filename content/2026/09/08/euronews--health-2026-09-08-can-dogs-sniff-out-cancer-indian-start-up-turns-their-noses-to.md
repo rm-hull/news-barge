@@ -12,6 +12,16 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Bengaluru
+- India
+- New York Hospital
+people:
+- Dognosis
+- Santhosh Kumar Devadas
+organisations:
+- '### Company'
+- Dognosis
 ---
 
 ## A start-up in India is combining dogs' highly sensitive sense of smell with artificial intelligence to explore a new approach to cancer screening.

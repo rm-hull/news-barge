@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - History
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8LU6J2__v1__MidRes__ChancellorFriedrichMerzAndTheConvervativeCduPart.jpg@webp
+locations:
+- Berlin
+- Germany
+- Mecklenburg-Western Pomerania
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Die Linke
+- Merz
+organisations:
+- ARD
+- AfD
+- Alternative for Germany
+- CDU
+- CSU
+- Die Linke
+- NATO
+- SPD
+- UN General Assembly
+- ZDF
 ---
 
 The far-right Alternative for Germany (AfD) scored 37-38 percent in the northeastern state of Mecklenburg-Western Pomerania against 35.5-36.5 percent for the centre-left SPD, according to exit polls by public broadcasters ARD and ZDF.

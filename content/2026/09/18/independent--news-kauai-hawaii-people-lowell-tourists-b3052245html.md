@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Hawaii
+- Kakalia
+- Kauai County
+- Lahaina
+- Lala
+- Lowell
+- Maui
+- Wailua
+people:
+- Cadena Ragsdale
+- Derek Kawakami
+- Donald Trump
+- Josh Green
+- Kauai
+- Kelly Kakalia
+- Kristal Scott
+- Lowell
+organisations:
+- AP
+- Kakalia
+- Kauai Fresh Fish
+- Kauai Juice Co.
+- Lilly Endowment Inc
+- Musubi Truck
+- Small Business Administration
+- The Conversation US
+- The Musubi Truck
+- Tropical Storm Moke
 ---
 
 Watching her staff happily hand out free meals for hundreds of residents outside their Wailua commercial kitchen, food truck co-owner Kelly Kakalia felt fulfilled.

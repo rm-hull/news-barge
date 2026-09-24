@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0008/live/2a3caf
 categories:
 - UK
 - News & Politics
+locations:
+- London
+- UK
+- US
+- United States
+- Vauxhall
+people: []
+organisations:
+- BBC
+- Home Office
+- Metropolitan Police
 ---
 
 ![A building that looks like a silver metal cube with crystal style metal decoration covering it entirely. A US flag can be seen flying on a pole to its left.](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/0008/live/2a3caf10-af5f-11f1-8b54-ef4b26bcf610.jpg)

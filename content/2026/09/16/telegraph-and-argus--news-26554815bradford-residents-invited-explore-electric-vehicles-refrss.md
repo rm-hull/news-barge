@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Centenary Square
+- City Hall
+people:
+- John Walton
+organisations:
+- BRADFORD Council
+- Bradford Council
+- Cenex
+- Energy Saving Trust
+- LNER Bradford Beryl
+- Northern PowerGrid
+- Office of Zero Emission Vehicles
+- West Yorkshire Combined Authority
 ---
 
 *(Image: PA - John Walton)*

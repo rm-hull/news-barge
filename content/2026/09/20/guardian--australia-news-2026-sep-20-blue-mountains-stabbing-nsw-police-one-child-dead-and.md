@@ -14,6 +14,16 @@ categories:
 - Society & Culture
 - True Crime
 image: https://i.guim.co.uk/img/media/5d5c55abc04c8baa1a4df361336ba73b12310025/0_156_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a951e026d876a44be3c7010943e13e58
+locations:
+- Blue Mountains
+- New South Wales
+- Valley Heights
+- Waratah Road
+people:
+- John Nelson
+organisations:
+- Blue Mountains Police Area Command
+- NSW Ambulance
 ---
 
 A child has died in a stabbing attack in the Blue Mountains, with two other children and a woman in hospital in critical condition, New South Wales police say.

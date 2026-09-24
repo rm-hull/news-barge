@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/2677ceb1cc927a808c0dc8d48d9d324e226ec454/332_0_3305_2645/master/3305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b754e20abffb67ed543d53e00107825
+locations:
+- Asia
+- Chiba
+- Dujuan
+- Edogawa
+- Europe
+- Japan
+- Kanagawa
+- North America
+- Oshima
+- Tokyo
+- Yokosuka
+people:
+- Dujuan
+organisations:
+- All Nippon Airways
+- Dujuan
+- Fire and Disaster Management Agency
+- Japan Airlines
+- NHK
 ---
 
 Typhoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said on Tuesday.

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- James Street
+- York
+people:
+- Padel
+organisations:
+- City of York Council
+- LTA
+- Lawn Tennis Association
+- Northminster Developments Ltd
 ---
 
 The transformation of a York building has been given the go ahead.

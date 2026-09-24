@@ -10,6 +10,23 @@ description: Organic, not silicon
 image: https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Christian Cawley
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- Google News
+- Intel Foundry Services
+- Linux Format
+- Matter Alpha
+- PCB
+- Qualcomm
+- Samsung Electro-Mechanics
+- TSMC
+- TechRadar Pro
+- TheElec
 ---
 
 ![A TSMC Silicon Wafer](https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY.jpg) 

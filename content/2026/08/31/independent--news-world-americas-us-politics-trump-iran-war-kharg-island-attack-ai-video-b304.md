@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- Iraq
+- Jordan
+- Kharg Island
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- U.S.
+- USA
+- White House
+people:
+- Donald Trump
+- George W. Bush
+- Hamid Bovard
+- Pete Hegseth
+- Richard Nixon
+organisations:
+- Air Force
+- CNN
+- Defense Department
+- FAKE NEWS
+- Failed Nation
+- Fox News
+- National Iranian Oil Co
+- Navy
+- Treasury Department
+- Trump
+- Truth Social
 ---
 
 The Defense Department was forced on Monday to deny the U.S. had struck Iran’s main petroleum export facility after President Donald Trump posted a fake but very realistic AI-generated video showing a purported attack by American forces.

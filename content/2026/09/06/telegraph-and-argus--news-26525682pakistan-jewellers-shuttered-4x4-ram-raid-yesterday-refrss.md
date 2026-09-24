@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Duckworth Lane
+- Pakistan Jewellers
+people: []
+organisations:
+- Newsquest
+- Newsquest)* Police
+- Pakistan Jewellers
+- T&A
 ---
 
 A jewellers is shuttered and boarded up following a ram raid.

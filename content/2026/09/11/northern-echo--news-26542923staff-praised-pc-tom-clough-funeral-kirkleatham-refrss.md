@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Cleveland
+- Kirkleatham Walled Garden
+- Plantation Road
+- Redcar
+people:
+- Alec Brown
+- Anna Turley
+- Cllr Brown
+- Matthew Blades
+- PC Clough
+- STUART BOULTON
+- Tom Clough
+organisations:
+- A66
+- British Transport Police
+- Civil Nuclear Constabulary
+- Cleveland Council
+- Cleveland Police
+- Co-op Funeralcare
+- Facebook
+- Kirkleatham Walled Garden Café
+- Redcar
+- STUART BOULTON
 ---
 
 As thousands gathered to bid a final farewell to PC Tom Clough, those behind the scenes at Kirkleatham Walled Garden have been praised for helping transform the historic venue into a fitting place of remembrance.

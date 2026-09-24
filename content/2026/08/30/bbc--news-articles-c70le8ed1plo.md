@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Greenland
+- Iceland
+- Reykjavik
+- Russia
+- Schengen
+- US
+- Ukraine
+people:
+- Donald Trump
+- Kristrun Frostadottir
+- Kristrún Frostadóttir
+organisations:
+- EU
+- European Union
+- Nato
+- RUV
 ---
 
 ![Iceland's Prime Minister Kristrun Frostadottir votes in the national referendum on resuming EU membership talks, at a polling station in Reykjavik](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg)

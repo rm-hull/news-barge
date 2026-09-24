@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- South Africa
+- US
+- United States
+people:
+- Cyril Ramaphosa
+- Donald Trump
+- Liesl
+- Pieter
+- Zach Kahler
+organisations:
+- Department of Homeland Security
+- FOIA
+- Facebook
+- Freedom of Information Act
+- Guardian
+- Letter
+- US Citizenship and Immigration Services
+- US Refugee Admissions Program
+- USCIS
+- WhatsApp
 ---
 
 When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.

@@ -11,6 +11,55 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b9e/live/53f1b2
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- California
+- England
+- Middlesbrough
+- Old Trafford
+- UK
+- Wales
+people:
+- '!["Burnham'
+- '!["Harry'
+- '![''Killers'
+- Andrew Bailey
+- Andrew Harper
+- Andrew Mountbatten-Windsor
+- Andy Burnham
+- Jeffrey Epstein
+- Man Utd
+- Matthew Blades
+- Virginia Giuffre
+organisations:
+- '!["Big Tech'
+- AI
+- Alphabet
+- Amazon
+- Bank of England
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Duke of Sussex
+- Financial Times
+- Financial Times.
+- G20
+- Guardian
+- Ipswich Town
+- Labour
+- Manchester United
+- Microsoft
+- NHS
+- Nvidia
+- PC Blades
+- Post Office IT
+- The Daily Mirror
+- The Daily Telegraph
+- The Sun
+- The Times
+- i Paper
 ---
 
 ![The headline on the front page of the Times reads: "Early release blocked for manslaughter prisoners".](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/34c3/live/5c1ee670-a4b9-11f1-aed2-8d6da8d75094.jpg)

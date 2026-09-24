@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Afghanistan
+- Kabul
+- Rwanda
+- U.S.
+people:
+- Gates
+- Haven Ley
+- Louise Richardson
+- Mati Amin
+- Shabana Basij-Rasikh
+organisations:
+- AP
+- Andrew Carnegie Foundation
+- Basij-Rasikh
+- Lilly Endowment Inc
+- Melinda French Gates'
+- Pivotal Ventures
+- SOLA
+- SOLAx
+- School of Leadership of Afghanistan
+- The Conversation US
+- United Nations
+- University of Oxford
+- WhatsApp
 ---
 
 Shabana Basij-Rasikh smiles as she points to the sign in the middle of campus: School of Leadership of Afghanistan, SOLA, a home in Rwanda.

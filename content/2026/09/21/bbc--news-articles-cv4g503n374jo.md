@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58f2/live/69fc01e0-b0d2-11f1-a2b7-314e849a6e43.jpg
+locations:
+- Downing Street
+- Greater Manchester
+- London
+- Manchester Central Convention Centre
+- Manchester Central.
+- Miami
+- New York
+- UK
+- US
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+- Garry Bridges
+organisations:
+- African Union
+- BBC
+- European Union
+- G20
+- Manchester Central
+- Manchester City Council
+- Manchester Evening News
 ---
 
 ![The exterior of Manchester Central. It has a steel arch and is draped with a banner from the Conservative party conference, which reads 'build back better' and 'getting on with the job'.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/58f2/live/69fc01e0-b0d2-11f1-a2b7-314e849a6e43.jpg)

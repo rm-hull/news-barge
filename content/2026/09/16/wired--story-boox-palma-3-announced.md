@@ -11,6 +11,17 @@ image: https://media.wired.com/photos/6aa9f685b3f96f495795630f/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Palma
+people:
+- Boox
+organisations:
+- Apple
+- Mini C
+- New Generation Boox
+- Note Air6 C
+- Palma
+- WIRED
 ---
 
 It's that time of year: The weather's finally starting to cool off, Halloween decor has taken over most of the stores, and tech companies are dropping their fall launches. Last week was Apple's annual September iPhone event, and last night another tech launch hit the books, though this one's a little more niche. (Though I'd still say folding smartphones are in their early days.)

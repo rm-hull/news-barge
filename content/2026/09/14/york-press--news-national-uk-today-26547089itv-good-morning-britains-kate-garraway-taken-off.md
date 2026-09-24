@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Glasgow
+- London
+people:
+- Alan Carr
+- Aled Jones
+- Amanda Holden
+- Barry White
+- Charlotte Church
+- David Olusoga
+- Ed Balls
+- Faye Barker
+- Jonathan Swain
+- Kate Garraway
+- Laura Tobin
+- Ms Reid
+- Paloma Faith
+- Susanna Reid
+organisations:
+- GMB
+- Good Morning Britain
+- ITN
+- ITV
 ---
 
 *(Image: PA)*

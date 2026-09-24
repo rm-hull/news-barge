@@ -14,6 +14,23 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21476649.jpg?type=og-image
+locations: []
+people:
+- Anton Du Beke
+- Bruce Forsyth
+- Claudia Winkleman
+- Craig Revel Horwood
+- Emma I
+- Emma Willis
+- Johannes Radebe
+- Josh Widdicombe
+- Motsi Mabuse
+- Ray Burmiston
+- Rylan
+- Shirley Ballas
+- Tess Daly
+organisations:
+- BBC Creative
 ---
 
 *(Image: BBC/Ray Burmiston/BBC Creative)*

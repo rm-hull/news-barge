@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21475453.jpg?type=og-image&xType=0&yType=513
+locations:
+- Cleadon
+- County Durham
+- North East
+- Oktoberfest
+- Sunderland
+people:
+- Jasmine Hall
+- Leighanne Johnson
+organisations:
+- Brinkhoff
+- Darlington Market
+- The Stables
 ---
 
 A tiny village pub with nearly 300 years of history is gearing up for its first Oktoberfest in Sunderland.

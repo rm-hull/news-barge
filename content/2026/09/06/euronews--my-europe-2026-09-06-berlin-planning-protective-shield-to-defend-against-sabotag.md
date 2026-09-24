@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Bonn
+- Germany
+- Halle Airport
+- Hamburg
+- Leipzig
+- Moscow
+- Munich
+- Russia
+- Ukraine
+people:
+- Alexander Dobrindt
+- Johann Wadephul
+- Sergey Nechayev
+- Ursula von der Leyen
+organisations:
+- Bild
+- European Commission
+- European Union
+- Interior Ministry
 ---
 
 ## The new plan would see the creation of a "Cyberdome," a network of digital sensors that would help seek out and intercept hacking attempts, Bild reported.

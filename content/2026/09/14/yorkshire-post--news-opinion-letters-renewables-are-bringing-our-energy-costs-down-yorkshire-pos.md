@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Durham
+- Langley Park
+- Nicholas Knox
+- PA
+- Strait of Hormuz
+- UK
+people:
+- Owen Humphreys
+- Peter Auty
+organisations:
+- BP
+- Shell
+- Yorkshire Post Letters
 ---
 
 # Renewables are bringing our energy costs down - Yorkshire Post Letters

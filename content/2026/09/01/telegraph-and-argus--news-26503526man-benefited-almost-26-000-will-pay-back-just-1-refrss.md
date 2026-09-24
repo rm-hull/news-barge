@@ -15,6 +15,36 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Athol Gardens
+- Calderdale
+- Clay Pits Lane
+- Essex Street
+- HMP Humber
+- Halifax
+- Houghton Towers
+- King Cross
+- Norfolk Place
+- Pellon
+- Queen’s Road
+- Unity Terrace
+people:
+- Amaan Ifraz
+- Billy
+- Colin Burn
+- Josef Pihik
+- Michael Kilner
+- Rashid
+- Rebecca Henderson
+- Safraz Riaz
+- Scott Shaw
+- Uzain Mohammed
+- Zaeem Tufeeque
+organisations:
+- Bradford Crown Court
+- Rolex
+- Volkswagen
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

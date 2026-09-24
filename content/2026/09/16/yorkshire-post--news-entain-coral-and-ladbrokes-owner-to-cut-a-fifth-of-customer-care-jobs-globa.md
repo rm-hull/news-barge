@@ -15,6 +15,27 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Brazil
+- Bulgaria
+- Gibraltar
+- India
+- Ireland
+- Philippines
+- Portugal
+- Spain
+- UK
+- Uruguay
+people:
+- Andy Burnham
+- Jeff J Mitchell
+- Stella David
+organisations:
+- '## Ladbrokes'
+- Coral and Ladbrokes
+- Entain
+- Sportingbet
 ---
 
 # Entain: Coral and Ladbrokes owner to cut a fifth of customer care jobs globally

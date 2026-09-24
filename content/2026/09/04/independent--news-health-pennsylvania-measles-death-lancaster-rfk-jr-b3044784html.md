@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Lancaster County
+- Pennsylvania
+- Philadelphia
+- U.S.
+- United States
+- Washington, D.C.
+people:
+- Erica Schwartz
+- Paul Offit
+- Robert F. Kennedy Jr.
+- Stephen Diamantoni
+organisations:
+- CDC
+- HHS
+- Health and Human Services
+- Pennsylvania Department of Health
+- Pennsylvania Health Department
+- Reuters
+- The Independent
+- WGAL
+- WHTM
 ---
 
 A Pennsylvania coroner has confirmed a second child measles death in the state.

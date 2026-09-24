@@ -12,6 +12,27 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Egypt
+- U.S.
+- Wernicke
+- Zepbound
+people:
+- Karthik Achari
+- Manar Kadhem
+- Wernicke
+organisations:
+- Cleveland Clinic
+- Eli Lilly
+- FDA
+- Fox News Digital
+- Gallup
+- Independent
+- Mansoura University
+- Novo Nordisk
+- U.S. Food and Drug Administration
+- Vitamin B1
+- Wernicke
 ---
 
 A rare, serious brain condition has been identified in a small number of people taking GLP-1 weight loss and diabetes drugs, a new study revealed.

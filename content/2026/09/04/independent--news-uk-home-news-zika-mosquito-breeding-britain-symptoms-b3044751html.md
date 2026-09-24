@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Chikungunya
+- Europe
+- France
+- Italy
+- London
+- Mosquito Scotland
+- Shetland
+- UK
+people:
+- David Weetman
+- Heather Ferguson
+- Steven White
+organisations:
+- Infectious Disease Ecology
+- Liverpool of Tropical Medicine
+- NHS
+- Population Ecology
+- Reader in Vector Biology
+- UK Centre for Ecology & Hydrology
+- UK Health Security Agency
+- UKCEH
+- UKHSA
+- University of Glasgow
 ---
 
 An invasive species of mosquito known to transmit diseases such as dengue and Zika virus has been discovered breeding in the UK.

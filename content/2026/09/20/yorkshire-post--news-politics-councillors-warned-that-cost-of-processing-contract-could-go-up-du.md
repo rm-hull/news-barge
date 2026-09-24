@@ -15,6 +15,24 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkxZDViNzQwLTY0NWQtNGMyMi05MWE0LTE5NmY2YzQyMDY1ODozM2E3NmJmOS0wNWU5LTQ5ZDMtODc4Zi0wMzAzMzAzNzQ2N2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Cleveland
+- Dormanstown
+- Redcar
+- South Bank
+people:
+- Alec Brown
+- Barry Hunt
+- Brotton
+- Ceri Cawley
+- Jemma Joy
+- Philip Shaw
+- Philip Thomson
+- Sue Jeffrey
+organisations:
+- Cleveland Council
+- Redcar
+- Saltburn
 ---
 
 # Councillors warned that cost of processing contract could go up due to recycling contamination

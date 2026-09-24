@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Outdoors & Nature
+locations:
+- County Durham
+- Holywell Pond
+- Juliet’s Wood
+- Kielder
+- Northumberland
+- Northumberlandia
+- Slaley
+- Weetslade
+people:
+- Fiona Dryden
+- Frances Smiles
+- Geoff Dobbins
+- Nigel Green
+- Whitelee
+organisations:
+- Devastated County Durham
+- Land Trust
+- Northumberland Wildlife Trust
+- Northumberland Wildlife Trust Community Events Coordinator
+- Whittle Dene
 ---
 
 *(Image: Fiona Dryden)*

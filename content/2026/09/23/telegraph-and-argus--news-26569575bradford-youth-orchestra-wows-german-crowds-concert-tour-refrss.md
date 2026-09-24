@@ -13,6 +13,19 @@ categories:
 - Music
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483823.jpg?type=og-image
+locations:
+- Bradford Cathedral
+- Germany
+- Harz Mountains
+- Shipley
+people:
+- Sally Birch
+organisations:
+- Bradford Council
+- Bradford Council’s Music & Arts Service
+- Bradford Music & Arts Service
+- Bradford Youth Orchestra
+- Titus Salt School
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,18 @@ categories:
 - Germany
 - News & Politics
 - Health & Fitness
+locations:
+- Berlin
+- Germany
+people:
+- Sophia Wilk-Vollmann
+- Thomas Bruggmann
+organisations:
+- Bundesärztekammer
+- DGPRÄC
+- DGÄPC
+- German Medical Association
+- VDÄPC
 ---
 
 Germany's booming cosmetic-injections market has also created opportunities for illegal providers. In recent months, courts in Berlin have dealt with multiple cases involving beauticians who allegedly injected Botox and hyaluronic-acid fillers despite lacking the necessary legal authorisation.

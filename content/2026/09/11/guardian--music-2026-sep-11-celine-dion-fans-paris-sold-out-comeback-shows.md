@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Europe
+- France
+- Galeries Lafayette
+- Hôtel de Ville
+- La Défense
+- Montréal
+- New York
+- North America
+- Paris
+- Quebec
+people:
+- '![Dion'
+- Alexandra
+- Beyoncé
+- Celine Dion
+- Céline Dion
+- Emmanuel Grégoire
+- Irene Taylor
+- Taylor Swift
+organisations:
+- Céline Dion
 ---
 
 More than 30,000 Céline Dion fans have gathered in Paris for the Canadian singer’s long-awaited return to performing on Saturday night, four years after she revealed her diagnosis of stiff person syndrome, a rare neurological condition.

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Callerton
+- Darlington
+- Hartlepool
+- Newcastle Airport
+- North East
+- Peterlee
+- UK
+people:
+- Emma Hardy
+- Mark Rumble
+organisations:
+- Circular Economy and Waste Crime
+- EA
+- Environment Agency
 ---
 
 *(Image: ENVIRONMENT AGENCY)*

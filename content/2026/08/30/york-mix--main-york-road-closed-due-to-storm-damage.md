@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Fishergate
+- Paragon Street
+- Piccadilly
+- Tarmac
+- Tower Street
+- York
+people: []
+organisations:
+- City of York Council
 ---
 
 A main road in York is closed after being damaged during the storm this evening (Sunday).

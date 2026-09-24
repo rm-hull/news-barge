@@ -11,6 +11,33 @@ image: https://i.guim.co.uk/img/media/a8cd351277cff5701058900b7fd425d7ef6802d1/5
 categories:
 - UK
 - News & Politics
+locations:
+- Africa
+- Asia
+- Caribbean Sea
+- Central America
+- China
+- Eritrea
+- Ethiopia
+- Europe
+- Hormuz
+- Indonesia
+- Iran
+- Israel
+- Lake Gatun
+- Mauritania
+- Pacific Ocean
+- Panama
+- Sahel
+- Sierra Leone
+- South America
+- Sudan
+- US
+people: []
+organisations:
+- Agence France-Presse
+- El Niño
+- Panama Canal Authority
 ---
 
 The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.

@@ -12,6 +12,14 @@ categories:
 - True Crime
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-racially-aggrevated-behaviour-bishopthorpe-road-16-august-2026.webp
+locations:
+- '#### Bishopthorpe Road'
+- Bishopthorpe Road
+- York
+people:
+- Michael Cooper
+organisations:
+- North Yorkshire Police
 ---
 
 Police have released this photograph as part of their investigation into racially aggravated behaviour in York.

@@ -14,6 +14,44 @@ categories:
 - Science
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Germany
+- Jersey
+- Lancashire
+- Northern Ireland
+- Scotland
+- Thornton-Cleveleys
+- UK
+- UK.
+- US
+- West Virginia
+people:
+- Andrew Molloy
+- Catrin Nye
+- David Megson
+- God
+- Mario Panteli
+- Sam
+- Sarah Moore
+- Steve Hajioff
+organisations:
+- '## Factory'
+- AGC Chemicals
+- BBC One
+- Chemours Co
+- DuPont
+- Environment Agency
+- Environment Agency and Wyre Council
+- ICI
+- Leigh Day
+- Manchester Metropolitan University
+- PFAS
+- PFOA
+- UK Health Security Agency
+- WHO
+- Watershed and Law for Change
+- World Health Organisation
+- Wyre Borough Council
 ---
 
 ![Sam, a resident of Thornton-Cleveleys, holds the blood test results printed on a white piece of paper. She is wearing a bright pink top.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg)

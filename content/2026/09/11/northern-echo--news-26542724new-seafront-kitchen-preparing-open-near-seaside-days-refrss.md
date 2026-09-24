@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Normanby
+- Saltburn Cliff Tramway
+- Saltburn House
+- The Poverina
+people:
+- Behnam Azadi
+- Ben
+- Kel Allen
+organisations:
+- Facebook
+- Saltburn
+- Seafront Kitchen
+- Whitby
 ---
 
 A new restaurant is preparing to open at one of Saltburn's best-known seafront locations later this month.

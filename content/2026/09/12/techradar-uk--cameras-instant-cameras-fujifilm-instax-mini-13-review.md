@@ -13,6 +13,21 @@ image: https://cdn.mos.cms.futurecdn.net/EWihn9KtgNWc9r4TXso7DR-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- UK
+- US
+people:
+- Amelia Schwanke
+- Clay White
+- Harry Styles
+organisations:
+- Candy Pink
+- Frost Blue
+- Fujifilm
+- Lagoon Green
+- Pastel Galaxy
+- TechRadar
 ---
 
 ### TechRadar Verdict

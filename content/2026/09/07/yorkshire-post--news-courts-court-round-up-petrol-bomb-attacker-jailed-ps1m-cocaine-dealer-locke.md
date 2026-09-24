@@ -16,6 +16,33 @@ categories:
 - York
 - Business & Entrepreneurship
 - True Crime
+locations:
+- Burniston
+- Filey
+- Greenfields Avenue
+- HMP Doncaster
+- Moorgate
+- Osgodby
+- Rotherham
+- Scarborough
+- Stockton
+- Swinton Road
+- Teesside Crown Court
+- Warwick Street
+- Yorkshire
+people:
+- Andrew Savage
+- Chris Byne
+- Emma Harris
+- Jamal Usman
+- Michaela Golding
+- Oliver Battye
+- Simon Hickey
+organisations:
+- CCTV
+- Rotherham CID
+- Sheffield Crown Court
+- York Crown Court
 ---
 
 # Court round-up: Petrol bomb attacker jailed, £1m cocaine dealer locked up and care home manager sentenced

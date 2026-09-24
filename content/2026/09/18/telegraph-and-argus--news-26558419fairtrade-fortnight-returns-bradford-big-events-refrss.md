@@ -12,6 +12,33 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Centenary Square
+- Christchurch
+- Fairtrade Fortnight
+- Fairtrade Town
+- Fairtrade Villages
+- Fairtrade Zone
+- Machu Picchu
+- The Grove
+- Towns
+people:
+- Chris Herd
+organisations:
+- BID
+- Bradford Cathedral
+- Bradford’s Climate Action Plan and Food Strategy
+- City Hall
+- Co-op
+- Darley Street Market
+- Discover Ilkley
+- Ilkley Business Improvement District
+- Ilkley Fairtrade Group
+- Mirror Pool
+- Oxfam
+- Stanbury Primary School
+- University of Bradford
 ---
 
 *(Image: Other)*

@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Canada
+- Morocco
+- Rabat
+- Vancouver
+people:
+- Gianni Infantino
+organisations:
+- 76th Congress
+- 77th FIFA Congress
+- FFE
+- FIFA Forward Enterprise
+- Infantino
+- UEFA
 ---
 
 ## The next FIFA presidential election is due to take place at the 77th FIFA Congress on Thursday, 18 March 2027 in Rabat, Morocco.

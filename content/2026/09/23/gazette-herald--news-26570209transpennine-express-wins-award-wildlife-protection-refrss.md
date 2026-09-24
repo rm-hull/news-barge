@@ -13,6 +13,17 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21484861.jpg?type=og-image
+locations:
+- London
+- North
+- TPE
+- Thirsk station
+- Yarm station
+people:
+- Paul Staples
+organisations:
+- TPE
+- TransPennine Express
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,18 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659943.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Canada
+- Europe
+- UK
+- US
+people:
+- Chanda Prescod-Weinstein
+- Stephen Hawking
+organisations:
+- Canongate Books
+- Errol Morris
+- New Scientist Book Club
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659943.jpg?w=840)

@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Taiwan
+- U.S.
+people:
+- Anton Shilov
+- Cliff Hou
+- Tom
+organisations:
+- AI
+- Bloomberg
+- FocusTaiwan
+- Google News
+- Semicon Taiwan
+- TSMC
+- Tom’s Hardware
 ---
 
 ![TSMC](https://cdn.mos.cms.futurecdn.net/dqa9GQXHrqhhgMVZAPVBNi.png) 

@@ -12,6 +12,23 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/r5JvB9W3LeYGnMXNeDZsBB-320-80.png
+locations:
+- Argentina
+- China
+- Iran
+- New York
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people:
+- Trump
+organisations:
+- Amazon
+- Anthropic
+- Microsoft
+- OpenAI
 ---
 
 ![the Nscale logo on glass surface](https://cdn.mos.cms.futurecdn.net/r5JvB9W3LeYGnMXNeDZsBB-320-80.png)

@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Anak Krakatau
+- Doha
+- Earth
+- Indonesia
+- Jakarta
+- Kuala Lumpur
+- Lava
+- Mount Anak Krakatau
+- Mount Krakatoa
+- New Zealand
+- Pacific
+- Singapore
+- Soekarno-Hatta Airport
+- South America
+- Sumatra
+- Sunda Strait
+- Sydney
+- Tangerang
+- West Java
+people:
+- Aldi Candra Prayogi
+- Anak Krakatau
+- Dudy Purwagandhi
+organisations:
+- Anak Krakatau
+- BMKG
+- Kompas
+- Pacific Ring of Fire
+- Soekarno-Hatta International Airport
 ---
 
 Watch: Lava fountain and ash cloud as Indonesia volcano erupts

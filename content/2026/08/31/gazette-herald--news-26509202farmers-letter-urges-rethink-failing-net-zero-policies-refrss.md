@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Science
+locations: []
+people:
+- Emma Sturdy Old Malton
+- Potter
+- Williams
+organisations: []
 ---
 
 *(Image: Getty Images)*

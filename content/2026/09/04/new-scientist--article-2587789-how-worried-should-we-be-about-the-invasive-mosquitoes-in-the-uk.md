@@ -12,6 +12,23 @@ categories:
 - Science
 - Technology & Software
 - News & Politics
+locations:
+- Europe
+- London
+- North Africa
+- Nottinghamshire
+- Paris
+- UK
+- West Nile
+people:
+- César López-Camacho
+- Jolyon Medlock
+organisations:
+- Mosquito Watch
+- Science Media Centre
+- UK Health Security Agency
+- UKHSA
+- University of Oxford
 ---
 
 ![An Aedes aegypti mosquito](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310691631.jpg?w=840)

@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Berkshire
+- England
+- Sulhamstead
+- Thames Valley
+- Wales
+people:
+- Albert Bowers
+- Albert Bowers.
+- Andrea Coomber
+- Andrew Harper
+- Andy Burnham
+- David Gauke
+- Debbie Adlam
+- Jason Hogg
+- Jessie Cole
+- Nick Timothy
+- Nicole Jacobs
+- Pia Sinha
+organisations:
+- BBC Breakfast
+- Howard League
+- Labour
+- Prison Reform Trust
 ---
 
 PC Andrew Harper’s killers will remain behind bars after a critical intervention by Andy Burnham, but the move has led to warnings that overcrowded prisons will be left “one major event away from disaster”.

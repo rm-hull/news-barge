@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Corner Grill House
+- UK
+- York
+- Yorkshire
+people: []
+organisations:
+- Prosecco
+- Yorkshire
 ---
 
 Fancy making Sunday lunch a little more special?

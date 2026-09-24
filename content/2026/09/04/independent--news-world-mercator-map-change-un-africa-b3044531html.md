@@ -13,6 +13,27 @@ categories:
 - UK
 - History
 - Business & Entrepreneurship
+locations:
+- Africa
+- Europe
+- Greenland
+- India
+- Latin America
+- Lomé
+- North America
+- Russia
+- Togo
+people:
+- Arno Peters
+- Robert Dussey
+organisations:
+- African Group
+- African Union
+- Gall-Peters
+- Google Maps
+- Mercator
+- UN
+- Unesco
 ---
 
 The UN general assembly is due to vote on a resolution calling for the world to move away from the traditional Mercator map, which shrinks the size of Africa and exaggerates northern landmasses, in favour of designs that more accurately reflect the true size of countries.

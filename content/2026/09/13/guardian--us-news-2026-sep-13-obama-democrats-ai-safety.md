@@ -11,6 +11,27 @@ image: https://i.guim.co.uk/img/media/5296e92325d59392639c0599e013a3f81eed9f1d/3
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- China
+- Manhattan
+- New York-Democrat
+- U.S.A.
+- US
+people:
+- Barack Obama
+- Hakeem Jeffries
+- Maga
+- Trump
+organisations:
+- AI
+- Congress
+- House
+- Hugging Face
+- NPR
+- New York Times
+- Reuters
+- TruthSocial
 ---
 
 Barack Obama urged Democrats to prioritize a “public conversation” about AI management and safety in a closed-door Manhattan fundraiser last week.

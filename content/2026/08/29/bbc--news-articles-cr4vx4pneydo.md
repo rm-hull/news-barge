@@ -11,6 +11,46 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0877/live/0f9407
 categories:
 - UK
 - News & Politics
+locations:
+- Ankara
+- Bab al-Mandab Strait
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Bander Beyla
+- Denmark
+- Gulf of Aden
+- Güllük
+- Horn of Africa
+- India
+- Iran
+- Iran.
+- Lutuf
+- Mogadishu
+- Puntland
+- Red Sea
+- Saudi Arabia
+- Somalia
+- Spain
+- Strait of Hormuz
+- Tehran
+- Turkey
+- US
+- Yemen
+people:
+- Abdirahman Yusuf
+- Bander Beyla
+- Ignacio Villanueva Serrano
+- Mohamed Gabobe
+- Omar Mahmood
+organisations:
+- BBC News Africa
+- BBC Somali Service
+- European Union
+- ICG
+- International Crisis Group
+- MT Sibu 1
+- MV Lutuf
+- Somali Service
 ---
 
 ![A man - with his back to the camera - stands on some rocks to the left of the picture. Holding a gun across his shoulders, he is looking out to sea where a tanker is in the far distance.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg)

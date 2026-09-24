@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Arvarto
+- Eastwood
+- Kegworth
+- Normanton
+- Nottingham Crown Court
+- Nottinghamshire
+people:
+- '** Valdo Calocane'
+- Barnaby Webber
+- Deborah Taylor KC
+- Feven
+- Grace O'Malley-Kumar
+- Ian Coates
+- James Berry KC
+- John Beggs KC
+- Rob Griffin
+- Tim Moloney KC
+- Valdo Calocane
+organisations:
+- BBC Nottingham
+- BBC Radio Nottingham
+- CPS
+- Calocane
+- Crown Prosecution Service
+- Leicestershire Police
+- Nottingham Inquiry
+- Nottinghamshire Police
+- VC
 ---
 
 ![A composite image of Barnaby Webber, Grace O'Malley-Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/522c/live/58c119d0-ac2a-11f1-9bd9-7b7da208bd5c.jpg)

@@ -13,6 +13,38 @@ categories:
 - Technology & Software
 - Film & TV
 - Arts & Culture
+locations:
+- Halstead
+- Virgin River
+people:
+- Bobby
+- Chris Eubank Jr.
+- Daniel Ings
+- Eddie
+- Freddy
+- George Cooper Sr.
+- Guy Ritchie
+- Hugh Bonneville
+- Jame
+- Joely Richardson
+- Kaya Scodelario
+- Lady Sabrina
+- Maya Jama
+- Ray Winstone
+- Stan
+- Susie
+- Theo James
+organisations:
+- Fuze
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Sky TV
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ### TechRadar Verdict

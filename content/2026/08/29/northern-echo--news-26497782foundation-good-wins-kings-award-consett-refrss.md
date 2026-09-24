@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Consett
+- County Durham
+- Darlington County Durham
+- Trafalgar Street
+- UK
+people:
+- Fraser Neill
+- Jessica White
+- Mike Butterwick
+organisations:
+- County Durham
+- Durham Freemasons’
+- Foundation For Good
+- Foundation For Good in Consett
+- SEO Story Previewer
+- The Wellbeing Café
 ---
 
 *(Image: Supplied)*

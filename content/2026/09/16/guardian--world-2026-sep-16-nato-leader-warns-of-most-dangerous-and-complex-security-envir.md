@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - History
 - Science
+locations:
+- Berlin
+- Britain
+- Ditchley Park
+- Europe
+- Germany
+- Iran
+- Middle East
+- Oxford
+- Oxfordshire
+- Russia
+- The Hague
+- UK
+- US
+- Ukraine
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Mark Rutte
+- Winston Churchill
+organisations:
+- Nato
+- Treasury
 ---
 
 Nato needs “more UK and more Europe in the alliance” to deal with the most dangerous security environment faced by the west in a generation, the secretary general of the 32-country military alliance said this afternoon on a visit to the UK.

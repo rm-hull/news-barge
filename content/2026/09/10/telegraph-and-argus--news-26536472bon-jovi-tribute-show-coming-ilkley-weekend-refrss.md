@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Ilkley
+- King's Hall
+people:
+- Bon Jovi
+- Jon Bon Jovi
+- Tony Pearce
+organisations:
+- Google Street View
 ---
 
 *(Image: Google Street View)*

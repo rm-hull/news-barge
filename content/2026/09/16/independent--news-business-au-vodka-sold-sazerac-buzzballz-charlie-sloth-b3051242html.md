@@ -11,6 +11,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- County Sligo
+- Hawk's Rock Distillery
+- Ireland
+- Kentucky
+- Swansea
+- UK
+- US
+people:
+- Charlie Morgan
+- Charlie Sloth
+- Jackson Quinn
+- Jake Wenz
+- Sazerac
+- Snoop Dogg
+organisations:
+- Au Vodka
+- Au Vodka.
+- Buffalo Trace Bourbon
+- Buffalo Trace Distillery
+- BuzzBallz
+- Metric Capital Partners LLP
+- Paul John Single Malt
+- Reuters
+- Sazerac
+- Southern Comfort
+- Swansea City
 ---
 
 A Swansea-based vodka brand, Au Vodka, has been bought by American drinks company Sazerac in a deal reportedly worth £300m.

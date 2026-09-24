@@ -14,6 +14,38 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Aberdeenshire
+- BrewDog
+- Brewdog
+- London
+- London.
+- Potterton
+- Tilray
+- UK
+- US
+- United States
+people:
+- James Watt
+- Martin Dickie
+- Tilray
+organisations:
+- AlixPartners
+- Alixpartners
+- BrewDog PLC
+- Brewdog Shoreditch
+- Brewdog's
+- Equity for Punks
+- HMRC
+- HSBC
+- Insolvency Service
+- Lord's Cricket Ground
+- Lords
+- Manchester University
+- Marylebone Cricket Club
+- TSG
+- Tilray
+- West Ham United FC
 ---
 
 ![People walk past a closed-down BrewDog bar in central London. The window of the pub has the word Brewdog written in large blue letters above its logo, featuring a white dog on a blue background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/fb5a/live/c4324ac0-170d-11f1-b048-c9424b2cf5fd.jpg)

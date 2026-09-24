@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- UK
+- Wortley
+people:
+- Cory Taylor
+- Dan Brook
+- Ellis Parker
+- Jake Sherburn
+- Paul Churchill
+- Tom Noble
+- Zac Russell
+organisations:
+- BFT
+- Building Futures Together
+- G&H
+- MEP
 ---
 
 *(Image: Supplied)*

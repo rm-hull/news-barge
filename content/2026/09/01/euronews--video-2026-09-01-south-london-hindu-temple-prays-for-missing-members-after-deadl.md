@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- London
+- Mount Kailash
+- Nepal
+- Tibet
+people:
+- Prajval Haldia
+organisations: []
 ---
 
 Members of a south London Hindu temple gathered for a prayer meeting as 16 members remain missing following a catastrophic flood in the border area between Nepal and Tibet.

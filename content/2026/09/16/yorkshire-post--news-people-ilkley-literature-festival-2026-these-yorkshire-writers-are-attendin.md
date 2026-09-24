@@ -14,6 +14,28 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Clarke Foley Centre
+- Ilkley Moor
+- King’s Hall
+- Marsden
+- North Yorkshire
+- Snowdonia
+people:
+- Alys Cummings
+- Emily Zobel Marshall
+- Joanne Harris
+- Kate Atkinson
+- Simon Armitage
+- Tom Hindle
+- Tom Weir
+organisations:
+- Ilkley Grammar School
+- King’s Hall
+- Leeds Beckett University
+- Postcolonial Literature
+- The Poetry Business
+- Yorkshire
 ---
 
 # Ilkley Literature Festival 2026: These Yorkshire writers are attending the event

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California.
+- Moscone Center
+- RUSSIA
+- San Francisco
+- US
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+- Evan Hubinger
+- Jack Clark
+- Jacob Coxon
+- Laura Kuenssberg
+- OpenAI Sam Altman
+- Sam Altman
+- Thomas Wolf
+organisations:
+- AI
+- Anthropic
+- BBC
+- ChatGPT-maker
+- Global Warming Scam
+- Hugging Face
+- OpenAI
+- Radical Left Dumocrats
 ---
 
 ![OpenAI CEO Sam Altman at the Moscone Center on 15 September, 2026 in San Francisco, California.](https://ichef.bbci.co.uk/ace/standard/823/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg)

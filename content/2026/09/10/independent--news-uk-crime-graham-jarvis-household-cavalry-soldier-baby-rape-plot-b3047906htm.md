@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Hyde Park
+- London
+- PA
+- Wales
+people:
+- Adam Hiddleston
+- Graham Jarvis
+- Lisa Wilson
+- Sean Dempsey
+organisations:
+- Household Cavalry
+- Open University
+- Southwark Crown Court
 ---
 
 A Household Cavalry soldier who plotted to rape a seven-year-old girl and a 10-month-old baby has been jailed for 12 years.

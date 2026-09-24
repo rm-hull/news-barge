@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- DL1
+- Darlington
+- Newcastle
+- Tyne Bridge
+- Tyneside
+people:
+- Adam Kennedy
+- Alex Mutiso
+- Andy Burnham
+- Ben Shephard
+- Brigid Kosgei
+- Catriona Johnston
+- Chris Kamara
+- Dan Burn
+- Helen Skelton
+- Joe McElderry
+- Melanie Woods
+- Melknat Wudu
+- Rita Cuccuru
+- Sheila Chepkirui
+- Yohei Ikeda
+- Zouhair Talbi
+organisations:
+- BBC
+- Changing Lives
+- Inside Amazon
+- Labour
+- McDonald's Movie
+- Newcastle
+- North News & Pictures Ltd
+- Red Arrows
 ---
 
 A sea of more than 63,000 runners took to the streets of Tyneside as the Great North Run returned for its milestone 45th anniversary.

@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- A York
+- Lendal House
+people:
+- Betsy Vaca
+- Sammy Clews
+organisations:
+- Google
+- Instagram
+- Vault Seven team
 ---
 
 A York city centre shop, known as a place where you can ‘dig up treasure’, is to close.

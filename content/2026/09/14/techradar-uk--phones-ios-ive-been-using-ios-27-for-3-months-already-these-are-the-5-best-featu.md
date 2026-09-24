@@ -11,6 +11,23 @@ description: From clever new photo tricks to the extended abilities of Siri AI, 
 image: https://cdn.mos.cms.futurecdn.net/hq8dB5952PqZEJMSkKHFp-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- ChatGPT
+- England
+- Spain
+- Stockport
+people:
+- Dave
+- David Nield
+- Siri AI
+organisations:
+- Apple
+- Gizmodo
+- Google News
+- Liquid Glass
+- PC Explorer
+- The AI
+- The Hardware Handbook
 ---
 
 ![iOS 27 installation](https://cdn.mos.cms.futurecdn.net/hq8dB5952PqZEJMSkKHFp.jpg) 

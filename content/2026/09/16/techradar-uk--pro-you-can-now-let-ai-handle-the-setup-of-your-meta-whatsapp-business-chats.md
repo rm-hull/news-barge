@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/q6xnz9NJyKA7z3WTRVAFwK-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude
+- Craig Hale
+- Zoë Lieberman
+organisations:
+- Craig’s
+- Google News
+- MCP
+- Meta AI
+- Meta Business Messaging
+- Meta Developer Console
+- TechRadar Pro
+- Terms of Service
+- WhatsApp Business
 ---
 
 ![The WhatsApp icon on an iPhone's display.](https://cdn.mos.cms.futurecdn.net/q6xnz9NJyKA7z3WTRVAFwK.jpg) 

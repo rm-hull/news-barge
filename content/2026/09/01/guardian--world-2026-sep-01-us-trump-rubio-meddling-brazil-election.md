@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Argentina
+- Brazil
+- Chile
+- China
+- Colombia
+- Costa Rica
+- Cuba
+- Latin America
+- Silicon Valley
+- São Paulo
+- US
+- Venezuela
+- Washington
+people:
+- Celso Rocha de Barros
+- Chico Rubens Paiva
+- Delcy Rodríguez
+- Donald Trump
+- Flávio Bolsonaro
+- Heloisa Starling
+- Jair Bolsonaro
+- James N Green
+- Javier Milei
+- João Goulart
+- Kennedy
+- Lilia Schwarcz
+- Luiz Inácio Lula da Silva
+- Marco Rubio
+- Nicolás Maduro
+- Rubens Paiva
+organisations:
+- Brazilian Institute for Democratic Action
+- Brown University
+- CIA
+- Department of State
+- First Command of the Capital –
+- Green
+- Red Command
+- Research and Social Studies Institute
+- Rio
+- Socialist
+- Trump
 ---
 
 The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing president, João Goulart, as a way of countering the supposed communist threat sweeping a region the US considered its back yard.

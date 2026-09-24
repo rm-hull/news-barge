@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Grant Fitzner
+- John Healey
+- Martin Sartorius
+- Thomas Pugh
+organisations:
+- Bank of England
+- Budget
+- CBI
+- CPIH
+- Confederation of British Industry
+- Cornwall Insight
+- Government
+- Monetary Policy Committee
+- ONS
+- Office for National Statistics
+- RSM UK
 ---
 
 The Government “will not take risks with people’s living standards” in the Budget next month, Prime Minister Andy Burnham said, after official figures showed another jump in inflation.

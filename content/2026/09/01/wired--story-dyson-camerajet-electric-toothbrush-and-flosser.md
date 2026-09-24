@@ -12,6 +12,18 @@ image: https://media.wired.com/photos/6a9163be72895b5a248bbc80/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- MyDyson
+- US
+people:
+- Dyson
+organisations:
+- American Dental Association
+- CameraJet
+- Dyson
+- Faculty of Dentistry
+- MyDyson
+- National University of Singapore
 ---
 
 Whenever Dyson enters a new product category, a ripple effect usually follows, with the buzz growing so loud that competitors are forced to react. The company did this with stick vacuums and premium hair dryers. Now it's aspiring to upend the oral care business.

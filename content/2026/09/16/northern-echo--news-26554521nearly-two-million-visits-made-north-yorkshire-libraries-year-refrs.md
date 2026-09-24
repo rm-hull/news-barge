@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+- North Yorkshire
+people:
+- Billy Connolly
+- Simon Myers
+organisations:
+- Household Support Fund
+- North Yorkshire Council
 ---
 
 Visits to North Yorkshire’s libraries have risen by six per cent in a year, with almost two million trips made to branches across the county.

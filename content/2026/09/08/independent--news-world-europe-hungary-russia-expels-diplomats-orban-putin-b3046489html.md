@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/04/14/10/2248237434.jpg?trim=0,0,0,
 categories:
 - News & Politics
 - UK
+locations:
+- Bled
+- Budapest
+- Hungary
+- Moscow
+- Russia
+- Slovenia
+people:
+- Anita Orbán
+- Peter Magyar
+- Tisza
+- Viktor Orbán
+- Vladimir Putin
+organisations:
+- Borut Zivulovic
+- European Union
+- Fidesz
+- Foreign Ministry
+- Interfax
+- REUTERS
+- RIA
+- Tisza
+- Vienna Convention
 ---
 
 The Russian Foreign Ministry said on Tuesday that it would retaliate against Hungary over Budapest's expulsion of 10 Russian diplomats, the state RIA news agency reported.

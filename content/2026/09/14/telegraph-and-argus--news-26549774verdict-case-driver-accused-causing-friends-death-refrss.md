@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Technology & Software
 - True Crime
+locations:
+- Beechwood Drive
+- Bolton Road
+- Bradford
+- Iqbal’s Seat
+- Leeds General Infirmary
+people:
+- Bilal Hussain
+- Gerald Hendron
+- Harris Butt
+- Husayn Ali
+- Kirstie Watson
+- Leon
+- Mohammed Awais Iqbal
+- Skoda Fabia
+- Wibsey
+organisations:
+- Bradford Crown Court
+- CCTV
+- CPR
+- Newsquest)* University
+- Skoda Fabia
 ---
 
 A speeding driver has been convicted of causing the death of his friend as a result of a crash whilst they were racing on a Bradford road.

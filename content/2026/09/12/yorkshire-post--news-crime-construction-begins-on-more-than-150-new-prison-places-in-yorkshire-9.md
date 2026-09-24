@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- HMP Kirklevington Grange
+- Kirklevington Grange
+- North East
+- Yarm
+- Yorkshire
+people:
+- Catherine McKinnell
+- Kelly Pearce
+organisations:
+- Cleveland Police and Crime Commissioner
+- Government
+- HMP Kirklevington Grange
+- RDC
+- Rapid Deployment Cells
+- Reds10
 ---
 
 # Construction begins on more than 150 new prison places in Yorkshire

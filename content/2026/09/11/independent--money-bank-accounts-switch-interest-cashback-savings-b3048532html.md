@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Covid
+- Scott Dixon
+organisations:
+- CASS
+- Current Account Switch Service
+- First Direct
+- HSBC
+- MoneySuperMarket
+- Monzo
+- NatWest
+- The Complaints Resolver
+- Uswitch
 ---
 
 Remaining with the high-street institution your parents used, or the provider that handed you a student loan for takeaway kebabs, could be needlessly costing you money.

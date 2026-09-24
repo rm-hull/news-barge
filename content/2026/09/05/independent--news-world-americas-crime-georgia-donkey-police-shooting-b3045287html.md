@@ -10,6 +10,25 @@ image: https://static.the-independent.com/2026/09/05/15/32/Screenshot-2026-09-05
 categories:
 - News & Politics
 - UK
+locations:
+- Cedartown
+- Georgia
+- Haralson County
+- Israel
+people:
+- Handler Thomasson
+- Hannah Israel
+- HeeHaw
+- Trenton Garner
+organisations:
+- CBS News
+- Elsberry Riding and Farm
+- Georgia Department of Agriculture Law Enforcement
+- HeeHaw
+- K-9
+- Rockmart Fire Department
+- Taser
+- The Rockmart
 ---
 
 A Georgia cop has revealed why he shot a family’s beloved pet donkey as his department released the officer’s report to quell outrage over the killing.

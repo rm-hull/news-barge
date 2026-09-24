@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/6Bw3oU4CfwZVwLEM5hfTLU-1920-80.jpg
+locations:
+- London
+- Virgin River
+people:
+- Aria
+- Arya
+- Dhruv
+- George Cooper Sr.
+- Kishan
+- Meera Syal
+- Rani Sarma
+- Sanjeev Bhaskar
+- Ursula
+organisations:
+- BBC iPlayer
+- Daily Mirror
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Ritu Arya
+- Stylist
+- TechRadar
+- The Kumars
+- Yahoo!
 ---
 
 ![The Kishan family sit cross-legged on the floor](https://cdn.mos.cms.futurecdn.net/6Bw3oU4CfwZVwLEM5hfTLU.jpg)

@@ -13,6 +13,47 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/Kn4e6sKiCVTrtR7Ztmy6QX-2000-80.jpg
+locations:
+- Avengers
+- KostisPat257
+- South Korea
+people:
+- Brewstew07
+- Bruce Banner
+- Casey
+- Doctor Doom
+- Hulk
+- Hulk-Doom
+- KostisPat257
+- Loki
+- Mobius
+- O.B.
+- Peggy Carter
+- Redditor
+- Steve (aka Captain America
+- Steve Rogers
+- Tom
+- Tony Stark
+organisations:
+- Captain America
+- Disney Plus
+- Endgame Encore
+- Eric Bana Hulk-Verse
+- Google News
+- Infinity Stones
+- MCU
+- Marvel Cinematic Universe
+- Marvel Studios
+- Mobius
+- Moon Knight TV
+- Netflix
+- Reddit
+- Star Wars
+- SukunaOnFN1
+- TVA
+- TechRadar
+- The New Avengers
+- Time Variance Authority
 ---
 
 ![Doctor Doom holding up his arms as he raises two Sentinels in Avengers: Doomsday](https://cdn.mos.cms.futurecdn.net/Kn4e6sKiCVTrtR7Ztmy6QX.jpg)

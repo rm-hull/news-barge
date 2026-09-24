@@ -10,6 +10,20 @@ description: Meta's new CXL design could cut cross-rack AI latency from microsec
 image: https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Myoungsoo Jung
+organisations:
+- CPU
+- CXL
+- Efosa
+- Google News
+- InfiniBand
+- Meta
+- NVIDIA
+- NVLink-C2C
+- Panmnesia
+- TechRadar Pro
 ---
 
 ![Meta and Panmnesia chip](https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV.png) 

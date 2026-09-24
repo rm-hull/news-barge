@@ -14,6 +14,24 @@ categories:
 - York
 - True Crime
 - Science
+locations:
+- Beechwood Road
+- Entwhistle Road
+- Greenwood Road
+- Griffiths Road
+- Hawthorne Road
+- High Green
+- Mapplebeck Road
+- School Road
+- Sheffield
+- South Yorkshire
+- Worrall Road
+people:
+- Aneela Khalil-Khan
+organisations:
+- Army’s Explosive Ordnance Team
+- Section 4
+- South Yorkshire Police
 ---
 
 # Two more arrested in High Green explosives investigation as chemicals and weapons recovered

@@ -11,6 +11,23 @@ image: https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Benedict Collins
+- David Sancho
+organisations:
+- AI
+- APT
+- BUCSIS
+- FulcrumSec
+- Google News
+- MAG
+- Manchester Airport
+- Manchester Airport Group
+- Manchester Airports Group
+- TechRadar Pro
+- TrendAI
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A hand about to touch a phone. Superimposed on top of it is a pink triangle with exclamation mark inside it. Behind it is a computer display with code on it](https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL.jpg) 

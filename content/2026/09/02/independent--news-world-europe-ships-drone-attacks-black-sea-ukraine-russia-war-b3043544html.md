@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Africa
+- Ankara
+- Black Sea
+- Bosphorus
+- Chornomorsk
+- Great Ocean
+- Istanbul
+- Kyiv
+- Moscow
+- Odesa
+- Pivdennyi
+- Russia
+- Sile
+- Tuapse
+- Turkey
+- Ukraine
+people:
+- Corey Ranslem
+- Hakan Fidan
+- Tayyip Erdogan
+- Vladimir Putin
+organisations:
+- Anna S
+- Caruzo
+- Dryad Global
 ---
 
 Merchant vessels and oil tankers navigating the Bosphorus strait are turning to improvised defences, including netting, water containers and tyres, in an effort to ward off intensifying Russian and Ukrainian drone strikes in the Black Sea, according to maritime security analysts and visual evidence.

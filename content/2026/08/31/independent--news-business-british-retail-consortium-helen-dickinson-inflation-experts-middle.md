@@ -14,6 +14,17 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- UK
+people:
+- Helen Dickinson
+- Mike Watkins
+organisations:
+- AI
+- BRC
+- British Retail Consortium
+- NIQ
 ---
 
 UK shop price inflation swung to its highest level for two years last month, as accelerating food costs pressed on consumer budgets, according to new figures.

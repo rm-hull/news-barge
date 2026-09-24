@@ -14,6 +14,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Asheville
+- Bangkok
+- Iran
+- N.C.
+- South Carolina
+people:
+- Donald Trump
+- Julie Morgan
+- Scott Bessent
+organisations:
+- Century Foundation
+- G20 Finance Ministerial
+- Gerald Herbert
+- Group of 20
+- International Monetary Fund
+- NORC Center for Public Affairs Research
+- The Associated Press
+- Treasury
+- Trump Accounts
+- World Bank
 ---
 
 Drawing on his upbringing in childhood poverty, Treasury Secretary Scott Bessent is advocating for an international financial literacy campaign and encouraging other countries to embrace an investment initiative launched under President Donald Trump.

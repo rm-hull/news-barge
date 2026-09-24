@@ -12,6 +12,30 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/22/15/36/hearse-gateshead.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Birtley
+- Bishop Auckland
+- Chester-le-Street
+- Co Durham
+- Gateshead
+- Grange Villa
+- Northumbria Police
+- Subaru
+- Tow Law
+- Tyneside
+people:
+- Carl Barron
+- Darren Kay
+- David Johnson
+- Graeme Rutherford
+- Ian Boddy
+- John Wright
+organisations:
+- Crown Prosecution Service
+- Dunston UTS
+- Northumbria Police
+- Operation Sentinel
+- Subaru
 ---
 
 Five men have been charged with a series of offences after a hearse was driven onto a pitch, forcing a football match to be abandoned.

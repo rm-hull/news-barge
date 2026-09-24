@@ -12,6 +12,28 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/22/20/17/Screenshot-2026-09-22-at-4-42-02-PM.png?trim=0,100,0,87&width=1200&height=800&crop=1200:800
+locations:
+- Multnomah County
+- Oregon Circuit Court
+- Portland
+- Salem Hospital
+- Seattle
+people:
+- Aleksander
+- Aleksandr
+- Anna Brunkenhoefer
+- Down
+- Michael Yeremeyev
+- Michael’s
+- Nataliya Yeremeyev
+- Thomas D’Amore
+- Yeremeyevs
+organisations:
+- KGW News
+- NBC
+- Salem Health
+- Salem Hospital
+- The Independent
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

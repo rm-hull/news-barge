@@ -11,6 +11,26 @@ description: The Baseus Bowie MC2 NC build on some excellent open earbuds by add
 image: https://cdn.mos.cms.futurecdn.net/iSt9mEtya57rSGBDJyLEuD-2533-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bowie MC2
+people:
+- Baseus Bowie
+- Tom Bedford
+organisations:
+- ANC
+- Android Police
+- BGR
+- Baseus Bowie MC2 NC
+- Bowie MC2 NC
+- Digital Trends
+- GamesRadar
+- Google News
+- IFA
+- Shokz OpenFit
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ![The Baseus Bowie MC2 on a bronze table.](https://cdn.mos.cms.futurecdn.net/iSt9mEtya57rSGBDJyLEuD.jpg) 

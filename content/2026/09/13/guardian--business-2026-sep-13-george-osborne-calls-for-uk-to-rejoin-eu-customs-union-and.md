@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Brexit
+- Britain
+- Europe
+people:
+- Andy Burnham
+- Brexit
+- David Cameron
+- George Osborne
+- Theresa May
+organisations:
+- EU
+- European Union
+- Independent
 ---
 
 The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.

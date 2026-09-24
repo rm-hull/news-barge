@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae8f/live/a407a4c0-b5d2-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Baku
+- Barcelona
+- Madrid
+- Monaco
+- Silverstone
+- Vale
+people:
+- Andrew Benson
+- Caroline**
+- Charles Leclerc
+- Charlie Whiting
+- Christian Klien
+- Fernando Alonso
+- George Russell
+- Graham
+- Kimi Antonelli
+- Lando Norris
+- Lewis Hamilton
+- Max Verstappen
+- Richard** Mercedes
+- Robert Kubica
+- Toto Wolff
+organisations:
+- Azerbaijan Grand Prix.
+- BBC F1
+- F1 Commission
+- F2
+- FIA
+- Ferrari
+- Mercedes
+- Monaco
+- Red Bull
+- Renault
+- VSC
 ---
 
 ![Kimi Antonelli leading the 2026 Monaco Grand Prix with Ferrari drivers Lewis Hamilton and Charles Leclerc following immediately behind him](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ae8f/live/a407a4c0-b5d2-11f1-8c16-65d8f060d73f.jpg)

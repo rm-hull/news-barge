@@ -13,6 +13,30 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Alice Kavanagh
+- Coney Street
+- Lendal
+- Monmouth
+- Poppleton
+- Wales
+- York
+people:
+- Alice Kavanagh
+- Andrew
+- Annie Donaghy
+- Gareth
+- Linda Storey
+- Pauline
+organisations:
+- Alice Kavanagh
+- Post Office
+- Post Office TG Jones
+- TG Jones
+- TK Maxx
+- The Press
+- WHSmith
+- WHSmiths
 ---
 
 ## 'The whole thing is disgraceful' - shoppers on closure of York shop and Post Office

@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Britain
+- Broadway
+- Brooklyn Bridge
+- Empire State Building
+- England
+- Harleston
+- Hudson River
+- London
+- Lower Manhattan
+- Morgan Stanley
+- Ms Brooks’
+- New York
+- New York City
+- Norfolk
+- St Paul’s Chapel
+- Twin Towers
+- Vesey Street
+people:
+- Better
+- Bob Mahon
+- Brian Clark
+- Janice Brooks
+- Jesse
+- Jose Marrero
+- Ms Brooks
+- Steve Chucknick
+organisations:
+- American Airlines
+- Euro Brokers
+- One World Trade Center
+- PA
+- Port Authority
+- Twin Towers
+- Two World Trade Center
+- United Airlines
+- World Trade Center
+- World Trade Centre
 ---
 
 For the past 25 years, Janice Brooks has been reliving the same recurring nightmare.

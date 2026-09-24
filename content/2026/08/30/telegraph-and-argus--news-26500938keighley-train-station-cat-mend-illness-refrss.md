@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Dalton Lane
+- Keighley
+people:
+- '## Coco'
+- Andrea Green
+- Dave
+- Tamara George
+organisations:
+- Asda
+- CCTV
+- GoFundMe
+- Keighley College
+- Ms Green
+- Office Furniture Outlet
 ---
 
 A much-loved cat is on the mend after being diagnosed with a serious illness.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Middlesbrough Velodrome
+- North East England
+- Northern Ireland
+- Teesside
+people:
+- '![Connolly'
+- Dolly Parton
+- Frances Connolly
+- Paddy
+- Paul Hewitson
+- Yui Mok
+organisations:
+- Aston Martin
+- Cartier
+- PA
+- PFC Trust
 ---
 
 A National Lottery winner who has given away half of her £115 million jackpot says helping other people is simply part of human nature.

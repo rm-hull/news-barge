@@ -10,6 +10,19 @@ image: https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+- Wordfence
+organisations:
+- Al Jazeera Balkans
+- Elementor Pro
+- Google News
+- Represent Communications
+- TechRadar Pro
+- Wordfence
 ---
 
 ![Wordpress brand logo on computer screen. Man typing on the keyboard.](https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK.jpg) 

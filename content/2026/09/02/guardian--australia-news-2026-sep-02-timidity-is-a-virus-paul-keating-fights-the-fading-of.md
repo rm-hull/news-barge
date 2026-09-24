@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Australia
+- Australia’
+- Balmoral Castle
+- Canberra
+- Kokoda
+- PNG
+- Soviet Union
+- UK
+- US
+- White House
+people:
+- Don Watson
+- Elizabeth II
+- George HW Bush
+- Hawke
+- James Curran
+- Paul Keating
+- STEPHEN DUPONT
+- Timidity
+- Trump
+- Victoria
+organisations:
+- Apec
+- Parliament House
+- Sydney University
 ---
 
 Queen Elizabeth II met Paul Keating “alone, to her credit” in what the prime minister was informed was her great-great-grandmother, Queen Victoria’s, favourite room at Balmoral Castle.

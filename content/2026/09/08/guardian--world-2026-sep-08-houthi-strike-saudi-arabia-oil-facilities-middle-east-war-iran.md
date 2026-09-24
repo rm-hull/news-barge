@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/9adb8d5d53978cd04f15c8bb241cb31a957a82c1/1
 categories:
 - UK
 - News & Politics
+locations:
+- Abha
+- Hormuz
+- Iran
+- Israel
+- Jizan
+- Khamis Mushait
+- Middle East
+- Najran
+- Persian Gulf
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Tehran
+- US
+- Washington
+- Yemen
+people:
+- Andreas Krieg
+- Maj Gen
+- Mohammed bin Salman
+- Mohsen Rezaei
+- Turki al-Malki
+- Yahya Saree
+organisations:
+- AFP
+- Aramco
+- Houthi
+- King’s College London
+- Reuters
+- Supreme National Security Council
 ---
 
 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East war.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Pets & Animals
 image: https://i.guim.co.uk/img/media/f5564c9442d45d3690493c3a02d9a83f1f28b34c/0_33_612_490/master/612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=787b7c36cdbeadb4d268743c591ff24e
+locations:
+- Denham Springs
+- Livingston
+- Louisiana
+- Walker
+people:
+- David Addison
+- Jeff Dorson
+- Madison Rebecca Colello
+- Walker
+organisations:
+- Guardian
+- Humane Society of Louisiana
+- Rehome & Repeat
+- Rescue Alliance of Gonzales
+- WAFB
+- Waffles Way Home
 ---
 
 A Louisiana woman faces dozens of animal cruelty charges after 17 cats were found dead at a local business amid dangerously hot conditions without food or water, with 20 other cats in severe distress being rescued.

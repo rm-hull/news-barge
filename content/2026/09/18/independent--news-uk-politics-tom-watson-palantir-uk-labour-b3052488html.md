@@ -13,6 +13,33 @@ categories:
 - UK
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Britain
+- London
+- UK
+- US
+- Wyre Forest
+people:
+- Andy Burnham
+- Lord Sadiq Khan
+- Lord Watson
+- Palantir
+- Sian Berry
+- Tom Watson
+- Tooting
+organisations:
+- Green Party
+- House of Lords
+- IDF
+- Ice
+- Israel Defence Forces
+- Labour Government
+- Metropolitan Police
+- Ministry of Defence
+- NHS
+- Palantir
+- Substack
+- US’s Immigration and Customs Enforcement
 ---
 
 Labour former deputy leader Tom Watson is facing an onslaught of criticism for joining tech giant Palantir.

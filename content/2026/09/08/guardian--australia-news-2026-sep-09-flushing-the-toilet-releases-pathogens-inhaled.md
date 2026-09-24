@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations: []
+people:
+- Harriet Whiley
+- Lira Adiyani
+- Lotti Tajouri
+organisations:
+- Bond and Murdoch
+- Covid
+- Flinders University
+- Science of the Total Environment
 ---
 
 Flushing toilets release particles into the “breathing zone” of adults and can remain suspended in the air for at least 20 seconds, a new study has found.

@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Japan
+- New County Durham
+- PokéVend UK
+- Stockton
+- Teesside
+people: []
+organisations:
+- Downton Abbey
+- Paddington
+- PokéVend UK
+- Pokémon
+- The Teesside
+- WhatsApp
 ---
 
 *(Image: Lindsayplastic / TikTok)*

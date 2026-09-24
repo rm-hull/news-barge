@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Germany
+- Ireland
+- Lithuania
+- Luxembourg
+- PA
+- Ukraine
+people:
+- Jim O’Callaghan
+- Liam McBurney
+- Micheál Martin
+- Taoiseach Micheál Martin
+organisations:
+- Cabinet
+- European Union
+- European Union Asylum Pact
+- Fianna Fáil
+- Government
+- Taoiseach
 ---
 
 Requiring language proficiency for citizenship would ensure applicants have a "capacity to contribute to society", the Taoiseach has stated.

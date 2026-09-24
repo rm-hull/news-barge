@@ -11,6 +11,16 @@ categories:
 - Technology & Software
 - Science
 - Self-Improvement
+locations: []
+people: []
+organisations:
+- Apple AirPods Max 2
+- Bose QuietComfort Headphones
+- Bowers & Wilkins
+- Bowers & Wilkins Px7 S3
+- Sennheiser
+- Sonova
+- Sony WH-1000XM5
 ---
 
 We’ve waited almost four years for a new pair of Sennheiser Momentum wireless over-ear headphones. That’s eons in a world where Sony, Apple, and Bowers & Wilkins have been busy launching stellar Bluetooth headphones like the Sony WH-1000XM6, Apple AirPods Max 2, and Bowers & Wilkins Px7 S3.

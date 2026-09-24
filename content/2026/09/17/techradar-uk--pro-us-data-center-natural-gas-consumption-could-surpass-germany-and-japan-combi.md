@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/7N4ZtNATBytQgNsTt95woQ-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- America
+- Germany
+- Japan
+- US
+people:
+- Craig Hale
+- Henry Eaton
+organisations:
+- Bloomberg
+- BloombergNEF
+- Craig’s
+- Google News
+- Moody's
+- TechRadar Pro
 ---
 
 ![Power cables stretching out in front of the horizon](https://cdn.mos.cms.futurecdn.net/7N4ZtNATBytQgNsTt95woQ.jpg) 

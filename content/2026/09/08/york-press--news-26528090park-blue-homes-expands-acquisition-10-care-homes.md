@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bishop Auckland
+- Doncaster
+- England
+- Harrogate
+- Midlands
+- Newcastle
+- Sheffield
+- South West
+- South Yorkshire
+- Sunderland
+- UK
+people:
+- Adam Mulla
+- Azets
+- Graham Dotchin
+- Hitesh Tailor
+- Jamie Hepworth
+- Josh Wright
+- Leigh Davenport
+- Richard Parker
+- Ron Wain
+- Ruth Parker-Pollard
+- Tariq Javaid
+organisations:
+- Azets
+- Clarion
+- DSM
+- Flourish Care Holdings
+- Park Blue
+- Park Blue Homes
 ---
 
 *(Image: Ron Wain of business news specialist DSM)*

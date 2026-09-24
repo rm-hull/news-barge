@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Everton
+- UK
+people:
+- Ainsley Maitland-Niles
+organisations:
+- Everton
+- Manchester United
+- Premier League
 ---
 
 # Last-gasp Maitland-Niles stunner rescues point for Everton

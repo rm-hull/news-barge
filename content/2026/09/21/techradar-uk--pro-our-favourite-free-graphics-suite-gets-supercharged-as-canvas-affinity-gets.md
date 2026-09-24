@@ -11,6 +11,26 @@ categories:
 - Technology & Software
 - Arts & Culture
 image: https://cdn.mos.cms.futurecdn.net/Ta6vA4HsU3qm3PQ27MAHXe-1920-80.png
+locations:
+- Canva
+people:
+- Duncan Clark
+organisations:
+- '## Canva'
+- AI Connectors
+- Affinity and Cavalry
+- Astrophotography Studio
+- Canva Brand Kit
+- Canva ProSuite
+- Canva Sheets
+- Efosa
+- Flourish
+- Google News
+- InDesign
+- Leonardo
+- Pro Design
+- Sony
+- TechRadar Pro
 ---
 
 ![Affinity gains extensive photography and workflow improvements as Canva links the free software with Cavalry, AI assistants and professional creative tools.](https://cdn.mos.cms.futurecdn.net/Ta6vA4HsU3qm3PQ27MAHXe.png)

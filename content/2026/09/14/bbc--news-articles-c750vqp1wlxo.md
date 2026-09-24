@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- East London
+- Metropolitan
+- Topaz
+- Torres-Pena
+people:
+- '## Unsafe'
+- Alex Obamwonyi
+- Anthony Onuh
+- Brian Dow
+- Graeme Irvine
+- Hugo Flint-Cahan
+- Jolyon
+- Nurse Chukwuji-Ohanachum
+- Raji Olagunju
+- Rolando Torres-Pena
+- Rosemary Chukwuji-Ohanachum
+- William Flint Cahan
+organisations:
+- 29 Prevention of Future Deaths
+- BBC
+- CCTV
+- CPR
+- ELFT
+- East London NHS Trust
+- Flint Cahan
+- NHMC
+- NMHC
+- Newham Mental Health Centre
+- Old Bailey
+- PFD
+- Rethink
 ---
 
 ![Hugo smiles at the camera in a family photo](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/1403/live/c0463800-b022-11f1-95e6-93ee8a80cb38.jpg)

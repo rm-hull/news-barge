@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Science
 - Health & Fitness
+locations:
+- China
+- Hong Kong
+people:
+- Christian Cawley
+- Wang Ruiqing
+organisations:
+- AlScN
+- City University of
+- City University of Hong Kong
+- Computer Weekly
+- ComputerActive
+- Fudan University
+- Fudan University.
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
+- Xidian University
 ---
 
 ![RAM sticks stacked on top of each other](https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta.jpg) 

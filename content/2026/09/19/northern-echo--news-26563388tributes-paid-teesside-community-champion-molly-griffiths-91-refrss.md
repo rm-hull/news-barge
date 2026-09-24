@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21474433.jpg?type=og-image&xType=0&yType=15
+locations:
+- Europe
+- Middlesbrough
+- North Ormesby
+- North Yorkshire
+- Teesside
+- Thorntree Cemetery
+- Trinity Church
+- UK
+people:
+- David
+- Denise
+- Dennis
+- Heartbreak
+- Michael
+- Molly Griffiths
+- Paul 'Goffy' Gough
+- Paul Goffy
+organisations:
+- Goffy Media
 ---
 
 Tributes have been paid to a Teesside woman who spent her later life bringing people together and tackling loneliness across the region.

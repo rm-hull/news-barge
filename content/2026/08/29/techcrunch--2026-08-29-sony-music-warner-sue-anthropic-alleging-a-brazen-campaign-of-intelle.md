@@ -11,6 +11,23 @@ description: This latest lawsuit is particularly broad and homes in on accusatio
 image: https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024
 categories:
 - Technology & Software
+locations: []
+people:
+- Bartz
+- Benjamin Mann
+- Claude
+- Dario Amodei
+organisations:
+- AI
+- Anthropic
+- Bartz
+- Concord Music Group
+- Music Business Worldwide
+- Sony Music Publishing
+- TechCrunch
+- U.S. District Court for the Northern District of California
+- Universal Music Group
+- Warner Chappell
 ---
 
 Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.”

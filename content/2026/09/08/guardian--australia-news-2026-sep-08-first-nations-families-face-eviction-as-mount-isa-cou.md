@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Society & Culture
 - Personal Finance & Investing
+locations:
+- Mount Isa
+- Queensland
+people:
+- Kerry Major
+- Leonie Reading
+- Lidia Thorpe
+- Malarndirri McCarthy
+organisations:
+- ATSICWS
+- Aboriginal and Torres Strait Islander
+- Aboriginal and Torres Strait Islander Corporation for Welfare Services
+- Department of Housing and Public Works
+- First Nations
+- Guardian Australia
+- Indigenous Business Australia
+- Mount Isa City Council
+- Mount Isa Housing Service Centre
+- Registrar of Aboriginal
+- Torres Strait Islander Corporations
 ---
 
 A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness.

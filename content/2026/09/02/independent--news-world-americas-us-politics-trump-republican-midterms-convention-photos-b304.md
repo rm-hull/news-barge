@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/09/02/13/2263416782..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Iran
+- Sen
+- South Carolina
+- Texas
+- U.S.
+- White House
+people:
+- Beth Van Duyne
+- Darline Graham
+- Donald Trump
+- JD Vance
+- James Talarico
+- Ken Paxton
+- Trey Gowdy
+organisations:
+- American Airlines Center
+- Fox News
+- House of Representatives
+- NFL
+- National Republican Campaign Committee
+- Puck News
+- RNC
+- Republican National Committee
+- Senate
+- TMZ DC
+- The Huffington Post
+- The Independent
+- Wall Street Journal
 ---
 
 Republicans attending their party’s upcoming midterms convention in Dallas, Texas, will be able to buy a photo opportunity with President Donald Trump for $88,600, according to a report.

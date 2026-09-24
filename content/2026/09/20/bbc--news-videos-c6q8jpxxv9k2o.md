@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5eb/live/4a4ea240-b504-11f1-91cc-c5691e33b858.jpg
+locations:
+- Balmoral Castle
+- Buckingham Palace
+- Cape Town
+- Charles
+- Princess of Wales
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Harry
+- King
+- Laura Kuenssberg
+- William
+organisations:
+- BBC One
+- BBC iPlayer
 ---
 
 # Watch: Earl Spencer says he felt Charles had 'giddy tone' during call after Diana's death

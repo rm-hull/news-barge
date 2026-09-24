@@ -13,6 +13,21 @@ categories:
 - Hardware
 - Video Gaming
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AAA
+- Game Pass
+- Game Pass Essential
+- Get Tom's Hardware
+- Google News
+- Grand Theft Auto VI
+- Microsoft
+- Tom’s Hardware
+- Xbox Cloud Gaming
+- Xbox Store
+- XboxLordVile
+- Zhiye Liu
 ---
 
 ![Xbox Game Pass](https://cdn.mos.cms.futurecdn.net/ggFVZb2j8xJMVa7M4dugMW.jpg) 

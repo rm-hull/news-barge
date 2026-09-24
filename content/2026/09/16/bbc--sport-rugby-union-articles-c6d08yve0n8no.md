@@ -12,6 +12,60 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Croke Park
+- Dublin
+- England
+- France
+- Franklin's Gardens
+- French Rivera
+- Japan
+- Middle East
+- Northampton
+- Paris
+- Prem
+- Scotland
+people:
+- '![Pollock'
+- Alex Goode
+- Alex Mitchell
+- Barry Hearn
+- Charles McGillivray
+- Courtney Lawes
+- Eddie Hearn
+- Fin Smith
+- Finn Russell
+- George Kruis
+- Henry Arundell
+- Henry Pollock
+- Ian Machado Garry
+- 'Ian Machado Garry ## Is Pollock'
+- Katie Taylor
+- Lis Saunders
+- Malcolm Marx
+- Phil Dowson
+- Pieter Steph du Toit
+- Richie Mo'unga
+- Rob Horne
+- Simon Stacey
+- Tommy Freeman
+organisations:
+- BBC Sport
+- Bath
+- Beneath the Lift Tower
+- Brive
+- Fin Smith
+- Hearn's Matchroom
+- Irish Lions
+- NRL
+- Newcastle Red Bulls
+- Northampton Saints
+- Northampton Saints Supporters Group
+- PR
+- Pollock
+- Prem Rugby
+- Saints'
+- UFC
 ---
 
 ![Henry Pollock takes a selfie with fans](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d9c9/live/d2ce8db0-b153-11f1-8912-fb2bed4049e7.jpg)

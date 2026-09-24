@@ -12,6 +12,35 @@ categories:
 - Sports
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/up6gfzumbtQD4uUJVTG9HH-2560-80.jpg
+locations:
+- Berlin
+- Boston
+- Chicago
+- London
+- New York
+- UK
+- US
+people:
+- Alexander Mutiso Munyao
+- Benson Kipruto
+- Eliud Kipchoge
+- Hawi Feysa
+- Hellen Obiri
+- Jacob Kiplimo
+- John Korir
+- Rosemary Wanjiru
+- Ruth Hamilton
+- Sabastian Sawe
+- Sharon Lokedi
+- Yomif Kejelcha
+organisations:
+- Adidas
+- Asics MetaSpeed Sky
+- Google News
+- New York
+- Nike
+- Ruth
+- TechRadar
 ---
 
 ![Marathon shoes from On, Adidas and Nike](https://cdn.mos.cms.futurecdn.net/up6gfzumbtQD4uUJVTG9HH.jpg)

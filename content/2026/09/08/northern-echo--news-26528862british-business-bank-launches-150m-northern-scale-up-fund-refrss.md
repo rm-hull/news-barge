@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- North East
+- North of England
+- UK
+people:
+- Henri Murison
+- John Healey
+- Leandros Kalisperas
+organisations:
+- Betty Laura Zapata
+- British Business Bank
+- Leandros Kalisperas
+- Northern Powerhouse Investment Fund II
+- Northern Powerhouse Partnership
+- Regional Angels Programme
+- SARAH CALDECOTT
+- Treasury
+- West Yorkshire Pension Fund
 ---
 
 *(Image: Betty Laura Zapata)*

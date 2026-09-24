@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Heathrow
+- London Gatwick
+- Manchester
+- UK
+people:
+- Anna-Marie Duthie
+- Coby Benson
+- Rory Boland
+organisations:
+- Bott and Co
+- CAA
+- Civil Aviation Authority
+- Defaqto
+- EU
+- Nats
+- Which?
 ---
 
 Airports across the UK including Manchester, Birmingham and all those in London were thrown into chaos by a technical failure in the air traffic control system on Tuesday.

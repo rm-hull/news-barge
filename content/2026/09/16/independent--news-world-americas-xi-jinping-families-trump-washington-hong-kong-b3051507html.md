@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/16/21/US_China_48639.jpg?width=1
 categories:
 - News & Politics
 - UK
+locations:
+- Beijing
+- China
+- Hong Kong
+- London
+- San Francisco
+- U.S.
+- United States
+- Washington
+people:
+- Claire
+- Ezra Jin Mingri
+- Jimmy Lai
+- Min Zin
+- Sebastien Lai
+- Sylvia Zin
+- Trump
+- XI Jinping
+- Xi Jinping
+- Youlin Chen
+organisations:
+- APEC
+- Congressional-Executive Commission on China
+- House
+- State Department
 ---
 
 The son of imprisoned former Hong Kong media mogul Jimmy Lai appealed for his father’s release at a congressional hearing in Washington on Wednesday, one week before Chinese President Xi Jinping is expected to visit the U.S.

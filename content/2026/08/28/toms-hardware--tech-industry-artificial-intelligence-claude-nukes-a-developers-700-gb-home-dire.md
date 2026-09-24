@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC-2059-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Bruno Ferreira
+- Claude Fable
+- Sebastien Guillemot
+- Tom
+organisations:
+- AI
+- Anthropic
+- Fable
+- Get Tom's Hardware
+- Google News
+- Guillemot
+- PC
+- Tom's Hardware
 ---
 
 ![Robot arm beam](https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC.jpg) 

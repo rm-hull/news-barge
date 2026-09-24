@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Dumbarton
+- India
+- Punjab
+- UK
+- West Dunbartonshire
+people:
+- Chris Esdaile
+- Dan Dolan
+- Douglas McAllister
+- Dumbarton
+- Gurpreet Singh Johal
+- Jagtar Singh Johal
+- Reprieve
+- Yvette Cooper
+organisations:
+- BBC
+- Delhi High Court
+- Khalistani Liberation Force
+- Redress
+- Reprieve
+- UN
 ---
 
 A court in India has granted bail to Briton Jagtar Singh Johal after almost nine years behind bars over terror allegations.

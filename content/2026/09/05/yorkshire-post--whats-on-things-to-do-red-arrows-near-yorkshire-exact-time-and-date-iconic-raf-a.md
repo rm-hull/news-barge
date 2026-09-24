@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bradway
+- Brian Eyre
+- Chatsworth Estate
+- Chatsworth House
+- Derbyshire Dales
+- Dore
+- River Derwent
+- Totley
+- Wye
+- Yorkshire
+people:
+- Angelica Bell
+- Cavendish
+- James Martin
+- Nisha Katona
+- Vito Coppola
+organisations:
+- CBBC
+- Chatsworth Country Fair
+- Chatsworth Estate
+- RAF
+- Red Arrows
 ---
 
 # Red Arrows near Yorkshire: Exact time and date iconic RAF aircraft will be flying over Chatsworth Country Fair 2026

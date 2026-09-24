@@ -14,6 +14,22 @@ image: https://cdn.mos.cms.futurecdn.net/62JrqAiRjmyfscWY5c3CXK-1920-80.jpg
 categories:
 - Technology & Software
 - Self-Improvement
+locations: []
+people:
+- Bakir
+- Brencis
+- Brencis’
+- Coen
+- James Pickard
+- Witcher
+organisations:
+- Black Friday
+- Eurogamer
+- NPC
+- PS5
+- Rebel Wolves
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ### TechRadar Verdict

@@ -11,6 +11,25 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/04/24/14/2272101991.jpg?width=1200&height=800&crop=1200:800
+locations:
+- B50
+- Binsfeld
+- Bitburg-Pruem
+- Eifel District
+- Germany
+- Spangdahlem Air Base
+- US
+people:
+- Beilingen
+- Birthe Thomsen
+- Speicher
+organisations:
+- 52nd Fighter Wing
+- NATO
+- SWR
+- U.S. Air Force F-16 Fighting Falcon
+- US Air Base Spangdahlem
+- US Air Force
 ---
 
 A US Air Force F-16 fighter jet has crashed near a NATO airbase in southwest Germany.

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- NHS
+- Tees, Esk
+- York
+people:
+- '**Burnham'
+- Rachael Maskell
+- Roderick John Conwy Potter
+- Sarah Caldecott
+- Wes Streeting
+- Yvette Cooper
+organisations:
+- Court of Appeal
+- Healthwatch
+- TEWV NHS
+- Tees, Esk
+- The Press
+- Wear Valleys NHS Foundation Trust
+- York Central
 ---
 
 *(Image: Supplied)*

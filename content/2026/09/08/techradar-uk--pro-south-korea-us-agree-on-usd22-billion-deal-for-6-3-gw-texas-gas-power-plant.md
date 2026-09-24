@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Alaska
+- Encinal
+- Seoul
+- South Korea
+- Texas
+- US
+- United States
+- Washington
+people: []
+organisations:
+- Efosa
+- Google News
+- Industry Ministry
+- TechRadar Pro
+- Via Reuters
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

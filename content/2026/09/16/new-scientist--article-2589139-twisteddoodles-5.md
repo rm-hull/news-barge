@@ -10,6 +10,11 @@ image: https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scie
 categories:
 - Science
 - Technology & Software
+locations:
+- Greenland
+- Labrador Sea
+people: []
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312417169.jpg?w=840)

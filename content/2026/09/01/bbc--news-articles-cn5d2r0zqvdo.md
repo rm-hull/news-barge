@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+people:
+- Anna Freud
+- Claire Evans
+- Gemma Byrne
+- Mark Buchanan
+- Sam Jones
+organisations:
+- A&E
+- Department of Health and Social Care
+- Freedom of Information Act
+- Mind
+- NHS England
+- Royal College of Emergency Medicine
+- Royal College of Paediatrics and Child Health
 ---
 
 ![Girl looking out of the window](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/87a9/live/8c4ae980-a620-11f1-bb6f-e5db02d232fa.png)

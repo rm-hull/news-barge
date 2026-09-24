@@ -10,6 +10,38 @@ description: Intelligence unleashed
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/RggUJsXG7EMnsFBWmD9g6W-1920-80.jpg
+locations:
+- AI
+- China
+- Manhattan
+- US
+- White House
+people:
+- AI
+- Donald Trump
+- Geoffrey Hinton
+- Lance Ulanoff
+- Superman
+organisations:
+- AGI
+- Artificial General Intelligence
+- BBC
+- CNBC
+- CNN
+- Godfather of AI
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Super Intelligence
+- Today Show
+- U.S. Congress
+- UN
+- United Nations General Assembly
+- Ziff Davis, Inc
 ---
 
 ![Donald Trump](https://cdn.mos.cms.futurecdn.net/RggUJsXG7EMnsFBWmD9g6W.jpg)

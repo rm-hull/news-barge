@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- Allée Victor Vasarely
+- Cagnes-sur-Mer
+- Europe
+- France
+- France.
+- Louvre Museum
+- Paris
+- Renoir
+- Sicily
+people:
+- Bryan Masson
+- Coco Lisant
+- Madame Colonna Romano
+- Madame Pichon
+- Pierre-Auguste Renoir
+organisations:
+- CCTV
+- Renoir Museum
 ---
 
 What we know about the Renoir museum heist

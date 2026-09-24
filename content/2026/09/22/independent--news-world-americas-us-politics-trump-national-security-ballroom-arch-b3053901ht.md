@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/14/38/GettyImages-2265286581-b04ec5a2.jpeg?trim=2,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- East Wing
+- Iran
+- Kennedy Center
+- Maryland
+- U.S.
+- Virginia
+- Washington D.C.
+- Washington, D.C.
+- White House
+people:
+- Bizzarely
+- Don Beyer
+- Donald Trump
+organisations:
+- Arlington National Cemetery
+- CNN
+- Congress
+- DCA
+- DOGE
+- DronePort
+- Education and Defense
+- ICE and Border Patrol
+- MS Now
+- National Guard
+- Pentagon
+- Politico
+- Secret Service
+- Trump
+- Truth Social
+- White House Military Office
 ---
 
 Donald Trump announced on Sunday that he would be placing a sniper’s nest in the front of Arlington National Cemetery.

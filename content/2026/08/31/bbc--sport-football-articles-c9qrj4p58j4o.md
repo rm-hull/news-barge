@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Europe
+- France
+- Paris
+people:
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Hugo Ekitike
+- Ifeanyi Ndukwe
+- Jeremy Jacquet
+- Mohamed Salah
+- Ousmane Dembele
+- Ronald Araujo
+- Victor Munoz
+organisations:
+- Barcola
+- Les Bleus
+- Ligue 1
+- Liverpool
+- Liverpoolhave
+- Lyon
+- PSG
+- Paris St-Germain
+- Premier League
 ---
 
 ![Bradley Barcola](https://ichef.bbci.co.uk/ace/standard/873/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg)

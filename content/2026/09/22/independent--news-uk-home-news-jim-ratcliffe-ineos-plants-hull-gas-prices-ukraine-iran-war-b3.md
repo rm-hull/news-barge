@@ -11,6 +11,26 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/19/09/2295272542..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- East Yorkshire
+- Europe
+- Hull
+- Humberside
+- Middle East
+- Morocco
+- North Sea
+- Russia
+- Saltend
+- UK
+- US
+- USA
+- Ukraine
+people:
+- Jim Ratcliffe
+organisations:
+- British Industrial Competitiveness Scheme
+- Ineos
 ---
 
 Billionaire Sir Jim Ratcliffe is suspending operations at three of his chemical plants over “ridiculously” high gas prices.

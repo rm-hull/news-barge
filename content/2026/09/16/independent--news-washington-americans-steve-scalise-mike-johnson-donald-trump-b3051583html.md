@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- China
+- Richland Parish
+- U.S.
+- Washington
+people:
+- Donald Trump
+- Frank Pallone
+- Gabe Evans
+- Mike Johnson
+- Steve Scalise
+organisations:
+- Congress
+- Energy Policy Institute
+- House Energy and Commerce Committee
+- R-Colo.
+- The Associated Press-NORC Center for Public Affairs Research
+- University of Chicago
 ---
 
 The House overwhelmingly approved a bill Wednesday that aims to have artificial intelligence data centers pay for their substantial energy needs as lawmakers used what was expected to be their final day in Washington before the midterm elections to address a growing voter concern.

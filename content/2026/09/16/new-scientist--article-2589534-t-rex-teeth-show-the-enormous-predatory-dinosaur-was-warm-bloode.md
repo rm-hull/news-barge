@@ -11,6 +11,23 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Asia
+- Eagle
+- Hell Creek
+- Hollywood
+- Los Angeles
+- Montana
+- North America
+- Wisconsin
+people:
+- Robert Eagle
+- Scott Persons
+- Thomas Carr
+organisations:
+- Carthage College
+- South Carolina State Museum
+- University of California
 ---
 
 ![Tyrannosaurus in forest](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg?w=840)

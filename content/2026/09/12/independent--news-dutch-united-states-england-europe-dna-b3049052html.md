@@ -14,6 +14,23 @@ categories:
 - UK
 - Sports
 - Travel
+locations:
+- Bernardus Golf
+- Cheshire
+- Den Bosch
+- Dorset
+- England
+- Europe
+- North Brabant
+- Robert Trent Jones Golf Club
+- The Netherlands
+- United States
+- Virginia
+- Vught
+people:
+- Chris Thompson
+- Janet Metcalfe
+organisations: []
 ---
 
 How else would you get to a golf tournament in the Netherlands?

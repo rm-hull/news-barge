@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Petroboscan
+- S.A.
+- U.S.
+- Western Venezuela
+- White House
+- Zulia State
+people:
+- Aamer Madhani
+- Chris Wright
+- Collin Binkley
+- Donald Trump
+organisations:
+- Chevron
+- Orinoco Belt
+- Pentagon
+- Petroindependencia
+- Petropiar
+- S.A.
+- ________________ Associated Press
 ---
 
 Oil giant Chevron is confirming that it will expand its operations in Venezuela, just days after President Donald Trump announced an ambitious deal to develop the nation’s oil reserves and give the Pentagon a stake in the profits.

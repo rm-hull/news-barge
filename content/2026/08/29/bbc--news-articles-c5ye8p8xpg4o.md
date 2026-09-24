@@ -10,6 +10,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2689/live/dc707f
 categories:
 - UK
 - News & Politics
+locations:
+- Braintree
+- Essex
+- London
+- Westminster City
+people:
+- Andy Burnham
+- Boris Johnson
+- James Cleverly
+- Kemi Badenoch
+- Laila Cunningham
+- Nigel Farage
+- Rishi Sunak
+- Sadiq Khan
+- Susan Hall
+organisations:
+- Badenoch
+- Conservative
+- Labour
+- London Assembly
+- London Fire and Emergency Planning Authority
+- Reform UK
+- Times
+- Tories
+- Tory
 ---
 
 ![James Cleverly wears a suit and holds a microphone](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg)

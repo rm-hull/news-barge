@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/EmuSX5mkD9xgW6JK2aGhbi-320-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- Asus'
+- Audioengine
+- Edifier
+- Get Tom's Hardware
+- Klipsch
+- Onkyo
+- ProMedia Lumina
+- Sony
+- Syitren
+- TSA
+- United Airlines
 ---
 
 # Speakers

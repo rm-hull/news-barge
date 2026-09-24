@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Jordan
+- Middle East
+- North Carolina
+- Oregon
+- U.S.
+- US
+people:
+- Pat Harrigan
+- Ron Wyden
+- Zach Edwards
+organisations:
+- Air Force
+- Apple
+- Army and Navy
+- Decryptads
+- Pentagon
+- Reuters
+- Special Operations Command
+- U.S. Special Operations Command
 ---
 
 The U.S. military has deactivated advertising trackers on computers and cellphones as commercially sourced location data emerges as a growing threat to American forces deployed in the Middle East.

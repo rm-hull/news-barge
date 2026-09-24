@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Clacton
+- Devon
+- Essex
+- Exeter Crown Court
+- Georgia
+- Isleworth Crown Court
+- Kent
+- River Thames
+- UK
+people:
+- Charlotte Brown
+- George Payne
+- Jack Shepherd
+- Martin Edmunds
+organisations:
+- BBC London
+- BBC Radio London
+- Charlotte Brown
+- HMP Swaleside
 ---
 
 ![Jack Shepherd in court. He wears a shirt and jacket and has a beard](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbe2/live/1fc1cab0-8a8a-11f1-a7ab-8b30adf0800a.png)

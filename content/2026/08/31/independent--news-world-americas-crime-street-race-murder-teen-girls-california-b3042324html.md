@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Acura TL
+- Apple Valley
+- Dodge Charger
+- Riverside
+- San Bernardino County
+- Southern California
+- Victorville
+people:
+- '![''Her'
+- Dustin Dailey
+- George Gary Sanchez
+- Isabell Hill
+- Jason Anderson
+- Maddalyn Dailey
+- Terry Lamar Easter
+organisations:
+- Acura
+- California Highway Patrol
+- KTLA
+- San Bernardino County District Attorney’s Office
+- Sultana High School
 ---
 
 A Southern California man has been charged with murder after a high-speed street race ended with two teenage girls dead, according to officials.

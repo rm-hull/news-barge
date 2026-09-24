@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alnmouth Bay
+- Northumberland
+- Saltburn
+- The Yorkshire
+- UK
+- Warkworth
+people:
+- Geno
+organisations:
+- Airbnb Community
+- Condé Nast Traveller
+- Skylark Studio
 ---
 
 A “lovely and peaceful” spot near the Northumberland coast has been named one of the most popular Airbnbs in the UK.

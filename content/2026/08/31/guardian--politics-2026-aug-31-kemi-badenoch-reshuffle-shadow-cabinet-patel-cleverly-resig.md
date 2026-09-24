@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- Essex
+- Iran
+- London
+people:
+- Andrew Griffith
+- Claire Coutinho
+- Helen Grant
+- James Cleverly
+- Julia Lopez
+- Just Eat
+- Kemi Badenoch
+- Mel Stride
+- Nigel Farage
+- Priti Patel
+- Stuart Andrew
+- Tom Tugendhat
+organisations:
+- Kemi Badenoch
+- Labour
+- One Nation
+- Reform UK
+- Sky
+- The Telegraph
+- Times Radio
 ---
 
 Kemi Badenoch sacked her shadow chancellor, Mel Stride, and shadow foreign secretary, Priti Patel, in a sweeping Conservative reshuffle on Monday, replacing Stride with Andrew Griffith, and is expected to install Tom Tugendhat as Patel’s replacement.

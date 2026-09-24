@@ -12,6 +12,12 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Boston
+people:
+- Rare
+organisations:
+- Get Tom's Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/oFJLfBsf6h3L7KFfPwx3eN-320-80.png)

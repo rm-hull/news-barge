@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Charlemagne
+- France
+- Lyon
+- Montreal
+- Nanterre
+- Nantes
+- Paris
+- Plenitude Arena
+- Quebec
+people:
+- Antoine Beaulieu
+- Boucheron
+- Camille Morel
+- Catalani’s “Ebben?
+- Celine Dion
+- Isabelle Gagnon
+- Maria Callas’
+- Michelle Obama
+- Willo Perron
+- Élodie Marchand
+organisations:
+- Eiffel Tower
+- Jean-Jacques Goldman
+- LVMH
+- NBC
+- Seven Nation Army
 ---
 
 She hit the high F, held it, then blew out a breath and turned to look back at the band — a quick, disbelieving glance toward her musical director. Some 30,000 people read it before they had finished screaming: Celine Dion did it.

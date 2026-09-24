@@ -13,6 +13,57 @@ categories:
 - UK
 - Music
 - Technology & Software
+locations:
+- Big Island
+- Haleakalā
+- Hawaiʻi County
+- Honolulu
+- Iniki
+- KONG
+- Kahului
+- Kapa
+- Kauaʻi
+- Kauaʻi’s KONG-FM
+- Kona
+- Lala
+- Maui
+- North Shore
+- West Hawaiʻi
+- ʻIniki
+people:
+- Anni Caporuscio
+- Chris Leonard
+- Chuck Bergson
+- Darryl Oliveira
+- Gary Hooser
+- Lala
+- Linda Lingle
+- Lowell
+- Madeleine Valera
+- Ron Wiley
+- Zane Lacaden
+organisations:
+- Akamai Broadcasting
+- Akamai Daily News
+- CPB
+- Congress
+- Corporation for Public Broadcasting
+- FEMA
+- Hawaiʻi Association of Broadcasters
+- Hawaiʻi County Civil Defense
+- Honolulu Civil Beat
+- KKCR
+- KONG FM
+- Kauaʻi Community Radio
+- Lahui Foundation
+- Maui Emergency Management Agency
+- National Public Radio
+- New West Broadcasting Corp
+- Pacific Media Group
+- Pacific Media Group Inc.
+- Starlink
+- The Associated Press
+- ___ Civil Beat
 ---
 
 For years it has been a mantra of emergency preparedness: Officials across the state urge Hawaiʻi residents to keep portable radios and extra batteries on hand whenever storms or other hazards pose a threat. The idea is those radios will convey urgent government warnings and updates when other systems fail.

@@ -10,6 +10,22 @@ description: What are the privacy implications?
 image: https://cdn.mos.cms.futurecdn.net/AUgmEzzhf6AXktdm4ZT2cR-1911-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+people:
+- Matt Evans
+- Siri AI
+- Siri Recaps
+organisations:
+- Apple Watch
+- Audio Intelligence
+- Google News
+- LED
+- Men's Health
+- Meta Glasses
+- Runner's World
+- Siri Recaps
+- TechRadar
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/AUgmEzzhf6AXktdm4ZT2cR.jpg) 

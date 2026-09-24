@@ -12,6 +12,31 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://mmo.aiircdn.com/409/673599445071c.jpg
+locations:
+- Castlegate
+- Chapel Street
+- Fisher Street
+- GSPK
+- Green Dragon Yard
+- HG5 8LF
+- Knaresborough
+- Manse Lane
+- Market Place
+- Market Square
+- North Yorkshire
+- St John’s Church
+- Waterside
+- York Place
+people:
+- David Skaith
+organisations:
+- Eventure Knaresborough
+- Knaresborough & District Chamber
+- Knaresborough Christmas Market
+- Knaresborough Lions
+- Knaresborough Rotary
+- Vibrant and Sustainable High Streets Fund
+- York and North Yorkshire Combined Authority
 ---
 
 ![](https://mmo.aiircdn.com/409/673599445071c.jpg)

@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Tom
+organisations:
+- AI
+- Blackwell
+- Get Tom's Hardware
+- Google News
+- Micron
+- Nvidia
+- PCB
+- PNY
+- SK
+- Samsung
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![RTX Pro 5500 Blackwell GPU](https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ.jpg) 

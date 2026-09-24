@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://i.guim.co.uk/img/media/4e256af156d7fc81df9e6185743a6dff89ad4148/516_0_2320_1856/master/2320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21daa9e7aee1941ab94964e78d9ef893
+locations:
+- Buckingham Palace
+- Princess of Wales
+- UK
+- US
+people:
+- Charles
+- Diana
+- Earl Spencer
+- Harry
+- Meghan
+- Oprah Winfrey
+- Sussexes
+organisations:
+- BBC
+- Duchess of Sussex
 ---
 
 Earl Spencer has said the relationship between the press and the Duke and Duchess of Sussex “echoes” the way the media treated his sister Diana, Princess of Wales.

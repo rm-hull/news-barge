@@ -14,6 +14,30 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Gardens
+- Little Nature Rangers
+- Newby Hall
+- North Yorkshire
+- North of England
+- Ripon
+people:
+- Christine Talbot
+- Gareth Griffin
+- Jonathan Moseley
+- Nick Smith
+- Sarah Owen-Hughes
+- Sarah Richardson
+- Steph Moon**
+organisations:
+- Artizan Harrogate
+- Faith Douglas
+- Head Gardener
+- Horticap
+- Leafy Couture
+- Newby Hall
+- Royal Botanic Gardens Edinburgh
+- Rudding Park Hotel & Spa
 ---
 
 **The Harrogate Autumn Flower Show** is celebrating its**50th anniversary**, bringing three days of spectacular flowers, inspiring gardens, giant vegetables, and seasonal produce to** Newby Hall & Gardens**from** 18-20 September 2026**.

@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- :**County Durham
+- Darlington
+people:
+- Chris Booth
+- Colin
+- Libby McCollom
+- Slurring
+organisations:
+- County Durham
 ---
 
 *(Image: Chris Booth)*

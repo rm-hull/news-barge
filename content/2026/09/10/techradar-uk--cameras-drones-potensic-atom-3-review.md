@@ -12,6 +12,33 @@ description: Potensic's Atom 3 is the company's best beginner drone yet, and a t
 image: https://cdn.mos.cms.futurecdn.net/XNFtVtKs5qifAxeP7VpipN-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon UK
+- Australia
+- Kenya
+- Nairobi
+- Potensic
+- South Coast
+- US
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- '### TechRadar Verdict Potensic'
+- Amateur Photographer
+- Amazon
+- Atom 2
+- Atom 3
+- BeiDou
+- Canon
+- DJI Lito X1
+- DJI's
+- Galileo
+- Lito 1
+- Lito X1
+- RC
+- RTH
+- USB-C
 ---
 
 ### TechRadar Verdict

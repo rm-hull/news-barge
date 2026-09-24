@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - Sports
 - Business & Entrepreneurship
+locations: []
+people:
+- Stuart Abbott
+organisations:
+- Harrogate Marshalls
+- Lithgow Perkins
 ---
 
 ![](https://mmo.aiircdn.com/409/6a44b30b6b73cfa7cc8.jpg) 

@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - True Crime
 - Automotive
+locations:
+- Bayton Lane
+- Horsforth
+people: []
+organisations:
+- UGC
+- West Yorkshire Police
 ---
 
 *(Image: UGC)*

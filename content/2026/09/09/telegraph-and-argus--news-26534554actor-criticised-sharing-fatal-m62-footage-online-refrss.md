@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Film & TV
 - True Crime
+locations:
+- Brighouse
+- Denshaw
+- Junction 22
+- Junction 25
+- Leeds
+- M62
+- Manchester
+- West Yorkshire
+people:
+- Jesus
+- John Barrowman
+organisations:
+- M62 Leeds
 ---
 
 *(Image: PA)*

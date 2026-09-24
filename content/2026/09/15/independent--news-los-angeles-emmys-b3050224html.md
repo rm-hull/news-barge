@@ -13,6 +13,11 @@ categories:
 - UK
 - Comedy & Entertainment
 - Film & TV
+locations:
+- Los Angeles
+people:
+- Mariska Hargitay
+organisations: []
 ---
 
 Celebrity fashion and award moments take center stage at the 78th Emmy Awards, hosted by Mariska Hargitay in Los Angeles.

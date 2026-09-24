@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Manchester
+- Stanley
+people:
+- Joseph
+organisations:
+- DURHAM POLICE)* Police
+- Durham Police
 ---
 
 *(Image: DURHAM POLICE)*

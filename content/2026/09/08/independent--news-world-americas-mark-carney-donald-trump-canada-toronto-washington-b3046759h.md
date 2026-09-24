@@ -16,6 +16,22 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Dominic LeBlanc
+- Donald Trump
+- Gabriel Brunet
+- Jamieson Greer
+- Mark Carney
+- Paul Wiseman
+- Wendy Cutler
+organisations:
+- ___ Associated Press
 ---
 
 Canadian Prime Minister Mark Carney said Tuesday that Canada would move faster to reduce its economic reliance on the United States as retaliatory tariffs took effect on about $20 billion worth of U.S. goods and the country braced for President Donald Trump’s response.

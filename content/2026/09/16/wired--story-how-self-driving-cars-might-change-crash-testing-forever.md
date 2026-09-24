@@ -13,6 +13,30 @@ categories:
 - Technology & Software
 - Science
 - Automotive
+locations:
+- China
+- US
+people:
+- Alex Mueller
+- Becky Mueller
+- Chris O'Connor
+- O’Connor
+- Tesla
+organisations:
+- Amazon
+- Big Dummy Humanetics
+- CCARI
+- Congress
+- IIHS
+- Insurance Institute for Highway Safety
+- NHTSA
+- Robotaxi
+- THOR-AV
+- Tesla Cybercab
+- Trump
+- US National Highway Traffic Safety Administration
+- WIRED
+- Zoox
 ---
 
 In a video posted on X, a Tesla enthusiast hops into what was once the driver’s seat of a new matte gold Cybercab. “Once” because the vehicle, which officially hit the streets earlier this month as part of Tesla’s Robotaxi ride-hail service, doesn’t have a steering wheel or brake pedals.

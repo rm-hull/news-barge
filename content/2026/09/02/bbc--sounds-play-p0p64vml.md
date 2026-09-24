@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Clacton
+- UK
+people:
+- Adam Fleming
+- Andy Burnham
+- Chris Gray
+- Chris’
+- Joe Wilkinson
+- Kemi Badenoch
+- Mike Regaard
+- Miranda Slade
+- Nigel Farage
+- Nik Sindle
+- Sam Bonham
+- Shiler Mahmoudi
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- PMQs
+- Reform
+- WhatsApp
 ---
 
 ## Episode details

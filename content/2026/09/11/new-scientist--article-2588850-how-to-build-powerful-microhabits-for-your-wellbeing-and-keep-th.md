@@ -15,6 +15,13 @@ categories:
 - Technology & Software
 - Self-Improvement
 - Health & Fitness
+locations:
+- US
+people:
+- Charles Duhigg
+- David Robson
+- Eli Susman
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311638153.jpg?w=840)

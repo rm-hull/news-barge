@@ -11,6 +11,36 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- Elysee Palace
+- Estonia
+- Europe
+- France
+- Germany
+- Italy
+- Kyiv
+- Leipzig
+- Middle East
+- Moscow
+- Poland
+- Russia
+- UK
+- Ukraine
+- Ukraine-Poland
+- Yahodyn
+people:
+- Boris Johnson
+- Donald Tusk
+- Emmanuel Macron
+- Marine le Pen
+- Sergey Lavrov
+- Vladimir Putin
+organisations:
+- European Commission
+- European Union
+- G7
+- Macron
+- Nato
 ---
 
 ![Emmanuel Macron, wearing a dark suit and tie, gestures with his left hand at a lecturn in the Elysee Palace with French and European Union flags behind him.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg)

@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- Alan Hawkins
+- Evan BNormal
+- Hawkins’
+- Lucy Pittaway
+- Ms Pittaway
+organisations:
+- Instagram
+- Lucy Pittaway
 ---
 
 *(Image: Supplied)*

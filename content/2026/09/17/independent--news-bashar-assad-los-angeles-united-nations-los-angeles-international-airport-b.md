@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Adra Prison
+- Los Angeles
+- Syria
+- U.S.
+people:
+- Bashar Assad
+- Collin Cate
+- Hernan D. Vera
+- Nidal Shikhani
+- Nina Marino
+- Samir Ousman Alsheikh
+organisations:
+- DOJ
+- Los Angeles International Airport
+- U.S. Department of Justice
+- United Nations
 ---
 
 A former Syrian military official convicted of torturing prisoners during President Bashar Assad's regime is facing a possible decades-long prison sentence in the U.S.

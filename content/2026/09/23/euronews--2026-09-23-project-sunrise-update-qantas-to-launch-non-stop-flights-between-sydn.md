@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Travel
 image: https://images.euronews.com/articles/stories/09/92/48/35/1200x675_cmsv2_39ff6dbe-15d7-544e-bb50-a25fb98c1bfa-9924835.jpg
+locations:
+- Crawley
+- London
+- Melbourne
+- New York
+- RAF Base Koggala
+- Sri Lanka
+- Sydney
+- Toulouse
+- Wellbeing Zone
+- Western Australia
+people:
+- Vanessa Hudson
+organisations:
+- Eurowings
+- Icelandair
+- Qantas Group
 ---
 
 ## Passengers will spend 18 hours in the air on the specially configured Airbus A350-1000ULR aircraft.

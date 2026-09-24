@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- BRADFORD
+- Ravenscliffe
+- Thackeray Road
+people:
+- Emilia Olkowska
+- Ofsted
+organisations:
+- Ofsted
+- Sherwood Green Nursery
+- Sherwood Green Nursery Gateway
 ---
 
 A BRADFORD nursery has been praised for its “joyful and curious learners” and nurturing environment.

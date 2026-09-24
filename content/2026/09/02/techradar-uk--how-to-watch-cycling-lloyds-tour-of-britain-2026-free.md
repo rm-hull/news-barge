@@ -12,6 +12,55 @@ image: https://cdn.mos.cms.futurecdn.net/4gcvzFtK7zNUyqYyCNs8US-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Belgium
+- Beverley
+- Boston
+- Canada
+- Earlston
+- England
+- Europe
+- France
+- Great Britain
+- Great White North
+- Grinton Moor
+- Helmsley
+- Hull
+- Italy
+- Leyburn
+- Lincoln
+- Lincolnshire
+- Michaelgate
+- Oz
+- Peak District
+- Queen Stage
+- Scottish Borders
+- Sheffield
+- Skegness
+- Spain
+- U.S.
+- UK
+- US
+- USA
+- Yorkshire Dales
+people:
+- Beverley
+- Filippo Ganna
+- Greg LeMond
+- Laurent Fignon
+- Lewis Askey
+- Olav Kooij
+- Simon Warren
+- Tim Merlier
+- Tim Wellens
+organisations:
+- Future Publishing
+- Greenhow Bank
+- Kidstones
+- SBS
+- TechRadar
+- Yorkshire Dales
 ---
 
 - **Lloyds Tour of Britain 2026: Wednesday, September 2 to Sunday, September 6**

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Frizinghall
+- Norfolk Gardens
+people: []
+organisations:
+- '## Council'
+- Bradford Council
+- Government
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: T&A)*

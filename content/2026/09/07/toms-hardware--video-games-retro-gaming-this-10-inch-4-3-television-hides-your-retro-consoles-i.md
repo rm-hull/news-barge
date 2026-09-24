@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Film & TV
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- Google News
+- HDMI
+- Kickstarter
+- PVM
+- RGB SCART
+- Tom’s Hardware
+- ULW10
+- Unico Traveller
+- VGA
 ---
 
 ![The Unico Traveller ULW10 monitor for retro gaming](https://cdn.mos.cms.futurecdn.net/3VAcuPTMp8k4VxtWSvxXV3.jpg) 

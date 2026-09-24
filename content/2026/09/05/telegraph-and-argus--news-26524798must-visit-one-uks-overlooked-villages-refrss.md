@@ -15,6 +15,33 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Aylesford
+- Carlo Simone
+- Friary
+- High Street
+- Kent
+- Maidstone
+- Newsquest
+- River Medway
+- Rochester Road
+- St Paul's Church
+- St Peter
+- UK
+people:
+- Carlo Simone
+- Carmelite Friars
+organisations:
+- Aylesford
+- Carlo Simone
+- Chequers Inn
+- Friars Priory
+- Friary
+- Kit's Coty House
+- Newsquest
+- The Chequers Inn
+- The Friars Priory
+- The Little Gem
 ---
 
 *(Image: Carlo Simone/Newsquest)*

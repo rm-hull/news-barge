@@ -13,6 +13,18 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/K9tFuiU2t6onMt5EzCwes8-1920-80.jpg
+locations: []
+people:
+- Mark Tyson
+- Tom
+organisations:
+- AX Gaming
+- GeForce
+- Get Tom's Hardware
+- Google News
+- Inno3D
+- Smellivision
+- Tom's Hardware
 ---
 
 ![AX Gaming RTX 5070 Autumn Limited Edition ](https://cdn.mos.cms.futurecdn.net/K9tFuiU2t6onMt5EzCwes8.jpg)

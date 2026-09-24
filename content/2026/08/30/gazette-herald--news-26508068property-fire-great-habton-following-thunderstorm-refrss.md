@@ -14,6 +14,14 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Flamingo Land
+- Kirby Misperton
+- Malton
+- North Yorkshire
+- Pickering
+people: []
+organisations: []
 ---
 
 A NUMBER of farm buildings are on fire in North Yorkshire following a violent thunderstorm this evening (Sunday).

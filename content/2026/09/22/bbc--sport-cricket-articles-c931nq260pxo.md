@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22c8/live/90b8dd80-f601-11f0-b5f7-49f0357294ff.jpg
+locations:
+- Australia
+- England
+- Headingley
+- Lord's
+- Perth
+- St Lucia
+- West Indies
+people:
+- Ben Stokes
+- Chris Woakes
+- James Anderson
+- Joe Root
+- Mark Wood
+- Rob Key
+- Stuart Broad
+- Usman Khawaja
+organisations:
+- Durham
+- England
+- XI
 ---
 
 ![Mark Wood waves to the crowd after leaving the field during a Test match](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/22c8/live/90b8dd80-f601-11f0-b5f7-49f0357294ff.jpg)

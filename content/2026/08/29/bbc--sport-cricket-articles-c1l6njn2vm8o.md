@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Chester-le-Street
+- England
+- Kingswinford
+- Lord's
+- Northwich
+- Pakistan
+people:
+- Allahuddien Parker
+- Dan Lawrence
+- Edrich Stand
+- Hussain
+- Joe
+- Mark Alleyne
+- Nasser Hussain.
+- Paul Reiffel
+- Rachel
+- Ryan Campbell
+organisations:
+- BBC
+- Durham
+- Gloucestershire
+- Sky Sports
 ---
 
 ![The Lord's scoreboard saying rain stops play](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c8ed/live/5f2e9650-a3db-11f1-9323-c53d27c293d7.jpg)

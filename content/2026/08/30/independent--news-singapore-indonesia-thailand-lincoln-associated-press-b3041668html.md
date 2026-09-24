@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Batam
+- Iran
+- Lincoln
+- Middle East
+- Singapore Strait
+- Thailand
+- U.S.
+people:
+- Abraham Lincoln
+organisations:
+- Associated Press
+- U.S. Navy
 ---
 
 USS Abraham Lincoln sails past Singapore on its way home from Middle East

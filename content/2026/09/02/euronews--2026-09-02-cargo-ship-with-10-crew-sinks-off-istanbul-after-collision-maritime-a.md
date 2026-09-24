@@ -13,6 +13,14 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Cyprus
+- Istanbul
+- Marmara Sea
+- Silivri
+people: []
+organisations:
+- ALSU
 ---
 
 ## The collision occurred 18 nautical miles (33 kilometres) off the Silivri district on the western edge of Istanbul province, the governor's office said on X.

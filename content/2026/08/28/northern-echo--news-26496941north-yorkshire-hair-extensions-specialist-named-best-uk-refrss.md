@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Crakehall
+- Eastern Europe
+- London
+- Manchester
+- North East
+- North Yorkshire
+- UK
+people:
+- Bobby Robson
+- Jake Quickenden
+- Kylie Hammond
+organisations:
+- AO Arena
+- Crakehall
+- FAKE
 ---
 
 *(Image: PR)*

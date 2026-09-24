@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/PP3nR3hAhDSfesbNZijQc5-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Leonida
+people:
+- Jason
+- Lucia
+- Rob Nelson
+organisations:
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- Grand Theft Auto
+- IGN
+- NME
+- Rockstar North
+- TechRadar
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/PP3nR3hAhDSfesbNZijQc5.jpg) 

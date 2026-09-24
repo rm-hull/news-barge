@@ -13,6 +13,37 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Gaza
+- Israel
+- Lisbon
+- Nuremberg
+- Palestine
+- US
+- United States
+people:
+- Benjamin Netanyahu
+- Didier Bigo
+- Donald Trump
+- Gabriel García Márquez
+- Marco Rubio
+- Rebecca Mignot-Mahdavi
+- Yoav Gallant
+organisations:
+- Cairn
+- Cultures & Conflits
+- European International Studies Association
+- Google
+- ICC
+- International Criminal Court
+- Rome Statute
+- Sciences Po
+- Special Rapporteurs
+- The Conversation
+- UN
+- United Nations
+- United Nations Special Rapporteurs
+- United States’
 ---
 
 In The Autumn of the Patriarch (Gabriel García Márquez, 1975), the ageing dictator takes pleasure in just one thing: watching his fallen former colleagues playing cards in the room set aside for their exile, and revelling in their destitution and obsequiousness toward him. This portrayal of ageing power – obsessed with its own survival and with the spectacle of the downfall of once untouchable leaders – captures the fear of the moment when power ceases to protect those who once wielded it.

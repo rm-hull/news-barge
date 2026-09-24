@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Boston
+- Massachusetts
+- Plymouth
+- Sutton
+people:
+- Clancy
+- Dawn Light
+- Jennifer White
+- Lindsay
+- Nicole Piacentini
+- William Sullivan
+organisations:
+- Hearst Connecticut Media Group
+- The Associated Press
 ---
 
 The jury in the Lindsay Clancy murder trial on Wednesday told the judge for a second time that it can’t agree on a verdict in the controversial case of the mother accused of murdering her three children.

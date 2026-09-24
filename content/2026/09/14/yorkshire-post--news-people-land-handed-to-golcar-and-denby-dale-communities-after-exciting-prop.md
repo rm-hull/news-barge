@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Denby Dale
+- Denby Dale Library
+- Golcar
+- Longfield Avenue Recreation Ground
+people:
+- John Hardie
+organisations:
+- '## Kirklees Council'
+- Denby Dale
+- Denby Dale Community Project
+- Denby Dale Community Project Charitable Incorporated Organisation
+- Denby Dale Library
+- Golcar United Community Playing Fields Charitable Incorporated Organisation
+- Golcar United Football Club
+- Kirklees Council
+- Regeneration, Highways and Transport
 ---
 
 # Land handed to Golcar and Denby Dale communities after ‘exciting proposals’

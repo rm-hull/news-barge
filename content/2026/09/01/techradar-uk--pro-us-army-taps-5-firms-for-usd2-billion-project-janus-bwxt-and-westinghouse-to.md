@@ -11,6 +11,46 @@ image: https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Alaska
+- Fairbanks
+- Fort Benning
+- Fort Bragg
+- Fort Campbell
+- Fort Drum
+- Fort Hood
+- Fort Wainwright
+- Georgia
+- Kentucky
+- New York
+- North Carolina
+- Tennessee
+- Texas
+- United States
+- Washington
+people:
+- Jeff Waksman
+organisations:
+- Air Force
+- Antares Nuclear
+- BWXT Advanced Technologies
+- Efosa
+- Eielson Air Force Base
+- Energy Department
+- General Atomics Electromagnetic Systems
+- Google News
+- Holston Army Ammunition Plant
+- Joint Base Lewis-McChord
+- NASA
+- National Nuclear Security Administration
+- Pentagon
+- Project Janus
+- Radiant Industries
+- Redstone Arsenal
+- TechRadar Pro
+- U.S. Army
+- Westinghouse Government Services
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

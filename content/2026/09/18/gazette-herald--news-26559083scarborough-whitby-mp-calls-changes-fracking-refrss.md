@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Burniston
+- Scarborough
+- Whitby
+people:
+- Alison Hume
+organisations:
+- Area Planning Committee
+- Europa Oil & Gas
+- North Yorkshire Council
 ---
 
 *(Image: Supplied)*

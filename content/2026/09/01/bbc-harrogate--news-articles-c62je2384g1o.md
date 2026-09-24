@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Deer Park
+- Nidderdale
+- North Yorkshire
+- Ripon
+- Studley Royal
+people: []
+organisations:
+- NYFRS
+- National Trust
+- North Yorkshire Fire and Rescue
+- North Yorkshire Fire and Rescue Service
+- Studley Royal Cricket Club
 ---
 
 ![Burnt remains of metal twisted on the floor. On top of it is burnt remains of a corrugated metal](https://ichef.bbci.co.uk/ace/standard/637/cpsprodpb/0c4c/live/6c0c29a0-a610-11f1-8637-5b46bde23e50.jpg)

@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- UK
+people:
+- Greggs
+- Mike Egerton
+organisations:
+- Greggs
 ---
 
 *(Image: Mike Egerton/PA Wire)*

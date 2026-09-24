@@ -11,6 +11,18 @@ description: Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes docume
 image: https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838
 categories:
 - Arts & Culture
+locations:
+- Telluride
+people:
+- Billy Evans
+- Elizabeth Holmes
+- Lance Oppenheim
+- Nathan Fielder
+- Trump
+organisations:
+- A24
+- The Hollywood Reporter
+- Theranos
 ---
 
 Telluride just managed one of its best-kept secrets in years, per The Hollywood Reporter. On Sunday night, festivalgoers filed into a 650-seat theater with their phones locked away, having no idea what they were about to see, told only that it ran nearly three hours, hadn’t been shown anywhere, and that its principal creators would be in the audience. The surprise premiere they went on to enjoy is a new documentary from co-directors Nathan Fielder and Lance Oppenheim about Theranos founder Elizabeth Holmes.

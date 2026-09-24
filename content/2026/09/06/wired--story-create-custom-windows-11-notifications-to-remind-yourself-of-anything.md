@@ -12,6 +12,10 @@ categories:
 - Technology & Software
 - Science
 - Self-Improvement
+locations: []
+people: []
+organisations:
+- Microsoft Clock
 ---
 
 While there are plenty of ways to limit notifications on our digital devices and avoid distraction overload, there’s nothing inherently wrong with these alerts. They just need to be well managed and kept in their place.

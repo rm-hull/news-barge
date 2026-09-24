@@ -11,6 +11,42 @@ categories:
 - Local
 - York
 - History
+locations:
+- Ampleforth Abbey
+- Britain
+- Coulton Mill
+- Coulton Mill Cider
+- Coxwold
+- Helmsley
+- Howardian Hills
+- Howardian Hills Cider
+- Husthwaite
+- Kingsley Ash
+- Malton
+- National Landscape
+- North Riding
+- North Yorkshire
+- Scackleton
+- St Lawrence’s Church
+- Thirsk
+- Thornborough Cider
+- UK
+- York
+people:
+- Coulton Mill
+- Elliott Harrison
+- Nick Burrows
+- Tony Bartholomew
+organisations:
+- Ampleforth Abbey
+- Green Balsam
+- Keswick Codling
+- National Landscape
+- Newburgh Priory
+- Ribston Pippin
+- York Beer
+- Yorkshire Beauty
+- Yorkshire Greening
 ---
 
 ## Historic North Yorkshire industry is back on the map

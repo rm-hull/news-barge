@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Gateshead
+- Houghton Feast
+- Middlesbrough
+- Newcastle
+- Newton Aycliffe
+- North East
+- Northumberland
+- Redcar
+- South Tyneside
+- Sunderland
+- Teesside
+people:
+- Anna Turley
+- Chris Cave
+- Connor Brown
+- Jack Woodley
+- Keir Starmer
+- Lisa Nandy
+- SARAH CALDECOTT
+- Tanya Brown
+- Tomasz Oleszak
+- Vicky Foxcroft
+- Yvette Cooper
+- Zoey McGill
+organisations:
+- Department for Culture, Media and Sport
+- Facebook
+- Government
+- Middlesbrough
+- North East Knife Crime Taskforce
+- Northern Echo
+- PCC
+- Redcar
+- The Northern Echo
+- Young Futures
+- Young Futures Hub and Transformation
+- Young Futures Hubs
 ---
 
 Thousands of young people across Teesside will soon have access to new support hubs designed to tackle mental health struggles, unemployment and youth violence.

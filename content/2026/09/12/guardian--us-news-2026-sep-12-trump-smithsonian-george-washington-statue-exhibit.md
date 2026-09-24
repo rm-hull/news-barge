@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Delaware River
+- Dominican Republic
+- Flag Hall
+- Ireland
+- New York
+- Potomac River
+- Rose Garden
+- Smithsonian
+- Trenton
+- US
+- Washington
+people:
+- Barack Obama
+- Donald Trump
+- Erin Scavino
+- George Washington
+- JD Vance
+- Joel Shapiro
+- John Roberts
+- José de Rivera
+- Kehinde Wiley
+- Lonnie Bunch
+organisations:
+- Center for Restorative History
+- Kennedy Center
+- National Museum of American History
+- Smithsonian Institution
+- Smithsonian National Museum of American History
+- Trump
+- Washington Post
 ---
 
 Donald Trump asked the Smithsonian Institution to install a 30ft “Colossus statue” of George Washington outside the National Museum of American History, and a special exhibit honoring the nation’s first president, in a social media post late on Friday.

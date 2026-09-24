@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- East Boldon
+- Ferryhill
+- Harrogate
+- Hartlepool
+- Middlesbrough
+- North East
+- Shildon
+- South Shields
+- Stanhope
+- UK
+- Washington
+people: []
+organisations:
+- Dogs Trust
+- Maggie’s
+- NSPCC
+- Postcode Lottery
+- Postcodes
 ---
 
 *(Image: Postcode Lottery)*

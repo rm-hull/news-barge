@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21020900.jpg?type=og-image
+locations:
+- Heckmondwike
+- Hecky
+- High Street
+- Samarkand
+people:
+- Dad
+- Sammy
+- Shabbir Ahmed Laher
+organisations:
+- Samarkand Restaurant
+- Telegraph & Argus
+- UGC
 ---
 
 *(Image: UGC)*

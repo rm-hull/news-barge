@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Active North Yorkshire
+- North Yorkshire
+- Whitby Community Hospital
+people:
+- Michael Harrison
+organisations:
+- North Yorkshire Council
+- Selby Health and Wellbeing Hub
 ---
 
 Free, potentially life-saving blood pressure checks are being offered to communities across North Yorkshire.

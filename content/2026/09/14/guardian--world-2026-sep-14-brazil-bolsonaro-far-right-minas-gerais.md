@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Amazon
+- Belo Horizonte
+- Brasília
+- Brazil
+- Brazil.
+- France
+- Juiz de Fora
+- Juiz de Fora.
+- Minas Gerais
+- Minas’
+- Sao Paulo
+- US
+people:
+- Bolsonaristas
+- Bolsonaros
+- Bruno Engler
+- Davi Frederico
+- Donald Trump
+- Flávio Bolsonaro
+- God
+- Jair Bolsonaro
+- Jesus Christ
+- José Caldeira
+- Lennon César
+- Luiz Inacio Lula da Silva
+- Luiz Inácio Lula da Silva
+- Nikolas Ferreira
+- Thomas Traumann
+- Ulisses Lima
+organisations:
+- Bolsonaro!
+- Flávio Bolsonaro
+- Juiz de Fora HQ
+- Trump!
 ---
 
 A giant banner of Brazil’s incarcerated former president Jair Bolsonaro fluttered in the morning breeze as his eldest son, Flávio, touched down at an airfield on the fringe of a city that will soon help decide the future of one of the biggest democracies on earth.

@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Britain
+- Holy Trinity
+- Holy Trinity Church
+- Lark Ascending
+- Rachmaninov
+- Ripon Cathedral
+people:
+- Allegro
+- Arutiunian
+- Beethoven
+- Bernstein
+- Chloe Fletcher
+- Chloë Hanslip
+- Elgar
+- Gershwin
+- Martin Roscoe
+- Rachmaninov
+- Shostakovich
+- Tchaikovsky
+- Vaughan Williams’ The
+- Will Thomas
+- Xenophon Kelsey
+organisations:
+- Eroica
+- St Cecilia
+- St Cecilia Orchestra
+- 'St Cecilia Orchestra ## Ripon'
 ---
 
 # International soloists on line-up for 2026-27 season of Ripon’s revered St Cecilia Orchestra

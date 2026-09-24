@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/zqp2DG8vMoudJwMQK9ZP5Z-1920-80.jpg
+locations:
+- Australia
+- England
+- Germany
+- Stockport
+people:
+- Dave
+- David Nield
+- Malte Peter
+organisations:
+- Gizmodo
+- Google News
+- Google Translate
+- PC Explorer
+- The Hardware Handbook
+- University of Augsburg
 ---
 
 ![A split image, showing a buoy floating on the sea on one side, and a diagram of a field of buoys from a scientific journal on the other side](https://cdn.mos.cms.futurecdn.net/zqp2DG8vMoudJwMQK9ZP5Z.jpg)

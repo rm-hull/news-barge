@@ -14,6 +14,20 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/21/13/Ireland_Google__6639.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Dublin
+- Ireland
+- U.S.
+people:
+- Graham Doyle
+organisations:
+- Data Protection Commission
+- EU
+- European Union
+- General Data Protection Regulation
+- Google
+- Meta
+- TikTok
 ---
 
 Google has been fined 403 million euros ($463 million) for breaching the European Union's strict privacy rules because it mishandled users' location data, the bloc's data privacy watchdog said Monday.

@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Newlands Lane
+- PA
+- Upper Poppleton
+- YOUR
+- York
+people:
+- Ben Birchall
+organisations:
+- BSR Energy
+- Public Notice Portal
+- York Council
+- York Plans
 ---
 
 ## Solar farm as big as 118 football pitches could be coming to York

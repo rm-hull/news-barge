@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Browns Lock
+- Chesterfield Canal
+- Rotherham
+people: []
+organisations: []
 ---
 
 # Five cygnets shot with suspected catapult as two left seriously injured

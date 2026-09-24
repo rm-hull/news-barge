@@ -14,6 +14,27 @@ categories:
 - York
 - Technology & Software
 - Automotive
+locations:
+- A64
+- Hopgrove Roundabout
+- LNER Community Stadium
+- Malton Road
+- Monks Cross
+- Monks Cross Garden Village
+- Monks Cross Link
+- Monks Drive
+- New Lane
+- Swindon Town
+- York City
+- York Outer Ring Road
+people: []
+organisations:
+- City of York Council
+- M Group
+- Monks Cross Garden Village
+- Network Monitoring
+- Redrow Yorkshire
+- Yorkshire Water
 ---
 
 *(Image: Submitted)*

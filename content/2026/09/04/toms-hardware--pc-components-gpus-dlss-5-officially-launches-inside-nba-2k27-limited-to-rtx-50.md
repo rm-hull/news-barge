@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Blackwell
+- NBA
+people:
+- Ben Berraondo
+- Hassam Nasir
+- Tom
+organisations:
+- DLSS 5
+- GPU
+- Google News
+- NBA
+- Nvidia
+- PR
+- RTX
 ---
 
 ![DLSS 5 in NBA 2K27](https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif)

@@ -14,6 +14,20 @@ categories:
 - UK
 - Film & TV
 - Technology & Software
+locations:
+- Minneapolis
+- Seattle
+people:
+- Carlton Johnson
+- Drew Evans
+- Joe
+- Joseph Michnowski
+- Shooter
+- Yahye Mahmed Ahmed
+organisations:
+- City of Minneapolis
+- Minnesota Bureau of Criminal Apprehension
+- ___ Golden
 ---
 
 Dramatic video released Wednesday shows the moment two Minneapolis officers were shot after racing to an upper floor of an apartment building in pursuit of a shooter who had also killed two people and wounded three others, one the mother of his child.

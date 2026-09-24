@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brazil
+- London
+- Saudi Arabia
+- Turkey
+people:
+- De Zerbi
+- Omar Marmoush
+- Richarlison
+- Roberto de Zerbi
+organisations:
+- Brentford
+- De Zerbi
+- Everton
+- Manchester City
+- Newcastle United
+- Premier League
+- Richarlison
+- Spurs
+- Toffees
+- Tottenham
+- Watford
+- ofTottenham
 ---
 
 ![Brazil forward Richarlison](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg)

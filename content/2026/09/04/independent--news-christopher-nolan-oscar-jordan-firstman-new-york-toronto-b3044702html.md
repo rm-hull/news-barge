@@ -11,6 +11,52 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Easter Island
+- Germany
+- New York
+- Russia
+- Spain
+- Telluride
+- Toronto
+- Venice
+people:
+- Andrey Zvyagintsev
+- Arie
+- Christopher Miller
+- Christopher Nolan
+- Chuko Esiri
+- Clarissa
+- Cristian Mungiu
+- Curry Barker
+- Fatherland
+- Inde Navarrette
+- James Gray
+- John Malkovich
+- John Turturro
+- John Wilson
+- Jordan Firstman
+- Lee Chang-dong
+- Malkovich Malkovich Malkovich
+- Martin McDonagh
+- Minotaur
+- Mrs. Dalloway
+- Olivia Wilde
+- Oppenheimer
+- Palme
+- Paper Tiger
+- Paweł Pawlikowski
+- Phil Lord
+- Project Hail Mary”
+- Putin
+- Ryusuke Hamaguchi
+- Sam Rockwell
+- Virginia Woolf
+- “Fjord
+organisations:
+- CIA
+- Focus Features
+- NYC
 ---
 
 Fall movie season also means Oscar season.

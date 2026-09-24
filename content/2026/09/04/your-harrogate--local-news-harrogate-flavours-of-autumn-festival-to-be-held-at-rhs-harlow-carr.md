@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Kitchen Garden
+people:
+- Leo Hicks
+organisations:
+- All Stars
+- Chicago Joe
+- RHS Garden Harlow Carr
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ab0c59775c4a96e0.jpg) 

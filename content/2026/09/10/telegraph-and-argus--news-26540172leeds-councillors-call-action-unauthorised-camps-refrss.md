@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- Roundhay Park
+- Temple Newsam
+people:
+- Asghar Khan
+- Coun Khan
+- Coun White
+- Gipton
+- Kieran White
+- Mothin Ali
+- Wayne Dixon
+organisations:
+- Harehills Green Party
+- High Court
+- Labour
+- Leeds City Council
+- Reform
+- Rochdale
 ---
 
 A motion tabled by Reform councillor Kieran White called for a cross-party strategy and the “strongest possible measures” to protect public land.

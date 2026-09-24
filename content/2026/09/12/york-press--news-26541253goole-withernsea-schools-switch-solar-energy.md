@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Science
+locations:
+- Champney Treasure House
+- East Riding
+- Goole
+people:
+- Cllr Aitken
+- Victoria Aitken
+organisations:
+- Department for Education
+- East Riding Council
+- East Riding of Yorkshire Council
+- Kingsway Primary
+- Marshlands Primary
+- Withernsea High School
 ---
 
 ## Three East Riding schools turn to solar power to slash energy bills

@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Kyiv
+- Russia
+- Ukraine
+people: []
+organisations:
+- AP
+- Kyiv
 ---
 
 Photos show Kyiv pausing for Ukraine’s daily minute of silence

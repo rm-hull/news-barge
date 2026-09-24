@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Darlington
+- Great Aycliffe
+- THE NORTHERN ECHO
+people: []
+organisations:
+- Aycliffe Town Council
+- Darlington Santa Run
+- Great Aycliffe Town Council
+- Oak Leaf Sports Complex
+- St Teresa’s Hospice
+- The Fish Tank
 ---
 
 *(Image: THE NORTHERN ECHO)*

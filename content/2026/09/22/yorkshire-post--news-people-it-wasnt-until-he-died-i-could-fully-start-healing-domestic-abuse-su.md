@@ -14,6 +14,26 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM2MTIyZDMwLWRiY2ItNGNjZS04N2Y4LTNiYTI2MWFmZjZlOTplNWIzM2RjMS0wZTliLTQxMjUtOGQyZS1hMmQ3Y2MwMTg5ZjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Scotland
+- Sheffield
+people:
+- Charmian Owston
+- Ellie Reeves
+- Hollie Venn
+- Kilvinder Vigurs
+- Laura Reid
+- Mikaela King
+- Ms Reeves
+organisations:
+- CPS
+- MARAC
+- Policing and Crime
+- Sheffield Women
+- Sheffield Women's Aid
+- Sheffield Women’s Aid
+- South Yorkshire
+- The Yorkshire Post
 ---
 
 # 'It wasn't until he died I could fully start healing' - Domestic abuse survivors reflect on years of trauma

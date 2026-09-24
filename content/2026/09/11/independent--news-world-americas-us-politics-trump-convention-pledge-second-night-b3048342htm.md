@@ -11,6 +11,21 @@ image: https://static.independent.co.uk/2026/09/11/04/2294071880..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- North Carolina
+- Texas
+- United States
+people:
+- Charlie Kirk
+- Donald Trump
+- JD Vance
+- Ken Paxton
+- Michael Whatley
+organisations:
+- Elon University
+- Senate
+- YouGov
 ---
 
 Donald Trump rounded out the final night of his two-day Republican midterm convention in Dallas by leading his audience in a mock version of the Pledge of Allegiance in which he made his followers promise to vote for his allies in the upcoming elections.

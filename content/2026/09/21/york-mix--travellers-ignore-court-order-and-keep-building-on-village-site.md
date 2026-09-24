@@ -11,6 +11,22 @@ categories:
 - York
 - Travel
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/travellers-site-hillam-near-selby-ldrs-1.webp
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Monk Fryston
+- Nic Harne
+- Tim Grogan
+organisations:
+- High Court
+- Leeds District Registry
+- North Yorkshire Council
+- North Yorkshire Police
+- Reform
 ---
 
 Travellers building an unauthorised site in the North Yorkshire countryside have ignored a High Court injunction served by council officers at the weekend, it is claimed.

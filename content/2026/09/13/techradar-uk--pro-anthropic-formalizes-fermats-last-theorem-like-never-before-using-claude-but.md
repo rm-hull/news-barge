@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Andrew Wiles
+- Claude
+- Kevin Buzzard
+- Pierre de Fermat
+organisations:
+- AI
+- Anthropic
+- Astra
+- Efosa
+- Google News
+- Imperial College London
+- Mathlib
+- OpenAI
+- Prove2Me
+- Riemann
+- TechRadar Pro
 ---
 
 ![A robot standing thoughtfully in front of a giant digital display with code on it](https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL.jpg) 

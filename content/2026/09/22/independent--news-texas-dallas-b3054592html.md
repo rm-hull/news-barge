@@ -13,6 +13,17 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/22/Hot_Texas_Prisons_16286.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Texas
+- Texas'
+- U.S.
+people:
+- Amite Dominick
+- Bernie Tiede
+- Robert Pitman
+organisations:
+- Texas Department of Criminal Justice
+- Texas Prisons Community Advocates
 ---
 
 A federal judge on Tuesday ordered Texas to install air conditioning in all of its prisons, saying that inmates in lockups without it are being given punishments that violate their constitutional rights.

@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874d/live/cea155
 categories:
 - UK
 - News & Politics
+locations:
+- Bristol
+- Buckingham Palace
+- Elysee Palace
+- US
+- Wales
+- White House
+people:
+- Barack Obama
+- Christina Perri
+- Donald Trump
+- Emmanuel Macron
+- Joe Biden
+- King
+- Then-Prince Charles
+organisations:
+- Asda
 ---
 
 Watch: President Trump posts edited video of King Charles

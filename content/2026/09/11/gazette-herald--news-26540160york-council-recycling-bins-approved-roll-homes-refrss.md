@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- York
+people:
+- Cllr Ayre
+- Cllr Kent
+- Cllr Nigel Ayre
+- Ian Hoult
+- Jenny Kent
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat
 ---
 
 PEOPLE have been begging for recycling bins in York, the council's environment spokesperson has said, as plans to ditch boxes face calls for a rethink.

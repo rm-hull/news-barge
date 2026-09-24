@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- WhatsApp
+people:
+- Mark Zuckerberg
+- Muse
+organisations:
+- AI
+- Facebook
+- Instagram
+- Meta
+- U.S. Muse
 ---
 
 Meta launched on Tuesday a personal artificial intelligence agent, Muse, for people 18 and over who are looking for help with day-to-day tasks like schedules, shopping and, in the company's words, turning “long-term goals into action plans.”

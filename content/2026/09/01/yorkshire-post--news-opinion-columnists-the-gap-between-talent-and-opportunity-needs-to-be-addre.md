@@ -14,6 +14,13 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Sheffield
+- South Yorkshire
+people:
+- Meredith Dixon-Teasdale
+organisations:
+- Sheffield City Council.
 ---
 
 # The gap between talent and opportunity needs to be addressed - Meredith Dixon-Teasdale

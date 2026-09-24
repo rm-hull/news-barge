@@ -16,6 +16,19 @@ categories:
 - Business & Entrepreneurship
 - Arts & Culture
 - Food & Cooking
+locations:
+- Bradford
+- Goitside Conservation Area
+- Latest Thornton Road
+- Lower Grattan Road
+- Thornton Road
+- YOUR
+people:
+- Hassan Khalil
+organisations:
+- Bradford Council
+- Public Notice Portal
+- Starbucks
 ---
 
 *(Image: T&A)*

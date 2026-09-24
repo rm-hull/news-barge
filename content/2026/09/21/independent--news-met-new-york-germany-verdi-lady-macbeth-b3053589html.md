@@ -12,6 +12,41 @@ categories:
 - UK
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/21/13/Louisa_Proske_Portrait_Session_3_97.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Europe
+- Germany
+- Halle Opera House
+- Heartbeat
+- Metropolitan Opera House
+- Oper Halle
+- Opera House of Halle
+- Renaissance England
+- Saxony-Anhalt
+- U.S.
+people:
+- Banquo
+- Freddie De Tommaso
+- Jacob Ashworth
+- Jon Bausor
+- Jorrell Lawyer-Jefferson
+- Lady Macbeth
+- Lady Macbeth —
+- Lise Davidsen
+- Louisa Proske
+- Macbeth’
+- Macduff
+- Montana Levi Blanco
+- Peter Gelb
+- Quinn Kelsey
+- Ryan Speedo Green
+- Shakespeare
+- Verdi
+- Yannick Nezet-Seguin
+organisations:
+- Heartbeat Opera
+- Oper Halle
+- Proske She
+- University of Cambridge
 ---
 
 It’s less than a 40-minute walk uptown to the Metropolitan Opera House from where Heartbeat Opera got its humble start in a yoga studio. But for Louisa Proske, it’s been an artistic journey years in the making.

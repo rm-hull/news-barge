@@ -11,6 +11,30 @@ description: As the boundary between style and surveillance blurs, are we prepar
 image: https://cdn.mos.cms.futurecdn.net/vrUrZ7JpBBaBFYfG7R6kSX-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Europe
+- London
+people:
+- Catharina Doria
+- Chiara Castro
+- Eva Chen
+- Hendry Parsons
+- Kylie Jenner
+- Lauren Hendry Parsons
+organisations:
+- AI
+- Alexa
+- Big Tech
+- CCTV
+- Chiara
+- GDPR
+- Glossy
+- Google News
+- Meta Ray-Ban
+- Mozilla Foundation
+- No Trace
+- TechRadar
+- VPNs
 ---
 
 ![Halfton eye on black background, Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/vrUrZ7JpBBaBFYfG7R6kSX.png) 

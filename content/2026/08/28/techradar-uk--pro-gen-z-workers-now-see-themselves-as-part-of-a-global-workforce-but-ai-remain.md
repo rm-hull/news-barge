@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- America
+- US
+people:
+- AI
+- Craig Hale
+- Francoise Brougher
+- Pebl
+organisations:
+- Craig’s
+- Gen Z
+- Google News
+- Pebl
+- TechRadar Pro
+- US Gen Z
 ---
 
 ![A female office worker looking on as a male office worker types on a keyboard in front of a monitor](https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM.jpg) 

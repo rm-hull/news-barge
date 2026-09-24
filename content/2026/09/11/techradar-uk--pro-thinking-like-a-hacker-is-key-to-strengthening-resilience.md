@@ -10,6 +10,15 @@ image: https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM-2560-80.jpg
 categories:
 - Technology & Software
 - Self-Improvement
+locations: []
+people: []
+organisations:
+- AI
+- CISO
+- Future plc
+- SolarWinds
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A hooded figure in front of a laptop. Digital symbols obscure his face and appear to be pouring out of his head](https://cdn.mos.cms.futurecdn.net/mdjvPqJZZunuCQDrfEuBFM.jpg) 

@@ -13,6 +13,35 @@ categories:
 - York
 - Business & Entrepreneurship
 - History
+locations:
+- '**'
+- '**York'
+- Great North
+- Hyderabad
+- India
+- Mumbai
+- New Delhi
+- North Yorkshire
+- South
+- UK
+- West Yorkshire
+- York
+people:
+- David Skaith
+- God
+- Mark Corbett
+- Matt Richards
+- Tom Higham
+organisations:
+- )* Yorkshire
+- Air TV
+- Mediale
+- Pic
+- The Biorenewables Development Centre
+- UK Government
+- UNESCO City of Media Arts
+- University of York
+- University of York Mumbai
 ---
 
 *(Image: Pic supplied)*

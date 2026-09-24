@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Clayton Road
+- Lidget Green
+- Quora Retail Park
+- U6
+people:
+- Gregg
+organisations:
+- Gregg's
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

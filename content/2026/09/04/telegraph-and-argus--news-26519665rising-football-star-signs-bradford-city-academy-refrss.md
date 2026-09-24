@@ -12,6 +12,31 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Frame2
+- Horsfall Stadium
+people:
+- Bash
+- Frank Tongue
+- Gavin Coonan
+- Harry Coonan
+- Hassan
+- James Illingworth
+- Joe Brown
+- Josh Illingworth
+- Oliver Webster
+- Ollie Emmett
+- Seth Illingworth
+- Walter Hill
+organisations:
+- Blackburn Rovers
+- Bradford City
+- Garforth
+- Huddersfield Town
+- Leeds United
+- Mansfield Town
+- Sheffield United
+- Sheffield Wednesday
 ---
 
 *(Image: Supplied)*

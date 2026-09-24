@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations: []
+people:
+- Anoushka Mutanda-Dougherty
+- Duane "Keffe D" Davis
+- Tupac Shakur
+organisations:
+- BBC
 ---
 
 # What it was like inside court for Tupac Shakur’s murder trial verdict

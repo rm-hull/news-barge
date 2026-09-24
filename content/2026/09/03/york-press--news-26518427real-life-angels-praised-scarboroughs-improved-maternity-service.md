@@ -14,6 +14,20 @@ categories:
 - York
 - Health & Fitness
 - Family & Parenting
+locations:
+- North Yorkshire
+- Scarborough Hospital
+- York Hospital
+people:
+- Gill Hodgson-Reilly
+organisations:
+- CQC
+- Care Quality Commission
+- Maternity and Neonatal Voices Partnership
+- Midwifery at York
+- Sascha Wells-Munro OBE
+- Scarborough Hospital
+- Scarborough Teaching Hospitals NHS Foundation Trust
 ---
 
 ## Praise for ‘real life angels’ as hospital’s maternity service significantly improves

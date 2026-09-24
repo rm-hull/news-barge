@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- UK
+- United Kingdom
+people:
+- Benedict Collins
+- Matt Salter
+organisations:
+- AI
+- APT
+- BUCSIS
+- Google News
+- Onnec
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Glasfaser-Kabelstränge in der Nahaufnahme](https://cdn.mos.cms.futurecdn.net/y3xw2vYVSzNi7hadSMRpsh.jpg) 

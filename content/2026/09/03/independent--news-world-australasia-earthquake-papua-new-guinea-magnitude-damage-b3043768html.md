@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Colombia
+- Earth
+- Indonesia
+- Japan
+- Mexico
+- Papua New Guinea
+- Philippines
+- Spain
+- Venezuela
+people:
+- Zachary Ross
+organisations:
+- Caltech
+- GFZ German Research Centre for Geosciences
 ---
 
 An earthquake with a preliminary magnitude of 5.7 has struck Papua New Guinea, according to reports.

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Helwath Beck
+- Scarborough
+- Whitby
+- Yorkshire
+people: []
+organisations:
+- North Yorkshire Police
+- Volvo
 ---
 
 # Fylingdales: Motorcyclist dies after crash on A171 near Yorkshire village

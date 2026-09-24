@@ -11,6 +11,40 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- America
+- Fresh Kills
+- Ground Zero
+- Manhattan
+- New York City
+- Pennsylvania
+- Shanksville
+- Staten Island
+- Twin Towers
+- U.S.
+people:
+- Jon Stewart
+- Michael Bloomberg
+- Robert Harding
+- Rudolph Giuliani
+- Steven Banks
+- Zohran Mamdani
+organisations:
+- 11th Victim Compensation Fund
+- Bloomberg
+- City Hall
+- City’s Department of Investigations
+- DEP
+- EPA
+- New York *Daily News
+- New York Post
+- Pentagon
+- Port Authority Police Department
+- The Independent
+- The New York Times
+- Victim Compensation Fund
+- World Trade Center
+- World Trade Center Health Registry
 ---
 
 New York City Mayor Zohran Mamdani released more than 170,000 pages of internal records Tuesday that show officials misled people about the safety of the air around Ground Zero after the September 11 terror attacks.

@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- HDMI
+people: []
+organisations:
+- AMD
+- Efosa
+- GPU
+- Google News
+- Gorgon Halo
+- SIXUNITED
+- TechRadar Pro
 ---
 
 ![SIXUNITED AMD GORGON HALO LAPTOP](https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ.jpg) 

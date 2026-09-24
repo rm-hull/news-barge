@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479147.jpg?type=og-image
+locations:
+- Keighley
+- Saltaire
+- Seat Alhambra
+- Shipley
+- South Yorkshire
+- West Yorkshire
+people: []
+organisations:
+- Keighley Neighbourhood Policing Team
+- South Yorkshire Police
 ---
 
 *(Image: WYP)*

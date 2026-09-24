@@ -15,6 +15,15 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- North East
+- UK
+people:
+- Eric Guo
+organisations:
+- New Apex Ltd
+- North East Logistics
+- Spark Robotics
 ---
 
 *(Image: Supplied)*

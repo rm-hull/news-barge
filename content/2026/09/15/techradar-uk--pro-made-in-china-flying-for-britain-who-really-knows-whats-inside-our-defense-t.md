@@ -10,6 +10,23 @@ description: Chinese tech in Royal Navy Drone incident serves as a warning
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- China
+- Tier Two
+- Ukraine
+people: []
+organisations:
+- Avella Security
+- BOM
+- CISA
+- Cybersecurity and Infrastructure Security Agency
+- Future plc
+- Ministry of Defence
+- Royal Navy
+- TechRadar Pro
+- TechRadarPro
+- Tier One
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

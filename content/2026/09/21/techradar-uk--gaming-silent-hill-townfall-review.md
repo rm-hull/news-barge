@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/pg4esiwdK5BrW4Zzb6NV8D-2560-80.jpg
+locations:
+- Japan
+- North America
+- Scotland
+- Silent Hill
+- St. Amelia
+people:
+- Akira Yamaoka
+- Harry
+- Heather Mason
+- James Sunderland
+- Kezia Burrows’ Zoe
+- Lewis Maddison
+- Mary
+- Pilotpriest
+- Richard —
+- Screen Burn
+- Simon Ordell
+- Simon — Zoe
+- Travis Grady
+organisations:
+- CRTV
+- Konami
+- Screen Burn Interactive
+- TechRadar Pro
+- Zoe
 ---
 
 ### TechRadar Verdict

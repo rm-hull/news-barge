@@ -14,6 +14,14 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bradley
+- Britain
+- Skipton
+- Swansea
+people:
+- Buddleia
+organisations: []
 ---
 
 # Amazing insects hiding in plain sight

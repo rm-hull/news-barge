@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A1M Southbound
+- Burshaw Interchange
+- Burtree Gate
+- County Durham
+- Darlington
+- Junction 57
+- Junction 58
+- M
+- Stapleton
+people: []
+organisations:
+- A1
+- A66
+- AA Traffic News
+- Darlington Fire and Rescue Service
+- Durham Police
+- Great North Air Ambulance
+- Great North Air Ambulance Service
+- National Highways
+- North East Ambulance Service
 ---
 
 A fleet of 999 crews including an air ambulance have swarmed the A1(M) near Darlington following a three-vehicle crash - with the road shut in both directions.

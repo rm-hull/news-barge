@@ -12,6 +12,35 @@ image: https://images.euronews.com/articles/stories/09/89/23/40/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Astana
+- Great Steppe
+- Kazakhstan
+- Kurultai
+- Mazhilis
+people:
+- Aibek Dadebai
+- Ak Zhol
+- Amanat
+- Dania Espaeva
+- Dinara Zakiyeva
+- Kassym-Jomart Tokayev
+- Nurlan Beknazarov
+organisations:
+- Adilet
+- Auyl
+- Constitution
+- Dadebai
+- Kazakhstan People’s Council
+- Kurultai
+- Mazhilis
+- Nationwide Social Democratic Party
+- Nur Otan
+- OSDP
+- Presidential Administration
+- Respublica
+- Security Council
+- Senate
 ---
 
 ## Kazakhstan’s newly elected unicameral parliament has held its first session under a new Constitution that reshaped the country’s political system. The government has stepped down as required, with a new cabinet set to be formed.

@@ -13,6 +13,49 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Albania
+- Amsterdam
+- Athens
+- Austria
+- Berlin
+- Bratislava
+- Brussels
+- Bucharest
+- Budapest
+- Copenhagen
+- Dublin
+- Europe
+- Finland
+- Germany
+- Greece
+- Hungary
+- London
+- Luxembourg City
+- Madrid
+- Malta
+- Nicosia
+- Norway
+- Oslo
+- Paris
+- Portugal
+- Prague
+- Rome
+- Slovenia
+- Sofia
+- Spain
+- Switzerland
+- Tallinn
+- Tirana
+- UK
+- Valletta
+- Vienna Central Station
+- Vilnius
+people: []
+organisations:
+- Bern
+- EU
+- Greenpeace
 ---
 
 ## A new Greenpeace study has found that fares have risen in 14 European capitals since 2023, with some cities seeing prices climb by more than 50% – although public transport has become cheaper in four others.

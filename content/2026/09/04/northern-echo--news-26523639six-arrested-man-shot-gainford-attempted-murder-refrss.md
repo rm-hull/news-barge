@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Balmer Hill
+- County Durham
+- Gainford
+- NORTHERN ECHO
+people:
+- Jenny
+organisations:
+- CSI
+- Durham Police
+- Jaguar
+- NORTHERN ECHO
+- NORTHERN ECHO)* Police
+- Newcastle
+- Sky Sports News
 ---
 
 Six more people have been arrested after a man was shot in a suspected attempted murder in a quiet County Durham village.

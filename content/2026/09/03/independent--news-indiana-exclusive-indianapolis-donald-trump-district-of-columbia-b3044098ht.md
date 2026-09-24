@@ -13,6 +13,23 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- District of Columbia
+- Indiana
+- Indianapolis
+- White House
+people:
+- Donald Trump
+- Foster
+- Malinda Cox
+- Meygan Maloney
+- Mike Braun
+organisations:
+- AP
+- Associated Press’
+- Congress
+- District of Columbia
+- The Associated Press
 ---
 
 There's the mother of two who needs a full-time job to keep up with the bills, but can’t afford full-time childcare. There’s the medical technician who stopped buying groceries and turned to food banks so she could pay for her infant's care.

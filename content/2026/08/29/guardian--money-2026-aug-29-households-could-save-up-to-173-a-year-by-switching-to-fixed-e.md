@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Great Britain
+- Martin Lewis
+people:
+- Gareth Kloet
+- Sarah Coles
+organisations:
+- AJ Bell
+- Co-op Energy
+- Cornwall Insight
+- E.ON Next
+- Ecotricity
+- Fuse Energy
+- Go.Compare
+- MoneySuperMarket
+- Octopus Energy
+- Ofgem
+- Uswitch
 ---
 
 With higher energy bills looming and warnings of worse to come in the new year, many households could save up to £173 a year by switching to a fixed deal.

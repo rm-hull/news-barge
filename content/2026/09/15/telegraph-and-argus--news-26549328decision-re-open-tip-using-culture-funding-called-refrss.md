@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Cross Roads
+- Keighley
+- Sugden End
+people:
+- Cllr Fricker
+- Imran Khan
+- Stephen Place
+- Susan Fricker
+organisations:
+- Bingley
+- Bradford Council’s Reform Executive
+- Labour
+- Regeneration and Environment Scrutiny Committee
 ---
 
 *(Image: Staff)*

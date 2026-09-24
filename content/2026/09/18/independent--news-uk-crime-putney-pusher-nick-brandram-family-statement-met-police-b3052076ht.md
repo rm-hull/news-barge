@@ -13,6 +13,33 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/17/13/4cbc230f0fdfe7ce9a93f43ff12527f2Y29udGVudHNlYXJjaGFwaSwxNzg5NzMzMzAz-2.85883603.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Bosnia
+- Chiswick
+- Denmark
+- Greece
+- Iraq
+- London
+- Putney Bridge
+- West End
+people:
+- Alexia Hicks
+- Brantham
+- Dan Knowles
+- Katherine
+- Nicholas Bandram
+- Nicholas Brandram
+- Nick
+- Putney
+- Sophie Volker
+- Victoria
+organisations:
+- '## Office alibi'
+- BBC Radio 4
+- British Army
+- Met Police
+- Metropolitan Police
 ---
 
 When a woman was shoved into the path of a bus on Putney Bridge almost a decade ago, it prompted public outrage which only intensified when grainy footage of the notorious offence went viral.

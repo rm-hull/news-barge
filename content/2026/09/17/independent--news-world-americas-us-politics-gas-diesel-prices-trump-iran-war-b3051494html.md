@@ -13,6 +13,45 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- California
+- Connecticut
+- Encinitas
+- Georgia
+- Great Lakes
+- Iran
+- Iraq
+- Maine
+- Massachusetts
+- Medina
+- New Hampshire
+- New Jersey
+- New York
+- North Carolina
+- Persian Gulf
+- Rhode Island
+- Rocky Mountain
+- Saudi Arabia
+- U.S.
+- Vermont
+- Yemen
+people:
+- Donald Trump
+- Liz Thomas
+- Marjorie Taylor Greene
+- Michael Whatley
+- Patrick De Haan
+- Tom Kloza
+organisations:
+- AAA
+- Bureau of Labor Statistics
+- De Haan
+- GasBuddy
+- Gulf Oil
+- Independent Grocers Alliance
+- Reuters
+- Senate
+- SoFi
 ---
 
 The price of diesel hit another record high Thursday morning and is expected to climb higher — along with the surging cost of gasoline — as fallout from President Donald Trump’s ongoing Iran war continues to restrict global oil supplies.

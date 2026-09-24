@@ -10,6 +10,28 @@ description: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024
 categories:
 - Technology & Software
+locations: []
+people:
+- Claude
+organisations:
+- Amazon Web Services
+- ChatGPT Mil
+- Defense Department
+- Department of Defense
+- GenAI.mil
+- Google Gemini
+- Grok for Government
+- Grok’s
+- Microsoft
+- Nvidia
+- OpenAI for Government
+- Pentagon
+- Reflection AI
+- SpaceX
+- Starlink
+- Starshield AI
+- Trump
+- xAI
 ---
 
 The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.”

@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bacup Road
+- Calderdale
+- Henbury Hill
+- Henbury Hill Farm
+- Lancashire
+- Reaps Moss
+- Rossendale Council
+- Todmorden Road
+- Yorkshire
+- Yorkshire-Lancashire
+people: []
+organisations:
+- Bacup
+- Calderdale Council
+- Envams
+- Ltd
+- O & G Wind
+- Rossendale Council
+- Rossendale –
+- Todmorden
 ---
 
 # Bid to build 150-metre high wind turbine near Yorkshire-Lancashire border

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Iceland
+- UK
+people:
+- Natalie Dawe
+organisations:
+- Argos
+- Asda
+- Cadbury Biscoff Filled Centres
+- Clubcard
+- Co-op
+- Dairy Milk Buttons Smash Baubles
+- Lidl
+- Morrisons
+- Newsquest
+- Ocado
+- Roast Potato Crisps
+- Tesco
 ---
 
 *(Image: Newsquest)*

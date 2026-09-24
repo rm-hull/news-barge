@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Filey Brigg
+- Filey Brigg Country Park
+- Filey Brigg Country Park New
+- Yorkshire
+people:
+- Simon Myers
+organisations:
+- Country Park Café
+- Filey Food Festival
+- North Yorkshire Council
+- Northern Kite Group
 ---
 
 The popular Filey Kite Festival is set to return later this month – with new Friday night flight.

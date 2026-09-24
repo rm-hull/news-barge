@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - History
 - Film & TV
+locations:
+- Alarm Room
+- Aldersgate Methodist Church
+- Bradford
+- Bradford’s Nelson Street Fire Station
+- Central Station
+- Cleckheaton Road
+- Low Moor
+- Low Moor Munitions Factory
+- Low Moor Station
+- Odsal
+- Victoria Park
+- Wesley Place Methodist Church
+- Wyke
+people:
+- Barbara Reardon
+- Chris Smith
+- Frank
+- Geoff Twentyman
+- Hayhurst
+- Ida Clarkson
+- James Broughton
+- James Scott
+- John Majerus
+- John Majerus Briggs
+- Martha Briggs
+- Mary Twentyman
+- Sam Wade
+organisations:
+- Bradford Brigade New Works School
+- Bradford Historical and Antiquarian Society
+- LMLHG Archive
+- LMLHG Archive Eyewitness
+- Low Moor Local History Group
+- Nearby New Works School
+- Red Cross
+- St John’s Ambulance
+- Telegraph & Argus
+- The Low Moor Comical Company
 ---
 
 Whoever picked up the phone at Bradford’s Nelson Street Fire Station at 2.33pm on Monday August 21st, 1916, would never have imagined the scenes the city’s firemen were about to witness.

@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Crossflatts
+- Gilstead
+- Marley Court
+- Swan Avenue
+people: []
+organisations:
+- BMW
+- CCTV
+- Newsquest
+- West Yorkshire Police
+- Yamaha MT
 ---
 
 *(Image: Newsquest)*

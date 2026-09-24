@@ -11,6 +11,14 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/rahim-york.webp
+locations:
+- Cornlands Road
+- Holgate
+- York
+people:
+- Rahim
+organisations:
+- Force Control Room
 ---
 
 An urgent search is underway for a boy missing from his York home.

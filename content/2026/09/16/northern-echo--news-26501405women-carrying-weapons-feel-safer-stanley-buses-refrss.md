@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- County Durham
+- Dalton Park
+- Darlington County Durham
+- North East
+- Stanley Bus Station
+- White Ribbon
+people:
+- Ben Gilligan
+- Debbie Rogan
+- Linda Kirk
+- Luke Akehurst
+- Rachael Smith
+- Stanley
+organisations:
+- Arriva
+- Bus Service Improvement Plan
+- Durham County Council
+- Just for Women Centre
+- North East MSA
+- North East Mayoral Strategic Authority
+- Teesside
 ---
 
 A County Durham women's centre says women and girls are carrying everyday items as improvised weapons to feel safer on public transport.

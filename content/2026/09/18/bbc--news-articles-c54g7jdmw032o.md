@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg
+locations:
+- Massachusetts
+- Plymouth Superior Court
+- US
+people:
+- Callan
+- Cora
+- Dawson
+- Kevin Reddington
+- Lindsay Clancy
+- Michael Desronvil
+- Patrick Clancy
+- Paula Devlin
+organisations:
+- ABC
+- American Psychiatric Association
+- BBC
+- CBS Mornings
+- CBS News
+- Good Morning America
+- NBC
+- WBZ-TV
 ---
 
 ![Defendant Lindsay Clancy in the courtroom during the trial](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg)

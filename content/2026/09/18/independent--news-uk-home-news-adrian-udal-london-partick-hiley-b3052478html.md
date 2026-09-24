@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Disbrowe Road
+- Fulham
+- London
+- Mayor's
+- North America
+- Partick-Hileys’ house
+- St Margaret’s Church
+- Westminster Abbey
+people:
+- Adrian Udal
+- Lisa Partick-Hiley
+- Mark Warwick KC
+- Martin Dray
+- Master Dray
+- Nicholas Parfitt
+- Nicholas Partick-Hiley
+organisations:
+- City County Court
+- High Court
+- Houses of Parliament
+- Panmure Gordon
+- Partick-Hileys
 ---
 
 A High Court judge has ordered the sale of a £1 million London home belonging to Parliament’s chief bellringer following a disastrous court battle with his next-door neighbour.

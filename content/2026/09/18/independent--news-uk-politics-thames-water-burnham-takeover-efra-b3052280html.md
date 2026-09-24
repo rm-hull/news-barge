@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Thames Water
+- UK
+- US
+people:
+- Alistair Carmichael
+- Andy Burnham
+- Emma Reynolds
+- Steve Buck
+organisations:
+- Apollo Global Management
+- Efra Committee
+- Elliott Management
+- Environment, Food and Rural Affairs
+- KKR
+- London & Valley Water
+- Ofwat
+- Special Administration
+- Special Administration Regime
+- Thames Water
+- Thames Water-style
 ---
 
 Thames Water’s rescue deal by lenders should be rejected, and the government should take it back into public control, according to an influential group of MPs.

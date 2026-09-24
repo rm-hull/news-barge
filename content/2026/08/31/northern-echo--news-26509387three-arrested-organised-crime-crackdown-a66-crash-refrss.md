@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birchington Avenue
+- Burns Road
+- CLEVELAND
+- County Durham
+- Derwentwater Road
+- Grangetown
+- Haswell
+- Middlesbrough
+- South Bank
+- Teesside Magistrates’ Court
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Michael Robert Cahill
+- Natalie McDonald
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+- Wayne Fox
+organisations:
+- A66
+- Bank Holiday
+- Cleveland Police
+- Durham Constabulary
+- North News & Pictures Ltd
 ---
 
 *(Image: North News & Pictures Ltd)*

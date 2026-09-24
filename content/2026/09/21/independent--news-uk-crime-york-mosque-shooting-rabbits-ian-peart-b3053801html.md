@@ -12,6 +12,15 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/07/30/6/16/Screenshot-2026-07-30-at-07-50-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bellfarm Avenue
+- York Mosque
+people:
+- Ian Peart
+- Sarah Tyrer
+organisations:
+- North Yorkshire Police
+- York Magistrates’ Court
 ---
 
 A man who was arrested after shots were heard outside a mosque was firing at rabbits with an air rifle, magistrates have accepted.

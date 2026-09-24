@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+people:
+- Angus Taylor
+- Anika Wells
+- Chanel Contos
+- Mark Zuckerberg
+- Shou Zi Chew
+organisations:
+- ABC
+- Anika Wells
+- Channel Nine
+- Google
+- Labor
+- Liberal Party
+- Meta
+- National Press Club
+- News24
+- TikTok
+- US Senate Judiciary Committee
 ---
 
 ![A woman in a tartan jacket and white dress speaks. Several flags can be seen in the background](https://ichef.bbci.co.uk/ace/standard/910/cpsprodpb/db8d/live/68beaa90-aa69-11f1-aed2-8d6da8d75094.jpg)

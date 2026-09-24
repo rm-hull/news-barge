@@ -15,6 +15,23 @@ categories:
 - York
 - True Crime
 - Sports
+locations:
+- Abbey Orchard Street
+- Leeds
+- London
+- Old Bailey
+- St James' Park
+- Wesley Road
+- Westminster
+people:
+- '## Sulaiman Tajzai'
+- Farmanullah Sherzad
+- Sulaiman Tajzai
+- Wayne Jolley
+organisations:
+- CCTV
+- Metropolitan Police
+- Tajzai
 ---
 
 # CCTV footage captures moment Leeds man buys knife - before travelling 150miles to fatally stab man

@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- Bradford
+- Castleford
+- Toulouse
+people:
+- Achilles
+- Alex Whitehead
+- Andrew Dixon
+- Cam Scott
+- Esan Marsters
+- James Bentley
+- Jamie Gill
+- Jason Hirst
+- John Bateman
+- Kurt Haggerty
+- Ligi Sao
+- Olly Hassell
+- Sam Eseh
+organisations:
+- BRADFORD Bulls
+- Bulls’
+- Hull FC
+- IMG
+- London Broncos
+- Love Rugby League
+- Physio and Strength and Conditioning Department
+- Super League
 ---
 
 BRADFORD Bulls have sunk to the bottom of Betfred Super League having lost 10 of their last 11 games.

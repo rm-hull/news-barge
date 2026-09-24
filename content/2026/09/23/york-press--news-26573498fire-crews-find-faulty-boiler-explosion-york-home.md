@@ -12,6 +12,14 @@ categories:
 - York
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/12194673.jpg?type=og-image
+locations:
+- Acomb
+- Easingwold
+- Peckitt Street
+- York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue
 ---
 
 *(Image: Submitted)*

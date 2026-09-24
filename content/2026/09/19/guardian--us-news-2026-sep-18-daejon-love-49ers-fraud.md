@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/54ca295d8d727a7f89913d8b330ce47733d11451/0_0_8256_5504/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5d46c7a091ece4221a07825597e15b9
+locations:
+- California
+- Idaho
+- Oregon
+- Washington
+people:
+- Daejon Love
+- Douglas Olson
+- Taylor Chan
+organisations:
+- NFL
+- Portland FBI
+- San Francisco 49ers
 ---
 
 At least 35 additional women have come forward with fraud allegations against Daejon Love, the man accused last month of masquerading as a San Francisco 49ers player and wealthy investor, the FBI announced on Friday. Federal authorities had previously said Love conned more than two dozen women, many of whom he met on dating apps, out of $1.3m.

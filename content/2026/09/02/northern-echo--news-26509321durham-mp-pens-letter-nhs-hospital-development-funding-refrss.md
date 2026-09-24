@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Chris Booth
+- City of Durham
+- County Durham
+- Darlington
+- Dryburn House
+- Durham City
+- East Wing
+- North Durham
+- University Hospital North Durham
+people:
+- Chris Booth
+- MARY FOY
+- Mary Kelly Foy
+- Ms Foy
+- Steve Russell
+- Yvette Cooper
+organisations:
+- City of Durham
+- County Durham
+- Darlington NHS Foundation Trust
+- Department
+- Durham A&E
+- NHS Trust
+- PA MEDIA
+- The Northern Echo
+- University Hospital
+- University Hospital of North Durham
 ---
 
 A County Durham MP has called on the government to back funding for the extension of the University Hospital of North Durham following revelations that the project had been previously snubbed.

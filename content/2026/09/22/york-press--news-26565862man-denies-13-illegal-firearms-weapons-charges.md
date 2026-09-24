@@ -12,6 +12,17 @@ categories:
 - York
 - Law & Justice
 image: https://www.yorkpress.co.uk/resources/images/17547669.jpg?type=og-image
+locations:
+- Mill Close
+- Ravensworth
+- Richmond
+- Stuart Avenue
+people:
+- Danielle Falconer
+- Frank Dwyer
+- Miles Frankland
+organisations:
+- York Crown Court
 ---
 
 *(Image: Frank Dwyer)*

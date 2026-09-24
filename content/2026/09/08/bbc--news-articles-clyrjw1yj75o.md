@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Afghanistan
+- America
+- Cuba
+- Guantanamo Bay
+- Iraq
+- Manhattan
+- New York City
+- Pennsylvania
+- US
+- Virginia
+people:
+- Barack Obama
+- Bin Laden
+- Brett Eagleson
+- Bruce
+- George W Bush
+- John Resta
+- John Ryan
+- Kasey McCall-Smith
+- Khalid Sheikh Mohammed
+- Mohammad
+- Osama bin Laden
+- Ralph
+- Stephan Gerhardt
+- Sylvia **
+- Sylvia Resta
+- Tom Resta
+organisations:
+- Air Force One
+- BBC
+- CIA
+- Edinburgh University
+- FBI
+- George W Bush
+- KSM
+- Most Wanted
+- One World Trade Center
+- Pentagon
+- World Trade Center
+- al-Qaeda
 ---
 
 ![John Resta is on the left, he has dark hair and is wearing a white linen shirt and his wife Sylvia is on the right, with dark long hair and a blue short-sleeved shirt. She is pressed against him, her left hand on his chest. It has a wedding ring on it. They are both smiling. Behind them is grass with flowers.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0821/live/c8daefe0-ab79-11f1-aed2-8d6da8d75094.jpg)

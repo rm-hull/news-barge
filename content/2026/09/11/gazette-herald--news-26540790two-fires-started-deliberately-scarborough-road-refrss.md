@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Barrowcliff Road
+- North Yorkshire
+- Scarborough
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

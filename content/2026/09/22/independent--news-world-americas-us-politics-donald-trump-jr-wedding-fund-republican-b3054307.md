@@ -10,6 +10,34 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/13/13/GettyImages-2294362819.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Bahamas
+- California
+- China
+- Sen
+- U.S.
+- Ukraine
+- Utah
+- White House
+people:
+- Bettina Anderson
+- Donald Trump Jr.
+- Donald Trump Jr.’s
+- George
+- Hunter Biden
+- Joe Biden
+- John Curtis
+- Robert Garcia
+- Umar Kremlev
+- Utah Sen
+- Vladimir Putin
+organisations:
+- Donald Trump Jr.’s
+- Gallup
+- House Oversight Committee
+- International Boxing Association
+- ProPublica
+- Senate Judiciary Committee
 ---
 
 In an apparent show of bipartisanship, a Republican senator has called for the Senate Judiciary Committee to subpoena both Donald Trump Jr. and Hunter Biden.

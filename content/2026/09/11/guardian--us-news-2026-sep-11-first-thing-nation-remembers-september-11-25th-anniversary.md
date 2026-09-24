@@ -13,6 +13,61 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- AI
+- Abu Ghraib
+- America
+- Arlington
+- California
+- England.
+- France
+- Geneva
+- Guantánamo Bay
+- Hollywood
+- Hong Kong
+- London
+- New York
+- Pennsylvania
+- Seoul
+- South Korea
+- US
+- Virginia
+- Washington
+- West Chiltington
+people:
+- Amy Sweeney
+- Anna Sweeney Rossman
+- Brian Clark
+- Caitlin Cassidy
+- Charles
+- David Smith
+- Diana
+- Donald Trump
+- Gavin Newsom
+- JD Vance
+- Jason Burke
+- Katie Edwards
+- Nicole Kidman
+- Osama bin Laden
+- Phil Buehler
+- Ramon Antonio Vargas
+- Raphael Rashid
+- Robert Tait
+- Sandra Bullock
+- Stanley Praimnath
+organisations:
+- AI
+- American Airlines
+- CIA
+- Elon Musk
+- Guardian
+- Instagram
+- Pentagon
+- Rohey Cham
+- Sotheby’s
+- Trump
+- US Congress
+- World Trade Center
 ---
 
 Good morning. It is a sombre day for the nation as people gather to mourn and remember the nearly 3,000 victims of the attacks on September 11 2001, when 19 al-Qaida hijackers seized control of four airliners, slamming two of the planes into the World Trade Center, one into the Pentagon in Arlington, Virginia, and the fourth into a field in western Pennsylvania.

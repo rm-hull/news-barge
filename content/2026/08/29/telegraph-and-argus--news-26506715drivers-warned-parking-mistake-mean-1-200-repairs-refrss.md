@@ -15,6 +15,17 @@ categories:
 - Automotive
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- UK
+people:
+- Graham Conway
+- Mike Smith
+organisations:
+- Conway
+- DVLA
+- DVSA
+- Platinum Motor Group
+- Select Car Leasing
 ---
 
 *(Image: Getty)*

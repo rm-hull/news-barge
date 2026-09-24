@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/JMtYaskPnUwwanZfdGHY99-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- America
+- UK
+- US
+- Virgin River
+people:
+- George Cooper Sr.
+- Michael Sarnoski
+- Robin Hood
+- Sam
+organisations:
+- A24
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![An animated man cradles an unborn baby](https://cdn.mos.cms.futurecdn.net/JMtYaskPnUwwanZfdGHY99.jpg) 

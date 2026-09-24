@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Bradford
+- UK
+people:
+- James Harding
+organisations:
+- Blackcircles.com
+- DVLA
+- Tyre
 ---
 
 *(Image: CBCK/Getty)*

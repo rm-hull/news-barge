@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Asia
+- Casa Diego
+- Casa de Diego
+- Cuba
+- Latin America
+- Madrid
+- Madrid.
+- Puerta del Sol
+- Royal Palace
+- Spain
+- Spain.
+- Spanishmetro
+- Western Europe
+people:
+- Ana Feliu
+- Carmen Torres
+- David González
+- Diego Velázquez
+- Javier Llerandi
+- Juani Duran
+organisations:
+- Llerandi
+- Llerandi's
+- Madrid’s Pride
+- Valencia
 ---
 
 A traditional accessory has become ubiquitous across crowded Spanishmetro carriages and sunlit plazas this year, driven by the intense summer heat.

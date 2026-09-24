@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- America
+- Australia
+- Britain
+- Canada
+- County Durham
+- Darlington
+- Europe
+- Georgia
+- Hartlepool
+- London
+- NHS England
+- Northern Ireland
+- Scotland
+- UK
+people:
+- Bev
+- Friedreich
+- Georgia Hart
+- Jonathan Brash
+- ’s Questions
+organisations:
+- Ataxia UK
+- Biogen
+- Boro
+- Department of Health and Social Care
+- FA
+- House
+- NHS
+- NICE
+- National Institute for Health and Care Excellence
+- National Institute of Clinical Excellence
+- Northern Echo
+- OMAV
+- Teesside University
 ---
 
 *(Image: PROVIDED)*

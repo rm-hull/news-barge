@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Kimball
+organisations:
+- Disney
+- Kennedy News
+- Office for Product Safety & Standards
+- Primark
 ---
 
 *(Image: Getty Images)*

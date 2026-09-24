@@ -11,6 +11,38 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35ab/live/4abe9580-b5dd-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Amazon
+- Baghdad
+- Buckingham Palace
+- Prince of Wales
+- Spencers' Althorp
+- Sussex
+- Westminster Abbey
+people:
+- Andrew Lownie
+- Andrew Mountbatten-Windsor
+- Charles Spencer
+- Charles While
+- David Bowie
+- Diana Spencer
+- Dodi Fayed
+- Earl Spencer
+- Harry
+- King
+- Laura Kuenssberg
+- Laura Kuenssberg.
+- Meghan
+- Mohammed Fayed
+- Prince Charles
+- Prince William
+- Raine Spencer
+organisations:
+- BBC
+- Daily Mail
+- Royal Family
+- Royal Watch
+- The Sound of Music
 ---
 
 ![Earl Spencer talking about his memoir of Diana with the BBC's Laura Kuenssberg.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/35ab/live/4abe9580-b5dd-11f1-8c16-65d8f060d73f.jpg)

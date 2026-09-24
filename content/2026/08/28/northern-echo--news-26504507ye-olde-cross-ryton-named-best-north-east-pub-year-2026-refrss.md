@@ -13,6 +13,55 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bell
+- Cheshire
+- Chislehurst Merseyside
+- Clevedon Wales
+- Cockpit
+- Dog
+- Duck Inn
+- East Anglia
+- England
+- Fallen Tree
+- Gateshead
+- Isle of Whithorn South Central
+- Ketton Greater London
+- Linton West Midlands
+- Lisbellaw Scotland
+- Malt Shovel Tavern
+- Marple Bridge Northern Ireland
+- Mold Alehouse
+- Mold West Central
+- Nelson Arms
+- North East
+- Northampton East Midlands
+- Northern Ireland
+- Old Ryton Village North West
+- Railway Inn
+- Saffron Walden East Central
+- St. Helens North East
+- Steam Packet Inn
+- Tonbridge South West
+- Turks Head
+- Tyne Valley
+- UK
+- Waltham St Lawrence South East
+- Ye Olde Cross
+people:
+- Ye Olde Cross
+organisations:
+- Alma Inn
+- CAMRA
+- Countryman's Inn
+- Google Maps
+- Hunton
+- Northumberland Arms
+- Railway Arms
+- Tamworth Tap
+- Tamworth Yorkshire
+- Wales
+- Ye Olde Cross
 ---
 
 *(Image: Google Maps)*

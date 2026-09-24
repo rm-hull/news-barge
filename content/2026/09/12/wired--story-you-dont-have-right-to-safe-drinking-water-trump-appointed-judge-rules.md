@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Grist
+- Jackson
+- Massachusetts
+- Mississippi
+- New York
+- South Africa
+- US
+- Uruguay
+people:
+- Donald Trump
+- Jackson
+- Jim Murphy
+- Kurt Engelhardt
+- Priscilla Sterling
+organisations:
+- Constitution
+- EPA
+- Fifth Circuit
+- Fifth Circuit Court of Appeals
+- Mississippi State Department of Health
+- Mother Jones
+- National Wildlife Federation
+- Trump
 ---
 
 *This story originally appeared on Mother Jones and is part of the Climate Desk collaboration.*

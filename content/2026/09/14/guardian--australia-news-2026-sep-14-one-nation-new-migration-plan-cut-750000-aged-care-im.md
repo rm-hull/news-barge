@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- Pacific
+people:
+- Andrew McKellar
+- Angus Taylor
+- Anthony Albanese
+- Bran Black
+- David Farley
+- Farrer
+- Hamish McIntyre
+- Mark Butler
+- Pauline Hanson
+organisations:
+- Australian Chamber of Commerce and Industry
+- Business Council of Australia
+- Channel Nine
+- Coalition
+- Labor
+- National Farmers’ Federation
+- One Nation
 ---
 
 One Nation says it will cut the number of temporary migrants in Australia by more than 750,000 over three years, targeting international students and family members of skilled migrants in a “net-negative” plan.

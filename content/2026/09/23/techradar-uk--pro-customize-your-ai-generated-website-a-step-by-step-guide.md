@@ -11,6 +11,23 @@ categories:
 - Business & Entrepreneurship
 - Creator Economy & Marketing
 image: https://cdn.mos.cms.futurecdn.net/UG5iuffDbLXwkTnLsQhRoZ-1376-80.jpg
+locations:
+- AI
+- India
+- West Bengal
+people:
+- Ritoban Mukherjee
+organisations:
+- AI
+- Creative Bloq
+- Gizmodo
+- Google
+- IT Pro
+- Quartz
+- Ritoban Mukherjee
+- TechRadar Pro
+- Tom's Guide
+- Wix
 ---
 
 ![A woman sat at a desk editing an AI generated website ](https://cdn.mos.cms.futurecdn.net/UG5iuffDbLXwkTnLsQhRoZ.jpg)

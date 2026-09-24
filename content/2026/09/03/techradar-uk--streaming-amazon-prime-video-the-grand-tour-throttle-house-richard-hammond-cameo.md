@@ -13,6 +13,30 @@ image: https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24-1920-80.jpg
 categories:
 - Technology & Software
 - History
+locations:
+- Virgin River
+people:
+- Francis Bourgeois
+- George Cooper Sr.
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Amazon
+- Google News
+- Hallmark
+- Holland
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- TikTok
+- Tuthill
+- Yahoo!
+- YouTube
 ---
 
 ![James, Francis and Thomas look at something on a racetrack](https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24.jpg) 

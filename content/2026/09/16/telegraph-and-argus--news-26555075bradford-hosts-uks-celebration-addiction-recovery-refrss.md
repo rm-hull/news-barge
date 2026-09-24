@@ -14,6 +14,23 @@ categories:
 - Bradford
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Baildon
+- Bradford
+- Britain
+- Centenary Square
+- Finland
+- UGC
+- UK Recovery Walk
+people:
+- Bradford
+- Dave Memery
+- Steve Rowe
+organisations:
+- Bradford Live
+- Create Strength Group
+- UGC
+- UK Recovery Walk
 ---
 
 *(Image: T&A)*

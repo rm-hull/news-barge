@@ -12,6 +12,19 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/21457793.jpg?type=og-image
+locations:
+- Barmby Moor
+- Jockey Lane
+- Stirling Road
+- York
+- Yorkshire
+people: []
+organisations:
+- Asda
+- Daily Petrol
+- Hewson and Robinson Ltd
+- Sainsbury’s
+- Tesco
 ---
 
 *(Image: Getty)*

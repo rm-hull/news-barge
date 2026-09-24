@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Corporation Road
+- Hendon
+- Hyde Street
+- South Tyneside Magistrates’ Court
+people:
+- Bill Blackett
+- Cllr Blackett
+- Jordan Lee Heron
+organisations:
+- Northumbria Police
+- Public Spaces Protection Order
+- Sunderland City Council
 ---
 
 *(Image: Sunderland City Council)*

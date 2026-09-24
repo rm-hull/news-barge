@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - History
+locations:
+- Hull Road Inner Space Station
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 Police have issued this CCTV image of a person they would like to speak to following thefts in York.

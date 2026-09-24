@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Britain
+- London
+people:
+- Andrew Griffith
+- Claire Coutinho
+- Dame Priti
+- James Cleverly
+- Julia Lopez
+- Just Eat
+- Kemi Badenoch
+- Like Priti
+- Mel Stride
+- Ms Coutinho
+- Priti Patel
+- Rachel Reeves
+- Tom Tugendhat
+organisations:
+- Conservative Party
+- Labour
+- Sky
+- Tory
 ---
 
 Kemi Badenoch has replaced another member of her top team, ousting Sir Mel Stride as shadow chancellor and appointing Andrew Griffith in his place.

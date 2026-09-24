@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/deer-shed-sunday.webp
+locations:
+- Baldersby Park
+- North Yorkshire
+- Thirsk
+- Topcliffe
+people: []
+organisations:
+- Deer Shed Volunteering Hub
+- Kaboodle
 ---
 
 Organisers behind the prominent North Yorkshire family event **Deer Shed Festival** have officially launched their volunteer recruitment drive for the 2027 event, offering local music and arts enthusiasts a way to attend the festival in exchange for their time.

@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crescent Road
+- Glamis Grove
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Itsharm Ramzan
+- Leoni Prince
+organisations:
+- Cleveland Police
+- Middlesbrough CID
 ---
 
 *(Image: Cleveland Police)*

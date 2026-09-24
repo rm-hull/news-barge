@@ -14,6 +14,30 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Creator Economy & Marketing
+locations:
+- Britain
+- Iran
+- UK
+people:
+- Andrew Griffith
+- John Healey
+- Liz McKeown
+- Matt Swannell
+- Suren Thiru
+- Susannah Streeter
+- Yael Selfin
+organisations:
+- AI
+- Betty Laura Zapata
+- ICAEW
+- Institute of Chartered Accountants England and Wales
+- Item Club
+- KPMG
+- Labour Government
+- ONS
+- Office for National Statistics
+- Ofgem
+- Wealth Club
 ---
 
 The UK economy recorded surprise growth in July as the AI spending boom helped deliver a boost, despite emerging signs of strain on households.

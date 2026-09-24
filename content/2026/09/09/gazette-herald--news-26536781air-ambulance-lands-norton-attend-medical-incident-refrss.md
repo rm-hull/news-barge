@@ -13,6 +13,14 @@ categories:
 - York
 - Travel
 - Society & Culture
+locations:
+- Hull Royal Infirmary
+- North Yorkshire
+- Norton
+- Welham Road
+people: []
+organisations:
+- Yorkshire Air Ambulance
 ---
 
 AN air ambulance has left the scene following a medical incident in a North Yorkshire town.

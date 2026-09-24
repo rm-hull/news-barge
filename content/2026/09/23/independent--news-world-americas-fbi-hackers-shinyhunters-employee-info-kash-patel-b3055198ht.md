@@ -13,6 +13,13 @@ categories:
 - True Crime
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/16/2026-09-15T155147Z_741935832_RC2QJNAYTQE3_RTRMADP_3_USA-JUSTICE-PATEL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Kash Patel
+- ShinyHunters
+organisations:
+- ALL FBI Agents
+- ShinyHunters
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,36 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Admiral’s Trail
+- Ashton-under-Lyne
+- Canal & River Trust
+- Catherine Clayton
+- Charlotte Graham
+- Diggle
+- Greater Manchester
+- Huddersfield Narrow Canal
+- Lancashire
+- Marsden
+- Pennines
+- Slaithwaite Reservoir
+- Standedge Tunnel
+- The Yorkshire
+- UK
+- West Yorkshire
+people:
+- Catherine Clayton
+- Jake Sugden
+- Jill Jennings
+- Sean McGinley
+organisations:
+- Canal & River Trust
+- Huddersfield Canal Society
+- Kirklees Council
+- Standedge Tunnel
+- West Yorkshire Combined Authority
+- Yorkshire & North East at Canal & River Trust
+- then-Prince Charles
 ---
 
 *(Image: Jake Sugden)*

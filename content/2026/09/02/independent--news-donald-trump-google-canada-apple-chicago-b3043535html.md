@@ -15,6 +15,30 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Canada
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- New York
+- U.S.
+people:
+- Donald Trump
+- Doug Burgum
+- Doug Ford
+- Mark Carney
+organisations:
+- Apple Maps
+- Canadian Confederation
+- Fox
+- Google Maps
+- Gulf of America
+- Gulf of Mexico
+- Interior Department
+- Lake Ontario
+- MapQuest
+- U.S. Declaration of Independence
+- U.S. Geographic Names Information System
 ---
 
 Apple has relabeled Lake Ontario to “Lake America” for U.S. users of its Maps app, following competitor Google days after President Donald Trump ordered a new name for the body of water amid his escalating trade war with Canada.

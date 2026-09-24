@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Hutton-le-Hole
+- North Way
+- Rievaulx
+people:
+- JMW Turner
+- Jennifer Smith
+- John Sell Cotman
+- Simon Crawford
+- Thomas Girtin
+organisations:
+- Art Gallery
+- Ryedale Folk Museum
 ---
 
 An artistic pilgrimage through some of the North’s most historic landscapes is the focus of a new exhibition.

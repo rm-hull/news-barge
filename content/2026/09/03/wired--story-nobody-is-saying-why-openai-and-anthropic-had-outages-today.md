@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - Science
 - Self-Improvement
+locations:
+- Memphis
+- OpenAI
+- xAI
+people:
+- Claude Fable
+- Claude Mythos
+- Claude Opus
+- Claude Sonnet
+- Kathleen Chaykowski
+organisations:
+- Amazon Web Services
+- Anthropic
+- Cloudflare
+- Google
+- Grok
+- Microsoft Azure—
+- OpenAI
+- SpaceX
+- WIRED
+- xAI
 ---
 
 Frontier models from Anthropic, OpenAI, and xAI all experienced rare outages on Thursday morning, creating downtime for their corresponding AI chatbots. SpaceX, xAI’s parent company, said on Thursday afternoon that the issues with Grok resulted from “an outage at our Memphis compute center this morning.”

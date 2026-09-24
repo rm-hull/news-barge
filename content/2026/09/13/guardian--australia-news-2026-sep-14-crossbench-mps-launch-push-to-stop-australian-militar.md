@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Gaza
+- Israel
+- UK
+- US
+- West Bank
+people:
+- Andrew Wilkie
+- David Pocock
+- Fatima Payman
+- Gillian Triggs
+- Lidia Thorpe
+- Mehreen Faruqi
+- Penny Wong
+- Rawan Arraf
+- Richard Marles
+- Sophie Scamps
+organisations:
+- Australian Centre for International Justice
+- Australian Human Rights Commission
+- Greens
+- Greens’
+- Labor
+- Lockheed Martin
+- Senate
 ---
 
 Crossbench MPs including David Pocock and Sophie Scamps will put pressure on the Albanese government to ban Australian goods from being used by the Israeli military – including for F-35 fighter jets – by introducing a bill designed to force it to adhere to international obligations.

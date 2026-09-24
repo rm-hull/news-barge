@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Chambers Street
+- Lower Manhattan
+- New York
+- Ohio
+- World Trade Center
+people:
+- Amy Sancetta
+- Barney
+- Karen Matthews
+- Larry Neumeister
+- Richard Drew
+- Robert F. Kennedy
+organisations:
+- AP
+- Associated Press
+- Pentagon
+- Sancetta
+- World Trade Center
 ---
 
 On Sept. 11, 2001, Karen Matthews was inside her Manhattan apartment preparing her three-year-old daughter for preschool when an unfamiliar, thunderous boom echoed outside.

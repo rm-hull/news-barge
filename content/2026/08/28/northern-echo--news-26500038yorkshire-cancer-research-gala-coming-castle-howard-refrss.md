@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Castle Howard
+- County Durham
+- Harome
+people:
+- Andrew Pern
+- Briony Harford
+- Charlotte Lloyd-Webber
+- Hon Nicholas
+- Jonathan Pow
+- Neil Preston
+- Victoria Howard
+organisations:
+- BRCA
+- Bonhams
+- CLW Event Design
+- Castle Howard
+- Long Gallery
+- North East
+- Star Inn
+- Yorkshire Cancer Research
 ---
 
 *(Image: Jonathan Pow)*

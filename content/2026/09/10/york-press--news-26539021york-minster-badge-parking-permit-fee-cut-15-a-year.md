@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- '## York'
+- Bishopthorpe Road
+- East Parade
+- Goodramgate
+- Heworth
+- Micklegate
+- Rowntree Park
+- Some York
+- The Groves
+- UK
+people:
+- Cleggs
+- Cllr Nigel Ayre
+- Cllr Ravilious
+- Johnny Hayes
+- Kate Ravilious
+- Mark Jones
+- Ruth Phillips
+organisations:
+- Arup
+- Good Food Shop
+- Indie York
+- Labour Transport
+- Liberal Democrat
+- Minster Badge
+- Newsquest
+- York Council
 ---
 
 ## York parking pass fee cut 'strikes right balance' as 'over-zealous' hikes slammed

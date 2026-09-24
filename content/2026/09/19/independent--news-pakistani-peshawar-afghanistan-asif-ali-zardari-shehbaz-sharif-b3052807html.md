@@ -12,6 +12,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/19/07/Pakistan_Mosque_Bombing_26245.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- Islamabad
+- Kabul
+- Khyber Pakhtunkhwa
+- Kohat
+- Peshawar
+- Tehrik-e-Taliban Pakistan
+people:
+- Asif Ali Zardari
+- Dera Ismail Khan
+- Ishtiaq Mahsud
+- Mohammad Sadiq
+- Rasool Dawar
+- Shehbaz Sharif
+- \_\_\_ Ahmed
+organisations:
+- Counter Terrorism Department
+- Special Branch
+- TTP
 ---
 
 Pakistani security forces ended on Saturday a standoff with militants holed up inside a police compound in northwestern Pakistan, officials said. The confrontation began Friday after a suicide bomber rammed an explosives-laden vehicle into a mosque, and gunmen stormed the facility, killing 21 people and wounding 103 others.

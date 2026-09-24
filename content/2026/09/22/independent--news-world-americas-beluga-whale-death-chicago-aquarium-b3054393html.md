@@ -12,6 +12,27 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/03/14/2026-09-01T165744Z_222906137_RC2DANAOR9GV_RTRMADP_3_CANADA-WHALES.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Chicago
+- Gimli
+- Marineland
+- Niagara Falls
+- Ontario
+- SeaWorld San Antonio
+- Shedd Aquarium
+- Yukon
+people:
+- Beethoven
+- Beluga
+- Osiris
+- Peekachu
+- Rain
+organisations:
+- ABC 7
+- CBC
+- Marineland
+- Shedd Aquarium
 ---
 
 A third beluga whale rescued from a Canadian theme park has died while being treated in Chicago, according to the Shedd Aquarium.

@@ -11,6 +11,27 @@ image: https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Buenos Aires
+- Utah
+people:
+- Dan Sung
+- John Toshack
+organisations:
+- Dan
+- FourFourTwo
+- How to Watch
+- Independent
+- MSN Tech
+- Metro
+- No Trace
+- Observer
+- Palantir
+- Pocket-lint
+- T3
+- Tech Digest
+- TechRadar
+- Wareable
 ---
 
 ![A woman's silhouette stands before a massive glowing portal shaped like a human fingerprint.](https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj.jpg) 

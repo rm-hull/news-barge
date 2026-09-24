@@ -13,6 +13,68 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Brisbane
+- London
+- Melbourne
+- New York
+- Russia
+- UK
+- US
+people:
+- Aaron Taylor-Johnson
+- Amy Pascal
+- Bonds
+- Callum Turner
+- Charles III
+- Daniel Craig
+- Daniel Richtman
+- Denis Villeneuve
+- Dune
+- Euphoria
+- GoldenEye
+- Harris Dickinson
+- Henry Cavill
+- Ian Fleming James Bond
+- Jack Barton
+- Jack Lowden
+- Jack O'Connell
+- Jacob Elordi
+- James Bond
+- James Norton
+- Jeff Sneider
+- Jessie Buckley
+- Love
+- Lucius
+- Martin Campbell
+- Paul Mescal
+- Rami Malek
+- Safin
+- Sam Neill
+- Sean Connery
+- Steven Knight
+- Tatiana Romanova
+- Timothy Dalton
+- Tom Francis
+organisations:
+- Amazon MGM
+- Amazon MGM Studios
+- AmazonMGM
+- Casino Royale
+- Disney
+- Gladiator 2
+- Gold Derby
+- Heartstopper
+- King & Country
+- MI6
+- Marvel
+- Peaky Blinders
+- Rogue Heroes
+- SAS
+- Star Wars
+- Variety
+- Wuthering Heights
+- Young Bond
 ---
 
 ![A composite image showing, from left to right, Jacob Elordi, Jack Lowden and Callum Turner](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ff0/live/291c78c0-a85e-11f1-aed2-8d6da8d75094.png)

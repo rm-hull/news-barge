@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW-2371-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- China
+- Iran
+- North Korea
+- Russia
+- U.S.
+people:
+- Bruno Ferreira
+- Claude
+- Tom
+organisations:
+- AI
+- Anthropic
+- Get Tom's Hardware
+- Google News
+- PC
+- Tom's Hardware
+- VPS
+- World Health Organization
 ---
 
 ![adc](https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW.jpg) 

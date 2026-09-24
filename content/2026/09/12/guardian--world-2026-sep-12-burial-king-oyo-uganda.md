@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Fort Portal
+- Karambi Royal Tombs
+- Tooro
+- Uganda
+- United States
+people:
+- Edward Rukidi Kijanangoma
+- Muammar Gaddafi
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Ruth Komuntale
+- Stephen Kaziimba Mugalu
+organisations:
+- Church of Uganda
+- UBC
+- UN
 ---
 
 Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as his Tooro kingdom looked to put a bitter succession battle behind it.

@@ -11,6 +11,11 @@ image: https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people: []
+organisations:
+- Get Tom's Hardware
+- SanDisk
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn-320-80.jpg)

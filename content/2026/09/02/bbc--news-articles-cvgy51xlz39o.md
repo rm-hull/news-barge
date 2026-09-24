@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- America
+- Atlantic Ocean
+- Canada
+- Ekibastuz
+- Iran
+- London
+- Netherlands
+- New York
+- Ottawa
+- UK
+- US
+- Zeist
+people:
+- Olaf Sleijpen
+organisations:
+- Bank of England
+- DNB
 ---
 
 ![Gold bars are neatly stacked on top of each other to form a pyramid shape.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg)

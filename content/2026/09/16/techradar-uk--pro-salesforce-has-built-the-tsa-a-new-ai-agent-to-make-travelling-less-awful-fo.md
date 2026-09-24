@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Airport
+- UK
+- US
+people:
+- Kendall Collins
+- Mike Moore
+- Paul Tatum
+organisations:
+- Ace AI
+- B2B
+- B2C
+- Global Public Sector Solutions
+- Google News
+- Government Cloud
+- ITProPortal
+- Missionforce
+- Public Sector Solutions
+- Salesforce
+- TSA
+- TechRadar Pro
+- Transportation Security Administration
 ---
 
 ![5G at Airport](https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi.jpg) 

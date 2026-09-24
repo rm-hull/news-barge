@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- North
+- PA
+- Yorkshire
+people:
+- Gareth Fuller
+- Tom Klouda
+organisations:
+- BDO
 ---
 
 # How financial advice in Yorkshire has changed over the years - Tom Klouda

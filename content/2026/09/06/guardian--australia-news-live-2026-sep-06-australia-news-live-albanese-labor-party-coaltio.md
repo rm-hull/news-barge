@@ -12,6 +12,58 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Bondi Beach
+- Brisbane
+- Christchurch
+- Devighat
+- Gould St
+- NSW
+- Nepal
+- North Bondi
+- Northshore Hamilton
+- Nuwakot
+- O’Donnell St
+- Queensland
+- Queenstown
+- Sydney
+- Waverley
+people:
+- Andrew Giles
+- Angus Taylor
+- David Speers
+- Duniam
+- Elon Musk
+- Goldstein
+- Jarrod Bleijie
+- Mark Zuckerberg
+- Matt Thistlethwaite
+- Natasha Stott Despoja
+- Pauline Hanson
+- Stott Despoja
+- Taylor Angus Taylor
+- Taylor Tom McIlroy
+- Tim Nicholls
+- Tom McIlroy Matt Thistlethwaite
+- Tony Abbott
+- Zoe Daniel
+organisations:
+- AAP
+- ABC
+- Albanese
+- British American Tobacco
+- Economic Development Queensland
+- Labor
+- National party
+- Nationals
+- News 24
+- News24
+- One Nation
+- Prakash Mathema/AFP
+- Qantas
+- Queensland Ambulance Service
+- Veterans’ Service Commission Coalition
 ---
 
 Up to 6,000 tradies will get free qualifications under a $78m federal scheme designed to tackle construction skills shortages.

@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Arabian Sea
+- Bab al-Mandab Strait
+- Chatham House
+- East-West Pipeline
+- Egypt
+- Europe
+- Gulf of Aden
+- Horn of Africa
+- Indian Ocean
+- Iran
+- Iraq
+- Mediterranean
+- Middle East
+- Oman
+- Persian Gulf
+- Red Sea
+- Russia
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- The Gulf
+- UK
+- US
+- Ukraine
+- Yemen
+people:
+- Chris Wright
+- Donald Trump
+- Joshua Cheetham
+- Neil Quilliam
+- Nicholas Barrett
+organisations:
+- AAA Gas Prices
+- Bank of England
+- CNBC
+- IMF
+- International Monetary Fund
+- Kpler
+- Ofgem
+- US Energy Information Administration
 ---
 
 ![A oil industry worker in Saudi Arabia wearing a protective helmet walks next to a pipe with several valves](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1a2a/live/d6d03600-b1e6-11f1-bc1f-3f186ca4140c.png)

@@ -11,6 +11,32 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/057a/live/1ff1d440-b36f-11f1-a438-5fc9845d0cd6.jpg
+locations:
+- Bolton
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Amanda Hulme
+- Lucy Powell
+- Ofsted
+- Paul Whiteman
+- Prof Julia Waters
+- Ruth Perry
+organisations:
+- BBC
+- Claypool Primary School
+- ETI
+- Education and Training Inspectorate
+- Estyn
+- HIME
+- High Court
+- Inspectorate of Education
+- LBC
+- National Association of Head Teachers
+- Ofsted
+- The NAHT
 ---
 
 ![Stock image of a teacher teaching her class. She is wearing yellow trousers and a navy blue long-sleeved tshirt. Behind her is a Smart board and classroom items. In front of her are children learning at their desks - one boy has his hand up.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/057a/live/1ff1d440-b36f-11f1-a438-5fc9845d0cd6.jpg)

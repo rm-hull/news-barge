@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- America
+- Hartlepool
+- Seaton Carew
+people:
+- Emma
+- Gina Pontoni
+- Jan
+- Kev
+- Ms Pontoni
+- Mum Betty
+organisations:
+- Gina
+- Gina's Coven
+- Post Office
 ---
 
 *(Image: Provided)*

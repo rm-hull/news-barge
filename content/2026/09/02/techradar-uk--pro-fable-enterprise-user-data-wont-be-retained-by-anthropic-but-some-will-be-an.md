@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Craig Hale
+organisations:
+- AI
+- Anthropic
+- Craig’s
+- EFS
+- Fable
+- Google News
+- TechRadar Pro
 ---
 
 ![Fable 5, from Anthropic](https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY.jpg) 

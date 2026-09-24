@@ -11,6 +11,152 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6aac71b5d7fc34009fe6c60f/191:100/w_1280,c_limit/silicon-valley-women-power.jpg
+locations:
+- AI
+- Boston
+- California
+- Capitol Hill
+- DC
+- GM Proving Ground
+- Lake Tahoe
+- Michigan
+- Milford
+- Palo Alto
+- San Francisco
+- Silicon Valley
+- Taiwan
+- Tartine Bakery
+- Texas
+- US
+- Uber
+- Washington
+- White House
+people:
+- AJ Thomas
+- Adam Neumann
+- Aicha Evans
+- Aileen Lee
+- Ami Vora
+- Amodeis
+- Amy Hood
+- Anne Wojcicki
+- Cami Clark
+- Capella Kerst
+- Cari Tuna
+- Catherine Bracy
+- Claude
+- Colette Kress
+- Daniela Amodei
+- Dario
+- Dina Powell
+- Dina Powell McCormick
+- Dobrina Ustun
+- Donald Trump
+- Ellen Pao
+- Elon
+- Emily Chang
+- Esther
+- Fei-Fei Li
+- Fendi
+- Fidji Simo
+- God
+- Gwynne Shotwell
+- Gwynne?
+- Ifeoma Ozoma
+- James Gee
+- Janet
+- Jayshree Ullal
+- Jeffrey Epstein
+- Jensen AI
+- Jensen Huang
+- Kara Swisher
+- Kleiner Perkins
+- Laurene Powell-Jobs
+- Libby Leffler
+- Lisa Su
+- Lisa?
+- Liz Reid
+- Mabel Chan
+- MacKenzie Scott
+- Marc
+- Mary Barra
+- Melanie Perkins
+- Melinda Gates
+- Meredith Whittaker
+- Meta
+- Michael Kratsios
+- Michelle Zatlyn
+- Mira Murati
+- Musk
+- Pat Grady
+- Peter Thiel
+- Rachel Whetstone
+- Reshma Saujani
+- Ruth Porat
+- Safra Catz
+- Sam Altman
+- Sarah Friar
+- Sarah Guo
+- Sheryl Sandberg
+- Slack
+- Susan Fowler
+- Tekedra Mawakana
+- Theresia Gouw
+- Timnit Gebru
+- Tom Brown
+- Well
+- Wojcickis
+organisations:
+- 23andMe
+- AGI Deployment
+- AMD
+- Amodei
+- Anthropic
+- Arista Networks
+- Bloomberg
+- CTO
+- Colette Kress
+- Cowboy Ventures
+- DEI
+- Distributed Artificial Intelligence Research
+- Elon Musk
+- Fast Company
+- First
+- Foundation for American Innovation
+- General Motors
+- Good Trouble Ventures
+- Google
+- Guo’s
+- Harvey
+- Instacart
+- Meta
+- Mistral
+- Nvidia
+- OpenAI
+- Pinterest
+- PitchBook
+- SV and DC
+- Salesforce
+- ScaleAI
+- Shotwell
+- Shutterstock
+- Sierra—buzzy AI
+- SpaceX
+- Starlink
+- Superconnected
+- TechEquity
+- The Information and The Wall Street Journal
+- Thinking Machines Lab
+- Trump
+- Twitter
+- VC
+- VCs
+- VP
+- WIRED Staff
+- WhatsApp
+- World Wildlife Fund
+- YouTube
+- Zoom
 ---
 
 Mira Murati was trying to speak. Women swished around in evening gowns, men in tuxes. Giant piles of carved meat rested like sleeping babies on banquet tables draped in linens as red as a handmaid’s robe. Bartenders served up a cocktail named Zero to One, a nod to the philosophy of Peter Thiel.

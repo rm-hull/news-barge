@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/14/23/2026-09-14T220825Z_1440809
 categories:
 - News & Politics
 - UK
+locations:
+- Capitol Hill
+- D.C.
+- Kentucky
+- Ohio
+- Washington
+people:
+- '![McConnell'
+- Andy Beshear
+- David Scott
+- Elaine Chao
+- Joe Biden
+- Lindsey Graham
+- McConnnell
+- Mitch McConnell
+- Thune
+organisations:
+- C-SPAN
+- Conference
+- House of Representatives
+- Senate
 ---
 
 Former Senate GOP leader Mitch McConnell returned to Capitol Hill on Monday, his first return to work – and the first time he has been seen in public – since the Kentucky senator was hospitalized in June after suffering a fall.

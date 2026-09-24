@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Amazon UK
+people:
+- Joshua Reynolds
+- Monica Ariño
+- Rowan Davies
+organisations:
+- AliExpress
+- Amazon
+- Google News
+- House of Commons Business and Trade Select Committee
+- Public Policy
+- Shein
+- TechRadar
+- Telegraph (£)
+- TikTok Shop
+- eBay
 ---
 
 ![woman uses phone near smart wall plug](https://cdn.mos.cms.futurecdn.net/BWHxcEJLH3bh9bDzN4jUQd.jpg) 

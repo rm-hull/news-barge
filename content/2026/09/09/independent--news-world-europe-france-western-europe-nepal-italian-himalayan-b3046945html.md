@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Aiguille du Midi
+- Alps
+- Chamonix
+- Chamonix-Mont-Blanc
+- China
+- France
+- Himalayas
+- Italy
+- Lombardy
+- Mont Blanc
+- Mont Blanc massif
+- Nepal
+- Paris
+- Permafrost
+- Rome
+- Western Europe
+people:
+- Angela Charlton
+- Ludovic Ravanel
+- Mont Blanc
+- Paolo Santalucia
+- Stuart MacDonald
+- Stéphane Bozon
+- Trisha Thomas
+- Vanda Bonardo
+organisations:
+- AP
+- Associated Press
+- International Commission for the Protection of the Alps
+- Meteo France
+- Ravanel
+- Savoie Mont Blanc University
+- The Associated Press
+- ___ Leicester
 ---
 
 For centuries, French and Italian mountain communities on the flanks of Western Europe's highest peak have gazed upon seemingly eternal glaciers and snow that gave the colossus its name: Mont Blanc, the white mountain.

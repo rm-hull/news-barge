@@ -13,6 +13,34 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Falkland Islands
+- Iran
+- Liverpool City Region
+- North East
+- North of England
+- PA
+- Russia
+- South Yorkshire
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- Christopher Furlong
+- Daisy Cooper
+- John Healey
+- Rachel Reeves
+- Robert Jenrick
+organisations:
+- Armed Forces
+- British Business Bank
+- Cardiff Capital Region
+- Labour
+- National Wealth Fund
+- Reform UK
+- Tories
+- Treasury
 ---
 
 The Chancellor will unveil a £150 million fund for fast-growing northern firms as he sets out plans to grow the economy through an “active” state.

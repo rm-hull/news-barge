@@ -13,6 +13,37 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Crayford
+- England
+- Fort Portal
+- London
+- Saint John's Cathedral
+- South Africa
+- Tooro Kingdom
+- US
+- Uganda
+people:
+- Batoro
+- Best Kemigisa
+- Bob Marley
+- Charles Oyo
+- Edward Rukidi Kijanangoma
+- George Desmond Kamurasi
+- Mother
+- Muammar Gaddafi
+- Nelson Mandela
+- Omusuuga Charles Karumasi
+- Oyo Nyimba Kabamba Iguru Rukidi IV
+- Ruth Komuntale
+- Timothy Kalyegira
+- Tooro
+- Yoweri Museveni
+organisations:
+- ESPN
+- Guinness World Records
+- SE Dons
+- UBC
 ---
 
 ## The committee's first choice — a non-league goalkeeper from south-east London — declined, citing other responsibilities. His replacement was then rejected by the late king's own family, who produced a 2022 will that the committee ignored.

@@ -10,6 +10,20 @@ description: Attackers are actively exploiting a recently patched flaw
 image: https://cdn.mos.cms.futurecdn.net/zHBWWxpmu5iienhz4xVsXa-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+- Wordfence
+organisations:
+- Al Jazeera Balkans
+- Defiant
+- Google News
+- Represent Communications
+- TechRadar Pro
+- WordPress
+- Wordfence
 ---
 
 ![WooCommerce](https://cdn.mos.cms.futurecdn.net/zHBWWxpmu5iienhz4xVsXa.jpg) 

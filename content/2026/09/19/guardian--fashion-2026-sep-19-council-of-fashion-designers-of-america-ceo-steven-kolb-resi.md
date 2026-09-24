@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://i.guim.co.uk/img/media/8b2532823a1a04a6f6e80756c5a57b64599f64d1/0_66_357_286/master/357.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=682602a02155afcdcb20c1c37beee899
+locations:
+- London
+- New York
+people:
+- Daniel Ervér
+- Mason Melito
+- Michael Kors
+- Peta
+- Ralph Lauren
+- Steven Kolb
+- Thom Browne
+- Tory Burch
+organisations:
+- CFDA
+- COS
+- Council of Fashion Designers of America
+- Guardian
+- H&M
+- People for the Ethical Treatment of Animals
+- Peta USA
 ---
 
 The chief executive of the Council of Fashion Designers of America, Steven Kolb, has resigned from his role, days after he was filmed physically restraining two animal rights activists during an altercation at New York fashion week.

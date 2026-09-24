@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- A1
+- Darlington Station
+- Darlington railway station
+- Gatwick Airport
+- M
+- Neasham Road
+- Park Lane
+- Parkgate
+- Tees Valley
+- Tom Banks
+- Victoria Road
+- Yarm Road
+people:
+- Ben Houchen
+organisations:
+- Darlington Borough Council
+- Eastern Gateway
+- HGV
+- Tees Valley Combined Authority
+- Tees Vallley Combined Authority
+- Western Gateway
 ---
 
 Drivers and rail passengers are being warned to prepare for months of disruption around Darlington railway station as the final phase of the station's redevelopment project gets underway.

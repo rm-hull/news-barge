@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Ingleton
+- Malham Cove
+- Thornton Force
+people: []
+organisations:
+- CRO
+- Cave Rescue Organisation
+- Thornton Force
 ---
 
 A MAN collapsed at the top of Malham Cove earlier this week at the same time a woman was injured while walking near Thornton Force.

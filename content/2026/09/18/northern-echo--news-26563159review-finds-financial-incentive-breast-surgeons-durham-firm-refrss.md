@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- North Durham
+- University Hospital
+people:
+- Amir Bhatti
+- Mary Aubrey
+organisations:
+- BBC
+- CDDFT
+- CDDT
+- CSS Ltd
+- Cathedral Surgical Services Limited
+- County Durham
+- DSS
+- Darlington Foundation Trust
+- Durham Police
+- Durham Surgical Services Ltd LLP
+- North East NHS Trust
 ---
 
 There was a “clear financial incentive” for a private company run by a breast surgeon who performed mastectomies to see more patients, according to an NHS-commissioned review.

@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- Haughton Chippy
+- Longfield Road
+- North East
+- North Road Fish Bar
+- Thirlmere Chippy
+people:
+- Loz”
+- “Lunching
+organisations:
+- '### **Barton’s Fish and Chips** Barton’s Fish and Chips'
+- Instagram
+- TripAdvisor
+- UK Fish
+- Yarm Road Fish & Chips
 ---
 
 *(Image: PA)*

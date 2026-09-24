@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Brunswick
+- Darlington
+- North East
+people:
+- Andy Burnham
+- David Gartland
+- David Hodgson
+- Ellie Fotheringham
+- Huw Lewis
+- Kim McGuinness
+- Mark Stamper
+- Rachel Anderson
+- Rose Rouse
+- Sophie Walton
+organisations:
+- BUSINESSiQ
+- CPI
+- Cabinet Office
+- Civil Service
+- Cummins
+- DCMS
+- DEC
+- DEFRA
+- Darlington Borough Council
+- Darlington College
+- Darlington Economic Campus
+- Durham County Council
+- Government
+- HM Treasury
+- Inclusive Growth and Partnerships
+- MHCLG
+- North East Chamber of Commerce
+- North East Mayoral Strategic Authority
+- Strategy Unit
+- Strategy, Planning and Budget Group
+- The Northern Echo
+- UK Bus Territory Manager
 ---
 
 One of the leading voices at the Darlington Economic Campus is to be the keynote speaker at the next live Northern Echo event.

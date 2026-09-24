@@ -11,6 +11,70 @@ image: https://i.guim.co.uk/img/media/87e8e95025fd162c68c3125e971e0e5ed39c05d6/7
 categories:
 - UK
 - News & Politics
+locations:
+- Bondi
+- Canales Australia
+- Forbes
+- Iran
+- Melbourne Cricket Ground
+- Queensland
+- Sydney
+- US
+- United States
+people:
+- Andrew Hastie
+- Anthony Albanese
+- Barnaby Joyce
+- Billings’
+- Brock Purdy
+- Daniel Billings
+- Deebo Samuel
+- Demarcus Robinson
+- Hollie Adams
+- Jacqui Lambie
+- Mike Burgess
+- Mike Evans
+- Molly Ticehurst
+- Ms Ticehurst
+- Natalie Adams
+- Pauline Hanson
+- Peter Curran
+- Quinn Rooney
+- Richard Marles
+- Sarah Basford
+- Sarah Hanson-Young
+- Tom McIlroy
+organisations:
+- AAP
+- ABC
+- Airservices Australia
+- All Ordinaries
+- Asio
+- Australian Politics
+- Australian Security and Intelligence Organisation
+- Bondi
+- CW Scanner
+- Coalition
+- Getty Images Queensland
+- Greens
+- Guardian Australia
+- Jonas Brothers
+- Labor
+- Los Angeles Rams
+- MCG
+- Melbourne Cricket Ground
+- NFL
+- NSW
+- One Nation
+- Orange Supreme Court
+- Rams’
+- Reuters Albanese
+- S&P Global
+- San Francisco 49ers
+- Senate
+- The One Nation
+- WPA
+- Woolworths
 ---
 
 San Francisco 49ers fans in the fourth quarter of the NFL football game against Los Angeles Rams at the Melbourne Cricket Ground. Photograph: Quinn Rooney/Getty Images

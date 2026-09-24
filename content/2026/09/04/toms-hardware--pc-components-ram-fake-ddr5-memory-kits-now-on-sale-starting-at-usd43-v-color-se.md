@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/nuAejWdCwatdSdPxCktuYo-2048-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Amazon
+- Europe
+- Germany
+- North America
+- UK
+- US
+people:
+- Hassam Nasir
+- Tom
+organisations:
+- Amazon
+- Black
+- CaseKing
+- EU
+- Google News
+- Manta XFinity
+- Manta XSky
+- Newegg
+- Overclockers
+- RAMpocalypse
+- V-Color Manta XFinity
+- V-Color Manta XSky
+- White
 ---
 
 ![V-Color 1+1 DDR5 Value Pack](https://cdn.mos.cms.futurecdn.net/nuAejWdCwatdSdPxCktuYo.jpg) 

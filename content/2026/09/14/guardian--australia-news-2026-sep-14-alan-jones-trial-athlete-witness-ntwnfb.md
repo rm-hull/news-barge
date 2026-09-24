@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Circular Quay
+- Fitzroy Falls
+- Jones
+- Macquarie Street
+- Sydney’s Downing Centre
+people:
+- Alan Jones
+- Georgina Wright SC
+- Glenn Walsh
+- M
+- OK Mate’
+organisations:
+- 2GB
+- Sydney Morning Herald
 ---
 
 A prominent athlete froze and was “shocked and embarrassed” when Alan Jones kissed him on the side of his mouth at a public event, the broadcaster’s trial at Sydney’s Downing Centre has heard.

@@ -14,6 +14,30 @@ categories:
 - UK
 - History
 - Sports
+locations:
+- Argano
+- Brooklyn
+- France
+- Ground Zero
+- Manhattan
+- New York
+- New York City
+- Ten House
+- Twin Towers
+people:
+- Anthony Giannone
+- Daniel Suhr
+- Laurent Cosenefroy
+- Robert Favata
+- Sal Argano
+- Terence Brody
+organisations:
+- '## Ten House'
+- FDNY
+- Hallmark Channel
+- Ladder 10
+- Ten House
+- World Trade Center
 ---
 
 On September 11, 2001, New York City firefighter Sal Argano benefited from a stroke of luck. Rather than working at his regular station—a small Manhattan firehouse situated directly across an intersection from the Twin Towers—he was on temporary loan to another unit in Brooklyn when hijacked planes struck the World Trade Center.

@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Birmingham
+- Heathrow Airport
+- Manchester
+- Scotland
+- Stansted
+- UK
+people: []
+organisations:
+- British Airways
+- Flightradar24
+- National Air Traffic Services
+- easyJet
 ---
 
 Passengers rest on the floor and queue at Heathrow Airport as flight disruptions continue following a technical issue with the UK's air traffic control system. Departure boards show delays and cancellations while aircraft remain on the tarmac.

@@ -12,6 +12,11 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Nepal
+- Tibet
+people: []
+organisations: []
 ---
 
 Residents salvage what they can from homes and schools ruined in catastrophic flooding that killed hundreds and left thousands missing in Nepal and Tibet.

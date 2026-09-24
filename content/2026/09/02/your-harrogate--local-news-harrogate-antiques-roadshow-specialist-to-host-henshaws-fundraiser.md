@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+locations:
+- Knaresborough
+people:
+- Susan Rumfitt
+organisations:
+- '**Henshaws'
+- Antiques Roadshow
+- BBC
+- Henshaws Arts & Crafts Centre
+- Henshaws’
+- Secret Garden
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9827449b836ebb294.jpg) 

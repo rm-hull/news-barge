@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- United States
+- Washington
+people:
+- Daniel Brunner
+- Daniel Meyer
+- Kash Patel
+- Michael Feinberg
+- Phillip Fields
+organisations:
+- AP
+- Associated Press
+- CBS News
+- FBI
+- MS
+- Scripps News
+- The Independent
 ---
 
 FBI Director Kash Patel has made it easier for people who've previously engaged in prostitution or bestiality to join the bureau's ranks - a change that one former agent called "beyond disturbing."

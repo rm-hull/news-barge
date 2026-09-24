@@ -11,6 +11,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- East Huntspill
+- Somerset
+people: []
+organisations:
+- IKEA
+- Secret World
+- Secret World Wildlife Rescue Centre
+- The Secret World Wildlife Rescue Centre
+- World Wildlife Rescue
+- World Wildlife Rescue Centre
 ---
 
 Eight baby swans were rescued using IKEA bags after being found on a road in Somerset.

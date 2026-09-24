@@ -11,6 +11,30 @@ description: I tested iFi’s new iDSD GR 2 portable DAC/amp, and it's a phenome
 image: https://cdn.mos.cms.futurecdn.net/zZbg8LCaac5mjxTbHBkxiB-2520-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Antonio Carlos Jobim
+- Beyerdynamic
+- Felini
+- Harry Padoan
+- João Gilberto
+- Marco Castello
+- Scruff
+- Stan Getz
+- Venerus
+- XBass
+organisations:
+- Astell & Kern A
+- DAC
+- FiiO
+- GR 2
+- JVC Kenwood
+- K2HD
+- OG Gryphon
+- TechRadar
+- USB-C
+- XBass
+- iFi Nexis
 ---
 
 ### TechRadar Verdict

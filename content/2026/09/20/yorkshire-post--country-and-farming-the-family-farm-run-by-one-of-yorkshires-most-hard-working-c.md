@@ -15,6 +15,41 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRhMGRhOGZjLWI4NjUtNGJkYi1hYWI1LTQxYzZhNTNhNjQ2NDpkNDA1YTMyNy1iOTg1LTQ5YjUtOWRhZi0wNDI3NTk5YmYzZGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Barden
+- Charlotte
+- Gamsworth Farm
+- Harewood
+- Ilkley
+- Knaresborough YFC
+- Longside
+- Masham
+- New Zealand
+- Norwood
+- Otley
+- Pateley Bridge
+- Ramsgill
+- Ripon
+- Scow Hall Farm
+- Skipton
+- Texel
+- UK
+- Yorkshire
+people:
+- Cath
+- Charlotte Dyason
+- Felicity
+- Gamsworth
+- Howard Fearnley
+- Simon Hulme
+- Steven Brown
+- Texdale
+- William
+organisations:
+- Charlotte
+- Nidderdale Show
+- Yorkshire Post
+- Yorkshire Water
 ---
 
 # The family farm run by one of Yorkshire's most hard-working characters

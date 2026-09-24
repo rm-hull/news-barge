@@ -12,6 +12,25 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Almaty
+- Astana
+- Central Asia
+- China
+- Europe
+- Jeju
+- Kazakhstan
+- Paris
+- Serbia
+- South Korea
+- Turkey
+people:
+- '## Nazym Kyzaibay'
+- Mikhail Shaidorov
+- Nazym Kyzaibay
+- Wu Yu
+organisations:
+- Nazym Kyzaibay
 ---
 
 ## Nazym Kyzaibay recounts her rise from a young boxer to Central Asia’s first female three-time world boxing champion and an Olympic bronze medallist.

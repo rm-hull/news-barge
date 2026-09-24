@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Davis’ Las Vegas
+- Las Vegas
+- Southern California
+people:
+- Anderson
+- B.I.G.
+- Baby Lane
+- Big Dre,” Smith
+- Binu Palal
+- Brown
+- Davis’
+- Deandrae “Freaky” Smith
+- Duane Davis
+- Duane “Keffe D” Davis
+- Garry Dale
+- Marion “Suge” Knight
+- Maurice “Mopreme” Shakur
+- Michael Sanft
+- Mopreme Shakur
+- Mopreme” Shakur
+- Sekyiwa “Set” Shakur
+- Terry “Bubble
+- Tupac Shakur
+- Zayd Akinyela
+organisations:
+- BMW
+- Cadillac
+- Compton Street Legend
+- Davis’
+- Death Row Records
+- FBI
+- No. 1
+- Orlando
+- Rock & Roll Hall of Fame
+- South Side Compton Crips
+- The Associated Press
 ---
 
 Jurors will hear closing arguments Monday in the trial of Duane “Keffe D” Davis, who is accused of orchestrating the killing of rapper Tupac Shakur.

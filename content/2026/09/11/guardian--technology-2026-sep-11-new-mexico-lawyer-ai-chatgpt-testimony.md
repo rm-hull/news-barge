@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- New Mexico
+- Santa Fe
+people:
+- AI
+- Kim Chavez Cook
+- Oscar Renee Sandoval
+- Shannon Bacon
+- Stephen Aarons
+organisations:
+- AI
+- Aarons’
+- OpenAI
+- OpenAI’s ChatGPT
 ---
 
 A defense lawyer appealing his client’s murder conviction submitted a legal brief containing made-up police testimony and witnesses fabricated by OpenAI’s ChatGPT, New Mexico’s highest court said.

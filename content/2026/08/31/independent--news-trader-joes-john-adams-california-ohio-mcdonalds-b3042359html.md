@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- California
+- Ohio
+- Orrville
+- U.S.
+people:
+- Joe's
+- John Adams
+- McDonald
+- Smucker
+- Trader Joe’s
+organisations:
+- J.M
+- Smucker
+- The Associated Press
+- Trader Joe's
+- Trader Joe’s
 ---
 
 A federal judge has ruled that J.M. Smucker can proceed with a lawsuit against Trader Joe’s over frozen sandwiches that Smucker claims are too similar to its Uncrustables.

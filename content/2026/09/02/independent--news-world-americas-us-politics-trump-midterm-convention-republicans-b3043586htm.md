@@ -13,6 +13,46 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Dallas
+- Iowa
+- Iran
+- Michigan
+- New York
+- Ohio
+- Oklahoma
+- Texas
+people:
+- Bernie Moreno
+- Donald Trump
+- JD Vance
+- James Talerico
+- John Thune
+- Jon Husted
+- Ken Paxton
+- Mike Johnson
+- Natalie Baldassarre
+- Nick LaLota
+- Sanjay Narayan
+- Ted Cruz
+- Tom Barrett
+- Tom Cole
+- Zach Nunn
+organisations:
+- America First
+- CBS News
+- Congress
+- GOP
+- House Appropriations Committee
+- Politico
+- RNC
+- Republican National Committee
+- Senate
+- The Independent
+- Trump
+- Vance
+- Wall Street Journal.
 ---
 
 Dozens of Republican lawmakers, candidates and members are not planning to attend President Donald Trump’s highly unusual off-year convention in Dallas, just two months ahead of the midterms.

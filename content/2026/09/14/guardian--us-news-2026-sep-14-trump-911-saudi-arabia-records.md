@@ -11,6 +11,18 @@ image: https://i.guim.co.uk/img/media/fc319ffa9fe7b106e4e0279116e6998ff42ab761/1
 categories:
 - UK
 - News & Politics
+locations:
+- Ireland
+- New York City
+- Saudi Arabia
+- US
+- Washington
+people:
+- Donald Trump
+- Terry Strada
+- Tom
+organisations:
+- Air Force One
 ---
 
 Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago.

@@ -12,6 +12,22 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21461731.jpg?type=og-image
+locations:
+- York
+people:
+- Anna
+- Beth
+- Brenda
+- Emma
+- Esme Young
+- Patrick Grant
+- Sebastian
+- Steve
+organisations:
+- Costume Design
+- Sewing Bee
+- St Leonard’s Hospice
+- The Press
 ---
 
 ## Praise pours in for Anna from York after 'incredible' Sewing Bee win

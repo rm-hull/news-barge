@@ -14,6 +14,22 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21466538.jpg?type=og-image
+locations:
+- Alloa
+- Cardiff
+- Halesworth
+- Marlborough
+- North Yorkshire
+- Ripon
+- Sowerby
+- UK
+people:
+- Thomas Lupton
+- Victor De Jesus
+organisations:
+- Armed Forces Covenant
+- Econ Engineering
+- Victor De Jesus
 ---
 
 ## North Yorkshire firm invests £1.1m in new laser technology at headquarters

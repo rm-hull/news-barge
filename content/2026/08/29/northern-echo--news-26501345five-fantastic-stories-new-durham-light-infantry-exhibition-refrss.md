@@ -12,6 +12,71 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Bletchley Park
+- Britain
+- Butte de Warlencourt
+- Colditz Castle
+- Dunkirk
+- Durham
+- Fatfield
+- France
+- Gallipoli
+- Gateshead
+- German PoW
+- Germany
+- High Wood
+- High Wood Cross
+- Milton Keynes
+- Mons
+- Plymouth
+- River Danube
+- Somme
+- South Bailey
+- Spennymoor
+- Spion Kop
+- St Mary’s Church
+- Waterloo
+people:
+- Arthur Duncombe Shafto
+- Brenda
+- Charles Duncombe Shafto
+- Chris Lloyd
+- Colditz
+- Durhams
+- George Fillingham
+- Gillian Kirkbride
+- Helena Rosa Duncombe Shafto
+- Jam Happy
+- MICHAEL FARR
+- Michael Farr
+- Pte Thomas Willcox
+- Pte Thomas Willock
+- Robert Mauchlen
+- Roland Bradford
+- Sarah Caldecott
+- Thomas Willock
+organisations:
+- Army Spectacle Depot
+- COLDITZ
+- DLI Collection.
+- Durham County Council
+- Durham Light Infantry
+- Durham Light Infantry Museum
+- Ferry Boat Inn
+- GCHQ
+- Hawker
+- High Wood Cross
+- MBE
+- Military Cross
+- Santa
+- Shenley Road Military Camp
+- The Light
+- The Story
+- Trustees of the Former Durham Light Infantry Regiment
+- Victoria Cross
 ---
 
 LIGHT was cast last weekend on what would be in Durham’s new gallery and exhibition space when The Light opened to the public.

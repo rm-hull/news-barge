@@ -15,6 +15,35 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Sports
+locations: []
+people:
+- Alan Shearer
+- Danny Aarons
+- Dragons’ Den
+- Ellie Taylor
+- Gary Lineker
+- Graeme Souness
+- JB Gill
+- Jane Barlow
+- Jenny Ryan
+- Joey Essex
+- John Bercow
+- Micah Richards
+- Ranvir Singh
+- Sara Davies
+- Shakira Khan
+- YouTuber
+organisations:
+- Brand
+- Essex
+- Fortune
+- ITV X
+- JLS
+- Lorraine
+- PA Wire
+- The Box
+- The Chase
+- The Voice UK
 ---
 
 *(Image: Jane Barlow/PA Wire)*

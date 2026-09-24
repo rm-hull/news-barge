@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Androscoggin
+- Atlantic
+- Cable Pool Park
+- Canada
+- Cherryfield dam
+- Dennys
+- Gulf of Maine
+- Mount Desert Island
+- Narraguagus River
+- Orono
+- Pacific Northwest
+people:
+- Catherine Morse
+- Cherryfield
+- Christopher Federico
+- Corey Smith
+- Ellie Mason
+- Ernie Atkinson
+- Jacob van de Sande
+- James Hawkes
+- Rory Saunders
+- Salmon
+- Shad
+- Valérie Ouellet
+- van de Sande
+organisations:
+- American Forest Management
+- Army Corps
+- Atlantic Salmon Federation
+- Bipartisan Infrastructure Law
+- Cherryfield
+- Congress
+- Downeast Salmon Federation
+- Maine Atlantic Salmon Commission
+- Maine Coast Heritage Trust
+- Maine Department of Marine Resources
+- NOAA’s Restoration Center
+- National Oceanic and Atmospheric Administration
+- Project SHARE
+- Salmon Habitat and River Enhancement
+- Saunders’ NOAA
+- The Associated Press
+- The Maine Monitor
+- The Nature Conservancy
+- U.S. Army Corps of Engineers
+- University of Maine
+- Wyman’s
 ---
 
 On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere.

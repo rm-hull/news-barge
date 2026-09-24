@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- Knaresborough
+- North Bar
+people:
+- Tom Gordon
+organisations:
+- Harrogate BID
+- Harrogate District Chamber of Commerce
+- MP
+- The Liberal Democrat
 ---
 
 Tom Gordon, The Liberal Democrat MP for Harrogate and Knaresborough is encouraging local business to share their experiences about the pressures they’re facing, what’s working, and what the Government could do differently.

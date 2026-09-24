@@ -16,6 +16,23 @@ categories:
 - Arts & Culture
 - History
 - Society & Culture
+locations:
+- Darlington
+- Listening Point
+- North East Museum
+- St Cuthbert’s Church
+people:
+- Kaitlyn Beattie
+- Lola McEvoy
+organisations:
+- Newsquest
+- Opening Doors Project
+- St Cuthbert
+- St Cuthbert's
+- St Cuthbert’s
+- Sunday School
+- The Voices of St Cuthbert’s
+- WhatsApp
 ---
 
 *(Image: Newsquest)*

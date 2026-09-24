@@ -15,6 +15,19 @@ categories:
 - Automotive
 - Technology & Software
 - News & Politics
+locations:
+- Eggborough
+- North Yorkshire
+people:
+- Rob Campbell
+organisations:
+- DVSA
+- Humberside Police
+- Motor Insurers’ Bureau
+- North Yorkshire Police
+- Road Safety Team
+- Roads Policing Group
+- Selby’s Neighbourhood Policing Team
 ---
 
 *(Image: North Yorkshire Police)*

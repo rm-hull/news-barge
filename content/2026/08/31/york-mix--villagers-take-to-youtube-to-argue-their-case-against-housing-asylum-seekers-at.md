@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Linton-on-Ouse
+- North Yorkshire
+- RAF Linton
+- York
+people:
+- David Skaith
+- Olga Matthias
+organisations:
+- Government
+- Home Office
+- Labour
+- Linton Action
+- RAF Linton-on-Ouse
+- YouTube Channel
 ---
 
 Villagers, fighting Government plans to house hundreds of asylum seekers at the old RAF Linton base near York, have launched a new YouTube Channel.

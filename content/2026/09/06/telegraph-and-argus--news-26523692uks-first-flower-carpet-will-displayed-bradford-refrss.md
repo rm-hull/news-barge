@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Belgium
+- Bradford
+- Centenary Square
+- UK
+people:
+- Shiraaz Ali
+organisations:
+- Bradford Culture Company
+- Flower Carpet
 ---
 
 THE UK's first flower carpet will be displayed in Bradford city centre later this month.

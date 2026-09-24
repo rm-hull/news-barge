@@ -13,6 +13,15 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.gazetteherald.co.uk/resources/images/21471513.jpg?type=og-image
+locations:
+- York
+people:
+- Dan Ibbetson
+- Greg Wood
+- Mike Robinson
+organisations:
+- British Safety Council
+- Portakabin
 ---
 
 *(Image: Portakabin)*

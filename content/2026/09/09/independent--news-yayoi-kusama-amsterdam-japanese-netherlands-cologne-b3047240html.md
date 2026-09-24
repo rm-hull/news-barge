@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Amsterdam
+- Cologne
+- Museum Ludwig
+- Museum Square
+- Netherlands
+- Rotterdam
+- Stedelijk Museum Schiedam
+people:
+- Heinz Mack
+- Jan Schoonhoven
+- Leontine Coelewij
+- Otto Piene
+- Yayoi Kusama
+organisations:
+- Stedelijk Museum
+- The Associated Press
+- ZERO
 ---
 
 Yellow tentacles decorated with rhythmic patterns of dots swirl around a room, the patterns echoed on the floor and the walls. Reflections bounce off mirrors, blurring the boundaries of the space at Amsterdam 's Stedelijk Museum.

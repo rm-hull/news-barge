@@ -13,6 +13,48 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/c064acc957ed88de865b05e835b344c59a89d871/403_0_4893_3914/master/4893.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ad3c01befd53125d774bd5ddccc550f
+locations:
+- AI
+- Bab al-Mandab
+- Britain
+- Downing Street
+- Gulf
+- Hormuz
+- Iran
+- Jackdaw
+- Manchester
+- Middle East
+- New York
+- North Sea
+- Russia
+- Saudi Arabia
+- UK
+- US
+- Ukraine
+- West Bank
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- Kanishka Narayan
+- Keir Starmer
+- Marie-France van Heel
+- Mark Carney
+- Roy
+- Ursula von der Leyen
+- Xi Jinping
+organisations:
+- AI
+- European Commission
+- Excalibur
+- G20
+- Guardian
+- Nato
+- RAF Voyager
+- Starmer
+- UK Sky Sabre
+- UN
+- United Nations
 ---
 
 The UK has agreed to provide defensive air support to Saudi Arabia to help counter Houthi fighters and restore stability in the Middle East while driving down the cost of living at home, Andy Burnham has said, ahead of his first meeting with Donald Trump.

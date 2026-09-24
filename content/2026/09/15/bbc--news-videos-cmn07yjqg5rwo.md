@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- China
+- Earth
+- Russia
+- US
+people:
+- Jonathan Beale
+organisations:
+- BBC
 ---
 
 # Warning of space arms race as US confirms weapons in Earth's orbit

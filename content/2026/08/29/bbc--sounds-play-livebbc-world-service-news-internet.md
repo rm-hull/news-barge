@@ -11,6 +11,12 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- America
+people:
+- Dolly Parton
+organisations:
+- BBC World Service
 ---
 
 ## Live now on World Service

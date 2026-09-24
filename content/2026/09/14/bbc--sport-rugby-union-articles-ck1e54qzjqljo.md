@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- France
+- Japan
+people:
+- Archie McParland
+- Eddie Hearn
+- Emmanuel Iyogun
+- Fin Smith
+- George Furbank
+- Harvey Skinner
+- Henry Pollock
+- Phil Dowson
+- Tommy Freeman
+organisations:
+- Exeter
+- Harlequins
+- Northampton Saints
+- Pollock
+- Prem
 ---
 
 ![Henry Pollock runs past Harvey Skinner](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/96d4/live/7a9ed830-b062-11f1-b9fd-8be7457ad079.jpg)

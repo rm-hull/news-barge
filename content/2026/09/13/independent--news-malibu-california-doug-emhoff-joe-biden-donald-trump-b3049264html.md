@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/09/13/02/Kamala_Harris_Trespasser_3
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Los Angeles County
+- Malibu
+people:
+- Donald Trump
+- Doug Emhoff
+- Eduardo Negrón
+- Harris
+- Joe Biden
+- Kamala Harris’
+organisations:
+- Harris
+- Harris’
 ---
 
 A trespasser was reported Friday night at former Vice President Kamala Harris’ home in Malibu, California, law enforcement officials and a Harris spokesperson said.

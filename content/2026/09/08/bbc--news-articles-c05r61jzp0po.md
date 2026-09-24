@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Cornwall
+- Cumbria
+- Devon
+- England
+- Humberside
+- Kent
+- Merseyside
+- North Yorkshire
+- Northamptonshire
+- Staffordshire
+- Suffolk
+- Surrey
+- Thames Valley
+- Wales
+- West Yorkshire
+- Wiltshire
+people:
+- Dan Sales
+- Katie Kempen
+- Michelle Skeer
+- Sarah Jones
+- Victoria Fuller
+organisations:
+- BBC
+- Cleveland Police
+- HM
+- HMIC
+- National Police Service
+- Police Leadership commission
+- Skeer
+- Victim Support
 ---
 
 ![A policeman in a high-vis uniform jacket with 'POLICE' written on the back is facing away from the camera. He is wearing a police hat. There are buildings blurred in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/da77/live/4b8540a0-5e98-11f1-926a-77cd300adf90.jpg)

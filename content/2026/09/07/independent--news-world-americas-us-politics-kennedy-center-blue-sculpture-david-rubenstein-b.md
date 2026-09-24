@@ -11,6 +11,45 @@ image: https://static.independent.co.uk/2026/09/07/21/download.-1.?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- D.C.
+- DC
+- Kennedy Center
+- Trump-dominated Kennedy Center
+- U.S.
+- United States
+- Washington
+people:
+- '![Rubenstein'
+- Christopher R. Cooper
+- David Rubenstein
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- Joel Shapiro
+- John F. Kennedy
+- John F.”
+- Joyce Beatty
+organisations:
+- Congress
+- Department of Justice
+- Ellen Phelan Foundation
+- Golden Age in Arts and Culture
+- Hands Off the Arts
+- Instagram
+- Joel Shapiro
+- Justice Department
+- Kennedy Center
+- National Gallery of Art
+- National Park Service
+- Rubenstein
+- The Carlyle Group
+- The Independent
+- The John F. Kennedy Memorial Center for the Performing Arts
+- The New York Times.
+- The Trump Kennedy Center Fund
+- Trump Kennedy Center Fund
+- Truth Social
 ---
 
 The former chair of the Kennedy Center, who was ousted from the institution’s board by President Donald Trump last year, has reportedly purchased a beloved blue sculpture that was removed from the venue’s grounds last week.

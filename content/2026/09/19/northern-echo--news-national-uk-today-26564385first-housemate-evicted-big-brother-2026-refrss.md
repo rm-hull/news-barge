@@ -14,6 +14,29 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21475787.jpg?type=og-image
+locations:
+- Big Brother
+people:
+- AJ Odudu
+- Gemma Collins
+- Jack P. Shepherd
+- Jedward
+- JoJo Siwa
+- Kerry Katona
+- Kevin Lygo
+- Millie
+- Pauline
+- Rochelle
+- Stephanie Cole
+- Tays
+- Will Best
+organisations:
+- '## Big Brother'
+- Big Brother
+- Coronation Street
+- Endemol
+- Hosts AJ
+- ITV
 ---
 
 *(Image: ITV)*

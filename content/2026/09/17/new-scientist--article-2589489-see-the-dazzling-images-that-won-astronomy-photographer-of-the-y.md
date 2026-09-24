@@ -13,6 +13,29 @@ categories:
 - Science
 - Technology & Software
 - Arts & Culture
+locations:
+- Australia
+- Cepheus
+- Czech Republic
+- Earth
+- Greenwich
+- Israel
+- Kuwait
+- London
+- Texas
+people:
+- Ali Alobaidly
+- Julien DeWinter
+- Kfir Simon
+- Landon Boehm
+- Peter Ward
+- Petr Horalek
+- Stefano Pellegrini
+- Venus
+organisations:
+- Aquarius
+- National Maritime Museum
+- Royal Observatory
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg?w=840)

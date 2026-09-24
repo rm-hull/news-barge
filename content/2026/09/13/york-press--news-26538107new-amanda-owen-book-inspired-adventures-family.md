@@ -13,6 +13,23 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Huddersfield
+- North Yorkshire
+- Our Yorkshire Farm
+- Ravenseat Farm
+- UK
+people:
+- Amanda Owen
+organisations:
+- '## Star'
+- Becca Hall
+- Channel 5
+- Our Yorkshire Farm
+- Puffin
+- Sunday Times
+- The Owen
+- Yorkshire Shepherdess
 ---
 
 ## Star on Our Yorkshire Farm launches exciting new project for fans

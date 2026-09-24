@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Balmoral
+- Buckingham Palace
+- Bute
+- Cape Town
+- Paris
+- Princess of Wales
+- South Africa
+people:
+- '![Charles'
+- Catherine
+- Diana
+- Earl Spencer
+- Harry
+- Jane
+- Prince Charles
+- William smile
+organisations:
+- BBC News
+- Daily Mail
+- then-Prince of Wales
 ---
 
 ![Princess Diana](https://ichef.bbci.co.uk/ace/standard/991/cpsprodpb/6cc3/live/8377ac50-b2bc-11f1-9830-658a48c7da16.jpg)

@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/17929928.jpg?type=og-image
+locations:
+- Acomb
+- Ford Transit
+- North Yorkshire
+- Southfield Crescent
+- York
+people: []
+organisations:
+- 1050 Robertson
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: Newsquest)*

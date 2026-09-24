@@ -11,6 +11,30 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/4AyzfXeFQkSE3gFjYpNsAQ-1672-80.png
+locations:
+- Monero
+people:
+- Mistral
+- Rahim Amir
+organisations:
+- CyberSec Guru
+- FrenchBreaches
+- Google News
+- HackRead
+- MAI-2026-002
+- Microsoft Threat Intelligence
+- Mini Shai-Hulud
+- Mistral AI
+- PC
+- PCs
+- RGB
+- SFF
+- Seller
+- TanStack
+- TeamPCP
+- TechRadar Pro
+- Telegram
+- The CyberSec Guru
 ---
 
 ![The Logo for Mistral AI](https://cdn.mos.cms.futurecdn.net/4AyzfXeFQkSE3gFjYpNsAQ.png)

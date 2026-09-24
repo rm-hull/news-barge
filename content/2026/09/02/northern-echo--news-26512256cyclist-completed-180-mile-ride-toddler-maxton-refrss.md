@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- County Durham
+- Maxton
+- STUART BOULTON
+- Shildon
+- Skegness
+people:
+- Chris Kelk
+- Coralle
+- Mark
+- Maxton Bowman
+- STUART BOULTON
+- Shildon Samantha Townsend
+organisations:
+- Henfrey’s & Co
+- Shildon Railway Institute
+- Stagecoach
 ---
 
 A selfless cyclist dubbed a "living superhero" by the family of a County Durham toddler battling rare leukaemia has completed a gruelling 180-mile challenge to help change the youngster's life.

@@ -14,6 +14,23 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+people:
+- Alex Wormuth
+- Arthur C. Clarke
+- Jessica Paquette
+- Mario
+- Mark Tyson
+- Tom
+organisations:
+- AI
+- Get Tom's Hardware
+- Google News
+- Google Research
+- HHMI Janelia Research Campus
+- Third Law
+- Tom's Hardware
 ---
 
 ![Fruit fly brain mapped](https://cdn.mos.cms.futurecdn.net/nGqyeSsjGQv6zj7dPXMK44.jpg) 

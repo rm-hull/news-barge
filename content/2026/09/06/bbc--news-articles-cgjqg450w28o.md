@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Downing Street
+- England
+- Falkland Islands
+- Iran
+- Russia
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- Daisy Cooper
+- Helen Miller
+- John Healey
+- Kemi Badenoch
+- Robert Jenrick
+organisations:
+- British Business Bank
+- Budget
+- Institute for Fiscal Studies
+- Reform UK
+- Tory
+- Treasury
 ---
 
 ![An image of John Healey from the waist up. He is walking and wearing a dark suit with a white shirt and red patterned tie. He is carrying a red folder. The background is blurred by you can see that he is outside from the outline of bushes.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg)

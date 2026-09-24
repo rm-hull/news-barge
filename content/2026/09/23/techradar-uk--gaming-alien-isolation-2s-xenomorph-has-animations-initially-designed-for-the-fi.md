@@ -15,6 +15,21 @@ categories:
 - Arts & Culture
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/azDHDSPoEt7tUuBK5DVmVK-2000-80.jpg
+locations: []
+people:
+- Archie Whitehead
+- Simon Ridge
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- NME
+- PS5
+- TechRadar Gaming
+- Xenomorph
 ---
 
 ![Alien: Isolation 2](https://cdn.mos.cms.futurecdn.net/azDHDSPoEt7tUuBK5DVmVK.jpg)

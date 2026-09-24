@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/c4dd7f2b486025d0f5616e41dd37e0ed755d7b36/3
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- China
+- Europe
+- Kremlin
+- Nebraska
+- Russia
+- Ukraine
+- Washington DC
+people:
+- Chamberlain
+- Denys Sienik
+- Don Bacon
+- Donald Trump
+- Graham
+- Hakeem Jeffries
+- Marie Gluesenkamp Perez
+organisations:
+- Chargé
+- House of Representatives
+- Kyiv
+- Senate
+- Trump
+- US Congress
 ---
 
 The US Congress has passed a sweeping bill allowing Donald Trump to raise tariffs on top buyers of Russian energy and issue other punishing sanctions against the Kremlin following a pitched battle between lawmakers backing Ukraine and sceptics worried the bill gives the president too much power.

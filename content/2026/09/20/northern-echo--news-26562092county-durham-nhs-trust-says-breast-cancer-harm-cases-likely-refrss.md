@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21472695.jpg?type=og-image&xType=0&yType=36
+locations:
+- CHRIS BOOTH
+- County Durham
+- NHS
+- North Durham
+- North East
+people: []
+organisations:
+- '![]()Darlington Memorial Hospital'
+- '![]()University Hospital'
+- Clinical Reference Group
+- Darlington NHS Foundation Trust
+- NORTHERN ECHO
+- North Cumbria Integrated Care Board
+- TEWV
 ---
 
 County Durham and Darlington NHS Foundation Trust has acknowledged that there are likely to be further cases of harm among breast cancer patients outside the period currently being reviewed.

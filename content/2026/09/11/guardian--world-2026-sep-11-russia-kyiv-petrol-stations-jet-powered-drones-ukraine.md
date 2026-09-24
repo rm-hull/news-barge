@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Canada
+- Caspian Sea
+- Desnianskyi
+- Kyiv
+- Makhachkala
+- Pochaina
+- Russia
+- US
+- Ukraine
+- Ukrnafta
+people:
+- Anastasiia Demchenko
+- Fedir Lesovin
+- Illia Dyadik
+- Jared Kushner
+- Mark Carney
+- Sergiy Fedorenko
+- Steve Witkoff
+- Vitali Klitschko
+- Volodymyr Zelenskyy
+organisations:
+- Naftogaz
+- Telegram
+- Ukrnafta
 ---
 
 Petrol stations in Kyiv have been hit by jet-powered drones in a wave of targeted Russian attacks as the bombardment of Ukraine’s capital enters a new phase of intensity.

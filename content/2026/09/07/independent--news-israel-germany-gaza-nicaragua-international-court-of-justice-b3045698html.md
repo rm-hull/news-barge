@@ -11,6 +11,31 @@ image: https://static.independent.co.uk/2026/09/07/06/World-Court-Germany-Nicara
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Bosnia
+- Both South Africa
+- Gaza
+- Germany
+- Israel
+- Nicaragua
+- Serbia
+- South Africa
+- Srebrenica
+- The Hague
+- United States
+people:
+- Benjamin Netanyahu
+- Tania von Uslar-Gleichen
+- Yoav Gallant
+organisations:
+- Hamas
+- ICC
+- ICJ
+- International Court of Justice
+- International Criminal Court
+- United Nations’
+- United Nations’ Human Rights Council
 ---
 
 Germany on Monday will challenge claims at the United Nations’ top court that it is “facilitating” acts of genocide in Gaza by providing arms and other military support to Israel.

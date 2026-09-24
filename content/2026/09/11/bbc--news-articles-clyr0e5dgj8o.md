@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Berriff
+- Hessle
+- Hull
+- Humber
+- Lower Manhattan
+- New York City
+- North Yorkshire
+- Northallerton
+people:
+- Lulu
+- Paul Berriff
+- Steve Gregory
+organisations:
+- Berriff
+- Humber Rescue
+- OBE
 ---
 
 ![A man wearing a blue shirt and white ID badge stands in the destruction of the twin towers attack. There are metal girders sticking up and a digger behind them too.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0126/live/bca22f20-ad15-11f1-a540-61c3f7fc4e6c.jpg)

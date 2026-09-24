@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- River Glaven
+- Wales
+people:
+- Alison Saunders
+- Andy Burnham
+- Ashley Dalton
+- Keir Starmer
+- Kemi Badenoch
+- Ken Macdonald
+- Max Hill
+organisations:
+- CPS
+- Commons
+- Crown Prosecution Service
+- DPP
+- Dignitas
+- Dignity in Dying
+- End of Life
+- House of Lords
+- Labour
+- Terminally Ill Adults
+- Tory
 ---
 
 The country’s former top prosecutor has warned that the assisted dying ban is failing to protect vulnerable people as figures reveal the majority of cases are never scrutinised by the Crown Prosecution Service.

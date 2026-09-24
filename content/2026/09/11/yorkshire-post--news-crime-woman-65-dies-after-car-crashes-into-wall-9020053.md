@@ -14,6 +14,16 @@ categories:
 - York
 - Automotive
 - Technology & Software
+locations:
+- Church Street
+- Heaton Road
+- Huddersfield
+- Paddock
+people:
+- Woman
+organisations:
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 # Woman, 65, dies after car crashes into wall

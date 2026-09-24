@@ -15,6 +15,52 @@ categories:
 - History
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- California
+- East Tennessee
+- Georgia
+- Locust Ridge
+- Los Angeles
+- Los Angeles Convention Center
+- Nashville
+- Pittman Center
+- Ringgold
+- Rotherham
+- South Yorkshire
+- Texas
+- US
+- Vegas
+people:
+- Bill Owens
+- Carl Dean
+- Dolly Parton
+- Dolly Rebecca Parton
+- Elton John
+- Emmy
+- Jolene
+- Lee
+- Oscar
+- Paul McCartney
+- Porter Wagoner
+- Rich Fury
+- Ringo Starr
+- Sabrina Carpenter
+- Sting
+- Tony
+- Whitney Houston
+organisations:
+- American TV
+- Carnegie Medal of Philanthropy
+- Dollywood Foundation
+- Glastonbury
+- Grammy Hall of Fame
+- Imagination Library
+- Magna Science Adventure Centre
+- Rockstar
+- The Recording Academy
+- Time magazine
+- Travelin’ Thru
 ---
 
 # Dolly Parton obituary: The country music star who became a worldwide icon - and loved a South Yorkshire town

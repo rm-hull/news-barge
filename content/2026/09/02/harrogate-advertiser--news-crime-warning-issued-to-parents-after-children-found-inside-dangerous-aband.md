@@ -15,6 +15,15 @@ categories:
 - Harrogate
 - Family & Parenting
 - Society & Culture
+locations:
+- Harrogate
+- King's Road
+- Kings Road
+- North Yorkshire
+people: []
+organisations:
+- Kimberley Hotel
+- North Yorkshire Police
 ---
 
 # Warning issued to parents after children found inside dangerous abandoned building in Harrogate

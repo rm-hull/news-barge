@@ -11,6 +11,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alaska
+- California
+- Pacific
+- San Francisco Bay-Delta
+people:
+- Heather Renner
+- Rebecca Duerr
+organisations:
+- Bird Rescue
+- Bird Rescue’s Bird HelpLine
+- CBS News San Francisco
+- Fish and Wildlife
+- International Bird Rescue
+- Oregon Coast Aquarium
+- Research and Veterinary Science
 ---
 
 Penguin-like sea birds known as common murres have been dying in droves along the California coast over the last two months.

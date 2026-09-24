@@ -12,6 +12,29 @@ image: https://cdn.mos.cms.futurecdn.net/CGHmZmGyZacDDWKL9xLdTc-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Hamptons
+- Los Angeles
+- Miami
+- Minecraft
+- U.S.
+people:
+- Jeandiel Serrano
+- Malone Lam
+- Mark Tyson
+- Marlon Ferro
+- Tom
+- Veer Chetal
+organisations:
+- Cybergang
+- District of Columbia
+- Google News
+- Lam
+- McLaren
+- PDF
+- The Register
+- Tom's Hardware
+- United States District Court
 ---
 
 ![McLaren cars were in the crypto gang's fleet](https://cdn.mos.cms.futurecdn.net/CGHmZmGyZacDDWKL9xLdTc.jpg) 

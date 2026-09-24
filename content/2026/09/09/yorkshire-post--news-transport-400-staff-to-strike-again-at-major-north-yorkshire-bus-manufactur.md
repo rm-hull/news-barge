@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Europe
+- Liverpool
+- North Yorkshire
+- Scarborough
+- UK
+people:
+- Alexander Dennis
+- Alexander Dennis’
+- Dan Stephens
+- Sharon Graham
+organisations:
+- LDRS
+- Liverpool City Region Combined Authority
+- Local Democracy Reporting Service
+- Unite
 ---
 
 # 400 staff to strike again at major North Yorkshire bus manufacturer

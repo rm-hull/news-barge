@@ -12,6 +12,29 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- London
+- UK
+- York Minster
+people:
+- Cherie Federico
+- Steve Messam
+organisations:
+- Aardman
+- Aesthetica
+- Audible
+- BBC
+- Film4
+- Framestore
+- Games Lab
+- ITV
+- Neal Street Productions
+- UNESCO City of Media Arts
+- UNESCO City of Media Arts EXPO
+- Ubisoft
+- VR Lab
+- York Business School
+- York Theatre Royal
 ---
 
 *(Image: Supplied)*

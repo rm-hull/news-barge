@@ -14,6 +14,33 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Video Gaming
+locations:
+- Europe
+- Japan
+- Kotaku
+- New York City.
+- U.S.
+people:
+- Andrew E. Freedman
+- Tom
+- Trump
+organisations:
+- Costco
+- FedEx
+- Google News
+- Laptop Mag
+- Nintendo Stores
+- Nintendo eShop
+- Nintendo of America
+- PCMag and Complex
+- Panic
+- Revlon
+- Sony
+- Supreme Court
+- Switch 2
+- Tom's Guide
+- Tom's Hardware
+- U.S. Court of International Trade
 ---
 
 ![Shopper carrying a Nintendo bag outside of the Nintendo store in New York City.](https://cdn.mos.cms.futurecdn.net/uneps7xms57jgZpmDy6nrc.jpg) 

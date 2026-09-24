@@ -12,6 +12,39 @@ image: https://i.guim.co.uk/img/media/4f256cc323e1022de2a718ddccf283e8213d8aa3/2
 categories:
 - UK
 - News & Politics
+locations:
+- Liberty Victoria
+- New South Wales
+- Northern Territory
+- Queensland
+- Surfers Paradise
+- Tasmania
+- Western Australia
+people:
+- Andrew Messenger
+- Anthony Carbines
+- Ben Carroll
+- Brett Beasley
+- Gemma Cafarella
+- Jacinta Allan
+- Jack Beasley
+- Janet Ransley
+- Joel McGregor
+- Katherine Copsey
+- Paul Edbrooke
+- Sarah Schwartz
+organisations:
+- ABC Radio Melbourne
+- CBD
+- Coalition
+- Gold Coast
+- Greens’ justice
+- Griffith University
+- Guardian
+- Human Rights Law Centre
+- Labor
+- Liberty Victoria
+- Swinburne University
 ---
 
 The Victorian premier has made another policy backflip, announcing a re-elected Labor government would give police and protective services officers the power to stop and search people for knives using handheld metal detectors – despite experts warning of a lack of evidence that the measure reduces violent crime.

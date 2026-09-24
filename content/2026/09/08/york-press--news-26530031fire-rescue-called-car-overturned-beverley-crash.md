@@ -12,6 +12,13 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Beverley
+- East Yorkshire
+- Lairgate
+people: []
+organisations:
+- Humberside Fire and Rescue Service
 ---
 
 *(Image: Google Maps)*

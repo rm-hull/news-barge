@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Calvert
+- Colliergate
+- Fossgate
+- King’s Square
+- Shambles
+- St Saviourgate
+- Whip-Ma-Whop-Ma-Gate
+- York
+people:
+- Addy
+- Anna Perrett
+- Chapman
+- Cllr Perrett
+- David Addy**
+- Tom Calvert**
+- York Ryan Chapman**
+organisations:
+- Avorium
+- City Centre PSPO
+- City of York Council
+- Colliergate
+- Community Safety Strategy
+- Labour
+- North Yorkshire Police
+- PSPOs
+- Public Space Protection Orders
 ---
 
 TRADERS have spoken out about antisocial behaviour and street drinking plaguing a part of York.

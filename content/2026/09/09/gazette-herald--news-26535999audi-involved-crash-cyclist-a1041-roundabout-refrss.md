@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- A645
+- Camblesforth
+- North Yorkshire
+people:
+- Ben Bowker
+organisations:
+- Audi
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

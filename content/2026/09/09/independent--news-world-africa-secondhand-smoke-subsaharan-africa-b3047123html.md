@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2026/09/09/10/1246758312..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Caribbean
+- Denmark
+- Latin America
+- Middle East
+- North Africa
+- Norway
+- Qatar
+- United Arab Emirates
+- sub-Saharan Africa
+people: []
+organisations:
+- Global Burden of Disease Study
+- Lancet Public Health
+- The Independent
 ---
 
 The number of people exposed to second-hand smoke in sub-Saharan Africa has nearly doubled since 1990, in contrast to significant progress in reducing exposure in high income countries.

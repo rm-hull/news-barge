@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Chester-le-Street
+- Consett
+- County Durham
+- DH
+- Durham city
+- Hollywood
+- Houghton-le-Spring
+- North East
+- Quiet County Durham
+- Stanley
+people:
+- Tom Hardy
+organisations:
+- County Durham
+- McDonald's
+- New County Durham Farmfoods
+- Northern Echo
+- Notch
 ---
 
 *(Image: The Northern Echo)*

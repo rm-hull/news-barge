@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- England
+- Scotland
+- Wales
+people:
+- Ceri Menai-Davis
+- Dame Rachel de Souza
+- Frances
+- Hugh Menai-Davis
+- Kate Dearden
+organisations: []
 ---
 
 ![Dame Rachel de Souza, Children's Commissioner for England, wears a polka-dot blouse. She has auburn hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1b72/live/8181d940-a4e6-11f1-a291-b542ee92de7c.jpg)

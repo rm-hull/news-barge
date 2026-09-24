@@ -11,6 +11,27 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bootham
+- Gillygate
+- Hawthorn Terrace
+- Haxby Road
+- Huntington Road
+- Link Road
+- Lord Mayors Walk
+- Malton Road
+- New Earswick
+- Strensall Road
+- Wiggington Road
+- Wigginton Road
+- York Outer Ring Road
+people:
+- Kate Ravilious
+organisations:
+- A19
+- City of York Council
+- Heworth Green
+- Lane Rentals Services
 ---
 
 A stretch of the York Outer Ring Road will be closed to traffic for five nights later this month.

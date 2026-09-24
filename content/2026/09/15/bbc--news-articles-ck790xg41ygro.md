@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- China
+- Earth
+- Greenland
+- Russia
+- US
+- Ukraine
+people:
+- Donald Trump
+- Troy Meink
+organisations:
+- Air Force
+- Air, Space and Cyber Conference
+- Golden Dome
+- Pituffik Space Base
+- Thule Air Base
+- US Space Force
 ---
 
 ![The Pituffik Space Base (formerly Thule Air Base) is pictured in northern Greenland, on October 4, 2023. It shows a large satelitte dish in front of containers, with a cloudy orange sky in the background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg)

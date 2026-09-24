@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bishop Auckland
+- Bluebell Crescent
+- Dixon Street
+- Dovecot Street
+- North East
+- North Tees
+- Stockton
+people:
+- Bird
+organisations:
+- CCTV
+- Cleveland Police
+- Crimestoppers
+- University Hospital
 ---
 
 *(Image: PROVIDED)*

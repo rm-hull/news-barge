@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- America
+- Arlington
+- Atlanta
+- Charlotte
+- Florida
+- Free Palestine
+- Gaza City
+- Georgia
+- Gillette Stadium
+- Indianapolis
+- Israel
+- Mercedes-Benz Stadium
+- MetLife Stadium
+- New Jersey
+- North Carolina
+- Philadelphia
+- Raymond James Stadium
+- Tampa
+- Texas
+- U.S.
+- Washington
+people:
+- Benjamin Hammond Haggerty
+- Ed Sheeran
+- Hind Rajab
+- Macklemore
+- Pink
+- Robert Kraft
+organisations:
+- AT&T Stadium
+- Bank of America Stadium
+- Hamas
+- Instagram
+- Lincoln Financial Field
+- Lucas Oil Stadium
+- Messina Touring Group
+- NFL
+- New England Patriots
+- Rolling Stone
 ---
 
 Macklemore said Monday that he has been dropped from Ed Sheeran 's tour over pro-Palestinian comments made by the Grammy-winning rapper earlier this month onstage at New Jersey's MetLife Stadium.

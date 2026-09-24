@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Buckingham Palace
+- Norway
+- Oslo Cathedral
+- Prince of Wales
+- Princess of Wales
+- Royal Palace
+- Vatican
+people:
+- Alexander McQueen
+- Alexandra
+- Catherine
+- Charles
+- Edward VII
+- Elizabeth II
+- Francis
+- Haakon VIII
+- Harald V
+- Kate
+- Louis
+- Mette-Marit
+- Royal
+- Sonja
+- William
+organisations:
+- Oslo’s Palace Chapel
 ---
 
 The Prince of Wales is to represent his father at the funeral of King Harald V of Norway next week, Buckingham Palace has announced.

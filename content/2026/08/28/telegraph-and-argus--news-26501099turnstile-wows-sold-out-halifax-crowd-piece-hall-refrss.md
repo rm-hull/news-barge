@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Halifax
+- Islands In The Stream
+- UK
+people:
+- Bastille
+- Dolly Parton
+organisations:
+- Birds
+- CUFFE & TAYLOR
+- TK Maxx
+- TLC
+- The Piece Hall
+- Turnstile
 ---
 
 *(Image: CUFFE & TAYLOR)*

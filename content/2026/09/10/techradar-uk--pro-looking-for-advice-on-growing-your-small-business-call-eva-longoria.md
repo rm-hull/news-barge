@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/yNcWZ2ykHVetwjTWbE4o7c-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Brazil
+- France
+- India
+- Japan
+- Mexico
+- UK
+- United Kingdom
+- United States
+people:
+- Emily Ketchen
+- Eva Longoria
+- Mike Moore
+organisations:
+- B2B
+- B2C
+- Eva Longoria
+- Google News
+- ITProPortal
+- Intelligent Devices Group
+- International Markets
+- Lenovo
+- TechRadar Pro
 ---
 
 ![Eva Longoria for Lenovo's "call eva" SMB program](https://cdn.mos.cms.futurecdn.net/yNcWZ2ykHVetwjTWbE4o7c.jpg) 

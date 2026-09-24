@@ -11,6 +11,47 @@ description: Technical progress has encouraged a new batch of companies to jump 
 image: https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848
 categories:
 - Technology & Software
+locations:
+- China
+- Georgia
+- San Diego
+- U.S.
+people:
+- Brian Gu
+- Elon Musk
+- He Xiaopeng
+- Michael Dunne
+- Xiao Di
+organisations:
+- AI
+- Agility Robotics
+- AiMOGA
+- Alibaba
+- BYD
+- Boston Dynamics
+- Boston Dynamics’ Atlas
+- Changan
+- Chery Automobile
+- DeepMind
+- Dunne Insights
+- GAC
+- Gaorong Ventures
+- Google
+- Hyundai
+- IDG Capital
+- Li Auto
+- Mentee Robotics
+- Mobileye
+- Optimus
+- Rivian
+- Robot Metaplant Application Center
+- SAIC
+- Seres
+- TechCrunch
+- Tencent
+- Tesla
+- Wall Street Journal
+- Xpeng
 ---
 
 The hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynamics’ Atlas robot, for that.

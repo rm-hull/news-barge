@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham Magistrates’ Court
+- London
+- Reading
+people:
+- Sadiq Khan
+- Stephanie Smith
+organisations:
+- DVLA
+- Ministry of Justice
+- Press Association
+- SORN
+- Single Justice Procedure
 ---
 
 A partially blind 83-year-old pensioner who has never driven a vehicle has been convicted in a fast-track court of not taxing her late husband’s car while mourning his death.

@@ -12,6 +12,67 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/e3cc965e7ec2b8cc499eba649af3da5e6e683301/8_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5ae8d2fa571fd2a06456bac3b58775cc
+locations:
+- AI
+- Annandale
+- Australia
+- City of Sydney
+- Clovelly
+- Coogee
+- Des Renford
+- Inner West
+- Maroubra
+- New York
+- Randwick
+- Smartglasses
+- Sydney CBD
+- US
+- United States
+- WestConnex
+- White House
+people:
+- AI
+- Anthony Albanese
+- Carlos Barría
+- Charissa Habkouk
+- Clive Palmer
+- Daniel Mulino
+- David Gray
+- Donald Trump
+- Fiona Cameron
+- Grattan
+- Kim Williams
+- Mahmood Fazal
+- Marek Ladzinski
+- Martin Farrer
+- Mick Tsikas
+- Nick Visser
+- Paul Scully
+- PhilipaVeitch
+- Rose Jackson
+organisations:
+- AAP
+- ABC
+- AFP
+- AI
+- Australian Associated Press
+- Australian Bureau of Statistics
+- Australian Electoral Commission
+- Coalition
+- Cocaine Nation
+- Four Corners
+- Grattan Institute
+- Joinery Annandale
+- Krishani Dhanji Major
+- Labor
+- Media Watch
+- Meta
+- NSW
+- RN Breakfast
+- Trump
+- UN
+- Veitch
+- ZUMA Press Wire
 ---
 
 ‘Culture of secrecy’ and ‘inadequate factchecking’ at Four Corners criticised by ABC watchdog

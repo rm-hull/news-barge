@@ -11,6 +11,31 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- York
+people:
+- Andy Brown
+- Betty
+- Clare Morrow
+- Fiona Fox
+- Ms Fox
+- Ms Morrow
+- Paul Coupe
+- Simon Eyles
+- Taylors
+organisations:
+- Bettys & Taylors
+- Bettys & Taylors Group
+- Bettys Tea Room
+- Bettys and Taylors of Harrogate
+- Fiona Fox
+- Inspired Pet Nutrition
+- Mars
+- Pic
+- Procter & Gamble
+- RHS Harlow Carr
+- Taylors of Harrogate
 ---
 
 ## Changes at the top of iconic North Yorkshire business

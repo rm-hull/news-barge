@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- France
+- Germany
+- Stockholm
+- Sweden Sweden
+people:
+- Bo Petersson
+- Fredrik Furtenbach
+- Jimmie Åkesson
+- John Stauffer
+- Magdalena Andersson
+- Simona Mohamsson
+- Ulf Kristersson
+organisations:
+- AfD
+- Alternative für Deutschland
+- Centre
+- Civil Rights Defenders
+- Dagens Nyheter
+- Ipsos
+- Le Pen
+- Malmö University
+- Moderates
+- SD
+- Sveriges Radio
+- Sweden Democrats
 ---
 
 Sweden goes to the polls on Sunday in an extremely close election that could see the far right enter government for the first time if the country’s rightwing parties can form a majority.

@@ -14,6 +14,22 @@ categories:
 - York
 - Sports
 - History
+locations:
+- North Yorkshire
+- Scarborough
+people:
+- Jack McCabe
+- Phill Blunt
+organisations:
+- Force Control Room
+- IDAS
+- NSPCC
+- North Yorkshire Police
+- North Yorkshire’s Sexual Assault Referral Centre
+- Register of Sex Offenders
+- Ryedale Safeguarding Investigation Team
+- SARC
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

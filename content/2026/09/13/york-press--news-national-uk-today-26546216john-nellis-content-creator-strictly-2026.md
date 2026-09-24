@@ -12,6 +12,26 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- BBC
+- England
+- Northern Ireland
+- UK
+people:
+- Cristiano Ronaldo
+- Erling Haaland
+- John Nellis
+- Kylian Mbappé
+- Lionel Messi
+- Ray Burmiston
+organisations:
+- BBC One
+- France
+- Nellis
+- Nellis’
+- TikTok
+- YouTube
+- iPlayer
 ---
 
 *(Image: Ray Burmiston/BBC)*

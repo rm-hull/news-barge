@@ -12,6 +12,40 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/37/86/1200x675_cmsv2_00907f22-07c9-50cf-8d0b-d752e4cc4326-9923786.jpg
+locations:
+- Azerbaijan
+- Belgium
+- Brussels
+- Denmark
+- Estonia
+- Europe
+- France
+- Germany
+- Greece
+- Latvia
+- Lithuania
+- Luxembourg
+- Netherlands
+- Norway
+- Paris
+- Poland
+- Russia
+- Slovakia
+- Sweden
+- Ukraine
+- United Kingdom
+- Uzbekistan
+people:
+- Alisher Usmanov
+- Andris Kulbergs
+- Emmanuel Macron
+- Kyiv
+- Mikhail Fridman
+- Vladimir Putin
+organisations:
+- EU
+- Euronews
+- Usmanov
 ---
 
 ## Latvian Prime Minister Andris Kulbergs spoke exclusively to Euronews about his last-minute change in tune over a sanctions saga that has gripped Brussels, while also warning of remaining dangers.

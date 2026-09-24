@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/21484748.jpg?type=og-image
+locations:
+- Otley Common
+- UGC
+- Walkergate
+people:
+- Andrew Howarth
+- Otley Common
+- Sapphire McIntosh
+- Ted Lasso
+organisations:
+- Common Varieties
+- Otley Common
+- Otley Methodist Church and Hall
 ---
 
 *(Image: UGC)*

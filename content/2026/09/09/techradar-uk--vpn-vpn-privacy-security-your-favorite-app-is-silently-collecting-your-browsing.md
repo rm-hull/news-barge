@@ -11,6 +11,32 @@ image: https://cdn.mos.cms.futurecdn.net/SeRCc5giV8aBStuSbpEYEL-2266-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- Surfshark
+people:
+- Karolis Kaciulis
+- Monica J. White
+- Surfshark
+organisations:
+- Apple App Store
+- Digital Trends
+- Facebook
+- Google News
+- Google Play
+- Instagram
+- LinkedIn
+- Monica
+- No Trace
+- Pinterest
+- Reddit
+- SlashGear
+- Snapchat
+- Starter
+- TikTok
+- Tom’s Hardware
+- WePC
+- Web Browsing History
+- YouTube
 ---
 
 ![Halftone hand pointing on search bar with copy space. Browsing online information, data, surfing internet. SEO concept Modern retro vector illustration](https://cdn.mos.cms.futurecdn.net/SeRCc5giV8aBStuSbpEYEL.jpg) 

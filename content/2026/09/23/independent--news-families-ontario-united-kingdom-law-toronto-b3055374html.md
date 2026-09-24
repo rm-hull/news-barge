@@ -15,6 +15,21 @@ categories:
 - Society & Culture
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/22/Canada_Lethal_Substances_63437.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Mississauga
+- Ontario
+- U.K.
+- U.S.
+- United Kingdom
+people:
+- Elisabeth Belien
+- Jeshennia Bedoya-Lopez
+- Kenneth Law
+- Leonardo Bedoya Forero
+- Stephen Mitchell Jr.
+- Stephen Mitchell Sr.
+organisations: []
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

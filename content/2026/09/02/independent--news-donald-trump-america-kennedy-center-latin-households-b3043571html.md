@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- U.S.
+- United States
+- Washington, D.C.
+people:
+- Donald Trump
+organisations:
+- Kennedy Center
+- Trump
+- U.S. Commission of Fine Arts
+- U.S. Institute for Peace
+- U.S. Mint
 ---
 
 The $1 coin designed to celebrate America's 250th birthday and seemingly President Donald Trump, whose face gazes from one side of the gold finish, will go on sale Wednesday, according the U.S. Mint.

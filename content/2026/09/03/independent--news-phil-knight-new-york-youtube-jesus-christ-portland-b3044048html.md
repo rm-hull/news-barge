@@ -13,6 +13,41 @@ categories:
 - UK
 - Technology & Software
 - Arts & Culture
+locations:
+- Bristol
+- Laika
+- Portland
+- U.K.
+- Wildwood
+people:
+- Carey Mulligan
+- Carson Ellis
+- Colin Meloy
+- Jacob Tremblay
+- Jake Johnson
+- Jesus Christ
+- Kubo
+- Laika
+- Mahershala Ali
+- Matthew
+- Peyton Elizabeth Lee
+- Phil Knight
+- Philip Knight
+- Prue McKee
+- Travis Knight
+- Wildwood
+- Will Vinton
+organisations:
+- Aardman Animations
+- Fathom Entertainment
+- Focus Features
+- Illumination
+- Laika
+- Nike
+- Pixar
+- The General
+- Vinton Studios
+- Wildwood
 ---
 
 Travis Knight, the chief executive of the stop-motion animation studio Laika, wasn’t prepared for the response to the teaser for his new film, “Wildwood.”

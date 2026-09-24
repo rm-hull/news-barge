@@ -15,6 +15,14 @@ categories:
 - Education & Learning
 - Family & Parenting
 - Society & Culture
+locations:
+- London
+- Scotland
+people: []
+organisations:
+- Blue Badge
+- HMRC
+- Highway Code
 ---
 
 *(Image: Getty Images/iStockphoto)*

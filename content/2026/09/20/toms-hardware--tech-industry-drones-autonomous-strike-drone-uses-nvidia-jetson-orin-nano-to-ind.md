@@ -13,6 +13,34 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/gxujFH8viV2F2zv6UwK4Zk-2560-80.jpg
+locations:
+- AI
+- BTC Karlskoga
+- Geneva
+- Sweden
+- Uppsala
+people:
+- Jetson Orin Nano
+- Scaleout
+- Shane Downing
+- Tom
+organisations:
+- AI
+- ALMA
+- ALPHA
+- Ars Technica
+- BAE Systems Bofors
+- BRAVO
+- FEDAIR
+- Google News
+- NATO
+- Nvidia
+- Scaleout Edge
+- Scaleout Systems
+- Shane Downing
+- Swedish Air Force Demonstration
+- Tom’s Hardware US
+- UN
 ---
 
 ![A multirotor drone flying over a snow-covered clearing.](https://cdn.mos.cms.futurecdn.net/gxujFH8viV2F2zv6UwK4Zk.jpg)

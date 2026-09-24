@@ -16,6 +16,20 @@ categories:
 - Arts & Culture
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21482380.jpg?type=og-image
+locations:
+- Brougham Street
+- Darlington
+- Peterlee
+- Teesside Crown Court
+people:
+- Ben Pegman
+- Embleton
+- Michael Empleton
+- Sian Allan-Gilbert
+- William Dixon
+organisations:
+- Northern Echo
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

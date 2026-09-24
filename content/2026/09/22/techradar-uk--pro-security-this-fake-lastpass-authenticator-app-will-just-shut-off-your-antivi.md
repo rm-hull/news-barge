@@ -11,6 +11,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/7Q34GM2RgrdwsWnK6jBAeP-2000-80.png
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- '## Rapuncel LastPass'
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Delphos
+- Google News
+- LastPass Authenticator
+- Microsoft
+- NVIDIA
+- Represent Communications
+- SEO‑poisoned GitHub
+- TechRadar Pro
 ---
 
 ![LastPass](https://cdn.mos.cms.futurecdn.net/7Q34GM2RgrdwsWnK6jBAeP.png)

@@ -13,6 +13,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Middlesbrough
+people:
+- SARAH CALDECOTT
+organisations:
+- British Transport Police
+- Crimestoppers
 ---
 
 *(Image: SARAH CALDECOTT)*

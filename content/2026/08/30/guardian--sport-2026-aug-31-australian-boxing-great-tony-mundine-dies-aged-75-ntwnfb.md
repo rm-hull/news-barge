@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- Argentina
+- Baryulgil
+- Grafton
+- New South Wales
+- Redfern
+- Saudi Arabia
+people:
+- Allah
+- Anthony Mundine
+- Carlos Monzon
+- Clyde Drexler
+- Rahim
+- Rubin ‘Hurricane’ Carter
+- Tony Mundine
+- Tonza
+organisations:
+- Gold Coast
+- IBO
+- Mundine's
+- NBA
+- NRL
+- WBA
 ---
 
 Indigenous Australian boxing great Tony Mundine has died, aged 75.

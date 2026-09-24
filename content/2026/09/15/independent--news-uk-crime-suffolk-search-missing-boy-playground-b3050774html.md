@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brantham
+- Merriam Close
+people:
+- Noah
+organisations:
+- CAD
+- Suffolk Constabulary
+- Suffolk Police
 ---
 
 A police search is under way to locate a three-year-old boy who went missing in a playground in Brantham.

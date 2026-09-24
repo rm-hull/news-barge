@@ -12,6 +12,42 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Barnsley
+- Borough Bailiff
+- Bradford
+- Briggate
+- Doncaster
+- High Street
+- Knaresborough
+- Malton
+- Marquis of Granby
+- North Yorkshire
+- Rochdale
+- Station Road
+- Tadcaster
+- Wakefield
+- York Place
+people:
+- Christian Horton
+- Cllr Poskitt
+- Humphrey Smith
+- Kirsty Poskitt
+- Sam Smith
+- Tom Taverner
+organisations:
+- '**__Paula Dawson'
+- Angel & White Horse
+- BTG Eddisons
+- Commercial Hotel
+- North Yorkshire Council
+- Rufforth__** Fleurets
+- Samuel Smith’s Brewery
+- Tadcaster Town Council
+- Tankard Inn
+- The Press
+- The Wellington Inn
+- Wellington Inn
 ---
 
 *(Image: Fleurets)*

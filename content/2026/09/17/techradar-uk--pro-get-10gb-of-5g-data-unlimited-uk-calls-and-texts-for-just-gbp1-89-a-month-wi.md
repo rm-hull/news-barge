@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- India
+- UK
+people:
+- Buy Lebara
+- Skip Lebara
+- Wayne Williams
+organisations:
+- EU
+- Lebara
+- PC
+- TechRadar Pro
+- Vodafone
+- Wayne Williams
 ---
 
 ![Lebara 10GB monthly SIM plan](https://cdn.mos.cms.futurecdn.net/bwiS7s8hFEVHWzVpTAz3F8.jpg) 

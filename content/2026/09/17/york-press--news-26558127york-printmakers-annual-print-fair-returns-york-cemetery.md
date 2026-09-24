@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Chapel and Harriet Room
+- YO10 5AJ
+- York Cemetery
+people:
+- Jane Duke
+- Jen Dring
+- Roger Goldthorpe
+organisations:
+- Instagram
+- York Cemetery
 ---
 
 ## Popular York art fair returns to the city for one weekend only

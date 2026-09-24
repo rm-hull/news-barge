@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Birtley
+- Durham Road
+- Egton Terrace
+- Gateshead
+- Northumbria Police
+- York Magistrates’ Court
+people:
+- Jonathan Pattison
+- Man
+- PC Pattison
+organisations:
+- Durham Police
 ---
 
 *(Image: POLICE)*

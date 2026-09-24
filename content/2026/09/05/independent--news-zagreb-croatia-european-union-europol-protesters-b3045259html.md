@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Adriatic Sea
+- Croatia
+- Germany
+- Gospic
+- Italy
+- Slovenia
+- U.S.
+- Zagreb
+people:
+- Andrej Plenkovic
+- Ivan Rittinger
+- Suzane Maria Flander
+- Vjekoslav Busic
+- Zeljka Sikic
+organisations:
+- EU
+- European Union
+- Europol
+- USKOK
 ---
 
 Tens of thousands of people rallied on Saturday in Croatia, furious that authorities for months haven't cleared a huge amount of illegally dumped hazardous waste that has triggered fears of major environmental damage in the European Union country.

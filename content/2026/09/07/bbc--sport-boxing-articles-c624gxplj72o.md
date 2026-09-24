@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- London
+- Madison Square Garden
+- New York
+- UK
+- US
+- Wembley Stadium
+people:
+- Anthony Joshua
+- Eddie Hearn
+- Oleksandr Usyk
+- Queensberry
+- Sadiq Khan
+- Sela
+- Tyson Fury
+organisations:
+- BBC Sport
+- Instagram
+- Matchroom
+- Netflix
+- Tyson Fury
 ---
 
 ![Tyson Fury holds up his hand and is wearing a boxing glove and Anthony Joshua holds up two fingers and has a Union Jack over his shoulders](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png)

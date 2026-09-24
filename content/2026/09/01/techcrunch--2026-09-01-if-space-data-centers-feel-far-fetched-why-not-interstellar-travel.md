@@ -11,6 +11,25 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/Philip_AC_vertical-e178
 categories:
 - Science
 - Technology & Software
+locations:
+- Alpha Centauri
+- Earth
+- Silicon Valley
+- Starshot
+people:
+- Adi Oltean
+- Ezra Feilden
+- Garret Jameson—
+- Mark Zuckerberg
+- Philip Johnston
+- Yuri Milner
+organisations:
+- Alpha Centauri
+- Breakthrough Starshot
+- Fermi Explorer
+- NASA
+- Starcloud
+- Voyager
 ---
 
 The founders behind Starcloud, a startup with plans to operate a fleet of GPUs in orbit, have a new pitch for potential investors: A plan to send a tiny spacecraft on an 80,000 year journey to Alpha Centauri.

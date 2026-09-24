@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- America
+- Faribault
+- Minneapolis
+- Minnesota
+- Stillwater
+- Tilt-A-Whirl
+people:
+- Herbert Sellner
+- Jenna Nelson
+- Martin Sellner
+- Mike Pream-Anderson
+- Molly Rossbach
+- Riley Lovett
+- Samuel Mishek
+- Sherri Gray
+- Thomas Lauthier
+- Valerie Nelson
+- ___ Schmidt
+organisations:
+- Minnesota State Fair
+- Report for America Statehouse News Initiative
+- Rice County Historical Society
+- The Associated Press
 ---
 
 With screams and giggles, whipping ponytails and white-knuckle grips, Minnesota fairgoers are taking delight in the magic of the Tilt-A-Whirl ride as it turns 100 years old.

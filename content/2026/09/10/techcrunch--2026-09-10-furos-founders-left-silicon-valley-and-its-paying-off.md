@@ -13,6 +13,40 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Bay Area
+- Europe
+- Germany
+- Munich
+- Silicon Valley
+- Stanford
+- U.S.
+- UC Berkeley
+- United States
+people:
+- Furo
+- Lena Sophia Voß
+- Leonie Wagner
+- Simon Wittner
+organisations:
+- AI
+- Apple
+- Big Tech
+- CDTM
+- Delaware C Corp.
+- Deutsche Bahn
+- Furo
+- Google X
+- Lumera Energy
+- Munich’s Center for Digital Technology and Management
+- Neo
+- Neo’s
+- Sandberg Bernthal Venture Partners
+- Sheryl Sandberg
+- TQ Ventures
+- TU Munich
+- VC
+- a16z
 ---
 
 U.S. venture capitalists once insisted that international startups move stateside before they would write a check. The three 28-year-old founders behind Furo are convinced that their decision to leave Silicon Valley and move back to their home country of Germany has paid off in both VC dollars and business growth.

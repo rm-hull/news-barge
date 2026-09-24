@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Avon and Somerset Police
+- Broad Oak Hill
+- England
+- Quantock Hills
+- Somerset Hills
+- Taunton
+- UK
+- Wales
+people:
+- Oliver Hughes
+organisations:
+- Avon and Somerset Police
+- BHSA
+- British Hound Sporting Association
+- Dorset Borders Hunt Saboteurs
+- Forestry England
+- National Trust
+- North Dorset Hunt Saboteurs
+- QDMCG
+- Quantock Deer Management and Conservation Group
+- Quantock Staghounds
+- Quantocks
 ---
 
 Police have launched an investigation after footage was released of a deer hurtling for safety while pursued by people on horseback and on foot.

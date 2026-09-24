@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- UK
+- US
+people:
+- Duncan Tyrrell
+organisations:
+- HARIBO
+- Haribo Bone Shakers
+- Haribo Sour Bats
+- Haribo UK
+- Kennedy News
+- MAOAM Halloween Mixx
+- MAOAM Stripes
 ---
 
 A new sour sweet is swooping into shops just in time for spooky season.

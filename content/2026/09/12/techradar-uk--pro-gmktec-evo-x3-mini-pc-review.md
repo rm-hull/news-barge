@@ -10,6 +10,59 @@ description: The GMKtec EVO-X3 is a mini PC with a difference, as it's built for
 image: https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- GMKClaw
+- Herdsman
+- LAN
+- OcuLink
+- UK
+- US
+- USB-C
+- Whisper-Large-v3-Turbo
+people:
+- Alastair
+- Gemma
+- Gemma-3-4b-it-GGUF
+- Lemonade
+organisations:
+- '### TechRadar Verdict High'
+- 3DMark Fire Strike
+- AI Apps
+- AMD Halo Strix
+- Amazon
+- Auto
+- CPU
+- Cloudflare Pages
+- DeepSeek-R1-Distill-Qwen-7B-NPU
+- EVO-X2
+- EVO-X3
+- Future
+- GMKtec Claw
+- Geekbench GPU
+- Herdsman
+- LM Studio
+- Lemonade
+- Lightroom
+- Local AI
+- NPU
+- Nvidia
+- OCuLink
+- Office Copilot
+- Ollama
+- PCMark
+- Paper Research
+- Photoshop
+- Premiere Pro
+- Qwen2.5-7B-Instruct-NPU
+- Radeon
+- Strix Halo
+- SuperPowers Agent
+- TechRadar Pro
+- USB-C
+- Ubuntu
+- Windows Task Manager
+- XDNA
 ---
 
 ### TechRadar Verdict

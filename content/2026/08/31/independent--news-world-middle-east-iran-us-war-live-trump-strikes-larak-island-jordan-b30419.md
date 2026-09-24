@@ -14,6 +14,36 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bandar Abbas
+- Gulf
+- Hormuz Strait
+- Islamic Republic
+- Jordan
+- Kharg Island
+- Larak Island
+- Middle East
+- Strait of Hormuz
+- Strait of Hormuz Iran
+- Tehran
+- UAE
+- US
+people:
+- '## Bessent'
+- DJT
+- Donald Trump
+- Scott Bessent
+organisations:
+- '## Trump'
+- Al Minhad Air Base
+- G20
+- Islamic Revolutionary Guard Corps
+- Mehr
+- Reuters
+- Revolutionary Guards
+- Treasury
+- US West Texas Intermediate
+- United Arab Emirates' Al Minhad Air Base
 ---
 
 Iran said it struck two US bases in Jordan in retaliation after Donald Trump's forces hit two rocket launchers on Iran's Larak Island on Sunday, marking the first American strikes on the Islamic Republic since late July.

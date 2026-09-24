@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Leeds Children's Hospital
+- Yorkshire
+people:
+- Emily Wragg
+- Jo Maltby
+- Melanie Malcolm
+organisations:
+- Candlelighters
+- Yorkshire Choice Awards
 ---
 
 *(Image: Candlelighters)*

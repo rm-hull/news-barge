@@ -12,6 +12,25 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21489026.jpg?type=og-image
+locations:
+- Central Tramway
+- Esplanade Gardens
+- Scarborough
+people:
+- David Knowles
+- Guy Smith
+- Rich Maw
+- Thomas Murray
+organisations:
+- '![]()Scarborough'
+- Cliff Lift Report
+- LDRS A
+- NYC
+- North Yorkshire Council
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Scarborough Town Hall
+- Spa Cliff Lift
 ---
 
 A phased reopening of Scarborough’s historic Spa Cliff Lift is being ‘seriously considered’, councillors have been told, weeks after the Victorian attraction was shut over safety concerns.

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Massachusetts
+- Plymouth County
+people:
+- Crystal Lyons
+- Joseph Perullo
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+- Timothy Cruz
+- William F. Sullivan
+organisations: []
 ---
 
 The closely watched case of the Massachusetts mother who killed her three young children was on the verge of being declared a mistrial Friday — but there was still one more dramatic moment to come.

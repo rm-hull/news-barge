@@ -15,6 +15,13 @@ categories:
 - Business & Entrepreneurship
 - True Crime
 image: https://i.guim.co.uk/img/media/c0eb95dd1bbe3257a542e0f1cb37ddb22d8a9961/0_182_4774_3818/master/4774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=313614deda99ae83ba8694d631a6a553
+locations: []
+people:
+- Kash Patel
+- ShinyHunters
+organisations:
+- ALL FBI Agents
+- ShinyHunters
 ---
 
 The FBI is investigating an apparent breach of its jobs website as a criminal hacking group claimed to have accessed “very sensitive data” on nearly all agents and job applicants.

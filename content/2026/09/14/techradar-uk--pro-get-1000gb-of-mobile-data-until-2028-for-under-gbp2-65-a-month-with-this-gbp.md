@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Wayne Williams
+organisations:
+- PC
+- SIM
+- Scancom
+- TechRadar Pro
+- Three and Vodafone
+- Wayne Williams
 ---
 
 ![1000GB Data SIM from Three](https://cdn.mos.cms.futurecdn.net/SaWtQpSJMo5Pyqf3DbA7gE.jpg) 

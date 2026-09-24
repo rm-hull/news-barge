@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Bempton Cliffs
+- Britain
+- East Yorkshire
+- England
+- RSPB Bempton Cliffs
+- Sunflower
+people:
+- Dani Boyes
+- James Hardisty.
+- Poppy Rummery
+organisations:
+- RSPB Bempton Cliffs
+- Red List
+- Tree Sparrows
+- Visitor Experience Manager
 ---
 
 # Bempton Cliffs: The unlikely Yorkshire stronghold of one of Britain’s most threatened farmland birds

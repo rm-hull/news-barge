@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/KPcETFgts8qtFehNcLFxth-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- '![Bert'
+- Denise
+- George Cooper Sr.
+- Kripke
+- Stuart Fails
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![The cast pose in front of a space backdrop](https://cdn.mos.cms.futurecdn.net/KPcETFgts8qtFehNcLFxth.jpg) 

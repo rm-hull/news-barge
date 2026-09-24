@@ -13,6 +13,32 @@ image: https://static.the-independent.com/2026/09/14/18/56/Cordova-daycare-mugs.
 categories:
 - News & Politics
 - UK
+locations:
+- Bartlett
+- Cordova
+- Memphis
+- Shelby County
+- Tennessee
+people:
+- Amilya Hardin
+- Bryan Jones
+- Colt Adkins
+- Nakia Cloman
+- Raven Marshall-Lewis
+- Sabrina Powe
+- Tametria Norry
+- Taurus Bailey
+- Winter Jones
+organisations:
+- ABC 24
+- Action News
+- Ivy League Learning Center
+- Kid University
+- Macon Hall Elementary School
+- Memphis
+- NBC
+- National Weather Service
+- Shelby County District Attorney's Office
 ---
 
 Three employees of a childcare center in Memphis, Tennessee, are facing felony charges following the death of a six-year-old girl left inside a van in triple-digit heat.

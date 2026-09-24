@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://static.independent.co.uk/2026/07/27/21/2026-07-08T205010Z_814711673_RC2Y8LA6L3SL_RTRMADP_3_USA-SEC-MUSK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Shanghai
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Xi Jinping
+organisations:
+- CCTV
+- Model Y
+- Musk
+- Reuters
+- SpaceX
+- Tesla Inc
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

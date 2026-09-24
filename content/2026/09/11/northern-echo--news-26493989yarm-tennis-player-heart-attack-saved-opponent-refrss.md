@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Denmark
+- North Tees Hospital
+- Saltburn
+- Yarm
+people:
+- Alexandra Achillies
+- Aycliffe
+- Brayn
+- Bryan Wrenn
+- Christian Eriksen
+- Elizabeth Amara
+- Martin Williams
+- Saltburn
+- Wife Mellany
+organisations:
+- Saltburn
+- Yarm Tennis Club
 ---
 
 A tennis player who suffered a heart attack while on court has praised his opponent who speedily sought a defibrillator to save his life.

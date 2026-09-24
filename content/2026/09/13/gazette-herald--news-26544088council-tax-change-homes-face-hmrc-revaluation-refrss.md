@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- England
+- Wales
+people:
+- Dame Harriett
+- Harriett Baldwin
+- John-Paul Marks
+- JohnHealey
+- Marks'
+organisations:
+- HMRC
+- I-Wei Huang
+- Treasury Committee
+- Valuation Office
 ---
 
 *(Image: I-Wei Huang)*

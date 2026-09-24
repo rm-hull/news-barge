@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Chris Tate
+- Gargrave
+- River Aire
+- Skipton
+- YOUR
+people:
+- Philip Richardson
+organisations:
+- A65
+- Environment Agency
+- Gargrave Parish Council
+- North Yorkshire Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Science
+locations:
+- Moscow
+- Russia
+- Ukraine
+people:
+- Oleh Ivashchenko
+organisations:
+- Defense Express
+- Defense Intelligence
+- Efosa
+- Google News
+- Rassvet
+- Rassvet-3
+- SpaceX
+- Starlink
+- TechRadar Pro
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

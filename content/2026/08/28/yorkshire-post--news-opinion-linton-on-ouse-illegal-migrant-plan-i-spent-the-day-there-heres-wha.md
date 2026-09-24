@@ -17,6 +17,37 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Afghanistan
+- Albania
+- Eritrea
+- Iran
+- Iraq
+- Linton Lock Inn
+- Main Street
+- North Yorkshire
+- RAF Linton-on-Ouse
+- Syria
+- The Paddocks
+- York
+people:
+- '**—**'
+- Andy Burnham
+- James Mitchinson
+- Linton
+- Wendy Hood
+organisations:
+- '**—Nota Bene'
+- BBC
+- College Arms
+- Google
+- Guinness
+- Home Office
+- James’
+- Labour Government
+- Serco
+- The Yorkshire Post
+- Yorkshire Post
 ---
 
 # Linton-on-Ouse - illegal migrant plan: 'I spent the day there - here's what I discovered'

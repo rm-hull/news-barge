@@ -11,6 +11,29 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2025/08/19/20/33/image0-(1).jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Florida’s Treasure Coast
+- UK
+- USA
+people:
+- '![Eckhart'
+- Cynthia Eckhart
+- Ed Henry
+- Jennifer Eckhart
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Fox News
+- Hope Sound
+- Instagram
+- Martin County Sheriff’s Office
+- Newsmax
+- Palm Beach County State Attorney
+- ROI
+- Samaritans
+- The Independent
+- The Independent.
+- The Reinvented Project
 ---
 
 Jennifer Eckhart, the former Fox News producer who sued her anchor over alleged sexual assault, was found dead at her Florida home over the weekend, police said.

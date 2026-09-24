@@ -11,6 +11,22 @@ description: Changing StarCraft from a real-time strategy to an open-world shoot
 image: https://cdn.mos.cms.futurecdn.net/vJGU7tiDgwtY9AnKaMYYd6-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Annalee Hartling
+- Dan Hay
+- Rob
+organisations:
+- '***StarCraft'
+- GamesRadar+
+- Google News
+- Hardware
+- RTS
+- StarCraft
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![A still from the StarCraft teaser trailer showing a recruit looking into the giant power armor](https://cdn.mos.cms.futurecdn.net/vJGU7tiDgwtY9AnKaMYYd6.jpg) 

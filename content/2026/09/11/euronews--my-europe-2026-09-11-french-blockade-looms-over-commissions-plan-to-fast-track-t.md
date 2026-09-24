@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- France
+- India
+- Paris
+people:
+- Maroš Šefčovič
+- Michele Gazzola
+organisations:
+- EU
+- Euronews
+- European Commission
+- European Parliament
+- European Union
+- Mercosur
+- Official Journal
 ---
 
 ## Eager to unlock new markets for EU businesses, the European Commission plans to accelerate trade deal ratification by circulating only English versions for approval by EU governments and the European Parliament – but sources told Euronews that Paris is set to oppose the move if it goes ahead.

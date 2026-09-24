@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- London
+people:
+- George Penny
+organisations:
+- Argos
+- Asda
+- EV
+- Lidl
+- M&S
+- Morrisons
+- Mumsnet
+- PCN
+- Tesco
+- The Solar Co
 ---
 
 *(Image: Getty Images/iStockphoto)*

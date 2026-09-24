@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- England
+- Holborn
+- Israel
+- St Pancras
+- UK
+- Wales
+- Westminster
+people:
+- Adam Fleming
+- Ailbhe Rea
+- Chris Gray
+- Cordelia Hemming
+- Ed Miliband
+- Jack Maclaren
+- Jem Westgate
+- Lara Spirit
+- Mike Regaard
+- Sam Bonham
+- Zack Polanski
+organisations:
+- BBC Sounds
+- Green Party
+- New Statesman
+- News and Current Affairs
+- Newscast
+- Sunday Times
+- WhatsApp
 ---
 
 ## Episode details

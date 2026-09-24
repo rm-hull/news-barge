@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Barnard Castle
+- Dalton
+- Darlington
+- Greta Bridge
+- Peterlee Magistrates' Court
+- Peterlee Magistrates’ Court
+- UK
+people:
+- Cllr Grimes
+- Colin Clark
+- Darren Grimes
+- Guy Carpenter
+- STU BOULTON
+organisations:
+- A1
+- A66
+- Durham County Council
+- Durham Police
+- Lloyds Bank
+- National Highways
+- Spennymoor Post Office
+- The Brasserie
+- The Northern Echo
 ---
 
 *(Image: STU BOULTON)*

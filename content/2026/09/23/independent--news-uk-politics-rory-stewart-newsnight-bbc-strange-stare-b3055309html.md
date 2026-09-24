@@ -11,6 +11,33 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/18/30/Screenshot-2026-09-23-at-18-26-41.png?trim=0,0,0,196&width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Britain
+- China
+- Penrith
+- UK
+- US
+- United States
+- Westminster
+people:
+- Ailbhe Rea
+- Alastair Campbell
+- Dad
+- Kevin Eldon
+- Mark Wallace
+- Matt Chorley
+- Ms Rea
+- Neil Kinnock
+- Rory Stewart
+organisations:
+- AI
+- BBC
+- Labour
+- New Statesman
+- Newsnight
+- The Border
+- Total Politics Group
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

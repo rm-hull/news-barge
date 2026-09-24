@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Donetsk
+- Kremlin
+- Kyrgyzstan
+- Moscow
+- Russia
+- St Petersburg
+- Sviatohirsk
+- UK
+- Ukraine
+people:
+- Alexei Larkin
+- Donald Trump
+- Jared Kushner
+- John Ratcliffe
+- Steve Witkoff
+- Sviatohirsk
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- CIA
+- DeepState
 ---
 
 Volodymyr Zelenskyy has said Russia’s airspace is becoming unsafe for commercial airlines, as Vladimir Putin promised to step up strikes against Ukraine’s energy facilities in the run-up to winter.

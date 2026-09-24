@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- England
+- Leeds
+- London
+- Lord’s
+- Midlands
+- Reading
+- The Gallery
+- UK
+- US
+- Wales
+people:
+- Cameron Winter
+- Jeff Moore
+organisations:
+- Environment Agency
+- Geese
+- Leeds
+- Met Office
 ---
 
 A fresh Met Office weather warning has been issued for the bank holiday weekend.

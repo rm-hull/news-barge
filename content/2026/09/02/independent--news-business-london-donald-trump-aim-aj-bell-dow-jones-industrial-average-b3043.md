@@ -13,6 +13,56 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Bahrain
+- Frankfurt
+- Fresnillo
+- Iran
+- Iraq
+- Jordan
+- Kurdistan
+- Kuwait
+- London
+- Middle East
+- New York
+- Paris
+- UAE
+- UK
+- US
+people:
+- Ciaran Donnelly
+- Dan Coatsworth
+- David Morrison
+- Donald Trump
+- Jarrod Castle
+- Kathleen Brooks
+organisations:
+- ADP
+- AJ Bell
+- Alliance News
+- Citigroup
+- Computacenter
+- Convatec
+- Endeavour Mining
+- Experian
+- Holiday Inn
+- IHG
+- ISM
+- InterContinental Hotels Group
+- Jet2
+- Kingfisher
+- London Stock Exchange Group
+- M&G
+- Metlen Energy & Metals
+- Morgan Stanley
+- NatWest
+- Pearson
+- Revolutionary Guards
+- Standard Chartered
+- Trade Nation
+- Treasury
+- UBS
+- XTB
 ---
 
 Stocks in London fell on Wednesday as elevated oil prices and bond yields pushed investors to the sidelines, with looming US jobs data adding to the cautious mood.

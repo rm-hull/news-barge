@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- England
+- UK
+- Wales
+people:
+- Mike Hansford
+- Simon Williams
+organisations:
+- Asphalt Industry Alliance
+- Department for Transport
+- Hastings Direct
+- Met Office
+- RAC
+- Road Surface Treatments Association
 ---
 
 The UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a jump in the number of potholes as result of the country’s hottest summer on record.

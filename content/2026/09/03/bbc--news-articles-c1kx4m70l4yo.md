@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Argentina
+- Atlantic Ocean
+- Britain
+- Falkland
+- Falklands
+- Iran
+- Strait of Hormuz
+- UK
+- US
+- Washington DC.
+people:
+- Donald Trump
+- Javier Milei
+- Keir Starmer
+organisations:
+- BBC
+- Falkland Islands.
+- GB News
+- Nato
+- Rose Garden of the White House
 ---
 
 ![US President Donald Trump speaks during an End of Summer BBQ event with Republican lawmakers in the Rose Garden of the White House in Washington DC.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg)

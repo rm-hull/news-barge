@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ballard
+- England
+- Newcastle
+- Wales
+people:
+- '## Guimaraes'
+- Arteta
+- Ashley Williams
+- Boy
+- Bruno Guimaraes
+- Dan Ballard
+- David Raya
+- Enzo le Fee
+- Ezri Konsa
+- John Brooks
+- Karen Carney
+- Martin Keown
+- Thomas Frank
+organisations:
+- Arsenal
+- Brentford
+- Community Shield
+- Guimaraes
+- Gunners
+- Invincibles
+- Le Fee
+- Newcastle
+- Premier League
+- Sunderland
+- TNT Sports
+- VAR
 ---
 
 Arsenal hold off energetic Sunderland to continue perfect title defence

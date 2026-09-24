@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- 42nd Street
+- Bellevue Hospital
+- Boston
+- New York City
+- Queens
+- Seventh Ave
+- Seventh Avenue
+- Times Square
+- U.S.
+- US
+- West 41st Street
+people:
+- Jessica Tisch
+- Melinda Puzon
+- Pamela Cisneros
+- Zohran Mamdani
+organisations:
+- BBC
+- CBS News
+- NYPD
+- New York Police Department
 ---
 
 ![New York City Mayor Zohran Mamdani speaks next to NYPD Commissioner Jessica Tisch during a press conference at the scene of an officer-involved shooting, in Times Square, New York City, U.S., August 31, 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b7fe/live/8a46f870-a5fa-11f1-8348-fb0cb1cd9761.jpg)

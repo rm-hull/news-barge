@@ -12,6 +12,14 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/22/23/APTOPIX_Italy_Fashion_Diesel_S_S_27_82662.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Paris
+people:
+- Glenn Martens
+organisations:
+- Diesel
+- Maison Margiela
+- OTB
 ---
 
 Diesel creative director Glenn Martens went out with a racy, body-positive collection during Milan Fashion Week on Tuesday, ending a tenure that revitalized and revolutionized the brand.

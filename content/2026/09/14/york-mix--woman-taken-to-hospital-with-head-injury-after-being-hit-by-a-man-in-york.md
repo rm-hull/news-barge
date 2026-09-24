@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- '#### North Street'
+- North Street
+- York
+people: []
+organisations:
+- Email Daniel Freeman
+- North Yorkshire Police
+- Radisson Hotel
+- Via
 ---
 
 A woman was taken to hospital with a head injury after an incident near a York hotel.

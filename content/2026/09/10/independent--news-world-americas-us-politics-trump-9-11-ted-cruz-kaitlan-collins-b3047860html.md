@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Ground Zero
+- Manhattan
+- New York
+- Texas
+- United States Steel Building
+- Washington, D.C.
+people:
+- Barack Obama
+- Bill Clinton
+- Donald Trump
+- Fellas
+- Garry Kasparov
+- George W Bush
+- Hasan Piker
+- Joe Biden
+- Kaitlan Collins
+- Maggie Haberman
+- Sarah Longwell
+- Ted Cruz
+organisations:
+- Bulwark
+- CNN
+- New York Magazine
+- New York Time
+- Pentagon
+- Trump
+- Truth Social
+- Twitch
+- Twitter
+- World Trade Center
 ---
 
 Texas Republican Sen. Ted Cruz has come to the defense of President Donald Trump after he was accused of inventing a story about being hauled away from an unsafe structure by firefighters in the wake of 9/11.

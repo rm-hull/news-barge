@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8faf/live/d4790270-b5be-11f1-bc1f-3f186ca4140c.png
+locations:
+- Brentford
+- Croatia
+- Czech Republic
+- England
+- Japan
+- Wembley
+people:
+- Cole Palmer
+- Declan Rice
+- James Garner
+- Kobbie Mainoo
+- Marcus Rashford
+- Morgan Gibbs-White
+- Thomas Tuchel
+- Tino Livramento
+organisations:
+- Arsenal
+- Brighton
+- Chelsea
+- Everton
+- Fulham
+- Manchester United
+- Newcastle United
+- Nottingham Forest
+- Palmer
+- Premier League
+- Rice
+- Spain
+- Three Lions
+- Wales
 ---
 
 ![Chelsea forward Cole Palmer and Arsenal midfielder Declan Rice](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8faf/live/d4790270-b5be-11f1-bc1f-3f186ca4140c.png)

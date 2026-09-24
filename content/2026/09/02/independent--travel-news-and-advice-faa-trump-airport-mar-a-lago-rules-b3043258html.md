@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/07/17/20/2285383035..?trim=58,0,58,
 categories:
 - News & Politics
 - UK
+locations:
+- Crawford
+- Florida
+- Fort Lauderdale
+- Mar-a-Lago
+- Palm Beach
+- Texas
+- Washington
+people:
+- Donald Trump
+- George W. Bush
+- Mar-a-Lago
+organisations:
+- Donald J. Trump International Airport
+- FAA
+- Federal Aviation Administration
+- Fly XO
+- Hollywood International Airport
+- Miami International Airport
+- Palm Beach International Airport
+- Trump International Airport
+- Truth Social
+- U.S. Secret Service
 ---
 
 The Federal Aviation Administration is proposing new flight rules near Trump International Airport in Palm Beach, Florida, after security concerns about Mar-a-Lago, President Donald Trump's residence.

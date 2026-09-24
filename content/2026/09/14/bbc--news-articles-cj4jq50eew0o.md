@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Davos
+- Europe
+- France
+- Lake America
+- Lake Ontario
+- Liverpool
+- Ottawa
+- Strasbourg
+- Toronto
+- UK
+- US
+people:
+- Andy Burnham
+- Mark Carney
+- Trump
+- Ursula von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
+- European Union
+- State of the European Union
+- Wall Street Journal
+- World Economic Forum
 ---
 
 ![Mark Carney at the Toronto International Film Festival](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ef4e/live/749cb4e0-afe3-11f1-ab2a-cddeea34cdf3.jpg)

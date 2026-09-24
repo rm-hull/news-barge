@@ -12,6 +12,19 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/08/07/14/2286104065..?trim=0,125,0,125&width=1200&height=800&crop=1200:800
+locations:
+- Taylor Farms
+- U.S.
+people:
+- Ranjith Roy
+organisations:
+- Barclays'
+- Brands
+- Centers for Disease Control and Prevention
+- Enchirito
+- Placer.ai
+- Taco Bell
+- Yum!
 ---
 
 Taco Bell is still struggling to pull customers back after it was connected to the Cyclospora outbreak over the summer that caused more than 20,000 people to fall ill across the country.

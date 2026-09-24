@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- A1079
+- Aberdeenshire
+- Derbyshire
+- East Riding
+- East Yorkshire
+- Hayton
+- Hull
+- Lancashire
+- Raich Carter Way
+- York
+people:
+- Karl Rourke
+- Paul West
+organisations:
+- Department for Transport
+- East Riding Council
+- East Yorkshire Combined Authority
+- Hull
 ---
 
 # 2,500 street lights to be switched off on A roads in Yorkshire

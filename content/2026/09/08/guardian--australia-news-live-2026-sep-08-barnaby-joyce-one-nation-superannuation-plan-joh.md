@@ -12,6 +12,84 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Brisbane
+- Canberra
+- Gaza
+- Middle East
+- New South Wales
+- Parliament House
+- Queensland
+- UK
+- US
+- West Bank
+- White Australia
+people:
+- Allegra Spender
+- Andrew Hastie
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Barnaby Joyce
+- Ben Roberts-Smith
+- Bob Brown
+- Celia Perkins
+- Chris Minns
+- Clare O’Neil
+- Daniel Mulino
+- Darren England
+- David Crisafulli
+- David McElrea
+- Hilary Wardhaugh
+- James Ashby
+- Justice Besanko
+- Lidia Thorpe
+- Lukas Coch
+- Mehreen Faruqi
+- Melissa McIntosh
+- Mick Tsikas
+- Milton Dick
+- Morrison
+- Pauline Hanson
+- Raff Ciccone
+- Steph Hodgins-May
+- Tim Wilson
+- Tom McIlroy
+- Tom Sewell
+- Tony Burke
+- Zomi Frankcom
+organisations:
+- AAP Hastie
+- AAP Labor
+- AAP Smart Energy Council
+- ABC TV
+- ABS
+- AEC
+- Albanese
+- Australian Defence Force
+- Bathla Group
+- Centre for Public Integrity
+- Coalition
+- Committee
+- Grayndler
+- Guardian Australia
+- Israeli Defence Force
+- LNP
+- Liberal National party
+- Lukas Coch
+- Lukas Coch/AAP
+- Marrickville Golf Club
+- NSW Greens
+- News24
+- One Nation
+- SAS
+- Senate
+- Smart Energy Council
+- Smart Energy Queensland Conference
+- Special Air Service Regiment
+- Tech
+- The Greens
+- WA
 ---
 
 Anthony Albanese says the digital duty of care bill will give people control over their social media, and require tech platforms to “protect children from harmful content, including content that promotes eating disorders, misogynistic content, pornography, and content that glorifies crime”.

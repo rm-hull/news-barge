@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Switzerland
+people:
+- Jeff Bezos
+- Krista Pawloski
+- Montana MacLachlan
+organisations:
+- '## Rapid AI'
+- AWS Mechanical Turk
+- Amazon
+- CNBC
+- Efosa
+- Google News
+- Mechanical Turk
+- Mercor
+- Prolific
+- SageMaker
+- Scale AI
+- TechRadar Pro
+- Turkopticon
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/jwfiVfSRJQF3ZsFfk78EaA.png) 

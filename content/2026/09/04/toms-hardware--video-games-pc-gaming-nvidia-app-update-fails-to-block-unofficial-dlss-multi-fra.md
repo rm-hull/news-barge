@@ -14,6 +14,34 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations: []
+people:
+- Ada
+- Blackwell
+- Sebastian Castellanos
+- Tom
+- Zak Killian
+organisations:
+- AMD
+- Ada Lovelace
+- Castellanos' X
+- GPU
+- GPU.I
+- Google News
+- HotHardware
+- Lossless Scaling
+- MFG
+- Mean Green
+- Multi-Frame Generation
+- NVIDIA
+- PC
+- RE9
+- RTX
+- Reddit
+- The Tech Report
+- Tom's Hardware
+- Zak
+- non-Blackwell
 ---
 
 ![An NVIDIA slide showing the benefits of DLSS 4 multi frame generation.](https://cdn.mos.cms.futurecdn.net/uWtej5aJNqQwbgnjf5BLDM.jpg) 

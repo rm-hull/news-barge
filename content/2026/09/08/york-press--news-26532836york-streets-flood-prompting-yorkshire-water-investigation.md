@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '## Streets'
+- Fulford Golf Club
+- Heslington Hall
+- Heslington Lane
+- Main Street
+- York
+people:
+- Andrew Mortimer
+- Kate Ravilious
+- Luke Draper
+organisations:
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- Post Office
+- York Council
+- York Liberal Democrats
+- Yorkshire Water
 ---
 
 ## Streets 'inches deep in water' in York village prompts concerns and probe

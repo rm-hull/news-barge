@@ -13,6 +13,33 @@ categories:
 - Society & Culture
 - Arts & Culture
 image: https://media.wired.com/photos/6aad7180245943a17ceca34d/191:100/w_1280,c_limit/WWF_2026_META__1080x1350_Phase%202.jpg
+locations:
+- Miami
+- Wynwood
+people:
+- Alex Gibney
+- Alexis Ohanian
+- Ben Collins
+- Ben Lamm
+- CJ Pearson
+- Clément Delangue
+- Denise Herzing
+- Evan Ratliff
+- Hugging Face**
+- Husk
+- Kat Abughazaleh
+- Marina Abramović
+- Mark Lanier
+- Reddit
+- Shell Game
+- VC
+organisations:
+- Colossal Biosciences**
+- Marina Abramović
+- Onion
+- The Onion**
+- WIRED
+- Wild Dolphin Project
 ---
 
 For more than a century, World’s Fairs have given people a first glimpse of what’s next: breakthroughs, ideas, and ways of living that would go on to reshape the everyday. WIRED will reimagine that tradition in Miami on November 4 with the WIRED World Fair.

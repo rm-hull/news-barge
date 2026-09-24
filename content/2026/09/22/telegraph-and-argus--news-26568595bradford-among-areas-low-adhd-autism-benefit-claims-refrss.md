@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21156050.jpg?type=og-image
+locations:
+- Bradford
+- Brent
+- England
+- Leicester
+- Newham
+- Wolverhampton
+people:
+- Gareth Fuller
+- Ms Gainsbury
+- Sally Gainsbury
+- Thea Stein
+organisations:
+- Bradford
+- Nuffield Trust
+- PA Wire
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

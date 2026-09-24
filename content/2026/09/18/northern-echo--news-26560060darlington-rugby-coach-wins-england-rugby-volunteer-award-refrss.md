@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Allianz Stadium
+- Bloom
+- England
+- North East
+- Northumbria
+- Twickenham
+people:
+- Gunnell
+- Jon Hawkins
+- Jon’s
+- Tanya
+organisations:
+- Bishop Auckland
+- Cumbria U16 Girls League
+- Cumbria Under-16 Girls League
+- Darlington RFC
+- Darlington Rugby Club
+- Darlington Rugby Football Club
+- Durham Cathedral
+- England Rugby
+- North East
+- Pride of Britain Darlington
+- Sale
+- Sunderland FC
 ---
 
 *(Image: Supplied)*

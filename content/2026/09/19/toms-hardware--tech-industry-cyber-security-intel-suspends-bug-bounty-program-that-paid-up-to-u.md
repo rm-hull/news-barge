@@ -14,6 +14,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/CkDCueH65AEMZMenj8tnEF-2000-80.jpg
+locations:
+- Intigriti
+people:
+- HackerOne
+- Linus Torvalds
+- Tom
+organisations:
+- AI
+- AMD
+- Curl
+- Get Tom's Hardware
+- Google News
+- HackerOne
+- Hacktron
+- IBB
+- Intel
+- Internet Bug Bounty
+- Intigriti
+- OpenAI
+- Phoronix
+- Shane Downing
+- Tom’s Hardware US
 ---
 
 ![Intel logo in white on a dark blue background](https://cdn.mos.cms.futurecdn.net/CkDCueH65AEMZMenj8tnEF.jpg)

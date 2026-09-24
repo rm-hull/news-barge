@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Mickleton
+- River Tees
+- Russett House
+people: []
+organisations: []
 ---
 
 BEAUTIFULLY presented accommodation, a village location and stunning views over the adjoining countryside and towards the River Tees are just three of many reasons Russett House in Mickleton is sure to appeal to a wide range of househunters.

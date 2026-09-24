@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Camp Sovereignty
+- White Australia
+people:
+- Adolf Hitler
+- Asio
+- Brendan Lim
+- Mike Burgess
+- Robert Beech-Jones
+- Robert Menzies
+- Shahed Sharify
+- Thomas Sewell
+- Tony Burke
+organisations:
+- Asio
+- Australian Security and Intelligence Organisation
+- Bondi
+- NSN
+- National Socialist Network
 ---
 
 The White Australia party is a “modern manifestation” of Adolf Hitler’s Nazi movement and would motivate hate crimes against sections of the country, the high court has heard.

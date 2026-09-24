@@ -14,6 +14,18 @@ categories:
 - Arts & Culture
 - Society & Culture
 - History
+locations:
+- Bukavu
+- Democratic Republic of Congo
+- Kadutu
+- Kinshasa
+- South Kivu
+people: []
+organisations:
+- BBC News Africa
+- M23
+- Ministry of National Education and New Citizenship
+- Reuters
 ---
 
 ![Man in yellow t-shirt stands in piles of rubble and corrugated iron while three other people stand on the left of the picture. The rubble seems to go on for some distance and the air is hazy.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e261/live/77db64c0-ad28-11f1-bc1f-3f186ca4140c.jpg)

@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Britain
+- Linton-on-Ouse
+- North Yorkshire
+- Oxfordshire
+- Piddington
+- Whitehall
+people:
+- Owen Humphreys
+organisations:
+- Government
+- Home Office
+- Linton-on-Ouse Action Group
+- RAF Linton-On-Ouse
 ---
 
 # Referendum and open letter show that asylum seeker accommodation plans such as Linton-on-Ouse are inappropriate

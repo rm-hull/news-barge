@@ -14,6 +14,38 @@ categories:
 - News & Politics
 - Sports
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8K73ZP__v1__MidRes__FblGerEurNationsKloppPresserSquad.jpg@webp
+locations:
+- Amsterdam
+- Augsburg
+- Frankfurt am Main
+- Germany
+- Greece
+- Liverpool
+- Mainz
+- Merseyside
+- Morocco
+- Serbia
+- Thessaloniki
+people:
+- '''** Klopp'
+- Daniel WIGHTON
+- Deniz Undav
+- Juergen Klopp
+- Lothar Matthaeus
+- Philipp Treu
+- Younes Ebnoutalib
+organisations:
+- Anfield
+- Borussia Dortmund
+- DFB
+- Eintracht Frankfurt
+- Freiburg
+- German FA
+- German Football Federation
+- Klopp
+- Liverpool
+- Premier League
+- Sky Germany
 ---
 
 Speaking English, the former Liverpool manager introduced himself as "the new one" in charge and thanked fans who "support us from all over the world".

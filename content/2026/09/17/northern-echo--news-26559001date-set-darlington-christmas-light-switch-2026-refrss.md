@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bishop Auckland
+- Darlington
+- Dolphin Centre
+- Market Square
+people:
+- Sarah Caldecott
+organisations:
+- '** County Durham Reform'
+- Darlington Borough Council
+- Market Hall
 ---
 
 *(Image: Sarah Caldecott)*

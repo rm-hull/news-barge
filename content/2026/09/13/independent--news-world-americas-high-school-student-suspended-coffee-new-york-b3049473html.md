@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Beaver Falls
+- New York
+people:
+- Julie Kaputa
+- MaryAnne Kaputa
+- Todd Green
+organisations:
+- Beaver River Central School
+- WWNY
 ---
 
 A high school honors student in upstate New York was suspended on the first day — all because she brought a cup of coffee to class.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Dalton Mills
+- Keighley
+- West Yorkshire
+people:
+- Robbie Moore
+organisations:
+- Downton Abbey
+- Grade II
+- Ilkley
+- Peaky Blinders
+- West Yorkshire Fire and Rescue Service
 ---
 
 # Yorkshire fire: Moment large fire burns at 19th century Dalton Mills in Keighley

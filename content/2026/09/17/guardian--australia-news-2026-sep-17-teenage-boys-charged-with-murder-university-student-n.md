@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Glen Alpine
+- New South Wales
+- Sydney
+people:
+- Claudia
+- Hate
+- Joe Doueihi
+- Mal Lanyon
+- Marco Tapia
+- Sergio
+organisations:
+- NSW
 ---
 
 Two teenage boys have been charged with murder after the shooting death of a university student in Sydney this month, which police say was a case of mistaken identity.

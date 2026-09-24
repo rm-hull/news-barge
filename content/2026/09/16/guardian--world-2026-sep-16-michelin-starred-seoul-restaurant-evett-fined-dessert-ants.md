@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Australia
+- Denmark
+- Europe
+- Gangnam
+- Seoul
+- South Korea
+- Thailand
+- UK
+- US
+people:
+- Evett
+- Ginny Kim
+- Joseph Lidgerwood
+- Lee Se-chang
+organisations:
+- Evett
+- Netflix
+- Newsis
+- The Guardian
 ---
 
 A South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief executive for serving a dessert topped with ants, an insect not approved for consumption under local food safety law.

@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- France
+- Paris
+people:
+- Diane Davoine
+- Emmanuel Grégoire
+- Yaël Braun-Pivet
+organisations:
+- BAPS
+- Bochasanwasi Akshar Purushottam Swaminarayan Sanstha
+- Eiffel Tower
+- National Assembly
+- SETE
 ---
 
 ## The Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS) Hindu temple in Paris has released a statement apologising for "any pain or inconvenience caused."

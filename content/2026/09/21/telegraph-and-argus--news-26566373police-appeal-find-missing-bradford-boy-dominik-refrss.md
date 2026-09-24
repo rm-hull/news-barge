@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21479053.jpg?type=og-image
+locations:
+- Bradford
+- West Yorkshire
+people:
+- Dominik
+organisations:
+- WYP)* Police
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

@@ -13,6 +13,15 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Alstom
+- Helmsley Market
+- Malton Market
+- York Designer Outlet
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: Alstom)*

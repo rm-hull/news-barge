@@ -12,6 +12,37 @@ image: https://static.independent.co.uk/2026/09/16/14/2293664118..?trim=40,0,40,
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Canada
+- Denmark
+- Europe
+- Moscow
+- Norway
+- Poland
+- Russia
+- Russian Federation
+- UK
+- Ukraine
+- Yekaterinburg
+people:
+- Dmitry Peskov
+- John Ratcliffe
+- Putin
+- Radoslaw Sikorski
+- Sergei Lavrov
+- Ursula von der Leyen
+organisations:
+- CBS News
+- CIA
+- EU
+- European Commission
+- European Parliament
+- European Security Council
+- Member State
+- Nato
+- State of the Union
+- Wall Street Journal
 ---
 
 Russia’s foreign minister Sergei Lavrov has warned a war with Europe would be “very short”, amid mounting tensions with Moscow.

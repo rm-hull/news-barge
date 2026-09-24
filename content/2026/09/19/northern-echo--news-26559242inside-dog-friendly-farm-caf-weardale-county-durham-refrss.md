@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21468435.jpg?type=og-image&xType=0&yType=129
+locations:
+- Bradley Burn Farm
+- Bradley Burn Farm Café
+- Coast to Coast
+- County Durham
+- Frosterley
+- North Yorkshire
+- St John's Chapel
+- Stanhope
+- Weardale
+- Wolsingham
+people:
+- Bradley Burn
+organisations:
+- Google
+- Tripadvisor
 ---
 
 *(Image: TRIPADVISOR)*

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Florida
+- Miami
+- Romania
+- US
+- United Kingdom
+- United States
+people:
+- Andrew Tate
+- Eugen Constantin Vidineac
+- Tates
+- Tristan Tate
+organisations:
+- DIICOT
 ---
 
 Romanian prosecutors officially indicted Andrew Tate on Friday on charges including trafficking minors and money laundering after years of investigation.

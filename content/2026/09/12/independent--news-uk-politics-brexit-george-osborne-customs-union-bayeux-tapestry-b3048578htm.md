@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Aldershot
+- America
+- Britain
+- Cambridge
+- Downing Street
+- Europe
+- France
+- London
+- Russia
+- Tunbridge Wells
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Cameron
+- David Maddox
+- Geordie Greig
+- George Osborne
+- God
+- Harold
+- Jason Arday
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+- Lord Cameron
+- Millie Cooke
+- Ms Badenoch
+- Nigel Farage
+- Peter Mandelson
+- Peter… He
+organisations:
+- Brexit
+- British Museum
+- EU
+- House of Commons
+- Labour Party
+- Liberal Democrat
+- London Evening Standard
+- M25
+- Reform
+- The Independent
+- Tory Party
+- Tory-Lib Dem
 ---
 
 Britain’s economy has “fallen off a cliff” since Brexit and the only way to recover is by rejoining the Brussels-run customs union.

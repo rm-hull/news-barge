@@ -14,6 +14,41 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470148.jpg?type=og-image
+locations:
+- '## City'
+- Addingham
+- Bradford Bradford
+- Eccleshill
+- Greengates
+- Holme Wood
+- Ilkley
+- Tong Street
+- West Yorkshire
+- Wharfedale
+people:
+- Anis Rahman
+- Holme Wood
+- Tong**
+- Xander Ford
+organisations:
+- '![]()Xander Ford'
+- '## Holme Wood'
+- ASB
+- Bradford City NPT
+- Bradford Council
+- Bradford South Neighbourhood Policing Team
+- Bradford’s Programme Precision team
+- Crystal Roof
+- Darley Street Market
+- Dewsbury
+- Holme Wood
+- Home Office
+- Operation Pheonix
+- Operation Sweetgill
+- T&A
+- Telegraph & Argus
+- WYP
+- West Yorkshire Police
 ---
 
 “Keep your head down.”

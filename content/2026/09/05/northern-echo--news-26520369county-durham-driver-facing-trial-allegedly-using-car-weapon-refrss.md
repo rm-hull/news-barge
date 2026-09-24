@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- Braeside
+- County Durham
+- Durham Crown Court
+- Edmondsley
+- Holme House Prison
+- Sacriston
+- Viola Crescent
+people:
+- Amanda Rippon
+- Karl Daryl Devine
+- Martin Towers
+organisations:
+- Congburn Bank
+- Durham Crown Court
+- Volkswagen Polo
 ---
 
 *(Image: The Northern Echo)*

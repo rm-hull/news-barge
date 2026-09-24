@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e478811321c92cab6a309a958e3b26c3eb32dbc4/0_0_1700_1360/master/1700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee6e6b1b7af77b996738124132644f71
+locations:
+- Beirut
+- New South Wales
+people:
+- Charles Perrottet
+- Christian Ellis
+- David Elliott
+- Dominic Perrottet
+- Hahaha’
+- Jean Nassif
+- Jeremy Greenwood
+- Mr Nanetti
+- Nathaniel Smith
+- Peggy Dwyer SC
+- Sharangan Maheswaran
+- Toplace
+organisations:
+- Daily Telegraph
+- Icac
+- Independent Commission Against Corruption
+- Liberal National
+- Nassif
+- Toplace
 ---
 
 A lawyer for fugitive property developer Jean Nassif offered a Liberal operative $1,000 if he could get media to write about an unsubstantiated extramarital affair and breach of Covid-19 restrictions by a New South Wales minister, the anti-corruption watchdog has heard.

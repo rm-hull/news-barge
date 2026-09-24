@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Forbes
+- Goulburn
+- NSW
+- New South Wales
+- Orange
+- Ticehurst
+people:
+- Daniel Billings
+- Molly Ticehurst
+- Natalie Adams
+organisations:
+- NSW
 ---
 
 Molly Ticehurst’s ex-boyfriend will not face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered abuse.

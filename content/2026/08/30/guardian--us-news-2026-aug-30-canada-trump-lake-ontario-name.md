@@ -11,6 +11,45 @@ image: https://i.guim.co.uk/img/media/011f2d2e2c8ef5247abade39e8218bd70c89a184/4
 categories:
 - UK
 - News & Politics
+locations:
+- Always
+- Canada
+- Erie
+- Great Lakes
+- Grimsby
+- Gulf of America
+- Gulf of Mexico
+- Huron
+- Lake America
+- Lake Ontario
+- Lake Ontario’
+- Lake of America
+- Manitoba
+- Michigan
+- North America
+- Ottawa
+- Superior
+- US
+- US-Canada
+people:
+- Donald Trump
+- Doug Ford
+- Mark Carney
+- Pierre Picard
+- Ronald Reagan
+- Wab Kinew
+organisations:
+- ABC News
+- Associated Press
+- Ford
+- GNIS
+- Geographic Names Information System
+- Google Maps
+- NBC
+- Trump
+- US Google
+- Wendat Nation
+- YMCA
 ---
 
 Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the country erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA.

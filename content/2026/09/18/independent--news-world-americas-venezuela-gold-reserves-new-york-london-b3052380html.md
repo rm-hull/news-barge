@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Iran
+- London
+- UK
+- US
+- Venezuela
+people:
+- Delcy Rodriguez
+- Donald Trump
+- Nicolas Maduro
+organisations:
+- Axios
+- Bank of England
+- Delcy
+- Federal Reserve Bank of New York
+- Financial Times
+- Foreign Office
+- HMG
+- Interim
+- Trump
+- UK Court
+- UK Courts
+- World Bank
 ---
 
 Venezuela is nearing a deal to move $4 billion (£2.9 billion) in gold from the Bank of England to the Federal Reserve Bank of New York after a years-long legal tussle, it has been reported.

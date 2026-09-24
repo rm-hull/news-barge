@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Britain
+- Durham
+- London
+- Newcastle
+- North East
+- UK
+- Utilita Arena
+people:
+- Alan Patrickson
+- Bill Buford
+- Eleonora Kouneni
+- Emma Fisk
+- Jo Harrop
+- John Lyons
+- Knats
+- Marvin Muoneké
+- Ronnie Scott
+organisations:
+- Gala Theatre
+- Hot Club Du Nord
+- King Pleasure
+- Knats
+- Newcastle
+- Olivia Cuttill Quintet
+- Redhills Durham Miners’ Hall
+- SULA
+- Soho Songbook
+- Strictly Smokin’ Big Band
+- The Biscuit Boys
 ---
 
 Durham Jazz Festival has received a large amount of interest ahead of its debut weekend in October.

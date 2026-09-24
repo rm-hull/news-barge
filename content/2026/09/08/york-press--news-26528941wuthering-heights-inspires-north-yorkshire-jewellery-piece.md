@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - History
+locations:
+- Germany
+- Haworth
+- Heathcliff
+- Ida Oberstein
+- North Yorkshire
+- Ponden Hall
+- Wuthering Heights
+- York
+people:
+- Cathy
+- Edgar Linton
+- Emily Brontë
+- Heathcliff
+- Joanne Gowan
+- Nelly
+organisations:
+- Ampleforth Abbey
+- R.M Weare
 ---
 
 ## North Yorkshire jeweller creates future heirloom inspired by Emily Brontë

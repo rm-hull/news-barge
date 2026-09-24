@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- England
+- Leicester
+- North East
+- Nottinghamshire
+people:
+- Ellie Daglish
+organisations:
+- Darlington
+- Miss World
+- Nottinghamshire
 ---
 
 A Darlington woman says she could “make history” this year as she prepares to compete for the Miss England crown.

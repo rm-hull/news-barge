@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Johannesburg
+- Kempton Park
+- Kwa-Thema
+- Olifantsontein
+- South Africa
+- africa
+people:
+- Athlenda Mathe
+- Cyril Ramaphosa
+- Elizabeth “Tsontso” Moselakgomo
+- Javu Baloyi
+organisations:
+- AP Africa
+- Commission for Gender Equality
+- SAPS
+- South African Police Services
+- U.N.
 ---
 
 A woman’s body was found on Tuesday in the same area east of Johannesburg in South Africa where the discovery of several other victims in the past two months has sparked fear of a potential serial killer at large and led to a public warning by the police.

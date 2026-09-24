@@ -13,6 +13,26 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Aidensfield
+- DC
+- D‑Max
+- Goathland
+- Grand Hotel
+- Newsquest
+- North Yorkshire
+- Scarborough
+people:
+- Claude Greengrass
+- Mandy Morris'
+organisations:
+- Android Auto
+- Apple CarPlay
+- D‑Max EV
+- Isuzu D-Max EV
+- Newsquest
+- North York Moors
+- Toyota
 ---
 
 ## Electric pick-up goes to the moors: Isuzu D‑Max EV tested in 'Heartbeat' country

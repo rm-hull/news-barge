@@ -10,6 +10,28 @@ description: In a dark moment for bargains, PIA is the shining light
 image: https://cdn.mos.cms.futurecdn.net/Bgzt6DHTnFXrQpAfgzQhHR-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Mullvad
+- US
+people:
+- Dan Sung
+- John Toshack
+organisations:
+- All PIA
+- Dan
+- FourFourTwo
+- How to Watch
+- Independent
+- Internet Access
+- MSN Tech
+- Metro
+- Observer
+- Pocket-lint
+- T3
+- Tech Digest
+- TechRadar
+- Wareable
+- Windscribe
 ---
 
 ![A map infographic showing the US states, with the Private Internet Access (PIA) logo on the left](https://cdn.mos.cms.futurecdn.net/Bgzt6DHTnFXrQpAfgzQhHR.jpg) 

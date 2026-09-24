@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Heighington
+people: []
+organisations:
+- Carvers
+- Kings Head Cottages
+- YOU’RE
 ---
 
 IF YOU’RE looking for a home with a little added extra, make sure to view Kings Head Cottages which comes as a delightful package combining a modern detached family home with a two-acre field.

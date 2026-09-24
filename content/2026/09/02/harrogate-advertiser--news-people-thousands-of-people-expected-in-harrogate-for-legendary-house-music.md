@@ -13,6 +13,24 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- West Park
+people:
+- Claptone
+- Gok Wan
+- Grant Nelson
+- Julie McKnight
+- K‑Klass
+- Mouse-T
+- Paul Woolford
+- Sam Divine
+- Todd Terry
+organisations:
+- Cash Only
+- Harrogate
+- Live
+- Trimtone
 ---
 
 # Thousands of people expected in Harrogate for legendary house music festival this weekend

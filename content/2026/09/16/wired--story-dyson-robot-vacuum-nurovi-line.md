@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Dyson Spot
+- Scrub Ai
+people:
+- Dyson
+organisations:
+- Boox
+- Costco
+- Dyson Nurovi
+- Dyson Vis Nav
 ---
 
 Around this time of year, new products launch left and right. I wrote similar words just yesterday ahead of Boox launching its latest devices. And now, Dyson, one of the big names in vacuum cleaners, just launched three innovative products.

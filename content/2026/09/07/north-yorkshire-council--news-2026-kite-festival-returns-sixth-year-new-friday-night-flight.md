@@ -15,6 +15,17 @@ categories:
 - Harrogate
 - Government
 - Travel
+locations:
+- Filey Brigg
+- Filey Brigg Country Park
+- Yorkshire
+people:
+- Cllr Myers
+- Graham Lockwood
+- Simon Myers
+organisations:
+- Northern Kite Group
+- Orion
 ---
 
 ![Kites at Filey Kite Festival](https://www.northyorks.gov.uk/sites/default/files/2026-09/Filey%20Kite%20Festival%202.jpg) 

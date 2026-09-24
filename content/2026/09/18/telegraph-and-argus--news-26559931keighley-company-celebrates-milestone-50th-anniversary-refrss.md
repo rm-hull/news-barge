@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Düsseldorf
+- Keighley
+- UK
+people:
+- Marrose
+- Sarah Beaumont
+organisations:
+- Keighley
+- Marrose Abrasives
 ---
 
 A COMPANY is celebrating 50 years of business.

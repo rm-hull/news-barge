@@ -13,6 +13,13 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Stanford
+people:
+- Jokhai
+- Kyle Loh
+organisations:
+- Stanford University
 ---
 
 The human brain is not a single organ, but two separate systems that evolved independently before fusing together, according to groundbreaking new research.

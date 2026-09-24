@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+- US
+people:
+- Alastair
+- Wayne Williams
+organisations:
+- ABS
+- ASA
+- Centauri Carbon 2
+- Elegoo Centauri
+- PA
+- PC
+- PETG
+- PLA
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Elegoo Centauri Carbon 2](https://cdn.mos.cms.futurecdn.net/xBQy7DuwfeC4RxSjPm2NTA.jpg) 

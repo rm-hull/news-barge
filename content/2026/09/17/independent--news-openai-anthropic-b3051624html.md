@@ -13,6 +13,13 @@ categories:
 - UK
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Anthropic
+- Hugging Face
+- OpenAI
+- U.S. AI
 ---
 
 OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated.

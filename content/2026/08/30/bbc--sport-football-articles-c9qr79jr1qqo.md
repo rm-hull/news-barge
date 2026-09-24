@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brazil
+people:
+- Gabriel Jesus
+organisations:
+- Arsenal
+- Barcelona
+- Coventry
+- Gunners
+- Manchester City
+- Napoli
 ---
 
 ![Gabriel Jesus](https://ichef.bbci.co.uk/ace/standard/582/cpsprodpb/46bd/live/0cb9e950-a477-11f1-bed8-470734b5b662.jpg)

@@ -10,6 +10,22 @@ description: Fans think GTA 6 Online could be its own standalone title
 image: https://cdn.mos.cms.futurecdn.net/knPikneiqQ4a4p7AEdGPra-2560-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Jason Schreier
+organisations:
+- Bloomberg
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- PS5
+- ResetEra
+- Rockstar Games
+- Take-Two Interactive
+- TechRadar
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/knPikneiqQ4a4p7AEdGPra.jpg) 

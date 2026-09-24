@@ -13,6 +13,57 @@ image: https://cdn.mos.cms.futurecdn.net/yiFY5hABfeKsbZshjLFyg4-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Halsteads
+- Italy
+- Sandringham
+- UK
+- Virgin River
+people:
+- '## Eddie'
+- '## Freddy'
+- '## Stan'
+- Bella
+- Benedetta Porcaroli
+- Benjamin Clementine
+- Bobby Glass
+- Cosimo Fusco
+- Daniel Ings
+- Duke
+- Eddie (Theo James
+- Errol
+- Freddie
+- Geoff
+- George Cooper Sr.
+- Giancarlo Esposito
+- God
+- Gospel John
+- Jasmine Blackborow
+- John McGrellis
+- Joley Richardson
+- Kaya Scodelario
+- Lady Sabrina
+- Lord
+- Marco
+- Mr. Vargas
+- Nanny
+- Pearce Quigley
+- Ray Winstone
+- Sergio Castellitto
+- Susie
+- Tarquin
+- Vinnie Jones
+organisations:
+- Charlotte's
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Range Rover
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Eddie and Susie stand in a doorway](https://cdn.mos.cms.futurecdn.net/yiFY5hABfeKsbZshjLFyg4.jpg) 

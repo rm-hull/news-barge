@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Halifax
+- Market Street
+- Palatine Chambers
+- Palatine Chambers’
+- YOUR
+people:
+- Lacuna
+- W. H. D. Horsfall
+- Zubair Mubarik
+organisations:
+- Calderdale Council
+- Grade I-listed Piece Hall
+- Grade II
+- Halifax Borough Market
+- Halifax Town Centre Conservation Area
+- Halifax Town Hall
+- Lacuna Designs
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,13 @@ categories:
 - Science
 - Sports
 image: https://media.wired.com/photos/6aad913c4bac9edc7d3a0145/191:100/w_1280,c_limit/2293832250
+locations: []
+people:
+- Joe
+organisations:
+- Apple Watches
+- Ultra
+- Vitals
 ---
 
 Not much has changed about the Apple Watch Ultra since its debut in 2022. The company’s heavy-duty smartwatch is still massive, titanium-clad, and equipped with enough emergency features to make one feel slightly more prepared for an apocalypse than the average Joe. Each generation has brought incremental improvements, but the Ultra has largely stuck to the formula, and this year’s release isn’t any different.

@@ -13,6 +13,30 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/18/13/2291854265..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Birmingham
+- Brighton
+- Britain
+- National Exhibition Centre
+- Orange Wall
+- PA
+- UK
+people:
+- Ben Delo
+- Christopher Harborne
+- Ed Davey
+- Kemi Badenoch
+- Nigel Farage
+- Stefan Rousseau
+organisations:
+- HMRC
+- Labour Party
+- Lib Dems
+- Liberal Democrat
+- NHS
+- New YouGov
+- Reform UK
+- Trump
 ---
 
 Sir Ed Davey has accused the Conservatives and Reform UK of planning to turn Britain into a “Trump satellite state”, as he vows to block Nigel Farage’s path to No 10.

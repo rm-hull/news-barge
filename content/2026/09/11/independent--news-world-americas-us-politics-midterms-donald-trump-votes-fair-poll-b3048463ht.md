@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capitol
+- Florida
+- Georgia
+- North Carolina
+- U.S.
+people:
+- Donald Trump
+- Joe Biden
+- Rudy Giuliani
+organisations:
+- Congress
+- Constitution
+- FBI
+- GOP
+- Gallup
+- House of Representatives
+- Oval Office
+- Senate
+- Trump
+- YouGov
 ---
 
 President Donald Trump’s scaremongering over November’s midterms appears to have been effective, with just 45 percent of Americans saying they expect the elections to be conducted fairly, according to a new poll.

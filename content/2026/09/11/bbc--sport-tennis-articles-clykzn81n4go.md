@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Flushing Meadows
+- Germany
+- New York
+- USA
+people:
+- '## Zverev'
+- Alexander Zverev
+- Andy Roddick
+- Ben Shelton
+- Carlos Alcaraz
+- Dominic Thiem
+- Frances Tiafoe
+- Jannik Sinner
+- Karen Khachanov
+- Taylor Fritz
+organisations: []
 ---
 
 ![Ben Shelton smiles after winning his US Open semi-final](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3426/live/a8eefbc0-ae5a-11f1-a540-61c3f7fc4e6c.jpg)

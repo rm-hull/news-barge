@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- David Harrison
+- Rosie Stuart
+organisations:
+- National Saturday Club
+- York Art Gallery
+- York Community Pride
+- York Museums Trust
 ---
 
 **“We believe in the power of art, heritage and creativity to bring opportunities to people of all ages in York”.**

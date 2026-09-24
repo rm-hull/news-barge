@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Darlington Hippodrome
+- Easington
+- North East
+- Walworth Castle
+people:
+- Belle
+- Jack
+- Jamie Jones
+- Josh Benson
+- Liv Newcomb
+- Matt Baker
+- Michael Harrison
+- Mrs Potty
+- Neisha Yen-Jones
+- Ollie Llewelyn-Williams
+- Sarah Caldecott
+- Sebastian
+- Silly Billy
+organisations:
+- Beast
+- Blue Peter
+- County Durham-born TV
+- Darlington
+- Neisha-Yen Jones
+- The Hippodrome
 ---
 
 Excitement surrounding Darlington’s festive season has begun with the launch of its latest pantomime.

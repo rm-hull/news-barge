@@ -14,6 +14,16 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Terminal 1
+- Terminal 2
+people: []
+organisations:
+- Anadolu Agency
+- BER
+- Berlin Brandenburg Airport
+- Federal Police
+- Terminal 1
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865826313h-scaled.jpg)

@@ -13,6 +13,21 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Kuwait City
+- Middle Eastern
+- Sunny
+people:
+- Hassam Nasir
+- Sunny
+- Tom
+organisations:
+- 980 Pro 2TB
+- Amazon
+- Asus
+- Google News
+- Newegg
+- Samsung
 ---
 
 ![Three Samsung 980 Pro 2TB SSDs found inside an Asus Hyper M.2 PCIe expansion card](https://cdn.mos.cms.futurecdn.net/6WhoYKo8UoN3qzhyFX7sYW.png) 

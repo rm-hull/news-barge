@@ -14,6 +14,32 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alicante
+- Amsterdam
+- Darlington
+- Faro
+- Hartlepool
+- Lapland
+- Malaga
+- Portugal
+- Spain
+- Tees Valley
+- Teesside Airport
+- UK
+- Whorlton Bridge
+people:
+- Ben Houchen
+- Phil Forster
+- Sarah Caldecott
+organisations:
+- Civil Aviation Authority
+- KLM
+- Malaga
+- Met Office
+- Ryanair
+- TUI
+- Teesside International Airport
 ---
 
 *(Image: Sarah Caldecott)*

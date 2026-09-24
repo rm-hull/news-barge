@@ -12,6 +12,65 @@ image: https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- CA
+- Canada
+- Copenhagen
+- ENGLAND
+- Hull
+- Ireland
+- London
+- MKM Stadium
+- Man City
+- Man Utd
+- PT
+- Sabah
+- UK
+- US
+- USA
+- United Kingdom
+- canada
+people:
+- Bruno Fernandes
+- Greg Lea
+- Man Utd
+- Michael Carrick
+- Robbie Jay Barratt
+- Sabah
+- Wilfried Zaha
+organisations:
+- AMA
+- AU
+- Bayern Munich
+- Champions League
+- Crystal Palace
+- DAZN
+- ESPN
+- Everton
+- FourFourTwo
+- Future Publishing
+- Galatasaray
+- Guardian
+- Hull City
+- Ipswich
+- Man Utd
+- Manchester United
+- Paramount
+- Port Vale
+- Premier League
+- RTE Player
+- Red Devils
+- Sabah**
+- Stan Sport
+- TNT Sports
+- TechRadar
+- The Set Pieces
+- UCL
+- UseNordVPNto
+- Virgin Media
+- Walmart
+- Whitehorse Manor
 ---
 
 ![HULL, ENGLAND - AUGUST 22: Bruno Fernandes of Manchester United during the Premier League 2026/27 match between Hull City and Manchester United at MKM Stadium on August 22, 2026 in Hull, United Kingdom. (Photo by Robbie Jay Barratt - AMA/Getty Images)](https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ.jpg) 

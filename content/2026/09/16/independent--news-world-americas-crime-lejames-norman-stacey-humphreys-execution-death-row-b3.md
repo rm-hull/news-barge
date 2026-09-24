@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Dunwoody
+- Edna
+- Florida
+- Georgia
+- Houston
+- Huntsville
+- Jackson
+- Mexico
+- Powder Springs
+- Texas
+- U.S.
+- Wisconsin
+people:
+- Celso Lopez
+- Cyndi Williams
+- Ker’Sean Ramey
+- LeJames Norman
+- Lori Brown
+- Samuel Roberts
+- Sonia Sotomayor
+- Stacey Humphreys
+- Tiffani Peacock
+organisations:
+- CDT
+- Humphreys’
+- Paroles
+- State Board of Pardons
+- U.S. Supreme Court
 ---
 
 A judge's late-night intervention has temporarily halted the execution of a man convicted of killing two real estate agents in Georgia as Texas prepares to carry out a separate lethal injection on Wednesday for a man convicted of a triple murder.

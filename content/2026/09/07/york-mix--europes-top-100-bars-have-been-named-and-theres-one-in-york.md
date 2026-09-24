@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - History
+locations:
+- Beck Hole
+- Brussels
+- Budapest
+- England
+- Europe
+- North Yorkshire
+- Pickering
+- UK
+- Whitby
+- York
+people:
+- Fossgate
+- John Pybus
+organisations:
+- '## Birch Hall Inn'
+- Birch Hall Inn
+- Blue Bell
+- European Bar
+- European Bar Guide
 ---
 
 The top bars in Europe have been named – and there’s one in York and another in North Yorkshire.

@@ -13,6 +13,33 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Australia
+- Belgium
+- Brussels
+- Denmark
+- Europe
+- France
+- Greece
+- Strasbourg
+people:
+- Agustin Reyna
+- Henna Virkkunen
+- Mark Carney
+- Olea
+- Von der Leyen
+- von der Leyen
+organisations:
+- AFP
+- BEUC
+- Big Tech
+- EU
+- European Commission
+- European Parliament
+- Facebook
+- Instagram
+- Meta
+- TikTok
 ---
 
 A global backlash against social media has piled pressure on policymakers, with a rising body of evidence showing negative impacts on children's physical and mental health.

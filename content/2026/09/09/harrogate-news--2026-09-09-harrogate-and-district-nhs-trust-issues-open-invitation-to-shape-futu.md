@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - Health & Fitness
 - Personal Finance & Investing
+locations:
+- Derwent Room
+- Great Yorkshire Showground
+- North of England
+people:
+- Sarah Armstrong
+organisations:
+- Foundation Trust Membership Office
+- HDFT Governors and Directors
+- HG2 8NZ
+- Harrogate and District NHS Foundation Trust
+- Ripon Minor Injuries
+- The Pavilions of Harrogate
+- UTC
+- Urgent Treatment Centre
+- WRAP
+- Waste Reduction and Productivity
 ---
 
 **Harrogate and District NHS Foundation Trust (HDFT)** has invited staff, patients, and the wider public to its upcoming Annual Members’ Meeting to help steer local healthcare priorities in the region.

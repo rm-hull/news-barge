@@ -10,6 +10,13 @@ description: Microsoft says it's testing a fix for the widespread Outlook issues
 image: https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Downdetector
+- Exchange Online
+- Microsoft
+- Outlook and Exchange
 ---
 
 Snow day? Microsoft on Monday confirmed a widespread, multi-hour outage affecting Outlook users, leading to email delays and failures, authentication issues, and other problems.

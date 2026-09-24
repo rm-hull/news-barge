@@ -13,6 +13,54 @@ categories:
 - Society & Culture
 - Technology & Software
 image: https://i.guim.co.uk/img/media/8cce2a578edde29cfa1fc702728fdc4d7b4c2f24/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=095a5f37cd79e824596d1a30faf1c7d4
+locations:
+- Belfast
+- Birkbeck
+- Britain
+- China
+- France
+- Iran
+- Kramatorsk
+- Kremlin
+- London
+- Moscow
+- Paris
+- Russia
+- Southport
+- Sweden
+- UK
+- Ukraine
+- Ukraine-Poland
+people:
+- Andy Burnham
+- Keir Starmer
+- Mark Zuckerberg
+- Ned Mendez
+- Robert Topinka
+- Sophie Williams-Dunning
+- Tom Cruise
+organisations:
+- AI
+- ANO Dialog
+- Alliance4Europe
+- BBC
+- Demos
+- Der Spiegel
+- Fox News
+- Guardian
+- King’s College London
+- Labour
+- Le Monde
+- Meta
+- National Centre for Information Defence
+- National Internet Intelligence Investigations
+- Reddit
+- Royal United Services Institute
+- Rusi
+- Social Design Agency
+- Social Market Foundation
+- Starmer
+- University of London
 ---
 
 Russian disinformation campaigns are varied in their falsehoods and strategies.

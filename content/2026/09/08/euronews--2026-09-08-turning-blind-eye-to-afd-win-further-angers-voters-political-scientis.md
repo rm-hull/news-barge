@@ -13,6 +13,27 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Berlin
+- East Germany
+- German Democratic Republic
+- Iran
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+- Ukraine
+people:
+- Friedrich Merz
+- Nicolas Spohn
+- Thorsten Frei
+organisations:
+- AfD
+- Alternative for Germany
+- Bundestag
+- CDU
+- Christian Democratic Union
+- Euronews
+- WWII
+- YouGov
 ---
 
 ## Chancellor Merz's government must recognise the far-right AfD's victory in Saxony-Anhalt and voter discontent that led to the win, or further cement its downfall, an expert on East German politics warned.

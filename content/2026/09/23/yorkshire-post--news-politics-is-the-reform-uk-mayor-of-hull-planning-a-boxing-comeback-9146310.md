@@ -14,6 +14,36 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhZWIwMDYyLTMxMDMtNDYzNy04MzFjLWZlYmNjNTUyOTg1NTpkMjRhMDgxYy00NjZkLTQ0OWYtOWNhZi1kNDJjZmZjOGViZTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Craven Park
+- Dallas
+- East Yorkshire
+- Hessle Road
+- Hull
+- Las Vegas
+- London
+- St Paul
+- Texas
+people:
+- '## Luke Campbell'
+- Chris Eubank Jr
+- Conor Benn
+- Cool Hand’
+- Eubank Jr
+- Luke Campbell
+- Mike Ross
+- Ryan Garcia
+organisations:
+- Amateur Boxing Club
+- Facebook
+- Hull
+- Instagram
+- Kingston Communications
+- Liberal
+- MBE
+- Reform UK
+- Royal Mail
+- talkSPORT
 ---
 
 # Is the Reform UK Mayor of Hull planning a boxing comeback?

@@ -14,6 +14,15 @@ categories:
 - Home, Garden & DIY
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Northowram
+- Windmill Drive
+- YOUR
+people: []
+organisations:
+- Public Notice Portal
+- Saleem Architects
+- Springhead Developments
 ---
 
 ### What is the Public Notice Portal?

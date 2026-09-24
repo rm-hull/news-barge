@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Bazley’s Lane
+- Church Street
+- Lakeside Way
+- North Yorkshire
+- North of England
+- Norton
+- Park Road
+- Railway Club
+- Springfield Garth
+- St Nicholas Street
+- The Avenue
+- Welham Road
+people:
+- Cllr Duncan
+- Cllr Keane Duncan
+- Norton
+- Stewart Whitehead
+organisations:
+- NGN
+- NGN’s Customer Care Team
+- North Yorkshire Council
+- Northern Gas Networks
+- Site Manager
 ---
 
 PLANS to close a main road in a North Yorkshire town have been changed at the eleventh hour.

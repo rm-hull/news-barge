@@ -13,6 +13,27 @@ categories:
 - Law & Justice
 - Society & Culture
 image: https://static.independent.co.uk/2026/07/10/17/00/Nolan-Wells-Mississippi.jpg?trim=223,0,1195,0&width=1200&height=800&crop=1200:800
+locations:
+- Gulf Coast
+- Horn Island
+- Jackson County
+- Mississippi Gulf Coast
+- Nolan
+- Wells
+people:
+- Angel Myers McIlrath
+- Ben Crump
+- Mr. Wells
+- Nolan Wells
+- Nolan Wells’
+- Wells'
+organisations:
+- Jackson County Grand Jury
+- Jackson County Sheriff’s Office
+- NAACP
+- State of Mississippi
+- U.S. Department of Justice
+- Wells’
 ---
 
 A grand jury has declined to bring charges in the death of Nolan Wells, a Black teen who was found dead after a July 4 boating trip with friends off the Mississippi Gulf Coast.

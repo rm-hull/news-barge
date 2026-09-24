@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Beckington
+- Greenwood
+- Lebanon
+people:
+- Charles Perrottet
+- Christian Ellis
+- Dominic Perrottet
+- Jean Nassif
+- Jeremy Greenwood
+- Peggy Dwyer SC
+- Sharangan Maheswaran
+- Toplace
+organisations:
+- Beckington
+- Icac
+- Independent Commission Against Corruption
+- Liberal
+- Toplace
 ---
 
 A Liberal operative has denied making up a “pink” or “fuchsia”-coloured piece of paper which he says was the record of an agreement with a property developer worth up to $5m, a corruption inquiry has heard.

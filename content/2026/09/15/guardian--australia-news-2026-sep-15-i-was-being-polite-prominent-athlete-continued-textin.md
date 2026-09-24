@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Downing Centre
+- Jones’s Macquarie Street
+- Sydney
+people:
+- Alan Jones
+- Gabrielle Bashir SC
+- Georgina Wright SC
+- Glenn Walsh
+- Someone
+- Thank you,” M
+organisations:
+- Sydney Morning Herald
 ---
 
 A prominent athlete who has accused Alan Jones of twice kissing him without consent has told a Sydney court he continued to text the broadcaster after the alleged assaults because Jones was powerful and had been generous to him.

@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Australia
+- Canada
+people:
+- Angus Taylor
+- Anthony Albanese
+- Benn McGrady
+- Danielle McMullen
+- Matt Canavan
+- Nick Coatsworth
+- Pauline Hanson
+- Richard Holden
+- Rohan Pike
+- Tanya Plibersek
+organisations:
+- Australian Border Force
+- Australian Medical Association
+- Coalition
+- Labor
+- Nationals
+- One Nation
+- Parliamentary Budget Office
+- World Health Organization
 ---
 
 Leading public health experts, the Australian Medical Association and Labor have rejected Angus Taylor’s plan to cut tobacco excise by 80%, labelling the move to curb soaring illegal cigarette sales as a backward step on tobacco control.

@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21485090.jpg?type=og-image&yType=1139
+locations: []
+people:
+- Ben
+- Darth Vader
+- Kenner
+- Kenobi
+- Luke Skywalker
+organisations:
+- Early Bird
+- Farm Boy
+- General Mills
+- Kenner’s “Early Bird Promotion
+- Star Wars
+- Vectis Auctions
 ---
 
 *(Image: VECTIS AUCTIONS)*

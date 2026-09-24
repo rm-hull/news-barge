@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Berlin
+- China
+- Europe
+- Germany
+- Reichstag
+people:
+- Stefan Streit
+- Xiaomi
+- Xu Fei
+organisations:
+- '## Xiaomi'
+- AI
+- Autohaus Dinnebier
+- Emil Frey Germany
+- Ernst Dello Group
+- Euronews
+- Fett & Wirtz
+- Hahn Automobile
+- IFA
+- LUEG Mobility Group
+- Penske-Jacobs
+- SPT Avior
+- TCL Europe
 ---
 
 ## Xiaomi is done being just a phone brand. At IFA 2026, it laid out plans to launch electric cars in Europe by 2027, all wired into a smart-home ecosystem it calls Human x Car x Home.

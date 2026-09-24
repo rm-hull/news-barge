@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canary Wharf
+people:
+- Ewan Venters
+- Lord Rose
+- Paul Smith
+- Rick Coyle
+organisations:
+- Amazon
+- BBC
+- Barclays Corporate Banking
+- Big Boss Interview
+- Boots
+- Financial Times
+- JP Morgan
+- Revolut
+- Unite
 ---
 
 ![Barclays Corporate Banking headquarters offices at Canary Wharf financial district](https://ichef.bbci.co.uk/ace/standard/962/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg)

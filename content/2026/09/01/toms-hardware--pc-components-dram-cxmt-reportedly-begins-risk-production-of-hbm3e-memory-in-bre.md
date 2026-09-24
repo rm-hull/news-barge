@@ -13,6 +13,28 @@ categories:
 - Hardware
 - Science
 - Music
+locations:
+- China
+people:
+- Anton Shilov
+- Tom
+organisations:
+- AI
+- Alibaba Group
+- CXMT
+- Cambricon Technologies
+- ChangXin Memory Technologies
+- Get Tom's Hardware
+- Google News
+- HBM
+- HBM3E
+- HBM4E
+- JEDEC
+- Micron
+- SK
+- Samsung
+- T-Head
+- Tom’s Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

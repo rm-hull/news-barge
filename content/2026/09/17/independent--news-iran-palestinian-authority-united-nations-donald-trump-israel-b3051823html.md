@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Iran
+- Israel
+- Lamerd
+- Middle East
+- Minab
+- Morocco
+- Pakistan
+- Saudi Arabia
+- Shajareh Tayyebeh
+- Turkey
+- U.S.
+- US
+- United States
+- West Bank
+- Yemen
+people:
+- Donald Trump
+- Mahmoud Abbas
+organisations:
+- Associated Press
+- General Assembly
+- PA
+- Palestinian Authority
+- Pentagon
+- U.N.
 ---
 
 United Nations-backed human rights experts said on Thursday there are “reasonable grounds” to believe the United States committed war crimes in two strikes in Iran on the first day of the war.

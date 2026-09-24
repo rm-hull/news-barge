@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Indonesia
+- Japan
+- Polahi
+- South Korea
+- Tokyo
+people:
+- Katsuhiro Suzushima
+- Sayoko Iinuma
+- Timer Manurung
+- Yuri Kageyama
+organisations:
+- AP
+- Associated Press
+- Associated Press’
+- Auriga Nusantara
+- Earth Insight
+- Environment and Forestry; Energy and Mineral Resources
+- Forestry Agency
+- Global Environmental Forum
+- Global Trade Algorithmic Intelligence Center Wood
+- IEA
+- Indigenous Peoples’ Alliance of the Archipelago
+- Institute for Sustainable Energy Policies
+- International Energy Agency
+- The Associated Press
 ---
 
 A surge in Indonesia’s wood pellet and chip production is driving a new wave of deforestation, threatening the vast archipelago’s remaining tropical forests, vital biodiversity hot spots and the land of Indigenous peoples, according to new satellite analysis from environmental nongovernmental organizations.

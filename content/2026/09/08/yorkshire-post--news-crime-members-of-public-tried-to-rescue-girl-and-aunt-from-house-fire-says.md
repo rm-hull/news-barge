@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Birchington Avenue
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- Teesside Crown Court
+people:
+- Jaden Wright
+- Ms McDonald
+- Natalie McDonald
+- Paul Appleton
+- Valentina Foster
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
 ---
 
 # Members of public tried to rescue girl and aunt from house fire, says coroner

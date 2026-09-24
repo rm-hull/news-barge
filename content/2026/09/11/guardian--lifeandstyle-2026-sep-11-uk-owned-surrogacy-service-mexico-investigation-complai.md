@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Birmingham
+- Cayman Islands
+- Mexico
+- UK
+- US
+people:
+- Bianca Jackson
+- Diana Johnson
+- Michael Johnson-Ellis
+- Phil Brickell
+- Shaun Thomas
+- Wes Johnson-Ellis
+organisations:
+- Bolton West
+- Coram Chambers
+- DHSC
+- Department of Health and Social Care
+- Guardian
+- Human Fertilisation and Embryology Authority
+- My Surrogacy Journey
+- Surrogacy Journey
+- The Surrogacy Father
 ---
 
 The UK government has said it is reviewing allegations about a British-owned surrogacy service after surrogates in Mexico who faced health complications including a hysterectomy had their insurance claims rejected.

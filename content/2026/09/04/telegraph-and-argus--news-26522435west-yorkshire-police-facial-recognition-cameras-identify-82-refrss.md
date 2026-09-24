@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Wakefield
+- West Yorkshire
+people:
+- John Thomas
+- Stuart Bainbridge
+organisations:
+- Wakefield Council
+- Wakefield Police
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

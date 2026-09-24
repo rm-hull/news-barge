@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Acomb
+- Beagle Ridge Drive
+- Chapel Street
+- Fossway
+- Kirk Hammerton
+- Lowther Street
+- Moor Lane
+- Sherburn-in-Elmet
+- Stockton Road
+- The Groves
+- Thirsk
+- York Magistrates Court
+people:
+- Callum Walker Kendall
+- Evie Stables
+- Jenny Jobling
+- Kayle Hudson
+- Kirk Hammerton
+- Michael Ellis
+organisations:
+- Co-op
+- Newsquest
 ---
 
 *(Image: Newsquest)*

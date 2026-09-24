@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Minorca
+- New York City
+- Port Mahon
+- Richelieu
+- Sainsbury’s
+- Spain
+- UK
+people:
+- Aldi
+- Batts Real Mayonnaise
+- Heinz Seriously
+- Hellman
+- Lidl
+- Richard Hellmann
+organisations:
+- Aldi
+- Batts Real Mayonnaise Morrisons Sainsbury
+- Bramwells Real Mayo
+- Bramwells Tesco Mayonnaise Asda Heinz Mayonnaise
+- Hellmann's
+- Hellmann’s
+- Sainsbury’s
+- Unilever
 ---
 
 ## Most people keep this product in their fridge - we put it to the test

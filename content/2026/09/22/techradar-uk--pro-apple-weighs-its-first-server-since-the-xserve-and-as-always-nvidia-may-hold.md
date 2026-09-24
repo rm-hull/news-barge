@@ -11,6 +11,34 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY-1920-80.png
+locations:
+- UltraFusion
+people:
+- John Ternus
+- Rahim Amir
+- Steve Jobs
+organisations:
+- AI
+- AMD
+- Amazon Web Services
+- Anthropic
+- Apple
+- Ars Technica
+- DGX Spark
+- Gartner
+- Google News
+- Mac Studio
+- Mac Studios
+- MacGeneration
+- Nvidia
+- OpenAI
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- The Information
+- Xserve
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY.png)

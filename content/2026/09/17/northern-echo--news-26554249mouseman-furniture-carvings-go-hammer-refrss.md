@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Annie Elizabeth Kilvington
+- Hovingham Estate
+- Slough
+- Yorkshire
+people:
+- Albert “Eagleman” Jeffray
+- Elinor Gertrude Lupton
+- Messrs Horlick’
+- Monk
+- Robert Thomson
+- Robert “Mouseman” Thompson
+organisations:
+- Horlicks Collection
+- Leeds Girls’ High School
+- Mouseman
+- Royal Mint
+- Tennants Auctioneers
+- Yorkshire Critters Sale
 ---
 
 *(Image: Supplied)*

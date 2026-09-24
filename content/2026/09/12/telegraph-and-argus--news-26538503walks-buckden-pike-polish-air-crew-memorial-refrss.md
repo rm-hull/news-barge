@@ -13,6 +13,32 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Buckden Beck
+- Buckden Gill
+- Buckden Pike
+- Cray
+- Dales 30 Mountains
+- Howgills
+- Long Preston
+- Mallerstang
+- Refresher’
+- Starbotton
+- The Bracken Way
+- The Dales
+- Wharfedale
+- Yorkshire Dales
+people:
+- Buckden Pike
+- Jo
+- Jonathan Smith
+- Stiles
+organisations:
+- Buck Inn
+- Dales
+- Peaks’
+- The Yorkshire
+- Where2walk
 ---
 
 THE head of Wharfedale is surrounded by four of the Dales 30 Mountains (all over 2,000ft high).

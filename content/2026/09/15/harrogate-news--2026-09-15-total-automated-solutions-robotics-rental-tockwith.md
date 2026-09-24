@@ -14,6 +14,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+- Tockwith
+people:
+- Kevin Chapman
+organisations:
+- Harrogate Informer
+- MCC
+- Motor Control Centre
+- TAS
+- Total Automated Solutions
 ---
 
 **TOCKWITH** — Regional automation specialists have launched a new industrial leasing framework designed to accelerate robotic adoption across Yorkshire’s manufacturing corridors by eliminating upfront capital investment risks.

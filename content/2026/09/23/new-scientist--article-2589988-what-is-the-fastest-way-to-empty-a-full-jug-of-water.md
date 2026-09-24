@@ -12,6 +12,12 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png
+locations:
+- Eibergen
+- Gelderland
+- Netherlands
+people: []
+organisations: []
 ---
 
 **What is the fastest way to empty a full jug of water: tipped upside down or poured at a particular angle?**

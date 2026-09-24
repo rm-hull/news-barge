@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/16/2296045604..?trim=0,59,0,59&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Fort Worth
+- Iran
+- Maine
+- Michigan
+- Middle East
+- Sen
+- Strait of Hormuz
+- Tarrant County
+- Tehran
+- Texas
+- Washington
+people:
+- Abdul El-Sayed
+- Chuck Schumer
+- Donald Trump
+- Gina Hinojosa
+- Greg Abbott
+- James Talarico
+- John Cornyn
+- Joni Ernst
+- Ken Paxton
+- Mike Rogers
+- Susan Collins
+- Thom Tillis
+- Troy Jackson
+organisations:
+- CNN
+- CNN/SRSS
+- Congress
+- D.C.’s National Mall
+- Fox News
+- Fox’s
+- GOP
+- ICE
+- Mediaite
+- Quorum Insights
+- Senate
+- Sens
+- Suffolk University
+- Trump
+- United Nations General Assembly
+- Washington Post
 ---
 
 President Donald Trump’s conflict with Iran continues to grow increasingly unpopular, shattering what was previously thought to be the barrier to how the president’s ratings could go, new polling suggests.

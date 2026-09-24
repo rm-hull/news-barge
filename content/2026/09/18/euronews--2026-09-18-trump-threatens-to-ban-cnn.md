@@ -13,6 +13,31 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/91/95/33/1200x675_cmsv2_21e3939c-3bd3-5487-9653-083bb3c89eb7-9919533.jpg
+locations:
+- Gulf of America
+- Gulf of Mexico
+- US
+- United States
+- White House
+- White House Rose Garden
+people:
+- Donald Trump
+- Kaitlan Collins
+- Richard Nixon
+organisations:
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CNN
+- MS NOW
+- Oval Office
+- Politico
+- The New York Times
+- The Wall Street Journal
+- The Washington Post
+- Trump
+- Truth Social
 ---
 
 ## The president has already pursued legal action against other major news organisations, including The New York Times, The Wall Street Journal and the BBC.

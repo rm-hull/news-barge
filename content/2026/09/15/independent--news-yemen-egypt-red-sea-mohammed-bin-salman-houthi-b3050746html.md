@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Aden
+- Asia
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Cairo
+- East-West Pipeline
+- Egypt
+- Gaza
+- Iran
+- Iraq
+- Mediterranean
+- Mideast
+- Mokha
+- Persian Gulf
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Taiz
+- U.S.
+- United Arab Emirates
+- United States
+- Yemen
+people:
+- Abdel-Fattah el-Sissi
+- Anees al Asbahi
+- Donald Trump
+- El-Sissi
+- H.A
+- Hellyer
+- Maj.
+- Mohammed bin Salman
+- Rishana Haniffa
+- Turki al-Malki
+organisations:
+- Associated Press
+- Bab al-Mandeb
+- Center for American Progress
+- Health Ministry
+- MBS
+- World Health Organization
 ---
 
 Saudi Arabia’s crown prince sought backing Tuesday from the president of Egypt, his ally across the Red Sea, as the kingdom faces increased attacks by Yemen’s Houthi rebels on Saudi shipping and infrastructure that have helped drive a surge in global oil prices.

@@ -12,6 +12,22 @@ description: The new Scuf Valor Wired controller I tested rocks great features l
 image: https://cdn.mos.cms.futurecdn.net/Nqc4GjTZaybEwSL7zsa5RE-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Light Grey
+- Silicon Valley
+- UK
+- US
+people:
+- Josh Russell
+- Scuf
+organisations:
+- Josh
+- Scuf Valor
+- Scuf Valor Wired
+- T3
+- TMR
+- TechRadar
+- Valor Wired
 ---
 
 ### TechRadar Verdict

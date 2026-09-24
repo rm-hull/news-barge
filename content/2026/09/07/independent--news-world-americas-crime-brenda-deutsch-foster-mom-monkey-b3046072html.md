@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Lincoln County
+- Missouri
+- Texas
+- Winfield
+people:
+- Brenda Deutsch
+- Brina Johnson
+- Bryan Hargis
+- Mike Wood
+organisations:
+- Eastland County Sheriff's Office
+- Fox 2
+- Fox News Digital
+- KSDK
+- KTVI
+- Missouri Department of Social Services Children’s Division
+- San Antonio Express News
+- Texas Child Protective Services
 ---
 
 A Missouri foster mother accused of swapping a teenage girl for a monkey has been found guilty of child endangerment but escaped jail time.

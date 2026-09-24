@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Iran
+- U.S.
+people:
+- Joe Biden
+- Larry Kudlow
+- Laura Ingraham
+- Trump
+organisations:
+- AAA
+- Census Bureau
+- Congress
+- Financial Times
+- Fox Business
+- Fox News
+- House
+- Senate
+- The Washington Post
+- Trump
 ---
 
 Fox News host Laura Ingraham claimed that many Republicans “secretly” want to lose the midterm elections to avoid having to pass legislation.

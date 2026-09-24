@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- PA
+people:
+- Aaron Chown
+- Dame Rachel de Souza
+- Rachel De Souza
+organisations:
+- Communications and Digital Committee
+- House of Lords
+- Ofcom
+- Radio 4
 ---
 
 The Children’s Commissioner for England has threatened to use her statutory powers to access tech companies’ risk assessments after Ofcom refused her request to see them, she told a House of Lords committee.

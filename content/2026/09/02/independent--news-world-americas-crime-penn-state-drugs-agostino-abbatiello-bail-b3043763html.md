@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Abbatiello
+- Bellefonte
+- Churchill
+- Mendham
+- New Jersey
+- New York
+- Penn State
+- Pennsylvania
+- Philadelphia
+- Pittsburgh
+- Secaucus
+- Snapchat
+- Westbury
+people:
+- Agostino Abbatiello
+- Dave Sunday
+- Godfather
+- Haraibi
+- Lars Zeepvat
+- Mohammed Hurabi
+- Paul Robinson
+- Philip Masorti
+- Thomas Robinson
+organisations:
+- CBS News
+- CBS News Pittsburgh
+- Delta Upsilon
+- Masorti
+- Penn State
+- Pennsylvania State University
+- Sigma Chi
+- The Independent
+- WTAJ
 ---
 
 Agostino Abbatiello, a former student from Pennsylvania State University who is accused of leading a cocaine trafficking ring out of two fraternities, has been granted bail.

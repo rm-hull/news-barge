@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bulgaria
+- Eins
+- Eurovision
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Netherlands
+- Slovenia
+- Spain
+- UK
+people:
+- Caroline Dinenage
+- Dara
+- Daz Sampson
+- Jake
+- James Newman
+- Jemini
+- Joe
+- Katrina
+- Sam Ryder
+- YouTuber
+organisations:
+- AKA Sam Battle
+- BBC
+- Commons
+- Electro Velvet
+- Eurovision
 ---
 
 Joe and Jake. Daz Sampson. Electro Velvet. Who could forget them?

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- England
+- Ireland
+- Scotland
+- Wales
+people:
+- Martin Lewis
+organisations:
+- '### Energy'
+- MSE
+- Martin Lewis (@MartinSLewis
+- MoneySavingExpert
+- Ofgem
+- Price Cap
+- Starbucks
+- State Pension
 ---
 
 Martin Lewis has issued a fresh warning to households as the energy Price Cap is now predicted to soar by almost 25% in January.

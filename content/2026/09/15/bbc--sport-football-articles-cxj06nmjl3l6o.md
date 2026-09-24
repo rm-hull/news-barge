@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Manchester
+people:
+- Enzo Fernandez
+- Enzo] Fernandez
+- Erling Haaland
+- Erling] Haaland
+- Keith Andrews
+- Leam Richardson
+- Paudie O'Connor
+- Pro Ref
+- Tom Nield
+organisations:
+- Bees
+- Brentford
+- Brentfordhead
+- Manchester City
+- Manchester United
+- Premier League
+- Reading
+- Royals
+- VAR
 ---
 
 ![Keith Andrews with his hands together](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/42c4/live/be018000-b152-11f1-8912-fb2bed4049e7.jpg)

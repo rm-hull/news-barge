@@ -13,6 +13,42 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/18/23/01M2TQV0J49SK2MWDCYMMJT1B8.jpg?trim=196,0,196,0&width=1200&height=800&crop=1200:800
+locations:
+- Beachy Head
+- Buckingham Palace
+- Chatsworth House
+- Duchess of Sussex
+- East Sussex
+- England
+- Princess of Wales
+people:
+- '## Diana'
+- Camilla
+- Charles Spencer
+- Charles’
+- Dan Wakeford
+- Earl Spencer
+- 'Earl Spencer ## Queen'
+- Elizabeth
+- Harry Mount
+- Harry!
+- King
+- Laura Kuenssberg
+- Prince Charles
+- William Burlington
+organisations:
+- BBC
+- CBS News
+- Celebrity Intelligence
+- Daily Mail
+- ICYMI
+- Oprah Winfrey
+- Painted Hall
+- Reading Room
+- The Chatsworth House Trust
+- The Mail
+- The Queen
+- The Sunday Times
 ---
 
 Earl Spencer has accused the King of gaslighting him over claims in his bombshell memoir that Charles said “we’ll forget her soon enough” after Princess Diana died.

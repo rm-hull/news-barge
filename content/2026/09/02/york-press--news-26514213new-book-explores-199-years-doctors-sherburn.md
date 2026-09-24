@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - History
+locations:
+- Hertfordlythe
+- Lake Pickering
+- Malton
+- Sherburn Village Hall
+- Sherburn and Rillington Medical Practice
+- Vale of Pickering
+people:
+- Alison J V A Oulton
+- Anne Collier
+- Sherburn
+organisations:
+- Church of England Primary School
+- Sherburn Archive
+- Sherburn History Society Archive
+- Sherburn Local History Society
+- Sherburn Village Hall Coffee Morning Team
+- Village Hall
 ---
 
 *(Image: Supplied)*

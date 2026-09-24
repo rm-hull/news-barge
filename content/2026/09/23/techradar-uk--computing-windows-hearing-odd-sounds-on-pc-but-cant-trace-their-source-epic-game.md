@@ -13,6 +13,19 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/M9taZdvsDcfKj6P8ej8EsW-2560-80.jpg
+locations:
+- GameRant
+people:
+- Isaiah Williams
+organisations:
+- Birmingham City University
+- Epic Games Launcher
+- Fortnite
+- Google News
+- Isaiah
+- PC Guide
+- TechRadar
+- TweakTown
 ---
 
 ![Closeup of smartphone on computer keyboard with logo lettering of Epic games on screen](https://cdn.mos.cms.futurecdn.net/M9taZdvsDcfKj6P8ej8EsW.jpg)

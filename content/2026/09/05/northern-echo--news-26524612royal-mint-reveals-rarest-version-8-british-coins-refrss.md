@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - History
+locations:
+- Atlantic Salmon
+- Britain
+- Queen Elizabeth II
+- UK
+- Zebra Crossing
+people:
+- Christopher Ironside
+- Hazel Dormouse
+organisations:
+- '## Royal Mint'
+- Edinburgh City
+- Royal Mint
+- The Royal Mint
+- Yeoman Warder
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

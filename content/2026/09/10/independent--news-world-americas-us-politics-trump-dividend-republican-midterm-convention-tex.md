@@ -14,6 +14,21 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Texas
+- U.S.
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Sam Stein
+organisations:
+- DOGE
+- Supreme Court
+- The Independent
+- The Trump
+- U.S. Constitution
 ---
 
 President Donald Trump said on Wednesday that his administration would pay a $5,000 “Trump Dividend” to each American adult if voters help Republicans keep their congressional majority through the 2026 midterms.

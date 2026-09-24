@@ -12,6 +12,52 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Elysée
+- Europe
+- France
+- Germany
+- Paris
+- Paris’ Grand Palais
+- Russia
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Adrianos Golemis
+- Boris Pistorius
+- Dorothee Bär
+- Emmanuel Macron
+- Friedrich Merz
+- Hermann Ludwig Moeller
+- Kyriakos Mitsotakis
+- Léonard Buchaillot
+organisations:
+- AFP
+- Amazon Leo
+- Arianespace
+- Blue Origin
+- ESA
+- EU
+- Elon Musk’s SpaceX
+- Euronews
+- European Space Agency
+- European Space Policy Institute
+- FCAS
+- Future Combat Air System
+- IRIS
+- ISS
+- International Space Station
+- Isar Aerospace
+- Kyiv
+- Macron
+- Ministry of Higher Education and Research
+- Musk
+- National Centre for Space Studies
+- Politico
+- Starcloud
+- Stoke Space
 ---
 
 ## France is co-hosting a major space summit with Germany this week, as Europe finds itself at a strategic crossroads.

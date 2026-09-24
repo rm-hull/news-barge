@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- North East
+people:
+- Hewitson
+- Nicola Raine
+- Paul Mathison
+organisations:
+- Derwentside College
+- East Durham College
+- Evri
+- Hewitson Limited
 ---
 
 *(Image: Supplied)*

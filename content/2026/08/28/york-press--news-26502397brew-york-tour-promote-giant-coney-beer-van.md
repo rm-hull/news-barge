@@ -13,6 +13,35 @@ categories:
 - York
 - Lifestyle & Fashion
 - Food & Cooking
+locations:
+- Brew York
+- Bristol
+- Carlton
+- Coney Island
+- Coney Street
+- London
+- New York
+- Norwich
+- Osbaldwick
+- Otley
+- Simcoe
+- Top York
+- Walmgate
+people:
+- '**Lee Grabham'
+- Askham Bog
+- Lee Grabham
+- Wayne Smith
+organisations:
+- '**__Brew York'
+- Brew York
+- Citra
+- Giant Coney
+- Goole Market Hall
+- Horse & Farrier
+- IPA
+- Pic
+- Towers Tap Room
 ---
 
 ## Top York brewery on tour with beer van and new stronger ale

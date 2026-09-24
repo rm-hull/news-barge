@@ -10,6 +10,15 @@ description: The winners are 100% voted by you, so pick your winners in phones, 
 image: https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- CES
+- Google News
+- MWC
+- Marvel
+- Megazord
+- TechRadar
 ---
 
 ![The TechRadar Readers Choice Awards logo on a patterned background](https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7.jpg) 

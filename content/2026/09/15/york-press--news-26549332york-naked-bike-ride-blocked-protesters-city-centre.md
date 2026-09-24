@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Clifford’s Tower
+- Millennium Bridge
+- Pavement
+- York
+people:
+- Dylan Connell
+- John Cossham
+- York
+organisations:
+- The Press
+- University of York
+- York Naked Bike Ride
 ---
 
 *(Image: Dylan Connell)*

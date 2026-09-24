@@ -14,6 +14,43 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Australia
+- Eastern Europe
+- France
+- Rondo
+- Syrah
+- UK
+people:
+- Cabernet Franc
+- Cabernet Sauvignon
+- Chardonnay
+- Christine Austin
+- Jean-Claude Mas
+- John Worontschak
+- Malbec
+- Meunier
+- Ortega
+- Paul Mas Sauvignon Blanc Souvignier Gris
+- Pinot Grigio
+- Pinot Noir
+- Riesling
+- Sauvignon Blanc
+organisations:
+- Bronner
+- Cabernet Blanc
+- Christine Austin
+- Denbies
+- Floreal
+- Grenache
+- Mirabeau
+- Regent
+- Seyval Blanc
+- Syrah
+- Tesco
+- Vin de France
+- Waitrose
+- Zinfandel
 ---
 
 # Piwi: Christine Austin looks at the grape worth sampling

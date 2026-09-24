@@ -13,6 +13,29 @@ image: https://cdn.mos.cms.futurecdn.net/5sju8zQSpoQMJUJKEghvJd-2000-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- England
+- Stockport
+people:
+- Andrew Moore
+- Benedikt Pleyer
+- Dave
+- David Nield
+- Nguyen Nam Nhat
+- Ning Xu
+- Patrick C. Hickey
+organisations:
+- ABC NEWS
+- Beijing Children's Hospital
+- California Institute of Technology
+- Gizmodo
+- Google News
+- National University of Singapore
+- PC Explorer
+- The Hardware Handbook
+- Tsinghua University
+- University of Cambridge
+- Xu
 ---
 
 ![Nikon Small World in Motion 2026](https://cdn.mos.cms.futurecdn.net/5sju8zQSpoQMJUJKEghvJd.jpg) 

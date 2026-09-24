@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Roger Backhouse
+- Upper Poppleton
+- York
+people:
+- Danny Kruger
+- Jonathan Brady
+organisations:
+- Reform
+- Yorkshire Post
 ---
 
 # Reform’s proposal to curb postal voting is scraping the barrel - Yorkshire Post Letters

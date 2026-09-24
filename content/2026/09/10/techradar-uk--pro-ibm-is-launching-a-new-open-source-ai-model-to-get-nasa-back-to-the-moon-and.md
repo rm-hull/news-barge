@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Ireland
+- Moon
+- UK
+people:
+- Juan Bernabe-Moreno
+- Mike Moore
+- Moon
+organisations:
+- B2B
+- B2C
+- Google News
+- IBM Research Europe
+- ITProPortal
+- LRO
+- Lunar Reconnaissance Orbiter
+- NASA AI Moon
+- NASA-IBM Lunar Foundation Model
+- TechRadar Pro
 ---
 
 ![IBM and NASA AI Moon model](https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf.jpg) 

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Acomb
+- Easingwold
+- North Yorkshire
+people:
+- Alison Jackson
+- Jackie Crozier
+organisations:
+- Easingwold Artisan Market
+- Little Bird Made
+- Little Jackson Makes
+- Yorkshire
 ---
 
 *(Image: Little Bird Artisan Markets)*

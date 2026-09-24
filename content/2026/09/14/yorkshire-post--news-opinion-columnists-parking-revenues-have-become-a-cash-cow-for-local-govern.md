@@ -17,6 +17,28 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Bradford
+- Bradford.
+- Centenary Square
+- High Street
+- Idle
+- James Hardisty
+- Jayne Dowle
+- UK
+- Yorkshire
+people:
+- Alun Griffiths
+- Ian Walker
+- John Lewis
+- Stephen Place
+organisations:
+- BBC
+- Bradford City Hall
+- Bradford Council
+- Freedom of Information
+- Reform UK
+- Waitrose
 ---
 
 # Parking revenues have become a cash cow for local government but it’s to the detriment of Yorkshire’s high streets - Jayne Dowle

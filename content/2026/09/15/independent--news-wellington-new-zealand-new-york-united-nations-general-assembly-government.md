@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- New Caledonia
+- New York
+- South Pacific Ocean
+- Vanuatu
+people:
+- David Bongranlie
+- Jotham Napat
+- Tui Shipping
+organisations:
+- Daily Post
+- Facebook
+- MV Matui
+- Maritime Safety Authority
+- United Nations General Assembly
+- VBTC
+- Vanuatu Police
 ---
 
 Questions were growing about a passenger ferry believed to have sunk off the coast of Vanuatu as rescuers on Tuesday searched for more than 30 people still missing. The sinking on Friday, which officials said wasn’t reported for almost a full day, has killed at least two people.

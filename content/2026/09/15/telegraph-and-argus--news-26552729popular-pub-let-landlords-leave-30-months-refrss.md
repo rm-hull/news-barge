@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Baildon
+- Gilstead
+- Old Glen House
+- Prod Lane
+- Shipley Glen
+- The Glen Pub
+- The Old Glen House
+people:
+- Katie
+- Phil
+organisations:
+- Star Pubs
 ---
 
 *(Image: Pixabay)*

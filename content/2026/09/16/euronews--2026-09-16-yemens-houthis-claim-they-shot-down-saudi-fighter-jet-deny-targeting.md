@@ -14,6 +14,55 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Arabian Peninsula
+- Bab el-Mandeb
+- Cairo
+- Egypt
+- Europe
+- Gaza
+- Gulf
+- Indian Ocean
+- Iran
+- Iraq
+- Islam
+- Kingdom
+- Lebanon
+- Mecca
+- Mediterranean
+- Middle East
+- Pakistan
+- Qatar
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Suez Canal
+- Tehran
+- US
+- Washington
+- Yemen
+people:
+- Abdel Fattah al-Sisi
+- Abdullah al-Saadi
+- Ansar Allah
+- Donald Trump
+- Mohammed bin Salman
+- Shehbaz Sharif
+- Turki al-Maliki
+- Yahya Saree
+organisations:
+- AFP
+- Axis of Resistance
+- Bab el-Mandeb
+- Hamas
+- Hezbollah
+- Houthi
+- IRGC
+- Joint Forces Command of the Coalition
+- Organisation of Islamic Cooperation
+- UN
+- Yemeni Armed Forces
 ---
 
 ## Saudi Arabia vowed it would not hesitate to take "deterrent measures" against the Houthis after alerts were issued over possible drone attacks near Islam's holiest site, the first such alerts since the Iran war began in February.

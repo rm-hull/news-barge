@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - Science
 image: https://mmo.aiircdn.com/409/6ab276629133af010cd.jpg
+locations:
+- Harrogate
+people:
+- Bethany Allen
+- Liz
+- Lynn
+- Sara
+- Will
+organisations:
+- Artizan International
+- Fairy Bricks
+- Harrogate BID
+- Harrogate BID Operations
+- Jespers of Harrogate
+- LEGO
+- Lego
+- Otto Café
+- The Crown Hotel
+- Wetherspoons
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab276629133af010cd.jpg)

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21364493.jpg?type=og-image
+locations:
+- Canterbury Cathedral
+- North Yorkshire
+- RIPON CATHEDRAL
+- The Cathedral
+- Westminster Abbey
+people:
+- Ronny Krippner
+organisations:
+- BBC One
+- BBC Radio 3
+- Durham Cathedral Emergency
+- Girls' Choir
+- HGV
+- Ripon Cathedral
+- Ripon Cathedral Choir
+- Ripon Cathedral Girls' Choir
+- St Wilfrid
 ---
 
 *(Image: RIPON CATHEDRAL)*

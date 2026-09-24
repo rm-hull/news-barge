@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Crystal Palace
+- Manchester City
+- Monaco
+- Senegal
+people:
+- Alonso
+- Danny Welbeck
+- Emiliano Martinez
+- Emmanuel Emegha
+- Enzo Fernandez
+- Folarin Balogun
+- Geovany Quenda
+- Jordan Henderson
+- Lamine Camara
+- Manu Kone
+- Marco Palestra
+- Maxence Lacroix
+- Morgan Rogers
+- Pep Chavarria
+- Valentin Barco
+organisations:
+- Aston Villa
+- Brighton
+- Chelsea
+- Everton
+- Fulham
+- Ligue 1
+- Luton Town
+- Monaco
+- Premier League
+- Roma
 ---
 
 ![Lamine Camara pinches his shirt](https://ichef.bbci.co.uk/ace/standard/962/cpsprodpb/f8ad/live/9704b0d0-a644-11f1-9547-7578d73af9f6.jpg)

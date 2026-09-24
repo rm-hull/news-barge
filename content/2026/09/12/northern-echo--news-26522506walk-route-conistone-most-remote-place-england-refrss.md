@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bycliffe Road’
+- Conistone Dib
+- County Durham
+- Dalesway
+- England
+- Great Whernside
+- Gurling Trough
+- Jonathan Smith
+- Kilnsey Trout Farm
+- Long Preston
+- Mossdale Caves
+- Mossdale Scar
+- National Park
+- Pretty North York Moors
+- Riggs Moor
+- River Wharfe
+- Sandy Gate
+- Upper Nidderdale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Jonathan Smith
+- Stiles
+organisations:
+- Tenants Arms
+- The Dales
+- The Yorkshire
+- Where2walk
 ---
 
 Riggs Moor, on the National Park/Nidderdale border is a remote spot, possibly the most remote in England. However the tracks in are excellent, full of interest (both historical and geographical) and once there you do feel that you are somewhere special.

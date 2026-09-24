@@ -15,6 +15,33 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Britain
+- Broadway
+- Fleet Street
+- Queen of the Desert
+- UK
+- US
+- Venice
+- West End
+people:
+- Dad
+- Danny Boyle
+- Elisabeth “
+- Guy Pearce
+- Ink
+- Jack O’Connell
+- James Graham
+- Larry Lamb
+- Rupert Murdoch
+organisations:
+- BBC
+- Daily Mirror
+- HBO
+- News Corp
+- Succession
+- Sun
+- The Bone Temple
 ---
 
 Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said.

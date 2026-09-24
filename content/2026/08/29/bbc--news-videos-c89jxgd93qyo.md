@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- China
+- Nepal
+- Tibet
+people: []
+organisations: []
 ---
 
 # China censors videos showing deadly flash floods on the Nepal-Tibet border

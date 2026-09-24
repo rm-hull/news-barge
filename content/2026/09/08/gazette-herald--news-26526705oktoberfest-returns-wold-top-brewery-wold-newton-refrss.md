@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Wold Newton
+people:
+- CHRISTOPHER MANSON
+- Kate Balchin
+organisations:
+- Nabs Nosh
+- Oompah Band
+- Wold Top
+- Wold Top Brewery
+- Yorkshire Wolds
 ---
 
 *(Image: CHRISTOPHER MANSON)*

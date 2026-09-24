@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - History
+locations:
+- Australia
+- Canada
+- China
+- France
+- Germany
+- Japan
+- Saudi Arabia
+- UK
+- US
+people:
+- Andrew Bailey
+- John Healey
+organisations:
+- Anthropic
+- Bank of England
+- British AI
+- FSB
+- Financial Stability Board
+- G20
+- Google
+- Microsoft
+- NHS
+- OpenAI
 ---
 
 ![An investor looks at an electronic board showing stock information with numbers highlighted in red and lime green against a black background. The investor has her back to the camera and has her left hand resting on her head.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg)

@@ -12,6 +12,48 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Gretna
+- Harrogate
+- High Street
+- James Street
+- UK
+- US
+people:
+- Evans
+- Joules
+- Tom Joule
+organisations:
+- Alamy Stock Photo
+- Aldi, M&S
+- Ascend Airways
+- Bar
+- Beefeater
+- Bodycare
+- Brewers Fayre
+- British Heart Foundation
+- Caledonia Park Designer Outlet
+- Claire's
+- Cookhouse
+- Debenhams
+- EcoJet Airlines
+- European Cargo
+- Hilton
+- InPost
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Nasty Gal
+- Next
+- Pub TG Jones
+- Quiz
+- Superdrug
+- UK Joules
+- Wayfairer Travel Limited
+- Whitbread
+- Wynsors World of Shoes
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Alamy Stock Photo/PA)*

@@ -12,6 +12,11 @@ categories:
 - Local
 - York
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Newsquest
+- The Press
 ---
 
 ## What to do if you missed a copy of The Press you wanted

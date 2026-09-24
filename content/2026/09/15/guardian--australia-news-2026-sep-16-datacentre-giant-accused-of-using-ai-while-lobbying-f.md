@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Footscray
+- Hall
+- M3
+- Stony Creek
+- Victoria
+people:
+- Anthony Carbines
+- Ben Carroll
+- Craig Scroggie
+- Katie Hall
+- Ken McAlpine
+- Melissa Horne
+organisations:
+- Brumby and Bracks Labor
+- LinkedIn
+- NextDC Limited
+- Scroggie
+- Victorian Civil and Administrative Tribunal
 ---
 
 The Victorian jobs minister has accused one of Australia’s largest datacentre companies of using artificial intelligence while requesting she lobby her colleague to approve a massive expansion of its “hyperscale AI factory”.

@@ -11,6 +11,10 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/23/14/Colts_Chiefs_Football_24169.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people: []
+organisations:
+- AP
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

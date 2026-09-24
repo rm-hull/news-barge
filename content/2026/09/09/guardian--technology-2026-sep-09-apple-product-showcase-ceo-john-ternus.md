@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- Cupertino
+people:
+- Bob O’Donnell
+- Camera
+- Dipanjan Chatterjee
+- John Ternus
+- Steve Jobs
+- Tim Cook
+organisations:
+- Apple Watch
+- Duo “
+- Forrester
+- Jobs
+- Technalysis Research
+- Ternus
+- iPhone Duo
 ---
 
 John Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wednesday. It was the first time the public got a feel for the executive, who is filling the shoes of Tim Cook and his predecessor, Steve Jobs, at the $4.5tn tech giant.

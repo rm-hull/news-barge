@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469833.jpg?type=og-image
+locations:
+- Google Street View
+- Moorview Avenue
+- SHIPLEY
+people:
+- Shipley
+organisations:
+- Bradford Council
+- City of Bradford Metropolitan District Council
 ---
 
 *(Image: Google Street View)*

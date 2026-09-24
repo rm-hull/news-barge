@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- North East
+people:
+- Dawn Loynes
+- Peter Gibson
+organisations:
+- Channel 5
+- Darlington
+- Fighting With Pride
+- Government
+- Kynren
+- LGBT
+- LGBTQ
+- PA Wire
+- Royal Navy
 ---
 
 *(Image: PA Wire)*

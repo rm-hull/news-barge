@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Jeff Kampman
+- Jeffrey Kampman
+- Tom
+organisations:
+- AI
+- GPU
+- GPUs
+- Get Tom's Hardware
+- Google News
+- LM Studio
+- Nvidia
+- Ollama
+- PAIR
+- Tom's Hardware
 ---
 
 ![A depiction of an Nvida PAIR network](https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC.jpg) 

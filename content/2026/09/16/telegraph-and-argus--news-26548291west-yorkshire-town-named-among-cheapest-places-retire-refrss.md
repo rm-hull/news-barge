@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Bridge Café
+- Campania
+- Centre Vale Park
+- England
+- Grasso
+- Lancashire
+- Leeds
+- Manchester
+- Rochdale Canal
+- South Pennines
+- Stoodley Pike
+- Todmorden
+- Upper Calder Valley
+- Victorian Gauxholme Viaduct
+- West Yorkshire
+people:
+- Todmorden
+organisations:
+- Rightmove
+- Todmorden Market Hall
+- World Atlas
 ---
 
 *(Image: Getty)*

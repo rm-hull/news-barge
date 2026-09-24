@@ -12,6 +12,11 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- France
+people: []
+organisations:
+- Universal National Service
 ---
 
 ## The government's initial aim is to grow the programme to 10,000 volunteers a year, with a long-term goal of up to 50,000 per year in 2035.

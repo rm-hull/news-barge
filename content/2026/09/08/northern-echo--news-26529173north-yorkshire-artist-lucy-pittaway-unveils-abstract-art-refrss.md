@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- :**County Durham
+- Darlington
+- Keswick
+- Lake District
+- North Yorkshire
+- Richmond
+- Yarm
+- York
+- Yorkshire Dales
+people:
+- Lucy Pittaway
+- Ms Pittaway
+- Slurring
+organisations:
+- County Durham
+- Ms Pittaway
 ---
 
 A renowned North Yorkshire artist has unveiled a deeply personal collection in a bold move away from her signature style.

@@ -13,6 +13,29 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Germany
+- Mecklenburg-Western Pomerania
+- North Rhine-Westphalia
+- Russia
+- Saxony-Anhalt
+people:
+- ?** Merz
+- Die Linke
+- Hendrik Wuest
+- Markus Söder
+- Oliver Lembcke
+organisations:
+- AFP
+- AfD
+- Alternative for Germany
+- CDU
+- CDU/CSU
+- CSU
+- Christian Democratic Union
+- Forsa
+- Ruhr University Bochum
 ---
 
 The high-stakes meeting will come amid growing speculation Merz, 70, could face a challenge from within his CDU/CSU camp after the far-right Alternative for Germany (AfD) defeated his party in a recent state poll.

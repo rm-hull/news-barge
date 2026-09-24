@@ -11,6 +11,30 @@ description: Many of us are relying more and more on AI for answers, but it's al
 image: https://cdn.mos.cms.futurecdn.net/J4xNw9wL3EotLvqmBGDAvH-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- California
+- England
+- Mount Shasta
+- Mud Creek Canyon
+- Siskiyou County
+- Stockport
+- US
+- USFS Mount Shasta Ranger
+people:
+- Dave
+- David Nield
+organisations:
+- Engadget
+- Gemini AI
+- Gizmodo
+- Google Gemini
+- Google News
+- PC Explorer
+- SFGate
+- Sheriff's Office
+- Siskiyou County Sheriff's Office
+- The Hardware Handbook
+- US Forest Service
 ---
 
 ![Three hikers in the mountains next to a Gemini logo on a phone](https://cdn.mos.cms.futurecdn.net/J4xNw9wL3EotLvqmBGDAvH.jpg) 

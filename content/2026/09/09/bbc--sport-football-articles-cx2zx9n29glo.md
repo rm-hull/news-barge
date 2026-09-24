@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Stamford Bridge
+people:
+- Brenden Aaronson
+- Cole Palmer
+- Daniel Farke
+- Danny Welbeck
+- Estevao Willian
+- Geovany Quenda
+- Jamie Gittens
+- Leeds'
+- Morgan Rogers
+- Pedro Neto
+- Reece James
+- Reggie Watson
+- Tarik Muharemovic
+- Valentin Barco
+- Xabi Alonso
+- hisChelseateam
+organisations:
+- '## Stars'
+- Chelsea
+- Leeds United
+- Leeds'
+- Premier League
+- Sporting
+- Unitedbut
 ---
 
 ![Xabi Alonso celebrates after Chelsea's win over Leeds United, raising his left arm in a satisfied salute](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/dc17/live/1cd9d5b0-aca7-11f1-95ee-397da2afd75c.jpg)

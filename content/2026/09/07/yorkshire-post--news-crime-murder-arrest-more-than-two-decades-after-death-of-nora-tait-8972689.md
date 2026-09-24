@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Doncaster
+- Hexthorpe
+- Stone Close Avenue
+people:
+- Ben Wood
+- Nora Tait
+organisations:
+- DCI Wood
+- Major Incident Public Portal
+- South Yorkshire Police
 ---
 
 # Murder arrest more than two decades after death of Nora Tait

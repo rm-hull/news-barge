@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BP Canal Road
+- Bradford
+- Canal Road
+people:
+- Murco Bingley
+organisations:
+- Asda West Bradford Automat
+- Sainsbury's Bradford
+- Sun Garage
+- Tesco Bradford Buttershaw
+- Tesco Bradford Extra
 ---
 
 *(Image: Archive)*

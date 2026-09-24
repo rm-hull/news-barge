@@ -11,6 +11,16 @@ image: https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- US
+people: []
+organisations:
+- Chatbooks Social Rewards
+- Chatbooks Social Rewards Club
+- Instagram
+- Monthbook
+- Monthbooks
+- TikTok
 ---
 
 Smartphones have better cameras than ever before, but there comes a time when you want to show off your beloved photos outside of a tiny phone screen. Give your cherished memories the recognition they deserve with physical photo books from Chatbooks. A photo book helps bring your photos out of the Cloud and makes an incredible present for grandparents, parents, anniversaries, birthdays, and more. If you’ve been curious about trying out a photo book service, we have a Chatbooks promo code and Chatbooks coupon code to help you save on your next favorite memento or gift.

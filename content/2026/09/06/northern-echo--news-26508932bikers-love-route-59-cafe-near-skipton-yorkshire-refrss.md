@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- A59
+- Bolton Abbey
+- County Durham
+- Darlington
+- Harrogate
+- North Yorkshire
+- Our Yorkshire Farm
+- Ravenseat
+- Route 59
+- Skipton
+- UK
+- Yorkshire Dales
+people:
+- Reuben Owen
+organisations:
+- A59
+- Google
+- Yorkshire Dales
 ---
 
 *(Image: TRIPADVISOR)*

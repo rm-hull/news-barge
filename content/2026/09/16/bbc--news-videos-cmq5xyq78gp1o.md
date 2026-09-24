@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - Film & TV
 - Sports
+locations:
+- Bearwood
+- Birmingham
+people:
+- Greggs
+organisations:
+- BBC
 ---
 
 # BBC crew catch thieves in act while filming shoplifting report

@@ -13,6 +13,16 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21250177.jpg?type=og-image
+locations:
+- Haxby
+- York
+people: []
+organisations:
+- 99 Seats Ltd
+- City of York Council
+- Ibrahim Boran
+- North Yorkshire Police
+- Ryedale Court
 ---
 
 PLANS for a new café and restaurant in York have sparked fears over potential public nuisance.

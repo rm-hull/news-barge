@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Health & Fitness
+locations:
+- Chigaga Dunes
+- High Atlas Mountains
+- Michael’s Hospice Sahara Trek
+- Morocco
+- Sahara Desert
+people:
+- Bernadette
+- Clare
+- Gemma Umpleby
+- James
+- Michael
+- Michael’s Hospice
+organisations:
+- Herriot Hospice
+- Saint Michael’s Hospice
+- Strategy and Development
+- Vida Healthcare
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa00179329d2425000.jpg) 

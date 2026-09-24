@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Athens
+- Europe
+- Lamia
+- Oinoi
+- Tanagra
+people:
+- N. Dendias
+organisations:
+- ERT
+- Thessaloniki International Fair
 ---
 
 ## The twin seat aircraft crashed at Tanagra air base, north of Athens, during an air show, on Sunday.

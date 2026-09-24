@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Australia
+- Catterick Garrison
+- Chichester Harbour
+- Larkhill
+- North Yorkshire
+- Thorney Island
+- US
+people:
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley Beck
+- Maj James Hook
+- Michael Webber
+- Paul Patterson
+- Samantha Shepherd
+organisations:
+- 988 Suicide & Crisis Lifeline
+- RAF
 ---
 
 A senior army officer has been cleared by a court martial of failing to deal properly with allegations made by a teenage soldier who went on to kill herself.

@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Heckmondwike
+- Morrisons
+people: []
+organisations:
+- Kirklees Council
+- LDRS
+- Local Democracy Service
+- Morrisons
 ---
 
 # 'Bits of bra in the road': Shoppers raise fears over clothes left strewn across car park

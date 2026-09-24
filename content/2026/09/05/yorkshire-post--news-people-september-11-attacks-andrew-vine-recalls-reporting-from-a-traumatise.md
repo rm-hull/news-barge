@@ -15,6 +15,48 @@ categories:
 - York
 - Sports
 - History
+locations:
+- 1st Avenue
+- Belle Vue Hospital
+- Bellevue Hospital
+- Britain
+- Broadway
+- Earth
+- Fifth Avenue
+- First Avenue
+- Ground Zero
+- Manhattan
+- New York
+- 'New York ##'
+- New Yorks
+- St Thomas
+- US
+- Union Square
+- United States
+people:
+- Alisha Levin
+- Andrew Vine
+- Bruce Rollinson
+- Cartier
+- Christopher Meyer
+- Deanna Micculli
+- Goodness
+- Gregg Preziose
+- John Woodcock
+- Just
+- Marian Victoria Hamilton
+- Monica Goldstein
+- Tony Blair
+- Victoria Alvarez Brito
+organisations:
+- E29th
+- NYPD 17th Precinct
+- National Guard
+- New York Stock Exchange
+- The Yorkshire Post
+- Wall of Prayers
+- World Trade Center
+- World Trade Centre
 ---
 
 # September 11 attacks: Andrew Vine recalls reporting from a traumatised New York

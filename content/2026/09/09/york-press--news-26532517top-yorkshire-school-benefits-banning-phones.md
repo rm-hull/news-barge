@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Education & Learning
+locations:
+- Cundall Manor
+- Easingwold
+- North Yorkshire
+- York
+people:
+- Cundall Manor
+- Keir Starmer
+- Russell Harris
+organisations:
+- Cundall Manor
+- Fulford School
+- The Press
 ---
 
 *(Image: Cundall Manor)*

@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Gary Neville
+- Gordon Brown
+- Michael Healy
+organisations:
+- Government
+- HMRC
+- IG Consumer
+- Manchester United
 ---
 
 *(Image: Getty Images/iStockphoto)*

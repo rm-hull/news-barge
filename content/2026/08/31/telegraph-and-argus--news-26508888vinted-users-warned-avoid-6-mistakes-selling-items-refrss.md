@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- James Gwynne
+organisations:
+- ITP Packaging
+- JD Wetherspoon
+- Vinted
 ---
 
 *(Image: Getty)*

@@ -11,6 +11,105 @@ image: https://i.guim.co.uk/img/media/0b7bfc41642085e38090c8eb813ab4102d6e29de/3
 categories:
 - UK
 - News & Politics
+locations:
+- Adelaide
+- Canada
+- Canberra
+- Central Coast
+- City of Charles Sturt
+- Iran
+- Japan
+- NSW
+- New South Wales
+- New Zealand
+- Parramatta
+- Penrith
+- Queensland
+- South Australia
+- Sydney
+- UK
+- US
+- United Kingdom
+- Victoria
+people:
+- AAP Lambie
+- AI
+- Andrew Hastie
+- Anthony Carbines
+- Aukus
+- Ball
+- Barnaby Joyce
+- Belinda
+- Ben Carroll
+- Brett
+- Caitlin Cassidy
+- Canning
+- Carolyn Lidgerwood
+- Christopher Hopkins
+- Dario Amodei
+- Darren England
+- David Pocock
+- Dennis Richardson
+- Donald Trump
+- Hanson Sarah Basford Canales Jacqui Lambie
+- Hilary Wardhaugh
+- Jack Beasley
+- Jacqui Lambie
+- James Paterson
+- Johanna Bowyer
+- John Ruddick
+- Krishani Dhanji
+- Lukas Coch
+- Mark Butler
+- Martin Farrer
+- Mick Tsikas
+- Mike Newman
+- Nigel Farage
+- Paul Edbrooke
+- Pauline Hanson
+- Richard Marles
+- Robert Borsak
+- Sarah Martin
+- Tim Wilson
+- Tristan Edis
+- ‘Ball
+organisations:
+- AAP NSW
+- AAP NSW One Nation
+- AAP One Nation
+- AAP Police
+- ABC News
+- AI
+- Acma
+- Adelaide Jaguars
+- Anthropic
+- Asio
+- Australian Communications and Media Authority
+- BetStop
+- Betstop Henry Belot Betting
+- City of Charles Sturt Council
+- Coalition
+- Dabble
+- Farmers and Fishers MLC
+- Green Energy Markets
+- Guardian Australia
+- IEEFA
+- Institute for Energy Economics and Financial Analysis
+- Jubilee Reserve
+- Labor
+- Labour
+- Liberal
+- Lowy Institute
+- Lukas Coch
+- NSW Health
+- NSW One Nation
+- Nationals
+- News24
+- One Nation
+- RN Breakfast
+- SAS
+- Senate
+- Spotify
 ---
 
 ‘Ball was dropped’ on antisemitism, former spy boss says

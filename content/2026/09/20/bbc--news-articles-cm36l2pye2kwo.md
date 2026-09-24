@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg
+locations:
+- Adiala
+- Islamabad
+- Kot Lakhpat
+- Lahore
+- Pakistan
+people:
+- '** Aleema Khanum'
+- Aleema Khanum
+- Imran Khan
+- Shahrez Khan
+organisations:
+- Aleema Khanum
+- BBC
+- Government
+- PTI
+- Pakistan Tehreek-e-Insaf
 ---
 
 ![Aleema Khanum wears a grey head covering and sunglasses as she speaks into a news microphone. There are other women standing behind her.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg)

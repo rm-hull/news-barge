@@ -13,6 +13,52 @@ categories:
 - Technology & Software
 - Science
 - Arts & Culture
+locations:
+- AI
+- Bath
+- Switzerland
+- UK
+- United Kingdom
+- Zurich
+people:
+- AI
+- Dario Amodei
+- Dave Bradley
+- David Bradly
+- Elon Musk
+- Graham Barlow
+- Hephaestus
+- Isaac Asimov
+- John McCarthy
+- Jonathan Swift
+- Kelly Vero
+- Logan Bush
+- Marvin
+- Pete Bonasso
+- Sam Altman
+- William Gibson
+organisations:
+- AI Gamechangers
+- BBC One Breakfast
+- BBC TV
+- Bloomsbury
+- ChatGPT
+- Computeractive
+- Google News
+- KITT
+- Mac
+- MacFormat
+- Metal Mickey
+- NASA
+- PC Pro
+- Pocket Gamer Connects
+- Radio 4
+- Robot Constitution’
+- Skynet
+- TRACLabs
+- TechRadar
+- Three Laws of Robotics
+- iMore
 ---
 
 ![Authors David Bradly and Kelly Vero with their book Myth-Made Machines](https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M.jpg) 

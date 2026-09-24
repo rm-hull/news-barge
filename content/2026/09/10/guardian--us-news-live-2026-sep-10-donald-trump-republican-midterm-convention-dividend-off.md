@@ -14,6 +14,47 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Alaska
+- America
+- Dallas
+- Iran
+- Maine
+- Pennsylvania
+- Texas
+- US
+- Washington
+- White House
+- Wisconsin
+people:
+- Dan Sullivan
+- Dave McCormick
+- Donald Trump
+- Elon Musk
+- JD Vance
+- James Talarico
+- Jimmy Kimmel
+- John Day
+- John Fetterman
+- Ken Paxton
+- Marc Goldwein
+- Marco Rubio
+- Mary Peltola
+- Susan Collins
+organisations:
+- ABC
+- Committee for a Responsible Federal Budget
+- Congress
+- FCC
+- Fox News
+- GOP
+- House
+- RNC
+- Senate
+- Shrai Popat
+- Supreme Court
+- Trump
+- Wall Street Journal
 ---
 
 Vance appears to walk back Trump’s offer of $5,000 ‘dividend’ if Republicans win midterms – US politics live

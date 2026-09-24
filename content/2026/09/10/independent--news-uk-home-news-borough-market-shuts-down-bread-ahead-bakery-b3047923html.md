@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Bangkok
+- Borough Market
+- Dubai
+- New York
+- Saudi Arabia
+- United States
+people:
+- Gods
+- Matthew Jones
+organisations:
+- Borough Market
+- Bread Ahead
+- Instagram
+- Maria’s Market Café
 ---
 
 Bread Ahead’s future at Borough Market is in doubt after the bakery said it has been told it needs to leave the iconic food market for being “too successful”.

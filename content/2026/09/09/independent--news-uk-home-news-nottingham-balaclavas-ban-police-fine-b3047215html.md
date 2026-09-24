@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Nottingham
+people:
+- Chris Pearson
+- Gary Godden
+organisations:
+- Immediate Justice Programme
+- Nottingham City Council
+- Nottinghamshire Police
 ---
 
 Fresh measures aimed at tackling young people using balaclavas to intimidate members of the public in Nottingham city centre will come into force next week.

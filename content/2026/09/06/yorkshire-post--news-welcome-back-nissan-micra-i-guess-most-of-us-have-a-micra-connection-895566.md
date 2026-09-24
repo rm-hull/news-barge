@@ -16,6 +16,17 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Harmon Kardon
+- UK
+people:
+- David Shepherd
+organisations:
+- Citroen
+- Micra
+- Nissan
+- R5
+- Renault
 ---
 
 # Welcome back Nissan Micra: “I guess most of us have a Micra connection”

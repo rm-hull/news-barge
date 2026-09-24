@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- China
+- OpenAI
+people:
+- Claude chatbot
+- Donald Trump
+- Hacktron
+organisations:
+- Anthropic
+- Elon Musk
+- GitHub
+- Google DeepMind
+- Hacktron AI
+- Hugging Face
+- OpenAI
+- Wall Street Journal
 ---
 
 Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company.

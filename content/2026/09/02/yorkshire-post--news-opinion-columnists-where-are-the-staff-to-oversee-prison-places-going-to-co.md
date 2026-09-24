@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- East Riding of Yorkshire
+- James Manning
+people:
+- Keir Starmer
+organisations:
+- Government
+- Labour
+- Prison Officers’ Association
 ---
 
 # Where are the staff to oversee prison places going to come from?

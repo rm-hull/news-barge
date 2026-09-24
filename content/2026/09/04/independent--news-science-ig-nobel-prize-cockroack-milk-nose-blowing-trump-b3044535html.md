@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Africa
+- Antwerp
+- Belgium
+- Boston
+- Donald Trump
+- Europe
+- Switzerland
+- US
+- USA
+- Zurich
+people:
+- Atlant Bieri
+- Catherine F Talbot
+- Franz Bender
+- Marc Abrahams
+- Marcel van der Heijden
+- Milo Puhan
+- Pia Viviani
+- Tokuji Unno
+organisations:
+- Annals of Improbable Research
+- Associated Press
+- Boston University
+- Florida Institute of Technology
+- Harvard University
+- Institute of Stem Cell Biology and Regenerative Medicine in India
+- Massachusetts Institute of Technology
+- Oxford University
+- University of Zurich
 ---
 
 Researchers who studied the milk of cockroaches and the science of blowing one's nose were among the winners of this year's Ig Nobel Prize, the satirical award given for scientific research deemed so unusual as to raise a laugh.

@@ -13,6 +13,24 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Durham Castle
+- Durham Cathedral
+- Shotley Bridge Hospital
+- UK
+people:
+- Karen Allison
+organisations:
+- Durham Cathedral
+- Durham City Strategic Places Plan
+- Durham County Council
+- Durham Destination Management
+- NORTH NEWS
+- UNESCO
+- WHS Strategic Partnership Board
+- World Heritage Site Management Plan
+- World Heritage Site Manager
 ---
 
 *(Image: NORTH NEWS)*

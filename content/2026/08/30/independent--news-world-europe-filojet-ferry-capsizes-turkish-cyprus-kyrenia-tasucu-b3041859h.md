@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cyprus
+- Kyrenia
+- Tasucu
+- Turkey
+people:
+- Efe Multici
+- God
+- Tayyip Erdogan
+- Tufan Erhurman
+organisations:
+- CNN Turk
+- FILOJET
 ---
 
 At least eight people drowned and 17 were missing after a ferry carrying almost 270 passengers and crew capsized off northern Cyprus on Sunday, leaving survivors clinging to its overturned hull.

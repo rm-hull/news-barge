@@ -13,6 +13,36 @@ image: https://cdn.mos.cms.futurecdn.net/raChgVbmQ5trahWJ2suVsW-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Apple Park
+- California
+- Cupertino
+people:
+- John Ternus
+- Lance Ulanoff
+- Siri AI
+- Steve Jobs
+- Steve Jobs'
+- Tim Cook
+organisations:
+- AirPods
+- Apple TV 4K
+- Apple Watch
+- BBC
+- CNBC
+- CNN
+- Good Morning America
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Siri AI
+- Ternus
+- Today Show
+- WWDC
+- Ziff Davis, Inc
 ---
 
 ![John Ternus](https://cdn.mos.cms.futurecdn.net/raChgVbmQ5trahWJ2suVsW.jpg) 

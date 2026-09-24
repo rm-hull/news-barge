@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Dallas
+- Michigan
+- Minnesota
+- New York City
+- Ohio
+- Texas
+- U.S.
+- US
+people:
+- Abdul El-Sayed
+- Amy Acton
+- Charlie Kirk
+- Donald Trump
+- James Talarico
+- Kaitlin Collins
+- Mike Rogers
+- Ted Cruz
+- Zohran Mamdani
+organisations:
+- All
+- CNN
+- Texas Senate
 ---
 
 Abdul El-Sayed, the Democratic nominee for U.S. Senate from Michigan, responded after an audience member at the Republican midterm convention called for him to be “shot.”

@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Congo
+- Kinshasa
+- Lingwala
+- North Kivu
+people:
+- Jacquemin Shabani
+- Norbert Mushinga
+organisations:
+- Congolese Press Agency
+- Ministry of Health
+- US Centers for Disease Control
 ---
 
 At least 22 people have been killed in a fire at a wedding party in Congo's capital, Kinshasa, the regional mayor stated on Saturday.

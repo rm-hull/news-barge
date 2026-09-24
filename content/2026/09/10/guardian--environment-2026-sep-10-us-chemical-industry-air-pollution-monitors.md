@@ -12,6 +12,41 @@ image: https://i.guim.co.uk/img/media/906ae4f75c9a82db2a25fe1cdf7e4d956abc60ad/0
 categories:
 - UK
 - News & Politics
+locations:
+- Baton Rouge
+- Kentucky
+- Louisiana
+- Louisville
+- Middletown
+- New Orleans
+- Ohio
+- Rubbertown
+- US
+- West Virginia
+people:
+- Bill Bissett
+- Donna Ballinger
+- Jeff Fritz
+- Jess Loizeaux
+- Marylee Orr
+- Reonda Victor
+- Tony Long
+- Trump
+organisations:
+- ACC
+- American Chemistry Council
+- American Petroleum Institute
+- Chemistry Association
+- Chemours
+- Dow Chemical
+- EPA
+- Environmental Protection Agency
+- Floodlight
+- LEAN
+- Louisiana Environmental Action Network
+- Ohio Chamber of Commerce
+- West Virginia Manufacturers Association
+- eBay
 ---
 
 As the US’s network for monitoring air pollution deteriorates, a Floodlight investigation has found that the chemical industry is going state-to-state to restrict one of the few options citizens have left for holding polluters accountable: low-cost air sensors.

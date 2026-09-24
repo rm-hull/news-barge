@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Asia
+- Casa de Diego
+- Cuba
+- Latin America
+- Madrid
+- Puerta del Sol
+- Seville
+- Spain
+- Western Europe
+people:
+- Ana Feliu
+- Carmen Torres
+- David González
+- Diego Velázquez
+- Javier Llerandi
+- Juani Duran
+- Laura León
+organisations:
+- AP
+- Llerandi
+- Llerandi's
+- The Associated Press
+- Valencia
 ---
 
 In crowded subway cars and sun-drenched plazas, an old-fashioned accessory in Spain has been everywhere thanks to the blistering summer heat.

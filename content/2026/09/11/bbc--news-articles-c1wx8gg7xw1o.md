@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Broad Peak
+- Islamabad
+- Jebel el Ahmar
+- K2
+- Karakoram
+- Kathmandu
+- Lahore
+- Mingma G
+- Nepal
+- Pakistan
+- Pakistan.
+- Skardu
+people:
+- Everest
+- Gyaljen Sherpa
+- Gyalu Sherpa
+- Kili Pemba Sherpa
+- Kilu Pemba Sherpa
+- Mallory Geis
+- Mingma G
+- Mingma G.
+- Mingma Gyalje Sherpa
+- Nadhira Al Harthy
+- Nawang Thindu Sherpa
+- Nima Sherpa
+- Nims
+- Nimsdai
+- Nirmal Purja
+- Pur Bahadur Gurung
+- Sohail Sakhi
+- Wang Zhong
+- Waqar Ali
+organisations:
+- Alpine Club of Pakistan
+- BBC
+- British Special Forces
+- Broad Peak
+- Garmin
+- K2
+- Kilu
+- Mingma G
+- Netflix
+- New York Times
+- Nims
+- Purja
+- Tribhuvan International Airport
 ---
 
 Watch: Mingma G recalls the climb to bring home the bodies of his friends

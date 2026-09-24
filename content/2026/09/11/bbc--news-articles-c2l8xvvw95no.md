@@ -11,6 +11,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a2e/live/7023c9
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Dallas
+- Ecuador
+- Georgia
+- Iran
+- US
+people:
+- Aiden Buzzetti
+- Donald Trump
+- JD Vance
+- Jeff Ryer
+- Maga
+- Marco Rubio
+- Sandy Money
+- Vikki Consiglio
+organisations:
+- American Airlines Center
+- BBC
+- Congress
+- Consiglio
+- Democratic Party
+- House
+- Senate
+- The Bull Moose Project
+- Virginia Republican Party
 ---
 
 Watch: Has Trump won over voters with his midterm convention?

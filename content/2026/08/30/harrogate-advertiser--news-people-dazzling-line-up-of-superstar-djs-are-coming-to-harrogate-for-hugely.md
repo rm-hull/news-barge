@@ -14,6 +14,29 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- Sheffield
+- UK
+people:
+- Armand Van Helden
+- Bez
+- Claptone
+- Gok Wan
+- Grant Nelson
+- Julie McKnight
+- Love
+- Mouse-T
+- Paul Woolford
+- Roger Sanchez
+- Sam Divine
+- Todd Terry
+organisations:
+- Cash Only
+- Harrogate
+- K‑Klass
+- Live
+- Trimtone
 ---
 
 # 'Dazzling' line-up of superstar DJs are coming to Harrogate for hugely popular Love to be...Festival

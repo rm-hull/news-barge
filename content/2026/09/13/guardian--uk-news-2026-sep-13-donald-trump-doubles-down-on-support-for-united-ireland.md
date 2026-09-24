@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Cardiff
+- Clare
+- Doonbeg
+- Downing Street
+- Irish Sea
+- Northern Ireland
+- Republic of Ireland
+- Scotland
+- UK
+- US
+people:
+- Andy Burnham
+- Angela Rayner
+- Donald Trump
+- Gerry Adams
+- Ian Paisley Jr
+- Micheál Martin
+organisations:
+- Democratic Unionist
+- Fianna Fáil
+- Plaid Cymru
+- Scottish National party
+- Sinn Féin
+- Sky News
 ---
 
 Donald Trump has reiterated his support for Irish unification and brushed off Andy Burnham’s opposition to a referendum. “Everybody says that. Then things happen,” the US president said on Sunday of the British prime minister’s response.

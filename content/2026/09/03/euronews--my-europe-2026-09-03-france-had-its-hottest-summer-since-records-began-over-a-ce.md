@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bordeaux
+- Brittany
+- Corsica
+- Europe
+- Italy
+- Meteo France
+- Spain
+- UK
+people:
+- Monique Barbut
+organisations:
+- Copernicus Climate Change Service
+- European Union
+- Meteo France
 ---
 
 ## According to Meteo France, the summer of 2026 recorded an average temperature of 24 °C covering day and nighttime, 3.6 C above the normal average, and higher than in 2003, when temperatures were 2.7 C above normal.

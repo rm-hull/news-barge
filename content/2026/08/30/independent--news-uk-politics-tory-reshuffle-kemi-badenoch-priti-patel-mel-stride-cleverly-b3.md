@@ -12,6 +12,47 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- London
+- North Sea
+people:
+- Andrew Bowie
+- Andrew Griffith
+- Andy Burnham
+- Brexit
+- Chris Philp
+- Claire Coutinho
+- Dame Priti
+- Dame Priti Patel
+- Harriet Cross
+- Helen Grant
+- Helen Whately
+- Jack Rankin
+- James Cleverly
+- Julia Lopez
+- Katie Lam
+- Keighley
+- Kemi Badenoch
+- Mel Stride
+- Mel [Stride
+- Ms Lam
+- Nigel Farage
+- Peter Byrne
+- Priti Patel
+- Robbie Moore
+- Robert Jenrick
+- Stefan Rousseau
+- Stuart Andrew
+organisations:
+- Department for Science Innovation and Technology
+- Department for the Environment, Farming and Rural Affairs
+- Ilkley
+- Kemi
+- Labour
+- PA
+- Reform UK
+- Tory
+- Treasury
 ---
 
 Kemi Badenoch is expected to carry out a major reshuffle which could see two big political names moved out of the shadow cabinet.

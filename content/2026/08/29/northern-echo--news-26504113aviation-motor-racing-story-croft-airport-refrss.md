@@ -14,6 +14,74 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aske Hall
+- Blackwellgate
+- Britain
+- Chester
+- Croft Airport
+- Croft Autodrome
+- Croft-on-Tees
+- Darlington
+- Easby Abbey
+- Hippodrome
+- Holy Trinity
+- Hurgill Road
+- Italy
+- Kiplin Hall
+- Middleton St George
+- Neasham
+- RAF Middleton St George
+- Richmond
+- St Cuthbert
+- St Mary’s Church
+- Swaledale
+- Teesside
+- Waaf
+- Wiltshire
+- Zetland
+people:
+- Alf Common
+- Baron Gabriel H Calcagni de Tande
+- Bill Shand Kydd
+- Blanche Oliver
+- Chris Lloyd
+- Colin Grant
+- Croft
+- David Stephenson
+- Diana
+- Gabby
+- John Neasham
+- Kaitlyn Beattie
+- Lewis Carroll
+- Lord Lucan
+- Nissen
+- Robert Ropner
+- Robin
+- Stuart Boulton
+- Tim Stephenson
+organisations:
+- Air Ministry
+- Canadian Air Force
+- Chester
+- Cockerton Silver Band
+- Croft Aerodrome
+- Croft Airport
+- Croft Consortium
+- Darlington & District Aero Club
+- Darlington FC
+- Darlington Motor Club
+- Free French Airforce
+- Green Howards Museum
+- Quakers
+- RAF
+- RICHMOND CIVIC SOCIETY
+- Repair Shop
+- Richmondshire Museum
+- Spitfires
+- St Cuthbert
+- The Northern Echo ST CUTHBERT’S CHURCH
+- Voices of St Cuthbert
 ---
 
 ONCE, a former RAF airfield on the outskirts of Darlington was being marketed as a new civilian airport from where you could catch a plane to watch the high flying – and it was not Middleton St George.

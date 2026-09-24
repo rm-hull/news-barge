@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Ackhorne
+- Clifton Ings
+- Goodramgate
+- Grape Lane
+- Homestead Park
+- King’s Staith Landing
+- Lendal Bridge
+- Micklegate
+- Millennium Bridge
+- Museum Gardens
+- River Ouse
+- Rowntree Park
+- St Martin’s Lane
+- The King’s Arms
+- The Knavesmire
+- York Racecourse
+people:
+- Jerry Rebbeck
+- York
+organisations:
+- Wheelwrights York
 ---
 
 *(Image: Supplied)*

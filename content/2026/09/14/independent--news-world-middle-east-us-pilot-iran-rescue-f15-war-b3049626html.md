@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Alpha’
+- Iran
+- Isfahan
+- US
+- United States
+people:
+- Bravo
+- Bravo’
+- Donald Trump
+- God
+organisations:
+- Alpha
+- CBS
+- CIA
+- Iranian TV
+- NBC
+- Trump
 ---
 
 The American air force colonel whose fighter jet was downed over Iran in April has shared how survived for two days behind enemy lines with a broken back, arm and shoulder while waiting for help to arrive.

@@ -12,6 +12,12 @@ categories:
 - Science
 - Health & Fitness
 image: https://media.wired.com/photos/6aae0145c68108fad4b9bc12/191:100/w_1280,c_limit/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg
+locations:
+- California
+- Texas
+people: []
+organisations:
+- Thermacell
 ---
 
 Four years ago, I moved back to Texas from California. After two weeks of living here, I realized we were going to have to do something about the mosquitoes. In the 25 years I’d been gone, they seemed to have grown larger, more intelligent, and much thirstier. My skin had become a bepoxed nightmare within days.

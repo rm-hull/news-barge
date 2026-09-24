@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Covent Garden
+people:
+- Colin Paterson
+- Paul Smith
+organisations:
+- BBC
 ---
 
 # British designer Paul Smith: 'Nobody cares how good you used to be in fashion'

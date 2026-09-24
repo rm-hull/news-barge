@@ -12,6 +12,34 @@ image: https://i.guim.co.uk/img/media/1258098f38efe380ce0f620d13673ee9a81bed26/7
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- China
+- Hormuz
+- Iran
+- Iraq
+- Israel
+- Middle East
+- North Korea
+- Russia
+- Thailand
+- US
+- United States
+- White House
+people:
+- Abraham Lincoln
+- Barack Obama
+- Dan Driscoll
+- Donald Trump
+- JD Vance
+- Leon Panetta
+- Pete Hegseth
+- Sean Parnell
+organisations:
+- CIA
+- Department
+- Guardian
+- Pentagon
 ---
 
 Donald Trump’s war with Iran is likely to drag on for another six months, Leon Panetta, the former US defense secretary, has warned, as the US president struggles to find his way out of the controversial conflict.

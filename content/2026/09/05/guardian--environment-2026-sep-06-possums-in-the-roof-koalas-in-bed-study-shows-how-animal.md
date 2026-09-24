@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Australia
+- Melbourne
+- New South Wales
+- United Kingdom
+- Victoria
+people:
+- Aleisha Hall
+- Bethany Kiss
+- Ericka Tudhope
+- Sarah Bekessy
+organisations:
+- Biodiversity Council
+- Microbats of Melbourne
+- University of Melbourne
+- Wildlife Victoria
+- Wires
 ---
 
 Possums in the roof, bats in the curtains and ducks on the balcony: new research has revealed how native animals are making themselves at home in our houses.

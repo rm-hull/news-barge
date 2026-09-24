@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Blackpool
+- Clifton Drive
+- Clifton Street
+- Durham Cathedral
+- Grade II-listed
+- Japan
+- Lancashire
+- Liverpool John Lennon Airport
+- Lytham Green
+- Lytham Lytham St Annes
+- Lytham St Annes
+- Lytham Windmill
+- Manchester
+- Park Street
+- Ribble
+- St Anne's Hotel
+- St Annes
+- St Annes-on-the-Sea
+- York
+people:
+- Bobby Jones
+- Ernie Els
+- Henry
+- John Carr
+- John Talbot Clifton
+- Seve Ballesteros
+- Shiho Kuwaki
+- Tony Jacklin
+organisations:
+- Anatolia Sea View Mediterranean Cuisine
+- Elvin's
+- Fylde Borough Council
+- Heritage Trust for the North West
+- Jai Lounge
+- Lytham Hall
+- Lytham Heritage Group
+- Lytham St Annes
+- Lytham Town Trust
+- Royal Lytham
+- Solito Posto
+- St Annes Golf Club
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

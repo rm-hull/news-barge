@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/09/17/0/43/GettyImages-2263189527.j
 categories:
 - News & Politics
 - UK
+locations:
+- Bronson Gate —
+- Hollywood
+- L.A.
+- Los Angeles
+- Los Angeles’
+- Melrose Avenue
+- Nashville
+- Southern California
+- Tennessee
+people:
+- David Ellison
+- Karen Bass
+- Larry Ellison
+- Makan Delrahim
+- Rob Bonta
+organisations:
+- City Hall
+- Delrahim
+- Los Angeles County Economic Development Corporation
+- Oracle
+- Paramount Skydance
+- Politico
+- Warner Bros
 ---
 
 Paramount Skydance is scoping out commercial property in Nashville as it weighs moving its operations out of Los Angeles, according to sources with knowledge of the search.

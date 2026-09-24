@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Jackson Hole
+- US
+- White House
+- Wyoming
+people:
+- Christopher Waller
+- Kevin Warsh
+- Trump
+organisations:
+- AAA
+- Fed
+- Reuters
+- US Bureau of Labor Statistics
+- US Federal Reserve
 ---
 
 US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday.

@@ -11,6 +11,14 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Crossfield Crescent
+- Fulford
+- York
+people: []
+organisations:
+- IWCP
+- North Yorkshire Fire and Rescue Service
 ---
 
 ## Fire in quiet York street - emergency crews on scene

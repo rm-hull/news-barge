@@ -11,6 +11,17 @@ description: The DBrand Killswitch is one of the best protective options for you
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/nNm5UkivE9YmfPtCuF6ZV9-2560-80.jpg
+locations:
+- Turtle Beach
+people:
+- Harry Padoan
+organisations:
+- DBrand
+- Joy-Con 2
+- Killswitch
+- Nintendo
+- TechRadar
+- Turtle Beach Rematch Wireless Controller
 ---
 
 ### TechRadar Verdict

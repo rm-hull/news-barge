@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/QPNZv3ijvqe2fa78N5zF2S-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Belkin
+- Harry Padoan
+- James
+organisations:
+- AI
+- Amazon
+- Belkin UltraCharge Pro Slim Magnetic Power Bank
+- BoostSolid Cell
+- Clarity Media
+- Google News
+- IFA
+- Kuxia S3
+- Slim Magnetic Power Bank 5K
+- TechRadar
 ---
 
 ![A Belkin UltraCharge power bank](https://cdn.mos.cms.futurecdn.net/QPNZv3ijvqe2fa78N5zF2S.jpg) 

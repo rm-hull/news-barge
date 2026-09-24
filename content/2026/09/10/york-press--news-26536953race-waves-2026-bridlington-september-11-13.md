@@ -13,6 +13,30 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- Bridlington Lifeboat Station
+- Bridlington Old Town
+- Bridlington South Beach
+- Bridlington Spa
+- Church Green
+- East Yorkshire
+- North Sea
+- Old Boating Lake
+- Royal Hall
+- South Marina Drive
+- UK
+- Yorkshire Bus Bar
+people:
+- Ken Fox
+organisations:
+- 3QN
+- Bridlington Lions
+- Bridlington Spa
+- East Riding of Yorkshire Council
+- SWB Motorsport
+- South Cliff Park & Ride
+- South Marine Drive
+- Strawberry Fields
 ---
 
 ## Classic cars and bikes will race across a Yorkshire beach this weekend - here's why

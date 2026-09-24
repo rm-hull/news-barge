@@ -14,6 +14,18 @@ categories:
 - Science
 - Technology & Software
 - Education & Learning
+locations:
+- Dudley
+- UK
+- West Midlands
+people:
+- Heidi
+- Lucas Seuren
+organisations:
+- AI
+- BBC
+- British Medical Journal
+- University of Edinburgh
 ---
 
 ![Stock photo shows a GP with an NHS lanyard around their neck in a GP surgery setting, putting a finger monitor onto a patient during a consultation.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg)

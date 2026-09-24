@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Armley
+- Bradford
+- Leeds
+- South Square
+- South Square Centre
+- Thornton
+- West Yorkshire
+people:
+- Alice Withers
+- Jenny Bratt
+- Joan Day
+organisations:
+- Leeds
 ---
 
 A FIRST solo exhibition will go on display this September thanks to a bursary honouring a respected West Yorkshire artist.

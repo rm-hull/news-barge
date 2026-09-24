@@ -14,6 +14,18 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Landing Lane
+- Landmark
+- Moor Lane
+- RSPCA’s York
+- Unfair'- York
+people:
+- Albie
+- Marie Sandall
+- Mollie Masters
+organisations:
+- RSPCA
 ---
 
 *(Image: RSPCA)*

@@ -18,6 +18,25 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- England
+- Islington
+- Lambeth
+- London
+- Southwark
+- Yorkshire
+people:
+- Jayne Dowle
+- Lord Bradley
+organisations:
+- Department for Education
+- EPI
+- Education Policy Institute
+- House of Lords
+- Public Services Committee
+- RCPCH
+- Royal College of Paediatrics and Child Health
+- State for Education
 ---
 
 # Short-sighted school closures at odds with Government’s housebuilding ambitions - Jayne Dowle

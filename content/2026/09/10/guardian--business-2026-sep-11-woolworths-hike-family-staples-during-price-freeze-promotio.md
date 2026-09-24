@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Iran
+people:
+- Amanda Bardwell
+- Bea Sherwood
+- Choice
+- Jana Bowden
+organisations:
+- ACCC
+- Australian Competition and Consumer Commission
+- CW Scanner
+- Coles
+- Guardian Australia
+- Macquarie University
+- Woolworths
 ---
 
 Woolworths raised prices for popular items – including a 33% mark up on chicken fillets – within days of promising to freeze prices on 300 “family staples” for three months to help customers with the cost of living.

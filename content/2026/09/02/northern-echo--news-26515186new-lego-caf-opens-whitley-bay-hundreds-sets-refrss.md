@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- North East
+- North Tyneside
+- Whitley Bay
+- Whitley Road
+people: []
+organisations:
+- Bricks & Brews Café
+- Centerpoint
+- Greggs
+- LEGO
+- The Co-operative Bank
 ---
 
 *(Image: Bricks & Brews Cafe)*

@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/23/9/11/1000013025.jpeg?trim=66,0,67,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Horninglow Road
+- Longley
+- Sheffield
+- South Yorkshire
+- Swanbourne Road
+people:
+- Finn Smith
+- Martin Simcock
+organisations:
+- South Yorkshire Police
 ---
 
 # Gunshots fired at two homes within minutes as police hunt suspects

@@ -11,6 +11,28 @@ categories:
 - York
 - Music
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-minster-organ-screenshot.webp
+locations:
+- York Minster
+people:
+- Alexandre Desplat
+- Andrew Forbes
+- Cecilia McDowall
+- Gounod
+- Harry’s Wondrous World
+- Hedwig
+- Hogwarts’ Hymn
+- Holst
+- J S Bach
+- John Williams
+- Louis Vierne
+- Michael Jackson
+- Nicholas Hooper
+- Patrick Doyle
+- Stravinsky
+- York Minster
+organisations:
+- Ministry of Magic
+- York Minster
 ---
 
 York Minster to host a spellbinding organ concert – featuring music from the *Harry Potter* film franchise.

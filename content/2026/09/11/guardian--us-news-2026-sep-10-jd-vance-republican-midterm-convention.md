@@ -12,6 +12,28 @@ image: https://i.guim.co.uk/img/media/746f626fc4ba04f20e7c658e959c13238251c8ad/2
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas
+- Iran
+- Mexico
+- New York
+- South America
+- Texas
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+- Donald Trump Jr
+- JD Vance
+- John F Kennedy
+- Maga
+- Marco Rubio
+- Robert F Kennedy Jr
+- Rubio “Little Marco
+- Ted Cruz
+organisations:
+- Maga
+- Wall Street Journal
 ---
 
 JD Vance made a clear pitch that he should be the heir to Donald Trump on Thursday night, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success, criticism of Democrats as “lunatics” and an aggressive dismissal of a protester waving a Mexican flag.

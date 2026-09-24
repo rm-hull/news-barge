@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- China
+- Chitwan
+- Narayani River
+- Nepal
+people: []
+organisations:
+- AP
 ---
 
 She knows her 21-year-old son is dead, but she didn't get a chance to see him before his body was committed to its cremation shroud.

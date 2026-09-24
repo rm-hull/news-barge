@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Michigan
+- New Jersey
+- White House
+people:
+- Anne Tavalire
+- Betsy Southerland
+- Biden
+- Cynthia Finley
+- David Andrews
+- Kelly Ryerson
+- Robert Wood
+- Stuart Shapiro
+- Trump
+organisations:
+- AP
+- Associated Press
+- EPA
+- Edward J. Bloustein School of Planning and Public Policy
+- Environmental Working Group
+- Glyphosate Girl
+- National Association of Clean Water Agencies
+- OMB
+- Office of Management and Budget
+- Office of Water
+- PFAS
+- Robert F. Kennedy Jr.
+- Rutgers University-New Brunswick
+- Trump
+- Walton Family Foundation
 ---
 
 The Trump administration has stalled a study that would help regulators understand which industries dump harmful forever chemicals with their wastewater, according to two former agency officials who were involved in its development.

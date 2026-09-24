@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Alaska
+- Himalayas
+- Maithili Barrack
+- Nepal
+- Nuwakot
+- Tibet
+- Trishuli
+people:
+- Stuart Dunning
+organisations:
+- Applied Geomorphology
+- Nepal Army
+- Newcastle University
+- The Conversation
 ---
 
 *A collapsing glacier in Tibet led to a devastating wall of water and debris roaring through a valley in**Nepal**, leaving hundreds dead and many hundreds still missing.*

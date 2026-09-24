@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Americas
+- France
+- Portugal
+- US
+- United Kingdom
+- United States
+people:
+- Pela Boker-Wilson
+organisations:
+- AFP
+- CERD
+- UN Committee on the Elimination of Racial Discrimination
+- UN General Assembly
+- United Nations
 ---
 
 ## The document, which was approved last week but only published on Monday, is expected to provide a powerful new tool supporting reparations claims.

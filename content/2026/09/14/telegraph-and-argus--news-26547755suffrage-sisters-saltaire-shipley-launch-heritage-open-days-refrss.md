@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Belfast
+- Kirkgate Community Centre
+- Leeds
+- Preston
+- Saltaire
+- Shipley
+people:
+- Jennie Kiff
+- Jessie Millar Wilson
+- Marion Best
+- Shipley
+- Suffrage
+organisations:
+- CIC
+- HerVote100
+- Other Suffrage Sisters
+- Our Grantham
+- Saltaire
+- Shipley
+- Suffrage Sisters
 ---
 
 A NEW project shining a light on ‘forgotten suffragettes’ will be launched this weekend.

@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Born
+- Florida
+- Lake Worth
+- New York
+people:
+- Abbie Hoffman
+- Abbott
+- Barney Rosset
+- Blake Morgan
+- Child
+- Costello
+- Dan Ehrenreich
+- Dave Dellinger
+- Eve Ensler
+- Gloria Steinem
+- Hugh Hefner
+- Jane Fonda
+- Julie Burton
+- J’Accuse Ted Hughes
+- Kenneth Pitchford
+- Robin Morgan
+- Sal Mineo
+- Simone de Beauvoir
+- Sylvia Plath
+- Ted Hughes
+organisations:
+- FBI
+- Fugs
+- Grove Press
+- Ms
+- Parkinson’s
+- Sisterhood Is Global Institute
+- Women’s Media Center
 ---
 
 Robin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, essayist, editor and second-wave feminist, has died. She was 85.

@@ -11,6 +11,28 @@ image: https://images.euronews.com/articles/stories/09/91/19/97/1200x675_cmsv2_7
 categories:
 - Europe
 - News & Politics
+locations:
+- Duisburg
+- Northern Ireland
+- Ottawa
+- UK
+- US
+- Ukraine
+- United Kingdom
+- United States of America
+- White House
+people:
+- Camilla
+- Charles III
+- Donald Trump
+- Efrem Lukatsky
+- Mark Carney
+organisations:
+- European Union
+- Irish Whiskey Association
+- Privy Council
+- Scotch Whisky Association
+- Trump
 ---
 
 ## US President Donald Trump announced on Sunday at the close of a golf tournament in Ireland that he plans to remove a 15% tariff on Irish whiskey.

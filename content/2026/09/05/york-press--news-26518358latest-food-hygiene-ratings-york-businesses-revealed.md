@@ -13,6 +13,36 @@ categories:
 - York
 - Food & Cooking
 - Health & Fitness
+locations:
+- Bishopthorpe Road
+- Deangate
+- Grand Hotel
+- Heath Ride
+- Heslington
+- James Street
+- Main Street
+- Minster Yard
+- Newgate
+- Station Rise
+- Station Road
+- Strensall
+- The Grand York
+- The Raylor Centre
+- Treasurers House
+- York Railway Station
+people:
+- Charles XII
+organisations:
+- Bistro Guy
+- Coffee Roastery
+- Cookery School
+- FSA
+- Food Standards Agency
+- Rebel Tea
+- Shambles Market Food Court
+- Smokehouse Burritos
+- Treasurers House Cafe
+- York Minster Refectory
 ---
 
 *(Image: FSA)*

@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Biggleswade
+- Hendon
+people:
+- Sam Dreyer
+organisations:
+- Bedford
+- Football Association
+- Gulls
+- Hampton
+- Harrogate Town
+- Peterborough United
+- Richmond Borough
+- Scunthorpe
+- Stevenage
+- Torquay United
 ---
 
 ![](https://mmo.aiircdn.com/409/6a982f3c0acc576ff5d.jpg) 

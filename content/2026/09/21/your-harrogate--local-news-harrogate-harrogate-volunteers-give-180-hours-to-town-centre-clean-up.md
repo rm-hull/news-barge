@@ -12,6 +12,10 @@ categories:
 - Harrogate
 - Careers & Productivity
 image: https://mmo.aiircdn.com/409/6ab142c2c3a1fff661c.jpg
+locations: []
+people: []
+organisations:
+- Harrogate BID
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab142c2c3a1fff661c.jpg)

@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Austria
+- Britain
+- China
+- France
+- Germany
+- Iran
+- Israel
+- Russia
+- Tehran
+- U.S.
+- Vienna
+- Washington
+people:
+- Amir Vahdat
+- Christian Ebner
+- Esmail Baghaei
+- Mikhail Ulyanov
+- Mohammad Eslami
+- Preston Wells Griffith
+- Reza Najafi
+organisations:
+- AP
+- Associated Press
+- Atomic Energy Organization
+- Eslami
+- Foreign Ministry
+- IAEA
+- International Atomic Energy Agency
+- Security Council
+- The Associated Press
+- U.N
+- U.N.
+- UN
+- United Nations
 ---
 
 Iran on Monday condemned the exclusion of the head of its Atomic Energy Organization from the annual gathering of the United Nations nuclear agency in Vienna saying that it constitutes “a serious breach” of Tehran's rights as a member nation.

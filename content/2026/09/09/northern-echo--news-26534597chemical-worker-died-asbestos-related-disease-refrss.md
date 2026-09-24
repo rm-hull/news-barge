@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Billingham
+- County Durham
+people:
+- Alex *(Image
+- Alex Key-Griffith
+- Barry Key
+- Dominic Riley
+- Irwin Mitchell
+- Jacqueline Key-Griffith
+- Shirely
+- Shirley
+organisations:
+- High Court
+- ICI
+- Imperial Chemical Industries Limited
+- Middlesbrough
 ---
 
 *(Image: CONTRIBUTOR)*

@@ -12,6 +12,13 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Duckworth Lane
+- Jewellers
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

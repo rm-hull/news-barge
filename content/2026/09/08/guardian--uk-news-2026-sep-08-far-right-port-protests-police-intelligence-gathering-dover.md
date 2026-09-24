@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bembridge
+- Cherbourg
+- Dover
+- Eastney
+- Hampshire
+- Kent
+- Normandy
+- Portsmouth
+- Southampton
+- Utah
+- Whitehall
+- Yarmouth
+people:
+- Andy Burnham
+- Daniel Thomas
+- Peter Sparkes
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- ABP
+- Associated British Ports
+- Border Force
+- Guardian
+- King’s Harbour Master Portsmouth
+- National Police Coordination Centre
+- Patriot Platform
+- Police Federation
+- RNLI
+- Southampton Port
+- Southampton Vessel Traffic Service
+- VHF
 ---
 
 Police have been told by the government they expect better intelligence gathering after masked far-right groups took to the streets at the weekend, the Guardian has learned, as the Kent force admitted mishandling warnings of potential trouble.

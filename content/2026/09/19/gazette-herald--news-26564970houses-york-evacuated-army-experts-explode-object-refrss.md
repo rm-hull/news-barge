@@ -13,6 +13,11 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21476535.jpg?type=og-image
+locations:
+- Hob Moor
+- York
+people: []
+organisations: []
 ---
 
 * Houses in part of York evacuated

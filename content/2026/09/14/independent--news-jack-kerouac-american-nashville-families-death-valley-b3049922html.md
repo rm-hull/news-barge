@@ -13,6 +13,42 @@ categories:
 - UK
 - Travel
 - Automotive
+locations:
+- Arizona
+- California
+- Canada
+- Chicago
+- Death Valley
+- Florida
+- Grand Canyon
+- Highway 1
+- Highway 89
+- Lincoln Highway
+- Los Angeles
+- Main Street of America
+- Midwest
+- Nevada
+- Old West
+- South
+- St. Petersburg
+- United States
+- Washington
+- Washington, D.C.
+- Wigwam Village
+- Yellowstone
+people:
+- Allen Pietrobon
+- Black
+- Bobby Troupe
+- Jack Kerouac
+- Jim Crow
+- Nat King Cole
+- Richard Ratay
+- Susan Rugh
+organisations:
+- Golden Age of American Family Vacations
+- Senate Committee of Commerce
+- Trinity University
 ---
 
 There's something about the American road trip.

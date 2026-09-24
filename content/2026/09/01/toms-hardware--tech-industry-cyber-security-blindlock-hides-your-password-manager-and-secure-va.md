@@ -13,6 +13,29 @@ image: https://cdn.mos.cms.futurecdn.net/uQMYLjh67msn8Uha5tACb-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- BlindLock
+- LastPass
+- PNG
+people:
+- BlindLock
+- Dashlane
+- David Domingo
+- Mark Tyson
+- Proton Pass
+- Tom
+organisations:
+- 1Password
+- BlindLock
+- Get Tom's Hardware
+- Google News
+- Google Titan
+- LastPass
+- NIST
+- Secure Enclave
+- Tom's Hardware
+- VeraCrypt
+- YubiKey
 ---
 
 ![BlindLock](https://cdn.mos.cms.futurecdn.net/uQMYLjh67msn8Uha5tACb.jpg) 

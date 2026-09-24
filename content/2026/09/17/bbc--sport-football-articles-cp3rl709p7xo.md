@@ -12,6 +12,100 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Birmingham
+- Brazil
+- Brighton
+- Britain
+- Crystal Palace
+- East Jerusalem
+- England
+- Europe
+- Gaza
+- Glasgow
+- Hampden Park
+- Israel
+- Italy
+- Middle East
+- Middle Eastern
+- Nova
+- Palestine
+- Republic of Ireland
+- Scotland
+- United States
+- Uruguay
+- Uzbekistan
+- Wales
+people:
+- Afik Tery
+- Ahmed
+- Allah
+- Anan Khalaili
+- Ataa Jaber
+- Benjamin Netanyahu
+- Beram Kayal
+- Bibars Natcho
+- Boni Ginzburg
+- Covid
+- Dor Turgeman
+- Eyal Berkovic
+- Hamza Shibli
+- Harib al-Saadi
+- Hersh Goldberg-Polin
+- Idan Toklomati
+- Ido Rakovsky
+- Ilay Feingold
+- Instagram
+- Matan Segal
+- Narmin
+- Ofir Haim
+- Omer Einav
+- Oscar Gloukh
+- Ran Ben-Shimon
+- Rifaat Turk
+- Roy Revivo
+- Saba
+- Salman
+- Sophia Solomon
+- Stav Lemkin
+- Tomer Hemed
+- Yossi Benayoun
+organisations:
+- '![Oman'
+- Ajax
+- Amedspor
+- Beitar Jerusalem
+- Ben-Gurion University
+- Brighton
+- Center for Sports Diplomacy
+- Charlton
+- Crystal Palace
+- Dia Saba
+- Dublin
+- Elche
+- Football Association
+- Glasgow
+- Haaretz
+- Hamas
+- Hapoel Jerusalem
+- IDF
+- IFA
+- Inter Milan
+- Israel
+- Israeli Defence Force
+- Maccabi Haifa
+- Maccabi Tel Aviv
+- Nottingham Forest
+- Ofir Haim
+- Rangers
+- Red Bull Salzburg
+- Twente
+- U19s
+- U20s Football
+- Union Saint-Gilloise
+- United Nations
+- Villa Park
 ---
 
 **It was, says Ido Rakovsky, like reporting on "science fiction", rather than sport.**

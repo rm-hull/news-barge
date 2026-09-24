@@ -12,6 +12,32 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- Vocalis
+- Wesley Centre
+people:
+- Anton Bruckner
+- Brahms Geistliches
+- Clara Schumann
+- James Savage-Hanford
+- Johannes Brahms
+- Joseph Haydn
+- Ludwig van Beethoven
+- Missa Sancti Nicolai
+- Tim Harper
+- VI
+- Vocalis
+organisations:
+- Bruckner Christus Factus Est
+- Clara Schumann Abendfeier
+- Dales Ensemble
+- Gondoliera To
+- Harrogate Chamber Singers
+- Harrogate College
+- Locus Iste
+- Os Justi
+- SATB
 ---
 
 # 'Joyous' new concert coming up from Harrogate's experienced Vocalis singers

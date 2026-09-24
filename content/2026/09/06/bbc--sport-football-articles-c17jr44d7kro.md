@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- England
+- Hill Dickinson
+- Sabah FK
+people:
+- '## Rooney'
+- Ainsley Maitland-Niles
+- Benjamin Sesko
+- Joshua Zirkzee
+- Kobbie Mainoo
+- Luke Shaw
+- Marcus Rashford
+- Michael Carrick
+- Rayan Ait-Nouri
+- Sabah
+- Senne Lammens
+- Tyrique George
+- Wayne Rooney
+organisations:
+- BBC Sport
+- Everton
+- Manchester City
+- Manchester United
+- Unitedto
 ---
 
 ![Manchester United have picked up four points from the first three Premier League games](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7e4d/live/ebe07000-aa0c-11f1-aed2-8d6da8d75094.jpg)

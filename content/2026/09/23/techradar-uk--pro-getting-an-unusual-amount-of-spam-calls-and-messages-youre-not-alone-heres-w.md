@@ -12,6 +12,17 @@ categories:
 - Self-Improvement
 - Relationships & Dating
 image: https://cdn.mos.cms.futurecdn.net/RvMugdp92V42urozAU4JYo-2000-80.jpg
+locations:
+- UK
+people:
+- Benedict Collins
+- Phil
+organisations:
+- APT
+- BUCSIS
+- Google News
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A hand holding a phone showing a call from an unknown number](https://cdn.mos.cms.futurecdn.net/RvMugdp92V42urozAU4JYo.jpg)

@@ -12,6 +12,14 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/kewvuHNGVjkSMysXr4KEZ-2000-80.jpg
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Discover Weekly
+- Google News
+- Spotify
+- TechRadar
 ---
 
 ![A smartphone showing a Spotify Prompted Playlist next to press material from Spotify Wrapped 2025](https://cdn.mos.cms.futurecdn.net/kewvuHNGVjkSMysXr4KEZ.jpg)

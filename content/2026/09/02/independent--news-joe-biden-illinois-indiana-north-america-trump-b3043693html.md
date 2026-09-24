@@ -11,6 +11,27 @@ image: https://static.independent.co.uk/2026/09/02/18/Shawnee_National_Forest_Lo
 categories:
 - News & Politics
 - UK
+locations:
+- East St. Louis
+- Illinois’ Shawnee National Forest
+- Indiana
+- Midwestern
+- North America
+- Ohio River
+- Pope County
+- U.S.
+people:
+- Joe Biden
+- Nancy Rosenstengel
+organisations:
+- Capitol News Illinois
+- Court
+- Fish and Wildlife Service
+- Forest Service
+- The Associated Press
+- Trump
+- U.S. Fish and Wildlife Service
+- U.S. Forest Service
 ---
 
 A federal judge this week ordered the U.S. Forest Service to suspend a commercial logging project in southern Illinois’ Shawnee National Forest, finding the 2024 approval of the project under President Joe Biden violated the Endangered Species Act.

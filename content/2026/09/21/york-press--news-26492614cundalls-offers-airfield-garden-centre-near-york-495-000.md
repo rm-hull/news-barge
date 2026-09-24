@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21367435.jpg?type=og-image
+locations:
+- '## Garden'
+- Cundalls Malton
+- Fangfoss
+- Full Sutton
+- Gowthorpe Lane
+- Holland
+- The Airfield Garden Centre
+- York
+people:
+- Cundalls
+organisations:
+- Airfield Nurseries
+- Cundalls
+- Fangfoss
 ---
 
 ## Garden centre near York for sale at nearly £500,000

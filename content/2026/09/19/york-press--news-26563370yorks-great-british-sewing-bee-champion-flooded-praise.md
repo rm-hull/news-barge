@@ -12,6 +12,26 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21277416.jpg?type=og-image
+locations:
+- Europe
+- St Leonard’s Hospice
+- York
+people:
+- '## Anna'
+- Beth
+- Claire Marvell
+- Hilary Thomspon
+- Joanne Lamb
+- Neil Sherwood
+- Patrick Grant
+- Peter Clarke
+- Sebastian
+- York Anna
+organisations:
+- BBC
+- Love Productions
+- Sewing Bee
+- TLC
 ---
 
 ## Anna reveals life after Sewing Bee win as support pours in from York

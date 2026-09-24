@@ -13,6 +13,12 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- North Shields
+- Waterville Road
+people: []
+organisations:
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

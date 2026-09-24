@@ -14,6 +14,13 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Heslington
+- York
+people: []
+organisations:
+- NPAS
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

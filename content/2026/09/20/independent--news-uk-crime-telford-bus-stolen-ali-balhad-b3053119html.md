@@ -11,6 +11,14 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/19/15/50/parkway-telford.png?trim=0,161,0,160&width=1200&height=800&crop=1200:800
+locations:
+- Court Street
+- Madeley
+- Telford Magistrates’ Court
+- West Mercia Police
+people:
+- Ali Balhad
+organisations: []
 ---
 
 A man has been charged after a bus driver was allegedly attacked and thrown off a bus that ploughed into several vehicles.

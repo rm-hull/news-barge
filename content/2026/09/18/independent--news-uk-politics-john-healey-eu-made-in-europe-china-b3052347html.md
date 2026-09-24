@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Brussels
+- China
+- Dublin
+- Europe
+- UK
+- UK-EU
+people:
+- Andy Burnham
+- Emmanuel Macron
+- John Healey
+- Keir Starmer
+- Sergii Marchenko
+organisations:
+- EU
+- European Parliament
+- Labour
+- Treasury
 ---
 
 Chancellor John Healey will urge EU finance ministers not to exclude the UK from measures protecting European industry against unfair competition when he meets counterparts in Dublin on Friday.

@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations: []
+people:
+- Ava Daniels
+- Cloris Leachman
+- Connor
+- Deborah Vance
+- Elle Fanning
+- Forrest
+- Frasier
+- Hacks
+- Hannah Einbinder
+- Jean Smart
+- Jen Statsky
+- Jimmy Kimmel Live
+- Julia Louis-Dreyfus
+- Lisa Kudrow
+- Louis-Dreyfus’
+- Lucia Aniello
+- May. Smart
+- Paul W. Downs
+- Phoebe Waller-Bridge
+- Quinta Brunson
+- Samantha Who
+- Veep
+organisations:
+- Abbott Elementary
+- CBS
+- HBO
+- Las Vegas
+- Universal
 ---
 
 Five seasons of “Hacks.” Five Emmy Awards for Jean Smart.

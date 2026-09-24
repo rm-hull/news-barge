@@ -13,6 +13,33 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Albion St
+- Barnsley
+- Billy Liar
+- Bradford
+- Leeds
+- Pit
+- Shipley
+- The Triangle
+people:
+- Harry
+- John Davison
+- Lewis Pugh
+- Lowry
+- Marge van Rennes
+- Quentin Blake
+- Yaya
+organisations:
+- 1in12 Club
+- Blue Orchid Reaction
+- Bradford’s 1in12 Club
+- Character Actors
+- RE
+- RNLI
+- Rabies Babies
+- The Beano
+- The Dandy
 ---
 
 A DIFFERENT kind of exhibition is opening at Bradford’s 1in12 Club this September, featuring 25 cartoons drawn live at gigs.

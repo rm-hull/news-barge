@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH-1920-80.png
+locations: []
+people:
+- David Wang
+organisations:
+- '## Huawei'
+- Atlas
+- Board
+- Efosa
+- Google News
+- HUAWEI
+- Hi-ONE
+- Nvidia
+- SuperPoD
+- TechRadar Pro
+- UnifiedBus
 ---
 
 ![David Wang, Deputy Chairman of the Board and Rotating Chairman at Huawei, delivering a keynote speech at HUAWEI CONNECT 2026](https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH.png)

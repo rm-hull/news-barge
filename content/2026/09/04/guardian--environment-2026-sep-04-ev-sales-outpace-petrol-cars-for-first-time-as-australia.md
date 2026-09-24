@@ -15,6 +15,29 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Automotive
+locations:
+- Australia
+- Iran
+people:
+- Chris Bowen
+- Elon Musk
+- Julie Delvecchio
+- Scott Morrison
+- Tony Weber
+organisations:
+- Australians’
+- BYD
+- Cheery
+- Chinese EV
+- EVs
+- Electric Vehicle Council
+- Federal Chamber of Automotive Industries
+- GWM
+- Geely
+- MG
+- OECD
+- Tesla
+- Toyota
 ---
 
 Electric vehicle sales in Australia exceeded petrol cars for the first time last month as a transformation driven by high fuel prices and government policy encouraging clean car uptake accelerated.

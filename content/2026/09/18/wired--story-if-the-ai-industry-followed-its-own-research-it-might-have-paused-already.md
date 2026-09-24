@@ -11,6 +11,32 @@ image: https://media.wired.com/photos/6aac458c4b08c0385f0a12d8/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- China
+- OpenAI
+- United States
+people:
+- Claude
+- Dario Amodei
+- Demis Hassabis
+- Doomer Chic
+- Greg Brockman
+- Hugging Face
+- Iago
+- Jacob Coxon
+- Mark Zuckerberg
+- Meta
+- Nathan Soares
+- OpenAI
+- Steven Levy’sBackchannel
+organisations:
+- AGI
+- AI
+- Amodei
+- Anthropic
+- ICE
+- Machine Intelligence Research Institute
+- OpenAI
 ---
 
 In early 2025 I was interviewing Anthropic CEO Dario Amodei when he explained why, despite the company’s repeated acknowledgments that AI could yield catastrophic results, people seemed largely unperturbed. “There is compelling evidence that the models can wreak havoc,” he said. But, he added, those dangers were still theoretical. Would it take a Pearl Harbor–like situation for the world to wake up to those dire possibilities? He sighed. “Basically, yeah,” he said.

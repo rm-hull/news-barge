@@ -13,6 +13,30 @@ categories:
 - York
 - Self-Improvement
 image: https://www.gazetteherald.co.uk/resources/images/21485780.jpg?type=og-image
+locations:
+- Amelia’s
+- Bristol Children’s Hospital
+- Chippenham
+- Great Ormond Street Hospital
+- Guilford Street House
+- Home’
+- London
+- UK
+people:
+- Amelia Bolter
+- Blossom
+- Ellis
+- Jodie Bolter
+- Rich
+organisations:
+- '** York'
+- Berlin Heart
+- Bolter Family
+- GOSH
+- Guilford Street House
+- Leeds Rhinos
+- NHS Organ Donor Register
+- The Sick Children’s Trust
 ---
 
 A five-year-old girl is thriving at school after receiving a life-saving heart transplant.

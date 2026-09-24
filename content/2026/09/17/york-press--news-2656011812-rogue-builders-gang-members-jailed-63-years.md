@@ -14,6 +14,46 @@ categories:
 - York
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Allen Court
+- Bickerton
+- Birch Close
+- County Durham
+- Darnton Drive
+- Gainford
+- Gateshead
+- Guisborough
+- Hebron Road
+- Leeds
+- Middlesbrough
+- New Marske
+- North East
+- North Lincolnshire
+- Northumberland
+- Seacroft
+- Sheffield
+- South Parkway
+- Stokesley
+- Tadcaster
+- Teesside
+- Wetherby
+- York Road
+- Yorkshire
+people:
+- Ben Ware
+- Chelsea Bayliss
+- Frederick Finney
+- James Hope
+- Joanne Kidd
+- Nicole O'Brien
+- Ryan Watson
+- Serena Robertson
+- Shane Farrow
+- Thomas Winter
+organisations:
+- '## Rogue'
+- National Trading Standards
+- The Press
 ---
 
 ## Rogue builders gang had 43 victims including grieving widow cheated out of £133,400

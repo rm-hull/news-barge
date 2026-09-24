@@ -14,6 +14,20 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Coronation Street
+- Emmerdale
+- Leeds
+- Yorkshire
+people:
+- Gaynor Faye
+- Jackie Mathers
+- Judy Mallett
+- Megan Macey
+organisations:
+- CU Scarborough
+- Fat Friends
+- Yorkshire
 ---
 
 Yorkshire television star Gaynor Faye is to receive an honorary degree for her contribution to the screen and her championing of the county.

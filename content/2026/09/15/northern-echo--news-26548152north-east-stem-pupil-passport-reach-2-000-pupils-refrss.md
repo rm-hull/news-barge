@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- Darlington
+- North East
+people:
+- Amy Smith
+- Dawn Gaskins
+- Jamie Ollivere
+- Janine Marshall
+- Tania Cooper MBE
+organisations:
+- NESF
+- North East STEM Foundation
+- Pupil Passport
+- RTC North
+- STEM Hub
+- Tania Cooper MBE
+- university County Durham
 ---
 
 A new initiative designed to inspire more young people to pursue careers in science, technology, engineering and maths is being rolled out across the North East after a successful pilot programme.

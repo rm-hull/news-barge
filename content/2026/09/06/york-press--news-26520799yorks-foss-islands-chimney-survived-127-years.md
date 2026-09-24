@@ -13,6 +13,51 @@ categories:
 - Local
 - York
 - History
+locations:
+- Allerton Park
+- Allerton Waste Recovery Park
+- Blooming York
+- Constitution Place
+- Foss Island
+- Foss Islands
+- Foss Islands Road
+- Harewood Whin
+- Harrogate
+- How York
+- Morrison
+- Morrisons chimney
+- Navigation Road
+- Rufforth
+- Stockton Lane
+- The Foss Islands
+- Walmgate
+- Why York
+people:
+- Anthony Chappel-Ross She
+- DAVID WILSON
+- David Wilson
+- Fred Dibnah
+- John Ormerod
+- Lawrence ‘Lol’ Ryan
+- Morrison
+- Sheila Dickson
+organisations:
+- A1(M)
+- City Engineer
+- City Engineers
+- City Fathers
+- Explore York Libraries
+- Grade II
+- Morrisons
+- NRM
+- Parker & Sharp
+- The Destructor
+- The Press
+- The York Destructor
+- York City Council
+- York Corporation
+- York Destructor
+- Yorwaste
 ---
 
 ## 127 years and still standing: the remarkable story of York's 'Morrisons chimney'

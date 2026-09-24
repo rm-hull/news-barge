@@ -13,6 +13,26 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people:
+- Anton Shilov
+- David Zinsner
+- Lip-Bu
+- Tom
+organisations:
+- 14A
+- 2026 Technology Conference
+- CFO
+- Deustche Bank
+- Deutsche Bank
+- FinFET
+- GAA
+- Get Tom's Hardware
+- Google News
+- HVM
+- Intel
+- RibbonFET
+- Tom’s Hardware
 ---
 
 ![Intel silicon spin qubit progress](https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC.jpg) 

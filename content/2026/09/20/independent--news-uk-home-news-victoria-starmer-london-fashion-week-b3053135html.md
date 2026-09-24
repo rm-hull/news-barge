@@ -12,6 +12,21 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/20/14/2b68c1851e26fa4bb12aa7de87bfaeb8Y29udGVudHNlYXJjaGFwaSwxNzg5OTk4NDQ3-2.85915710.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chalk Farm
+- Italy
+- London
+- Princess of Wales
+people:
+- Ballerinas
+- Edeline Lee
+- Lady Starmer
+- Lady Victoria Starmer
+- Phoebe Waller-Bridge
+- Taylor Swift
+organisations:
+- Edeline Lee
+- Princess of Wales
 ---
 
 Lady Victoria Starmer has made a London Fashion Week appearance for Edeline Lee, the designer whose clothes have also been frequently worn by the Princess of Wales.

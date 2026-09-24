@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- Wales
+people:
+- Allen Simpson
+- Andy Burnham
+- Keir Starmer
+- Stephanie Peacock
+organisations:
+- Government
+- UKHospitality
 ---
 
 Pubs and retail outlets will be permitted to accept digital ID as valid proof of age when purchasing alcohol under new laws.

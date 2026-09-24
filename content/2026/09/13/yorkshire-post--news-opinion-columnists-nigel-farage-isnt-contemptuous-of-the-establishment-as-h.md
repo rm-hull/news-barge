@@ -16,6 +16,29 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- East Yorkshire
+- Portsmouth
+- US
+- Wetherspoons
+people:
+- Andy Burnham
+- Ann Widdecombe
+- Christopher Harborne
+- David Behrens
+- George Cottrell
+- Luke Campbell
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+- Susie Dent
+organisations:
+- Channel 4
+- Duke of Kent
+- Establishment
+- Labour
+- Reform UK National Conference
+- Tory
 ---
 
 # Nigel Farage isn’t contemptuous of the Establishment as he claims, he’s beholden to it - David Behrens

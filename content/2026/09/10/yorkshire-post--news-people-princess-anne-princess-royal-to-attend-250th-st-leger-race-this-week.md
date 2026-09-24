@@ -14,6 +14,19 @@ categories:
 - York
 - Travel
 - History
+locations:
+- Doncaster Racecourse
+- South Yorkshire
+people:
+- Habibur Rahman
+- Princess Anne
+- Rachel Harwood
+- Royal
+organisations:
+- Betfred St Leger
+- Doncaster Racecourse
+- St Leger
+- The Princess Royal
 ---
 
 # Princess Anne: Princess Royal to attend 250th St Leger race this weekend

@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ce7/live/7a9399c0-b756-11f1-8e7f-6f99c81f3136.jpg
+locations:
+- BBC York
+- Fera
+- Linton-on-Ouse RAF
+- North Yorkshire
+- Sheriff Hutton
+- York Central
+- York Station
+people:
+- David Skaith
+- David Skaith **York
+- Jo Coles
+- Shabana Mahmood
+organisations:
+- BBC Radio York
+- BBC York
+- City of York Council
+- Fera
+- Food and Environment Research Agency
+- Home Office
+- Labour
+- Skaith
+- University of York
+- York Minster
+- York St John University
 ---
 
 ![A man, wearing a light blue denim shirt, sitting in a chair. He has grey hair, is smiling at the camera and is wearing dark trousers. He is sitting in front of a large screen showing an image of York Minster and the BBC Radio York logo.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2ce7/live/7a9399c0-b756-11f1-8e7f-6f99c81f3136.jpg)

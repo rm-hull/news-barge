@@ -14,6 +14,24 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brook Street
+- Huddersfield
+- Market Yard
+- Northumberland Street
+people:
+- David Shepherd
+organisations:
+- Dewsbury Riverside
+- George Hotel
+- Grade II-listed Open Market
+- Huddersfield Market
+- Kirklees Council
+- Levelling Up Fund
+- Our Cultural Heart
+- Reform
+- Tesco
+- TransPennine Rail Upgrade
 ---
 
 # Huddersfield open market revamp set to go millions of pounds over budget

@@ -11,6 +11,43 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21483207.jpg?type=og-image
+locations:
+- Bahrain
+- China
+- Drogheda
+- Dublin
+- Ireland
+- North Yorkshire
+- Saudia Arabia
+- UAE
+- United Kingdom
+- United States
+- West
+- York
+people:
+- James Mason
+organisations:
+- )* West & North Yorkshire Chamber
+- Anytime Couriers
+- Arup
+- Azets
+- Boost
+- Cello
+- Chamber of Commerce
+- Cloudwyse
+- Deanhouse Group
+- Drogheda Chamber of Commerce
+- Flutter
+- Grand Hotel
+- HC Slingsby
+- Love in Care
+- Madison May
+- Pic
+- Privilege
+- Ronis
+- SCC
+- West & North Yorkshire Chamber of Commerce
+- West Yorkshire Combined Authority
 ---
 
 *(Image: Pic supplied)*

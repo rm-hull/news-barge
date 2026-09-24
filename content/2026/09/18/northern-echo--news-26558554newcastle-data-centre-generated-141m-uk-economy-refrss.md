@@ -16,6 +16,29 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Helix
+- Newcastle
+- North East
+- UK
+people:
+- Chris Day
+- Paul Watson
+organisations:
+- AI
+- Darlington STEM
+- NHS England
+- NICD
+- National Innovation Centre for Data
+- Newcastle Building Society
+- Newcastle University
+- Ortus Economic Research
+- Procter & Gamble
+- Sage
+- The Catalyst
+- UK Government
+- UK Research and Innovation
+- UKRI
 ---
 
 *(Image: Supplied)*

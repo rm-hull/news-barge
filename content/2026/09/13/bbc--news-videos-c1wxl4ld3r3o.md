@@ -12,6 +12,10 @@ categories:
 - UK
 - News & Politics
 - History
+locations: []
+people:
+- Henry Wood
+organisations: []
 ---
 
 # Watch: Fantasia on British Sea-Songs at the Last Night of the Proms

@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Anty Johns
+- Coast-to-Coast Walk
+- Crackpot Hall
+- Keld
+- Muker
+- North Yorkshire
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Whitsundale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Clive Owen
+- Ravenseat
+organisations:
+- Farm Next Door
+- More4
+- Yorkshire Dales
+- Yorkshire Farm
 ---
 
 Ravenseat Farm, made famous by television, stands in one of North Yorkshire’s most remote valleys.

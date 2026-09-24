@@ -10,6 +10,27 @@ description: AI is here to stay, but not just for its own sake.
 image: https://cdn.mos.cms.futurecdn.net/pDDw4MSDkMd2qEMb6TTPWm-800-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- Philips Hue Bridge
+people:
+- AI
+- George Yianni
+- Hue
+- Liane
+organisations:
+- AI
+- Google News
+- IFA
+- PC Format
+- PC Plus
+- Philips Hue
+- SCA
+- SIgnify
+- SpatialAware
+- Speciality Coffee Association
+- TechRadar
+- Yianni
 ---
 
 ![Philips Hue Liane 360-degree smart rope light hanging in kitchen](https://cdn.mos.cms.futurecdn.net/pDDw4MSDkMd2qEMb6TTPWm.jpg) 

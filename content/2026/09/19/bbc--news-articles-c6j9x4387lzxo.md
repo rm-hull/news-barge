@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86e4/live/a768b9c0-b414-11f1-8366-ad72a16d0f7c.jpg
+locations:
+- Caribbean
+- Cuba
+- Havana
+- Havana.
+- US
+- Venezuela
+- Washington
+people:
+- Donald Trump
+- Felix Estrada
+- Francisco Rodriguez
+- Frank Lorenzo
+- Lidia Fernandez
+- Nicolás Maduro
+organisations:
+- AFP
+- Reuters
+- UNE
 ---
 
 ![People play dominoes in  dark outdoor space  during a blackout in Havana.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e3cd/live/430798c0-b40a-11f1-bc1f-3f186ca4140c.jpg)

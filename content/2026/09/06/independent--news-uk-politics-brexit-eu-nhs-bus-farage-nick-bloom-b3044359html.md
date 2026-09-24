@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- Europe
+- UK
+people:
+- Andy Burnham
+- Anthony Seldon
+- Brexit
+- David Maddox
+- Emma Knaggs
+- Helen Morgan
+- Millie Cooke
+- Naomi Smith
+- Nick Bloom
+- Nigel Farage
+- Prof Bloom
+- Stephen Dorrell
+organisations:
+- Best for Britain
+- Brexit
+- Cabinet Office and Reform
+- EU
+- European Movement UK
+- European Union
+- NHS
+- Stanford University
+- The Independent
 ---
 
 The billions the UK has lost to Brexit could wipe out NHS waiting lists and create a world-class service if recouped, a leading economist has warned.

@@ -14,6 +14,16 @@ categories:
 - Harrogate
 - True Crime
 - News & Politics
+locations:
+- Lupton Bank
+- Pateley Bridge
+people:
+- Bailey Chadwick
+organisations:
+- CCTV
+- CPS
+- Crown Prosecution Service
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/687e7a24bf2db.png) 

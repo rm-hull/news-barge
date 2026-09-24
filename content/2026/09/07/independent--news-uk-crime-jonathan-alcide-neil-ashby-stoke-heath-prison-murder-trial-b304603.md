@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- HMP Stoke Heath
+- Jacob King
+- PA
+- Shropshire
+- Stafford Crown Court
+people:
+- God
+- Jonathan Alcide
+- Ms Howes
+- Neil Ashby
+- Sally Howes KC
+organisations:
+- Crown
+- Stoke Heath
 ---
 
 A man accused of murdering his cellmate allegedly had paranoid thoughts and told the victim, “I’m worried I’m going to strangle you”, before killing him, a court has heard.

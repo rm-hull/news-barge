@@ -13,6 +13,23 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/CTeVBLdrXXcN4X34P49sCg-1200-80.jpg
+locations:
+- Amazon
+- M8
+- OCuLink
+- UK
+people:
+- Bryan M Wolfe
+- Bryan M. Wolfe
+- Isabelle
+organisations:
+- GMKtec
+- GPU
+- HD
+- M8
+- Microsoft Office
+- TechRadar Pro
+- iMore
 ---
 
 ![NucBox M8](https://cdn.mos.cms.futurecdn.net/CTeVBLdrXXcN4X34P49sCg.jpg)

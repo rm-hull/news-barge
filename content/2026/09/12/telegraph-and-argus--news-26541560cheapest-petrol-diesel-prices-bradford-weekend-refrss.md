@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BP Great Horton Road
+- Bradford
+- Great Horton Service Station
+people: []
+organisations:
+- Asda Pudsey
+- Asda West Bradford Automat
+- Essar Leeds
+- Tesco Bradford Buttershaw
+- Tesco Bradford Extra
+- Tesco Cleckheaton Automat
+- Wharrels Service Station
 ---
 
 *(Image: Archive)*

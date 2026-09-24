@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- York Community Stadium
+people:
+- Andy Knowles
+- Jill Hutchinson
+organisations:
+- The Hope Emporium
+- York Against Cancer
+- York Hospital
 ---
 
 *(Image: York Against Cancer)*

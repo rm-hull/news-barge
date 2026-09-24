@@ -13,6 +13,24 @@ categories:
 - UK
 - Arts & Culture
 - Music
+locations:
+- Broadway
+people:
+- Aladdin
+- Aladdin’
+- Chad Beguelin
+- Cinderella
+- James Monroe Iglehart
+- Joy Behar
+- Kimberly Akimbo
+- Kristin Chenoweth
+- Robin Williams
+- Sherri Shepherd
+- Stephanie Mills
+- Steven Boyer
+- Wayne Brady
+organisations:
+- The Associated Press
 ---
 
 Her wish is being granted: Sherri Shepherd plans to join the hit musical “Aladdin” as the Genie.

@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Film & TV
 - True Crime
+locations:
+- Burnopfield
+- County Durham
+- Cutthroat Island
+- Lintz Hall Farm
+- North East
+- Psycho City
+people:
+- ANDY FUTERS
+- Christiano Crawford
+organisations:
+- Bite Club VIP
+- Dolls House
+- Psycho Path
+- The Darkness
 ---
 
 Get ready for spine-tingling scares and “more terror than ever before” - a County Durham horror maze is set to open in just weeks.

@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Hunmanby Grange
+- Wolds
+people:
+- Rachel Mckenna
+- Sam Smith
+organisations:
+- The Midnight Special
+- Wold Top Brewery
 ---
 
 *(Image: Big Sky Beer Festival)*

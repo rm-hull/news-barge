@@ -12,6 +12,34 @@ image: https://static.independent.co.uk/2026/09/02/01/Navy_Secretary_4_65.jpg?wi
 categories:
 - News & Politics
 - UK
+locations:
+- Abraham Lincoln
+- Afghanistan
+- Arizona
+- Connecticut
+- Florida
+- Iran
+- Iraq
+- U.S.
+people:
+- Dan Driscoll
+- Donald Trump
+- Hung Cao
+- John Phelan
+- Lincoln
+- Pete Hegseth
+- Richard Blumenthal
+- Ruben Gallego
+organisations:
+- ASAP
+- Army
+- Blue Angels
+- Congress
+- Marine Corps
+- Navy
+- Pentagon
+- SEAL
+- Senate
 ---
 
 President Donald Trump said Tuesday that he is nominating acting Navy Secretary Hung Cao for the permanent job, giving the Navy combat veteran the nod as concerns have emerged that some sailors have been stretched to the limit during the Iran war.

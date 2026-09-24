@@ -12,6 +12,16 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bradford
+- Bradford.
+- Duckworth Lane
+- Yorkshire
+people: []
+organisations:
+- Bradford CID
+- Crimestoppers
+- West Yorkshire Police
 ---
 
 # Customer injured during ram raid on jewellers in Yorkshire

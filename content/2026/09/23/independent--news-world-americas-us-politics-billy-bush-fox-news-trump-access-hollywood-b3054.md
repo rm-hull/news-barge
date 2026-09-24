@@ -13,6 +13,23 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/06/18/20/52/MixCollage-18-Jun-2026-04-26-PM-4837.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Manhattan
+- New York
+people:
+- Billy Bush
+- Donald Trump
+- George H.W
+- George W. Bush
+- Jean Carroll
+organisations:
+- FOX News Media
+- Fox News
+- Fox News Media
+- NBC
+- The New York Times
+- The Washington Post
 ---
 
 Former *Today Show* host Billy Bush has been hired as a contributor at Fox News, returning to cable television a decade after his career collapsed over a leaked 2005 tape during which Donald Trump bantered with him about sexual assault.

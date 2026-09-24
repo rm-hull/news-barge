@@ -12,6 +12,22 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/13/01M320BW23NGQMSE8H18Y7KZS2.jpg?trim=315,0,315,0&width=1200&height=800&crop=1200:800
+locations:
+- Ashville Terrace
+- Denton
+- Manchester Crown Court
+- Moston
+- Oakville Terrace
+- Tameside
+people:
+- Michael McDermott
+- Rachel Smith
+- Robert Lloyd
+organisations:
+- Crimestoppers
+- GMP
+- Greater Manchester Police
+- Lloyd’s
 ---
 
 A man has been jailed for life after he walked into a police station and confessed his involvement in a murder over 30 years ago.

@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Music
 image: https://mmo.aiircdn.com/409/6aaa6faf160ed5b4aac.jpg
+locations:
+- Harrogate
+- One Arch
+- The Place
+people:
+- Sam Ashbyblew
+organisations:
+- BID’s Street Rangers
+- Harrogate BID
+- Royal Pump Room
+- Street Rangers
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa6faf160ed5b4aac.jpg)

@@ -12,6 +12,26 @@ image: https://static.independent.co.uk/2026/09/10/1/12/Screenshot-2026-09-09-at
 categories:
 - News & Politics
 - UK
+locations:
+- Texas
+- White House
+people:
+- Anna Paulina Luna
+- HUD Scott Turner
+- John Fetterman
+- Johnny Maga
+- Rachel Bitecofer
+- Scott Turner
+- Tim Scott
+organisations:
+- '![Housing and Urban Development'
+- HUD
+- Housing and Urban Development
+- NFL
+- Pro-Trump X
+- Republican Party
+- The Independent
+- White House Opportunity and Revitalization Council
 ---
 
 Housing and Urban Development Secretary Scott Turner appeared to swat at Representative Anna Paulina Luna’s rear end on Wednesday as they crossed paths at the Republican Party’s midterm convention in Texas.

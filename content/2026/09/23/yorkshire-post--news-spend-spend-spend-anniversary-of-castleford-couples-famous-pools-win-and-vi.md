@@ -14,6 +14,23 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk2NDU4NDI1LTkyODctNGM0Mi1iMDJmLTNhMzFkMTJhYzgwNzo3NWJhOTJhOS1jY2Q4LTQ2YTctYTJlMS0zNjQ4MDM3YjQ3MzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Leeds
+- London
+- Malta
+- Pinderfields Hospital
+- Wakefield
+people:
+- Bruce Forsyth
+- Jessica Thomas
+- Keith
+- Viv Nicholson
+organisations:
+- A1
+- Castleford
+- The Pools
+- The Smiths
+- West Yorkshire Playhouse
 ---
 
 # 'Spend, spend, spend': Anniversary of Castleford couple's famous Pools win and Viv Nicholson vow

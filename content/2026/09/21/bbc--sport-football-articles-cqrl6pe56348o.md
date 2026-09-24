@@ -14,6 +14,54 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c06d/live/1be46bb0-b5c7-11f1-abb5-85e9be42cb76.jpg
+locations:
+- England
+- St James' Park
+- UK
+- United Stand
+people:
+- '## Neville'
+- Alan Hansen
+- Cunha
+- Edinson Cavani
+- Enzo Maresca
+- Gary Lineker
+- Gary Neville
+- Gary Nevilles
+- Lisandro Martinez
+- Man Utd
+- Mark Goldbridge
+- Mark Lawrenson
+- Michael Carrick
+- Neville Ful
+- Phil Thompson
+- Ralf Rangnick
+- Richard Gillis
+- Ruben Amorim
+organisations:
+- BBC Sport
+- Brighton
+- Buzz16
+- Daily Express
+- Daily Star
+- Daily Telegraph
+- Fulham
+- Global
+- Goalhanger
+- Goldbridge
+- Liverpool
+- Man Utd
+- Manchester City
+- Manchester United
+- Newcastle
+- Premier League
+- Red Devils
+- Sky Sports
+- Sky Sports'
+- The Overlap
+- United Stand
+- Unofficial Partner
+- YouTube
 ---
 
 ![Gary Neville smiling and holding a Sky Sports microphone](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c06d/live/1be46bb0-b5c7-11f1-abb5-85e9be42cb76.jpg)

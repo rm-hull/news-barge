@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/09/02/18/Mississippi_Child_Shot_6_7
 categories:
 - News & Politics
 - UK
+locations:
+- Black
+- Mississippi
+- Senatobia
+people:
+- Alderman Demetrius Garrett
+- Ben Crump
+- Black
+- Harold Vanderford
+- Kohen Wiley
+- Vellesiya Wiley
+organisations:
+- Associated Press
+- Board
+- Mississippi Bureau of Investigations
+- Mississippi Today
+- Senatobia Police
+- Senatobia Police Department
+- The New York Times
+- Verite News
+- Walmart
 ---
 
 The police chief of a Mississippi city where one-year-old Kohen Wiley was shot and killed by police responding to a shoplifting call in June was fired Tuesday.

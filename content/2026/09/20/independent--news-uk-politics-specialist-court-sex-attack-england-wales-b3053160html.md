@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2024/08/14/18/efce8d5825576a4de87db0a1bc989142Y29udGVudHNlYXJjaGFwaSwxNzIzNzM5OTAw-2.26124347.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Rape Crisis England
+- Wales
+people:
+- Alex Norris
+- Andy Burnham
+- Charlotte Nichols’
+- Ciara Bergman
+- Nichols
+- Nick Timothy
+organisations:
+- Commons
+- Crown Court
+- Labour
+- Ministry of Justice
+- Rape Crisis England
+- Real
+- Wales
 ---
 
 Specialist courtrooms to deal with rape and serious sexual offences are set to be rolled out in a bid to tackle “shamefully low” prosecution rates, Andy Burnham has announced.

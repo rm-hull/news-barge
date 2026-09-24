@@ -11,6 +11,17 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- AI
+people:
+- AI
+- Paul Erdős
+- René Descartes
+- Thomas Hobbes
+organisations:
+- AI
+- AIs
+- OpenAI
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg?w=840)

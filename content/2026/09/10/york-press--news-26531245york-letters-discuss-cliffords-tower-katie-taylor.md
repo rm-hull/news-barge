@@ -13,6 +13,29 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Britain
+- Charlton Street YorkWhat
+- Croke Park
+- Russia
+- The Clifford's Tower
+people:
+- Burnham
+- Healey
+- Isaac Savage
+- John Jones
+- Katie Taylor
+- Matthew Laverack
+- Muhammad Ali
+- Nigel Cummings
+- Peter Rickaby Moat
+- Walk York
+organisations:
+- Brayton North YorkshireRecommended
+- City of York Council
+- Labour Party
+- Reform UK
+- TJ Ryder Acomb York
 ---
 
 *(Image: Photo: Isaac Savage/ Press Camera Club)*

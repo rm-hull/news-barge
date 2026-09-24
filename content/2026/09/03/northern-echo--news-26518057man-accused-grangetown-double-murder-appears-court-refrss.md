@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- County Durham
+- Grangetown
+- James Cook University Hospital
+- Middlesbrough
+- North East
+- Royal Victoria Infirmary
+- THE NORTHERN ECHO
+people:
+- Jaden Wright
+- Jonathan Carroll
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+organisations:
+- High Court
+- North News & Pictures Ltd
+- Teesside Crown Court
 ---
 
 A man has appeared in court charged with the double murder of a seven-year-old girl and her aunt following a tragic house fire.

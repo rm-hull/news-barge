@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Ossett
+- TikTok
+- West Yorkshire
+people:
+- Antonia Dexter
+- Dexters
+- Nicola Dexter
+organisations:
+- BBC
+- Dexters
+- Facebook
+- Instagram
+- Pinkies
+- TikTok
+- Wakefield
+- West Yorkshire Police
 ---
 
 A mother and daughter’s clothing business in West Yorkshire was used in fake TikTok adverts for a weight-loss product.

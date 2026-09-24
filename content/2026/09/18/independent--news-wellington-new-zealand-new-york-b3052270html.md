@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Ambae
+- New York
+- Santo
+- Vanuatu
+people:
+- Jotham Napat
+- Lloyd M. Fikiasi
+organisations:
+- AP
+- Daily Post
+- MV Matui
+- The Associated Press
+- Tui Shipping
+- U.N
+- Vanuatu’s Maritime Safety Authority
 ---
 
 A search has ended for those missing after a passenger ferry sank in rough seas off the coast of Vanuatu, with 39 people believed dead, an official told The Associated Press on Friday.

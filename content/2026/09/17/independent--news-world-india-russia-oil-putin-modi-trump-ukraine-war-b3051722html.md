@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Azerbaijan
+- Belgium
+- China
+- France
+- Hungary
+- India
+- Iran
+- Japan
+- Moscow
+- New Delhi
+- Russia
+- Slovakia
+- Texas
+- US
+- Ukraine
+people:
+- Donald Trump
+- Lindsey Graham
+- Michael McCaul
+- Putin
+- Richard Blumenthal
+- Vladimir
+organisations:
+- House
 ---
 
 The US house of representatives on Wednesday passed a major sanctions and tariff bill to intensify economic pressure on Russia over its invasion of Ukraine, allowing the Donald Trump administration to impose strict tariffs of up to 100 per cent on nations like India.

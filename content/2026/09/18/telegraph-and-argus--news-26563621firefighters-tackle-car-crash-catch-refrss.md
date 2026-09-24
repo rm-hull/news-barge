@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations: []
+people: []
+organisations:
+- RTC
+- Spen Valley Blue Watch
+- WYFRS
+- West Yorkshire Fire and Rescue
 ---
 
 *(Image: WYFRS)*

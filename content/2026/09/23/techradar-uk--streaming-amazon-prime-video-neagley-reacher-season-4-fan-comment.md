@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/Ea8PehLNGREwqa8g9CsXke-1920-80.jpg
+locations:
+- Chicago
+- Virgin River
+people:
+- Alan Ritchson
+- George Cooper Sr.
+- Jack Reacher
+- Maria Sten
+- Neagley
+organisations:
+- Amazon TV
+- Google News
+- Hallmark
+- Jasmine
+- Neagley
+- Netflix
+- Radio Times
+- Reddit
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Neagley and Reacher walk and talk at a funeral](https://cdn.mos.cms.futurecdn.net/Ea8PehLNGREwqa8g9CsXke.jpg)

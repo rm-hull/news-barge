@@ -11,6 +11,33 @@ image: https://static.independent.co.uk/2026/09/02/13/2e732fe31bbe90f0344cfa242d
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Downing Street
+- Moscow
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Mark Francois
+- Sergei Lavrov
+- Tan Singh Dhesi
+- Vladimir Putin
+organisations:
+- Commons Defence Select Committee
+- Defence Investment Plan
+- Dip
+- Kyiv
+- Labour
+- Nato
+- The Times
+- Tory
+- Treasury
 ---
 
 Andy Burnham has been warned that cash, “not vibes”, is needed to stop Vladimir Putin amid the growing threat of Russian aggression towards the UK.

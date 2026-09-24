@@ -13,6 +13,36 @@ categories:
 - Sports
 - True Crime
 image: https://static.independent.co.uk/2026/09/19/17/2026-09-19T143829Z_377548441_RC2EMNA4QCST_RTRMADP_3_SOCCER-ENGLAND-MIL-WHU.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- London Bridge
+- Millwall
+- South Bermondsey
+- Thames
+- The Den
+- West Ham
+people:
+- Alex Neil
+- Caleb Taylor
+- Camiel Neghli
+- Chris J. Ratcliffe
+- Filip Marschall
+- Konstantinos Mavropanos
+- Mohamadou Kante
+- Nuno Espirito Santo
+- Paul Tierney
+- Taty Castellanos
+organisations:
+- Dockers Derby
+- Hammers
+- Lions
+- Met Police
+- Millwall FC
+- Premier League
+- REUTERS
+- West Ham
+- West Ham FC
+- West Ham United
 ---
 
 A total of six arrests were made after 400 police officers were sent to patrol a heated London derby between Millwall and West Ham on Saturday.

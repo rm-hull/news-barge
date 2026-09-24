@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Asia Pacific
+- China
+- England
+- Hong Kong
+- Italy
+- London
+- UK
+- US
+- Wales
+people:
+- Andrew Butler KC
+- Justice O'Farrell
+- Ku Lap-chi
+- Martino Casolari
+- Robert Ebert
+- Tim Otty KC
+organisations:
+- Deutsche Bank
+- Ebert’s Vehicle
+- Ferrari
+- High Court
 ---
 
 A top banker accusing Ferrari of a "cover up" over claims the brakes failed on his supercar leading to a fatal accident has lost his bid to sue for millions in the UK.

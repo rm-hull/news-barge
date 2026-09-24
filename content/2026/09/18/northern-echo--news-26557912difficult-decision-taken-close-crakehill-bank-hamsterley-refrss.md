@@ -13,6 +13,20 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Crakehill Bank
+- Hamsterley
+- YOUR
+people:
+- Joe Quinn
+- Tim McGuinness
+organisations:
+- Crakehill Bank
+- DURHAM COUNTY COUNCIL
+- Durham County Council
+- Ferryhill Durham County Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

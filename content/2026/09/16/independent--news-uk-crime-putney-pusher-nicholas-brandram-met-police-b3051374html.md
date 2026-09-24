@@ -13,6 +13,30 @@ categories:
 - UK
 - History
 - Personal Finance & Investing
+locations:
+- Afghanistan
+- Bosnia
+- Chiswick
+- Citywealth
+- Denmark
+- Greece
+- Iraq
+- London
+- London’s Hyde Park Corner
+- Putney Bridge
+- Victoria
+people:
+- Frederick Forsyth
+- Katherine Brandram
+- Nicholas Brandram
+- Putney
+organisations:
+- British Army
+- CCTV
+- HSBC Private Bank
+- Killik & Co
+- Metropolitan Police
+- SAS
 ---
 
 A descendant of Queen Victoria who was the main suspect in the notorious “Putney pusher” case has been found dead.

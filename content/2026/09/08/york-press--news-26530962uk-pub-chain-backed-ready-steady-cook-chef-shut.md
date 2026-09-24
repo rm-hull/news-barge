@@ -13,6 +13,28 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Ireland
+- Ouse Bridge
+- UK
+- York
+people:
+- Ainsley Harriott
+- Brian Turner
+- Deborah Cutler
+- Fern Britton
+- Whitbread
+organisations:
+- 89 Brewers Fayre
+- BBC 2
+- Beefeater
+- Beefeaters
+- Brewers Fayre
+- Marketing Week
+- Premier Inn
+- Whitbread
+- Wikimedia Commons
+- Wikimedia UK
 ---
 
 *(Image: Wikimedia Commons)*

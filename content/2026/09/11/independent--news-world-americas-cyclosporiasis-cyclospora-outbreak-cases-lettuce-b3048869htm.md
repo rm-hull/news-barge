@@ -13,6 +13,24 @@ image: https://static.independent.co.uk/2026/09/11/19/2290352203..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Mexico
+- Michigan
+- Taylor Farms
+- U.S.
+people:
+- Ellen Shumaker
+- Taylor Farms
+organisations:
+- CDC
+- FDA
+- KFC
+- North Carolina State University
+- Pizza Hut
+- Safe Plates
+- Taco Bell
+- U.S. Food and Drug Administration
+- Yum Brands
 ---
 
 Federal health authorities have declared the largest cyclospora food poisoning outbreak in U.S. history over as questions remain about how the parasite that causes it ended up in our food supply.

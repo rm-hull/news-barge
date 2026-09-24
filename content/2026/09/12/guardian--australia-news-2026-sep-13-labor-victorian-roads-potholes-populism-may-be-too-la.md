@@ -12,6 +12,37 @@ image: https://i.guim.co.uk/img/media/8978421b1eaff2d663964e9938059de9690802fa/1
 categories:
 - UK
 - News & Politics
+locations:
+- Calder Freeway
+- Gisborne
+- Melbourne
+- Nepean
+- New York
+- Victoria
+people:
+- Andrew Hall
+- Anthony Marsh
+- Ben Carroll
+- Daniel Andrews
+- Jess Wilson
+- Lissie Ratcliffe
+- Mandani
+- Toby Ralph
+- Zohran Mamdani
+organisations:
+- ABC
+- Coalition
+- Department of Transport
+- Fix Victoria
+- Herald Sun
+- Instagram
+- Insurance Council of Australia
+- Labor
+- MCG
+- NFL
+- National party
+- TAC
+- Transport Accident Commission
 ---
 
 At a press conference to celebrate the sold-out NFL match played at Melbourne’s MCG on Friday, the Victorian premier, Ben Carroll, was heckled on one issue.

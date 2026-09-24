@@ -13,6 +13,26 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- Campanas de Cima
+- Cape Town
+- Cape Verde
+- Cape Verdean
+- Fogo
+- Leeu-Gamka
+- Prince Albert
+- Sao Lourenco
+- Sao Lourenco Church
+- South Africa
+- Western Cape
+- Western Cape Province
+people:
+- José Maria Pereira Neves
+organisations:
+- N1
+- Road Traffic Management Corporation
+- SUV
+- Western Cape Mobility department
 ---
 
 At least 21 people have been killed and several others severely injured following a head-on collision between two minibus taxis and a third vehicle on a major highway in South Africa, authorities said on Monday.

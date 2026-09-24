@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/15/14/1200x675_cmsv2_79c62870-570b-5efa-a050-14aef47790c4-9921514.jpg
+locations:
+- Guildhall Yard
+- Highgate
+- London
+- Queens
+people:
+- Conor Cranston-Scott
+organisations:
+- Pearly Kings
 ---
 
 London’s Pearly Kings and Queens gathered at Guildhall Yard for their annual Harvest Festival, celebrating a street tradition that dates back around 150 years.

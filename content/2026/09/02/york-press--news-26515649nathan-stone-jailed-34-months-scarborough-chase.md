@@ -14,6 +14,19 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Barrowcliff Road
+- King Street
+- North Yorkshire
+- Scarborough
+- York
+people:
+- Alfie Thomlinson
+- Nathan Stone
+organisations:
+- North Yorkshire Police
+- Scarborough CID
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

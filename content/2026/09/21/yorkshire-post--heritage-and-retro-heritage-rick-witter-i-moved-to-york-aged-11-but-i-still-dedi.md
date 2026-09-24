@@ -16,6 +16,41 @@ categories:
 - Arts & Culture
 - Music
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkyZWRmYmU1LThkN2YtNDYxZi04NjExLTk0NTg1ZDk4ZWM3MTo0ZTk0OTQ2Zi1lYWQ2LTQ1NTQtYWY2ZC01OGEzNTE2NTAyMTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- ?** York
+- Acomb
+- Around York
+- Bempton Cliffs
+- Filey
+- Fossgate
+- Halifax
+- Hunmanby Gap
+- Malham
+- Rowntree Park
+- Scarborough
+- The Minster
+- UK
+- York City
+- York Minster
+- Yorkshire
+people:
+- Alan Bennett
+- Andrew Milligan
+- Janet’s Foss
+- Jarvis Cocker
+- Judi Dench
+- Paul Hunter
+- Rick Witter
+- Rowntree
+- Terry
+organisations:
+- Arsenal
+- Leeds O2 Academy
+- Open-Air Theatre
+- Pulp
+- Shed Seven
+- The Piece Hall
+- Yorkshire
 ---
 
 # Rick Witter: 'I moved to York aged 11 - but I still dedicate two days a year to being a tourist in the city'

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Easington Lane
+- Grangetown
+- Hendon
+- High Street
+- Sunderland
+- Villette Road
+people:
+- Man
+organisations:
+- CCTV
+- Northumbria Police
 ---
 
 Police are appealing for help to identify two men they want to speak to as part of an investigation into two reported robberies in the Sunderland area.

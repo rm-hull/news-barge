@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+locations:
+- Bradford Crown Court
+- Burley-in-Wharfedale
+- Bury
+- Derry Hill
+- Mason
+- Menston
+people:
+- Annabel Ramsay
+- Ian Henderson KC
+- John Robinson
+- Mason Jones
+- Miss Ramsay
+- Will Clarke
+organisations:
+- Asda
 ---
 
 A man accused of fatally stabbing a stranger during a commotion outside his girlfriend’s flat has said what happened was an accident.

@@ -11,6 +11,22 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Arkengarthdale
+- Bainbridge
+- Swaledale
+- Yorkshire Dales
+people:
+- Guy Martin
+- Richard Graham
+- Robert Stones
+- Yvonne Peacock
+organisations:
+- Local Democracy Reporting Service
+- Richmond Motor Club
+- Upper Dales
+- YDNPA
+- Yorkshire Dales National Park Authority
 ---
 
 ![Guy Martin rides a red motorbike up a hill on an off-road track. He is dressed in black and is wearing a helmet. Spectators stood behind tape watch on from the surrounding hills.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e9b6/live/9b5a5440-a6d1-11f1-b0c9-07afcdd8053c.jpg)

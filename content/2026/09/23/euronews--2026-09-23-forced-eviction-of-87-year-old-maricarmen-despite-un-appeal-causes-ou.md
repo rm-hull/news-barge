@@ -14,6 +14,45 @@ categories:
 - History
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/49/09/1200x675_cmsv2_40ac2e97-a60f-5304-9b4f-dc00e1190b72-9924909.jpg
+locations:
+- Alcalde Sainz de Baranda Street
+- Barcelona
+- City Hall
+- Cádiz
+- Guadalajara
+- Huelva
+- Madrid
+- Málaga
+- Palma
+- Retiro
+- Sainz de Baranda Street
+- Seville
+- Spain
+- Toledo
+- Valencia
+- Valladolid
+- Ávila
+people:
+- '## María del Carmen Abascal'
+- Beatriz Duro
+- Isabel Díaz Ayuso
+- José Luis Martínez-Almeida
+- Maricarmen
+- María del Carmen Abascal
+- Patxi López
+- Samur Social
+organisations:
+- Congress
+- Madrid City Council
+- Madrid Tenants' Union
+- Maricarmen
+- Maricarmen”
+- Planifica Madrid
+- Socialist
+- Supreme Court
+- Tenants' Union
+- UN Committee on Economic, Social and Cultural Rights
+- Urbagestión Desarrollo e Inversión S.L.
 ---
 
 ## María del Carmen Abascal had lived in her flat on Sainz de Baranda Street since 1956. Madrid’s Tenants' Union and the UN had opposed the decision to evict her.

@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Harrogate
+- North Yorkshire
+- Princes Square
+- Pudsey
+people:
+- Andrew James Nichols
+- Redman Nichols Butler
+organisations:
+- Getty
+- HMRC
+- Horsebox Window Centre Limited
 ---
 
 *(Image: Getty)*

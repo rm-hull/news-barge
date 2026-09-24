@@ -14,6 +14,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Folkston ICE Processing Center
+- Georgia
+- Seoul
+- South Korea
+- U.S.
+- United States
+people: []
+organisations:
+- CNN
+- Customs and Border Protection
+- Department of Homeland Security
+- Department of Homeland Security, Immigration and Customs Enforcement
+- Departments of Justice
+- FBI
+- Hyundai
+- ICE Homeland Security Investigations
+- LG Energy Solution
+- Labor
+- Reuters
 ---
 
 More than 300 South Korean nationals detained during a massive immigration operation at a Georgia electric-vehicle facility last September are mounting a legal challenge against the U.S. government, according to a report by CNN on Tuesday.

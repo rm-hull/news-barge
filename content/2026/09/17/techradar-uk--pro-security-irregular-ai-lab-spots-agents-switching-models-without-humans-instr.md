@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/oeAAsbMLPU9fc3DUmjUcDo-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Benedict Collins
+organisations:
+- AI
+- APT
+- Alibaba
+- BUCSIS
+- Google News
+- Irregular
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Visualization of neural network structure of algorithms layered to replicate human brain.](https://cdn.mos.cms.futurecdn.net/oeAAsbMLPU9fc3DUmjUcDo.jpg) 

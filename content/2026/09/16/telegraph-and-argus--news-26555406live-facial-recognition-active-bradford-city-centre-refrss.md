@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- West Yorkshire
+people:
+- Justin Adams
+organisations:
+- Bradford City Neighbourhood Policing Team
+- City NPT
+- Knife Crime Concentration Fund
+- LFR
+- Live Facial Recognition Team
+- WYP
+- West Yorkshire Police
 ---
 
 *(Image: T&A)*

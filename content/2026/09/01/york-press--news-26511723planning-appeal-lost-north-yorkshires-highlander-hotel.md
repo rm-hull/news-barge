@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Esplanade
+- Highlander Hotel
+- North Yorkshire
+- Scarborough
+- South Bay
+people:
+- Walker
+organisations:
+- Esplanade
+- Google Maps
+- Government
+- Highlander Hotel
+- North Yorkshire Council
+- Planning Inspectorate
+- Star Pubs
+- Star Pubs and Bars
 ---
 
 ## Popular Grade II* listed North Yorkshire hotel loses appeal

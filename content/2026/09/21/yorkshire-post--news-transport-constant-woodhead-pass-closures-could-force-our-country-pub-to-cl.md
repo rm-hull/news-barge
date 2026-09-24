@@ -14,6 +14,43 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQxMTcwZTVlLWMxNTMtNDNkYy05NTc2LWI1NzliMzIzMTM5NDo1NzgzOThjNC1mY2U1LTQ0YTItYmYwNi02MDFkN2I4YzhiYjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Covid
+- Dog and Partridge
+- Downing Street
+- Greater Manchester
+- Leeds
+- M62
+- Manchester-Sheffield
+- Peak District
+- Pennines
+- Sheffield Midland
+- Snake
+- South Yorkshire
+- Woodhead Pass
+people:
+- Andrea
+- Andy Burnham
+- Audrey
+- Covid
+- Oliver Coppard
+- Richard Punshon
+- Simon Hulme
+- Stephen
+- Woodhead
+organisations:
+- Cheshire
+- Dog and Partridge
+- Houses of Parliament
+- Labour
+- M62
+- Manchester Piccadilly
+- National Highways
+- Northern Powerhouse Rail
+- Partridge Country Inn
+- Sheffield
+- The Yorkshire Post
+- Yorkshire Post
 ---
 
 # 'Constant Woodhead Pass closures could force our country pub to close down'

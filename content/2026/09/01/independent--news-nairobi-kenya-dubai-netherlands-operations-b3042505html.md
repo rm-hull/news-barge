@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Dubai
+- Kenya
+- Nairobi
+- Netherlands
+people:
+- Hellen Moraa
+- Moss Ndiema
+organisations:
+- Jomo Kenyatta International Airport
+- Kenya Airports Authority
+- Kenya Aviation Workers Union
 ---
 
 Kenyan aviation workers on Tuesday called off a strike that paralyzed air traffic for two days at the main international airport in the capital Nairobi.

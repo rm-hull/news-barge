@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Clacton
+- Giorgia
+- Iran
+- Italy
+- Mar-a-Lago
+- Rome
+- US
+people:
+- Donald Trump
+- Forbes
+- Giorgi Meloni
+- Giorgia Meloni
+- Kemi Badenoch
+- Leo XIV
+- Nigel Farage
+- Raheem Kassam
+- Robert Jenrick
+organisations:
+- G7
+- Guardian
+- National Pulse
+- Politico
+- Reform UK
+- Time magazine
+- Times
+- Tory
+- Truth Social
 ---
 
 Nigel Farage and Kemi Badenoch have spent years trading barbs and fighting for the rightwing vote. But now the party leaders find themselves in a much more bizarre struggle – for the affections of the rightwing Italian prime minister, Giorgia Meloni.

@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Bradford
+people: []
+organisations:
+- Cineworld
+- Minions & Monsters
+- PAW Patrol
+- The Dino Movie
+- Toy Story 5
 ---
 
 *(Image: Supplied)*

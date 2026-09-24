@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Food & Cooking
 - Arts & Culture
+locations:
+- Iceland
+- Ravenseat Farm
+- UK
+people:
+- Amanda Owen
+- Dad
+organisations:
+- Cadbury
+- Clubcard
+- Dairy Milk Buttons Smash Baubles
+- McVitie
+- McVitie’s
+- Morrisons
+- Ocado
+- Pladis
+- Tesco
+- The Christmas Penguin
 ---
 
 *(Image: Getty Images/iStockphoto)*

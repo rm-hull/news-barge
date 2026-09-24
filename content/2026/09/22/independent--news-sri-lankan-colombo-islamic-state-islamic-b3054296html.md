@@ -13,6 +13,11 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/22/14/Sri_Lanka_Easter_Bombing_Verdict_8_59_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Sri Lanka
+people: []
+organisations:
+- Islamic State
 ---
 
 A Sri Lankan court found 15 men guilty on Tuesday of involvement in the 2019 Easter Sunday bombings, which killed more than 260 people and wounded about 500.

@@ -14,6 +14,12 @@ categories:
 - Self-Improvement
 - Careers & Productivity
 image: https://media.wired.com/photos/6aad0d966fc219f441397668/191:100/w_1280,c_limit/091826-What%20Chat%20GOT%20Remember.jpg
+locations: []
+people: []
+organisations:
+- AI
+- ChatGPT
+- OpenAI
 ---
 
 A memory of some kind is now a standard feature for an AI chatbot. The chatbot stores all of your interactions in its memory, enabling you to refer back to previous conversations, and giving the tool some useful context to frame its answers with. For example, if you tell it you're vegetarian, it won't recommend recipes with meat in them.

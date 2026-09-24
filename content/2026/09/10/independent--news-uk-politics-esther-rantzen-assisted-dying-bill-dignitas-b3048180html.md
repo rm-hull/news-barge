@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- England
+- New Forest
+- Northern Ireland
+- Scotland
+- Switzerland
+- Wales
+- Zurich
+people:
+- Anna Landre
+- Dame Esther
+- Esther Rantzen
+- Lauren Edwards
+organisations:
+- Assist Us To Live
+- Bill
+- Childline
+- Commons
+- Dignitas
+- End of Life
+- House of Lords
+- Houses
+- Labour
+- Parliament Act
+- Terminally Ill Adults
+- UCL
 ---
 
 Dame Esther Rantzen has said she is ‘too physically fragile’ to travel to Switzerland to end her life at an assisted dying clinic.

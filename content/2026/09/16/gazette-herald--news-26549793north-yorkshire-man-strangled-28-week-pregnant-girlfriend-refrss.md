@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Knaresborough
+- UK
+- York
+people:
+- Ben Alexander Stevenson
+- Christopher Knox
+- Kelly Clarke
+- Nicholas Hammond
+organisations:
+- North Yorkshire Police
+- Oasis
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

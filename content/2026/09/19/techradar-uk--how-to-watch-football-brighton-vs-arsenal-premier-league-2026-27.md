@@ -13,6 +13,63 @@ categories:
 - Sports
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/YaQUzq4fuNx6t2yNsfKKqG-819-80.jpg
+locations:
+- Abu Dhabi
+- Australia
+- Brazil
+- Brighton
+- Brighton.
+- CA
+- Canada
+- England
+- London
+- Old Trafford
+- UK
+- US
+- canada
+- uk
+people:
+- Adrian Back
+- Bukayo Saka
+- Fabian Hürzeler
+- Kai Havertz
+- Man Utd
+- Martin Ødegaard
+- Maxim De Cuyper
+- Yankuba Minteh
+organisations:
+- AU
+- Arsenal Those
+- BBC One
+- Brighton &amp
+- DirecTV Stream
+- DirecTV Stream**
+- Formula 1
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Gunners
+- Hove Albion
+- Hulu
+- Instagram
+- Manchester United
+- NBA
+- Newsweek
+- NordVPN
+- PremierLeague
+- Red Bull
+- Red Devils
+- Seagulls
+- Sky Sports
+- Sling**(
+- Stan Sport
+- Super Rugby
+- TechRadar
+- TikTok
+- USA Network
+- World Soccer Magazine
+- Yahoo
+- YouTube TV
 ---
 
 ![Maxim De Cuyper of Brighton &amp; Hove Albion celebrates scoring his team’s third goal during the Carabao Cup Third Round match between Manchester United and Brighton.](https://cdn.mos.cms.futurecdn.net/YaQUzq4fuNx6t2yNsfKKqG.jpg)

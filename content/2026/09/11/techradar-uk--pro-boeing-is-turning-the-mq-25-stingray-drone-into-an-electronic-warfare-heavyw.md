@@ -10,6 +10,24 @@ description: The MQ-25 will get new RF and encryption hardware, even though the 
 image: https://cdn.mos.cms.futurecdn.net/PhETZVNkg2CPJJhWpcrHoL-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- US
+people:
+- Rahim Amir
+organisations:
+- Boeing
+- EW
+- GE Aerospace
+- Google News
+- MQ-25
+- Mission Management System Computer
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- US Department of War
+- US Navy
 ---
 
 ![US Navy MQ-25A Stingray](https://cdn.mos.cms.futurecdn.net/PhETZVNkg2CPJJhWpcrHoL.jpg) 

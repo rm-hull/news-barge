@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/09/09/16/45/Screenshot-2026-09-09-a
 categories:
 - News & Politics
 - UK
+locations:
+- Pacific Ocean
+- Washington
+people:
+- Donald Trump
+- Gluesenkamp Perez
+- Gluesenkmap Perez
+- Glusenkamp Perez
+- Herrera Beutler
+- Jaime Herrera Beutler
+- Joe Biden
+- Joe Kent
+- John Braun
+- Marie Glue-ZYN-kamp Perez
+- Marie Gluesenkamp Perez
+- Mike Johnson
+- Robert F. Kennedy Jr.
+organisations:
+- Blue Dogs Caucus
+- Cook Political Report
+- Democratic Congressional Campaign Committee
+- House
+- National Republican Congressional Committee
+- TikTok
+- Trump
+- U.S. Food and Drug Administration
+- Washington’s 3rd
 ---
 
 A vulnerable Democrat running for re-election in a district that voted for President Donald Trump is trying a unique way to win over Republican voters: selling branded containers of Zyn nicotine pouches.

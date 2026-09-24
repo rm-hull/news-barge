@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- County Durham
+- Eldon Square
+- Fenwick Newcastle
+- London
+- North East
+- Northumbria
+- UK
+people:
+- Barbour
+- Genevieve Devine
+- Ian Bergin
+- Laura Weir
+- Pam Smith
+organisations:
+- BFC
+- Baltic Centre for Contemporary Art
+- Baltic Centre of Contemporary Arts
+- British Fashion Council
+- ELLE UK
+- Eldon Square
+- Fashion Britain
+- Fenwick
+- Genevieve Devine
+- Grainger Market
+- Menswear
+- Newcastle City Council
+- Newcastle College
+- Report
+- Rescue
 ---
 
 A major fashion event is heading to the North East next month as part of a nationwide celebration of creativity, culture and design.

@@ -11,6 +11,35 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Antarctic
+- Bordeaux
+- Europe
+- France
+- Greece
+- London
+- Madrid
+- Nepal
+- Pacific
+- Paris
+- Peristeria
+- Salamina Island
+- Selinia
+- Spain
+- Tibet
+- sunrise
+people:
+- Claire Barnes
+- Gareth Redmond-King
+- Samantha Burgess
+organisations:
+- Copernicus Climate Change Service
+- ECIU
+- El Niño
+- Energy and Climate Intelligence Unit
+- European Union
+- Imperial College London
+- United Nations Environment Programme
 ---
 
 ![London at sunrise on 14 August 2026](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg?w=840)

@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Beijing
+- Cincinnati
+- Georgia
+- India
+- Kathmandu
+- Lende Khola River
+- Long Island
+- Mount Kailash
+- Nepal
+- Nepal-China
+- New Jersey
+- New York
+- Ohio
+- Tennessee
+- Texas
+- U.S.
+people:
+- Anil Goel
+- Daksha
+- Deepak
+- Donald Trump
+- God
+- Jitendra Patel
+- Jolene Gosha
+- Madju Ahuja
+- Mary Sorenson
+- Prabhath Sajeepa
+- Rashi
+- Rekha Shashidharan
+- Riley Wilderson
+- Shekhar Agrawal
+- Shiva
+- Shreya Ahuja
+- Sunny Patel
+- Tommy Pigott
+- V.S. “Bali” Balasubramanyam
+- Venus Patel
+- Venus Rajnikant Patel
+organisations:
+- ABC News
+- AP
+- Associated Press
+- CNN
+- Himalayan Glacier
+- Isha Foundation
+- NPR
+- State Department
+- The Washington Post
 ---
 
 Fears are growing for the 85 Americans who are among the 4,200 people still missing after being caught up in the devastating flash flooding that rocked Nepal last week.

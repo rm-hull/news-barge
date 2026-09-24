@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Carlisle
+- Crook
+- Dalston Road
+- Darlington
+- Newcastle
+- UGC
+people:
+- Alex
+- Cat Lister
+- Covid
+organisations:
+- 5NP
+- LOCALLY House
+- RISE Artisan Bakery
+- The Northern Echo
 ---
 
 *(Image: UGC)*

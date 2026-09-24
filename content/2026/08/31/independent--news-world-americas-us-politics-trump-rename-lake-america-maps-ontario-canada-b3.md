@@ -14,6 +14,47 @@ categories:
 - UK
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- Alaska
+- Alaska’s Denali
+- Bde Maka Ska
+- Canada
+- Dakota
+- Gulf of America
+- Gulf of Mexico
+- Lake Calhoun
+- Lake Ontario
+- Lake Ontario “Lake America
+- Minneapolis
+- Minnesota
+- Mount McKinley
+- Ohio
+- U.S.
+- United States
+people:
+- Barack Obama
+- Donald Trump
+- Doug Ford
+- Innisfree McKinnon
+- Sally Jewell
+- William McKinley
+organisations:
+- Board on Geographic Names
+- Board on Geographic Names “
+- Denali
+- Department of the Interior
+- Google Maps
+- Interior Department
+- Minneapolis Park Board
+- Minnesota Department of Natural Resources
+- Minnesota Supreme Court
+- State of Alaska
+- The Conversation
+- Tribal Governments
+- Trump
+- U.S. Board on Geographic Names
+- U.S. Geological Survey
+- University of Wisconsin-Stout Polytechnic
 ---
 
 On Aug. 27, 2026, President Donald Trump issued an executive order renaming Lake Ontario “Lake America,” claiming his administration had already “notified all of the various people you have to notify.”

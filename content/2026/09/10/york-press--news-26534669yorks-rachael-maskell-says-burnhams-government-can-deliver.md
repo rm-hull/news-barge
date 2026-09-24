@@ -14,6 +14,16 @@ categories:
 - York
 - Health & Fitness
 - Society & Culture
+locations:
+- York
+people:
+- Andy Burnham
+- Dylan Connell
+- Gordon Brown
+organisations:
+- House of Commons
+- Labour Government
+- NHS
 ---
 
 *(Image: Dylan Connell)*

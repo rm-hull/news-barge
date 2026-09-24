@@ -12,6 +12,39 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/20629129.jpg?type=og-image
+locations:
+- Albert Close
+- Barkers Lane
+- Derby Magistrates' Court
+- Derbyshire
+- Fylingthorpe
+- Gladstone Road
+- Harrogate Magistrates Court
+- Huntington
+- M1
+- Murrayfield Gardens
+- North Yorkshire
+- Rufforth
+- Scarborough
+- Snainton
+- Stutton
+- Tadcaster
+- Whitby
+- Yew Tree Close
+- York
+people:
+- Andrew Jennison
+- Daniel Russell
+- Jamie Brown
+- Jamie Entwistle
+- Krzysztof Lewomdowski
+- Mark Estill
+organisations:
+- A1
+- A171
+- A59
+- A64
+- Newsquest
 ---
 
 *(Image: Newsquest)*

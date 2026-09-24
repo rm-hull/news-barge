@@ -12,6 +12,17 @@ categories:
 - UK
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/22/07/France_Child_Abuse_4_213.jpg?width=1200&height=800&crop=1200:800
+locations:
+- France
+people:
+- Cécile Reneaume
+- Eric
+- Leo XIV
+- Philippe Gomes
+organisations:
+- Associated Press
+- INIRR
+- Independent National Authority for Recognition and Reparation
 ---
 
 About 2,000 people who reported being sexually abused by priests or other church representatives have sought reparations from a French independent body created to address decades of abuse, the organization said Tuesday as it prepares to end its five-year mission.

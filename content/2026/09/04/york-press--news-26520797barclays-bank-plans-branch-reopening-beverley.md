@@ -13,6 +13,23 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Beverley
+- Champney Treasure House
+- East Yorkshire
+- North Bar Within
+- UK
+- YOUR
+people: []
+organisations:
+- ADC Consulting
+- ATM
+- Barclays Local
+- Beverley Town Council
+- East Riding of Yorkshire Council
+- Public Notice Portal
+- The Kings Head Hotel
+- The Press
 ---
 
 *(Image: ADC Consulting / Barclays / East Riding of Yorkshire Council planning)*

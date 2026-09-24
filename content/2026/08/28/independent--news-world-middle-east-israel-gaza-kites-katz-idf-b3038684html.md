@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Gaza City
+- Gaza Strip
+- Israel
+- Nir Oz
+people:
+- Ahmed
+- Benjamin Netanyahu
+- Hazem Qassem
+- Isaac Herzog
+- Israel Katz
+- Umm Mohammed
+organisations:
+- Board of Peace
+- Gaza Board of Peace
+- Hamas
+- ICSPR
+- International Commission to Support Palestinian Rights
+- Reuters
+- Times of Israel
+- Trump
 ---
 
 Israel has threatened to shoot down kites sent across its border from Gaza, saying they will be treated “the same as a drone” despite admitting there is no evidence they contain explosives.

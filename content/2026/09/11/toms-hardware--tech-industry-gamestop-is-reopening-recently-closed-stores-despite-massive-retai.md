@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- Funko
+- Kunal Khullar
+- Ryan Cohen
+- Tom
+organisations:
+- GameStop
+- Gamestop
+- Google News
+- IGN
+- ReplyGenericUser2001
+- Sony
+- TCG
+- Tom’s Hardware
+- Walmart
 ---
 
 ![A photo of a GameStop store opening](https://cdn.mos.cms.futurecdn.net/PYqxToxvLd5QJrp4jevHuK.jpg) 

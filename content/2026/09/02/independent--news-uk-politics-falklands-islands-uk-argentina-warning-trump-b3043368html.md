@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Falkland Islands
+- Falklands
+- Malvinas
+- UK
+- US
+- Washington
+people:
+- Donald Trump
+- James Cartlidge
+- Javier Milei
+organisations:
+- England
+- Falkland Islanders
+- Oval Office
 ---
 
 Argentina’s president has issued a fresh warning to the UK over the sovereignty of the Falkland Islands, saying his country would defend its interests “with tooth and nail, no matter who it bothers”.

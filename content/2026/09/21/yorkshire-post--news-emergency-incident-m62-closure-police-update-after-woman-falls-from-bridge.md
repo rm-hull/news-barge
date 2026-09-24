@@ -13,6 +13,11 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYwZDYzMmJmLTg1ZWUtNDU4OC05NzY3LTJlOTNmNTY2ZjNiODoxNTUxNjNlMS1kMzNmLTQ2M2YtOGY4NC1iNDYyYTdlMTE1Yzg=.jpg?crop=3:2,smart&trim=&width=1186&auto=webp&quality=75
+locations:
+- M62
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 # M62 closure: Police update after woman falls from bridge

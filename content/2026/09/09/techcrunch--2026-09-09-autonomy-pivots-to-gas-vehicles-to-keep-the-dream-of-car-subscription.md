@@ -13,6 +13,31 @@ categories:
 - Technology & Software
 - Automotive
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Autonomy
+- California
+- Florida
+- New York
+- North Carolina
+- Texas
+- Washington
+people:
+- Elon Musk
+- Fred Weick
+- Scott Painter
+organisations:
+- Autonomy
+- Bronco Sport
+- EVs
+- Ford
+- Galpin Motors
+- Hertz
+- Mercedes-Benz
+- Ranger
+- TechCrunch
+- Tesla
+- TrueCar
 ---
 
 Four years ago, California startup Autonomy pledged to buy 23,000 EVs from 17 automakers, including Tesla, and make them available as part of a vehicle subscription service. It was a combination of two trends that had taken off in the early 2020s.

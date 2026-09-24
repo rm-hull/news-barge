@@ -14,6 +14,45 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Artarmon
+- Australia
+- Lane Cove
+- Mars Road
+- Marsden Park
+- NSW
+- New South Wales
+- Southern Hemisphere
+- Sydney
+- US
+people:
+- Anthony Albanese
+- Belinda Dennett
+- Daniel Mookhey
+- Felipe Tanaka
+- Jon Whittle
+- Lucy
+- Rochelle Flood
+- Sam Altman
+organisations:
+- AI
+- Amazon
+- Australian Energy Market Operator
+- BBC
+- CSIRO
+- ChatGPT
+- Climate Council
+- Cloud Carrier
+- Data Centres Australia
+- Five Eyes
+- Greenpeace Australia Pacific
+- Microsoft
+- NSW
+- Netflix
+- OpenAI
+- Sydney Water
+- WSAA
+- Water Services Association of Australia
 ---
 
 ![A yellow placard reading 'No data centre' in front of a house and trees](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg)

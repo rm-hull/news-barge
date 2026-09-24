@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Airedale Shopping Centre
+- Inner Light
+- Keighley
+people:
+- Dani Parker
+- Fran Elliott
+- Freddie Anderson
+- Jon Wilfy
+- Lauren Emma
+- Robbie Moore
+- Simon Sugden
+organisations:
+- '### Founders'
+- Gallery
+- Ilkley
+- Inner Light
+- Inner Light Studio
 ---
 
 *(Image: Freddie Anderson)*

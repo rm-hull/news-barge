@@ -12,6 +12,22 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Black Sea
+- Crimea
+- Odesa
+- Orcan
+- Russia
+- Sargan
+- Sevastopol
+- Ukraine
+people:
+- I. Sutton
+- Shahed
+organisations:
+- Sea Baby
+- USV
+- Ukrainian Navy
 ---
 
 ![Ukrainian Sargan destroys Russian MBEK in the Black Sea](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312813537.jpg?w=840)

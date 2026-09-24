@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- BRADFORD
+- Bradford Crown Court
+- Keighley
+- Lancashire
+- North Yorkshire
+- West Yorkshire Police
+- Whin Knoll Avenue
+people:
+- Helen Chapman
+- Iyaz Iqbal
+organisations:
+- Jake Line’
+- Operation Phoenix
 ---
 
 *(Image: West Yorkshire Police)*

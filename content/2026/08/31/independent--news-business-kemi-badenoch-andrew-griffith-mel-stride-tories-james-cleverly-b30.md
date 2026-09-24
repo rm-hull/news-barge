@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- London
+- Scotland
+people:
+- Andrew Bowie
+- Andrew Griffith
+- Claire Coutinho
+- Daisy Cooper
+- Dame Priti
+- Damian Hinds
+- Emma Reynolds
+- Harriet Cross
+- James Cartlidge
+- James Cleverly
+- Joy Morrissey
+- Julia Lopez
+- Just Eat
+- Katie Lam
+- Kemi Badenoch
+- Kevin Hollinrake
+- Liz Truss
+- Mel Stride
+- Ms Coutinho
+- Priti Patel
+- Rebecca Paul
+- Richard Holden
+- Stuart Andrew
+- Tom Tugendhat
+- Victoria Atkins
+organisations:
+- Conservatives’
+- Labour
+- Liberal Democrat Treasury
+- Reform UK
+- Sky
+- Tories’
+- Tory
 ---
 
 Kemi Badenoch has completed a reshuffle of her senior Tory team, sacking Sir Mel Stride as shadow chancellor and bringing a new generation of Conservative MPs into the shadow cabinet.

@@ -13,6 +13,31 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Canada
+- Europe
+- France
+- Liverpool
+- Norway
+- Ottawa
+- Strasbourg
+- Toronto
+- UK
+- US
+- Washington
+people:
+- '## Carney'
+- Andy Burnham
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- Associated Press
+- Canada Investment Summit
+- EP
+- EU
+- European Commission
+- European Parliament
+- State of the European Union
 ---
 
 ## Carney is reportedly expected to use the trip to seek a new arrangement with the EU that could allow Canadians to live and work across the bloc without visa restrictions.

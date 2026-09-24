@@ -12,6 +12,23 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312708671.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Antarctica
+- Earth
+- East Greenland
+- Europe
+- Labrador Sea
+- North Atlantic
+- UK
+people:
+- Michael Meredith
+- Otosaka
+organisations:
+- Inès Otosaka
+- MICI
+- MISI
+- NASA
+- Northumbria University
 ---
 
 ![Landsat 8 image of glacial meltwater draining into the Labrador Sea near Greenland](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312708671.jpg?w=840)

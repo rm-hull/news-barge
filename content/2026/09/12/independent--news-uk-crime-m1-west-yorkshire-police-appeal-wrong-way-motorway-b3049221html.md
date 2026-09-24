@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Dacia Sandero
+- Ireland
+- Kildare
+- M1
+- M9
+- Teesside
+- UK
+people:
+- Caroline Dinenage
+- Dacia
+organisations:
+- Crimestoppers
+- Culture, Media and Sport Committee
+- Kia Proceed
+- West Yorkshire Police
+- West Yorkshire Police’s Roads Policing Unit
 ---
 
 A man has been seriously injured after two cars were involved in a wrong-way crash on the M1.

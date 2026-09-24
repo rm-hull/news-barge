@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Eaton Square
+- England
+- London
+- Scotland
+- Wales
+people:
+- Tor Burrows
+organisations:
+- Duke of Westminster
+- Grosvenor Estate
+- Hugh Grosvenor
+- Ministry of Housing, Communities and Local Government
+- Retrofit
+- Ruin
+- The Times
 ---
 
 The Duke of Westminster will be able to retrofit more than a thousand of his properties with energy upgrades as the government changes restrictions on modernising listed buildings.

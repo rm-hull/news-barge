@@ -13,6 +13,14 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- North York Moors
+people:
+- Cooper
+organisations:
+- House of Commons
+- NHS
+- The Herald
 ---
 
 Cooper MP on wildfire smoke health impacts in the House of Commons. 09.09.26

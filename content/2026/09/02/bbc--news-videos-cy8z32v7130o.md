@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - True Crime
 - Law & Justice
+locations:
+- Massachusetts
+people:
+- Callan
+- Cora
+- Dawson
+- Lindsay Clancy
+organisations: []
 ---
 
 # Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case

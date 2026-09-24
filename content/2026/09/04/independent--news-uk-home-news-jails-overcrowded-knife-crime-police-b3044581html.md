@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Notting Hill Carnival
+people:
+- Mark Rowley
+organisations:
+- Metropolitan Police
 ---
 
 Suspects accused of serious knife and firearm offences are being released on bail due to overcrowded prisons and a struggling justice system, the head of the Metropolitan Police has warned.

@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Clifford’s Tower
+- Millennium Bridge
+- Palestine
+- Stonebow
+- The York
+people:
+- Colin Unsworth
+- Dylan Connell
+- John Cossham
+- Sadie Tann
+organisations:
+- RNLI
 ---
 
 *(Image: Dylan Connell)*

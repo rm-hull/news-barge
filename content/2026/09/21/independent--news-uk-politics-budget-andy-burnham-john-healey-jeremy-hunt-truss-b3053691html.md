@@ -14,6 +14,34 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2024/11/28/12/0772d5e3b0705d33d531373626934eb8Y29udGVudHNlYXJjaGFwaSwxNzMyODgzNTY1-2.77652681.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Iran
+- Manchester
+- Matthew Horwood
+- Middle East
+- PA
+- UK
+people:
+- Andy Burnham
+- Dale Vince
+- Helen Miller
+- Jeremy Hunt
+- John Healey
+- Liz Truss
+- Ms Truss
+organisations:
+- Bank of England
+- CGT
+- IFS
+- Institute for Fiscal Studies
+- KPMG
+- Labour Party
+- OBR
+- Office for Budget Responsibility
+- Press Association
+- The Independent
+- Treasury
 ---
 
 John Healey cannot allow fears of a repeat of Liz Truss's disastrous mini-Budget to stop him from taking the bold economic action Britain needs when he unveils his economic plan in just a few weeks’ time, former chancellor Sir Jeremy Hunt has said.

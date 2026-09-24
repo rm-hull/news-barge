@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Azure
+- Britain
+- China
+- City of London
+- Egypt
+- Ethiopia
+- Europe
+- Israel
+- Kazakhstan
+- Netherlands.
+- Sweden
+- UK
+- US
+people:
+- Dave Michels
+- Douwe Korff
+- Ian Dyson
+- Mark Butcher
+organisations:
+- Amazon
+- Cabinet Office
+- City of London
+- Cloud Legal Project
+- EU
+- Google
+- Guardian
+- London Metropolitan University
+- Microsoft Azure
+- Ministry of Defence
+- NPCC
+- National Police Chief’s Council
+- Police Scotland
+- Queen Mary University of London
+- SIRO
 ---
 
 Vast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK security assessment deemed to be vulnerable to “compromise” by foreign actors and the US government, a Guardian investigation can reveal.

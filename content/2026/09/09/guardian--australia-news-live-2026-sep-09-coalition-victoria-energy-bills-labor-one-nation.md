@@ -12,6 +12,117 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Afghanistan
+- America
+- Bondi
+- Brisbane
+- Bulimba
+- Canberra
+- Cooks River
+- England
+- France
+- Hamilton
+- Indonesia
+- Iran
+- Malaysia
+- Marrickville
+- Melbourne CBD
+- Mornington Peninsula
+- Perth
+- Singapore
+- Sydney
+- US
+- White Australia
+- White House
+- Woodford
+people:
+- AAP Blanche d’Alpuget
+- Aaron Violi
+- Alison Byrnes
+- Andrew Hastie
+- Angus Taylor
+- Anika Wells
+- Anthony Albanese
+- Ash Ambihaipahar
+- Barnaby Joyce
+- Ben Carroll
+- Ben Roberts-Smith
+- Blanche D’Alpuget
+- Blanche d'Alpuget
+- Blanche d’Alpuget
+- Bob Hawke
+- Brendan Lim
+- Colin Brooks
+- Darren England
+- Donald Trump
+- Helen Haines
+- Hilary Wardhaugh
+- Ian Kiernan
+- Ingrid Stitt
+- Jay Kogler
+- Jess Wilson
+- Jim Chalmers
+- Jodie Haydon
+- Joel Carrett
+- Jono Searle
+- Kevin Rudd
+- Kush Desai
+- Louis Pratt
+- Matt Canavan
+- Mick Tsikas
+- Monique Ryan
+- Nick Staikos
+- Pauline Hanson
+- Peter King
+- Richard Denniss
+- Richard Yetsenga
+- Rikkie-Lee Tyrrell
+- Sophie Scamps
+- Tanya Plibersek
+- Tony Pasin
+- Vivek Dhar
+- Warren Pickering
+- Wells Anika Wells
+- Zali Steggall
+organisations:
+- AAP
+- ABC
+- ADF
+- ANZ
+- Administration
+- Airbnb
+- Argus Media
+- Australia Institute
+- Australian Financial Review
+- Clean Up Australia
+- Coalition
+- Commonwealth Bank
+- Cotality
+- Crossbench
+- Family and Sexual Violence Commission
+- Getty Images
+- Guardian Australia
+- House of Representatives
+- Independent
+- Labor
+- Liberal
+- Luca Ittimani Retail
+- Lukas Coch
+- Lukas Coch/AAP Wells
+- MotorMouth
+- National Press Club
+- National Socialist Network
+- Nationals
+- News24
+- One Nation
+- One Nation Victorian
+- SAS
+- Tapis
+- The Australian
+- WAP
+- White Australia
+- White Australia Party
 ---
 
 White House fires warnings shots over digital duty of care bill

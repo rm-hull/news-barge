@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21486558.jpg?type=og-image&xType=0&yType=7
+locations:
+- DURHAM
+- Darlington
+- Eastbourne
+- Hutton Avenue
+- Neasham Road
+- Tornado Way
+people: []
+organisations:
+- A66
+- Darlington Police
+- Durham Constabulary
+- Durham Police
+- Durham Roads and Armed Policing Unit
+- NPAS Newcastle
+- National Police Air Service
 ---
 
 *(Image: DURHAM POLICE)*

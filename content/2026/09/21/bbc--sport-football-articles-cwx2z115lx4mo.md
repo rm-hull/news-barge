@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e586/live/33ea4fc0-b524-11f1-b1e2-034207760e32.png
+locations: []
+people:
+- Atletico.** Mourinho
+- Dean Huijsen
+- Diego Simeone
+- Giuliano Simeone
+- Hansi] Flick
+- Jose Mourinho
+- Julian Alvarez
+- Manuel] Pellegrini
+- Ortiz Arias
+organisations:
+- Atletico Madrid
+- Barcelona
+- Real Betis
+- Real Madrid
+- X Mourinho
 ---
 
 ![A frowning Jose Mourinho at his news conference with screenshots of incidents he believed should have brought about red cards for Atletico Madrid players. In the background is an advertising board featuring sponsor and competition logos.](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/e586/live/33ea4fc0-b524-11f1-b1e2-034207760e32.png)

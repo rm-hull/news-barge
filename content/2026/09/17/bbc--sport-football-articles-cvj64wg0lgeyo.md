@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa.
+- Denmark
+- England
+- Europe
+- Italy
+- Malen
+- Naples
+- Netherlands
+- Old Trafford
+- Rome
+- Scotland
+- Villa
+people:
+- Bruno Fernandes
+- Donyell Malen
+- Federico Dimarco
+- Gian Piero Gasperini
+- Harry Kane
+- Julien Laurens
+- Lamine Yamal
+- Lautaro Martinez
+- Rasmus Hojlund
+- Scott McTominay
+organisations:
+- Barcelona
+- Bayern
+- Bundesliga
+- Donyell Malen
+- Fenerbahce
+- La Liga
+- Ligue
+- Manchester United
+- Napoli
+- Premier League
+- Roma
+- Serie A
+- Villa
 ---
 
 ![Donyell Malen shoots at goal while playing for Roma](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2808/live/0b3a06f0-b1e7-11f1-ac01-a9af2f94b2cc.jpg)

@@ -17,6 +17,18 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Hartlepool
+- Nottingham
+- St Joseph
+people:
+- Matthew Blades
+- Owen Humphreys
+- Tom Clough
+organisations:
+- A66
+- Nottinghamshire
+- Roman Catholic Church
 ---
 
 # Funeral of PC Matthew Blades is a sombre reminder of the danger that police officers face

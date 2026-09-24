@@ -12,6 +12,31 @@ image: https://i.guim.co.uk/img/media/327c6cb367b771b6be82da03d22645c83462e2b1/6
 categories:
 - UK
 - News & Politics
+locations:
+- Los Angeles
+- U.S.
+- US
+- United States
+- White House
+people:
+- Dan Caine
+- Donald Trump
+- Elissa Slotkin
+- Mark Milley
+- Pete Hegseth
+- Sonja Thrasher
+- Susie Wiles
+organisations:
+- AP
+- Associated Press
+- Federal
+- Guardian
+- Joint Force
+- National Guard
+- Pentagon
+- Senate
+- Trump
+- U.S. Congress
 ---
 
 The highest‑ranking US military officer says there are no plans to deploy troops to polling places during the November midterm elections – responding to Senator Elissa Slotkin’s request for information amid concerns about whether the Trump administration might send service members to election sites.

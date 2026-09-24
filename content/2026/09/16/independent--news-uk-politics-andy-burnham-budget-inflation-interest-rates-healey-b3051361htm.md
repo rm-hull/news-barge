@@ -13,6 +13,20 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+organisations:
+- Bank of England
+- Budget
+- ONS
+- Office for National Statistics
+- Resolution Foundation
 ---
 
 Andy Burnham has admitted next month’s Budget will be “challenging” for his government after official figures revealed inflation has soared to a five-month high.

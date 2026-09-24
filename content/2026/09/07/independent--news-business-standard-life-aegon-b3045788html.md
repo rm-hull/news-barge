@@ -14,6 +14,12 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations:
+- Aegon UK
+- Standard Life
 ---
 
 Standard Life has said its earnings have been bolstered by cost-cutting as it targets another £800 million worth of “synergies” from its takeover of Aegon UK.

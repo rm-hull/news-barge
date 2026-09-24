@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Buenos Aires
+- Falklands
+- UK
+people:
+- Andy Burnham
+- Dan Jukes
+- Declan Donnelly
+- James Orr
+- John Healey
+- Nigel Farage
+organisations:
+- Channel 4
+- Daily Express
+- Daily Mail
+- Daily Star
+- Daily Telegraph
+- Farage
+- Financial Times
+- Guardian
+- Marks & Spencer
+- Metropolitan Police
+- Mirror
+- Oasis
+- Reform UK
+- Sun
+- The Times
 ---
 
 ![The headline on the front page of the Daily Mirror reads: “Reform in chaos”.](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/f7a2/live/fe122bf0-a8a5-11f1-a291-b542ee92de7c.jpg)

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Britain
+- Buckingham Palace
+- North America
+- U.K.
+- United Kingdom
+people:
+- Chamberlain
+- Charles III
+- Elizabeth II
+- Harry
+- King
+- Meghan
+organisations:
+- Netflix
+- RAVEC
+- Royal
+- Spotify
+- VIP Executive Committee
 ---
 
 Prince Harry and his wife, Meghan, were surprised by the way Buckingham Palace released a letter that made clear they remain non-working members of the royal family even though they have returned to the United Kingdom.

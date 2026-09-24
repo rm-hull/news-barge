@@ -13,6 +13,40 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Bradford Odeon
+- Coyote
+- Dino Movie
+- Moana
+- Paw Patrol
+- Pout-Pout Fish
+- The End of Oak Street
+- The Light
+people:
+- Amelia Eve
+- Gemma
+- Michael
+- Peter Parker
+organisations:
+- ACME
+- BRADFORD
+- Bol Bhavein Na Bol
+- Bradford Odeon
+- Cars
+- Chamber of Secrets
+- Dino Movie
+- Dog Stars
+- Harry Potter
+- Minions & Monsters
+- Moana and Coyote
+- ODEON Kids
+- One Night Only
+- Paw Patrol
+- The Dog Stars
+- The Light
+- The Movie
+- The Odyssey
+- Toy Story
 ---
 
 *(Image: Getty)*

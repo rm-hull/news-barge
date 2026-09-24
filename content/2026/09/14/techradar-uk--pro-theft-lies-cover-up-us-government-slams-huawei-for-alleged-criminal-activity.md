@@ -11,6 +11,34 @@ image: https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- China
+- US
+- United States
+people:
+- Brian Heberling
+- Christian Cawley
+- Meng Wanzhou
+- Taylor Stout
+organisations:
+- '**Huawei'
+- Akhan Semiconductor
+- CNEX Labs
+- Cisco Systems
+- Computer Weekly
+- ComputerActive
+- Department of Justice
+- Google News
+- Hewlett-Packard
+- Huawei
+- Linux Format
+- Matter Alpha
+- Motorola
+- Skycom
+- T-Mobile US
+- TechRadar Pro
+- US Department of Justice
+- United States’
 ---
 
 ![Huawei](https://cdn.mos.cms.futurecdn.net/fVvA9tr87QfPys6VEUqGJS.jpg) 

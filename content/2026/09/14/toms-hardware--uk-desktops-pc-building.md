@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Hardware
 - Careers & Productivity
+locations: []
+people:
+- Mike
+organisations:
+- ASRock
+- Amazon
+- Asus
+- Get Tom's Hardware
+- Gigabyte
+- Intel
+- MSI
+- ROG
+- Redditor
+- Valve
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-320-80.jpg)

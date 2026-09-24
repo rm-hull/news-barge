@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Abu Dhabi
+- Algeria
+- Algiers
+- Gulf
+- Israel
+- Libya
+- Mali
+- Sudan
+- UAE
+people:
+- Abdelmadjid Tebboune
+organisations: []
 ---
 
 ## Algeria cut diplomatic ties with the UAE and banned Emirati civilian and military aircraft from its airspace, citing 'provocative and hostile acts'. Commercial flights to Algiers are exempt until the end of 2026.

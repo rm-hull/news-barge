@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Iran
+- Mount Rushmore
+- Potomac River
+- U.S.
+- White House
+people:
+- Abraham Lincoln
+- Davis Ingle
+- Donald Trump
+- George Washington
+- Tucker Carlson
+organisations:
+- Fox News
+- House
+- Senate
+- Supreme Court
+- The Independent
+- The Wall Street Journal
 ---
 
 President Donald Trump is increasingly focused on ventures intended to leave a lasting mark, raising concerns among Republicans who are worried about a major test in the near future – November’s midterm elections – according to a new report.

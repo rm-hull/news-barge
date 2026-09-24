@@ -12,6 +12,21 @@ image: https://static.independent.co.uk/2026/09/04/14/1926353724..?trim=0,3,0,2&
 categories:
 - News & Politics
 - UK
+locations:
+- Grand Union
+- Harrow Road
+- Hormead Road
+- Kensal Road
+- London
+- Notting Hill Carnival
+people:
+- Amanda Rowe
+- Karnell Kelly
+organisations:
+- IOPC
+- Independent Office for Police Conduct
+- Met Police
+- Metropolitan Police
 ---
 
 A police watchdog investigation has been launched after a man who died upon jumping into a canal while fleeing from officers was named as 25-year-old Karnell Kelly.

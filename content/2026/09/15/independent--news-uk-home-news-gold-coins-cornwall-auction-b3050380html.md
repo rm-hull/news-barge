@@ -11,6 +11,13 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Cornwall
+- Penzanze
+people:
+- David Lay
+organisations:
+- Lay's Auctioneers of Penzanze
 ---
 
 A widow clearing out a shed near Penzanze, Cornwall, was left stunned after an old biscuit tin was discovered, containing more than £113,000 worth of gold coins.

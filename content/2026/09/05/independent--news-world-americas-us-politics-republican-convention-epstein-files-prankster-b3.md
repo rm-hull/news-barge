@@ -12,6 +12,27 @@ image: https://static.independent.co.uk/2026/09/05/18/22/GettyImages-2182395261.
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- Manhattan
+- Texas
+people:
+- Donald Trump
+- Jeffrey Epstein
+- Pam Bondi
+- Zach Parkinson
+organisations:
+- American Airlines Center
+- Congress
+- Daily Mail
+- Department of Justice
+- Epstein
+- Google
+- Justice Department
+- RNC
+- Republican National Committee
+- The Independent
+- The New York Times
 ---
 
 A website purporting to host details about the Republican National Committee’s 2026 midterm convention instead redirected visitors’ attention to a subject President Donald Trump has long sought to put behind him, according to a new report.

@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Clifton
+- Peter Hill Court
+people: []
+organisations:
+- Acomb
+- North Yorkshire Fire and Rescue Service
 ---
 
 North Yorkshire Fire and Rescue Service said its Acomb crew was called to Peter Hill Court in Clifton at 4.49am today (Sunday, August 30).

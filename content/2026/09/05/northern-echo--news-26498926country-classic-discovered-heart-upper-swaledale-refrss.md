@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Angram
+- Black Hill
+- Coast to Coast
+- East Sonesdale
+- Keld Lodge
+- Kisdon Hill
+- Long Preston
+- Low Bridge
+- Masham
+- Middleham
+- Pennine Way
+- Pennine Way The River Swale
+- Pretty North York Moors
+- Ravenseat
+- Reeth
+- River Swale
+- Tan Hill
+- The Bracken Way’
+- The Dales
+- Upper Swaledale
+- Yorkshire Dales
+people:
+- Jonathan
+organisations:
+- Keld Lodge
+- Kisdon Force
+- Peaks’
+- The Yorkshire
+- Where2walk
+- Yorkshire Dales
+- Yorkshire Dales’
 ---
 
 The walking around Upper Swaledale encapsulates much which makes the Yorkshire Dales a great area to explore.

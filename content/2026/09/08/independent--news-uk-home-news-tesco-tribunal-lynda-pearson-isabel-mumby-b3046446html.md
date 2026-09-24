@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Lincoln
+- Nottingham
+people:
+- Claire Dickson
+- Isabel Mumby
+- Lynda Pearson
+- Martin Brewer
+- Ms Mumby
+- Ms Pearson
+organisations:
+- Midlands East Tribunal
+- Tesco Extra
 ---
 
 A tribunal has ruled that calling someone a ‘slapper’ in the workplace is a sackable offence.

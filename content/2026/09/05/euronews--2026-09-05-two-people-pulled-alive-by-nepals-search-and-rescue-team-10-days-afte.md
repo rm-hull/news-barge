@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- China
+- Dhading
+- Gorkha
+- India
+- Kathmandu
+- Nepal
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- South Korea
+- Tanahun
+- Trishuli
+- United States
+people: []
+organisations: []
 ---
 
 ## Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.

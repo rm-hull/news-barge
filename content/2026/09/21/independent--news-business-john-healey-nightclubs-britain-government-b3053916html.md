@@ -12,6 +12,18 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/00/21160119-f6cd1ee6-3b49-4dbc-a24e-c103a21a5591.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Covid
+people:
+- John Healey
+- Michael Kill
+organisations:
+- Government
+- NIQ
+- NTIA
+- NielsenIQ
+- Night Time Industries Association
 ---
 
 Nightclubs and bars have returned to growth for the first time in more than a year, but a trade body said early signs of stability come after the late-night industry has shrunk by more than a quarter since the pandemic.

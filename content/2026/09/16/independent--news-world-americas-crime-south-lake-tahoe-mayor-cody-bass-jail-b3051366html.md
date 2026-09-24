@@ -13,6 +13,35 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- Bass’
+- California
+- City of South Lake Tahoe
+- Douglas County Jail
+- Lake Tahoe AleWorx
+- Lake Tahoe Community Presbyterian Church
+- Nevada
+- South Lake Tahoe
+- Stateline
+- Tahoe Justice Court
+people:
+- '![Bass'
+- Adam Spicer
+- Bass’
+- Bob Hoyopatubbi
+- Cody Bass
+- Richard Glasson
+- Tamara Wallace
+organisations:
+- AleWorx
+- Bass’
+- City Council
+- Hoyopatubbi
+- KCRA 3
+- San Francisco Chronicle.
+- South Lake Tahoe City Council
+- South Tahoe Now
+- The Independent
 ---
 
 The mayor of a California resort town will spend 10 days in jail following an altercation with a bouncer at a bar.

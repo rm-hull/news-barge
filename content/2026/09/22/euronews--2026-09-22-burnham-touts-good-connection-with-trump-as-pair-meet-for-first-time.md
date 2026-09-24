@@ -12,6 +12,25 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/38/02/1200x675_cmsv2_b05c606f-6dd1-5728-bf45-cad851f5323f-9923802.jpg
+locations:
+- Atlantic
+- Chagos Island
+- Europe
+- Falkland Islands
+- Mauritius
+- New York
+- UK
+- US
+- Ukraine
+people:
+- '## Trump'
+- Andy Burnham
+- Donald Trump
+- Keir Starmer
+- Washington
+organisations:
+- UK-US Diego Garcia
+- United Nations General Assembly
 ---
 
 ## Trump remained polite and friendly throughout a news conference following his meeting with Burnham, offering largely diplomatic answers to potential flashpoint topics.

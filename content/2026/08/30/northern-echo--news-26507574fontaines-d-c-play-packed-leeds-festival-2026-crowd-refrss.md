@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Fontaines D.C.
+- Ireland
+- Leon
+- Newcastle
+- North East
+- St James' Park
+- UK
+people:
+- Boys
+- Ed Sheeran
+- Gavin Davis
+- Kings
+- Sam Fender
+- Starburster
+organisations:
+- Fantaines D.C.
+- Fontaines D.C.
+- LIAM RUSSELL
+- Leeds A
+- Newcastle United
+- North Shields
+- Overpass
+- St James' Park
 ---
 
 Fontaines D.C. closed Saturday night’s Leeds Festival with a huge set in front of a packed crowd as speculation continues to grow that the band could be heading to Newcastle for a major stadium show next summer.

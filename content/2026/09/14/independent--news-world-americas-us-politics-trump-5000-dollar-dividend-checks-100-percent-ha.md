@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- County Clare
+- Dallas
+- Doonbeg
+- Iran
+- Ireland
+- Louisiana
+- Shannon Airport
+- U.S.
+people:
+- Donald Trump
+- Mike Johnson
+organisations:
+- CNN
+- Congress
+- House
+- NBC
+- State of the Union
+- Treasury Department
+- Trump
 ---
 
 President Donald Trump claims his offer to give $5,000 to every American adult if Republicans keep control of Congress is "100 percent" on track — and that he knows “exactly how” to come up with the budget-busting amount of cash.

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Britain
+- UK
+people:
+- Jackson Szabo
+- Jeff Banks
+organisations:
+- Spring & Autumn Fair
+- The Clothes Show
+- Voice of Retail
+- Warehouse
 ---
 
 Shoppers are being asked to back a nationwide campaign calling on the government to grant 90 minutes of free parking in town and city centres, aiming to help boost struggling high streets across Britain.

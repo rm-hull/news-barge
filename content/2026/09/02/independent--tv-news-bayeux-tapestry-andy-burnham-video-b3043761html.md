@@ -20,6 +20,66 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Buckingham Palace
+- Clacton
+- Dublin
+- England
+- France
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Man United
+- Mauritius
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+- iran
+people:
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Bradley Barcola
+- Carlos Baleba
+- Count Binface
+- David Miliband
+- Ed Gamble
+- Elizabeth Davies
+- Harold Godwinson
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lee Cain
+- Lemoncello
+- Marilyn Monroe
+- Norman
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Trump
+- William the Conqueror
+- Zelensky
+organisations:
+- Bayeux Tapestry
+- British Museum
+- Chelsea
+- Count Binface
+- De Zerbi
+- Farage
+- Liverpool
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

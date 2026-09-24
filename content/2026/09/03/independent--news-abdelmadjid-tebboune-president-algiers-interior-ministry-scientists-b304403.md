@@ -13,6 +13,29 @@ categories:
 - UK
 - Sports
 - History
+locations:
+- Algeria
+- Algiers
+- France
+- Guelma
+- Italy
+- Jijel
+- Ouled Riyah
+- Portugal
+- Spain
+- Sétif
+people:
+- Abdelmadjid Tebboune
+- Abdelwahab Boukrouh
+- Djabri Said
+organisations:
+- Algiers International Airport
+- Civil Protection
+- Council of Ministers
+- Interior Ministry
+- Presidency’s Communications Directorate
+- Tebboune
+- The Associated Press
 ---
 
 Algerian firefighters are struggling against an unprecedented wave of deadly and devastating wildfires that have prompted the president to call for reinstating the death penalty for arsonists.

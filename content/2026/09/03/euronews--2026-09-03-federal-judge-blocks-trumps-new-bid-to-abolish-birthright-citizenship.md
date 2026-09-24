@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Society & Culture
 - Law & Justice
+locations:
+- Maryland
+- US
+- United States
+- White House
+people:
+- Deborah Boardman
+- Donald Trump
+- Shana Khader
+organisations:
+- 2026 Executive Order
+- Supreme Court
+- Trump
+- US Constitution
+- US Supreme Court
+- We Are CASA
 ---
 
 ## The ruling is the second time Trump’s ambitious plans of abolishing a constitutional right were shot down by federal courts. The US Supreme Court earlier blocked an executive attempt at abolishing the right to children born to parents who do not hold legal residence status.

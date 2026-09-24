@@ -15,6 +15,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21466532.jpg?type=og-image
+locations:
+- Newcastle
+- North Yorkshire
+- Sunderland
+- UK
+people:
+- Thomas Lupton
+organisations:
+- Econ Engineering
+- Middlesbrough College
+- Nissan
+- Rolls-Royce
+- Victor De Jesus
 ---
 
 North Yorkshire firm Econ Engineering has invested £1.1 million in a "significant expansion" of its manufacturing capability with the purchase of a state-of-the-art laser cutter.

@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- France
+- Middle East
+- Syria
+- UK
+people:
+- Adem Savas
+- Mihnea Cuibus
+- Rob Jones
+organisations:
+- Adem Savas
+- BBC Radio Kent
+- EU
+- Home Office
+- Migration Observatory
+- NCA
+- National Crime Agency
+- University of Oxford
+- University of Oxford University
 ---
 
 ![A small boat crowded with people.](https://ichef.bbci.co.uk/ace/standard/852/cpsprodpb/e64c/live/da731c70-b0cc-11f1-a2b7-314e849a6e43.jpg)

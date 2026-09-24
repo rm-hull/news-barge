@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Video Gaming
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473993.jpg?type=og-image
+locations:
+- Atlantic
+- Grove Golf Academy
+- The Grove!
+- UK
+people:
+- Colin Montgomerie
+- James Lockwood
+organisations:
+- Bradford Golf Club
+- Grove Golf Academy
+- OBE
+- Woodhouse Grove
+- Woodhouse Grove School
 ---
 
 *(Image: Supplied)*

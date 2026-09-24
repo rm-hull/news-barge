@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- BRADFORD
+- Belle Vue
+- Bradford
+- Manchester Airport
+- Terminal 2
+- The Belle Vue
+- Wetherspoon
+people:
+- Jenny Warburton
+- Richard Jackson
+organisations:
+- '## Pub'
+- JD Wetherspoon
+- Manchester Airport
 ---
 
 *(Image: Manchester Airport)*

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Montgomery County
+- Pennsylvania
+- Philadelphia
+- Pysher
+- Upper Pottsgrove
+people:
+- Glenn Pysher
+- Ken Fulginiti
+- Kevin Steele
+- Sean Farrell
+organisations:
+- Upper Pottsgrove Police
+- Voluntary Manslaughter
 ---
 
 A Pennsylvania police officer has been charged with voluntary manslaughter after killing Glenn Pysher, a college student who mistakenly tried to enter a stranger’s home after a night out.

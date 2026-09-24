@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzODMyYjYyLTQ5NmEtNDMwNS05MWE3LThhMGMwMDAxMzgwNToxMThiMjc2Ny1hNGQ5LTQ2MzgtOTBkZi1mYWMwZmY2NzAwYWM=.jpg?crop=3:2,smart&trim=&width=612&auto=webp&quality=75
+locations:
+- Harrogate
+- Main Borders
+- Queen Mother’s Lake
+- RHS Garden Harlow Carr
+- RHS Harlow Carr
+people: []
+organisations:
+- Common Ground
+- Doric Columns
+- Harrogate Corporation
+- Light Night Leeds
+- NHS
+- Northern Horticultural Society
+- RHS Garden Centres
+- RHS Gardens
+- RHS Glow
+- RHS Harlow Carr
 ---
 
 # Harrogate’s RHS Harlow Carr garden to host 'unmissable' after-dark spectacle for all the family

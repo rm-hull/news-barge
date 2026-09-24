@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Atlantic
+- Birmingham
+- Downing Street
+- Scotland
+- Sunak
+- The Spectator
+- UK
+- United States
+- Wales
+people:
+- Boris Johnson
+- Dan Jukes
+- James Orr
+- Nigel Farage
+- Rishi Sunak
+- Robert Jenrick
+- Suella Braverman
+- Team Farage
+- Tim Shipman
+organisations:
+- Channel 4 News
+- Houses of Parliament.
+- Reform UK
+- Verbatim Investigations
+- Voting Reform UK
 ---
 
 ![A woman holding a sign saying I'm Voting Reform UK enters the Reform conference. The sign has autographs on it from Reform politicians.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg)

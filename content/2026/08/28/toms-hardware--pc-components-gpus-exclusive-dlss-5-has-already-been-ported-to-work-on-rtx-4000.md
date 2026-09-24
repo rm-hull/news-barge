@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV-2560-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Ada
+- Sayem Ahmed
+- Tom
+organisations:
+- Ada Lovelace
+- Ada-equivalent
+- Blackwell GPUs
+- CUDA
+- Control
+- Dexerto
+- Gamespot
+- Get Tom's Hardware
+- Google News
+- IGN
+- Nvidia Dlss
+- ReShade
+- Remedy Entertainment
+- RenoDX Discord
+- Tom's Hardware
+- Uncle Burrito
 ---
 
 ![Control Running DLSS 5 on RTX 4080 Super](https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV.png) 

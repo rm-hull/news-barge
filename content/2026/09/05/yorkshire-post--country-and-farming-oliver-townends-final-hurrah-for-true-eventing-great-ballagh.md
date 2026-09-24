@@ -15,6 +15,37 @@ categories:
 - York
 - Sports
 - Arts & Culture
+locations:
+- Badminton
+- Burghley
+- Great Britain
+- Huddersfield
+- Kentucky
+- Lincolnshire
+- Maryland
+- Scapegoat Hill
+- Shropshire
+- Tokyo
+people:
+- Alan
+- Angela Hislop
+- Ballaghmor Class
+- Ballaghmor Class’
+- Burghley
+- Diarmuid Byrne
+- Flint Curtis
+- Karyn Shuter
+- Oliver Townend
+- Peter Ryan
+- Thomas
+- Val
+- William Fox-Pitt
+organisations:
+- Ballaghmor Class
+- CCI5
+- Carousel Quest
+- EquiRatings
+- F1
 ---
 
 # Oliver Townend's final hurrah for true eventing great Ballaghmor Class

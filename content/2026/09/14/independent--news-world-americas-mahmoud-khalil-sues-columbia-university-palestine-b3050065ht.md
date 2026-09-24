@@ -11,6 +11,20 @@ image: https://static.independent.co.uk/2026/09/14/18/2239340162..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Columbia
+- Gaza
+- Israel
+- Louisiana
+- New Jersey
+- New York City
+people:
+- Mahmoud Khalil
+- Mohammad Zubairi
+- Trump
+organisations:
+- Columbia University
+- U.S. Immigration and Customs Enforcement
 ---
 
 Palestinian activist Mahmoud Khalil has sued Columbia University, alleging administrators failed to address harassment directed at him and members of a pro-Palestinian campus organization, and retaliated when the abuse was reported.

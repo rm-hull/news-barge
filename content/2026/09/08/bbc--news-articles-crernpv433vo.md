@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Sports
 - True Crime
+locations:
+- Australia
+- Baja California
+- Ensenada
+- Mexico
+- San Diego
+- US
+people:
+- Ari Gisell
+- Callum Robinson
+- Carter Rhoad
+- Debra Robinson
+- Irineo Francisco
+- Jake Robinson
+- Jesús "El Kekas" Gerardo
+- Martin
+- Ángel Jesús
+organisations:
+- ABC
 ---
 
 ![A young man with shoulder-length brown hair and light stubble smiling at the camera, and another young man to his right and a brown dog in between them](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png)

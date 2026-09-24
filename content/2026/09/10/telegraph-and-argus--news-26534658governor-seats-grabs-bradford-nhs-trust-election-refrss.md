@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Airedale
+- Bradford South
+- Bradford West
+- Common
+- Craven
+- Keighley
+- Shipley
+- Wharfedale
+people:
+- Sarah Jones
+organisations:
+- Bradford District Care NHS Foundation Trust
+- Council of Governors
 ---
 
 *(Image: submitted)*

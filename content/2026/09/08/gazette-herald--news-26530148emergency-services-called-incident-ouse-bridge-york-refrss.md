@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bridge Street
+- North Yorkshire
+- Ouse Bridge
+- York
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The Press
+- York Rescue Boat
+- Yorkshire Ambulance Service
 ---
 
 Emergency services were called out to an incident on a major York city centre road.

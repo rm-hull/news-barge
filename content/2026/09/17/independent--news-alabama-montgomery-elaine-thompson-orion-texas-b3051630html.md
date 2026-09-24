@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Alabama
+- Dallas County
+- Georgia
+- Jimmy’s Pawn Shop
+- Louisiana
+- Orrville
+- Selma
+- Texas
+- U.S.
+- William C. Holman Correctional Facility
+people:
+- Elaine Thompson
+- Elvis Presley
+- Jeffery Lee
+- Jimmy Ellis
+organisations:
+- Alabama Capitol
+- State
+- U.S. Supreme Court
 ---
 
 Alabama is set to execute a man Thursday night via lethal injection, three months after a judge's ruling blocked the state from putting him to death with nitrogen gas.

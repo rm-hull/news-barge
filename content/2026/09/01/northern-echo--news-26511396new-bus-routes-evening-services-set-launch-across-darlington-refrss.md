@@ -13,6 +13,33 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Bishopton
+- Darlington Arena
+- Darlington Railway Station
+- Esh
+- Glebe Road
+- Heighington
+- Middleton St George
+- Mowden
+- Neasham Road
+- Newton Aycliffe
+- SARAH CALDECOTT
+- Sadberge
+- School Aycliffe
+- Tees Valley
+- Teesside Park
+- West Park
+- West Park Hospital
+people:
+- Ben Houchen
+- Steve Harker
+organisations:
+- Cleveland Police
+- Darlington Borough Council
+- Queen Elizabeth Sixth Form College
+- TVCA
+- Tees Valley Combined Authority
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Eggborough
+- North Yorkshire
+- Selby
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: North Yorkshire Fire & Rescue Service)*

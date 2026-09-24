@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Grangetown
+- James Cook University Hospital
+- North Tees
+- North Tees Hospital
+- Stockton
+- Teesside
+- University Hospital
+- Yarm Lane
+people:
+- Ian Huntley
+organisations:
+- Cleveland Police
+- Manhunt
+- Stockton CID
+- Stockton Proactive Team
 ---
 
 *(Image: POLICE)*

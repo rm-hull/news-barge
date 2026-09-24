@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Helmsley
+- North Yorkshire
+- Scarborough
+- York
+- York’
+people:
+- Angela Rayner
+- Cllr Jefferson
+- David Skaith
+- Janet Jefferson
+organisations:
+- Castle Division
+- Combined Authority
+- Government
+- Hospitality Association York
+- Labour
+- Newsquest
+- North Yorkshire Combined Authority
+- North Yorkshire Independent
+- Overview and Scrutiny Committee
+- Policy Lab
 ---
 
 ## North Yorkshire mayor defends tourist levy amid fears for hospitality

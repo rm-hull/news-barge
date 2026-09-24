@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/21/16/trump-and-mamdani.png?trim=0,116,0,115&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Gracie Mansion
+- Haiti
+- Manhattan
+- New York
+- New York City
+- Queens
+- U.S.
+- White House
+people:
+- Donald Trump
+- Ronald Reagan
+- Zohran Mamdani
+organisations:
+- Columbia University
+- New York City
+- United Nations General Assembly
 ---
 
 Donald Trump once again heaped praise on Zohran Mamdani during an appearance at Gracie Mansion on Monday following an hour-long closed-door meeting between the president and New York City’s mayor.

@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aycliffe
+- BHF
+- Consett
+- County Durham
+- England
+- Joe Hall
+- NHS
+- North Cumbria County Durham
+- North East
+people:
+- Ben Aitken
+- Bryan Williams
+- David
+organisations:
+- BHF
+- British Heart Foundation
+- GP
+- NHS
 ---
 
 A County Durham man was left shocked after being told that he had a one in five chance of having a heart attack or stroke in the next decade, despite thinking he was 'broadly healthy'.

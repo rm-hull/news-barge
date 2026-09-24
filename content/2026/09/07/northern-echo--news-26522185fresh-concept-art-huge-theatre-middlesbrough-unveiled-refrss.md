@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- A66
+- Canary Wharf
+- Civic Centre
+- Darlington STEM
+- Dunning Street
+- Gresham
+- Gurney House
+- London
+- Middlehaven
+- Middlesbrough
+- North East
+- North-east
+- West End
+- YOUR
+people:
+- Boro’
+- Richard Horniman
+organisations:
+- AV Dawson and Behaviour UK
+- Academic Centre of Excellence for Surgery
+- Cleveland Police
+- Executive
+- JD Sports
+- James Cook University Hospital
+- MIDDLESBROUGH COUNCIL
+- Middlesbrough College
+- Middlesbrough Council
+- Middlesbrough Football Club
+- NHS
+- North East Chamber of Commerce
+- Public Notice Portal
+- Stage
+- Tees Valley Combined Authority
+- Teesside University
+- Troubadour Theatre
 ---
 
 *(Image: MIDDLESBROUGH COUNCIL)*

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- A1237 Outer Ring Road
+- Fountayne Street
+- Haxby Road
+- New Earswick
+- Walpole Street
+- Wigginton Road
+- York St John University City Residence
+people:
+- Kevin Glenton
+organisations:
+- Yorkshire Water
 ---
 
 *(Image: Kevin Glenton)*

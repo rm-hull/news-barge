@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bradford
+- Cross Roads
+- Fuerteventura
+- Manorlands Hospice
+- Oxenhope
+- Starlight Hike Worth Valley
+- StarlightWorthValley
+- Worth Valley
+people:
+- Emily
+- Hand-in)* Kat
+- Hazel
+- Hollie
+- KEVAN Carling
+- Kat *(Image
+- Katie
+- Kevan Carling
+- Matt
+- Robbie
+- Ryan
+- Sue Ryder
+organisations:
+- Sue Ryder Manorlands Hospice
 ---
 
 KEVAN Carling is determined to complete a 5km charity walk after breaking his leg in seven places.

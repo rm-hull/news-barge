@@ -12,6 +12,13 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21488715.jpg?type=og-image
+locations: []
+people:
+- Lion Andrew
+- Will Oxley
+organisations:
+- Kirkbymoorside Golf Club
+- Ryedale Lions
 ---
 
 A RECORD amount of money was raised at a charity golf day.

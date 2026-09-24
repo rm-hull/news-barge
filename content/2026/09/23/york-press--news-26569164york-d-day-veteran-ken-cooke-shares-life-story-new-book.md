@@ -12,6 +12,30 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/19401330.jpg?type=og-image
+locations:
+- Haxby Road
+- Hull Road
+- Lawrence Street
+- St Lawrence Parish Church
+- York
+people:
+- Amanda Stirk
+- Gillian MacDonald
+- Joan
+- Ken Cooke
+- Nick Beilby
+- Peter
+- Stephen
+organisations:
+- City of York Council
+- Freedom of the City
+- Freedom of the City of York
+- Millthorpe School
+- Newsquest
+- Normandy Veterans Association
+- Rowntree's
+- The Guildhall
+- York Normandy Veterans
 ---
 
 ## 101-year-old D-Day veteran from York shares life story in new book

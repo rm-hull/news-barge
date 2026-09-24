@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Israel
+- Nablus
+- West Bank
+- al-Mughayyir
+people:
+- Khalil Abu Alia
+- Mohammed Al-Naasan
+- Omar al-Naasan
+organisations:
+- BBC Funerals
+- United Nations
 ---
 
 # 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC

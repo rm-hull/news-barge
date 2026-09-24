@@ -12,6 +12,43 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Cologne-Bonn
+- Earth
+- Eastern Eifel
+- Frankfurt
+- Germany
+- Greenland
+- Heidelberg
+- Iceland
+- Italy
+- Japan
+- Kamchatka
+- Laacher See
+- Lake Laach
+- Mainz
+- Ochtendung
+- Rhine
+- Rhineland-Palatinate
+- Sweden
+- Volcanic Eifel
+- Westerwald
+people:
+- Franziska Müller
+- Joachim Ritter
+- Maria Laach
+- Martin Hensch
+- Torsten Dahm
+organisations:
+- Association of State Seismological Services
+- DLF
+- Earthquake and Volcano Physics
+- GPI
+- Geophysical Institute
+- Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences
+- KIT
+- Lake Laach
+- RMT
 ---
 
 **Franziska Müller**

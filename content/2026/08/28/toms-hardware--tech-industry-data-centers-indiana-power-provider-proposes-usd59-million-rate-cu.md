@@ -14,6 +14,28 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+- Indiana
+- Mount Pleasant
+- Oregon
+- U.S.
+- Virginia
+- Wisconsin
+people:
+- Jowi Morales
+- Maryam S. Brown
+- Tom
+organisations:
+- Google News
+- Hoosiers
+- I&M
+- IURC
+- Indiana Michigan Power
+- Indiana Utility Regulatory Commission
+- Jowi Morales
+- Microsoft
+- PJM Interconnection
 ---
 
 ![electricity transmission towers](https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g.png) 

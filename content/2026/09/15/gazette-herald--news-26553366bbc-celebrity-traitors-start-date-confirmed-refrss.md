@@ -14,6 +14,44 @@ categories:
 - York
 - News & Politics
 - Comedy & Entertainment
+locations:
+- BBC
+people:
+- Alan Carr
+- Amol Rajan
+- Bella Ramsey
+- Claudia Decides
+- Claudia Winkleman
+- Hannah Fry
+- James Acaster
+- James Blunt
+- Jerry Hall
+- Joanne McNally
+- Joe Lycett
+- Joe Marler
+- Jonathan Ross
+- Julie Hesmondhalgh
+- King Kenny
+- Leigh-Anne Pinnock
+- Maya Jama
+- Michael Sheen
+- Miranda Hart
+- Myha’la
+- Richard E Grant
+- Richard Osman
+- Rob Beckett
+- Romesh Ranganathan
+- Ross Kemp
+- Sebastian Croft
+- Sharon Rooney
+- Stephen Fry
+organisations:
+- BBC One
+- BBC Sounds
+- BBC iPlayer
+- Euan Cherry
+- Studio Lambert
+- TV
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

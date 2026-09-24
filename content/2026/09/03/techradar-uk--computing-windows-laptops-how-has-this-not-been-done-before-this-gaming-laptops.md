@@ -11,6 +11,18 @@ description: Japanese laptop boasts a clever cooling innovation that might catch
 image: https://cdn.mos.cms.futurecdn.net/DxdHRFXtcupEi746b5FutZ-1000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Iiyama
+- Japan
+people:
+- Iiyama
+- VideoCardz
+organisations:
+- Google News
+- Hachette UK
+- Iiyama PC
+- Microsoft
+- PC Kobo
 ---
 
 ![Iiyama PC Level 15FX167 laptop shown from the rear with stand extended](https://cdn.mos.cms.futurecdn.net/DxdHRFXtcupEi746b5FutZ.jpg) 

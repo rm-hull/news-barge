@@ -13,6 +13,36 @@ categories:
 - York
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- '**Subway'
+- Costa
+- Market Cross
+- Market Cross Selby
+- New Lane
+- North
+- Selby’s Market Cross
+people:
+- Costa
+- Jack McDonald
+- James Shepherd
+- Marc Talbot
+- Ron
+- Sim Trava
+- Simon Vardy
+- Teresa Leach Green
+- Tracey
+- Tracy Vardy
+organisations:
+- Costa Coffee
+- Dransfield Properties
+- Elaine’s Cards
+- Emy Spinks
+- Gifts
+- Grape Tree
+- Market Cross
+- Pic
+- Regional Manager
+- Selby's Market Cross
 ---
 
 Costa Coffee has reopened in Selby with a brand-new look.

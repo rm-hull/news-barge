@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Fishergate
+- Long Close Lane
+- Navigation Road
+- Walmgate Barbican
+- Willow House
+- YOUR
+- York
+people:
+- Cllr Merrett
+- Cllr Ravilious
+- Cllrs Merrett
+- Dave Merrett
+- Kate Ravilious
+- Pete Kilbane
+organisations:
+- Blue Badge
+- City of York Council
+- Executive
+- NIP
+- North Yorkshire Combined Authority
+- Public Notice Portal
+- The Press
 ---
 
 ## Almost £1m of 'regeneration' planned for York neighbourhood

@@ -12,6 +12,21 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2025/11/10/15/0b7a9d7fab6f700c369922e70c149ef2Y29udGVudHNlYXJjaGFwaSwxNzYyODc0ODYy-2.79967282.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Algarve
+- Portugal
+- Praia da Luz
+- Spain
+- UK
+people:
+- Christian Brueckner
+- Gerry McCann
+- Kate
+- Maddie
+- Madeleine McCann
+organisations:
+- CPS
+- The Telegraph
 ---
 
 A paedophile and rapist who is the police’s prime suspect in Madeleine McCann’s disappearance has admitted he was “150 yards” from the resort where she was staying when she disappeared.

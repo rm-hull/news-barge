@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6ab12d4404b6c597147.jpg
+locations:
+- North Yorkshire
+people:
+- Andrew Stenson
+- Kirsty Greenbank
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab12d4404b6c597147.jpg)

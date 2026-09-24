@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/19649844.jpg?type=og-image
+locations:
+- Bingley East
+- Bradford
+- Cross Roads
+- Keighley
+- Sugden End
+people:
+- Bradford
+- Susan Fricker
+organisations:
+- Bradford Council
+- Bradford Council’s Executive
+- Bradfords
+- Labour
+- Regeneration and Environment Scrutiny Committee
 ---
 
 *(Image: Bradford 2025)*

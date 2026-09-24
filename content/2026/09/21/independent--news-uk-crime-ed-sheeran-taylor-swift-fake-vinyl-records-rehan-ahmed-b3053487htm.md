@@ -11,6 +11,32 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/10/01M31NB081JPTYES89C4M8FZY8.jpg?trim=0,348,0,348&width=1200&height=800&crop=1200:800
+locations:
+- Acton
+- Cranleigh Gardens
+- Inner London Crown Court
+- Southall
+- UK
+people:
+- Adele
+- Ariana Grande
+- Bad Bunny
+- Beatles
+- Beyonce
+- Daryl Fryatt
+- Drake
+- Ed Sheeran
+- Peter Ratcliffe
+- Rehan Ahmed
+- Taylor Swift
+organisations:
+- BPI
+- British Phonographic Industry
+- City of London Police
+- PA
+- PIPCU
+- Phoenix of Vinyl
+- Rihanna
 ---
 
 A vinyl forger who generated £2.7 million over seven years by pressing fake records by artists including the Beatles, Taylor Swift and Ed Sheeran has been jailed.

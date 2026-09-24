@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21481345.jpg?type=og-image
+locations: []
+people: []
+organisations:
+- THE NIGHTS
 ---
 
 THE NIGHTS are drawing in so to bring a bit of cheer we have taken a look at some colourful pictures around a circus theme.

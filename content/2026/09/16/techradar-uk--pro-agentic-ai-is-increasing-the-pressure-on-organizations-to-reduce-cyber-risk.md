@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Dan Jones
+- Sysdig
+organisations:
+- CISA
+- EMEA
+- Five Eyes
+- Future plc
+- IT
+- NCSC
+- OpenAI
+- Tanium
+- TechRadar Pro
+- TechRadarPro
+- Verizon
+- Western AI
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

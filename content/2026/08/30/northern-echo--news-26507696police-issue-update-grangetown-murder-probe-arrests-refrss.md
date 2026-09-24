@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- Birchngton Avenue
+- County Durham
+- Grangetown
+- James Cook University Hospital
+- Newcastle
+- Teesside
+people:
+- Andy Burnham
+- Matthew Blades
+- Natalie McDonald
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Northern Echo
+- RVI
 ---
 
 A man arrested on suspicion of murder after a fire that killed a seven-year-old girl and her aunt has been released.

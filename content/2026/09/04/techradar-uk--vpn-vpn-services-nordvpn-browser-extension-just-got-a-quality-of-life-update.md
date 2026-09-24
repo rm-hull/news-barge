@@ -9,6 +9,17 @@ description: The upgrade brings a redesign of UI features and an improved search
 image: https://cdn.mos.cms.futurecdn.net/qNLgpZ6nDjvy3692v79aRH-619-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Silvia Iacovcich
+organisations:
+- Chrome
+- Edge
+- Google News
+- No Trace
+- NordVPN
+- Silvia Iacovcich
+- VPN
 ---
 
 ![NordVPN browser extension graphic](https://cdn.mos.cms.futurecdn.net/qNLgpZ6nDjvy3692v79aRH.png) 

@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/htuMjEoKqbKTEhVHwkGHNV-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Japan
+people:
+- Carrie Marshall
+organisations:
+- AI
+- AVC
+- DMR-4X1010
+- Google Drive
+- Google News
+- Microsoft OneDrive
+- Panasonic
+- Unquiet Mind
 ---
 
 ![The Panasonic DMR-4X1010 Blu-ray player on a white surface with a pink background](https://cdn.mos.cms.futurecdn.net/htuMjEoKqbKTEhVHwkGHNV.jpg) 

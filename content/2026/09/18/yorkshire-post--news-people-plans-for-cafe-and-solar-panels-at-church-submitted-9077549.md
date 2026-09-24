@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Chapel Allerton Conservation
+- Chapel Allerton Methodist Church
+- Leeds
+- Town Street
+people: []
+organisations:
+- Leeds City Council
 ---
 
 # Plans for cafe and solar panels at church submitted

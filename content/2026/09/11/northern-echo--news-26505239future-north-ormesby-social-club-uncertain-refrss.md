@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Middlesbrough
+- North East
+- North Ormesby
+people:
+- John Taylor
+- Kendra
+- Kevin
+- Timpson
+organisations:
+- Darlington Poundland
+- Martins Bank
+- Newday Group Holdings
+- North Ormesby Institute
 ---
 
 The future of a Middlesbrough social club remains uncertain after the man tasked with keeping it running admits: "I don't know what the future holds."

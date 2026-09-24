@@ -14,6 +14,49 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Australia
+- Coppergate
+- France
+- Girona
+- Greece
+- Heworth
+- Italy
+- Lord Mayor's Walk
+- Mick Morgan
+- New Zealand
+- North Island
+- Nunnery Lane
+- Parliament Street
+- Queensland
+- Rougier Street
+- Rowntree Park
+- Scarborough
+- Silver Street
+- Spain
+- St Georges Field
+- St George’s Field
+- St Leonard’s Place
+- Tauranga
+- UK
+- Union Terrace
+- York Lindsay
+people:
+- Adam Brady
+- Colin
+- Edwina
+- Geraldine
+- Jaz
+- Kevin Glenton
+- Lindsay
+- Mick Morgan
+- Nick
+- Sheila Richardson
+organisations:
+- City of York Council
+- Healthmatic
+- RADAR
+- Royal Association for Disability and Rehabilitation
 ---
 
 ## We found out if people are happy spending 50p to use public toilets in York

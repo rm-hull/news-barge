@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- England
+- Europe
+- Spain
+people:
+- '## Barca'
+- Anthony Gordon
+- Deco
+- Fermin Lopez
+- Gary Lineker
+- Hansi Flick
+- Harry Kane
+- Kylian Mbappe
+- Lamine Yamal
+- Marcus Rashford
+- Raphinha
+organisations:
+- Barcelona
+- Bayern Munich
+- Elche
+- Magpies
+- Newcastle United
+- Nou Camp
+- Premier League
+- Real Madrid
 ---
 
 ![Anthony Gordon, in Barcelona's blue-and-red training kit, sits on the bench during a match](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg)

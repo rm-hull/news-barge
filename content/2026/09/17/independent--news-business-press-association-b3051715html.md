@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Will Gardiner
+organisations:
+- BSIF
+- Bluefield Solar Income Fund
+- Drax
+- National Energy System Operator
+- Neso
 ---
 
 Power generation firm Drax has lifted its profit outlook for the year after demand was boosted by the summer heatwave.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Oklahoma
+- Osage County
+- Palo Pinto County
+- Southlake
+- Texas
+- White House
+people:
+- '![Morris'
+- Bill Mateja
+- Cindy Clemshire
+- Clemishire
+- Debbie
+- Donald Trump
+- Morris’
+- Robert Morris
+organisations:
+- CBS News Texas
+- Gateway Church
+- Morris’ Gateway Church
 ---
 
 Disgraced former megachurch pastor Robert Morris, who was once Donald Trump’s spiritual advisor, was seen sporting a black eye in a new sex offender registry photo.

@@ -15,6 +15,34 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Bradford City Hall
+- Centenary Square
+- City Hall
+- Dales
+- Darrowby
+- Yorkshire
+people:
+- Alfred
+- Dorothy
+- Geoff Hatfield
+- Hall
+- Helen Herriot
+- Imogen Clawson
+- James Herriot
+- Jenny Alderson
+- Jimmy
+- Nicholas Ralph
+- Nicolas Ralph
+- Rachel Shenton
+- Richard
+- Siegfried
+- Tristan
+organisations:
+- Bradford
+- Bradford's City Hall
+- Channel 5
+- Yorkshire Dales
 ---
 
 NEW pictures have been released by a television company showing how Bradford's City Hall provided a atmospheric backdrop for the latest series of All Creatures Great and Small.

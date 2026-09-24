@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Gulf
+- Iran
+- Tehran
+- U.S.
+- West Asia
+people:
+- Ayatollah Ali Khamenei
+- Mojtaba Khamenei
+- Prophet Muhammad
+organisations:
+- Khamenei’s Telegram
 ---
 
 Iran’s Supreme Leader Mojtaba Khamenei has urged Muslim nations, particularly those in the Gulf, to unite against their "real enemy", warning that divisions among Muslims serve the interests of their adversaries.

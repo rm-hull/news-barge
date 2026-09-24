@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Australia
+- Gold Coast
+people:
+- Tiffanie Turnbull
+organisations:
+- BBC
+- Griffith University and Sea World Foundation
 ---
 
 # Watch: Can humpback whales experience grief?

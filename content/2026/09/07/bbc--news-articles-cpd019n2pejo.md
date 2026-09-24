@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Blackburn.** Lancashire Police
+- Hardman Street
+people:
+- Terri Mahmood
+organisations:
+- BBC
+- CCTV
 ---
 
 ![A blue and white forensic tent stands on a residential pavement between parked vans and a row of terraced houses.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ee5/live/646e8020-aab2-11f1-a291-b542ee92de7c.jpg)

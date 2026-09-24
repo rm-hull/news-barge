@@ -12,6 +12,27 @@ image: https://images.euronews.com/articles/stories/09/90/90/72/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Algeria
+- Ceuta
+- Madrid
+- Melilla
+- Morocco
+- Rabat
+- Spain
+- Tindouf
+- Western Sahara
+people:
+- Sumar
+- Tesh Sidi
+organisations:
+- Junts
+- People's Party
+- Polisario Front
+- Senate
+- Socialist Party
+- United Nations
+- Vox
 ---
 
 ## Although the exact number of beneficiaries is unknown, around 80,000 Sahrawis are believed to be eligible, with some estimates reaching almost 200,000 when including descendants.

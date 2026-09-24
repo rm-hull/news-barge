@@ -14,6 +14,61 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://media.wired.com/photos/6ab16f96d7da415dff5145af/191:100/w_1280,c_limit/Politics_The%20UK%20Government%20Is%20Heading%20For%20A%20Reckoning%20Over%20Palantir_v2.jpg
+locations:
+- Britain
+- Downing Street
+- England
+- Liverpool
+- Manchester
+- Palantir
+- UK
+- US
+- Washington
+- Westminster
+- White House
+- Whitehall
+people:
+- Andy Burnham
+- Carnall Farrar
+- Clive Lewis
+- Donald Campbell
+- Howard Lutnick
+- Joe Lonsdale
+- Keir Starmer
+- Lord Spellar
+- Louis Mosley
+- Michael Ellam
+- Oswald Mosley
+- Palantir
+- Rachael Maskell
+- Stephen Miller
+- Tony Blair
+- Trump
+- Varun Chandra
+organisations:
+- AI
+- Big Tech
+- Cabinet Office
+- Commerce
+- Democracy for Sale
+- Department for Health
+- Department of Health and Social Care
+- FDP
+- Financial Times
+- Foxglove
+- Hakluyt Capital
+- Labour Party
+- MAGA
+- NATO
+- NHS Federated Data Platform
+- National Health Service
+- New Statesman
+- Palantir
+- Palantir’s
+- Secret Intelligence Service
+- Socialist Campaign Group
+- WIRED
+- Westminster
 ---
 
 When Andy Burnham sat in his office in Manchester as the regional mayor, building an unrivaled power base on Britain’s left that ultimately catapulted him into the prime minister’s office, he did so in the only region of England that refused Palantir access to its data.

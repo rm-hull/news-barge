@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belgorod
+- Dnipropetrovsk
+- Donetsk
+- Kherson
+- Kovel
+- Kyiv
+- Mykolaiv
+- Nikopol
+- Poltava
+- Russia
+- U.S.
+- Ukraine
+people:
+- Alexander Shuvayev
+- Andrii Sybiha
+- Donald Trump
+- Jared Kushner
+- Oleksandr Hanzha
+- Steve Witkoff
+- Tymur Tkachenko
+- Volodymyr Zelenskyy
+organisations:
+- CBS News
+- Defense Ministry
+- Telegram
 ---
 
 A Russian drone struck a passenger bus in southern Ukraine early Wednesday, killing five people and wounding at least seven. President Volodymyr Zelenskyy described the attack, the latest in a series of Russian strikes on civilian transportation, as an “atrocity.”

@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/01/13/Kyrgyzstan_SCO_Summit_1662
 categories:
 - News & Politics
 - UK
+locations:
+- China
+- India
+- Iraq
+- Islamic Republic of Iran
+- Japan
+- Kyrgyzstan
+- Middle East
+- Oman
+- Persian Gulf
+- Russia
+- Strait of Hormuz
+- Syria
+- U.S.
+- US
+- United States
+- Washington
+people:
+- Masoud Pezeshkian
+- Sanae Takaichi
+- Vladimir Putin
+organisations:
+- Ambrey
+- Cabinet
+- Islamic State
+- Revolutionary Guard
+- SDF
+- Shanghai Cooperation Organization
+- Supreme Judicial Council
+- Syrian Democratic Forces
+- UKMTO
+- United Kingdom Maritime Trade Operations Centre
 ---
 
 Iran's president said Tuesday his country is ready to return to the ceasefire deal reached with the United States in June if Washington does the same, in conciliatory remarks following the first exchange of fire between the two countries in a month.

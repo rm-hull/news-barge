@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cardiff
+- Cletic Park
+- Edinburgh
+- Etihad
+- Glasgow
+- Hertfordshire
+- Knebworth Park
+- London
+- Manchester City
+- Melbourne
+- Mexico City
+- Sao Paolo
+- Tokyo
+- UK
+people:
+- Jordan Pettitt
+- Liam
+- Noel Gallagher
+organisations:
+- '## Oasis'
+- Etihad
+- Instagram
+- Oasis’
+- PA Wire
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

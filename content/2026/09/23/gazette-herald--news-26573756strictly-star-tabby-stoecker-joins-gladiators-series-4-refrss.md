@@ -14,6 +14,30 @@ categories:
 - Sports
 - Film & TV
 image: https://www.gazetteherald.co.uk/resources/images/20432023.jpg?type=og-image&xType=0&yType=170
+locations: []
+people:
+- Barney Walsh
+- Bradley
+- Gladiators
+- Jamie Bigg
+- Joe Marler
+- Lystus Ebosele
+- Mark Karmalita
+- Mauler
+- Tabby Stoecker
+- Tom Stoltman
+organisations:
+- '## New Gladiators'
+- BBC One
+- BBC iPlayer
+- Cyclone
+- GLADIATOR READYYYY
+- Giant
+- Gladiators She
+- Hungry Bear Media Ltd
+- Instagram
+- Nick Eagle
+- Team GB
 ---
 
 *(Image: BBC/Nick Eagle/Hungry Bear Media Ltd)*

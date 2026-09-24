@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford Road
+- Cleckheaton
+people:
+- Bond
+- Fozia Aziz
+- Nasir Aziz
+organisations:
+- County Court
+- DCBL
+- Jalwa Ltd
+- Leeds County Court
+- Telegraph & Argus
+- The Monal By Jalwa Ltd
+- Writ of Control
 ---
 
 A wedding venue company, whose premises were forced to close, still owes £10,000 after a judge rejected its attempt to overturn a County Court judgment.

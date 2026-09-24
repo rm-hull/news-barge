@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Britain
+- Iran
+- Middle East
+- PA
+- UK
+- US-Israel
+people:
+- Barratt Redrow
+- Caroline Silver
+- Steve Parsons
+organisations:
+- Bank of England
+- Barratt Redrow
+- Berkeley Group
+- Government
+- Kier Group
 ---
 
 Barratt Redrow has slowed land buying and cut its outlook for home sales in the year ahead as it warned the Government that planning reforms were “not enough”.

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford’s
+people:
+- Ian Walker
+- Jake Keating
+organisations:
+- Bradford Council
+- Bradford Markets
+- Darley Street Market
+- Keighley Market
+- The Homburg
 ---
 
 *(Image: Supplied)*

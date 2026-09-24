@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- York
+people: []
+organisations:
+- Colin Irvine
+- North Yorkshire Police
 ---
 
 Police are investigating after fake banknotes were used in a doorstep sale.

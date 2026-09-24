@@ -13,6 +13,32 @@ categories:
 - UK
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Calabasas
+- California
+- Florida
+- Miami International Airport
+people:
+- BinxBasilisk
+- Carlos Acosta Fajardo
+- ChickenAndy
+- Jack Sweeney
+- Javierkys Reyes Quevedo
+- Julio C. Pineda
+- Rolando Aleman Leon
+- Someone
+- Yoel Rodriguez Naranjo
+- “BinxBasilisk
+organisations:
+- Amazon Airlines
+- Amazon Prime Air
+- Instagram
+- Miami International Airport
+- Miami-Dade Police Department
+- Miami-Dade Sheriff’s Office
+- National Transportation Safety Board
+- The Independent
 ---
 
 A live-streamer who filmed the scene of a deadly plane crash and posted it on his revenue-generating channel is unrepentant and won’t be taking it down, he told *The Independent*, despite fierce online backlash.

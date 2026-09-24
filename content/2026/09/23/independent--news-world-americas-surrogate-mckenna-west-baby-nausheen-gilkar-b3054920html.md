@@ -12,6 +12,21 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/25/23/Surrogate_Medical_Treatment_91_41.jpg?width=1200&height=800&crop=1200:800
+locations:
+- California
+- Dallas
+- Texas
+people:
+- Elena Kagan
+- Gabriel
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+organisations:
+- CDC
+- Supreme Court
+- U.S. Supreme Court
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

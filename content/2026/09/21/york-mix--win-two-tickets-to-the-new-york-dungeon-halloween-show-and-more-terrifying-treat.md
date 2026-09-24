@@ -13,6 +13,16 @@ categories:
 - York
 - Film & TV
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/3M1A1233.webp
+locations:
+- Born
+- Knaresborough
+- UK
+people:
+- Mother Shipton
+organisations:
+- Merlin Entertainments
+- York Dungeon
+- YorkMix
 ---
 
 The York Dungeon has a fantastically frightening new show for Halloween…

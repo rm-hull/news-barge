@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Aden
+- Arabian Peninsula
+- Bab al-Mandeb
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Gaza
+- Gulf
+- Iran
+- Jerusalem
+- Lebanon
+- Mokha
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Yemen
+people:
+- Ahmed Haj
+- Ahmed Nagi
+- Ayatollah Ali Khamenei
+- Mokha
+organisations:
+- Hamas
+- Hezbollah
+- International Crisis Group
+- ___ Anna
 ---
 
 Yemen is moving closer to a return to civil war. The escalating events in the Arab world's poorest country are closely linked to the war in Iran and global efforts to ship oil out of the Gulf region.

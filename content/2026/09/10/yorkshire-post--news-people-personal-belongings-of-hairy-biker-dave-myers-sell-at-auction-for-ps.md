@@ -14,6 +14,24 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Berks
+- Newbury
+people:
+- Dave Myers
+- Hairy Biker Dave Myers
+- Hein Gericke
+- Kala Ukulele
+- Laurent Perrier Champagne
+- Lili Myers
+- Si King
+- Thomas Forrester
+organisations:
+- Hairy Biker Dave Myers
+- NSPCC
+- SAS
+- Special Auction Services
+- SpongeBob Square Pants
 ---
 
 # Personal belongings of Hairy Biker Dave Myers sell at auction for £20,000

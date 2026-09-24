@@ -12,6 +12,43 @@ image: https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Australia
+- Baltimore
+- Canada
+- Fiji
+- Higashiosaka
+- Japan
+- NZ
+- New Zealand
+- New Zealand.
+- South Africa
+- South Africa.
+- Tokyo
+- UK
+- US
+- USA
+- United States
+- canada
+- uk
+people:
+- Adam Marshall
+- Eddie Jones
+- Elia Canakaivata
+- Stan
+organisations:
+- Canucks
+- Eagles
+- Future Publishing
+- PNC
+- Paramount Plushas
+- Sky Sport
+- Sky Sport NZis
+- SuperSport
+- TSN
+- TechRadar
+- Tom's Guide
+- Walmart
 ---
 
 ![Elia Canakaivata of Fiji dives in to score a try.](https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd.jpg) 

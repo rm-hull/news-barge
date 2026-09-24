@@ -15,6 +15,19 @@ categories:
 - UK
 - Sports
 - Technology & Software
+locations:
+- China
+- Shanghai
+people:
+- Loek Hartog
+- Ollie Millroy
+organisations:
+- AAI Motorsports
+- Instagram
+- No. 79
+- No. 91
+- Phantom Team
+- Shanghai International Circuit
 ---
 
 A car racing team whose injured driver was rescued by another competitor after a horrific crash in Shanghai on Saturday has called the organizers “grossly negligent in the safety response” and said it is withdrawing from future events in China.

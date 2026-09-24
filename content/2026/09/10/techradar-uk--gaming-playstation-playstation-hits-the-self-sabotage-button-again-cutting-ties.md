@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/wCoJZLka9LsHrUBnP83kqn-2400-80.png
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- GameRant
+people:
+- Asha Sharma
+- Hermen Hulst
+- Hideo Kojima
+- Isaiah Williams
+- Kojima-san
+organisations:
+- Birmingham City University
+- Google News
+- Isaiah
+- Kojima Productions
+- Konami
+- OD
+- PC Guide
+- Physint
+- PlayStation Studios
+- Sony
+- TechRadar
+- Xbox
 ---
 
 ![Hermen Hulst and Hideo Kojima announcing collaboration backdrop](https://cdn.mos.cms.futurecdn.net/wCoJZLka9LsHrUBnP83kqn.png) 

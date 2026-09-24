@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Alne Road
+- North Yorkshire
+- Tollerton
+- Wallsall
+people:
+- Griffin
+organisations:
+- FK Building Ltd of Harrogate
+- HMRC
+- Lloyds Bank
+- Mythophonic Ltd
 ---
 
 *(Image: Street View)*

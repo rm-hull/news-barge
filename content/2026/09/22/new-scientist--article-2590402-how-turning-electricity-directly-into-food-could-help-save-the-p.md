@@ -12,6 +12,36 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313513484.jpg
+locations:
+- China
+- Denmark
+- Europe
+- Finland
+- Methane
+- Riverside
+- Saudi Arabia
+- Singapore
+- US
+people:
+- Calysta
+- Pasi Vainikka
+- Remko Boom
+- Robert Jinkerson
+organisations:
+- Acetate Consortium
+- Aerbio
+- Air Protein
+- Calysta
+- EU
+- European Union
+- Nolux
+- Norferm
+- Savor
+- Solar Foods
+- Solein
+- Unibio
+- University of California
+- University of Copenhagen
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313513484.jpg?w=840)

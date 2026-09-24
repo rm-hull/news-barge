@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Greenbox Darlington
+- Miss England
+- Tornado Way
+people:
+- James Appleton-Metcalfe
+- Seth Pearson
+organisations:
+- A66
+- Amazon
+- Citivale and Partners Group
+- Cummins
+- DEEP
+- Darlington Borough Council
+- Darlington Cares
+- Darlington College
+- Darlington Employers Environmental Partnership
+- Greenbox Darlington
+- Teesside International Airport
+- Teesside University
+- Winvic
+- Wolseley
 ---
 
 *(Image: SUPPLIED)*

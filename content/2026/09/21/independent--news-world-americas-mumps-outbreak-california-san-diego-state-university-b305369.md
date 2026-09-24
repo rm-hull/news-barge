@@ -12,6 +12,20 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/21/16/42/GettyImages-1207623230.jpeg?trim=53,0,54,0&width=1200&height=800&crop=1200:800
+locations:
+- Harvard
+- Maryland
+- New York City
+- Southern California
+- U.S.
+people:
+- Tanushree Ghosh
+organisations:
+- CDC
+- San Diego County Health and Human Services Agency
+- San Diego State University
+- SoCal
+- U.S. Centers for Disease Control and Prevention
 ---
 
 An outbreak of jaw-swelling mumps at Southern California’s San Diego State University has been linked to several students athletes -- but it seems to be contained for now.

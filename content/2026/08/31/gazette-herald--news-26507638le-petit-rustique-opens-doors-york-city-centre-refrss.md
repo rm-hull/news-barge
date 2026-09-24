@@ -15,6 +15,19 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 - Travel
+locations:
+- Castlegate
+- France
+- Rustique
+- York
+people:
+- Bienvenue chez Le Petit Rustique
+- Kevin Glenton
+- Laurent Forestier
+- Le Petit Rustique
+organisations:
+- Le Petit Rustique
+- The Press
 ---
 
 A NEW French bistro and wine bar opens its doors in York today (Monday, August 31).

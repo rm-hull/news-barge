@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Caribbean
+- Cuba
+- Iberia
+- Latin America
+- U.S.
+people:
+- Donald Trump
+- Meliá
+organisations:
+- Air France
+- Iberostar
+- Mastercard
+- National Office of Statistics and Information
+- ONEI
+- Royalton
+- Turkish Airlines
+- U.S. State Department
+- Visa
+- World2Fly
 ---
 
 Cuba’s tourism has nosedived since the U.S. has ramped up its pressure on the island this year, threatening international tour operators and imposing an energy embargo.

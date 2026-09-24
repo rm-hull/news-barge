@@ -12,6 +12,13 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21483727.jpg?type=og-image
+locations:
+- Ashberry Bridge
+- North Yorkshire
+- Rievaulx
+people: []
+organisations:
+- North Yorkshire Council
 ---
 
 *(Image: Freelancer)*

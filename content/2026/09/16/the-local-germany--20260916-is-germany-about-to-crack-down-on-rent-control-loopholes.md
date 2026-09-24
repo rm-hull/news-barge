@@ -14,6 +14,18 @@ categories:
 - Germany
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Berlin
+- Germany
+- GermanyHubig
+people:
+- Stefanie Hubig
+organisations:
+- DMB
+- Federal Justice
+- Funke Media Group
+- German Tenants' Association
+- SPD
 ---
 
 For years, Germany's housing debate has centred on a familiar complaint: there are too few affordable homes and rents keep rising.

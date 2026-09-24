@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- US
+people:
+- Blake Montgomery
+- Jonathan Freedland
+- Trump
+organisations:
+- AI
+- Trump
+- podcast Tech
 ---
 
 - 

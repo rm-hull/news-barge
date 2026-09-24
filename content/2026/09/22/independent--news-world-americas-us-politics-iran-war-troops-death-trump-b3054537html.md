@@ -13,6 +13,40 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/20/36/GettyImages-2265308261.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Delaware
+- Hawaii
+- Iran
+- Iraq
+- Jordan
+- Middle East
+- New York
+- North Carolina
+- South Carolina
+- Texas
+- U.S.
+- US
+- Washington
+people:
+- Angel S. Rampersad
+- Donald Trump
+- Isabella Gonzales
+- Michael Emmanuel Swinton
+- Nancy Mace
+- Pete Hegseth
+- Tyler James Feehan
+organisations:
+- Army
+- DCAS
+- Defense Department
+- Delaware’s Dover Air Force Base
+- Dover Air Force Base
+- Fox News
+- Muwaffaq Salti Air Base
+- Pentagon
+- Task & Purpose
+- The Independent
+- The Washington Post
 ---
 
 The Pentagon updated its official casualty database to list 19 total U.S. military deaths related to the war with Iran after quietly adding a new fatality.

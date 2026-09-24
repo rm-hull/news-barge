@@ -11,6 +11,32 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8781/live/6da35d
 categories:
 - UK
 - News & Politics
+locations:
+- Berkshire
+- Downing Street
+- England
+- Wales
+people:
+- Albert Bowers
+- Andrew Harper
+- Andrew Harper.
+- Andy Burnham
+- Chris Philp
+- Claire Keenan
+- Debbie Adlam
+- Henry Long
+- Jack Fenwick
+- Jessie Cole
+- Lissie Harper
+- PC Harper
+- Roger Johnson
+organisations:
+- BBC Breakfast
+- IPP
+- Labour
+- Ministry of Justice
+- Parole Board
+- Reading Magistrates Court
 ---
 
 Watch: PM confirms PC Harper's killers will remain in prison

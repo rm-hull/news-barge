@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Brighton
+- England
+- Gaza
+- Holborn
+- Israel
+- Jerusalem
+- Palestine
+- St Pancras
+- UK
+- Wales
+people:
+- Green
+- Jeremy Corbyn
+- Keir Starmer
+- Zack Polanski
+organisations:
+- Green
+- Greens
+- Greens’
+- Labour
 ---
 
 The Greens are pushing Zack Polanski to take a stance on a potential party policy stating “Zionism is racism”, with some fearing it could alienate Jewish supporters if it was passed.

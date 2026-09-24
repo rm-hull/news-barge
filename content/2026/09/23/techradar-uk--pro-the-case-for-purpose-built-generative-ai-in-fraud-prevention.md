@@ -11,6 +11,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+locations: []
+people: []
+organisations:
+- AI
+- FICO
+- Future plc
+- GPU
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg)

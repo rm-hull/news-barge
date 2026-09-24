@@ -17,6 +17,26 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 - Society & Culture
+locations:
+- Batemoor
+- Fox Hill
+- Gresley Road
+- Jordanthorpe
+- Lowedges Community Centre
+- Place
+- Sheffield
+people:
+- Brian Holmshaw
+- Dave Luck
+- David Luck
+- Gill Furness
+- Louise Haigh
+organisations:
+- Parson Cross
+- Sheffield City Council
+- Sheffield Heeley
+- Sheffield Pride in Place
+- Sheffield Wednesday
 ---
 
 # Sheffield Pride in Place projects – local people lead the way in deciding £20m improvements for their communities

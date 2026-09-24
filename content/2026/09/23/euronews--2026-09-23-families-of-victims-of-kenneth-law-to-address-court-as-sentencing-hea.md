@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - True Crime
 image: https://images.euronews.com/articles/stories/09/92/43/02/1200x675_cmsv2_54369520-df45-5680-9134-d3e252cba7ee-9924302.jpg
+locations:
+- Brazil
+- Britain
+- Canada
+- China
+- France
+- Newmarket
+- Surrey
+- Toronto
+- UK
+- United Kingdom
+people:
+- '## Law'
+- Jeshennia Bedoya-Lopez
+- Kenneth Law
+- Leonardo Bedoya
+- Michelle Fuerst
+- Tom Parfett
+organisations:
+- Globe and Mail
+- National Crime Agency
 ---
 
 ## Law admitted targeting buyers on a suicide forum and shipping his products to 41 countries, and families angry that he escaped murder charges will now tell the court how their loved ones' deaths affected them.

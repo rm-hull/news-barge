@@ -13,6 +13,11 @@ image: https://static.independent.co.uk/2026/09/16/20/Kennedy_Center_28816.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Kennedy Center
+people:
+- Donald Trump
+organisations: []
 ---
 
 Photos of the Kennedy Center as Trump-aligned board prepares to close it for repairs

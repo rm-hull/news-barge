@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Edmunds
+- Edmunds’
+people:
+- Bradley Iger
+- Kia Seltos Edmunds
+organisations:
+- CR-V
+- Cargo
+- EPA
+- Edmunds
+- HR-V EX-L
+- Honda HR-V
+- Kia Seltos
+- Kia Seltos Power
+- The Associated Press
 ---
 
 Crossovers have become a popular choice for buyers who want the practicality of an SUV without the size and expense of a larger vehicle. For many shoppers, that means finding a vehicle that’s easy to live with, offers enough room for everyday duties, keeps fuel costs in check, and provides the versatility to be useful for a range of needs. The 2027 Honda HR-V and 2027 Kia Seltos both make a case for that balance, but they take somewhat different approaches to the formula.

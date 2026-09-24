@@ -14,6 +14,27 @@ categories:
 - Germany
 - News & Politics
 - History
+locations:
+- Berlin
+- Cathedral Square
+- Cologne
+- Germany
+- Halle
+- Magdeburg
+- Magdeburg.
+- Saxony-Anhalt
+- TikTok
+people:
+- Josephin Winkler
+- Marcant
+- Rachel Loxton
+organisations:
+- AfD
+- Alternative for Germany
+- Der Spiegel
+- Die Zeit
+- Green
+- Greens
 ---
 
 The fact that we all saw it coming somehow didn’t make it any less shocking. On Monday morning news magazine Der Spiegel described the state election results from Saxony-Anhalt as “a political earthquake of magnitude 9.0”.

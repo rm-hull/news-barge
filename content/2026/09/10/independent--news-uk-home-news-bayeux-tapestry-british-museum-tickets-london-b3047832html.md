@@ -12,6 +12,17 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Bayeux
+- England
+- France
+- Great Russell Street
+- London
+- UK
+people:
+- Michael Lewis
+organisations:
+- British Museum
 ---
 
 Crowds of people are queuing up to see the Bayeux Tapestry exhibition, which is being displayed at the British Museum for the first time.

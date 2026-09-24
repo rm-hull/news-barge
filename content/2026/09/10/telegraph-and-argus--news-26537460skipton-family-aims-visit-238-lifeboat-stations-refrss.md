@@ -14,6 +14,37 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bridlington
+- Cornwall
+- Craster
+- Dryland
+- Flamborough
+- Gargrave
+- Ireland
+- Norfolk
+- Northumberland
+- Rebecca Shaw
+- Redcar
+- Runswick
+- Scotland
+- Staithes
+- Twin Locks Garden Centre
+- UK
+- Yorkshire Coast
+people:
+- Alice
+- Mabel
+- Megan Dryland
+- Mum
+- Rebecca Shaw
+- Thomas Mallinder
+organisations:
+- Instagram
+- Parish Church School
+- RNLI
+- SKIPTON
+- Skipton Parish School
 ---
 
 *(Image: Rebecca Shaw)*

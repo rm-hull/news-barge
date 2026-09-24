@@ -10,6 +10,26 @@ description: Is an AI kill switch even possible?
 image: https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Craig Hale
+- Danial Kokotajlo
+- Lord Clement-Jones
+organisations:
+- AI
+- AWS
+- Adobe
+- Anthropic
+- BBC
+- Cabinet Office
+- Craig’s
+- Google News
+- House of Lords
+- Microsoft
+- OpenAI
+- TechRadar Pro
 ---
 
 ![AI crime](https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z.jpg) 

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/15726968.jpg?type=og-image&yType=170
+locations:
+- High Street
+- JET Darlington Road
+- JET Staindrop Road
+- Morrisons Morton Park
+- Newton Park Service Station
+- Oakley Service Station
+- Shell Newton Aycliffe
+- Tesco Newton Aycliffe
+people: []
+organisations:
+- Asda Darlington Automat
+- Bishopton Service Garage
+- Forest Park Services
+- Morrisons Darlington
+- Morrisons Morton Park
+- Sainsburys Bishop Auckland
+- Sainsburys Darlington
+- Sainsburys Whitehouse Farm Automat
+- Shell Newton Aycliffe
+- Tesco Bishop Auckland
 ---
 
 *(Image: Archive)*

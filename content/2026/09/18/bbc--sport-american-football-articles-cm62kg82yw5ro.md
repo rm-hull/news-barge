@@ -13,6 +13,53 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- America
+- Arizona State
+- Crystal Palace
+- Cuba
+- Dublin
+- England
+- England.
+- Japan
+- Kansas
+- London
+- Morgan State
+- States
+- Tanzania
+- UK
+- US
+- Wembley Way
+people:
+- Brett Yormark
+- Brian Dubiski
+- Calvin Clements
+- Jason Sudeikis
+- Mascot Sparky
+- Paul Rudd
+- Robert Griffin III
+- Taylor Davis
+- Ted Lasso
+organisations:
+- ASU Sun Devils
+- Arizona State
+- Arizona State Sun Devils
+- BBC Sport
+- BUCS
+- Bafa
+- British American Football Association
+- British Universities and Colleges Sport
+- Fox Sports
+- Jacksonville Jaguars
+- KU
+- Kansas Jayhawks
+- Missouri Tigers
+- Morgan State
+- NFL
+- UJC
+- US Griffin
+- University of Kansas
+- Wembley
 ---
 
 ![Taylor Davis celebrates after recovering a fumble for the Kansas Jayhawks against the Missouri Tigers in September 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/51ea/live/101f3500-b2c8-11f1-9830-658a48c7da16.jpg)

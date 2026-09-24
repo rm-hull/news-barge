@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75c6/live/3d7419a0-b4e7-11f1-88d0-9b6aa3313295.jpg
+locations:
+- Althorp
+- Buckingham Palace
+people:
+- Charles Spencer
+- Charles'
+- Diana
+- Earl Spencer
+- Harry
+- King
+- Laura Kuenssberg
+- William
+organisations:
+- Earl Spencer
+- The Temple
 ---
 
 ![On the left, Laura Kuenssberg wearing a black top and trousers, walks through a garden raising her right hand. On the right, Earl Spencer walks next to her in a dark jacket and tan trousers. Cameramen are by their side filming.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c689/live/edb1c990-b50d-11f1-91cc-c5691e33b858.jpg)

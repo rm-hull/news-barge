@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Akershus
+- Britain
+- Denmark
+- Japan
+- King Harald
+- Norway
+- Norway.
+- Oslo Cathedral
+- Royal Palace
+- Spain
+- Sweden
+- US
+- Ukraine
+- Wales
+people:
+- Akishino
+- Anne
+- Felipe
+- Frederik
+- Haakon VIII
+- Harald V
+- Ingrid Alexandra
+- Jeffrey Epstein
+- Jonas Gahr Støre
+- Letizia
+- Marius Borg
+- Marius Borg Høiby
+- Martha Louise
+- Mary
+- Masud Gharahkhani
+- Maxima
+- Mette-Marit
+- Prince William
+- Princess Royal
+- Sonja
+- Sverre Magnus
+- Volodymyr Zelenskyy
+- Willem-Alexander
+organisations:
+- NRK
 ---
 
 Norway has observed a minute’s silence as it takes leave of King Harald V in a series of ceremonies, bringing to a close 13 days of national mourning that followed the popular monarch’s death last month at the age of 89.

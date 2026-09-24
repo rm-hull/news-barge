@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Dan Neidle
+- Nigel Farage
+- Paul Johnson
+- Vladimir Putin
+organisations:
+- CGT
+- Farage
+- HMRC
+- IFS
+- Institute of Fiscal Studies
+- Labour Party
+- Reform UK
+- The Independent
 ---
 
 Reform UK’s tax plans would hand wealthy crypto investors hundreds of millions in tax breaks if Nigel Farage wins the next election, *The Independent* can reveal.

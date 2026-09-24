@@ -11,6 +11,31 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/6df9eb7ead741761a077b9c16136d27d3c3e557c/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a6b6a8642d85dea8170175f6a97e559
+locations:
+- Gulf of America
+- Gulf of Mexico
+- Oval Office
+- US
+- United States
+- United States of America
+- White House
+people:
+- Donald Trump
+organisations:
+- ABC News
+- Air Force One
+- Associated Press
+- BBC
+- CNN
+- Fake News Media Outlets
+- MS Now
+- Media Outlets
+- New York Times
+- Pentagon
+- Politico
+- Trump Administration
+- Truth Social
+- Wall Street Journal
 ---
 
 In his latest attack on the US constitution’s first amendment and the press, Donald Trump has announced that he is banning outlets CNN, MS Now and Politico from the White House over their coverage.

@@ -12,6 +12,32 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Australia
+- Canada
+- Europe
+- Finland
+- Ireland
+- North Yorkshire
+- Rotherham
+- Scarborough
+- Selby
+- UK
+- US
+people:
+- Bob Webb
+- David Skaith
+- Dolly Parton
+- Mark Crane
+- Selby
+organisations:
+- Cradle to Career
+- Dolly Parton
+- Dolly Parton Imagination Library
+- Imagination Library
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
 ---
 
 ![Dolly Parton, then a middle-aged woman with longe blonde hair, speaking into a microphone on stage.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ce8a/live/c72d3f50-a146-11f1-9311-09d4e1fc9016.jpg)

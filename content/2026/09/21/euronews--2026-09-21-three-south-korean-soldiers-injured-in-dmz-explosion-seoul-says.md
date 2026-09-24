@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/09/37/1200x675_cmsv2_5bf84ad3-3e6e-5f54-9b9a-325f974e2abb-9920937.jpg
+locations:
+- DMZ
+- Demilitarised Zone
+- Korean Peninsula
+- Koreas
+- Military Demarcation Line
+- North Korea
+- Pyongyang
+- Seoul
+- South Korea
+- anti-North Korea
+people:
+- Kim Jong-un
+- Lee Jae-myung
+organisations:
+- DMZ
+- JCS
+- Joint Chiefs of Staff
+- MDL
+- Yonhap
 ---
 
 ## The Demilitarised Zone (DMZ) is a 248 km buffer zone separating North and South Korea and is one of the world’s most heavily fortified borders.

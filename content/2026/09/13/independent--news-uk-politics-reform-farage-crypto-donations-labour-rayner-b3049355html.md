@@ -12,6 +12,37 @@ image: https://static.independent.co.uk/2026/09/13/10/86e96160adfe46080c883034e2
 categories:
 - News & Politics
 - UK
+locations:
+- Scotland
+- UK
+- United States
+- Wales
+people:
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Jeff Overs
+- Keir Starmer
+- Michael Portillo
+- Nigel Farage
+- Robert Jenrick
+- Stefan Rousseau
+organisations:
+- Crypto
+- Government
+- Greens
+- Labour
+- Lib Dems
+- Pandora
+- Plaid Cymru
+- Reform Reform UK
+- Reform UK
+- SNP
+- Sky News
+- Tories
+- Tory
+- Treasury
 ---
 
 It is unprecedented in British politics for a ruling party to state that it is planning to change the law retrospectively with the intention of cancelling a rival’s donations.

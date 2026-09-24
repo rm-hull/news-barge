@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bradford
+- Oaks Lane
+people:
+- Aneesa Khalifa
+organisations:
+- Dixons Academies Trust
+- Dixons Allerton Academy
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: Telegraph & Argus)*

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '### Auckland Avenue One'
+- '### Auckland Oval Construction'
+- '### Sadberge Road'
+- A68 West Auckland Road
+- Auckland Avenue
+- Auckland Oval
+- Bishop Auckland
+- Brinkburn Road
+- County Durham
+- Darlington
+- Flat Hill Close
+- Rochester Way
+- Sadberge Road
+- Winchester Way
+- Winchester Way One
+people: []
+organisations:
+- County Durham Reform
 ---
 
 *(Image: GOOGLE)*

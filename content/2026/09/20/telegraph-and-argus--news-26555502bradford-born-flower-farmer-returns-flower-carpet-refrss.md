@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463198.jpg?type=og-image
+locations:
+- Australia
+- Bradford
+- Centenary Square
+- Denholme
+- The Olde Creamery
+- Thornton
+- Victoria
+- Wrose
+people:
+- Dahlias
+- Gareth
+- Jamie Adams
+- Shiraaz Ali
+organisations:
+- Bradford Flower Carpet
+- Flower Carpet
+- Melbourne International Flower & Garden Show
+- Olde Creamery
+- Salt Grammar School
+- The Olde Creamery
 ---
 
 A Bradford-born flower farmer who built an award-winning horticultural business in Australia is travelling more than 10,000 miles back to his hometown to help create one of the city's most anticipated cultural events.

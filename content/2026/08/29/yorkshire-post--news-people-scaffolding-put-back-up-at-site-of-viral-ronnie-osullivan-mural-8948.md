@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Crucible
+- Langsett Road
+- Sheffield
+people:
+- Chris Ashmore
+- Michael Jackson
+- Ronnie O'Sullivan
+- Ronnie O’Sullivan
+organisations:
+- BBC
+- Portraits UK
+- Sheffield
+- Snooker Club
+- Spot On Snooker Club
 ---
 
 # Scaffolding put back up at site of viral Ronnie O’Sullivan mural

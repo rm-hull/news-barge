@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/fMgthPaijjK7fNDmKksLiD-2560-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations:
+- AI
+- UK
+people:
+- Craig Hale
+- Graham Barlow
+organisations:
+- AI
+- BBC One Breakfast
+- BBC TV
+- ChatGPT
+- Computeractive
+- Deloitte
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- PagerDuty
+- Radio 4
+- Reddit
+- TechRadar
+- iMore
 ---
 
 ![Office Worker Sneaking a Peek Above Laptop in a Modern Workspace During Daytime, hiding from boss.](https://cdn.mos.cms.futurecdn.net/fMgthPaijjK7fNDmKksLiD.jpg) 

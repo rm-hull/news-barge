@@ -14,6 +14,22 @@ categories:
 - Family & Parenting
 - Law & Justice
 image: https://i.guim.co.uk/img/media/5d52789d475e6886f4fa3e910b3c59d0710f7ffc/864_18_3704_2965/master/3704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b9ab4e95608de2b8134429a036f84fc
+locations:
+- Alaska
+- California
+- Dallas
+- Los Angeles
+- Texas
+- US
+- West’s
+people:
+- Elena Kagan
+- Ken Paxton
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+organisations:
+- NBC
 ---
 
 The supreme court has refused to get involved with a custody dispute between an Alaska surrogate and a California couple whose child was born with a rare and serious heart defect.

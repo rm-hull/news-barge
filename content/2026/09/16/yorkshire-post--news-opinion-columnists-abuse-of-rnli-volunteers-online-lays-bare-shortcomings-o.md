@@ -16,6 +16,17 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Britain
+- Dover
+- Kent
+people:
+- Gareth Fuller
+- Lisa Nandy
+organisations:
+- Border Security Command
+- RNLI
+- Royal National Lifeboat Institution
 ---
 
 # Abuse of RNLI volunteers online lays bare shortcomings of social media platforms

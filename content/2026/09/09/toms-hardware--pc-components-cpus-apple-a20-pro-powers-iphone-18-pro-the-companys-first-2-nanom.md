@@ -11,6 +11,34 @@ image: https://cdn.mos.cms.futurecdn.net/V3rEUVpL2q4YM9d2nhavs-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Kotaku
+- M6
+- United States
+people:
+- Andrew E. Freedman
+- John Ternus
+organisations:
+- 2TB
+- A20 Pro
+- Apple Pencil
+- C2
+- GPU
+- Galaxy
+- Get Tom's Hardware
+- Laptop Mag
+- M3 Ultra
+- M6
+- N1
+- PCMag and Complex
+- Qualcomm
+- SOC
+- Samsung
+- Snapdragon
+- TSMC
+- Tom's Guide
+- Tom's Hardware
+- iPhone Duo
 ---
 
 ![Apple iPhone Duo](https://cdn.mos.cms.futurecdn.net/V3rEUVpL2q4YM9d2nhavs.jpg) 

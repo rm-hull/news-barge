@@ -14,6 +14,18 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Barranco del Poyo
+- Horta Sud
+- Paiporta
+- Spain
+- Torrent
+people: []
+organisations:
+- AEMET
+- AFP
+- AVAMET
+- ES‑Alert
 ---
 
 In Torrent, a city of around 85,000 people in the Horta Sud area, streets were covered in mud, with several vehicles damaged or left unusable, and emergency crews in the town rescued 15 people blocked inside a fast‑food restaurant as water poured in. Local residents told the AFP news agency that similar flooding had occurred previously and criticised the absence of structural measures to prevent it.

@@ -13,6 +13,20 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Sheffield
+- US
+people:
+- Boohoo
+- Dan Finley
+- Karen Millen
+organisations:
+- Boohoo
+- Debenhams
+- Nasty Gal
+- Pretty Little Thing
+- Primark
+- WSG
 ---
 
 Online retail group Debenhams has revealed earnings bounced back into profit for the past six months as sales strengthened.

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Ottawa
+- US
+- US-Canada
+- United States
+- White House
+people:
+- Dominic LeBlanc
+- Donald Trump
+- Gabriel Brunet
+- Mark Carney
+organisations:
+- General Services Administration
 ---
 
 The US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.

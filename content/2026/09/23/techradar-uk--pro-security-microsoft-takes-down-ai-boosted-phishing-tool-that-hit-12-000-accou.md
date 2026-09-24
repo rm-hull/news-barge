@@ -10,6 +10,40 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/j5YMwZuuKnvAXLyKBEmDrb-970-80.jpg
+locations:
+- Australia
+- Bosnia and Herzegovina
+- Canada
+- France
+- India
+- Sarajevo
+- UK
+- US
+- United Kingdom
+- United States
+people:
+- EvilTokens
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- BEC
+- Cloudflare
+- Coinbase
+- EvilTokens
+- Google News
+- Health-ISAC
+- Huntress
+- Microsoft Graph
+- OpenAI
+- Railway
+- Represent Communications
+- SpyCloud
+- TRM Labs
+- TechRadar Pro
+- Telegram
+- The Shadowserver Foundation
+- UK Metropolitan Police Service
 ---
 
 ![A digital themed isometric showing a neon padlock in the foreground, and a technological diagram of a processor logic board in the background.](https://cdn.mos.cms.futurecdn.net/j5YMwZuuKnvAXLyKBEmDrb.jpg)

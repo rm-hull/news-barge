@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bury St Edmunds
+- Commonwealth
+- Essex
+- Eterville
+- Fort William
+- France
+- Frinton-on-Sea
+- London
+- Naples
+- Newcastle
+- Newquay
+- Normandy
+- Sword Beach
+people:
+- D-Day
+- Dick Goodwin
+- Don
+- Donald Turrell
+- Leslie
+- Penelope
+organisations:
+- Cameronians
+- Essex
+- Facebook
+- Scottish Rifles
+- Taxi Charity for Military Veterans
 ---
 
 ![Donald Turrell is sitting in a wheelchair in front of a military vehicle. He is wearing a black army hat and a suit. On the left side of his jacket is a row of medals from World War Two.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b37d/live/648ee050-a3d6-11f1-a291-b542ee92de7c.jpg)

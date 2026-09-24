@@ -12,6 +12,87 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Alaska
+- California
+- Canada
+- France
+- Great Lake
+- Hormuz
+- Iowa
+- Iran
+- Kansas
+- Lake America
+- Lake Ontario
+- Long Island
+- Maryland
+- Mid-Hudson
+- New York
+- New York City
+- Paris
+- US South
+- United States
+- Washington DC
+- White House
+- Wisconsin
+people:
+- Adam Hamilton
+- Adam Smith
+- Bennie G Thompson
+- Bryan Steil
+- Deborah Boardman
+- Donald Trump
+- Eduardo Negrón
+- Elon Musk
+- Emmanuel Macron
+- Gregory W Meeks
+- Harris’
+- Jim Himes
+- Josh Turek
+- Kamala Harris
+- Kansans
+- Kathy Hochul
+- Kylie Cooper
+- Lauren Bis
+- Mark Carney
+- Mary Peltola
+- Mitchell Berman
+- Paul Ryan
+- Pete Hegseth
+- Richard Blumenthal
+- Rob Sand
+- Shana Khader
+- Thomas DiNapoli
+organisations:
+- AFP
+- Alexandra Villarreal An
+- Apple Maps
+- Astra
+- Biden Administration
+- Canadian Confederation
+- Congress
+- EU
+- Federal Emergency Management Agency
+- Google Maps
+- Harris’
+- House
+- K2 Space
+- Lake America’
+- Lake Ontario
+- Pentagon
+- Politico
+- Red state Dems
+- Reuters
+- Senate
+- SpaceX
+- Spectrum News
+- Stoke Space
+- The Guardian
+- Trump
+- Truth Social
+- US Declaration of Independence
+- US Postal Service
+- We Are CASA
 ---
 
 Demonstrators in Washington DC hold placards referencing the 14th amendment during a supreme court hearing on the issue earlier this year Photograph: Kylie Cooper/Reuters

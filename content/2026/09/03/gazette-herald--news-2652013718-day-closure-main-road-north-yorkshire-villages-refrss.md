@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Egton Bridge
+- Newsquest
+- North Yorkshire
+- Rosedale Abbey
+people: []
+organisations:
+- Heygate Bank
+- North Yorkshire Council
 ---
 
 *(Image: Newsquest)*

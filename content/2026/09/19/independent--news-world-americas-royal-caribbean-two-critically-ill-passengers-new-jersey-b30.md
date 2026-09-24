@@ -13,6 +13,20 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/19/17/1320542202..?trim=52,0,53,0&width=1200&height=800&crop=1200:800
+locations:
+- Bahamas
+- Bayonne
+- Cape Liberty
+- Florida
+- Nassau
+- New Jersey
+- Royal Caribbean
+people: []
+organisations:
+- Cruise Hive
+- Facebook
+- Royal Caribbean
+- The Independent
 ---
 
 Two passengers, including a seven-year-old child, were evacuated from a Royal Caribbean cruise ship bound for New Jersey for emergency medical treatment in the Bahamas Friday.

@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Careers & Productivity
+locations: []
+people: []
+organisations:
+- Bruno Ferreira
+- Diode
+- Maker
+- STEMMaker
+- STEMModder
+- STEMxTool
 ---
 
 # Maker and STEM

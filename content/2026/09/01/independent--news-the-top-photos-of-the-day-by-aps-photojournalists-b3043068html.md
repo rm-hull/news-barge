@@ -12,6 +12,10 @@ categories:
 - UK
 - Arts & Culture
 - Photography & Video
+locations: []
+people: []
+organisations:
+- AP
 ---
 
 This is a photo gallery curated by AP photo editors.

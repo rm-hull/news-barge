@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Bordeaux
+- Europe
+- France
+- Lamiable Champagne House
+- Tours-sur-Marne
+- Verzenay
+people:
+- Jane Anson
+- Maxime Toubart
+- Stéphane Vignon
+organisations:
+- AFP
+- BBC
+- Comite Champagne
+- Times
 ---
 
 ![Bottles of champagne](https://ichef.bbci.co.uk/ace/standard/982/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg)

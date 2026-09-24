@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Nelson Street
+- UK
+people:
+- Akinlose Israel
+- David Oregunwa
+- Ezinne Okalanwa
+- Gabriel Oso
+- Ms Adetimehin
+- Nelson Uzenabor
+- Nire Adetimehin
+- Oluwagbotemi Ige
+- Oluwatimilehin Oni
+- Oluwatobiloba Afolayan
+- Tobi Akanbi
+- Uzoanya
+organisations:
+- AI
+- Bradford Buildathon
+- Bradford’s
+- DishPal.ai
+- Future Path
+- Grant Uzoanya
+- Lovable
+- Multiverse
+- NHS
+- PRD
+- RCCG
+- The Sanctified Church
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,13 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- York
+people:
+- Jo Coles
+organisations:
+- City of York Council
+- UNSUNG
 ---
 
 ## 'Unsung heroes' are 'exhausted, isolated and at breaking point'- York warning

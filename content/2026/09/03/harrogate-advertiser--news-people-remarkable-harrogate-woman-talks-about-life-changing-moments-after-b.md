@@ -14,6 +14,20 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Australia
+- Harrogate
+- St Wilfrid’s Hall
+people:
+- Covid
+- Fiona Georgiou Hunt
+- James Reilly
+- Katherine (Katie) Andrew
+- Katie Andrew
+organisations:
+- Creative Harrogate
+- St Wilfrid’s Hall
+- Yorkshire
 ---
 
 # Remarkable Harrogate woman talks about 'life-changing' moments after brain surgery

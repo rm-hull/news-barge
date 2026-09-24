@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Society & Culture
 - Law & Justice
+locations:
+- Alabama
+- Florida
+- Gastonia
+- Miami
+- Miami-Dade
+- North Carolina
+- Tar Heel
+- US
+- White House
+- Wisconsin
+people:
+- Amy Coney Barrett
+- Clarence Thomas
+- Donald J Trump’
+- Donald Trump
+- Eliott Rodriguez
+- George Chidi
+- George Zornick
+- María Elvira Salazar
+- Michael Whatley
+- Neil Gorsuch
+- Richard Blumenthal
+- Sam Levine
+- Samuel Alito
+- Todd Blanche
+organisations:
+- Brookings Institution
+- Charlotte Observer
+- Congress
+- Department of Homeland Security
+- Department of Justice
+- EO
+- GOP
+- Guardian
+- Postal Service
+- Senate
+- Social Security Administration
+- Trump
+- US Postal Service
+- USPS
+- United States Supreme Court
 ---
 
 For the millions of Americans who vote by mail – almost a third of the country – the week began with significant uncertainty that they would be able to easily submit their ballot this fall, thanks to a March executive order from Donald Trump that aimed to restrict mail-in ballots. By Monday night, the supreme court restored a measure of order by rebuking the president and rejecting his plan – but Trump’s frothing response portends more danger for the rapidly approaching midterms.

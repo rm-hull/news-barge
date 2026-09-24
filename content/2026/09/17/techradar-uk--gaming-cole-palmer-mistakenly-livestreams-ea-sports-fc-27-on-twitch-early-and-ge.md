@@ -14,6 +14,28 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- England
+people:
+- '"** Cole Palmer'
+- Cole Palmer
+- James Pickard
+- Jude Bellingham
+- Morgan Rodgers
+- Savage
+organisations:
+- Black Friday
+- Chelsea
+- EA Sports
+- EA Sports FC
+- ESPN
+- Eurogamer
+- Google News
+- Instagram
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
+- Ultimate
 ---
 
 ![A split image featuring a screenshot from EA Sports FC 27 showing Jude Bellingham lunging for the football and Cole Palmer on the other side looking up to the sky.](https://cdn.mos.cms.futurecdn.net/8M6gYp5axq3kWv4nHdWJWi.jpg) 

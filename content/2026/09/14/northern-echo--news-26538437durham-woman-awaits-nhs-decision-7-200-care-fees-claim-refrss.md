@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Durham City
+- Framwellgate Moor
+- North East
+- Sherburn House
+people:
+- Alzheimer
+- Covid
+- Joyce Moore
+- Lynn Topping
+- Parkinson
+organisations:
+- NHS Durham Continuing Care
+- NHS Integrated Care Board
+- North Cumbria Integrated Care Board
+- North East and North Cumbria Integrated Care Board
 ---
 
 The family of a County Durham pensioner are still waiting for a decision on a claim for up to £7,200 in care-home fees, four years after her death.

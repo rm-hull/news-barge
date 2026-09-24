@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Claude
+- OpenAI
+- Sead
+organisations:
+- AI
+- Al Jazeera Balkans
+- Fortune
+- Google News
+- Hermes
+- Nous Research
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg) 

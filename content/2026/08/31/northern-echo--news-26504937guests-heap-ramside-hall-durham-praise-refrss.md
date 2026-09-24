@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- County Durham
+- County Durham Thai
+- Pemberton
+- Teesside
+people: []
+organisations:
+- Charcoa
+- Fusion
+- Google
+- Pin Sports Bar
+- Ramside Hall
+- Ramside Spa
+- Rib Room
+- The Pin Sports Bar
+- The Rib Room
 ---
 
 *(Image: PR)*

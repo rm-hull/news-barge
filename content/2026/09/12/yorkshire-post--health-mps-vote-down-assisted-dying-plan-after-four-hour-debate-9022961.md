@@ -13,6 +13,36 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Canterbury
+- Church of England
+- London
+- Old Palace Yard
+- Wales
+people:
+- Alishia Abodunde
+- Andy Burnham
+- Ashley Dalton
+- Bill
+- Kim Leadbeater
+- Lauren Edwards
+- Liz Carr
+- Marie Curie
+- Ms Leadbeater
+- Richard Moth
+- Sarah Mullally
+- Toby Porter
+organisations:
+- Assisted Dying Bill
+- End of Life
+- Government
+- Hospice UK
+- House of Commons
+- House of Lords
+- Labour
+- RCPsych
+- Royal College of Psychiatrists
+- St Christopher’s Hospice
 ---
 
 # MPs vote down assisted dying plan after four-hour debate

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brussels
+- Europe
+people:
+- Ursula von der Leyen
+organisations:
+- Accel
+- Atomico
+- Balderton
+- EQT
+- EU Inc
+- EU Inc.
+- European Commission
+- European Parliament
+- Garicano
+- Index Ventures
+- Rhine Group
 ---
 
 ## Founders and investors call EU policymakers to not water down the EU Inc., the legislative proposal which aims to facilitate businesses in Europe to scale up.

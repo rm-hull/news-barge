@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21391718.jpg?type=og-image
+locations:
+- Bedale
+- Middlesbrough
+- North Yorkshire
+people:
+- Charlotte Johnson
+organisations:
+- Breakfast Club
+- Broadacres
+- Broadacres’ Community and Sustainability Fund
+- Church of England
+- Crakehall Primary School
+- Crakehall School
+- Friends of Crakehall School
+- Lego
+- Tea Timers
 ---
 
 *(Image: SHAEFER PR)*

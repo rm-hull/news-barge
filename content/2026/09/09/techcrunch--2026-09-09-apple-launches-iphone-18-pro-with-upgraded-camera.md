@@ -9,6 +9,11 @@ description: Apple's new iPhone 18 Pro lineup upgrades the camera and comes in b
 image: https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- Apple
+- Siri AI
 ---
 
 Apple launched its latest Pro phones, the iPhone 18 Pro and the iPhone 18 Pro Max, today at its fall “Surprise and Shine” iPhone event. While the design of the phones remains the same as the earlier model, the upgraded cameras are the highlight of the new devices.

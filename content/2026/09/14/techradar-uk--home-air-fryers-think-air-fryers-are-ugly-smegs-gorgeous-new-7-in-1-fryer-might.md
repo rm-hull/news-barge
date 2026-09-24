@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/i3fmqjXdvnxypVYeueDUEY-832-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations: []
+people: []
+organisations:
+- AFC01
+- Black
+- Emerald Green
+- Google News
+- PC Format
+- PC Plus
+- SCA
+- Smeg
+- Speciality Coffee Association
+- Storm Blue
+- TechRadar
 ---
 
 ![Smeg AFC01 Dual Flavour Air Fryer on kitchen counter with cooked food](https://cdn.mos.cms.futurecdn.net/i3fmqjXdvnxypVYeueDUEY.jpg) 

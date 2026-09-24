@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Old Trafford
+- UK
+people:
+- Sabah
+organisations:
+- Man United
+- Manchester United
+- Sabah FK
 ---
 
 # Man United put four past Sabah on Champions League return

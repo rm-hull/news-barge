@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brisbane
+- Britain
+- Fitzroy River
+- Germany
+- Gladstone
+- Gold Coast
+- New Zealand
+- Rockhampton
+- Rocky,” Crisafulli
+- Southeast Queensland
+- Sunshine Coast
+- Toowoomba
+people:
+- David Crisafulli
+- Jarrod Bleijie
+- Tony Williams
+organisations:
+- Rockhampton Rowing Club
+- Win News
+- World Rowing
 ---
 
 Not crocodiles, not currents, nor criticism over a shortage of beds will stop the Olympic rowing regatta being staged in the Fitzroy River at Rockhampton at the 2032 Brisbane Games — at least not according to the Australian planners.

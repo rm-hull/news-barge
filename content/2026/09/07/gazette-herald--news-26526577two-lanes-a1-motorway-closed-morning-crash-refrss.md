@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- A659
+- Highways England
+- M1
+- North Yorkshire
+- Tadcaster
+- West Yorkshire
+- York
+people: []
+organisations:
+- A1
+- AA Traffic News
+- Boston Spa
 ---
 
 *(Image: Highways England)*

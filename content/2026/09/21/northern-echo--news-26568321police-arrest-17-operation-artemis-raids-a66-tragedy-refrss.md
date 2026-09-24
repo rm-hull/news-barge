@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21482178.jpg?type=og-image
+locations:
+- Birchington Avenue
+- CLEVELAND
+- Cleveland
+- Darlington
+- Grangetown
+- Lancaster Road
+- Micklow Close
+- Middlesbrough
+- Moorbeck Way
+- Ormesby
+- Redcar
+- South Bank
+- Teesside Crown Court
+- Ullswater Close
+people:
+- Cameron George
+- Cole Robert Worthy
+- Francis Laird
+- Jakub Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Pc Tom Clough
+- Theo Rae
+- Tom Clough
+- Victoria Fuller
+organisations:
+- '![]()Cleveland Police'
+- A66
+- B&M
+- Cleveland Police
+- Clough
+- Morrisons
+- NCA
+- NEROCU
+- National Crime Agency
+- North East Regional Organised Crime Unit
+- OCG
+- PCs Blades
+- Recorder of Middlesbrough
+- Teesside
 ---
 
 Police stormed homes arresting 17 people as part of an organised crime crackdown sparked by the deaths of two of their colleagues.

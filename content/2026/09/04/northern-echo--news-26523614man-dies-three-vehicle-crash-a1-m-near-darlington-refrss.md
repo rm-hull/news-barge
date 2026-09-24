@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- A1
+- A1M
+- Burtree Interchange
+- County Durham
+- Darlington Memorial Hospital
+- Junction 57
+- Junction 58
+- M
+- Merrybent
+- Newton Aycliffe Fire Stations
+- Spennymoor
+- Vauxhall Mokka
+people:
+- Mokka
+organisations:
+- A1
+- Darlington Fire and Rescue Service
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- HART
+- Hazardous Area Response Team
+- North East Ambulance Service
+- UGC
 ---
 
 *(Image: UGC)*

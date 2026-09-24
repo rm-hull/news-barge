@@ -13,6 +13,23 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21483536.jpg?type=og-image
+locations:
+- Boroughbridge
+- MAJOR
+- Major Yorkshire
+- North Yorkshire
+- Thirsk
+- York
+people: []
+organisations:
+- A1
+- A1M
+- AA Traffic News
+- Boroughbridge
+- Dishforth
+- J48
+- J49
+- National Highways
 ---
 
 ## Major North Yorkshire road closed due to 'police incident' - queues over one hour

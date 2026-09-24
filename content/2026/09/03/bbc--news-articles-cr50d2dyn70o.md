@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Britain
+- CANADA
+- Canada
+- France
+- New Zealand
+- Quebec
+- US
+- Vimy Ridge
+people:
+- Charles III
+- Donald Trump
+- Elizabeth II
+- King
+- Louise Arbour
+- Mark Carney
+- Tiff Macklem
+- Viola Desmond
+- Wayne Long
+organisations:
+- Bank of Canada
+- Canada Revenue Agency
+- Commonwealth
+- International Bank Note Society
+- Liberal
 ---
 
 ![An image showing the vertical Canadian banknote showing its front and back. The banknote is green. On the front there is a portrait of King Charles, with floral and leafy motifs around him. Above him is a small Canadian flag, the words CANADA and the number 20 to his left. 

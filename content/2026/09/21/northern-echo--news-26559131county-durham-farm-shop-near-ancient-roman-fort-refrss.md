@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21468269.jpg?type=og-image&xType=0&yType=36
+locations:
+- A689
+- Alston
+- Brampton
+- County Durham
+- Epiacum Roman Fort
+- Kirkhaugh
+- Leicestershire
+- Maiden Way
+- North Pennines
+- North Yorkshire
+- The Yorkshire Dales
+- Wall
+- Whitley Castle
+people:
+- Hadrian
+organisations:
+- Epiacum
+- North Pennines National Landscape
+- The Nook
+- Tripadvisor
 ---
 
 *(Image: TRIPADVISOR)*

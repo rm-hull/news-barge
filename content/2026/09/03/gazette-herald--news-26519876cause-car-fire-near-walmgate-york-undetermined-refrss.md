@@ -14,6 +14,20 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Bretgate
+- Fishergate
+- Hope Street
+- Navigation Road
+- Walmgate
+- York
+people: []
+organisations:
+- BMW
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: Supplied)*

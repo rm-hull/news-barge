@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alicante
+- Marbella
+- Sheffield Crown Court
+- Spain
+- UK
+people:
+- Alexander Kuksov
+- Alexsandr Vladimirovich Kuksov
+- Charlie Salisbury
+- Dean Eighteen
+- Derek McGraw Ferguson
+- Francis David Parker
+- John Rocks
+- Kevin Thomas Parle
+- Liam Michael Murray
+- Matthew Purves
+- Philip Barry Foster
+- Philip Foster
+- Rick Jones
+- Simon Dutton
+- Spencer Dillon Lamb
+- Wendy Martin
+organisations:
+- Brookside
+- Channel 4
+- Crimestoppers
+- Foster
+- Guardia Civil
+- Ministry of Interior
+- NCA
+- NTS
+- National Crime Agency
+- National Trading Standards
+- Philip Dowd
+- The Independent
 ---
 
 A former *Brookside* actor has been arrested in Spain after being convicted of a £13.6 million fraud.

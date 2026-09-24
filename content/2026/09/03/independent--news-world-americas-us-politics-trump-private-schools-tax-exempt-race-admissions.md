@@ -14,6 +14,19 @@ categories:
 - UK
 - Education & Learning
 - Society & Culture
+locations:
+- U.S.
+people:
+- Donald Trump
+- Scott Bessent
+organisations:
+- Bob Jones University
+- CNN
+- Harvard University
+- IRS
+- Supreme Court
+- Treasury Department
+- Trump
 ---
 
 The Trump administration wants to disqualify private schools from tax-exempt status if they consider race in school programs, impacting as many as 18,000 educational institutions.

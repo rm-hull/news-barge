@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Atlantic
+- Caribbean
+- Grenada
+- Metropolitan
+- Saint George
+- UK
+- West London
+people:
+- Andrew Donald Frederick
+- Andrew Frederick
+- Howard Pinnock
+- Lydia Brown
+organisations:
+- Guardian
+- Met
+- Office of the Commissioner
+- Royal Grenada Police Force
 ---
 
 The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the truth about his death.

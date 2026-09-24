@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Coney Street
+- Drinkmonger
+- Edinburgh
+- England
+- Filey Bay
+- Pitlochry
+- Royal Mile Whiskies York
+- St Andrews
+- Yorkshire
+people:
+- '***YorkMix***'
+- James Charlton
+organisations:
+- Cigarbox
+- Dormant Distillery Company
+- Royal Mile Whiskies
+- Scotch
+- Smiggle
+- Spirit of Yorkshire Distilleries
 ---
 
 Fancy a wee dram in York? Get yourself to Royal Mile Whiskies, now open in the city centre.

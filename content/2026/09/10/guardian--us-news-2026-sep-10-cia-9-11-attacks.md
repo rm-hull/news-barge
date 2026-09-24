@@ -12,6 +12,65 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Afghanistan
+- Balkans
+- Capitol Hill
+- Germany
+- Iran
+- Iraq
+- Langley
+- Middle East
+- National Mall
+- New York
+- Pennsylvania
+- Prague
+- Soviet Union
+- US
+- Vienna
+- Vietnam
+- Virginia
+- Washington DC
+people:
+- Ahmad Samir al-Ani
+- Bill Harlow
+- Colin Powell
+- Condi
+- Condoleezza Rice
+- Curveball
+- Dianne Feinstein
+- Dick Cheney
+- Donald Rumsfeld
+- George HW
+- George Tenet
+- George W Bush
+- Madam
+- Margaret Henoch
+- Mohammed Atta
+- Osama bin Laden
+- Saddam Hussein
+- Somebody
+- Steven Cash
+- Susan Miller
+organisations:
+- CIA HQ
+- Central Intelligence Agency
+- DNI
+- Guardian
+- Hezbollah
+- ICE
+- Immigration and Customs Enforcement
+- International Atomic Energy Agency
+- Nato
+- Office of the Director of National Intelligence
+- Pentagon
+- Senate
+- Stanford Research Institute
+- Trump
+- US Department of Homeland Security
+- United Nations
+- World Trade Center
+- al-Qaida
 ---
 
 A generation of spies had lost an enemy but not yet found a role. Then came 9/11.

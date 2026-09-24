@@ -12,6 +12,15 @@ image: https://i.guim.co.uk/img/media/2fbd472d3604a22f2de69ca6c211cf23694f4847/3
 categories:
 - UK
 - News & Politics
+locations:
+- Fiji
+- Pacific
+people:
+- Ratu Atonio Lalabalavu
+- Winnie Byanyima
+organisations:
+- UN
+- UNAIDS
 ---
 
 Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation grapples with a correlating rise in methamphetamine use.

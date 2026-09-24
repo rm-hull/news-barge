@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Bridge Street
+- Malton
+- Scarborough
+- Scotland
+- Selkirk
+- York
+people:
+- David Camidge
+- Harrison Douglas Long
+- Oliver Kilvington
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

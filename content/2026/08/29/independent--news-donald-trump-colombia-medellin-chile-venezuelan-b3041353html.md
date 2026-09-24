@@ -12,6 +12,50 @@ image: https://static.independent.co.uk/2026/08/29/01/Colombia_Security_85623.jp
 categories:
 - News & Politics
 - UK
+locations:
+- Argentina
+- Buenos Aires
+- California
+- Chile
+- Colombia
+- Ecuador
+- Los Piratas
+- Medellín
+- Nairobi
+- Peru
+- Santiago
+- Tocorón
+- Tren de Aragua
+- Tumaco
+- U.S.
+- Venezuela
+- Washington
+people:
+- Abelardo de la Espriella
+- Alfredo Camilo Carrillo Ortiz, alias “El Gocho
+- Donald Trump
+- Francis Donovan
+- Guerrero Flores
+- Héctor “Niño Guerrero” Guerrero Flores
+- José Antonio Kast
+- Luis Páez Nieto
+- Luis Saúl Pérez Nieto
+- María del Pilar Giannini
+- Pérez Nieto
+- Rafael Enrique Gámez Salas
+- Ronald Ojeda
+- Terry Cole
+- Todd Blanche
+- de la Espriella
+organisations:
+- Colombian National Police
+- DEA
+- The Associated Press
+- Tren de Aragua
+- Trump
+- U.S. Drug Enforcement Administration
+- U.S. Southern Command
+- ___ DeBre
 ---
 
 Colombian security forces captured a suspected senior leader of the Venezuelan gang Tren de Aragua, the U.S. Southern Command announced on Friday, hailing the arrest as a result of stronger military cooperation between the historically close allies.

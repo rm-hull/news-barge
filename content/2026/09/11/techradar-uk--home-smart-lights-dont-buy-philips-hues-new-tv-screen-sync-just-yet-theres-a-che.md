@@ -11,6 +11,20 @@ description: Philips Smart Lighting has launched a system that's more affordable
 image: https://cdn.mos.cms.futurecdn.net/KCbc8tZEu26HNdNXwko2id-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Europe
+- UK
+people:
+- Carrie Marshall
+- Govee
+- Hue
+organisations:
+- Bulb3
+- Google News
+- Govee Curtain Lights4
+- Philips Hue White & Color Ambiance2
+- Philips Smart Lighting
+- Unquiet Mind
 ---
 
 ![The Philips Smart Lighting Screen Sync with Strip Light system lighting up the walls behind and beside a TV in a darkened room](https://cdn.mos.cms.futurecdn.net/KCbc8tZEu26HNdNXwko2id.jpg) 

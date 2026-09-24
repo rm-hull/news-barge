@@ -12,6 +12,14 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Thailand
+- Wilberfoss
+- York
+people: []
+organisations:
+- Christie & Co
+- Thai Season Restaurant & Hotel
 ---
 
 A prominent hotel on a main road near York is up for sale for £1.5 million.

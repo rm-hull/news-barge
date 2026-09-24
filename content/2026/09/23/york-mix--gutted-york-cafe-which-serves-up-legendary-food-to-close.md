@@ -11,6 +11,20 @@ categories:
 - York
 - Food & Cooking
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/scones-canva.webp
+locations:
+- Acomb
+- Old Greengrocer
+- York Road
+people:
+- Jason Rose
+- Naomi
+- Ricky
+organisations:
+- Acomb
+- Facebook
+- Old Greengrocer
+- The Hand
+- The Old Greengrocer
 ---
 
 Food lovers have reacted with dismay to the news that a ‘much loved’ café in York is to shut within days.

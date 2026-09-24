@@ -12,6 +12,19 @@ image: https://i.guim.co.uk/img/media/096f55f9a3109cde450bc0f9481fccbc682bb66b/1
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Carlton
+people:
+- Andrew Watson
+- Cate Sayers
+- Luke Sayers
+- Sandip Mukerjea
+organisations:
+- AFL
+- Bupa
+- Carlton
+- PwC Australia
 ---
 
 The embattled former AFL club president Luke Sayers has apologised to his former wife for the harm he caused as her defamation case over a lewd photo settled.

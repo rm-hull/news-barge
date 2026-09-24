@@ -12,6 +12,39 @@ image: https://images.euronews.com/articles/stories/09/90/33/25/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Albania
+- Berlin
+- Bolivia
+- Dublin
+- El Alto
+- Europe
+- France
+- Gdańsk
+- Ireland
+- Magdeburg
+- Paris
+- Saxony-Anhalt
+- Tashkent
+- U.S.
+- Uzbekistan
+- Zaporizhzhia
+people:
+- Aryana Sayeed
+- Donald Trump
+- Jared Kushner
+- Michael Kappeler
+- Stefan Streit
+- Steve Witkoff
+- Vladimir Putin
+organisations:
+- AfD
+- Centre of Islamic Civilisation
+- Euronews
+- General Affairs Council
+- IFA
+- Senate Palace of the Kremlin
+- TCL Europe
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- CLEVELAND
+- Cleveland
+- County Durham
+- Hartington Close
+- Hartington Court
+- North East
+- North Shields
+- Teeside Crown Court
+- Thornaby
+people:
+- Adam
+- Alex
+- Alexander Walker
+- Alexandra Walker
+- Boy
+- CHARLEY ATKINS
+- Harrison Simpson
+- Isabelle Rose Welsh
+- Isabelle Welsh
+- JOSHUA WELSH
+- Joshua Welsh
+- Justice Norton
+- SWNS
+- TERRY BLACKBURN
+organisations:
+- Cleveland Police
+- NHS
+- Teesside Magistrates' Court
 ---
 
 The dad of a two-year-old girl brutally murdered by her mum and new boyfriend has blasted the missed opportunities to save his "little angel."

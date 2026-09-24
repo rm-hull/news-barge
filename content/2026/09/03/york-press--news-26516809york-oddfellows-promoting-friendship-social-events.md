@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Goole
+- Scarborough
+- York
+people: []
+organisations:
+- '## Historic York'
+- Nette-Jay
+- RNLI
+- Royal National Lifeboat Institution
+- The Oddfellows
 ---
 
 ## Historic York group putting friendship at heart of September events

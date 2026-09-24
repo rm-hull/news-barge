@@ -11,6 +11,14 @@ image: https://media.wired.com/photos/6aacd7dc1ceb32b96a8cbdc7/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Mophie
+organisations:
+- Apple Watch
+- MFi
+- MagSafe
+- Qi-certified
 ---
 
 Charging all your gadgets is an unavoidable daily task, but wireless charging makes it easy. Mophie’s uniquely extendable stand is one of the best Apple 3-in-1 wireless chargers I have tested. And it’s available at a deep discount right now at half off (technically it’s 49 percent off). While this 3-in-1 stand has been discounted before, I’ve never seen it this low.

@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Altadena
+- Britain
+- Canada
+- China
+- Czechoslovakia
+- Earth
+- Eaton
+- Europe
+- Los Angeles
+- North America
+- Ottawa
+- Pacific Ocean
+- US
+people:
+- Brian Mulroney
+- Emma Barnett
+- George HW Bush
+- John Simpson
+- Justin Rowlatt
+- Paulo Ceppi
+- Piers Forster
+- Reto Knutti
+- Richard Tice
+- Øivind Hodnebrog
+organisations:
+- '** Reform'
+- Acid Rain Program
+- Cicero
+- ETH Zurich
+- Earth
+- El Niño
+- European Copernicus
+- IPCC
+- Imperial College London
+- Met Office
+- Mulroney (R) & Pres
+- Telegraph
+- University of Leeds
+- World Meteorological Organization
+- journal Science
 ---
 
 ![Justin Rowlatt](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72bc/live/0d198dc0-ab83-11f1-a291-b542ee92de7c.png)

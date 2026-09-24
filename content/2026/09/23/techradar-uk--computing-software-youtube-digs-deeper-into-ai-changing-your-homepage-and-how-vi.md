@@ -11,6 +11,43 @@ categories:
 - Technology & Software
 - Creator Economy & Marketing
 image: https://cdn.mos.cms.futurecdn.net/BgfYSGKbCXqUihjENpat6P-1920-80.jpg
+locations:
+- US
+people:
+- Amjad Hanif
+- Aparna Pappu
+- Derrick Gee
+- Gremlita
+- Happy Kelli
+- Herbie Flowers
+- Kelli Erdmann
+- Lance Ulanoff
+- Lou Reed
+- Mina Le
+- Neal Mohan
+- Sundar Pichai
+- Troye Sivan
+- YouTuber Mina Lee
+organisations:
+- AI
+- BBC
+- CNBC
+- CNN
+- Creator Products
+- Custom Feeds
+- Good Morning America
+- Google Gemini
+- Google I/O
+- Google News
+- Kelly and Mark
+- Lance
+- Lifewire
+- Mashable
+- Medium
+- Today Show
+- YouTube Music
+- YouTube Shorts
+- Ziff Davis, Inc
 ---
 
 ![Made on YouTube 2026](https://cdn.mos.cms.futurecdn.net/BgfYSGKbCXqUihjENpat6P.jpg)

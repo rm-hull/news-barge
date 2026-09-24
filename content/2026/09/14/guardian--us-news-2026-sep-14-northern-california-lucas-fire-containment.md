@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- California
+- Elk Mountain
+- Lucas
+- Mendocino
+- Upper Lake
+people:
+- Lake
+- Luke Bingham
+- Ryan Isham
+organisations:
+- Cal Fire
 ---
 
 Firefighters made progress toward containing northern California’s Lucas fire, state officials said on Sunday.

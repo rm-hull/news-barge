@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Belgrade
+- Central Asia
+- Central and
+- China
+- Gelsenkirchen
+- Germany.
+- Kosovo
+- Ottawa
+- Qingdao
+- Serbia
+- Shandong
+- Tashkent
+- Uzbekistan
+people:
+- '## Mirziyoyev'
+- Aleksandar Vučić
+- Laziz Kudratov
+- Mark Carney
+- Martin Meissner
+- Nenad Popović
+- Shavkat Mirziyoyev
+organisations:
+- '## Agriculture'
+- Euronews Serbia
+- Investment, Industry
+- Joint Commission for Economic Cooperation in Belgrade
+- KATARINA MIĆIĆ
+- Privy Council
+- Ruhr Oil Refinery
+- Serbian Chamber of Commerce
 ---
 
 **KATARINA MIĆIĆ by Euronews Serbia**

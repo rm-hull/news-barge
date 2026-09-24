@@ -10,6 +10,22 @@ description: I’m not sure I can justify the upgrade yet.
 image: https://cdn.mos.cms.futurecdn.net/4exKnfgy7DRz4ubm7nRKXC-2560-80.png
 categories:
 - Technology & Software
+locations:
+- Dexerto
+people:
+- Lloyd Coombes
+organisations:
+- Apple Watch
+- Apple Watches
+- Fitbit
+- Garmin
+- Google News
+- Live Science
+- Lloyd Coombes
+- TechRadar
+- TopTenReviews
+- Ultra 4
+- Whoop
 ---
 
 ![Apple Watch Series 12](https://cdn.mos.cms.futurecdn.net/4exKnfgy7DRz4ubm7nRKXC.png) 

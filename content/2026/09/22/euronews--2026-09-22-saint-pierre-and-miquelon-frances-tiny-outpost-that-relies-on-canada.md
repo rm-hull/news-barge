@@ -13,6 +13,15 @@ categories:
 - Travel
 - History
 image: https://images.euronews.com/articles/stories/09/92/16/01/1200x675_cmsv2_d3dfec6c-9ea4-54e7-8816-a80b7fd73cc8-9921601.jpg
+locations:
+- Canada
+- Miquelon
+- Newfoundland
+- Saint Pierre
+people:
+- Emmanuel Macron
+- Mark Carney
+organisations: []
 ---
 
 The visit by French President Emmanuel Macron and Canadian Prime Minister Mark Carney has brought renewed attention to Saint Pierre and Miquelon, a small French archipelago just off the coast of Newfoundland.

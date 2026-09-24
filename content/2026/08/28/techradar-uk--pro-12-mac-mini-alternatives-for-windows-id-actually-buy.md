@@ -10,6 +10,19 @@ description: With Apple unveiling the new M6-powered Mac mini, I've hand-picked 
 image: https://cdn.mos.cms.futurecdn.net/Dketk37vD8eGPd28t3X7VT-2100-80.png
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Wayne Williams
+organisations:
+- AMD Ryzen
+- Acemagic
+- Apple
+- GMKtec EVO X1
+- Intel Core
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Asus, Beelink, and a Minisforum mini PC on a desk in a home studio surrounded by microphones, photo editing monitors, headphones, and cameras](https://cdn.mos.cms.futurecdn.net/Dketk37vD8eGPd28t3X7VT.png) 

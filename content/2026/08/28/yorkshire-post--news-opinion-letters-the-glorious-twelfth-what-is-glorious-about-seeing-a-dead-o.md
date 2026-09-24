@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bingley
+- Jane Barlow
+- PA
+people:
+- Adrian Blackmore
+- Keith Davey
+organisations:
+- Countryside Alliance
+- The YP
+- Yorkshire Post Letters
 ---
 
 # The Glorious Twelfth: What is glorious about seeing a dead or injured bird dropping to the ground? - Yorkshire Post Letters

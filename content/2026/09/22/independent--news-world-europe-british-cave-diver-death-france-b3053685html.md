@@ -14,6 +14,22 @@ categories:
 - Travel
 - Sports
 image: https://static.independent.co.uk/2026/09/21/15/41/GettyImages-687994920.jpeg?trim=820,0,1958,0&width=1200&height=800&crop=1200:800
+locations:
+- Cales
+- Dordogne
+- France
+- Gouffre de Saint-Sauveur
+- Maldives
+- Malé
+- Ouysse river
+- Vaavu Atoll
+people:
+- Cales Jean-Francois Poncelet
+- Clara Ribeiro
+organisations:
+- Diventures Magazine
+- Foreign Office
+- La Depeche
 ---
 
 A British diver has been found dead inside a cave in southwestern France, two days after going missing.

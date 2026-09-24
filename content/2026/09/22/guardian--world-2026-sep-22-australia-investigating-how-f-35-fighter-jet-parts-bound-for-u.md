@@ -14,6 +14,28 @@ categories:
 - Science
 - Technology & Software
 image: https://i.guim.co.uk/img/media/a39f41f02071478bd5938c44ee0b0ba45faca378/249_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03bd0b0bf5afaed7de138dc244d82ba8
+locations:
+- Australia
+- China
+- Hong Kong
+- New South Wales
+- Saudi Arabia
+- US
+- United States
+- Victoria
+people:
+- Michael Shoebridge
+- Richard Marles
+organisations:
+- Department of Defence
+- Lockheed Martin
+- Lockheed,” Marles
+- Politico
+- Royal Australian Air Force
+- Strategic Analysis Australia
+- Trump
+- US Department of War and F-35 Joint Program Office
+- US State Department
 ---
 
 The Department of Defence is examining how F-35 fighter jet parts bound for the US from Australia were unexpectedly diverted to Hong Kong, the acting prime minister, Richard Marles, has said.

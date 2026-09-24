@@ -15,6 +15,29 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- England
+- NHS
+- PA
+- Wales
+people:
+- Andy Burnham
+- Ayoub Khan
+- Covid
+- Iqbal Mohamed
+- James
+- Jayne Dowle
+- Jeff Moore
+- Karen Hargrave
+- Mum
+organisations:
+- Birmingham Perry Barr
+- CHC
+- Dewsbury Independent
+- House of Commons
+- MDT
+- NHS
+- NHS’s Continuing Healthcare
 ---
 
 # The Continuing Healthcare (CHC) system needs to be fairer - Jayne Dowle

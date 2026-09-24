@@ -11,6 +11,14 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- John Ternus
+- Tim Cook
+organisations:
+- Apple Watches
+- PDT
+- Samsung
 ---
 
 Apple will host its annual iPhone event on Wednesday, September 9 at 10 a.m. PDT, and it’s expected to be a big one. All signs point to Apple’s long-awaited entrance into the foldable smartphone market, finally shipping this kind of hardware about seven years after Samsung did.

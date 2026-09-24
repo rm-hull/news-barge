@@ -13,6 +13,25 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '**York'
+- Cambridge
+- England
+- Foss
+- Haxby
+- Langwith
+- Popular York
+- Wales
+- Wheldrake
+- YORK
+people:
+- Christian Vassie
+- Cllr Vassie
+organisations:
+- City of York Council
+- El Nino
+- Met Office
+- Yorkshire Water
 ---
 
 ## 'These are the moments that really matter' - York councillor calls for sewage action

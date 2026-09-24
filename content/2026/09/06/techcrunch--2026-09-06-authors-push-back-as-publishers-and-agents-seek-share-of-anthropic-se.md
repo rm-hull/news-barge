@@ -12,6 +12,20 @@ image: https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- April Henry
+- Courtney Milan
+- Heidi Bond
+- Mary Rasenberger
+- Victoria Strauss
+organisations:
+- Anthropic
+- Authors Guild
+- HarperCollins
+- Milan
+- The New York Times
+- Writers Beware
 ---
 
 Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments.

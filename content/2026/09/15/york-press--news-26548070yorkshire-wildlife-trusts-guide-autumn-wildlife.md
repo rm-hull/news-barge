@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Askham Bog
+- East Yorkshire
+- England
+- John Potter
+- Leeds
+- Moorlands
+- Potteric Carr
+- Ripon City Wetlands
+- Siberia
+- Staveley
+- UK
+- Wheldrake Ings
+- York
+- Yorkshire Lapwing
+people:
+- Dave Wilkinson
+- Helen Ferneyhough
+- John Potter
+organisations:
+- Owls
+- Yorkshire Wildlife Trust
 ---
 
 ## Experts share the best places to see autumn wildlife near York and in Yorkshire

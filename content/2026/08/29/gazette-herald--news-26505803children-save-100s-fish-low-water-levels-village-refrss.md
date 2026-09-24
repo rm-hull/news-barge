@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Family & Parenting
+locations:
+- Sinnington
+people:
+- John Scoble
+- Sean McGinty
+- Verity Healey
+organisations:
+- Environment Agency
+- Sinnington Angling Club
 ---
 
 A AMAZING effort by a group of young children has saved hundreds of stranded fish and averted a 'near tragedy'.

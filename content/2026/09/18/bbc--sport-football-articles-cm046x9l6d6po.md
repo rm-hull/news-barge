@@ -13,6 +13,62 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg
+locations:
+- Brazil
+- Brentford
+- England
+- Germany
+people:
+- 4Levi Colwill
+- 6El Hadji Malick Diouf
+- 6Estevao Willian
+- 6Geovany Quenda
+- 6Michael Kayode
+- 6Wesley Fofana
+- 7Aaron Hickey
+- 7Jannik Schuster
+- 7Mikkel Damsgaard
+- :** Penders
+- ADango Ouattara
+- AFabio Carvalho
+- AMahdi Nicoll-Jazuli
+- ASubs
+- Ajer
+- Ballcombe
+- Barco
+- Brentfordclimbed
+- Caoimhin Kelleher
+- Chavarria
+- Cole Palmer
+- Dane
+- Emiliano Martinez
+- Fabio Carvalho
+- 'Frederick ## Chelsea'
+- Ghosted
+- Gittens
+- Gusto
+- Hato
+- Henry
+- Igor Thiago
+- Jaidon Anthony
+- Janelt
+- Joao Pedro
+- Josh Acheampong
+- Jurgen Klopp.
+- Lacroix
+- Lavia
+- Lewis-Potter
+- Mamadou Sangare
+- Neto
+- Schade
+- Welbeck
+- Wilson
+- Yarmoliuk
+organisations:
+- BBC Sport
+- Brentford
+- Chelsea
+- Premier League
 ---
 
 ![Brentford's Igor Thiago celebrates scoring their second goal against Chelsea in the Premier League](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg)

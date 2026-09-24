@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arlington National Cemetery
+- Confederate Monument
+- D.C.
+- Smithsonian
+- U.S.
+- United States
+- Virginia
+- Washington
+- West Point
+- anti-United States
+people:
+- Albert Pike
+- Eleanor Holmes Norton
+- Moses Ezekiel
+- Pete Hegseth
+- Robert E. Lee
+- Trump
+- Ty Seidule
+organisations:
+- Arlington National Cemetery
+- Black Lives Matter
+- Confederacy
+- Confederate
+- Congress
+- Defense Department
+- Ku Klux Klan
+- The Associated Press
+- The Washington Post
+- U.S. Army
 ---
 
 The Trump administration removed materials from Arlington National Cemetery that criticized a former monument to Confederate soldiers for its romanticized depiction of slavery, the latest in its campaign to drastically change the representation of the Civil War in high-profile public spaces.

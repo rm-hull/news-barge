@@ -13,6 +13,55 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/91/59/13/1200x675_cmsv2_b9457071-e12a-52fb-a9e4-208b8eb43ab8-9915913.jpg
+locations:
+- Abgeordnetenhaus
+- Berlin
+- Friedrichstrasse
+- Gaza
+- Hanover
+- Lower Saxony
+- Mecklenburg-Western Pomerania
+- Middle East
+- Moscow
+- Neukölln
+- Palestine
+- Russia
+- Russian House
+people:
+- Alexander King
+- Christoph Meyer
+- Dahabflex
+- Elif Eralp
+- Greens’ Werner Graf
+- Kai Wegner
+- Kristin Brinker
+- Michael Lüders
+- Stefan Evers
+- Steffen Krach
+- Volt
+- Werner Graf
+- Wolfgang Kubicki
+organisations:
+- '## Volt'
+- Abgeordnetenhaus
+- AfD
+- BSW
+- Berlin Left
+- BerlinTREND
+- Bild
+- CDU
+- CDU-Green-SPD
+- FDP
+- IDF
+- Infratest
+- Left-Green-SPD
+- Red Town Hall The Left
+- SPD
+- Sahra Wagenknecht Alliance
+- Senate Department for Urban Development, Building and Housing
+- The Greens
+- ZDF
+- ÖDP
 ---
 
 ## The Left and the CDU are vying for first place, with the AfD and the Greens trailing and the SPD suffering heavy losses. An overview of parties, leading candidates, key issues and possible coalitions.

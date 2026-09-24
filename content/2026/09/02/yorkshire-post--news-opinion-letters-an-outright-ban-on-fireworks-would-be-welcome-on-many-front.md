@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Bradford
+- China
+- Roger Backhouse
+- Upper Poppleton
+- York
+people: []
+organisations:
+- Government
+- Kelvin Lister-Stuttard
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # An outright ban on fireworks would be welcome on many fronts - Yorkshire Post Letters

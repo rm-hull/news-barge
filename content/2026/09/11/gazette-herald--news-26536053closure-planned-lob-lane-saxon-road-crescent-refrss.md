@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Church Road
+- Lob Lane
+- Moor Road
+- Saxon Road
+- Stamford Bridge
+- The Crescent
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Highways Customer Care
+- Public Notice Portal
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Africa
+- Gateshead
+- Hull City
+- Newcastle
+- North East
+- South Shields
+- Tyneside
+people:
+- SARAH CALDECOTT
+organisations:
+- Darlington EE
+- Sunderland
 ---
 
 *(Image: SARAH CALDECOTT)*

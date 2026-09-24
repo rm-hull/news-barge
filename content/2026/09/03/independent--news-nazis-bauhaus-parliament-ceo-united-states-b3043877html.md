@@ -14,6 +14,36 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Bauhaus
+- Chicago
+- Dessau
+- Germany
+- Moeser
+- Saxony-Anhalt
+- Tel Aviv
+- United States
+- Weimar
+people:
+- Bahaus
+- Barbara Steiner
+- Bauhaus
+- Fanny Brodersen
+- Geir Moulson
+- Hans-Thomas Tillschneider
+- Ludwig Mies van der Rohe
+- Markus Schreiber
+- Ulrich Siegmund
+- Walter Gropius
+- Wolfram Weimer
+organisations:
+- AP
+- AfD
+- Alternative for Germany
+- Bauhaus Dessau Foundation
+- Bauhaus Foundation
+- The Associated Press
+- The Bauhaus
 ---
 
 Nearly a century after the Nazis shut down the world-famous Bauhaus school of design, it has once again become a cultural battleground between Germany's establishment and the far-right Alternative for Germany party, which has called the art movement an “aberration of modernism.”

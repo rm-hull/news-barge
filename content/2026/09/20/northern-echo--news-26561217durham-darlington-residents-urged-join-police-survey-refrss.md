@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/20351382.jpg?type=og-image
+locations:
+- County Durham
+- County Durham County Durham
+- Darlington
+people:
+- Joy Allen
+organisations:
+- CPS
+- Crime and Justice Plan
+- HMICFRS
+- Local Criminal Justice Board
+- PCC
+- State of Policing
 ---
 
 **PCC Joy Allen explains, in her own words, why residents and businesses across County Durham and Darlington need to take part in a national survey and share their experience when reporting crime and whether it has been positive or whether policing needs to do better.**

@@ -12,6 +12,24 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/21/16/40/danny-tommo-boat.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arun River
+- Dover
+- Littlehampton Harbour
+- Portsmouth
+- RealDannyTommo
+- West Sussex
+people:
+- Daniel Thomas
+- Danny Tommo
+- Tommy Robinson
+organisations:
+- Border Patrol
+- Patriot Platform
+- The Independent
+- The Patriot
+- The Times
+- YouTube
 ---
 
 A boat purchased by a right-wing activist to police the Channel for asylum seekers has accidentally sunk, according to reports.

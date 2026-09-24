@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- England
+- UK
+- West Yorkshire
+people:
+- Justin Madders
+- Marc Clothier
+- Sarah Jones
+organisations:
+- Department for Transport
+- Driver and Vehicle Licensing Agency
+- Driver and Vehicle Standards Agency
+- NRPCC
+- National Roads Policing Coordination Centre
 ---
 
 *(Image: W Yorks Police)*

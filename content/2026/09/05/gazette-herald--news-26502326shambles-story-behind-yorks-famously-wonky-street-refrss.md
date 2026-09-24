@@ -14,6 +14,21 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Goodramgate
+- Pisa
+- Shambles
+- York
+people:
+- Harry Potter
+- Rowling
+- Shambles
+organisations:
+- Diagon Alley
+- Hogwarts
+- J.K
+- Leaning Tower
+- The Press
 ---
 
 With schools about to reopen, some people may already be pining for summer holidays that now feel a distant memory. But who needs the Leaning Tower of Pisa when York has the leaning buildings of Shambles?

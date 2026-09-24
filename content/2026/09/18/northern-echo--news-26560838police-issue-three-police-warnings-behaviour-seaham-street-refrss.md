@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Church Street
+- County Durham
+- County Durham Street
+- Ferryhill Five
+- Seaham
+people: []
+organisations:
+- CPN
+- CPW
+- CPWs
+- Community Protection Notice
+- Community Protection Warnings
+- Durham County Council
+- Durham Police
+- GOOGLE
 ---
 
 *(Image: GOOGLE)*

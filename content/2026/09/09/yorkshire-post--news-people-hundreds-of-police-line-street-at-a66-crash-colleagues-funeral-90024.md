@@ -13,6 +13,48 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Cleveland
+- Hartlepool
+- Hutton Avenue
+- Middlesbrough
+- Redcar
+- South Bank
+- St Joseph
+- St Joseph’s Roman Catholic Church
+- UK
+people:
+- Andy Burnham
+- Anna Turley
+- Bagpipers
+- Lauren Somerville
+- Matt
+- Matthew Blades
+- Ms Fuller
+- Ms Turley
+- Paul Douthwaite
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Sarah Jones
+- Victoria Fuller
+- Zara Lavender
+organisations:
+- A66
+- British Army
+- Cleveland Police
+- Cleveland Police Federation
+- Commons
+- Diocese of Hexham
+- Great North Air Ambulance
+- Home Office
+- Manchester United
+- Newcastle
+- North East Ambulance Service
+- Police Family
+- Policing Cleveland
+- Roman Catholic Church
+- Union Flag
 ---
 
 # Hundreds of police line street at A66 crash colleague’s funeral

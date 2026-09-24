@@ -15,6 +15,16 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Caribbean
+- Chile
+- Guatemala City
+- Latin America
+- Mexico
+people:
+- Moises Castillo
+- Salvador Allende
+organisations: []
 ---
 
 Protests, festivals and independence in top photos from Latin America and the Caribbean

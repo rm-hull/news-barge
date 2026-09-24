@@ -14,6 +14,24 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21484342.jpg?type=og-image
+locations:
+- A162 Old Great North Road
+- Brotherton
+- Great North Road
+- North Yorkshire
+- Saddler’s Lane
+- Selby
+- Sutton Lane
+- Tadcaster
+- Thaal Indian
+- West Yorkshire
+- York
+people: []
+organisations:
+- A162
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- North Yorkshire Weather Updates
 ---
 
 Emergency services have closed a main road in North Yorkshire following a large ongoing building fire.

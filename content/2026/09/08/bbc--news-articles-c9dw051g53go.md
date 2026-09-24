@@ -11,6 +11,33 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb68/live/652ae0
 categories:
 - UK
 - News & Politics
+locations:
+- Clacton
+- Dover
+- Germany
+- Portsmouth
+- Saxony-Anhal
+- UK
+people:
+- Lee Anderson
+- Nigel Farage
+- Tim Montgomerie
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- AfD
+- BBC
+- Conservative Party
+- ConservativeHome
+- Deutschland
+- Guido Fawkes
+- Houses of Parliament.
+- Newsnight
+- Politics Essential
+- Reform UK
+- Spectator
+- Tories
+- Tory
 ---
 
 ![Tim Montgomerie, with short cropped hair and a grey beard, is wearing an open necked shirt and suit jacket. He is in the Newsnight studio](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/bb68/live/652ae040-9b25-11f1-9a2c-6d6ac3827d20.jpg)

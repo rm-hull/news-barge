@@ -14,6 +14,51 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Ahmedabad
+- Asia
+- Balasinor
+- Baroda
+- Bhote Kashi River
+- Dark
+- Gujarat
+- Gyirong
+- Himalayas
+- India
+- Jurassic Park of India’
+- Kolkata
+- Madison Square Garden
+- Maharashtra
+- Mount Kailash
+- Mumbai
+- Nepal
+- New York
+- Raiyoli
+- Tibet
+people:
+- Aaliya Babi
+- Aashim Tyagi
+- Anne Frank
+- Ashim Sattar***
+- Balasinor
+- Dinosaur Princess’
+- Gauri Joshi
+- Malala Yousafzai
+- Mohan Bhagwat
+- Sailesh Rathnakumar
+- Selvi
+- Shashank Walia
+organisations:
+- Bajrang Dal
+- EPI
+- Indian Institute of Technology Bhubaneswar
+- Isha Foundation
+- National Disaster Management Authority
+- Quint
+- RSS
+- RSS’
+- Rashtriya Swayamsevak Sangh
+- Sadhguru
 ---
 
 It has been hard not to despair while watching the ruinous floods swallow parts of Nepal, and harder, still knowing that the agony compounds each passing day for dozens of Indian families whose members remain unaccounted for.

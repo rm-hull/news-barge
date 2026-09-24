@@ -12,6 +12,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/19/43/GettyImages-2252102474.jpg?trim=0,16,0,15&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Dallas
+- Iowa
+- Iran
+- Israel
+- Michigan
+- Texas
+- U.S.
+people:
+- Abdul El-Sayed
+- Alex Jones
+- Alexandria Ocasio-Cortez
+- Ashley Hinson
+- Benny Johnson
+- Candace Owens
+- Donald Trump
+- Gavin Newsom
+- James Talarico
+- Jonathan Karl
+- Josh Turek
+- Ken Paxton
+- Megyn Kelly
+- Mike Rogers
+- Tucker Carlson
+organisations:
+- ABC
+- America First
+- CNN
+- Fox News
+- MAGA
+- New York Times
+- SSRS
+- Sky News
+- Trump
+- Truth Social
+- U.S. Senate
+- Wall Street Journal
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

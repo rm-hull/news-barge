@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Nashville
+- Nashville’s Woodlawn
+- O’Connell
+- Palm Beach
+- Parton Airport
+- Tennessee
+people:
+- Bill Lee
+- Bryan Seaver
+- Carl Dean
+- Dan Dion
+- Dolly Parton
+- Donald Trump
+- Doug Kreulen
+- Freddie O’Connell
+- Jolene
+- Whitney Houston
+organisations:
+- Dolly Parton International Airport
+- Entertainment Weekly
+- MNAA
+- Metropolitan Nashville Airport Authority
+- Nashville International Airport
+- SongTeller “
+- Tennessean
 ---
 
 Bill Lee, the Tennessee governor, on Friday said he favored a proposal to rename Nashville’s international airport after legendary country singer Dolly Parton, who died three days earlier at age 80.

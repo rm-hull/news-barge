@@ -14,6 +14,56 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Barnard Castle
+- Barney
+- Bowes
+- Chris Lloyd
+- Gainford
+- Galgate
+- Headlam
+- Hutton Magna
+- Ireland
+- Middleton
+- Newcastle
+- North East
+- Richmondshire
+- Ripon Workhouse
+- Streatlam Castle
+- Teesdale Union
+- Westwick
+- Whorlton Bridge
+- Winston
+people:
+- Barnard Castle
+- Barney
+- Chris Lloyd
+- Harry Secombe
+- Henry VIII
+- James Arthur Wass
+- John Bowes
+- John Bowes Esq
+- John Green
+- Les Bland
+- Lucy
+- Peter Holmes
+- Richardson
+- Sabina
+- Westwick
+- William
+- Winston
+organisations:
+- Barnard Castle
+- Bowes Museum
+- Chris Lloyd)* Workhouses
+- Church
+- Darlington Market
+- National Lottery
+- Poor Law Commission
+- Ripon Workhouse Museum
+- Teesdale Union
+- Trinity College Cambridge
+- Westwick
 ---
 
 IN July, we told how the Ripon Workhouse Museum had reopened after a £2.8m refurbishment, led by the National Lottery funding, which has allowed the former council offices to be transformed into a thought-provoking visitor attraction.

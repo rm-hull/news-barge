@@ -12,6 +12,30 @@ image: https://static.independent.co.uk/2026/08/29/16/50/Screenshot-2026-08-29-a
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Great Lake
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Lake Ontario “Lake America
+- Ottawa
+- Toronto
+- U.S.
+- Washington
+people:
+- Donald Ducks
+- Donald Trump
+- Doug Ford
+- Mark Carney
+organisations:
+- Confederation of Canada
+- Declaration of Independence of the United States of America
+- Ford
+- Lake America’
+- TikTok
+- Truth Social
 ---
 
 President Donald Trump on Saturday posted an apparently AI-generated video depicting an army of buff, bequiffed and heavily-armed “Donald Ducks” patrolling the shores of “Lake America.”

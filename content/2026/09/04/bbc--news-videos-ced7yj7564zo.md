@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- US
+- United States
+people:
+- Aisha Sembhi
+- Howard Lutnick
+- Mesut Ersoz
+organisations:
+- International Energy Agency
+- US Commerce
 ---
 
 # Examining US official's claim that data centres 'don't use water'

@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- New York
+people:
+- '***Louise Matsakis’'
+- Sam Wunderl
+- Steven Masada
+- Tan Chenxin
+- Xiaohongshu
+- Zeyi Yang***
+- Zhao
+organisations:
+- Apple
+- Cisco
+- LinkedIn
+- Maimai
+- Microsoft Teams
+- Skype
+- Tan
+- Telegram
+- US Customs and Border Protection
+- WIRED
+- WeChat
+- Webex
+- Xiaohongshu
+- Zoho Cliq
 ---
 
 Zhao, a 30-something woman living in Beijing, says she lost over $100,000 in May to a romance scammer who claimed to be a researcher working for Microsoft. After initially chatting Zhao up on the Chinese social media platform Xiaohongshu, he asked to move their conversation to Microsoft Teams, where he was happy to provide her with an account and password she could use.

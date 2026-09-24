@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491129.jpg?type=og-image
+locations:
+- Black Forest
+- West Yorkshire
+people:
+- '### Nigella'
+- Gary
+- Mo
+- Nanny Lins
+- Newquest
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Star Baker
+- Star Baker Tom
+organisations:
+- Channel 4
 ---
 
 A Yorkshire baker has impressed judges in the opening week of a popular TV baking competition.

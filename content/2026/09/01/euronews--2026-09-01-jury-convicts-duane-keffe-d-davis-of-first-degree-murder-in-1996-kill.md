@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Las Vegas
+people:
+- Binu Palal
+- Davis'
+- Davis’
+- Duane “Keffe D” Davis
+- God
+- Marc DiGiacomo
+- Marion “Suge” Knight
+- Michael Sanft
+- Sekyiwa “Set” Shakur
+- Tupac Shakur
+- “Suge” Knight
+organisations:
+- Cadillac
+- Death Row Records
 ---
 
 ## The verdict lays to rest decades of speculation and conspiracy from avid hip-hop fans around the world in the high-profile killing that went unresolved for close to 30 years. Davis is expected to appeal the conviction.

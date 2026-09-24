@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/21476354.jpg?type=og-image&xType=0&yType=38
+locations:
+- Arendelle
+- Hopetown Darlington
+people:
+- Anna
+- Claire Willmer
+- Elsa
+organisations:
+- Darlington Market
+- Disney
+- Hopetown Darlington
+- Morrisons Daily
+- North Road Station Museum
+- The Stores
 ---
 
 *(Image: HOPETOWN)*

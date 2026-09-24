@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=780a0c23c682bb259cd4a2e7f1926fa7
+locations:
+- White House
+people:
+- Donald Trump
+- Jay Bhattacharya
+- Russell Vought
+organisations:
+- Department of Health and Human Services
+- NIH
+- National Institutes of Health
+- OMB
+- Politico
+- Trump
+- Vought
+- Washington Post
 ---
 
 Donald Trump’s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president’s agenda.

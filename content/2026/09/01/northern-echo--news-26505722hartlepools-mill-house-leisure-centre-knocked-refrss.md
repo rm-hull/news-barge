@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Hartlepool
+- Middlesbrough
+- Mill House Leisure Centre
+- Teesside
+- YOUR
+people: []
+organisations:
+- Hartlepool Borough Council
+- Public Notice Portal
 ---
 
 *(Image: Google Maps)*

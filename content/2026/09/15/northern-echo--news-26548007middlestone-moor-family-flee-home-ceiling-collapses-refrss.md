@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- County Durham
+- JESS PARTINGTON
+- JESSICA PARTINGTON
+- Livin Housing
+- Lyne Road
+- Middlestone Moor
+- North East
+- Ravenseat Farm
+- Spennymoor
+people:
+- Amanda Owen
+- Jess Partington
+- Jessica Partington
+- Miss Partington
+- Paul Thompson
+- SARAH CALDECOTT
+organisations:
+- Livin Housing
+- Our Yorkshire Farm
 ---
 
 A County Durham mum-of-four says her family fled their home after the ceiling collapsed and filthy water poured through the roof.

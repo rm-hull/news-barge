@@ -14,6 +14,26 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Grand Opera House York
+- Great Britain
+- India
+- Ireland
+- Queens
+- Scarborough
+- UK
+- Victoria
+people:
+- Albert
+- Caroline
+- Catherine Howard
+- Henry VIII
+- Lucy Worsley
+- Queen Victoria
+organisations:
+- BBC
+- Fane
+- Historic Royal Palaces
 ---
 
 Lucy Worsley, BBC presenter, historian and former chief curator at Historic Royal Palaces, will be exploring Britain's monarchy in front of a York audience as she brings her touring show to this city next month.

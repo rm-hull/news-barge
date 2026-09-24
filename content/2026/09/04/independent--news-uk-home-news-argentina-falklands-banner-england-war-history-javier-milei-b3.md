@@ -13,6 +13,100 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- Argentina
+- Ascension Island
+- Atlantic
+- Bluff Cove
+- Bomb Alley
+- Britain
+- British Empire
+- Buenos Aires
+- Darwin
+- Downing Street
+- England
+- Falkland Islands
+- Falklands
+- Falklands’
+- France
+- Galahad
+- Goose Green
+- Mount Kent
+- Pebble Island
+- Port Stanley
+- Portsmouth
+- Queen Elizabeth II
+- San Carlos
+- Santa Fe
+- South Georgia
+- South Georgia Island
+- South Sandwich Islands
+- Southampton
+- UK
+- US
+- West Country
+- mid-Atlantic
+people:
+- Andy Burnham
+- Argies
+- Belgrano
+- Cristina Fernandez de Kirchner
+- David Beckham
+- Diana Gould
+- Diego Simeone
+- Donald Trump
+- Ed Miliband
+- Elvis Costello
+- H Jones
+- Javier Milei
+- John Nott
+- Jorge Anaya
+- Jorge Luis Borges
+- Leopoldo Galtieri
+- Margaret Thatcher
+- Mauricio Macri
+- Peter Kyle
+- Robert Wyatt
+- Simon Weston
+- Stanley
+- Stuart Russell
+- Wes Streeting
+organisations:
+- AFA
+- Air Force
+- Antelope
+- Argentine Football Association
+- BBC’s
+- British Harriers
+- Falkland Islander
+- Falkland Islanders
+- Fifa
+- Getty
+- Gurkas
+- HMS Antrim
+- HMS Ardent
+- HMS Coventry
+- HMS Sheffield
+- Hermes
+- MC Atlantic Conveyor
+- Mirage III
+- Parachute Regiment
+- Pentagon
+- RAF
+- Royal Marines
+- SAS
+- SS Canberra
+- Scots Guard
+- Second Battalion
+- Security Council
+- Skyhawks
+- The Sun
+- UN
+- United Nations
+- United States’
+- Victoria Cross
+- Vulcan
+- Welsh Guards
 ---
 
 Argentina’s president has escalated his country’s claim over the Falkland Islands, vowing to “fight tooth and nail” to defend its interests.

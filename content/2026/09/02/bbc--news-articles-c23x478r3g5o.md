@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Birmingham
+- Islamabad
+- Khyber Pakhtunkhwa
+- Musa Ka Musala
+- Pakistan
+- UK
+people:
+- Alex
+- Alexander Harris
+- Khalid Iqbal
+- Musa Ka Musala
+organisations:
+- Adam Smith International
+- Foreign Office
+- Margalla Trail Runners
 ---
 
 ![Alexander Harris, a man in black shorts and a grey jacket and wearing sunglasses, is posing in front of a stone formation and Pakistan flags](https://ichef.bbci.co.uk/ace/standard/716/cpsprodpb/85b2/live/f0eb1540-a6ac-11f1-b048-153395f36aa1.jpg)

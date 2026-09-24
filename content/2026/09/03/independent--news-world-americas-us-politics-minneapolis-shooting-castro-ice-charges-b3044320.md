@@ -11,6 +11,40 @@ image: https://static.independent.co.uk/2026/08/27/01/2259275050..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Brownsville
+- Cameron County
+- Mexico
+- Minneapolis
+- Minnesota
+- Texas
+- U.S.
+people:
+- '![Castro'
+- Alex Pretti
+- Christian Castro
+- Donald Trump
+- Fernando Rodriguez Jr.
+- Greg Abbott
+- Harmeet Dhillon
+- Julio Cesar Sosa-Celis
+- Kristi Noem
+- Matthew Evans
+- Renee Good
+organisations:
+- Department of Homeland Security
+- Department of Justice
+- FBI
+- Homeland Security
+- ICE
+- Immigration and Customs Enforcement
+- Justice Department
+- Main Justice
+- ProPublica
+- The Independent
+- Trump
+- US Attorney
+- then-Homeland Security
 ---
 
 Federal prosecutors are set to charge an Immigration and Customs Enforcement officer who was accused of shooting a Venezuelan immigrant and then lying about it.

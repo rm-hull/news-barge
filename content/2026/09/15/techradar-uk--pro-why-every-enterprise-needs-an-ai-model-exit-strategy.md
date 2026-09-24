@@ -10,6 +10,15 @@ image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- America
+people: []
+organisations:
+- Autonomize AI
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

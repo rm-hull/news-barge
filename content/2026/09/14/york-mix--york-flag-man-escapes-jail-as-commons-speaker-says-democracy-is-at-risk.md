@@ -11,6 +11,29 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Brunswick Street
+- St George’s Cross
+- Walmgate Bar
+- York Magistrates’ Court
+people:
+- David Amiss
+- Jo Cox
+- Lee Moran
+- Lindsay Hoyle
+- Maskill
+- Ms Barnes
+- Ms Maskell
+- Rachael Maskell
+- Tanik Ram
+- Verity Barnes
+organisations:
+- Facebook
+- House of Commons
+- Labour
+- Tory
+- Universal Credit
+- York Central
 ---
 
 A York man has received a suspended prison sentence after being convicted of hanging an abusive flag on the city walls directed at York MP Rachael Maskell.

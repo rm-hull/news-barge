@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- California
+- Chatsworth
+- De Soto Avenue
+- LA
+- Los Angeles
+- Nordhoff Street
+- US
+people:
+- Colleen Williams
+- Edy Gutierrez Mejia
+- Eliana Moreno
+- Fabian Salazar
+- George Marciniw
+organisations:
+- Chatsworth
+- Moment NBC
+- NBC Los Angeles
+- NBC News
+- NBC4
+- NTSB
+- National Transportation Safety Board
+- NewsChopper4
 ---
 
 ![The National Transportation Safety Board released photos of the aftermath of the Los Angeles helicopter crash that killed three people.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/269b/live/b04f79b0-b212-11f1-95f2-19e1a2e8eef2.jpg)

@@ -13,6 +13,21 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- AI
+- Mount Pleasant
+- Wisconsin
+people:
+- Anton Shilov
+- Clément Delangue
+- Jensen Huang
+- Tom
+organisations:
+- Google News
+- Hugging Face
+- Microsoft
+- Nvidia
+- Tom’s Hardware
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/kwYiPqZyuSbH2GjiagqmzT.png) 

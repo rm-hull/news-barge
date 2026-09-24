@@ -12,6 +12,72 @@ image: https://cdn.mos.cms.futurecdn.net/vGNQtUTQVDzCVeuw6AAtXc-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Australia
+- Canada
+- Khachanov
+- London
+- NZ
+- New Zealand
+- UK
+- US
+- USTA Billie Jean King National Tennis Center.
+- Zverev
+people:
+- Adrian Back
+- Alejandro Tabilo
+- Alexander Zverev
+- Botic van de Zandschulp
+- Felix Auger-Aliassime
+- Karen Khachanov
+- Learner Tien
+- Stan Sport**
+organisations:
+- 9Gem
+- ABC
+- ACCN
+- ACCNX
+- AMC
+- AU
+- CNN
+- CW Sports
+- Champions League
+- Channel 9
+- Disney Plus
+- ESPN Deportes
+- ESPN Select
+- ESPN Select**
+- ESPN Unlimited
+- ESPN**
+- ESPN2
+- ESPNEWS
+- ESPNU
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Hulu
+- Khachanov
+- NBA
+- NBL
+- NFL Network
+- NOW Sports
+- Newsweek
+- Premier League
+- Red Bull
+- Rugby's Greatest Rivalry
+- SECN
+- Sky Sports
+- Sky Sports**
+- Stan Sport
+- Super Rugby
+- TNT
+- TSN
+- TechRadar
+- WNBA
+- World Soccer Magazine
+- Yahoo
+- Zverev
 ---
 
 ![Alexander Zverev rects against Alejandro Tabilo during a Men's Singles match on Day Seven of the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/vGNQtUTQVDzCVeuw6AAtXc.jpg) 

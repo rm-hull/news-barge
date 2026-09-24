@@ -13,6 +13,44 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Ashdale Road
+- Back Lane
+- Bird Cherry
+- Bossall
+- Harome
+- Hawthorn Cottage
+- Helmsley
+- Ings Lane
+- Kirkbymoorside
+- Main Street
+- Mill Cottage
+- Mill Street
+- North Yorkshire
+- Oswaldkirk Hall
+- Settrington
+- The Lodge
+- Tinley Garth
+- YO60 7NU
+- YO62 5DE
+- YO62 5JG
+- YO62 6AR
+- YO62 6DW
+- YOUR
+- Yew Tree House
+- York
+people: []
+organisations:
+- 8NP
+- Copper Beech
+- Harome Approval
+- Hawthorn Cottage Work
+- Helmsley Plans
+- LBC
+- Micro Metalsmiths Ltd
+- Public Notice Portal
+- Public Notice Portal North Yorkshire Council
+- The Lodge An
 ---
 
 *(Image: Newsquest)*

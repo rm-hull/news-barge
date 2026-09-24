@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Durham
+- Elemore Grange Farm
+- Elemore Woods
+- Littletown
+- Sherburn Hill
+people:
+- Amanda Rippon
+- Claire Lumley
+- Michael Mount
+organisations:
+- Durham Crown Court
+- Northern Echo
 ---
 
 *(Image: The Northern Echo)*

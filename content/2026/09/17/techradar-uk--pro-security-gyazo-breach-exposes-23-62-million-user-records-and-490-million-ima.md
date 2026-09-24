@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/dN5toW9ygER7CeKYqEVwba-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Helpfeel
+- Sead
+organisations:
+- '**Helpfeel'
+- AI
+- Al Jazeera Balkans
+- Google News
+- Google SSO
+- Gyazo
+- Helpfeel
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Image depicting a hand on a scanner](https://cdn.mos.cms.futurecdn.net/dN5toW9ygER7CeKYqEVwba.jpg) 

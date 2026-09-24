@@ -12,6 +12,15 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+people:
+- Hendrick Holt
+organisations:
+- '### Berlin Ranks'
+- '### Russisches Haus'
+- '### Wind Power Fraudster'
+- Brandenburg Health
 ---
 
 ## News

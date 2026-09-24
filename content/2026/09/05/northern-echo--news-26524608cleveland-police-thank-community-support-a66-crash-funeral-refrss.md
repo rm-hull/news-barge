@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Darlington
+- Normanby Medical Centre
+- Normanby Road
+- South Bank
+people:
+- Jakub Matusiak
+- John Wrintmore
+- Matthew Blades
+- Tom Clough.
+organisations:
+- A66
+- Cleveland Police
 ---
 
 Cleveland Police has thanked the community for their support after an A66 crash funeral.

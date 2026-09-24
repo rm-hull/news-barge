@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Lendal Bridge
+- York
+people: []
+organisations: []
 ---
 
 Police have being dealing with “significant anti-social behaviour” in York city centre this afternoon and evening.

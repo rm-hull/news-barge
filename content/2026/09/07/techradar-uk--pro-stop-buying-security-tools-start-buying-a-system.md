@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations: []
+people: []
+organisations:
+- Future plc
+- Gartner
+- Illumio
+- Systems Engineering
+- TechRadar Pro
+- TechRadarPro
+- VLANs
+- Virtual Local Area Networks
 ---
 
 ![A file and folder transferring data with a red warning mark indicating malware.](https://cdn.mos.cms.futurecdn.net/XbZCTEpjtunPvMj9ySXmWU.jpg) 

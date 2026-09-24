@@ -12,6 +12,30 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- La France
+- Marne
+- Sens
+people:
+- Attal
+- François Hollande
+- Jean-Michel Blanquer
+- Jordan Bardella
+- Marine Le Pen
+- Messrs
+- Olivier Faure
+- Sébastien Lecornu
+- Édouard Philippe
+organisations:
+- Horizons
+- LFI
+- Laboratoire de la République
+- Le**Parisien
+- National Assembly
+- PS
+- RN
+- Rassemblement
+- Socialist Party
 ---
 
 ## Between the 2027 presidential campaign and talks on the next budget, several leading French politicians were out in force on Saturday 29 August.

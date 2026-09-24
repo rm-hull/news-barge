@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Batley
+- West Yorkshire
+- West Yorkshire Police
+people: []
+organisations:
+- Crimestoppers
+- Kirklees Police
+- Kirklees Safeguarding
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

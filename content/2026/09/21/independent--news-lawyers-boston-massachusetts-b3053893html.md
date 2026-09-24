@@ -15,6 +15,16 @@ categories:
 - True Crime
 - Law & Justice
 image: https://static.independent.co.uk/2026/09/05/02/EEUU-NI%C3%91OS_ASESINADOS_32765.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Massachusetts
+- Plymouth County
+people:
+- Edward Paltzik
+- Kevin Reddington
+- Lindsay Clancy
+- Michael Desronvil
+- Timothy Cruz
+organisations: []
 ---
 
 Lawyers for Lindsay Clancy have asked a judge to investigate the conduct of the lone juror who wanted to convict the mother from Massachusetts of murder in the deaths of her three children.

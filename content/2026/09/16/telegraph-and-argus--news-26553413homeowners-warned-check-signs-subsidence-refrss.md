@@ -14,6 +14,13 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- UK
+people:
+- Andy Simms
+organisations:
+- MyBuilder.com
+- Pixabay
 ---
 
 *(Image: Pixabay)*

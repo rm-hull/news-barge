@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Barnard Castle
+- Boaz House
+- Darlington Binns
+- North-East
+- Stockton
+- Teesside
+people:
+- Jill Cull
+- Ms Cull
+- Paul Murphy
+organisations:
+- Dragon's Den
+- MFC Foundation
+- Middlesbrough FC Foundation
+- Muckle LLP
 ---
 
 A business development manager is running the Great North Run dressed as a giant parmo.

@@ -15,6 +15,26 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Abbey Orchard Street
+- Leeds
+- London
+- London’s King’s Cross
+- Old Bailey
+- Snapchat
+- UK
+- Westminster
+people:
+- Angela Rafferty KC
+- Farmanullah Sherzad
+- Frida Hussain
+- Lisa Wilding KC
+- Sulaiman Tajzai
+- Tajai
+organisations:
+- CCTV
+- Metropolitan Police
+- PA Wire
 ---
 
 # Teenage asylum seeker jailed over ‘savage’ knife murder after travelling to London

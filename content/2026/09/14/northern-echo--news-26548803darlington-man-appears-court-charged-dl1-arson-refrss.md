@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- DL1
+- Darlington
+- Forcett Street
+- Newton Aycliffe Magistrates' Court
+- Teesside Crown Court
+- Vue
+- Woollen Mill
+people:
+- Andy Burnham
+- Chris Williams
+- Raymond Coglan
+- Roy
+organisations:
+- Darlington Fire and Rescue Service
+- NEWSQUEST
+- Nando’s
+- Premier Inn
+- Teesside Tributes
 ---
 
 A man has appeared in court charged with arson after Darlington’s DL1 complex was evacuated due to a fire.

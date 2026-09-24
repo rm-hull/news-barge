@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Black Sea
+- Europe
+- Kyiv
+- Moscow
+- Odesa
+- Poland
+- Przemyśl
+- Russia
+- Ukraine
+people:
+- Andriy
+- Andy Burnham
+- Eva
+- Joe Biden
+- Oleksandr Pertsovsky
+- Serhih Leshchenko
+- Tetiana Zaiets
+- Ukrzaliznytsia
+- Volodymyr
+organisations:
+- Facebook
+- Guardian
+- Kyiv
+- Ukrzaliznytsia
 ---
 
 Russia has opened a deadly new phase in its war against Ukraine by deliberately targeting the country’s railway network, with six employees killed on Tuesday in the latest strikes on Kyiv.

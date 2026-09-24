@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Australia
+- Caroline Springs
+- Melbourne
+- Mount Waverley
+- Victoria
+people:
+- Sarah Scully
+organisations:
+- BoM
+- Bureau of Meteorology
 ---
 
 Rainbow clouds shone over parts of Victoria over the weekend, in an unusual visual phenomenon known as iridescent clouds.

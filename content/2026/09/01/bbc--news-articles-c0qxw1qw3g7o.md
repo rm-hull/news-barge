@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Australia
+- Britain
+- Canada
+- China
+- China.
+- Friendship Bridge
+- Ghatte Khola
+- Ghatte Khola Bazar
+- Gyirong
+- India
+- Italy
+- Kathmandu
+- Maithili Barrack
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Nepal-Tibet
+- Nuwakot
+- Rasuwa
+- Rasuwagadhi
+- Tatopani
+- Tibet
+- Timure
+- Trishuli
+- Vantor
+- Xizang Autonomous Region
+people:
+- Ajay Dixit
+- Gyirong
+- Posh Raj Pandey
+- Subhrasree Chakraborty
+- Sudipto Bhattacharya
+- Tika Ram Pokharel
+organisations:
+- BBC
+- CCTV
+- Centre of Hydrology and Water Resources Research
+- Isha Foundation
+- Kathmandu Post
+- Rashuwagadi Immigration Office
+- Rasuwagadhi Immigration Office
+- South Asia Watch on Trade, Economics and Environment
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

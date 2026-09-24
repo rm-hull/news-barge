@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Bishop Auckland
+- Cockfield
+- County Durham
+- Darlington
+- Hub
+people:
+- Jacqui Coulson
+- Janet Potts
+- Jenni Wood
+- Liz Johns
+- Ms Coulson
+- Ms Wood
+organisations:
+- Barnard Castle
+- Chester-le-Street Carers Support
+- DCCS
+- Durham County Carers Support
+- Echo
+- Heart Songs
+- Office of National Statistics
 ---
 
 A leading figure in social care is set to retire after nearly 25 years of service.

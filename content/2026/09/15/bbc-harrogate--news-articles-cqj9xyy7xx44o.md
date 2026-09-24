@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+locations:
+- A61
+- Dunlopillo
+- Harrogate
+- Pannal Railway Station
+- Smithy Close
+- Thirkhill Drive
+people: []
+organisations:
+- Forward Investments LLP
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Pannal
 ---
 
 ![Green space near Harrogate with a fenced playground area to the right of the image.](https://ichef.bbci.co.uk/ace/standard/874/cpsprodpb/790a/live/9375e6e0-b0db-11f1-b427-b9b4ddc559ae.jpg)

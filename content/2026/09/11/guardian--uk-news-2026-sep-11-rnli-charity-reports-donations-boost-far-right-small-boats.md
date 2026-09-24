@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- Dorset
+- Eastney
+- Hampshire
+- Isle of Wight
+- Langstone Harbour
+- Poole
+- Portsmouth
+- Sussex
+people:
+- Knox-Johnson
+- Robin Knox-Johnston
+organisations:
+- BBC Radio Solent
+- Poole Old Lifeboat Museum
+- RNLI
+- Royal National Lifeboat Institution
+- UK Border Force
 ---
 
 The Royal National Lifeboat Institution (RNLI) has had a “significant” boost in donations since becoming a target of far-right agitators protesting over small boat crossings.

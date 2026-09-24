@@ -12,6 +12,33 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Alameda
+- Amazon
+- Breeze
+- California
+- China
+- Silicon Valley
+people:
+- David Zagaynov
+- Parker Tenney
+organisations:
+- Avelo
+- Draper Associates
+- Drover Ventures
+- FedEx
+- Federal Aviation Administration
+- Hanwha Asset Management, G Squared
+- JAWS
+- Lockheed Martin
+- Navy
+- Poseidon Aerospace
+- Seagull
+- Starship Ventures
+- TQ Ventures
+- TechCrunch
+- UPS
+- VC
 ---
 
 Silicon Valley is known for embracing the ethos of “move fast and break things.” Poseidon Aerospace’s co-founder and CEO David Zagaynov just wants to move things fast.

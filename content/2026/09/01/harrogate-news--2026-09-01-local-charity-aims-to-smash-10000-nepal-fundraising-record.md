@@ -13,6 +13,16 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- Kathmandu
+- Nepal
+- Nepal’
+people:
+- Charlotte Gale
+- Guy Wilson
+organisations:
+- Harrogate Brigantes Rotary
+- The Himalayan Gurkhas Rotary Club
 ---
 
 Following recent devastating floods, local charity Harrogate Brigantes Rotary launched a Nepal floods appeal to beat their previous £10,000 record set after the 2015 earthquake.

@@ -12,6 +12,56 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- '## Hormuz'
+- Abu Dhabi
+- Beijing
+- China
+- Damascus
+- Gaza
+- Iran
+- Islamic Republic
+- Israel
+- Lebanon
+- Middle East
+- Middle East Institute
+- Oman
+- Persian Gulf
+- Qatar
+- South Pars
+- Strait of Hormuz
+- Tehran
+- U.S.
+- UAE
+- US
+- USA
+- United States
+- Washington
+- West Asia
+people:
+- Abbas Araghchi
+- Abbas Araqchi
+- Ahmad Zeraatkar
+- Alex Vatanka
+- Benjamin Netanyahu
+- Bessent America
+- Donald Trump
+- Ibn al-Reza
+- Majid Ibn al-Reza
+- Mohammed bin Abdulrahman Al Thani
+- Mohsen Rezaei
+- Mojtaba Khamenei
+- Muscat
+- Omani
+- Scott Bessent
+- bin Zayed
+organisations:
+- Al Jazeera
+- Al-Manar
+- Kpler
+- Nournews
+- Press TV
+- SNSC
 ---
 
 Iranian foreign minister Abbas Araghchi has said that resuming diplomatic negotiations with Washington remains possible, but only if the US abandons its aggressive pressure strategy.

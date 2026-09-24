@@ -12,6 +12,16 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21481182.jpg?type=og-image
+locations:
+- Buckden Pike
+people:
+- Derek BoormanDunningtonYorkWhat
+- Earl Spencer
+- Jonathan Smith
+- Nigel CummingsCharlton StreetYork
+- Peter RickabyMoat WayBraytonRecommended
+organisations:
+- B&Bs
 ---
 
 *(Image: Pixabay)*

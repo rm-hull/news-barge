@@ -11,6 +11,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Britain
+- Israel
+- Jerusalem
+- UK
+- West Bank
+people:
+- Adam Fleming
+- Anna Harris
+- Chris Gray
+- Ed Miliband
+- Ephraim Mirvis
+- Gabriel Purcell-Davis
+- Gideon Saar
+- Jane Corbin
+- Lyse Doucet
+- Mike Regaard
+- Miranda Slade
+- Sam Bonham
+- Shiler Mahmoudi
+organisations:
+- BBC Sounds
+- News and Current Affairs
+- Newscast
+- Panorama
+- WhatsApp
 ---
 
 ## Episode details

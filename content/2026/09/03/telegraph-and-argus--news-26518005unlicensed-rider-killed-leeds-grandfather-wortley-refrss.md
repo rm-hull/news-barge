@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- A6110
+- Filey
+- Welford Road
+- Wortley
+people:
+- Alan Lloyd
+- Ben
+- Dad
+- Grandad
+- Isabelle
+- Jacob
+- Nicola
+- Nina Roper
+- Reece Manley
+organisations:
+- Kawasaki EX
+- Major Collision Enquiry Team
 ---
 
 AN unlicensed motorcyclist has been jailed after causing the death of a much-loved grandfather.

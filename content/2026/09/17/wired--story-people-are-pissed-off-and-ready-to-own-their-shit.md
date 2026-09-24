@@ -11,6 +11,40 @@ image: https://media.wired.com/photos/6aa929fe3aba230bcb567487/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- California
+- Maryland
+- San Jose
+- Silver Springs
+- US
+people:
+- Gavin Newsom
+- John Deere
+- Katharine Trendacosta
+- Kevin O’Reilly
+- Louis Rossmann
+- Rohit Chopra
+organisations:
+- Amazon
+- Apple
+- BCSA
+- BMW
+- CFPB
+- California Business and Consumer Services Agency
+- Consumer Financial Protection Bureau
+- DMCA
+- Electronic Frontier Foundation
+- European Union
+- Federal Trade Commission
+- Fisker Owners Association
+- Fixit
+- Fulu
+- Google
+- Roost
+- San Jose State University
+- Sony
+- Spider-Man
+- Trendacosta
 ---
 
 The train blasts through right as Louis Rossmann starts to speak. This has happened several times already at the event he’s hosting on a Friday night in San Jose, California. All the speakers before him patiently paused when the train on the nearby tracks roared by, its loud horn blaring, then resumed talking. But Rossmann is mid-sentence in his rapid-fire delivery about the topic he’s fiercely passionate about, and he doesn’t stop. He shouts over the train.

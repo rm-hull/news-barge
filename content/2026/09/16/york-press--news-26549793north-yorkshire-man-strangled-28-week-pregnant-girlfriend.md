@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations: []
+people:
+- Ben Stevenson
+organisations:
+- North Yorkshire Police
+- The Herald
 ---
 
 Ben Stevenson strangled his pregnant girlfriend (Image: North Yorkshire Police)

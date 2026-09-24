@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Travel
 - Business & Entrepreneurship
+locations:
+- Amsterdam
+- Bath
+- Europe
+- London
+- Paris
+- Rome
+- UK
+people:
+- Matharu
+- Yaroslav Astakhov
+organisations:
+- Bizcap Limited
+- Getty
+- High Court
+- House
+- Immaculate Travel
+- Windsor Castle
 ---
 
 *(Image: Yaroslav Astakhov/Getty)*

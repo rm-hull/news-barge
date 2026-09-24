@@ -11,6 +11,34 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Bishopthorpe Road
+- East Parade
+- Heworth
+- Micklegate
+- Rowntree Park
+- The Groves
+- York
+people:
+- Ashley Mason
+- Cllr Mason**
+- Cllr Nicholls**
+- Cllr Ravilious
+- Cllr Ravilious**
+- Kate Ravilious
+- Mike Nicholls
+- Ms Phillips**
+- Ruth Phillips
+organisations:
+- Arup
+- Bishopthorpe Road Traders Association
+- City of York Council
+- Good Food Shop
+- Labour Transport
+- Liberal Democrat
+- Liberal Democrat economy
+- Minster Badge
+- Minster Badges
 ---
 
 Plans to cut some parking charges in York do not go far enough to reverse the effects of previous hikes, opposition councillors and a trader have said.

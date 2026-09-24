@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- County Durham
+- Dora’s Wood
+- Durham City
+- GERALD HIRST.CAMERA
+- Lanchester Garden Centre
+- Roman Britain
+- The County Durham
+people:
+- SARAH CALDECOTT
+organisations:
+- All Saints Parish Church
+- All Saints’ Parish Church
+- Get Ahead Hats
+- Hanley and Sons Family Butcher
+- Kings Head
+- Lanchester Country Homes & Gifts
+- Lanchester Fish Bar
+- Lanchester Hardware
+- Potter’s World
+- Serendipity Café
+- The King’s Head
+- TripAdvisor
 ---
 
 Just a short drive from Durham City, Lanchester has earned a reputation as one of County Durham’s most attractive villages, with visitors praising its peaceful atmosphere, countryside walks and thriving collection of independent shops.

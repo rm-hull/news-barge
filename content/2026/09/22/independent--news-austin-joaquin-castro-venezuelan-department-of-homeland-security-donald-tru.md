@@ -14,6 +14,28 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/20/ICE_Shooting_Austin_64992.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Austin
+- Pearsall
+- San Antonio
+- South Texas
+- Texas Capitol
+- U.S.
+people:
+- Donald Trump
+- Greg Casar
+- Joaquin Castro
+- Kate Lincoln-Goldfinch
+- Orlando Garcia
+- Wilber Rafael Garces Perez
+- \_\_\_ Wilder
+organisations:
+- Department of Homeland Security
+- ICE
+- Report for America Statehouse News Initiative
+- The Associated Press
+- U.S. Immigration and Customs Enforcement
 ---
 
 A Venezuelan man shot by a U.S. Immigration and Customs Enforcement officer in Texas was back in a federal detention center Tuesday after being taken to a hospital for a second time with a bullet still lodged in his back, according to his attorney.

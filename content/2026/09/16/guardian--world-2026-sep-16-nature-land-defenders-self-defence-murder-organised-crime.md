@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Amazon
+- Asia
+- Brazil
+- Colombia
+- Honduras
+- Latin America
+- Peru
+- Philippines
+- Putumayo
+- US
+- Ucayali
+people:
+- Ricardo Soberón
+- Segundo Ispón
+- Toby Hill
+organisations:
+- Asháninka
+- Global Witness
+- Kakataibo Indigenous Guard
+- Trump
+- USAID
 ---
 
 Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set up self-defence units, according to the latest annual death toll by the independent watchdog Global Witness.

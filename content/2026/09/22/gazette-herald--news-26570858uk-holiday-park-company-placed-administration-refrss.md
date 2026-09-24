@@ -13,6 +13,34 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21483686.jpg?type=og-image
+locations:
+- Drimsynie Estate
+- Dunoon
+- England
+- Hunters Quay Holiday Village
+- Iran
+- Loch Awe Holiday Park
+- Loch Eck Caravan Park
+- UK
+- West Sussex
+people:
+- Adam Paxton
+- Giuseppe Parla
+- Menzies
+- Robert Croxen
+- Sonia Jordan
+organisations:
+- Alvarez & Marsal
+- Argyle OpCo Limited
+- Argyll Holidays
+- Cove Communities Holiday Park UK HoldCo Limited
+- Cove Communities Venture
+- HPUK
+- Market Financial Solutions
+- Medmerry OpCo Limited
+- Medmerry PropCo Limited
+- New Insolvency Service
+- R3
 ---
 
 *(Image: Getty Images)*

@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ipswich
+- UK
+people:
+- Alexander Isak
+organisations:
+- Ipswich Town
+- Liverpool
 ---
 
 # Isak's early double gives Liverpool victory over Ipswich

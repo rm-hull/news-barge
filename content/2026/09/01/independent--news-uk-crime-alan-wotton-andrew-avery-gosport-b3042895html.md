@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Exmouth Road
+- Gosport
+- Hampshire
+people:
+- Alan Wotton
+- Andrew Avery
+- Simon Clark
+organisations:
+- Crown Prosecution Service
+- Portsmouth Crown Court
 ---
 
 An 83-year-old man has been found guilty of murdering his nephew whom he stabbed to death before setting fire to his own home following an argument over his inheritance.

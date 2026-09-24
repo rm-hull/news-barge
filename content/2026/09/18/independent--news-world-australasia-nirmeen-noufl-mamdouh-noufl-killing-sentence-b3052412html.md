@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Egypt
+- Greenacre
+- Sydney
+- US
+people:
+- Mamdouh Noufl
+- Mehmoud Noufl
+- Mohamed Bejjaoui
+- Nirmeen Noufl
+- Peter Hamill
+organisations: []
 ---
 
 A Sydney woman who killed and dismembered her abusive husband was sentenced on Friday to three years in jail, with a further year added for disposing of the body.

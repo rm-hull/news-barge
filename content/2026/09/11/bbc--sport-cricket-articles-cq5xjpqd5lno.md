@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Edgbaston Pakistan
+- Edgbaston.
+- England
+- New Zealand
+people:
+- '&**'
+- Azan Awais
+- Babar Azam
+- Ben Stokes'
+- Brook
+- Cox
+- Dan Lawrence
+- Gay
+- Gus Atkinson
+- Joe Root
+- Jofra Archer
+- Josh Tongue
+- Muhammad Abbas
+- Ollie Robinson
+- Razaullah
+- Razball
+- Shan Masood
+- Smith
+- Tim Southee
+organisations:
+- England
 ---
 
 Razaullah - the 21-year old debutant who blew England away

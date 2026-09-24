@@ -13,6 +13,19 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/19917961.jpg?type=og-image
+locations:
+- Killinghall
+- North Yorkshire
+- Ribbledale Road
+- York
+people:
+- Andrew Stenson
+- Kirsty Greenbank
+- Rachel Webster
+- Simon Hickey
+- Victoria Ball
+organisations:
+- York Crown Court
 ---
 
 *(Image: PA)*

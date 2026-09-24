@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Barnard Castle
+- Barnard Castle Petra
+- Barney
+- Brazil
+- Coahuila
+- County Durham Thai
+- Indonesia
+- Lonton
+- Middleton-in-Teesdale
+- Naples
+- Savoy
+- Teesside
+- Texas
+people:
+- Barnard Castle Theo
+- Barney
+- Ignacio Garcia
+- Margherita
+- Petra
+- William Smith
+organisations:
+- Barnard Castle
+- Historic England Grade II
+- Low Mill Foundry
 ---
 
 EATING out is about more than just food. So many places do decent sandwiches, homemade quiches, plus great cakes and, increasingly, good coffee.

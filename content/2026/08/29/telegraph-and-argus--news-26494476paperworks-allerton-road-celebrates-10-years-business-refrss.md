@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Allerton Road
+people:
+- Donna
+- Ebony Jackson
+organisations:
+- Donna
 ---
 
 *(Image: T&A)*

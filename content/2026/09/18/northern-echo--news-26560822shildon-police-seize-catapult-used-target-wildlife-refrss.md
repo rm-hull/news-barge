@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Greggs
+- North Yorkshire
+- Shildon
+- Teesside
+people: []
+organisations:
+- ASB
+- RSPCA
+- Shildon Police
 ---
 
 A catapult has been seized in Shildon after police said it had been used to target wildlife and cause criminal damage, as officers warn of an increase in youth-related anti-social behaviour.

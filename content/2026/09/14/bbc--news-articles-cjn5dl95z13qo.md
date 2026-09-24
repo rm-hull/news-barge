@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Hong Kong
+- Thailand
+- UK
+- United Kingdom
+- Westminster
+people:
+- Baroness Taylor
+- Ben Delo
+- Christopher Harborne
+- Nigel Farage
+- Philip Rycroft
+- Steve Reed
+organisations:
+- Commons
+- Do Delo
+- Houses of Parliament.
+- Labour
+- Lords
+- Reform UK
+- Unite
 ---
 
 ![Farage, seen from the shoulders up and wearing a light blue suit and red polka dot tie, talks to a woman with long brown hair who is seen from behind.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/fbf1/live/bf5aa010-b091-11f1-abf3-2144c1c3dc24.jpg)

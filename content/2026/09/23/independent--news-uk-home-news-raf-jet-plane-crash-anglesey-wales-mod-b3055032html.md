@@ -11,6 +11,21 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/12/48/VAL-20240705-0292-IOM-Fly-Past-0777.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Anglesey
+- North Wales
+- Pencarnisiog
+- RAF Valley
+people: []
+organisations:
+- FlightRadar24
+- Helimed
+- Ministry of Defence
+- North Wales Fire and Rescue Services
+- North Wales Police
+- RAF T2 Hawk
+- Royal Air Force
+- Welsh Ambulance Service University Health Trust
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

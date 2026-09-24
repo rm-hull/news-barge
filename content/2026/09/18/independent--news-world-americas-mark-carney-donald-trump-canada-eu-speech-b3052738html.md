@@ -11,6 +11,37 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/21/2295314855..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Davos
+- Europe
+- France
+- Iran
+- Ottawa
+- Strasbourg
+- UK
+- US
+- Vimy Ridge
+- Washington DC
+people:
+- Clearly Carney
+- Donald Trump
+- Katie McGettigan
+- Mark Carney
+- Mark Shanahan
+- Ursula von der Leyen
+organisations:
+- Bank of Canada
+- Bank of England
+- British Library
+- Canadian Liberal Party
+- EU Commission
+- Faculty of Arts, Business and Social Sciences
+- Oxford
+- The Conversation
+- Trump Tower
+- UN
+- University of Surrey
 ---
 
 For the past decade, global diplomacy has been dictated by one man’s social media musings. Since Donald Trump first glided into the Trump Tower atrium on his golden escalator, he – and what he has to say – has been the story, throwing red meat to the media and shaping the affairs of the US and the wider world through reactions to his increasingly imperial pronouncements.

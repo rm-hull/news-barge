@@ -12,6 +12,22 @@ categories:
 - York
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21056687.jpg?type=og-image
+locations:
+- Rawcliffe
+- York
+people:
+- Jenefar Kabir
+- John Greany
+- Ms Kabir
+- Neil Sheldon
+organisations:
+- Fresh Dental Smiles
+- Fresh Dental Smiles Ltd
+- General Dental Council
+- Scarborough
+- Whitby MP
+- York MP
+- York NHS
 ---
 
 *(Image: Pixabay)*

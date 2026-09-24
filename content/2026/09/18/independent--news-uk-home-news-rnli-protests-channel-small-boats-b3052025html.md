@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Dover
+- Ireland
+- Portsmouth
+- UK
+people:
+- Janette
+- Nigel Farage
+organisations:
+- Black Shirts
+- GoFundMe
+- Neuendorf
+- RNLI
+- Red Dragon
 ---
 
 RNLI volunteers– and their families – have spent the past fortnight facing threats, doxing and online abuse after false claims linked the charity to Channel rescues, following anti-migrant protests in Dover and Portsmouth.

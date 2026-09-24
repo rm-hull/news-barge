@@ -11,6 +11,53 @@ image: https://i.guim.co.uk/img/media/a5576afa207c7452a19917839ca610a7c457cbd8/1
 categories:
 - UK
 - News & Politics
+locations:
+- AI
+- Britain
+- Gravesend-Tilbury
+- Hertfordshire
+- Israel
+- Leicester
+- Mauritius
+- Musgrove Park
+- North Devon
+- Northern Ireland
+- Palestine
+- Scotland
+- Westminster
+- White House
+people:
+- Alberto Costa
+- Alex Wickham
+- Andy Burnham
+- Bloomberg
+- Chris Law
+- Corbynites Emmanuel Macron
+- Daisy Cooper
+- Dave Doogan
+- Davey
+- Donald Trump
+- Edward Leigh
+- Keir Starmer
+- Kemi Badenoch
+- Mark Carney
+- Patrick Maguire
+- Tan Dehsi
+organisations:
+- AI Security Institute
+- Anthropic
+- Badenoch
+- Board of Deputies
+- Commons
+- Financial Times
+- House
+- Labour
+- Leicestershire
+- Lib Dem
+- PMQs
+- SNP
+- Tory
+- Trump
 ---
 
 Burnham says Israel sanctions are example of Britain 'showing leadership'

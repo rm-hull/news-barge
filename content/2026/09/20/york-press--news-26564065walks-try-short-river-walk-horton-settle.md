@@ -13,6 +13,41 @@ categories:
 - Travel
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21464758.jpg?type=og-image
+locations:
+- '![]()River Ribble'
+- Carlisle
+- Cragg Hill Farm
+- Dales 30
+- Dry Rigg
+- Feizor
+- Fountain
+- Helwith Bridge
+- Horton
+- Langcliffe
+- Little Stainforth
+- Long Preston
+- Pen-y-Ghent
+- Refresher Navigation Course
+- Ribble Valley
+- Ribble Way
+- River Ribble
+- Settle The quarry
+- Stackhouse
+- Stainforth Falls
+- The Bracken Way
+- The Dales
+- Where2walk
+- Yorkshire Dales
+people:
+- Jonathan Smith
+- Stiles
+organisations:
+- Dales
+- Helwith Bridge Inn
+- Knights Table
+- Knights Templar
+- The Yorkshire
+- Where2walk
 ---
 
 ## Walks: Stunning views and good pubs on this river walk to Settle

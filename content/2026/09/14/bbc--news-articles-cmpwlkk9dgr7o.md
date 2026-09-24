@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- County Armagh
+- Market Street
+- Northern Ireland
+- Portadown
+people:
+- Diane
+- Nobody
+- Robert Atkinson
+- Robert Hamill
+organisations:
+- Land Rover
+- RUC
+- Royal Ulster Constabulary
 ---
 
 ![Robert Hamill with brown hair and a checked shirt smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/265e/live/f8a506f0-28d3-11ef-80aa-699d54c46324.jpg)

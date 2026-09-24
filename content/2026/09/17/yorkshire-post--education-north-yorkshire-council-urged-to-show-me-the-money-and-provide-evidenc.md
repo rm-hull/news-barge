@@ -16,6 +16,25 @@ categories:
 - York
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Hall
+- North Yorkshire
+- Northallerton
+- Northallerton.
+people:
+- Felicity Cunliffe-Lister
+- Howard Emmett
+- Jo Foster
+- Mike Jordan
+- Peter Lacey
+- Rachel Joyce
+organisations:
+- Liberal Democrat
+- North Yorkshire Council
+- PIR
+- Reform
+- STAG
+- School Transport Action Group
 ---
 
 # North Yorkshire Council urged to 'show me the money' and provide evidence of home-to-school policy change savings

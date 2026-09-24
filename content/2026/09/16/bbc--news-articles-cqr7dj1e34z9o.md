@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Andy Haldane
+- Starmer
+organisations:
+- Bank of England
+- Budget
+- LBC
+- Labour
+- National Insurance
+- Starmer
+- TikTok
 ---
 
 ![Prime Minister Andy Burnham looks at a car on the production line during a visit](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b1a9/live/42c84500-b1c9-11f1-8493-1910d79d53eb.jpg)

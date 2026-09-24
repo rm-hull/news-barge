@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- Bradford
+- Rooley Lane
+- West Yorkshire
+people:
+- Bierley
+- Holme Wood
+- Matt Edwards
+organisations:
+- Asda
+- Greens
+- Newsquest
 ---
 
 POLICE have issued an update after a man was found dead near an Asda petrol station in Bradford.

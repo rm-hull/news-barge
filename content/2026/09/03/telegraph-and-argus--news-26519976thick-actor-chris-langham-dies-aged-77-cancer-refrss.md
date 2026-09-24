@@ -16,6 +16,21 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations: []
+people:
+- Chris Langham
+- Help
+- Hugh Abbot
+- John Cleese
+- Kiss Me Kate
+- Paul Whitehouse
+- Richard Pryor
+- Roy Mallard
+- Spike Milligan
+organisations:
+- BBC
+- Chelmsford
+- The Times
 ---
 
 *(Image: BBC)*

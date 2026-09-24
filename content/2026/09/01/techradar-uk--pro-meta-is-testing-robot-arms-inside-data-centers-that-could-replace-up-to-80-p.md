@@ -10,6 +10,22 @@ description: Meta's robotics strategy continues to play out
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- America
+- Iowa
+- Ohio
+- Virginia
+people:
+- Craig Hale
+- Eric Xu
+- Francis Brennan
+organisations:
+- Ars Technica
+- Craig’s
+- Facebook
+- Google News
+- Meta
+- TechRadar Pro
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

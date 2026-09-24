@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lake
+- Gulf of America
+- Lake America
+- Lake Ontario
+- New York
+- Ottawa
+- US
+- Washington
+people:
+- Donald Trump
+- Mark Carney
+organisations:
+- App Store
+- Apple Maps
+- Canadian Confederation
+- GNIS
+- Google Maps
+- Lake Ontario
+- MapQuest
+- Trump
+- US Declaration of Independence
+- US Geographic Names Information System
 ---
 
 Apple has renamed Lake Ontario to “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada.

@@ -13,6 +13,50 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Albion Road
+- Bingley Road
+- Bradford
+- Eisa
+- Great Horton Road
+- Harrogate Road
+- Hospital Road
+- Ingleby Road
+- Lower Rushton Road
+- Marquis Of Granby
+- Mortimer Avenue
+- Thornton Road
+- Tong Street
+- Treat Street
+- Unit
+- Victoria Road
+people:
+- Ammaarah
+- Seema Foods
+- Taco Bell
+organisations:
+- Biryans
+- Bows & Beams
+- Brew & Batter
+- Dragon Chef
+- Estate Sawmills
+- FSA
+- Food Court
+- Food Standards Agency
+- Giggle Beans
+- Great Horton Food Court
+- Klubhaus
+- Lahore Events Catering
+- Lahori Dhaba
+- Mortimer House Childrens Centre
+- Nell
+- Roti Express
+- Thorncliffe Works
+- Unit
+- Well Heads
+- Westgate
+- Whetley Mills
+- White Horse Inn
 ---
 
 *(Image: FSA)*

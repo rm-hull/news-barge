@@ -10,6 +10,21 @@ description: The Huawei Watch Fit 5 Pro is an awesome, underrated running watch.
 image: https://cdn.mos.cms.futurecdn.net/ud6dkKdKwS8jWbVuz38a43-2127-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Cardiff
+- Paris
+people:
+- Matt Evans
+organisations:
+- Apple Watch
+- Garmin
+- Huawei
+- Men's Health
+- Runner's World
+- Samsung
+- Spotify
+- TechRadar
 ---
 
 ![Huawei Watch Fit 5 Pro worn on a run, in front of a grassy background](https://cdn.mos.cms.futurecdn.net/ud6dkKdKwS8jWbVuz38a43.jpg) 

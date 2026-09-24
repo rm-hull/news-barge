@@ -13,6 +13,27 @@ categories:
 - UK
 - Careers & Productivity
 - Self-Improvement
+locations:
+- State of Florida
+- Toyotetsu
+- U.S.
+people:
+- Don Christian
+- Joe Anderson
+- Laura Rivero
+- Ruth Delaney
+- Ryan Cuellar
+organisations:
+- Business Roundtable
+- Congress
+- JP Morgan Chase
+- Leap for Ladies
+- Pell Grant
+- Toyotetsu
+- U.S. Chamber of Commerce
+- Vera Institute
+- Vera Institute of Justice
+- Virgin Atlantic
 ---
 
 Don Christian had never held a regular job when he left prison. A conviction at age 19 for selling drugs kept him confined through young adulthood and into his early 40s.

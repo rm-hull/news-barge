@@ -9,6 +9,22 @@ description: Britain needs operational control of the AI behind public services
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-2560-80.jpg
+locations:
+- Britain
+- Whitehall
+people:
+- Kanishka Narayan
+- Prem AI
+organisations:
+- British AI
+- Cabinet
+- DSIT
+- Department for Science, Innovation and Technology
+- Future plc
+- Government AI
+- Sovereign AI
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A portion of the globe with countries displayed in digital pixels](https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL.jpg)

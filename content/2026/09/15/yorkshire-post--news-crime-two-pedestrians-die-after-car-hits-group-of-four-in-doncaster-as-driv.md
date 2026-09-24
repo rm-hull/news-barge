@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Carriage Drive
+- Doncaster
+- Middle Bank Roundabout
+- White Rose Way
+people: []
+organisations:
+- Audi
+- Mitsubishi
+- South Yorkshire Police
 ---
 
 # Two pedestrians die after car hits group of four in Doncaster as driver arrested

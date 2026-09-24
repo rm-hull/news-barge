@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/11/10/42/Screenshot-2026-09-11-a
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Wales
+- West Lancashire
+people:
+- Ashley Dalton
+- Bill
+- Kim Leadbeater
+- Lauren Edwards
+organisations:
+- Bill
+- Commons
+- End of Life
+- House
+- Houses of Parliament
+- Labour
+- Lords
+- Terminally Ill Adults
 ---
 
 A former minister who has stage 4 incurable breast cancer has made an impassioned plea against assisted dying, telling MPs that it would be "nothing short of irresponsible” to pass the legislation.

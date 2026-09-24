@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- North Yorkshire
+- Ryedale
+people:
+- Legacy
+- Lucy Pearson
+organisations:
+- Eventbrite
+- Legacy
+- Ryedale Mind
+- Scarborough
+- Whitby
 ---
 
 A North Yorkshire charity is getting ready to celebrate a huge fundraising milestone.

@@ -14,6 +14,25 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford Magistrates’ Court
+- East Parade
+- Holme Wood
+- Humber
+- Leeds Road
+- Little Germany
+- Maple Drive
+- North Yorkshire
+- South Yorkshire
+- St Johns Close
+- Wetherby
+people:
+- Lobib Shourav
+- Lucas Zerola
+- Mohammed Ahmed
+organisations:
+- Newsquest
+- Operation Phoenix
 ---
 
 *(Image: Newsquest)*

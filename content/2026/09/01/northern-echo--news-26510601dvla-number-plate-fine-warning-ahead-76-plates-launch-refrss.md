@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Graham Conway
+organisations:
+- DVLA
+- Driver and Vehicle Licensing Agency
+- Select Car Leasing
 ---
 
 *(Image: Getty)*

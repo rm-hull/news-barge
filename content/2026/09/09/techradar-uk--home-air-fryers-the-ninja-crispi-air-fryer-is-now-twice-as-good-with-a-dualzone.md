@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/xWhiyVNxWXxGi8RQgHUfJd-1490-80.png
 categories:
 - Technology & Software
 - Food & Cooking
+locations:
+- CleanCrisp
+- Ninja Crispi
+- SharkNinja
+- UK
+people: []
+organisations:
+- Cyberspace
+- Google News
+- Ninja Crispi Dual Zone
+- Ninja Crispi DualZone Air Fryer
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Person removing drawer of vegetables from Ninja Crispi Dual Zone Air Fryer](https://cdn.mos.cms.futurecdn.net/xWhiyVNxWXxGi8RQgHUfJd.png) 

@@ -13,6 +13,68 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Aberdeenshire
+- Aske Hall
+- Bedale Hall
+- Bradford
+- Cairo
+- Coill Ghearráin
+- Cornwall
+- County Carlow
+- Crakehall Hall
+- Dublin
+- Durham
+- Earl of Zetland
+- East Witton
+- Eire
+- Forcett Hall
+- Fort Amiel
+- Ireland
+- Japan
+- Kilgarron
+- KwaZulu-Natal
+- Leyburn
+- Londonderry
+- Michell’s Glassel
+- Naples
+- Ngogo
+- North Yorkshire
+- Northallerton
+- Richmond
+- Seaham Hall
+- St Gregory’s
+- St John’s Church
+- Suez Canal
+- Wensleydale
+- Yokohoma
+people:
+- Anne
+- Donna King
+- Henry Beresford-Peirse
+- John Garrett
+- John Michell
+- Mary Michell
+- Thomas Garrett
+- Thomas Horsfall Heaton Garrett
+- Thomas Lunn
+- Tom Kolour
+- William Thomas Garrett
+- Zetland
+organisations:
+- 60th Regiment
+- Bank of England Inflation Calculator
+- Bedale Hunt
+- Church of St John the Evangelist
+- Crakehall Primary School
+- Justice of the Peace
+- North Yorkshire County Record Office
+- Royal Rifles
+- Scarlet Lancers
+- St Gregory's Church
+- The Garrett
+- The Northern Echo Cmaera Club
+- The Queen's) Lancers
 ---
 
 A 140-year-old court suit, made of the finest red silk velvet, that once belonged to a North Yorkshire soldier has been discovered at the other end of the country – but does anyone have a picture of the man who once wore it?

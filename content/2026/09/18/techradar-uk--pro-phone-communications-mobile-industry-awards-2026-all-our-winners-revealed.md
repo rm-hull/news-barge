@@ -9,6 +9,25 @@ description: Who took the top prizes at this year's Mobile Industry Awards?
 image: https://cdn.mos.cms.futurecdn.net/VnyyDv2AaDtJRdu2gspbtm-970-80.jpg
 categories:
 - Technology & Software
+locations:
+- London
+- UK
+people:
+- Lydia McGann
+- Max Taylor
+organisations:
+- Lebara Mobile
+- Lebara SamsungBest Network
+- Likewize
+- MIA
+- Paris Tilsley
+- Pure Communications Imogen Baldie
+- Sam Deans
+- Sky Mobile
+- TechRadar Pro
+- Tesco Mobile
+- The Big Phone
+- VodafoneThree
 ---
 
 ![winner's trophy](https://cdn.mos.cms.futurecdn.net/VnyyDv2AaDtJRdu2gspbtm.jpg) 

@@ -11,6 +11,19 @@ image: https://static.independent.co.uk/2025/06/27/16/06/iStock-2156653740.jpeg?
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Catalina Island
+- Los Angeles
+- Santa Rosa Island
+people:
+- Catalina
+- Gavin Newsom
+- Janice Hahn
+- Tony Marrone
+organisations:
+- California Department of Fish and Wildlife
+- Catalina Island Conservancy
 ---
 
 Thousands of mule deer on Catalina Island could begin being killed as early as Tuesday under a newly active state permit, prompting Los Angeles County Supervisor Janice Hahn to make a last-minute appeal to Gov. Gavin Newsom to stop the controversial eradication plan.

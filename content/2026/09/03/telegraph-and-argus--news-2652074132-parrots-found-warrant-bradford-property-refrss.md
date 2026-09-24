@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - True Crime
 - Personal Finance & Investing
+locations:
+- Bradford
+- Keighley
+- UK
+people: []
+organisations:
+- 27th August City Neighbourhood Policing Team
+- APHA
+- Animal Health Officer
+- Animal and Plant Health Agency
+- Bradford Council
+- Bradford Council** Animal Health Officer
+- City Neighbourhood Policing Team
+- Keighley NPT
+- National Wildlife Crime Unit
+- Patrol
+- West Yorkshire Police
+- West Yorkshire Police** A
 ---
 
 More than 30 parrots suspected of being illegally imported into the UK were discovered during a multi-agency operation at a Bradford property.

@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Filey
+- Greenfields Avenue
+- Osgodby
+- Selby
+- Woodlands
+people:
+- Emily Jenkins
+- Michaela Golding
+- Ms Jenkins
+- Simon Hickey
+- Tom Harris
+organisations:
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

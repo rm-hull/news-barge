@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21487913.jpg?type=og-image&xType=0&yType=0
+locations: []
+people:
+- '### Chakrabarti'
+- '### Jane Eyre'
+- Birthplace
+- Charlotte Brontë
+- Jane Eyre
+- Martin Greenwood
+- Reeta Chakrabarti
+- Rosie Preston-Cook
+organisations:
+- BBC News
+- Brontë Birthplace
+- Brontës
+- Media Lead
+- PR
+- Reeta Chakrabarti
 ---
 
 Reeta Chakrabarti will discuss her debut novel and the Brontë sisters’ influence on her work at the Brontë Birthplace.

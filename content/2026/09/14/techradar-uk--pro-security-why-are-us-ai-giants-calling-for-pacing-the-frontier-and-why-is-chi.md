@@ -11,6 +11,51 @@ image: https://cdn.mos.cms.futurecdn.net/PRCsQfoXPXi2t4jsGwWr6L-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Beijing
+- China
+- Earth
+- US
+- United States
+people:
+- Benedict Collins
+- Bri Frost
+- Dario Amodei
+- Denis Calderone
+- Donald McFarlane
+- Donald Trump
+- Elon Musk
+- Guo Jiakun
+- Heath Mullins
+- Jacob Coxon
+- John Strand
+- Leó Szilárd
+- Oleksandr Yaremchuk
+- Ryan McCurdy
+- Sam Altman
+- Tristan Watkins
+organisations:
+- AI Safety
+- APT
+- Advania UK
+- Amodei
+- Anthropic
+- BBC
+- BUCSIS
+- Black Hills Information Security
+- CTO
+- Foreign Ministry
+- Fortune
+- Google News
+- Grok
+- Manifold Security
+- OpenAI
+- SaaS
+- Suzu Labs
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
+- Xcape Inc
 ---
 
 ![A human shakes a robot's hand in front of blue concentric circles](https://cdn.mos.cms.futurecdn.net/PRCsQfoXPXi2t4jsGwWr6L.jpg) 

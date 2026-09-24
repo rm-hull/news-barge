@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Arches Park
+- Bishop Auckland
+- County Durham
+- Day Park
+- Kynren
+- North East
+- The Storied Lands
+people:
+- Kynren
+organisations:
+- Durham
+- Kynren
+- Kynren’s
+- Storied Lands
+- Vikings
 ---
 
 *(Image: PYROMUSICAL)*

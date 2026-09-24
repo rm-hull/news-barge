@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Great Wyrley
+- Staffordshire
+- Strawberry Lane
+people:
+- Katie Gregory
+organisations:
+- Midlands Ambulance Service
+- Staffordshire Police
 ---
 
 A three-month-old girl has died while camping with her family in a Staffordshire woodland, police have said.

@@ -14,6 +14,51 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Cities Church
+- Hamline Church
+- Holy Trinity Lutheran Church
+- Mexico
+- Minneapolis
+- Minnesota
+- St. Paul
+- Twin Cities
+- U.S.
+- University Baptist Church
+- Washington
+people:
+- Cody J. Sanders
+- Don Lemon
+- Donald Trump
+- Doug Wardlow
+- Elizabeth Reiner Platt
+- Ingrid Rasmussen
+- Jesus
+- Jordan Kushner
+- Kevin Friedl
+- Mariah Furness Tollgaard
+- Nicholas Tangen
+- Renee Good
+organisations:
+- AP
+- Alliance of Baptists
+- American Baptist Churches USA
+- Associated Press
+- CNN
+- Cities Church
+- Democracy Forward Foundation
+- Department of Homeland Security
+- Evangelical Lutheran Church
+- Homeland Security
+- ICE
+- Law, Rights and Religion Project at Union Theological Seminary
+- Lilly Endowment Inc
+- Minneapolis Area Synod
+- The Conversation US
+- Trump
+- U.S. Immigration and Customs Enforcement
+- University Baptist Church
 ---
 
 Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge turned Minnesota into a symbol of defiance of the Trump administration’s policies.

@@ -14,6 +14,46 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Athens
+- Austria
+- Belgium
+- Bulgaria
+- Croatia
+- Cyprus
+- Denmark
+- Estonia
+- Europe
+- Finland
+- France
+- Gelsenkirchen
+- Germany
+- Greece
+- Hungary
+- Iceland
+- Ireland
+- Italy
+- Latvia
+- Lithuania
+- Luxembourg
+- Madrid
+- Malta
+- Netherlands
+- Poland
+- Portugal
+- Romania
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Turkey
+- UK
+people: []
+organisations:
+- EU
+- Euronews Business
+- Eurostat
+- OECD
 ---
 
 ## The expected years after retirement age differ widely across Europe. Euronews Business takes a closer look at current retirement ages and how long Europeans can expect to receive their pension.

@@ -11,6 +11,17 @@ image: https://cdn.mos.cms.futurecdn.net/AjyYr8oiZwBtBMJBuxprkE-1200-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Edge
+people:
+- Craig Hale
+organisations:
+- '## Edge'
+- Chrome
+- Craig’s
+- Google News
+- Microsoft
+- TechRadar Pro
 ---
 
 ![Microsoft Edge logo](https://cdn.mos.cms.futurecdn.net/AjyYr8oiZwBtBMJBuxprkE.jpg) 

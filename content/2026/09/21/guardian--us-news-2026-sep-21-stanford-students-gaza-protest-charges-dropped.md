@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/68ed54ff10569a91cc580e7712ac4f914a313f4a/403_0_4248_3400/master/4248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95d18ea1f2c3d1b0f8a6dfae08d37cc2
+locations:
+- California
+- Gaza
+- Israel
+- Palestine
+- Santa Clara
+- Stanford
+people:
+- Abbee Cox
+- Adnan al-Bursh
+- Amy Zhai
+- Gonzalez
+- Jeff Rosen
+- Stanford
+organisations:
+- Guardian
+- Stanford University
 ---
 
 Five Stanford University students who faced prison sentences and thousands of dollars in restitution in connection to a campus protest against Israel’s war on Gaza had all charges dropped on Monday.

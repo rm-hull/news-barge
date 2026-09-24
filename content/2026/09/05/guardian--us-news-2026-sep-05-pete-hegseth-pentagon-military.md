@@ -13,6 +13,63 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Africa
+- Canada
+- Europe
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Kuhestak
+- Middle East
+- Minab
+- North Carolina
+- South America
+- South Korea
+- Taiwan
+- Tehran
+- US
+- United States
+- Vietnam
+- Washington
+- White House
+people:
+- Chris Donahue
+- Dan Driscoll
+- Donald Rumsfeld
+- Donald Trump
+- George W Bush
+- JD Vance
+- Joe Walsh
+- Kevin Carroll
+- Lyndon Johnson
+- Michael O’Hanlon
+- Nate Swanson
+- Paul Eaton
+- Pete Hegseth
+- Randy Manner
+- Robert McNamara
+- Rumsfeld Hegseth
+- Saddam Hussein
+- Scott Bessent
+- Thom Tillis
+organisations:
+- Army
+- Atlantic Council
+- Brookings Institution
+- CNN
+- Defence’s Orders Book
+- Fox News
+- GOP
+- International Monetary Fund
+- NSL4A
+- National Security Leaders for America
+- New York Times
+- Pentagon
+- Senate
+- VoteVets
+- Washington Post
 ---
 
 In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been the signal for a publicity-hungry US secretary of defense to adopt a lower profile.

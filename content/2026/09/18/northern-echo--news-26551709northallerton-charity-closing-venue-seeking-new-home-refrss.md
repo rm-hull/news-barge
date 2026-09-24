@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- North Yorkshire
+- Northallerton High Street
+- Romanby Road
+- UK
+- US
+people:
+- Liz Lockey
+organisations:
+- HCA
+- Hambleton Community Action
+- Jellycat
+- Northallerton
+- Yorkshire Building Society Charitable Foundation
 ---
 
 A North Yorkshire charity is closing its Northallerton community venue later this year and is appealing for help to find a new home.

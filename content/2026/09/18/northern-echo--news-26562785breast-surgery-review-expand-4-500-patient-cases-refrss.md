@@ -14,6 +14,39 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Consett
+- County Durham
+- Darlington Memorial Hospital
+- Durham City
+- NHS
+- North Durham
+- Shotley Bridge Hospital
+- Stanley
+- University Hospital
+people:
+- Amir Bhatti
+- Catriona Dunbar
+- Denise Howarth
+- Luke Akehurst
+- Mary Kelly Foy
+organisations:
+- CQC
+- Candour
+- Care Quality Commission
+- City of Durham
+- County **Durham**
+- Darlington** NHS Foundation Trust
+- Durham Police
+- ICB
+- NHS England
+- NHS Trust
+- National Cancer Patient Experience Survey
+- National Crime Agency
+- North East and North Cumbria Integrated Care Board
+- Northern Cancer Alliance
+- Royal College of Surgeons
+- UHND
 ---
 
 *(Image: SUBMIT)*

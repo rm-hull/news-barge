@@ -15,6 +15,51 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Acomb
+- Bootham Park
+- Fulford
+- Hollywood
+- Hull Road
+- Melrosegate
+- Naburn Hospital
+- Paragon Street
+- St George's School
+- Tang Hall
+- What York
+people:
+- Ada
+- Andrew Shipley
+- Barbara Boyce
+- Chaplins'
+- Christine Tallents
+- Claire Myles Wharton
+- Debbie Hilton
+- Freda Chaplin
+- George Marray
+- Greta Chaplin
+- Greta Chaplin Jayne Whale
+- Ian Hood
+- Irene Hardy
+- John Grant
+- Juliet Darling
+- Juliet Darling Looking
+- Kate Mara
+- Lorraine Hagues
+- Ness Oconnor
+- Pat Reilly
+- Patrick Martin
+- Paul McCartney
+- Robert Wall
+- Rooney Mara
+- Sheila Richmond
+- Twin
+- York
+organisations:
+- Derwent School
+- Memories Facebook
+- Virginia Eland
+- York Press
 ---
 
 ## What York people remember about the twins behind new Hollywood film Bucking Fastard

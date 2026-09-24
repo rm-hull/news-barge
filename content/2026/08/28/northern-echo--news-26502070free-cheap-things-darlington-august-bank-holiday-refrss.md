@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- Darlington’s
+- Market Square
+- North East
+- Preston Park
+- Raby Castle
+- River Skerne
+- River Tees
+- Skerne Trail
+- South Park
+- Tees Valley
+- Terrace
+people: []
+organisations:
+- Absolutely ABBA
+- Darlington Bank
+- Darlington Bank Holiday Weekender
+- Darlington Borough Council
+- Northern Echo
+- Raby Castle
 ---
 
 *(Image: The Northern Echo)*

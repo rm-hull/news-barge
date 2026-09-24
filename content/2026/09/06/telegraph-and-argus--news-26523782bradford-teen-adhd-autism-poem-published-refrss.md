@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- BRADFORD
+- Spen Valley
+- West Yorkshire
+people:
+- Blessing
+- God
+- Kim Leadbeater
+- Mandikate
+- Manoj Joshi MBE DL
+- Rudo Chengeta
+organisations:
+- ABE
+- Bradford Central Seventh-day Adventist Church
+- Bradford PHAB
+- East Bierley Cricket Club
+- Labour
+- PBE
+- Rudo Chengeta
+- Seventh-day Adventist Possibility Ministries
+- St Bedes & St Joseph
+- T&A
 ---
 
 A BRADFORD mum has hailed Bible study as a key ingredient in elevating her son's confidence and poetry-writing.

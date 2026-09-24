@@ -13,6 +13,17 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21481372.jpg?type=og-image
+locations:
+- Mexico
+- York
+people:
+- Peter Harrington
+organisations:
+- Genio
+- SimVenture
+- SimVenture’s Evolution
+- Team JKonic
+- Universidad Modelo Mérida
 ---
 
 *(Image: Supplied)*

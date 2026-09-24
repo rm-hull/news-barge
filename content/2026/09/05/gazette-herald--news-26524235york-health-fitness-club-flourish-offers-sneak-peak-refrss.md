@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Bootham
+- Clifton
+- England
+- Flourish
+- London
+- White House
+- YOUR
+- York
+people:
+- Claire Riddell
+- Stacey Dix
+- Vanessa Warn
+organisations:
+- Public Notice Portal
+- Ultra Telsa
 ---
 
 ### What is the Public Notice Portal?

@@ -16,6 +16,25 @@ categories:
 - History
 - Arts & Culture
 - Film & TV
+locations:
+- Domestic Street
+- Holbeck Together
+- St Matthew’s Church
+- YOUR
+people:
+- Elissa Newman
+- Holbeck Together
+organisations:
+- Holbeck Permanent Benefit Building Society
+- Holbeck Together
+- LBS
+- Leeds Building Society
+- Leeds City Council
+- Levelling Up Fund
+- Old Box Office
+- Picture House
+- Public Notice Portal
+- The Society
 ---
 
 *(Image: Box Architects)*

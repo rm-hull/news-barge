@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Austria
+- Colombia
+- Germany
+- Hungary
+- Qatar
+- Senegal
+people:
+- '** Brughmans'
+- Alisson
+- Armin Pecsi
+- Freddie Woodman
+- Giorgi Mamardashvili
+- Ifeanyi Ndukwe
+- Lucca Brughmans
+- Matt Newberry
+- Mor Talla N'diaye
+- Samuel Martinez
+- Vitezslav Jaros
+organisations:
+- Anfield
+- BBC Sport
+- Genk
+- LFC
+- Liverpool
+- Liverpoolhave
+- Lucca Brughmans
+- Pecsi
+- TSV Hartberg
 ---
 
 ![Lucca Brughmans](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5efb/live/3b4e7850-a632-11f1-905b-8511af748865.jpg)

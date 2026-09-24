@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Litchfield
+- Manchester
+- New Hampshire
+- U.S.
+people:
+- Bradley Asbury
+- David Meehan
+- Frank Davis
+- Gordon Searles
+- James Woodlock
+- Jeffrey Buskey
+- John H. Sununu
+- Jonathan Brand
+- Lucien Poulette
+- Stanley Watson
+- Stephen Murphy
+- Trevor Middleton
+- Victor Malavet
+organisations:
+- Associated Press
+- Sununu Youth Services Center
+- Youth Development Center
 ---
 
 A sexual assault trial starts Monday for a New Hampshire man whose arrest more than seven years ago kicked off one of the biggest youth detention scandals in U.S. history.

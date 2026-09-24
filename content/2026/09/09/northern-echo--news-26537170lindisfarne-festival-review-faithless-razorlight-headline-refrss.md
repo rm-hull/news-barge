@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Adam Kennedy
+- Beal Farm
+- County Durham
+- Glastonbury
+- Holy Island
+- North East
+- Northumberland
+- Worthy Farm
+people:
+- Adam Kennedy
+- Heather Small
+- Manfred Mann
+- Shannon Pearl
+organisations:
+- AC
+- Beal Farm
+- Elvana
+- Lindisfarne
+- Northumberland
+- Razorlight
+- Soul II Soul
+- The Proclaimers
+- Utah Saints
 ---
 
 Review – Lindisfarne Festival, Beal Farm – Northumberland

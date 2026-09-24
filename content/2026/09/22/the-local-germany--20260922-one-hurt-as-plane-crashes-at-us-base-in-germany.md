@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620760289.jpg@webp
+locations:
+- Europe
+- Rhineland-Palatinate
+- US
+people: []
+organisations:
+- 52nd Fighter Wing
+- AFP
+- NATO
+- Spangdahlem Air Base
 ---
 
 A spokeswoman at the base told AFP a pilot was receiving medical care after ejecting safely at the Spangdahlem Air Base in Rhineland-Palatinate state.

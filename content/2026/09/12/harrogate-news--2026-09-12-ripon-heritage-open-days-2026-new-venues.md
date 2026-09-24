@@ -12,6 +12,35 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Borough Police Station
+- Dewhurst
+- Georgian Courthouse
+- Ironbridge
+- Kirkgate
+- Queen Street
+- Ripon
+- Shropshire
+- Town Hall
+people:
+- Dewhurst
+- Lilla Bathurst
+- Peter Hartley
+- Richard Taylor
+organisations:
+- Big Bites
+- Dewhurst Butchers
+- Handley’s
+- Jackfield Tile Museum
+- Kirkgate A
+- National Trust
+- People’s Postcode Lottery
+- Ripon BID
+- Ripon Cathedral
+- Ripon Civic Society
+- Ripon Council
+- Ripon Gazette
+- The Portly Pig
 ---
 
 **RIPON**— A series of historically significant properties and hidden architectural features are set to open to the public this week as Ripon launches its local contribution to the national Heritage Open Days initiative.Operating under the central theme of* Everyday Histories*, the ten-day festival runs from

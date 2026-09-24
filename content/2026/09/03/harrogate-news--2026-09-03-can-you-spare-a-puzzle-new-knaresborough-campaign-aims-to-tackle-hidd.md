@@ -14,6 +14,18 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Knaresborough
+people:
+- Jamie Nicholson-Ruther
+- Simon Myers
+organisations:
+- Harrogate Neighbours
+- Harrogate Neighbours’
+- Harrogate Neighbours’ Meals
+- Knaresborough Library
+- Knaresborough Rotary Club
+- North Yorkshire Council
 ---
 
 Not-for-profit care provider, Harrogate Neighbours and Knaresborough Library, have joined forces to launch Puzzles for Pensioners – an initiative which aims to bring companionship, conversation and cognitive stimulation to isolated older people.

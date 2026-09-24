@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- London
+- New York
+- UK
+- US
+- United Kingdom
+- United States
+people:
+- Nik Storonsky
+organisations:
+- Barclays
+- IPO
+- Les Echos
+- London Stock Exchange
+- NatWest Group
+- Revolut Visa
 ---
 
 The founder and boss of Revolut has said the bank is considering a dual stock market listing in London and New York.

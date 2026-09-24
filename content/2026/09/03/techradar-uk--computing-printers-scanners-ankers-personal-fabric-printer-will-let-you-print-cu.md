@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/sPhM5MKn7bi5SyfZWWVu3o-1600-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- England
+- Stockport
+people:
+- Anker
+- Dave
+- David Nield
+organisations:
+- Anker
+- Bulb3
+- DTG
+- E1
+- Gizmodo
+- Google News
+- Govee Curtain Lights4
+- IFA
+- PC Explorer
+- Philips Hue White & Color Ambiance2
+- The Hardware Handbook
 ---
 
 ![Anker eufyMake fabric printer](https://cdn.mos.cms.futurecdn.net/sPhM5MKn7bi5SyfZWWVu3o.jpg) 

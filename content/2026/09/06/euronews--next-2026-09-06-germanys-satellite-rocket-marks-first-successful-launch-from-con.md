@@ -15,6 +15,31 @@ categories:
 - Science
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Andøya
+- Earth
+- Europe
+- French Guiana
+- Nordmela
+- Norway
+- Spain
+people:
+- Géraldine Naja
+- Josef Aschbacher
+- LEO
+organisations:
+- Andoya Spaceport
+- Business Incubation Centre
+- DLR
+- ESA
+- ESA’s Boost!
+- European Space Agency
+- German Space Agency
+- Isar Aerospace
+- Isar Aerospace Launch Vehicle
+- MTG-I2
+- PLD Space
+- Space Transportation
 ---
 
 ## German company Isar Aerospace has placed its Spectrum rocket in low Earth orbit at the second attempt, becoming the first European firm to do so with its own launcher and hitting the first milestone of ESA's European Launcher Challenge.

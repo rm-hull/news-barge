@@ -11,6 +11,14 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Abingdon
+- Appleford Drive
+people:
+- Jill Gant
+- Stuart Brangwin
+organisations:
+- Thames Valley Police
 ---
 
 A man has been arrested on suspicion of murdering an 88-year-old woman.

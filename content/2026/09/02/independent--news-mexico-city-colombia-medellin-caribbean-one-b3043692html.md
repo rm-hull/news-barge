@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- California
+- Canada
+- Caribbean
+- Chicago
+- Colombia
+- Highland
+- Latin America
+- Los Angeles
+- Medellín
+- Mexico City
+- Miami
+- Montreal
+- Orlando
+- Palacio de los Deportes
+- San Antonio
+- Toronto
+- U.S.
+- US
+- United States
+- Venezuela
+people:
+- Carín León
+- Kany García
+- Puerta Abierta
+- Rawayana
+- Yuridia
+organisations:
+- ABACO
+- La Siguiente
+- The Associated Press
 ---
 
 Puerto Rican singer-songwriter Kany García has built her Latin Grammy -winning career on intimate, deeply personal music, but now she is bringing that connection with fans to bigger stages as her Puerta Abierta tour heads to the United States.

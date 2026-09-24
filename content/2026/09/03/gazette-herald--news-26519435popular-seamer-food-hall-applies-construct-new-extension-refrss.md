@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Food & Cooking
+locations:
+- North Yorkshire
+- Scarborough
+- Seamer
+people:
+- Harrison Pick
+organisations:
+- Newby and Scalby Community Hall
+- North Yorkshire Council
+- Wilson'S Food Hall
+- Wilson’s Food & Community Hall
+- Wilson’s Food Hall
 ---
 
 A POPULAR food hall in a North Yorkshire village has applied to build an extension to meet year-round demand.

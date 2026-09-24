@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Baltimore
+- Frederick
+- Maryland
+- US
+people:
+- April McClain Delaney
+- Cesar Diaz
+- Chris Van Hollen
+- Donald] Trump
+- Frederick
+- Katie Nash
+- Kevin Meyer
+- Lex McMenamin
+- Soolah Kemp
+- Tatiana Santos
+- Wes Moore
+organisations:
+- DHS
+- Department of Homeland Security
+- Frederick News-Post
+- Guardian
+- Hagerstown Rapid Response
+- ICE
+- Immigration and Customs Enforcement
+- Indivisible Frederick Forward
+- WBAL-TV
 ---
 
 Political leaders in Maryland are calling for investigations into the conduct of Immigration and Customs Enforcement (ICE) officers as they clashed with protesters during a federal operation in a local community.

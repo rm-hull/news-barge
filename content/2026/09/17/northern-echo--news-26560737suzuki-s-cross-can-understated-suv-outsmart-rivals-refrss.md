@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- S-Cross
+people: []
+organisations:
+- Android Auto
+- Apple CarPlay
+- Newsquest
+- S-Cross
+- Suzuki
 ---
 
 In an increasingly complicated car market, the Suzuki S-Cross offers a refreshingly straightforward alternative.

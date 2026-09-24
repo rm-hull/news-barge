@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- UK
+people:
+- H. pylori
+organisations:
+- Global Cancer Observatory
+- Guts UK
+- University of California San Diego
+- University of Hong Kong
+- eGastroenterology
 ---
 
 Exposure to a bacterium responsible for a widespread stomach infection has been associated with a notable percentage of bowel cancer cases, according to research.

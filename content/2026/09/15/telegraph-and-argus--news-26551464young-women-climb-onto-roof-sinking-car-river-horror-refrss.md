@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Barth Bridge
+- Dales Way
+- Dent
+- River Dee
+- Yorkshire Dales
+people: []
+organisations:
+- Cumbria Police
 ---
 
 *(Image: Google Maps)*

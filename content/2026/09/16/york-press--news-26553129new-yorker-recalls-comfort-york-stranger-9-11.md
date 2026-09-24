@@ -15,6 +15,32 @@ categories:
 - Society & Culture
 - Arts & Culture
 - History
+locations:
+- America
+- LaGuardia Airport
+- Maiden Lane
+- Mount Sinai Hospital
+- New York
+- New York City
+- Pennsylvania
+- Shanksville
+- South Tower
+- United States
+- Washington
+people:
+- Alan Brownstein
+- Hannah
+- Jeremy
+- Nick
+- Patty Brownstein
+- Tyler
+organisations:
+- ALF
+- American Liver Foundation
+- Pentagon
+- The Press
+- World Trade Center
+- World Trade Centre
 ---
 
 ## 'It made us feel we weren't alone' - stranger's kindness remembered on darkest day

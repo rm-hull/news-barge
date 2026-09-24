@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- '## York'
+- York Racecourse
+people:
+- Ceri Wright
+- Duncan Wood
+- Millie
+organisations:
+- Ceri
+- David Harrison Photography
+- Millie Wright Children’s Charity
+- York Community Pride
 ---
 
 ## York mum who turned daughter’s tragic death into charity legacy wins top honour

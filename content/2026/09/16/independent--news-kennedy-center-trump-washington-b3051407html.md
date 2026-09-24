@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+people: []
+organisations:
+- Fencing
 ---
 
 Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it

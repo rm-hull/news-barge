@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/08/15/39/Banned-split.jpeg?trim=
 categories:
 - News & Politics
 - UK
+locations:
+- Jerusalem
+- Judea
+- Kiryat Gat
+- Ramallah
+- Samaria
+- State of Israel
+- UK
+- West Bank
+people:
+- Adrian Ramsay
+- Carla Denyer
+- Diane Abbott
+- Ed Miliband
+- Ellie Chowns
+- Fahad Ansari
+- Gideon Saar
+- Hannah Spencer
+- Jeremy Corbyn
+- John McDonnell
+- Naz Shah
+- Richard Burgon
+- Sian Berry
+- Zarah Sultana
+organisations:
+- British Support Team
+- Green Party
+- International Gaza Support Centre
+- Labour Government
+- Palestinian Authority
+- Riverway
+- Your Party
 ---
 
 Twelve British MPs have been barred from entering Israel following the UK’s decision to impose sanctions on goods produced in illegal West Bank settlements.

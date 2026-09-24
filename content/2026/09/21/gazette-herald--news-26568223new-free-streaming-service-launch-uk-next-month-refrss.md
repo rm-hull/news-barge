@@ -13,6 +13,35 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/20793829.jpg?type=og-image
+locations:
+- Australia
+- Canada
+- France
+- Germany
+- Ireland
+- UK
+- USA
+people:
+- David Croyé
+- Quentin Carbonell
+organisations:
+- Bleecker Street
+- Channel 4
+- Channel 5
+- Freeview
+- Fremantle
+- Global Content Acquisitions and Strategy
+- ITVX
+- JustWatch Group
+- JustWatch TV
+- New Regency
+- Paramount
+- Pluto
+- Rakuten TV
+- SVP
+- Tubi
+- Vortex Media
+- iPlayer
 ---
 
 *(Image: Getty Images)*

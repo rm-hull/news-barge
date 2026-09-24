@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Congo
+- Sud-Ubangi
+people:
+- Jean-Rene Galekwa Vundawe
+organisations:
+- Congo Ebola Burial Teams
+- The Associated Press
 ---
 
 Ebola outbreak in eastern Congo has now spread to the country's seventh province, officials say

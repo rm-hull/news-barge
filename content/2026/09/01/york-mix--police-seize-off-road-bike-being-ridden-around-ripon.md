@@ -13,6 +13,14 @@ categories:
 - Travel
 - Society & Culture
 - News & Politics
+locations:
+- Gallows Hill
+- Ripon
+people: []
+organisations:
+- Neighbourhood Policing Team
+- North Yorkshire Police
+- Ripon Response
 ---
 
 Officers from Ripon Response and the Neighbourhood Policing Team attended reports of a pit bike style off-road bike being ridden around the Gallows Hill area of Ripon.

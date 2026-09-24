@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Heslington
+- York Racecourse
+people:
+- James Rourke
+- Lord Deramore
+organisations:
+- Lord Deramore
+- Lord Deramore’s Primary School
+- Ofsted
+- Yorkshire
 ---
 
 A VIBRANT and inclusive school that goes “above and beyond” has been named School of the Year at the York Community Pride Awards.

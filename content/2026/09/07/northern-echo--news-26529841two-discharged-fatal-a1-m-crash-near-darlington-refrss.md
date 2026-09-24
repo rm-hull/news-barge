@@ -12,6 +12,20 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- A1
+- Burtree Interchange
+- Darlington Man
+- Darlington Memorial Hospital
+- Junction 57
+- Junction 58
+- M
+- North East
+people:
+- Mokka
+organisations:
+- A1
+- Durham Police
 ---
 
 Two people have been discharged from hospital after a fatal A1(M) crash near Darlington.

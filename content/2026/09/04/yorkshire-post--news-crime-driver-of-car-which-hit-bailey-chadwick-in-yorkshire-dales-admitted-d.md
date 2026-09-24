@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Glasshouses
+- Harrogate Magistrates’ Court
+- Lupton Bank
+- Pateley Bridge
+- Yorkshire Dales
+people:
+- Bailey Chadwick
+- DI Cowling
+- Jill Cowling
+- Joseph Henry Stott
+organisations:
+- North Yorkshire Police
+- Serious Collision Investigation Unit
 ---
 
 # Driver of car which hit Bailey Chadwick in Yorkshire Dales admitted drinking alcohol before driving

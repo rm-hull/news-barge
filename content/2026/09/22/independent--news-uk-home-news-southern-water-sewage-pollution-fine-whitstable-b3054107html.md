@@ -12,6 +12,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/09/01M32E4TP3ZYW0YB7107RV3GYX.jpg?trim=271,0,271,0&width=1200&height=800&crop=1200:800
+locations:
+- Broadstairs
+- Bromley Magistrates’ Court
+- Faversham Creek
+- Herne Bay
+- Kent
+- Margate
+- Medway Magistrates’ Court
+- Swalecliffe Brook
+- Tankerton
+- Whitstable Harbour
+people:
+- Lindsay Faulkner
+organisations:
+- Canterbury City Council
+- EA
+- Environment Agency
+- Kent
+- Southern Water
 ---
 
 Southern Water has been handed a fresh £2.4 million fine over environmental damage in Kent, arriving just months after a £7 million penalty for illegal sewage dumping off the county’s coast.

@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Earth
+- Florida
+- Lagrange
+- Mars
+- Maryland
+- US
+- Webb
+- White House
+people:
+- Donald Trump
+- Hubble
+- Julie McEnery
+- Sophia Roberts
+- Webb
+organisations:
+- Congress
+- Elon Musk
+- Hubble
+- James Webb
+- Kennedy Space Center
+- Nancy Grace Roman
+- Nancy Grace Roman Space Telescope
+- Nasa
+- Nasa’s Goddard
+- Planetary Society
+- SpaceX
+- Starship
+- Trump
 ---
 
 A $4.3bn space telescope that Donald Trump tried to kill is set to lift off from Florida early on Sunday as Nasa embarks on the next stage of its quest to unlock the secrets of the universe.

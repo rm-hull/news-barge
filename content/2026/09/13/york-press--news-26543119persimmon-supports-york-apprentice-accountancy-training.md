@@ -13,6 +13,17 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- York
+- Yorkshire
+people:
+- Izabela Bogusiewicz
+- Paul Curry
+organisations:
+- AAT
+- Persimmon Homes
+- SASH
+- Safe and Sound Homes
 ---
 
 *(Image: Persimmon Homes)*

@@ -15,6 +15,25 @@ categories:
 - UK
 - Science
 - Travel
+locations:
+- China
+- Giza
+- Himalayas
+- Langtang Lirung
+- Nepal
+- Trishuli River
+people:
+- Ben Clarke
+- Friederike Otto
+- Jakob Steiner
+organisations:
+- AP
+- Associated Press’
+- Imperial College London
+- Sibi Arasu
+- United Nations
+- University of Graz
+- World Weather Attribution
 ---
 
 Human-caused global warming thinned glaciers and thawed mountain permafrost, likely helping to destabilize the Himalayan slope that collapsed last month and unleashed catastrophic flooding across Nepal, according to a report released Thursday.

@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Atlanta
+- Bogalusa
+- Georgia
+- Louisiana
+- Stockbridge
+people:
+- Anthony Ford
+- Elton Alexander
+- Jayden William
+- Jayden Williams
+- Richard Hyde
+- Robbie Ashe
+- Robert Kenner
+- Tyrin Truong
+- Williams’
+organisations:
+- Atlanta News First
+- NBC
+- Pandora
+- Polo Factory
+- Stockbridge
+- Williams’
 ---
 
 City leaders in a suburb outside Atlanta have voted to remove the youngest mayor in their community’s history amid allegations of questionable spending of municipal funds and inappropriate communications with an 18-year-old high school student.

@@ -14,6 +14,10 @@ categories:
 - News & Politics
 - UK
 - Music
+locations: []
+people: []
+organisations:
+- Daisy Chain Fields
 ---
 
 Daisy Chain Fields benefit festival rallies young fans for women’s well-being, in photos

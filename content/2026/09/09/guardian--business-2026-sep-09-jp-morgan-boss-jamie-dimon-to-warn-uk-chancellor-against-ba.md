@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Canary Wharf
+- London
+- Manhattan
+- New York
+- UK
+- US
+- Wall Street
+people:
+- Andy Burnham
+- Charles
+- Jamie Dimon
+- John Healey
+- Keir Starmer
+- Rachel Reeves
+- Varun Chandra
+organisations:
+- Barclays
+- HSBC
+- JP Morgan
+- Labour
+- Lloyds Banking Group
+- NatWest
+- Positive Money
+- TUC
+- UK Finance
 ---
 
 Jamie Dimon, the chief executive of the largest US bank, JP Morgan, is understood to have warned the UK chancellor, John Healey, against raising taxes on banks in his inaugural budget in October.

@@ -13,6 +13,47 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/15/12/22/930423762b5e7656.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Columbia
+- Evian
+- France
+- Georgia
+- Louisiana
+- OpenAI
+- Russia
+- U.S.
+- Union City
+- White House
+people:
+- AI
+- Claude Opus
+- Daniel Schiff
+- Dario Amodei
+- Donald Trump
+- John Kennedy
+- Kristian Hammond
+- Rand Paul
+- Sam Altman
+- Visha Misra
+organisations:
+- Anthropic
+- Columbia University
+- Congress
+- G7
+- GRAIL
+- Governance & Responsible AI Lab
+- Hammond
+- Northwestern University
+- OpenAI
+- Program for Public Consultation
+- Purdue University
+- Salesforce
+- School of Engineering and Applied Science
+- Skynet
+- The Independent
+- Trump
+- Truth Social
+- University of Maryland
 ---
 
 President Donald Trump's outspoken support for unbridled advances in artificial intelligence is sparking fears of a *Terminator*-style apocalypse but experts say that scenario is still science fiction — and that other AI harms are already here.

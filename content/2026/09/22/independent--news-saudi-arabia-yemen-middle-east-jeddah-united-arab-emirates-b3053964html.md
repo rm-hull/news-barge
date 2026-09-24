@@ -15,6 +15,26 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: null
+locations:
+- Bahrain
+- Iran
+- Iraq
+- Jeddah
+- Kuwait
+- Middle East
+- Oman
+- Qatar
+- Riyadh
+- Saudi Arabia
+- United Arab Emirates
+- Yemen
+people:
+- Fahad Al-Mufarrij
+- Giorgios Donis
+- Graham Arnold
+- Julen Lopetegui
+- Musab Al-Juwayr
+organisations: []
 ---
 
 Amid ongoing conflict in the Middle East, Saudi Arabia will host soccer's eight-country Arabian Gulf Cup starting Wednesday, under pressure to bounce back from a disappointing World Cup.

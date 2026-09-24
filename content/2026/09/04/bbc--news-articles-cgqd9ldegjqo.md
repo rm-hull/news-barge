@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Africa
+- Brookside
+- Kenya
+- Nairobi
+people:
+- Ahmed Bahajj
+- Bernard Abok
+- Cofek
+- Jonathan Mueke
+- Muthoni Macharia
+- Patricia Gathoni
+- William Maritim
+organisations:
+- BBC News Africa
+- Cofek
+- Consumer Federation of Kenya
+- KDB
+- Kenya Dairy Board
+- New KCC
 ---
 
 ![A close-up of someone's hand holding a large stove-top kettle and pouring a brown milky liquid into a yellow cup being held by someone else.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0436/live/70641bb0-a7c9-11f1-aed2-8d6da8d75094.jpg)

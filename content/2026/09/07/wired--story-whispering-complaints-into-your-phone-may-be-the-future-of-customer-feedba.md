@@ -12,6 +12,16 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- San Francisco
+people:
+- Karan Gupta
+- Lena Dunham
+organisations:
+- Alice
+- Google Maps
+- NFC
+- Voicebox
 ---
 
 Some of the hottest software this year revolves around capturing voices. Whether it’s the sharp dictations of Wispr or the always-listening ears of Granola, voice-centered software currently feels inescapable. Voice dictation is getting so sharp, in fact, that I often write drafts in my notepad and then dictate aloud to my laptop.

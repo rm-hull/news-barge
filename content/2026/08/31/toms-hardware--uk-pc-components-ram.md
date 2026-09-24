@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- South Korea
+- U.S.
+people: []
+organisations:
+- AI
+- CXMT
+- Cloudflare
+- G.Skill
+- Get Tom's Hardware
+- HBM
+- MSI
+- NVLink Fusion
+- Nvidia
+- RAM
+- Ryzen
+- SK
+- Samsung
+- US Department of Defense
 ---
 
 ![Flare X5X](https://cdn.mos.cms.futurecdn.net/4V8U4jbuXfo7BUf6UMYq9M-320-80.jpg)

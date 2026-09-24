@@ -12,6 +12,13 @@ image: https://static.independent.co.uk/2026/09/01/18/Guinea_Bissau_Referendum_7
 categories:
 - News & Politics
 - UK
+locations:
+- Guinea-Bissau
+- West Africa
+people: []
+organisations:
+- National Electoral Commission
+- World Bank
 ---
 
 Guinea-Bissau has voted in support of expanding presidential powers and trimming the country's legislature, electoral authorities announced Tuesday.

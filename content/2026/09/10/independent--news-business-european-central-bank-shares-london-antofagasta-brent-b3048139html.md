@@ -11,6 +11,48 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Antofagasta
+- Europe
+- Frankfurt
+- Iran
+- London
+- Mako
+- New York
+- Paris
+- UK
+- US
+people:
+- Christine Lagarde
+organisations:
+- AB Foods’ Grocery
+- Accel-KKR
+- Alliance News
+- Anglo American
+- Antofagasta
+- BP
+- Berkeley Group Holdings
+- British American Tobacco
+- British Foods
+- Bureau of Labour Statistics
+- Compass Group
+- Cult Beauty
+- ECB
+- EU
+- Eleco
+- Empyrean Energy
+- European Central Bank
+- European Union
+- Federal Reserve
+- Glencore
+- Imperial Brands
+- Integrated Diagnostics Holdings
+- Lookfantastic
+- Myprotein
+- Primark
+- THG
+- Treasury
+- Vodafone Group
 ---
 
 Stock prices in London closed lower on Thursday, as oil prices surged above 105 dollars and hotter-than-expected US producer inflation fuelled concerns, while the European Central Bank raised interest rates as expected.

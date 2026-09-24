@@ -15,6 +15,19 @@ categories:
 - Business & Entrepreneurship
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21493943.jpg?type=og-image&xType=0&yType=29
+locations:
+- Chester-Le-Street
+- County Durham
+- Station Road
+- Wensley Roofing
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- McCarrick Construction
+- Public Notice Portal
+- Public Notice Portal Plans
+- Wensley Roofing
 ---
 
 *(Image: Durham County Council)*

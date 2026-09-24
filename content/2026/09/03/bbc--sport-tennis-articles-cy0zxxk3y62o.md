@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Italy
+- Montreal
+- New York
+- US
+people:
+- Dane Sweeny
+- Felix Auger-Aliassime
+- Karen Khachanov
+- Lorenzo Musetti
+- Novak Djokovic
+organisations: []
 ---
 
 ![Felix Auger-Aliassime wipes his brow during his US Open defeat by Karen Khachanov](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4080/live/1bcf8840-a7de-11f1-b109-879e35c24276.jpg)

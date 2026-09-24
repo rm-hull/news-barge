@@ -14,6 +14,16 @@ categories:
 - Business & Entrepreneurship
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21476403.jpg?type=og-image&xType=0&yType=117
+locations:
+- Durham
+- Hartlepool
+- Middleton Grange
+- Middleton Grange Shopping Centre
+- North East
+- York Road
+people: []
+organisations:
+- Middleton Grange Shopping Centre
 ---
 
 A popular community-run Hartlepool café has officially reopened in its new home following a summer relocation.

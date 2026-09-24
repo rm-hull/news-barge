@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a792/live/bc4bd170-b5cb-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Chiba
+- Dujuan
+- El Niño
+- Japan
+- Kanagawa
+- New York
+- Niijima Village
+- Oshima Town
+- Pacific
+- Shibuya
+- Shinagawa Ward
+- Shinjuku
+- Tokyo
+- Toshima Village
+- US
+- United States
+people:
+- Donald Trump
+- Dujuan
+- Mark Poynting
+- Sanae Takaichi
+organisations:
+- BBC
+- El Niño
+- Haneda Airport
+- Japan Meteorological Agency
+- Meteorological Agency
+- Sodegaura City Fire Department
+- UN General Assembly
+- Yokosuka City Fire Department
 ---
 
 ![Two men with umbrellas are ankle-deep in water as they cross a road in Tokyo, Japan ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a792/live/bc4bd170-b5cb-11f1-bc1f-3f186ca4140c.jpg)

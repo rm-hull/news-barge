@@ -16,6 +16,25 @@ categories:
 - Family & Parenting
 - Society & Culture
 - True Crime
+locations:
+- Amundsen Avenue
+- Bradford
+- West Yorkshire
+people:
+- Alan Weekes
+- Dominika Marcinkowska
+- Kasey Fitton
+- Mother
+organisations:
+- Bradford District Police
+- Bradford District Safeguarding Team
+- Bradford Safeguarding Unit
+- Fitton
+- Kaseyfitton23
+- Lancashire Police
+- Snapchat
+- West Mercia Police
+- West Yorkshire Police
 ---
 
 # 'I failed her massively' - Mother's heartbreaking statement as child sex offender is jailed

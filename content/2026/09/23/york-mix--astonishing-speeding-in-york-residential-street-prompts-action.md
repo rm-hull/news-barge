@@ -11,6 +11,22 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/alness-drive-york-gsv.webp
+locations:
+- Acomb Wood Drive
+- Alness Drive
+- York Station
+people:
+- Anna Semlyn
+- Cllr Fenton
+- Cllr Ravilious
+- Dringhouses
+- Kate Ravilious
+- Plenty
+- Stephen Fenton
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat transport
 ---
 
 A York residential street plagued by speeding is set for new measures to tackle it amid calls for a rethink.

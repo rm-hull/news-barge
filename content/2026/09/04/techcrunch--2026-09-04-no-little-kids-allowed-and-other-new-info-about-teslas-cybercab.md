@@ -10,6 +10,19 @@ description: The company says no children under 13 can ride -- even with a paren
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856
 categories:
 - Technology & Software
+locations:
+- China
+- Cybercab
+- United States
+people:
+- Elon Musk
+- Jeremy Judkins
+organisations:
+- Cybercab
+- Musk
+- National Highway Traffic Safety Administration
+- Tesla
+- USB-C
 ---
 
 Tesla’s private Cybercab event has come and gone, and it was very different from the large, loud, livestreamed events the company usually puts on — an odd choice for the launch of a product CEO Elon Musk has spent years building toward.

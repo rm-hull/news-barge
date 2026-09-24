@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Cod Beck
+- Grassington
+- Hambleton Hills
+- James Herriot
+- Kirkgate
+- North York Moors
+- North Yorkshire
+- Thirsk Racecourse
+- UK
+- World of James Herriot
+people:
+- Alf Wight
+- CHRIS MADDISON
+- James Herriot
+- Thirsk
+organisations:
+- Thirsk Yarnbombers'
+- Yorkshire Dales
 ---
 
 *(Image: CHRIS MADDISON/CAMERA CLUB)*

@@ -11,6 +11,62 @@ image: https://i.guim.co.uk/img/media/a2ba6ddd16347d7801923aeaa828903436c00c2b/2
 categories:
 - UK
 - News & Politics
+locations:
+- Arizona
+- Brooklyn
+- Chatsworth
+- China
+- Gaza
+- Grand Canyon
+- Iran
+- Israel
+- LA
+- Latin America
+- Los Angeles
+- Mecca
+- New York City
+- Palestine
+- Russia
+- San Diego
+- San Fernando Valley
+- Saudi Arabia
+- US
+- Ukraine
+- Washington
+- West Bank
+- Yemen
+- nearCrystal Rapids
+people:
+- Biden
+- Donald Trump
+- Ed Sheeran
+- Keren Landman
+- Macklemore
+- Michele Singer Reiner
+- Nick Reiner
+- Nick Reiner.
+- Nicole Saphier
+- Pete Hegseth
+- Rob
+- Robert Kraft
+- Thomas Massie
+organisations:
+- CBO
+- Congress
+- Congressional Budget Office
+- EU
+- European Commission
+- FBI
+- ICE
+- Israeli-American Council
+- Los Angeles Fire Department
+- NBC
+- New England Patriots
+- Newcomb Institute
+- Trump
+- Tulane University
+- US House of Representatives
+- University of California
 ---
 
 Good morning. Saudi Arabia’s air defenses intercepted and destroyed a Houthi drone south of Mecca yesterday before it entered prohibited airspace over the holy city. A spokesperson for the kingdom, which is fighting the Iran-aligned group in Yemen, said the security of Islam’s two holiest sites and of pilgrims was a “red line”. Mecca, home to shrines sacred to Muslims worldwide, is Islam’s holiest city and the focal point of the annual hajj pilgrimage.

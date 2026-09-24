@@ -14,6 +14,43 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Capitol Hill
+- Des Moines
+- Iowa
+- Kansas
+- Potomac River
+- Reagan National Airport
+- U.S.
+- Washington D.C.
+- Washington, D.C.
+- White House
+- Wichita
+people:
+- Brian Bedford
+- Christine
+- Donald Trump
+- Doug Lane
+- Hannah Fingerhut
+- Jennifer Homendy
+- Maria Cantwell
+- Rachel Feres
+- Reagan
+- Spencer
+- Ted Cruz
+organisations:
+- American Airlines
+- Army Black Hawk
+- Congress
+- Defense Department
+- FAA
+- Federal Aviation Administration
+- House
+- NTSB
+- National Transportation Safety Board
+- Senate
+- U.S. Capitol
+- ___ Associated Press
 ---
 
 The loved ones of the 67 people who died last year when an airliner and Army helicopter collided over Washington, D.C., urged Congress and regulators Tuesday to do more now to prevent other families from being left clutching belongings and memories instead of their wives and children.

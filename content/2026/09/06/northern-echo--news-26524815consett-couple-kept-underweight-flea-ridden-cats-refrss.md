@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- Briardale
+- Consett
+- County Durham
+- Darlington
+- Felledge Animal Centre
+- Misty
+- Nala
+- North East
+- Teesside
+- Tinkerbell
+people:
+- Catherine Maddison
+- Charlene McGilligan
+- Kevin Malpass
+- Lilo
+- Misty
+- Ms McGilligan
+- Nala
+- Tinkerbell
+- Wendy
+organisations:
+- Lilo
+- Newton Aycliffe Magistrates' Court
+- RSPCA
+- Tinkerbell
 ---
 
 A County Durham couple who kept underweight and flea-ridden cats in a "shocking condition" have been banned from keeping animals for life.

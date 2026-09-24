@@ -11,6 +11,14 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e03/live/5b033fc0-b6ed-11f1-a430-4d16ee157c41.jpg
+locations:
+- UK
+people:
+- Andy Burnham
+organisations:
+- UN
+- UNGA
+- United Nations General Assembly
 ---
 
 # Watch: Key moments from Andy Burnham's first UN speech

@@ -12,6 +12,20 @@ categories:
 - York
 - Travel
 - Food & Cooking
+locations:
+- City of York
+- Clifton
+- Easingwold
+- Haxby
+people:
+- Eddie
+- Jenny Copley-Farnell
+organisations:
+- 86 Clifton
+- Boots
+- Curious Coffee Company
+- The Curious Coffee Company
+- The Green
 ---
 
 A new cafe is set to open in Clifton, York.

@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Flushing Meadows
+- Germany
+- New York
+- Washington
+- Wimbledon
+people:
+- '## Zverev'
+- Alexander Zverev
+- Andy Roddick
+- Arthur Ashe
+- Ben Shelton
+- Black
+- Carlos Alcaraz
+- Dominic Thiem
+- Elena Rybakina
+- God
+- Jannik Sinner
+- Trinity Rodman
+organisations:
+- No. 1
+- No. 2
+- No. 8
 ---
 
 ## Zverev dashed Shelton's hopes of becoming the first Black player to win the men's championship since Arthur Ashe in 1968 and the first American man to win the title since Andy Roddick in Flushing Meadows in 2003.

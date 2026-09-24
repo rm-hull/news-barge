@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- B6265
+- Harrogate Magistrates’ Court
+- Pateley Bridge
+people:
+- Bailey Chadwick
+- DI Cowling
+- Dayle Knight
+- Jill Cowling
+- Joseph Henry Stott
+organisations:
+- North Yorkshire Police
+- Serious Collision Investigation Unit
 ---
 
 A mother has spoken of her devastation at the loss of her son after a court convicted a man of drink driving today (Thursday).

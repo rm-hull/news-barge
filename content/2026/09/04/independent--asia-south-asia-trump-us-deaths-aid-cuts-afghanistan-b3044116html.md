@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Balkh
+- London
+- Nangarhar Regional Hospital
+- Qazizda
+- Sur
+- US
+- Washington DC
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Halima
+- Priyali Dipti Sur
+- Shah Mohammed Qazizda
+organisations:
+- BMJ Global Health
+- Jhpiego
+- Ministry of Public Health
+- Refugees International
+- Sur
+- The Independent
+- Trump
+- US State Department
+- USAID
+- United States Agency for International Development
 ---
 
 A newborn was admitted to Nangarhar Regional Hospital in eastern Afghanistan in February last year with sepsis and birth asphyxia, needing a constant supply of oxygen to survive. Yet the oxygen plant that supplied piped oxygen to 50 paediatric beds had stopped functioning – a month before, the Trump administration had ordered a freeze on US foreign aid.

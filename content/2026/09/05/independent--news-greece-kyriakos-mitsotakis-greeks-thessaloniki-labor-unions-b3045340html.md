@@ -15,6 +15,19 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Athens
+- Greece
+- Thessaloniki
+people:
+- Constantine Mitsotakis
+- Derek Gatopoulos
+- Kyriakos Mitsotakis
+- Yiannis Panagopoulos
+organisations:
+- European Union
+- GSEE
+- New Democracy
 ---
 
 Greece’s conservative government promised sweeping tax breaks and pay hikes before a general election next year, as thousands gathered in protest late Saturday over the high cost of living.

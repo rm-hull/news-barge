@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Asia
+- Australia
+- Hong Kong
+- India
+- Iran
+- Japan
+- Saudi Arabia
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- U.S.
+- Wall Street
+people:
+- Lorraine Tan
+- Stan Choe
+organisations:
+- Fed
+- Federal Reserve
+- Kospi
+- Morningstar
+- Sensex
+- Taiex
+- U.S. Treasury
 ---
 
 Asian shares were mixed on Thursday after Wall Street closed lower following the Federal Reserve’s interest rate hike decision for the first time in three years.

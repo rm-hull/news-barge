@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bahrain
+- Iran
+- Kuwait
+- Oman
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Washington
+people:
+- Donald Trump
+organisations:
+- Republican Party
+- Revolutionaly Guard
+- Revolutionary Guard Navy
 ---
 
 The U.S. on Tuesday struck multiple Iranian tankers in response to more attempted missile attacks on a Navy warship, according to a U.S. official, who spoke on condition of anonymity to discuss sensitive military operations.

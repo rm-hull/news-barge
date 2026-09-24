@@ -14,6 +14,13 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Ben Raffell
+organisations:
+- BigWantsYourCar.com
+- DVLA
 ---
 
 *(Image: Getty)*

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- England
+- France
+- London
+- UK
+people:
+- Katie Razzall
+- Macron
+organisations:
+- BBC
+- British Museum
 ---
 
 # What famous scenes are in the epic Bayeux Tapestry?

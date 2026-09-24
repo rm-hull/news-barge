@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21487024.jpg?type=og-image
+locations:
+- Mackenzie
+- Metro
+- North East
+- North Sea
+- North Yorkshire
+- Richmond
+- Stockton Waterfront Urban Park
+- Thorpe’s Arthaus Gallery
+people:
+- Huw Williams
+- Jessica Jenyns
+- Mackenzie Thorpe
+- Rachel Shepherd
+organisations:
+- Arthaus Gallery
+- Jacksons
+- Middlesbrough FC
+- Northern School of Art
+- Thorpe
+- Yarm Prep School
+- Yarm School
 ---
 
 *(Image: Supplied)*

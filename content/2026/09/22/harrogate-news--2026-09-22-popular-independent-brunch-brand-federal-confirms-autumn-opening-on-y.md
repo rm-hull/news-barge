@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - Society & Culture
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/brunch-york.webp
+locations:
+- '**Coney Street'
+- '**York'
+- Australia
+- Coney Street
+- Grade II
+- Leeds
+- New Zealand
+- UK
+- York
+- Yorkshire
+people:
+- '**Claudio Ribeiro'
+- York
+organisations:
+- Federal Café Portal
+- Federal**
+- Foresight Group
+- TikTok
 ---
 
 Independent brunch brand **Federal** is set to open a new café in**York city centre this autumn**, marking its second expansion into Yorkshire following a highly successful launch in Leeds last year.

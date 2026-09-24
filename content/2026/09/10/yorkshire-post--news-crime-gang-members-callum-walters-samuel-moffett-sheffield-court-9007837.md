@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Arbourthorne
+- Framlingham Road
+- Norfolk Park
+- Norfolk Park Road
+- Oxford Street
+- Sheffield
+- Upperthorpe
+- Yorkshire
+people:
+- Callum Walters
+- Charles Thomas
+- Gordon Stables
+- Samuel Moffett
+organisations:
+- Sheffield Crown Court
 ---
 
 # Drug gang members burned Yorkshire pensioner's home to the ground leaving her fighting for life

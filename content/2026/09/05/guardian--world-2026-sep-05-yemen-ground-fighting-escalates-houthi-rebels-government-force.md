@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Aden
+- Bab al-Mandeb
+- Gaza
+- Hodeidah
+- Hormuz
+- Iran
+- Red Sea
+- Sana’a
+- Saudi Arabia
+- Suez
+- Taiz
+- Yemen
+- al-Khazan
+- al-Makahna
+- al-Makha
+people: []
+organisations:
+- AFP
+- Agence France-Presse
+- UN
 ---
 
 Clashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more than 60 people, including civilians, as the Houthis pushed forward with a military offensive on Yemen’s western coast.

@@ -13,6 +13,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1c2/live/d8cd31d0-b383-11f1-a430-4d16ee157c41.png
+locations:
+- US
+people:
+- Aisha Sembhi
+- Donald Trump
+- Henry Esterson
+- Mesut Ersöz
+- Tom Edgington
+organisations:
+- Air Force One
+- Kennedy Center
+- Kennedy Center in Washington DC
 ---
 
 # Is the Kennedy Center losing 'hundreds of millions of dollars'?

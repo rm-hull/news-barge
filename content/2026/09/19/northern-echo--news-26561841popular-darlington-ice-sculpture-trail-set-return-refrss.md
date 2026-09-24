@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20316935.jpg?type=og-image
+locations:
+- DL1
+- Darlington
+- Duke Street
+- Grange Road
+- Northgate
+people:
+- Graham Norton
+organisations:
+- Darlington Borough Council
+- Peppa Pig
+- SpongeBob SquarePants
 ---
 
 Families will be able to enjoy a festive day out in Darlington this Christmas as the town's popular ice sculpture trail returns.

@@ -12,6 +12,92 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/c610e0ec1b8a073795101ddb54322f8615968c8b/536_0_3000_2401/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8eae16c20553119cd82822ed289e590d
+locations:
+- Austin
+- Beijing
+- China
+- District of Columbia
+- East Potomac Park
+- Gracie Mansion
+- Hudson Valley
+- Iran
+- Maine
+- Middle East
+- Military Complex
+- New York
+- New York City
+- Persian Gulf
+- Saudi Arabia
+- Texas
+- Triumphal Arch
+- US
+- United Arab Emirates
+- United States
+- United States of America
+- Venezuela
+- Virginia
+- Washington
+- Washington’s Potomac River
+- White House
+people:
+- Akayla Gardner
+- Anna Bahr
+- Annabelle Gordon
+- Austin
+- Biden
+- Cait Conley
+- Delcy Rodriguez
+- Don Beyer
+- Donald Trump
+- Emmanuel Macron
+- Jared Golden
+- Lisa Davis
+- Masoud Pezeshkian
+- Mike Lawler
+- Nicolas Sansone
+- Nicolás Maduro
+- Sherrod Brown
+- Wilber Rafael Garcés Pérez
+- Xi Jinping
+- Zohran Mamdani
+organisations:
+- ABC
+- AI Force
+- Arlington National Cemetery
+- Army
+- CBS
+- CNN Networks
+- CNN White House
+- Congress
+- Department of Homeland Security
+- FAKE NEWS
+- FBI
+- Fairshake
+- Fox News
+- Free Press
+- ICE
+- IRNA
+- John F Kennedy Center for the Performing Arts
+- Lincoln Memorial Reflecting Pool
+- MAGA
+- MS NOW
+- MS Now
+- Mehr
+- NBC
+- National Security
+- Ohio Senate
+- Oval Office
+- PAC
+- Politico
+- Reuters
+- Senate Banking Committee
+- The New York Times
+- Trump
+- Truth Social
+- UN General Assembly
+- US District Court
+- US Immigration and Customs Enforcement
+- United Nations General Assembly
 ---
 
 Networks halt TV pool coverage of Trump after CNN White House ban – live

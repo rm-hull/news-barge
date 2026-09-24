@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Berlin
+- Bundestag
+- Germany
+- Leipzig
+- Mecklenburg-Western Pomerania
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Alice Weidel
+- Chrupalla
+- Friedrich Merz
+- Nowhere
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative für Deutschland
+- CDU
 ---
 
 Germany’s chancellor, Friedrich Merz, has accused the far-right Alternative für Deutschland (AfD) of seeking “ethnic cleansing” with its “remigration” drive, after the nativist party’s seismic weekend victory in a state election.

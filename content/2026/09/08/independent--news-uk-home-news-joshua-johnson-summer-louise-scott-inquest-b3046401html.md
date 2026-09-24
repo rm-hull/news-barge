@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Doncaster Coroner’s Court
+- Rotherham Mortuary
+- Royal Hallamshire Hospital
+- Sheffield
+- South Yorkshire
+- South Yorkshire Police
+- Todwick Road
+people:
+- Andy Knowles
+- Colin McFarlane
+- Joe Binley
+- Joshua Johnson
+- Lee Johnson
+- Miss Scott
+- Nicola Mundy
+- Peter Gallagher
+- Summer Louise Scott
+- Trevor Wynn
+organisations:
+- College of Policing
+- IOPC
+- Independent Office for Police Conduct
+- Rotherham
+- Toyota
 ---
 
 A father only found out his son had died three weeks after he was in a car crash due to a police identification error.

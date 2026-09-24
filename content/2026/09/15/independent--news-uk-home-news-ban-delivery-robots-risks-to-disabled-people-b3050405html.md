@@ -13,6 +13,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Bristol
+- Leeds
+- Living Streets
+- Manchester
+- Milton Keynes
+- UK
+people:
+- Amit Patel
+- Ben Foley
+- Dr Patel
+- Heidi Alexander
+- Starship
+- Tanya Braun
+organisations:
+- Department for Transport
+- Living Streets
+- Skype
+- Wheels for Wellbeing
+- YouGov
 ---
 
 Autonomous delivery robots should be banned from pavements to protect more vulnerable pedestrians, a leading charity has claimed.

@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+locations:
+- Bradford
+- Kings Road
+- Swain House Road
+- UGC
+- West Yorkshire
+people: []
+organisations:
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

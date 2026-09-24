@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- '## River'
+- A68
+- County Durham
+- Crakehill Bank
+- Hamsterley
+- Toft Hill
+people:
+- Alistair Paul Fisher
+- Cllr McGuinness
+- David Ramsay
+- Linda Davis
+- Mike Charlston
+- Ms Davis
+- Sharon Graham
+- Steven Matthews
+- Tim McGuinness
+organisations:
+- A68
+- Crakehill Bank
+- DURHAM COUNTY COUNCIL
+- Durham County Council
+- Durham High School
 ---
 
 People are calling for a County Durham road to remain open as a footpath or cycle path if it can no longer be used by vehicles.

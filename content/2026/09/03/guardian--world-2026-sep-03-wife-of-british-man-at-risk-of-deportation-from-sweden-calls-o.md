@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/0b898acc74660ccefaa0777bfd9d111aacb71e3c/4
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Britain
+- Denmark
+- Gothenburg
+- London
+- Spain
+- Stockholm
+- Sweden
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Charles
+- George Mason
+- Joyce Thomas
+- Kathleen Poole
+- Lily
+organisations:
+- Brexit
+- EU
+- EU-UK
+- European Commission
+- Migration Agency
 ---
 
 The wife of a British man detained by police in Stockholm on Tuesday ahead of a threatened deportation has pleaded with Andy Burnham to get involved in the Brexit catastrophe unfolding for many British citizens in Sweden.

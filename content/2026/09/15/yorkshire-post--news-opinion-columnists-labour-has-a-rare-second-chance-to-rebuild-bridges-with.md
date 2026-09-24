@@ -16,6 +16,19 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- London
+people:
+- '## Seldom'
+- Andy Burnham
+- Ben Whitley
+- Keir Starmer
+organisations:
+- Brexit
+- Government
+- Labour
+- Oxford Circus
 ---
 
 # Labour has a rare second chance to rebuild bridges with rural voters

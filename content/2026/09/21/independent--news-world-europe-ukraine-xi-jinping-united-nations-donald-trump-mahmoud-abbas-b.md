@@ -13,6 +13,53 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/18/02/UN_Secretary_General_AP_Interview_57994.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- China
+- Congo
+- France
+- Gaza
+- Iran
+- Mideast
+- Myanmar
+- New York
+- Russia
+- U.S.
+- Ukraine
+- Ukraine,Sudan
+- United States
+- Washington
+people:
+- Antonio Guterres’
+- Benjamin Netanyahu
+- Donald Trump
+- Edith M. Lederer
+- Emanuel Macron
+- Esther Brimmer
+- Jerome Bonnafont
+- Mahmoud Abbas
+- Mark Malloch-Brown
+- Masoud Pezeshkian
+- Narendra Modi
+- Richard Gowan
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Xi Jinping
+- Zoran Mamdani
+organisations:
+- AI
+- Council on Foreign Relations
+- General Assembly
+- Guterres’
+- International Crisis Group
+- Security Council
+- The Associated Press
+- Trump
+- U.N
+- U.N.
+- U.N.’s
+- United Nations
+- United Nations Foundation
 ---
 
 Under a global cloud of wars and bitter divisions, world leaders meet at the United Nations this week facing new fears that runaway artificial intelligence could threaten humanity even as climate shocks and escalating prices are already making life much tougher for hundreds of millions of people.

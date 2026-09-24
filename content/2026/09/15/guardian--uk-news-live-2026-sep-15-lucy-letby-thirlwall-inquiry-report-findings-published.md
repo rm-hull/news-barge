@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- England
+- Letby
+- Liverpool
+- Manchester
+- New Zealand
+people:
+- Baby K
+- Geoff Chase
+- Helen Shannon
+- Jamie Griersonand Josh Halliday
+- Josh Halliday
+- Justice Thirlwall
+- Leon Neal
+- Lucy Letby
+- Mark McDonald
+- Peter Byrne
+- Steve Barclay
+organisations:
+- BBC Newsnight
+- CCRC
+- Cheshire Constabulary
+- Countess of Chester
+- Countess of Chester Hospital
+- Criminal Cases Review Commission
+- Getty Images
+- Liverpool Town Hall
+- Lucy Letby
+- NHS
+- The Guardian
+- Thirlwall Inquiry
 ---
 
 Lucy Letby inquiry report to be published after repeated delays

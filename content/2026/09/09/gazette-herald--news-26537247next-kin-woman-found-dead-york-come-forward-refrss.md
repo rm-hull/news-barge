@@ -14,6 +14,13 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- York
+people:
+- Haydn Lewis
+organisations:
+- Coroner’s Office
+- North Yorkshire Police
 ---
 
 *(Image: Haydn Lewis)*

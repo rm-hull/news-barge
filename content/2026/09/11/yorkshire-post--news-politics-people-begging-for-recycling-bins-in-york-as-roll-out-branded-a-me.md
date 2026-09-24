@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- '![York'
+- York
+people:
+- Coun Ayre
+- Coun Jenny Kent
+- Coun Kent
+- Coun Nigel Ayre
+- Ian Hoult
+organisations:
+- Labour
+- Liberal Democrat
+- York Council
 ---
 
 # People 'begging for recycling bins' in York as roll out branded 'a mess'

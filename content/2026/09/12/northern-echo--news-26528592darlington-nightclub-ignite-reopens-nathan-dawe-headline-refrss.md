@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Ignite
+- MonGay
+- Skinnergate
+- Spark
+people:
+- Flowers
+- Nathan Dawe
+organisations:
+- Darlington Market
+- Darlington R&B
+- Firkin
+- Ignite Nightclub
+- Institute Nightclub
+- Mardi Gras
+- The Keys
 ---
 
 A Darlington nightclub reopened with a packed launch weekend, fire performers and a headline DJ set.

@@ -13,6 +13,24 @@ image: https://static.independent.co.uk/2026/09/06/21/Tropical_Weather_Hawaii_19
 categories:
 - News & Politics
 - UK
+locations:
+- Baja California
+- Big Island
+- Hawaii
+- Honolulu
+- Kauai
+- Lihue
+- Mexico
+- Niihau
+- Southern California
+- U.S.
+people:
+- Lori Benkert
+- Lowell
+- Marie
+organisations:
+- Kauai Emergency Management Agency
+- National Hurricane Center
 ---
 
 Officials in Hawaii urged residents and visitors to prepare for heavy rains, flooding and possibly mudslides as Hurricane Lowell, a major Category 3 storm, prompted the National Hurricane Center to issue a tropical storm warning for two islands on Sunday.

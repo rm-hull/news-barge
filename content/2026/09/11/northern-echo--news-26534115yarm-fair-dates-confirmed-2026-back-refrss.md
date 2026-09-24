@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Covid
+- Darlington Binns
+- High Street
+- Miami
+- Yarm
+people:
+- John Coulson
+organisations:
+- Simon McCabe Photography
+- Stockton Council
+- The Showmen’s Guild
+- Yarm Town Council
 ---
 
 Thrill seekers have just weeks to wait until the annual Yarm Fair returns to town.

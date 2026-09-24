@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Abraham Lincoln
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Jordan
+- Middle East
+- Pattaya
+- South Korea
+- Tehran
+- Thailand
+- U.S.
+- US
+- United States
+- Wall Street
+- Washington
+- White House
+people:
+- '## Araghchi'
+- '## Trump'
+- Abbas Araghchi
+- Abraham Lincoln
+- Ayman Safadi
+- Donald Trump
+- JD Vance
+- Priya Sridhar
+organisations:
+- IRC
+- IRGC
+- Independent
+- International Criminal Court
+- International Red Cross
+- Iranian Red Crescent
+- Islamic Revolutionary Guard Corps
+- Marines
+- Pentagon
+- Red Crescent Movement
+- Reuters
+- SCUM
+- Shanghai Composite
+- The Wall Street Journal
+- Trump
+- Truth Social
+- USS
 ---
 
 JD Vance has faced backlash after appearing to dismiss reports that a US strike killed five people, including two children, at a wedding gathering in southern Iran.

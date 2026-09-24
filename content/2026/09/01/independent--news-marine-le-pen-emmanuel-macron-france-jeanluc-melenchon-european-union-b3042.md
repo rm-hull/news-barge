@@ -12,6 +12,38 @@ image: https://static.independent.co.uk/2026/09/01/10/France_Election_What_To_Kn
 categories:
 - News & Politics
 - UK
+locations:
+- China
+- France
+- Iran
+- Paris
+- Roland Garros
+- Russia
+- Ukraine
+people:
+- Bruno Retailleau
+- Donald Trump
+- Edouard Philippe
+- Emmanuel Macron
+- Gabriel Attal
+- Gilles Ivaldi
+- Jean-Luc Mélenchon
+- Jean-Marie Le Pen
+- Le Pen
+- Marine Le Pen
+- Marine Tondelier
+- Olivier Faure
+- Raphaël Glucksmann
+organisations:
+- EU
+- European Parliament
+- European Union
+- Le Pen
+- Le Pen-Mélenchon
+- Macron
+- NATO
+- Sciences Po
+- Socialist Party
 ---
 
 With the end of France's summer vacation season, the election campaign to replace Emmanuel Macron as president next May is bursting to life.

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- Gaza
+- Glasgow
+- Israel
+- UK
+people:
+- Anwar
+- Gordon McKee
+- Hassan
+- Ismail
+- Maryam
+- Mike Tapp
+organisations:
+- Glasgow South
+- Guardian
+- Hamas
+- Home Office
+- Labour
+- VAC
 ---
 
 A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to Britain.

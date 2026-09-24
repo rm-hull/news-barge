@@ -11,6 +11,25 @@ categories:
 - Science
 - Education & Learning
 image: https://media.wired.com/photos/6aa3bc8f991e3505961905d1/191:100/w_1280,c_limit/WIRED-MRCSS-AaronFernandez-01.png
+locations:
+- Dunning-Kruger
+- Microsoft Build
+- San Francisco
+- Silicon Valley
+- Startup-land
+people:
+- Brendan Eich
+- Cassidy Williams
+- Håkon Wium Lie
+- Jeremy Keith
+- Karlie Kloss
+- Netscape
+- Tim Berners-Lee
+organisations:
+- HTML
+- State of CSS
+- State of JavaScript
+- WIRED
 ---
 
 The first *S* in CSS stands for “style.” Think colors and fonts, borders and shadows, rows and columns, animations and transitions. CSS is the programming language that makes a website look pretty (or pretty ugly, often). It’s what makes this very webpage look like itself—look WIRED.

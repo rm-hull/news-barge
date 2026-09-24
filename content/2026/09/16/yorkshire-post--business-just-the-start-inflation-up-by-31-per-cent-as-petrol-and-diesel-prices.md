@@ -15,6 +15,24 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Middle East
+- UK
+people:
+- Grant Fitzner
+- Joe Giddens
+- John Healey
+- Martin Sartorius
+- Thomas Pugh
+organisations:
+- Bank of England
+- CBI
+- CPIH
+- Confederation of British Industry
+- Monetary Policy Committee
+- ONS
+- Office for National Statistics
+- RSM UK
 ---
 
 # 'Just the start': Inflation up by 3.1 per cent as petrol and diesel prices soar

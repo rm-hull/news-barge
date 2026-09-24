@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/aece55705f95ae54a84d9e97036afc15bcf48fca/225_0_2735_2188/master/2735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91fc0eceb4d3bb883e830b0ea573a162
+locations:
+- Bab al-Mandab
+- Gulf
+- Hormuz
+- Indian Ocean
+- Iran
+- Iraq
+- Israel
+- Manhattan
+- Middle East
+- New York
+- Oman
+- Red Sea
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Abbas Araghchi
+- Ayatollah Ali Khamenei
+- Donald Trump
+- Esmail Baghaei
+- Masoud Pezeshkian
+- Mohsen Rezaei
+- Steve Witkoff
+organisations:
+- UN
 ---
 
 Iran’s president, Masoud Pezeshkian, turned the tables on Donald Trump, describing the US as the true bully and terrorist in the Middle East while insisting that Iran had always shown a commitment to the negotiating table.

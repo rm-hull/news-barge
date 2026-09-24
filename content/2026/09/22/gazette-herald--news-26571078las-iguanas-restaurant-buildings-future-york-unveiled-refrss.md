@@ -13,6 +13,35 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21444500.jpg?type=og-image
+locations:
+- Back Swinegate
+- Cheadle
+- Finkle Street
+- Las Iguanas
+- Leeds
+- Liverpool
+- Manchester
+- UK
+- YORK
+- YOUR
+- York
+people:
+- Srini Sundaram
+- Suresh Raje Urs
+organisations:
+- '![]()York'
+- Back Swinegate
+- City of York Council
+- High Court
+- Indian Tiffin Room
+- Las Iguanas
+- Las Iguanas Holdings Ltd
+- Las Iguanas’
+- Newsquest
+- Public Notice Portal
+- The Big Table Group
+- The Press
+- York A
 ---
 
 ### What is the Public Notice Portal?

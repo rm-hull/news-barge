@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Silicon Valley
+- UK
+people:
+- Andy Burnham
+- Hannah Swirsky
+- Jess Phillips
+- Keir Starmer
+- Lisa Nandy
+- Lukasz Olejnik
+organisations:
+- Apple
+- CSAM
+- Google
+- House of Commons
+- IWF
+- Internet Watch Foundation
+- Kings College London
+- Labour
+- iOS
 ---
 
 Apple and Google will be forced to block explicit images on children’s smartphones by law in the UK after talks failed to produce a breakthrough, the government has said.

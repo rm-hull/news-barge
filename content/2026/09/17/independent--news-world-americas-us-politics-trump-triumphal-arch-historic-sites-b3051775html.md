@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Arlington National Cemetery
+- Lincoln Memorial
+- Memorial Circle
+- National Mall
+- Washington, D.C.
+- White House
+people:
+- Charles Birnbaum
+- Davis Ingle
+- Donald Trump
+- Doug Burgum
+- Karen Meredith
+- Paul Eaton
+organisations:
+- ABC News
+- Arlington National Cemetry
+- Cultural Landscape Foundation
+- Department of the Interior
+- Gold Star
+- Independent
+- Ipsos
+- NPS
+- National Park Service
+- The Washington Post
+- VoteVets
+- Washington Post
 ---
 
 National Park Service officials have acknowledged that President Donald Trump’s planned triumphal arch for Washington, D.C., will unavoidably harm historic sites in the capital but should proceed anyway.

@@ -10,6 +10,21 @@ image: https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-320-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- California
+- U.S.
+people:
+- Chey Tae-won
+- Donald Trump
+organisations:
+- Data Center
+- Get Tom's Hardware
+- Intel
+- Nashville Zoo
+- SK Group
+- SK hynix
+- Tech
+- Trump
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-320-80.jpg)

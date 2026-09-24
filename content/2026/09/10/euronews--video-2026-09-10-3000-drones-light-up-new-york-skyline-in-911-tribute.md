@@ -12,6 +12,11 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- New York
+- New York City
+people: []
+organisations: []
 ---
 
 Almost 3,000 drones light up the New York City skyline during a test for the 'Tribute in Light' installation, ahead of the 25th anniversary of the September 11 attacks. The drones fill the night sky with changing formations above the city.

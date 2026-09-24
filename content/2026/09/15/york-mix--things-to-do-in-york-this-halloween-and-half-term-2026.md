@@ -11,6 +11,60 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Born
+- Cave
+- Clifford Street
+- Coppergate Walk
+- Eden Camp
+- Elvington Lane
+- High Bridge
+- Knaresborough
+- Malton
+- Mother Shipton’s
+- Murton Lane
+- Murton Park
+- North Yorkshire
+- North Yorkshire Moors Railway
+- Pickering Station
+- Piglets Adventure Farm
+- SEA LIFE Scarborough Scalby Mills Road Scarborough
+- Towthorpe Grange
+- Towthorpe Moor Lane
+- Web Adventure Park
+- Wigginton Road
+- York Maze
+people:
+- Castle Howard
+- Dazzling Darren
+- Elphaba
+- Glinda
+- Kirby Misperton
+- Mad Alice
+- Mother Shipton
+- Stalk
+- York
+organisations:
+- 6RP
+- Aquarium
+- Ascarium
+- Eden Camp Modern History Museum
+- Flamingo Land
+- Fodder Barn
+- Hallowscream
+- House
+- King’s Manor Courtyard
+- Library Lawn
+- North Yorkshire Moors Railway
+- Prophecy Lodge
+- The Little York Ghost Hunt
+- The York Dungeon
+- YO17 6UX
+- YO18 7AJ
+- YO19 5UF
+- YO32 2RH
+- York Dungeon
+- York Museum Gardens
 ---
 
 Looking for things to do in York this Halloween and half term? We’ve got the guide for you.

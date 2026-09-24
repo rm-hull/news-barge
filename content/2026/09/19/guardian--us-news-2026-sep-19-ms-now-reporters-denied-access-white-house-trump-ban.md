@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/62507f6f9619466a0b29cdc7d76e79e34aaf8ee9/836_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d572b185659dad76a23fa8b68078a56e
+locations:
+- Gulf of America
+- Gulf of Mexico
+- US
+- Washington
+- West Wing
+- White House
+people:
+- Betsy Klein
+- Cheyenne Haslett
+- Donald Trump
+- Jim Acosta
+- Jonathan Greenberger
+organisations:
+- Associated Press
+- CNN
+- FAKE NEWS
+- MS Now
+- PEN America
+- Politico
+- Truth Social
+- US Secret Service
+- White House Correspondents’ Association
 ---
 
 Journalists from three US outlets were denied access to the White House grounds on Saturday morning a day after Donald Trump said he would ban them from the executive branch complex in a move that has prompted outrage and shock from free speech advocates.

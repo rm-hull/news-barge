@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Australia
+- Gogglebox
+- Scotland
+people:
+- '## Calum'
+- Dave
+- Giles
+- Gogglebox
+- Jake
+- Lois
+- Louis
+- Mary
+- Pete
+- Shirley
+- Sophie
+- Steve
+- Sue
+organisations:
+- Channel 4
+- Gogglebox
+- The Sun
 ---
 
 *(Image: Channel 4/PA)*

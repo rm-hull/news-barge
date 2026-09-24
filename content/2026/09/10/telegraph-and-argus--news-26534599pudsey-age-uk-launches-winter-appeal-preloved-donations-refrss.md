@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Church Lane
+- Leeds
+- Pudsey
+- UK
+people:
+- Kirsty Woods
+organisations:
+- Age UK
+- Age UK Pudsey
+- Google Street View
+- Telephone Friendship Service
+- The Silver Line Helpline
 ---
 
 *(Image: Google Street View)*

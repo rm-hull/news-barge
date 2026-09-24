@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Britain
+- China
+- Europe
+- UK
+- US
+people:
+- David Bailey
+- Matthias Schmidt
+- PJ Balaji
+organisations:
+- Audi
+- BBC
+- BMW
+- BYD
+- Birmingham Business School
+- Chery
+- JLR
+- Jaecoo
+- Jaguar Land Rover
+- Land Rover
+- Mercedes Benz
+- Stellantis
+- Volkswagen Group
 ---
 
 ![A line of Range Rovers](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2bb7/live/3ca652b0-aabd-11f1-b960-379ca4827622.jpg)

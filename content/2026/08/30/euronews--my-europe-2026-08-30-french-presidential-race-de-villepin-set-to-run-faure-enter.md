@@ -13,6 +13,32 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- France
+- Mayotte
+- Tourcoing
+people:
+- Dominique de Villepin
+- Emmanuel Macron
+- Gabriel Attal
+- Gérald Darmanin
+- Jacques Chirac
+- Jean-Luc Mélenchon
+- Marine Le Pen
+- Olivier Faure
+- Raphaël Glucksmann
+- Édouard Philippe
+organisations:
+- BFM TV
+- France Inter
+- Horizons
+- LFI
+- La France Humaniste
+- Le Figaro
+- PS
+- Populaires
+- Socialist Party
+- TF1
 ---
 
 ## With just under eight months to go until the French presidential election, political manoeuvring is in full swing. Several candidates or would-be candidates spoke out this Sunday.

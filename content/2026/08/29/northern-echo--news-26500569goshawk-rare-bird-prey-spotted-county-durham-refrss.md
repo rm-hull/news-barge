@@ -14,6 +14,29 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Britain
+- CAMERA CLUB
+- County Durham
+- Goshawk
+- Goshawks
+- North East
+- Northern England
+- Pennines
+- Scotland
+- Spennymoor
+- TINA TAYLOR
+- UK
+- Wales
+- Weardale
+people:
+- Tina Taylor
+organisations:
+- Birds of Conservation Concern
+- British Trust for Ornithology
+- Northern Echo Camera Club
+- RSPB
+- Wildlife Trusts
 ---
 
 *(Image: TINA TAYLOR/CAMERA CLUB)*

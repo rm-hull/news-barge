@@ -12,6 +12,85 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- America
+- Australia
+- BRITAIN
+- Britain
+- China
+- Dagenham
+- Dangenham
+- Derbyshire
+- Dresden
+- Europe
+- Germany
+- London
+- Manchester
+- Merseyside
+- Osnabruck
+- Oxfordshire
+- Poland
+- Russia
+- Spain
+- Sunderland
+- UK
+- US
+- West Midlands
+- Zwickau
+people:
+- Dave Roberts
+- Emma Barnett
+- John Simpson
+- Leapmotor
+- Lisa Brankin
+- Mike Hawes
+- Oliver Blume
+- Ricardo
+- Richard Parker
+- Sigrid de Vries
+organisations:
+- ACEA
+- Allied
+- Armament
+- BBC
+- BMW
+- BYD
+- British Army
+- Chery International UK
+- Citroen
+- Confederation of British Metalforming
+- EU
+- EVs
+- European Defence Agency
+- Evtec
+- Fiat
+- Ford UK
+- Geely
+- General Dynamics
+- General Motors
+- JLR
+- Jaguar Land Rover
+- LMV
+- Land Rover
+- Leapmotor
+- Light Mobility Vehicle
+- Memorandum of Understanding
+- Mercedes
+- Merlin
+- Ministry of Defence
+- MoD
+- Nissan
+- Peugeot
+- Renault
+- SMMT
+- Society for Motor Manufacturers and Traders
+- Spitfires
+- Stellantis
+- Thales
+- Toyota
+- VW
+- Vauxhall
+- Volkswagen
 ---
 
 **It's green, bulging and intimidating. Ford's latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford's Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.**

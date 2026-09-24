@@ -15,6 +15,20 @@ categories:
 - Society & Culture
 - Family & Parenting
 - Music
+locations:
+- Nashville
+- Saltburn
+- Tennessee.
+- USA
+people:
+- Dennis Richards
+- Dolly Parton
+- Jolene
+- Terry Wyatt
+organisations:
+- Imagination Library
+- Meta
+- NADV
 ---
 
 # OPINION: Dolly’s childhood in poverty inspired scheme that helped millions of our children

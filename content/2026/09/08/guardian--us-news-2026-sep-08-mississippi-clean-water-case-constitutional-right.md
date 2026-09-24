@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Society & Culture
 - Law & Justice
+locations:
+- Jackson
+- Mississippi
+- The City
+- US
+people:
+- Jackson
+- John Horhn
+organisations:
+- Constitution
+- Cornell University
+- EPA
+- Environmental Protection Agency
+- NAACP
+- State of Mississippi
 ---
 
 A US appellate court has decided that the federal constitution does not guarantee a right to clean water.

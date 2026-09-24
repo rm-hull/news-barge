@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Hull
+- Sunseeker
+- UK
+people:
+- Dad
+- Evans
+- Frazer Ulrick
+- PC Tom Clough
+organisations:
+- Accell Group
+- Aldi, M&S
+- Ascend Airways
+- Beefeater
+- Bodycare
+- British Heart Foundation
+- Claire's
+- EcoJet Airlines
+- European Cargo
+- House
+- InPost
+- LK Bennett
+- Leading Labels
+- Morrisons
+- Quiz
+- Raleigh
+- Sunseeker Holiday Homes
+- Superdrug
+- TG Jones
+- The Gazette
+- Wayfairer Travel Limited
+- Westgates Restructuring Limited
+- Whitbread
+- Yodel
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

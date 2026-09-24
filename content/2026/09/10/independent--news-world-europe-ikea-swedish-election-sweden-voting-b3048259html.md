@@ -14,6 +14,30 @@ categories:
 - UK
 - Society & Culture
 - Technology & Software
+locations:
+- Adelaide
+- Auckland
+- Australia
+- Bangalore
+- Brisbane
+- Hyderabad
+- India
+- London
+- New Zealand
+- Norway
+- Philadelphia
+- Sweden
+- Taipei
+- Älmhult
+people: []
+organisations:
+- ABBA
+- American Swedish Historical Museum
+- Business Sweden
+- Democratic Design
+- IKEA New Zealand
+- Swedish Election Authority
+- Swedish School
 ---
 
 For most Australians and New Zealanders, IKEA is where you go for a BILLY bookcase, Swedish meatballs and a trolley full of purchases you never intended to make.

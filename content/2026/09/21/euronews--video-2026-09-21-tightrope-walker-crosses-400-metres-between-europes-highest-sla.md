@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/07/68/1200x675_cmsv2_2e95924b-b8ce-5767-8590-00793593b85d-9920768.jpg
+locations:
+- Europe
+- France
+- Loos-en-Gohelle
+people:
+- Les Corons
+- Pierre Bachelet
+- Tatiana-Mosio Bongonga
+organisations: []
 ---
 
 Tightrope walker Tatiana-Mosio Bongonga crossed 400 metres of wire between two of Europe’s highest slag heaps in Loos-en-Gohelle, northern France.

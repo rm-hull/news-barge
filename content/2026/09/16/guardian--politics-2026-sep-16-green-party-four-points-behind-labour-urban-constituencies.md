@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/7d38fe0863cd23a6491b3b600f2ec16f213c0cc3/6
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- England
+- Holborn
+- St Pancras
+- UK
+- Wales
+people:
+- Alison Phillips
+- Andy Burnham
+- Christabel Cooper
+- Denton
+- Gorton
+- Green
+- Keir Starmer
+- Nigel Farage
+- Shabana Mahmood
+- Zack Polanski
+organisations:
+- Green
+- Greens
+- Labour
+- Reform UK
+- ThinkLabour
 ---
 
 The Greens are just four points behind Labour in urban constituencies across the UK, putting them within touching distance of taking as many as 40 seats if the result was replicated at the next election, according to new polling by a Labour-linked thinktank.

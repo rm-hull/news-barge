@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/07/18/download..?trim=1,0,1,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- California
+- Carolinas
+- Charleston
+- Georgia
+- Iowa
+- Nevada
+- New Hampshire
+- South Carolina
+- Texas
+- United States
+- White House
+people:
+- Abraham Lincoln
+- Christale Spain
+- Donald Trump
+- Gavin Newscum
+- Gavin Newsom
+- Jon Ossoff
+- Pete Hegseth
+- Raphael Warnock
+organisations:
+- CNN
+- Cabinet
+- Defense
+- Governor Newsom Press Office
+- Senate
+- Trump
 ---
 
 California Governor Gavin Newsom has finally confirmed that he’s considering a White House run in 2028 after more than a year of stoking speculation.

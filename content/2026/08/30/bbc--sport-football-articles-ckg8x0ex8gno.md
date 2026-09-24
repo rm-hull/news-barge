@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- A66
+- Manchester United
+- Middlesbrough
+- Old Trafford
+- Riverside Stadium
+- Teesside
+people:
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- FC Hartlepool
+- Ipswich
+- Manchester United
+- Middlesbrough
+- PC Blades
+- Seaton Carew FC
+- West Brom
 ---
 
 ![Manchester United](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f752/live/0afb3210-a466-11f1-a291-b542ee92de7c.jpg)

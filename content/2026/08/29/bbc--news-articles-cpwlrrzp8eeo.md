@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Family & Parenting
 - Arts & Culture
+locations:
+- Alabama
+- Australia
+- Canada
+- Colorado
+- Denver
+- Dublin
+- Ireland
+- London
+- Manitoba
+- Sevier County
+- Sydney
+- Tennessee
+- UK
+- US
+people:
+- Ciara Fernandez Faber
+- Daddy
+- Dolly Parton
+- Eillie Elaine
+- Fernandez Faber
+- Geoff Blacklin
+- Harriet Anscombe
+- Helen Cashell
+- Kristina Hadley
+- Maya
+- Ms Dolly
+- Paige Stewart
+- Selina Brown
+organisations:
+- Aster
+- Imagination Library
 ---
 
 ![Dolly Parton sits holding a purple children's book with her pink fingernails, wearing a bright yellow suit and matching chunky jewelry against a childlike backdrop with stars and a googly-eyed pillow](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg)

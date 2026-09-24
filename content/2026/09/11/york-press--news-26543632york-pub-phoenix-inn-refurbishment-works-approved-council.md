@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - History
+locations:
+- Fishergate Bar
+- George Street
+- YOUR
+- York
+people:
+- Mark Rogers
+organisations:
+- Norton Joinery Ltd
+- Phoenix Inn
+- Public Notice Portal
+- The Labour In Vain
+- The Phoenix Inn
+- The Phoenix Iron Foundry
+- York Council
 ---
 
 *(Image: LDRS)*

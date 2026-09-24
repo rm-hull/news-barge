@@ -13,6 +13,31 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21355114.jpg?type=og-image&xType=0&yType=244
+locations:
+- Barcelona
+- GoHen
+- Prague
+- Split
+- StagWeb
+- UK
+people:
+- '## Groupia'
+- Jay Broughton
+organisations:
+- Ascend Airways
+- Brits
+- EcoJet Airlines
+- European Cargo
+- Funktion Leisure
+- Funktion Leisure Ltd
+- GoHen
+- Groupia Golf
+- Groupia Ltd
+- Groupia School Trips
+- NHS
+- StagWeb
+- Wayfairer Travel Limited
+- Zenith Aviation Limited
 ---
 
 *(Image: Getty Images)*

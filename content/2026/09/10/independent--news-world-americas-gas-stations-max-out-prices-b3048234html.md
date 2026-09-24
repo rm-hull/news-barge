@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- California
+- Fenner
+- GasBuddy
+- Iran
+- Israel
+- Los Angeles
+- San Bernardino
+- Strait of Hormuz
+- U.S.
+people:
+- De Haan
+- Donald Trump
+- Patrick De Haan
+organisations:
+- CBS 12 News
+- Chevron
+- Department of Energy
+- GasBuddy
+- Strategic Petroleum Reserve
+- Trump
+- Truth Social
+- U.S. Energy Information Administration
 ---
 
 Diesel prices in California are so high that some gas stations can't show the correct price on their pumps.

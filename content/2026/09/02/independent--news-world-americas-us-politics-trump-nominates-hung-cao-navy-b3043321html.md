@@ -12,6 +12,44 @@ image: https://static.independent.co.uk/2026/09/02/10/2168604021..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Afghanistan
+- Arizona
+- Connecticut
+- Florida
+- Iran
+- Iraq
+- Martha’s Vineyard
+- U.S.
+- Vietnam
+- Virginia
+people:
+- Abraham Lincoln
+- Biden
+- Carolyn Bessette
+- Dan Driscoll
+- Donald Trump
+- Hung Cao
+- John F. Kennedy Jr
+- John Phelan
+- Lauren Bessette
+- Pete Hegseth
+- Richard Blumenthal
+- Ruben Gallego
+- Tim Kaine
+organisations:
+- ASAP
+- Army
+- Blue Angels
+- DEI
+- Defense
+- House
+- Navy and Marine Corps
+- Pentagon
+- SEAL
+- Senate
+- The Associated Press
+- Trump
 ---
 
 President Donald Trump announced Tuesday he is nominating acting Navy Secretary Hung Cao for the permanent position, giving the combat veteran the nod as concerns grow that sailors are being stretched to the limit during the Iran war.

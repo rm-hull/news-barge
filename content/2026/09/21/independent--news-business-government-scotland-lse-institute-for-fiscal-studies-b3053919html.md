@@ -12,6 +12,19 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/00/a550cbdcccb2e11d82c2f4d1453fe18cY29udGVudHNlYXJjaGFwaSwxNzkwMDc2NTc5-2.17973666.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Scotland
+- UK
+people:
+- Bobbie Upton
+- Mark Franks
+organisations:
+- Government
+- IFS
+- Institute for Fiscal Studies
+- LSE
+- Nuffield Foundation
 ---
 
 Household electricity bills could fall if the Government promoted the take-up of time-varying prices, according to a report.

@@ -11,6 +11,80 @@ categories:
 - York
 - Society & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/carla-finney-and-frederick-finney-cyc-court.webp
+locations:
+- Allen Court
+- Apple Tree Road
+- Bickerton
+- Birch Close
+- Birtley
+- Chaucer Road
+- Darlington
+- Darnton Drive
+- Durham
+- Gainford
+- Gateshead
+- Guisborough
+- HMP Dovegate
+- HMP Holme House
+- HMP Northumberland
+- Hebron Road
+- Hessle
+- Hillfield Close
+- Holme House Prison
+- Humberside
+- Kingsbury Mews
+- Leeds
+- New Marske
+- Normanby
+- North East
+- North Lincolnshire
+- North Yorkshire
+- Richmond Road
+- Scunthorpe
+- Seacroft
+- Seamer
+- Sewerby Crescent
+- Sheffield
+- South Parkway
+- Stokesley
+- Tadcaster
+- Teesside Crown Court
+- West Yorkshire
+- York Road
+people:
+- Allan Smith
+- Andrew Carty
+- Ben Ware
+- Carla Finney
+- Charlie Farrow
+- Chelsea Bayliss
+- Christopher Morley
+- Daniel Moody
+- Frederick Finney
+- Isaac Farrow
+- James Hope
+- Jenny Kent
+- Lord Bichard
+- Michael Mather
+- Michael Olssen
+- Nicole O’Brien
+- Ryan Watson
+- Serena Robertson
+- Shane Farrow
+- Shannon Finney
+- Sonja Edgar
+- Thomas Winter
+- Tyler McBride
+- Walter Farrow
+organisations:
+- Citizens Advice
+- City of York
+- City of York Council
+- Middlesbrough
+- National Trading Standards
+- National Trading Standards Yorkshire and Humber Regional Investigation Team
+- National Trading Standards team
+- Trading Standards
 ---
 
 Members of rogue builders gang which targeted multiple victims – including a widow in her 70s – have been sentenced.

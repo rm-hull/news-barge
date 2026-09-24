@@ -12,6 +12,16 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/21/04/Bolivia_New_Cat_Species_89578.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bolivia
+- La Paz
+- Senda Verde Wildlife Sanctuary
+people:
+- Marcelo Levy
+- Tigrino
+organisations:
+- Current Biology
+- The Associated Press
 ---
 
 A tiny wild cat hidden away in the cloud forests of Bolivia has become an unlikely tourist attraction, drawing a stream of visitors hoping for a glimpse of the animal that scientists have identified as a brand new species.

@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- Count Binface
+- Holborn
+- Manchester
+- Nepal
+- Rome
+- St Pancras
+- UK
+- Ukraine
+- Westminster
+people:
+- Andy
+- Burnham
+- Donald Trump
+- Giorgia Meloni
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+- Margaret Thatcher
+- Rishi Sunak
+- Theresa May
+- Tony Blair
+- Zack Polanski
+organisations:
+- Board of Peace
+- Commons
+- Greens
+- Labour
+- Reform
+- Tory
 ---
 
 No good deed goes unpunished. Or any deed for that matter. It was only a few weeks ago that Keir Starmer was insisting he would remain an MP until the next general election. So we should all probably have guessed that he would be off at the earliest opportunity. U-turns were a distinguishing feature of his two years in office.

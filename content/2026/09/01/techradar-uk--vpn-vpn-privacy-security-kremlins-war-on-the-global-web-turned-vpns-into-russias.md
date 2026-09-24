@@ -11,6 +11,20 @@ description: RKS Global found that new forms of cooperation in the use of VPNs a
 image: https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Russia
+people:
+- Manzay Banzaev
+- Silvia Iacovcich
+organisations:
+- Amnezia VPN
+- CensorshipAnalyzing
+- Google News
+- No Trace
+- RKS Global
+- Silvia Iacovcich
+- TechRadar
+- VPNs
 ---
 
 ![Russia flag on the left, VPN icon on smarthpne on the right](https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf.png) 

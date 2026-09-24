@@ -14,6 +14,37 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford District
+- Cons
+- Gipton
+- Harehills
+- Harrogate
+- Ilkley
+- Leeds
+- Pudsey
+- Skipton
+- West Yorkshire
+- Westgate Gyratory
+people:
+- Cllr Cohn
+- Ian Eglin
+- Ralph Cohn
+- Salma Arif
+- Simon Pope
+- Tong
+- Tracy Brabin
+organisations:
+- '## Leeds'
+- Airedale
+- Baildon
+- Bradford Council
+- Labour
+- Leeds City Council
+- Reform
+- Transport Capital Programme
+- WYCA
+- West Yorkshire Combined Authority’s Investment Committee
 ---
 
 RECENT roadworks in Leeds have done a “hell of a lot of damage” to the city centre and are encouraging Bradford residents to shop elsewhere – a local councillor has claimed.

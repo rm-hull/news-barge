@@ -14,6 +14,13 @@ categories:
 - York
 - Automotive
 - Travel
+locations:
+- Burton Pidsea
+- East Yorkshire
+- Fieldend Lane
+people: []
+organisations:
+- Suzuki
 ---
 
 # Motorcyclist, 38, dies in crash on country road in Yorkshire

@@ -13,6 +13,26 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Central Asia
+- India
+- India-Uzbekistan
+- New Delhi
+- Tashkent
+- Uzbekistan
+people:
+- Mirziyoyev
+- Narendra Modi
+organisations:
+- Dustlik
+- Intergovernmental Commission
+- International Atomic Energy Agency
+- Ministry of External Affairs
+- NPCI International Payments Limited
+- National Interbank Processing Centre
+- Shanghai Cooperation Organisation
+- UN Security Council
+- Yoga Federation of Uzbekistan
 ---
 
 ## The two governments also broadened cooperation on critical minerals, defence, digital payments and transport. A new foreign minister-level mechanism will oversee implementation, alongside expanded education and regional links.

@@ -13,6 +13,29 @@ categories:
 - Hardware
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg
+locations:
+- Grand Senora Desert
+- Liberty City
+people:
+- Brucie Kibbutz
+- Franklin
+- Jowi Morales
+- Tom
+- Trevor
+organisations:
+- CodeWalker
+- GTA IV
+- GTA Online
+- GTA V
+- GTA VI
+- Google Maps Street View
+- Google News
+- Jowi Morales
+- Liberty City DLC
+- Option A
+- PC
+- Rockstar
+- TJGM
 ---
 
 ![GTA V physical disc in PlayStation 5 console](https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3.jpg)

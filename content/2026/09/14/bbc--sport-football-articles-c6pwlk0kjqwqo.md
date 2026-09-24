@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Manchester
+- Old Trafford
+people:
+- Blake Antrobus
+- Enzo Fernandez
+- Erling Haaland
+- Howard Webb
+- Josko Gvardiol
+- Matt Donohue
+- Patrick Dorgu
+- Phil Foden
+- Pro Ref
+- Rooney
+organisations:
+- Manchester City
+- Manchester United
+- Premier League
+- Pro Ref
+- VAR
 ---
 
 ![Manchester City striker Erling Haaland scores for his side as team-mate Enzo Fernandez watches on after failing to make contact with a diving header](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg)

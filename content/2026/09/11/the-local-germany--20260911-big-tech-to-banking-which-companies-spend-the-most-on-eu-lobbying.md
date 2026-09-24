@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brussels
+- Europe
+- US
+people:
+- Donald Trump
+- Ursula von der Leyen
+organisations:
+- AFME
+- Amazon
+- Apple
+- Association for Financial Markets in Europe
+- Big Tech
+- Corporate Europe Observatory
+- Detergents Europe
+- EU
+- European Chemical Industry Council
+- European Commission
+- European Horse Network
+- European Potato Trade Association
+- European Snacks Association
+- Facebook
+- LobbyControl
+- Meta
 ---
 
 The biggest spenders on EU lobbying are the digital, banking and energy sectors, according to civil society groups.

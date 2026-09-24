@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Brackenfield
+- Harrogate
+people:
+- Brackenfield
+- Joe Masterson
+- John Forsyth
+- Phil Soutar
+organisations:
+- Ashville College
+- Brackenfield School
+- Executive Council of the Independent Schools Association
+- Forfar Education
+- Head of Prep
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c5bd32730c251b7.jpg) 

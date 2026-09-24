@@ -12,6 +12,32 @@ image: https://cdn.mos.cms.futurecdn.net/se6fTzroxacRkSU3yc5pjA-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Berlin
+- IFA
+people:
+- Belkin
+- Harry Padoan
+- Tom Bedford
+organisations:
+- ANC
+- Android Police
+- Anker's Soundcore
+- Apple
+- BGR
+- Belkin
+- Bose
+- Digital Trends
+- GamesRadar
+- Google News
+- IFA
+- Isolate
+- Sony
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
+- non-ANC
 ---
 
 ![Belkin earbuds in orange held in a hand, with white and black options behind it, at IFA](https://cdn.mos.cms.futurecdn.net/se6fTzroxacRkSU3yc5pjA.jpg) 

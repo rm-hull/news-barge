@@ -13,6 +13,33 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Beverley
+- Helmsley
+- King of the Mountains
+- Leyburn
+- North Yorkshire
+people:
+- Filippo Ganna
+- Keeper’s Hill
+- Lewis Askey
+- Mark Cavendish
+- Michal Schuran
+- Olav Kooij
+- Tim Merlier
+- Tim Wellens
+- Yorben Lauryssen
+organisations:
+- CMA CGM Team
+- Isorex
+- Lloyds Tour of Britain
+- NSN Cycling Team
+- Netcompany INEOS
+- Tarteletto
+- Team United Shipping
+- UAE Team Emirates
+- XRG
+- Yorkshire Wolds
 ---
 
 Dutch sprinter Olav Kooij powered to victory in a dramatic sprint finish on stage three of The Lloyds Tour of Britain Men across the Yorkshire Wolds.

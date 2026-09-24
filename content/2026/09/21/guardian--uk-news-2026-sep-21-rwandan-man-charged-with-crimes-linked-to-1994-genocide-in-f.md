@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/f53d383f45b5128a8e26c95165d9089ab6ccb81a/55_1052_2802_2240/master/2802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dbcfef0a7a4ee54ccde00fd37641d1b
+locations:
+- Islington
+- Kigali
+- London
+- Metropolitan
+- Rugenge
+- Rwanda
+- UK
+- Westminster
+people:
+- Frank Ferguson
+- Helen Flanagan
+- Vincent Bajinya
+- Vincent Brown
+organisations:
+- CPS
+- Crown Prosecution Service
 ---
 
 A man has been charged with crimes linked to the genocide in Rwanda in 1994 in the first case of its kind to be brought in the UK.

@@ -14,6 +14,45 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Byker Grove
+- Consett
+- Coronation Street
+- County Durham
+- Ebchester
+- London
+- Newcastle
+- North East
+- Spender
+- Tynemouth
+- Waterloo Road
+people:
+- Denise Welch
+- Finian
+- Forever Home
+- Geordie Coppers
+- Graham Norton
+- Helen Williams
+- Kirstie Macdonald
+- Louis Healy
+- Matty Healy
+- Moira Crottie
+- Nick Mohammed
+- Ted Lasso
+- Will Nicholson
+organisations:
+- Apple TV
+- Blackfyne Grammar School
+- Channel 5
+- County Durham
+- ITV
+- Live Theatre
+- Loose Women
+- Mountview Academy of Theatre Arts
+- Soldier Soldier
+- TV Guide
+- The 1975
+- Welch
 ---
 
 Denise Welch was left "in floods of tears" after a health scare threatened her role in a new TV thriller filmed near the County Durham village where she grew up.

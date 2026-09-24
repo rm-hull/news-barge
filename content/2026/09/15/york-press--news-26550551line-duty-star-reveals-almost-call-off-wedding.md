@@ -12,6 +12,43 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- BBC
+- Leeds
+- London
+- Old Marylebone Town Hall
+- Paddington
+- Sicily
+people:
+- Adrian Dunbar
+- Amy Leigh
+- Cottan
+- Craig Parkinson
+- DC Nira Rashid
+- DI Dominic Gough
+- DI Kate Flemming
+- DI Steve Arnott
+- Jeremy Clarkson
+- Katie Popperwell
+- Kenny Doughty
+- Laura Aikman
+- Levi Brown
+- Luke Tobin
+- Martin Compston
+- Matthew 'Dot
+- Paula Beckman
+- Robert Carlyle
+- Shaun Massie
+- Ted Hastings
+- Tom Weston-Jones
+- Vicky McClure
+organisations:
+- BBC
+- Clipstone Restaurant
+- Coronation Street
+- EastEnders
+- Instagram
+- Line of Duty
 ---
 
 *(Image: BBC/YouTube)*

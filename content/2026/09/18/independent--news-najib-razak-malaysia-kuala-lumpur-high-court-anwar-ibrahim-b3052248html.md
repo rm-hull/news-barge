@@ -12,6 +12,25 @@ image: https://static.independent.co.uk/2026/09/18/05/Malaysia_Corruption_Clemen
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Hollywood
+- Malaysia
+- U.S.
+people:
+- Anwar Ibrahim
+- Najib Razak
+- Sultan Abdullah Ahmad Shah
+- Sultan Ibrahim Iskandar
+organisations:
+- 1MDB
+- 1Malaysia Development Berhad
+- High Court
+- House
+- Legal Affairs Department
+- Pardons Board
+- SRC International
+- United Malays National Organization
 ---
 
 Malaysia’s king on Friday granted jailed former Prime Minister Najib Razak a rare royal clemency, allowing him to serve the remainder of his prison term for graft under house arrest.

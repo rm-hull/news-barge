@@ -13,6 +13,11 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21477884.jpg?type=og-image
+locations: []
+people:
+- John Whiteley-Wilkinson
+organisations:
+- Acorn Environment Services
 ---
 
 Fruit flies can be incredibly hard to get rid of from your home no matter how much you clean.

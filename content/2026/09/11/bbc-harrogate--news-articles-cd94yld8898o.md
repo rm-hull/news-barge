@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- UK
+- Yorkshire
+people:
+- Glenn Bradley
+- Owen McTeggart
+organisations:
+- CAA
+- Owen McTeggart
+- UK Civil Aviation Authority
+- Yorkshire Air Ambulance
 ---
 
 ![Owen McTeggart stands in front of a bright yellow air ambulance helicopter which is on a helipad by a field. He wears a navy pilot uniform.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4684/live/69d838d0-ad46-11f1-ae59-91d2b63bf2a3.jpg)

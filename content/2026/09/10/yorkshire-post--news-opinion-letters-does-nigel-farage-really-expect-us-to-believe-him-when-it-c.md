@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- South Brent
+people:
+- Dan Jukes
+- James Orr
+- Nigel Farage
+- Peter Scott
+organisations:
+- Reform UK
+- Reform UK National Conference
+- Yorkshire Post Letters
 ---
 
 # Does Nigel Farage really expect us to believe him when it comes to Reform donations? - Yorkshire Post Letters

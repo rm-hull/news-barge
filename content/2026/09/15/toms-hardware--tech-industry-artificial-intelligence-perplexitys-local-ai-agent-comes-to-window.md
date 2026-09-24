@@ -12,6 +12,35 @@ image: https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR-1280-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Berlin
+people:
+- Aravind Srinivas
+- Shane Downing
+organisations:
+- 24GB
+- Acer
+- DGX Station
+- Get Tom's Hardware
+- GitHub
+- Gmail
+- Google Drive
+- Hermes Agent
+- IFA
+- Lenovo
+- Local AI
+- MCP
+- Microsoft Word
+- NVIDIA
+- Nvidia
+- OpenClaw
+- Perplexity Computer
+- Portable Computer
+- Qwen
+- Shane Downing
+- Slack
+- Tom’s Hardware US
+- nvidia
 ---
 
 ![Perplexity and Nvidia logos side by side on a dark background from Nvidia's Local AI blog](https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR.jpg) 

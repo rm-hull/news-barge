@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Britain
+- Ohio
+- Oregon
+- UK
+- US
+- Whitehall
+people:
+- Ron Wyden
+- Warren Davidson
+organisations:
+- Apple
+- Article I
+- First Branch
+- Guardian
+- Home Office
+- IPT
+- US Congress
+- US Constitution
 ---
 
 A bipartisan pair of American politicians is telling Britain’s most secretive court to stop hiding its handling of Apple’s legal fight against a government demand to break into its customers’ encrypted data, warning that Whitehall’s taste for secrecy is “needlessly” straining relations between the two allies.

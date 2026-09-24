@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Almudaina Palace
+- Ceuta
+- Europe
+- Israel
+- Madrid
+- Melilla
+- Morocco
+- North Africa
+- Palma de Mallorca
+- Rabat
+- Russia
+- Spain
+- Spain.
+- Trampolin Beach
+people:
+- Arantxa Campos
+- Borja Sémper
+- Carlos Cuerpo
+- Felipe VI
+- Gideon Sa'ar
+- Juan Carlos
+- Juan Jesús Vivas
+- Pedro Sanchez
+- Pedro Sánchez
+- Silvia Rojas
+organisations:
+- BBC
+- Cadena Ser
+- Ceuta Employers' Confederation
+- Efe
+- El País
+- Maldita
+- PP
+- People's Party
+- Spanish Society of Epidemiology
+- Supreme Court
+- Vox
 ---
 
 ![A migrant living on Trampolin Beach, on 31 August, 2026 in Ceuta, Spain.](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg)

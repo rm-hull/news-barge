@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Pets & Animals
 - Family & Parenting
+locations:
+- Cleveland
+- County Durham
+- Darlington
+- Grangetown
+- Halton
+- Leighton Road
+- Middlesbrough
+- Teesside Magistrates’ Court
+- Warrington
+people:
+- Derek Lane
+- Irene Pallent
+- Jack Russell
+- Natalie Hill
+- Rosa
+- Rosy
+- Sadie
+- Stuart Pallent
+- Susie
+organisations:
+- RSPCA
+- St Helens
+- Warrington
 ---
 
 *(Image: RSPCA)*

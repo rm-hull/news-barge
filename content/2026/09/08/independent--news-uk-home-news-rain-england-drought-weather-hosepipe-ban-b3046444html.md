@@ -12,6 +12,48 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Affinity Water
+- Anglian Water
+- Bedfordshire
+- Berkshire
+- Bournemouth
+- Bristol Water
+- Buckinghamshire
+- Cambridge Water
+- Central and East
+- Cornwall
+- Devon
+- East Anglia
+- East Midlands
+- England
+- Essex
+- Hampshire
+- Hartlepool
+- Hertfordshire
+- Isle of Wight
+- Isles of Scilly
+- Kent
+- Lincolnshire
+- North London
+- Northamptonshire
+- Solent
+- South Downs
+- South East
+- South East Water
+- South London
+- South West Water
+- Southern Water
+- Suffolk Water
+- Surrey
+- Thames Water
+- Wessex Water
+- West Midlands
+people: []
+organisations:
+- EA
+- Environment Agency
+- Environment Agency Area
 ---
 
 After a summer of record-breaking heatwaves and extreme dry conditions, rain is falling on England again.

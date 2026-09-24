@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Newborough In The Town Centre Of Scarborough
+- North Yorkshire
+people: []
+organisations:
+- CCTV
+- Google Maps
+- Newborough
+- North Yorkshire Council
+- Scarborough Town Council
 ---
 
 ## Shop with 7am alcohol licence gets approval for changes

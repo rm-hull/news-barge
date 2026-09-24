@@ -14,6 +14,42 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Australia
+- China
+- Hong Kong
+- Japan
+- Middle East
+- OpenAI
+- Persian Gulf
+- Red Sea
+- Saudi Arabia
+- South Korea
+- Strait of Hormuz
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Dario Amodei
+- Elon Musk
+- Ng Jing Wen
+- Sam Altman
+- Stan Choe
+- Yuri Kageyama
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Fortune
+- Kospi
+- Mizuho Bank
+- Nvidia
+- OpenAI
+- Shanghai Composite
+- Softbank Group
+- SpaceX
+- The Associated Press
+- Treasury
 ---
 
 Asian shares were trading mixed early Tuesday, after a rtificial-intelligence stocks slid overnight.

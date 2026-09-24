@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - News & Politics
 - True Crime
+locations:
+- Boroughbridge
+- Knaresborough
+- Minskip
+- Skipton
+people:
+- Ethan Anderson
+organisations:
+- Crimestoppers
+- North Yorkshire Police
+- Ripon
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa159276ceff211ac9.jpg) 

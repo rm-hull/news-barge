@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '***Church Lane Surgery'
+- Boroughbridge
+- Easingwold
+- Helperby
+- Main Street
+people:
+- Nigel Denison
+organisations:
+- BBC
+- Brafferton
+- Church Lane Surgery
+- Helperby Parish Council
 ---
 
 The GP surgery on Main Street in Helperby, near Easingwold, has closed for a month.

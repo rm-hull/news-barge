@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Blanchland
+- Consett
+- County Durham
+- Diocese of Newcastle
+- Durham Dales
+- Durham Dales St James'
+- Grade II
+- Historic County Durham
+- Historic England
+- Hunstanworth Conservation Area
+- North Pennines
+- North Yorkshire
+- Spennymoor
+- St James'
+- St James' Church
+- St James' Church St James' Church
+- The Darlington
+people:
+- Samuel Sanders Teulon
+organisations:
+- Alice in Wonderland
 ---
 
 *(Image: GOOGLE)*

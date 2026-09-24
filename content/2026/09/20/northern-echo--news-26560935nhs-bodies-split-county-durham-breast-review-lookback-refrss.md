@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21203404.jpg?type=og-image
+locations:
+- County Durham
+- Durham City
+- North Durham
+- North East
+people: []
+organisations:
+- '![]()County Durham'
+- '![]()Darlington Memorial Hospital'
+- '![]()University Hospital'
+- CRG
+- Chris Booth
+- Clinical Reference Group
+- Collective Leadership Team
+- Darlington NHS Foundation Trust
+- Darlington NHS Trust
+- ICB
+- NORTHERN ECHO
+- North Cumbria Integrated Care Board
+- North East and North Cumbria Integrated Care Board
+- Trust's Quality Committee
 ---
 
 Senior NHS organisations are divided over how far back an investigation into failures in County Durham's breast services should go.

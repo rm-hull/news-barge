@@ -17,6 +17,22 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Britain
+- England
+- Helmsley
+- Hull
+- Wales
+- Yorkshire
+people:
+- God
+- Roger Seddon
+organisations:
+- Countryside Alliance
+- DVLA
+- HMICFRS
+- Inspectorate of Constabulary and Fire & Rescue Services
+- Yorkshire
 ---
 
 # A uniform firearms licensing service would be welcomed by Yorkshire but recommendations miss the mark - Roger Seddon

@@ -14,6 +14,26 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Tom
+organisations:
+- BTC
+- Bitcoin
+- Blockstream —
+- CoinDesk
+- Drift
+- Etiido Uko
+- Get Tom's Hardware
+- Google News
+- L-BTC
+- Liquid Federation
+- Liquid Network
+- PAK
+- PC
+- SideSwap
+- Step Finance
+- Tom's Hardware
 ---
 
 ![Bitcoin](https://cdn.mos.cms.futurecdn.net/q9BqLa7vM7iU63EiCE6opD.jpg) 

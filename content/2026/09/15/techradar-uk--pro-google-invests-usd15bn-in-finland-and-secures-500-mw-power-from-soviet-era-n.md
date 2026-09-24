@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Europe
+- Finland
+- Hamina
+- Kajaani
+- Kouvola
+- Muhos
+- Vaala
+people:
+- Christian Cawley
+- Petteri Orpo
+- Ruth Porat
+organisations:
+- Alphabet
+- Computer Weekly
+- ComputerActive
+- Fortum
+- Gemini AI chatbot
+- Google Maps
+- Google News
+- Google Search
+- Linux Format
+- Loviisa Nuclear Power Plant
+- Matter Alpha
+- TechRadar Pro
+- TikTok
+- YouTube
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

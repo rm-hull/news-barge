@@ -13,6 +13,28 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/19/Caesars_Merger_8_395.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Caesars Palace
+- Flamingo
+- Italy
+- Las Vegas Strip
+- Nevada
+- Reno
+- San Marino
+- U.S.
+- United States
+people:
+- Tilman Fertitta
+organisations:
+- Caesars Entertainment
+- DraftKings
+- Fertitta Gaming
+- Harrah's
+- Las Vegas' Golden Nugget
+- Morton's
+- Rainforest Cafe
+- Securities and Exchange Commission
+- Wynn Resorts
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

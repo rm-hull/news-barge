@@ -11,6 +11,30 @@ image: https://images.euronews.com/articles/stories/09/91/32/36/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- California
+- Iran
+- Ireland
+- Israel
+- Kremlin
+- Middle East
+- Moscow
+- Russia
+- Strait of Hormuz
+- Tehran
+- US
+- Ukraine
+- Washington
+people:
+- '## Trump'
+- Chris Wright
+- Donald Trump
+- Gavin Newsom
+- Volodymyr Zelenskyy
+organisations:
+- Congress
+- Kyiv
+- Truth Social
 ---
 
 ## Trump's announcement comes after he called on Ukraine to halt its attacks on Russian diesel infrastructure during a trip to Ireland over the weekend.

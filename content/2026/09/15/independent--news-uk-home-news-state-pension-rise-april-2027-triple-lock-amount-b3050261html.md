@@ -14,6 +14,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Britain
+- UK
+people:
+- David Brooks
+- Helen Morrissey
+- Jonathan Reynolds
+- Rachel Reeves
+- Yui Mok
+organisations:
+- BBC Breakfast
+- Bank of England
+- Broadstone
+- Budget
+- Department for Work and Pensions
+- Hargreaves Lansdown
+- ONS
+- Office for National Statistics
+- State Pension
 ---
 
 The state pension is set to rise by 3.9 per cent next April in a move that will make it taxable for the first time.

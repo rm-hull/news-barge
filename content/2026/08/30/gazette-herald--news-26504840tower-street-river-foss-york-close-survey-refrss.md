@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Eye of York
+- Newsquest
+- Paragon Street
+- The Castle
+- Tower Street
+- York Inner Ring Road
+people: []
+organisations:
+- City of York Council
 ---
 
 *(Image: Newsquest)*

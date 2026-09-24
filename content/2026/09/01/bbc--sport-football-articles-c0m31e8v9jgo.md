@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Ipswich
+- Stadium of Light
+people:
+- '![Fofana'
+- Dayann Methalie
+- Florent Ghisolfi
+- Juan Riquelme Angulo
+- Jules Ahoka
+- Kevin Danso
+- Malick Fofana
+- Palaceto
+- Thomas Meunier
+organisations:
+- Black Cats
+- Black Cats'
+- Fulham
+- Independiente del Valle
+- KAA Gent
+- Ligue 1
+- Lyon
+- Premier League
+- Sunderland AFC
 ---
 
 ![Fofana scored two goals and provided one assist in an injury-hit 2025-26 season](https://ichef.bbci.co.uk/ace/standard/993/cpsprodpb/2282/live/62217d40-a65c-11f1-90c0-d91d8bc7338d.jpg)

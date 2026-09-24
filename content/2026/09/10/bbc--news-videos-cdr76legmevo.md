@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Coron
+- Manila
+- Palawan Province
+- Philippines
+people:
+- Jake Kwon
+organisations:
+- BBC
 ---
 
 # What we know about the fatal Philippines ferry fire

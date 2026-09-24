@@ -12,6 +12,17 @@ image: https://static.the-independent.com/2026/09/01/13/46/Calese-Crowder.jpeg?t
 categories:
 - News & Politics
 - UK
+locations:
+- Burbank
+- East Broadway
+- Glendale
+- South Brand Boulevard
+- West Glenoaks Boulevard
+people:
+- Calese Crowder
+organisations:
+- Barnes & Noble
+- Marshalls
 ---
 
 A registered sex offender with a history of arrests for allegedly crouching behind women and smelling them is back behind bars after police accused him of similar behavior at stores in Glendale.

@@ -14,6 +14,29 @@ categories:
 - York
 - History
 - Sports
+locations:
+- B6165
+- Burnt Yates
+- Ford Transit
+- Great Britain
+- Harrogate
+- Langley
+- Leeds General Infirmary
+- North Yorkshire
+- Pateley Bridge
+people:
+- Brad McStravick
+- Greedy
+- Kathryn Walters
+- Man
+- Martin Townend
+- Mc McStravick
+- Nicholas Hayles
+- Richard Buck
+- William Langley
+organisations:
+- Google Street View
+- York Magistrates' Court
 ---
 
 ## Van driver caused death of British Olympian hours after athlete got cancer all-clear

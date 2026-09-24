@@ -13,6 +13,23 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/19/16/1999342785..?trim=25,0,25,0&width=1200&height=800&crop=1200:800
+locations:
+- White House
+people:
+- Donald Trump
+- Pat Boone
+- Ronald Reagan
+organisations:
+- CNN
+- Facebook
+- Instagram
+- Jerusalem Post
+- Kennedy Center
+- MS NOW
+- Politico
+- The Apprentice
+- The Independent
+- Trump’s Mar-a-Lago
 ---
 
 Legendary singer-songwriter Pat Boone publicly urged his “friend,” President Donald Trump, to tone down his rhetoric Friday, telling him in a social media video to “try for just a little while to be quiet.”

@@ -14,6 +14,25 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bootham Bar
+- Jorvik Service Station
+- Lawrence Street
+- York
+people:
+- Amelia Taylor
+- Billy Johnson
+- Ms Taylor
+- Neal Kutte
+- Simon Hickey
+organisations:
+- BP
+- CCTV
+- Google Street View
+- North Yorkshire Police
+- Sainsburys
+- Sainsbury’s
+- St Peter's School
 ---
 
 *(Image: North Yorkshire Police)*

@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bramham Park
+- Manchester
+- Newton Aycliffe
+- North East
+people:
+- Adam Kennedy
+- Charli XCX
+- Dave
+- Kasabian
+- Mother Nature
+- Serge Pizzorno
+- Violet Grohl
+organisations:
+- Arkayla
+- Chase and Status
+- Florence
+- Fontaines DC
+- Kasabian
+- Leeds
+- Leicester
+- Sombr
+- The Lathums
+- Wigan
 ---
 
 August bank holiday weekend has become synonymous with the annual Leeds Festival in Bramham Park.

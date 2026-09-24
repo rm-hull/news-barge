@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Europe
+- South Leicestershire
+- UK
+people:
+- Alberto Costa
+- Antaya March
+- Cressida Bowyer
+organisations:
+- APPG
+- Department for Environment, Food and Rural Affairs
+- Global Plastics Policy Centre
+- Revolution Plastics Institute
+- University of Portsmouth
+- Women’s Institute
 ---
 
 The accumulation of microplastics in soil presents an emerging threat to the UK’s food security, according to scientists, MPs and campaigners who have called for legally binding targets to cut microplastic pollution.

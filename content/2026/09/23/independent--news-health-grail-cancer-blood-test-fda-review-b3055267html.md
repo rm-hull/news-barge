@@ -13,6 +13,21 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/19/2289866048..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Johns Hopkins
+- Minneapolis
+- Sunnyvale
+- U.K.
+- U.S.
+people:
+- Badrinath Konety
+- Nickolas Papadopoulos
+organisations:
+- Allina Health Cancer Institute
+- FDA
+- Food and Drug Administration
+- Grail Inc.
+- National Health Service
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

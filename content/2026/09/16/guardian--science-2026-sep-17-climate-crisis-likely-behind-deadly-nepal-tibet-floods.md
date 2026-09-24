@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Science
 - History
+locations:
+- China
+- Himalayas
+- India
+- Kathmandu
+- Langtang Lirung
+- Nepal
+- Tibet
+people:
+- Ben Clarke
+- Friederike Otto
+- Madhab Uprety
+- Shisir Khanal
+organisations:
+- Imperial College London
+- Red Cross Red Crescent Climate Centre
+- UN
+- WWA
+- World Weather Attribution
 ---
 
 Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds of people in Nepal and Tibet last month, the first scientific study of the disaster has found.

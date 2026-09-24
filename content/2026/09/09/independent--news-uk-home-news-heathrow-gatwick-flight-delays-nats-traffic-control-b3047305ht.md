@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Birmingham
+- Bristol
+- Europe
+- Gatwick
+- Heathrow
+- Manchester
+- Southampton
+- Swanwick
+- UK
+people:
+- Martin Rolfe
+- Paul Charles
+- Philip Butterworth-Hayes
+organisations:
+- ATM
+- Airspace Modernisation Strategy
+- National Air Traffic Services
+- Nats Asked
+- Nats’
+- PR
+- The Independent
+- The PC Agency
+- Virgin Atlantic
 ---
 
 It was shortly after 1pm on Tuesday afternoon when it first emerged something had gone badly wrong.

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21421443.jpg?type=og-image&xType=0&yType=85
+locations:
+- Barnard Castle
+- Darlington
+- Market Place
+- North East
+people:
+- Bring Babul
+- Malcolm Elsbury
+- Sarah Caldecott
+organisations:
+- BHP Law and Pulse Accountants
+- Babul
+- Babul’s
 ---
 
 A popular Barnard Castle restaurant is considering bringing back takeaways after a wave of support from customers.

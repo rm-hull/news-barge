@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Brancepeth Castle
+- Brancepeth Castle Golf Club
+- Britain
+- CAMERA CLUB
+- County Durham
+- Durham City
+- JULIE HAZEL
+- St Brandon's Church
+- UK
+people:
+- Neville
+- Olive
+- Willington
+organisations:
+- Brancepeth
+- JULIE HAZEL
+- The Telegraph
 ---
 
 *(Image: JULIE HAZEL/CAMERA CLUB)*

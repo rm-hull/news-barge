@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- China
+- India
+- Kathmandu
+- Nepal
+- Nuwakot
+- South Korea
+- Trishuli River
+- US
+- Upper Trishuli-1
+people: []
+organisations: []
 ---
 
 Emergency responders rescued a Chinese man and a Nepali woman in two separate operations on Saturday, as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.

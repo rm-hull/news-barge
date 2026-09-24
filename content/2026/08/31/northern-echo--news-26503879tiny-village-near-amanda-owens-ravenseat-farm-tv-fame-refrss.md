@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- '## Keld'
+- '### Waterfalls'
+- Britain
+- CAMERA CLUB
+- Coast to Coast Path
+- Darlington
+- Herriot Way
+- Muker
+- North Yorkshire
+- Our Yorkshire Farm
+- Pennine Way
+- Pennines
+- Ravenseat Farm
+- River Swale
+- Upper Swaledale
+- Whitsundale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Brett Giroux
+- Keld
+organisations:
+- Crackpot Hall
+- East Gill Force
+- Keld
+- Kisdon Force
 ---
 
 *(Image: Brett Giroux/CAMERA CLUB)*

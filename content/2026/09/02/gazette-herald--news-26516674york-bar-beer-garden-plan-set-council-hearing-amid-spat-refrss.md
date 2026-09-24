@@ -12,6 +12,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Grade II
+- Patrick Pool
+- St Sampson’s Centre
+- Valhalla
+- York
+people:
+- Pivni
+organisations:
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- North Yorkshire Police
+- St Sampson’s Centre
+- Valhalla
 ---
 
 A SPAT has broken out between two York bars over plans for a beer garden.

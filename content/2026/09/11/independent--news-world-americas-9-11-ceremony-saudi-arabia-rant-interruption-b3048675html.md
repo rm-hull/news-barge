@@ -13,6 +13,40 @@ categories:
 - UK
 - Society & Culture
 - Law & Justice
+locations:
+- Chatham
+- Meadowlands
+- New Jersey
+- New York
+- New York City
+- Pennsylvania
+- Saudi Arabia
+- Shanksville
+- U.S. Capitol
+- USA
+- Washington, D.C.
+- White House
+- World Trade Center
+people:
+- Abdelghani Meskini
+- Cantor Fitzgerald
+- Donald Trump
+- JD Vance
+- Lisa Marie Terry —
+- Osama bin Laden
+- Terry Strada
+- Tom Strada
+organisations:
+- ABC News
+- American Airlines
+- Cantor Fitzgerald
+- Commission
+- Euro Brokers
+- Families United
+- Los Angeles International Airport
+- New York Post
+- Pentagon
+- World Trade Center
 ---
 
 A 9/11 widow interrupted Friday's annual reading of victims' names at ground zero in New York City to accuse Saudi Arabia of complicity in the al Qaeda terror attacks that claimed thousands of innocent lives.

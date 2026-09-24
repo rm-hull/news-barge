@@ -14,6 +14,30 @@ categories:
 - Harrogate
 - Travel
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/road.webp
+locations:
+- A162
+- A19
+- A63
+- Barlby
+- Designer Outlet
+- Elmet
+- Escrick
+- Escrick**
+- Naburn Lane
+- Selby
+- Selby**
+- Sherburn
+- Skipwith Road
+- Tadcaster Road**
+- Towton**
+- York Designer Outlet
+people: []
+organisations:
+- A19
+- A64 Designer Outlet
+- Arriva
+- City of York Council
+- Lane Rental Services
 ---
 
 Motorists and residents are advised to plan their journeys ahead as essential overnight maintenance works are scheduled to begin on the **A19 south of York**. Starting from** 8:00 PM on Monday, 28 September 2026**, a critical stretch of the carriageway will be subject to full night-time closures for resurfacing and patching treatments.

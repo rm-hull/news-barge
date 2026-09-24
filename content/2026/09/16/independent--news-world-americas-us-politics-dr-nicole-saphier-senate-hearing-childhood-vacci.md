@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- U.S.
+people:
+- Bill Cassidy
+- Donald Trump
+- Nicole Saphier
+- Robert F. Kennedy Jr.
+organisations:
+- CDC
+- Fox News Channel
+- Health and Human Services
+- Senate
 ---
 
 President Donald Trump’s third nominee for surgeon general, Dr. Nicole Saphier, expressed support for childhood vaccines during a tense Senate confirmation hearing on Wednesday.

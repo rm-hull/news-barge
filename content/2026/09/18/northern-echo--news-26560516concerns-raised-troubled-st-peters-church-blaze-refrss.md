@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bishop Auckland
+- County Durham
+- Grade II
+- North East
+- Princes Street
+- St Peter's Church
+- St Peter’s Church
+people:
+- Graham Wood
+- Sarah Caldecott
+organisations:
+- County Durham
+- Darlington Fire and Rescue Service
+- Durham County Council
+- Durham Police
+- Grade II
+- PACT
 ---
 
 Concerns about St Peter's Church were raised at a Bishop Auckland community meeting days after a major fire reignited scrutiny of the troubled building.

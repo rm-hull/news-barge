@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - Sports
 - History
+locations:
+- England
+- Studley Royal Deer Park
+people:
+- Alastair Cook
+- David Lloyd
+- David “Bumble” Lloyd
+- Michael Vaughan
+- Phil Tufnell
+organisations:
+- Studley Royal
+- Studley Royal Cricket Club
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa156971a6720650ee.jpg) 

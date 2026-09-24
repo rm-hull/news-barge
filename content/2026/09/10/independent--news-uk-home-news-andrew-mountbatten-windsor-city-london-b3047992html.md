@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations: []
+people:
+- Andrew Mountbatten-Windsor
+- Chris Hayward
+organisations:
+- CLC
+- City of London Corporation
+- Freedom of the City of London
 ---
 
 A decision on stripping Andrew Mountbatten-Windsor of his Freedom of the City of London will be made as “a matter of urgency”, the City of London Corporation (CLC) said, as the corporation has approved a process to remove the honour from recipients itself.

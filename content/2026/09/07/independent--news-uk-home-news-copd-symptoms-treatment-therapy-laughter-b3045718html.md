@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Ankara Bilkent City Hospital
+- Barcelona
+- Turkey
+- UK
+people:
+- Emma Rubach
+- Goncagul Aldan
+organisations:
+- Asthma
+- Congress
+- ERS
+- European Respiratory Society
+- Hacettepe University Faculty of Nursing
+- Lung UK
 ---
 
 Incorporating laughter therapy into treatment plans could help ease respiratory difficulties in patients suffering from a widespread lung condition, new research indicates.

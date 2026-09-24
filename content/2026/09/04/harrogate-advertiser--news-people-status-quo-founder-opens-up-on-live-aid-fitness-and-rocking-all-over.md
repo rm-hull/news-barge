@@ -13,6 +13,25 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Britain
+- Harrogate
+people:
+- Andy Brook
+- Caroline
+- Franci
+- Francis Rossi
+- John Fogerty
+- Rick Parfitt
+- Status Quo
+organisations:
+- Creedance Clearwater Revival
+- Harrogate Advertiser
+- Harrogate Convention Centre
+- Harrogate Theatre
+- Harrogate’s Royal Hall
+- Royal Hall
+- Status Quo
 ---
 
 # Status Quo founder opens up on Live Aid, fitness and rocking all over the world at 77

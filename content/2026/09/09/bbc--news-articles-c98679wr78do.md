@@ -11,6 +11,33 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c567/live/db519c
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Bundestag
+- Czech Republic
+- Germany
+- Leipzig
+- Magdeburg
+- Poland
+- Querfurt
+- Russia
+- Saxony-Anhalt
+- US
+people:
+- Alice Weidel
+- Donald Trump
+- Friedrich Merz
+- Julia Klöckner
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- BSW
+- Bundestag
+- CDU
+- Merz
+- Populist Party
 ---
 
 ![A man in a blue jacket and tie on the left and a woman dressed in white on the right](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png)

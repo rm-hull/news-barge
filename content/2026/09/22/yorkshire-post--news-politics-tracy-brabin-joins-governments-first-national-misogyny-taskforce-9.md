@@ -13,6 +13,27 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/21/15/v2-image-production-6072b0c978ff4b534df83fc570a852daY29udGVudHNlYXJjaGFwaSwxNzkwMDg2MDAz-2.84597986.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Wales
+- West Yorkshire
+people:
+- Bridget Phillipson
+- Felicity Oswald
+- Janaya Walker
+- Katharine Sacks Jones
+- Ms Brabin
+- Ms Oswald
+- Tracy Brabin
+organisations:
+- End Violence Against Women Coalition
+- Girlguiding
+- Government
+- Labour
+- Ms Brabin
+- National Taskforce for Tackling Misogyny
+- Women and Equalities
+- Young Women’s Trust
 ---
 
 # Tracy Brabin joins Government's first National Taskforce for Tackling Misogyny

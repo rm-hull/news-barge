@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Japan
+- Kuril Islands
+- Kyushu
+- Moscow
+- Pacific
+- Russia
+- Soviet Union
+- Tokyo
+- U.S.
+people:
+- Akira Muto
+- Andrei Rudenko
+- Vladimir Putin
+organisations:
+- Foreign Ministry
 ---
 
 Russia’s Foreign Ministry said on Friday that it has made a formal protest to Japan over its decision to host U.S.-made medium-range missile systems that Moscow sees as a threat.

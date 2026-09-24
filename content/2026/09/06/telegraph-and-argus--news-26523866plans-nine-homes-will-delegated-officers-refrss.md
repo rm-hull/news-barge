@@ -14,6 +14,29 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Personal Finance & Investing
+locations:
+- Craven
+- Dales
+- Gargrave
+- London
+- NYC
+- Ripon
+- Skipton
+- YOUR
+people:
+- Catriona Gatrell
+- Martin Grainger
+- Mid Craven
+- Simon Myers
+organisations:
+- Gargrave Parish Council
+- Government
+- NPFF
+- NPPF
+- National Planning Policy Framework
+- North Yorkshire Council
+- Public Notice Portal
+- Skipton and Ripon Planning Committee
 ---
 
 *(Image: NYC)*

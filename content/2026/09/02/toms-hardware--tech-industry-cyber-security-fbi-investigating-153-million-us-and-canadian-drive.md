@@ -14,6 +14,29 @@ categories:
 - Hardware
 - True Crime
 - Business & Entrepreneurship
+locations:
+- California
+- Louisiana
+- New Orleans
+- U.S.
+- US
+people:
+- Brian Krebs
+- Jillian Kossman
+- Jowi Morales
+- Pete Hegseth
+- Tom
+- Zach Edwards
+organisations:
+- Discord
+- EFF
+- Exploit
+- FBI
+- First Amendment
+- Google News
+- Hertz
+- Jowi Morales
+- Planet13
 ---
 
 ![Driving licenses](https://cdn.mos.cms.futurecdn.net/gsKrVXYoUhmCSoe8kTLovR.jpg) 

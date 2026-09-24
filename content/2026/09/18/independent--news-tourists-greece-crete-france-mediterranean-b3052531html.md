@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bahrain
+- Chania
+- Crete
+- Cyprus
+- Egypt
+- England
+- France
+- Greece
+- Israel
+- Italy
+- Maleme
+- Mozambique
+- Pakistan
+- Poland
+- Saudi Arabia
+- Serbia
+- Turkey
+- U.S.
+- United Arab Emirates
+- York
+people:
+- Gamal Abdel Nasser
+- Louise Carr
+- Michal Sitko
+- Thanassis Stavrakis
+organisations:
+- Achilles Shield
 ---
 
 Vacationers taking a morning dip or seeking shade on wooden sunbeds on the Greek island of Crete got a close-up view of a major military exercise unfolding in front of them Friday.

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Caitlyn Eastell
+organisations:
+- GB Bank
+- Meteor
+- Moneyfacts
+- Quilter
+- Shawbrook
 ---
 
 The potential for rising interest rates has homeowners facing the prospect of higher mortgage rates – but the flip side is that savings rates are rising too.

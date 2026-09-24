@@ -15,6 +15,29 @@ categories:
 - York
 - Travel
 - Music
+locations:
+- Greenwich
+- Harrogate
+- Kent
+- UK
+- Whitstable
+- Yorkshire
+people:
+- Evie Rowlands
+- Victoria
+organisations:
+- Area and National Band Competitions
+- Chris Mace MVO RM
+- Eastern Area
+- Harrogate Sea Cadets
+- National Maritime Museum
+- Naval Lads' Brigades
+- Royal Marines
+- Sea Cadet
+- Sea Cadets
+- Sea Cadets National Band Competition
+- TS Cleopatra
+- Windsor Unit
 ---
 
 # 'The best experience' - Yorkshire sea cadet named best drum major in the country

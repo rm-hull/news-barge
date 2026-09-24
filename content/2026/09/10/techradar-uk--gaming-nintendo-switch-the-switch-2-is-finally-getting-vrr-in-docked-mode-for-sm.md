@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/6aNDoJviH3gBH4x6efduij-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- US
+people:
+- Carrie Marshall
+organisations:
+- Digital Foundry
+- Docked VRR
+- Google News
+- Mii
+- Nintendo
+- PS5
+- Switch 2 Dock
+- TV
+- Unquiet Mind
 ---
 
 ![The Nintendo Switch 2 in docked mode in front of a TV, with an inset of the HDMI port on the Nintendo Switch 2's dock](https://cdn.mos.cms.futurecdn.net/6aNDoJviH3gBH4x6efduij.jpg) 

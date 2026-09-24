@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/19347416.jpg?type=og-image
+locations:
+- Bradford
+- Earth
+- Mars
+- St George's Hall
+people:
+- Tim Peake
+organisations: []
 ---
 
 *(Image: T&A)*

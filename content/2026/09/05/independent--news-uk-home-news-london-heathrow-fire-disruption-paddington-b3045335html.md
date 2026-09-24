@@ -11,6 +11,27 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Elizabeth Line
+- Hammersmith
+- Heathrow Airport
+- London
+- North Kensington
+- Paddington
+- Piccadilly
+- Reading
+- Scrubs Lane
+people:
+- Elizabeth
+organisations:
+- GWR
+- Great Western Railway
+- Heathrow Airport
+- Heathrow Express
+- London Fire Brigade
+- National Rail
+- TfL
+- Transport for London
 ---
 
 Train services to Heathrow Airport have been cancelled due to a grass fire near a train track in the London Paddington area.

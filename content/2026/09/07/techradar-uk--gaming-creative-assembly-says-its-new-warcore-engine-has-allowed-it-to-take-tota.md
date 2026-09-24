@@ -13,6 +13,19 @@ description: 'Creative Assembly has shared just how much its new Warcore engine 
 image: https://cdn.mos.cms.futurecdn.net/MfYEaZiY6XmdJzBmeUXQ97-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Havoc
+people:
+- Dave Petry
+- Joy Dey
+organisations:
+- Creative Assembly
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- TechRadar Gaming
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/MfYEaZiY6XmdJzBmeUXQ97.jpg) 

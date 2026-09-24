@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Europe
+- Greater Manchester
+- Merseyside
+- NHS Cheshire
+- UK
+people:
+- David
+- Debbie Abrahams
+- Jane Campbell
+- Joel
+- Lady Campbell
+- Marsha de Cordova
+organisations:
+- Cheshire
+- Commons
+- DHSC
+- Department of Health and Social Care
+- Guardian
+- Merseyside NHS
+- NHS Greater Manchester
+- PA
+- PAs
+- UN
 ---
 
 Disabled people must have a guaranteed right to travel abroad, MPs and peers have said, as further cases emerged of individuals barred from taking holidays as a result of “ridiculous” rules imposed by local NHS care boards and local councils.

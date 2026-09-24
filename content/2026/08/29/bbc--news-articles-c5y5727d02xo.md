@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A66
+- Middlesbrough
+- Riverside Stadium
+people:
+- Chris Cooke
+- Cole Robert Worthy
+- Jacob Matusiak
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- PC Blades
+- PC Clough
+- Theo Rae
+- Tom Clough
+organisations:
+- BBC Sounds
+- Cleveland Police
+- Eastleigh
+- Hartlepool United
+- Middlesbrough FC
+- Radio 4
+- West Bromwich Albion
 ---
 
 ![Rear view of a football team - wearing red strips - standing to attention in front of a bank of  stadium seats, with other players to the side. A screen above shows the image of two men.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/4c67/live/44a1a960-a3a6-11f1-af36-fffc938dca63.jpg)

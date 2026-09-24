@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Concord Room
+- New Hampshire
+people:
+- John
+organisations:
+- Concord Public Library
+- Facebook
+- The Century Illustrated Monthly Magazine
 ---
 
 ![A person wearing silver rings and a gold watch carries an armful of books.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/012a/live/fc349430-b16a-11f1-aa34-cd96b0948b75.jpg)

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Indian Wells
+- Miami
+- New York
+- Roland Garros
+- Wimbledon
+people:
+- Aryna Sabalenka
+- Coco Gauff
+- Elena Rybakina
+- Jessica Pegula
+- Sabelanka
+- Serena Williams
+- Victoria Azarenka
+organisations: []
 ---
 
 ![Elena Rybakina waves to the crowd](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1a29/live/8b846990-ad91-11f1-bee3-b1eaca1dd464.jpg)

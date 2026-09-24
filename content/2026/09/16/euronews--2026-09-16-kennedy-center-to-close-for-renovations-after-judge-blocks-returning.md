@@ -13,6 +13,29 @@ image: https://images.euronews.com/articles/stories/09/91/49/40/1200x675_cmsv2_e
 categories:
 - Europe
 - News & Politics
+locations:
+- Arlington National Cemetery
+- DC
+- Kennedy Center
+- Ohio
+- Potomac River
+- US
+- Washington
+people:
+- Brian Ballard
+- Christopher Cooper
+- Donald J. Trump
+- Donald Trump
+- Joyce Beatty
+organisations:
+- '## Trump'
+- Congress
+- Congressional
+- East Wing of the White House
+- Justice Department
+- Kennedy Center
+- The John F. Kennedy Center
+- Trump Kennedy Center Fund
 ---
 
 ## Trump has said the $257 million (around €222.72) allocated by Congress for the repairs would only be released if the renaming was permitted to proceed — a condition federal courts have twice ruled cannot be met without Congressional approval.

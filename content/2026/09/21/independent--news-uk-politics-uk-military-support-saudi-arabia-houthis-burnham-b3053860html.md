@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Sports
 image: https://static.independent.co.uk/2026/09/20/22/9902912c0ca48eb09b6d9b3e56d0595dY29udGVudHNlYXJjaGFwaSwxNzg5ODI2MzI5-2.85727565.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Aden
+- Africa
+- Britain
+- Iran
+- Jeddah
+- Kingdom of
+- Mecca
+- Middle East
+- New York
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- UK
+- Yemen
+people:
+- Andy Burnham
+- Donald Trump
+- Mohammed al-Farah
+organisations:
+- Royal Air Force
+- The Independent
+- UN General Assembly
+- United Nations
 ---
 
 Britain will provide military support to Saudi Arabia to counter attacks by Iran-backed Houthis and protect energy supplies, Andy Burnham has confirmed – marking his first authorisation of military action as prime minister.

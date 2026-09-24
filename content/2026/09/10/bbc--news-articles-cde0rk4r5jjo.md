@@ -11,6 +11,17 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b35/live/2d0968
 categories:
 - UK
 - News & Politics
+locations:
+- Southwark Crown Court
+people:
+- Anthony Lee
+- Craig Williams
+- Laura Lee
+- Laura Lee.
+- Rishi Sunak
+- Williams'
+organisations:
+- Houses of Parliament.
 ---
 
 ![Anthony Lee and Laura Lee.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1b35/live/2d096810-2f13-11ef-90be-b75b34b0bbb2.jpg)

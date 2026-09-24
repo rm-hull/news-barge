@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Ground Zero
+- Hudson River
+- New York
+- North Yorkshire
+- South Tower
+- Staten Island
+- Twin Towers
+- UK
+- US
+- Washington
+- World Trade Center
+- ex-York
+people:
+- Paul Berriff
+organisations:
+- North Tower
+- The Press
+- World Trade Center
 ---
 
 *(Image: Paul Berriff)*

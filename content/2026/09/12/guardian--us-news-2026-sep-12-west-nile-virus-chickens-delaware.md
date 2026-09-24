@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Delaware
+- Rhode Island
+- Rocky
+- St Louis
+- US
+- West Nile
+people:
+- Folks
+- Lindsay Campbell
+- Robert Guralnick
+- Tom Moran
+organisations:
+- CDC
+- EEE
+- Florida Museum of Natural History
+- Florida’s Department of Health
+- US Centers for Disease Control and Prevention
+- University of Florida
 ---
 
 The start of West Nile virus transmission began unusually early in some US states, with the most cases in early summer since 2004, the US Centers for Disease Control and Prevention (CDC) warned in July – so Delaware turned to chickens.

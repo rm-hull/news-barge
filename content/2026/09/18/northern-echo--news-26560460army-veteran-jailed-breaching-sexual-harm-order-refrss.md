@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bishop Auckland
+- Newton Aycliffe Magistrates’ Court
+people:
+- Ben Pegman
+- Jade Houston
+- Man
+- Steven Lancaster
+- Thomas Reay
+organisations:
+- Darlington Magistrates’
+- Durham Constabulary
+- Lancaster
+- SHPO
 ---
 
 *(Image: Durham Constabulary)*

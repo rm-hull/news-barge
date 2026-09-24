@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Bridlington
+- Filey
+- Hull
+- North Yorkshire
+- Scarborough
+- York
+people: []
+organisations:
+- Network Rail
+- Northern
 ---
 
 *(Image: Newsquest)*

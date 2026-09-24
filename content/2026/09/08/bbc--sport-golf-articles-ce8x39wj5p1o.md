@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Indianapolis
+- New Jersey
+- Saudi Arabia
+- US
+- United States
+people:
+- Brooks Koepka
+- Bryson DeChambeau
+- Cameron Smith
+- Dustin Johnson
+- Jon Rahm
+- Scott O'Neil
+- Tyrrell Hatton
+organisations:
+- BBC Sport
+- BC Partners
+- DeChambeau
+- LIV Golf
+- PIF
+- Public Investment Fund
 ---
 
 ![Golfer Bryson DeChambeau putts in front of a big blue and white LIV Golf sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg)

@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Self-Improvement
+locations:
+- BRADFORD
+- Baildon
+- Bradford Crown Court
+- Esholt Lane
+- Old Hollins Hill
+- Park Lane
+- Shipley
+people:
+- '## Brewer'
+- Henry Brewer
+organisations:
+- Brewer
+- RSPCA
+- RSPCA)* Police
 ---
 
 A BRADFORD district man who mistreated 13 horses has lost his appeal against a 10-year ban.

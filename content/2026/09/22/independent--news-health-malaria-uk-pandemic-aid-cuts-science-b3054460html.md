@@ -14,6 +14,26 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/28/15/2209246418..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- New York
+- Oxford
+- UK
+- US
+people:
+- Gareth Jenkins
+- Heather Ferguson
+organisations:
+- AstraZeneca Covid-19
+- Impact Global Health
+- Imperial College London
+- Malaria No More UK
+- The Independent
+- The Innovative Vector Control Consortium
+- The Liverpool School of Tropical Medicine
+- United Nations General Assembly
+- University of Glasgow
+- YouGov
 ---
 
 An “almost unprecedented” scaling back of funding for malaria science will harm the UK’s preparedness for future pandemics, leading scientists say.

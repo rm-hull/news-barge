@@ -15,6 +15,30 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Batley
+- Dark Lane
+- Kirklees
+- Manor Way
+- TikTok
+- West Yorkshire
+people:
+- Adele Brindley
+- Alexandra Ignac
+- Christine Belmonte
+- Danielle Nicola Brown
+- David Logue
+- Fatima Mamaniat
+- Ibby Husy Hussain
+- John Carpenter
+- Jules Hanson
+- Michael Myers
+- Nicola Rammy Ramsden
+- Rashda Hussain
+- Vicky Tootill
+organisations:
+- Batley Matters Facebook
+- UGC
 ---
 
 *(Image: UGC)*

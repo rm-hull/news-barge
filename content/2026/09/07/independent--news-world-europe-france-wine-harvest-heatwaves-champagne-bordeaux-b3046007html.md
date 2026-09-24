@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Champagne
+- Europe
+- France
+- Italy
+- Languedoc-Roussillon
+- U.S.
+people: []
+organisations:
+- Bordeaux
+- Bourgogne-Beaujolais
+- Charentes
+- Val de Loire
 ---
 
 France is facing one of its poorest wine harvests in 30 years, with output in the Champagne region set to halve from 2025, the farm ministry said on Monday.

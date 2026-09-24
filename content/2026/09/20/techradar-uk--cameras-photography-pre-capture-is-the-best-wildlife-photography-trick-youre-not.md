@@ -12,6 +12,57 @@ description: Sometimes your reactions aren’t up to speed to capture the key mo
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/fJRsy6Yhpn8dye4j79qXuV-1920-80.jpg
+locations:
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- E-M1 Mark II
+- E-M1 Mark III
+- E-M5 Mark III
+- EOS R5 Mark II
+- EOS R6 Mark II
+- EOS R6 Mark III
+- EOS R8 Mark II
+- Fujifilm X-T5
+- Google News
+- Lumix G9 II
+- Lumix S1 II
+- Lumix S1 II R
+- Lumix S5 II
+- Nikon Z5 II
+- Nikon Z50 II
+- Nikon Z6 III
+- Nikon Z8
+- Nikon Z9
+- OM System
+- OM System OM-1
+- OM-5 Mark II
+- OM1 Mark-II
+- Olympus
+- Panasonic Lumix G9
+- Pre-Burst
+- Pre-shot ES
+- Pro Capture
+- R8 II
+- Sony A1 II
+- Sony A7
+- Sony A7 V
+- Sony A7R VI
+- Sony A9 III
+- TechRadar
+- Tough TG-6
+- Tough TG-7
+- X-H2
+- X-H2S
+- X-T3
+- X-T30 II
+- X-T30 III
+- X-T4
 ---
 
 ![A small bird taking flight from a fallen tree that&#039;s emerging from a sea of ferns (left), a Sony camera&#039;s display showing the Pre Capture feature in the menu](https://cdn.mos.cms.futurecdn.net/fJRsy6Yhpn8dye4j79qXuV.jpg)

@@ -15,6 +15,11 @@ categories:
 - Personal Finance & Investing
 - Automotive
 - Technology & Software
+locations: []
+people:
+- Dale Gillespie
+- IronOffroad
+organisations: []
 ---
 
 If you are cleaning your car at home, it is most likely to save an extra bit of money.

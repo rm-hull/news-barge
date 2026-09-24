@@ -15,6 +15,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21492116.jpg?type=og-image&xType=0&yType=50
+locations:
+- Houghton House
+- North East
+- Sunderland
+- YOUR
+people: []
+organisations:
+- Doxford International Business Park
+- Public Notice Portal
+- Starbucks
 ---
 
 *(Image: Google Maps)*

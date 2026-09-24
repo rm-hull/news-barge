@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Asia
+- Bahrain
+- Colombia
+- Gulf of Oman
+- Hormuz
+- Iran
+- Jordan
+- Kharg Island
+- Kuwait
+- Middle East
+- Paris
+- Saudi Arabia
+- Seoul
+- South Korea
+- US
+- United Arab Emirates
+- United States
+- Yemen
+people:
+- Centom
+- Emmanuel Macron
+- Lee Jae Myung
+- Marco Rubio
+- Tim Hawkins
+- Trump
+organisations:
+- Centcom
+- IRGC
+- Islamic Revolutionary Guard Corps
+- US Navy
 ---
 
 The US military on Tuesday said it “destroyed” multiple Iranian tankers, after Iran attempted to strike a US navy warship with ballistic missiles, as violence once again surged across the region, pushing the price of oil close to $100 a barrel.

@@ -13,6 +13,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/16/11/7bbdda2c6eeb84deefe62c6c1365a63fY29udGVudHNlYXJjaGFwaSwxNzg5NjQwODI3-2.85730188.jpg?width=1200&height=800&crop=1200:800
+locations:
+- London
+- UK
+people:
+- Andy Burnham
+- John Healey
+- Mairi MacRae
+- Stephen Hunsaker
+organisations:
+- Budget
+- Citizens Advice and Crisis
+- Government
+- LHA
+- Resolution Foundation
+- Shelter
+- The Independent
+- Universal Credit
 ---
 
 The government has been urged to commit £6bn at the upcoming Budget to tackle unaffordable UK rents faced by millions across the UK.

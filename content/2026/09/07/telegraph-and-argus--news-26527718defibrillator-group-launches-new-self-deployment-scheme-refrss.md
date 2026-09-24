@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- UK
+- Yorkshire
+people:
+- Brian Firth
+organisations:
+- CPR
+- Emergency Operations Centre
+- Guiseley
+- NHS Pathways
+- Public Access Defibrillators UK
+- SDPAD
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: submitted)*

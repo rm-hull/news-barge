@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Antony Gormley’s Field
+- Croft Airport
+- Durham
+- England
+- Hopetown
+- Hyde Park
+- Kamaishi
+- Kesennuma
+- Leeds
+- London
+- Sierra Leone
+- Stockton & Darlington Railway
+- Sunderland
+- Tokyo
+- Whitby station
+people:
+- Elphaba
+- George Stephenson
+- Glinda
+- Grandma
+- Harry Kane
+- Jess Woodley
+- Jude Bellingham
+- Ringo
+- Rod Stewart
+- Wicked
+organisations:
+- Freddie Mercury
+- International Medieval Congress
+- Kamaishi
+- Kodak
+- Miles Heritage Project
+- SARAH CALDECOTT Lilo
+- Stitch from Disney
+- Whitby Another
 ---
 
 NEARLY 10,000 wooden figures, each six inches high, are standing in higgledy-piggledy rows, all facing the same direction, as if waiting on a rush-hour platform for a delayed train.

@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/KAw22gaqaEWgpy9K7VcLz9-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Connect
+- Phoenix
+people:
+- Luna
+organisations:
+- Google News
+- Hamish
+- Meta
+- Samsung Galaxy XR
+- TechRadar
+- VR
+- Xreal Aura
 ---
 
 ![Hamish hector drawing a bow in VR while wearing the Meta Quest 3S.](https://cdn.mos.cms.futurecdn.net/KAw22gaqaEWgpy9K7VcLz9.jpg) 

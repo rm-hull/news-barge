@@ -13,6 +13,17 @@ categories:
 - True Crime
 - History
 image: https://static.independent.co.uk/2026/09/19/17/59/Reece-Salmon-[Victim].jpg?trim=60,0,60,0&width=1200&height=800&crop=1200:800
+locations:
+- Caledonian Road
+- Clerkenwell
+- Hoxton
+- Lloyd Baker Street
+- London
+people:
+- Jason Stewart
+- Reece Salmon
+organisations:
+- London Ambulance Service
 ---
 
 A murder investigation has been opened after a 28-year-old man was stabbed to death in an affluent area of central London.

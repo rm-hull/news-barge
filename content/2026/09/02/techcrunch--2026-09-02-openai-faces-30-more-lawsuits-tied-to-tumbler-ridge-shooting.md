@@ -11,6 +11,36 @@ description: Edelson PC is filing 30 new lawsuits against OpenAI over the Tumble
 image: https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024
 categories:
 - Technology & Software
+locations:
+- British Columbia
+- California
+- Canada
+- OpenAI
+- San Francisco
+- Tumbler Ridge
+people:
+- Chris Lehane
+- Clinton
+- Jason Kwon
+- Jay Edelson
+- Jesse Van Rootselaar
+- OpenAI
+- Sam Altman
+- Van Rootselaar
+organisations:
+- AI
+- Airbnb
+- ChatGPT
+- Edelson PC
+- Hugging Face’
+- Lehane
+- OpenAI
+- San Francisco Police Department
+- TechCrunch
+- The Intelligence and Investigations Team
+- Tumbler Ridge Secondary School
+- VanRootselaar
+- Wall Street Journal
 ---
 
 Edelson PC, the law firm that filed seven lawsuits against OpenAI in April on behalf of victims and families connected to the Tumbler Ridge mass shooting, is filing 30 additional complaints this week. The new plaintiffs include teachers, a principal, and students who were in the building during the attack but not physically shot.

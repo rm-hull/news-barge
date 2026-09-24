@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432860.jpg?type=og-image
+locations:
+- Leeds Bradford Airport
+- Multiflight
+people: []
+organisations:
+- Leeds Bradford Airport
+- UGC
 ---
 
 *(Image: UGC)*

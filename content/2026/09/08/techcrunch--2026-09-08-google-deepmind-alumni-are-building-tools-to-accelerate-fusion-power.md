@@ -12,6 +12,27 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Switzerland
+people:
+- Federico Felici
+- Jonas Buchli
+organisations:
+- AI
+- CTO
+- Commonwealth Fusion Systems
+- EPFL
+- Felici
+- Founderful
+- Google DeepMind
+- Kyoto Fusioneering
+- Lausanne-based Fusionality
+- Lego
+- Playfair
+- Proxima Fusion
+- Realta Fusion
+- TechCrunch
+- Type One Energy
 ---
 
 Sometimes founders search high and low for the right startup idea, while other times it comes to them. Federico Felici and Jonas Buchli are two of the lucky ones.

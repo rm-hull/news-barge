@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25df/live/be8d63d0-b559-11f1-9ca7-a18634eccc53.jpg
+locations:
+- Caribbean
+- Dominican Republic
+- Florida
+- Haiti
+- Miami
+- Port-au-Prince
+- US
+people:
+- '** Moise'
+- Brett Skiles
+- Jason Reding Quiñones
+- Joseph Badio
+- Jovenel Moise
+organisations:
+- FBI
+- Southern District of Florida
+- UN Integrated Office
 ---
 
 ![Police drive past a wall painted with the image of killed Haitian President Jovenel Moise](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/25df/live/be8d63d0-b559-11f1-9ca7-a18634eccc53.jpg)

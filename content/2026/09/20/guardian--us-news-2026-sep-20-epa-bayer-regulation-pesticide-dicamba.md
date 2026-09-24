@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/fd26c8ad50d26e799f4066a0c9241dcf9dc00e9c/911_690_3939_3150/master/3939.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e4e47389b4e750389b6a1fe026809ff
+locations:
+- America
+- Dicamba
+- US
+people:
+- Bayer
+- Kelly Ryerson
+- Kyle Kunkler
+- Nancy Beck
+- Nathan Donley
+organisations:
+- American Chemistry Council
+- Bayer
+- Center for Biological Diversity
+- Center for Food Safety
+- EPA
+- Guardian
+- Ryerson
 ---
 
 The EPA allowed pesticide giant Bayer to pick from a menu of regulation options for the controversial and destructive weedkiller dicamba, newly released internal agency documents show.

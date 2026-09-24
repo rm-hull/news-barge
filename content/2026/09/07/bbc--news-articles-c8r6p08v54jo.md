@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Carmarthenshire
+- Crows Nest
+- Cwmbran
+- Grange
+- Llanelli
+- Torfaen
+people:
+- Caroline Saunders
+- Philip Ormerod
+- Phillip Ormerod
+- Robert
+- Shelley Comley
+organisations:
+- Crows Nest
+- Gwent Police
 ---
 
 ![A man smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/dd35/live/ae3236a0-aacd-11f1-9f87-35997bdaf8f4.jpg)

@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Martin Lewis
+organisations:
+- ISA
+- JISAs
+- Money Saving Expert
+- Santander
 ---
 
 Teenagers could get £50 for free if they switch to a different bank account, according to Money Saving Expert’s Martin Lewis.

@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Mark Reece
+organisations:
+- Rev Monkey UK
 ---
 
 *(Image: Archive)*

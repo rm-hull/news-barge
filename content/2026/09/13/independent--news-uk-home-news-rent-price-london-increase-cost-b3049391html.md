@@ -12,6 +12,14 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Foxtons
+- London
+- UK
+people:
+- Richard Donnell
+organisations:
+- Zoopla
 ---
 
 Rising mortgage rates are intensifying pressure on the UK rental market, with annual price growth projected to reach 4% to 5% by the end of the year.

@@ -13,6 +13,19 @@ image: https://cdn.mos.cms.futurecdn.net/UGf3cR2nUt6StxjeptmAsd-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Brighton
+- Hackaday
+- Paris
+people:
+- Mark Tyson
+- Mike
+- Tom
+organisations:
+- Google News
+- MK3
+- The Tube Computer
+- Tom's Hardware
 ---
 
 ![The Tube Computer](https://cdn.mos.cms.futurecdn.net/UGf3cR2nUt6StxjeptmAsd.jpg) 

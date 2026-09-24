@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Fifth Avenue
+- Former York
+- Mossdale Avenue
+- YOUR
+people: []
+organisations:
+- City of York Council
+- Google Street View
+- Kendal House Properties Ltd
+- Public Notice Portal
+- Tang Hall Explore
+- Tang Hall Library
+- YMCA North Tyneside
 ---
 
 ## Former York library sale paves way for new homes

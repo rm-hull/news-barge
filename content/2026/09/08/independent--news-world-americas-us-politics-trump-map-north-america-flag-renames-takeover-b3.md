@@ -11,6 +11,46 @@ image: https://static.independent.co.uk/2026/09/07/17/12/trump-truth-social-map.
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Caribbean
+- Cuba
+- Denmark
+- Greenland
+- Iceland
+- Iran
+- Lake America
+- Lake Ontario
+- New America
+- New Jersey
+- New Mexico
+- North and Central America
+- Pacific
+- U.S.
+- US
+people:
+- Billy Long
+- Claudia Sheinbaum
+- Donald Trump
+- Eirikur Bergmann
+- Kristrun Frostadottir
+- Kristrún Frostadóttir
+- Lars Løkke Rasmussen
+- Long — Trump
+- Mark Carney
+- Mette Frederiksen
+- Natalie Harp
+- Nicolás Maduro
+- Thorgerdur Katrin Gunnarsdottir
+- Þorgerður Katrín Gunnarsdóttir
+organisations:
+- Bifrost University
+- European Union
+- IRS
+- NATO
+- The New York Times
+- Trump
+- Truth Social
 ---
 
 In a post on Truth Social, Donald Trump envisioned all of North and Central America under the U.S. flag, an image that quickly triggered a major diplomatic incident and fractured already-frayed relationships as the president pursues his imperial ambitions.

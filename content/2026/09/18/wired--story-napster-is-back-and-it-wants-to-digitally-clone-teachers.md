@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Science
 - Music
+locations:
+- Africa
+- Dubai
+- Middle East
+- Saudi Arabia
+- UAE
+- United Arab Emirates
+- WIRED Middle East
+people:
+- AI
+- Ahmed Bin Mana Bin Khalifa Saeed Al Maktoum
+- Napster
+- Samuel Huber
+- Sean Parker
+- Shawn Fanning
+organisations:
+- AI
+- Detasad
+- G42
+- Gems Education
+- Gems School of Research and Innovation
+- Infinite Reality
+- Kameha Ventures
+- Landvault—
+- Lenovo
+- Napster Learn
 ---
 
 Napster is back. The name that struck fear into the hearts of music executives in the early dotcom era may be coming to a classroom near you.

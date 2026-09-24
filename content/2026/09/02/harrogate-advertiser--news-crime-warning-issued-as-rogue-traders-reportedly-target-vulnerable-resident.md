@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- 'Harrogate ##'
+people: []
+organisations:
+- Citizens Advice Consumer Service
+- North Yorkshire Police
+- North Yorkshire Trading Standards
 ---
 
 # Warning issued as rogue traders reportedly target vulnerable residents in Harrogate

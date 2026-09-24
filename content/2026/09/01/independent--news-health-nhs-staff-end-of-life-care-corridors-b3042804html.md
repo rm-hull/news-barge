@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- UK
+people:
+- Jane Turner
+- Lynn Woolsey
+- Marie Curie
+- Sarah Williamson
+- Sue Ryder
+organisations:
+- Government
+- Marie Curie and Nursing Standard
+- NHS
+- Royal College of Nursing
 ---
 
 A majority of healthcare staff have delivered end-of-life treatment to patients in hallway areas or temporary spaces, new research reveals.

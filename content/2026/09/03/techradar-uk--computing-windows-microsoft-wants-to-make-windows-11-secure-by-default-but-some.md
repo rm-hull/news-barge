@@ -13,6 +13,18 @@ image: https://cdn.mos.cms.futurecdn.net/Kvd2C5GUQeqhGqTh6M3w66-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations: []
+people:
+- AI
+organisations:
+- AI
+- Google News
+- Hachette UK
+- Microsoft
+- PC
+- Reddit
+- VBS
+- Verge
 ---
 
 ![Man upset at gaming PC, resting head on arms](https://cdn.mos.cms.futurecdn.net/Kvd2C5GUQeqhGqTh6M3w66.jpg) 

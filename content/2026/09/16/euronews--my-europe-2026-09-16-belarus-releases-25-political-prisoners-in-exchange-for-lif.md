@@ -12,6 +12,23 @@ image: https://images.euronews.com/articles/stories/09/91/56/96/1200x675_cmsv2_a
 categories:
 - Europe
 - News & Politics
+locations:
+- Belarus
+- Minsk
+- Russia
+- US
+- Ukraine
+- Washington
+people:
+- Aliaksandr Lukashenka
+- Donald Trump
+- John Coale
+- Sviatlana Tsikhanouskaya
+- Viktor Babaryko
+organisations:
+- Bellesbumprom
+- Lakokraska
+- Viasna
 ---
 
 ## Hundreds remain in prison, including journalists, trade unionists and others who supported the 2020 protests against Aliaksandr Lukashenka’s re-election.

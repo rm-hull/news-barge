@@ -13,6 +13,49 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21475417.jpg?type=og-image
+locations:
+- Auckland Park
+- Bishop Auckland
+- Broom Hill
+- Burnhope
+- County Durham
+- Crook
+- Durham Crown Court
+- Durham Prison
+- Front Street
+- Hind
+- Moule Crescent
+- Newton Aycliffe
+- Northbridge Park
+- Oak Lea
+- Seaham
+- St Helen Auckland
+- Stanley
+- Stockley Lane
+people:
+- '**Seaham**'
+- Anthony Prior
+- Corbyn Farn
+- Corbyn Farn**
+- Francis Laird
+- Iain Boddy
+- Iain Boddy**
+- Ian Hind
+- Ian Hind**
+- Imogen Eastham-Brown
+- Jo Kidd
+- Kai Taylor
+- Miss Eastham-Brown
+- Richard Clews
+- Snobby \*\*\*\*”
+- Tony Davis
+- Witton Gilbert
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Hind
+- Probation Service
+- Teesside Crown Court
 ---
 
 A man who took part in an arson attack and shooting at a County Durham home was among those given prison sentences at Durham Crown Court in the past week.

@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Democratic Rio Grande Valley
+- Florida
+- Mexico
+- Texas
+- Texas.’
+- Virginia
+- Wisconsin
+people:
+- Ann Richards
+- Byron Donalds
+- David Crowley
+- David Jolly
+- Donald Trump-endorsed
+- Francesca Hong
+- George W. Bush
+- Gina Hinojosa
+- Greg Abbott
+- James Talarico
+- Ken Paxton
+- Sid Miller
+- Tom Tiffany
+- Trump
+organisations:
+- Electric Choice
+- Electric Reliability Council of Texas
+- Lone Star
+- Lone Star State
+- MAGA
+- Senate
+- Texans
+- Texas Department of Public Safety
+- Texas Politics Project
+- The Independent
+- The Texas Tribune
+- Trump
+- UT
+- University of Texas-Austin
+- Waco Bridge
 ---
 
 Most of the national focus in Texas has been on the Senate race between Democratic state legislator James Talarico and Donald Trump-endorsed Attorney General Ken Paxton. Polling largely shows Talarico either leading or in a dead heat with Paxton.

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Camden
+- London
+- Romford
+- St Martin’s Gardens
+people:
+- Axel Rudakubana
+- Ayisha Carroll
+- Chris Philp
+- Danielle Morley
+- Mark Carroll
+- Ms Carroll
+- Rasheed Rahman
+- Valdo Calocane
+organisations:
+- Heights Care
+- Home Office
+- Soaring Heights
+- The Independent
 ---
 
 The two daughters of a beloved grandfather who was murdered in a London park in a random and unprovoked attack have called for a comprehensive review into the handling of his killer by police and care services, saying: “We believe there to be critical failings that allowed this to happen”.

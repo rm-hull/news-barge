@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Helsinki
+- RAF Brize Norton
+- UK
+people:
+- Jason
+- Sgt Matty
+- Sgt ‘Matty’ Matthews
+organisations:
+- AS1 Emily
+- AS1 Nile
+- Air Specialist
+- RAF Feature
+- RAF Operations
+- RAF Operations and Exercise
+- RAF Operations and Exercises
+- RAF Sports
+- RAF VisCom Ops
+- Royal Air Force
 ---
 
 Stunning photographs of RAF aircraft in action, life in the cockpit and sporting battles are among the winners and runners-up of the 2026 Royal Air Force Photographic Competition.

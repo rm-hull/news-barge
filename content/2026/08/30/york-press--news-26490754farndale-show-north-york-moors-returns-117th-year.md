@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - History
+locations:
+- Church Houses
+- Dales
+- Farndale
+- North York Moors National Park
+- St Mary’s Church
+people:
+- Jarvis Browning Blacksmith
+organisations:
+- Commondale Wool Spinners
+- Feversham Arms Inn
+- Quoits
 ---
 
 ## Traditional country show returns for 117th year on Bank Holiday Monday

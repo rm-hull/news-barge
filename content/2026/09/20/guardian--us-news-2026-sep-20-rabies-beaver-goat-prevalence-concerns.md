@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://i.guim.co.uk/img/media/33fcb9e9f8efe20a3d68f85e1a959ee3d2202341/532_322_2932_2345/master/2932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f86851ec07c3bf79dc8c5e7cfedeff3
+locations:
+- Harmony
+- Maryland
+- North Carolina
+- South Carolina
+- United States
+people:
+- Ivy
+- Meghan Davis
+- Tonji Durant
+- Zak Mertz
+organisations:
+- CDC
+- CNN
+- Centers for Disease Control and Prevention
+- Johns Hopkins University
+- New England Wildlife Center
 ---
 
 Recent unusual incidents involving humans and rabid animals and a subsequent Centers for Disease Control and Prevention (CDC) advisory have prompted concerns about rabies, but it’s not clear if there has actually been an increase in cases of the deadly disease in the United States, experts say.

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/3ac752535a516d00505752ed6e1e8f407452cd3e/757_0_4120_3296/master/4120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbb5d2faf6f4d9ef70ce4cd9fb62a656
+locations:
+- Brighton
+- Devon
+- Liverpool
+people:
+- Carl Cashman
+- Ed Davey
+- John Curtice
+- Julian Brazil
+- Lisa Smart
+organisations:
+- Lib Dem
+- Lib Dems
+- Liberal Democrat
+- Reform UK
 ---
 
 One of the more dramatic moments in a Liberal Democrat conference otherwise short of them came late on Sunday, when the party frontbencher Lisa Smart told the polling veteran John Curtice that, in effect, he no longer understood modern politics.

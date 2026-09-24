@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- North York Moors National Park
+- North Yorkshire
+- St Helens
+- Wykeham
+people:
+- Simon Roe
+organisations:
+- AA’s England
+- Dawnay Estate
+- Macmillan Cancer Support
+- St Helens
 ---
 
 An award-winning caravan and camping park in North Yorkshire is inviting former guests to share holiday memories as part of its 50th birthday celebrations this summer.

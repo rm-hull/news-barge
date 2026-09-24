@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Carr Manor
+- Chapel Allerton
+- Chapel Allerton School
+- Harrogate Road
+- Leeds
+- Manor Wood
+- Stainbeck Lane
+- Stainbeck Road
+- YOUR
+people: []
+organisations:
+- Cornerstone
+- EE Ltd
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Google)*

@@ -14,6 +14,40 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dalesway
+- Ireland
+- Keighley
+- Preston
+- UK
+- US
+people:
+- Amelia Smith
+- Caroline Rhodes
+- Dominic Paul
+- James
+- Jean Ellis
+- Vic
+- Whitbread
+organisations:
+- 20 Bar
+- All Beefeater
+- Bar + Block
+- Beefeater Grill Reward Club
+- Berni Inn
+- Brewers Fayre
+- Brewers Fayre!
+- Charlie Chalk Fun Factory
+- Cookhouse
+- Farmers Arms
+- Google
+- JD Wetherspoon
+- Newsquest
+- Premier Inn
+- Pub
+- Queensway Inns
+- Table Table
+- Whitbread
 ---
 
 *(Image: Tripadvisor)*

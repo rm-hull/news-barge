@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Lapland
+- Leeds-Bradford Airport
+- London
+- Newcastle Airport
+- North East
+- Santa Wheels
+- Teesside
+- UK
+people:
+- Alex Dyer
+organisations:
+- Birmingham
+- Inverness
+- Lapland Famille
+- Leeds Bradford
+- Leeds Bradford Airport
+- Teesside Airport
 ---
 
 A North East airport has been named one of the cheapest in the UK for dropping off passengers in a new study.

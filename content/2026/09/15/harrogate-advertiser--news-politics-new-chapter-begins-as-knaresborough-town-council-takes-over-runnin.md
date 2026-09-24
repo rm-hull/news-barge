@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - History
 - News & Politics
+locations:
+- Knaresborough
+- North Yorkshire
+people:
+- James Pickard
+- Malcolm Taylor
+- Mark Brayshaw
+- Oliver
+organisations:
+- '## Knaresborough Town Council'
+- Knaresborough Market
+- Knaresborough Town Council
+- Market Manager
+- North Yorkshire Council
+- Town Development
+- Town Ranger Oliver
 ---
 
 # New chapter begins as Knaresborough Town Council takes over running of historic weekly market

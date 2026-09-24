@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Baseco
+- Coron
+- Manila
+- Palawan
+- Philippines
+people:
+- Commodore Noemie Cayabyab
+organisations:
+- DZXL
 ---
 
 Five people were confirmed dead in early counting and more than 80 were missing after a ferry caught fire off Palawan island in the western Philippines on Wednesday night, the Philippine coast guard said.

@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bishop Auckland
+- County Durham
+- Greenfields Road
+- Melrose
+- St Helens
+- Station Road
+- Tindale Crescent
+- West Auckland
+- Woodhouse
+people:
+- Ian Hoult
+organisations:
+- A66
+- Durham County Council
+- Facebook
+- NORTHERN ECHO
+- Tesco
 ---
 
 *(Image: NORTHERN ECHO)*

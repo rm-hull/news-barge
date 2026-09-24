@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- York RI Sports Centre
+people:
+- Jessica Goldthorpe
+- Victoria Bryceson
+organisations:
+- NCP
+- Vegan Events UK
+- York RI Sports Centre
 ---
 
 *(Image: York RI Sports Centre)*

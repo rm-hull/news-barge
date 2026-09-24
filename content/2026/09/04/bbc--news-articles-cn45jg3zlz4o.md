@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Argentina
+- Atlantic Ocean
+- Britain
+- Downing Street
+- England
+- Falkland Islands
+- Falklands
+- Iran
+- Israel
+- Las Malvinas
+- Sea Lion
+- Tierra del Fuego
+- UK
+- US
+- Washington
+people:
+- Andy Burnham
+- Ed Miliband
+- Javier Milei
+- Kemi Badenoch
+- Trump
+- Wes Streeting
+organisations:
+- Conservative Party
+- Navitas Petroleum –
+- Rockhopper Exploration
 ---
 
 ![Argentina's President Javier Milei delivers a speech](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg)

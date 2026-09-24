@@ -15,6 +15,31 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21485360.jpg?type=og-image
+locations:
+- A690
+- County Durham
+- Crook
+- Crossgate Peth
+- DURHAM COUNTY COUNCIL
+- Darlington
+- Meadowfield
+- Nevilles Cross
+- Neville’s Cross
+- North Road
+- St John’s Road
+- Sutton Street
+people:
+- Cllr McGuinness
+- Tim McGuinness
+organisations:
+- BSIP
+- Bus Service Improvement Plan
+- Condemned County Durham
+- Department for Transport
+- Durham County Council
+- North East Mayoral Strategic Authority
+- Riverside
+- Why Durham County Council
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

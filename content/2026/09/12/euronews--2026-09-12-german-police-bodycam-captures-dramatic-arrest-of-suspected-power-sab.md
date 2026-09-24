@@ -13,6 +13,23 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Aachen
+- Brandenburg
+- Cologne
+- North Rhine-Westphalia
+- Saxony
+- Weisweiler
+people:
+- Armin Schuster
+- Daniel V.
+- Daniel V. The
+- Herbert Reul
+- Sonja Issel
+organisations:
+- CDU
+- Federal Public Prosecutor’s Office
+- Welt
 ---
 
 **Sonja Issel**

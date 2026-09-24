@@ -14,6 +14,12 @@ categories:
 - UK
 - Health & Fitness
 - Self-Improvement
+locations:
+- China
+- UK
+people: []
+organisations:
+- Peking University
 ---
 
 The type of sleep a person gets, rather than just the duration, influences the risk of developing dozens of diseases later in life, a large study of nearly 100,000 people reveals.

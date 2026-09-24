@@ -13,6 +13,40 @@ categories:
 - History
 - Travel
 image: https://images.euronews.com/articles/stories/09/91/80/80/1200x675_cmsv2_c94bb0e6-4683-5218-aae9-1100b6b50fc3-9918080.jpg
+locations:
+- Brussels
+- Canada
+- Denmark
+- France
+- Greenland
+- Labrador
+- Middle East
+- Miquelon
+- Miquelon-Langlade
+- New York
+- Newfoundland
+- North Atlantic
+- Ottawa
+- Pacific
+- Paris
+- Saint Pierre
+- Southern Ocean
+- Strait of Hormuz
+- Élysée
+people:
+- Emmanuel Macron
+- François Hollande
+- Mark Carney
+- Miquelon
+- Saint Pierre
+- Ursula von der Leyen
+organisations:
+- EU
+- Euronews
+- European Commission
+- Fulmar
+- Macron
+- United Nations General Assembly
 ---
 
 ## French President Emmanuel Macron is travelling to Saint Pierre and Miquelon this weekend, an archipelago the Élysée describes as "central to today's France."

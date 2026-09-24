@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Oregon
+- U.S.
+- United States
+people:
+- Biden
+- Jean Bruggeman
+- Jen Smyers
+- Ron Wyden
+- Trump
+organisations:
+- Congress
+- Freedom Network USA
+- ORR
+- Office of Refugee Resettlement
+- Office of Trafficking in Persons
+- Office on Trafficking in Persons
+- The Associated Press
+- Trump
 ---
 
 The Trump administration has ordered caregivers for migrant children to stop reporting human trafficking concerns directly to the office created to help victims, a change that critics say could make some vulnerable minors easier to deport.

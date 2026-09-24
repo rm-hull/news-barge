@@ -10,6 +10,18 @@ image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- AI Delivery
+- AI for Government
+- Agentic AI
+- Future plc
+- NTT DATA
+- SaaS
+- Saas
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

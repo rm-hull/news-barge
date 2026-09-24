@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Hawai
+- Hawaii
+- Hawaiʻi
+- Kauai
+- Kauaʻi
+- Lowell
+- Maui
+- Oahu
+- Poipu Beach
+- San Diego
+- San Francisco
+- Seattle
+- Wailua
+people:
+- Caroline Anderson
+- Chris White
+- Donald Trump
+- Gabriela Aoun Angueira
+- Josh Green
+- Kelly Kakalia
+- Musubi
+- Rodriguez
+- ___ Johnson
+organisations:
+- Associated Press
+- Hawai‘i Tourism Authority
+- Kea Resort
+- Sheraton Kauai Coconut Beach Resort
+- The Musubi Truck
 ---
 
 Tourism officials are asking visitors to steer clear of one of Hawaii’s most picturesque islands as residents and businesses work to recover from the latest tropical storm to thrash the state.

@@ -15,6 +15,25 @@ categories:
 - Sports
 - Lifestyle & Fashion
 - Travel
+locations:
+- Ayrshire
+- Brighton
+- Britain
+- Haxby Road
+- Scotland
+- Taste Trail
+- UK
+- York
+people:
+- Emma Keller
+- Felix
+- Forrest Gump
+- Rob Pope
+- Rob’s
+organisations:
+- Felix
+- KitKat
+- Nestlé
 ---
 
 *(Image: Supplied)*

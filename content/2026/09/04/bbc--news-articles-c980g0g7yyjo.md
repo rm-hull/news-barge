@@ -11,6 +11,42 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d13
 categories:
 - UK
 - News & Politics
+locations:
+- Americas
+- Argentina
+- Britain
+- Buenos Aires
+- England
+- Falkland Islands
+- Falklands
+- Guam
+- Iran
+- London
+- New York City
+- Pacific
+- Sea Lion
+- UK
+- US
+- Washington DC
+- Western Hemisphere
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- Keir Starmer
+- Margaret Thatcher
+- Reagan
+- Victoria Villarruel
+organisations:
+- Argentine Football Association
+- Falkland Islanders
+- Fifa
+- GB News
+- Navitas Petroleum
+- Rockhopper Exploration
+- UN’s General Assembly
+- USS Lexington
+- United Nations
 ---
 
 ![Argentine President Javier Milei, wearing a leather jacket, stands smiling with a closed fist raised against a black backdrop.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg)

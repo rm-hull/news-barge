@@ -12,6 +12,30 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354220.jpg?type=og-image
+locations:
+- BRADFORD
+- Bradford
+- Downing Street
+- El Niño
+- Europe
+- Pacific Ocean
+- UK
+- West Yorkshire
+people:
+- Chris Booth
+- Dame Angela Eagle
+- Dame Eagle
+- Dave Walton
+- Mike Simmonds
+- Stefan Rousseau
+organisations:
+- El Niño
+- Local Resilience Forum
+- Met Office
+- PA Wire
+- The Guardian
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Prepared
 ---
 
 BRADFORD residents are being advised to prepare for possible disruption as experts warn a record-breaking El Niño weather event could bring wetter and stormier conditions to the UK this winter.

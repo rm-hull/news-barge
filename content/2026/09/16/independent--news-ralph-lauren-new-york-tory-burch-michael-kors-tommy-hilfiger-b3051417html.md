@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Kallmeyer
+- London
+- Milan
+- Monse
+- Museum of Modern Art
+- New York
+- Paris
+people:
+- Carolina Herrera
+- Chartreuse
+- Daniella Kallmeyer
+- Diane von Furstenberg
+- ELLE
+- Eckhaus Latta
+- Henry Zankov
+- Jonathan Simkhai
+- Kevin Huynh
+- Matthew Velasco
+- Michael Kors
+- Mike Eckhaus
+- Proenza Schouler
+- Rachel Comey
+- Ralph Lauren
+- Sergio Hudson
+- Thom Browne
+- Tommy Hilfiger
+- Tory Burch
+- Yves Klein
+- Zoe Latta
+- von Furstenberg
+organisations:
+- InStyle Fashion
+- New York Fashion Week
+- The Associated Press
+- The Plaza Hotel
+- Tory Burch
 ---
 
 Across the runways this New York Fashion Week, designers reimagined spring dressing by shaking up the season’s staples of florals and pastels, opting instead for more modern and irreverent trends.

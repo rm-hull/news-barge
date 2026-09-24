@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - Technology & Software
 - Education & Learning
+locations:
+- Azerbaijan
+people:
+- Gunay Imanzade
+- Melisa Yildiz
+organisations:
+- Baku
 ---
 
 **Euronews**

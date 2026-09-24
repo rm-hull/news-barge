@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Calder Valley
+- Ewood Holmes
+- Moderna Way
+- Mytholmroyd
+- YOUR
+people:
+- Mytholmroyd
+organisations:
+- Calderdale Council
+- Environment Agency
+- Halifax League
+- Mytholmroyd Cricket Club
+- Public Notice Portal
 ---
 
 *(Image: Image from the planning documents)*

@@ -12,6 +12,59 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Asia
+- Britain
+- Cambridge
+- Clacton
+- Hong Kong
+- Kyiv
+- Manhattan
+- Sheffield
+- Thailand
+- UK
+- US
+- Ukraine
+- Westminster
+people:
+- Ben Delo
+- Boris Johnson
+- Brexit
+- Chakrit Sakunkrit
+- Christopher Harborne
+- Donald Trump
+- Jordan Pettitt
+- Mr Farage
+- Mr Harborne
+- Nigel Farage
+- Tether
+- Volodymyr Zelensky
+organisations:
+- AML Global
+- BitMEX
+- Bitcoin
+- Brexit Party
+- CNBC
+- Commons
+- Commonwealth
+- Delo
+- Downing College
+- JP Morgan
+- Lord Williams's School
+- MBA
+- McKinsey and Co
+- Ministry of Defence
+- MoD
+- Qinetiq
+- Reform UK
+- Sherriff Global Group
+- Singular AI Consulting Limited
+- Tether
+- The Times
+- Tories
+- US Department of Justice
+- University of Oxford
+- Westminster School
 ---
 
 Reform UK has received £72m as two cryptocurrency billionaires have backed Nigel Farage’s party with major donations just days apart.

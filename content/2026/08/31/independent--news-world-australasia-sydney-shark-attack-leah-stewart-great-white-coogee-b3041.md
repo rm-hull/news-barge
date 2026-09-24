@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Balmoral
+- Coogee Beach
+- Lady Bay
+- New South Wales
+- Sydney Harbour
+people:
+- Charlie Verco
+- Leah Stewart
+- Ms Stewart
+organisations:
+- ABC
+- CPR
 ---
 
 A Sydney woman who survived a shark attack described how she fought back against a four-metre-long great white, repeatedly punching the predator as it dragged her under the water.

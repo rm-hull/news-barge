@@ -13,6 +13,34 @@ image: https://i.guim.co.uk/img/media/5693a644ba2b520ca5cc7047ae682c4f6b0cb6b8/6
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Britain
+- Cyprus
+- Downing Street
+- East Jerusalem
+- Gaza Strip
+- Germany
+- Israel
+- Israel-Palestine
+- London
+- Ma’ale Adumim
+- Nicaragua
+- RAF Akrotiri
+- South Africa
+- UK
+- US
+- West Bank
+people:
+- Bezalel Smotrich
+- David Lammy
+- Ed Miliband
+- Francesca Albanese
+- Mike Huckabee
+organisations:
+- Guardian
+- ICJ
+- UN
 ---
 
 The UK’s planned ban on trade with unlawful Israeli settlements is a welcome, if overdue, first step and must be judged according to its practical impact, a UN expert has told the Guardian.

@@ -12,6 +12,61 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/11/End_of_Life_Options_81234.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- California
+- Chicago
+- England
+- Gridley
+- Illinois
+- Lombard
+- Minnesota
+- New York
+- Oregon
+- San Diego
+- Springfield
+- St. Paul
+- U.S.
+- Vatican
+- Washington
+people:
+- Andy Huette
+- Anita Hannig
+- Blase Cupich
+- Champagne
+- Deb Robertson
+- Ebony Payne
+- God
+- JB Pritzker
+- Javier Arciga
+- Jessica Kaan
+- Kate
+- Laura Bargfeld
+- Leo XIV
+- Peg Sandeen
+- Peter Redgrove
+- Rabbi Dvora E. Weisberg
+- Sylvester
+- Thaddeus Pope
+- Thomas Paprocki
+organisations:
+- AP
+- American Association of Suicidology
+- Catholic Church
+- Death with Dignity National Center
+- Deb’s
+- District of Columbia
+- End of Life Washington
+- Hebrew Union College
+- Lilly Endowment Inc
+- MAID
+- Medical Assistance in Dying
+- Mitchell Hamline School of Law
+- Reform
+- The Alan Parsons Project
+- The Associated Press
+- The Conversation US
+- \_\_\_ Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

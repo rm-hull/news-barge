@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Black Sea
+- Chita
+- Crimea
+- Kremlin
+- Kyiv
+- Moscow
+- Omsk
+- Ozon
+- Russia
+- Siberia
+- St. Petersburg
+- U.S.
+- Ukraine
+- Ural Mountains
+- Voronezh
+- Wildberries
+- Yekaterinburg
+people:
+- Chris Weafer
+- Denis Volkov
+- Kirill Goncharov
+- Ksenia Smirnova
+- Margarita Terekhova
+- Mikhail Khodorkovsky
+- Muscovite
+- Natalya Bazhenova
+- Nikolay Petrov
+- Tatiana Stanovaya
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yabloko
+organisations:
+- AP
+- Carnegie Russia Eurasia Center
+- Defense Ministry
+- Levada Center
+- Macro-Advisory Ltd
+- NEST Centre
+- Ozon
+- State Duma
+- Supreme Court
+- The Associated Press
+- Wildberries
+- Yabloko
 ---
 
 There were long lines at gas pumps, turning each fill-up into an ordeal. Flights to vacation destinations were canceled, delayed or rerouted. Online orders were disrupted as e-commerce hubs were set ablaze by buzzing drones.

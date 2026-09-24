@@ -13,6 +13,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- York
+people:
+- Emily Jenkins
+- Halima Kamran
+- Ms Jenkins
+- Simon Hickey
+- Zack Bowes
+organisations:
+- CCTV
+- North Yorkshire Police
+- York Crown Court
 ---
 
 *(Image: North Yorkshire Police)*

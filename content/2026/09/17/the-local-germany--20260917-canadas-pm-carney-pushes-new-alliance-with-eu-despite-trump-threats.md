@@ -14,6 +14,27 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Atlantic
+- Canada
+- Europe
+- Montreal
+- Strasbourg
+- US
+- Ukraine
+- Washington
+people:
+- Carney
+- Donald Trump
+- Friedrich Merz
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- Kyiv
+- State of the European Union
 ---
 
 His speech came after EU chief Ursula von der Leyen suggested Canada could become the 27-nation bloc's first "associate member" in her annual "State of the European Union" address on Wednesday.

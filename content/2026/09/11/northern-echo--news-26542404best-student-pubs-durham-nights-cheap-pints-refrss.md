@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Auckland
+- Durham Castle
+- New Elvet
+- North East
+- Old Elvet
+- River Wear
+- Saddler Street
+- Tudor
+- UK
+people:
+- Chris BOOTH
+- George Gently
+organisations:
+- BBC
+- Boat Club
+- Dun Cow
+- Dun Cow The Dun Cow
+- Durham University
+- Half Moon Inn
+- Newcastle
+- Pubs
+- The Boat Club
+- The Half Moon Inn
+- The Undercroft Bar
 ---
 
 Durham may be one of the UK's smallest university cities, but its student nightlife packs a serious punch.

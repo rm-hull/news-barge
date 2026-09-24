@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/0f1949c6d59f53071a1d4389128f79c6e7bef9fe/1
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- East Jerusalem
+- Gaza
+- Israel
+- London
+- Palestine
+- South Africa
+- UK
+- West Bank
+people:
+- Ed Miliband
+- Gideon Sa’ar
+- Humanity
+- Omar Barghouti
+- Yachad
+organisations:
+- BDS
+- Board of Deputies
+- Commons
+- ICJ
+- International Court of Justice
+- Jewish Leadership Council
+- UN
 ---
 
 Britain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade with illegal Israeli settlements or imposing further sanctions, Omar Barghouti, the co-founder of the Boycott, Divestment, Sanctions (BDS) movement has said.

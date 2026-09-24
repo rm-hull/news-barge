@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/20863046.jpg?type=og-image&xType=0&yType=66
+locations:
+- Our Yorkshire Farm
+- Ravenseat Our Yorkshire Farm
+- Yorkshire Dales
+people:
+- '### Reuben Owen'
+- Amanda Owen
+- Annas
+- Anty John’s
+- Clemmy
+- Clive Owen
+- Edith
+- Jess
+- Miles
+- Nancy
+- Raven
+- Reuben Owen
+- Sidney
+organisations:
+- Channel 5
+- More4
+- Our Yorkshire Farm
+- PA Wire
+- Reuben & Clive
+- Telegraph
+- Violet
 ---
 
 Reuben Owen has become one of Our Yorkshire Farm's biggest success stories, with fans keen to know what the future holds for him on screen.

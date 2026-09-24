@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bandar Abbas
+- Bishkek
+- Chabahar
+- China
+- Islamic Republic of Iran
+- Jordan
+- Larak Island
+- Lebanon
+- Persian Gulf
+- Qeshm Island
+- Russia
+- Strait of Hormuz
+- Tehran
+- U.S.
+- US
+- Washington
+people:
+- Donald Trump
+- Esmaeil Baghaei
+- Masoud Pezeshkian
+- Mohammad Baqer QalibafIran
+- Scott Bessent
+organisations:
+- Fars
+- IRGC
+- Islamic Revolutionary Guard Corps
+- MOU
+- Nour News
+- Reuters
+- Shanghai Cooperation Organisation
+- US Central Command
 ---
 
 The US launched new airstrikes on Iranian targets on Tuesday, quashing hopes that an exchange of fire last weekend might not presage a wider renewal of hostilities.

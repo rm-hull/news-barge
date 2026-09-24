@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- Burnham Beeches
+- Epping Forest
+- Essex
+- Manor Park
+- UK
+people:
+- Caroline Haines
+- Ms Haines
+organisations:
+- City of London Corporation
+- Epping Forest and Commons Committee
 ---
 
 A surge in social media videos showing influencers picking wild mushrooms is putting Epping Forest’s ecosystem at risk, experts have warned.

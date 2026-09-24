@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alaska
+- Georgia
+- Iran
+- Maine
+- New Hampshire
+- North Carolina
+- Ohio
+- South Carolina
+- Texas
+people:
+- Darline Graham Nordone
+- Donald Trump
+- Jim McLaughlin
+- Laura Ingraham
+- Lindsey Graham
+- Ned Ryun
+- Terry Holt
+organisations:
+- America Majority
+- Fox News
+- GOP
+- House of Representatives
+- MAGA Inc
+- PAC
+- Politico
+- Senate
+- South Carolina Sen
+- The New York Post.
+- Trump
 ---
 
 Republicans are looking at “historic losses” in the upcoming midterm elections, with new polling showing the GOP lagging in eight battleground Senate races, a top strategist has warned.

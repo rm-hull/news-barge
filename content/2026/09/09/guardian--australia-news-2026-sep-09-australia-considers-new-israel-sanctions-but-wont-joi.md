@@ -12,6 +12,53 @@ image: https://i.guim.co.uk/img/media/4212e2a588b98b5ba2126caae45f86d12d20da44/5
 categories:
 - UK
 - News & Politics
+locations:
+- Australia
+- Bondi Beach
+- Britain
+- Canada
+- Denmark
+- Finland
+- France
+- Gaza
+- Iceland
+- Ireland
+- Israel
+- Middle East
+- Norway
+- Palestine
+- Poland
+- Portugal
+- Spain
+- Sweden
+- Today
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Bart Shteinman
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Colin Rubenstein
+- Ed Husic
+- Ed Miliband
+- Emmanuel Macron
+- Itamar Ben-Gvir
+- Julian Leeser
+- Mark Carney
+- Penny Wong
+- Rawan Arraf
+- Zomi Frankcom
+organisations:
+- Australian Centre for International Justice
+- Coalition
+- Hamas
+- Israel Defense Forces’
+- Jewish Affairs Council
+- Jewish Council of Australia
+- Labor
+- PA
+- Palestinian Authority
 ---
 
 Australia is preparing another round of sanctions against Israel but has stopped short of joining the UK in banning trade with Israeli settlements in the West Bank.

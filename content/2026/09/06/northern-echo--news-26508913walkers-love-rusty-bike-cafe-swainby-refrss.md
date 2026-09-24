@@ -15,6 +15,25 @@ categories:
 - Travel
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Black Horse Lane
+- Britain
+- Cleveland Hills
+- Coast to Coast
+- East Cleveland
+- England
+- North York Moors
+- North Yorkshire
+- Rusty Bike Cafe
+- Saltburn
+- Swainby
+people:
+- Swainby
+organisations:
+- Google
+- Rusty Bike Cafe
+- Swainby
+- TripAdvisor
 ---
 
 *(Image: TRIPADVISOR)*

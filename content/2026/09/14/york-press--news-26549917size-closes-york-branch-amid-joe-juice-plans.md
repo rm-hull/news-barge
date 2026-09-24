@@ -12,6 +12,38 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Africa
+- Asia
+- Birmingham
+- Brighton
+- Bristol
+- Cambridge
+- Copenhagen
+- Europe
+- Leeds
+- Liverpool
+- London
+- Manchester
+- Middle East
+- North America
+- Oxford
+- South East England
+- St Sampson's Square
+- UK
+- United States
+- York
+people:
+- Régis Schultz
+organisations:
+- Barratts
+- Cloggs
+- Finish Line
+- Hip
+- JD Group
+- Joe & The Juice
+- Local Democracy Reporting Service
+- Newsquest
 ---
 
 *(Image: Newsquest)*

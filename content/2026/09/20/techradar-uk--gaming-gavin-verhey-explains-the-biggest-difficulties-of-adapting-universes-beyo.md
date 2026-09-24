@@ -13,6 +13,43 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/W3EZZkvxqSt7kGhnzSbZvf-1616-80.jpg
+locations:
+- Echoverse
+- Gamescom
+- MagicCon Atlanta
+- Middle Earth
+- New York City
+- Shire
+- The Shire.
+people:
+- '![Gandalf'
+- Bilbo
+- Black
+- Blue
+- Doctor Doom
+- Gavin Verhey
+- Green
+- Jace
+- Korra
+- Lorwyn
+- Ravnica
+- Sauron
+- Spock
+- Thanos
+organisations:
+- Bears
+- Food and Fellowship
+- Goblin Army
+- Google News
+- Hamish
+- Magic
+- MtG
+- Star Wars
+- TechRadar
+- Verhey
+- Wizards of the Coast
+- World of Warcraft
+- YouTube
 ---
 
 ![Gandalf, Bilbo, and the Dwarves head out from The Shire.](https://cdn.mos.cms.futurecdn.net/W3EZZkvxqSt7kGhnzSbZvf.jpg)

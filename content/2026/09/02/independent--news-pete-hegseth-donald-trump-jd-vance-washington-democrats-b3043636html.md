@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/08/07/17/Army_Driscoll_Test_Ranges_
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- Rhode Island
+- Russia
+- U.S.
+- Ukraine
+- White House
+people:
+- Christopher LaNeve
+- Dan Driscoll
+- Donald Trump
+- JD Vance
+- Jack Reed
+- Pete Hegseth
+- Randy George
+organisations:
+- Army
+- Congress
+- Defense
+- Pentagon
+- Senate Armed Services Committee
+- The Associated Press
 ---
 
 Dan Driscoll has announced that his last full day as U.S. Army secretary is Wednesday, but his social media post offered no explanation for why he is stepping down after 18 months as the service's civilian leader.

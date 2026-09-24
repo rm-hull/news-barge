@@ -12,6 +12,55 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Blackburn
+- Blackpool
+- Brighton
+- Cambridgeshire
+- Derby
+- Derbyshire
+- Devon
+- East Sussex
+- England
+- Essex
+- Gloucestershire
+- Hampshire
+- Hertfordshire
+- Kent
+- Leicester
+- Medway
+- Norfolk
+- North East Lincolnshire
+- North Lincolnshire
+- Nottingham
+- Nottinghamshire
+- Peterborough
+- Plymouth
+- Rutland
+- Staffordshire
+- Stoke-on-Trent
+- Suffolk
+- Surrey
+- Torbay
+- West Berkshire
+- West Sussex
+- Westminster
+people:
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Nigel Farage
+- Steve Reed
+organisations:
+- Darwen
+- Houses of Parliament.
+- Lancashire
+- Leicestershire
+- Lincolnshire
+- Oxfordshire
+- Reform UK
+- Warwickshire
+- Worcestershire
 ---
 
 ![Local Government Secretary Angela Rayner](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg)

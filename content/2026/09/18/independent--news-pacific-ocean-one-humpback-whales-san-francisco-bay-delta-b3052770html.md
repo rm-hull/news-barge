@@ -12,6 +12,29 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/18/23/California_River_Humpback_Whale_95188.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Baja California
+- Earth
+- Maine
+- Pacific Ocean
+- Portland
+- Rio Vista
+- Sacramento River
+- Sacramento River Delta
+- Sacramento-San Joaquin Delta
+- San Francisco Bay
+- Sausalito
+people:
+- Dawn
+- Denny Glover
+- Humphrey
+- Kathi George
+- ___ Whittle
+organisations:
+- California Department of Fish and Wildlife and National Oceanic and Atmospheric
+  Administration
+- Delta
+- The Marine Mammal Center
 ---
 
 Denny Glover was hoping for a big catch when he went fishing with buddies on the Sacramento River, but he wasn't expecting a fully grown humpback whale.

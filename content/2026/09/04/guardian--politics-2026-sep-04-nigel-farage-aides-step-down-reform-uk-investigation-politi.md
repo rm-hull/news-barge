@@ -11,6 +11,35 @@ image: https://i.guim.co.uk/img/media/878526afaa236ee3c1103937ba50a80570bdcca3/6
 categories:
 - UK
 - News & Politics
+locations:
+- Clacton
+- Metropolitan
+- US
+people:
+- Bridget Phillipson
+- Dan Jukes
+- Danny Kruger
+- Ed Davey
+- James Orr
+- Lee Anderson
+- Nigel Farage
+- Richard Tice
+organisations:
+- BBC Radio 4’s Today
+- Centre for Climate Reporting
+- Channel 4 News
+- Electoral Commission
+- Guardian
+- JL Partners
+- KC
+- LBC
+- Labour
+- Liberal Democrats
+- Reform UK
+- Sky News
+- Telegraph
+- Times
+- Verbatim
 ---
 
 Reform UK has suspended two senior officials after they were filmed in an undercover investigation appearing to plot to get around electoral laws on foreign donations.

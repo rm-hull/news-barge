@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- England
+- Harraton
+- St George’s Church
+- Washington
+people:
+- Jordan Pickford
+- Kevin Ball
+- Maurice Hepworth
+organisations:
+- A66
+- Cleveland Police
+- Darlington
+- Ex-Durham
+- Sunderland
 ---
 
 A former footballer is launching a new book with the support of a Sunderland legend.

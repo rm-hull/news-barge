@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Chicago
+- Hell Creek Formation
+- Montana
+people:
+- David DeMar Jr
+- Greg Wilson Mantilla
+- Jingmai O’Connor
+organisations:
+- Field Museum
+- University of Washington
 ---
 
 The feather of a bird eaten by a dinosaur 66 million years ago could provide the answer to one of science’s great mysteries.

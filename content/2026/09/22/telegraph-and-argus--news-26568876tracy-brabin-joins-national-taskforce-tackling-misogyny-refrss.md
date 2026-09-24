@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20561896.jpg?type=og-image
+locations:
+- WYCA
+- West Yorkshire
+people:
+- Bridget Phillipson
+- Felicity Oswald
+- Tracy Brabin
+organisations:
+- '### Group'
+- Girlguiding
+- Government
+- Newsquest
+- West Yorkshire Combined Authority
+- Women and Equalities
+- Women and Equalities’
 ---
 
 *(Image: WYCA)*

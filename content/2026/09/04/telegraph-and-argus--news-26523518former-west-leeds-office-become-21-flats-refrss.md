@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Kingswood House
+- Leeds
+- Richardshaw Lane
+- Stanningley
+- YOUR
+people: []
+organisations:
+- Bauer Group
+- Leeds City Council
+- Logic Architecture
+- Public Notice Portal
 ---
 
 *(Image: Logic Architecture.)*

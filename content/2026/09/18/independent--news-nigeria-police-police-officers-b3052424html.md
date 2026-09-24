@@ -14,6 +14,15 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- Niger State
+- Nigeria
+people:
+- Mohammed Umaru Bago
+organisations:
+- Interior
+- Nigeria Security and Civil Defense Corps
+- The Associated Press
 ---
 
 Police in Nigeria fired tear gas at dozens of people who gathered Friday to protest the deaths of 37 miners while they were in custody.

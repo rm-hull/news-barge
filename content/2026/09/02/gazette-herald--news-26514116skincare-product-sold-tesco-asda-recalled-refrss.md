@@ -14,6 +14,18 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Republic of Ireland
+- Skin Micellar Cleansing Water
+- UK
+people: []
+organisations:
+- Asda
+- Consumer Careline
+- Simple
+- Superdrug
+- Tesco
+- Unilever’s Consumer Careline
 ---
 
 *(Image: Getty)*

@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Science
 - Education & Learning
+locations:
+- Chicago
+people:
+- Christopher Sweet
+- Daniel McGrath
+- Scott Langmack
+organisations:
+- AI
+- DOGE
+- Democracy Forward
+- Department of Government Efficiency
+- Department of Housing and Urban Development
+- Freedom of Information Act
+- HUD
+- Kukun
+- Legislative & Regulatory Authority
+- LinkedIn
+- OMB
+- Office of Management and Budget
+- Sweet
+- Trump-Vance
+- University of Chicago
+- WIRED
 ---
 
 Christopher Sweet, an affiliate of the so-called Department of Government Efficiency, requested college credit for his time in government, according to new documents obtained by a Freedom of Information Act request filed by Democracy Forward, a nonprofit legal organization.

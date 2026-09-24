@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/5749d7ec9d0bcc6b9a3b96761a8435e16820a9b9/2
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Germany
+- Magdeburg
+- Mecklenburg Vorpommen
+- Saxony-Anhalt
+- Washington
+people:
+- Katja Pähle
+- Maga
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative für Deutschland
+- Artgemeinschaft
+- Die Zeit
+- GDR
+- HDJ
+- MP-elect
+- SPD
+- Social Democrats
+- Stasi
+- ZDF
+- ex-Stasi
 ---
 
 The Alternative für Deutschland is facing scrutiny over the suitability of some of its prospective new MPs – including a former Stasi officer and a former pornography actor – just days after its historic win in the German state of Saxony-Anhalt.

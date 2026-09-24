@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Marokopa
+- New Zealand
+- North Island
+- Waikato
+people:
+- Amanda Malu
+- Louise Upston
+- Oranga Tamariki
+- Phillips'
+- Simon Moore
+- Tom Phillips
+organisations:
+- High Court
+- Oranga Tamariki
+- Phillips
 ---
 
 A major inquiry into the case of New Zealand man Tom Phillips, who hid his children in dense forest for years before he died in a police shootout, has criticized officials for not taking seriously enough the harms and risks to the children early in the saga of their disappearance.

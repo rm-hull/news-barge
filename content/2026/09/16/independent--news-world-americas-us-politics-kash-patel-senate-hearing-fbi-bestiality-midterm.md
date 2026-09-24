@@ -13,6 +13,40 @@ image: https://static.independent.co.uk/2026/09/15/16/2295416101..?trim=0,1,0,1&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Atlantic
+- Connecticut
+- Deep State
+- Hawaii
+- Iran
+- Louisiana
+- Minnesota
+- Ohio
+- Sen
+- Tennessee
+- U.S.
+- United States
+- Vermont
+people:
+- Alex Pretti
+- Corey Lewandowski
+- Dick Durbin
+- Epstein
+- John Neely Kennedy
+- Kash Patel
+- Marsha Blackburn
+- Mazie Hirono
+- Peter Welch
+- Renee Good
+- Richard Blumenthal
+- Trump
+organisations:
+- Epstein
+- FBI
+- ICE
+- Senate
+- Trump
 ---
 
 FBI director Kash Patel testified to the Senate Tuesday in a hearing that almost immediately descended into discussions about bestiality. Because that’s the world we live in now.

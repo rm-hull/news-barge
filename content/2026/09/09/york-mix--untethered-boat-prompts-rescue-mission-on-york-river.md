@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - History
+locations:
+- Millennium Bridge
+- The York
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Firefighters and river users combined to sort a problem on the river in York last night (Tuesday).

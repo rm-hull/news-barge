@@ -11,6 +11,31 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7114/live/73ceb2
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Downing Street
+- London
+- UK
+- Westminster
+people:
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Kemi Badenoch
+- Nigel Farage
+- Robert Jenrick
+organisations:
+- BBC
+- Electoral Commission
+- Greens
+- Houses of Parliament.
+- Labour
+- Laura Kuenssberg
+- Liberal Democrats
+- Number 10
+- Reform
+- UnHerd
 ---
 
 ![Reform UK leader Nigel Farage is wear a turquoise-coloured suit jacket, white shirt and a red tie with white dots.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7114/live/73ceb2f0-af95-11f1-a540-61c3f7fc4e6c.jpg)

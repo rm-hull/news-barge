@@ -10,6 +10,21 @@ description: Ukraine’s BARS drone gets a major upgrade with heavier warheads, 
 image: https://cdn.mos.cms.futurecdn.net/W9RVerhmmu7oGfVvUmtKNE-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Europe
+- Germany
+- Moscow
+- Ukraine
+people:
+- Andrii Sybiha
+- Boris Pistorius
+organisations:
+- '## BARS'
+- Defense Forces
+- Efosa
+- Google News
+- Kyiv
+- TechRadar Pro
 ---
 
 ![Ukrainian BARS-SM jet-powered strike drone](https://cdn.mos.cms.futurecdn.net/W9RVerhmmu7oGfVvUmtKNE.png) 

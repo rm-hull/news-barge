@@ -10,6 +10,18 @@ image: https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Craig Hale
+- Docmail
+organisations:
+- CFH
+- Craig’s
+- Docmail
+- Google News
+- NHS
+- TechRadar Pro
 ---
 
 ![A person in a medical practice typing on a laptop.](https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK.jpg) 

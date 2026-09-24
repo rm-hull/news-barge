@@ -10,6 +10,53 @@ description: Our favorite innovations from the massive IFA 2026 tech show
 image: https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Berlin
+- London
+- Mount Everest
+- US
+people:
+- Adriana Brownlee
+- Anker
+- Aurélien Fontenoy
+- Carrie Marshall
+- EarFun
+- Josephine Cochrane
+- Luna Gray
+- Strutt
+organisations:
+- '### DJI Romo'
+- '### Lenovo ThinkBook'
+- '### TCL'
+- A3
+- ANC
+- AX1
+- Agibot
+- Alexa
+- Anker's BioSync
+- Asus
+- Auracast
+- Celestial White
+- Dolby Vision
+- EarFun
+- EcoBot AI
+- EcoFlow
+- Google Assistant
+- Google Calendar
+- Google News
+- IFA
+- IRIS Ultra Max
+- LDAC
+- MALC
+- Nvidia
+- Plaud Agent
+- Triple-Laser Engine
+- USB Audio
+- Unquiet Mind
+- X Ultra S
+- XPPen
+- aptX Lossless
+- eVSense
 ---
 
 ![IFA Berlin](https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE.jpg) 

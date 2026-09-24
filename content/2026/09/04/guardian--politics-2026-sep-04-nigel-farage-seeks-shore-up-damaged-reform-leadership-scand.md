@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Birmingham
+- Britain
+- Cambridge
+- Clacton
+- London
+- UK
+- US
+people:
+- Andy Burnham
+- Dan Jukes
+- James Orr
+- Jordan Bardella
+- Nadine Dorries
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+- Rupert Lowe
+- Zia Yusuf
+organisations:
+- Centre for Climate Reporting
+- Channel 4 News
+- Electoral Commission
+- JL Partners
+- Labour
+- Lib Dems
+- Reform UK
+- University of Cambridge
+- Verbatim
 ---
 
 Nigel Farage sought to shore up his damaged leadership on Friday as he attempted to distance himself from two of his most senior officials reported to the police for apparently plotting to evade the law on foreign donations.

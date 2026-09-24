@@ -13,6 +13,17 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Buckingham Palace
+- Paris
+people:
+- Charles III
+- Charles Spencer
+- Diana
+- Prince Harry
+- William
+organisations:
+- Daily Mail
 ---
 
 Buckingham Palace has forcefully denied a claim by the brother of the late Princess Diana that King Charles III said she would soon be forgotten after her death.

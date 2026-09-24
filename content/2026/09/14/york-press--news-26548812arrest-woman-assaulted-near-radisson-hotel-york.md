@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- North Street
+- Radisson Hotel
+- York
+people: []
+organisations:
+- Crimestoppers
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

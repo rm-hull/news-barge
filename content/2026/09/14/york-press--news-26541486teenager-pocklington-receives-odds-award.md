@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Bristol
+- Pocklington
+people:
+- Becki
+- Ben Hardy
+- David Harrison
+- Lexi Medforth
+organisations:
+- David Harrison Photography
+- Hero Arm
+- NHS
+- Open Bionics
+- Open Bionics Clinic
+- Open Bionics Foundation
 ---
 
 *(Image: David Harrison Photography)*

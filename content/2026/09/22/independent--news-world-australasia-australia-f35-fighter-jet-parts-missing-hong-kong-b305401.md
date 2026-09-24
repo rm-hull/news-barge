@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/07/2207309677..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- China
+- Hong Kong
+- US
+- United States
+- Washington
+people:
+- John Conway
+- Richard Marles
+organisations:
+- ABC
+- Australian Broadcasting Corporation
+- DLA
+- Defence Logistics Agency
+- Department of War
+- F-35 Joint Program Office
+- Lockheed Martin
+- Pentagon
+- Politico
+- The Independent
+- US Government Accountability Office
 ---
 
 Australia has confirmed that F-35 fighter jet components shipped from the country were diverted to Hong Kong, prompting a security investigation into how the parts ended up there and whether sensitive military technology could have been exposed.

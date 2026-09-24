@@ -14,6 +14,32 @@ categories:
 - Film & TV
 - Music
 - Arts & Culture
+locations:
+- Cardiff
+- England
+- Lido
+- Manchester
+- Paris
+- Southern
+- Wales
+people:
+- Andy Bell
+- Arthurs
+- Dylan Southern
+- Gem Archer
+- Joey Waronker
+- Liam Gallagher
+- Noel
+- Paul “Bonehead
+- Steven Knight
+- Will Lovelace
+organisations:
+- Disney
+- Guardian
+- No. 1
+- Oasis
+- The Associated Press
+- U.K.’s
 ---
 
 The Gallagher brothers brought some rock star energy to a sleepy, and sweaty, Venice Film Festival Saturday, where the documentary about their reunion tour is making its world premiere. And like true rock stars, after giving a few waves for photographers on the Lido docks, they skipped the whole “news conference” bit.

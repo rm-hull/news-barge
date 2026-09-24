@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iowa
+- Maryland
+- US
+- Washington DC
+people: []
+organisations:
+- ARS
+- Agricultural Research Service
+- Beltsville Agricultural Research Center
+- CDC
+- Centers for Disease Control and Prevention
+- Congress
+- Politico
+- Reuters
+- Trump
+- US Department of Agriculture
+- USDA
+- Washington DC
 ---
 
 The Trump administration is shuttering two of the three US Department of Agriculture research projects studying cyclospora after the foodborne parasite has sickened tens of thousands of Americans during the summer, Politico reported on Sunday.

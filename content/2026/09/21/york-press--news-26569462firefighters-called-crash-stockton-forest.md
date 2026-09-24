@@ -12,6 +12,17 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/18563962.jpg?type=og-image
+locations:
+- A64
+- CLEVELAND
+- Forest
+- North Lane
+- North Yorkshire
+- Stockton
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

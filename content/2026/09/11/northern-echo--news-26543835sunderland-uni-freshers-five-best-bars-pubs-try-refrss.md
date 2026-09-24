@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Pixabay
+- St Peter's
+- Sunderland
+- Sunniside
+people:
+- Ira Lee Nesbitt
+organisations:
+- Diego’s Joint
+- Tripadvisor
+- University of Sunderland
 ---
 
 *(Image: Ira Lee Nesbitt/Pixabay)*

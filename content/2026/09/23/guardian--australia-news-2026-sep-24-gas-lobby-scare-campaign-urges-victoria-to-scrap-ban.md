@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/747c9b4b172e0f9884f651c831d8979b7d7b8c02/132_0_3184_2548/master/3184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10a9e445a30bb271ea71db0fead0f950
+locations:
+- Bass Strait
+- Victoria
+people:
+- Ben Carroll
+- Ellen Sandell
+- Francis Vierboom
+- Jaclyn Symes
+- Jonathan La Nauze
+- Ken McAlpine
+- Tony Wood
+organisations:
+- AGIG
+- Australian Energy Regulator
+- Australian Gas Infrastructure Group
+- Coalition
+- Environment Victoria
+- Grattan Institute
+- Greens
+- Guardian Australia
+- Hong-Kong
+- La Nauze
+- Labor
+- Rewiring Australia
 ---
 
 The gas industry has been accused of unleashing a “scare campaign” before the Victorian election as it pressures the state government to reverse a ban on gas in new homes.

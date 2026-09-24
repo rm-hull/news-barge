@@ -10,6 +10,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/11/10/2275560804..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Boston
+- China
+- Iran
+- Taiwan
+- US
+- Washington
+- White House
+people:
+- Donald Trump
+- Guo Jiakun
+- Min Zin
+- Xi Jinping
+- Youlin Chen
+- Yufang Rong
+organisations:
+- Beijing International Airport
+- National Security Council
+- State Department
+- US Air Force Research Laboratory
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

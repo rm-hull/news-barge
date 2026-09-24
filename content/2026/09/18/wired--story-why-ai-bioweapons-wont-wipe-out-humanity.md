@@ -11,6 +11,36 @@ image: https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- California
+- DC
+- Silicon Valley
+- Sunnyvale
+- Washington
+people:
+- AI
+- Claude
+- Dario Amodei
+- David Bellamy
+- Derya Unutmaz
+- Francois Belloux
+- Jason Kelly
+- Olivia Scharfman
+- Steph Guerra
+organisations:
+- AGI
+- AI
+- Anthropic
+- Arc Institute
+- Ginkgo Bioworks
+- Google Translate
+- Institute for Progress
+- Institute of Foundation Models
+- OpenAI
+- Rand Corporation
+- Stanford University
+- WIRED
 ---
 
 Concerns about an AI-induced apocalypse are reaching a fever pitch, from Silicon Valley to Washington, DC.

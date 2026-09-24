@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bedfordshire
+- Kaseya Center
+- Luton
+- Miami
+- Romania
+- UK
+- US
+people:
+- Andrew Tate
+- Eugen Constantin Vidineac
+- Tates
+- Tristan Tate
+organisations:
+- DIICOT
+- Romanian Directorate for Investigating Crime and Terrorism
+- Tristan
 ---
 
 ![Tristan Tate is wearing sunglasses and is dressed in a green suit and tie and white shirt. Andrew is to his right in sunglasses and an open necked shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/cea0/live/53ea8800-a8a7-11f1-b9ae-958b89fa84e3.jpg)

@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Arts & Culture
 - Books & Literature
+locations:
+- County Road
+- Liverpool
+- Southport
+- Spellow
+people:
+- Alex McCormick
+- Frank Cottrell-Boyce
+- Giles Andreae
+- Lyndsey Crowther-Jones
+- Queen Camilla
+- Sean McEvoy
+organisations:
+- BBC Merseyside
+- BBC Radio Merseyside
+- Camilla Library
+- Spellow Lane Community Hub and Library
+- Spellow Library
+- St Francis De Sales
 ---
 
 ![Queen Camilla in a dress of white circles on a black background talks to a boyu and two girls in green school uniform.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/f2d2/live/c63e9e90-a862-11f1-ae45-e9984fc27c77.png)

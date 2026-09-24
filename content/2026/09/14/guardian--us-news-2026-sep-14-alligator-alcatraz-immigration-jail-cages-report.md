@@ -12,6 +12,34 @@ image: https://i.guim.co.uk/img/media/917c6c1c703ffefa53cc958b0aaa79c67bef2597/0
 categories:
 - UK
 - News & Politics
+locations:
+- Alligator Alcatraz
+- Florida Everglades
+- Georgia
+- Illinois
+- US
+people:
+- Alex Lanfranconi
+- Amy Fischer
+- Dick Durbin
+- Jon Ossoff
+- Krish O’Mara Vignarajah
+- Ron DeSantis
+organisations:
+- Alligator Alcatraz
+- Amnesty International
+- Amnesty International USA
+- DHS
+- Department of Homeland Security
+- FSSF
+- Florida Soft-Sided Facility
+- Global Refuge
+- Guardian
+- ICE
+- Immigration and Customs Enforcement
+- OIG
+- The Box
+- Trump
 ---
 
 Before the facility was shuttered, detainees at Florida’s “Alligator Alcatraz” federal immigration jail were frequently locked in outside metal cages no bigger than a phone booth, according to a damning government watchdog report that said the practice “does not align with standards for humane treatment”.

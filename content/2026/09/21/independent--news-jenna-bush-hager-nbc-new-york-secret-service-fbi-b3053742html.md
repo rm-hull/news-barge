@@ -13,6 +13,33 @@ categories:
 - UK
 - Film & TV
 image: https://static.independent.co.uk/2026/09/21/16/TV_-_Line_of_Fire_312_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New York City
+- U.S.
+people:
+- Bobby Nash
+- Campbell Scott
+- Chris Chalk
+- George W. Bush
+- Hollingsworth
+- Hope Davis
+- Jenna Bush Hager
+- Joshua Safran
+- Kat Cunning
+- Peter Krause
+- Reagan
+- Sam Waterston
+- Samantha Barks
+- Taylor Bloom
+- Tommy O’Brien
+organisations:
+- ABC
+- CBS
+- Department of Justice
+- FBI
+- Line of Fire
+- NBC
+- Secret Service
 ---
 
 If you like crime procedurals, TV creator Joshua Safran suggests you catch the new NBC show “Line of Fire.” If you're more of a soap opera person, Safran urges you watch the new NBC show “Line of Fire.”

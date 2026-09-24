@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Greater Manchester
+- HMP Wakefield
+people:
+- '## Shipley'
+- Andy Burnham
+- Anna Dixon
+- David Blunkett
+- Jeremy Bamber
+- Jimmy
+- John Cooper
+- Ms Dixon
+organisations:
+- Commons
+- House
+- IPP
+- IPPs
+- Imprisonment for Public Protection
+- Labour
+- Pembrokeshire Murders
+- Sheffield Hillsborough
 ---
 
 # Imprisonment for Public Protection orders: Andy Burnham pledges to end 'injustice' of IPPs

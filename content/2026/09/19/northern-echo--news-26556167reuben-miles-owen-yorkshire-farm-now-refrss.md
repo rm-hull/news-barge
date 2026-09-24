@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21464013.jpg?type=og-image&xType=0&yType=36
+locations:
+- Dales
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Swaledale
+people:
+- Amanda Owen
+- Amanda Owen Reuben
+- Anty John
+- Clive Owen
+- Miles Owen
+- Miles'
+- Owens
+- Ravenseat
+- Reuben Owen
+- Sidney
+organisations:
+- House
+- Our Yorkshire Farm
+- Reuben Owen Ltd
+- Swaledale
+- Yorkshire Dales
+- Yorkshire Shepherdess
 ---
 
 Amanda Owen’s children worked on Ravenseat Farm long before millions of viewers knew their names.

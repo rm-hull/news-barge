@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Amble
+- Ashington’s Hirst
+- North East
+people:
+- Arty Hume
+- Calvin Clark
+- David Ferguson
+- Eden Webley
+- Hirst
+- John Allen
+- Keir Starmer
+- Ken Parry
+- Kerry Davison
+- Melanie Fox
+- Rupert Lowe
+organisations:
+- Greens
+- Independent Group
+- Labour
+- Liberal Democrats
+- Northumberland County Council
+- Reform UK
+- Restore Britain
+- Restore Historically
+- The Conservative Party
+- ex-Reform
 ---
 
 A former councillor who lost his seat for failing to turn up to a single council meeting for six months will stand in the by-election he triggered.

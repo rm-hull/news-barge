@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Pets & Animals
+locations:
+- Airmyn
+- Beverley Magistrates’ Court
+- East Yorkshire
+- High Street
+- Hull Magistrates' Court
+people:
+- Bryan
+- David Britton
+- Lyn Healing
+organisations:
+- Animal and Plant Health Agency
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

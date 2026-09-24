@@ -10,6 +10,26 @@ image: https://cdn.mos.cms.futurecdn.net/3HY9z6jmzyHFPZFAtvox2a-2000-80.jpg
 categories:
 - Technology & Software
 - True Crime
+locations:
+- Berlin
+- Bosnia and Herzegovina
+- Germany
+- Sarajevo
+people:
+- Florian Hauer
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Berlin.de
+- CDO
+- Chaos Computer Club
+- Google News
+- Represent Communications
+- Reuters
+- Rhysida
+- Senate Chancellery
+- Tagesschau
+- TechRadar Pro
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/3HY9z6jmzyHFPZFAtvox2a.jpg) 

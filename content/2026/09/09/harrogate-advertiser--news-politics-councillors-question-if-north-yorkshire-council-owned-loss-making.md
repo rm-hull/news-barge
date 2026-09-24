@@ -15,6 +15,21 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brierley Homes
+- North Yorkshire
+people:
+- George Jabbour
+- Kevin Foster
+- Mark Crane
+- Tim Grogan
+- Tony Dodds
+organisations:
+- Brierley Group
+- Brierley Homes
+- Green Party
+- North Yorkshire Council
+- Reform
 ---
 
 # Councillors question if North Yorkshire Council-owned loss-making housebuilder will ever turn finances around

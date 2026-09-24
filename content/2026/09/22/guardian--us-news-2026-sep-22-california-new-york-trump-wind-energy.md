@@ -11,6 +11,31 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/991db22a8f8d22fc130945a7e3dbcd779ae36e26/235_0_3845_3075/master/3845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=853786b3bb636571201160a82d2564e4
+locations:
+- California
+- Connecticut
+- Delaware
+- Maine
+- Massachusetts
+- New Jersey
+- New York
+- New York City
+- Rhode Island
+- US
+- Vermont
+people:
+- David Hochschild
+- Donald Trump
+- Doreen Harris
+- Doug Burgum
+- Letitia James
+- Rob Bonta
+organisations:
+- Bluepoint Wind
+- Interior Department
+- Invenergy
+- Trump
+- UN
 ---
 
 Democratic attorneys general from California and New York have sued the Trump administration over its plans to buy back offshore wind leases as Donald Trump seeks to discourage the expansion of wind energy in favor of fossil fuels.

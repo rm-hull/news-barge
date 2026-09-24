@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Bidur
+- China
+- Devighat
+- India
+- Nepal
+- Nuwakot
+- Tibet
+- Trishuli River
+- Trishuli-3A
+- United States
+people:
+- Dharam Raj Uprety
+- Ram Neupane
+- Suresh Kumar Karanjit
+organisations: []
 ---
 
 Some survivors sheltering in relief camps after deadly floods in Nepal were struggling Thursday to obtain essential medicines and cash, even as authorities provided food and other basic supplies to thousands of displaced people.

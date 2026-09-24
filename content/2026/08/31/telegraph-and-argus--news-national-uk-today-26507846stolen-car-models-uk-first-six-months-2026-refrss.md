@@ -13,6 +13,22 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Faraday
+- UK
+people:
+- Jake Lambert
+organisations:
+- CCTV
+- DVLA
+- Driver and Vehicle Licensing Agency
+- EV
+- Fiesta Zetec
+- Ford
+- Nissan
+- RAC
+- Tempcover
+- Toyota
 ---
 
 *(Image: Getty Images)*

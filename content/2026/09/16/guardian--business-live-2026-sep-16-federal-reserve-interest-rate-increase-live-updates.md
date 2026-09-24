@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Iran
+- Missouri
+- North America
+- US
+- Wall Street
+- Wyoming
+people:
+- Biden
+- Brendan Boyle
+- Donald Trump
+- Jason Smith
+- Jerome Powell
+- Kevin Warsh
+- Richard Carter
+- Stephen Brown
+organisations:
+- Capital Economics
+- FOMC
+- Fed
+- Federal Reserve
+- House
+- Quilter Cheviot
 ---
 
 'The plain fact is that inflation is too high, and has been for too long,' says Warsh

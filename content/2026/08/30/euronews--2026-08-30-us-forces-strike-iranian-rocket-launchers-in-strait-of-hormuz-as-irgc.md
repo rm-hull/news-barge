@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Sports
 - Business & Entrepreneurship
+locations:
+- Iran
+- Larak Island
+- Strait of Hormuz
+- Tehran
+- US
+- Washington
+people:
+- Brad Cooper
+organisations:
+- Associated Press
+- Fars
+- IRGC
+- Iranian Revolutionary Guards
+- US Central Command
 ---
 
 ## The IRGC confirmed strikes had hit Larak Island and warned that the attack would be "met with a retaliatory response," per Iran's Fars news agency.

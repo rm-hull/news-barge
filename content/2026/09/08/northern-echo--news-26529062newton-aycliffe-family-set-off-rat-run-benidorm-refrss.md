@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Benidorm
+- Newcastle
+- Newton Aycliffe
+- Royal Victoria Infirmary
+- Spain
+- The Great North Children's Hospital
+people:
+- Bill
+- Buddy
+- Ellie Henry
+- Kimberley Hedley
+- Lisa Brown
+- Makayla
+- Mammy’
+- Millie Rose
+- Millie Rose Hedley
+- Newton Aycliffe
+- STUART BOULTON
+- William
+- Zoe Sutton
+organisations:
+- Benidorm
+- Millie Rose Foundation
+- PICU
+- The Great North Children's Hospital
+- The Great North Children’s Hospital
+- The Millie Rose Foundation
 ---
 
 A heartbroken family have set off on a charity road trip in memory of a nine-year-old girl who died just 24 hours after being diagnosed with cancer.

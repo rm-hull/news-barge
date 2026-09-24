@@ -13,6 +13,58 @@ categories:
 - News & Politics
 - UK
 - Education & Learning
+locations:
+- Bishkek
+- Dnipro
+- Donetsk
+- Druzhkivka
+- Germany
+- India
+- Kharkiv
+- Kherson
+- Kramatorsk
+- Kremlin
+- Kyiv
+- Kyrgyzstan
+- Moscow
+- Nikopol
+- Poland
+- Russian Federation
+- Sumy
+- U.S.
+- US
+- Ukraine
+- Zaporizhzhia
+- Zelensky Russia
+people:
+- '## Putin'
+- Alexei Likhachev
+- Iryna Litovchenko
+- Kaja Kallas
+- Maira Butt
+- Masoud Pezeshkian
+- Narendra Modi
+- Viktoria Haida
+- Vladimir Putin
+- Volodymyr Zelensky
+- Volodymyr Zelenskyy
+- Xi Jinping
+organisations:
+- Army Green Beret
+- Associated Press
+- BBC
+- EU
+- European Union
+- Green Beret
+- Green Berets
+- Konvi
+- Kyiv
+- NATO
+- Pravda
+- Rosatom
+- SCO
+- Shanghai Cooperation Organisation
+- Zaporizhzhia
 ---
 
 Russian strikes have destroyed nearly 12 million books in Ukraine, with forces targeting printing presses and publishing houses in recent attacks.

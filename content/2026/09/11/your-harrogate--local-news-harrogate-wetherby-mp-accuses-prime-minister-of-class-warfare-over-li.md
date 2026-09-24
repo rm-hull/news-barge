@@ -13,6 +13,28 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Ainsty
+- Linton
+- North Yorkshire
+- Oxfordshire
+- Piddington
+- RAF Linton-on-Ouse
+- Selby
+- UK
+- Wetherby
+people:
+- Alec Shelbrooke
+- Andy Burnham
+- Easingwold
+organisations:
+- Government
+- Home Office
+- Linton-on-Ouse
+- MP
+- North Yorkshire Council
+- Selby
+- Wetherby
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3df22efdc353564e.jpg) 

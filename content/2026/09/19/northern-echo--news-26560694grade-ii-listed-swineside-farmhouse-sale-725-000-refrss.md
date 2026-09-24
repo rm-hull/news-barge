@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21470666.jpg?type=og-image
+locations:
+- Belfast
+- Dales
+- Leyburn
+- Middleham
+- North Yorkshire
+- Sunderland
+- Swineside
+- Windrush
+people: []
+organisations:
+- Robin Jessop Ltd
 ---
 
 *(Image: Robin Jessop Ltd)*

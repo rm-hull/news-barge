@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Brantham
+- Decoy Pond
+- Suffolk
+people:
+- Noah Woods
+- Rhys Woods
+- Tom Pearse
+organisations:
+- Environment Agency
+- Facebook
+- Fire and Rescue Service
+- HM Coastguard
+- HM Coastguard Search and Rescue
+- National Police Air Service
+- SULSAR
+- Suffolk Fire & Rescue Service
+- Suffolk HART
+- Suffolk Lowland Search & Rescue
+- Suffolk Police
 ---
 
 The father of Noah Woods has paid tribute to him as “the sweetest and most innocent little boy” after a body was discovered close to where the toddler went missing on Wednesday.

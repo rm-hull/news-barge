@@ -13,6 +13,18 @@ categories:
 - UK
 - Family & Parenting
 - Health & Fitness
+locations:
+- Irvine
+- UK
+people:
+- Cadice Odgers
+- Gregory Veramendi
+organisations:
+- Institute for Fiscal Studies
+- King’s College London
+- Smartphone Free Childhood
+- The Times
+- University of California
 ---
 
 Parents who collectively make a pact to delay giving their children smartphones until they are 14 years old improve the mental health of the group as a whole, a new study has suggested.

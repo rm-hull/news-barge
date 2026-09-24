@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Baydale Village
+- Darlington
+- Durham
+- Serenity
+- Staindrop Road
+- Wisteria
+- YOUR
+people:
+- Emma Chesterton
+organisations:
+- Ashberry Homes
+- Darlington
+- Durham HMO
+- Public Notice Portal
 ---
 
 *(Image: ASHBERRY HOMES)*

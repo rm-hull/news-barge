@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Lake Wausau
+- U.S.
+- Wisconsin
+people:
+- David Crowley
+- Donald Trump
+- Leonard Boltz
+- Tom Tiffany
+organisations:
+- FAA
+- Federal Aviation Administration
+- Marathon County Sheriff's Office
+- National Transportation Safety Board
+- Wausau Downtown Airport
 ---
 
 A Republican congressman from Wisconsin said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday.

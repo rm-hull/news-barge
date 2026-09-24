@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Holywell Heights
+- Sheffield Magistrates’ Court
+- South Yorkshire
+- Wincobank
+people:
+- Andrea Skopova
+- Lauren Costello
+- Nina Horvathova
+- Peter Horvath
+- Tom Woodward
+organisations:
+- CPS Yorkshire
+- Humberside
 ---
 
 *(Image: Police)*

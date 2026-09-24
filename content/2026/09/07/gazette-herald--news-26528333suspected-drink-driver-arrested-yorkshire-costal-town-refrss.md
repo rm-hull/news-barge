@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Beverley
+- East Yorkshire
+- Lairgate
+people: []
+organisations:
+- Humberside Police
+- Newsquest
 ---
 
 *(Image: Newsquest)*

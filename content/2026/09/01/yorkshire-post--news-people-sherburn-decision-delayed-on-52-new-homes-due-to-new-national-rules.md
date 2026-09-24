@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+- High Street
+- Malton
+- Ryedale
+- Sherburn
+- The Pastures
+- White Gate
+people:
+- Alan Goforth
+- William Edward Cundall
+organisations:
+- Cromsdale Estates
+- Government
+- NPPF
+- North Yorkshire Council
+- Thirsk
 ---
 
 # Sherburn: Decision delayed on 52 new homes due to new national rules

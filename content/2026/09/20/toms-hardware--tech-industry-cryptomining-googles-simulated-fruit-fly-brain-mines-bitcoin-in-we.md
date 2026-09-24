@@ -14,6 +14,22 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/XwsayHYKLqACQvH5KN4V5P-1920-80.jpg
+locations:
+- HashFly
+people:
+- Mark Tyson
+- Tom
+organisations:
+- ASIC
+- Apollo III
+- Bitcoin
+- FlyMiner
+- FutureBit
+- Get Tom's Hardware
+- Google News
+- HashFly
+- Hashpower
+- Tom's Hardware
 ---
 
 ![HashFly proof of concept](https://cdn.mos.cms.futurecdn.net/XwsayHYKLqACQvH5KN4V5P.jpg)

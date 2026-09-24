@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- D.C.
+- Dallas
+- Lone Star State
+- Louisiana
+- Sen
+- Texas
+- U.S.
+people:
+- Angela
+- Donald Trump
+- James Talarico
+- John Cornyn
+- John Kennedy
+- Ken Paxton
+organisations:
+- Democratic Party
+- FEC
+- Fox’s
+- GOP
+- MAGA Inc
+- MAGA Inc.
+- Overton Insights
+- PAC
+- Senate
+- The Texas Tribune
+- Trump
 ---
 
 Just one week after a Republican senator pleaded with him publicly to turn on the faucet and save Republicans in key races, Donald Trump appears to be listening.

@@ -14,6 +14,22 @@ categories:
 - York
 - Science
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZjYjNkYjQ4LWUxNjEtNDdmYi1iMDFkLTljNGZiMGQ0YmY3MDo5ZjllMDk1ZS1mZTFkLTRjMDAtYjliMi0zMDdkYjBlZjgwY2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Belle Vue
+- Castleford
+- Castleford.They
+- Thornes Lane
+- Trinity Street
+- Wakefield
+- West Yorks.
+people:
+- Kacper Kruk
+organisations:
+- Kirklees Magistrates' Court
+- Kruk
+- Magistrates' Court
+- Wakefield Council
+- Yorkshire
 ---
 
 # Yorkshire fly-tipper snared after investigators plant GPS tracker inside hot tub

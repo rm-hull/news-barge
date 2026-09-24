@@ -13,6 +13,40 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Gaza
+- Iran
+- Israel
+- Lebanon
+- Strip
+- UAE
+- United Arab Emirates
+- West Bank
+people:
+- Avigdor Lieberman
+- Benjamin Netanyahu
+- Bin Zayed
+- Eylon Levy
+- Gadi Eisenkot
+- Mohammed bin Zayed
+- Naftali Bennett
+- Ruth Yuval
+- Shlomi Eldar
+- Yahya Sinwar
+- Yair Golan
+- bin Zayed
+organisations:
+- B’Yachad
+- Democrats
+- Euronews
+- Gaza Health Ministry
+- General Staff
+- Haaretz
+- Hamas
+- Hamas’
+- Israel Defence Forces
+- Knesset
+- United Nations
 ---
 
 ## Israeli Premier Benjamin Netanyahu is facing a political storm and accusations in the middle of Israel’s election campaign that he ignored a direct warning from the UAE about the imminence of Hamas’ 7 October attack in 2023.

@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - History
+locations:
+- Acomb
+- Easingwold
+- Huntington
+- North Yorkshire
+people:
+- Sue Craigs Erwin
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Sue Craigs Erwin)*

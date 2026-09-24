@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- London
+- Oura
+- Royal Brompton Hospital
+- San Francisco
+- UK
+people:
+- Alanna Hare
+- Garmin
+- Jess Hill
+- Jessica Hill
+- Neil Stanley
+- Oura
+organisations:
+- Apple
+- BBC
+- Garmin
+- Oura
+- University of Oxford
+- Whoop
 ---
 
 ![An illustration of a man asleep, with a concerned look on his face, wearing a smart watch with four coloured streaks on the screen; the colours seem to be reflecting onto the wall and the man's face and body as he tries to sleep.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/df02/live/2518d250-a6d3-11f1-aed2-8d6da8d75094.png)

@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- City Cruises
+- Kings Staith
+- Millennium Bridge
+- Terry Avenue
+- The River Ouse
+- UK York
+- York’s River Ouse
+people:
+- Carl Wain
+- Christopher Pegg
+organisations:
+- Age UK York
+- Beat the Boat
+- City Cruises
 ---
 
 Can you outrun a boat?

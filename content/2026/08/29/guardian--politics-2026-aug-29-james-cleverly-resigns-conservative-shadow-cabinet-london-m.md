@@ -11,6 +11,28 @@ image: https://i.guim.co.uk/img/media/e4035340827b68751760979e7ec802c50c868ce5/1
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Badenoch
+- London
+- Manchester
+people:
+- Andy Burnham
+- Boris
+- Braintree
+- Brent Central
+- Brent South
+- Dawn Butler
+- James Cleverly
+- Johnson
+- Keir Starmer
+- Kemi Badenoch
+- Sadiq Khan
+- Susan Hall
+organisations:
+- Labour
+- Sunday Times
+- Tory
 ---
 
 James Cleverly has resigned from the shadow cabinet to run for mayor of London.

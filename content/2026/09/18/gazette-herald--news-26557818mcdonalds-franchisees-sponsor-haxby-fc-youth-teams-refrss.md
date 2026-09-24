@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Clifton Moor
+- Yorkshire
+people:
+- John Atherton
+- McDonald
+- Thomas Atherton
+organisations:
+- Haxby FC
+- McDonald’s
+- Monks Cross
+- Under-12s
+- Under-14s
+- Yorkshire
 ---
 
 *(Image: Supplied)*

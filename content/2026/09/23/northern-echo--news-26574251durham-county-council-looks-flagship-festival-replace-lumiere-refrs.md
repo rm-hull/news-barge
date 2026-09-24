@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/20195255.jpg?type=og-image
+locations:
+- County Durham
+- Durham Bus Station
+- Ferryhill
+people:
+- Cllr Andrew Husband
+- Helen Marriage
+- Karen Allison
+organisations:
+- Artichoke
+- Durham County Council
+- Lumiere
+- Riverside
 ---
 
 Durham County Council is looking to create a new 'flagship' festival, less than a year after the region bid farewell to Lumiere for the final time.

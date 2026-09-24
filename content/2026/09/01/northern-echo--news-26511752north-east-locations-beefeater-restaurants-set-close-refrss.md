@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Beefeater
+- Broomside Park
+- Ireland
+- Morton Park
+- North East UK
+- Talpore
+- Whitley Bay
+people:
+- Dominic Paul
+organisations:
+- 20 Bar
+- 32 Table Table
+- All Beefeater
+- Berni Inn
+- Block
+- Brewers Fayre
+- Cookhouse
+- Premier Inn
+- Pub
+- Table Table
+- Whitbread
 ---
 
 *(Image: Getty)*

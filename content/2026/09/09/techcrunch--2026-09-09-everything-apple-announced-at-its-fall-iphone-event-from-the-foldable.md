@@ -12,6 +12,17 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-a
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- U.S.
+people:
+- John Ternus
+organisations:
+- AirPods
+- Apple Apple
+- Apple Health
+- Apple Intelligence
+- Apple Watch
+- Apple Watches
 ---
 
 Apple on Wednesday unveiled its latest iPhones and Apple Watches at its first fall event under newly appointed CEO John Ternus. The main event was the tech giant’s highly anticipated first foldable phone, the iPhone Duo. Apple also announced its iPhone 18 Pro lineup, along with new AirPods, and more.

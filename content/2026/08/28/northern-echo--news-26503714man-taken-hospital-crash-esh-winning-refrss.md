@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Esh Winning
+- Freeman Hospital
+- Newhouse Road
+people: []
+organisations:
+- Durham Police
+- North East Ambulance Service
+- Northern Perspectives
 ---
 
 *(Image: NORTHERN PERSPECTIVES)*

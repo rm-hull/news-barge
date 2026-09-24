@@ -14,6 +14,23 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- New York
+- UK
+- US
+people:
+- Alvin Bragg
+- Benjamin Shultz
+- Leonie Oehmig
+organisations:
+- American Sunlight Project
+- ISD
+- Institute for Strategic Dialogue
+- Manhattan District Attorney’s Office
+- MrDeepFakes
+- NCII
+- New York State Supreme Court
+- WIRED
 ---
 
 For the best part of a decade, abusive deepfake “pornography” websites have published thousands of nonconsensual videos depicting women, including high-profile celebrities, politicians, and public figures, into sexual situations. Now, in what is likely the largest takedown of explicit deepfake websites to date, officials in New York have seized more than a dozen of the harmful sites.

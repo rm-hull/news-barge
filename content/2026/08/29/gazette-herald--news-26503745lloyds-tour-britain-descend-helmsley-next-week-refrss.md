@@ -13,6 +13,27 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Ampleforth
+- Helmsley
+- Howardian Hills
+- Leyburn
+- Market Square
+- Newburgh Priory
+- Oulston
+- UK
+people:
+- Carolyn Frank
+- Ellie Hook
+- Helmsley
+- TONY BARTHOLOMEW
+organisations:
+- Heart of Helmsley
+- Howardian Hills National Landscape
+- Libby Butler Jewellers
+- Mayoral High Street Fund
+- YNYCA
+- York and North Yorkshire Combined Authority
 ---
 
 *(Image: TONY BARTHOLOMEW)*

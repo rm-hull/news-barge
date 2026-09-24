@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/8ofKa4iq2BZakkqB37tmhL-2000-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Gamescom
+people:
+- Dominic Guay
+- Kaatri
+- Laughing
+- Tasha
+organisations:
+- Demi Williams
+- Dungeons & Dragons
+- GameSpot
+- GamesRadar
+- Google News
+- Invoke Studios
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/8ofKa4iq2BZakkqB37tmhL.jpg) 

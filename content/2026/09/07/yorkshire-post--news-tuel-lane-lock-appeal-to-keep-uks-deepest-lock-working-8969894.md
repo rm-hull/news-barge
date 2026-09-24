@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- '## Yorkshire'
+- Hebden Bridge
+- Rochdale Canal
+- Simon Hulme
+- Sowerby Bridge
+- Tuel Lane Lock
+- UK
+- West Yorkshire
+people:
+- Mickie O’Hara
+- Sean McGinley
+organisations:
+- Canal & River Trust
 ---
 
 # Tuel Lane Lock: Appeal to keep UK's deepest lock working

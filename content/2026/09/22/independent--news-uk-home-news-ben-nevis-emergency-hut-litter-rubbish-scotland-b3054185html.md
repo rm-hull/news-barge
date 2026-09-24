@@ -12,6 +12,21 @@ categories:
 - Health & Fitness
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/08/10/12/37/01K5XGWB8RNQB02D0GMVTD87NE.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Ben Nevis
+- Covid
+- Lochaber
+- UK
+people:
+- Andrew Baxter
+- Ben Nevis
+- Iain Cameron
+- John Muir
+organisations:
+- John Muir Trust
+- Journal
+- Mountain Rescue
+- Mountaineering Scotland
 ---
 
 Visitors to Ben Nevis have been urged to clean up after themselves after an emergency shelter at the summit was found strewn with beer cans, cigarette packets, and mouldy food.

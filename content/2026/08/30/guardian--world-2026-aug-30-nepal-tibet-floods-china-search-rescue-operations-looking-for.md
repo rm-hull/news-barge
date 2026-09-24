@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bhotekoshi River
+- Dhading
+- Gyirong
+- India
+- Kathmandu
+- Latvia
+- Nepal
+- Nuwakot
+- Ramechhap
+- Rasuwa
+- Tibet
+- Trishuli 3A
+- US
+people:
+- Buddhi Ram Dangol
+- Dil Maya Lama
+- Govind Shreshta
+- Nelza Moktan
+- Shisir Khanal
+- Sudan Gurung
+organisations:
+- Agence France-Presse
+- Associated Press
+- National Disaster Risk Reduction and Management Authority
+- Reuters
+- Trishuli 3A
+- US Geological Survey
+- Xinhua
 ---
 
 Rescuers in Nepal and Tibet have battled through leg-sucking mud amid the threat of fresh flooding to search for thousands of people still missing after a deadly wall of water swept through the Himalayan border zone, engulfing entire villages.

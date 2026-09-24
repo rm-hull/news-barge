@@ -13,6 +13,15 @@ categories:
 - York
 - History
 image: https://www.gazetteherald.co.uk/resources/images/21389980.jpg?type=og-image
+locations:
+- North Yorkshire
+- Selby
+- Sherburn-in-Elmet
+- Tadcaster
+- West Yorkshire
+people: []
+organisations:
+- Saffron Walden Fire Station
 ---
 
 *(Image: Saffron Walden Fire Station)*

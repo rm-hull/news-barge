@@ -14,6 +14,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- Minnesota
+- San Diego
+- Southern California
+- U.S.
+people:
+- Abdulrahman Alawad
+- Aimee Bock
+- Fahima Mahamud
+- JD Vance
+- Trump
+- Turkiya Alawad
+organisations:
+- Feeding Our Future
+- IRS
+- Internal Revenue Service’s Criminal Investigations Division
+- Justice Department
+- Trump
 ---
 
 Federal authorities charged a dozen people Tuesday for fraudulently collecting more than $10 million in government childcare payments, when the operators had few or even no actual children attending their facilities.

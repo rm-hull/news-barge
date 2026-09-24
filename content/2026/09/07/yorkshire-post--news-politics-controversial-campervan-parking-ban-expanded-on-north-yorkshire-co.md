@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Belvedere Road
+- Cayton Bay
+- Esplanade Crescent
+- Holbeck Road
+- Marine Drive
+- North Yorkshire
+- Royal Albert Drive
+- Sandsend
+- Scarborough
+- Scarborough.
+- Sea Cliff Road
+- Whitby
+people:
+- Coun Malcolm Taylor
+organisations:
+- Coun Rich Maw
+- ETRO
+- Experimental Traffic Regulation Order
+- North Yorkshire Council
+- Ramshill division
+- Weaponness
 ---
 
 # Controversial campervan parking ban expanded on North Yorkshire coast

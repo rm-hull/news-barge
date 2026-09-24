@@ -13,6 +13,20 @@ image: https://cdn.mos.cms.futurecdn.net/HhX2BfyPmjYTcHgW9CGia6-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Valve
+people:
+- Jeff Leinbaugh
+- Pierre-Loup Griffais
+- Valve
+organisations:
+- Google News
+- Hachette UK
+- IGN
+- RAM
+- Steam Deck
+- Steam Machine
+- Valve
 ---
 
 ![Photo of Steam Deck handheld console](https://cdn.mos.cms.futurecdn.net/HhX2BfyPmjYTcHgW9CGia6.jpg) 

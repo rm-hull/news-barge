@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Africa
+- Chile
+- Kafue
+- Kavango-Zambezi
+- Kenya
+- Loliondo
+- Luangwa
+- Ngorongoro
+- Serengeti
+- Tanzania
+- Tsavo West
+- Zambia
+people:
+- Matt Becker
+- Nyambe Nyambe
+- Patrick Greenfield
+- Phoebe Weston
+- Rebecca Ratcliffe
+organisations:
+- Disney
+- Ecology
+- Guardian
+- International Union for Conservation of Nature
+- ZCP
+- Zambian Carnivore Programme
 ---
 
 It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home of their own after their family tells them to leave. They dodge cars and hunters in search of a new life, navigating bushmeat snares and the hostility of a human-dominated landscape until they find a new haven on the African savannah.

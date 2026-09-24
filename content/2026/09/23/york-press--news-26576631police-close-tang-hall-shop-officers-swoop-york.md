@@ -12,6 +12,19 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21492454.jpg?type=og-image
+locations:
+- Fourth Avenue
+- Melrosegate
+- Seventh Avenue
+- Tang Hall
+- York Magistrates' Court
+people: []
+organisations:
+- 4th Avenue Store
+- Newsquest
+- Newsquest)* Police
+- North Yorkshire Police
+- Tang Hall Primary School
 ---
 
 *(Image: Newsquest)*

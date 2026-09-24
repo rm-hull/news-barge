@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Belfast City Hall
+- Belfast Lough
+- Belfast.
+- Cave Hill
+- Coroner's Court
+- Holylands
+- Lower Ormeau Road
+- Northwood Road
+- Shore Road
+- South Belfast
+- Stormont
+people:
+- Charlie Rocks
+- Daryl Paul
+- Fiona Donohoe
+- Jay Tierney
+- Jordan Peterson
+- Justice Rooney
+- Noah Donohoe
+organisations:
+- '''s Army'
+- Department for Infrastructure
+- Department of Infrastructure
+- Instagram
+- Nike
+- Noah
+- PSNI
+- Parliament Buildings
+- Police Service of Northern Ireland
+- SPAR
+- Shore Road CCTV
+- St Malachy's College
 ---
 
 ![Noah Donohoe, a boy with dark hair, wearing a black blazer, white shirt and green black and white tie.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/868e/live/eda15b10-7470-11f1-8546-8f19e4fe30f4.jpg)

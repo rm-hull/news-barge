@@ -11,6 +11,19 @@ description: RayNeo IO are smart glasses boast an AI agnostic version of Siri Re
 image: https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- RayNeo iO
+- US
+people:
+- RayNeo
+organisations:
+- AI
+- Apple Watch
+- Google News
+- HUD
+- Hamish
+- IFA
+- TechRadar
 ---
 
 ![RayNeo IO at IFA 2026](https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ.jpg) 

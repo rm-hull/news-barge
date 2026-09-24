@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- U.S.
+- Wildcat Lake
+people:
+- Herb Bell
+- Leon Packard
+- Mark Tyson
+- Tom
+organisations:
+- '![Packard Bell Dot'
+- Acer
+- Chuwi UniBook
+- DotBook
+- Formula 1
+- Get Tom's Hardware
+- Google News
+- IFA
+- PC
+- Packard Bell
+- Tom's Hardware
 ---
 
 ![Packard Bell Dot family devices and accessories](https://cdn.mos.cms.futurecdn.net/DKo7Rjbd4qwkWErVv8cF6b.jpg) 

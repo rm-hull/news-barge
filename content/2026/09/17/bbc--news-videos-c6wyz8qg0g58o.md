@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Northern Ireland
+- Scotland
+- Wales
+people:
+- Kate Wills
+organisations:
+- Enhertu
+- NHS
 ---
 
 # 'I can get more time - that's everything': Breast cancer patient finds out she can get life extending drug

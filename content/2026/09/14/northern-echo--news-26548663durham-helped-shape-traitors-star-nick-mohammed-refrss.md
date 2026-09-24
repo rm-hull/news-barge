@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Britain
+- Cambridge
+- County Durham
+- Hollywood
+- Leeds
+- North East
+people:
+- Bobby Robson
+- Bridget Jones
+- Nate Shelley
+- Nick Mohammed
+- Sarah Caldecott
+- Swallow
+- Ted Lasso
+organisations:
+- Apple TV
+- County Durham
+- Durham Cathedral
+- Durham Revue
+- Durham University
+- Durham University Orchestral Society
+- Hill Orchestra
+- St Aidan’s College
 ---
 
 *(Image: PA)*

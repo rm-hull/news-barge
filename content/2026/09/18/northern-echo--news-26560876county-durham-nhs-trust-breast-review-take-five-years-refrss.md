@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Durham City
+- England
+- North Durham
+- North East NHS
+people:
+- Chris Booth
+- Steve Russell
+- Woman
+organisations:
+- County Durham
+- Darlington Memorial Hospital
+- Darlington NHS Foundation Trust
+- NORTHERN ECHO
+- North East NHS Trust
+- TEWV
+- Trust’s Clinical Reference Group
+- University Hospital
 ---
 
 Thousands more breast surgery cases could be examined in a growing investigation into failures at a North East NHS trust, which warns the work could take five years.

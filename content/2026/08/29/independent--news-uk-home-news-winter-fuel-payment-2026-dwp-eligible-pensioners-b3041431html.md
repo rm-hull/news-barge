@@ -11,6 +11,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- England
+- Northern Ireland
+- UK
+- Wales
+people: []
+organisations:
+- DWP
+- Department for Work and Pensions’
+- ESA
+- HMRC
+- PAYE
 ---
 
 More than nine million pensioners are set to receive hundreds of pounds to help with heating costs this year through the government’s winter fuel payment scheme.

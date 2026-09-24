@@ -15,6 +15,30 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Dogger Bank
+- Filey
+- Filey’s Coble Landing
+- North Yorkshire
+- Scarborough Harbour
+- Scarborough West
+- Scarborough’s West Pier
+- UK
+- Whitby Harbour
+people:
+- Chris Bourne
+- Coun Mark Crane
+- Robin Gray
+organisations:
+- Blue Sky
+- Government’s Fishing and Coastal Growth Fund
+- Green Book-standard
+- Harbours Strategy
+- Maritime Hub
+- North Yorkshire Council
+- Scarborough Harbour Advisory Board
+- Scarborough Harbour Users Group
+- Whitby
 ---
 
 # Scarborough: Boat lift proposal could generate £1.4m annually, harbour meeting hears

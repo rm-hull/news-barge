@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Waitrose
+people: []
+organisations:
+- Black Olives
+- FSA
+- Food Standards Agency
+- Waitrose Customer Care
 ---
 
 *(Image: Getty Images)*

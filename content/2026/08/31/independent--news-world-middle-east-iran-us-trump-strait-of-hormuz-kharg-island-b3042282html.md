@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- Islamic Republic
+- Jordan
+- Kharg Island
+- Larak Island
+- North Carolina
+- Oman
+- Pakistan
+- Stait of Hormuz
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United Arab Emirates
+- Washington
+people:
+- Donald Trump
+- Hamid Bovard
+- JD Vance
+- Masoud Pezeshkian
+- Scott Bessent
+organisations:
+- Air Force
+- Failed Nation
+- Fox News
+- G20
+- IRGC
+- Islamic Revolutionary Guard Corps
+- National Iranian Oil Co
+- Revolutionary Guards Navy
+- Tasnim
+- Trump
+- Truth Social
+- US Central Command
+- US Navy
 ---
 
 Donald Trump has vowed to “hit Iran hard” after fighting broke out between the US and Tehran for the first time in a month.

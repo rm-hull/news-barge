@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Bay
+- Broward County
+- Florida
+- Marion
+- Palm Beach
+people: []
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- Florida DOH
+- Florida Department of Health
+- The Independent
 ---
 
 A fourth person has died in Florida this year from an infection caused by Vibrio vulnificus, a potentially deadly bacterium commonly associated with eating raw or undercooked shellfish, particularly oysters.

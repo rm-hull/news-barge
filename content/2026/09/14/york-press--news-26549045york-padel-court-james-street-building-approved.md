@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- James Street
+- YOUR
+- York
+people:
+- Padel
+organisations:
+- City of York Council
+- LTA
+- Lawn Tennis Association
+- Northminster Developments Ltd
+- Padel
+- Public Notice Portal
 ---
 
 ## Here's what this York building is being turned into as plans approved

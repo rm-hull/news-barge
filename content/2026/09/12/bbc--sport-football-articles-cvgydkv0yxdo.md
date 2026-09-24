@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Brazil
+- England
+- Tottenham Hotspur Stadium
+people:
+- Brennan Johnson
+- De Zerbi
+- Dominic Solanke
+- Hotspursupporter
+- James Maddison
+- Jarrad Branthwaite
+- Joao Palhinha
+- Jordan Pickford
+- Kiernan Dewsbury-Hall
+- Lucas Bergvall
+- Mateus Fernandes
+- Mathys Tel
+- Mohammed Kudus
+- Omar Marmoush
+- Richarlison
+- Roberto de Zerbi
+- Savio
+- Spurs'
+- Thomas Tuchel
+organisations:
+- De Zerbi
+- Everton
+- Manchester City
+- Premier League
+- Spurs
+- Spurs'
+- Tottenham
+- Vasco da Gama
 ---
 
 Tottenham's wait for league goal continues after Everton draw

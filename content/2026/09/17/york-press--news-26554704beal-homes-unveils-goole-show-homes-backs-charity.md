@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Cave Castle
+- East Yorkshire
+- Goole
+- South Cave
+- The Greenways
+- UK
+- York
+people:
+- Amy Owen
+- Beth Roberts
+- Jordan Taylor
+- Lewis Wood
+- Ms Owen
+- Ross Clarkson
+organisations:
+- Beal Homes
+- Beal Homes)* Yorkshire
+- Jordan Taylor
+- OSCAR
+- OSCAR's
 ---
 
 *(Image: Jordan Taylor, Beal Homes)*

@@ -13,6 +13,32 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Erie
+- Great Lakes
+- Harrogate
+- Huron
+- Kexby
+- Michigan
+- Ontario
+- Superior
+- United States
+- WayBraytonNorth Yorkshire
+- York
+people:
+- Brian LedgerCopmanthorpeYork
+- Colin ForthHighthorn
+- Matt RylattCaedmon
+- Mick HorsmanMoorland
+- Peter RickabyMoat
+- Putin
+- Rachel Kennedy
+organisations:
+- Labour
+- Lib Dems
+- MP
+- POTUS
+- The Press Camera Club
 ---
 
 *(Image: Rachel Kennedy/ The Press Camera Club)*

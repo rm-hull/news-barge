@@ -10,6 +10,20 @@ description: A Pensacola fishing crew recovered a large unidentified military-st
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/BBTarJ8eYD7XaRpcek2q6D-1920-80.jpg
+locations:
+- Eglin
+- Gulf of Mexico
+- Iran
+- Pensacola Beach
+people:
+- Eglin
+organisations:
+- Efosa
+- Eglin Air Force Base
+- Google News
+- Hot Spot Fishing Charters
+- TechRadar Pro
+- WEAR-TV
 ---
 
 ![Recovered large military-style drone](https://cdn.mos.cms.futurecdn.net/BBTarJ8eYD7XaRpcek2q6D.jpg)

@@ -13,6 +13,34 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Buck’s House
+- North Craven
+- Settle
+- UK
+- YOUR
+people:
+- Buck *(Image
+- Caitlin Greenwood
+- Edward Elgar
+- Heather Lane
+- Lesley Tate
+- Victoria Murray
+organisations:
+- Bluegrass Research
+- Buck's House
+- Buck’s House
+- Dr Buck's House
+- Heritage Development Officer
+- Langcliffe Tea
+- NatWest
+- National Lottery
+- National Lottery Heritage Fund
+- North Craven Building Preservation Trust
+- North Yorkshire Council
+- Public Notice Portal
+- The Folly
+- The Folly Coffee House
 ---
 
 ### What is the Public Notice Portal?

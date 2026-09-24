@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bradford
+- Leeds
+people:
+- Gordons
+- Victoria Davey
+organisations:
+- AO
+- CATCH
+- Evri
+- Gordons
+- Houseful
+- Iceland Foods
+- Lucille Moore
+- Molson Coors
+- Morrisons
+- Wren Kitchens
+- Zoopla
 ---
 
 *(Image: Lucille Moore)*

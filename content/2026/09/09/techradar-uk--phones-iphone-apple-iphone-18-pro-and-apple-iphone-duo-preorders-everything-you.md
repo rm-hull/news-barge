@@ -11,6 +11,19 @@ description: Are you ready to upgrade? My iPhone Duo and iPhone 18 Pro preorders
 image: https://cdn.mos.cms.futurecdn.net/uKj29UioAZf7z2fbL3H4W5-2560-80.png
 categories:
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Alex Whitelock
+organisations:
+- 18 Pro
+- Alex
+- Apple Store
+- Future PLC
+- GamesRadar
+- TechRadar
+- iPhone Duo
 ---
 
 ![iPhone line-up, met iPhone 17e, 17, Air, 18 Pro en Duo](https://cdn.mos.cms.futurecdn.net/uKj29UioAZf7z2fbL3H4W5.png) 

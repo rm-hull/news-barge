@@ -14,6 +14,13 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- North Yorkshire
+people: []
+organisations:
+- National Insurance
+- North Yorkshire Council
+- Pensions Regulator
 ---
 
 North Yorkshire councillors are to consider whether a series of breaches involving the county’s pension fund should be reported to the Pensions Regulator.

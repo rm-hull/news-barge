@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Oxford Street
+- Ravenseat Farm
+- Stanley
+people:
+- Amanda Owen
+- Annelise Haugstad
+- Dad
+- Faulds'
+- Mark Faulds
+- Nathan Adams
+- Paul Cleasby
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

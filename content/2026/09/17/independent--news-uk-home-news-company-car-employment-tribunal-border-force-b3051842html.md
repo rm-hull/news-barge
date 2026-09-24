@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Birmingham
+- Cheshire
+- Chester
+- Glasgow Airport
+- Runcorn
+people:
+- Alexander Casteel
+- Gary Ollerton
+- Michelle Sutherland
+- Mr Casteel
+organisations:
+- Border Force
+- Border Force Officer
+- UK Border Force
 ---
 
 A Border Force officer was fired for using a company car to make a detour to visit his dying father.

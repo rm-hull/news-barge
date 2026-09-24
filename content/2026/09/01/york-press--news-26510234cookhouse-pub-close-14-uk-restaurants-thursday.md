@@ -13,6 +13,31 @@ categories:
 - York
 - Food & Cooking
 - Business & Entrepreneurship
+locations:
+- Brickfield
+- Butterley Park
+- Cotton Mill
+- Ireland
+- Lockyers Quay
+- Steamboat
+- UK
+people:
+- Dominic Paul
+organisations:
+- 261 Whitbread
+- Beefeater
+- Brewers Fayre
+- Cookhouse
+- Google Maps
+- Newsquest
+- Potters Arms
+- Premier Inn
+- Pub
+- Queensway Inns
+- The Freeman
+- The Queen Inn
+- Whitbread’s
+- Woodhorn Grange
 ---
 
 *(Image: Google Maps)*

@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Detroit
+- Europe
+- Lockerbie
+- London-to-New York
+- Malta
+- Miami
+- Middle East
+- New York
+- Paris
+- Pennsylvania
+- Scotland
+- U.S.
+- World Trade Center
+people:
+- Jane Garvey
+- Mary Schiavo
+- Richard Reid
+- Sheldon Jacobson
+- Umar Farouk Abdulmutallab
+organisations:
+- Air Line Pilots Association
+- American Airlines
+- Commission
+- Congress
+- FAA
+- Federal Aviation Administration
+- Northwest Airlines
+- Pentagon
+- TSA PreCheck
+- Transportation Security Administration
+- Trump
+- U.S. Department of Transportation
+- University of Illinois
+- al-Qaida
 ---
 
 Taking a commercial flight from a U.S. airport generally requires a boarding pass to get anywhere near a gate, security screening controlled by the federal government and careful attention to the contents of carry-on bags.

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/f57e5f787d39b590413a71d3335e286c5ddae1e3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d67152bd8ef43c33d0a5bef79f72dfb3
+locations:
+- New South Wales
+people:
+- Alex Antic
+- Angus Taylor
+- Anthony Albanese
+- Barnaby Joyce
+- Jane Hume
+- Matt Canavan
+- Pauline Hanson
+- Tim Wilson
+organisations:
+- Coalition
+- Labor
+- Liberal
+- Liberals and Nationals
+- News24 One Nation
+- One Nation
 ---
 
 Senior Liberals have rubbished claims by Barnaby Joyce that he has discussed One Nation offering the Coalition a pathway to minority government after the next election, accusing him of buyers remorse after defecting from the Nationals.

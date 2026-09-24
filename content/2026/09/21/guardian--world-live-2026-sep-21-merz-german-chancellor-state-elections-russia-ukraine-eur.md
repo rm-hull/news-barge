@@ -12,6 +12,113 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/bc1ebdf1c9248ce04a51a99c8596aa7e11bb64b8/0_143_4204_3363/master/4204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=630a23a375f305fc336a1b98810b5bbe
+locations:
+- Australia
+- Azerbaijan
+- Belfast
+- Berlin Konrad-Adenauer-Haus
+- Canada
+- Central Asia
+- Crimea
+- Donetsk
+- East Germany
+- Europe
+- France
+- Gatwick
+- Geneva
+- Glasgow
+- Greenland
+- Hanover
+- Iran
+- Kherson
+- Kremlin
+- London
+- Luhansk
+- Manchester
+- Meckenburg-Western Pomerania
+- Mecklenburg
+- Mecklenburg-Western Pomerania
+- Moscow
+- Munich
+- New York
+- New Zealand
+- Norway
+- Phoenix
+- Podolsk
+- Prestwick
+- Saxony-Anhalt
+- Slovakia
+- UK
+- US
+- Ukraine
+- United Russia
+- West
+- Western Pomerania
+- White House
+- Zaporizhzhia
+people:
+- Alice Wiedel
+- Alisher Usmanov
+- Angela Merkel
+- Anna Szilágyi
+- Die Linke
+- Dmitry Peskov
+- Donald Trump
+- Elif Eralp
+- Friedrich Merz
+- Heidi Alexander
+- Holger Schmieding
+- Jennifer Rankin
+- Kaja Kallas
+- Karin Prien
+- Lars Klingbeil
+- Manuela Schwesig
+- Mariana Katzarova
+- Maxim Shipenkov
+- Merz’
+- Mikhail Fridman
+- Ronny Hartmann
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- Action Press
+- AfD
+- Alternative für Deutschland
+- BMW
+- Berenberg
+- British Airway
+- British Airways
+- CDU
+- City Airports
+- EPA
+- EU
+- European Commission
+- FT
+- Human Rights Council
+- IG Metall
+- IG Metall Union’s Day of Action
+- Kyiv
+- Left Party
+- Left ⁠Party
+- Mercedes
+- Mercedes-Benz
+- NATO
+- NATS
+- Nats
+- Nord Stream
+- Organisation of Turkic States
+- Reuters Azerbaijan
+- SPD
+- SPUTNIK
+- Shutterstock Germany
+- Special Rapporteur
+- State Duma
+- UN General Assembly
+- VW
+- Volkswagen
+- Yabloko
+- easyJet
 ---
 
 German chancellor Friedrich Merz at the press conference after the state elections in Berlin and Mecklenburg-Western Pomerania. Photograph: Action Press/Shutterstock

@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/aQn68GGJZLuw27EcWHiQon-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Thunderbolt
+- UK
+- US
+people:
+- Collin
+organisations:
+- BenQ
+- Dell UK
+- Gearadical
+- Samsung
+- TechRadar I
+- TechRadar Pro
 ---
 
 ### TechRadar Verdict

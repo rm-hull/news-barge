@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Bramham Park
+- Festival Republic
+- The Ballroom
+- The Grid
+- The Warehouse
+people:
+- Adam Kennedy
+- Dave Grohl
+- Holly Humberstone
+- Julia Wolf
+- Kasabian
+- Marti Pellow Chase
+- Mulaa Jones
+- Simon Cowell
+- Violet Grohl
+organisations:
+- Charli XCX
+- Chase and Status
+- County Durham
+- Florence
+- Fontaines DC
+- Foo Fighters
+- Hybrid Minds
+- Netflix
+- Nirvana
+- Role Model
+- Stockport
+- The Blossoms
+- The Canopy
+- The Chevron
+- The Grid
+- Westside Cowboy
+- the Machine
 ---
 
 On Friday afternoon, the first full day of programming got underway at Bramham Park.

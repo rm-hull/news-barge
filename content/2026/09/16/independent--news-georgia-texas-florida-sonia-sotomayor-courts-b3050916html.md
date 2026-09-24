@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlanta
+- Cobb County
+- Dallas
+- Dodge Durango
+- Dunwoody
+- Edna
+- Florida
+- Georgia
+- Houston
+- Huntsville
+- Jackson
+- Mexico
+- Powder Springs
+- Texas
+- U.S.
+- Wisconsin
+people:
+- Celso Lopez
+- Cyndi Williams
+- Humphreys'
+- Humphreys’
+- Ker’Sean Ramey
+- LeJames Norman
+- Lori Brown
+- Samuel Roberts
+- Sonia Sotomayor
+- Stacey Humphreys
+- Tiffani Peacock
+organisations:
+- CDT
+- Paroles
+- State Board of Pardons
+- Stengle
+- Texas Board of Pardons
+- Texas Court of Criminal Appeals
+- U.S. Supreme Court
+- ____ Brumback
 ---
 
 A man convicted in the shooting deaths of three people is set to be executed Wednesday in Texas. Meanwhile, another execution that was scheduled for the same time in Georgia has been halted by a judge.

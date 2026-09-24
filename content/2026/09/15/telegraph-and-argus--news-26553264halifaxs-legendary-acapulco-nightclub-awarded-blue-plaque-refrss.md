@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Acapulco
+- Calderdale
+- Halifax
+- UK
+- United Kingdom
+- Waterhouse Street
+people:
+- Alan Goodrum
+- Andrew Tagg
+- Chez
+- Chris Turczak
+- Cllr Tagg
+- Natalie Shaw
+- Simon Jackson
+- Stephanie
+- Ted Turcazk
+- Ted Turczak
+organisations:
+- Acapulco!
+- Blue Plaque
+- Halifax BID
+- Halifax Civic Trust
+- Halifax Civic Trust Blue Plaque
+- NIGHTCLUB
+- The Acca
 ---
 
 A NIGHTCLUB believed to be the oldest still running in the UK has been honoured with a blue plaque.

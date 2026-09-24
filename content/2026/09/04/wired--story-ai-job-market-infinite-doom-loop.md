@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations:
+- Doist
+people:
+- Beggs
+- ChatGPT
+- Claude
+- Daniel Chait
+- James Jacobsen
+- Jodi Beggs'
+- Kim Jones
+- Nadia Vatalidis
+organisations:
+- AI
+- ATS
+- ChatGPT
+- Greenhouse
+- Jobscan
+- Toshiba
 ---
 
 Jodi Beggs' résumé got dinged for being two pages long. She used her middle initial on one document but not another, which also cost her points. If she changed “percent” to the % sign, her score went up.

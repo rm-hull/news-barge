@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- California
+- Montclair
+- Pabst
+- Tucson
+people:
+- God
+- Pabst
+organisations:
+- Anheuser-Busch
+- Instagram
+- Montclair Police Department
+- PBR
+- Pabst Blue Ribbon
 ---
 
 Beer-guzzling bandits made off with over 50,000 cans of Pabst Blue Ribbon, prompting the brand to beg for the truckload’s return, “no questions asked.”

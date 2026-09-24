@@ -10,6 +10,33 @@ description: Burgundy and variable aperture are my two stand-out features
 image: https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Burgundy
+- Dynamic Island
+- US
+- United States
+people:
+- Black
+- Bruce Springsteen
+- Jacob Krol
+organisations:
+- 18 Pro
+- 2TB
+- Apple
+- CNBC
+- CNET
+- CNN Underscored
+- Disney
+- Google News
+- Jacob Krol
+- Mac
+- Marvel
+- Mashable
+- Men’s Journal
+- News for TechRadar
+- Samsung
+- TheStreet
+- iOS 27
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Hands-On](https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n.jpg) 

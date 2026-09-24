@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- Beijing
+- China
+- Hong Kong
+- U.S.
+- US
+- United States
+people:
+- Claude
+- Dario Amodei
+- Donald Trump
+- Guo Jiakun
+- Lizzi C. Lee
+- Xi Jinping
+- ___ Chan
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Asia Society Policy Institute
+- Center for China Analysis
+- Commerce Ministry
+- FBI
+- GPT
+- Global South
+- Global Times
+- Ministry of Foreign Affairs
+- Ministry of State Security
+- National Security Agency and Cybersecurity and Infrastructure Security Agency
 ---
 
 China's Ministry of Foreign Affairs on Monday hit back at a call from the head of Anthropic for the U.S. to curb China's artificial intelligence capabilities, which he issued as he argued for a global slowdown on AI development.

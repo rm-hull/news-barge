@@ -14,6 +14,21 @@ categories:
 - Sports
 - Travel
 - Food & Cooking
+locations:
+- Bernardus Golf
+- Bossche Bol
+- Den Bosch
+- Germany
+- Heidelberg
+- Netherlands
+- North Brabant
+- San Francisco
+people:
+- Houben
+- Josef Doelfer
+- Sherry Ford
+organisations:
+- Ford
 ---
 
 Sherry Ford took a bite of her Dutch meatball roll and wiped mayonnaise off her chin. And her coat. And her sleeve.

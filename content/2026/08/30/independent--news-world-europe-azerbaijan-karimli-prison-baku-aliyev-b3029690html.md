@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Azerbaijan
+- Baku
+- UK
+people:
+- Ali Karimli
+- Giorgi Gogia
+- Ilham Aliyev
+- Jeyhun Bayramov
+- Ms Karimli
+- Sezan Karimli
+organisations:
+- APFP
+- Azerbaijani Popular Front Party
+- Baku Court of Appeal
+- Europe and Central Asia Division
+- Human Rights Watch
+- The Independent
 ---
 
 The family of Azerbaijan’s detained pro-democracy opposition leader has claimed that the regime is “deliberately trying to break him” by denying him safe drinking water in prison, amid growing concern over his physical condition.

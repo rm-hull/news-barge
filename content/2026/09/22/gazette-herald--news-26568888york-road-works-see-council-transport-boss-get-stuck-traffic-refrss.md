@@ -13,6 +13,27 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21482801.jpg?type=og-image
+locations:
+- LNER Community Stadium
+- Monks Cross
+- Monks Cross Garden Village
+- Monks Cross Link Road
+- York Outer Ring Road
+people:
+- Carol Runciman
+- Chris Cullwick
+- Cllr Orrell
+- Cllr Ravilious
+- Huntington
+- Kate Ravilious
+- Keith Orrell
+organisations:
+- CITY of York Council
+- Labour
+- Liberal Democrat Huntington
+- New Earswick
+- Pic
+- Redrow
 ---
 
 CITY of York Council's transport spokesperson was stuck in traffic for more than an hour after being caught out by roadworks linked to a housing development.

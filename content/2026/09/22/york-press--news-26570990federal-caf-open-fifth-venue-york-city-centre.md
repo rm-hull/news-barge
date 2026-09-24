@@ -14,6 +14,27 @@ categories:
 - Food & Cooking
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21485776.jpg?type=og-image
+locations:
+- Coney Street
+- Leeds
+- Lush
+- Manchester
+- St Helen's Square
+- St Helen’s Square
+- York
+people:
+- Claudio Ribeiro
+- Max Reeves
+organisations:
+- Federal
+- Federal’s
+- Foresight Group
+- Google Street View
+- Helmsley Group
+- JD Sports
+- Manchester-founded Australia
+- Space NK
+- The Press
 ---
 
 *(Image: Supplied)*

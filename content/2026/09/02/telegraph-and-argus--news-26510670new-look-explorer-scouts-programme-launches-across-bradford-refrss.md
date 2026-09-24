@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+people:
+- Toby Hammond
+organisations:
+- Bradford Scouts
+- Bradford’s Explorers
+- County Lead Volunteer
+- Explorer Activity Badges
+- Explorer Scouts
 ---
 
 *(Image: Supplied)*

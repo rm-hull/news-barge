@@ -10,6 +10,19 @@ description: Lockheed reveals more of its Vectis combat drone as four more proto
 image: https://cdn.mos.cms.futurecdn.net/4SJtuacFhwwPZNcKRaSW8E-1920-80.png
 categories:
 - Technology & Software
+locations:
+- Vectis
+people:
+- Ron Fehlen
+organisations:
+- Air Force
+- Anduril
+- Efosa
+- Google News
+- Lockheed Martin
+- Lockheed Martin Vectis
+- Skunk Works
+- TechRadar Pro
 ---
 
 ![Lockheed Martin Vectis](https://cdn.mos.cms.futurecdn.net/4SJtuacFhwwPZNcKRaSW8E.png) 

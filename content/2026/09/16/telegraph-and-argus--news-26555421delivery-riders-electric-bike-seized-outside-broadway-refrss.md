@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- The Broadway
+people: []
+organisations:
+- EAPC
+- Operation Steerside
+- West Yorkshire Police
 ---
 
 A DELIVERY rider had an electric bike seized after checks in Bradford city centre found it failed to meet requirements.

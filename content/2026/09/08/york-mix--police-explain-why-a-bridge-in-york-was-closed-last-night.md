@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Ouse Bridge
+- York
+people: []
+organisations: []
 ---
 
 Police have issued an update on why Ouse Bridge in York was closed last night (Monday)

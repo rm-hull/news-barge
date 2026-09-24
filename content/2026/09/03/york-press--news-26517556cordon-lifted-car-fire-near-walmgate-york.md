@@ -12,6 +12,22 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Bretgate
+- Fishergate
+- Hope Street
+- Navigation Road
+- Walmgate
+- York
+people: []
+organisations:
+- Acomb
+- BMW
+- Both York
+- Newsquest
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: Newsquest)*

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Britain
+- County Durham
+- Easby Abbey
+- Norman
+- Richmond
+- UK
+people:
+- Jo Mawhinney
+- Paul Bloomfield
+- Samuel Butler
+organisations:
+- A66
+- County Durham Manjaros
+- Georgian Theatre Experience
+- Georgian Theatre Royal
+- High Force
+- The Telegraph
+- Yorkshire
 ---
 
 *(Image: Georgian Theatre Royal)*

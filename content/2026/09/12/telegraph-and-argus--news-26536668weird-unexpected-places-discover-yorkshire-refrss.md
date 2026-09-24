@@ -14,6 +14,77 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- A6108
+- Aislaby
+- Arnagill Sighting Tower
+- Aysgarth Falls
+- Bellow Hill East
+- Britain
+- Carlesmoor Aqueduct
+- Clay Bank Forestry England
+- Cleveland Way
+- Coverham Lane
+- Denmark
+- Doggerland
+- Easter Island
+- Esplanade
+- Fearby Road
+- Forbidden Corner
+- Granville Terrace
+- Grassington Mine
+- Grassington Moor
+- Great Broughton
+- Hardraw
+- Hawes
+- Healey
+- Lancashire
+- Leighton
+- Marton station
+- Masham
+- Michael Garratt
+- Middleham
+- Middlesbrough
+- Moor Lane
+- Muker
+- Netherlands
+- Norber
+- North Sea
+- North York Moors
+- Oliver Duckett Folly
+- Pateley Bridge
+- Rapa Nui
+- Redcar Rocks
+- Richmond
+- Rocket Ship
+- Roundhill Reservoir
+- Simonstone
+- Sorrelsykes Park Hall
+- Stewart Park
+- Temple
+- The Rocket Ship
+- The Wainstones
+- UK
+- Whitby
+- Yorkshire
+people:
+- Andrew Sabin
+- Buttertubs
+- Colin Gregory
+- Conyers D’Arcy
+- Daniel Garrett
+- David Gross
+- George Nuku
+- Ilton
+- Marton Moai
+- Masham
+- Oliver Duckett Folly
+- William Danby
+organisations:
+- Captain Cook Museum
+- Grassington Mines Appreciation Society
+- Marton Moai
+- Yorkshire Dales
 ---
 
 *(Image: Colin Gregory)*

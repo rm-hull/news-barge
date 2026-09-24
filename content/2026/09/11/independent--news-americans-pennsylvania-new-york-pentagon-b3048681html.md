@@ -14,6 +14,12 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- New York
+- Pennsylvania
+- Pentagon
+people: []
+organisations: []
 ---
 
 From New York and the Pentagon to Pennsylvania and communities nationwide, Americans mark the 25th anniversary of the Sept. 11 attacks with memorial ceremonies, moments of silence, vigils and tributes.

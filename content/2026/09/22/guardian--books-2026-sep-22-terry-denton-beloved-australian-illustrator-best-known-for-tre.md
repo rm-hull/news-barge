@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/d7ff6784b9dd62d74b90096fd5211044ff773016/0_566_2640_2109/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a43e7c5e1bcdd45eab86b3427f424239
+locations:
+- Georgia
+people:
+- Alfie
+- Andy Griffiths
+- Charlie
+- Curtis Brown
+- Eve
+- Felix
+- Gillian Rubinstein
+- Imogen
+- Jill
+- Kristen
+- Lucy
+- Max
+- Mem Fox
+- Paul Jennings
+- Terry Denton
+organisations:
+- Guardian
 ---
 
 The beloved Australian illustrator and author Terry Denton, most famous for his work on the Treehouse series, has died aged 76.

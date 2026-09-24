@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/09/08/01M22GDJG39YCTXW4DZCXV8K6Y
 categories:
 - News & Politics
 - UK
+locations:
+- Aberdeen
+- Belfast City
+- Birmingham
+- Bristol
+- East Midlands
+- Edinburgh
+- Gatwick
+- Glasgow
+- Heathrow
+- Jersey
+- London City
+- Manchester
+- Southampton
+- Southend
+- Stansted
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+organisations:
+- Gatwick Airport
+- Heathrow Airport
+- Liverpool John Lennon
+- NATS
+- National Air Traffic Control Service
+- National Air Traffic Services
+- Nats
+- Nats’
 ---
 
 More than 1,000 flights to and from the UK were grounded due to a “technical issue” on Tuesday afternoon, forcing tens of thousands of people to abandon their travel plans.

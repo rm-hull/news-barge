@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- East Yorkshire
+- HMP Full Sutton
+- HMP Wakefield
+- Old Bailey
+- York
+people:
+- Ahmed Alid
+- Ms Mitchell
+- Roderic Vassie
+- Sarah Mitchell
+organisations:
+- HMP Wakefield
+- Newcastle Crown Court
 ---
 
 # HMP Full Sutton: Serving prisoner denies attempting to murder imam in Yorkshire jail

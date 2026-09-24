@@ -11,6 +11,18 @@ image: https://media.wired.com/photos/6a9af4664c28b30a706b7171/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Queensland
+people:
+- Tan Vo Doan
+- Vo Doan
+- Vo-Doan
+organisations:
+- Advanced Science
+- UNSW
+- UQ
+- University of New South Wales
+- University of Queensland
 ---
 
 Small robots and drones have increasingly been used to help respond to disasters, reaching locations that are too hard or too dangerous to send humans, such as collapsed buildings. Many of these efforts have been focused on search and rescue. But new research shows how bugs—with their ability to crawl through even narrower gaps in rubbled—outfitted with electrodes could be used as the next generation of first responders.

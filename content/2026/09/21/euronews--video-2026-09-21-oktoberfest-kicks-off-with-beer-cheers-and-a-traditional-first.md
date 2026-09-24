@@ -11,6 +11,12 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/10/33/1200x675_cmsv2_4f906c76-a675-5581-b060-85ea8d7ad9d6-9921033.jpg
+locations:
+- Germany
+- Munich
+- Theresienwiese
+people: []
+organisations: []
 ---
 
 Oktoberfest opened in Munich, Germany, on Saturday as the mayor tapped the first keg. Video shows the crowd counting down, then mugs passed down from the stage.

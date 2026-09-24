@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- Adessia Stream
+- Derby
+- Hull
+- Litchurch Lane
+- Liverpool Lime Street
+- Manchester Airport
+- Manchester Piccadilly
+- North
+- Saltburn
+- Scarborough
+- UK
+- York
+people:
+- Andy Burnham
+- Heidi Alexander
+organisations:
+- Alstom
+- Government
+- TransPennine Express
+- Trian
 ---
 
 *(Image: Alstom)*

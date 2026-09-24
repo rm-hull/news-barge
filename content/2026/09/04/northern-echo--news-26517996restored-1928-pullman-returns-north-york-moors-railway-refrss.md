@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- County Durham
+- Grosmont Station
+- North York Moors
+- North Yorkshire Moors Railway
+- Pickering
+- Pullman
+people:
+- Laura Strangeway
+organisations:
+- :**County Durham Manjaros
+- A66
+- Autumn Pullman
+- LNER
+- Ms Strangeway
+- NYMR
+- NYMR’s South Yorkshire Area Group
 ---
 
 A historic dining carriage has returned to service after a decade-long restoration project.

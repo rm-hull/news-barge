@@ -10,6 +10,18 @@ description: The Vari Electric Standing Desk with TechTrack is a dream to build,
 image: https://cdn.mos.cms.futurecdn.net/GtciKoS9KrGxdzk9bifFRR-2048-80.jpg
 categories:
 - Technology & Software
+locations:
+- TechTrack
+- Vari
+people:
+- Collin Probst
+- Vari
+organisations:
+- Balolo Desk Shelf
+- Gearadical
+- TechRadar Pro
+- TechTrack
+- Vari Electric Standing Desk
 ---
 
 ### TechRadar Verdict

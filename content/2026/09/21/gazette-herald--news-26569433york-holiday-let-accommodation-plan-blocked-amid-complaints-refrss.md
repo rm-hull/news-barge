@@ -13,6 +13,15 @@ categories:
 - York
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21483684.jpg?type=og-image
+locations:
+- South Bank
+- Sutherland Street
+- YOUR
+- York Racecourse
+people: []
+organisations:
+- City of York Council
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

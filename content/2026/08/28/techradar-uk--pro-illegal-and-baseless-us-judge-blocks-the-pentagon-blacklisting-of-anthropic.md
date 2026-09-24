@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - News & Politics
 - Law & Justice
+locations:
+- US
+people:
+- Claude
+- Craig Hale
+- Dario Amodei
+- Lin
+- Pete Hegseth
+organisations:
+- AI
+- Anthropic
+- Craig’s
+- Defense
+- Google News
+- Pentagon
+- TechRadar Pro
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54.jpg) 

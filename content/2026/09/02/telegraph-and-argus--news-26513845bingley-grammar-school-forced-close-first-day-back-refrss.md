@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bingley
+- Keighley Road
+people:
+- Luke Weston
+organisations:
+- BINGLEY Grammar School
+- Google Street View
+- N6
 ---
 
 *(Image: Google Street View)*

@@ -12,6 +12,43 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Afghanistan
+- Arundel
+- Britain
+- Iraq
+- London
+- South Downs
+- UK
+people:
+- Andrew Griffith
+- Claire Coutinho
+- Daisy Cooper
+- Dame Priti
+- Dame Priti Patel
+- Ed Miliband
+- Griffiths
+- James Cleverly
+- Just Eat
+- Kemi Badenoch
+- Kemi Badenoch.
+- Liz Truss'
+- Mel Stride
+- Priti Patel
+- Richard Fuller
+- Stuart Andrew
+- Tom Tugendhat
+organisations:
+- Commons
+- Conservative Economic Unit
+- Conservative Party
+- Kemi
+- Labour and Reform UK
+- Liberal Democrat Treasury
+- Reform UK
+- Sky
+- Tory
+- Truss
 ---
 
 ![A composite image. Mel Stride on the left in a suit and tie. Dame Priti Patel wears white.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4289/live/abc92950-a550-11f1-8689-6589354d0f8e.jpg)

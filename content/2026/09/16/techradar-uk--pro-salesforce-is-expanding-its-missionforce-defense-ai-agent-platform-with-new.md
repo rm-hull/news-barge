@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- America
+- UK
+- US
+people:
+- Kendall Collins
+- Marc Benioff
+- Mike Moore
+organisations:
+- B2B
+- B2C
+- Google News
+- ITProPortal
+- Missionforce & Government Cloud
+- Missionforce Field Operations & Asset Management
+- Nvidia
+- OpenAI
+- Salesforce
+- TechRadar Pro
+- US Army
 ---
 
 ![Detailed view of the US Army uniform worn by soldiers in a military base. Flag of America on the uniform.](https://cdn.mos.cms.futurecdn.net/dfCZV3VXYy9Efw5WUVLRWW.jpg) 

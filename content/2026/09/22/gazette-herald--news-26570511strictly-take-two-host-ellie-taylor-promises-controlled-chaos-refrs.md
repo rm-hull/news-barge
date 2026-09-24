@@ -13,6 +13,28 @@ categories:
 - York
 - Film & TV
 image: https://www.gazetteherald.co.uk/resources/images/21484324.jpg?type=og-image
+locations:
+- BBC
+- IAN WEST
+- PA
+people:
+- Abi Clarke
+- Ellie Taylor
+- God
+- Guy Levy
+- Janette Manrara
+- Ms Taylor
+- Sarah James
+- Shirley
+- Ted Lasso
+- Tyler West
+organisations:
+- BBC Studios
+- BBC iPlayer
+- Fleur East
+- Strictly
+- TVBiz
+- The Sun
 ---
 
 *(Image: Guy Levy/BBC)*

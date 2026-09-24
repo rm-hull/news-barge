@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/ect3XgAHyecmRQCN5pbo9T-2000-80.jpg
 categories:
 - Technology & Software
 - Books & Literature
+locations:
+- Goodreads
+people:
+- Fable
+- Rowan Davies
+organisations:
+- App Store
+- Fable Plus
+- Facebook
+- Goodreads
+- Google News
+- Letterboxd
+- TechRadar
 ---
 
 ![The Fable app icon and a list of Sci-fi books](https://cdn.mos.cms.futurecdn.net/ect3XgAHyecmRQCN5pbo9T.jpg) 

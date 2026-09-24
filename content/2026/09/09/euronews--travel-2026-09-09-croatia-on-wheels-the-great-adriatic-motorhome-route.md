@@ -15,6 +15,69 @@ categories:
 - Travel
 - Lifestyle & Fashion
 - Outdoors & Nature
+locations:
+- '## Dubrovnik'
+- '## Istria'
+- '## Šibenik'
+- '**Korčula'
+- Albania
+- Barcelona
+- Biokovo
+- Brač
+- Church of the Holy Cross
+- Croatia
+- Croatian Adriatic
+- Dalmatia Back
+- Dead Sea
+- Dubrovnik**
+- Europe
+- Gate of Hercules
+- Hvar
+- Inland
+- Italy
+- Kaštel
+- Korčula
+- Lokrum
+- Lopud
+- Lungomare**
+- Makarska Riviera
+- Mali Ston Bay
+- Motovun
+- Nin
+- Nin**
+- Opatija
+- Orebić
+- Pelješac peninsula
+- Plitvice
+- Plitvice** Lakes National Park
+- Prapratno
+- Pula Arena
+- Pula**
+- Rovinj
+- Rovinj**
+- Sergii**
+- Slovenia
+- St Euphemia
+- St James's Cathedral
+- Ston**
+- Stradun
+- Trogir
+- Velebit
+- Vis**
+- Volosko
+- Zadar
+- Šibenik**
+- Šolta
+people:
+- Alfred Hitchcock
+- David del Valle
+- Diocletian
+- Korčula**
+- Marco Polo**
+- Zadar
+organisations:
+- UNESCO World Heritage Site
+- World Heritage Site
 ---
 
 **David del Valle**

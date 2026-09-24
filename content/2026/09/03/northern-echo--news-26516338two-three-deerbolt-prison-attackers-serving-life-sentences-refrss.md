@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Barnard Castle
+- County Durham
+- Durham Crown Court
+- HMP Deerbolt
+- Holme House Prison
+- Stockton
+- Teesside Crown Court
+people:
+- James Morton
+- Jo Kidd
+- Kai Howitt
+- Shawn Spence
+organisations:
+- HMP Deerbolt
+- HMP Holme House’
 ---
 
 *(Image: The Northern Echo)*

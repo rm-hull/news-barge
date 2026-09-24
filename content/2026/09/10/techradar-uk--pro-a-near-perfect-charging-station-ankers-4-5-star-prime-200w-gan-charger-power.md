@@ -10,6 +10,23 @@ description: We scored the Anker Prime 200W GaN desktop charger 4.5 stars in our
 image: https://cdn.mos.cms.futurecdn.net/QkqrCFfN3tFRHFZxNXPawi-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- Anker Prime 6-Port GaN Charging Station
+- UK
+- USB
+people:
+- Anker Prime Charger
+- Harry
+- Wayne Williams
+organisations:
+- Amazon
+- Anker Prime
+- Anker Prime Charger
+- GaN
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Anker Prime Charger (200W, 6 ports, GaN) on stone surface against pink background](https://cdn.mos.cms.futurecdn.net/QkqrCFfN3tFRHFZxNXPawi.jpg) 

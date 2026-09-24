@@ -12,6 +12,41 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Camden Town Hall
+- England
+- Hackney
+- Hampstead
+- Highgate
+- Holborn
+- London
+- Makerfield
+- Somalia
+- St Pancras
+- UK
+- Wales
+- Westminster
+people:
+- Adam Hug
+- Andy Burnham
+- Denton
+- Diane Abbott
+- Gorton
+- Green
+- Hannah Spencer
+- Keir Starmer
+- Lorna Jane Russell
+- Nash Ali
+- Rishi Madlani
+- Sagal Abdi-Wali
+- Tulip Siddiq
+- Zack Polanski
+organisations:
+- Green
+- Greens
+- Guardian
+- Labour
 ---
 
 Zack Polanski moved a step closer in his quest to become an MP on Wednesday, with local Green party members supporting him to become the party’s candidate in the Holborn and St Pancras byelection.

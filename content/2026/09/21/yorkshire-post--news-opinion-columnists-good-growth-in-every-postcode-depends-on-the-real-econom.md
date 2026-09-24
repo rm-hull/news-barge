@@ -18,6 +18,32 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlkNTIwNDhjLTg1ZDAtNGU1My1hZWM1LTkzMjUyMjJiZmY3Nzo5MzcwYWU3NS05MjFiLTQyNWItOTIzMi02NDg0MmQ2ZDRjOGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Greater Manchester
+- Hull
+- Humber
+- London
+- Macclesfield
+- North East
+- North West
+- Northern England
+- PA
+- UK
+- Whitehall
+- Yorkshire
+people:
+- James Speakman
+- Shanika Amarasekara
+organisations:
+- Bee Network
+- FLA
+- Finance & Leasing Association
+- GVA
+- Government
+- No.10 North
+- Paragon Bank
+- SME
 ---
 
 # Good growth in every postcode depends on the real economy working for businesses - Shanika Amarasekara

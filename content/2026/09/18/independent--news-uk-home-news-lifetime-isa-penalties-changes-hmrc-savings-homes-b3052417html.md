@@ -11,6 +11,18 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- London
+people:
+- Martin Lewis
+- Sarah Coles
+organisations:
+- AJ Bell
+- HMRC
+- LISA
+- LISAs
+- Lifetime ISA
+- Treasury
 ---
 
 Nearly £119m was lost by Lifetime ISA (LISA) holders last year due to much-criticised withdrawal rules, new HMRC data has revealed.

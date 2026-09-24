@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21480034.jpg?type=og-image
+locations:
+- Catterick
+- Civic Centre
+- Harrogate
+- North Yorkshire
+- Norton
+- Ripon —
+- Scarborough
+- Selby
+people:
+- Cllr Wilkinson
+- Peter Wilkinson
+organisations:
+- Home Office
+- North Yorkshire Council
 ---
 
 North Yorkshire Council has rejected claims circulating on social media that more than 100 homes being acquired under a council housing programme are intended for asylum seekers.

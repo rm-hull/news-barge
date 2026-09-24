@@ -13,6 +13,23 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Ripon
+- Skipton
+- Wigglesworth
+people:
+- Calvin
+- Jonathan Booth
+- Julian Smith
+- Roz
+- Tracy
+organisations:
+- Best High Street Pub
+- Helwith Bridge Inn
+- Horton-in-Ribblesdale
+- The Castle Inn
+- The Plough
+- The Woolly Sheep Inn
 ---
 
 THE manager of a pub is "absolutely delighted" after it was named best in the area.

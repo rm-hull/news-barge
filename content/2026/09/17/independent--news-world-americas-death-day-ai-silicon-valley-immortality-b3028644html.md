@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- DeathClock
+- New York City
+- Silicon Valley
+- U.S.
+people:
+- Brent Franson
+- DeathClock
+- Holly
+- Joe Rogan
+- Joe Rogans
+- Theranos
+organisations:
+- AI
+- Apple Bank
+- Clinical Board
+- OpenAI —
+- TBPN
 ---
 
 The day that I found out when I’m going to die started normally. I filled out my DeathClock health profile (height, weight, allergies, family medical history, daily sugar and alcohol intake, and so on) and let the app know when my oldest grandparent died (in her 90s.) I detailed how I rarely sleep more than seven hours per night (I have a toddler) but how I do cardio every day (again, I have a toddler.)

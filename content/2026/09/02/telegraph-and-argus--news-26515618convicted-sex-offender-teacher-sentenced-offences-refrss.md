@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Self-Improvement
 - Lifestyle & Fashion
+locations:
+- Keighley
+- Kirklees
+- Leeds Crown Court
+- North America
+- Park Lane
+- West Yorkshire
+people:
+- Gilly Hodds
+- Keith Lockwood
+organisations:
+- DC Hodds
+- Kirklees District Police
+- Sex Offenders Register
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

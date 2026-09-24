@@ -11,6 +11,47 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42a/live/a21ff1
 categories:
 - UK
 - News & Politics
+locations:
+- Barbados
+- Caribbean
+- Europe
+- Grenfell Tower
+- Jamaica
+- London
+- Netherlands
+- Notting Hill Carnival
+- Rotterdam
+people:
+- Bob Marley
+- Carnival
+- Christine
+- Colu
+- Evan
+- Jackie
+- Jam Vybz Kitchen
+- Jay Dee
+- Litty Glitty
+- Lizzy
+- Lorraine
+- Luv Jerk
+- Matthew Phillip
+- Patricia
+- Rachel
+- Sara
+- Sophie
+organisations:
+- BBC London
+- BBC Radio London
+- Carnival Tashma
+- Jay Dee's Catering
+- Lizzy
+- Lorraine
+- Luv Jerk
+- Mangrove Mas
+- Met Police
+- Metropolitan Police
+- Soca
+- Soul-Rebel Marley
 ---
 
 Watch: Notting Hill Carnival celebrates 60th anniversary

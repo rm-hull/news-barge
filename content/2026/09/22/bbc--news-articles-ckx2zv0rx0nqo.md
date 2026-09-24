@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4fe/live/5c7c35b0-b6a1-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Fulham
+- Hammersmith
+- London
+- Southward Crown Court
+- Southwark Crown Court
+- Wandsworth
+- Westminster Magistrates' Court
+people:
+- Andy Furphy
+- Catherine P Baccas
+- Tim Westwood
+organisations:
+- BBC Radio 1
+- CPS
+- Capital Xtra
+- Crown Prosecution Service
+- Met Police
+- Metropolitan Police
+- Metropolitan Police Service
+- Southwark Crown Court
+- Westwood
 ---
 
 ![Tim Westwood looks solemn as he walks past a police officer with a member of his legal team walking behind him, outside Southward Crown Court in December.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5ccd/live/d4976430-b6a0-11f1-a430-4d16ee157c41.jpg)

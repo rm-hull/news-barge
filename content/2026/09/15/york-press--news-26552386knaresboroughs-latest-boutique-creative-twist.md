@@ -13,6 +13,19 @@ categories:
 - Arts & Culture
 - Lifestyle & Fashion
 - Family & Parenting
+locations:
+- HG5 0EA
+- Harrogate
+- High Street
+- Knaresborough High Street
+- Lullaby Lane
+people:
+- Melani Darcy
+organisations:
+- Harrogate Baby & Toddler Show
+- Lullaby Lane
+- Lullaby Lane Art Gallery
+- Lullaby Lane Children’s Boutique
 ---
 
 *(Image: Freelancer)*

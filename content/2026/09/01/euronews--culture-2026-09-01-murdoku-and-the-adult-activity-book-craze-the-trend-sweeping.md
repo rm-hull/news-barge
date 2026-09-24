@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Arts & Culture
+locations:
+- Montreal
+- Murdoku
+- Poirot
+- Spain
+people:
+- '## Murdle'
+- Agatha Christie
+- Espasa
+- Karber
+- Manuel Garand
+- Murdoku
+- Temas de Hoy
+organisations:
+- American G.T
+- Blackie Books
+- Blackie Books'
+- Financial Times
 ---
 
 ## Activity books for adults are booming, mixing puzzles, pop culture and mysteries. Their success, led by Murdoku, shows a hunger for screen-free fun and a playful workout for the mind.

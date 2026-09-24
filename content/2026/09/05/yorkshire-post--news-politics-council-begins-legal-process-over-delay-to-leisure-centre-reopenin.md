@@ -14,6 +14,22 @@ categories:
 - York
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Thorne Leisure Centre
+people:
+- Lee Pitcher
+- Ros Jones
+organisations:
+- City of Doncaster Council
+- DNOs
+- Distribution Network Operators
+- Doncaster Council
+- IDNO
+- Independent Distribution Network Operator
+- Labour
+- Northern Powergrid
+- Reform UK
+- Thorne Leisure Centre
 ---
 
 # Council begins legal process over delay to leisure centre reopening

@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Gaza Strip
+- Geneva
+- Israel
+- US
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Israel Katz
+- Itamar Ben-Gvir
+- Tamir Yadai
+organisations:
+- Jewish Power
+- UN
+- Yedioth Ahronoth
 ---
 
 Israel’s far-right national security minister has set out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip, with the intention of sending them abroad.

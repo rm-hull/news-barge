@@ -13,6 +13,33 @@ categories:
 - UK
 - Technology & Software
 - Comedy & Entertainment
+locations:
+- Bernie’s
+- Bernie’s’
+- Hamptons
+- Kentucky
+- Sen
+- U.S.
+- Washington, D.C.
+people:
+- Amy Coney Barrett
+- Andy Barr
+- Andy Beshear
+- Barack Obama
+- Bernie Lomax
+- Charles Booker
+- Donald Trump
+- Joe Biden
+- Merrick Garland
+- Mitch McConnell
+organisations:
+- AI
+- Capitol
+- Cook Political Report
+- Supreme Court
+- TMZ
+- The Independent
+- The Maitrix
 ---
 
 Social media users are mocking the physical condition of 84-year-old Sen. Mitch McConnell — with one vicious video turning him into the murdered man at the center of the movie “Weekend at Bernie’s” with the help of artificial intelligence.

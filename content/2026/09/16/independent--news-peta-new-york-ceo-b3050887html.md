@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- New York
+people:
+- Andrija Barak
+- Mason Melito
+- Moira Colley
+- Steven Kolb
+organisations:
+- CFDA
+- Cos
+- Council of Fashion Designers of America
+- H&M
+- PETA
+- People for the Ethical Treatment of Animals
 ---
 
 A prominent animal rights group is planning to meet with a top fashion executive who was filmed physically restraining two protesters during an altercation at a New York runway show, an incident that stunned many in the fashion world.

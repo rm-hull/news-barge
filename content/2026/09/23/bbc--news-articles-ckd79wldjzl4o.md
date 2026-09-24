@@ -11,6 +11,45 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b421/live/92f50c40-b76c-11f1-bc1f-3f186ca4140c.png
+locations:
+- China
+- France
+- Germany
+- Highgrove House
+- Iran
+- Netherlands
+- North Korea
+- Preston
+- Russia
+- South Africa
+- UK
+- US
+- Ukraine
+people:
+- AI
+- Aaron
+- Andy Burnham
+- Biden
+- Carl Miller
+- Charles III
+- DeSantis
+- Oleksii Reznikov
+- Reddit
+- Trump
+- Volodymyr Zelensky
+organisations:
+- AI
+- BBC Verify
+- Centre for the Analysis of Social Media at Demos
+- Labour Party
+- London Crier
+- Reddit
+- Reuters
+- Sinovac
+- TikTok
+- Twitter
+- UN
+- YouTube
 ---
 
 ![Two screengrabs from a fake video showing a picture of a mansion with a pool and a red sports car with cold wheel rims](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b421/live/92f50c40-b76c-11f1-bc1f-3f186ca4140c.png)

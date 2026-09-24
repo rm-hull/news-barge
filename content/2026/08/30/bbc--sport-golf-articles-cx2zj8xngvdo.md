@@ -12,6 +12,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Atlanta
+- Aus
+- NI
+- New Orleans
+- Sco
+- Swe
+- US
+people:
+- '** A Fitzpatrick'
+- '** C Morikawa'
+- '** J Rose'
+- '** R Gerard'
+- A Scott
+- Alex Fitzpatrick
+- C Gotterup
+- C Young
+- J Bridgeman
+- Justin Rose
+- L Aberg
+- M Fitzpatrick
+- MW Lee
+- Matt
+- R Henley
+- R MacIntyre
+- R McIlroy
+- Rory McIlroy
+- Ryan Gerard
+- S Scheffler
+- Scottie Scheffler
+- T Fleetwood
+- Tiger Woods
+- V Hovland
+- Viktor Hovland
+- W Clark
+organisations: []
 ---
 
 ![Scottie Scheffler with the Fedex Cup](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a09a/live/b2cd5300-a4c1-11f1-be76-7d0faa1b13a7.jpg)

@@ -13,6 +13,29 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Brittany
+- Europe
+- France
+- Russia
+- United States
+people:
+- Donald Trump
+- François Bayrou
+- François Hollande
+- Loïg Chesnais-Girard
+- Édouard Philippe
+organisations:
+- AFP
+- European Union
+- France Inter
+- French Socialist party
+- Horizons
+- MoDem
+- New World
+- PS
+- Radio J
+- Socialist Party
 ---
 
 ## François Hollande on Thursday released a book setting out 80 policy proposals. Despite its manifesto tone, the former president says he will wait until December to decide whether to run.

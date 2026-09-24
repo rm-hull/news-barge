@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- County Durham
+- High Shincliffe
+- Shincliffe Colliery
+- YOUR
+people: []
+organisations:
+- Durham County Council
+- Durham High School
+- Local Nature Reserve
+- Public Notice Portal
+- Shincliffe Parish Council
 ---
 
 *(Image: GOOGLE)*

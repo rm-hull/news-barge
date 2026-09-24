@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amber Taverns
+- Bishop Auckland
+- County Durham
+- McIntyre
+- Newgate Street
+- North East
+people:
+- Amber Taverns
+- Dorothy Perkins
+- John Smith
+organisations:
+- A66
+- Amber Taverns
+- Amber Taverns Business Development Manager
+- Birra Moretti
+- Poundworld
+- Racing TV
+- Sky Sports
+- TNT Sports
+- Tap & Tun
+- The Tap & Tun
 ---
 
 A Bishop Auckland pub is on the lookout for a new operator to take the reins.

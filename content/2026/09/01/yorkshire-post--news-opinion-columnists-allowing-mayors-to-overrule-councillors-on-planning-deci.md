@@ -15,6 +15,20 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Belfast
+- Linton-on-Ouse
+- Manchester
+- RAF
+- Yorkshire
+people:
+- Andrew Vine
+- Andy Burnham
+- Anne Handley
+- Keir Starmer
+organisations:
+- Cathal McNaughton
+- East Riding of Yorkshire Council
 ---
 
 # Allowing mayors to overrule councillors on planning decisions would take power away from communities - Andrew Vine

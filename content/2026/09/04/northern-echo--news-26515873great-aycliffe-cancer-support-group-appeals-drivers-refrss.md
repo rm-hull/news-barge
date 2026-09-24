@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Bishop Auckland Hospitals
+- County Durham
+- Darlington
+- Hartlepool
+- James Cook
+- James Cook University Hospital
+- Middlesbrough
+- Newton Aycliffe
+- North Yorkshire
+- UK
+people:
+- Allison White
+- Allison White BEM
+- Emma Leach
+- Emma Leitch
+- SARAH CALDECOTT
+- Sophie Harding
+organisations:
+- Aycliffe Cancer Support Group
+- SARAH CALDECOTT
 ---
 
 *(Image: SARAH CALDECOTT)*

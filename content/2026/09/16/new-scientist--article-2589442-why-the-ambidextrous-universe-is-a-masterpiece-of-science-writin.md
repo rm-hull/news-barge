@@ -13,6 +13,11 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI312685543.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Higgs
+people:
+- Martin Gardner
+organisations: []
 ---
 
 ![Martin Gardner and the book jacket for The Ambidextrous Universe](https://www.newscientist.com/wp-content/uploads/2026/09/SEI312685543.jpg?w=840)

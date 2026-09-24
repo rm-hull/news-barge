@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/c12b92282e3d33a73c300fc65c7842f74ff58cd8/134_0_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c9b43d37f8a09c08b794b12ff139bb
+locations:
+- Australia
+- Beijing
+- Brazil
+- Brussels
+- Canada
+- China
+- Europe
+- France
+- Japan
+- Minas Gerais
+- South Korea
+- UK
+- US
+- Washington
+people:
+- Donald Trump
+- Jozef Síkela
+- Kurt Tong
+- Maroš Šefčovič
+- Rafael Moreno
+- Ursula von der Leyen
+- Wang Wentao
+- Xi Jinping
+organisations:
+- APEC
+- Asia Group
+- Asia-Pacific Economic Cooperation
+- EU
+- Eurometal
+- European Commission
+- OEM
+- Siemens Gamesa
+- Solvay
+- Viridis Mining and Minerals
+- Viridis’s Colossus
+- Šefčovič
 ---
 
 The head of a mining company hoping to supply the EU with rare earths in two years’ time has said it is “paramount” to end China’s stranglehold on the supply of the raw materials used in everything from cars to wind turbines and military jets.

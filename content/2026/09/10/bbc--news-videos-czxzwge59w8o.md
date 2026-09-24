@@ -11,6 +11,13 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe7/live/af214a
 categories:
 - UK
 - News & Politics
+locations:
+- US
+people:
+- Donald Trump
+- Sarah Smith
+organisations:
+- BBC North America
 ---
 
 # Watch: Is Trump's $5,000 election pledge legal?

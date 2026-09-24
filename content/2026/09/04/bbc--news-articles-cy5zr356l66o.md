@@ -12,6 +12,70 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Bollywood
+- England
+- India
+- Llewelyn-Bowen
+- MEERA
+- Meera
+- New Delhi
+- Nina
+- Switzerland
+- UK
+- Wadia
+- Walsall
+- West End
+- Wolverhampton
+people:
+- Amber Haque
+- Andrew Lloyd Webber
+- Ashwin Kumar
+- Bradley
+- Celestine Venus
+- Coopers
+- Dame Meera Syal
+- Ebrahim
+- GALLAGHER
+- Goodness Gracious Me
+- Indiri
+- Joshi
+- Laurence Llewelyn Bowen
+- Lily
+- Little Bernard
+- Madame Marlene
+- Madhuri Kumar
+- McINNES
+- Meera Syal
+- NIKKI
+- Nikki McInnes
+- Nina Wadia
+- PETER
+- Peter Gallagher
+- Rita
+- SHEILA
+- STEAFEL
+- Sheila Steafel
+- Sushila Kumar
+- VINCENT EBRAHIM
+- Vincent
+organisations:
+- Asian Network Trending
+- BBC Asian Network
+- BBC Sounds
+- BBC TWO
+- Bombay Dreams
+- British TV
+- Channel 4
+- INDIRI JOSHI
+- MEERA SYAL
+- Newham Asian Women's Project
+- Queen Mary's High School
+- Renu
+- Southall Black Sisters
+- Syal
+- TX
+- The Kumars
 ---
 
 ![Dame Meera Syal has short wavy dark brown hair and is dressed in a teal green sparkly dress and has gold hooped earrings on. She is standing against a black background with the 'olivier awards' logo on.](https://ichef.bbci.co.uk/ace/standard/608/cpsprodpb/b939/live/d76832c0-a93f-11f1-a24a-1f5107675b0f.png)

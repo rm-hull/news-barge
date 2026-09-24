@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Caracas
+- China
+- Miraflores
+- Russia
+- US
+- Venezuela
+- Washington
+- White House
+people:
+- Alejandro Betancourt
+- Chavismo
+- Chris Wright
+- Delcy Rodriguez
+- Delcy Rodríguez
+- Donald Trump
+- Francisco Rodríguez
+- Nicolás Maduro
+organisations:
+- CNBC
+- Wall Street Journal
 ---
 
 The US energy secretary, Chris Wright, has denied Washington is seeking to commandeer huge quantities of Venezuelan oil, amid growing criticism of Donald Trump’s energy deal with the country’s interim leaders.

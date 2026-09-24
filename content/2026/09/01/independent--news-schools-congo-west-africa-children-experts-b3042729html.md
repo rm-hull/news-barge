@@ -16,6 +16,17 @@ categories:
 - Education & Learning
 - Family & Parenting
 - Society & Culture
+locations:
+- Bunia
+- Congo
+- Ituri
+- West Africa
+people:
+- Aimerance Vahweka
+- Etienne Ndjabu
+- Greg Ramm
+organisations:
+- World Health Organization
 ---
 
 A new academic year began across Congo on Tuesday despite concerns by parents and teachers that the country's Ebola outbreak still poses risks to children in the epicenter.

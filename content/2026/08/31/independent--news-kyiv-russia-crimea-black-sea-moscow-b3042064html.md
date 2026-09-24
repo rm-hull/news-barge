@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Belgorod
+- Black Sea
+- Boryspil
+- Brovary
+- Chernihiv
+- Crimea
+- Kyiv
+- Lisbon
+- London
+- Moscow
+- Portugal
+- Russia
+- Ukraine
+people:
+- Alexander Shuvayev
+- Elise Morton
+- Serhii Beskrestnov
+- Tymur Tkachenko
+- Viacheslav Chaus
+- Volodymyr Zelenskyy
+organisations:
+- Defense Ministry
+- Kyiv
+- Zelenskyy
+- ___ Hatton
 ---
 
 Russian forces relentlessly battered Kyiv and cities in the region around the Ukrainian capital for a fifth straight day Monday, leaving some supermarket shelves bare after repeated strikes on warehouses as Ukraine reels from attacks with jet-powered drones.

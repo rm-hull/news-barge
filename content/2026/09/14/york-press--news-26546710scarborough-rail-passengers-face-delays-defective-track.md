@@ -14,6 +14,25 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- Beverley
+- Bridlington
+- Driffield
+- Filey
+- Goole
+- Howden
+- Hull
+- North Yorkshire
+- Scarborough
+- Seamer
+- Selby
+- Sheffield
+- York
+people: []
+organisations:
+- Network Rail
+- Newsquest
+- Northern
 ---
 
 *(Image: Newsquest)*

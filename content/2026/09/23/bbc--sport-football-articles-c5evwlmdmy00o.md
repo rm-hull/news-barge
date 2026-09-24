@@ -16,6 +16,29 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a61/live/ae28e830-b74c-11f1-a430-4d16ee157c41.jpg
+locations:
+- Europe
+- Manchester United
+- Old Trafford
+people:
+- Andrey Santos
+- Benjamin Sesko
+- Carlos Baleba
+- Jim Ratcliffe
+- Kieran Maguire
+- Luke Shaw
+- Michael Carrick
+- Omar Berrada
+- Ruben Amorim
+- Youri Tielemans
+organisations:
+- AC Milan
+- Glazer
+- Ipswich
+- Manchester City
+- Manchester United
+- Premier League
+- Women's Super League
 ---
 
 ![Manchester United](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9a61/live/ae28e830-b74c-11f1-a430-4d16ee157c41.jpg)

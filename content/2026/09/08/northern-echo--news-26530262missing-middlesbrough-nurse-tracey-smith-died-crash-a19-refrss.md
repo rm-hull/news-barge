@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- A172
+- A19
+- County Durham
+- Hambleton
+- Ingleby Arncliffe
+- Northallerton Coroner’s Court
+- UK
+people:
+- Ciaran Conlon
+- Jonathan David Leach
+- Ms Smith
+- Tracey Linda Smith
+- Tracey Smith
+organisations:
+- A172
+- Middlesbrough
+- North Yorkshire Police
+- Richmond Neighbourhood Policing Team
 ---
 
 An inquest has opened into the death of a woman whose body was found in a car almost four weeks after she was reported missing.

@@ -12,6 +12,23 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2024/07/22/13/newFile-1.jpg?width=1200&height=800&crop=1200:800
+locations:
+- A61
+- Barnsley
+- Gresford Close
+- Leeds Magistrates’ Court
+- Mapplewell
+people:
+- Christopher Barton
+- Christopher Cockell
+- Janine Barton
+- Lillie Morgan-Roller
+- Rubie
+- Shane Roller
+- Shannen Morgan
+- Woolley Grange
+organisations:
+- West Yorkshire Police
 ---
 
 A man has been charged with causing the deaths of six people more than two years after a crash.

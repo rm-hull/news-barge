@@ -14,6 +14,20 @@ categories:
 - UK
 - Technology & Software
 - Automotive
+locations:
+- Florida
+- Jupiter Island
+- Martin County
+- United States
+people:
+- '![Woods'
+- Donald Trump
+- Jack Nicklaus
+- Tiger Woods
+- Vanessa Trump
+organisations:
+- Future Competition Committee
+- Land Rover
 ---
 
 Golfing icon Tiger Woods entered a a no-contest on Wednesday to a reckless driving charge after a rollover crash in March near his home in Florida.

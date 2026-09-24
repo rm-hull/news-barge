@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Aryashahr
+- Dallas
+- Dowlat Street
+- Islamic Republic of Iran
+- Israel
+- Kerman
+- Sattarkhan
+- Sepah Square
+- Tehran
+- US
+- United States
+- Washington
+people:
+- Donald Trump
+- Hashem
+- Hassan Ghashghavi
+- Kalabarg
+- Ladan
+- Mahmoud
+- Mehdi
+- Samaneh
+- Snapp
+- Tapsi
+organisations:
+- Air Force One
+- Central Bank
+- Euronews Farsi
+- National Security and Foreign Policy Commission
+- Snapp
+- Uber
 ---
 
 ## In a Euronews exclusive, Euronews Farsi spoke with drivers, small business owners and salaried workers about life in an economy where fuel prices doubled overnight, and people can no longer afford basic food items.

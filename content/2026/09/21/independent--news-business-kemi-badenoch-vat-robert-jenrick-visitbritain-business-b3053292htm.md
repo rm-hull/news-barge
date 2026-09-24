@@ -12,6 +12,47 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/21/02/42318942fff16f0c1c9efbb23a3d2928Y29udGVudHNlYXJjaGFwaSwxNzg5OTk0ODMz-2.85804253.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- PA
+- UK
+people:
+- Angela Hartnett
+- Charlie Gilkes
+- Clare Hornby
+- Ewan Venters
+- Fuller
+- Jamie Reuben
+- Kemi Badenoch
+- Marc Socker
+- Nigel Farage
+- Paul Smith
+- Robert Jenrick
+- Simon Emeny
+- Stefan Rousseau
+- Tom Athron
+- Yui Mok
+organisations:
+- Burlington Arcade
+- Claridge’s
+- EU
+- Fortnum & Mason
+- Government
+- Inception
+- Labour
+- Maybourne
+- Me+Em
+- Opposition
+- PA
+- Reform UK
+- Smith and Turner
+- The Berkeley
+- The Connaught
+- The Emory
+- Tories
+- Tory government
+- Treasury
+- VisitBritain
 ---
 
 Kemi Badenoch has pledged to bring back tax-free shopping for tourists by reversing a post-Brexit rule change.

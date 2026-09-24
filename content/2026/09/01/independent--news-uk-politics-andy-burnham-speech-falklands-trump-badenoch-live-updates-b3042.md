@@ -12,6 +12,47 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Church House
+- Clacton-on-Sea
+- Downing Street
+- Falkland Islands'
+- Holborn
+- Jonathan Brady
+- London
+- Makerfield
+- PA
+- St Pancras
+- UK
+- US
+people:
+- '## Burnham'
+- Alex Norris
+- Andy Burnham
+- Angela Rayner
+- Count Binface
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Lucy Powell
+- Nick Thomas-Symonds
+- Nigel Farage
+- Shabana Mahmood
+- Zack Polanski
+organisations:
+- '## Green'
+- Burnham
+- Camden New Journal
+- EU
+- Green Party
+- House of Commons
+- Justice
+- Labour
+- London Assembly
+- Reform UK
+- Sky News
+- The Guardian
+- United States’
 ---
 
 Former prime minister Sir Keir Starmer has announced his resignation as an MP in a shock move, setting his successor Andy Burnham up for a fresh by-election.

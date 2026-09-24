@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Atlantic
+- Canada
+- France
+- Germany
+- London
+- Netherlands
+- New York
+- North America
+- Paris
+- US
+- Zeist
+people:
+- Charles Schwab
+- Daan Struyven
+- Joseph Cavatoni
+- Lina Thomas
+- Nader Antar
+- Olaf Sleijpen
+organisations:
+- BBC
+- Bank of England
+- Brink
+- Bundesbank
+- De Nederlandsche Bank
+- Global Services
+- Goldman Sachs
+- The Bank
+- World Gold Council
 ---
 
 ![Gold bars stacked up](https://ichef.bbci.co.uk/ace/standard/652/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg)

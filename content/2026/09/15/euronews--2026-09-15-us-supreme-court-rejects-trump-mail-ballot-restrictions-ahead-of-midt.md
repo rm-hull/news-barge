@@ -13,6 +13,33 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alabama
+- Arizona
+- North Carolina
+- US
+- Utah
+- Washington
+- White House
+- Wisconsin
+people:
+- Adrian Fontes
+- Brett Kavanaugh
+- Celina Stewart
+- Clarence Thomas
+- Deidre Henderson
+- Donald Trump
+- Joe Biden
+- Samuel Alito
+- Steve Hobbs
+organisations:
+- Congress
+- Justice Department
+- League of Women Voters
+- Postal Service
+- Supreme Court
+- Trump
+- US Supreme Court
 ---
 
 ## The decision allows states to continue sending out mail ballots under the same processes they’ve used for years and have accounted for nearly a third of votes cast.

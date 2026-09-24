@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Argentina
+- Belgium
+- Flushing Meadows
+- New York
+- Ukraine
+people:
+- Alexander Blockx
+- Alexander Zverev
+- Amanda Anisimova
+- Arthur Fils
+- Aryna Sabalenka
+- Ben Shelton
+- Carlos Alcaraz
+- Coco Gauff
+- Daniil Medvedev
+- Elena Rybakina
+- Elina Svitolina
+- Felix Auger-Aliassime
+- Flavio Cobolli
+- Francisco Cerundolo
+- Jannik Sinner
+- Jessica Pegula
+- Karolina Muchova
+- Linda Noskova
+- Mirra Andreeva
+- Novak Djokovic
+- Pat Cash
+- Rafael Jodar
+- Stefanos Tsitsipas
+- Taylor Fritz
+organisations:
+- Alcaraz
+- BBC Radio 5 Live
+- Cincinnati
+- Guardian
+- New York
+- WTA
 ---
 
 ![Taylor Fritz, wearing a black-and-white T-shirt and white headband, screams during a US Open match](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2d12/live/44dc31b0-aa46-11f1-aa8e-b7f5a9b1f3e0.jpg)

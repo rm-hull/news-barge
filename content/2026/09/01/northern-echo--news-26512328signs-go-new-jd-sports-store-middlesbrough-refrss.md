@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Cleveland Centre
+- Cornmill Shopping Centre
+- Darlington
+- England
+- Hillstreet Centre
+- Hillstreet Shopping Centre
+- Middlesbrough
+- North East
+- Teesside Park
+people: []
+organisations:
+- B&M
+- Boots
+- Cleveland Retail Park
+- JD Sports
+- North East Aldi
+- THE NORTHERN ECHO
 ---
 
 Signs have gone up for a new JD Sports store in Middlesbrough.

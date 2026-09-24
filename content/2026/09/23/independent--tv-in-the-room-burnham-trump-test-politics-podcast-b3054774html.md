@@ -20,6 +20,66 @@ categories:
 - News & Politics
 - UK
 image: https://cdn.jwplayer.com/v2/media/mihb0Dor/poster.jpg?width=720
+locations:
+- AI
+- Brighton
+- Britain
+- Chelsea
+- Dublin
+- Europe
+- Falklands
+- Germany
+- Iran
+- Israel
+- Italy
+- London
+- Maldives
+- Mauritius
+- New York
+- New York City
+- Russia
+- Saudi Arabia
+- UK
+- US
+- Ukraine
+people:
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Cleo
+- David Miliband
+- Donald Trump
+- Ed Davey
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Farage
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Michael Carrick
+- Mikel Arteta
+- Nourah
+- Putin
+- Sam Ryder
+- Tom Grennan
+- Zelensky
+organisations:
+- AfD
+- Brighton
+- Burnham
+- Burnham’s Trump
+- Chelsea
+- Commons
+- ELITE
+- Lib Dems
+- MI6
+- Premier League
+- See.Sense
+- Spice Kitchen
 ---
 
 ## Showing now | In The Room

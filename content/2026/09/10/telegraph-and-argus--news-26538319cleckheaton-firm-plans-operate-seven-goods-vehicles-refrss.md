@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Cleckheaton
+- Harehills Lane
+- Hillcrest House
+- Leeds
+- Low Moor
+- Morley Carr Business Centre
+people:
+- Barry Garth
+organisations:
+- BD19 4TE
+- Cavendish House
+- Garth Group Ltd
+- Google Street View
+- Little Wood Drive
+- Traffic Commissioner
+- Unit 1E
+- West 26 Industrial Estate
 ---
 
 *(Image: Google Street View)*

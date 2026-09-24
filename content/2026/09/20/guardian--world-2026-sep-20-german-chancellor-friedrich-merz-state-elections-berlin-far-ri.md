@@ -11,6 +11,29 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/907c88824350580716abf069d40ba4af96776036/680_0_6832_5464/master/6832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f6206d58848c0f3be39a98361271d17
+locations:
+- Berlin
+- Europe
+- Germany
+- Mecklenburg-Western Pomerania
+- New York
+- Saxony-Anhalt
+- Ukraine
+people:
+- Friedrich Merz
+- Holger Schmieding
+- Kai Wegner
+- Klaus Wowereit
+- Stefan Evers
+organisations:
+- AfD
+- Berenberg bank
+- CDU
+- Christian Democratic Union
+- Die Linke
+- SPD
+- UN
+- pro-Kremlin Alternative für Deutschland
 ---
 
 Voters in two German states are going to the polls with the political future of the embattled chancellor, Friedrich Merz, hanging in the balance and an emboldened far right targeting further gains.

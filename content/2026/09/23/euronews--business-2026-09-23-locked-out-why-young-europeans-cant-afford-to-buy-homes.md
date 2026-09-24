@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - Automotive
 image: https://images.euronews.com/articles/stories/09/91/89/12/1200x675_cmsv2_77c5bb94-4cc1-537a-a9fc-6a0e28b7cb95-9918912.jpg
+locations:
+- Austria
+- Bad Staffelstein
+- Croatia
+- Denmark
+- Europe
+- France
+- Germany
+- Greece
+- Ireland
+- Luxembourg
+- Netherlands
+- Opatija
+- Poland
+- Slovakia
+- Spain
+- Staffelberg
+- Switzerland
+- UK
+people:
+- Cody Hochstenbach
+- J. Antonio Módenes
+- Jonathan Cribb
+- Ján Výbošťok
+organisations:
+- Autonomous University of Barcelona
+- Czechia
+- EU
+- Euronews Business
+- IFS
+- Institute for Fiscal Studies
+- OECD
+- Slovak Academy of Sciences
+- The Netherlands
+- University of Amsterdam
 ---
 
 ## Euronews Business examines how homeownership rates among younger Europeans have changed compared with previous generations, and what is driving the shift.

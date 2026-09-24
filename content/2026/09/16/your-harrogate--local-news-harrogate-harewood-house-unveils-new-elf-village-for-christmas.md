@@ -12,6 +12,31 @@ categories:
 - Harrogate
 - Home, Garden & DIY
 image: https://mmo.aiircdn.com/409/6aaa442673366d8bd6c.jpg
+locations:
+- Harewood House
+- North Lawn
+- Servants’ Hall
+people:
+- Christina Lewis
+- Harewood
+- Rebecca Burton
+- Zoë Hughes
+organisations:
+- Elf Cocoa Café
+- Elf Village
+- Elf Village Post Office
+- Harewood House
+- Harewood’s Courtyard
+- Library
+- Mansion
+- Santa School
+- State Bedroom
+- State Dining Room
+- Studio McGuire
+- The Wishery
+- Tinker Tent
+- Yorkshire
+- YurtBar
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa442673366d8bd6c.jpg)

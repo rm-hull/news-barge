@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a768/live/d19d2960-b513-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Britain
+- Canada
+- China
+- Downing Street
+- Europe
+- Greenland
+- Kingdom of Denmark
+- New York
+- North Atlantic
+- Nuuk
+- Russia
+- UK
+- US
+- Ukraine
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Davey
+- Jens-Frederik Nielsen
+- Mark Carney
+- Mette Frederiksen
+organisations:
+- Greenlanders
+- Nato
+- No 10
+- Truth Social
+- UN General Assembly
+- UNGA
+- Union
 ---
 
 ![Britain's Prime Minister Andy Burnham attends a meeting with Canada's Prime Minister Mark Carney, he wears a black suit and white shirt. A Union flag hangs in the background. ](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a768/live/d19d2960-b513-11f1-b1d1-571ed4d7ff2c.jpg)

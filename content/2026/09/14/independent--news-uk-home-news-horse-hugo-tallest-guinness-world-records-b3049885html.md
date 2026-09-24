@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bedfordshire
+- England
+- Northamptonshire
+- Shire
+- Toddington Mills
+- Towcester
+- Wisconsin
+people:
+- Big Jake
+- Brett Masters
+- Hugo
+- Sampson
+- Thomas Cleaver
+organisations:
+- Guinness World Records
+- Rare Breeds Survival Trust
+- Tove Valley Shire Horses
 ---
 
 A Shire horse named Hugo has officially been recognised as the world's tallest living horse – and he is still growing.

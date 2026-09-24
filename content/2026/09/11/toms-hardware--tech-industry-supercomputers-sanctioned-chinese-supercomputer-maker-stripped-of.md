@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Aurora
+- China
+- Sugon
+people:
+- Anton Shilov
+- Glenn K. Lockwood
+- Tom
+organisations:
+- AICS-B
+- Argonne National Laboratory
+- Aurora
+- CloudBrain
+- Get Tom's Hardware
+- Google News
+- Huawei OceanStor A800
+- IO500 Committee
+- Intel
+- OceanFS
+- Optane Persistent Memory
+- ParaStor
+- Pengcheng Laboratory
+- SCNet AICS-A
+- SCNet-A
+- Sugon
+- Tom’s Hardware
 ---
 
 ![Server SSD installation](https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR.png) 

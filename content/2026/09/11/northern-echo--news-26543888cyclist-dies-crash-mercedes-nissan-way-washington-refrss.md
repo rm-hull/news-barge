@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Nissan Way
+- Northumbria Police
+- Washington
+people:
+- Greg Huntley
+organisations:
+- Google Maps
+- Northumbria Police
 ---
 
 *(Image: Northumbria Police)*

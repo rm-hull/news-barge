@@ -13,6 +13,20 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Cheltenham Crescent
+- Cook Inn
+- Harrogate
+- North Yorkshire
+- York
+people: []
+organisations:
+- Crab Manor Hotel
+- Ernest Wilson & Co
+- Google
+- Phranakhon Thai Tapas
+- Savills
+- TripAdvisor
 ---
 
 *(Image: Ernest Wilson & Co)*

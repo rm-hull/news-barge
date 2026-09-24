@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Cheshire
+people: []
+organisations:
+- Cheshire Police
+- Chester Zoo
 ---
 
 ![A Sumatran tiger looks ahead as it prowls at the zoo. It has orange fur with black stripes and heading through foliage.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/b0f2/live/800b9cc0-add5-11f1-a40e-b70f4378d974.png)

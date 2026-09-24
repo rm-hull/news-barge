@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Boryspil
+- Kyiv
+- Ukraine
+people:
+- Tymur Tkachenko
+organisations:
+- Air Force
+- Telegram
 ---
 
 ## The barrage is the latest in a series of a daily attacks targeting multiple Ukrainian regions as Kyiv continues to struggle with thwarting certain aerial attacks due to shortages in interceptor missiles.

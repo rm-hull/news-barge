@@ -14,6 +14,20 @@ categories:
 - Lifestyle & Fashion
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21464802.jpg?type=og-image&xType=0&yType=260
+locations:
+- Castlegate
+- Durham
+- Helmsley
+- North York Moors
+- North Yorkshire
+people:
+- Helmsley
+organisations:
+- Castlegate
+- Feather Trail
+- Feather Trail Café
+- Tripadvisor
+- YO62 5AB
 ---
 
 *(Image: TRIPADVISOR)*

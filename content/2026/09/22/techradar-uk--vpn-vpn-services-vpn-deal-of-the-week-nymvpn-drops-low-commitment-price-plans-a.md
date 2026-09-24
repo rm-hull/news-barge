@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/kFJmpmXBNvtZboJMDK5tJQ-1200-80.png
+locations:
+- Nym
+people:
+- Rob Dunne
+organisations:
+- NordVPN
+- NymVPN
+- Rob
+- TechRadar
+- VPN
+- WireGuard
 ---
 
 ![NymVPN ap on mobile – promo image](https://cdn.mos.cms.futurecdn.net/kFJmpmXBNvtZboJMDK5tJQ.png)

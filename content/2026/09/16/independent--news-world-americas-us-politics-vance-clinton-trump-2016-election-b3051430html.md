@@ -11,6 +11,35 @@ image: https://static.independent.co.uk/2026/09/11/07/2294612365..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Appalachia
+- Miami
+- Michigan
+- Ohio
+- Pennsylvania
+- Rust Belt
+- White House
+- Wisconsin
+people:
+- Beyoncé
+- Donald Trump
+- Hillary Clinton
+- Hitler
+- JD Vance
+- Jake Sullivan
+- Josh McLaurin
+- MAGA
+- Taylor Van Kirk
+organisations:
+- Blue Wall
+- Independent
+- Newsweek
+- Republican Party
+- Trump
+- Twitter
+- Vance
+- Yale Law
 ---
 
 Vice President JD Vance’s political evolution on MAGA and Donald Trump is well known, but a new report claims he went out of his way to try and stop the man who would later make him his running mate.

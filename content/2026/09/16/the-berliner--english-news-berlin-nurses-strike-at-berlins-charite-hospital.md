@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Charité
+people:
+- Chris Emil Janßen
+- Verdi
+organisations:
+- Charité
+- Verdi union
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0859997795h-scaled.jpg)

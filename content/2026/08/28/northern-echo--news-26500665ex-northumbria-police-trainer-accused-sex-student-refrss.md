@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- DH4 5BL
+- Dairy Lane
+- Darlington
+- Durham Esso
+- Houghton Le Spring
+- Houghton Police Station
+- North East
+- Northumbria
+people:
+- PC Miller
+- Peter Miller
+organisations:
+- Covid
+- Ex-Durham
+- Old Magistrates Court
+- Standards of Professional Behaviour covering Authority
 ---
 
 *(Image: POLICE)*

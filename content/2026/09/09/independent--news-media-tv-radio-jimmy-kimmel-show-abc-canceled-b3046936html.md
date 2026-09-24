@@ -13,6 +13,24 @@ categories:
 - UK
 - Comedy & Entertainment
 - Film & TV
+locations:
+- D.C.
+- The Washington Hilton
+- White House
+people:
+- Charlie Kirk
+- Donald Trump
+- Jimmy Kimmel
+- Melania Trump
+- Mrs. Trump
+organisations:
+- ABC
+- Disney
+- FCC
+- Federal Communications Commission
+- Page Six
+- The Independent
+- Trump
 ---
 
 ABC has dismissed claims that Jimmy Kimmel’s late-night show is ending next year.

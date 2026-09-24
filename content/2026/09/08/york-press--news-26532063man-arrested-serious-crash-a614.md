@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- A614
+- East Yorkshire
+- NORTH YORKSHIRE
+- Spaldington Road
+people: []
+organisations:
+- Ducati
+- HGV
+- Humberside Police
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

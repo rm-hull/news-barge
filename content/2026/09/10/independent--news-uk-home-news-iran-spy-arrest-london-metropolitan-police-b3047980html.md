@@ -11,6 +11,17 @@ image: https://static.independent.co.uk/2025/03/27/8/01/iStock-522578161.jpg?tri
 categories:
 - News & Politics
 - UK
+locations:
+- Iran
+- London
+- Metropolitan
+- UK
+people:
+- Helen Flanagan
+organisations:
+- Counter Terrorism Policing London
+- Metropolitan Police
+- NSA
 ---
 
 Counter-terrorism officers in London have arrested a man and a woman suspected of aiding the foreign intelligence service of Iran.

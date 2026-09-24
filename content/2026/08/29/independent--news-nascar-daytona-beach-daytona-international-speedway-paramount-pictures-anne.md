@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations: []
+people:
+- Anne Hathaway
+- Cole Trickle
+- Harry Hogge
+- Jeff Gordon
+- Jerry Bruckheimer
+- Jonathan Levine
+- Kevin James’
+- Robert Duvall
+- Rubbin’
+- Tim Richmond
+- Tom Cruise
+- Tommy Harper
+- Will Staples
+organisations:
+- Daytona International Speedway
+- Hendrick Motorsports
+- Hendrick Motorsports’
+- Hollywood Reporter
+- NASCAR
+- Netflix
+- Paramount Pictures
+- The Crew
 ---
 
 Tom Cruise will reprise his role as NASCAR driver Cole Trickle in a follow-up to “Days of Thunder.”

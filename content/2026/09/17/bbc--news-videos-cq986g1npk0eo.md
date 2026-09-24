@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- US
+people:
+- Ed Sheeran
+- Macklemore
+- Mark Savage
+- Robert Kraft
+organisations:
+- BBC
+- New England Patriots
 ---
 
 # Ed Sheeran's tour in 'damage control mode' after Macklemore backlash

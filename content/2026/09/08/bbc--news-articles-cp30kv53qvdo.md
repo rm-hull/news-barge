@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Birmingham
+- California
+- Duke
+- Palace
+- UK
+people:
+- Archie
+- Chamberlain
+- Charles
+- Duchess
+- Harriet Whitehead
+- Harry
+- King
+- Lilibet
+- Lord Lieutenants
+- Meghan
+organisations:
+- Duke and Duchess of Sussex
+- Home Office
+- Lord Lieutenants
+- Ravec
+- Royal Family
+- Sovereign
+- Sussexes
+- VIP Executive Committee
 ---
 
 ![Meghan holding onto Harry's arm, while Harry waves his hand](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/49f9/live/385da4e0-ab5f-11f1-9647-01c7ddc5a2b1.jpg)

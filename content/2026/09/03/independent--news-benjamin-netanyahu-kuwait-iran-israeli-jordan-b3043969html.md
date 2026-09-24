@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/03/09/Iran_War_Strait_of_Hormuz_
 categories:
 - News & Politics
 - UK
+locations:
+- Bahrain
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Middle East
+- Strait of Hormuz
+- U.S.
+people:
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Itamar Ben-Gvir
+organisations:
+- Cabinet
+- Ministry of Defense
 ---
 
 Iran fired missiles and drones at Kuwait on Thursday, continuing its retaliation for U.S. bombardments earlier in the week.

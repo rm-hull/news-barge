@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fab3/live/9f3a5ac0-b29c-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Conroy
+- Manchester
+- North Wales
+- Rhuddlan
+- Swinton
+- UK
+people:
+- Amber
+- Bronya
+- Conroy
+- David Hollingworth
+- George
+organisations:
+- Bank of England
+- Bronya
+- Conroy
+- L&C Mortgages
+- Lloyds
+- Santander
+- Skipton Building Society
+- Yorkshire Building Society
 ---
 
 ![Conroy and Amber stand in front of a cruise ship docked in a harbour. It's a sunny day; he wears a black T-shirt and sunglasses. She wears a flowery short-sleeved shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fab3/live/9f3a5ac0-b29c-11f1-bc1f-3f186ca4140c.jpg)

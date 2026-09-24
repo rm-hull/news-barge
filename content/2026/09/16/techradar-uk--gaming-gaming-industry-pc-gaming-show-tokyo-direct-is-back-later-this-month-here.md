@@ -12,6 +12,35 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations: []
+people:
+- Frankie Ward
+- Rob Dwiar
+organisations:
+- Bilibili
+- Devolver Digital
+- ESR Network
+- Firefly Studios
+- GamesRadar
+- GamesRadar+
+- Ginx
+- Google News
+- Hardware
+- Kuaishou
+- New Blood Interactive
+- PC Gamer YouTube
+- Steam
+- Streaming
+- TRG
+- TechRadar Gaming
+- The Game Bakers
+- Tokyo Direct
+- Total Mayhem Games
+- Twitch, X
+- Veewo Games
+- WePC
+- WuselFaktory
+- eCLUTCH
 ---
 
 ![The key art for the 2026 PC Gaming Show Tokyo Direct presentation](https://cdn.mos.cms.futurecdn.net/srg7QsE9Kw3G9dgF2cibCQ.jpg) 

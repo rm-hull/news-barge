@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Britain
+- Paris
+- Penarth
+- Vale of Glamorgan
+- Wales
+people:
+- Amy Davies
+- Carla Denyer
+- Hannah Leonard
+- Jill Williams
+- Jo Hooper
+- Laura Doel
+- Laviai Nielsen
+- Neil Butler
+organisations:
+- BBC News
+- GPs
+- Green Party
+- Health and Safety Executive
+- Mental Health UK
+- NASUWT
+- Public Health Wales'
+- Royal College of Midwives
+- Trade Union Congress Cymru
+- WHO
+- World Health Organization
 ---
 
 ![Woman with curly red hair and bright red lipstick faces the camera. She is wearing a white shirt](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/b28d/live/b62f7fb0-a222-11f1-bd6a-3d72a7f54a3e.jpg)

@@ -14,6 +14,10 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Hungary
+people: []
+organisations: []
 ---
 
 Photos of top track and field athletes chasing $150K prizes at the Ultimate Championship

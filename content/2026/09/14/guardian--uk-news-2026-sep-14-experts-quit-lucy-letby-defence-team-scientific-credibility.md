@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Science
+locations:
+- Countess of Chester
+- England
+- Manchester
+- New Zealand
+- UK
+people:
+- Geoff Chase
+- Helen Shannon
+- Kathryn Thirlwall
+- Lucy Letby
+- Mark McDonald
+- Ms Letby
+organisations:
+- CCRC
+- Criminal Cases Review Commission
+- Guardian
+- Letby
 ---
 
 Two leading experts have withdrawn from Lucy Letby’s defence team over concerns about the “scientific credibility” of some of its evidence.

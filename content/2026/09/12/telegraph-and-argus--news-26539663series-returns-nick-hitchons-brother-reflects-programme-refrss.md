@@ -13,6 +13,39 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- America
+- Atlantic
+- Britain
+- Craven
+- Dales
+- Emmerdale Farm
+- Granada
+- Kilnsey Crag
+- Manchester
+- Oxford
+- Skipton
+- UK
+- USA
+- West Yorkshire
+people:
+- Asif Kapadia
+- Claire Lewis
+- Mike Apted
+- Moon
+- Nick Hitchon
+organisations:
+- Arncliffe CE Primary School
+- Ermysted’s Grammar School
+- Granada Television
+- ITV1
+- ITVX
+- Lancashire
+- Merton College
+- Small
+- The Simpsons
+- University of Wisconsin
+- University of Wisconsin The Up Series
 ---
 
 A TELEVISION era with a strong link to West Yorkshire comes to a fitting end next week.

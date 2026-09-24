@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bab el-Mandeb
+- Gulf of Oman
+- Hodeida
+- Iran
+- Jawf
+- Jerusalem Israel
+- Marib
+- Middle East
+- Pakistan
+- Persian Gulf
+- Saudi Arabia
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Taiz
+- Tehran
+- Turkey
+- U.S.
+- West Bank
+- Yemen
+people:
+- Donald Trump
+- Hans Grundberg
+- Julia Frankel
+- Lee Jae Myung
+- Nasruddin Amer
+organisations:
+- Foreign Ministry
+- Fox News
+- Houthi
+- IRIB
+- The Associated Press
+- U.N
+- U.S. Central Command
+- UKMTO
+- United Kingdom Maritime Trade Operations Center
+- United Nations
 ---
 
 The Iran-backed Houthi rebels in Yemen said Wednesday that Saudi-backed forces had launched dozens of airstrikes overnight across four Yemeni provinces after rebel attacks on Saudi Arabia ignited fires at several oil facilities and wounded dozens of people.

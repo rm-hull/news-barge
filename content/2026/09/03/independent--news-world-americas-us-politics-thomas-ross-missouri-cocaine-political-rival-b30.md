@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Joplin
+- Missouri House
+- U.S.
+people:
+- Louise Secker
+- Peter Kinder
+- R. Matthew Price
+- Thomas Ross
+organisations:
+- FBI
+- Republican Party
 ---
 
 A candidate seeking election to the Missouri House is facing a federal drug charge after allegedly plotting to plant drugs on his Republican primary rival.

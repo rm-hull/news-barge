@@ -14,6 +14,22 @@ categories:
 - UK
 - True Crime
 - Law & Justice
+locations:
+- Pennsylvania
+- Philadelphia
+- U.S.
+people:
+- Dennis Johnson
+- Kenyatta Smith
+- Larry Krasner
+- Matthew Stiegler
+- Paul S. Diamond
+organisations:
+- DA
+- DOJ
+- Eastern District of Pennsylvania
+- U.S. Attorney's Office
+- U.S. Department of Justice
 ---
 
 A federal judge referred Philadelphia District Attorney Larry Krasner to the U.S. Department of Justice on Tuesday for investigation into whether he broke the law while overseeing a post-conviction case.

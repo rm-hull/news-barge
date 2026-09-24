@@ -12,6 +12,12 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21218715.jpg?type=og-image
+locations:
+- Monkgate Yard
+- York
+people: []
+organisations:
+- City of York Council
 ---
 
 *(Image: The Press)*

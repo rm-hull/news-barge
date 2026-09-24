@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- Durham
+- Las Vegas
+- Nashville
+- Newcastle
+- Newcastle-upon-Tyne
+- North East
+- UK
+- Whitley Bay
+people:
+- Charlie Hunnam
+- Chris Kamara Netflix
+- Geordies
+- JaackMaate
+- Kalani Ghost Hunter
+- Yay!
+organisations:
+- KGH
+- Newcastle
+- TikTok
 ---
 
 An American TikTok star with millions of followers has spoken of his affection for the North East after travelling across Britain.

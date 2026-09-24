@@ -15,6 +15,19 @@ categories:
 - Society & Culture
 - Personal Finance & Investing
 - History
+locations:
+- Britain
+- Rounton Grange
+- Yorkshire
+people:
+- Gertrude Bell
+- Helen Tovey
+- Philip Webb
+organisations:
+- Family Tree
+- Family Tree magazine
+- Rounton Grange
+- Yorkshire
 ---
 
 *(Image: Supplied)*

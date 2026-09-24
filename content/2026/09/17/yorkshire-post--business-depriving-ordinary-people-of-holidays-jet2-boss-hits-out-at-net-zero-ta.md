@@ -15,6 +15,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Alicante
+- Heathrow
+- New York
+- UK
+people:
+- Nigel Topping
+- Steve Heapy
+organisations:
+- CCC
+- Climate Change Committee
+- Government
+- Jet2
 ---
 
 # 'Depriving ordinary people of holidays': Jet2 boss hits out at net zero tax proposals to make flights more expensive

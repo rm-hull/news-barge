@@ -14,6 +14,30 @@ categories:
 - Travel
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361861.jpg?type=og-image
+locations:
+- Alfred Wainwright’s Coast
+- Coast Walk.’
+- Derbyshire’s Peak District
+- Derry Brabbs
+- Gayle
+- Hawes
+- Keld
+- Malham Cove
+- Nidd
+- Pennine Way Long Distance Path
+- Ripley
+- Upper Swaledale
+- Wensleydale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Derry Brabbs
+- James Herriot
+- Malham
+organisations:
+- Derry Brabbs
+- The Dales
+- Yorkshire Life
 ---
 
 *(Image: Derry Brabbs)*

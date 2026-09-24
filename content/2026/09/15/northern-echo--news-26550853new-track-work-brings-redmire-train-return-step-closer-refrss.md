@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington Station
+- Leyburn
+- Metro
+- North Yorkshire
+- Redmire
+- Shotley Bridge Hospital
+- Wensley
+- Wensleydale
+- YOUR
+people:
+- Nick Keegan
+- Wensley
+organisations:
+- Lampitt Rail Services
+- Public Notice Portal
+- Redmire
+- Wensleydale Railway
 ---
 
 ### What is the Public Notice Portal?

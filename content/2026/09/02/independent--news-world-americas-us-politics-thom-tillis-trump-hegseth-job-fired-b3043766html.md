@@ -11,6 +11,49 @@ image: https://static.independent.co.uk/2026/09/02/21/2287202979..?trim=1,0,1,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Atlantic
+- Europe
+- Iran
+- North Carolina
+- Russia
+- U.S.
+- Ukraine
+- White House
+people:
+- Adm
+- Anna Kelly
+- Charles Q Brown Jr.
+- Christopher Donahue
+- Dan Driscoll
+- David Allvin
+- Donald Trump
+- JD Vance
+- Jeffrey Kruse
+- John Phelan
+- Kristi Noem
+- Lisa Franchetti
+- Pete Hegseth
+- Randy George
+- Thom Tillis
+- Tim Haugh
+organisations:
+- Air Force
+- CNN
+- Defense Department
+- Defense Intelligence Agency
+- Department of the Army
+- Fox News
+- Joint Chiefs
+- Joint Chiefs of Staff
+- Navy
+- Pentagon
+- Reuters
+- Senate Armed Services Committee
+- The Independent
+- U.S. National Security Agency
+- United States Army
+- Yale Law School
 ---
 
 Republican Senator Thom Tillis called on President Donald Trump to fire Defense Secretary Pete Hegseth over his “inept management” of the military.

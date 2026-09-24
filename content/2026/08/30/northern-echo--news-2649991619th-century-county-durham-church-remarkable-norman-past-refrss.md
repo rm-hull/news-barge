@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cockfield
+- County Durham
+- Diocese of Durham
+- Grade II
+- Kirk Merrington
+- Merrington Church
+- Norman
+- Rockcliffe Terrace
+- Scotland
+- Spennymoor
+- St John the Evangelist Church
+- St John’s
+- St John’s Church St John the Evangelist Church
+people:
+- David I
+- Denise Welch
+- George Pickering
+- Norman
+- William Cumin
+- William de St Barbara
+organisations:
+- 7HP
+- Loose Women
+- Prince Bishops
+- The County Durham
 ---
 
 *(Image: GOOGLE)*

@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Great Lakes
+- Grimsby
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake America.’
+- Lake America’
+- Lake Ontario
+- Lake Ontario’
+- Manitoba
+- Toronto
+- U.S.
+- United States
+- White House
+people:
+- Cheryl Casone
+- Donald Trump
+- Doug Burgum
+- Doug Ford
+- Fox
+- Greg Keelor
+- Jim Cuddy
+- Maria Bartiromo
+- Mark Carney
+- Robert Bothwell
+- Trey Gowdy
+- Wab Kinew
+organisations:
+- ABC News
+- Apple
+- Associated Press
+- Blue Rodeo
+- Board of Geographic Names
+- Ford
+- Fox Business
+- Google Maps
+- Interior
+- Trump
+- U.S. Geographic Names Information System
+- U.S.’s
 ---
 
 President Donald Trump called Apple directly to get it to change Lake Ontario’s name to “Lake America” on its Maps app, Interior Secretary Doug Burgum has revealed.

@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Hampshire
+- Hong Kong
+- Thailand
+- UK
+people:
+- Andy Burnham
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Gary Smith
+- Lady Taylor
+- Louise Haigh
+- Nigel Farage
+- Paul Nowak
+- Philip Rycroft
+- Sharon Graham
+- Sharon Taylor
+- Teresa O’Neill
+- Zia Yusuf
+organisations:
+- BBC
+- Delo
+- Electoral Commission
+- GMB
+- House of Commons
+- House of Lords
+- Labour
+- Reform
+- TUC
+- Unite
 ---
 
 Andy Burnham’s government could thwart Reform’s unprecedented £72m donations with retrospective restrictions on political donors that will include tough new residency requirements, ministers have announced.

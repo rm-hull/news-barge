@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- France
+- New York
+- New York City
+people:
+- Anna Wintour
+- Christian Dior
+- John Galliano
+- Julie Menin
+- Max Hollein
+organisations:
+- Costume Institute
+- Instagram
+- Metropolitan Museum of Art
+- The Met
+- The New York Times
 ---
 
 The controversial fashion designer John Galliano announced on Monday that an exhibition honoring his work that New York’s Metropolitan Museum of Art had scheduled to open for the upcoming spring’s Met Gala is not going to go forward.

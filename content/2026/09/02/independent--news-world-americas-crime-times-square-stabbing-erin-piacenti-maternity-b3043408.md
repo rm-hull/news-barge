@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bellevue Hospital
+- Fordham
+- New York
+- New York City
+- Queens
+- Times Square
+people:
+- Cisneros’
+- Erin Piacenti
+- Frank
+- Jessica Tisch
+- Pamela Cisneros
+- Patrick Peralta
+- Tak Kam
+organisations:
+- Alpha Phi
+- Bank of America
+- CBS News
+- Daily Mail
+- Fordham Law
+- Fordham University
+- NYPD
+- Piacenti
+- The Daily Pennsylvanian
+- The New York Times
+- The Times
+- University of Pennsylvania
 ---
 
 The Bank of America vice president fatally stabbed in Times Square was a new mother on her first week back from maternity leave, according to a report.

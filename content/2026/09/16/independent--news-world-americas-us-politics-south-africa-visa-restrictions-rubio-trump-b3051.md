@@ -12,6 +12,24 @@ image: https://static.independent.co.uk/2026/09/16/09/2026-09-15T223924Z_1988841
 categories:
 - News & Politics
 - UK
+locations:
+- Black
+- Gaza
+- Israel
+- Pretoria
+- South Africa
+- U.S.
+- Washington
+people:
+- Christopher Landau
+- Cyril Ramaphosa
+- Donald Trump
+- Marco Rubio
+- Troy Edgar
+organisations:
+- Atlantic Aviation Dulles
+- International Court of Justice
+- Washington Dulles International Airport
 ---
 
 The U.S. has introduced a new visa restriction policy targeting specific foreign nationals from South Africa, Secretary of State Marco Rubio said Tuesday, marking a further diplomatic decline between Washington and Pretoria under President Donald Trump’s administration.

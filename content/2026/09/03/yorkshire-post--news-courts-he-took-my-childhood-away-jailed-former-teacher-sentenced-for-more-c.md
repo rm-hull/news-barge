@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Education & Learning
+locations:
+- Kirklees
+- North America
+- UK
+people:
+- Gilly Hodds
+- Keith Lockwood
+organisations:
+- Kirklees District Police
+- Leeds Crown Court
+- Sex Offenders Register
+- West Yorkshire Police
 ---
 
 # ‘He took my childhood away’: Jailed former teacher sentenced for more child sex offences

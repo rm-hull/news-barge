@@ -11,6 +11,39 @@ image: https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Panther Lake
+people:
+- Anton Shilov
+- Tom
+organisations:
+- A16 Bionic
+- A20 Pro
+- AMD
+- AP
+- Apple
+- Elite Gen5
+- GPU
+- Get Tom's Hardware
+- Google News
+- Huawei
+- Intel
+- Kirin
+- MediaTek
+- N2
+- N3B
+- N3P
+- N4
+- NPU
+- NVMe
+- Qualcomm
+- SM8850
+- Snapdragon
+- SoC
+- TSMC
+- Tom’s Hardware
+- XRing
+- Xiaomi
 ---
 
 ![Apple A20 Pro](https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd.jpg) 

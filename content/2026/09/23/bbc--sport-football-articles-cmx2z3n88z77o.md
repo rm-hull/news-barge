@@ -12,6 +12,65 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285c/live/54c7e830-b667-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Dortmund
+- Europe
+- Germany
+- Greece
+- Johan Cruyff Arena
+- Mainz
+- Mecklenburg-Western Pomerania
+- Netherlands
+- Rio Carnival
+- Saxony-Anhalt
+- Serbia
+- Signal Iduna Park
+people:
+- Aleksandar Pavlovic
+- Alexander Zverev
+- Andy Robertson
+- Antonio Rudiger
+- Bambase Conte
+- Cristiano Ronaldo
+- Derry Scherhant
+- Felix Keidel
+- Finn Dahmen
+- Florian Wirtz
+- Jamal Musiala
+- Joshua Kimmich
+- Julian Nagelsmann
+- Jurgen Klopp
+- KIopp
+- Kai Havertz
+- Karim Adeyemi
+- Kevin Schade
+- Lennart Karl
+- Lukasz Piszczek
+- Manuel Neuer
+- Max Rosenfelder
+- Mika Baur
+- Mohamed Salah
+- Pascal Gross
+- Philipp Treu
+- Sadio Mane
+- Said El Mala
+- Trent Alexander-Arnold
+- Vitaly Janelt
+organisations:
+- AfD
+- Alternative for Germany
+- Arsenal
+- Barcelona
+- Bayern Munich
+- Brentford
+- Brighton
+- Cologne
+- DFB
+- Eintracht Frankfurt
+- Freiburg
+- German Football Association
+- Liverpool
+- SV Elversberg
 ---
 
 ![Germany boss Jurgen Klopp, wearing a white jacket and black baseball cap, smiles during a news conference with a microphone in front of him](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/fa6c/live/5e6c2b30-b667-11f1-b1d1-571ed4d7ff2c.jpg)

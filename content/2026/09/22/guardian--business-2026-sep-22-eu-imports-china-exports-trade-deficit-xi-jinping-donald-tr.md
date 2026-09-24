@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/8e482f0db7c72148b29a33d4261daad28a938ca0/340_0_3407_2725/master/3407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5b201594192da6421c36515fe04051d
+locations:
+- Beijing
+- Brussels
+- China
+- Europe
+- Hong Kong
+- Mexico
+- South Korea
+- UK
+- US
+- Washington
+people:
+- Donald Trump
+- Kurt Tong
+- Maroš Šefčovič
+- Meric
+- Ursula von der Leyen
+- Xi Jinping
+organisations:
+- Asia Group
+- Asia-Pacific Economic Corporation
+- EU
+- Financial Times
+- Mercator Institute for China Studies
+- Meric
+- World Trade Organization
 ---
 
 Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.

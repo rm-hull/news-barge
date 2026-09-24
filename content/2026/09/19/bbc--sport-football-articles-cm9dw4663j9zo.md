@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4c4/live/23346a20-b435-11f1-9fa0-111a12dcb7b0.jpg
+locations:
+- Britain
+- Monaco
+- UK
+people:
+- Billionaire Ratcliffe
+- Glazer
+- Jim Ratcliffe
+organisations:
+- BBC Sport
+- Brighton
+- European Union
+- Glazers
+- Ineos
+- MUMSC
+- Man Utd
+- Manchester United
+- Manchester United Football Club
+- Manchester United Muslim Supporters
+- Manchester United Muslim Supporters Club
+- Manchester United Muslim Supporters' Club
+- Premier League
+- Ratcliffe
 ---
 
 ![Sir Jim Ratcliffe in light-coloured smart jacket, white shirt and red tie](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c4c4/live/23346a20-b435-11f1-9fa0-111a12dcb7b0.jpg)

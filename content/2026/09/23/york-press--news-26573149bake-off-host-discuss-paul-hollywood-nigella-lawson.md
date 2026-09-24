@@ -12,6 +12,27 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkpress.co.uk/resources/images/21487123.jpg?type=og-image
+locations:
+- Berkshire
+- Bishop’s Stortford
+- Grade I
+- Welford Park
+- Welford Park House
+people:
+- Alison Hammond
+- Angela Hartnett
+- Cleopatra
+- Covid
+- Nick Grimshaw
+- Nigella Lawson
+- Noel Fielding
+- Paul Hollywood
+- Prue Leith
+organisations:
+- Down Hall Hotel
+- Patch Dolan
+- The Dish
+- Waitrose
 ---
 
 *(Image: Patch Dolan/Channel 4)*

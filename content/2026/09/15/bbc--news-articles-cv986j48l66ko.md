@@ -12,6 +12,68 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Atlantic
+- Berkshire
+- Brick Lane
+- Britain
+- Buckinghamshire
+- China
+- City of London
+- Earth
+- Europe
+- Georgia
+- Hertfordshire
+- Idaho
+- Louisiana
+- New Jersey
+- Silicon Valley
+- Slough
+- Teesside
+- Texas
+- U.S.
+- UK
+- US
+- Virginia
+- Westminster
+people:
+- Andy Burnham
+- Baroness Pola Uddin
+- Bernie Sanders
+- Brad Little
+- Brian Kemp
+- Chris Wright
+- Donald Trump
+- Emma Barnett
+- Faisal Islam
+- Jeff Landry
+- Jensen Huang
+- John Simpson
+- Ken Paxton
+organisations:
+- Brick Lane
+- Cabinet
+- City The Labour
+- Commons
+- Critical National Infrastructure
+- Elon Musk
+- Foxglove
+- Gallup
+- Getty
+- Google
+- Government AI
+- Green Party
+- NPS
+- National Policy Statement
+- Nvidia
+- Reuters
+- Senate
+- Seven Big Tech
+- SpaceX AI
+- U.S. Border Patrol Agents
+- US Congress
+- Water UK
 ---
 
 ![Faisal Islam](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d88/live/aec02270-b0e6-11f1-bc1f-3f186ca4140c.png)

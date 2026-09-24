@@ -14,6 +14,18 @@ categories:
 - York
 - Sports
 - Travel
+locations:
+- Bramham Park
+- North Yorkshire
+- West Yorkshire
+people:
+- Alistair Brownlee
+- Jonny
+organisations:
+- Brownlee Foundation
+- Dirt Fest
+- TBF Events
+- Yorkshire
 ---
 
 Two of Yorkshire's most famous athletes are set to line up alongside amateur athletes at an off-road sports festival in North Yorkshire this autumn.

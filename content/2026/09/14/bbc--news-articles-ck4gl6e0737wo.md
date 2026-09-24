@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Eisirean
+- Europe
+- Islay
+- Millport
+- Mull
+- Scotland
+- West Coast
+people:
+- Anna McGregor
+- Claire Ramjan
+- Hein Sas
+- Lewis
+organisations:
+- Gillebrìde MacMillan
+- NORA
+- Native Oyster Restoration Alliance
+- University of Glasgow
 ---
 
 ![A man and two women stand on a rocky shoreline beside the water, holding oyster shells and strings of oysters toward the camera. 

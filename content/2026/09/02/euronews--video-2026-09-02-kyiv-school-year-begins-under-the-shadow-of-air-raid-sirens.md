@@ -12,6 +12,15 @@ categories:
 - Europe
 - News & Politics
 - Sports
+locations:
+- Kyiv
+- Obolon
+- Russia
+- Ukraine
+people:
+- Yevhen Poliakov
+organisations:
+- Lyceum Obolon
 ---
 
 Balloons floated above a schoolyard in Kyiv’s Obolon district on Tuesday as children arrived to mark the traditional start of the new school year.

@@ -13,6 +13,26 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Darlington
+- Moorsholm
+- North East
+- North Yorkshire
+- Sunderland
+- Yorkshire Moors
+people:
+- )* Alix
+- Alixandra Cadden-Young
+- Andrew Calder
+- Haughton
+- STUART BOULTON
+- STUART BOULTON)* Alix
+organisations:
+- Calder
+- Calder's Kitchen
+- Cleveland Police
+- Devastated County Durham
+- Longden Walker & Renney
 ---
 
 A Darlington couple say their world was "turned upside down" after a horror crash forced them to postpone their wedding and left the bride-to-be unable to walk.

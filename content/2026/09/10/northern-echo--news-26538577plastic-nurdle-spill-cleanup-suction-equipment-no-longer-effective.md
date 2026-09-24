@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- BG Orange
+- North East
+- Port of Tyne
+- UK
+people:
+- Kim McGuinness
+- Stuart Wright
+organisations:
+- BG Orange
+- Briggs Marine
+- Nurdle UK
+- STAC
+- Scientific and Technical Advice Cell
+- South Tyneside Council
 ---
 
 Environmental recovery efforts are entering a new phase following the major nurdle spill on the UK coastline.

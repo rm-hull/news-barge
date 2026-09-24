@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Belfast
+- Birmingham
+- Britain
+- Edinburgh
+- Europe
+- Gatwick
+- Heathrow
+- London
+- Manchester
+- Stansted
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+- Yvonne Moynihan
+organisations:
+- ATC
+- BBC Radio 4
+- Cirium
+- Nats
+- Nats’
+- Ryanair
+- Times Radio
+- Wizz Air UK
 ---
 
 The boss of the air traffic control provider Nats has been summoned to meet the UK transport secretary as the number of flight cancellations passed 2,000 in a second day of disruption for hundreds of thousands of passengers.

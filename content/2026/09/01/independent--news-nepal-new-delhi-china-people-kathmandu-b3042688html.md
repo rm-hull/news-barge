@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Brig
+- China
+- Harsh
+- Kathmandu
+- Nepal
+- Nuwakot
+- Rasuwa
+people:
+- Anil Pokhrel
+- Kafle
+- Manish Maharjan
+- Mohan Kumar Dangi
+- Raja Ram Basnet
+organisations:
+- Independent Power Producers Association of Nepal
 ---
 
 Rescue crews in Nepal are racing against time to find hundreds of missing workers who are feared trapped inside hydropower tunnels damaged by flooding that has killed more than 1,000 people across Nepal and China.

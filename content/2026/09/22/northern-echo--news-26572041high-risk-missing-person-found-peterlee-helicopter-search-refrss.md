@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21487299.jpg?type=og-image&xType=0&yType=40
+locations:
+- County Durham
+- Peterlee
+people: []
+organisations:
+- Durham Constabulary
+- Durham Police
+- NPAS Newcastle
+- National Police Air Service
 ---
 
 *(Image: Provided)*

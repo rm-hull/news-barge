@@ -10,6 +10,22 @@ image: https://static.independent.co.uk/2026/08/28/16/49/trump-shaped-ecstacy-pi
 categories:
 - News & Politics
 - UK
+locations:
+- Clearwater
+- Florida
+- Indiana
+- Netherlands
+- U.S.
+- UK
+people:
+- Anniek Groothuis
+- Donald Trump
+organisations:
+- Loop
+- PMMA
+- Red Alert
+- Trimbos Institute
+- Trump
 ---
 
 A Dutch addiction and mental health institute has issued a warning about potentially deadly ecstasy pills designed to resemble the head of U.S. President Donald Trump.

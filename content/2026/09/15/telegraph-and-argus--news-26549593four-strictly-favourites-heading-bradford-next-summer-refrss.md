@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Bradford Live
+- Carlisle
+- England
+- Gateshead
+- Manchester
+- Sheffield
+- UK
+people:
+- Aljaž Škorjanec
+- Carlos Gu
+- Gorka Marquez
+- Julian Caillon
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

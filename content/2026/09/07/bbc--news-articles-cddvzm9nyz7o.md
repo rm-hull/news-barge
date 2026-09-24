@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Cardiff
+- Columbia
+- Dublin
+- Knebworth
+- London
+- Manchester
+- New York
+- Paris
+- Principality Stadium
+- Sao Paolo
+- Southern
+- Tokyo
+people:
+- '![Noel'
+- Amy McDonald
+- Bonehead
+- Dylan Southern
+- Hello
+- Joey Waronker
+- Liam Gallagher
+- Liam.
+- Mick Jagger
+- Noel Gallagher
+- Oasis
+- Peaky Blinders'
+- Steven Knight
+- Will Lovelace
+organisations:
+- Manchester Arena Bombing
+- Oasis
 ---
 
 ![Noel and Liam Gallagher at the Venice Film Festival, they are both wearing black and Liam is wearing black](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ca95/live/e665b360-aac5-11f1-9bcd-4de40c4158ea.jpg)

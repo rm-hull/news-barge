@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Kyrenia
+- Tasucu
+- Turkey
+- Turkish Republic of Northern Cyprus
+people:
+- Ayten Bicer
+- Hayri Bicer
+- Memhet Asaf
+- Miray
+- Tufan Erhurman
+- Ünal Üstel
+organisations:
+- Filo Denizcilik
+- Marine Traffic
+- TRNC
 ---
 
 ![Ayten Bicer and Hayri Bicer, whose two children are missing after a passenger boat capsized off the coast of Kyrenia,](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png)

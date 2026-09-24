@@ -10,6 +10,19 @@ description: This tiny handheld packs an M4 Mac Mini, 120Hz touchscreen, physica
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/PqtZ9vfNiPVqZVM4wHZune-1920-80.png
+locations:
+- M4
+people: []
+organisations:
+- Apple
+- Efosa
+- Google News
+- Joy Con
+- Mac Mini
+- Mac Nano
+- Shing Solutions
+- Steam
+- TechRadar Pro
 ---
 
 ![Mac Nano, a device modified from the internals of the M4 Mac Mini by Shing Solutions ](https://cdn.mos.cms.futurecdn.net/PqtZ9vfNiPVqZVM4wHZune.png)

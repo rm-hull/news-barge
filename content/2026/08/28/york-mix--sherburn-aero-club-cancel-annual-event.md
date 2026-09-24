@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Sports
+locations: []
+people: []
+organisations:
+- Sherburn Aero Club
+- York Mix Radio Market
 ---
 
 Sherburn Aero Club has cancelled tomorrow’s annual family event, Saturday 29th August, due to the severe weather.

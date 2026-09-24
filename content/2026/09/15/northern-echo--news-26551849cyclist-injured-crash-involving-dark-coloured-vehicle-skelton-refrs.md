@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Byland Road
+- East Cleveland
+- Jervaulx Road
+- Redcar
+- Skelton
+- Whitby Close
+people:
+- Webster
+organisations:
+- NEWSQUEST
 ---
 
 *(Image: NEWSQUEST)*

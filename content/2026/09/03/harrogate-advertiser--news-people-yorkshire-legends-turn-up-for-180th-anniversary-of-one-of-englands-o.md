@@ -13,6 +13,29 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- England
+- Rudding Estate
+people:
+- Chris Schofield
+- Craig White
+- Eddie Batchelor
+- Harry Wilkinson
+- Kevin Sharpe
+- Lesroy Weekes
+- Martin Moxon
+- Rob Wilkins
+- Sanjay Mani
+- Toby Wilkins
+organisations:
+- Airedale & Wharfedale Senior Cricket League
+- Follifoot Cricket Club
+- Follifoot XI
+- Harrogate
+- Rudding Estate
+- The Follifoot XI
+- Yorkshire Legends
+- Yorkshire Premier League North
 ---
 
 # Yorkshire legends turn up for 180th anniversary of one of England’s oldest village cricket clubs

@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Argentina
+- Barcelona
+- Buenos Aires
+- Chile
+- France
+- MetLife Stadium
+- New Jersey
+- Qatar
+- River Plate
+- South America
+- Spain
+people:
+- '"** Lionel Messi'
+- Benjamin
+- Diego Maradona
+- Edgardo Bauza
+- Gerardo Martino
+- Guillem Balague
+- Horacio Rodriguez Larreta
+- Jorge
+- Leo
+- Lionel Messi
+- Lionel?
+- Mauricio Macri
+- Pecho Frio
+- Pele
+- Sergio Romero
+- Tim Vickery
+organisations:
+- Argentina FA
+- BBC Radio 5 Live
+- Barcelona
+- Copa America
+- La Liga
+- Metlife
 ---
 
 ![Lionel Messi poses in a photoshoot, with the index fingers of both hands pointing upwards](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/efcf/live/3e629830-a558-11f1-9acf-19576105f049.jpg)

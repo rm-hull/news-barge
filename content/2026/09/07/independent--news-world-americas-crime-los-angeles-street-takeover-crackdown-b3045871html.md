@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chicago
+- Harbor Gateway
+- Hyde Park
+- Los Angeles
+- Los Angeles County
+- South Figueroa Street
+- West Alondra Boulevard
+people:
+- Jim McDonnell
+- Karen Bass
+- Tim McOsker
+organisations:
+- California Highway Patrol
+- Griffin Museum of Science and Industry
+- LAPD
+- Los Angeles County Sheriff's Department
+- Los Angeles Police Department
 ---
 
 Los Angeles authorities are warning that a massive crackdown on an illegal street takeover that resulted in 66 arrests and more than 200 vehicles being impounded is "only the beginning."

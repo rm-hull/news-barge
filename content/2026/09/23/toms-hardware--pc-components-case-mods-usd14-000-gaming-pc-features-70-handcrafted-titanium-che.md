@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/rqNPxisBCHvtJVFXGZqfnD-1920-80.jpg
+locations:
+- Australia
+- Taiwan
+people:
+- Tom
+- Zak Killian
+organisations:
+- APNX
+- Aftershock
+- Google News
+- HotHardware
+- KFC
+- PC
+- The Tech Report
+- Tom's Hardware
+- Zak
+- Zotac Gaming
 ---
 
 ![Two photos of the Aftershock PC Cherry Bloom PC.](https://cdn.mos.cms.futurecdn.net/rqNPxisBCHvtJVFXGZqfnD.jpg)

@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- County Durham
+- Spennymoor
+- Whitworth Park Colliery
+people:
+- Ben Tuck
+- Evelyn Scott
+- John Cornish
+- Lucy Winter
+- Miss Winter
+- Norman Cornish
+- Normans
+- Poppy Bradshaw
+- Rebecca Wheelan
+- SARAH CALDECOTT
+- Tyler Bates
+organisations:
+- A66
+- HSAT
+- Horizons Specialist Academy Trust
+- Meadows School
+- Middlesbrough SEND
+- Norman Cornish Academy
+- The Meadows Academy
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Mandy Johns
+- Marloes Sands
+- Milford Haven
+- Pembrokeshire
+- Yorkshire
+people: []
+organisations:
+- HM Coastguard
+- RNLI
+- The Press
 ---
 
 A body has been found in the search for a missing teenager who got into difficulty in the sea in Pembrokeshire whilst on a family holiday from Yorkshire.

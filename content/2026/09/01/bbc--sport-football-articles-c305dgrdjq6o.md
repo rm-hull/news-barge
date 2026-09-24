@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Napoli
+- North Macedonia
+- Scotland
+- Slovenia
+- Switzerland
+people:
+- Scott McTominay
+- Sebastien Pocognoli
+organisations:
+- British Heart Foundation
+- Como
+- Instagram
+- NHS
+- Napoli
+- Nations League
 ---
 
 ![Scott McTominay of Napoli](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg)

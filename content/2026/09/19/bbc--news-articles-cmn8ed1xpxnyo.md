@@ -11,6 +11,42 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg
+locations:
+- Capitol Building
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Kennedy Center
+- North America
+- Texas
+- UK
+- US
+- Washington DC
+- White House
+people:
+- Anthony Zurcher
+- Donald Trump
+- Jim Acosta
+- Sebastian Gorka
+organisations:
+- Air Force One
+- Associated Press
+- CNN
+- Congress
+- Federal Reserve
+- First Amendment
+- House of Representatives
+- MS Now
+- Politico
+- Republican Party
+- Senate
+- Supreme Court
+- Trump
+- Truth Social
+- US Constitution
+- US Politics Unspun
+- United States Supreme Court
+- White House Correspondents Association
 ---
 
 ![Image shows President Donald Trump](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg)

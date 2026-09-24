@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Eggborough
+- Pontefract
+- Selby
+- West Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 ## Firefighters from two counties tackle ongoing blaze close to former power station

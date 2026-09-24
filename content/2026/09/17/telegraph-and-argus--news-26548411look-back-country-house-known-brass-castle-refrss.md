@@ -12,6 +12,46 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- America
+- Bingley
+- Bradford
+- Braes Castle
+- Brass Castle
+- Cheapside
+- Cottingley
+- England
+- Goit Stock
+- Harden Grange
+- Long Lane
+- Massachusetts
+- Saltaire
+- Salts Mill
+- YOUR
+- Yorkshire
+people:
+- Asa Binns
+- Benjamin Ferrand
+- Brass Castle
+- Burton
+- Charles Dixon
+- Elizabeth
+- Frank
+- Henry England
+- Henry Entwistle
+- James Roberts
+- James Sykes
+- William Foster
+organisations:
+- Asa Binns
+- Buff Rocks
+- Dark Brahmas
+- Leghorns
+- Ministry of Labour
+- Public Notice Portal
+- Rhode Island Reds
+- Speckled Hollands
+- White Wyandottes
 ---
 
 ### What is the Public Notice Portal?

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/19749067.jpg?type=og-image
+locations:
+- Darlington
+- Newton Aycliffe Magistrates’ Court
+- Tees Drive
+- UK
+people:
+- Jade Houston
+- Man
+- Miss Houston
+- Piotr Krause
+- Sam Brewster
+- Thomas Reay
+organisations:
+- NORTHERN ECHO
+- Surtees News Food and Wine Store
 ---
 
 *(Image: NORTHERN ECHO)*

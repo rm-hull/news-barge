@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Indianapolis
+- Washington
+people:
+- Drew Brees
+- Mark Sanchez
+- Matt Golitko
+- Nick Sanchez Jr.
+- Perry Tole
+organisations:
+- ABC
+- Dallas
+- ESPN
+- Fox Sports
+- Marion County Superior Court
+- NFL
+- New York Jets
+- Philadelphia
+- Tole
+- ex-NFL
 ---
 
 Former Fox Sports analyst Mark Sanchez plans to plead guilty to charges ahead of a trial stemming from an October 2025 fight with a truck driver outside an Indianapolis hotel, according to court records filed Thursday.

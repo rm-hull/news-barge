@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Baxtergate
+- Juliet
+- Juliette
+- New Quay Road
+- Whitby
+people: []
+organisations:
+- '## Yorkshire Trading Company'
+- Barclays Bank
+- Baxtergate
+- North Yorkshire Council
+- Post Office
+- Town Centre Of Whitby
+- Whitby Civic Society
+- Whitby Town Council and North Yorkshire Council
+- Yorkshire Trading Company
 ---
 
 ## Yorkshire Trading Company changes expansion plans over council objections

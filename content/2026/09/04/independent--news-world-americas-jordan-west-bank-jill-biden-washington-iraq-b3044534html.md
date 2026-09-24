@@ -13,6 +13,53 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Hashemite Kingdom of Jordan
+- Hollywood
+- Iran
+- Iraq
+- Islamic Republic
+- Islamic State
+- Israel
+- Jordan Amman
+- Jordan River
+- Middle East
+- Mideast
+- Red Sea
+- Russia
+- Saudi Arabia
+- Syria
+- U.S.
+- US
+- Ukraine
+- Vatican
+- Vienna
+- Washington
+- West Bank
+people:
+- Abdullah II
+- Amer Sabaileh
+- Ayman Safadi
+- Charles Bradford
+- David Schenker
+- Donald Trump
+- Harrison Ford
+- Hussein
+- Jill Biden
+- Joe Biden
+- Leo
+- Matt Damon
+- Muhammad
+- Peter O’Toole
+- Philipp-Moritz Jenne
+- Sean Yom
+organisations:
+- Associated Press
+- Muwaffaq Salti Air Base
+- NATO
+- Pentagon
+- Temple University
+- Washington Institute
 ---
 
 Jordan, a staunch U.S. ally that hosts American forces in the Mideast, has paid a price for its relationship with Washington, which has made the kingdom's military bases a target of repeat Iranian strikes.

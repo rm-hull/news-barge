@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/6c463c6aa6acdd0ed4770333f103da83ac48276b/220_0_2471_1977/master/2471.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=507a584b95bd7d6417b740c0a72cf8cd
+locations:
+- England
+- Wales
+people:
+- Andy Burnham
+- Boris Johnson
+- Charlotte Nichols
+- Ciara Bergman
+- Claire Waxman
+- Nichols’
+- Nick Timothy
+- Stella Creasy
+organisations:
+- Conservatives’
+- House of Commons
+- Labour
+- Ministry of Justice
+- MoJ
+- Rape Crisis England
+- Secret Barrister
 ---
 
 Specialist courtrooms prioritising cases of rape and other serious sex offences are to be introduced across England and Wales, with campaigners welcoming the move as potentially transformative.

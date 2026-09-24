@@ -14,6 +14,24 @@ image: https://cdn.mos.cms.futurecdn.net/MfzpnuAL9Li3tE6K5URqmh-2000-80.jpg
 categories:
 - Technology & Software
 - History
+locations:
+- Sanctuary
+- Undeath
+people:
+- Diablo
+- Jennifer Hepler
+- Joe Shely
+organisations:
+- BlizzCon
+- Demi Williams
+- Diablo
+- Dread Commanders
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Sanctuary
+- TechRadar Gaming
 ---
 
 ![Diablo 5](https://cdn.mos.cms.futurecdn.net/MfzpnuAL9Li3tE6K5URqmh.jpg) 

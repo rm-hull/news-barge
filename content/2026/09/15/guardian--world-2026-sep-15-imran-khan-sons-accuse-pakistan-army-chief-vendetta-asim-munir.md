@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Adiala
+- Lahore
+- London
+- Pakistan
+- Rawalpindi
+- UK
+people:
+- Asim Munir
+- Donald Trump
+- Imran Khan
+- Jemima Goldsmith
+- Kasim Khan
+- Khasim
+- Sulaiman Khan
+- Zulfi Bukhari
+organisations:
+- England
+- Guardian
+- PTI
+- Pakistan Cricket Board
+- Pakistan Tehreek-e-Insaf
+- Sky Sports
+- UN
 ---
 
 The sons of Imran Khan have accused Pakistan’s powerful army chief of a “personal vendetta” against the incarcerated former prime minister and expressed fears their father is being “slowly killed” in jail, as international pressure mounts over his prison conditions.

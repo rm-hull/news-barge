@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Boston
+- U.S.
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Lindsay Clancy
+organisations:
+- NBC10
 ---
 
 A lone juror blocked the acquittal of Lindsay Clancy, despite acknowledging during deliberations that he had doubts about her guilt, the jury’s foreperson said in a TV interview Tuesday.

@@ -14,6 +14,32 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Shopping & Deals
+locations:
+- Amazon
+- Anker Soundcore
+people:
+- Anker Soundcore
+- James Pickard
+- TechRadar
+organisations:
+- Amazon UK
+- Anker
+- Black Friday
+- Dell
+- Dreo
+- Duracell
+- Eurogamer
+- Fitbit Inspire
+- Fitbit Premium
+- Inui
+- Kindle Scribe
+- Microsoft Surface
+- Oral-B
+- PS5
+- Samsung
+- Tampa Bay Buccaneers
+- TechRadar
+- Ugreen
 ---
 
 ![A collage of tech deals from the weekend sale at Amazon UK, including a Dell laptop, Dreo heater, Kindle Scribe, Microsoft Surface, Fitbit Inspire, and Bose speaker.](https://cdn.mos.cms.futurecdn.net/TUiwub85R5fAfExAuYE8bL.jpg) 

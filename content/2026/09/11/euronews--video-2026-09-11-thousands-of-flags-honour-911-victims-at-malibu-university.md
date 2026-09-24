@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- California
+- Malibu
+- United States
+people: []
+organisations:
+- Pepperdine University
 ---
 
 Nearly 3,000 American flags cover the lawn at Pepperdine University in Malibu, California, for the annual “Wave of Flags” commemoration of the September 11 attacks.

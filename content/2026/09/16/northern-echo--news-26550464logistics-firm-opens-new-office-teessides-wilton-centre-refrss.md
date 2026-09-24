@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- North East
+- Steel River Quay
+- Teesport
+- Teesside
+- Teesworks
+- UK
+- Wilton Centre
+people:
+- Allan Scott
+- Ryan Thompson
+organisations:
+- ASCO
+- Dogger Bank
+- Giant
+- Hornsea 3
+- Net Zero Teesside
+- North East HQ
 ---
 
 A logistics and operations management company has strengthened its presence in the North East with the opening of a new regional office, supporting a growing portfolio of major energy, infrastructure and industrial projects.

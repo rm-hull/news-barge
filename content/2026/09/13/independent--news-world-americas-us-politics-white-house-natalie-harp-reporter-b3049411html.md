@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/13/16/01M2AZXFKX18ADMW74QPQTYFG4
 categories:
 - News & Politics
 - UK
+locations:
+- Doonbeg
+- Georgia
+- Ireland
+- Trump International Golf Links
+- Washington
+- White House
+people:
+- Aaron Rupar
+- Donald Trump
+- Human Printer
+- Jon Ossoff
+- Kaitlan Collins
+- Natalie Harp
+- Pete Hegseth
+organisations:
+- Air Force One
+- CNN
+- Congress
+- Defense
+- Marine One
+- New York Times
+- Pentagon
+- Secret Service
+- Trump
+- Washington Post
 ---
 
 The White House social media team took time to lash out at a reporter after the journalist pointed out that Donald Trump’s aide Natalie Harp was among the aides following the president to his golf club in Ireland this weekend.

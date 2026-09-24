@@ -16,6 +16,26 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Calais
+- Dover
+- France
+- Kent
+- Normandy
+- Northern
+- Portsmouth
+- UK
+people:
+- Andy Burnham
+- Gareth Fuller
+- Ismail Mulla
+- Peter Sparkes
+organisations:
+- Border Security Command
+- Labour Government
+- RNLI
+- Royal National Lifeboat Institution
 ---
 
 # Small boat crossings: Targeting of RNLI volunteers is not acceptable - Ismail Mulla

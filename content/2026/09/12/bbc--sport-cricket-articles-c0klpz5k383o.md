@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- Birmingham
+- Derby
+- Edgbaston
+- England
+- New Zealand
+- Pakistan
+people:
+- '** Root'
+- Ben Stokes
+- Brendon McCullum
+- Brydon Carse
+- Dan Lawrence
+- Harry Brook
+- Jamie Smith
+- Joe Root
+- Jordan Cox
+- Michael Vaughan
+organisations:
+- BBC Test Match Special
+- England
+- Root and Cox
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

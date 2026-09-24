@@ -14,6 +14,15 @@ categories:
 - York
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- High Green
+- Mapplebeck Road
+- Yorkshire
+people: []
+organisations:
+- Army
+- Explosive Ordnance Team
+- South Yorkshire Police
 ---
 
 # High Green evacuation: Police lift cordon allowing evacuated residents to return home

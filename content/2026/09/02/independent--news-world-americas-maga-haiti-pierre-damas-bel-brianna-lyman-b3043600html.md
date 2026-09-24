@@ -14,6 +14,54 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Atlantic
+- Cincinnati
+- Haiti
+- Interstate 70
+- Massachusetts
+- Ohio
+- Springfield
+- U.S.
+- UK
+- USA
+- United States
+- Westerville
+- Wright State
+people:
+- Abby Phillip
+- Biden
+- Brianna Connolly
+- Brianna Lyman
+- Carl Ruby
+- Dad
+- God
+- Guerline Jozef
+- Jemele Hill
+- Leigh McGowan
+- Pierre Damas Bel
+- Pierre Ronal Bel
+- Trump
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Bel
+- CBP
+- CNN
+- Department of Homeland Security
+- Haitian Bridge Alliance
+- ICE
+- Immigration and Customs Enforcement
+- MAGA
+- Ohio State Highway Patrol
+- Post
+- ROI
+- Samaritans
+- Springfield News-Sun
+- Supreme Court
+- The Federalist
+- The Independent
+- The Washington Post.
+- Trump
 ---
 
 A MAGA pundit appeared to blame a Haitian immigrant for endangering the lives of Americans on the road when he reportedly took his own life by walking into traffic.

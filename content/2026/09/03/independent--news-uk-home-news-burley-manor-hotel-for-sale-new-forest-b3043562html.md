@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- A31
+- Bournemouth
+- Burley Manor Hotel
+- Hampshire
+- New Forest
+- New Forest National Park
+- UK
+people:
+- Knight Frank
+- Matthew Smith
+- Shammas
+organisations:
+- Burley Manor
+- Burley Manor Hotel
+- Grade-II
+- Knight Frank
+- Simon Stevens Associates
 ---
 
 A Grade-II listed Victorian hotel in the heart of the New Forest National Park in Hampshire has hit the market for £8.5m.

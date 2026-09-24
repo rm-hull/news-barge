@@ -14,6 +14,32 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- Inner Hebrides
+- Iona
+- Isle of Bute
+- London
+- Mull
+- Port Bannatyne
+- Princess of Wales
+- Scotland
+- Staffordshire
+- UK
+- Zambia
+people:
+- Diana
+- Harry
+- Kate
+- King
+- William
+organisations:
+- Anchor Tavern Pub
+- Bute Shinty Club
+- Bute Shinty Club.
+- Duchess of Edinburgh
+- Duke of Rothesay
+- Duke of Sussex
+- Hub
 ---
 
 The royal family were out in force as a series of allegations were made against the King in a tribute book to Diana, Princess of Wales by her brother.

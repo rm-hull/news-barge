@@ -12,6 +12,19 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Civic Centre
+- Keighley
+people:
+- Ian Nichol
+organisations:
+- Bradford Women Against The Far Right
+- Bradford and District
+- Google Street View
+- Keighley Together
+- National Education Union
+- Politics of Hate
 ---
 
 *(Image: Google Street View)*

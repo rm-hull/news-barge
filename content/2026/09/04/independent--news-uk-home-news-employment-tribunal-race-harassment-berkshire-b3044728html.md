@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Caribbean
+- UK
+people:
+- Karen Norris
+- Lorna Findlay
+- Louise Williams-St Louis
+- Miss Clay
+- Ms Williams-St Louis
+- Stacey Clay
+- Williams-St Louis
+- Young Person X
+organisations:
+- Reading Employment Tribunal
+- West Berkshire District Council
+- YJST
+- Youth Justice Support Team
+- Youth Turn-Around Intervention Worker
 ---
 
 Comparing offensive remarks regarding a person's weight or age to insults about someone's skin colour is itself racist, a tribunal judge has ruled.

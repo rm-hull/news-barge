@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Arts & Culture
 - Music
+locations:
+- Britain
+- Newcastle Civic Centre
+- North East
+- St Oswald’s Hospice Northumberland trail
+- Sycamore Gap
+- Tyne
+- Whitley Bay
+people:
+- Beatrix Potter
+- Darren Mundy
+- Hospice
+- Peter Rabbit
+- Steph Edusei
+organisations:
+- County Durham
+- Newcastle City Council
+- North Standard
+- North Tyneside Council
+- Northumbrian Water
+- St Oswald
+- St Oswald’s Hospice
+- The World of Peter Rabbit
+- UK Business
+- Wild in Art
 ---
 
 A hand-painted sculpture inspired by the famous Sycamore Gap tree is going under the hammer in the North East, three years after the landmark was felled.

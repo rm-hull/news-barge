@@ -13,6 +13,36 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Cleveland
+- Kemi
+- Middlesbrough
+- Normanby Road
+- Redcar
+- South Bank
+- Teeside
+- Teesside
+people:
+- Cole Worthy
+- Jacob
+- Jakub Matusiak
+- John Wrintmore
+- Kemi Badenoch
+- Lucy Powell
+- Makai Saddington
+- Matthew Blades
+- Michael Cahill
+- Pc Tom Clough
+- Theo Rae
+organisations:
+- A66
+- Cleveland Police
+- Conservative Party
+- Home Secretary
+- Labour
+- Middlesbrough Council
+- South Bank
+- Tory
 ---
 
 # Schools closing for A66 funerals ‘obscene’ says Kemi Badenoch

@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3cfc/live/fe5747
 categories:
 - UK
 - News & Politics
+locations:
+- Germany
+- Riksdag
+- Saxony-Anhalt
+- Stockholm
+- Sweden
+people:
+- Jimmie Åkesson
+- Magdalena Andersson
+- Nicholas Aylott
+- Ulf Kristersson
+- Ulrich Siegmund
+organisations:
+- AfD
+- Alternative for Germany
+- BBC
+- Ekot
+- SD
+- Social Democratic Party
+- Sweden Democrats
+- Södertörn University
 ---
 
 ![A composite image of Social Democratic Party leader Magdalena Andersson and Prime Minister Ulf Kristersson. Andersson, who is mid-speech, has a blonde bob and wears a navy blazer and top. Kristersson, who is also mid-speech, has short brown hair and wears glasses, a navy suit and tie and white shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3cfc/live/fe574770-add8-11f1-bc1f-3f186ca4140c.png)

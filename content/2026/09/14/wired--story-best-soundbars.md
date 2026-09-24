@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Science
 - Music
+locations:
+- Klipsch
+people:
+- Maggie Rogers
+- Parker Hall
+- Phoebe Bridgers
+- Ryan Waniata
+- Tom Cruise
+organisations:
+- Bose Lifestyle Ultra
+- Dolby Atmos
+- Fleetwood Mac
+- Focal
+- Google
+- Kef XIO
+- LG Sound Suite
+- Netflix
+- Prime Video
+- Q990H
+- Samsung
+- Sony Theatre Trio
+- TCL
 ---
 
 A soundbar is one of the smartest upgrades you can make for your entertainment room. The latest models sound loud, clear, and distinct, with realistic sound that is truly transportive—a thunderstorm sounds like rain from every direction, a sword fight reverberates with every clang.

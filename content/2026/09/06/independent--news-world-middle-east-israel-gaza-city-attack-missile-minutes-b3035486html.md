@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Gaza City
+- Gaza Strip
+- Israel
+- Yellow Line
+- Zeitoun
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Jared Kushner
+- Mohammed
+- Neveen Abu Hatab
+- Tony Blair
+organisations:
+- Gaza “Board of Peace
+- Hamas
+- IDF
+- Wafa
 ---
 
 Just after midnight, Neveen Abu Hatab and her husband Mohammed were awoken suddenly by the sound of shouting from their neighbours.

@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Holborn
+- Manor of Northstead
+- North Yorkshire
+- Scarborough
+- St Pancras
+- UK
+people:
+- Anttoni James Numminen
+- Bailiff
+- Bailiffs
+- Keir Starmer
+- Mulgrave
+- Nigel Farage
+- Steward
+organisations:
+- Bailiffs
+- Camden New Journal
+- Chiltern Hundreds
+- Crown Steward
+- Exchequer
+- House of Commons
+- Manor of Northstead
+- Reform UK
+- The Press
+- The Steward
+- Three Hundreds of Chiltern”
+- Veruccajunction
 ---
 
 The Government has made a decision on whether to appoint Keir Starmer to a job in North Yorkshire following his resignation from the House of Commons.

@@ -12,6 +12,37 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- AI
+- Canada
+- Europe
+- France
+- Germany
+- Grand Duchy of Luxembourg
+- South Korea
+- U.S.
+- United States
+people:
+- Macron
+- Mistral
+organisations:
+- ASML
+- Advent
+- Aleph Alpha
+- Anthropic
+- BlackRock
+- Cohere
+- EQT-managed Scaleup Europe Fund
+- Microsoft
+- Mistral AI
+- Nvidia
+- OpenAI
+- PSG Equity
+- Salesforce Ventures
+- Samsung Electronics
+- Series D
+- Stateside
+- a16z
 ---
 
 French AI lab Mistral AI on Tuesday said it has raised €3 billion (about $3.58 billion) at a post-money valuation of more than €21 billion (about $24.39 billion), confirming earlier rumors.

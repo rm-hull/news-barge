@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- A1
+- Burnopfield
+- Chester-le-Street
+- County Durham
+- Gibside Terrace
+- Junction 62
+- Junction 63
+- M
+- North East
+- Peterlee Magistrates’ Court
+- Wembley
+people:
+- Andy Walton
+organisations:
+- A1(M)
+- BMW
+- Middlesbrough
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

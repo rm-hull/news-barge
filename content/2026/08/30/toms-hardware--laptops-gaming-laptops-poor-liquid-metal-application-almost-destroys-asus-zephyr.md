@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/f98kn6LTf9puLMozhrFM5F-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Hassam Nasir
+- Nick
+- Replyhennes
+- TIM
+- Tom
+organisations:
+- Asus
+- CPU
+- FPS
+- Get Tom's Hardware
+- Google News
+- OP
+- Reddit
+- TIM
 ---
 
 ![Asus Zephyrus M16 poor liquid metal application](https://cdn.mos.cms.futurecdn.net/f98kn6LTf9puLMozhrFM5F.png) 

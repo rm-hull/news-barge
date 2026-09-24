@@ -14,6 +14,22 @@ categories:
 - UK
 - Arts & Culture
 - Society & Culture
+locations:
+- Dover
+- U.S.
+people:
+- Barbara Walters
+- Caryn Rose
+- Dolly Parton
+- Evelyn McDonnell
+- Gloria Steinem
+- Jane Fonda
+- Lily Tomlin
+- Lynn Melnick
+- Ms.
+organisations:
+- Loyola Marymount University
+- Vulture
 ---
 
 Smiling on the January 1987 cover of Ms., the magazine co-founded by feminism pioneer Gloria Steinem, are its 12 Women of the Year. They include a U.S. senator, a renowned novelist, a former nun who helped Central American refugees. And, smiling brightest of all, Dolly Parton.

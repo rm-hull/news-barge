@@ -11,6 +11,27 @@ image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p822c0.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Air India
+- Atlantic
+- Europe
+- FireClive Myrie
+- Japan
+- Los Angeles
+- Manchester
+- MoonFour
+- Sydney
+- UK
+- US
+people:
+- Andy Burnham
+- Artemis II
+- Charlie Kirk
+- Keir Starmer
+- Liam Payne
+- Melissa
+- Ozzy Osbourne
+organisations: []
 ---
 
 # BBC News - Why The World Loved Dolly

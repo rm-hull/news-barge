@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- YORK
+- York
+people:
+- Ella Bond
+- Judy Wray
+organisations:
+- Chocolate Works Care Home
+- David Harrison Photography
+- The Press Community Pride 2026 Health Service Hero
 ---
 
 ## 'Dedicated' York care home worker receives Community Pride Award

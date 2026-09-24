@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Blackpool
+- Bognor Regis
+- Britain
+- East Sussex
+- England
+- Hastings
+- Lancashire
+- Littlehampton
+- Norfolk
+- North Somerset
+- Pelham Beach
+- UK
+- Wales
+- Wells-next-the-Sea
+- Weston-super-Mare
+people:
+- Alison Griffiths
+- Andy Burnham
+- Jon Cunliffe
+- Keir Starmer
+organisations:
+- Bank of England
+- Commons
+- Cunliffe Report
+- Department for Environment, Food and Rural Affairs
+- Drinking Water Inspectorate
+- Environment Agency
+- Government
+- Independent Water Commission
+- Met Office
+- Natural England
+- Ofwat
 ---
 
 Andy Burnham has cautioned that his administration would "find it very difficult to reverse" the privatisation of water companies that occurred in 1989, nearly four decades ago.

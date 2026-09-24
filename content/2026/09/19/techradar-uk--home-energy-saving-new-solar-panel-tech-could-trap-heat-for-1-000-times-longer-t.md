@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg-2560-80.jpg
+locations:
+- England
+- Netherlands
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- ACS Energy Letters
+- Gizmodo
+- Google News
+- PC Explorer
+- The Hardware Handbook
+- University of Groningen
 ---
 
 ![Couple standing on balcony holding solar panel](https://cdn.mos.cms.futurecdn.net/gkmdRXeMm3J7VF9tLBwxJg.jpg)

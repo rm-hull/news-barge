@@ -11,6 +11,24 @@ image: https://static.independent.co.uk/2026/09/15/17/08/GettyImages-2294919543.
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Dallas
+- Iran
+people:
+- Donald Trump
+- Eric Garcia
+- Juan Vargas
+- Mike Johnson
+- Scott Bessent
+organisations:
+- CBS News
+- Congress
+- Democratic Party
+- House Financial Services Committee
+- Independent
+- Treasury Department
+- Trump
 ---
 
 Treasury Secretary Scott Bessent has backed the $5,000 checks Donald Trump wants to give Americans after the midterm elections, but has refused to say how the country would pay for them.

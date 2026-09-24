@@ -12,6 +12,22 @@ categories:
 - York
 - Travel
 - Food & Cooking
+locations:
+- Britain
+- George Hudson Street
+- Melton’s**
+- Micklegate
+- North Yorkshire
+- Scarcroft Road
+- Station Rise
+- The Grand Hotel
+- UK
+- York
+people:
+- Eduardo
+organisations:
+- Casa Brazilian Rodizio**
+- Tripadvisor
 ---
 
 The team at a York restaurant say they are ‘incredibly grateful and very excited’ after being named number one in the country – for the second year in a row.

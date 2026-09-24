@@ -12,6 +12,36 @@ image: https://static.independent.co.uk/2026/08/27/22/Cyclospora_Outbreak_92942.
 categories:
 - News & Politics
 - UK
+locations:
+- Guanajuato
+- Mexico
+- Taylor Farms
+- Taylor Farms'
+- U.S.
+- Washington
+people:
+- Brian Ronholm
+- Donald Trump
+- Frank Yiannas
+- Michael Rogers
+- Susan Mayne
+organisations:
+- AP Fund for Journalism
+- COVID-19
+- Congress
+- Consumer Reports
+- Department of Agriculture
+- Department of Health and Human Services
+- FDA
+- Food and Drug Administration
+- GAO
+- Government Accountability Office
+- KFC
+- Pizza Hut
+- Taco Bell
+- Trump
+- Yale University
+- Yum Brands
 ---
 
 A nationwide outbreak of cyclospora tied to contaminated lettuce has heightened safety concerns about imported food, while underscoring a longer-term trend: U.S. regulators are conducting fewer international inspections to catch contaminated produce before it lands on American plates.

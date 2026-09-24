@@ -11,6 +11,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- North East of England
+- Tyne and Wear
+people:
+- Andy Burnham
+- Brendan Foster
+organisations:
+- The Great Run Company
 ---
 
 Two men died after collapsing while completing Sunday’s Great North Run.

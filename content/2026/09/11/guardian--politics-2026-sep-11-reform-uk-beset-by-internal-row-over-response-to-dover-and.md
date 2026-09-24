@@ -11,6 +11,43 @@ image: https://i.guim.co.uk/img/media/1905249b8e248e6cd954b4f21b17a684c26d44f5/0
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Burnley
+- Clacton
+- Dover
+- Dudley
+- England
+- Kent
+- Norfolk
+- Portsmouth
+- Tameside
+- Wales
+people:
+- Allan Hopwood
+- Andrew Southall
+- Daniel Thomas
+- Emily Strudwick
+- Kemi Badenoch
+- Linden Kemkaran
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+- Rupert Lowe
+- Ryan Bridge
+- Sharon Barker
+- Tommy Robinson
+- Zia Yusuf
+organisations:
+- British National party
+- Facebook
+- Guardian
+- Kent
+- Patriot Platform
+- Raise the Colours
+- Reform UK
+- Tameside
+- Ukip
 ---
 
 Nigel Farage’s condemnation of the masked men whose blockade of Dover stole headlines on the final day of his party’s annual conference was swift, describing their actions as “horrible”.

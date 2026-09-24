@@ -11,6 +11,43 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg
+locations:
+- New York
+- US
+- White House
+- White House.
+people:
+- Bryan Boughton
+- Donald Trump
+- Emmanuel Macron
+- Zohran Mamdani
+organisations:
+- ABC
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CBS
+- CNN
+- FAKE NEWS
+- Fox News
+- Fox News Washington bureau
+- Free Press
+- MS
+- NBC
+- New York Times
+- Oval Office
+- Politico
+- Real America
+- Trump
+- Truth Social
+- UN General Assembly
+- US TV
+- United Nations General Assembly
+- Voice
+- Wall Street Journal
+- Washington Post
+- White House Correspondents' Association
 ---
 
 ![Donald Trump speaks, he is wearing a blue suit jacket, white shrit with a red and purple tie. The background is blurred.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg)

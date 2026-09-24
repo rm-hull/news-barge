@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Chicago
+- London
+- New York
+- UK
+- US
+people:
+- Bonnie Greer
+- David Hutchins
+- Elia Kazan
+- Langston Hughes
+- Obama
+organisations:
+- Actors Studio
+- BFI Southbank
+- Black Lives Matter
+- British Museum
+- Greer
+- Guardian
+- Kingston University
+- London Film School
+- Newsnight Review
+- Observer
+- Royal Opera House
+- Royal Society of Literature
+- UK TV
 ---
 
 ![Bonnie Greer speaks on stage as she introduces "The Lost Man" as part of BFI Screen Epiphanies at the BFI Southbank in London in 2016](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/402c/live/b5617f70-b1c7-11f1-8493-1910d79d53eb.jpg)

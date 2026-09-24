@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Cullingworth
+- Weymouth Avenue Contact Point
+people:
+- Masoud
+organisations:
+- Facebook
+- PCSOs Ditta
+- West Yorkshire Police
 ---
 
 A stolen car was recovered just 20 minutes after police received a tip-off from a member of the public.

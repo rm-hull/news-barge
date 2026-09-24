@@ -11,6 +11,45 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6357/live/1b9739
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- England
+- Lewisham East
+- Ukraine
+- Wales
+- Westminster
+people:
+- Andy Burnham
+- Janet Daby
+- Keir Starmer
+- Kim Leadbeater
+- Lib Dem
+organisations:
+- 1 APNI
+- 2 Independent
+- 2 Your Party
+- 3 Reform
+- 5 Green
+- 8 SNP
+- 9 Conservative
+- 9 Independent
+- 90 Conservative
+- BBC
+- Commons
+- DUP
+- House of Commons.
+- House of Lords
+- Houses of Parliament.
+- Labour
+- Lib Dem
+- MPs'
+- Parliament
+- Plaid Cymru
+- Restore Britain
+- SDLP
+- Sinn Fein
+- TUV
+- UUP
 ---
 
 ![Anti-assisted dying campaigners react after MPs voted against the assisted dying bill. Three women stand in a line holding up placards which read: Let's Care Not Kill, Kill the Bill and First Do No Harm. They are smiling and wear t-shirts which support their campaign.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg)

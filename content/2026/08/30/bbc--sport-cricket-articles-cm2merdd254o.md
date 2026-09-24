@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Edgbaston
+- England
+- Headingley
+- Lord's
+- Lord's.
+- New Zealand
+- Pakistan
+- Sussex
+people:
+- '**(Awais'
+- '**(Smith'
+- Abdullah Shafique
+- Azan Awais
+- Babar Azam
+- Ben Stokes'
+- Brendon McCullum
+- Brydon Carse
+- Dan Lawrence
+- Emilio Gay
+- Harry Brook
+- Imam-ul-Haq
+- Imran Khan
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Lord
+- Muhammad Abbas
+- Muhammad Rizwan
+- Ollie Robinson
+- Robinson Robinson
+- Saud Shakeel
+- Shan Masood
+- Stokes
+organisations:
+- England
+- Pakistan Cricket Board
+- Sky
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

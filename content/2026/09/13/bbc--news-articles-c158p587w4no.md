@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bay of Seine
+- Bay of the Seine
+- Bembridge
+- Calais
+- Cherbourg
+- Dover
+- Dunkirk
+- Eastney Landing
+- Eastney Marina
+- England
+- France
+- Isle of Wight
+- Portsmouth
+- Portsmouth.** Hampshire
+- Yarmouth
+people:
+- Paulsgrove
+- Tony Rowlinson
+organisations:
+- Border Force
+- English Channel
+- RNLI
 ---
 
 ![A collage of six men top left is a brown haired man in a white t-shirt, top middle is a bald man in a grey hoodie, top right is a brown haired man in a white and blue tracksuit top, bottom left is a brown haired and bearded man in a white polo t-shirt, bottom middle is a blonde haired man in a white t-shirt and bottom right is a brown haired man in a green/ grey tracksuit top.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/b08b/live/78357c60-af7d-11f1-a540-61c3f7fc4e6c.png)

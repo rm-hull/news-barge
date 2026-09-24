@@ -13,6 +13,27 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Australia
+- China
+- Hong Kong
+- Iran
+- South Korea
+- Tokyo
+- U.S.
+- Wall Street
+people:
+- Chan Ho-him
+- Norihiro Yamaguchi
+- Yuri Kageyama
+organisations:
+- Cabinet Office
+- Kospi
+- Nasdaq
+- Oxford Economics
+- PPI
+- SK Hynix
+- Samsung Electronics
 ---
 
 Asian shares and U.S. futures were mixed Tuesday after markets on Wall Street were closed for the Labor Day holiday.

@@ -12,6 +12,17 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Czyborra
+people:
+- Ina Czyborra
+organisations:
+- AA
+- Czyborra
+- House of Representatives
+- SPD
+- Senate
 ---
 
 © dpa

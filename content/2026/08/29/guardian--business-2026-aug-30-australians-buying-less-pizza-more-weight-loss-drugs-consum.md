@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- New Zealand
+- Philippines
+people:
+- Anko
+- Dan Himbrechts
+- Keith Thornton
+- Pizza
+- Snail
+- Vikesh Ramsunder
+organisations:
+- AAP
+- Anko
+- Australia Post
+- Chemist Warehouse
+- Coca-Cola
+- Domino’s
+- Eagers Automotive
+- Electric Vehicle Council
+- GapMaps
+- Ikea
+- KFC
+- Kmart Group
+- McDonald’s
+- Ozempic
+- Pepsi
+- Sigma Healthcare-owned Chemist Warehouse
+- Subway
+- Target
 ---
 
 High petrol and diesel prices are causing Australians to turn to electric vehicles, with almost a third of new car sales in July being an EV. Photograph: Dan Himbrechts/AAP

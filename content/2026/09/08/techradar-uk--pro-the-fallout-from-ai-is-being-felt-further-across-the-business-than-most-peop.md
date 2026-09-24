@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/qiVqCYVeLXmRG6AAZFzUGe-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- UK
+people:
+- Craig Hale
+- Jamie Snaddon
+organisations:
+- '**Tech'
+- 8x8
+- AI
+- CIO
+- CIOs
+- Craig’s
+- EMEA
+- Google News
+- TechRadar Pro
 ---
 
 ![Dell AI Data Platform: two people working late at night in an office at the same monitor, discussing a problem](https://cdn.mos.cms.futurecdn.net/qiVqCYVeLXmRG6AAZFzUGe.jpg) 

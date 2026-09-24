@@ -11,6 +11,19 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21472013.jpg?type=og-image
+locations:
+- Clifton
+- York
+people:
+- Ivan Brett
+- Ryan
+- Wilfred Webster
+organisations:
+- St Peter’s School
+- The Forge
+- The York Board Games Convention 2026
+- York Board Games Convention
+- York Board Games Convention 2026
 ---
 
 ## Major board gaming convention returning to York this October

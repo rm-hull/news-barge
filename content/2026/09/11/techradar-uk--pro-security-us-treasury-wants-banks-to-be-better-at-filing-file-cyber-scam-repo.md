@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Burma
+- Cambodia
+- Laos
+- Sarajevo
+- Southeast Asia
+- US
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- BSA
+- FinCEN
+- Financial Crimes Enforcement Network
+- Google News
+- MSBs
+- Represent Communications
+- TechRadar Pro
+- US Department of the Treasury
 ---
 
 ![Back view of hooded internet criminal hacking laptop in the dark, stealing credit card details](https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668.jpg) 

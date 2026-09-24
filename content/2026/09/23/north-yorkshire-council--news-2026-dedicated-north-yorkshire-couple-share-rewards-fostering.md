@@ -16,6 +16,22 @@ categories:
 - Society & Culture
 - Family & Parenting
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Tom%20and%20Jayne.jpg
+locations:
+- America
+- Mockingbird
+- North Yorkshire
+- Scarborough
+- Selby
+- Thirsk
+people:
+- '![Jayne'
+- Cllr Janet Sanderson
+- Jayne
+- Tom Dockerty
+organisations:
+- Mockingbird Family Model
+- North Yorkshire Council
+- The Mockingbird Family Model Programme
 ---
 
 ![Jayne and Tom Dockerty, who are from Scarborough and have been foster parents with North Yorkshire Council for more than five years](https://www.northyorks.gov.uk/sites/default/files/2026-09/Tom%20and%20Jayne.jpg)

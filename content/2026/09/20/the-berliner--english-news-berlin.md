@@ -12,6 +12,14 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0867352436h-scaled.jpg
+locations:
+- Berlin
+- Mitte
+people: []
+organisations:
+- '### Berlin'
+- Charité Employees
+- Senate
 ---
 
 ## News

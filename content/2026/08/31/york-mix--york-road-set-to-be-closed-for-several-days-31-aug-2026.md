@@ -12,6 +12,17 @@ categories:
 - York
 - Lifestyle & Fashion
 - Travel
+locations:
+- Fishergate
+- Paragon Street
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+- York
+people: []
+organisations:
+- City of York Council
+- Yorkshire Water
 ---
 
 The York road closed by storm damage will stay shut for a few more days yet.

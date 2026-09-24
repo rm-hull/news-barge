@@ -13,6 +13,32 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- California
+- Illinois
+- Iowa
+- San Onofre
+- South Dakota
+- Three Mile Island
+- U.S.
+people:
+- Clinton
+- Duane Arnold
+- James Danly
+- John Ketchum
+organisations:
+- ChatGPT
+- Clinton Clean Energy Center
+- Constellation Energy
+- Department of Energy
+- Duane Arnold Energy Center
+- Google
+- Hyperion AI
+- Meta
+- Microsoft
+- NextEra Energy
+- Trump
+- U.S. Department of Energy
 ---
 
 Last October, Google said it would bring an Iowa nuclear power plant back from the dead. Now the facility’s owner, NextEra Energy, has received a $1.9 billion loan from the U.S. Department of Energy to finance the refurbishment.

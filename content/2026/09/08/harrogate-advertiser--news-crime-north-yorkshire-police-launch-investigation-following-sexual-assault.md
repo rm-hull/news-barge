@@ -15,6 +15,16 @@ categories:
 - Society & Culture
 - News & Politics
 - True Crime
+locations:
+- Harrogate
+- Knaresborough Road
+- North Yorkshire Police
+- Stray
+- Wetherby Road
+people:
+- Moore
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police launch investigation following sexual assault on the Stray in Harrogate

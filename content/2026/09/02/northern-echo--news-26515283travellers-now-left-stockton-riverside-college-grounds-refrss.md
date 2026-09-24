@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Busy North East
+- County Durham
+- NORTHERN ECHO
+- North East
+- Teesside
+people: []
+organisations:
+- Cleveland Police
+- Stockton Council
+- Stockton Riverside College
+- THE NORTHERN ECHO
 ---
 
 Travellers who camped at a North East college as students returned for the new term have now left.

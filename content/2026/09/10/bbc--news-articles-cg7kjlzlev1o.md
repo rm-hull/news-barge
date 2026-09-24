@@ -11,6 +11,26 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec7b/live/154b05
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas
+- Iran
+- Maine
+- Tehran
+- US
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Marco Rubio
+- Susan Collins
+organisations:
+- BBC
+- Congress
+- Financial Times
+- Focaldata
+- MAGA
+- Republican Party
+- Trump
 ---
 
 Watch: Trump tells supporters their vote will decide if country "stumbles" or "moves forward"

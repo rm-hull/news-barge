@@ -11,6 +11,85 @@ image: https://cdn.mos.cms.futurecdn.net/faFwi2WakHkP45Nbq4hbhT-450-80.webp
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Brandon Hill
+- Bruno Ferreira
+- Foxconn
+- PrintersLos Angeles
+- Taipei
+people:
+- Andrew E. Freedman
+- Hollyland Lark
+- Jensen Huang
+- Lian Li
+- Mark Tyson
+- Matt Keith
+- Razer Kiyo
+- Razer Seiren
+- Sarah Jacobsson
+- Stephen Warwick
+organisations:
+- Aaron Klotz Published
+- Amazon
+- Camo Studio
+- Christopher Coke
+- Christopher Harper
+- ConnectorsJapanese
+- Crown
+- DealsFlexispot
+- DesksErgo Desk
+- DesksI
+- DesksLian Li
+- Ergo Desk
+- GamepadsCommodore
+- GamepadsEnthusiast
+- GamepadsNew
+- GamepadsSteam Controller
+- GamepadsThrustmaster
+- GamepadsValve
+- Gaming ChairsSecretlab
+- Gaming HeadsetsCorsair
+- Gaming MiceLogitech
+- Hassam Nasir
+- Hon Hai
+- HubsThe Best Thunderbolt
+- HubsThis
+- Jowi Morales
+- Jowi Morales Published
+- KeyboardsOpenAI
+- Keychron
+- Lexmark
+- Logitech
+- Luke James
+- Mark Tyson Published
+- Matt Safford
+- MicrophonesHyperX
+- Nape Pro
+- PeripheralsDiehard Asus
+- PeripheralsLogitech
+- PremiumSteam Controller
+- PrintersAustralian
+- PrintersBrother
+- PrintersHP
+- PrintersMicrosoft
+- PrintersXerox
+- Puck CAD
+- Pulsar Feinmann
+- QuadCast
+- RMA
+- Razer BlackShark
+- Razer Kiyo
+- Razer Naga
+- Roshan Ashraf Shaikh
+- Sarah Jacobsson
+- Sarah Jacobsson Purewal
+- Sarah Jacobsson Purewal Published
+- Steam Controller
+- Valve
+- WebcamsHow
+- WebcamsThe
+- XLR
+- Xerox
 ---
 
 # Peripherals

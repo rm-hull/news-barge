@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Auckland
+- Covid
+- Darlington
+- Great North Run
+- Middlesbrough
+- Miss England
+- Newcastle
+- Newton Aycliffe
+- South Shields
+people:
+- Helen
+- Kate Maugham
+- Lucy Mauaghan
+- Lucy Maughan
+- Suzanne Redding
+organisations:
+- GlaxoSmithKline
+- James Cook University Hospital
+- Lucy
+- Newcastle University
+- Northumbria University
+- Spinal Research
 ---
 
 Two Bishop Auckland twins had to learn how to walk again after undergoing major spinal surgery, years after their mum noticed their shoulders were at different heights.

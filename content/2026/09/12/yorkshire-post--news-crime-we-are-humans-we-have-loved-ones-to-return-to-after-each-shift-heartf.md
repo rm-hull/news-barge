@@ -15,6 +15,21 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- A64
+- Crambeck
+- Malton
+- Scarborough
+- Somerset Terrace
+- York Crown Court
+- York Magistrates’ Court
+people:
+- Alfie Thomlinson
+- Harrison Douglas Long
+organisations:
+- Roads Policing
+- Scarborough CID
+- York Crown Court
 ---
 
 # “We are humans, we have loved ones to return to after each shift:” Heartfelt words of police after man who drove at officer locked up

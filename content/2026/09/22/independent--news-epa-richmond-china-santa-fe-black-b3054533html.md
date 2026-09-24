@@ -13,6 +13,51 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/20/California_Superfund_Site_Cleanup__6617.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Berkeley
+- Black and Latinx
+- Carquinez Strait
+- China
+- Lauritzen Channel
+- Parr Canal
+- Richmond
+- Richmond’s Heckathorn Superfund
+- Santa Fe
+- Santa Fe Channel
+- Sen
+- U.S.
+people:
+- Janet Johnson
+- Jesse Arreguín
+- Lejon Fahim Reese
+- Linda Whitmore
+- Richmondside
+- Vernon Whitmore
+organisations:
+- Christ-Craft Industries, Inc
+- Department of Toxic Substances Control
+- EPA
+- Lauritzen Channel
+- Levin Enterprises, Inc.
+- Levin-Richmond Terminal Corporation
+- Levin-Richmond Terminal, Inc.
+- Montrose Group
+- Nanjing University and Climate Central
+- Nature Communications
+- RPA
+- RSA
+- Rhone Poulenc, Inc.
+- Richmond Inner Harbor
+- Richmond Shoreline Alliance
+- Richmondside
+- SF Baykeeper
+- Sierra Club
+- Stauffer Management Company
+- The Associated Press
+- United Heckathorn Chemical Co.
+- United Heckathorn Superfund Site
+- University of California
 ---
 
 The EPA has released a 53-page, $93.4 million plan to remove dangerous chemicals from Richmond’s Heckathorn Superfund site, but community members who’ve long advocated for a more extensive cleanup aren’t impressed.

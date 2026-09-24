@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- BRADFORD
+- Bradford
+- UK
+people:
+- Safian Mahmood
+organisations:
+- Bradford What
+- Hermano Bakery
+- T&A
+- Telegraph & Argus
 ---
 
 *(Image: Hermano Bakery)*

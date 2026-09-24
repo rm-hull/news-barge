@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8549/live/b7449770-b792-11f1-a7dc-51a9fb487fda.jpg
+locations:
+- Canada
+- Italy
+- Ontario
+- UK
+- US
+people:
+- Amara Scott
+- Ashleigh Harris
+- David Parfett
+- Elisabeth Belien
+- Henry Tucker
+- Kate
+- Kenneth Law
+- Kenneth Law Norson Harris
+- Mitchel Sr
+- Sandra Scott
+- Stephen Mitchell Jr
+- Stephen Mitchell Sr
+- Thomas
+- Tom
+organisations:
+- Kenneth Law Authorities
+- Ontario Superior Court of Justice
 ---
 
 ![Close up image of Kenneth Law's face. He is looking at the camera and is wearing glasses.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8549/live/b7449770-b792-11f1-a7dc-51a9fb487fda.jpg)

@@ -13,6 +13,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/414ee2e7002725e22833ddd3f99f350ec440c5d8/20_0_1161_928/master/1161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1aff879d4cf365a855426786563015c
+locations:
+- Britain
+- Chagos Islands
+- Diego Garcia
+- Mauritius
+- New York
+- UK
+- US
+- United Kingdom
+- United States
+people:
+- Andy Burnham
+- Donald Trump
+- Wes Streeting
+organisations:
+- BBC Radio 4
+- Times Radio
+- UN
 ---
 
 Wes Streeting has said annual payments worth at least £120m to Mauritius are on hold as the government reconsiders its deal over the Chagos Islands, after Donald Trump refused to back the agreement.

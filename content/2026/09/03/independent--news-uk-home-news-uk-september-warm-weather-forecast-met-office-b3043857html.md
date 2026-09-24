@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Lifestyle & Fashion
+locations:
+- Atlantic
+- Cardiff
+- England
+- Kew Gardens
+- Lincolnshire
+- London
+- Manchester
+- Plymouth
+- Scotland
+- UK
+- Wales
+people: []
+organisations:
+- Met Office
 ---
 
 Temperatures are set to peak again this week, after this summer was named the hottest since records began nearly 150 years ago.

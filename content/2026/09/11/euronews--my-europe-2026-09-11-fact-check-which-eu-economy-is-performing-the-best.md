@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Cyprus
+- Czech Republic
+- Europe
+- Eurozone
+- Finland
+- Greece
+- Ireland
+- Lithuania
+- Malta
+- Montenegro
+- Portugal
+- Slovenia
+people:
+- Luís Montenegro
+- Luís Neves
+organisations:
+- Assembly of the Republic
+- Chega
+- EU
+- Euronews'
+- Eurostat
+- Judiciary Police
+- The Cube
 ---
 
 ## Recent comments by Portugal's prime minister have prompted discussion about which EU country currently has the best-performing economy and employment growth rate.

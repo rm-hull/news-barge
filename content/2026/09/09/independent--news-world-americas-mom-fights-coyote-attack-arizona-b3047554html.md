@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Arizona
+- Phoenix
+- Surprise
+people:
+- Alex Flickinger
+- Brittany Cardinal
+organisations:
+- AZFamily
+- Arizona Game and Fish
 ---
 
 An Arizona mother was left with lacerations and puncture wounds on her face after a vicious coyote began attacking her 4-year-old daughter as they tried to fly a kite.

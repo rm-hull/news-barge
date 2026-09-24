@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Darlington
+- High Street
+- Newton Aycliffe
+people:
+- Cheryl Balcombe
+organisations:
+- Clique
+- Stockton Council
+- The Northern Echo
 ---
 
 A salon owner has described the launch of her second business as a "huge milestone" after opening a new premises in Darlington.

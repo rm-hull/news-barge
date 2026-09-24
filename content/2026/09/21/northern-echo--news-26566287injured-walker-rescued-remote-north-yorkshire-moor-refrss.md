@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21478959.jpg?type=og-image&xType=0&yType=326
+locations:
+- Blakey Ridge
+- CLEVELAND
+- Darlington
+- Farndale Moor
+- Lion Inn
+- North Yorkshire
+people: []
+organisations:
+- Cleveland Mountain Rescue Team
+- Land Rovers
+- Lion Inn
+- Yorkshire Air Ambulance
+- Yorkshire Ambulance Service
 ---
 
 A major two-and-a-half-hour rescue effort involving air ambulance and mountain rescue crews was sparked after a walker was injured on moorland.

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/b33e44cdc09bdf62ed132265b8f5a32981f5a38d/302_0_6392_5111/master/6392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19a4acb45c0cc1cf9b348a8eec69beb7
+locations:
+- Berlin
+- Europe
+- France
+- Germany
+- Italy
+- Mecklenburg-Western Pomerania
+- Poland
+- Saxony-Anhalt
+- Schwerin
+- Spain
+- Ukraine
+people:
+- Angela Merkel
+- Die Linke
+- Elif Eralp
+- Friedrich Merz
+- Manuela Schwesig
+- Tino Chrupalla
+organisations:
+- AfD
+- CDU
+- Christian Democratic Union
+- Kremlin-friendly Alternative für Deutschland
+- SPD
+- Social Democratic party
+- Social Democrats
 ---
 
 Germany’s embattled chancellor, Friedrich Merz, has vowed to stay in office and fight for future-proofing economic changes despite heavy losses for his conservatives in two state elections, one to the far right and the other to a leftwing party.

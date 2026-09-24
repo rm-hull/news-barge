@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Education & Learning
+locations:
+- Beacon
+- Calne
+people:
+- Lisa Myers
+- Nicola Whitcombe
+- Tom Leverage
+organisations:
+- Beacon
+- National Autistic Society
+- Ofsted
+- Personal Development and Wellbeing
+- Reach South Academy Trust
+- Springfields Academy
+- The Springfields Academy
 ---
 
 A specialist school has been named one of just eight Beacon schools in the country by the National Autistic Society.

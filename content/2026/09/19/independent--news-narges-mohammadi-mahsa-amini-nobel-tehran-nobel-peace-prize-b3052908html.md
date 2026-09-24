@@ -12,6 +12,21 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/19/15/Iran_Rights_Activist_4968_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Evin
+- France
+- Iran
+- Israel
+- Mashhad
+- Tehran
+- U.S.
+people:
+- Khosrow Alikordi
+- Mahsa Amini
+- Narges Mohammadi
+organisations:
+- AP
+- The Associated Press
 ---
 
 Iranians are suffering as economic misery and internal repression leave “no room for people to breathe” after 1 1/2 years of wars and ongoing U.S. sanctions, the country’s most prominent human rights activist has told The Associated Press.

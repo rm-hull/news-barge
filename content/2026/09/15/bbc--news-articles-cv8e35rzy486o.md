@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Carriage Drive
+- Doncaster.
+- Middle Bank Roundabout
+- South Yorkshire
+- White Rose Way
+people: []
+organisations:
+- Audi
+- BMW
+- Mitsubishi
+- South Yorkshire Police
 ---
 
 ![Shot from above, this image shows a number of damaged cars parked on a dual carriageway which is closed. A number of police vehicles and officers are stood on both sections of the road.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/e74e/live/c6374e40-b0f7-11f1-9707-2187f52634c5.jpg)

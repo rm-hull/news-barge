@@ -13,6 +13,69 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- CA
+- Canada
+- Gtech Community Stadium
+- Leeds
+- London
+- Nottm Forest
+- Pakistan
+- UK
+- US
+- United Kingdom
+- canada
+- uk
+people:
+- Greg Lea
+- Matthias Jaissle
+- Roberto De Zerbi
+- Sandro Tonali
+- Wilfried Zaha
+organisations:
+- ABC
+- AU
+- Brentford
+- Crystal Palace
+- DirecTV Stream**
+- EPL
+- ESPN
+- England
+- FS1
+- FX
+- FourFourTwo
+- Fox
+- Fubo
+- Fubo**
+- Future Publishing
+- Gtech Community Stadium
+- Guardian
+- Instagram
+- Liverpool
+- Magpies
+- NBC
+- NBCSN
+- NOW Sports
+- Newcastle
+- Peacock
+- Port Vale
+- Premier League
+- PremierLeague
+- Sky Sports
+- Sky Sports Main Event
+- Sky Sports Premier League
+- Sling TV**
+- Spurs
+- Stan Sport
+- Super Rugby
+- TechRadar
+- The Set Pieces
+- TikTok
+- Tottenham Hotspur
+- USA Network
+- Whitehorse Manor
+- YouTube TV
 ---
 
 ![Sandro Tonali of Tottenham Hotspur during the Premier League match between Brentford and Tottenham Hotspur at Gtech Community Stadium in London, United Kingdom, on August 22, 2026.](https://cdn.mos.cms.futurecdn.net/gttMRJBGRmLKrdNxgTmAWh.jpg) 

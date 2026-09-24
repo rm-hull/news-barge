@@ -14,6 +14,60 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Darrowby
+people:
+- Alf Wight
+- Anna Madeley
+- Bruce Alexander
+- Callum Woodhouse
+- Caolan McCarthy
+- Charlotte Beauvoir
+- David Mitchell
+- Dorothy
+- Gaia Wise
+- Geoff Hatfield
+- Geoff Lesley
+- Grandad Hollins
+- Granville Bennett
+- Hall
+- Helen Herriot
+- Howard Harling
+- Imogen Clawson
+- Irene Sparrow
+- Isabella Ward
+- Jade Greyul
+- James Herriot
+- Jenny Alderson
+- Jimmy Herriot
+- Ludwig
+- Maggie
+- Maimie McCoy
+- Michaela Short
+- Mollie Winnard
+- Mr Hollins
+- Mrs Pumphrey
+- Mrs Townsend
+- Nicholas Ralph
+- Patricia Hodge
+- Rachel Shenton
+- Richard Alderson
+- Rosie Herriot
+- Samuel West
+- Siegfried Farnon
+- Thomas Riches
+- Tony Pitts
+- Tristan Farnon
+- Vicky McClure
+- Wendy Patterson
+- Zoe Bennett
+organisations:
+- BBC
+- Channel 5
+- ITV
+- Mrs Hall
+- Radio Times
+- Yorkshire Dales
 ---
 
 *(Image: Channel 5)*

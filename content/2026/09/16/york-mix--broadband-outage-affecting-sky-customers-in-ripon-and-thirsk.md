@@ -12,6 +12,16 @@ categories:
 - York
 - Music
 - Business & Entrepreneurship
+locations:
+- Dalton
+- Kirby Wiske
+- Ripon
+- Thirsk
+- Topcliffe
+people: []
+organisations:
+- Sky
+- YorkMix
 ---
 
 Hundreds of broadband customers in and around Ripon and Thirsk have reported that their service has stopped working.

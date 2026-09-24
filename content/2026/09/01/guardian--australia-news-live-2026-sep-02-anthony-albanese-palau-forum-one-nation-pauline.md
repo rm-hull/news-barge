@@ -12,6 +12,47 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Canberra
+- China
+- Fiji
+- Nepal
+- Nepal-Tibet
+- New South Wales
+- Pacific Australia
+- Palau
+- Rasuwa
+- Samoa
+- Tibet
+- Tonga
+people:
+- Achol Arok
+- Allegra Spender
+- Anthony Albanese
+- Chanel Contos
+- Matt Canavan
+- Mick Tsikas
+- Pat Conroy
+- Shankar Bhujel
+organisations:
+- AAP Contos
+- Albanese
+- Ambir Tolang
+- Asio
+- Australian Federal Police
+- Big Tech
+- Chanel Contos
+- Digital Duty of Care
+- JNA
+- Lukas Coch/AAP
+- NSW Health
+- National Press Club
+- Pacific Islands Forum
+- RN Breakfast
+- Shutterstock Dfat
+- Shutterstock Spender
+- Teach Us Consent
+- ZUMA Press Wire
 ---
 
 Dfat has received nearly 800 calls in relation to last week’s Nepal-Tibet flash flood, with 18 Australian personnel having travelled to Nepal to join staff on the ground. Photograph: Ambir Tolang/JNA/ZUMA Press Wire/Shutterstock

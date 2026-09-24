@@ -12,6 +12,14 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21473546.jpg?type=og-image
+locations:
+- East Riding of Yorkshire
+- East Yorkshire
+- Europe
+- UK
+people: []
+organisations:
+- The Herald
 ---
 
 The East Riding of Yorkshire coast will once again welcome anglers from across the UK and Europe for the 33rd Paul Roggeman European Open Beach Championship (Image: Supplied)

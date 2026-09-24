@@ -10,6 +10,34 @@ description: I spoke to Andreas Hellander of Scaleout to learn more about how ba
 image: https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Iran
+- Middle East
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+people:
+- Andreas Hellander
+- Benedict Collins
+organisations:
+- APT
+- AWS
+- BAE Systems
+- BAE Systems Bofors
+- BUCSIS
+- Department of Information Technology
+- Google News
+- MSc
+- NATO
+- Nvidia
+- Palantir
+- Scaleout
+- Swedish Air Force
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
+- Uppsala University
 ---
 
 ![Robotic hand interacting with a digital display showing various military equipment, defense systems, drones and cybersecurity elements and data visualization in a dark environment.](https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj.jpg) 

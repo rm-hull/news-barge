@@ -14,6 +14,24 @@ categories:
 - UK
 - True Crime
 - Law & Justice
+locations:
+- Brazil
+- Sen
+people:
+- Alexandre de Moraes
+- Andre Mendonca
+- Andrei Rodrigues
+- Daniel Vorcaro
+- De Moraes
+- Flávio Bolsonaro
+- Flávio Dino
+- Jair Bolsonaro
+- Leandro Almada
+- Luiz Inácio Lula da Silva
+- de Moraes’
+organisations:
+- Banco Master
+- Supreme Court
 ---
 
 Brazilian Supreme Court Justice Flávio Dino restored two senior police officials to their posts on Wednesday, overruling a decision by a rival judge and deepening a major crisis at the country's top court.

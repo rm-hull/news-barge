@@ -12,6 +12,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Allerton Bywater
+- Castleford
+- Kippax
+- Ledston
+- Santa Cruz
+people:
+- Karl
+- Kirsty Walsh
+organisations:
+- Leeds CID
+- Tesco
+- West Yorkshire Police LiveChat
 ---
 
 A man has been missing for two weeks.

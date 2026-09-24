@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Hiroshima
+- Japan
+- Tokyo
+people:
+- Aiko
+- Chrysanthemum Throne
+- Ferdinand Marcos Jr.
+- Hisahito
+- Naruhito
+- Sanae Takaichi
+organisations:
+- University of Tsukuba
 ---
 
 Prince Hisahito turned 20 on Sunday as he faces growing attention as a future monarch in Japan following the government's unpopular revision to the Imperial House Law that reinforces male-only succession rules.

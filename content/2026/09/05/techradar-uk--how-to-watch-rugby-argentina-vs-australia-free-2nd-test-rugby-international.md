@@ -11,6 +11,97 @@ image: https://cdn.mos.cms.futurecdn.net/9xXvfjSuaDXo3d3Hkbg2pT-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- AUS
+- Argentina
+- Australia
+- Canada
+- Los Pumas
+- Mendoza
+- NZ
+- NZST
+- New Zealand
+- San Salvador de Jujuy
+- South Africa
+- UK
+- US
+- uk
+people:
+- Aatif Sulleyman
+- Aidan Ross
+- Angus Bell
+- Ben Donaldson
+- Billy Pollard
+- Boris Wenger
+- Carter Gordon
+- Charlie Cale
+- Efraín Elías
+- Facundo Cardozo
+- Faustino Sánchez Valarolo
+- Felipe Contepomi
+- Filipo Daugunu
+- Francisco Moreno
+- Franco Molina
+- Fraser McReight
+- Gonzalo Bertranou
+- Guido Petti
+- Harry Wilson
+- Ignacio Mendy
+- Ignacio Ruiz
+- Isaac Henry
+- Jeremy Williams
+- Joaquín Moro
+- Joseph-Aukuso Sua'ali'i
+- Josh Canham
+- Juan Martín Scelzo
+- Kalani Thomas
+- Kiss
+- Len Ikitau
+- Luico Cinti
+- Lukhan Salakaia-Loto
+- Massimo de Lutiis
+- Mateo Soler
+- Max Jorgensen
+- Mayco Vivas
+- Nicolas Roger
+- Nicolás Roger
+- Pablo Matera
+- Pedro Delgado
+- Replacements:** Josh Nasser
+- Replacements:** Leonel Oviedo
+- Rob Valetini
+- Rodrigo Isgró
+- Ryan Lonergan
+- Santiago Carreras
+- Simón Benítez Cruz
+- Taniela Tupou
+- Tom Wright
+- Tomás Lavanini
+organisations:
+- AU
+- Aatif
+- CA
+- Estadio Malvinas Argentinas
+- Future Publishing
+- Gizmodo
+- Les Kiss' Australia
+- Los Pumas
+- NOW Sports
+- Newsweek
+- Premier Sports**
+- RugbyPass TV
+- Sky Sport
+- Sky Sport 2
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Action
+- Springboks
+- Stan Sport
+- SuperSport
+- TechRadar
+- The Independent
+- Trusted Reviews
+- Wallabies
 ---
 
 ![Santiago Carreras being tackled by Rob Valetini during the Argentina vs Australia match on August 29, 2026](https://cdn.mos.cms.futurecdn.net/9xXvfjSuaDXo3d3Hkbg2pT.jpg) 

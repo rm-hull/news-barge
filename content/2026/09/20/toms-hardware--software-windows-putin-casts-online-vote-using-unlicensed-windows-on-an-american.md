@@ -14,6 +14,32 @@ categories:
 - Hardware
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/NjiwF9x9izu42zhHwzNuvX-1920-80.jpg
+locations:
+- Donetsk
+- Kherson
+- Kremlin
+- US
+- United Russia
+- Zaporozhye Regions
+people:
+- Mark Tyson
+- Tom
+- Vladimir Putin
+- Vranyo
+organisations:
+- 9th State Duma
+- Central European
+- Dell
+- Google News
+- Komsomolskaya Pravda
+- Lugansk People’s Republics
+- Microsoft
+- OS
+- PC
+- State Duma
+- TASS
+- Tom's Hardware
+- Visegrad24
 ---
 
 ![Putin votes, slowly](https://cdn.mos.cms.futurecdn.net/NjiwF9x9izu42zhHwzNuvX.jpg)

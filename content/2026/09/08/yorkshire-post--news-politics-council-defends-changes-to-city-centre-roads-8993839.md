@@ -13,6 +13,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Bradford
+- Bramley
+- Briggate
+- Harrogate
+- Ilkley
+- Leeds
+- Skipton
+- Stanningley
+- UK
+people:
+- Coun Cohn
+- Coun Hinchcliffe
+- Raph Cohn
+- Tom Hinchcliffe
+- Tom Hinchcliffe.
+organisations:
+- Airedale
+- Labour
+- Leeds City Council
+- WYCA
+- West Yorkshire Combined Authority
+- Westgate Connector
 ---
 
 # Council defends changes to city centre roads

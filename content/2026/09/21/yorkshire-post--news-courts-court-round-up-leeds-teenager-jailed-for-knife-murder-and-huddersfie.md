@@ -14,6 +14,40 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/14/07/Old-Bailey.jpeg?trim=167,0,169,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Bell Street
+- Chepstow
+- Coxwold
+- Fanny Moor Crescent
+- Gloucestershire
+- Greenwood Street
+- Huddersfield
+- Hustwaite Road
+- Leeds Crown Court
+- London
+- Mitre Street
+- Sedbury
+- Thirsk
+- Tutshill
+- York Magistrates' Court
+people:
+- Aaron Grimshaw
+- Angela Rafferty KC
+- Cameron Boylan
+- Farmanullah Sherzad
+- Kyrell Fleary-Gayle
+- Luke Belbin
+- Max Midgley
+- Stacey Atkinson
+- Sulaiman Tajzai
+organisations:
+- Bradford Crown Court
+- Huddersfield
+- Leeds
+- Metropolitan Police
+- Nissan X Trail
+- Old Bailey
+- Yorkshire
 ---
 
 # Court round-up: Leeds teenager jailed for knife murder and Huddersfield killer sentenced

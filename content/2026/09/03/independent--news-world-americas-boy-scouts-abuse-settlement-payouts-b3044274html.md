@@ -10,6 +10,24 @@ image: https://static.independent.co.uk/2026/09/03/15/06/GettyImages-160661158.j
 categories:
 - News & Politics
 - UK
+locations:
+- Massachusetts
+people:
+- Sackler
+organisations:
+- BSA
+- Boy Scout
+- Boy Scouts
+- Boy Scouts of America
+- Boy Scouts of America’s Settlement Trust
+- OxyContin
+- Purdue Pharma
+- Scouting Fund
+- Scouting Settlement Trust
+- Supreme Court
+- The Independent
+- The Scouting Settlement Trust
+- WCVB
 ---
 
 Survivors of abuse who successfully sued the Boy Scouts and are seeking compensation from a bankruptcy trust have been disappointed with the payouts they've been receiving.

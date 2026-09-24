@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Britain
+- Central Tramway
+- Scarborough
+- South Bay
+- South Cliff
+- The Spa
+- Whitby
+people:
+- Adrian Perry
+- Carl Les
+- Rich Maw
+- Sandra Turner
+- Whitby
+organisations:
+- Central
+- Executive
+- NYC
+- North Yorkshire Council
+- Scarborough Civic Society
+- Spa
+- Whitby
+- Whitby's
 ---
 
 # Britain's oldest funicular cliff lift 'can’t be allowed to go the same way as Whitby'

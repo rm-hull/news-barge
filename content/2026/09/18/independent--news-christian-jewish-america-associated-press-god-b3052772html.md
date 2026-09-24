@@ -13,6 +13,25 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/18/23/Jehovah%27s_Witnesses_Blood_Policy_28579.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- New York State
+- U.S.
+people:
+- Geoffrey W. Jackson
+- God
+- Jehovah
+- Jesus
+- Paul Gillies
+organisations:
+- AP
+- American Red Cross
+- Associated Press
+- Governing Body
+- Governing Body of the organization
+- Jehovah’s Witnesses
+- Lilly Endowment Inc
+- The Conversation US
 ---
 
 The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood, allowing members to receive products derived from blood but maintaining a ban on transfusions of whole blood.

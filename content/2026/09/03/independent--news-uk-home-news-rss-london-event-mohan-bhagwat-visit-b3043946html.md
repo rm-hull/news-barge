@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Britain
+- Canada
+- Gujarat
+- India
+- Kashmir
+- London
+- New York
+- New York City
+- UK
+- US
+people:
+- Adriene Thorne
+- Jeremy Corbyn
+- Mohan Bhagwat
+- Nadia Whittome
+- Narendra Modi
+- Sadiq Khan
+- Zohran Mamdani
+organisations:
+- American Hindus for Engagement and Dialogue
+- BJP
+- British High Commission
+- Foreign Office
+- Greater London Authority
+- Hindus for Human Rights
+- India Labour Solidarity
+- Metropolitan Police
+- RSS
+- Riverside Church
+- South Asia Solidarity Group
+- UK-Indian Muslim Council
+- UN
+- Your Party
 ---
 
 Civil society organisations have urged British officials to boycott events hosted by a right-wing Hindu national group during the visit of its leader Mohan Bhagwat this week.

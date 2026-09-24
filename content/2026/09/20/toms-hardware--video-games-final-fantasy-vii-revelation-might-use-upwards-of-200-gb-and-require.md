@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/pWpLhKW995ZoR8WNWutyJK-1776-80.png
+locations: []
+people:
+- Bruno Ferreira
+- Naoki Hamaguchi
+- Tom
+- Vincent
+organisations:
+- AAA
+- Get Tom's Hardware
+- Google News
+- PC
+- PlayStation 5
+- Sony
+- Tom's Hardware
+- VGC
+- Video Games Chronicle
+- Xbox
 ---
 
 ![Final Fantasy 7 remake](https://cdn.mos.cms.futurecdn.net/pWpLhKW995ZoR8WNWutyJK.png)

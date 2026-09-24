@@ -12,6 +12,20 @@ image: https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF-2000-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- England
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Gizmodo
+- Google News
+- Microsoft
+- OneDrive
+- PC Explorer
+- Reddit
+- The Hardware Handbook
 ---
 
 ![Windows 11 on a laptop](https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF.jpg) 

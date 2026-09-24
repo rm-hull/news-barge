@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Harrogate Valley Gardens
+- Knaresborough Castle
+- North Yorkshire
+people:
+- Jackie Crozier
+- Janine Calvert
+organisations:
+- Beau Pens
+- Harrogate Valley Gardens
+- Knareborough Artisan Market
+- Little Bird Made
 ---
 
 ## Free artisan markets coming to Knaresborough and Harrogate this weekend

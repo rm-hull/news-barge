@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Education & Learning
 - Society & Culture
+locations:
+- BRADFORD
+- Ryan Street
+- West Bowling
+people: []
+organisations:
+- Bradford Council
+- Emergency School Closures
+- Google Maps
+- Newby Primary School
+- Yorkshire Water
 ---
 
 *(Image: Google Maps)*

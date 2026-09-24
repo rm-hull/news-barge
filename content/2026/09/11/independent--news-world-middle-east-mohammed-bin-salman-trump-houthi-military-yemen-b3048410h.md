@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- U.S.
+- Washington
+- White House
+- Yemen
+people:
+- Brad Cooper
+- Donald Trump
+- Mohammed bin Salman
+organisations:
+- Axios
+- Sanaa International Airport
+- U.S. Central Command
 ---
 
 Saudi Crown Prince Mohammed bin Salman made two phone calls to President Donald Trump on Thursday, pressing him to execute military strikes targeting Houthi forces, according to an *Axios* report citing two American officials.

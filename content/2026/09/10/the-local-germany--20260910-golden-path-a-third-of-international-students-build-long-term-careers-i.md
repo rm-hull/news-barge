@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Education & Learning
+locations:
+- Canada
+- Germany
+- GermanyWhy
+people:
+- Axel Plünnecke
+organisations:
+- DAAD
+- EU
+- German Academic Exchange Service
+- German Economic Institute
+- IW
+- OECD
 ---
 
 Germany's universities are doing something many countries struggle to achieve – attracting international talent and convincing a large share of it to stay.

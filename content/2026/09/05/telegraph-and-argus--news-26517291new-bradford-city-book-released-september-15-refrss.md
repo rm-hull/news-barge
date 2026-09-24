@@ -15,6 +15,21 @@ categories:
 - History
 - Arts & Culture
 - Books & Literature
+locations:
+- Bradford City
+- Park Avenue
+people:
+- George Chilvers
+- John Dewhirst
+organisations:
+- Amberley Publishing
+- Avenue
+- Bantams
+- Bradford
+- Manningham FC
+- Premier League
+- The City Gent fanzine
+- Wool City Rivals
 ---
 
 *(Image: Sent by Amberley Publishing)*

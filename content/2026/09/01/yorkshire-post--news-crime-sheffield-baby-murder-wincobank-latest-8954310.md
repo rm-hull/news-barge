@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Holywell Heights
+- Sheffield
+- South Yorkshire
+- Wincobank
+people:
+- Tom Woodward
+organisations: []
 ---
 
 # Newborn girl found in Sheffield house died from stab wounds, police say

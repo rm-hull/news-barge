@@ -14,6 +14,20 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/13/57/No-body-found-in-renewed-search-for-Teresa-Shephards-body.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Aston
+- Doncaster Road
+- Piper Lane
+- Rotherham
+- Worksop
+people:
+- Dave Stopford
+- Peter Turner
+- Teresa Shephard
+organisations:
+- MIRT
+- Major Incident Review Team
+- South Yorkshire Police
 ---
 
 # Search for murdered woman who disappeared 31 years ago ends with no remains found

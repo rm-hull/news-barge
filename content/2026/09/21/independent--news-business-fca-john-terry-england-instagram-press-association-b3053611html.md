@@ -14,6 +14,22 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://static.independent.co.uk/2023/02/14/09/14091127-27e17282-eded-4318-afb5-68bb4bba645f.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+people:
+- Conor Benn
+- Hunter Jones
+- John Terry
+- Reece Mennie
+organisations:
+- AvillConsumers
+- Equity for Growth
+- FCA
+- Financial Conduct Authority
+- Hunter Jones
+- Hunter Jones Group
+- Instagram
+- Osborne Baldwin Limited
 ---
 
 The financial watchdog is taking property investment firm Hunter Jones to the high court over alleged unauthorised activity.

@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Barnard Castle
+- Bishop Auckland
+- County Durham
+- Crook
+people:
+- Covid
+- Crook
+- Dorothy Winter
+- Jonathan Wallis
+- Robbie Rodiss
+- Sam Rushworth
+organisations:
+- Bishop Auckland
+- CCL
+- Crook Community Leisure
+- Crook Community Leisure Centre
+- Crook Leisure Centre
+- DURHAM COUNTY COUNCIL
+- National Living Wage and National Insurance
 ---
 
 Campaigners are calling for a County Durham leisure centre to be saved after the charity running it said it could no longer afford to keep it open.

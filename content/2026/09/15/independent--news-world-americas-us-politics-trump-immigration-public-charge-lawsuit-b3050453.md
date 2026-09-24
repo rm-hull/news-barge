@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- California
+- Chicago
+- Illinois
+- Manhattan
+- New York City
+- San Francisco
+- Seattle
+- U.S.
+people:
+- Donald Trump
+- Joe Biden
+- Letitia James
+- Zohran Mamdani
+organisations:
+- Congress
+- DHS
+- Democratic New York
+- Department of Homeland Security
+- District of Columbia
 ---
 
 President Donald Trump's administration faces legal action from a coalition of Democratic-led U.S. states, counties, and municipalities seeking to halt a newly introduced immigration measure. The rule, scheduled to take effect on Friday, allows federal authorities to reject green card applications from individuals who access public assistance programs, including Medicaid and food stamps.

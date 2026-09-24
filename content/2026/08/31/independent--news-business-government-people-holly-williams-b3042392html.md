@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- UK
+people:
+- Jackson Szabo
+- Jeff Banks
+organisations:
+- Government
+- Spring & Autumn Fair
+- The Clothes Show
+- Warehouse
 ---
 
 Shoppers are being urged to back a campaign calling on the Government to roll out 90 minutes of free parking across town and city centres to help boost Britain’s under-pressure high streets.

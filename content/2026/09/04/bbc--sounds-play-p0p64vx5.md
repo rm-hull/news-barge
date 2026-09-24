@@ -10,6 +10,29 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- UK
+people:
+- Adam Fleming
+- Beth Pritchard
+- Chris Gray
+- Dan Jukes
+- Jack Maclaren
+- James Orr
+- Joe Wilkinson
+- Mike Regaard
+- Miranda Slade
+- Nigel Farage
+- Nik Sindle
+- Sam Bonham
+organisations:
+- BBC Sounds
+- Channel 4 News
+- News and Current Affairs
+- Newscast
+- Reform UK
+- Verbatim Investigations
+- WhatsApp
 ---
 
 ## Episode details

@@ -12,6 +12,20 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Arizona
+- Coconino
+- Crystal Rapids
+- Grand Canyon
+- Texas
+- Wyoming
+people:
+- Carrie Smith
+- Tim
+- Timothy Smith
+organisations:
+- Associated Press
+- National Park Service
 ---
 
 Human remains have been discovered near Arizona’s Crystal Rapids, over two weeks after a flash flood tore through the Grand Canyon, leaving two people dead and one person missing.

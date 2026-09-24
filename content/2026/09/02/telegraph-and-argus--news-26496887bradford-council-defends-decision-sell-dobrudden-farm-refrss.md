@@ -12,6 +12,24 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Baildon
+- Dobrudden Farm Caravan Park
+people:
+- David Ford
+- Debbie Davies
+- Lawrence
+- Mike Simmonds
+- Ward
+organisations:
+- '### Bradford Conservatives'
+- '### Bradford Council'
+- Baildon
+- Bradford Conservatives
+- Bradford Council
+- Corporate Overview and Scrutiny Committee
+- Council Officers
+- Telegraph & Argus
 ---
 
 *(Image: Mike Simmonds)*

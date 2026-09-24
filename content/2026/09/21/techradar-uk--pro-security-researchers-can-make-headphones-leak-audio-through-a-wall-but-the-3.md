@@ -11,6 +11,24 @@ description: Encryption can't stop InjectEave because the audio leaks after it's
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/9ui8vuAvNqX2Bubaxvks8J-1920-80.jpg
+locations:
+- Baltimore
+- Guangzhou
+- Moscow
+- US
+people:
+- Rahim Amir
+organisations:
+- Google News
+- HK PolyU
+- Hong Kong Polytechnic University
+- Hong Kong University of Science and Technology
+- InjectEave
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![Headphones](https://cdn.mos.cms.futurecdn.net/9ui8vuAvNqX2Bubaxvks8J.jpg)

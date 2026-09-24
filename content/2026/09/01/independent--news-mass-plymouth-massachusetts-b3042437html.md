@@ -12,6 +12,12 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- U.S.
+people:
+- Clancy
+organisations: []
 ---
 
 Jurors in the Lindsay Clancy murder trial are set to enter their fourth day of deliberations Tuesday over whether to hold her criminally responsible for killing her three young children at her Massachusetts home in 2023.

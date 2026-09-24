@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Opus Avenue
+- York Business Park
+people:
+- Niall McSharry
+organisations:
+- Financial Conduct Authority
+- PenLife Associates
 ---
 
 *(Image: PenLife Associates)*

@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Amsterdam
+- Deichman Bjørvika
+- Future Library
+- Netherlands.
+- Nordmarka
+- Oslo
+- Stockholm
+people:
+- Amitav Ghosh
+- David Mitchell
+- Elif Shafak
+- Han Kang
+- Judith Schalansky
+- Karl Ove Knausgård
+- Katie Paterson
+- Laurie Anderson
+- Margaret Atwood
+- Ocean Vuong
+- Sjón
+- Tommy Orange
+- Tsitsi Dangarembga
+- Valeria Luiselli
+organisations:
+- City of Oslo
+- Future Library
+- Future Library Trust
+- Hirshhorn Museum in Washington DC
+- Moderna Museet
 ---
 
 The next manuscript by the American artist Laurie Anderson will remain unseen for 88 years, as she becomes the 13th figure to contribute to the Future Library project.

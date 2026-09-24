@@ -14,6 +14,32 @@ categories:
 - UK
 - Society & Culture
 - Law & Justice
+locations:
+- Madison
+- Miami
+- U.S.
+- United States
+- Wisconsin
+people:
+- Chelsea Cox
+- Christian Erazo Valdez
+- Darline Graham
+- David Leibowitz
+- Donald Trump
+- George W. Bush
+- Jacqueline Becerra
+- Paul Clement
+- Ralph Norman
+- Wilner Renaud
+organisations:
+- Congress
+- DOJ
+- Justice Department
+- R-SC
+- Reuters
+- Supreme Court
+- U.S. District Court
+- Voting by Aliens
 ---
 
 As President Donald Trump seeks to intensify his crackdown on what he characterizes as widespread illegal voting by noncitizens, several individuals charged with that crime are attempting a novel legal strategy to get their federal cases dropped entirely.

@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- D.C
+- U.S.
+- Washington, D.C.
+people:
+- Davey Hearn
+- David Hearn
+- Donald Trump
+- Jamie Raskin
+- Jeanine Pirro
+- Norm Eisen
+- TRUMP
+- Todd Edelman
+- Ugh
+organisations:
+- Department of Interior
+- Department of Justice
+- Lincoln Memorial Reflecting Pool
+- Superior Court
+- Trump
+- Truth Social
 ---
 
 Donald Trump’s top prosecutor in Washington, D.C. unloaded on a reporter who pressed her about the president’s demands to prosecute a former Olympian accused of vandalizing the Lincoln Memorial Reflecting Pool.

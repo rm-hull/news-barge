@@ -12,6 +12,21 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- Market Square
+- Ripon
+- Saint Wilfrid
+- Workhouse Museum
+people:
+- Antony Prince
+- Katie Scott
+- Lilla Bathurst
+- Ripon
+organisations:
+- Ripon BID
+- Ripon City Council
+- St Wilfrid’s Procession
+- Yorkshire Day
 ---
 
 ![](https://mmo.aiircdn.com/409/6a915cb39bef2a33a66.jpg) 

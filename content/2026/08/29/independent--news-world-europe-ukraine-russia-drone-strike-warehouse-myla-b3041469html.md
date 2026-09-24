@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Bucha
+- Flamingo
+- Izmail
+- Kherson
+- Kyiv
+- Kyiv-area
+- Moscow
+- Mykolaiv
+- Myla
+- Rostov
+- Russia
+- Ukraine
+- Vyshneve
+people:
+- Kyiv
+- Oleksandr Prokudin
+- Pavlo Palisa
+- Serhii Koretskyi
+- Tymur Tkachenko
+- Volodymyr Zelensky
+- Yuri Slyusar
+organisations:
+- Kyiv
+- Ukroboronprom
 ---
 
 At least 37 people have been killed following a Russian strike close to the Ukrainian capital of Kyiv in one of the deadliest attacks to hit Ukraine this year, officials have said.

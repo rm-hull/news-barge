@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/eed402966507f255ca55fad2b5ab89399373c757/543_0_3650_2920/master/3650.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f6998d7ae4b51b748360d89c357e836
+locations:
+- Alaska
+- California
+- Dallas
+- Los Angeles
+- Texas
+- US
+people:
+- Ken Paxton
+- McKenna West
+- Nausheen Gilkar
+- Omar Ahmed
+- Rumi
+organisations: []
 ---
 
 The Texas supreme court has decided that the month-old infant that surrogate McKenna West gave birth to can be relocated to Los Angeles, a Thursday ruling that came weeks after a California court had recognized the biological parents’ custody rights.

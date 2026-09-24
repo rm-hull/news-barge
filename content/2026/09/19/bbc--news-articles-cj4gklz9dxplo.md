@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg
+locations:
+- US
+- White House
+people:
+- Akayla Gardner
+- Bernd Debusmann Jr
+- Betsy Klein
+- Bruce Brown
+- Cheyenne Haslett
+- Donald Trump
+- Jonathan Greenberger
+- Max Matza
+organisations:
+- BBC
+- CNN
+- MS NOW
+- New York Times
+- Playbook
+- Politico
+- Reporters Committee for Freedom of the Press
+- Secret Service
+- The New York Times
+- The Wall Street Journal
+- Trump
+- US Constitution
+- Washington Post
 ---
 
 Watch: Trump says ban on some news outlets from White House is "because they're fake news"

@@ -12,6 +12,17 @@ categories:
 - York
 - Arts & Culture
 - Travel
+locations:
+- York
+people:
+- James Cameron’s *Aliens
+- Josh Lawson
+organisations:
+- Behaviour Interactive
+- City Screen
+- City Screen Picturehouse
+- Daylight
+- Dead Northern
 ---
 
 A York venue will be transformed into a ‘sinister’ immersive experience – as part of annual horror film festival.

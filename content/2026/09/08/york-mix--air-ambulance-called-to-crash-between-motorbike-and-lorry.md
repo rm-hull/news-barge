@@ -13,6 +13,17 @@ categories:
 - Automotive
 - Travel
 - Technology & Software
+locations:
+- Holme Road
+- Holme-on-Spalding Moor
+- Selby
+- Spaldington
+people:
+- '#### Spaldington'
+organisations:
+- HGV
+- Humberside Fire & Rescue Service
+- Yorkshire Air Ambulance
 ---
 
 The Yorkshire Air Ambulance was called to a serious collision in a village near Selby yesterday (Monday).

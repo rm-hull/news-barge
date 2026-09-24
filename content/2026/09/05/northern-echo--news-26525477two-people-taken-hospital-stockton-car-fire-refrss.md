@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- Newton Aycliffe
+- North Tees
+- Ragpath Lane
+- Stockton
+people: []
+organisations:
+- NEAS
+- North East Ambulance Service
+- University Hospital
 ---
 
 *(Image: NEAS)*

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Guiseley
+- Scotland
+- West Yorkshire
+- Wrose Road
+people:
+- Richard Thompson
+organisations:
+- Asda
+- Bradford Magistrates' Court
+- Co-op Food
 ---
 
 *(Image: Police Scotland)*

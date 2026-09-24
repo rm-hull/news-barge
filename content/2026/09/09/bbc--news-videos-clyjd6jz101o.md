@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Akershus Fortress
+- Norway
+- Oslo
+- Palace Chapel
+- Royal Palace
+people:
+- Haakon VIII
+- Harald Tributes
+- Harald V
+organisations:
+- Oslo Cathedral
+- Prince of Wales
 ---
 
 # Watch: Norway bids farewell to King Harald

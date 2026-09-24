@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Real Estate
+locations:
+- Charles Avenue
+- Greene King
+- North East
+- North Tyneside
+- Rightmove
+- UK
+- Whitley Bay
+people:
+- TikToker
+organisations:
+- Asda
+- TikToker Housing Horrors
 ---
 
 This is the unusual moment a man appeared to be caught snoozing in bed during a property photoshoot for a house in North Tyneside.

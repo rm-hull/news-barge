@@ -13,6 +13,47 @@ categories:
 - Sports
 - Video Gaming
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7d6a/live/78a0d860-b50f-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Europe
+- Glasgow
+- Ibrox
+- Jablonec
+people:
+- '## McInnes'
+- '## O''Neill'
+- Callum McGregor
+- Camilo Duran
+- Daizen Maeda
+- Dan Neil
+- Derek McInnes'
+- Graeme Souness
+- Halliday
+- James Forrest
+- James Penrice
+- Jota
+- Kasper Hogh
+- Kevin Kelsy
+- Liel Abada
+- Luke McCowan
+- Martin O'Neill
+- Nico Raskin
+- Nicolas Kuhn
+- O'Neill's
+- Olwethu Makhanya
+- Ryan Naderi
+- Sam Johnstone
+- Scott Brown
+- Sebastian Tounekti
+- Steven Gerrard
+- Yang Hyun-jun
+organisations:
+- Bodo-Glimt
+- Celtic Park
+- Europa League
+- Ferencvaros
+- Ibrox
+- LASK
+- Rangers
 ---
 
 ![Ryan Naderi scores for Rangers](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7d6a/live/78a0d860-b50f-11f1-b1d1-571ed4d7ff2c.jpg)

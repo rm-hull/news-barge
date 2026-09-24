@@ -14,6 +14,19 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Houston
+- UK
+people:
+- Maria Maiaru
+- Moran Amit
+- Patrick Dougherty
+organisations:
+- CIPN
+- Psilocybin
+- US Food and Drug Administration
+- University of Reading
+- University of Texas MD Anderson Cancer Center
 ---
 
 ![Digital artwork featuring magic mushrooms, which contain the psychedelic compound psilocybin](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310395142.jpg?w=840)

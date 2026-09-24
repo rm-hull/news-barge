@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- AI
+- UK
+- US
+people:
+- '![Burnham'
+- AI
+- Andy Burnham
+- Antonio Guterres
+- Darren Jones
+- Ed Davey
+- Evan Hubinger
+- Jacob Coxon
+- Mathias Cormann
+- ’s Questions
+organisations:
+- AI Safety Institute
+- AI Security Institute
+- Anthropic
+- Cabinet Office
+- Commons
+- Financial Times
+- House
+- OECD
+- OpenAI
+- UN
 ---
 
 Andy Burnham has recognised "risks to national security" posed by artificial intelligence, as a prominent safety researcher at Anthropic suggested the technology could destroy humanity over the coming decade.

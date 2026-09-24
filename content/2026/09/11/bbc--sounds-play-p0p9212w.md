@@ -10,6 +10,30 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- Dallas
+- Iran
+people:
+- Alix Pickles
+- Charlie Kirk
+- George Dabby
+- Jonny Hall
+- Justin Webb
+- Nik Sindle
+- Purvee Pattni
+- Sam Bonham
+- Sarah Smith
+- Trump
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC North America
+- BBC Sounds
+- Congress
+- JD Vance
+- Newscast
+- US Election Unspun
 ---
 
 ## Episode details

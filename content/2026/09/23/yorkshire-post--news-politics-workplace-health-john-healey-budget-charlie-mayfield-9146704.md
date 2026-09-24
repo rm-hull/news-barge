@@ -14,6 +14,30 @@ categories:
 - York
 - Careers & Productivity
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/09/v2-image-production-f4fd7547b86bd866d83f81179820d428Y29udGVudHNlYXJjaGFwaSwxNzYyMzQ3NjA4-2.24349326.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Middle East
+- South Yorkshire
+- UK
+- Wetherby
+people:
+- Charlie Mayfield
+- John Healey
+- John Lewis
+- Jonathan Brady
+- Oliver Coppard
+- Rachel Reeves
+- ex-John Lewis
+organisations:
+- Arville Textiles Ltd
+- Budget
+- Charlie’s
+- Government’s Keep Britain Working
+- Hull City Council
+- Hull Resilience Hub
+- Latus
+- NHS
+- South Yorkshire Mayoral Combined Authority
+- The Yorkshire Post
 ---
 
 # Exclusive:Improving workplace health could give John Healey Budget boost, ex-John Lewis boss says

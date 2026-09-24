@@ -13,6 +13,11 @@ categories:
 - Harrogate
 - True Crime
 - News & Politics
+locations:
+- Harrogate District Hospital
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6618fdf7b4b99.jpg) 

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford
+- Ilkley Moor
+- Ilkley Road
+- Keighley Gate
+- UGC
+- Whetstone Gate
+people: []
+organisations:
+- Bradford Council
+- Our Environmental Enforcement Team
 ---
 
 *(Image: UGC)*

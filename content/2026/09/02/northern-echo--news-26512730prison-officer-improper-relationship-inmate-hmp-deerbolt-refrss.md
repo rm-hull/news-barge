@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- Barnard Castle
+- Catterick Garrison
+- Colburn
+- County Durham
+- HMP Deerbolt
+- North Yorkshire
+people:
+- Amanda Rippon
+- Lindsay Elizabeth Wilson
+- Mairi Clancy
+- Miss Clancy
+organisations:
+- Durham Crown Court
+- Northern Echo
+- Probation Service
 ---
 
 *(Image: The Northern Echo)*

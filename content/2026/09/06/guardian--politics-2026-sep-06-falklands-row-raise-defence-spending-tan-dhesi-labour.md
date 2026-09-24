@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Argentina
+- Britain
+- Downing Street
+- Falkland Islands
+- Falklands
+- Germany
+- Hormuz
+- Iran
+- Leipzig
+- Russia
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+- John Healey
+- Keir Starmer
+- Tan Dhesi
+organisations:
+- GB News
+- Guardian
+- Labour
+- Nato
 ---
 
 Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee.

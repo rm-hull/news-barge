@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations: []
+people:
+- Bacon Coleslaw
+organisations:
+- Bacon Coleslaw
+- FSA
+- Food Standards Agency
+- Tesco Finest Caesar
 ---
 
 *(Image: Getty Images)*

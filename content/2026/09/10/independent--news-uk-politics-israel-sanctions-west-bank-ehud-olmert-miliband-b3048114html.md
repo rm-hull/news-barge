@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- E1
+- East Jerusalem
+- James Manning
+- State of Israel
+- UK
+- West Bank
+people:
+- Andy Burnham
+- Dan Halutz
+- Ed Miliband
+- Ehud Olmert
+- Isaac Herzog
+- ’s Questions
+organisations:
+- Commons
+- International Court of Justice
+- Labour
 ---
 
 Former Israeli prime minister Ehud Olmert and ex-IDF chief of staff Dan Halutz have backed the UK government’s decision to ban imports from Israeli settlements in the West Bank.

@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations: []
+people:
+- Briton Benn
+- Chris Eubank Jr
+- Conor Benn
+- Devin Haney
+- Mario Barrios
+- Nigel Benn
+- Regis Prograis
+- Ryan Garcia
+organisations:
+- BBC Sport
+- UFC Apex
+- WBC
 ---
 
 Garcia is a 'one-dimensional fighter' - Nigel Benn

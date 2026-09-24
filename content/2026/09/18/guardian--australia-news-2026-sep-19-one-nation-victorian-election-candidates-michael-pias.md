@@ -12,6 +12,43 @@ image: https://i.guim.co.uk/img/media/d53269543ae39201bc0084b74846c8019a492c8e/0
 categories:
 - UK
 - News & Politics
+locations:
+- Albert Park
+- Australia
+- Baw Baw
+- Berwick
+- Bundoora
+- Narracan
+people:
+- Anthony Younan
+- Bacon
+- Ben Lucas
+- Brad Battin
+- Bruce Whalley
+- Daniel Andrews
+- Donald Trump
+- Elita Dabrowski
+- Kelvin Morton
+- Malaki Salesui
+- Michael Piastrino
+- Mick Mantzaris
+- Nabil Maghnie
+- Pauline Hanson
+- Tammy Lindrum
+- Warren Pickering
+- Whitman
+organisations:
+- Cranbourne Star News
+- Facebook
+- First Nations
+- First Peoples’ Assembly of Victoria
+- Guardian Australia
+- Instagram
+- Labor
+- Liberal
+- Malaki Salesui
+- One Nation
+- Piastrino
 ---
 
 Candidates contesting the Victorian state election for One Nation include a former Liberal who has won support from alleged underworld figures, a naturopath who has endorsed Donald Trump’s unfounded claim that paracetamol is linked to autism and a former shire councillor who lost his licence for drink-driving.

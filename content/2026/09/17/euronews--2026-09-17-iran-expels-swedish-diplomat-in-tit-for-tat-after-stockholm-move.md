@@ -13,6 +13,22 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Canada
+- Iran
+- Stockholm Airport
+- Sweden
+- Tehran
+- US
+- Western Europe
+people:
+- Alireza Yousofi
+- Hamid Nouri
+- Johan Floderus
+- Saeed Azizi
+organisations:
+- Vienna Convention
+- Vienna Convention on Diplomatic Relations
 ---
 
 ## Tehran summoned Sweden's ambassador and ordered one of its diplomats to leave within 48 hours after Stockholm expelled an Iranian embassy official for activities "incompatible with the Vienna Convention."

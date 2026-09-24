@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Billingham
+- CLEVELAND
+- Cleveland
+- Cornwall Street
+- England
+- Hartlepool
+- Wales
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- Northern Echo
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- A1237 Outer Ring Road
+- Fountayne Street
+- Haxby Road
+- New Earswick
+- Walpole Street
+- York
+- Yorkshire Water
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- The Press
+- Yorkshire Water
 ---
 
 PART of a key residential road in York is blocked this morning as works to fix a burst water main continue.

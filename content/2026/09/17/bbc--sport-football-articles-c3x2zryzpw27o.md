@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Barcelona
+- Brighton
+- England
+- Europe
+- Old Trafford
+- Real Madrid Castilla
+- Stockholm
+people:
+- Alvaro Arbeloa
+- Castilla
+- Chelsea
+- JJ Gabriel
+- JJ Gabriel.
+- JJ Gabriel?
+- Max Dowman
+- Michael Carrick
+- Thiago Pitarch
+- Xabi Alonso
+organisations:
+- Arsenal
+- Atletico Madrid
+- Bayern Munich
+- Brighton
+- EU
+- European Union
+- Fulham
+- JJ Gabriel
+- Manchester United
+- Paris St-Germain
+- Real Madrid
+- Southampton
+- Unitedacademy
 ---
 
 ![Manchester United forward JJ Gabriel](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8d9e/live/4aa28b40-b26a-11f1-b1d1-571ed4d7ff2c.jpg)

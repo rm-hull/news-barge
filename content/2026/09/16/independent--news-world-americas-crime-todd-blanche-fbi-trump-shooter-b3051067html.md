@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Amazon
+- Butler
+- Pennsylvania
+- White House
+people:
+- Bob Dole
+- Christopher Wray
+- Donald Trump
+- Elizabeth Dole
+- Thomas Matthew Crooks
+- Todd Blanche
+organisations:
+- Bethel Park School District
+- FBI
+- Justice Department
+- Secret Service
+- Trump
 ---
 
 Attorney General Todd Blanche said Tuesday that the FBI has uncovered new information about the gunman who tried to assassinate Donald Trump at a 2024 campaign rally in Butler, Pennsylvania.

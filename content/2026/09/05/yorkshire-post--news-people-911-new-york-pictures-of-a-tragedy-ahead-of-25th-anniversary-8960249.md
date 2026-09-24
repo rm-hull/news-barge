@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Ground Zero
+- New York
+- New Yorks
+- Washington
+people:
+- Andrew Vine
+- BRUCE ROLLINSON
+- Bruce Rollinson
+- George Bush
+- John Woodcock
+- Jon Bon Jovi
+organisations:
+- Battallion
+- Ladder Co
+- The Yorkshire Post
+- WTC
+- World Trade Centre
+- World Trade Centre The Star Spangle
 ---
 
 Along with photographer Bruce Rollinson and feature writer John Woodcock, Andrew Vine was dispatched to New York by The Yorkshire Post to cover the aftermath of the worst terrorist attack in history.

@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- BBMF Dakota
+- Belgium
+- Guernsey
+- PA
+- Sanicole
+- Tyne Bridge
+- Waddington
+people: []
+organisations:
+- Guernsey Air Display
+- Ministry of Defence
+- Northern Echo
+- RAF Events Team
+- Red Arrows
+- Red Arrows'
+- The Guernsey Press
 ---
 
 *(Image: PA)*

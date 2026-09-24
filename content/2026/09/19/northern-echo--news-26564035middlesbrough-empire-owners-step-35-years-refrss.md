@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/16449466.jpg?type=og-image
+locations:
+- Auckland
+- Middlesbrough Empire
+- Teesside
+people:
+- Barry Faulkner Jnr
+- Barry Faulkner Snr
+- Charlie Chaplin
+- Hardy
+- Harry Houdini
+- Laurel
+- Paul Robinson
+organisations:
+- Courteeners
+- Faulkner's
+- Laurel & Hardy
+- Middlesbrough Empire
+- Sugar Shack
+- The Middlesbrough Empire
 ---
 
 The family behind of Teesside's most famous nightlife venues have announced they are stepping away after 35 years with the business.

@@ -13,6 +13,29 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21490214.jpg?type=og-image
+locations:
+- Coach Road
+- Esk Valley
+- North York Moors National Park
+- North Yorkshire
+- Plough Inn
+- Sam Smiths Brewery
+- Sleights
+- Whitby
+people:
+- David
+- Katie Cattley
+- Marslie McGregor
+organisations:
+- Christie & Co
+- Google
+- Kirk Deighton
+- Plough Inn
+- Press
+- Sleights
+- The Plough
+- The Plough Inn
+- Tripadvisor
 ---
 
 ## New owners plan refurb of popular North Yorkshire pub, which will reopen in 2027

@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+people:
+- Imran Hussain
+organisations:
+- Bradford East
+- Government
+- Newsquest
+- Weaver Network
 ---
 
 **This column is written by Bradford East MP Imran Hussain**

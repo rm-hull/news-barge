@@ -12,6 +12,28 @@ image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,
 categories:
 - News & Politics
 - UK
+locations:
+- Connecticut
+- North Carolina
+- States
+people:
+- David Kligerman
+- Donald Trump
+- Indira Talwani
+- John Thune
+- Libby Liu
+- Richard Blumenthal
+organisations:
+- Congress
+- Constitution
+- Department of Justice
+- Postal Service
+- Senate
+- Supreme Court
+- Trump
+- U.S. Postal Service
+- USPS
+- WhistleblowerAid.org
 ---
 
 An anonymous federal official has warned members of Congress that Donald Trump’s “secretive, rushed” and “chaotic” plans for the U.S. Postal Service to implement new rules for mail-in ballots could disenfranchise millions of voters this fall.

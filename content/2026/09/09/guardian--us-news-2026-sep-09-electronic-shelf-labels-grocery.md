@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Connecticut
+- Maryland
+- New Jersey
+- US
+people:
+- Ademola Oyefeso
+- Lauren McFerran
+- Sunny Glottmann
+organisations:
+- AFL-CIO Tech Institute
+- Consumer Reports
+- ESLs
+- Groundwork Collaborative
+- Instacart
+- National Labor Relations Board
+- UFCW International
+- United Food and Commercial Workers
 ---
 
 The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.

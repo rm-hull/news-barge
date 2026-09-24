@@ -14,6 +14,36 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford
+- Britain
+- Brontë Parsonage Museum
+- Charlotte
+- Chicago
+- Haworth
+- Kingston
+- London
+- New York City
+- Thames
+- Yorkshire
+people:
+- Anne Brontë
+- Bonnie Greer
+- David Hutchins
+- Ella Fitzgerald
+- Emily
+- Marilyn Monroe
+- Obama
+organisations:
+- British Museum
+- Brontë Society
+- Kingston University
+- London Film School
+- Newsnight Review
+- OBE
+- Question Time
+- Royal Opera House
+- Royal Society of Literature
 ---
 
 *(Image: PA)*

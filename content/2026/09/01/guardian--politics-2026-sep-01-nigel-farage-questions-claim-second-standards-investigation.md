@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Clacton
+- Lancaster
+- Westminster
+people:
+- Alex Burghart
+- Christopher Harborne
+- George Cottrell
+- Nigel Farage
+- Richard Tice
+organisations:
+- Brexit
+- Clacton
+- GB News
+- Guardian
+- House of Commons.
+- MPs’
+- Reform UK
+- Sunday Times
+- The Times
 ---
 
 Nigel Farage is facing questions about why he claimed his finances were the subject of a second standards investigation, as he was sworn in again as Clacton’s MP.

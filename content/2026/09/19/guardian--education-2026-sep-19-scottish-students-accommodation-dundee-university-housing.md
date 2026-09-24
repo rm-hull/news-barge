@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/b8ac675af682fdcb8bad0fa5747fe673270810db/0_0_3264_2611/master/3264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53b1762d1b7f0b945d43c99c352c088c
+locations:
+- Abertay
+- Alma Place
+- Belfast
+- Birmingham
+- Bristol
+- Coventry
+- Dundee
+- Glasgow
+- Iran
+- Leeds
+- London
+- Margetgait
+- Nottingham
+- Scotland
+- UK
+people:
+- James Elliot
+organisations:
+- 90 North
+- ATK Property
+- Amare Students
+- Dundee
+- FRP Advisory
+- Facebook
+- Living Rent
+- Marketgait Apartments
+- Prestige Student Living
+- Rasameel
+- Unite Group
 ---
 
 Nearly 70 students in Dundee have been left scrambling to find accommodation for this academic year after the latest in a string of university housing schemes went bust amid severe financial strain on the sector.

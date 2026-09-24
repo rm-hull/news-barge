@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Dales
+- Emmerdale
+people:
+- '## Olivia Bromley'
+- Dawn Fletcher
+- Emmerdale
+- Jimmy King
+- Nick Miles
+- Olivia Bromley
+organisations:
+- An Emmerdale
+- ITV
 ---
 
 *(Image: YouTube/ITV)*

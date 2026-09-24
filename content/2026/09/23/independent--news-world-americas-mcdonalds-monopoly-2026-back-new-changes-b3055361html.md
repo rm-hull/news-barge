@@ -13,6 +13,14 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/21/12/mcdonalds-monopoly-main.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Carnival
+people:
+- Jerome Jacobson
+organisations:
+- FBI
+- McD's
+- McDonald's Monopoly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

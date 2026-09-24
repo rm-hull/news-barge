@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- England
+- UK
+- Wales
+people:
+- David Levy
+- Joe Giddens
+- Max
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- Government
+- Labour
+- Midlands Partnership University
+- PIP
+- State Pension
+- Timms
 ---
 
 *(Image: Joe Giddens)*

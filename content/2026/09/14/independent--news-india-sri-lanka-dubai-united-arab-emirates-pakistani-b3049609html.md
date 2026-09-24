@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- India
+- Pakistan
+- Sri Lanka
+people:
+- Amol Muzumdar
+- Chamari Athapaththu
+- Devajit Saikia
+- Harmanpreet Kaur
+- Mohsin Naqvi
+- Nandani Sharma
+- Shafali Verma
+- Shree Charani
+- Smriti Mandhana
+- Suryakumar Yadav
+- Vishmi Gunaratne
+organisations:
+- ACC
+- Asian Cricket Council
+- BCCI
+- Board of Control for Cricket in India
+- Pakistan Cricket Board
 ---
 
 Political tensions between India and Pakistan spilled onto the cricket field again Sunday when India’s women refused to accept the Asia Cup cricket trophy from Asian Cricket Council chairman Mohsin Naqvi.

@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Boston
+- Massachusetts Sen
+- U.S.
+- Washington
+people:
+- Bernie Sanders
+- Donald Trump
+- Ed Markey
+- Greg Casar
+- Jacob Coxon
+- Liz Shuler
+- Steve Bannon
+- Walter Kim
+organisations:
+- AFL-CIO
+- Anthropic
+- House
+- National Association of Evangelicals
+- Trump
 ---
 
 Progressive Senator Bernie Sanders and conservative podcaster Steve Bannon are uniting on Tuesday to demand stringent regulations on artificial intelligence, forming an unexpected partnership rooted in shared concerns that the emerging technology poses serious risks to human welfare.

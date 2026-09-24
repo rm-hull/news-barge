@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- UK
+people:
+- Aldi Harvest
+- Hash Browns
+- Morrisons Hash Browns
+organisations:
+- American TV
+- Hash Browns
+- Iceland Hash Browns
+- Iceland Tesco
+- Lidl Asda Hash Browns Sainsbury
+- Newsquest
+- USA Morrisons Hash Browns Hash Browns
 ---
 
 ## I tried eight supermarket hash browns -one remined me of my childhood

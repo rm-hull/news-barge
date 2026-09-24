@@ -12,6 +12,15 @@ categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+locations:
+- England
+- North Yorkshire
+people:
+- Simon Myers
+organisations:
+- Government
+- North Yorkshire Council
+- North Yorkshire eDemocracy Portal
 ---
 
 **North Yorkshire Council has unveiled plans to invest £18 million** into expanding its temporary accommodation delivery scheme by almost 25 per cent. The revised strategy increases the number of proposed safe housing units from 90 properties to 112 homes countywide, targeting a critical shortage of single-occupancy spaces and smaller properties for couples and single people experiencing homelessness.

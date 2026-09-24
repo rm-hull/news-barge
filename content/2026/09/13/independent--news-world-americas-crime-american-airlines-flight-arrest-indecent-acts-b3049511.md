@@ -12,6 +12,20 @@ categories:
 - UK
 - Arts & Culture
 - Film & TV
+locations:
+- Baltimore
+- Miami
+- Nevada
+- New Jersey
+- Reno
+people: []
+organisations:
+- ABC 7
+- Aircraft Communications Addressing and Reporting System
+- American Airlines
+- Fox News
+- IOC
+- Washington International Thurgood Marshall Airport
 ---
 
 A woman was taken into custody by law enforcement in Miami after she allegedly undressed on her flight and began acting indecently.

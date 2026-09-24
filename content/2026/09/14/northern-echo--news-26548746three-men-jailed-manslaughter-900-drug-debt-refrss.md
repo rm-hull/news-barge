@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- CLEVELAND
+- Centenary Crescent
+- North East town Cashman
+- North Tees
+- Norton
+- Thornaby
+- University Hospital
+- Vale Drive
+people:
+- Aiden Matthews
+- Declan Moor
+- Declan Moor Cashman
+- Francis Laird KC
+- Jamie Hill KC
+- Lee Bradshaw
+- Lee Bradshaw Toby Hedworth KC
+- Matthews’
+- Max Cashman
+- Peter Makepeace KC
+- Richard Wright KC
+organisations:
+- CCTV
+- Max Cashman Mobile
+- Moor
+- Teesside Crown Court
 ---
 
 Three men who lured a man into an alleyway on New Year’s Eve and assaulted him over a £900 drug debt have been jailed.

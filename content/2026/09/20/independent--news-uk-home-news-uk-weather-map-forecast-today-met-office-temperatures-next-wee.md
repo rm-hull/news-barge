@@ -12,6 +12,18 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/20/13/06/Screenshot-2026-09-20-at-14-15-11.png?trim=163,0,29,0&width=1200&height=800&crop=1200:800
+locations:
+- Atlantic
+- East
+- England
+- London
+- North Africa
+- Northern Ireland
+- Scotland
+- UK
+people: []
+organisations:
+- Met Office
 ---
 
 Parts of the UK could see temperatures soar as high as 24C over the next week as a final hit of summer sun shines on the country.

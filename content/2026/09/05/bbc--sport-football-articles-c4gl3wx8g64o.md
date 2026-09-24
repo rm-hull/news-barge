@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Bournemouth
+- Houston
+people:
+- '** Friedkin'
+- Angus Kinnear
+- Beto
+- Dan Friedkin
+- David Moyes
+- Folarin Balogun
+- Harrison Armstrong
+- Moyes'
+- Rishi Majithia
+organisations:
+- AS Roma
+- England Under-19s
+- Everton
+- Fiorentina
+- Manchester United
+- Monaco
+- Nottingham Forest
+- Premier League
+- Serie A
+- The Friedkin Group
+- USA
+- West Ham
 ---
 
 ![Dan Friedkin with the Conference League trophy after AS Roma won the competition in 2022](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/2894/live/590172b0-a8ff-11f1-bd44-2b0afe453f7d.jpg)

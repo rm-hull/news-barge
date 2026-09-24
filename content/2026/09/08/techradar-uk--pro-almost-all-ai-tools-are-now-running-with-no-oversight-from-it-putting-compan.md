@@ -11,6 +11,22 @@ image: https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Christian Cawley
+- Ofer Klein
+organisations:
+- AI Giving AI
+- Computer Weekly
+- ComputerActive
+- Google News
+- IT
+- Linux Format
+- Matter Alpha
+- Reco
+- SaaS
+- State of Agent Security
+- TechRadar Pro
 ---
 
 ![art of a human hand with artificial intelligence via laptop](https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG.jpeg) 

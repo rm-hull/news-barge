@@ -11,6 +11,11 @@ categories:
 - York
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Split-Second-Jet-Dragster-Pic.webp
+locations: []
+people: []
+organisations:
+- Melbourne Raceway
+- Straightliners
 ---
 
 Get ready for two days of full throttle action – in an epic weekend of speed.

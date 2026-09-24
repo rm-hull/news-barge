@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p8slj9.jpg
+locations:
+- Cologne
+- Stuttgart
+people: []
+organisations:
+- Bayern Munich
+- CologneLive
+- Schalke
+- SchalkeLive
+- Stuttgart
+- StuttgartLive
+- Union Berlin
+- Union BerlinLive
 ---
 
 # Bundesliga - 2026/27: Bundesliga Highlights: Matchday Four

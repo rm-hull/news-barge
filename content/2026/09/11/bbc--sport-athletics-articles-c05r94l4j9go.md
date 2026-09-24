@@ -13,6 +13,45 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Birmingham
+- Botswana
+- Budapest
+- Georgia
+- Great Britain
+- Jamaica
+people:
+- Achilles
+- Amy Hunt
+- Armand 'Mondo
+- Armand Duplantis
+- Audrey Werro
+- Cole Hocker
+- Collen Kebinatshipi
+- Emmanouil Karalis
+- Femke Broeders-Bol
+- Hunter Bell
+- Imani-Lara Lansiquot
+- Jacory Patterson
+- Jakob Ingebrigtsen
+- Jazmin Sawyers
+- Jeremiah Azu
+- Josh Kerr
+- Keely Hodgkinson
+- Lord Coe
+- Masai Russell
+- Matthew Hudson-Smith
+- Noah Lyles
+- Romell Glave
+- Success Eduan
+- Usain Bolt
+- Yaroslava Mahuchikh
+- Yemi Mary John
+organisations:
+- Commonwealth
+- GB
+- United States'
+- World Athletics
 ---
 
 ![Armand 'Mondo' Duplantis celebrates after being crowned Ultimate champion](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d824/live/b3452310-ae2d-11f1-ac6d-91eaec18841f.jpg)

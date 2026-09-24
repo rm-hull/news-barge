@@ -16,6 +16,31 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- America
+- Australia
+- Cleveland
+- France
+- Hartlepool
+- Middlesbrough
+- South Bank
+people:
+- Lauren Somerville
+- Matt
+- Matthew Blades
+- Matthew Blades’
+- Ms Somerville
+- Pc Blades
+- Pc Clough
+- Pc Tom Clough
+- Tom Clough
+- Victoria Fuller
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police Federation
+- Manchester United
+- Police Federation
 ---
 
 # ‘Overwhelming’ support for families of A66 crash officers ahead of Pc Matthew Blades’ funeral

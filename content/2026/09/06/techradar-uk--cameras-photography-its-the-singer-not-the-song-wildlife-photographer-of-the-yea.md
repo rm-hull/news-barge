@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Photography & Video
 - Film & TV
+locations:
+- Crockford
+- Kenya
+- London
+- Nairobi
+- UK
+people:
+- Jack Crockford
+- Tim
+- Timothy Coleman
+organisations:
+- APS-C
+- Amateur Photographer
+- Canon
+- Crockford
+- Google News
+- Natural History Museum
+- TechRadar
 ---
 
 ![Photograph of a swift flying underneath a Boeing](https://cdn.mos.cms.futurecdn.net/tU2y9cy7hCpY5nYJWnJLSb.jpg) 

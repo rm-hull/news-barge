@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 - Home, Garden & DIY
+locations:
+- Bootham
+- Harrogate
+- West Park
+- York
+people: []
+organisations:
+- Boho Chic
+- Upside Down Design
 ---
 
 ![](https://mmo.aiircdn.com/409/6a43ceba15fd521ee2d.jpg) 

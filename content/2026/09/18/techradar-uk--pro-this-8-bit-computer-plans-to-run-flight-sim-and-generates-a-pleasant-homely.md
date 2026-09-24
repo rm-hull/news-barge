@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Home, Garden & DIY
 image: https://cdn.mos.cms.futurecdn.net/dGrnWSuN8rSJLERGqyBSk6-768-80.png
+locations:
+- Bodet
+- UK
+- Valve Museum
+people:
+- Judy
+- Mike
+- Rahim Amir
+organisations:
+- ALU
+- Apollo Guidance Computer
+- Google News
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
 ---
 
 ![A closeup look at The Tube Computer](https://cdn.mos.cms.futurecdn.net/dGrnWSuN8rSJLERGqyBSk6.png)

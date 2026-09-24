@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/3281e9a82dbd317e84a01d38e562cd7163a53e78/0_0_3018_2415/master/3018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f7bd58ac7cf0cb0e488b73dac84a7ce
+locations:
+- Andean
+- Bogotá
+- Boyaca
+- Caribbean
+- Colombia
+- Ecuador
+- El Niño
+- Imbabura
+- Pacific Ocean
+- Tolima
+- Villa de Leyva
+people:
+- Abelardo de la Espriella
+- Carlos Amaya
+- Fabio Arjona
+- Villa de Leyva
+organisations: []
 ---
 
 Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations.

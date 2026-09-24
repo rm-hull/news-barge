@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - News & Politics
 - Society & Culture
+locations: []
+people:
+- Baby Boomers
+- Benedict Collins
+- Gen Z
+- Gen Z. Over
+- Incogni
+organisations:
+- APT
+- BUCSIS
+- Big Tech
+- Google News
+- Incogni
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Large blue eyeball watching businesswoman working at computer](https://cdn.mos.cms.futurecdn.net/fdDmNCiwDdWg97kGfisHbA.jpg) 

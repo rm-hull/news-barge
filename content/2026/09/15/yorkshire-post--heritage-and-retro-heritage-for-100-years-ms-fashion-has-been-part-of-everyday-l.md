@@ -16,6 +16,41 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Britain
+- British High Street
+- Harrogate
+- Ibiza
+- Leeds
+- London
+- Manchester
+people:
+- Gillian Anderson
+- Harrington
+- Jaeger
+- Laura Weir
+- Lorraine Topper
+- Maddy Evans
+- Michael Marks
+- Soozie Jenkinson
+- Stephanie Smith
+- Stuart Machin
+- Tom Spencer
+- Vivienne Westwood
+organisations:
+- British Fashion Council
+- Jaeger and M&S Collection
+- Leeds Kirkgate Market
+- Leeds M&S
+- M&S Archive
+- M&S Woman
+- Marks & Spencer
+- Michael Marks Building
+- Penny Bazaar
+- Satin Shirt
+- Topshop
+- University of Leeds
+- Yorkshire Post Fashion
 ---
 
 # 'For 100 years M&S fashion has been part of everyday life': Marks & Spencer’s London Fashion Week debut and Leeds M&S Archive celebrations

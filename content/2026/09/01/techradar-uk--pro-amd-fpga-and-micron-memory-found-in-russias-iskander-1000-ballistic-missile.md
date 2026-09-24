@@ -10,6 +10,32 @@ description: Ukrainian intelligence says 35 firms, including American manufactur
 image: https://cdn.mos.cms.futurecdn.net/EjdBtHhpBKQF4i6kHowVYc-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Belarus
+- China
+- Germany
+- Moscow
+- Russia
+- Switzerland
+- Taiwan
+- Ukraine
+- United States
+people: []
+organisations:
+- AMD
+- Analog Devices
+- Atmel
+- DM&P Electronics
+- Defense Intelligence
+- Efosa
+- Google News
+- HUR
+- Iskander-M
+- Micron Technology
+- TechRadar Pro
+- Ukraine’s Defense Intelligence
+- Winbond Electronics
+- Xilinx
 ---
 
 ![Russian Iskander-M system](https://cdn.mos.cms.futurecdn.net/EjdBtHhpBKQF4i6kHowVYc.jpg) 

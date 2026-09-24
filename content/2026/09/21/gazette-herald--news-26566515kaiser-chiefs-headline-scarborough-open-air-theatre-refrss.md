@@ -15,6 +15,33 @@ categories:
 - Music
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21094256.jpg?type=og-image
+locations:
+- Scarborough
+- UK
+people:
+- Alfie Boe
+- Andrew 'Whitey' White
+- Baines
+- Cuffe
+- Jack Savoretti
+- James Morrison
+- Julian Murray
+- Nick 'Peanut
+- Ricky Wilson
+- Ronan Keating
+- Ruby
+- Simon Rix
+- Simply Red
+- Taylor
+- Vijay Mistry
+organisations:
+- Cuffe & Taylor
+- Foo Fighters
+- Kaiser Chiefs
+- Leeds
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- U2
 ---
 
 *(Image: Cuffe & Taylor)*

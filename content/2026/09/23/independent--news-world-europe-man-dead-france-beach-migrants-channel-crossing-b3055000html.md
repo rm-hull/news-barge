@@ -11,6 +11,24 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/08/15/19/2289913252..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Boulogne-sur-Mer
+- Dover
+- England
+- France
+- Neufchatel-Hardelot
+- Pas-de-Calais
+- Portsmouth
+people:
+- Daniel Thomas
+- Danny Tommo
+- Tommy Robinson
+organisations:
+- English Channel
+- Hampshire
+- Isle of Wight Constabulary
+- Joint Council for Welfare of Immigrants
+- Patriot Platform
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

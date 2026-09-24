@@ -14,6 +14,13 @@ categories:
 - York
 - Arts & Culture
 - Music
+locations:
+- Scarborough
+people:
+- Daniel Ezeani
+organisations:
+- Macmillan Cancer Support
+- Woodend Art Gallery
 ---
 
 A Scarborough concert recently raised £172 for Macmillan Cancer Support.

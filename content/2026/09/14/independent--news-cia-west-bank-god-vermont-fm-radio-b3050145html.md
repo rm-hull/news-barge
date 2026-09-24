@@ -13,6 +13,36 @@ image: https://static.independent.co.uk/2026/09/14/22/Vermont_Shootings_91179.jp
 categories:
 - News & Politics
 - UK
+locations:
+- Burlington
+- Connecticut
+- Philadelphia
+- Ramallah
+- Rhode Island
+- U.S.
+- Vermont
+- West Bank
+people:
+- God
+- Hisham Awartani
+- Jacob Pyne
+- Jason Eaton
+- Joshua O’Hara
+- Kinnan Abdalhamid
+- Mossad
+- Sally Adams
+- Tahseen Aliahmad
+organisations:
+- Brown University
+- CIA
+- Chittenden County Public Defender Office
+- Chittenden County State’s Attorney's Office
+- FM
+- Haverford College
+- Mossad
+- NPR
+- Trinity College
+- University of Vermont
 ---
 
 Jason Eaton insisted he was acting on orders from the CIA and Mossad when he shot three Palestinian college students who were walking past his home a few days after Thanksgiving. He said the U.S. and Israeli intelligence agencies transmitted the messages to him via FM radio and that God was commanding him to protect his Jewish neighbors.

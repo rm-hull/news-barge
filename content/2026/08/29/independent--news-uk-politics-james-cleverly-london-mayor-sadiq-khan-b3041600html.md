@@ -12,6 +12,43 @@ image: https://static.independent.co.uk/2026/08/29/20/01M173NRP1W4XK2M5EBP0HXSCY
 categories:
 - News & Politics
 - UK
+locations:
+- Brexit
+- Britain
+- Chagos Islands
+- Havering
+- London
+- Mauritius
+- PA
+people:
+- Andrew Rosindell
+- Andy Burnham
+- Boris Johnson
+- Jack Rankin
+- James Cleverly
+- James’
+- Jane Barlow
+- Katie Lam
+- Keir Starmer
+- Kemi Badenoch
+- Laila Cunningham
+- Lila Cunningham
+- Me Stride
+- Ms Cunningham
+- Nigel Farage
+- Robert Jenrick
+- Sadiq Khan
+organisations:
+- Brexit
+- Conservative Party
+- EU
+- GB News
+- Labour
+- Reform UK
+- Romform Reform
+- Susan Hall
+- Tories
+- Tory
 ---
 
 Sir James Cleverly’s plan to run for to be the next mayor of London in 2028 is hugely significant not least because it means that the fight for Britain’s capital city and economic engine has become a serious contest for the first time for 14 years.

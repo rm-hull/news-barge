@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Everyman Northallerton
+- Our Yorkshire Farm
+- Ravenseat
+- Swaledale
+- Yorkshire Dales
+people:
+- Amanda Owen
+- Annas
+- Anty John
+- Clementine
+- Clive Owen
+- Clive Who
+- Edith
+- Jeremy Clarkson
+- Miles
+- Nancy
+- Raven
+- Reuben
+- Sidney
+- Violet
+organisations:
+- Anty John's
+- Channel 4
+- Clive and Kids
+- More4
+- Yorkshire Shepherdess
 ---
 
 Amanda Owen has given fans a glimpse of life on the Yorkshire moors as one of the farming year’s busiest periods begins.

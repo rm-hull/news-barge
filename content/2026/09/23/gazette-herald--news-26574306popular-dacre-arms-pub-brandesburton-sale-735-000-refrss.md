@@ -12,6 +12,23 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21490696.jpg?type=og-image
+locations:
+- Brandesburton
+- Dacre Arms
+- Driffield
+- East Yorkshire
+- North Yorkshire
+- Sam Smiths Brewery
+- Sandsend
+people: []
+organisations:
+- A165
+- Barry Crux & Co
+- Barry Crux and Co
+- Dacre Arms
+- Google Reviews
+- Sleights
+- Tripadvisor
 ---
 
 A popular pub in an East Yorkshire village has gone up for sale for £735,000 freehold.

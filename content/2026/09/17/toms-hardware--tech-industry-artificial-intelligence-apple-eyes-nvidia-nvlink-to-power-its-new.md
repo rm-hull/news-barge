@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Anton Shilov
+- John Ternus
+- Steve Jobs
+- Tom
+organisations:
+- AMD
+- Apple Foundation Models
+- GPU
+- Gemini
+- Get Tom's Hardware
+- Google Cloud
+- Google News
+- M8 Ultra
+- NPU
+- NVLink Fusion
+- Nvidia Blackwell GPUs
+- PC
+- Pixar
+- SiP
+- Siri AI
+- TSMC
+- Tom’s Hardware
+- UALink Consortium
 ---
 
 ![Nvidia Hot Chips 2024](https://cdn.mos.cms.futurecdn.net/eEG2jWuyvKSPgs2K5yfekX.jpg) 

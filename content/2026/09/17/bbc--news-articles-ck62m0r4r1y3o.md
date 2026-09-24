@@ -11,6 +11,34 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8896/live/2707d6
 categories:
 - UK
 - News & Politics
+locations:
+- Dmitrov
+- Kremlin
+- Moscow
+- Ukraine
+- United Russia
+- West
+people:
+- Alexei Navalny
+- Dmitry Peskov
+- Gennady Zyuganov
+- Grigory Grishin
+- Grigory Melkonyants
+- Ivan
+- Olga
+- Polina
+- Steve Rosenberg
+- Vladimir Putin
+- Yabloko
+organisations:
+- Communist Party
+- Duma Electoral District
+- Golos
+- Russian Communist Party
+- Supreme Court
+- Telegram
+- Victory!
+- Yabloko
 ---
 
 Low expectations that Russia's election will bring peace closer, Steve Rosenberg reports

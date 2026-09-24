@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Azteca Stadium
+- England
+- France
+- Jordan
+- Mexico
+people:
+- Daniel Sturridge
+- Jarell Quansah
+- Jordan Henderson
+- Thomas Tuchel
+organisations:
+- Azteca
+- England
+- FA
+- Mexico
+- Mexico.
+- Spain
+- Three Lions
+- Tuchel
 ---
 
 ![Thomas Tuchel, wearing a dark polo shirt, clenches two fists and grins in celebration](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg)

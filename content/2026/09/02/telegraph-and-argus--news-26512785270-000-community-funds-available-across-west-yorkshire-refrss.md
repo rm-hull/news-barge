@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Huddersfield
+- Leeds
+- Manchester
+- Shipley Traincare Centre
+- York
+people:
+- Anna Humphries
+organisations:
+- Community Fund
+- Friends of Ravenshall
+- Lord Deramore's School
+- TRU
 ---
 
 *(Image: Supplied)*

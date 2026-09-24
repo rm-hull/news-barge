@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Broadway
+- Canada
+- Comedy Central
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- SOUTH AMERICA
+- South Park
+- U.S.
+- United States
+people:
+- Donald Trump
+- Jocelyn Noveck
+- Matt Stone
+- Phillip
+- Saddam Hussein
+- Satan
+- Terrance
+- Tom Cruise
+- Trey Parker
+organisations:
+- Apple
+- Google
+- Instagram
+- Paramount
+- Parker and Stone
+- Skydance Capitulation
+- South Park
+- The Associated Press
+- Trump
 ---
 
 The creators of the long-running and enthusiastically insolent TV show “South Park” aren't known to be huge fans of President Donald Trump. However, they’ve decided to adopt one of his ideas — in a way.

@@ -13,6 +13,73 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/20/00/Kentucky_Texas_A_M_Football_37723.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Auburn
+- Charlotte
+- Florida
+- Kentucky
+- Lubbock
+- Mississippi
+- North Carolina
+- Ole Miss
+- Oxford
+- South Carolina
+- Texas
+- Vaught-Hemingway Stadium
+- West Virginia
+people:
+- Aaron Philo
+- Alex Golesh
+- Byrum Brown
+- CJ Baxter
+- Conner Weigman
+- Darian Mensah
+- Joker Phillips
+- Jordan Castell
+- Kenny Minchey
+- Kevin Jennings
+- LSU-Ole Miss
+- Lane Kiffin
+- Lincoln Kienholz
+- Mark Stoops
+- Ole Miss
+- Pete Golding
+- Sam Leavitt
+- Will Stein
+organisations:
+- ACC
+- AP
+- Auburn
+- BBN
+- Black
+- CFP
+- Cougars
+- Crimson Tide
+- ESPN
+- Florida State
+- Gators
+- Houston
+- Kentucky
+- Maryland
+- Mississippi State
+- Mountaineers
+- No. 10 Alabama
+- No. 13
+- No. 16 SMU
+- No. 23 Louisville
+- No. 25
+- No. 5 Miami
+- No. 7 LSU
+- Notre Dame
+- Rebels
+- Seminoles
+- Southeastern Conference
+- Texas A&M
+- Texas Tech
+- Tigers
+- Virginia Tech
+- Wake Forest
+- Wildcats
 ---
 
 The powerhouse Southeastern Conference will have at least two top-10 teams lose in Week 3.

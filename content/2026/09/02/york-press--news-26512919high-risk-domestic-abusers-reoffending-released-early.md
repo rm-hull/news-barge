@@ -13,6 +13,36 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Good Morning Britain
+- North Yorkshire
+- Pickering
+- Ruffa Lane
+- Simon Dack
+- The York
+people:
+- Alex Norris
+- Helen Duncanson
+- Jess Phillips
+- Jonathan Brady
+- Jordan Pettitt
+- Keir Starmer
+- Michael Boyes
+- Michael Cahill
+- Ms Duncanson
+- Ms Phillips
+organisations:
+- Good Morning Britain
+- IDAS
+- IDAS’
+- IPP
+- ITV
+- Independent Domestic Abuse Service
+- Independent Domestic Abuse Services
+- Ministry of Justice
+- North Yorkshire Police
+- PA Wire
+- The Press
 ---
 
 *(Image: Simon Dack/NQ)*

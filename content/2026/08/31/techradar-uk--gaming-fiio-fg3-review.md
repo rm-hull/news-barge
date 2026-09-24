@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/aQYjQqbZF87TCURdCsRkaE-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Australia
+- Europe
+- Turtle Beach
+- UK
+- US
+people:
+- Tom Bedford
+organisations:
+- ANC
+- Android Police
+- BGR
+- DAC
+- Digital Trends
+- FiiO FG3
+- GamesRadar
+- LAN
+- Old School
+- PC
+- PNC
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- WhattoWatch
 ---
 
 ### TechRadar Verdict

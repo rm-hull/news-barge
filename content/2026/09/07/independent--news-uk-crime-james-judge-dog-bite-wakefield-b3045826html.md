@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Blacker Lane
+- Bradford Magistrates Court
+- Calder Grove
+- Horbury
+- Leeds General Infirmary
+- Wakefield
+people:
+- James Judge
+- Lee Ellis
+- Oliver Longstaff
+organisations:
+- Leeds Crown Court
 ---
 
 A man bitten by a dog on a footpath died from complications of a wound on his leg, an inquest has heard.

@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - History
 - Arts & Culture
+locations:
+- Manor Square
+- Otley
+- Royal Oak House
+- YOUR
+people: []
+organisations:
+- Leeds City Council
+- Planning By Design
+- Public Notice Portal
 ---
 
 *(Image: Google)*

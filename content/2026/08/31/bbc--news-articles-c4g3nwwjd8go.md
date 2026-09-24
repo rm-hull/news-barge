@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Arts & Culture
 - Comedy & Entertainment
+locations:
+- London
+- Paddington
+- Peru
+- US
+people:
+- Alzheimer
+- Dave Wybrow
+- Dementia
+- Gandalf
+- Krapp
+- Lord of the Rings
+- Peter Marinker
+- Samuel Beckett
+- Taiyaba Zeria
+- Tara Spires-Jones
+organisations:
+- Alzheimer's Society
+- Cockpit Theatre
+- Fighting for Our Minds
+- Krapp
+- Taiyaba Zeria
+- University of Edinburgh
 ---
 
 ![Peter Marinker in dress rehearsals for the play Krapp's Last Tape. He is wearing an old grey dressing gown and sitting in front of a desk. There is a tape recorder in front of him and some silver boxes containing reel-to-reel tapes.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg)

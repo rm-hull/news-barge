@@ -11,6 +11,56 @@ image: https://static.independent.co.uk/2026/09/12/14/33/Ben-Dalo-and-Christophe
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Dubai
+- Hampshire
+- Mosborough
+- Sheffield
+- Thailand
+- UK
+- US
+people:
+- Ben Delo
+- Chakrit Sakunkrit
+- Christopher Harborne
+- David Sainsbury
+- Donald Trump
+- Gary Lubner
+- Graham Edwards
+- Jeremy Corbyn
+- Keir Starmer
+- Kemi Badenoch
+- Lord David Sainsbury
+- Lord John Sainsbury
+- Nigel Farage
+- Preston Candover
+- Rishi Sunak
+organisations:
+- AML Global
+- Autoglass
+- Belron
+- BitMex
+- Bitcoin
+- DEI
+- Ethereum
+- House of Lords
+- KPMG
+- Labour
+- Lib Dems
+- Reform UK
+- Sainsbury's
+- Sainsbury’s
+- Sheila Coates Foundation
+- Sherriff Global Group
+- TT Group
+- Tether
+- Tories
+- Tory
+- Turville
+- University of Cambridge
+- University of Oxford
+- Westminster School
 ---
 
 Two record-breaking donations from crypto billionaires to Reform UK last week have sparked a debate about Britain’s party funding rules.

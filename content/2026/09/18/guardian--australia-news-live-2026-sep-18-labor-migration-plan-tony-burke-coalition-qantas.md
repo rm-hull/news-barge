@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Gold Coast
+- Paradise Country
+- Perth
+- Port Hedland
+- Queensland
+- Veronika Maine
+- Western Australia
+people:
+- Fergus Hanson
+- Hannah McGlade
+- Jenna Priestly
+- Kira Spencer
+- Kurin Minang Noongar
+- Lauren Mousley
+- Luca Ittimani
+- Malarndirri McCarthy
+- Mary
+- Shane Prior
+- Stuart Minchin
+- Victoria Lidia Thorpe
+organisations:
+- Albanese
+- Armadale Cue
+- Bureau of Meteorology
+- Cue Clothing Co
+- FTI Consulting
+- First Nations
+- Guardian
+- Indigenous Australians
+- Melbourne Central Cue
+- Mosman Veronica Maine
+- Office of AI
+- Parramatta Cue
+- Receivers
+- The Australian
+- Woden Cue
 ---
 
 AI is enabling foreign interference and hackers, home affairs department says

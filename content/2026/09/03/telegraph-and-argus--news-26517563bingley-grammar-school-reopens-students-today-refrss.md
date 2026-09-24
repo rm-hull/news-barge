@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Education & Learning
+locations:
+- Bingley
+- Bradford
+- Keighley Road
+people:
+- Luke Weston
+organisations:
+- Bingley Grammar School
+- Google Street View
+- National Grid
 ---
 
 *(Image: Google Street View)*

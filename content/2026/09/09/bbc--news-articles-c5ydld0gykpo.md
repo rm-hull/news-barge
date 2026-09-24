@@ -11,6 +11,21 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a150/live/628e6b
 categories:
 - UK
 - News & Politics
+locations:
+- Iran
+- Middle East
+- Saudi Arabia
+- Strait of Hormuz
+- Tehran
+- Texas
+- US
+- Yemen
+people:
+- Donald Trump
+organisations:
+- Congress
+- Republican Party
+- US Navy
 ---
 
 Watch: Trump says Iran war will end "immediately" after US midterm elections

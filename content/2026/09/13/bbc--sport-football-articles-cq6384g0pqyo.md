@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Old Trafford
+people:
+- Anderson
+- Antoine Semenyo
+- Benjamin Sesko
+- Bryan Mbeumo
+- Chris Bevan.
+- Dalot
+- Danny Murphy
+- Dias
+- Dorgu
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Fernandes
+- Gianluigi Donnarumma
+- Guehi
+- Gvardiol
+- Iliman Ndiaye
+- Joshua Zirkzee
+- Kobbie Mainoo
+- Lammens
+- Maguire
+- Marcus Rashford
+- Martinez
+- Matheus Cunha
+- Michael Carrick
+- Nunes
+- Phil Foden
+- Rayan Cherki
+- Rooney
+- Youri Tielemans
+organisations:
+- BBC Sport
+- Chelsea
+- Manchester City
+- Manchester United
 ---
 
 ![Graphic for Danny Murphy's BBC Sport column](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5866/live/4a841d90-e16a-11ef-a319-fb4e7360c4ec.png)

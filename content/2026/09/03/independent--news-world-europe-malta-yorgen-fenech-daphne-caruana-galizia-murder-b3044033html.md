@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Auberge de Castille
+- Malta
+people:
+- Alex Borg
+- Caruana Galizia
+- Daphne Caruana Galizia
+- Joseph Muscat
+- Keith Schembri
+- Matthew
+- Robert Abela
+- Yorgen Fenech
+organisations:
+- AP
+- Nationalist Party
+- Panama Papers
+- Reporters Without Borders
 ---
 
 Malta's government has urged calm after the acquittal of a businessman accused of commissioning the 2017 murder of investigative journalist Daphne Caruana Galizia.

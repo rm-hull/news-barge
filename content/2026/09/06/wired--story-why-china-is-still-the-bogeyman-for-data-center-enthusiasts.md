@@ -14,6 +14,43 @@ categories:
 - Science
 - News & Politics
 - Society & Culture
+locations:
+- AI
+- America
+- Arkansas
+- China
+- Pennsylvania
+- Texas
+people:
+- Andy Masley
+- Donald Trump
+- Greg Abbott
+- Hugo Lowell
+- Josh Shapiro
+- Louise Matsakis
+- Max Zeff!
+- Molly Taft
+- OpenAI
+- Paresh Dave
+- Tyler Williams
+organisations:
+- AI
+- Arkansas Democrat-Gazette
+- Arkansas Times
+- Axios
+- Chinese Communist Party
+- Coefficient Giving
+- DC
+- Entergy
+- Financial Times
+- Google
+- Graphika
+- Meta
+- OpenAI
+- The Washington Post
+- WIRED
+- X
+- anti Data Center
 ---
 
 *Welcome to the first edition of Power Play! From now until the midterms, senior writer Molly Taft will be sharing their thoughts every Sunday on this political season’s hottest issue: data centers. We welcome reader comments, and will be answering questions from the comments section in future editions.*

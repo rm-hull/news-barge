@@ -13,6 +13,19 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZjMGJmNTJkLWQ0YWUtNDljOC1iMjkzLWY5YzFiM2YwNjBlODo5Njg1NjFlNC03YmY2LTQ2MGUtODAwZC1lYjc5NGNhODgzNWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Scarborough
+people:
+- Cllr Carl Les
+organisations:
+- Cliff Lift
+- NYC
+- North Yorkshire Council
+- North Yorkshire Council.
+- Scarborough Spa Cliff Lift
+- Scarborough Town Council
+- Scarborough'S Spa
+- Whitby
 ---
 
 # Scarborough’s Cliff Lift: ‘Prospects for reopening’ to be debated by councillors

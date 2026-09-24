@@ -14,6 +14,71 @@ categories:
 - York
 - Food & Cooking
 - Health & Fitness
+locations:
+- Barkers
+- Bedale Road
+- Borotola House
+- Bullamoor Road
+- Catherine Street
+- Catterick Road
+- Coniston Cold
+- County Hall
+- Fatso's Filling Station
+- Finkills Way
+- Fox And Hounds
+- Harrogate
+- High Street
+- Holme Lane
+- Lead Lane
+- Leeming Bar
+- Macclesfield
+- Main Street
+- Nether Silton
+- North Promenade
+- North Yorkshire
+- Northallerton
+- Racecourse Lane
+- Ripon
+- Romanby
+- Sipton
+- Skelton
+- St Andrews Church
+- Stokesley
+- Strikes Garden Centre
+- Strikes Roundabout
+- Sutton In Craven
+- The Black Lion
+- The Courtyard
+- Thirsk
+- Thorp Perrow
+- Thorp Perrow Arboretum
+- Thorp Perrow Estate Roads
+- Ure
+- Walburn
+- Wathgill Army Training Camp
+- Wathgill Camp Road
+- Whitby
+people:
+- Banjora
+organisations:
+- Black Lion Cafe
+- Catterick Garrison
+- Coniston Shooting Ground LLP
+- FSA
+- Food Standards Agency
+- Fox And Hounds
+- Hanson Sports And Social Club
+- Lead Lane Newsagents
+- Limited
+- Nisa Local
+- Orchid House
+- Potting Shed
+- St Andrews Church Luncheon Club
+- The Reubens
+- Thorp Perrow Tearooms
+- Tree View Cafe
+- Very Good** County Hall Cafe
+- Wathgill Training Camp
 ---
 
 *(Image: FSA)*

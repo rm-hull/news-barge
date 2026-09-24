@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Barnard Castle
+- Bowes Moor
+- Darlington
+- Gatwick Airport
+- Peterlee Magistrates’ Court
+- West Calder
+- West Lothian
+- Westwood View
+people:
+- Graham Houliston
+organisations:
+- A1(M) County Durham
+- A66
+- BMW
+- Volkswagen
 ---
 
 *(Image: POLICE)*

@@ -12,6 +12,81 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Azerbaijan
+- Baku
+- Barcelona
+- Brentford
+- Croatia
+- Cyprus
+- Dambrauskas
+- Emirates Stadium
+- England
+- Europe
+- Finland
+- Finsbury Park
+- Greece
+- Holloway Road
+- Hungary
+- Israel
+- Lithuania
+- London
+- Masazir
+- Old Trafford
+- Sabah
+- UK
+people:
+- Alex Ferguson
+- Arsene Wenger
+- Dambrauskas'
+- John Shiels
+- Magsud Adigozalov
+- Ose Aibangee
+- Sabah
+- Tellur Mutallimov
+- Valdas Dambrauskas
+organisations:
+- Aarhus
+- Arsenal
+- BBC One
+- BBC Sport
+- BBC iPlayer
+- Bank Respublika Arena
+- Borussia Dortmund
+- Brentford
+- Champions League
+- Conference League
+- Diosgyori
+- Ekranas
+- Europa League
+- FA Vase
+- First RFS
+- Foundation
+- Fulham
+- Gorica
+- Hajduk Split
+- Hapoel Beer-Sheva
+- KuPS
+- London Football Association
+- London Football Coaches Association
+- London Metropolitan University
+- London Tigers
+- Ludogorets Razgrad
+- Manchester United
+- Manchester United Soccer Schools
+- Napoli
+- OFI Crete
+- Omonia
+- Owls
+- Report
+- Sabah
+- Spartan South Midlands League
+- TNS
+- Uefa
+- Valdas Dambrauskas
+- Villarreal
+- YMCA
+- Zalgiris Vilnius
 ---
 
 Sabah's Valdas Dambrauskas looks ahead to Manchester United and Arsenal games

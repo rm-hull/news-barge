@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Billingham
+- Grange Avenue
+- London
+- Snow Hill
+- Teesside
+- The Old Bailey
+people:
+- ANDY FUTERS
+- Ann Ming
+- Billy Dunlop
+- David Blunkett
+- God
+- Jack Straw
+- Julie Hogg
+- Kevin Hogg
+- Lee
+- Maureen Harvey
+- Shabana Mahmood
+- Stephen Lawrence
+- Tracie Andrews
+- ordinary’ Ann
+organisations:
+- House of Commons
+- House of Lords
+- North News and Pictures
+- The Northern Echo
+- White Paper
 ---
 
 Ann Ming still remembers the last time she saw her daughter Julie Hogg alive.

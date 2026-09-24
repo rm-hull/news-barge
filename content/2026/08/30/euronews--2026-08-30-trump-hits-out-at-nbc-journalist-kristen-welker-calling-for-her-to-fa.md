@@ -13,6 +13,28 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- U.S.
+- US
+- White House
+people:
+- Anna Gomez
+- Brendan Carr
+- Darline Graham
+- Donald Trump
+- Kristen Welker
+- Mike Mazzei
+organisations:
+- AFP
+- FCC
+- Federal Communications Commission
+- Meet the Press
+- NBC
+- Public Airwaves
+- Senate
+- Truth Social
+- U.S. House
+- the Fake Press
 ---
 
 ## Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Communications Commission, said the FCC "has no authority to punish journalists this administration doesn’t like."

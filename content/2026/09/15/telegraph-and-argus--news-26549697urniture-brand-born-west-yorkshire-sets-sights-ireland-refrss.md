@@ -15,6 +15,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brexit
+- Ireland
+- Liversedge
+- UK
+- West Yorkshire
+people:
+- Ade Wilson
+- Ashley Hainsworth
+- Levon Hall
+organisations:
+- Bedkingdom
+- Flair Furniture Group
+- Huddersfield University
 ---
 
 *(Image: Ade Wilson)*

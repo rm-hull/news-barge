@@ -13,6 +13,42 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Balogun
+- City
+- England
+- Finch Farm
+- Guinea-Bissau
+- Scotland
+- United States
+- Villa
+people:
+- Ainsley Maitland-Niles
+- Beto
+- David Moyes
+- Enzo Maresca
+- Folarin Balogun
+- Jack Grealish
+- Joshua Zirkzee
+- Nathan Patterson
+- Tammy Abraham
+organisations:
+- AS Monaco
+- Arsenal
+- Aston Villa
+- Balogun
+- Bournemouth
+- Everton
+- Fiorentina
+- Leeds
+- Lyon
+- Manchester City
+- Manchester United
+- Merseyside
+- Rangers
+- Toffees
+- Torino
 ---
 
 ![Folarin Balogun playing for the United States](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg)

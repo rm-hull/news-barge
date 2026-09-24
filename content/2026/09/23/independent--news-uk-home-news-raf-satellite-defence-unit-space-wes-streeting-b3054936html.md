@@ -12,6 +12,26 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/30/21/2292192304..?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Earth
+- SaxaVord Spaceport
+- Shetland
+- UK
+- Unst
+people:
+- Harv Smyth
+- Jonathan Reynolds
+- Wes Streeting
+organisations:
+- HyImpulse
+- Low Earth Orbit
+- Ministry of Defence
+- RAF
+- Rocket Factory Augsburg
+- SaxaVord Spaceport
+- Skynet
+- UK Space Strategy
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

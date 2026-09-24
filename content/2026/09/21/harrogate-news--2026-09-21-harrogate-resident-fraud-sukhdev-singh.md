@@ -15,6 +15,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Sukhdev-Singh.webp
+locations:
+- Chelwood Drive
+- Gibraltar
+- Harrogate
+- Leeds
+- Spain
+- UK
+people:
+- Sukhdev Singh
+organisations:
+- ARIS
+- Crown Court
+- Crown Prosecution Service
+- Economic Crime Unit
+- Harrogate
+- Home Office
+- Home Office Asset Recovery Incentivisation Scheme
+- Leeds Magistrates’ Court
+- North Yorkshire Police
+- POCA
+- Proceeds of Crime Confiscation Order
+- York Crown Court
 ---
 
 A former chartered accountant convicted of systematically targeting and defrauding a highly vulnerable **Harrogate resident** has been jailed for a further five years after refusing to pay a court-mandated Proceeds of Crime Confiscation Order.

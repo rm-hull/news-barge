@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- North America
+- PA
+- UK
+people:
+- Dave Thompson
+- PB Balaji
+organisations:
+- Bradford
+- JLR
+- Jaguar Land Rover
 ---
 
 *(Image: Dave Thompson/PA)*

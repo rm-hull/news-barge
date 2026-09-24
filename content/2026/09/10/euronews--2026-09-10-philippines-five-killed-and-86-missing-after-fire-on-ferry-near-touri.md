@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Coron
+- Manila
+- Palawan
+- Philippine
+- Philippines
+people:
+- Commodore Noemie Cayabyab
+- Mary Joy
+organisations:
+- Coast Guard
+- Philippine Coast Guard
 ---
 
 ## At least five people were killed and 86 remain missing after a fire erupted aboard a ferry near a popular tourist destination in the Philippine province of Palawan, the coast guard said Thursday.

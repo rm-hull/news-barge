@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458928.jpg?type=og-image
+locations:
+- Bradford
+- Darley Street Kitchen
+- Greece
+people:
+- Budhi Man Rai
+organisations:
+- '![]()Falafels'
+- Bradford Markets
+- Darley Street Market
 ---
 
 *(Image: Bradford Markets)*

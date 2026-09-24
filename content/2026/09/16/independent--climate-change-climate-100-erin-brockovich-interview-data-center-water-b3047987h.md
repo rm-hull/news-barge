@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- America
+- California
+- China
+- Germany
+- New York
+- Ohio
+- Pennsylvania
+- Texas
+- UK
+- US
+- Virginia
+people:
+- AI
+- Donald Trump
+- Erin Brockovich
+- Kathy Hochul
+organisations:
+- Brockovich Data Center Map
+- Congress
+- Elon Musk
+- Google
+- Meta
+- Octopus Energy
+- Open AI
+- SpaceX –
 ---
 
 It’s been more than 30 years since Erin Brockovich made history – and had a movie made after her – for standing against one of America’s largest power companies and winning a $333m groundwater pollution suit for a small California town. People still email her with environmental concerns.

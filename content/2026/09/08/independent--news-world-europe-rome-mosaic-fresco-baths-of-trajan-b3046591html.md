@@ -13,6 +13,16 @@ categories:
 - UK
 - History
 - Science
+locations:
+- Baths of Trajan
+- Colosseum
+- Oppio
+- Rome
+people:
+- Claudio Parisi Presicce
+- Robert Gualtieri
+- Trajan
+organisations: []
 ---
 
 What is believed to be Rome’s largest fresco and mosaic complex has been opened for public viewing.

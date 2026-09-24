@@ -14,6 +14,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21487789.jpg?type=og-image
+locations:
+- County Durham
+- UK
+people:
+- Andy Burnham
+- Mike Haynes
+organisations:
+- Government
+- House of Commons
+- PA Wire
+- Petitions Committee
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

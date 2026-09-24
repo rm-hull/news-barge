@@ -15,6 +15,37 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Brazil
+- Fulford Cemetery
+- Hollywood
+- Minnesota
+- Sweden
+- Tang Hall
+- York Magistrates' Court
+people:
+- Billy Elliot
+- Domhnall Gleeson
+- Freda Chaplin
+- God
+- Greta Chaplin
+- Jamie Bell
+- Jean
+- Joan Holbrooke
+- Joaquin Phoenix
+- Julia Darling
+- Kate
+- Ken Iveson
+- Orlando Bloom
+- Rooney Mara
+- Tang Hall
+- Werner Herzog
+- York
+organisations:
+- Bucking Fastard
+- Journeyman Pictures
+- The Twins
+- York
 ---
 
 *A Hollywood film inspired by York's most famous twins puts the fascinating lives of sisters Greta and Freda Chaplin in the spotlight again*

@@ -13,6 +13,15 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford
+- Sunbridge Road
+- Upper Millergate
+people: []
+organisations:
+- UGC)* Police
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

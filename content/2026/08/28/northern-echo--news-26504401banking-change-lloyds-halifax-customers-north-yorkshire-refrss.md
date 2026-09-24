@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Filey
+- Knaresborough
+- North Yorkshire
+- Richmond
+- Stokesley Methodist Church
+- UK
+- Whitby
+people:
+- Gareth Oakley
+organisations:
+- AIB
+- Bank of Ireland
+- Bank of Scotland
+- Barclays
+- Cash Access UK
+- Danske Bank
+- HSBC
+- Halifax
+- LINK
+- Lloyds Banking Group
+- Nat West
+- NatWest
+- Santander
+- TSB
+- Virgin Money
 ---
 
 *(Image: Cash Access UK)*

@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21472977.jpg?type=og-image&xType=0&yType=46
+locations:
+- Albert Road
+- Middlesbrough
+- New North East
+- North East
+- Queen's Square
+- Tees Valley
+people:
+- Kate Stobbart
+organisations:
+- Kate Stobbart Art
+- Newcastle
 ---
 
 A North East artist will bring film and live performance to Middlesbrough Art Week, exploring how people communicate through everyday gestures and conversations.

@@ -14,6 +14,20 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- Bradford
+- Lowtown
+- Pudsey Tavern
+- The Pudsey Tavern
+people:
+- Beverley Bruce
+- Julie
+- Phillip Ward
+- Whikey
+organisations:
+- Bradford
+- Morley Electrics
+- Pudsey Tavern
 ---
 
 *(Image: Supplied)*

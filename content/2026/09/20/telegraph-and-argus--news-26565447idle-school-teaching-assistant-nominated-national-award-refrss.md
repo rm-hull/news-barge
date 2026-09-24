@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thetelegraphandargus.co.uk/resources/images/21477525.jpg?type=og-image
+locations:
+- BRADFORD
+- Bradford
+- Idle
+people:
+- Michelle O’Brien
+- Miss O’Brien
+organisations:
+- Blakehill Primary School
 ---
 
 A BRADFORD teaching assistant is in the running for a national award in recognition of her dedication to supporting pupils.

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- US
+- White House
+people:
+- Ariana Grande
+- Donald Trump
+- Olivia Rodrigo
+- Sabrina Carpenter
+- Taylor Swift
+- Zara Larsson
+organisations:
+- BBC
+- ICE
+- Immigration and Customs Enforcement
+- TikTok
+- Trump
 ---
 
 ![Zara Larsson performs onstage at "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest" – December 31, 2025.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb8d/live/c9b55940-b2eb-11f1-914e-f3d377d0bf2c.jpg)

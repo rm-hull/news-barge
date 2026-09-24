@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Café Valeria Sicilian
+- Designer Outlet York
+- Radley London
+- UK
+people:
+- Kouzina
+- Paul Tyler
+- Pippa Middleton
+- Polo Ralph Lauren
+- Tuck
+organisations:
+- '**York McArthurGlen Designer Outlet Fraser Group'
+- Cauldron
+- Designer Outlet York
+- FTI Consulting
+- Gordon Brothers
+- LK Bennett
+- Le Creuset
+- Paloma Faith
+- Pic
+- Pippa Middleton
+- Poundland
+- Radley London
+- Savante
+- Western Entrance
+- York Designer Outlet
 ---
 
 ## Luxury retailer loved by Pippa Middleton and Paloma Faith closes York store

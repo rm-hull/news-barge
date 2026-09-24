@@ -11,6 +11,17 @@ description: The backlash against license plate readers comes amid a wave of pol
 image: https://techcrunch.com/wp-content/uploads/2025/11/flock-camera-sf-surveillance-2157492329.jpg?resize=1200,794
 categories:
 - Technology & Software
+locations:
+- U.S.
+people:
+- Flock
+- Garrett Langley
+organisations:
+- ACLU
+- Flock
+- TechCrunch
+- The Washington Post
+- YouGov
 ---
 
 The growing backlash against surveillance companies like Flock may have reached a tipping point. A new survey has found that more Americans oppose these surveillance cameras than support them.

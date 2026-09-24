@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baths of Trajan
+- Colosseum
+- Oppio
+- Painted City
+- Rome
+people:
+- Claudio Parisi Presicce
+- Robert Gualtieri
+- Trajan
+organisations: []
 ---
 
 Authorities on Tuesday unveiled what is believed to be the largest fresco and mosaic complex of ancient Rome, a 1st century AD depiction of a maritime city in what became the largest bath complex in the world.

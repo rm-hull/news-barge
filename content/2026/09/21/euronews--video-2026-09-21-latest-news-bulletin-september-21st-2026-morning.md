@@ -12,6 +12,39 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/07/62/1200x675_cmsv2_8ca6daff-842a-5041-8076-1d8552ca2f19-9920762.jpg
+locations:
+- Belgium
+- Berlin
+- California.
+- Europe
+- Germany
+- Guatemala City
+- Gulf of Mexico.
+- London
+- Munich
+- New York
+- Norway
+- Pacific
+- Palo Alto
+- Red Sea
+- Saint-Pierre
+- Saint-Pierre-et-Miquelon
+- U.S.
+- US
+people:
+- Bill White
+- Cristina Kenz
+- Emmanuel Macron
+- Giorgia Meloni
+- Jamieson Greer
+- Mark Carney
+- Scott Bessent
+organisations:
+- EU
+- Euronews
+- Melissa & Doug
+- Stanford University
+- U.S. Treasury
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

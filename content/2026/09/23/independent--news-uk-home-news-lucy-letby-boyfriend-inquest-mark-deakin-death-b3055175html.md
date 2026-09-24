@@ -13,6 +13,30 @@ categories:
 - Health & Fitness
 - Science
 image: https://static.independent.co.uk/2026/09/02/15/16/mark-deakin.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Cheshire
+- Countess of Chester Hospital
+- Hereford
+- Liverpool’s Alder Hey Children’s Hospital
+- Manchester Crown Court
+- Warrington
+- Whiston Hospital
+- Winsford
+people:
+- Alder Hey
+- Amanda Edgar
+- Child N
+- Jacqueline Devonish
+- Lucy Letby
+- Mark Deakin
+organisations:
+- Alder Hey Children’s NHS Foundation Trust
+- Cheshire Coroner’s Court
+- Cheshire Police
+- Countess of Chester
+- Countess of Chester Hospital
+- Letby
+- Thirlwall Inquiry
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

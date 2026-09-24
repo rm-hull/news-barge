@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Britain
+- Europe
+- Latin America
+- North America
+- North Yorkshire
+- Santiago
+- UK
+people:
+- Alanis Morissette
+- Cuffe
+- Gary Sanctuary
+- Ian Kirkham
+- Jack Savoretti
+- James Morrison
+- Julian Murray
+- Kenji Suzuki
+- Kevin Robinson
+- Michael Bublé
+- Mick Hucknall
+- Roman Roth
+- Soul II Soul
+- Taylor
+- Teddy Swims
+organisations:
+- Cuffe & Taylor
+- Hollywood Vampires
+- Scarborough OAT
+- Scarborough Open Air Theatre
+- Simply Red
+- Soul II Soul
 ---
 
 *(Image: Cuffe & Taylor)*

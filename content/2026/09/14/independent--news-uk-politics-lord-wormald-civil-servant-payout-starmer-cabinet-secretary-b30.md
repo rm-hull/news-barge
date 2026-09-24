@@ -13,6 +13,28 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Dulwich
+people:
+- Alex Burghart
+- Antonia Romeo
+- Baron Wormald
+- Cat Little
+- Chris Wormald
+- Gareth Davies
+- Keir Starmer
+- Liz Truss
+- Lord Wormald
+- Tom Scholar
+organisations:
+- Cabinet Office
+- Civil Service
+- Government
+- House of Commons
+- Labour Party
+- NAO
+- National Audit Office
+- Treasury
 ---
 
 Newly published official accounts show that a senior mandarin forced from his post after 14 months during Sir Keir Starmer’s government received a record compensation payout approaching £860,000.

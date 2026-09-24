@@ -10,6 +10,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- U.S.
+people:
+- Lin Qiao
+- Nik Albarran
+- Patrick Collison
+organisations:
+- AI
+- Alibaba
+- DeepSeek
+- Fireworks
+- Gemini’s
+- Google
+- Jellyfish
+- Moonshot
+- Nvidia
+- OpenAI
+- OpenAI’s APIs
+- OpenRouter
+- Poolside
+- Ramp
+- Stripe
+- TechCrunch
 ---
 
 Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open-weight AI models and benchmarks.

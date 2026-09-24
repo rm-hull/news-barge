@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- DADE
+- Puerto Rico
+- San Juan
+- South Florida
+people:
+- Kelly Nantel
+- Ray Jadallah
+- Romiersky Rodriguez
+organisations:
+- 21 Air
+- Amazon
+- Luis Munoz Marín International Airport
+- Miami International Airport
+- Miami-Dade Fire Rescue
+- Miami-Dade Sheriff’s Office
+- NBC
+- National Transportation Safety Board
+- Prime Air
+- The Miami Herald
+- WTVJ
 ---
 
 Video of the Amazon cargo plane crash that killed five people at Miami International Airport Sunday has revealed the dramatic moment police discovered a miracle survivor trapped inside a mangled car.

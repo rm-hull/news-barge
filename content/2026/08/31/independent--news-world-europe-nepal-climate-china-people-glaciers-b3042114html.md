@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Austria
+- Bangladesh
+- Bengaluru
+- China
+- China-Nepal
+- Dhading
+- Dhaka
+- Himalayas
+- Kush Himalaya
+- Nepal
+- Nuwakot
+- Rasuwa
+people:
+- Himanshu Thakkar
+- Jakob Steiner
+- Ramraj Narasimhan
+organisations:
+- AP
+- Associated Press’
+- Coalition for Disaster Resilient Infrastructure
+- Independent Power Producers’ Association
+- International Center for Integrated Mountain Development
+- South Asia Network on Dams, Rivers and People
+- University of Graz
+- ___ Sibi Arasu
 ---
 
 Workers shoveled thick mud from a flood-ravaged power station in central Nepal, trying to revive a key node that supplies electricity to more than 20,000 people. But as they cleared debris from equipment buried by last week's catastrophic floods, there was hope the plant would not simply be rebuilt in the same place, beside the river that destroyed it.

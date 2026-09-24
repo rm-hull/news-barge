@@ -13,6 +13,26 @@ categories:
 - York
 - Food & Cooking
 - Health & Fitness
+locations:
+- Acomb
+- Blossom Street
+- Broadway
+- Hull Road
+- Milner Street
+- Museum Street
+- Newgate
+- York Road
+people: []
+organisations:
+- Brewhemian Hopsody
+- Costa Coffee
+- FSA
+- Food Standards Agency
+- KFC
+- Mollies Sweet Treats
+- Shambles Market Food Court
+- Smokehouse Burritos
+- The Black Bull Hotel
 ---
 
 *(Image: FSA)*

@@ -12,6 +12,16 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/18385187.jpg?type=og-image
+locations:
+- A1041 Bawtry Road
+- Canal Road
+- Chester Court Road
+- Newsquest
+- North Yorkshire
+- Thief Lane
+- Vivars Way
+people: []
+organisations: []
 ---
 
 *(Image: Newsquest)*

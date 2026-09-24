@@ -12,6 +12,15 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Germany
+- Saxony-Anhalt
+- Tangermünde
+people:
+- Julia
+- Ulrich Siegmund
+organisations:
+- AfD
 ---
 
 Alternative for Germany (AfD) candidate Ulrich Siegmund cast his ballot Sunday in Saxony-Anhalt’s state election, arriving at the polling station in his hometown of Tangermünde with his wife Julia.

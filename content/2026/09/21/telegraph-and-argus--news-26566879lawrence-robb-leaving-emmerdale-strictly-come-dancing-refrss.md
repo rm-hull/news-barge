@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473490.jpg?type=og-image&xType=0&yType=85
+locations:
+- Bradford
+- Dales
+- Emmerdale
+- UK
+people:
+- Emmerdale
+- Lawrence Robb
+- Mackenzie Boyd
+- Moira Dingle
+organisations:
+- BBC
+- Emmerdale
+- ITV
+- Strictly
+- Yorkshire
 ---
 
 Fans of Yorkshire soap Emmerdale have been speculating about the future of Lawrence Robb's character after the actor signed up for this year's Strictly Come Dancing.

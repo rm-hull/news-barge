@@ -14,6 +14,35 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations: []
+people:
+- Alex Winter
+- Beau Jackson
+- Gerardine Sacdalan
+- Hannibal Lecter
+- Heather Chandler
+- Heather Duke
+- Heather McNamara
+- Jason JD Dean
+- Jessica Ibadin
+- Keanu Reeves
+- Kevin Murphy
+- Kurt
+- Laurence O’Keefe’s
+- Liberty Stottor
+- Lou Henry
+- Louis Hearsey
+- Markus Sodergren
+- Pamela Raith
+- Ram
+- Veronica Sawyer
+- Westerberg High
+- Winona Ryder
+organisations:
+- Leeds Grand Theatre
+- Liberty Stottor
+- The Heathers
+- The Heathers’
 ---
 
 IF it isn’t already, Heathers The Musical is following in the wake of Richard O’Brien’s The Rocky Horror Show, by rapidly becoming one of theatre land’s handful of ‘cult’ shows.

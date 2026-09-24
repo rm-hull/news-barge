@@ -13,6 +13,52 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- BBC
+- Bournemouth
+- Canada
+- County Durham
+- Italy
+- UK
+- West End
+people:
+- Aleksandra Isaeva
+- Alexis Warr
+- Aljaž Škorjanec
+- Amy Dowden
+- Annie
+- Anton Du Beke
+- Carlos Gu
+- Craig Revel Horwood
+- Cristian Priori
+- Dianne Buswell
+- Emma Willis
+- Gorka Marquez
+- Johannes Radebe
+- Josh Widdicombe
+- Jowita Przystal
+- Julian Caillon
+- Kai Widdrington
+- Karen Hauer
+- Katya Jones
+- Lauren Oakley
+- Lethabo Monametsi
+- Luba Mushtuk
+- Maddie Ingoldsby
+- Mark Karmalita
+- Michelle Tsiakkas
+- Motsi Mabuse
+- Nancy Xu
+- Neil Jones
+- Nikita Kuzmin
+- Shirley Ballas
+- Vito Coppola
+organisations:
+- BBC One
+- BBC Studios
+- Strictly
+- TV
+- iPlayer
 ---
 
 *(Image: BBC/BBC Studios)*

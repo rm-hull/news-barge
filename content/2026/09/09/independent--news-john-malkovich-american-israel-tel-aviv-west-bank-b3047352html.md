@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Chile
+- Gaza
+- Israel
+- Tel Aviv
+- U.S.
+- West Bank
+people:
+- Alon Yurik
+- John Cusack
+- John Malkovich
+- Sam Rockwell
+organisations:
+- CIA
+- Con Air
+- Tel Aviv
+- The Hollywood Reporter
 ---
 
 John Malkovich has canceled a planned performance in Israel after promoters circulated a quote attributed to the American actor that he said was completely false. The producer of the show acknowledged the mistake, citing “human error.”

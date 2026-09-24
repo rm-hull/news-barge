@@ -17,6 +17,65 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Canyon Road
+- Chelsea
+- Dublin
+- Europe
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New Mexico
+- New York City
+- Russia
+- Santa Fe
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Anthony Hutton
+- Bradley Barcola
+- Burnham
+- David Miliband
+- De Zerbi
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Mikel Arteta
+- Nourah
+- Putin
+- Raheem Sterling
+- Sam Ryder
+- Tom Grennan
+- Trump
+- Zelensky
+organisations:
+- Burnham
+- Chelsea
+- Cowboys
+- De Zerbi
+- ELITE
+- Labour
+- Liverpool
+- MI6
+- Motors
+- Premier League
+- Santa Fe Police Department
+- See.Sense
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

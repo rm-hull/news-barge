@@ -14,6 +14,25 @@ categories:
 - UK
 - Science
 - History
+locations:
+- Auschwitz
+- Brazil
+- Europe
+- Germany
+- Latin America
+- Poland
+- Sao Paulo
+- Switzerland
+- São Paulo
+people:
+- Daniel Munoz
+- Gérard Wettstein
+- Josef Mengele
+organisations:
+- Federal Administrative Court
+- Federal Archives
+- Mengele
+- Red Cross
 ---
 
 The Swiss federal intelligence service on Thursday released a 200-page dossier on Josef Mengele, the infamous Nazi war criminal and German doctor dubbed the "Angel of Death" for conducting horrific medical experiments on Auschwitz prisoners.

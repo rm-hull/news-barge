@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- City Eye
+- Culture House
+- Europe
+- Keel Square
+- New North East
+- North East
+- Sunderland
+- UK
+people:
+- Chris Brown
+- James Hensman
+- Seeper
+- Stuart Mckenna
+organisations:
+- Atrium
+- Culture House
+- Culture House Sunderland
+- DigiLED
+- FaulknerBrowns Architects
+- Immersion Gallery
+- LED
+- National Centre for Creative Smart Cities
+- Russell Hall
+- Seeper
+- Sunderland City Council
+- Sunderland Stories
 ---
 
 A new cultural venue combining a city library with digital experiences has opened in the North East, promising to inspire residents and visitors for decades.

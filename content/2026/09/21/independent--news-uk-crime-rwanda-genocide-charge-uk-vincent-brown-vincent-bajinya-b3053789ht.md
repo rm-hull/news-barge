@@ -13,6 +13,27 @@ categories:
 - True Crime
 - History
 image: https://static.independent.co.uk/2026/09/11/15/5b02683d66cffe50f712b38a4d2b3647Y29udGVudHNlYXJjaGFwaSwxNzg5MjIyMDkw-2.25400204.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Islington
+- Kigali
+- London
+- Rugenge
+- Rwanda
+- UK
+- Westminster Magistrates’ Court
+people:
+- Frank Ferguson
+- Helen Flanagan
+- Vincent Bajinya
+- Vincent Brown
+organisations:
+- CPS Special Crime and Counter Terrorism Division
+- Counter Terrorism Policing London
+- Crown Prosecution Service
+- Metropolitan Police
+- Metropolitan Police War Crimes Team
+- War Crimes Team
+- War Crimes Teams
 ---
 
 A man has been charged with crimes linked to the Rwanda genocide in 1994 in the first case of its kind to be brought in the UK.

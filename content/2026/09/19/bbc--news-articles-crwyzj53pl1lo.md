@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg
+locations:
+- Massachusetts
+- Singapore
+- US
+people:
+- Chuck Taylor
+- Converse
+- Karina
+organisations:
+- Aespa
+- Chuck
+- Converse
+- Instagram
+- K-pop
+- KKK
+- Ku Klux Klan
+- Nike
 ---
 
 ![The Converse name is seen on a storefront at an airport in Singapore earlier this month](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg)

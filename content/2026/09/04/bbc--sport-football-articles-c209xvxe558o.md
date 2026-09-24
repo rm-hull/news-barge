@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- Brighton
+- Etihad Stadium
+- Ipswich Town Gakpo
+- Ipswich Town.
+- Iraola
+- Liverpool
+- Netherlands
+- Paris St-Germain
+- Portman Road
+- Selhurst Park
+- Suffolk
+- Sweden
+- Tyneside
+- tormentingIpswich Town
+people:
+- Alexander Isak
+- Andoni Iraola
+- Arne Slot
+- Bradley Barcola
+- Cody Gakpo
+- Enzo Maresca
+- Erling Haaland
+- Hugo Ekitike
+- Ismaila Sarr
+- Jacob Greaves
+- Kjell Scherpen
+- Leif Davis
+- Virgil van Dijk
+- Yankuba Minteh
+organisations:
+- Coventry City
+- Crystal Palace
+- Ipswich Town
+- Liverpool
+- Manchester City
+- Manchester United
+- Newcastle United
+- Nottingham Forest
+- Premier League
+- Tyneside
 ---
 
 Isak's early double gives Liverpool victory over Ipswich

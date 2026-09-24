@@ -14,6 +14,22 @@ categories:
 - Personal Finance & Investing
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/20/14/1239730496..?trim=0,6,0,6&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Europe
+- Scotland
+- UK
+- Wales
+people:
+- Angus Morrison
+- Bryce Cunningham
+- Mossgiel
+organisations:
+- AHDB
+- Agriculture and Horticulture Development Board
+- Lost Orchards
+- Mossgiel Organic Dairy
+- Press Association
 ---
 
 Food and milk producers in England and Wales have come under increasing pressure from extreme heat and drought, and Scottish producers have said they are looking north to fill in the gaps.

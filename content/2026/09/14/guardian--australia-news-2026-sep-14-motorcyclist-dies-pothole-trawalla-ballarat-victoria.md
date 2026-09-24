@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Ballarat
+- Trawalla Road
+- Victoria
+- Western Highway
+people:
+- Ben Carroll
+- Danny O’Brien
+- Jess Wilson
+- Michael White
+- Pedro
+- Peter Mason
+- Tiki
+organisations:
+- ABC Radio Melbourne
+- Department of Transport
+- Easyriders Australia
+- Eureka Social Riders
+- Facebook
+- Liberal
+- Nationals
+- Two Aussie Flogs
+- Victorian Coalition
 ---
 
 The death of a motorcyclist who reportedly hit a pothole has put Victoria’s government under renewed pressure over the condition of the state’s roads.

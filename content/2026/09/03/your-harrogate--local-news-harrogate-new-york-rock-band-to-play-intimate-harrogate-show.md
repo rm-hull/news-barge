@@ -12,6 +12,17 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- London
+- New York
+- New York City
+- UK
+people: []
+organisations:
+- Public and Subway to the Stars
+- Spread Eagle
+- Star Circus
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99717a2134d27949b.jpg) 

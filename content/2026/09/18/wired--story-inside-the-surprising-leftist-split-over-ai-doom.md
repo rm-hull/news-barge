@@ -11,6 +11,47 @@ image: https://media.wired.com/photos/6aa9a061b69918de8da37621/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- AI
+- Bay Area
+- New York
+- Silicon Valley
+- Washington
+people:
+- AI
+- Alan Dang
+- Alexander McCoy
+- Alexandria Ocasio-Cortez
+- Bernie Sanders
+- Donald Trump
+- Greg Casar
+- Jacob Coxon
+- Phil Aroneanu
+- Pragathi Barusubramanian
+- Rumman Chowdhury
+- Steve Bannon
+- Timnit Gebru
+- Zohran Mamdani
+organisations:
+- Anthropic
+- Center for AI Safety
+- Congressional
+- DSA Tech Working Group
+- House
+- Humane Intelligence
+- IPOing
+- Instagram
+- Irreplaceable
+- NYC DSA
+- New York City Democratic Socialists of America
+- New York DSA
+- Politico
+- Sanders’
+- Tech Action
+- Tech Action Working Group
+- Twitter
+- WIRED
+- Working Families Party
 ---
 
 On September 10, two days after researcher Jacob Coxon, who had recently quit his job at Anthropic, sounded the alarm about the industry potentially bringing about the end of humanity, the New York City Democratic Socialists of America posted a carousel of images on Instagram. The first slide was a drawing of an ouroboros—a dragon eating its own tail—set against a hot pink background. “AI alarmism and AI hype are the same story: both keep your attention on a science-fiction future to distract you from the real harms experienced in the present,” the image reads.

@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- A59
+- Broughton
+- Craven
+- Cross Keys
+- East Marton
+- Elslack
+- Leeds
+- Liverpool Canal
+- Skipton
+- YOUR
+people:
+- Lesley Tate
+organisations:
+- Fleuret
+- Fleurets
+- Lesley Tate
+- Public Notice Portal
+- Tempest Arms
+- The Bull
+- The Cross Keys
+- Wellington Pub Company
 ---
 
 ### What is the Public Notice Portal?

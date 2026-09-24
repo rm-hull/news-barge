@@ -12,6 +12,20 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/20/10/APTOPIX_Israel_Palestinians_West_Bank_539_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Al-Mughayyir
+- Iran
+- Israel
+- Jordan
+- Kuwait
+- Middle East
+- Riyadh Egypt
+- Saudi Arabia
+- West Bank
+- Yemen
+people: []
+organisations:
+- Muslim World League
 ---
 
 An Israeli man was critically wounded in a shooting attack in the West Bank, and the Israeli military conducted a widespread raid in the northern part of the occupied territory, officials said Sunday.

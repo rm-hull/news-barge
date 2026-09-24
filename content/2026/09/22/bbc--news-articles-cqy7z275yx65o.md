@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- India
+- Sri Lanka
+people:
+- Gotabaya Rajapaksa
+- Maithripala Sirisena
+- Naufer Moulavi
+- Suresh Sallay
+organisations:
+- Channel 4
+- High Court
+- Supreme Court
 ---
 
 ![A man with a beard, skullcap and face mask being led out of a bus by four police officers](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg)

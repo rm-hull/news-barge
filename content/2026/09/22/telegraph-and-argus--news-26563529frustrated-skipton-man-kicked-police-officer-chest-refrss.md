@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/19635683.jpg?type=og-image&xType=0&yType=141
+locations:
+- Skipton Magistrates Court
+- Willow Way
+people:
+- Christopher Johnson
+organisations:
+- Magistrates Bench
+- Newsquest
+- SKIPTON
 ---
 
 *(Image: Newsquest)*

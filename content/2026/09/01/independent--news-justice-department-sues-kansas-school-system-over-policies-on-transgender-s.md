@@ -13,6 +13,32 @@ categories:
 - UK
 - Society & Culture
 - Law & Justice
+locations:
+- America
+- California
+- Idaho
+- Iowa
+- Kansas City
+- Kansas’
+- Minnesota
+- Topeka
+people:
+- Donald Trump
+- Harmeet K. Dhillon
+- Kris Kobach
+organisations:
+- AP
+- Associated Press’
+- DOJ
+- Defense of Freedom Institute
+- Department of Education
+- Education Department
+- FERPA
+- Justice Department
+- LGBTQ
+- Olathe
+- Shawnee Mission
+- U.S. Department of Justice
 ---
 
 The U.S. Department of Justice filed a federal lawsuit Tuesday against the school system in Kansas City, Kansas, over its policies on transgender students.

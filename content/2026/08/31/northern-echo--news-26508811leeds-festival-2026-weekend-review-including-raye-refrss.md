@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bramham Park
+- Leeds
+- North
+- The Gallery
+- US
+people:
+- Adam Kennedy
+- Adela
+- Chris Martin
+- Cruz Beckham
+- Dave Grohl
+- David
+- Gene Gallagher
+- Gwyneth Paltrow
+- JADE
+- Kasabian
+- Liam Gallagher
+- Moses Martin
+- Raye
+- Skye Newman
+- Slayyyter
+- Sombr
+- Victoria Beckham
+- Violet Grohl
+organisations:
+- Charli XCX
+- Foo Fighters
+- The Grid
+- Villanelle
 ---
 
 If you followed the forecast over the last week, yellow weather warnings and thunderstorms were predicted across the country over the August Bank Holiday weekend.

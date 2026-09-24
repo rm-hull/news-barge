@@ -13,6 +13,17 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- County Durham
+- John Street North
+- Meadowfield
+- North Durham
+- University Hospital
+people: []
+organisations:
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

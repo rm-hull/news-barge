@@ -15,6 +15,20 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Creator Economy & Marketing
+locations:
+- Australia
+- US
+people:
+- Adam Mosseri
+- Anthony Albanese
+- Instagram
+organisations:
+- Albanese
+- Algo Confessions
+- Instagram
+- Labor
+- Meta
+- Meta’s AI
 ---
 
 Instagram’s chief executive has said users will have a worse experience in an algorithm-free world, seeing more brand-related content, and spend less time on the app.

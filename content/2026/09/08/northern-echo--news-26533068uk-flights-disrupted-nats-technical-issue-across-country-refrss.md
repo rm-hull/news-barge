@@ -11,6 +11,36 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Aberdeen
+- Belfast
+- County Durham
+- East Midlands
+- England
+- Glasgow
+- Hampshire
+- Jersey
+- Manchester
+- Newcastle
+- North East
+- Southampton
+- Stansted
+- Swanwick
+- UK
+- Wales
+people:
+- SARAH CALDECOTT
+organisations:
+- BBC TV
+- Birmingham Airport
+- CSI
+- Heathrow Airport
+- Manchester Airport Group
+- NATS
+- National Air Traffic Services
+- Newcastle Airport
+- Northern Echo
+- Teesside Airport
 ---
 
 *(Image: SARAH CALDECOTT)*

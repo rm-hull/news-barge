@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- The Milner
+- UK
+- York
+people:
+- P.J Staffing
+organisations:
+- PJ Staffing
+- Yorkshire
 ---
 
 The clock is ticking – as we’re in the final hours to nominate your business for the YorkMix Choice Awards 2026.

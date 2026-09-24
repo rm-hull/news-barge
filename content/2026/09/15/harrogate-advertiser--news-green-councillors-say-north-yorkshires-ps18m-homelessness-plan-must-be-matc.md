@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Home, Garden & DIY
+locations:
+- North Yorkshire
+people:
+- Coun Mike Schofield
+- Mike Schofield
+organisations:
+- '## Green'
+- General Fund
+- Harlow
+- Housing Revenue Account
+- Joseph Rowntree Foundation
+- North Yorkshire Council’s Executive
+- North Yorkshire Green
+- St George’s
 ---
 
 # Green councillors say North Yorkshire's £18m homelessness plan must be matched by affordable homes

@@ -13,6 +13,43 @@ categories:
 - York
 - History
 - News & Politics
+locations:
+- Bootham Park
+- Canterbury
+- City of Iron
+- Could York
+- Europe
+- Greenwich
+- Holgate Hill
+- Saltaire
+- Sheffield
+- Steel
+- UK
+- Walkers Iron Foundry
+- Walmgate
+people:
+- Angela Rainer
+- Derek Reed
+- Diddums!
+- Farage
+- Mick HorsmanMoorland
+- Timothy Wynn WerninckDodgson TerraceAcombYork
+- Trump
+- York
+organisations:
+- Durham
+- Fountain’s Abbey
+- Jodrell Bank
+- Labour
+- Reform
+- Stonehenge
+- The Press
+- UNESCO
+- WHS
+- World Heritage
+- World Heritage Committee
+- World Heritage Status
+- York Bid
 ---
 
 *(Image: Newsquest)*

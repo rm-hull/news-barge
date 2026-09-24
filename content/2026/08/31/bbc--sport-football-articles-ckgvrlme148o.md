@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Argentina
+- Chelsea
+- City
+people:
+- Chelsea
+- Enzo Fernandez
+- Enzo Fernandez.
+- Enzo Maresca
+organisations:
+- Chelsea
+- City
+- Manchester Cityhave
+- Premier League
 ---
 
 ![Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/894/cpsprodpb/d06d/live/6a65f2f0-a57c-11f1-ab36-5701eb724375.jpg)

@@ -16,6 +16,20 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- Calverley
+- Farsley
+- Leeds Homes
+- Richmond House
+- Richmond Road
+- YOUR
+people:
+- Coun Timmins
+- Craig Timmins
+organisations:
+- Labour
+- Leeds City Council
+- Public Notice Portal
 ---
 
 *(Image: Leeds City Council)*

@@ -10,6 +10,22 @@ description: 'The Prusa CORE One+ Gen 2 INDX 8T is the 3D printer I''ve been wai
 image: https://cdn.mos.cms.futurecdn.net/GNnRJt76htsKSVQ77zBEhM-1200-80.jpg
 categories:
 - Technology & Software
+locations:
+- Prusa
+- PrusaSlicer
+people:
+- Alastair
+- Prusa
+organisations:
+- Bambu Lab H2C
+- Bondtech
+- Future
+- INDX
+- Prusa Research
+- Snapmaker
+- TechRadar Pro
+- TechRadar Prusa
+- XL
 ---
 
 ### TechRadar Verdict

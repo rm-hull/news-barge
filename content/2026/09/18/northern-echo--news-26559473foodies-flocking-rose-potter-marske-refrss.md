@@ -14,6 +14,23 @@ categories:
 - Arts & Culture
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21469186.jpg?type=og-image&xType=0&yType=46
+locations:
+- Budapest
+- Cleveland Way
+- East Cleveland
+- Europe
+- Marske
+- North East
+- North Yorkshire
+- UK
+people: []
+organisations:
+- African Martini
+- Cellar Espelt
+- Cleveland Way Charcuterie
+- Newsquest
+- Nuts & Berries
+- Rose & Potter
 ---
 
 Inspired by a Christmas market abroad, this North East wine bar and deli is known for artisan platters, fine wines and home-cured charcuterie.

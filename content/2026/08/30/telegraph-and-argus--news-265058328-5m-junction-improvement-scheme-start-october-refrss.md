@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Allerton
+- Bradford Royal Infirmary
+- Carlisle Road
+- Church Street
+- Cross Road
+- Holme Wood
+- Thornton Road
+- Toller Lane
+- Toller Lane junction
+- Toucan
+- West Bradford Cycle Superhighway
+- Whetley Hill
+- Whetley Lane
+people: []
+organisations:
+- Authority’s Transport Capital Programme
+- Transport Capital Programme
+- West Yorkshire Combined Authority’s Investment Committee
 ---
 
 *(Image: T&A)*

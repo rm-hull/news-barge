@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Britain
+- Europe
+- Kyiv
+- London
+- Moscow
+- Poland
+- Russia
+- Sweden
+- Ukraine-Poland
+- Volyn
+- Western Ukraine
+- Yagodyn
+- Yahodyn
+people:
+- Andrii Sybiha
+- Boris Johnson
+- Carl Bildt
+- Vladimir Putin
+organisations:
+- EU
+- Nato
+- The Independent
+- Ukrainian Railways
+- Ukrzaliznytsia
 ---
 
 Boris Johnson has hit out at Vladimir Putin after a Russian drone targeted the railway line he was travelling on.

@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Cumberland House
+- Cumberland Street
+- Cumberland Villa
+- England
+- King's Staith
+- River Ouse
+- YOUR
+- York
+people:
+- William Cornwall
+organisations:
+- Cumberland House
+- Duke of Cumberland
+- Helmsley Group
+- McDonald's
+- Public Notice Portal
+- York Council
 ---
 
 ### What is the Public Notice Portal?

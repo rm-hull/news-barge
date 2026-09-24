@@ -12,6 +12,15 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- County Durham
+- Darlington
+- Stockton
+people:
+- Jo Neesam
+organisations:
+- Darlington Borough Council
+- Durham County Council
 ---
 
 Darlington’s new food-waste bins have kept hundreds of tonnes of rubbish out of landfill, the council said.

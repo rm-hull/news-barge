@@ -14,6 +14,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cleveland
+- Foxrush Close
+- Micklow Close
+- Middlesbrough
+- Owen Humphreys
+- PA
+- Redcar
+- South Bank
+- Teesside Crown Court
+- Teesside Magistrates Court
+people:
+- Cole Robert Worthy
+- Jakub Matusiak
+- Kai Beattie
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Richard McCarthy
+- Stuart Boulton
+- Theo Rae
+- Tom Clough
+- Wayne Fox
+organisations:
+- A66
+- Cameron George
+- Cleveland Police
+- Middlesbrough
+- PA
 ---
 
 Five people arrested as part of the investigation into the fatal A66 crash have now been bailed or charged, police have confirmed.

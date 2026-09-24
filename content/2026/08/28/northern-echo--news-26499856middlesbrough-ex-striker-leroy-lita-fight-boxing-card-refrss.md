@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Sports
 - Health & Fitness
+locations:
+- County Durham
+- Grosvenor
+- London
+- Park Lane
+people:
+- Anthony Gardner
+- Armand Traore
+- David Norris
+- Gary Madine
+- Graham Stack
+- Harlee Dean
+- Jamie Sendles-White
+- Jay Emmanuel-Thomas
+- Lee Cook
+- Leroy Lita
+- Martin Woods
+- Matthew Briggs
+- Ranger
+- Sebastien Bassong
+- Simon Cox
+organisations:
+- Arsenal
+- Grosvenor House Hotel
+- Middlesbrough
+- Newcastle United
+- Nile Ranger
+- Pro Project Promotions
 ---
 
 *(Image: Supplied)*

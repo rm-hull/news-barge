@@ -11,6 +11,60 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
+locations:
+- Australia
+- Bournemouth
+- CA
+- Canada
+- Etihad Stadium
+- London
+- Man City
+- PT
+- Sunderland
+- Sunderland.
+- UK
+- US
+- USA
+- canada
+people:
+- Allan
+- Enzo Le Fée
+- Enzo Maresca
+- Erling Haaland
+- Floyd Samba
+- Greg Lea
+- Man Utd
+- Peacock
+- Phil Foden
+- Wilfried Zaha
+organisations:
+- AU
+- AZ
+- Arsenal
+- Black Cats
+- Crystal Palace
+- ESPN
+- Europa League
+- FourFourTwo
+- Fubo
+- Future Publishing
+- Guardian
+- Man City
+- Manchester City
+- NordVPN
+- Norwich
+- Peacock Premium
+- Port Vale
+- Premier League
+- Regis Le Bris'
+- Sky Go
+- Sky Sports
+- Sky TV
+- Stan Sport
+- Sunderland
+- The Set Pieces
+- Walmart
+- Whitehorse Manor
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg)

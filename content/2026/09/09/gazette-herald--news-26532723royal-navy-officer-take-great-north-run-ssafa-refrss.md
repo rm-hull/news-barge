@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Newcastle
+- South Shields
+people:
+- Couch
+- Ms Cross
+- Sandra Cross
+organisations:
+- Armed Forces
+- Royal Navy Petty Officer
+- SSAFA
 ---
 
 A Royal Navy Petty Officer will take on the Great North Run less than a year after starting her running journey.

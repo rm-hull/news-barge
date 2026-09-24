@@ -11,6 +11,36 @@ categories:
 - Technology & Software
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Australia
+- Canada
+- Hollywood
+- Hulu
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+people:
+- Bret
+- Debbie
+- Hayes Warner
+- Igby Rigney
+- Kaia Gerber
+- Lucy Buglass
+- Matt
+- Rhonda!”:**
+- Robert
+- Susan
+organisations:
+- Disney
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- TechRadar
+- The Shards
+- The Simpsons
+- The Trawler
 ---
 
 ![Headshots of the Shards main cast, lit with eerie blue lighting](https://cdn.mos.cms.futurecdn.net/bDXvjPpy65XgaBk9K4yva9.webp) 

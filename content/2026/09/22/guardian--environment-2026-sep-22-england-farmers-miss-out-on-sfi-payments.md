@@ -14,6 +14,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/3cab5525c922a4f709031d956d4aeb6d710a177b/283_0_4241_3392/master/4241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cd60a4a1c4c24c3df60ea95d5789180
+locations:
+- Iran
+people:
+- Alice Groom
+- Andy Burnham
+- Martin Lines
+- Vicki Hird
+organisations:
+- Defra
+- EU
+- Lines
+- NFU
+- Nature Friendly Farming Network
+- Oasis
+- RSPB
+- SFI
+- The Wildlife Trusts
 ---
 
 Thousands of farmers have been left empty-handed with the government’s 2026 nature funding spent in just six hours.

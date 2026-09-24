@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Europe
+- Gaza
+- Israel
+- Jerusalem
+- Judea
+- Masafer Yatta
+- Riverway
+- Sea
+- UK
+- US
+- Washington
+- West Back
+- West Bank
+people:
+- '## Miliband'
+- Adrian Ramsay
+- Alex Croft
+- Andy Burnham
+- Basel Adra
+- Benjamin Netanyahu
+- Carla Denyer
+- Diane Abbot
+- Diane Abbott
+- Doron Spielman
+- Ed Miliband
+- Ellie Chowns
+- Fahad Ansari
+- Gideon Saar
+- Hannah Spencer
+- Jeremy Corbyn
+- John McDonnell
+- Kerry Moscogiuri
+- Marco Rubio
+- Mark Sedwill
+- Mike Huckabee
+- Naz Shah
+- Phil Rosenberg
+- Richard Burgon
+- Sam Fromson
+- Sam Kiley
+- Sian Berry
+- Zarah Sultana
+organisations:
+- Amnesty International UK
+- Board of Deputies
+- Golders Green
+- International Centre of Justice
+- International Criminal Court
+- Labour
+- Sky News
+- The Independent
+- Trump
+- West Bank Palestinians The Independent
 ---
 
 Andy Burnham said Britain will continue to “act in support of our values” after Israel retaliated against UK sanctions on goods from illegal settlements in the West Bank.

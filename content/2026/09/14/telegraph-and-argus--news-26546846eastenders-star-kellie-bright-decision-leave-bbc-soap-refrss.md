@@ -13,6 +13,37 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Albert Square
+- BBC
+- Canada
+- Walford
+people:
+- Ash Panesar
+- Cindy Beale
+- Danny Dyer
+- EastEnders
+- Gurlaine Kaur Garcha
+- Honey Mitchell
+- Jack Barns
+- Keanu
+- Kellie Bright
+- Kieron McCarron
+- Linda Carter
+- Max Branning
+- Mick Carter
+- Navin Chowdhry
+- Nish Panesar
+- Sakira Vel
+- Suki Kaur Panesar
+- Zoe Slater
+organisations:
+- '## EastEnders'
+- BBC
+- Balvinder Sopal
+- Instagram
+- Queen Vic
+- Radio Times
 ---
 
 *(Image: BBC/Jack Barns/Kieron McCarron)*

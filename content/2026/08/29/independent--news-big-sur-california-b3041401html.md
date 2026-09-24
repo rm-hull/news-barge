@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Big Sur
+- California
+- Highway 1
+- Monterey County
+people: []
+organisations: []
 ---
 
 Wildfires burn along California's scenic Big Sur coast, in photos

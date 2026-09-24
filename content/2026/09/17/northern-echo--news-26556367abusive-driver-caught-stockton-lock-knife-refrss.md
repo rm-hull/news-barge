@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brittannia Road
+- Castlereagh Road
+- Darlington Burglar
+- High Street
+- North East
+- Stockton
+- Wolviston
+people:
+- Carl Farrington
+- Elisha Marsay
+- Nathan Adams
+- Pair
+- Stephen Constantine
+organisations:
+- Teesside Crown Court
 ---
 
 An "abusive" driver spotted outside a suspected drugs den was caught carrying a lock knife on his keyring.

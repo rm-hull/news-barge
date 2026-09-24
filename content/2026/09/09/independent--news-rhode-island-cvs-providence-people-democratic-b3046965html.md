@@ -12,6 +12,42 @@ image: https://static.independent.co.uk/2026/09/09/05/Election_2_26_Rhode_Island
 categories:
 - News & Politics
 - UK
+locations:
+- Baltimore
+- Cape Cod
+- Connecticut
+- Delaware
+- Francis Scott Key Bridge
+- Interstate 195
+- Kansas
+- Maryland
+- Massachusetts
+- New Hampshire
+- Providence
+- Rhode Island
+- Seekonk River
+- Sen
+- U.S.
+- Washington Bridge
+people:
+- Aaron Guckian
+- Bruce Sundlun
+- Chris Dodd
+- Dan McKee
+- Elaine Pelino
+- Foulkes'
+- Gina Raimondo
+- Helena Foulkes
+- Jeff Colyer
+- Kris Kobach
+- Myrth York
+- Thomas
+organisations:
+- CVS
+- CVS’
+- Hudson’s Bay Company
+- Rhode Islanders
+- The Associated Press
 ---
 
 Rhode Island Gov. Dan McKee is hoping to avoid becoming the first incumbent governor in any state to lose a primary since 2018 as he tries to fend off an intraparty challenge from former CVS executive Helena Foulkes in Wednesday's state primary.

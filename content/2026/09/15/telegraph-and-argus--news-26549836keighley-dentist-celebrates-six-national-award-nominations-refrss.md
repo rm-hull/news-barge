@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Cavendish Street
+- Idle
+- Keighley
+- North East
+- Santoni
+- Wibsey
+people: []
+organisations:
+- Charity or Community Project
+- Patient Care
+- Taylored Dental Care
+- Treatment of Nervous Patients
 ---
 
 *(Image: Supplied)*

@@ -11,6 +11,14 @@ image: https://static.independent.co.uk/2026/09/10/15/Algeria_UAE_83851.jpg?widt
 categories:
 - News & Politics
 - UK
+locations:
+- Algeria UAE
+- Gulf
+- United Arab Emirates
+people: []
+organisations:
+- APS
+- Foreign Ministry
 ---
 
 Official media: Algeria severs diplomatic ties with the United Arab Emirates

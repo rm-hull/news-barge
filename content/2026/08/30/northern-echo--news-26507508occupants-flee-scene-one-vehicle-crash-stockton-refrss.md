@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Durham Road
+- Stockton
+- Teesside
+people: []
+organisations:
+- Cleveland Police
 ---
 
 *(Image: POLICE)*

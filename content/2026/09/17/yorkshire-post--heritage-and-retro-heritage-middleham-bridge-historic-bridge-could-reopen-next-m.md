@@ -14,6 +14,15 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Grade II
+- Leyburn
+- Middleham Bridge
+people:
+- Coun Taylor
+- Malcolm Taylor
+organisations:
+- North Yorkshire Council
 ---
 
 # Middleham Bridge: Historic bridge could reopen next month after being hit by lorry

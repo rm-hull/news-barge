@@ -13,6 +13,14 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Burn Valley
+- North East
+- UK
+people:
+- Graham Harrison
+organisations:
+- Hartlepool Borough Council
 ---
 
 *(Image: Reform UK)*

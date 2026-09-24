@@ -12,6 +12,44 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fd6/live/4db0fdc0-b51d-11f1-b01b-6bc45d07eb85.jpg
+locations:
+- England
+- Holland
+- New Zealand
+- Nottingham
+- Trent Bridge.
+people:
+- ):** Higgins
+- ):** Kelly
+- Ajaz Patel
+- Ben Cox
+- Ben Geddes
+- Hamza Shaikh
+- Harry Duke
+- Ian Holland
+- Josh De Caires
+- Max Holden
+- Naavya Sharma
+- Nathan Fernandes
+- Nick Kelly
+- Rehan Ahmed
+- Rishi Patel
+- Ryan Higgins
+- Ryan Higgins'
+- Stephen Eskinazi
+- Toby Roland-Jones
+- Tom Helm
+- Tom Scriven
+- Trent BridgeMiddlesex
+- Zafar Gohan
+organisations:
+- '## Higgins & Roland-Jones'
+- Duke
+- Foxes
+- Leicestershire
+- Metro Bank
+- Middlesex
+- Yorkshire
 ---
 
 ![Middlesex lift the One-Day Cup trophy](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5fd6/live/4db0fdc0-b51d-11f1-b01b-6bc45d07eb85.jpg)

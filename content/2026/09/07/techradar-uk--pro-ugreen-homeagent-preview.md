@@ -13,6 +13,23 @@ image: https://cdn.mos.cms.futurecdn.net/DhrRjyPnjED6Qi4TSi3Fya-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AIoT
+- Berlin
+- UGreen
+people:
+- Harry Padoan
+- Samuel Zhang
+- UGreen
+- Uliya
+organisations:
+- AI
+- Google News
+- HomeAgent
+- IFA
+- MA100
+- TechRadar Pro
+- UGreen
 ---
 
 ![UGreen HomeAgent on display at IFA 2026](https://cdn.mos.cms.futurecdn.net/DhrRjyPnjED6Qi4TSi3Fya.jpg) 

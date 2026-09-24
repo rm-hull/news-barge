@@ -14,6 +14,35 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/08/2026-09-20T183019Z_1848722710_RC26NNA8PNJY_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY.JPG?trim=0,258,0,258&width=1200&height=800&crop=1200:800
+locations:
+- Black Sea
+- European Russia
+- Iran
+- Moscow
+- Omsk
+- Siberia
+- Strait of Hormuz
+- US
+- Ukraine
+- Urals
+people:
+- Donald Trump
+- John Lough
+- Sergei Sobyanin
+- Vladimir Putin
+organisations:
+- CDUs
+- Duma
+- Gazprom Neft
+- General Staff
+- IEA
+- International Energy Association
+- Kyiv
+- NEST
+- New Eurasian Strategies Centre
+- Reuters
+- Washington Post
+- Yabloko
 ---
 
 On Sunday, just as polling closed in Russia’s parliamentary elections, Ukraine launched one of its biggest drone strikes on Moscow since the war broke out over four years ago.

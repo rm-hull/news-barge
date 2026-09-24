@@ -12,6 +12,23 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/19180519.jpg?type=og-image
+locations:
+- A York
+- Brooklands
+- Clifton
+- Easingwold
+- EcoDepot
+- Hazel Court
+- James Street
+- Thirsk Road
+- YOUR
+people:
+- Edward Copley-Farnell
+organisations:
+- City of York Council Licensing Team
+- Curious Coffee Company
+- Public Notice Portal
+- YO10 3DS
 ---
 
 *(Image: PA Wire/PA Photos)*

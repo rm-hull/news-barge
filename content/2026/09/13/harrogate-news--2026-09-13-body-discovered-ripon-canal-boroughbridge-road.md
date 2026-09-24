@@ -12,6 +12,14 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon Canal
+people: []
+organisations:
+- Harrogate Informer
+- North Yorkshire Police
 ---
 
 **RIPON** — Emergency services and police investigators closed a major arterial route in Ripon this morning following the discovery of a man’s body in the canal.

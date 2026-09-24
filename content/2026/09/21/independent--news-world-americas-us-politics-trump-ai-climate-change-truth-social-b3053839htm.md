@@ -12,6 +12,24 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/14/2281424316..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- AI
+- America
+- China
+- RUSSIA
+- U.S.A.
+- UKRAINE
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+organisations:
+- AI and Data Centers
+- Anthropic
+- Extreme Intelligence
+- Trump Administration
+- Truth Social
+- pro-AI
 ---
 
 Donald Trump launched a Truth Social tirade Monday on skeptics and AI experts who believe the technology is being developed too hastily and with too little oversight — likening them to environmental activists who warned of ecological collapse resulting from global warming.

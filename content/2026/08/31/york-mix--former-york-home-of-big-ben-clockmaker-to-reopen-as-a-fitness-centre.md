@@ -12,6 +12,30 @@ categories:
 - York
 - Lifestyle & Fashion
 - Health & Fitness
+locations:
+- Big Ben
+- Clifton
+- London
+- White House
+- York
+people:
+- Baron Grimethorpe
+- Carter Towler
+- Currer
+- Edmund Beckett
+- Hannah Coleman
+- William Roberts
+organisations:
+- British History Online
+- HM Revenues and Customs
+- HMRC
+- Houses of Parliament
+- Inland Revenue
+- Luftwaffe
+- Places For People
+- Post Office Telephone Management
+- Savills
+- The White House
 ---
 
 An historic York building has been transformed and is set to open to the public in weeks.

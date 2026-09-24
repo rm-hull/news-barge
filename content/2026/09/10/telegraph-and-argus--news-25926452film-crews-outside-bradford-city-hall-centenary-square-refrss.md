@@ -12,6 +12,27 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Centenary Square
+- City Hall
+- Northern England
+- Wembley
+- Yorkshire
+people:
+- Alf Wight
+- Elizabeth
+- George VI
+- James Herriot
+organisations:
+- Arsenal
+- BRADFORD
+- Channel 5
+- Liverpool
+- Playground Entertainment
+- Screen Yorkshire
+- Small
+- Yorkshire Dales
 ---
 
 BRADFORD is set to play a starring role in the new season of Channel 5's hit All Creatures Great and Small.

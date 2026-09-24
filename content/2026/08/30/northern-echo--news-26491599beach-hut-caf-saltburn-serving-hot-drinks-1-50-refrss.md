@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Beach Hut Café
+- East Cleveland
+- North Yorkshire
+- Saltburn Beach Hut Café
+- Teesside
+people:
+- Sarah Caldecott
+- Sophie Ashcroft
+organisations:
+- Beach Hut Café
+- Facebook
+- Saltburn
+- Saltburn-by-the-Sea
+- TikTok
+- TripAdvisor
 ---
 
 A seaside café tucked away in East Cleveland is becoming the go-to spot to grab a hot drink by the coast, with tea and coffee available for just £1.50.

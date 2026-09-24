@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/84d4/live/d5a8ebb0-b465-11f1-a184-cb4c2456e9a6.jpg
+locations:
+- Bridgford Stand
+- City Ground
+- Coventry
+- Highfield Road
+- Northampton Town
+- Nottingham Forest
+people:
+- Frank Lampard
+- Gordon Strachan
+- Jay Dasilva
+- John Hartson
+- Mustapha Hadji
+- Prem
+- Tony Blair
+organisations:
+- Aston Villa
+- BBC Radio 5 Live
+- Brighton
+- Coventry City
+- Forest
+- Premier League
+- Ricoh Arena
+- Sky Blue
+- Sunderland
 ---
 
 ![Jay Dasilva celebrates at the full-time whistle after Coventry's 1-0 win over Nottingham Forest](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/84d4/live/d5a8ebb0-b465-11f1-a184-cb4c2456e9a6.jpg)

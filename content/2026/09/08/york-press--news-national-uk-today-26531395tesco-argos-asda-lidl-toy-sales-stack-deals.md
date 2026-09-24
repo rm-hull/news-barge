@@ -12,6 +12,36 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- Chad Valley
+- Chad Valley Alfie
+- UK
+people:
+- Clair Hughes
+- Helen Dewdney
+- ThriftyClair
+organisations:
+- '## Argos'
+- AKA The Complaining Cow
+- Ajax
+- Aldi
+- Argos Giftie Badge Maker
+- Asda
+- Chase
+- HMRC
+- Hot Wheels
+- LEGO
+- Lidl
+- Monzo
+- Morrisons More Card
+- Nectar
+- Peppa Pig
+- Sainsbury's
+- Sainsbury’s
+- Smyths
+- Sports Direct
+- Tesco Clubcard
+- VoucherCodes
 ---
 
 *(Image: Getty Images)*

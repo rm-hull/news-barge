@@ -13,6 +13,40 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Hawthorn
+- Hazel
+- Jacobs Farm
+- Jacobs Hill Farm
+- Keighley
+- Oak
+- Rowan
+- Silsden
+- South Pennine Moors Special Protection Area
+- Turkey
+- West Yorkshire
+people:
+- Andrew Judson
+- Paul Hocking
+- Penny Hunt
+- Sam Dewar
+organisations:
+- Appellant
+- Azara Gid San
+- Bradford Council
+- Bradford Metropolitan District Council
+- Carter Jonas Estate Agents
+- Crab Apple
+- Dewar Planning Associates
+- Economy, Regeneration and Planning
+- Field Maple
+- Jacobs Wood Farm
+- Planning Inspector
+- Planning Inspectorate
+- Silver Birch
+- Temporary Stop Notice
+- UK City of Culture
+- Yorkshire Dales Wildlife Rescue
 ---
 
 # Firm ordered to tear down Yorkshire holiday homes from £1M ancient woodland and plant 100 trees

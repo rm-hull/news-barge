@@ -15,6 +15,15 @@ categories:
 - Personal Finance & Investing
 - Shopping & Deals
 - Business & Entrepreneurship
+locations:
+- Fossgate
+- York
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

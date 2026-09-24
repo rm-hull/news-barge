@@ -14,6 +14,94 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21465813.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Carlisle
+- Carmarthen
+- Central Square South
+- Chris BOOTH
+- County Durham
+- Crewe
+- East Coast Main Line
+- Edinburgh
+- Eldon Square
+- Europe
+- Forth Valley
+- Freeman Hospital
+- Gateshead
+- Glasgow
+- Greenfaulds
+- Kynren
+- Larbert
+- Lockerbie
+- London
+- Lumo
+- Milton Keynes
+- Morpeth
+- Motherwell
+- Newcastle
+- Newcastle.’
+- North East
+- Nuneaton
+- One Centre
+- Orcahrd Street
+- Preston
+- Pride
+- Richard’s
+- River Carron
+- Scotland
+- South Wales
+- St James’ Park
+- Stevenage
+- Stirling
+- UK
+- West Coast
+- West Coast Main Line
+- Westminster
+- Whifflet
+people:
+- Andrea Clover
+- Ben Cleary
+- Chris BOOTH
+- David Hughes
+- Dennis
+- Keith Merrin
+- Lumo
+- Mike Hughes
+- Peter Darrant
+- Peter Durrant
+- Richard Salkeld
+- Richards
+organisations:
+- '![]()Lumo'
+- Arup
+- BUSINESSiQ
+- Centre for Life
+- Chris BOOTH
+- DAB
+- Daft
+- Edinburgh Pride
+- FM
+- Full Circle
+- Full Circle Brew Company
+- Glasgow Pride
+- Going North East
+- Government
+- Hitachi
+- LGBTQ
+- London Paddington
+- Lumo
+- Newcastle
+- Newcastle’s Discovery Museum
+- North East Museums
+- Northern Stage
+- Out North East
+- Pride Radio
+- Purpose Coalition
+- RCXS
+- Ringtons
+- Section 28
+- Tyneside Cinema
 ---
 
 **BUSINESSiQ Editor Mike Hughes talks to Richard Salkeld, of Lumo, about how the open access rail operator is driven by affordable travel, supporting local businesses and the widest sense of regional purpose.**

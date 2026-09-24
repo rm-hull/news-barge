@@ -11,6 +11,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- UK
+people:
+- Chemmy Alcott
+- Ed Leigh
+- Philip Bernie
+organisations:
+- BBC Sport
+- Ski Sunday
 ---
 
 ![Chemmy Alcott and Ed Leigh](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/640f/live/16a777f0-a604-11f1-83fc-0df57e6b3866.jpg)

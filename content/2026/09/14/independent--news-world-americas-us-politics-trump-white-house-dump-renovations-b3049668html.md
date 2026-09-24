@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- County Clare
+- Doonbeg
+- Florida
+- Iran
+- Ireland
+- Pennsylvania Avenue
+- Rose Garden
+- South Lawn
+- U.S.
+- U.S.A.
+- Washington
+- Washington, D.C.
+- West Wing
+- White House
+people:
+- Donald Trump
+- George Washington
+- Jonathan Swan
+- Maggie Haberman
+organisations:
+- American Patriots
+- American Taxpayer
+- Department of Interior
+- East Wing
+- Lincoln Memorial
+- New York Times
+- Smithsonian’s National Museum of American History
+- Truth Social
 ---
 
 President Donald Trump has said the White House was a “dump” before he began renovating it, having been neglected by his predecessors, and boasted that it is “now in better shape than when built in 1792”.

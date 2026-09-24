@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Aldwarke Lane
+- Central Rotherham
+- Eastwood
+- Hellaby
+- Kilnhurst
+- Maltby West
+- Rotherham East
+- Rotherham East’
+- Swinton East
+people: []
+organisations:
+- Community Safety and Street Scene
+- FOI
+- Freedom of Information
+- Rotherham Council
+- Sue Procter
 ---
 
 # Council’s reveals cost of clearing fly-tipping from streets

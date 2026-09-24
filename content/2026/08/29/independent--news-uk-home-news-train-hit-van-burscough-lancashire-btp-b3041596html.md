@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Burscough
+- Manchester
+- Martins Lane
+- Southport
+- West Lancashire
+- Wigan Wallgate
+people: []
+organisations:
+- BTP
+- British Transport Police
+- National Rail
+- Network Rail
 ---
 
 A man has been killed after a train crashed into a van in West Lancashire, police confirmed.

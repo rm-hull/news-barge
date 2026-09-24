@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Dick Lane
+- Laisterdyke
+- New Lane
+people:
+- Harry Davey
+- Khadija Haider
+organisations:
+- EFR Skips & Waste Recycling
+- Telegraph & Argus
 ---
 
 A waste carrier has spoken out after one of its skip lorries overturned on a Bradford road.

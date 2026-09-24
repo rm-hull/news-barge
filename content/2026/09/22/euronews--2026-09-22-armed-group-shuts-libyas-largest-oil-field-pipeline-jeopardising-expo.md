@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/31/19/1200x675_cmsv2_facf181d-7940-5e47-96d3-a4a6e58eca3f-9923119.jpg
+locations:
+- Africa
+- Austria
+- El Sharara
+- France
+- Gulf
+- Iran
+- Libya
+- Norway
+- Spain
+- Tripoli
+- Zawiya
+people:
+- Abdulhamid Dbeibah
+- Khalifa Haftar
+- Muammar Gaddafi
+organisations:
+- Akakus Oil Operations
+- El Sharara
+- El Sharara-to-Zawiya
+- Equinor
+- NOC
+- National Oil Corporation
+- OMV
+- OPEC
+- Repsol
+- TotalEnergies
 ---
 
 ## A valve closure on the El Sharara-to-Zawiya pipeline has cut production at a field accounting for roughly a third of Libya's total output, prompting the national oil company to warn it may declare force majeure.

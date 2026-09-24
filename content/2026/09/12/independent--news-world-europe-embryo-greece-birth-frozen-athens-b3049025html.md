@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Athens
+- Australia
+- Georgia
+- Greece
+- Melbourne
+- Ohio
+people:
+- Constantinos Raptis
+- Cristina Rapti-Tzelepi
+- Giorgos
+- Kostas Pantos
+organisations:
+- Guinness World Records
+- Hellenic Society of Reproductive Medicine
 ---
 
 A woman in Greece has given birth at the age of 54, beating a government deadline to use one of her embryos which had been frozen for 22 years.

@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/02/08/2292555309..?width=1200&he
 categories:
 - News & Politics
 - UK
+locations:
+- Britain
+- Europe
+- Kyiv
+- Nazi Germany
+- North Carolina
+- Russia
+- Soviet Union
+- St Sophia
+- UK
+- Ukraine
+people:
+- Andy Burnham
+- John Healey
+- Sergei Lavrov
+- Vladimir Putin
+organisations:
+- A7
+- Foreign Office
+- G7
+- NCA
+- National Crime Agency
+- Office for Financial Sanctions Implementation
 ---
 
 Vladimir Putin has said it is a "military secret” whether or not Russia is weighing up possible strikes on British military sites, in an ominous new warning over the UK’s support for Ukraine.

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Britain
+- E1
+- East Jerusalem
+- Europe
+- Ganim
+- Gaza
+- Israel
+- Jordan.
+- Middle East
+- Palestine
+- Ramallah
+- UK
+- US
+- West Bank
+- al-Mughayyir
+people:
+- Andy Burnham
+- Donald Trump
+- Ed Miliband
+- Keir Starmer
+- Stephen Doughty
+organisations:
+- BBC News
+- Commons
+- Hamas
+- Labour
+- No 10
+- Palestinian Authority
 ---
 
 ![Israeli bulldozers near a new settlement in the West Bank](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/270b/live/676c01e0-ab24-11f1-993d-a17289144c06.jpg)

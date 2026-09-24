@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg
+locations:
+- Boston
+- Gaza
+- Gillette Stadium
+- Israel
+- Lincoln Financial Field
+- Massachusetts
+- North and South America
+- Palestine
+- Philadelphia
+- US
+- United States
+- West Bank
+people:
+- Aaron Rowe
+- Beoga
+- Cooper
+- Ed Sheeran
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+- Sadie,13
+- Victoria
+organisations:
+- BBC
+- Hamas
+- Lincoln Financial Field
+- Messina Touring Group
+- New England Patriots
+- Ticketmaster
 ---
 
 "I cannot hide how I feel anymore": Ed Sheeran addresses Macklemore row at show

@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Belgrade
+- France
+- Kosovo
+- Netherlands
+- Pristina
+- Serbia
+- Switzerland
+- The Hague
+- United States
+people:
+- Charles Smith
+- Hashim Thaci
+- Jakup Krasniqi
+- Kadri Veseli
+- Rexhep Selimi
+- Snake
+organisations:
+- European Union
+- European Union-backed
+- KLA
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- NATO
+- Thaci
 ---
 
 Former Kosovo president Hashim Thaci has been convicted of four counts of war crimes committed during his country’s war for independence from Serbia and sentenced to 25 years in prison by a European Union-backed court in the Netherlands.

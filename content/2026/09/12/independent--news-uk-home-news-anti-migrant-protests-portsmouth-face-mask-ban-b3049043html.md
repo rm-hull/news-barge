@@ -11,6 +11,23 @@ image: https://static.independent.co.uk/2026/09/10/17/369d8d519bdbb038a37c7b7082
 categories:
 - News & Politics
 - UK
+locations:
+- All Saints Church
+- Commercial Road
+- Dover Priory
+- Portsmouth
+people:
+- Daniel Thomas
+- Danny Tommo
+- Paul Bartolomeo
+organisations:
+- Hampshire Police
+- Patriot Platform
+- Portsmouth Patriot
+- RNLI
+- South Coast Patriots
+- The Patriots of Great Britain
+- Union
 ---
 
 Anti-migrant protesters are plotting ways to bypass police rules that have banned face coverings at marches in Portsmouth this weekend.

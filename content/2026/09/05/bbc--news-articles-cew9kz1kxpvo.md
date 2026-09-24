@@ -13,6 +13,49 @@ categories:
 - News & Politics
 - Technology & Software
 - Film & TV
+locations:
+- Albany County
+- Austin
+- California
+- Central America
+- Cypress-Fairbanks
+- Galveston
+- Georgia
+- Harris County
+- Houston
+- Johnson County
+- Kentucky
+- Los Angeles
+- Massachusetts
+- Minnesota
+- New York
+- Old Braeswood
+- Seattle
+- Texas
+- UK
+people:
+- Christopher Rivera
+- Flock
+- Garrett Langley
+- Jasmine Khadem Gonzalez
+- Jessie
+- Keith Self
+- Ray Schultz
+organisations:
+- ALPRs
+- Automatic Licence Plate Readers
+- BBC
+- CCTV
+- Clearview AI
+- Flock Safety
+- Harris County Sheriff's Office
+- ICE
+- Immigration and Customs Enforcement
+- Langley
+- Memorial Villages Police Department
+- Metro Transit Authority
+- Secure Justice
+- Texas Civil Rights Project
 ---
 
 Watch: Activist explains app that maps Flock camera locations

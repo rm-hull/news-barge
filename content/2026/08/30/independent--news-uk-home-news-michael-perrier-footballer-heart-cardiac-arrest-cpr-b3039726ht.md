@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Lausanne
+- London
+- Switzerland
+people:
+- Michael Perrier
+- Mr Perrier
+- Ms Perrier
+- Nadia Perrier
+organisations:
+- Blue Orchid Hospitality
+- CLA
+- CPR
+- Central London Alliance
+- Tower Suites
 ---
 
 When Nadia Perrier’s phone flashed up with her mother-in-law’s number, she immediately sensed something was badly wrong.

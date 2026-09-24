@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Inglewood
+- Los Angeles
+- Minnesota
+- Southern California
+- Tahiti
+people:
+- Alexander Soofer
+- Brian D. Harrison
+- Donye Mitchell
+- JD Vance
+- Lakiya Malone
+- Michael Young
+- Trump
+organisations:
+- Abundant Blessings
+- Big Blue Umbrella
+- Home At Last
+- Housing and Urban Development Department
+- Trump
 ---
 
 Federal authorities charged three individuals Wednesday with stealing $12 million in federal and state homelessness aid dollars to buy real estate, go on luxury trips, and purchase vintage vehicles.

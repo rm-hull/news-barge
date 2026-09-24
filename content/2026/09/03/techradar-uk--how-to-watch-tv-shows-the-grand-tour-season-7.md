@@ -12,6 +12,58 @@ categories:
 - Technology & Software
 - Sports
 - Travel
+locations:
+- Australia
+- California
+- Canada
+- Europe
+- Malaysia
+- UK
+- US
+people:
+- Francis Bourgeois
+- Francis Bourgeois:** Best
+- Jakob Barnes
+- James Engelsman
+- James May
+- Jeremy Clarkson
+- Luke Magnus Nicolson
+- Richard Hammond
+- Thomas Holland
+organisations:
+- Amazon Fire TV and Fire TV Stick
+- Amazon Prime
+- Android TV
+- Apple TV
+- Chrome
+- Chromecast
+- Clarkson's Farm
+- EE TV
+- Edge
+- FourFourTwo
+- Future Publishing
+- Golf Monthly
+- Google TV
+- HD
+- Hisense
+- LG
+- NordVPN
+- Nvidia Shield
+- Panasonic
+- Philips
+- Roku
+- Samsung
+- Sky Glass
+- Sky Q
+- Sky Stream
+- Smart TVs
+- Sony
+- TCL
+- TechRadar
+- Throttle House
+- Throttle House YouTube
+- Tom's Guide
+- Virgin Media Stream
 ---
 
 ![New presenters of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois](https://cdn.mos.cms.futurecdn.net/VrZfTB5eYPcNFczeMr7TYh.jpg) 

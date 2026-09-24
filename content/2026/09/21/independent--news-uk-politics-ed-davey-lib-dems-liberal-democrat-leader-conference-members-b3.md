@@ -14,6 +14,33 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/20/12/eb8a098072ca9f055e1816f6c9bdfd38Y29udGVudHNlYXJjaGFwaSwxNzg5OTg5MzQ4-2.85902485.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brighton
+- Hong Kong
+- UK
+people:
+- Daisy Cooper
+- Ed Davey
+- Ed”
+- Jed Marson
+- Johan Prinsloo
+- Lib Dem
+- Nathan Hunt
+- Nicholas Chan
+- Trystan Lloyd
+organisations:
+- BBC
+- Brexit
+- Devon County Council
+- EU
+- Green Lib Dem
+- Green Lib Dems
+- Lib Dem
+- Lib Dems
+- Liberal Democrat council
+- NHS
+- Tory
+- YouGov
 ---
 
 As Liberal Democrat members descend on Brighton for the party’s annual conference this week, their leader Sir Ed Davey has faced criticism from some MPs and members about the party’s relevance on the nation’s political stage.

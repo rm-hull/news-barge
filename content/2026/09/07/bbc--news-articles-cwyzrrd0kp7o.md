@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Europe
+people:
+- AI
+- Gina Neff
+- Jakub Pachocki
+- Nathan Calvin
+organisations:
+- Anthropic
+- ChatGPT-maker
+- Encode AI
+- European Union
+- Minderoo Centre for Technology and Democracy
+- OpenAI
+- University of Cambridge
 ---
 
 ![OpenAI's logo in black and white on a phone against a black and white spiral backdrop like its logo](https://ichef.bbci.co.uk/ace/standard/982/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg)

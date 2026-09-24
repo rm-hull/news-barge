@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- James Cook University Hospital
+- Marton Road
+- Middlesbrough
+- Tudor Lodge Service Station
+people:
+- Liam Loughlin
+organisations:
+- Cleveland Police
 ---
 
 *(Image: NEWSQUEST)*

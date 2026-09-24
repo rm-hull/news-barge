@@ -12,6 +12,50 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brighton
+- Finch Farm
+- France
+- Manchester City
+- Monaco
+- Paris St-Germain
+people:
+- Chelsea
+- Danny Welbeck
+- Emiliano Martinez
+- Enzo Fernandez
+- Folarin Balogun
+- James'
+- Jordan Henderson
+- Lamine Camara
+- Malo Gusto
+- Manu Kone
+- Marco Palestra
+- Maxence Lacroix
+- Moises Caicedo
+- Morgan Rogers
+- Pep Chavarria
+- Reece James
+- Romeo Lavia
+- Thiago Scuro
+- Valentin Barco
+- Xabi Alonso
+organisations:
+- Arsenal
+- Brighton
+- Chelsea Chelsea
+- Everton
+- Folarin Balogun
+- Ligue 1
+- Liverpool
+- Manchester City
+- Merseyside
+- Premier League
+- Roma
+- Strasbourg
+- Uefa
+- United States
+- bothChelseaand Monaco
 ---
 
 ![Lamine Camara (left) and Folarin Balogun (right)](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8f60/live/b73688e0-a6d7-11f1-a291-b542ee92de7c.png)

@@ -13,6 +13,93 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Acapulco
+- Black Panther
+- Cambridge
+- Carson
+- East 111th Street
+- El Barrios
+- Hamptons
+- Harlem
+- Harvard
+- India
+- Long Island
+- Lower East Side
+- Mass.
+- New York
+- Ohio
+- South Dakota
+- Spanish Methodist Church
+- Toledo
+- Vietnam
+- Washington
+- West Side
+- White House
+people:
+- Ali MacGraw
+- Arnaldo Segarra
+- Bircher
+- Bobby
+- Cesar Chavez
+- Che Guevera
+- Cinderella
+- Clay Felker
+- Dinesen
+- Eric Sevareid
+- Estevez
+- Ethel Kennedy
+- Eugene McCarthy
+- Everygirl
+- Forster
+- George McGovern
+- Gloria Steinem
+- Guy Lombardo
+- Hell
+- Henry Kissinger
+- Herman Badillo
+- Jackie Kennedy
+- Jacqueline Kennedy Onassis
+- James Baldwin
+- Jeff
+- Jimmy Breslin
+- Jimmy’s
+- John Kenneth Galbraith
+- Lee Radziwill
+- Lindsay
+- Lynn Sherr
+- Mailer-Breslin
+- Marty
+- Melvin Laird
+- Mortimer
+- Norman Mailer
+- Proust
+- Radziwills
+- Raquel Welch
+- Robert Kennedy
+- Rockefeller
+- Slender
+- Smith
+- Truman Capote
+- Wow
+organisations:
+- AP
+- Americana Hotel
+- Black Panthers
+- Cavett’s TV
+- Elaine’s
+- Esquire
+- Glamour
+- Gloria Steinem’s!
+- Gucci
+- LYNN SHERR NEW YORK
+- La Causa
+- New York
+- Pentagon
+- Phi Beta Kappa
+- Real Life
+- The Associated Press
+- then-AP
 ---
 
 EDITOR'S NOTE: Gloria Steinem, who died Wednesday, was a freelance journalist who had not yet founded Ms. Magazine when she invited The Associated Press into her apartment for a feature on a life that found her equally comfortable at high-society dinners and in tenement halls.

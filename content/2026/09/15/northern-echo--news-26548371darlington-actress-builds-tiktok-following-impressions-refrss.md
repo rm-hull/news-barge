@@ -13,6 +13,41 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- GEORGIA MICINTYRE
+- Georgia
+- North East
+- Rockliffe
+- TikTok
+people:
+- Adam Strong
+- Alan Carr
+- Carly Burns
+- Christina Bianco
+- Danny Adams
+- Freddie
+- Gemma Collins
+- Georgia McIntyre
+- Jason Cook
+- Joe McElderry
+- Michael Marouli
+- Miss McIntyre
+- Saffron
+- Si King
+organisations:
+- Darlington
+- GC
+- Groovetrain
+- Italia Conti Academy of Theatre Arts
+- London College of Music
+- NEMO
+- National Youth Theatre
+- Newcastle Theatre Royal
+- North East Music Opportunities CIC
+- Rockliffe Hall
+- South Shields
+- TOWIE
 ---
 
 Meet the Darlington actress, singer and impressionist turning a backstage habit into a growing social media career.

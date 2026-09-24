@@ -13,6 +13,20 @@ categories:
 - UK
 - Film & TV
 - Comedy & Entertainment
+locations:
+- LA
+- Peacock Theater
+people:
+- Beth Harris
+- Hacks
+- Kayla Schaeffer
+- Mariska Hargitay
+- Meg Stalter
+organisations:
+- Associated Press
+- NBC
+- Peacock
+- Special Victims Unit
 ---
 
 The Emmy Awards are moments away.

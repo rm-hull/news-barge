@@ -13,6 +13,17 @@ image: https://static.independent.co.uk/2026/09/09/20/Migration_Spain_Ceutra__1_
 categories:
 - News & Politics
 - UK
+locations:
+- Ceuta
+- Morocco
+- Spain
+people:
+- Fernando Grande-Marlaska
+- Pedro Sánchez
+organisations:
+- Civil Guard
+- Facebook
+- WhatsApp
 ---
 
 Spain's national intelligence agency issued multiple warnings before the Ceuta border crisis about a potential mass crossing of migrants from Morocco into the Spanish exclave in late July, according to declassified documents released by the government on Wednesday.

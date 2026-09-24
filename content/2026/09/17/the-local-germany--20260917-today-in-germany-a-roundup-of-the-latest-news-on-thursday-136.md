@@ -14,6 +14,35 @@ categories:
 - Germany
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Germany
+- Saxony
+- Upper Lusatia
+people:
+- Alexander Dobrindt
+- Anja Piel
+- Bärbel Bas
+- Georg-Ludwig von Breitenbuch
+- Saxony
+organisations:
+- AFP
+- AI
+- AfD
+- Anti-Discrimination Association of Germany
+- CDU/CSU
+- CSU
+- DRB
+- Digital Policy Briefing
+- EU
+- German Judges’ Association
+- Green Party
+- Greens
+- Labour
+- SPD
+- Social Democratic Party
+- Süddeutsche Zeitung
+- The Left
+- YouGov
 ---
 
 **Thursday's top story:Germany targets social security fraud with ten-point plan**

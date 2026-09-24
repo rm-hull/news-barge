@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Tees, Esk
+- UK
+- York
+people:
+- Jane Tomlinson
+- Piotr Pacych
+organisations:
+- Brain Tumour Research
+- Centres of Excellence
+- Wear Valleys NHS Foundation Trust
 ---
 
 A York NHS worker is preparing to take on a half marathon for a cause close to his heart.

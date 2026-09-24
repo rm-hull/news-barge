@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Travel
 - Lifestyle & Fashion
+locations:
+- Kettlewell
+- Kettlewell?**
+- Yorkshire Dales
+people:
+- Kettlewell
+organisations:
+- Kings Head
+- Tripadvisor
+- Yorkshire Dales
 ---
 
 The Yorkshire Dales are known for being a great place for walks thanks to its huge national park.

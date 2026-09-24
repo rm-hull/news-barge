@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Bangladesh
+- El Niño
+- Ethiopia
+- Kenya
+- London
+- Madagascar
+- Malawi
+- Mozambique
+- Nigeria
+- Pacific
+- Pakistan
+- Sierra Leone
+- Somalia
+- Tanzania
+- Unicef UK
+- Zimbabwe
+people:
+- Débora Leão
+- Judith Leveillee
+- Lucy Gordon
+- Najib Bajali
+organisations:
+- Climate Resilience Infrastructures for Basic Services
+- FCDO
+- Foreign Office
+- Gates Foundation
+- The Independent
+- UK Foreign, Commonwealth and Development Office
+- UN
+- Unicef Global Hazards
+- Unicef Nigeria
+- Unicef UK
 ---
 
 Aid cuts mean children around the world who are facing some of the biggest climate challenges are falling “through the cracks” of the UK’s development agenda, the UN has warned.

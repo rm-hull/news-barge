@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/18/21/2026-09-18T202138Z_1602753851_RC2WLNA6S851_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arkansas
+- Gulf of America
+- Gulf of Mexico
+- Oval Office
+- U.S.
+- US
+- United States
+- White House
+people:
+- Biden
+- Brian Karem
+- Bruce Brown
+- Donald J. Trump
+- Donald Trump
+- Jameel Jaffer
+- Jim Acosta
+- Pete Hegseth
+- Sanders
+- Sherill
+organisations:
+- Associated Press
+- Breitbart News
+- Columbia University
+- DC Circuit Court
+- Defense Department
+- District of Columbia Circuit Court
+- Fake News CNN
+- Fake News Media Outlets
+- Knight First Amendment Institute
+- MSNOW
+- Media Outlets
+- New York Times
+- Oval Office
+- Pentagon
+- Playboy
+- Politico
+- Reporters Committee for Freedom of the Press
+- The New York Times
+- The Washington Post
+- Trump Administration
+- U.S. Constitution
+- United States of America
+- White House Correspondents’ Association
+- ex-Fox News
 ---
 
 President Donald Trump on Friday claimed to have “banned” three of the country’s most prominent news outlets from the White House, taking a page from authoritarian leaders by attempting to limit coverage of his administration by legitimate journalists as his and his party’s popularity continue to crumble as the midterm elections approach.

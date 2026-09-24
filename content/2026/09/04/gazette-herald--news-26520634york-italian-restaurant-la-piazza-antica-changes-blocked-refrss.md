@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Goodramgate
+- La Piazza Antica
+- Tudor
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Public Notice Portal
+- York Civic Trust
 ---
 
 ### What is the Public Notice Portal?

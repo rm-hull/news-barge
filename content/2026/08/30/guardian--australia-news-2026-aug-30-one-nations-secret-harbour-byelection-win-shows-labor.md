@@ -12,6 +12,39 @@ image: https://i.guim.co.uk/img/media/78bab8fec87b3634837de0a122850d7c6a16070e/2
 categories:
 - UK
 - News & Politics
+locations:
+- Canberra
+- Canning
+- Perth CBD
+- Queensland
+- Secret Harbour
+- US
+- Western Australia
+people:
+- Andrew Hastie
+- Angus Taylor
+- Anthony Albanese
+- Barnaby Joyce
+- Basil Zempilas
+- Ben Roberts-Smith
+- David Farley
+- Donald Trump
+- Gina Rinehart
+- James Ashby
+- Luke Herdegen
+- Pauline Hanson
+- Rod Caddies
+organisations:
+- Coalition
+- Farrer One Nation
+- Georgia Tree
+- Labor
+- Liberal
+- Liberals and Nationals
+- News 24
+- One Nation
+- Victoria Cross
+- WA
 ---
 
 The One Nation hype machine went into overdrive after Saturday’s Secret Harbour byelection but one thing is clear from the thumping victory.

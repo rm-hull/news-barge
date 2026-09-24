@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Belle Vue
+- Castleford
+- Thornes Lane
+- Trinity Street
+- Wakefield
+- Wakefield.
+people:
+- Kacper Kruk
+- Kiran Jabeen
+- Paul Jaques
+- Rebecca Webster
+organisations:
+- Kirklees Magistrates’ Court
+- Kruk
+- Wakefield Council
 ---
 
 # Fly-tipper caught after investigators hid GPS tracker in hot tub

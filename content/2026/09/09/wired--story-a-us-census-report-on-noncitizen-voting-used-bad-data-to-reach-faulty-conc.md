@@ -15,6 +15,53 @@ categories:
 - News & Politics
 - Society & Culture
 - Business & Entrepreneurship
+locations:
+- America
+- California
+- Idaho
+- Pennsylvania
+- US
+- Utah
+- Washington
+- White House
+- Wyoming
+people:
+- Amy O’Hara
+- Cathy McMorris Rodgers
+- Dan Sweeney
+- Danah Boyd
+- Deidre Henderson
+- Donald Trump
+- Howard Lutnick
+- Jeff McCrea
+- John Abowd
+- Matthew Jensen
+- Michael Lachanski
+organisations:
+- AFPI
+- America First
+- America First Policy Institute
+- American Enterprise Institute
+- Census Bureau
+- Center for Economic Studies
+- Claremont Institute
+- Congress
+- Cornell University
+- Department of Commerce
+- Department of Government Efficiency
+- Department of Justice
+- Elon Musk
+- Environmental Protection Agency
+- IPA
+- LinkedIn
+- PIK
+- PIKs
+- Protected Identification Keys
+- State Department
+- Trump
+- Truth Social
+- US Census Bureau
+- WIRED
 ---
 
 A report published by the US Census Bureau last month purported to uncover evidence backing up President Donald Trump’s baseless claims that noncitizens voting cost him the 2020 election. It was the latest salvo in Trump’s broader assault on the safety of US elections. “I WON THE ELECTION,” Trump quickly declared on Truth Social after the publication of the report.

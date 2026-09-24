@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://images.euronews.com/articles/stories/09/92/14/81/1200x675_cmsv2_4fda6eb9-6273-5177-bee1-db2f44d7daaf-9921481.jpg
+locations:
+- City of London
+- Russia
+- Tashkent
+- UK
+- United Kingdom
+- Uzbekistan
+people:
+- Annette Bohr
+- Franklin Templeton
+- Javlon Vakhabov
+- Kirsty Benham
+- Rebecca Nadin
+- Shavkat Mirziyoyev
+organisations:
+- CA5
+- Central Asia
+- Chatham House
+- City of London
+- Critical Minerals Association UK
+- Eurasia Programme
+- Euronews
+- Global Risks and Resilience at ODI Global
+- International Institute for Central Asia
+- London Stock Exchange.
+- National Investment Fund of Uzbekistan
+- Tashkent International Financial Centre
+- UK Think Tank Forum
+- UzNIF
 ---
 
 ## The Tashkent International Financial Centre will operate under a separate legal framework as officials seek closer links with British counterparts. The wider push also includes international listings and efforts to attract more private capital.

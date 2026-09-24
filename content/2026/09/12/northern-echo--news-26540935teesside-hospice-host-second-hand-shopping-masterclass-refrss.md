@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Portrack Lane Superstore
+- Stockton
+- Tees Valley
+- Teesside Hospice
+people:
+- Jen Graham
+- Ms Graham
+- Natalie Futo-Wallace
+organisations:
+- BBC
+- Charity Shop Girl
+- Devastated County Durham
+- Northern College of Art
+- Teesside Hospice
 ---
 
 A charity shop influencer and BBC star is set to host a second-hand shopping masterclass in Teesside.

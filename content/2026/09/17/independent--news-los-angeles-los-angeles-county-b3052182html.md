@@ -15,6 +15,13 @@ categories:
 - UK
 - Technology & Software
 - True Crime
+locations:
+- LA
+- Los Angeles
+people:
+- Bailee Lynn Rios
+- Nathan Hochman
+organisations: []
 ---
 
 Driver who slammed into LA bus before news helicopter crash to face murder charges, prosecutor says

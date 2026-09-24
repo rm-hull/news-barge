@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Georgia
+- Illinois
+people:
+- Ebony Baker
+- GoFundMe
+- Sandra Donovan
+organisations:
+- ClassAction.org
+- GoFundMe
 ---
 
 GoFundMe has been accused of deceptively adding “tips” to donations that go to the company and not helping others.

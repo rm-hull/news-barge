@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/0/47/Belden.png?trim=8,0,10,0&width=1200&height=800&crop=1200:800
+locations:
+- Belden Town
+- Dixie Fire
+- Feather River
+- Feather River Canyon
+- Fresno
+- Greenville
+- Highway 70
+- Northern California
+- Plumas County
+- Yellow Creek
+people:
+- Belden
+- Cheryl Strayed
+- Ivan Coffman
+- Josie Litchfield
+- Wild
+organisations:
+- Belden
+- Dixie Fire
+- Pacific Crest Trail
 ---
 
 An unincorporated mountain outpost deep in northern California's Feather River Canyon has been put on the market for $4.75 million as its long-time owner prepares to leave after more than five decades.

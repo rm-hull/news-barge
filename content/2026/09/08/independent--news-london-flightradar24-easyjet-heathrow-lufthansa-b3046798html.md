@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Birmingham
+- Britain
+- City
+- Europe
+- Heathrow
+- London
+- Manchester
+- Scotland
+- Stansted
+- U.K.
+people: []
+organisations:
+- British Airways
+- EasyJet
+- Flightradar24
+- KLM
+- Lufthansa
+- National Air Traffic Services
 ---
 
 More than 400 flights were canceled on Tuesday due to a technical issue in Britain's air traffic control system, the flight monitoring website Flightradar24 reported.

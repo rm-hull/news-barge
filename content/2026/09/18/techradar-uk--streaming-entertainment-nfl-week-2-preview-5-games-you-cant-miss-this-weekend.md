@@ -11,6 +11,58 @@ image: https://cdn.mos.cms.futurecdn.net/cmm6dJp8cE6hGqRwUAjxZA-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Bengals
+- Chargers
+- Fox
+- Jets
+- Melbourne
+- Minnesota
+- Rams
+- Texans
+- UK
+- US
+people:
+- Aatif Sulleyman
+- Ben Johnson
+- Caleb Williams
+- D'Andre Swift
+- David Bailey
+- John Harbaugh
+- Jordan Love
+- Justin Herbert
+- Kyle Monangai
+- Mike McDaniel
+- Sean McVay
+organisations:
+- Aatif
+- Bears Bears
+- Bengals
+- Big Blue
+- Brian Flores-run Vikings
+- Cardinals
+- Chargers
+- Chicago Bears
+- Cincinnati
+- Fox One
+- Future Publishing
+- Giants
+- Gizmodo
+- Green Bay
+- Houston's
+- IPVanish
+- Jets
+- MNF
+- NFL
+- New York
+- Newsweek
+- Packers
+- Rams
+- RedZone
+- Texans
+- The Independent
+- Titans
+- Trusted Reviews
 ---
 
 ![Chicago Bears quarterback Caleb Williams celebrating a touchdown](https://cdn.mos.cms.futurecdn.net/cmm6dJp8cE6hGqRwUAjxZA.jpg) 

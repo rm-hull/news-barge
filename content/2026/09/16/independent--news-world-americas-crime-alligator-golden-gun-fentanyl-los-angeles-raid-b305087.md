@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Los Angeles
+- U.S.
+people:
+- Karen L. Stevenson
+- Marvin Angelito
+- Susan Gonzalez
+organisations:
+- Justice Department
+- Los Angeles Times
+- The Independent
+- U.S. Fish and Wildlife Service
 ---
 
 Federal agents have arrested a pair of suspects after 42 kilograms of fentanyl, a golden gun and a small alligator were found at a luxury apartment in downtown Los Angeles last week.

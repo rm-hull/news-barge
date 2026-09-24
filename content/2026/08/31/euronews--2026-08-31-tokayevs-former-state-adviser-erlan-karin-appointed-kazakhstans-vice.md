@@ -12,6 +12,24 @@ image: https://images.euronews.com/articles/stories/09/89/49/92/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Clean Kazakhstan
+- Kurultai
+- New Kazakhstan
+- Soviet Union
+people:
+- Aida Balayeva
+- Erlan Karin
+- Kassym-Jomart Tokayev
+- Nursultan Nazarbayev
+- Olzhas Bektenov
+organisations:
+- Constitution
+- Constitutional Commission
+- Culture and Information
+- Government
+- Presidential Administration
+- Security Council
 ---
 
 ## Former State Adviser Erlan Karin has become Kazakhstan’s vice president. Prime Minister Olzhas Bektenov was also nominated for the post but will remain in his position as head of Government.

@@ -13,6 +13,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/22/18/Italy_Priests_March_59849.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gaza Strip
+- Israel
+- Italy
+- Lebanon
+- Manfredonia
+- Rome
+- St. Peter’s Basilica
+- Vatican
+people:
+- Francis
+- Franco Moscone
+- Leonardo SpA
+organisations:
+- AP
+- Hamas
+- Lilly Endowment Inc
+- The Conversation US
+- U.N.
+- \_\_\_ Associated Press
 ---
 
 Some 150 Catholic priests and friars, a bishop and nuns from around the world marched to the Vatican and prayed Tuesday in front of St. Peter’s Basilica to call for an end to what they called the “genocide” in Gaza.

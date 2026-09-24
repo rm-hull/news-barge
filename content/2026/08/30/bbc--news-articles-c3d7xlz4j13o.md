@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Burscough
+- Martin Lane
+- Northern
+- West Lancashire
+- Whitehouse Lane
+- Wigan Wallgate-Southport
+people:
+- Sophie Cassidy
+organisations:
+- BBC
+- BTP
+- British Transport Police
 ---
 
 ![Image shows the door to the driver's cab on a train. It is hanging off its hinges.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/58e0/live/5fd04cf0-a47d-11f1-b109-879e35c24276.jpg)

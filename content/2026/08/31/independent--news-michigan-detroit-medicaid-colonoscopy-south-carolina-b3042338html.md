@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Corunna
+- Detroit
+- Lansing
+- Littleton
+- Michigan
+- South Carolina
+- Van Buren
+people:
+- Eisler
+- Erika Eiseler
+- John Fattal
+- Leigha
+- Michiganders
+- Paul Thomas
+- Philip Eskew
+- Shelley Littleton
+- Thomas —
+organisations:
+- American Academy of Family Physicians
+- American Medical Association
+- Aon
+- Bridge Michigan
+- Corunna Plum Health
+- Corunna Public Schools
+- Elsa Meyer Elementary School
+- Eskew
+- HVAC
+- Lansing
+- Michigan Education Special Services Association
+- Michigan State Medical Society
+- OB-GYN
+- Plum Health
+- Royal Oak Plum Health
+- The Associated Press
 ---
 
 Three Michigan school districts are betting that a specialized clinic may be the antidote to surging health care costs.

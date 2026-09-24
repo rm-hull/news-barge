@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/264a/live/22e11d00-b685-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Britain
+- City of London
+- Iran
+- UK
+people:
+- Andrew Griffith
+- Andy Burnham
+- Emma Reynolds
+- John Healey
+- Martin Beck
+- Nick Ridpath
+- Ruth Gregory
+organisations:
+- Capital Economics
+- IFS
+- Institute for Fiscal Studies
+- Labour
+- OBR
+- ONS
+- Office for Budget Responsibility
+- Office for National Statistics
+- Treasury
+- WPI Strategy
 ---
 
 ![A commuter carries his jacket on a sunny day in the City of London](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6b35/live/fba80dd0-b65b-11f1-b1d1-571ed4d7ff2c.jpg)

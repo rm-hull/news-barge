@@ -13,6 +13,30 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/17/19/47/GettyImages-2295653697.jpeg?trim=61,0,62,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- Florida
+- Missouri
+- Ohio
+- Texas
+people:
+- Brandon Herrera
+- Donald Trump
+- Geoffrey Skelley
+- Henry Cuellar
+- Max Miller
+- Monica De La Cruz
+- Vincente Gonzalez
+organisations:
+- 23rd District
+- CNBC
+- CNN
+- Decision Desk HQ
+- Decision Desk Headquarters
+- House
+- Supreme Court
+- Texas’
+- Trump
 ---
 
 For over a year, President Donald Trump has been pressuring Republican-led states to redraw their congressional districts with the hope of gaining more seats in November’s midterm elections.

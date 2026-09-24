@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21486574.jpg?type=og-image&xType=0&yType=300
+locations:
+- Nashville
+- Newcastle
+- North East
+- Times Square
+- York
+people:
+- Almostwallen
+- Dan Cooke
+- Dean Saunders
+- Dolly Parton
+- Jo Fry
+- Nigel Holliday
+- Ruby Rae
+- Shania Twain
+- Tia Dodds
+organisations:
+- EVNT Inspirations
+- Ruby Rae
+- Ruby Rae's
+- XL
 ---
 
 A new indoor country music festival is set to bring a taste of Nashville to the North East.

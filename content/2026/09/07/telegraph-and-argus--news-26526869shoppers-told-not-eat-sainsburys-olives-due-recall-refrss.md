@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations:
+- Asda
+- Black Olives
+- FSA
+- Food Standards Agency
+- Greggs
+- Sainsbury's
+- Sainsbury’s Pitted Black Olives
+- Tesco
+- Waitrose
 ---
 
 *(Image: Getty)*

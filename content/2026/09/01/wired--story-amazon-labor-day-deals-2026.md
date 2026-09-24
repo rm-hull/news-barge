@@ -12,6 +12,26 @@ categories:
 - Technology & Software
 - Science
 - Careers & Productivity
+locations: []
+people:
+- God
+- Kat Merck
+- Nena Farrell
+organisations:
+- Aeocky
+- AirTag
+- AirTags
+- Amazon
+- Anker Prime Power
+- Apple
+- Shark
+- Simon Hill
+- Sonos'
+- Sony
+- Sous-vide
+- Sync Gold
+- WIRED
+- XM5
 ---
 
 Amazon doesn't advertise its Labor Day sale as heavily as Prime Day and Black Friday, but the Amazon 2026 Labor Day Sale still offers some of the best deals of the year on an assortment of tech and home gear ranging from half off WIRED's previous top-pick wireless headphones, Sony's XM5 series ($198) to the best deal I've seen this year on WIRED's favorite laptop power bank, the EcoFlow Rapid Pro X ($180).

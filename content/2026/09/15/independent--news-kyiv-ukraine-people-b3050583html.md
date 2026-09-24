@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Kyiv
+- Ukraine
+people:
+- Kyiv
+organisations:
+- AP
 ---
 
 This was my fourth trip to Ukraine as a photojournalist. During my previous visit, I found confidence and hope that the war might soon end. This time, I saw greater exhaustion, resignation and little hope of an immediate end to the fighting.

@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Downing Street
+- Iran
+- Kyiv
+- Leipzig
+- Middle East
+- Moscow
+- Russia
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+people:
+- Andy Burnham
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+organisations:
+- Associated Press
+- British Government
+- Kyiv
+- Nato
 ---
 
 Prime Minister Andy Burnham and US President Donald Trump agreed on the need to "continue working towards a ceasefire that prevented more loss of life" following a fresh wave of talks, Downing Street said.

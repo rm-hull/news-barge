@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Acomb
+- Brooklyn
+- Far Rockaway
+- Fifth Avenue
+- Ground Zero
+- Harrogate
+- New York
+- North Yorkshire
+- Queens
+- Scarborough
+- St Patrick’s Cathedral
+- US
+- West Yorkshire
+- Yankee Stadium
+people:
+- Bruce Reid
+- Bruce Reid Bruce
+- Phil Wheelhouse
+- Rick Steinberg
+organisations:
+- New York Fire Department
+- North Yorkshire Fire and Rescue Service
 ---
 
 A retired North Yorkshire firefighter has recalled the “surreal” experience of seeing Ground Zero just days after the 11 September 2001 terrorist attacks.

@@ -11,6 +11,94 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/hMDg398iKpGVqHbCAX4TeT-1024-80.jpg
+locations:
+- Australia
+- Belarus
+- Canada
+- Cuba
+- Glastonbury
+- Iran
+- New Zealand
+- North Korea
+- Pacific Islands
+- Roosters
+- Russia
+- UK
+- US
+- USA
+- canada
+people:
+- Addin Fonua-Blake
+- Andy Murray
+- Angus Chrichton
+- Angus Crichton
+- Billy Burns
+- Billy Smith
+- Blayke Brailey
+- Braydon Trindall
+- Brian To'o's
+- Briton Nikora
+- Cameron McInnes
+- Cody Ramsey
+- Connor Watson
+- Daly Cherry-Evans
+- Daniel Tupou
+- Egan Butcher
+- Hugo Savala
+- Hynes'
+- James Tedesco
+- Jayden Berrell
+- Jesse Colquhoun
+- KL Iro
+- Lindsay Collins
+- Mark Nawaqanitawase
+- Mark Nawaquanitawase
+- Nat Butcher
+- Naufahu Whyte
+- Nicho Hynes
+- Oregon Kaufusi
+- Radiohead
+- Reece Robson
+- Riley Jones
+- Robert Toia
+- Ronaldo Mulitalo
+- Roosters'
+- Salesi Foketi
+- Sione Katoa
+- Siosifa Talakai
+- Siua Wong
+- Spencer Leniu
+- Teig Wilton
+- Thomas Hazelton
+- Toby Rudolf
+- Tommy Talau
+- Trent Robinson
+- Victor Radley
+- William Kennedy
+organisations:
+- AESTWatch Roosters
+- Cronulla-Sutherland
+- Dolphins
+- FS2
+- FourFourTwo
+- Fox League
+- Fox One
+- Foxtel
+- Fubo**
+- Future Publishing
+- HIA
+- OTT
+- Panthers
+- Premier League
+- Sharks NRL
+- Sky Sport
+- Sky Sport NZ**
+- Sky Sports
+- Sky Sports Action
+- Sky Sports**
+- Sportsnet
+- Sydney
+- TechRadar
 ---
 
 ![Mark Nawaqanitawase looks on during the the NRL 2026 Finals Series](https://cdn.mos.cms.futurecdn.net/hMDg398iKpGVqHbCAX4TeT.jpg)

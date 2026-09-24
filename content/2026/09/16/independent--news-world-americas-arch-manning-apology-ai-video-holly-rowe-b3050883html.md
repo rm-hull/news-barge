@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Austin
+- Texas
+people:
+- Arch Manning
+- Holly Rowe
+- Sark
+- Steve Sarkisian
+organisations:
+- AI
+- Arch
+- ESPN
+- Longhorns
+- Ohio State
+- University of Texas
 ---
 
 University of Texas quarterback Arch Manning issued an apology on social media following criticism he received for laughing at an artificial intelligence-generated video that depicted Longhorns head coach Steve Sarkisian striking ESPN reporter Holly Rowe.

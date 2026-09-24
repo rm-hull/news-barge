@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - Sports
 - Video Gaming
+locations:
+- Rio de Janeiro
+- Tadcaster
+- Toulston
+- Yorkshire
+people:
+- Armando Klabin
+- Haigh
+- John Nash
+- Jonathan Gawthorpe
+- Riley-Smith
+organisations:
+- Guinness World Records
+- Toulson Polo Club
+- Toulston Polo Club
+- White Rose Polo Club
+- Yorkshire
 ---
 
 # Yorkshire polo legend John Nash aims to break Guinness World Record by becoming the sport's oldest active player at Toulston Open in Tadcaster

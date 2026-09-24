@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Bridge Street
+- Bridge Street York
+- Country Bar
+- Jalou
+- Newcastle
+- York!
+people:
+- Dan Cooke
+- Dean Saunders
+- Ruby Rae
+- Sam Cooke
+- Sam Cooper
+- Twinnie
+- Twinnie-Lee Moore
+organisations:
+- Emmerdale
+- Google
+- Rio Brazilian Steakhouse
+- Ruby Rae
+- Yeehaw!
 ---
 
 ## IN PICTURES: New nightclub draws thousands through its doors each weekend

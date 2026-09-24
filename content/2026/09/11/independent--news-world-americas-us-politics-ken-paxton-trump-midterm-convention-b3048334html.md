@@ -12,6 +12,20 @@ image: https://static.independent.co.uk/2026/09/11/3/54/GettyImages-2293864342.j
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Dallas
+- Texas
+- U.S.
+people:
+- Donald Trump
+- James Talarico
+- Ken Paxton
+organisations:
+- Fox News
+- Senate
+- Texas Politics Project
+- University of Texas
 ---
 
 Texas Attorney General Ken Paxton forced a smile as President Donald Trump mocked him mercilessly for a second night in a row at a Republican convention meant to boost his and other GOP candidates’ chances in November’s midterm elections.

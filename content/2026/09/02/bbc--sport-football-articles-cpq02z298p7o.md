@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bournemouth
+- Istanbul
+- Manchester City
+- Morocco
+- Nottingham Forest
+people:
+- Antoine Semenyo
+- Ayyoub Bouaddi
+- Ayyoub Bouaddi.
+- Bernardo Silva
+- Divin Mubama
+- Elliot Anderson
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Foden
+- Hugo Viana
+- Jeremy Doku
+- Josko Gvardiol
+- Marc Guehi
+- Mateo Kovacic
+- Ndiaye
+- Nico Gonzalez
+- Nico O'Reilly
+- Omar Marmoush
+- Palace
+- Pep Guardiola
+- Rayan Cherki
+- Rico Lewis
+- Rodri
+- Savinho
+- Tijjani Reijnders
+organisations:
+- Ballon d'Or
+- Bournemouth
+- Chelsea
+- Crystal Palace
+- Inter Milan
+- Manchester City
+- Manchester Cityhave
+- Premier League
+- Southampton
+- Tottenham
 ---
 
 ![Elliot Anderson (left), Enzo Fernandez (middle) and Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dfdf/live/8babcca0-a6cb-11f1-b0c9-07afcdd8053c.png)

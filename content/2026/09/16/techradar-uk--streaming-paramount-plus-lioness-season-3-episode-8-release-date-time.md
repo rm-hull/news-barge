@@ -13,6 +13,32 @@ categories:
 - Technology & Software
 - Film & TV
 - Sports
+locations:
+- Australia
+- Canada
+- India
+- New Zealand
+- Singapore
+- UK
+- US
+- Virgin River
+people:
+- Byron
+- George Cooper Sr.
+- Joe
+- Kaitlyn
+- Zoe Saldaña
+organisations:
+- CIA
+- Google News
+- Hallmark
+- Jasmine
+- Lioness
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Joe argues with her husband](https://cdn.mos.cms.futurecdn.net/7mdGzwaq6hNFBkY3gJCiFo.jpg) 

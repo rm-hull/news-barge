@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- London
+- UK
+- US
+people:
+- Cinema
+- Tim Richards
+- Vue
+organisations:
+- AS Watson
+- Barings
+- Beazley
+- Farallon Capital
+- Financial Times
+- Intertek
+- London Stock Exchange
+- Rothschild
+- Superdrug
+- The Odyssey
+- Visma
+- Vue
 ---
 
 Cinema firm Vue is considering a float on London’s stock market or a potential sale deal after a strong summer at the box office.

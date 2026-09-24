@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Finland
+- North Yorkshire
+- UK
+- York
+people:
+- '**David Skaith**'
+- Carl Les
+- David Skaith
+organisations:
+- Combined Authority
+- Finnish Baby Box
+- Metro
+- North Yorkshire Council
+- Scarborough Baby Box
 ---
 
 **HARROGATE**— Children and young people across York and North Yorkshire are set to benefit from a new

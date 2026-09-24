@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Fulford
+- Stamford Bridge
+- York
+people: []
+organisations:
+- Bayeux Tapestry
+- British Museum
+- Newsquest
+- Yorkshire Museum
 ---
 
 A special weekend of events in York will explore the county's links to the events of 1066 as excitement builds around the Bayeux Tapestry’s display at the British Museum.

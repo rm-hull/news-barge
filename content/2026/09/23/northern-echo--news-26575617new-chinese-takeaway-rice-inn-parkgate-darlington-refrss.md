@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21492623.jpg?type=og-image
+locations:
+- Darlington
+- North East
+- Northumberland
+- Rice Inn
+people:
+- Miao Sheng Kitchen
+organisations:
+- Darlington STEM
+- Echo
+- Facebook
+- Parkgate
+- Peking Chef
+- Rice Inn
+- Rice Inn Darlington
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

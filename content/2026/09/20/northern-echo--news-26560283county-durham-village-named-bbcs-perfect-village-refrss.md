@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21469986.jpg?type=og-image&xType=0&yType=170
+locations:
+- '![]()Heighington Village'
+- Bloom
+- County Durham
+- Heighington Village Hall
+- Historic England
+- Manor House
+- Newton Aycliffe
+- North East
+- Northumbria
+- St Michael's Church
+- Stockton and Darlington Railway
+- Stuart Boulton
+people:
+- George Stephenson
+- Heighington
+- Ptolemy Dean
+- Stuart Boulton
+organisations:
+- A1
+- A66
+- BBC
+- Bay Horse
+- Bishop Auckland
+- Darlington Council
+- Heighington Parish Council
+- Historic England
+- Savills
 ---
 
 A County Durham village once judged to be “perfect” by the BBC continues to stand out for its historic buildings, traditional village green and rural setting.

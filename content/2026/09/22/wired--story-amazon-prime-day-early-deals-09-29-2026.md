@@ -12,6 +12,16 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6aade6d4a9e8cfe3a855c8d8/191:100/w_1280,c_limit/Prime-Day-Deals-Are-Already-Here.-These-Are-the-Ones-I%E2%80%99d-Buy.jpg
+locations:
+- Shark PowerDetect
+people:
+- Nena Farrell
+organisations:
+- Amazon Alexa
+- Black Friday
+- Google Assistant
+- Levoit
+- WIRED Reviews
 ---
 
 Amazon Prime Day deals are back, baby. The second sale of the year is officially dubbed Prime Big Deal Days and will arrive on October 6 and 7. However, early deals have already started, and I've been using my 13 years of deal-hunting experience to find true discounts on the gadgets and gear the WIRED Reviews team has hand-tested and would recommend to our friends. Below, you'll find the best early deals we've sleuthed so far. We'll be covering deals throughout the event and beyond. all the way through Black Friday and Cyber Monday.

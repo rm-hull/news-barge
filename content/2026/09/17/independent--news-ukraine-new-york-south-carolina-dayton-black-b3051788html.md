@@ -14,6 +14,26 @@ categories:
 - History
 - Arts & Culture
 - Books & Literature
+locations:
+- Dayton
+- South Carolina
+- Ukraine
+people:
+- Ann Patchett
+- Bel Canto
+- Charlotte McConaghy
+- Eve L. Ewing
+- Junot Diaz
+- Kevin Sack
+- Mother Emanuel
+- Nicholas A. Raines
+- Sam Wachman
+- Ta-Nehisi Coates,Alice Hoffman
+organisations:
+- Black and Native Children
+- Civil Rights Movement
+- Dayton Foundation
+- Wild Dark Shore
 ---
 
 A coming-of-age novel set in wartime Ukraine and the history of a Black church in South Carolina through slavery, the Civil Rights Movement and a gunman's killings in 2015 are this year's winners of Dayton Literary Peace Prizes.

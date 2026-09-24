@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Iran
+- Jordan
+- Larak Island
+- Strait of Hormuz
+- U.S.
+- United Arab Emirates
+people:
+- Donald Trump
+organisations:
+- IRGC
+- Trump
+- U.S. Central Command
 ---
 
 U.S. military says it's hitting targets in Iran as hostilities flare again

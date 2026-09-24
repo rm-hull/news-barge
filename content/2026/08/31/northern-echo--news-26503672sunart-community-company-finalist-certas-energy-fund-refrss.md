@@ -12,6 +12,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- North Shields
+people: []
+organisations:
+- North Shields!
 ---
 
 *(Image: Certas Energy)*

@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Hollywood
+- London
+- Los Angeles
+- Nevada
+- Toronto
+people:
+- Adam Driver
+- Anna Kendrick
+- Armando Iannucci
+- Chris Rock
+- Daniel Kaluuya
+- David Copperfield
+- Kenneth Lonergan
+- Louisa Guy
+- Mark Jenkin’s “Rose
+- Misty Green
+- Misty Green’
+- Rosalind Eleazar
+- Slow Horses’
+- Topher Grace
+organisations:
+- A24
+- Apple TV
+- National Theatre
+- Slough House
+- Slow Horses
+- Zoom
 ---
 
 When Rosalind Eleazar first got a breakdown of Chris Rock’s “Misty Green,” it had a stress-inducing description of the character, a strong-headed, self-destructive actor in Los Angeles.

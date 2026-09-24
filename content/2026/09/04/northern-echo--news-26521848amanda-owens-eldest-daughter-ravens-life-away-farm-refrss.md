@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- North Yorkshire
+- Ravenseat
+people:
+- Amanda Owen
+- Clive
+- Raven Owen
+organisations:
+- Channel 5
+- Clive and Kids
+- Instagram
+- Our Yorkshire Farm’
+- Raven
+- Wolfsong Media
+- York St John University
+- Yorkshire Shepherdess
 ---
 
 *(Image: CHANNEL4)*

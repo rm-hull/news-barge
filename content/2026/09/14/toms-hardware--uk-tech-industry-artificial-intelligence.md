@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+- Russia
+- U.S.
+people:
+- Bernie Sanders
+- Claude
+- Greg Cezar
+- Tom
+organisations:
+- Anthropic
+- Ex-Anthropic
+- Get Tom's Hardware
+- OpenAI
+- Samsung
+- Stonkfly
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

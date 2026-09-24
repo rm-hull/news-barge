@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Kansas City
+- Missouri
+- Texas
+- US
+people:
+- Brett Kavanaugh
+- Donald Trump
+- Emanuel Cleaver
+- Stephen Clark
+organisations:
+- TRO
 ---
 
 Opponents of congressional redistricting in Missouri appealed to the US supreme court on Wednesday after a federal panel let stand a ruling allowing the state to use a new map backed by Donald Trump in November’s midterms.

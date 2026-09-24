@@ -14,6 +14,23 @@ categories:
 - Harrogate
 - Arts & Culture
 - Film & TV
+locations:
+- Italy
+- Spain
+- UK
+people:
+- Artemisia Gentileschi
+- Botticelli
+- Caravaggio
+- Carla Gutierrez
+- David Bickerstaff
+- Eike Schmidt
+- Frida Kahlo
+- Phil Grabsky
+organisations:
+- Friends of Mercer Art Gallery
+- Harrogate Film Society
+- Odeon
 ---
 
 # Exciting new partnership between Odeon cinema, Harrogate Film Society and Friends of Mercer Art Gallery

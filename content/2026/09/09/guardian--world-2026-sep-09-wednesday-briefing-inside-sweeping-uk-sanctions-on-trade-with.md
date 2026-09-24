@@ -12,6 +12,85 @@ image: https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/3
 categories:
 - UK
 - News & Politics
+locations:
+- Arthur Ashe Stadium
+- Bogotá
+- Britain
+- Canada
+- East Jerusalem
+- Edgbaston
+- England
+- Europe
+- Falkland Islands
+- France
+- Gaza
+- Holborn
+- Hormuz
+- Iran
+- Israel
+- Kent
+- Maale Adumim
+- Middle East
+- Movistar
+- Oslo
+- Pakistan
+- Palestine
+- St Pancras
+- Tokyo
+- UK
+- US
+- United States
+- West Bank
+- White House
+people:
+- '***Emma-Graham Harrison***'
+- '***Patrick Wintour***'
+- Alex Michelsen
+- Andy Burnham
+- Bailey
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Carlos Augusto**,**
+- David Lammy
+- Donald Trump
+- Ed Miliband
+- Ella Baron
+- Emma Graham-Harrison
+- Emma Graham-Harrison.
+- Fede Valverde
+- Frances Tiafoe
+- Gladys
+- Gloria Steinem
+- Healey
+- Itamar Ben-Gvir
+- Jeremy Corbyn
+- Keir Starmer
+- Kylian Mbappé
+- Lucy Hough
+- Michael Sfard
+- Michael***
+- Mike Huckabee
+- Natalie Harp
+- Obama
+- Patrick Wintour
+- Rahm Emanuel
+- Tom Wall
+- Yvette Cooper
+- Zack Polanski
+organisations:
+- '** Times'
+- '***Airline'
+- Airbnb
+- Divest and Sanctions
+- EU
+- Green
+- Greens
+- Guardian
+- House of Commons
+- Inter
+- Labour
+- Real Madrid
+- Reform
 ---
 
 Good morning. For almost half a century, British governments have condemned illegal Israeli settlements, acknowledging they represent an obstacle to peace and threaten the prospect of a two-state solution. And yet no government has ever compelled Israel to stop its expansion.

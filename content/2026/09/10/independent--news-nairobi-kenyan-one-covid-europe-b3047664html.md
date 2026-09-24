@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Europe
+- Kawangware
+- Lang'ata Road
+- Nairobi
+- U.S.
+people:
+- Geoffrey Kioi
+- Jackson Okoth
+- Mohammed Nyale
+organisations:
+- Kenya National Bureau of Statistics
 ---
 
 As the light turns red at a busy intersection in the Kenyan capital, a young man costumed in leopard print emerges into the street to perform somersaults. He is joined by five others, dressed similarly, as they execute a combination of acrobatic stunts.

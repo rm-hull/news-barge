@@ -13,6 +13,25 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- DriveTribe
+- Harrogate
+- North Yorkshire
+- RAF Elvington
+- York
+people:
+- James Manning
+- James May
+- Jeremy Clarkson
+- PA Wire
+- Richard Hammond
+- Vampire
+organisations:
+- BBC Radio York
+- Discovery Plus
+- Ripon Grammar School
+- Sunday Times
+- TV
 ---
 
 *(Image: James Manning/PA Wire)*

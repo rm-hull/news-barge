@@ -11,6 +11,16 @@ description: iOS 27 might include tools that give you more control over the came
 image: https://cdn.mos.cms.futurecdn.net/PGjgg4XKTMx5hq5gGCPi8h-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- James
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Google News
+- MacRumors
+- TechRadar
 ---
 
 ![Apple iPhone 17 Pro Max REVIEW](https://cdn.mos.cms.futurecdn.net/PGjgg4XKTMx5hq5gGCPi8h.jpg) 

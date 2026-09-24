@@ -11,6 +11,24 @@ categories:
 - Harrogate
 - Health & Fitness
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/17/13/BreakfastClub_1789648473_cfe51258-ee4579450809fe1c.jpg?crop=3:2,smart&trim=&width=1125&auto=webp&quality=75
+locations:
+- Boston Spa
+- Bradford
+- Clifford
+- Walton
+- Wetherby
+- WiSE Owl Café
+people:
+- Gavin Davies
+- Ian
+- Master Butcher
+organisations:
+- Boston Spa
+- Boston Spa Village Hall
+- Breakfast Club
+- Men’s Breakfast Club
+- Wetherby in Support of the Elderly
+- WiSE Owl Café
 ---
 
 # Wetherby charity’s men’s breakfast club grows in mental health boost bid

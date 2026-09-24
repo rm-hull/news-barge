@@ -13,6 +13,29 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/22/13/2296537958..?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+locations:
+- Brighton
+- Britain
+- Europe
+- UK
+people:
+- Anthony Seldon
+- David Maddox
+- Ed Davey
+- Millie Cooke
+- Nigel Farage
+- Rachel Reeves
+- Robert Jenrick
+- Yui Mok
+organisations:
+- Brexit
+- Budget
+- EU
+- Growth and Defence Plan
+- Lib Dem
+- Lib Dems
+- Liberal Democrat
+- Reform UK
 ---
 
 Sir Ed Davey has pledged to cut taxes by striking a deal with the EU to rejoin the single market and customs union to boost growth.

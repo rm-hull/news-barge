@@ -13,6 +13,18 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/20079513.jpg?type=og-image
+locations:
+- North Yorkshire
+- Scarborough
+- York
+people:
+- Martin Barkley
+organisations:
+- Microsoft Teams
+- Scarborough NHS Trust
+- Scarborough Teaching Hospitals NHS Foundation Trust
+- Trust Board
+- York and Scarborough Teaching Hospitals NHS Foundation Trust
 ---
 
 Health bosses responsible for hospitals in York and Scarborough can be quizzed by residents at a special public meeting this week.

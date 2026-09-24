@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ-1600-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people: []
+organisations:
+- DRAM
+- Efosa
+- Elpida
+- Fujitsu
+- Google News
+- Hitachi
+- IBM
+- Intel
+- Motorola
+- NEC Electronics
+- Renesas Electronics
+- Riken
+- TechRadar Pro
+- Toshiba
+- Via Diamond Online
 ---
 
 ![A Quantum Computer Inside A Well-Lit Lab](https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ.jpg) 

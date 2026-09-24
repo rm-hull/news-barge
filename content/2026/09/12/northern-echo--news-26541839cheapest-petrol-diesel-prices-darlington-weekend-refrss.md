@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Darlington
+people: []
+organisations:
+- Asda Darlington Automat
+- Gem Haughton
+- Morrisons Darlington
+- Morrisons Morton Park
+- Sainsbury's Darlington
+- Shell Haughton Road
 ---
 
 *(Image: Archive)*

@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Deanstones Lane
+- Queensbury
+- Shipley
+- Valley Road
+people: []
+organisations:
+- BTG Eddisons
+- BTG Eddissons
+- Council
+- Government
+- Shibden Head Primary School
 ---
 
 *(Image: BTG Eddissons)*

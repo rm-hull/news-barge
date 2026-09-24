@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Atlantic
+- Canada
+- China
+- Europe
+- France
+- Germany
+- India
+- Indonesia
+- Japan
+- Ottawa
+- Russia
+- South Korea
+- UK
+- US
+- USA
+- Ukraine
+- Washington
+- White House
+people:
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
+- European Union
 ---
 
 Watch: Is Canada about to join the EU?

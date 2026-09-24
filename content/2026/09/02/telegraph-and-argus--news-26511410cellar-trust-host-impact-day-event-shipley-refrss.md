@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Airedale
+- Bradford
+- Craven
+- Farfield
+- Shipley
+- Wharfedale
+people: []
+organisations:
+- Cellar Trust
+- Farfield
+- Impact Report
+- The Cellar Trust
 ---
 
 *(Image: Supplied)*

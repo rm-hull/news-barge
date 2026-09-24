@@ -11,6 +11,39 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a8a/live/0fe649
 categories:
 - UK
 - News & Politics
+locations:
+- Anglesey
+- Llangefni
+- Moscow
+- Old Bailey
+- Russia
+- Senedd
+- UK
+- US
+- Ukraine
+- Wales
+- Wales'
+people:
+- Ben Holt
+- Clare Ashcroft
+- Doreen Morris
+- Justice Cheema-Grubb
+- Keir Starmer
+- Nathan Gill
+- Oleg Voloshyn
+- Richard Marks
+- Viktor Medvedchuk
+- Vladimir Putin
+organisations:
+- Brexit Party
+- Cwmbran Celtic FC
+- European Parliament
+- Grian Chatten
+- MEP
+- Old Bailey
+- Press Association
+- Reform UK
+- UKIP
 ---
 
 ![Nathan Gill is wearing a grey coat, a blue tie and a white shirt in a street, with the street in the background out of focus](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e738/live/241ccfc0-a77b-11f1-b2d5-535b3b3d379f.jpg)

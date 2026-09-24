@@ -11,6 +11,40 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84e7/live/9e49e2
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Downing Street
+- Greater Manchester
+- London
+- North
+- UK
+- Westminster
+people:
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Emmanuel Macron
+- Gordon Brown
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Marie-France van Heel
+- Rachel Reeves
+- Tony Blair
+organisations:
+- '![Staff'
+- Badenoch
+- Budget
+- Burnham
+- House of Commons
+- Houses of Parliament.
+- Labour
+- Ministry of Justice
+- Number 10
+- Number 10 North
+- PMQs
+- Tory
+- Treasury
 ---
 
 ![Andy Burnham wearing a dark navy suit jacket, white shirt and blue tie and dark-rimmed glasses - a crowd of people, not in focus, are behind him](https://ichef.bbci.co.uk/ace/standard/715/cpsprodpb/84e7/live/9e49e220-a2f7-11f1-8d5b-155abe464768.jpg)

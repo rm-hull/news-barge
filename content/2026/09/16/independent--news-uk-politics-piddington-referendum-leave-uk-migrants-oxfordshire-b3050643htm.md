@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Britain
+- Norwich
+- Oxfordshire
+- Piddington
+- Principality of Sealand
+- UK
+people:
+- Andy Burnham
+- Joe Marshall
+- Kemi Badenoch
+- Lisa Nandy
+- Shabana Mahmood
+- Tim McNally
+organisations:
+- Commons
+- Home Office
+- House of Lords
+- Piddington
+- Sky News
+- Urgent Crown Development Process
 ---
 
 An Oxfordshire village has “voted” to become independent from the UK in protest at the government’s plans to house asylum seekers at a nearby former military base.

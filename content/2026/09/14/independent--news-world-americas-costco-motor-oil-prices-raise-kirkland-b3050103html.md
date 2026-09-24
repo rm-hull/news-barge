@@ -14,6 +14,26 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Kirkland
+- Middle East
+- Persian Gulf
+- Red Sea
+- Saudi Arabia
+- Strait of Hormuz
+- U.S.
+- United States
+people: []
+organisations:
+- AAA
+- Amazon
+- AutoZone
+- Costco
+- Group III
+- Mobil
+- The Associated Press
+- Walmart
 ---
 
 Costco has increased the retail price of motor oil sold under its store brand while also restricting how much customers can purchase weekly as global oil prices continue to rise once again.

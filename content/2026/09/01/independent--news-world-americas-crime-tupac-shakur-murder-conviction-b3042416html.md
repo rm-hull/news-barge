@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Davis’
+- Las Vegas
+- Nevada
+people:
+- Binu Palal
+- Davis'
+- Davis’
+- Duane “Keffe D” Davis
+- God
+- Keffe D’ Davis
+- Marc DiGiacomo
+- Marion “Suge” Knight
+- Michael Sanft
+- Orlando “Baby Lane” Anderson
+- Sekyiwa “Set” Shakur
+- Tupac Shakur
+organisations:
+- Associated Press
+- Bad Boy Records
+- Cadillac
+- Death Row Records
+- Mob Piru
+- South Side Compton Crips
 ---
 
 A jury found Duane “Keffe D” Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, marking the first conviction in a case that has gripped hip-hop fans for decades.

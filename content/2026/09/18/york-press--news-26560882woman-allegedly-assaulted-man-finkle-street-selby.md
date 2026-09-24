@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Finkle Street
+- North Yorkshire
+- Selby
+- Zuzu Lounge
+people: []
+organisations:
+- Newsquest Archive
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest Archive)*

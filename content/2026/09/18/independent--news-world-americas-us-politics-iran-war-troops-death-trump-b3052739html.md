@@ -14,6 +14,37 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/18/20/53/GettyImages-2286569858.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Delaware
+- Dover
+- Hawaii
+- Iran War
+- Iraq
+- Jordan
+- Middle East
+- New York
+- North Carolina
+- South Carolina
+- Texas
+- U.S.
+- Washington
+people:
+- Angel S. Rampersad
+- Donald Trump
+- Isabella Gonzales
+- Michael Emmanuel Swinton
+- Nancy Mace
+- Tyler James Feehan
+organisations:
+- Army
+- Dover Air Force Base
+- Erbil Air Base
+- Independent
+- Muwaffaq Salti Air Base
+- Overseas Operations
+- Pentagon
+- The Washington Post
+- U.S. Central Command
 ---
 
 More American troops have died in the Iran War than President Donald Trump’s administration has revealed, according to a new report.

@@ -10,6 +10,18 @@ image: https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Skip Levens
+organisations:
+- AI Strategist
+- Future plc
+- LTO
+- Quantum
+- Stanford University
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Light blue folders from a computer operating system on a dark blue background](https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK.jpg) 

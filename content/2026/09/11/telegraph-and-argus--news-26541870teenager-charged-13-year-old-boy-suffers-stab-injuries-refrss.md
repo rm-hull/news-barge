@@ -14,6 +14,12 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Leeds Magistrates' Court
+- Shepherd's Lane
+people: []
+organisations:
+- Telegraph & Argus
 ---
 
 *(Image: Telegraph & Argus)*

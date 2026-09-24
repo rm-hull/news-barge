@@ -15,6 +15,55 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- England
+- Europe
+- Finca Cortesin
+- France
+- Netherlands
+- Robert Trent Jones Golf Club
+- Solheim
+- Spain
+- US
+- USA
+- Virginia
+people:
+- Alison Lee
+- Alison Nicholas
+- Allisen Corpuz
+- Andrea Lee
+- Angel Yin
+- Angela Stanford
+- Anna Nordqvist
+- Auston Kim
+- Carlota Ciganda
+- Celine Boutier
+- Charley Hull
+- Esther Henseleit
+- Jennifer Kupcho
+- Julia Lopez Ramirez
+- Koerstz Madsen
+- Laura Davies
+- Lauren Coughlin
+- Leona Maguire
+- Lindy Duncan
+- Linn Grant
+- Lopez Ramirez
+- Lottie Woad
+- Maja Stark
+- Megan Khang
+- Mimi Rhodes
+- Nanna Koerstz Madsen
+- Nastasia Nadaud
+- Nelly Korda
+- Rose Zhang
+- Yealimi Noh
+organisations:
+- BBC Sport
+- Bernardus Golf Club
+- Ciganda
+- Hull
+- Woad
 ---
 
 Europe's Ciganda rescues half after dramatic final hole

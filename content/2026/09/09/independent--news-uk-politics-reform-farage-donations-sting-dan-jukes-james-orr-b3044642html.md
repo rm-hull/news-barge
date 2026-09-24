@@ -13,6 +13,32 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Birmingham
+- Britain
+- Clacton
+- Westminster
+people:
+- Dan Jukes
+- Donald Trump
+- James Orr
+- Lawrence Carter
+- Lee Anderson
+- Nigel Farage
+organisations:
+- CCR
+- Cambridge University
+- Center for Climate Reporting
+- Channel 4
+- Electoral Commission
+- ICE
+- Immigration and Customs Enforcement
+- LBC
+- Leave.EU
+- Metropolitan Police
+- Reform UK
+- United States Congress
+- Verbatim
 ---
 
 The Metropolitan Police has launched a criminal probe into claims Reform UK breaching party donation rules with potential illegal foreign funding.

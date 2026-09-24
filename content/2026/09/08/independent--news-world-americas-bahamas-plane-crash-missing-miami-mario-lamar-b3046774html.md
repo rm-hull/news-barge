@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Andros Island
+- Bahamas
+- Berry Islands
+- Great Harbour Cay
+- Miami
+- Miami-Dade County
+people:
+- Christian Sosa
+- Lili
+- Mario Lamar
+- Nicolina Converso
+- Silvia Larrieu
+- Sofi Sosa
+organisations:
+- Coast Guard
+- Miami Executive Airport
+- PA-34 Piper
+- The Associated Press
+- U.S. Coast Guard
 ---
 
 Four family members aboard a small plane that vanished off the Bahamas were found dead Tuesday after relatives launched their own search effort, according to a family member.

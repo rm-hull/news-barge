@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A174
+- Kirkleatham Walled Garden
+- North Yorkshire
+- Plantation Road
+- Redcar
+- The Kirkleatham Walled Gardens Café
+people: []
+organisations:
+- Garden Café
+- Kirkleatham Walled Garden
+- Redcar
+- THE NORTHERN ECHO
+- TS10 4AS
+- The Garden Café
 ---
 
 *(Image: THE NORTHERN ECHO)*

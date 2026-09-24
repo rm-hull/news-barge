@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thetelegraphandargus.co.uk/resources/images/21477836.jpg?type=og-image
+locations:
+- Bradford
+- Pudsey
+- Sweden
+- UK
+- US
+people:
+- '![]()Lala'
+- Aidan M
+- Tushita Roy
+organisations:
+- Best Pakistani Restaurant North Region
+- Bradford
+- Café J’Adore
+- Cedar Court Hotel
+- Cobra Beer
+- Lala's
+- My Peshawar Restaurant
+- The Courts Banqueting Suite
+- UGC
 ---
 
 Bradford restaurants have scooped top honours at a national awards ceremony.

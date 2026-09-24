@@ -14,6 +14,38 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- Europe
+- France
+- Ireland
+- Norway
+- Oslo
+people:
+- Alex Agius Saliba
+- Guy Holder
+- Kardashian
+- Kylie Jenner
+- Mateusz Pozar
+- Veronika Cifrova Ostrihonova
+organisations:
+- AFP
+- AI
+- Ban Ray
+- Big Tech
+- CNIL
+- Channel 4 News
+- EU
+- EssilorLuxottica
+- European Commission
+- European Data Protection Board
+- European Parliament
+- European Union
+- Google
+- LED
+- Meta
+- Ray-Ban
+- Snap
 ---
 
 Anyone wearing smart glasses can take photos, film videos, listen to music, make phone calls, translate text or interact with an AI assistant, with sales now hitting the millions.

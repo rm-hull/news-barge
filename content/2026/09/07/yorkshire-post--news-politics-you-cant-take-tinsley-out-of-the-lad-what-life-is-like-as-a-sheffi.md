@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Kashmir
+- Sheffield
+- Tinsley
+- UK
+- Westminster
+people:
+- '## Shaffaq Mohammed'
+- Abdul Razaq
+- God
+- Lord Mohammed
+- Mohammed of Tinsley MBE
+- Nicholas Soames’
+- Nicolas Soames
+- Shaffaq Mohammed
+- Winston Churchill
+organisations:
+- House of Lords
+- Rolls Royce
+- Sheffield City Council
+- Sheffield Council
+- Sheffield Town Hall
+- Skoda
 ---
 
 # “You can’t take Tinsley out of the lad”: What life is like as a Sheffield Lord

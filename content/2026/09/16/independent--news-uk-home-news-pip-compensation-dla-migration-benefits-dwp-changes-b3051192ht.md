@@ -13,6 +13,19 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Andy Burnham
+- Pip
+- Stephen Timms
+organisations:
+- DWP
+- Department for Work and Pensions
+- Labour
+- National Insurance
+- PIP
+- Personal Independence Payment
+- Pip
 ---
 
 Over £660,000 has been paid to hundreds of Personal Independence Payment (Pip) claimants by the Department for Work and Pensions (DWP) after it admitted giving incorrect advice to people looking to claim the benefit.

@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Huddersfield
+- Leeds
+- Scarborough
+- Sheffield
+- York
+- Yorkshire
+people:
+- Elizabeth I
+- James
+- Lord
+organisations:
+- Google
+- James’
+- The Yorkshire Post
 ---
 
 # E-bikes - are they illegal in cities like Leeds, Sheffield or York?

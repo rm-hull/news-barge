@@ -12,6 +12,43 @@ categories:
 - UK
 - Home, Garden & DIY
 image: https://static.independent.co.uk/2026/09/21/18/Solar_Farm_Crops_3_54.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Albertville
+- Ames
+- Big Lake
+- Big Lake Farm
+- Big River Farms
+- Buffalo
+- Minn.
+- Minnesota
+- Morris
+- Otsego
+- Sierra Leone
+- St. Croix
+- Sylvah
+- United States
+people:
+- Ajay Nair
+- Brad Heins
+- Leranz-Coy
+- Sophia Lenarz-Coy
+- Winifred Sylvah
+organisations:
+- Alliant Energy
+- Big River Farms in Marine
+- Conexus Energy
+- Food Group
+- Iowa State
+- Iowa State University
+- MPR News
+- Sahan Journal
+- The Associated Press
+- The Food Group
+- Trump
+- U.S. Department of Agriculture
+- U.S. Solar
+- USDA
+- University of Minnesota-Morris
 ---
 
 Winifred Sylvah picked a handful of plump cucumbers on a cold, wet September morning as raindrops trickled off rows of solar panels in the background.

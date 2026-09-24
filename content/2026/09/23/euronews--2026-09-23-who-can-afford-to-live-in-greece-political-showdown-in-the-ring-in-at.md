@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/46/17/1200x675_cmsv2_a0864b7d-4484-547d-a208-7d8e0954a403-9924617.jpg
+locations:
+- Athens
+- Atlantic
+- Brussels
+- Bulgaria
+- Ceuta
+- Europe
+- Evros
+- Greece
+- Lesvos
+- Spain
+- Strasbourg
+- Turkey
+- Ukraine
+people:
+- Amaia Echevarria
+- Apostolos Staikos
+- Benjamin Netanyahu
+- Dimitris Kairidis
+- Luis Albertos Altarejos
+- Milena Apostolaki
+- Pedro Sánchez
+- Vassilis Glynos
+- Vladimir Putin
+organisations:
+- Eurostat
+- International Criminal Court
+- New Democracy
+- PASOK
 ---
 
 ## From Brussels and Strasbourg to the heart of Athens, overlooking the Acropolis: "The Ring" travels to the Greek capital for a political showdown centred on migration, the housing crisis, and the arrest warrant issued against Benjamin Netanyahu.

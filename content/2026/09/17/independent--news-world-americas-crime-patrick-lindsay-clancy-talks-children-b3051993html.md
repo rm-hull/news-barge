@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Duxbury
+- Massachusetts
+- New York City
+people:
+- Callan
+- Cora
+- Dawson
+- Donald Trump
+- Howard Cooper
+- Lindsay Clancy
+- Patrick Clancy
+- Rachel Danis
+- Rachel-Danis.png) Clancy
+- Ross Douthat
+organisations:
+- Heard Foundation
+- Newsweek
 ---
 
 Patrick Clancy has revealed he speaks to his dead children "all the time,” in an emotional interview with *60 Minutes* this coming Sunday where he will be joined by new wife.

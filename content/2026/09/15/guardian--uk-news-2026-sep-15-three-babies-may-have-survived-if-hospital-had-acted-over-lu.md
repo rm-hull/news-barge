@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Countess of Chester
+- Liverpool
+- NHS England
+people:
+- David Davis
+- Justice Thirlwall
+- Lucy Letby
+organisations:
+- CCRC
+- Care Quality Commission
+- Countess of Chester
+- Criminal Cases Review Commission
+- Letby
+- NHS
+- Thirlwall
 ---
 
 Three babies might have survived and seven others could have been protected if hospital bosses and doctors had taken action over concerns about the nurse Lucy Letby, an official inquiry into the deaths has concluded.

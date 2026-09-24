@@ -11,6 +11,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Cheshire
+- Culcheth
+- Downing Street
+- Woking
+people:
+- Alzheimer
+- Andy Burnham
+- Ed Davey
+- Eileen
+- Kemi Badenoch
+- Nigel Farage
+- Paul Edwards
+- Roy Burnham
+- Steve Rotheram
+- Zack Polanski
+organisations:
+- Dementia UK
+- Green Party
+- Liberal Democrats
+- Liverpool City Region
+- McLaren’s Technology Centre
+- Post Office
+- Reform UK
 ---
 
 Prime Minister Andy Burnham said his father Roy would want him to be "back out there" to bring forward "the changes that he always pushed me to make" as he returned to work on Wednesday.

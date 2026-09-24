@@ -14,6 +14,27 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Bot Farm
+- Mount Pleasant
+- U.S.
+- Wisconsin
+people:
+- Jowi Morales
+- Kenneth Flores
+- Kevin O’Leary
+- Patricia Robinson
+- Sandra Thompson
+- Thomas Jackson
+- Tom
+organisations:
+- American AI
+- Global Government Affairs
+- Google News
+- Jowi Morales
+- PJM Interconnection
+- The Southern Maryland Chronicle
+- X Safety team
 ---
 
 ![Bot Farm](https://cdn.mos.cms.futurecdn.net/yw5MbtykwkPMNVVs6n2PwU.jpg) 

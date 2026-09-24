@@ -16,6 +16,21 @@ categories:
 - Personal Finance & Investing
 - True Crime
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlmN2UyZDMzLWFjM2UtNDg1OS1hYmFkLTliMDNiNjg0Y2ZiZTozMTY3YjgyYi1kMGIzLTQwYzUtYWM0OC01MmUwNzRkMzZiMmI=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+locations:
+- Chelwood Drive
+- Gibraltar
+- Harrogate
+- Leeds Magistrates' Court
+- Spain
+people:
+- Ian Sharp
+- Sukhdev Singh
+organisations:
+- Harrogate
+- North Yorkshire Police
+- North Yorkshire Police’s Economic Crime Unit
+- Proceeds of Crime Order
+- York Crown Court
 ---
 
 # Man who defrauded vulnerable Harrogate victim jailed again after failing to pay £490,000 confiscation order

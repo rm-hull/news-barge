@@ -13,6 +13,55 @@ categories:
 - UK
 - Business & Entrepreneurship
 - History
+locations:
+- '## Building'
+- Brig
+- Gaza City
+- Gulf
+- Iran
+- Israel
+- Jeddah
+- Mecca
+- Middle East
+- Moscow
+- North Carolina
+- Red Sea
+- Russia
+- Saudi Arabia
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Taif
+- Tehran
+- U.S.
+- US
+- United States
+- Washington
+- Yemen
+people:
+- '## Trump'
+- Abolfazl Shekarchi
+- Antonio Guterres
+- Cho Hyun
+- Donald Trump
+- Gregory Meeks
+- Marco Rubio
+- Meeks'
+- Mohammed al-Farah
+- Mohsen Rezaei
+- Tim Hawkins
+- Zaher al-Wahidi
+organisations:
+- Al Jazeera
+- Centcom
+- Financial Times.
+- Gaza Health Ministry
+- Hamas
+- House of Representatives Foreign Affairs Committee
+- UN
+- US Air Force
+- US Central Command
+- US Navy
 ---
 
 Iran vowed to fight on “until the last drop of blood” on Wednesday after threatening the United States that peace talks will not resume until all of their conditions are met.

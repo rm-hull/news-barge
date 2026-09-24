@@ -11,6 +11,25 @@ image: https://static.independent.co.uk/2026/09/10/1/31/GettyImages-2294404784.j
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Dallas
+- Iran
+- Texas
+- U.S.
+people:
+- Biden
+- Donald Trump
+- James Talarico
+- Ken Paxton
+organisations:
+- Fox News
+- MAGA
+- Politico
+- Senate
+- Texas Politics Project
+- Trump
+- University of Texas
 ---
 
 President Donald Trump has trashed Texas Attorney General Ken Paxton in a keynote speech on the first night of a Republican convention meant to boost his and other GOP candidates’ midterm campaigns.

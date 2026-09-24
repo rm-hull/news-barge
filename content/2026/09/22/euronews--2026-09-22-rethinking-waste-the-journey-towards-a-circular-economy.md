@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/87/75/36/1200x675_cmsv2_108371bd-ddc6-50fb-b8f2-ce1338dfede0-9877536.jpg
+locations:
+- Angren
+- Samarkand
+- Sharjah
+- Tashkent
+- Uzbekistan
+people:
+- Alya Al Obeidli
+- Aziza Nazarova
+- Rafael Bekmullin
+- Shahzod Safarov
+- Sobir Mashrabov
+organisations:
+- Agency for Waste Management of Uzbekistan
+- BEEAH
+- Emirates Waste to Energy
+- Investment Department
+- Lead Engineer
+- Uzbekistan’s Agency for Waste Management
+- Waste Recycling and Disposal Branch
+- Zero Waste
 ---
 
 ## From advanced sorting in Sharjah to new waste infrastructure in Uzbekistan, efforts to recover materials and generate energy are changing what happens to rubbish.

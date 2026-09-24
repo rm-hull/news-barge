@@ -10,6 +10,18 @@ description: With physical media making a comeback, the Dell DW316 USB DVD write
 image: https://cdn.mos.cms.futurecdn.net/PBR7t4ofYpkqgeoTqN5KyL-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+- US
+people:
+- Wayne Williams
+organisations:
+- Best Buy
+- Dell USB
+- PC
+- TechRadar Pro
+- Wayne Williams
 ---
 
 ![Dell External USB Slim DVD-RW Drive](https://cdn.mos.cms.futurecdn.net/PBR7t4ofYpkqgeoTqN5KyL.jpg) 

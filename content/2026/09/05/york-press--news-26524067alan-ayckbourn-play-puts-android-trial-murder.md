@@ -12,6 +12,79 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Earth
+- Friargate Theatre
+- Greece
+- Hull
+- Jurassic Park
+- Knavesmire
+- Liverpool
+- Lower Friargate
+- Main House
+- Monkgate
+- Pearl
+- Royal Ascot
+- Scarborough
+- The Selfish Giant
+- Uh Oh
+- York Barbican
+people:
+- ALAN Ayckbourn
+- Alan Ayckbourn
+- Amanda Whittington
+- Captain Hook
+- Charles Hutchinson
+- Daffy
+- Darling
+- Dave Johns
+- Death
+- Dil
+- Dr Feelgood
+- Ella Hickson
+- Gary Jennison
+- Ian Dury
+- J M Barrie
+- Jan
+- Jared More
+- Jimmy Shirley
+- Jon Boustead
+- Jonathan Maitland
+- Linda
+- Love
+- Lydia Crosland
+- Martyn Hunter
+- Matthew Rutherford
+- Oscar Wilde
+- PHILIP Nathaniel Wang Sin Goi
+- Peter Pan
+- Phil Wang
+- Rock'n'Roll
+- Romeo Oscar
+- Shelley
+- Silky
+- Solid Senders
+- Sophie-Jade Howell
+- Tink
+- Wendy
+- Wilko Johnson
+organisations:
+- BBC Radio 4
+- CITY Screen Picturehouse
+- City Screen Picturehouse
+- Daphne
+- Giant
+- Nice
+- Riding Lights
+- Riding Lights Theatre Company
+- Stephen Joseph Theatre
+- The Basement
+- The Blockheads
+- Wendy & Peter Pan
+- YORK Theatre Royal Youth Theatre
+- York Museum Gardens
+- York Theatre Royal
+- York Theatre Royal Youth Theatre
 ---
 
 ## Alan Ayckbourn's 92nd play puts first non-human on trial for murder

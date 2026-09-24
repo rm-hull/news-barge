@@ -14,6 +14,48 @@ categories:
 - UK
 - Music
 - Arts & Culture
+locations:
+- Nashville
+people:
+- Avery Anna
+- Ben West
+- Carter Faith
+- Choosin’ Texas
+- Chris Stapleton
+- Cody Johnson
+- Dave Clauss
+- Dry Spell
+- Ella Langley
+- Emily Ann Roberts
+- Gary
+- Jack Antonoff
+- Kacey Musgraves
+- Lainey Wilson
+- Langley’s “Dandelion
+- Luke Combs
+- Megan Moroney
+- Miranda Lambert
+- Parker McCollum
+- Reba McEntire
+- Stephen Wilson Jr.
+- Taylor Swift
+- Tucker Wetmore
+- Zach Top
+organisations:
+- ABC
+- Bridgestone Arena
+- Brooks & Dunn
+- CMA
+- CMAs
+- Country Airplay
+- Country Music Association
+- Disney+
+- Lady A
+- Little Big Town
+- Midland
+- No. 1
+- Old Dominion
+- The Red Clay Strays
 ---
 
 Ella Langley, riding the wave of her crossover megahit “Choosin’ Texas,” leads the nominations for the 2026 Country Music Association Awards with nine nods, followed by her mentor Miranda Lambert with six.

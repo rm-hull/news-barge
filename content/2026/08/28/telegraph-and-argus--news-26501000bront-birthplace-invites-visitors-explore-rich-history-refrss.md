@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Arts & Culture
 - Travel
+locations:
+- Bradford
+- Brontë Bell Chapel
+- Brontë Birthplace
+- Charlotte
+- England
+- Kipping House
+- South Square Centre
+- Thornton
+people:
+- Anne
+- Branwell
+- Brontë
+- Emily
+- Paul Crossley
+- Thomas Haigh
+organisations:
+- Brontë Birthplace
+- Evie Lauren Photography
 ---
 
 THE Brontë Birthplace will open its doors for a national festival.

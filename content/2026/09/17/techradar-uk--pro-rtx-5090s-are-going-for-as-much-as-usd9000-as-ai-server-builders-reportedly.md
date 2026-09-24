@@ -12,6 +12,45 @@ image: https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- Hong Kong
+- US
+people:
+- AI
+- Kevin Hofer
+- Rahim Amir
+organisations:
+- AI
+- ASUS
+- Amazon
+- Best Buy
+- Digitec
+- EULA
+- Ethereum
+- GPU
+- GeForce
+- Gigabyte
+- Google News
+- Guru3D
+- HKEPC
+- LHR
+- MSI
+- Newegg
+- Nvidia
+- PC
+- PCGamesN
+- PCs
+- RGB
+- RTX 5090 D
+- SFF
+- TechPowerUp
+- TechRadar Pro
+- Tom's Hardware
+- TweakTown
+- Twitter
+- VRAM
+- VideoCardz
 ---
 
 ![RTX 5090 AI server](https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U.jpg) 

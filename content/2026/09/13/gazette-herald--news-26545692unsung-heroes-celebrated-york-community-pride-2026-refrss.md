@@ -13,6 +13,45 @@ categories:
 - Harrogate
 - York
 - Comedy & Entertainment
+locations:
+- Aviva
+- Britain
+- York Racecourse
+people:
+- Alison Goude
+- Ben Hardy
+- David Harrison.
+- Duncan Wood
+- Ella Bond
+- Finley Barrett-Carter
+- Holly Hennell
+- Lexi Medforth
+- Rosie Stuart
+- Tim Bryan
+organisations:
+- Aviva
+- Ceri Wright Host
+- David Harrison Photography
+- Duncan Wood
+- Fera Science
+- Grace Kirby
+- ISF York
+- ITV Calendar
+- Lord Deramore
+- Merchant Adventurers
+- Rawcliffe Rovers
+- The Company
+- The Place
+- The Place and the York Pride of Place Board
+- The Press
+- UNSUNG
+- Urban Wild Youth Group
+- York Against Cancer
+- York Business School
+- York College & University Centre
+- York Community Impact Manager
+- York Community Pride
+- York St John University
 ---
 
 UNSUNG heroes were celebrated at a very special awards ceremony for York Community Pride.

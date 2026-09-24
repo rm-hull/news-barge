@@ -10,6 +10,21 @@ description: Indian Army now scans military drones for suspicious Chinese chips,
 image: https://cdn.mos.cms.futurecdn.net/3ewuqcFbsne3PUdVKc8nGZ-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Delhi Cantonment
+- India
+- New Delhi
+people:
+- Dhiraj Seth
+organisations:
+- AASHVAST
+- Assessment and Analysis of Electronic Systems Hardware for Vulnerabilities and Security
+  Threats
+- Efosa
+- Google News
+- Indian Army
+- QuickPay Tech
+- TechRadar Pro
 ---
 
 ![AASHVAST](https://cdn.mos.cms.futurecdn.net/3ewuqcFbsne3PUdVKc8nGZ.jpg) 

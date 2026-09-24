@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Aarau
+- Aargau
+- Zurich
+people: []
+organisations:
+- SRF
 ---
 
 A shooting at a rave in the northern Swiss canton of Aargau killed one person and left five injured, local police and media reported Sunday.

@@ -14,6 +14,28 @@ categories:
 - Science
 - Pets & Animals
 image: https://media.wired.com/photos/6aa8645f9bc29761b67d49dc/191:100/w_1280,c_limit/Inside-Support-Group-Bad-Dogs-Culture.jpg
+locations:
+- Costa Rica
+- Los Angeles
+- New Orleans
+- Puerto Rico
+- Singapore
+- US
+people:
+- DA
+- Daphne Mendoza-Tervanis
+- Gen Xers
+- Jerri Scherff
+- Lassie
+- Louise Crane
+organisations:
+- American Society for the Prevention of Cruelty to Animals
+- Crane
+- DA
+- Dogs Anonymous
+- Instagram
+- University of Lincoln
+- WIRED
 ---
 
 Just past 6 pm on a recent Wednesday night, half a dozen pet owners logged into a Zoom meeting to confess something they’re afraid to talk about in public: They’re fed up with their dogs.

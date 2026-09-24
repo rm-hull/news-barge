@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa Africa
+- Australia
+- Canada
+- Ireland
+- Lagos
+- New Jersey
+- Nigeria
+- Scotland
+- Shona
+- South Africa
+- U.S.
+- Yoruba
+- Zimbabwe
+people:
+- Believe Mubonderi
+- Chindovi
+- Masoyinbo’
+- Mhoroi
+- Nyashadzashe Machingura
+- Olalekan Fabilola
+- Shona
+- Shungu Chidovi
+- Tomi Adeshokan
+organisations:
+- AP
+- AU
+- African Union
+- Associated Press
+- Clubhouse
+- Gates Foundation
+- UNESCO
+- United Nations
+- ZimbOriginal
+- Zimbabwe Open University
+- ___ Ikpoyi
 ---
 
 A television game show in Nigeria’s commercial hub of Lagos has an unforgiving rule: Speak English and you lose. For a U.S.-born millennial in the audience and a student of her parents' mother tongue, the high-stakes setting is a perfect classroom.

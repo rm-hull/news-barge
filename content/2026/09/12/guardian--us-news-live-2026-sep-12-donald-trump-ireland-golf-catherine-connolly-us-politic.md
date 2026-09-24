@@ -13,6 +13,51 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Abqaiq
+- Argentina
+- Britain
+- Deerfield
+- East-West
+- Europe
+- Falkland Islands
+- Falklands
+- Farmleigh House
+- Galway
+- Gaza
+- Gulf
+- Hormuz
+- Iran
+- Iraq
+- Ireland
+- Israel
+- Middle East
+- PA Well
+- Red Sea
+- Riyadh
+- St Brigid’s Cross
+- UK
+- US
+- Uachtaráinin Dublin
+- Yanbu
+- Áras
+people:
+- Ben Birchall
+- Catherine Connolly
+- Clodagh Kilcoyne
+- Donald Trump
+- Julia Demaree Nikhinson
+- Kylie Cooper
+- Michael Longley
+- Micheal Martin
+- Micheál Martin
+- PA Trump
+- Rory Carroll
+organisations:
+- AP PA
+- Irish Times
+- Reuters Martin
+- Reuters Trump
 ---
 
 Trump has weighed in on the question of Irish unity, saying he would “love to see it unified” and predicting that a united Ireland is “going to happen eventually”.

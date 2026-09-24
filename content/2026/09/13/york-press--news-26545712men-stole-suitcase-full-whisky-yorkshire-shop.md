@@ -13,6 +13,12 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- North Yorkshire
+- Northallerton
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Britain
+- UK
+people:
+- Peter Andrews
+organisations:
+- Bank of England
+- Consumer Voice
+- Courmacs Legal
+- Credit Agricole
+- FCA
+- Financial Conduct Authority
+- Mercedes-Benz
+- Upper Tribunal
+- Volkswagen
 ---
 
 A consumer advocacy group has alleged that Britain’s financial regulator focused on reducing the cost of its £9.1 billion motor finance compensation package for lenders rather than safeguarding motorists.

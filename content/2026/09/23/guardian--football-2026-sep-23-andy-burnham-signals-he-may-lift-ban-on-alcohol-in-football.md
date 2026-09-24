@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/3c402484e2580ddb31acf5021f32fde9cbe46c84/864_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66ba72c0ca7c71a229f30d6a41265a18
+locations:
+- Amex Stadium
+- Broadfield Stadium
+- England
+- Hillsborough
+- New York
+- Wales
+people:
+- Andy Burnham
+- Taylor
+- Tom Greatrex
+organisations:
+- Aston Villa
+- Brighton
+- Control of Alcohol etc
+- Crawley
+- English Football League
+- Everton
+- FSA
+- Football Supporters’ Association
+- Hove Albion
+- Oasis
+- UK Football Policing Unit
+- UKFPU
+- WSL
+- WSL2
+- Women’s Super League
 ---
 
 Andy Burnham has signalled he may lift the ban on drinking alcohol in the stands at football matches, suggesting it is “unfair” for fans to be singled out when it is permitted for other sports.

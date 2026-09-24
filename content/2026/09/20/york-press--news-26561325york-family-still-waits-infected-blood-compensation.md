@@ -14,6 +14,31 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21471554.jpg?type=og-image
+locations:
+- Fleetbank House
+- London
+- UK
+- York
+people:
+- Andy Burnham
+- Bev Martindale
+- Derek Martindale
+- Dylan Connell
+- John
+- Margaret
+- Maskell
+- Richard Martindale
+- Richard’s
+- Stephen
+- Steve Martindale
+- Susan
+organisations:
+- Infected Blood Compensation Authority
+- Infected Blood Inquiry
+- Labour
+- NHS
+- The Infected Blood Compensation Authority
+- The Press
 ---
 
 *(Image: Derek Martindale)*

@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Russia
+- Ukraine
+people: []
+organisations:
+- AP
 ---
 
 Photos show destruction after Russia’s deadliest strike on Ukraine this year

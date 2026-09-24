@@ -13,6 +13,38 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Dongguan
+- Netherlands
+- Nexperia
+- Nijmegen
+- Shanghai
+people:
+- Achim Kempe
+- Luke James
+- Nexperia
+- Ruben Lichtenberg
+- Stefan Tilger
+- Tom
+- Wingtech
+- Zhang Xuezheng
+organisations:
+- Bloomberg
+- CFO
+- Dongguan Intermediate People's Court
+- Google News
+- ITEC B.V.
+- ITEC Technology
+- Nexperia B.V.
+- Nexperia BV
+- Nexperia China
+- Nexperia Semiconductor
+- Nexperia Semiconductor Technology
+- RSM
+- Shanghai Stock Exchange
+- Wingtech Technology
+- Wuxi
 ---
 
 ![Nexperia](https://cdn.mos.cms.futurecdn.net/wwLbifAkzjh9QJrXd9XANF.jpg) 

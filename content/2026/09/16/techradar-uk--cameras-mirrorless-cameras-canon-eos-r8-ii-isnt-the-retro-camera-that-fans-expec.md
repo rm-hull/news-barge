@@ -14,6 +14,22 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Film & TV
+locations:
+- Australia
+- Kenya
+- Nairobi
+- US
+people:
+- Canon
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- Nikon Zf
+- Sony
+- TechRadar
 ---
 
 ![Canon EOS R8 Mark II on a wooden table, with grip attached](https://cdn.mos.cms.futurecdn.net/LKhCDgq6WVrkmVqqeE9hGc.jpg) 

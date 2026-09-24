@@ -13,6 +13,18 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- Harrogate
+- Reeves Upholstery House
+people:
+- Dad
+- Ken Reeves
+- Mark Skinner
+- Michaela Reeves
+- Michaela’s
+- Riley Skinner
+organisations:
+- Reeves Upholstery House
 ---
 
 A Harrogate family business whose furniture features in luxury television lottery prize houses is celebrating a milestone closer to home: welcoming the next generation into its workshop.

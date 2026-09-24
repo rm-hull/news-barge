@@ -13,6 +13,18 @@ image: https://cdn.mos.cms.futurecdn.net/wyV9G2zTf4QEdFPCxQM9Hb-1999-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Matt Safford
+- Tom
+organisations:
+- Get Tom's Hardware
+- Google News
+- Lexar
+- Muse
+- PC
+- Popular Science
+- Smithsonian
 ---
 
 ![Lexar Muse](https://cdn.mos.cms.futurecdn.net/wyV9G2zTf4QEdFPCxQM9Hb.jpg) 

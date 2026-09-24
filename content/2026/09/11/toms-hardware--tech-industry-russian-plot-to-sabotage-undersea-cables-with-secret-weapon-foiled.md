@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Hardware
 - History
+locations:
+- Britain
+- Norway
+- Russia
+- Svalbard
+- U.S.
+- UK
+- United States
+people:
+- Stephen Warwick
+- Tom
+organisations:
+- Apple
+- GUGI
+- Get Tom's Hardware
+- Google News
+- NATO
+- Reuters
+- TechRadar
+- Tom's Hardware
+- U.S. Helsinki Commission
+- iMore
 ---
 
 ![Svalbard](https://cdn.mos.cms.futurecdn.net/GpokLsbzF6UcPyuqvvoRrT.jpg) 

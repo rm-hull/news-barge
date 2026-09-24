@@ -15,6 +15,17 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Africa
+- Leeds
+- Norfolk
+- Saham Toney
+people:
+- Christian Williams
+- Mohamed Madhi
+- Nicole Jeffery
+organisations:
+- BOTB
 ---
 
 # Man with £4.73 in his bank account wins £1m home - but he may not take it

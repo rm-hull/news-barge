@@ -11,6 +11,26 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/ad85ba20a419ec8f553591a82f5de6b76d3cd9ba/449_0_2220_1776/master/2220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b783693d4c691bd7cf4ece0983853d0
+locations:
+- Britain
+- China
+- Europe
+- Europe’
+- Ireland
+- New York
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Keir Starmer
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- Labour
+- Makerfield
+- UN
 ---
 
 Andy Burnham has opened the door to fighting the next election on the UK rejoining the EU, but said his immediate priority was continuing to rebuild bridges with European allies.

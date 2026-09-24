@@ -14,6 +14,31 @@ categories:
 - Germany
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Berlin
+- Germany
+- Luxembourg
+- Mecklenburg-Western Pomerania
+- Middle East
+- Strait of Hormuz
+people:
+- Friedrich Merz
+- Isabel Cademartori
+- Katherina Reiche
+- Leif-Erik Holm
+- Sebastian Steineke
+organisations:
+- ADAC
+- AfD
+- Alternative for Germany
+- BGA
+- Bundestag
+- CDU
+- EU
+- Federal Cartel Office
+- German Foreign Trade Association
+- Handelsblatt
+- SPD
 ---
 
 Drivers across Germany are having to dig deeper into their wallets as petrol and diesel prices rise amid turmoil in the Middle East.

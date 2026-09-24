@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Comedy & Entertainment
+locations:
+- Colliergate
+- Japan
+- Top York
+people:
+- Anna
+- Jo Patton
+- Pokémon
+organisations:
+- Media Factory
+- Pocket Monsters
+- Pokémon
+- Totally Awesome
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,37 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Belgrade
+- Kosovo
+- Netherlands
+- Prishtina
+- Serbia
+- The Hague
+- Western Balkan
+people:
+- Albin Kurti
+- Aleksandar Vučić
+- Chambers
+- Charles Smith
+- Endrit Thaçi
+- Hashim Thaçi
+- Jakup Krasniqi
+- Kadri Veseli
+- Klestor Veseli
+- Rexhep Selimi
+- Tahir Bytyqi
+organisations:
+- EU
+- EULEX
+- European Union
+- KLA
+- KSC
+- Kosovo Liberation Army
+- Kosovo Specialist Chambers
+- NATO
+- Roma
+- Rule of Law Mission
 ---
 
 ## Thousands who had gathered in Prishtina expecting an acquittal dispersed in silence after the Kosovo Specialist Chambers found the former president guilty of murder, torture and illegal detention, but some clashed with riot police outside the EU mission later in the day.

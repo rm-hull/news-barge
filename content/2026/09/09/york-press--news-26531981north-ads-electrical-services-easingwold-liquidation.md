@@ -13,6 +13,23 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Easingwold
+- Harrogate
+- North Yorkshire
+- York Road
+people: []
+organisations:
+- '**__Chico'
+- ADS Electrical Services of Shire Bridge Business Park
+- Companies House
+- FK Building Ltd of Harrogate
+- GS Insolvency and Restructuring Ltd
+- Google
+- HMRC
+- Harrogate Ltd
+- Mythophonic Ltd
+- National Insurance
 ---
 
 *(Image: Street View)*

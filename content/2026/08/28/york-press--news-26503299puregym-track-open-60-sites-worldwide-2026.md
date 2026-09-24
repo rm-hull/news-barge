@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Denmark
+- Republic of Ireland
+- Saudi Arabia
+- Switzerland
+- UK
+- US
+- United Arab Emirates
+people:
+- Alex Wood
+organisations:
+- '## PureGym'
 ---
 
 *(Image: Getty Images)*

@@ -10,6 +10,56 @@ image: https://cdn.mos.cms.futurecdn.net/g6NwDo4XkJAhJiXsqWk7J3-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Green Lung
+- Razer Hammerheads
+- Scandinavia
+- UK
+- US
+people:
+- Aleksha McLoughlin
+- Conan
+- Gojira
+- Hellblocker
+- Tungsten
+organisations:
+- ANC
+- Acid Bath
+- Apple Music
+- Bandcamp
+- Blood Red Throne
+- Bowers & Wilkins Pi8
+- Bowers & Wilkins'
+- Cambridge Audio
+- Candlemass
+- Carnifex
+- Dexerto
+- Dream Theater
+- Esports Insider
+- Galaxy Buds4
+- GamesRadar
+- Google News
+- H1Es
+- Heavys H1E
+- Heavys H1E True Wireless Earbuds
+- Katatonia
+- Kyusai
+- Loseless
+- Opeth
+- PC Gamer
+- PC Guide
+- Play Magazine
+- SBC
+- Samsung
+- Sleep
+- Solstafir
+- Spotify
+- TechRadar Gaming
+- The Escapist
+- Trusted Reviews
+- USP
+- YouTube Music
+- Zeal & Ardor
 ---
 
 ### TechRadar Verdict

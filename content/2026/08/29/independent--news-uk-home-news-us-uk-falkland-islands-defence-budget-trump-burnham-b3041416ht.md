@@ -13,6 +13,36 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- America
+- Argentina
+- Britain
+- Downing Street
+- Falkland Islands
+- Falklands
+- Greenland
+- Iran
+- Spithead
+- UK
+- US
+- United Kingdom
+- White House
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Lord West
+organisations:
+- Foreign Office
+- HMS
+- Nato
+- Pentagon
+- Royal Navy
+- The Independent
+- The Telegraph
+- Treasury
 ---
 
 The US is said to have issued an ultimatum to Andy Burnham, threatening to withdraw its support for Britain’s sovereignty over the Falkland Islands if it does not increase defence spending.

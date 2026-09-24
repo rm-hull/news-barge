@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Canada
+- Davos
+- Europe
+- Montreal
+- Ottawa
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Daniel Béland
+- Donald Trump
+- Jonathan Wilkinson
+- Mark Carney
+- Nelson Wiseman
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
+- European Union
+- McGill University
+- Trump
+- University of Toronto
 ---
 
 Canadian Prime Minister Mark Carney on Thursday embraced the prospect of his country becoming the European Union’s first associate member, saying closer ties with Europe were meant to ensure no country could control Canada’s markets, impair its sovereignty or undermine its freedoms.

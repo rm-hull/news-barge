@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Ahmedabad
+- Bandra
+- Bandra-Khar
+- Bangkok
+- Bengaluru
+- Cape Town
+- China
+- Delhi Metro
+- Gujarat
+- India
+- Iran
+- Karnataka
+- Manila
+- Middle East
+- Mumbai
+- New Delhi
+- Russia
+- Seoul
+- Tamil Nadu
+- The Quint
+- United Arab Emirates
+people:
+- Amitava Kumar
+- Ayan Shaikh
+- Geetam Tiwari
+- Hannah Ellis-Peterson
+- Jasprit Bumrah
+- Narendra Modi
+- Parag Pawan
+- Rahul Goel
+- Ronak Sutaria
+- Shubhangi Misra
+- Umar Khalid
+- Vinayak Chatterjee
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- BBC
+- BJP
+- Guardian
+- Hindustan Times
+- Indian Institute of Technology
+- Infravision Foundation
+- Respirer Living Sciences
+- Times of India
+- World Bank
 ---
 
 Recently, I may have saved a woman’s life on the road. Somehow, this was something I had expected to happen.

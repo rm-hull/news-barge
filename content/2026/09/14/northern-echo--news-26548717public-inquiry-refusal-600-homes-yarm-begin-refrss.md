@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Dunedin House
+- Green Lane
+- Mount Leven
+- Thornaby
+- YOUR
+- Yarm
+people:
+- Andrew Sherris
+- Ann Ming
+- Cllr Sherris
+- George Underwood
+- Taylor Wimpey
+organisations:
+- GOOGLE
+- Hutchinson Hobbs Farm Shop
+- Northern Powergrid
+- Public Inquiry
+- Public Notice Portal
+- Stockton Borough Council
+- Stockton Council
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 *(Image: P+HS ARCHITECTS / TAYLOR WIMPEY)*

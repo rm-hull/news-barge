@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Cumberland
+- Hope Mills
+- North Carolina
+people:
+- Adam Bean
+- Nekime Matu Oxendine
+- Tara Lynn Whitman
+organisations:
+- WTVD
 ---
 
 A North Carolina state highway patrol trooper has been charged with the murder of the captain of a county sheriff’s office.

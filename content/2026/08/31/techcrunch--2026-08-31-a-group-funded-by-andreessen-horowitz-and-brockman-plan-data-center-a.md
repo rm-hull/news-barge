@@ -13,6 +13,33 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Kansas
+- Ohio
+- Silicon Valley
+- Wisconsin
+people:
+- Andreessen Horowitz
+- Anna,” OpenAI
+- Ben Horowitz
+- Elon Musk
+- George Soros
+- Greg Brockman
+- Marc Andreessen
+organisations:
+- American AI
+- Anthropic
+- Bloomberg
+- Build American AI
+- LTF
+- Leading the Future
+- OpenAI
+- PAC
+- Politico
+- Public First Action
+- The New York Times
+- VCs
+- pro-AI
 ---
 
 A well-known, pro-AI super political action committee is behind a new group that plans to blast voters in key battleground states with ads advocating for data centers, several outlets are reporting.

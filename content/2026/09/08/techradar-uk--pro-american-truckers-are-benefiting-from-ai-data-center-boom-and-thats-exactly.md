@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/27iWQFpbiBQLpkTsGcrx4-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- America
+- Columbia Gorge
+- Iran
+- US
+people:
+- Benedict Collins
+organisations:
+- '## AI'
+- APT
+- BUCSIS
+- CNBC
+- Google News
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Big rig classic American powerful brown semi truck with refrigerated semi trailer transporting frozen goods running on the road along railroad and river in Columbia Gorge area with mountain ranges](https://cdn.mos.cms.futurecdn.net/27iWQFpbiBQLpkTsGcrx4.jpg) 

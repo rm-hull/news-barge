@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- A61
+- Dunlopillo
+- Harrogate
+- North East
+- North Yorkshire
+- Pannal railway station
+- Shotley Bridge Hospital
+- Smithy Close
+- Thirkhill Drive
+people: []
+organisations:
+- Forward Investments LLP
+- North Yorkshire Council
 ---
 
 Plans for up to 150 new homes in green belt land near Harrogate would help address a severe shortage of housing in the area, according to the developer behind the scheme.

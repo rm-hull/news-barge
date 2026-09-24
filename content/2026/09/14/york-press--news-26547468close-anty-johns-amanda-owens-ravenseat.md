@@ -12,6 +12,30 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- England
+- High Smithy Holme
+- Muker
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Smithy Holme
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Dales National Park
+people:
+- Amanda Owen
+- Anthony Clarkson
+- Anty John
+- Clive
+- Owens
+- Ravenseat
+- Reuben
+- Sid
+organisations:
+- Anty John's
+- Clive and Kids
+- More4
+- Swaledale
 ---
 
 ## How close Amanda Owen's Anty John's farmhouse really is to Ravenseat Farm

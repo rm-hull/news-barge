@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arabian Gulf
+- Asia
+- Bab al-Mandab Strait
+- Djibouti
+- Mogadishu
+- Oman
+- Saudi Arabia
+- Somalia
+- Sri Lanka
+- Strait of Hormuz
+- Syria
+- United Arab Emirates
+- Yemen
+people:
+- Ali Jemdi
+- Mohamed Ali Nur
+organisations:
+- Bab el-Mandeb
+- International Organization for Migration
+- Mogadishu Seaport
+- The Associated Press
 ---
 
 Somalia's business community is seeking alternative shipping routes due to disruptions and security concerns around the Bab al-Mandab Strait and the Strait of Hormuz after Iran-backed Houthis captured a key port city and an island, sending thousands of Yemenis fleeing to neighboring Djibouti.

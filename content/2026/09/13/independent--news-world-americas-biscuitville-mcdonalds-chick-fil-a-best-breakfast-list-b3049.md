@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- America
+- Biscuitville
+- Georgia
+- North Carolina
+- South Carolina
+- Tennessee
+- U.S.
+- Virginia
+people:
+- Biscuitville
+- Burger King
+- Kristie Mitchell
+- Wendy’s
+organisations:
+- Biscuitville
+- Chick-fil-A
+- Fox News Digital
+- McDonald's
+- USA Today
 ---
 
 The beloved Southern breakfast chain, Biscuitville, has earned the title of America’s best fast-food breakfast, beating out bigger national chains for the fourth year in a row.

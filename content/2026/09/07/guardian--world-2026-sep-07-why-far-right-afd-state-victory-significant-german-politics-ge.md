@@ -12,6 +12,30 @@ image: https://i.guim.co.uk/img/media/275c8b357a9d099eede7e330a8f9680e00446daa/8
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Germany
+- Iran
+- Mecklenburg-Western Pomerania
+- Saxony-Anhalt
+- Thuringia
+people:
+- Alice Weidel
+- Frankenstein
+- Friedrich Merz
+- Sven Schulze
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- AfD
+- BSW
+- CDU
+- Christian Democrats
+- Der Spiegel
+- Linke
+- SPD
+- Social Democratic party
+- pro-Kremlin Alternative für Deutschland
 ---
 
 Germany is reeling from the biggest far-right victory in a state election since the Nazi period after voters in Saxony-Anhalt in the former communist east gave the anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party a thumping first-place finish of 44%, just short of an absolute majority.

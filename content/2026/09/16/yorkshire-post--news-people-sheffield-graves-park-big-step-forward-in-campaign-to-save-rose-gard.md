@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Dukes
+- Graves Park
+- Norfolk Park
+people:
+- Andy Kershaw
+- Greg
+- Julie
+organisations:
+- Dukes
+- Friends of Graves Park
+- Rose Garden Cafe
+- Rose Garden Cafe Partnership
+- Save the Rose Garden Cafe Campaign
+- Sheffield City Council
+- Sheffield Graves Park
 ---
 
 # Sheffield Graves Park: Big step forward in campaign to save Rose Garden Cafe

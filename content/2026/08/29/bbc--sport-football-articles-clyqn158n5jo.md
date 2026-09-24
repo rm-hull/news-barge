@@ -14,6 +14,48 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brentford
+- England
+- Europe
+- London.
+- Newcastle
+- Tottenham Hotspur Stadium
+- West Ham
+people:
+- Andy Robertson
+- Anthony Elanga
+- De Zerbi
+- Jan Paul van Hecke
+- Joe Hart
+- Kevin Danso
+- Lukas Hornicek
+- Marcos Senesi
+- Martin Dubravka
+- Mateus Fernandes
+- Matthias Jaissle
+- Omar Marmoush
+- Pape Matar Sarr
+- Richarlison
+- Rob Green
+- Roberto de Zerbi
+- Sandro Tonali
+- Savinho
+- Savio
+- Spurs'
+- Tottenhammanager Roberto de Zerbi
+- Yoane Wissa
+organisations:
+- BBC Radio 5
+- Brighton
+- Europa League
+- Everton
+- Magpies
+- Manchester City
+- Newcastle
+- Premier League
+- Spurs
+- Tottenham
 ---
 
 Jaissle claims first Premier League win at lacklustre Spurs

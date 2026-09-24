@@ -12,6 +12,25 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311180761.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Germany
+- Gorongosa National Park
+- Guinea
+- Mozambique
+- Nimba
+- Senegal
+- Sierra Leone
+- Spain
+people:
+- Andreu Sánchez-Megías
+- D’Oliveira Coelho
+- João d’Oliveira Coelho
+- Nora Slania
+- d’Oliveira Coelho
+organisations:
+- Max Planck Institute of Animal Behavior
+- University of Barcelona
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311180761.jpg?w=840)

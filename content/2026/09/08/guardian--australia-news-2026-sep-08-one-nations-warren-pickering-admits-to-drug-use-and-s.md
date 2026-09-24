@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Crown Casino
+people:
+- James Ashby
+- Warren Pickering
+organisations:
+- ABC
+- Australian Defence Force
+- Guardian Australia
+- One Nation
+- The Australian
+- Victorian One Nation
 ---
 
 The Victorian One Nation leader, Warren Pickering, has admitted he “made mistakes” in his 20s, including using ecstasy, methamphetamines and marijuana, losing his licence multiple times for drink driving and hurting people he loved.

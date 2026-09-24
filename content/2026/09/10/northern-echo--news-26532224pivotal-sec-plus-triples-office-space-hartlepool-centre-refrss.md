@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Barnard Castle
+- Bishop Auckland
+- Hartlepool
+- Innovation Centre
+- Ireland
+- North East
+- UK
+people:
+- Julieanne Crawford
+- Ms Crawford
+- Sarah Thorpe
+organisations:
+- Dragon's Den
+- Hartlepool Innovation Centre
+- Innovation Centre
+- Michelle Maddison Photography
+- Pivotal Sec Plus
+- UKSE Innovation Centre
 ---
 
 *(Image: Michelle Maddison Photography)*

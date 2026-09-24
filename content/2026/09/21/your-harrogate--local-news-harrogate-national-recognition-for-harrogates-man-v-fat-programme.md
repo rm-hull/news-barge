@@ -14,6 +14,21 @@ categories:
 - Health & Fitness
 - Sports
 image: https://mmo.aiircdn.com/409/6ab0d79785ad00f1f60.jpg
+locations:
+- Harrogate
+- Knaresborough
+people:
+- Amanda Martin
+- James Frith
+- Matt Stephenson
+- Mims Davies
+organisations:
+- FAT Podcast
+- Harrogate Town AFC Community Foundation
+- Houses of Parliament
+- MAN
+- Movember
+- Prostate Cancer UK
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab0d79785ad00f1f60.jpg)

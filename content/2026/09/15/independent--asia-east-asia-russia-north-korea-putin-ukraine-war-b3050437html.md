@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- India
+- Kursk
+- Moscow
+- North Korea
+- Pyongyang
+- Russia
+- South Korea
+- Ukraine
+people:
+- Kim Jong Un
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations: []
 ---
 
 North Korean leader Kim Jong Un has vowed to “expand and deepen” his cooperation with Russia and support for what he called Vladimir Putin’s “sacred war”, presumed to be a reference to the invasion of Ukraine.

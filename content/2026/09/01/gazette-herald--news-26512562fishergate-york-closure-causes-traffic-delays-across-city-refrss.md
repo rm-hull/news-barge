@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Fishergate
+- George Street
+- Lead Mill Lane
+- Margaret Street
+- Paragon Street
+- Piccadilly
+- Tower Street
+- Walmgate Bar
+- York
+people: []
+organisations:
+- City of York Council
+- First Bus
+- Fishergate
+- Newsquest
+- The Press
+- Yorkshire Water
 ---
 
 A road closure on part of York’s inner ring road was continuing to blight motorists today - causing long queues of traffic.

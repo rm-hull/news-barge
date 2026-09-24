@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/879e81051a602b4d840908305fa73abd649d40be/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51e13e1dea3153acfc6c21bf493c35c3
+locations:
+- Australia
+- Germany
+- Italy
+- Japan
+- South Korea
+people:
+- Andrew Hastie
+- Andrew Leigh
+- Anthony Albanese
+- Howard
+- Jim Chalmers
+- Katy Gallagher
+- Matt Canavan
+- Peter Costello
+organisations:
+- ABC TV
+- Deloitte
+- Labor
+- Liberal
+- Nationals
+- Treasury
 ---
 
 Labor says better investment in early childhood education and care, such as a possible move to universal access for families, is a better way to address Australia’s declining birthrate, rejecting the need for a new “baby bonus”.

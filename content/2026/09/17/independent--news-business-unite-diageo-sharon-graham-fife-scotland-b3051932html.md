@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Cameronbridge
+- Europe
+- Fife
+- Leven
+- Scotland
+people:
+- Dougie Maguire
+- Sharon Graham
+- Stefan Rousseau
+organisations:
+- Cameronbridge Distillery
+- Diageo
+- Unite
 ---
 
 Trade union leaders are threatening to “bring production to a standstill” at Europe’s largest grain distillery with more than two weeks of strike action.

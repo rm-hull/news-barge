@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470074.jpg?type=og-image
+locations:
+- Bradford
+- City Hall
+- Google Street View
+- Holly Park Drive
+- Holly Park Grove
+- Section 14
+people: []
+organisations:
+- City of Bradford Metropolitan District Council
+- Democratic Services
+- No. 6
 ---
 
 *(Image: Google Street View)*

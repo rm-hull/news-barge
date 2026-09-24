@@ -11,6 +11,15 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/police-van-cones-road-accident-crash.webp
+locations:
+- '#### Crash'
+- A63
+- Bawtry Road
+- North Yorkshire
+- Selby
+people: []
+organisations:
+- Wishing Well
 ---
 
 There’s been a crash at North Yorkshire roundabout this morning (Monday).

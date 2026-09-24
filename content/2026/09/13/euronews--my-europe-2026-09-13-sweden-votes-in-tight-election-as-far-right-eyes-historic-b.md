@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Sports
 - History
+locations:
+- Sweden
+people:
+- Magdalena Andersson
+- Ulf Kristersson
+organisations:
+- Christian Democrats
+- Liberals
+- Moderate Party
 ---
 
 ## Swedish Prime Minister Ulf Kristersson and opposition leader Magdalena Andersson are battling for the premiership. Kristersson has said that, if he wins, the far right could join his government.

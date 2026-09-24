@@ -14,6 +14,29 @@ categories:
 - UK
 - Society & Culture
 - Travel
+locations:
+- Cardiff
+- Downing Street
+- Glasgow
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- John Swinney
+- Mairi McAllan
+- Michael Gove
+- Michelle O’Neill
+- Ms McAllan
+- Rhun ap Iorwerth
+organisations:
+- House of Commons
+- NHS
+- Plaid Cymru
+- Scottish Government
+- Sinn Féin
+- Welsh Government
 ---
 
 A fresh vote on Scottish independence remains "not off the table", a senior minister has said, despite earlier remarks from the Prime Minister.

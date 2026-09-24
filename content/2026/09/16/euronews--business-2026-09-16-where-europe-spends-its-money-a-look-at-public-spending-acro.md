@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Big Four’
+- Bulgaria
+- Denmark
+- Europe
+- Finland
+- France
+- Germany
+- Greece
+- Hungary
+- Iceland
+- Ireland
+- Italy
+- Latvia
+- Luxembourg
+- Madrid
+- Malta
+- Norway
+- Paris
+- Portugal
+- Romania
+- Spain
+- Switzerland
+- UK
+people:
+- Emilia Montoya Vazquez
+- Linda Kezbere
+- Marta Rodríguez-Vives
+organisations:
+- ECB
+- EU
+- Euronews Business
+- European Central Bank
+- Eurostat
+- OECD
 ---
 
 ## European governments allocate the largest share of their spending to social protection, while the second-largest category varies across countries. Euronews Business takes a closer look at how governments spend public money on services.

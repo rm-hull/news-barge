@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Dranse
+- Evian
+people:
+- Anne
+- Em
+- Emmy
+- Ginny
+- Jack Russell
+- Julian Norton
+- Seamus
+- Vet Julian Norton.
+organisations: []
 ---
 
 # I tried out a doggy backpack for my aging Emmy but it didn't go to plan - Julian Norton

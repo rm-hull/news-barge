@@ -12,6 +12,28 @@ image: https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U-2560-80.jpg
 categories:
 - Technology & Software
 - Health & Fitness
+locations:
+- Amazon
+- Anker
+- Belkin SoundForm ClearFit
+- Tozo
+people:
+- Becca Caddy
+- Belkin
+organisations:
+- Amazon
+- Becca
+- Belkin SoundForm ClearFit
+- Bonnier Books
+- Google News
+- Inverse
+- New Scientist
+- Soundcore Anker V20i
+- TechRadar
+- The Guardian
+- Tozo OpenEarRing
+- VR
+- Wired
 ---
 
 ![Three pairs of open earbuds pictured in their charging case on a wooden surface](https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U.jpg) 

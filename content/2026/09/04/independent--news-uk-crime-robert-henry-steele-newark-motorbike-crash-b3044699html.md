@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Chatsworth Road
+- Churchill Drive
+- Newark
+- Nottingham Crown Court
+- Nottingham Magistrates’ Court
+people:
+- Brian Cameron
+- Myself
+- Robert Henry
+- Robert Henry Steele
+- Ronny-Boy
+- Tilly Robinson
+organisations:
+- Nottinghamshire Police
 ---
 
 A mother has paid tribute to a four-year-old boy as her “pride and joy” after he was killed when the off-road motorbike he was a passenger on collided with a car.

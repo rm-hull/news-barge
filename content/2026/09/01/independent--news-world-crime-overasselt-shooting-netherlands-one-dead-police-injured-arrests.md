@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Algeria
+- Amsterdam
+- Belgium
+- France
+- Overasselt
+- The Netherlands
+people:
+- Janny Knol
+- Joerie Minses
+- Overasselt
+organisations:
+- De Telegraaf
 ---
 
 Dutch police arrested 34 suspects following a huge manhunt on Tuesday after a man was fatally shot and two police officers were wounded in what appeared to be a gangland attack that involved some 30 masked men walking down a street in a rural village in the Netherlands.

@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Acomb
+- Acomb’s Front Street
+- Front Street
+people:
+- Emma Proudly-Midgley
+- Jackie Crozier
+organisations:
+- Acomb Artisan Market
+- Golden Triangle Scents
+- Little Bird Made
+- Soak
+- Yorkshire
 ---
 
 *(Image: Suppled)*

@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- US
+- White House
+people:
+- Craig Hale
+- Trump
+- Tyson Slocum
+organisations:
+- Craig’s
+- Google News
+- Public Citizen
+- Reuters
+- TechRadar Pro
 ---
 
 ![Electrical pylons and high voltage power lines are behind a barbed wire fence. critical infrastructure](https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a.png) 

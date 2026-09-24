@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21488534.jpg?type=og-image
+locations:
+- Care UK
+- Ilkley
+- Lower Railway Road
+- Mayfield View
+- UGC
+people:
+- Diana
+- Katie Cliff
+- Sheila
+organisations:
+- Care UK
+- District Riding Association
+- Mayfield View
+- The Ilkley
+- The Ilkley and District Riding Association
 ---
 
 *(Image: UGC)*

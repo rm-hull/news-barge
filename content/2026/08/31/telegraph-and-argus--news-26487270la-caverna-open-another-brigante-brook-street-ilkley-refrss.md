@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford
+- Brigante
+- Brook Street
+- Casinalbo
+- Emilia-Romagna
+- Ilkley
+- Italy
+- Leeds
+- Modena
+- Naples
+- Piccolino
+- Rome
+- Sunbridge Wells
+- UK
+- Yorkshire
+people:
+- Brigante
+- Ilkley
+- Simo Alrababa
+organisations:
+- Brigante
+- La Caverna
 ---
 
 *(Image: Brigante)*

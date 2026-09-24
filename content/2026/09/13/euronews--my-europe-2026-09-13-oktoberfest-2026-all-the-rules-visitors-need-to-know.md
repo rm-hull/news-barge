@@ -12,6 +12,24 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bavaria
+- Germany
+- Käfer
+- Munich
+- Oktoberfest
+- Theresienwiese
+- Wiesn
+people:
+- Dominik Krause
+- Weinzelt
+organisations:
+- '### Cannabis Munich'
+- '### Cocaine Cocaine'
+- BLKA
+- Bavarian State Office of Criminal Investigation
+- Bayerische Cannabisfolgenbegrenzungsgesetz
+- Maß
 ---
 
 ## Visitors are reminded to follow the rules while enjoying the event as it is meant to be, with a hearty "Ein Prosit der Gemütlichkeit!"

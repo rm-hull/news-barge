@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Amazon
+- UK
+people: []
+organisations:
+- AI
+- Future plc
+- Leaseweb
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![An abstract pattern of blue lines and orange-yellow dots on a dark blue background, to represent a digital environment](https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM.jpg) 

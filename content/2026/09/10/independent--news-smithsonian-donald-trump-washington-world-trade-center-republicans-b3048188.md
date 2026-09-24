@@ -13,6 +13,29 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- National Mall
+- Smithsonian
+- South Tower
+- U.S.
+- White House
+people:
+- Anthea Hartig
+- Barbara
+- Donald Trump
+- JD Vance
+- John Roberts
+- Lonnie Bunch
+- Ted Olson
+organisations:
+- Board of Regents
+- Congress
+- National Museum of American History
+- Pentagon
+- Smithsonian Institution
+- Supreme Court
+- United Airlines
+- World Trade Center
 ---
 
 Seat belts and a flight attendant call button from the doomed United Airlines Flight 93. A purse filled with keys and a wallet recovered from the World Trade Center site. The telephone that sat on U.S. Solicitor General Ted Olson's desk when his wife, Barbara, called from a hijacked airplane.

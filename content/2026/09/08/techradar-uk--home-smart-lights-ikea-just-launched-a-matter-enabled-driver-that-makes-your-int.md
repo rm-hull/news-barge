@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/nDEwjGYsNcCja3oH3Mb7Pa-1920-80.jpg
 categories:
 - Technology & Software
 - Home, Garden & DIY
+locations:
+- Trådfri
+people: []
+organisations:
+- Bulb3
+- Dubbelkisel
+- Google News
+- Govee Curtain Lights4
+- IKEA
+- Notebookcheck
+- PC Format
+- PC Plus
+- Philips Hue White & Color Ambiance2
+- Reddit
+- SCA
+- Speciality Coffee Association
+- TechRadar
+- Trådfri
 ---
 
 ![Split image of IKEA Dubbelkisel driver on pink background, and IKEA spotlights in wardrobe full of clothes](https://cdn.mos.cms.futurecdn.net/nDEwjGYsNcCja3oH3Mb7Pa.jpg) 

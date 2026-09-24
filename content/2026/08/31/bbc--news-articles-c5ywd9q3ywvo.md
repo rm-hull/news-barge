@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- London
+- Mausoleum
+- Nashville
+- Nashville.
+- Smoky Mountains
+- Tennessee
+- Woodlawn Memorial Park
+people:
+- Carl Dean
+- Danny Nozell
+- Dolly Parton
+- Jolene
+organisations:
+- CTK Enterprises
+- DOLLYFEST
+- DollyFest
 ---
 
 ![Dolly Parton, wearing a white and silver bedazzled outfit, on stage smiling and holding out her arms](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cce4/live/57303e30-a567-11f1-86d4-95b193638b63.jpg)

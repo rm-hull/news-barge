@@ -13,6 +13,20 @@ categories:
 - UK
 - Science
 - Health & Fitness
+locations:
+- Croydon
+- Moorfields
+- UK
+people:
+- John Brewer
+- Josef Huemer
+- Siegfried Wagner
+organisations:
+- AF
+- Moorfields Eye Hospital
+- Moorfields Eye Hospital NHS Foundation Trust
+- Plos Digital Health
+- UCL Institute of Ophthalmology
 ---
 
 Eye scans could help detect a common heart condition years before it is diagnosed, a study has found.

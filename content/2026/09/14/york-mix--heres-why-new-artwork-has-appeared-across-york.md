@@ -11,6 +11,26 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- St Helen’s Square
+- York
+people:
+- Carl Alsop
+- Kitty Greenbrown
+- Owen Turner
+- York
+organisations:
+- BID’s York Art Trail
+- GMI Construction
+- Hilton York
+- MD
+- Nestle
+- Outside the Box
+- Portakabin
+- Trustmarque
+- UNESCO City of Media Arts
+- United by Design
+- York BID
 ---
 
 York city centre has been given a new look.

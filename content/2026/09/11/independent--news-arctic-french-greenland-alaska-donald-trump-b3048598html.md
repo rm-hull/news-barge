@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Alaska
+- Brussels
+- China
+- Denmark
+- Egypt
+- France
+- Greenland
+- High North
+- India
+- Indo-Pacific
+- Indonesia
+- Iran
+- Istres
+- Japan
+- Lyon
+- Middle East
+- Pacific
+- Persian Gulf
+- Qatar
+- Russia
+- South Korea
+- U.S.
+- United States
+people:
+- Alice Rufo
+- Donald Trump
+- Emmanuel Macron
+- Julien Sabènè
+- Lorne Cook
+- Sabéné
+organisations:
+- Istres
+- NATO
+- Strategic Air Force
+- The Associated Press
 ---
 
 Four fighter jets rose into the air over a French military base and settled into formation at the start of a 40-day flight taking them through the icy Arctic and steamy tropics before ending in a desert.

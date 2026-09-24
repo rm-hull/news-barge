@@ -12,6 +12,11 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- UK
+people: []
+organisations:
+- Government
 ---
 
 ## Millions to enjoy an extra-long four-day weekend in 2027 after bank holiday change

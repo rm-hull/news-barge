@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Black Sea
+- Estonia
+- Europe
+- Finland
+- Galati
+- Kaliningrad
+- Latvia
+- Lithuania
+- Moldova
+- Romania
+- Russia
+- Russian Federation
+- Siauliai
+- Ukraine
+- Vilnius
+people:
+- Gitanas Nauseda
+organisations:
+- National Crisis Management Centre
+- Nato Baltic Air Defence
 ---
 
 A Nato jet scrambled to Lithuania Airport over a possible drone sighting was stood down – after the potential threat was confirmed to be a flock of birds.

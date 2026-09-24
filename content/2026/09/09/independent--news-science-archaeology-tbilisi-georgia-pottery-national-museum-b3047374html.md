@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Baghdad
+- Caspian Sea
+- Caucasus Mountains
+- Damascus
+- Georgia
+- Kartli
+- Kura river
+- Rustaveli Avenue
+- Seljuk Empire
+- Silk Road
+- Tbilisi
+people:
+- David Lordkipanidze
+- Merab Dzneladze
+- Vakhtang I
+organisations:
+- National Museum
 ---
 
 Roadworks that may have frustrated residents have yielded an archaeological prize: a cache of 10th-century pottery among the oldest medieval works ever found in the Georgian capital.

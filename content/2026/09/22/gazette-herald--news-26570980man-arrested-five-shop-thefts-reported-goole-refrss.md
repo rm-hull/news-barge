@@ -13,6 +13,16 @@ categories:
 - York
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21485781.jpg?type=og-image
+locations:
+- Goole
+- Rutland Road
+- Swinefleet Road
+- Wesley Square
+people: []
+organisations:
+- Goole's Shop Watch
+- Humberside Police
+- Shop Watch
 ---
 
 *(Image: Submitted)*

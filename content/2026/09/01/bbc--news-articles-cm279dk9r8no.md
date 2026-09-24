@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Brighton
+- Churchill Square
+- Europe
+- Ikea City
+- Kallax
+- London
+- Middle East
+- Oxford Street
+people:
+- Juvencio Maeztu
+organisations:
+- Billy
+- EU
+- Facebook Marketplace
+- IKEA
+- Ikea
+- Ingka
+- Kallax
+- eBay
 ---
 
 ![People outside an Ikea City shop](https://ichef.bbci.co.uk/ace/standard/953/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg)

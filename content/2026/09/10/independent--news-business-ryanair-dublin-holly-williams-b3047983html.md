@@ -13,6 +13,11 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations: []
+people:
+- Michael O’Leary
+organisations:
+- Ryanair
 ---
 
 Budget airline Ryanair has seen more than a third of shareholders vote against pay plans for boss Michael O’Leary that could net him at least 150 million euros (£129 million).

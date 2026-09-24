@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Bishop Auckland
+- Coundon
+- County Durham
+- Hambleton Road
+- McCullagh Gardens
+- North East
+- Queen Street
+- Rotherham
+- Shildon
+- Teesdale Walk
+- Thailand
+- Waterloo Terrace
+- Wigan
+people:
+- Brian Stoker
+- Christopher Sowerby
+- Ethan Smith
+- Ian Sowerby
+- Jordan Stoker
+- Matthew Goodwin
+- Paul Lamb
+- Richard Herrmann
+- Sarah Leighton
+- Shaun Sowerby
+- Trelawny Brown
+organisations:
+- North East Regional Organised Crime Unit
+- POCA
+- Teesside Crown Court
 ---
 
 Members of an international drug smuggling ring who benefited to the tune of almost £5m importing cannabis will have to wait to learn how much they will have to pay back.

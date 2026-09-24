@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- McKesson
+- Sead
+- ShinyHunters
+organisations:
+- '## Boston Scientific'
+- '**McKesson'
+- Al Jazeera Balkans
+- Boston Scientific
+- Boston Scientific Clinic Assistant
+- Cardiac Rhythm Management
+- Google News
+- ICM
+- McKesson
+- New ICMs
+- Represent Communications
+- Salesforce
+- ShinyHunters
+- Snowflake
+- TechRadar Pro
+- The Register
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

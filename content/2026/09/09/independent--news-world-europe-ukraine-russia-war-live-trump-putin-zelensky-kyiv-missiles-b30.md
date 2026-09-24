@@ -12,6 +12,66 @@ image: https://static.independent.co.uk/2026/09/08/10/2026-09-05T180120Z_1029500
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Black Sea
+- China
+- China-North Korea
+- Europe
+- European Russia
+- Germany
+- Halle Airport
+- Iran
+- Krasnodar
+- Kremlin
+- Kyiv
+- Leipzig
+- Middle East
+- Moldova
+- Moscow
+- North Korea
+- Norway
+- Novorossiysk Drone
+- Pyongyang
+- Russia-North Korea
+- Russian Federation
+- Soviet Union
+- U.S.
+- US
+- US-Russia
+- Ukraine
+- Ukraine-Moldova
+- Washington
+people:
+- Adolf Hitler
+- Andrei Kravchenko
+- Donald Trump
+- Jared Kushner
+- Johann Wadephul
+- Kim Chinese
+- Kim Jong Un
+- Kyiv
+- Ruslan Kravchenko
+- Steve Witkoff
+- Verkhovna Rada
+- Vladimir Putin
+- Volodymyr Zelensky
+- Xi Jinping
+- Yevhenii Khmara
+- Yuri Ushakov
+organisations:
+- Bild
+- European Union
+- Foreign Ministry
+- KCNA
+- Kyiv
+- NABU
+- Nato
+- Rodong Sinmun
+- SAPO
+- Telegram
+- Ukraine Defence Contact Group
+- Workers' Party
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/BtplYZqx/poster.jpg?width=720)

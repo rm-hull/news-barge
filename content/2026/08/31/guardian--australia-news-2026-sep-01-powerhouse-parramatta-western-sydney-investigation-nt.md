@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- NSW
+- Sydney
+people:
+- Abbie Galvin
+- David Borger
+- John Graham
+- Lisa Havilah
+- Louise Herron
+- Mark Wilsdon
+- Melanie Hawyes
+organisations:
+- Havilah
+- NSW Treasury
+- New South Wales
+- Opera House
+- Powerhouse Parramatta
 ---
 
 An investigation is under way into allegations of misconduct involving senior executives at the soon-to-be-opened Powerhouse Parramatta.

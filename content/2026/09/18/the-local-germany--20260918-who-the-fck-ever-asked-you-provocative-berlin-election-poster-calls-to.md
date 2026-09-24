@@ -14,6 +14,26 @@ categories:
 - Berlin
 - Germany
 - News & Politics
+locations:
+- Berlin
+- Munich
+- Neukölln
+- Saxony-Anhalt
+- Tempelhofer Feld
+- Volt España
+people:
+- Berlin'?**
+- Matt Bristow
+- Volt
+organisations:
+- AfD
+- Alternative for Germany
+- Barcelona
+- Berliner Schnauze
+- EU
+- House of Representatives
+- Senate
+- Volt
 ---
 
 It's been quite the intriguing Berlin election, at least when it comes to election posters.

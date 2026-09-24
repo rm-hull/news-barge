@@ -11,6 +11,38 @@ categories:
 - UK
 - Music
 image: https://static.independent.co.uk/2026/09/21/14/2279820744..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Buckingham Palace
+- Fleet Street
+- Leicester Square
+- Prince of Wales
+- Princess of Wales
+- Scotland
+people:
+- '## Harry'
+- '**"** I'
+- Alexander Larman
+- Camilla Parker-Bowles
+- Catherine
+- Charles Spencer
+- Diana
+- Dodi Fayed
+- Earl Spencer
+- Gosh
+- King
+- Liz Truss
+- Mohamed al-Fayed
+- Piers Morgan
+- Prince William
+- Swan Song
+- Windsors
+organisations:
+- BBC
+- Daily Mirror
+- Duke of Sussex
+- Piers Morgan
+- Royal Family
+- The Duke of Sussex
 ---
 
 Piers Morgan has threatened to take legal action against Earl Spencer over claims made about him in the bombshell memoir which hits shelves today.

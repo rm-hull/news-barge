@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - True Crime
 - Family & Parenting
+locations:
+- Holywell Heights
+- Sheffield
+- Wincobank
+people:
+- Andrea Skopova
+- Nina Horvathova
+- Peter Horvath
+organisations: []
 ---
 
 Four people have been charged with murder after a newborn baby girl was stabbed to death in Sheffield.

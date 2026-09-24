@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Back Lane
+- Heslington
+- Knapton
+- Main Street
+- Mulgrave
+- Pinfold Court
+- Rawcliffe
+- York
+people:
+- Debbie Foster
+organisations:
+- Mulgrave Properties
 ---
 
 *(Image: Mulgrave)*

@@ -12,6 +12,51 @@ image: https://static.independent.co.uk/2026/09/13/13/37/Screenshot-2026-09-13-a
 categories:
 - News & Politics
 - UK
+locations:
+- Geneva
+- Iran
+- Ireland
+- Kremlin
+- Kyiv
+- Lithuania
+- Moscow
+- Odesa
+- Poland
+- Russia
+- Russian Federation
+- US
+- Ukraine
+- Ukraine-Poland
+- United States
+- Vilnius
+- Volyn
+- Washington
+- Yagodyn
+- Yahodyn
+people:
+- Andrii Sybiha
+- Boris Johnson
+- Carl Bildt
+- David Maddox
+- Dmitry Peskov
+- Donald Trump
+- Friedrich Merz
+- Jared Kushner
+- Kremlin
+- Kyiv
+- Kyrylo Budanov
+- Pandora
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- '## Kyiv'
+- EU
+- NATO
+- National Crisis Management Centre
+- Nato
+- Telegram
+- Ukrzaliznytsia
 ---
 
 Ukraine’s foreign minister warned on Sunday that Vladimir Putin was “knocking on Nato’s door” after a Russian drone struck a passenger train just two kilometres from the Polish border.

@@ -13,6 +13,46 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Amazon Bedrock
+- Minnesota
+- South Africa
+- United States
+people:
+- Adolf Hitler
+- Amos Kyler
+- Andrew Guthrie Ferguson
+- Clearview
+- Guy Gino
+- Hoan Ton-That
+- Michael Price
+- Peter Thiel
+- Richard Spencer
+- Woodrow Hartzog
+organisations:
+- AI “
+- AWS
+- Amazon
+- Boston University
+- Clearview AI
+- Elon Musk
+- Facebook
+- Flock Safety
+- George Washington University
+- Grok
+- Homeland Security Investigations
+- InquiryIQ
+- National Association of Criminal Defense Lawyers’ Fourth Amendment Center
+- Penlink’s Tangles
+- ShadowDragon’s SocialNet
+- SpaceX
+- SpaceXAI
+- Supreme Court
+- The New York Times
+- Venmo
+- WIRED
+- YouTube
+- xAI
 ---
 
 In 2020, face-recognition firm Clearview AI became infamous for scraping more than 3 billion photos from the internet to turn faces into names for police and security professionals. Now the company is experimenting with trawling the web again, this time using AI to potentially help law enforcement fill in the person behind the name—who they are, who they know, where they live, and what they’ve left behind online.

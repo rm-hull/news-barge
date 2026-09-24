@@ -14,6 +14,21 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Doncaster Coroner’s Court
+- Doncaster Royal Infirmary
+- South Yorkshire
+people:
+- Aaron Maxwell
+- Danielle Duncan-Blakely
+- Isobel Abigail Maxwell
+- Izzie
+- Louise Slater
+- Ms Slater
+- Ms Wallace
+- Tamara Wallace
+organisations:
+- CPR
 ---
 
 # Death of two-year-old girl who drowned in pond on Christmas Day ruled accidental

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Florida
+- Georgia
+- Jackson
+- Oklahoma
+people:
+- Cynthia Brown
+- Cynthia “Cyndi” Williams
+- Humphrey
+- Humphreys’
+- Lori Brown
+- Lori Williams
+- Stacey Humphreys
+organisations:
+- Associated Press
+- Georgia Department of Corrections
+- Georgia Diagnostic and Classification Prison
+- Humphreys’
+- The Independent
+- The Marshall Project
+- U.S. Supreme Court
 ---
 
 A man sentenced to death for a double murder in Georgia asked for a massive final meal before he faces execution by lethal injection next week.

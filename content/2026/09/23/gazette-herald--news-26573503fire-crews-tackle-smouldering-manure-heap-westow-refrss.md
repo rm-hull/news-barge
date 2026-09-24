@@ -13,6 +13,13 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21489639.jpg?type=og-image
+locations:
+- Malton
+- Ryedale
+- Westow
+people: []
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 *(Image: Newsquest)*

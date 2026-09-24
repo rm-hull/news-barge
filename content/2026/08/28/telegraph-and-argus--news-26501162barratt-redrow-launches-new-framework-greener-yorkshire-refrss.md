@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Health & Fitness
+locations:
+- England
+- Scotland
+- UK
+- Wales
+- West Yorkshire
+- YOUR
+people:
+- Joe Stenson
+- Mark Waugh
+organisations:
+- Barratt Redrow
+- Public Notice Portal
 ---
 
 *(Image: Mark Waugh)*

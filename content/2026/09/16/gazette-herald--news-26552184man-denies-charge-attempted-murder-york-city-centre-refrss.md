@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- A YORK
+- HMP Hull
+- Micklegate
+- Trinity Lane
+- West Yorkshire
+people:
+- Jordan Ellerby
+- Kevin Glenton
+- Simon Hickey
+organisations:
+- Leeds Crown Court
+- York Crown Court
 ---
 
 *(Image: Kevin Glenton)*

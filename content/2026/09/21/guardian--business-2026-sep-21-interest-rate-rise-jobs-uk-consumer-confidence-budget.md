@@ -14,6 +14,23 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/d8fe67a0c333fc506ab8f215bda133961c11a17a/1047_127_4268_3416/master/4268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e05dbc59999b196094a56cdaa78c66d3
+locations:
+- Iran
+- Middle East
+- UK
+- US
+people:
+- Andy Burnham
+- Ed Davey
+- John Healey
+- Maryam Baluch
+organisations:
+- Bank of England
+- British Chamber of Commerce
+- Liberal Democrat
+- Moneyfacts
+- S&P Global
+- S&P Global Market Intelligence
 ---
 
 Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.

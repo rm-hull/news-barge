@@ -13,6 +13,24 @@ categories:
 - York
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Brawby
+- Lincoln
+- Malton
+- The Talbot
+- UK
+- Wombledon
+people:
+- Adam Charity
+- Ben Stonehouse
+organisations:
+- Front of House Manager
+- Malton Secondary School
+- Plough Inn
+- Talbot Hotel
+- The Coaching Inn Group
+- The Engine Shed
+- Which Best Large Hotel Chain
 ---
 
 *(Image: Supplied)*

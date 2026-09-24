@@ -11,6 +11,34 @@ description: Nvidia spent a year telling people ECC was the answer to GPU Rowham
 image: https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people:
+- Aditya Rajeev
+- Chris S. Lin
+- Gururaj Saileshwar
+- Joyce Qu
+- Rahim Amir
+- Rowhammer
+organisations:
+- AWS
+- Blacksmith
+- CPU Rowhammer
+- CUDA
+- ECC
+- GPU Rowhammer
+- GPUBreach
+- GPUHammer
+- GPUThor
+- Google News
+- Microsoft
+- Nvidia
+- PC
+- PCs
+- RGB
+- SFF
+- TRR
+- TechRadar Pro
+- University of Toronto
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY.png) 

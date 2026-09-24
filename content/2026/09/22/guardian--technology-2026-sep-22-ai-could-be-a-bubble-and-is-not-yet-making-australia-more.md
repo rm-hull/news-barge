@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/14440ce060c818dc1a1c651d7af3dc1487eefd16/308_0_3897_3118/master/3897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cb4ab23e0c669e61118afa63e9405da
+locations:
+- Australia
+- Sydney
+- US
+people:
+- AI
+- Jim Chalmers
+- Michele Bullock
+- Tony Burke
+organisations:
+- Albanese
+- CEDA
+- Facebook
+- Guardian’s Australian Politics
+- Labor
+- Meta
+- Muse AI
+- RBA
+- Reserve Bank
 ---
 
 The Reserve Bank governor said AI could be a bubble and there was no evidence it is making the economy more efficient, as the Albanese government claims the technology will solve Australia’s economic malaise.

@@ -12,6 +12,27 @@ categories:
 - York
 - Family & Parenting
 image: https://www.yorkpress.co.uk/resources/images/21481328.jpg?type=og-image
+locations:
+- Acomb
+- Helmsley
+- Hutton le Hole
+- Kathryn Avenue
+- Kirkbymoorside
+- Monks Cross
+- Sand Hutton
+- York
+people:
+- Kevin Clarkson
+- Nadia Jefferson-Brown
+- Natalie Bishop
+- Paul Stride
+- Steiner
+organisations:
+- Little Years
+- Little Years Nursery
+- Monks Cross
+- Montessori
+- Reggio Emilia, Forest School
 ---
 
 ## New children's nursery is set to open in York - with a unique perk for parents

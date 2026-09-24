@@ -13,6 +13,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Baildon
+- Browgate
+- Moravian Church
+- YOUR
+people:
+- Mrs Ward
+organisations:
+- Baildon Town Council
+- Bradford Council
+- Paul Interior Architecture
+- Public Notice Portal
 ---
 
 *(Image: Google)*

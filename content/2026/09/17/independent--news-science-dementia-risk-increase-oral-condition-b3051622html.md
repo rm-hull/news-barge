@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Japan
+- Lincoln Center
+- Los Algodones
+- Mexico
+- New York
+people:
+- Alzheimer
+organisations:
+- Journal of Clinical Periodontology
+- Rubio Dental Group
 ---
 
 Severe gum bleeding and receding gums are linked to dementia risk rising by over 50 per cent in older adults, the results of a decade-long study of nearly 1,400 people in Japan suggest.

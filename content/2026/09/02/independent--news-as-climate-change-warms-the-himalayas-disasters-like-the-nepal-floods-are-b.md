@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Afghanistan
+- Bangladesh
+- Bengaluru
+- Bhutan
+- Chamoli
+- China
+- Himalayas Sanyal
+- India
+- Kathmandu
+- Kush Himalayas
+- Myanmar
+- Nepal
+- Nuwakot
+- Pakistan
+people:
+- Chanda Lal Chitrakar
+- Manjeet Dhakal
+- Pema Tamang
+- Saswata Sanyal
+organisations:
+- AP
+- Associated Press’
+- International Centre for Integrated Mountain Development
+- Sanyal
+- The Associated Press
+- United Nations
+- ___ Arasu
 ---
 
 When a wall of water, rocks and mud tore through her remote village in Nepal last week, Pema Tamang and her neighbors fled uphill to a Buddhist shrine that had been rebuilt the previous year after a 2015 earthquake.

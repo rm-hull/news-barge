@@ -11,6 +11,30 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Arabian Sea
+- Gulf of Oman
+- India
+- Iran
+- Islamic Republic
+- Israel
+- Lamerd
+- Minab
+- New York
+- Strait of Hormuz
+- US
+people:
+- '"[Trump'
+- Abbas Araghchi
+- Ayatollah Ali Khamenei
+- Donald Trump
+- Esmail Baqai
+- Lamerd
+- Masoud Pezeshkian
+- Steve Witkoff
+organisations:
+- Agence France-Presse
+- UN General Assembly
 ---
 
 ![Iranian President Masoud Pezeshkian addresses the UN General Assembly in New York (23 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg)

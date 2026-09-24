@@ -12,6 +12,23 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- Bay Area
+- Black Rock City
+- California
+- California-Nevada
+- Floriston Way
+- I-80
+- Interstate 80
+- Nevada
+- Truckee
+people: []
+organisations:
+- CHP
+- California Highway Patrol
+- Care Flight
+- South Tahoe Now
+- The Independent
 ---
 
 A tractor-trailer truck crashed through an Interstate 80 railing near Truckee, California, injuring the driver and leaving its cab dangling 80 feet over a bridge.

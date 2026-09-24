@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Britain
+- Flushing Meadows
+- New York
+- US
+people:
+- '** Dart'
+- Arthur Fery
+- Cameron Norrie
+- Fran Jones
+- Harriet Dart
+- Harry Wendelken
+- Iga Swiatek
+- Iva Jovic
+- Jacob Fearnley
+- Jan Choinski
+- Karolina Muchova
+- Katie Boulter
+- Marie Bouzkova
+- Toby Samuel
+organisations: []
 ---
 
 ![Harriet Dart in action against Marie Bouzkova at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2735/live/7c6accd0-a7d6-11f1-809e-25fc74c1ec7d.jpg)

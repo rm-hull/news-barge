@@ -10,6 +10,30 @@ description: It’s been a long road for Apple to get here
 image: https://cdn.mos.cms.futurecdn.net/aAE9EyoV3p4bxKAqsoy6ZU-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Lightning
+people:
+- Graham Barlow
+- Jobs’
+- Newton
+- Steve Jobs
+- Yuck!
+organisations:
+- AI
+- Apple Pencil
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Google News
+- Mac
+- MacFormat
+- PC Pro
+- Radio 4
+- Samsung
+- TechRadar
+- USB-C
+- iMore
+- iPhone Duo
 ---
 
 ![Apple Duo and keynote image.](https://cdn.mos.cms.futurecdn.net/aAE9EyoV3p4bxKAqsoy6ZU.jpg) 

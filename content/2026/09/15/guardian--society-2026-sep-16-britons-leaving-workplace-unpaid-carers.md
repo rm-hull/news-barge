@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Hertfordshire
+- Leeds
+- UK
+people:
+- Emily Holzhausen
+- Jacqui Hylton
+- Louise Casey
+- Winnie
+organisations:
+- Carers UK
+- NHS
 ---
 
 About 1,500 Britons a day are quitting their jobs to become unpaid carers, as they try to balance their vulnerable relatives’ growing care needs with declining access to state-funded social care services.

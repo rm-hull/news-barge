@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/HgLi7CGYLNVwgbAuuXX7s3-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations:
+- California
+- Colorado
+- Florida
+- Jacksonville
+- New York
+- Washington State
+people:
+- Emani Rey Justavino
+- J.B.J.
+- Jowi Morales
+- Ray
+- Tom
+organisations:
+- ATF
+- Bureau of Alcohol, Tobacco, Firearms, and Explosives
+- Glock
+- Google News
+- Instagram
+- Jowi Morales
 ---
 
 ![a 3D-printed "Glock switch" next to a seized gun](https://cdn.mos.cms.futurecdn.net/HgLi7CGYLNVwgbAuuXX7s3.png) 

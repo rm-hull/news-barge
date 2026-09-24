@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Brazil
+- England
+- India
+- Kenya
+- Pacific Ocean
+- Peru
+- South Africa
+- UK
+- US
+- Wales
+people:
+- Celeste Saulo
+- El Nino
+- Jesus
+organisations:
+- ECIU
+- El Nino
+- El Niño
+- Energy and Climate Unit
+- NOAA
+- National Meteorological and Hydrological Services
+- National Oceanic and Atmospheric Administration
+- The Independent
+- UKs
+- WMO
+- World Meteorological Organisation
+- World Meteorological Organization
 ---
 
 The risk of floods, drought and extreme heat is expected to intensify as forecasters warn it is almost certain that this year's El Nino will develop into a very strong event in the coming months.

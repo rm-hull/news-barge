@@ -15,6 +15,22 @@ categories:
 - York
 - Sports
 - History
+locations:
+- Helmsley
+- Howardian Hills National Landscape
+- Market Place
+- North York Moors National Park
+- North Yorkshire
+- Town Crier
+people:
+- David Skaith
+- George Jabbour
+- Helmsley
+organisations:
+- Helmsley School
+- Howardian Hills National Landscape Partnership
+- Mayoral Vibrant and Sustainable High Streets Fund of York
+- North Yorkshire Combined Authority
 ---
 
 # Tour of Britain a magnificent opportunity to promote Helmsley - George Jabbour

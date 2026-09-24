@@ -14,6 +14,25 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Darlington’s
+- Hopetown Darlington
+- Kensington Palace
+- Rockliffe Hall
+- Stockton and Darlington Railway
+people:
+- Hopetown
+- Libby McCollom
+- Sarah Gouldsbrough
+organisations:
+- Assessors
+- Darlington Council
+- Durham Dales
+- Flying Scotsman
+- Heritage Education Trust
+- Hopetown Darlington
+- LNER
+- Lincoln Bishop University
 ---
 
 *(Image: Hopetown Darlington)*

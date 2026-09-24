@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Food & Cooking
+locations:
+- Malton
+- UK
+people:
+- Adam Charity
+organisations:
+- '## Hotel'
+- Coaching Inn Group
+- Malton The Coaching Inn Group
+- The Coaching Inn Group
+- The Talbot Hotel
 ---
 
 ## Hotel group celebrates 30 years in business with special dinner in Malton

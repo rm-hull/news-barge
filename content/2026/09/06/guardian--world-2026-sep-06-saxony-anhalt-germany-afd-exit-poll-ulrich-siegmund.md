@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/eabad25ad64cbcb78ce194592dff54c12e76611f/3
 categories:
 - UK
 - News & Politics
+locations:
+- East Germany
+- Magdeburg Cathedral
+- Russia
+- Saxony-Anhalt
+people:
+- Alice Weidel
+- Die Linke
+- Franziska Hoppermann
+- Friedrich Merz
+- Gerhard Feige
+- Tino Chrupalla
+- Ulrich Siegmund
+organisations:
+- ARD
+- AfD
+- BSW
+- Bundestag
+- CDU
+- Christian Democrats
+- Deutschland
+- German Economic Institute
+- Greens
+- SPD
 ---
 
 The populist far-right, anti-immigration Alternative für Deutschland has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support, and appearing to be on the brink of becoming the first far-right party to gain power at state level since the second world war. 

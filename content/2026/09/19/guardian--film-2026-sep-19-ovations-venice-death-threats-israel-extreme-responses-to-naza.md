@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/7f4696cddd8f12a4e477ae728ff4459d9231e8c5/448_86_3786_3030/master/3786.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=467d9c0ae6aed14d7749b7d8a474fc9f
+locations:
+- Channel 14
+- Gaza
+- Israel
+- New York
+- Palazzo del Cinema
+- Rishon LeZion
+- Sala Grande
+- Tel Aviv
+- UK
+- US
+- Venice
+- West Bank
+people:
+- Benjamin Netanyahu
+- Dahlia Scheindlin
+- Etan Nechin
+- Haaretz
+- Haggai Matar
+- Nahum Barnea
+- Ofer Winter
+- Rachel Szor
+- Yaakov Katz
+- Yehuda Schlesinger
+- Yuval Abraham
+organisations:
+- 972 Magazine
+- Guardian
+- Haaretz
+- Hamas
+- IDF
+- Jerusalem Post
+- Local Call
+- NAZA
+- People of Israel
+- Sicha Mekomit
+- UN
+- Yedioth Ahronoth
 ---
 
 First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almost as one and turned to applaud the film-makers for 25 minutes.

@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- California
+- Massachusetts
+- Texas
+- Vermont
+people:
+- AI
+- Bernie Sanders
+- Elon Musk
+- Jacob Coxon
+- Lori Trahan
+- Maggie Rogers
+- Sheryl Crow
+- Ted Cruz
+- Ted Lieu
+organisations:
+- ABC
+- AI
+- Anthropic
+- Congress
+- Coxon’s
+- Guardian
+- Instagram
+- OpenAI
 ---
 
 Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.

@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Australia
+- Iran
+- Israel
+- Middle East
+- US
+people:
+- Belinda Allen
+- Grace Kim
+- Jim Chalmers
+- Jonathan Kearns
+- Stephen Smith
+organisations:
+- ABS
+- AI
+- Australian Bureau of Statistics
+- CBA
+- Challenger
+- Deloitte Access Economics
+- Reserve Bank
 ---
 
 The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter, and what’s happening under the hood.

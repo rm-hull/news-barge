@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington
+- Ingleby Greenhow
+- Ingleby Greenhow Village Hall
+- North Yorkshire
+people:
+- Debs
+- Lauri-Beth Egerton
+- Ms Egerton
+organisations:
+- Little Bears
+- Little Bears Preschool
+- Ofsted
 ---
 
 *(Image: Supplied)*

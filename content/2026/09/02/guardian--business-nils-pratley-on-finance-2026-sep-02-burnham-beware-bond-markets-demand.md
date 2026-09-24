@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- UK
+- US
+- Westminster
+people:
+- Andy Burnham
+- Burnham/Healey
+- Jim O’Neill
+- John Healey
+- Rachel Reeves
+- Scott Bessent
+- Simon French
+organisations:
+- BBC
+- G7
+- Goldman Sachs
+- Labour
+- Panmure Liberum
 ---
 
 It’s too soon to say the bond markets have turned on Andy Burnham. Tuesday’s spike in gilt yields, taking the UK’s 30-year borrowing costs to their highest level since 1998, was part of an international sell-off of government debt.

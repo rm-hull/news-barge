@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21476658.jpg?type=og-image&xType=0&yType=147
+locations:
+- County Durham
+- North Yorkshire
+- Stokesley Showground
+people: []
+organisations:
+- Stokesley Agricultural Society
 ---
 
 Thousands of visitors flocked to this year's Stokesley Show as one of North Yorkshire's longest-running agricultural events returned for another celebration of farming, food and rural life.

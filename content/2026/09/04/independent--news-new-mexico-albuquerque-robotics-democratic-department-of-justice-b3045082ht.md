@@ -11,6 +11,19 @@ image: null
 categories:
 - News & Politics
 - UK
+locations:
+- New Mexico
+- Washington, D.C.
+people:
+- Joseph Johnson
+- Lauren Rodriguez
+- Sheryl Williams Stapleton
+- Williams Stapleton
+organisations:
+- Albuquerque Public Schools
+- House
+- New Mexico Department of Justice
+- Robotics Management Learning Systems LLC
 ---
 
 A former high-ranking Democratic legislator in New Mexico accused of diverting millions of dollars meant for vocational education in the state’s largest school district to businesses and charities in which she had an interest has pleaded guilty to state charges that include fraud and money laundering.

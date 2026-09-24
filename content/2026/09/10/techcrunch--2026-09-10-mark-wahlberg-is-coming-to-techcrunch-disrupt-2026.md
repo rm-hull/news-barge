@@ -11,6 +11,21 @@ description: Mark Wahlberg is taking the Disrupt stage with Bruce K. Lee for a c
 image: https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675
 categories:
 - Business & Entrepreneurship
+locations:
+- Hollywood
+- Mississippi
+- Moscone West
+- San Francisco
+people:
+- Bruce K. Lee
+- Bruce Lee
+- Mark Wahlberg
+organisations:
+- Flickr
+- Golden Globe
+- Keebeck Wealth Management
+- Mark Wahlberg Youth Foundation
+- Slava Blazer Photography
 ---
 
 Let’s just get this out of the way: Mark Wahlberg is as A-list as it gets. He broke out in 1997’s “Boogie Nights,” and in the nearly three decades since, he’s built one of the highest-wattage careers in Hollywood: two Academy Award nominations, a Golden Globe nod for “The Fighter,” multiple Emmy nominations as a producer (HBO’s “Entourage” among them), and a filmography that spans crime dramas, comedies, and action blockbusters. Right now, he’s back on screen in “By Any Means,” a manhunt thriller set during the 1966 Mississippi civil rights killings.

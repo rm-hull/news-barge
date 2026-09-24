@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- Chapeltown Road
+- Ramgarhia Sports Centre
+people:
+- Cedric Boston
+- Sean Kelly
+organisations:
+- Arriva
+- BME
+- Bradford College
+- Catch 22
+- Equans
+- First Response Group
+- Leeds United FC
+- Unity Homes and Enterprise
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/n54CgvW5GHW7QPC4NMM4WR-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Claude Code
+- Mark Tyson
+- Mayuki
+- Miyuki
+- Pete!!
+- ReProgman
+- Tom
+organisations:
+- AI
+- GitHub
+- Google News
+- MIT
+- ReProgman
+- Tom's Hardware
+- XP
 ---
 
 ![ReProgman screenshot](https://cdn.mos.cms.futurecdn.net/n54CgvW5GHW7QPC4NMM4WR.jpg) 

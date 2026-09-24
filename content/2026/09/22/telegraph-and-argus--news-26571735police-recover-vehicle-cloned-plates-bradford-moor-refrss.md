@@ -14,6 +14,13 @@ categories:
 - True Crime
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486807.jpg?type=og-image&xType=0&yType=489
+locations:
+- Bradford Moor
+- Nottingham Street
+- West Yorkshire
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

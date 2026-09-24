@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- China
+- Japan
+- U.S.
+people:
+- Anton Shilov
+- Elon Musk
+- Tom
+organisations:
+- ASML
+- FEL
+- Google News
+- JPMorgan
+- LPP
+- Musk
+- Semi Doped
+- Tom’s Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25.jpg) 

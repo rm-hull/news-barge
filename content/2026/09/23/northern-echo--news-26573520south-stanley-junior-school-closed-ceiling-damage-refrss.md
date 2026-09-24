@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Education & Learning
 image: https://www.thenorthernecho.co.uk/resources/images/21489663.jpg?type=og-image
+locations:
+- County Durham
+- North Yorkshire
+people:
+- Rachel Bell
+organisations:
+- Dreambox Maths
+- Lexia
+- Middlesbrough FC
+- Northern School of Art
+- Numbots
+- Reading Plus
+- South Stanley Junior School
+- TT Rockstars
 ---
 
 *(Image: GOOGLE)*

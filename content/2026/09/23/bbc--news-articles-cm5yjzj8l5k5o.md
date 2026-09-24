@@ -11,6 +11,30 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d12/live/7f7784d0-b772-11f1-a430-4d16ee157c41.jpg
+locations:
+- Bayeux
+- Dover
+- Folkestone
+- France
+- Gosport
+- Hampshire
+- Kent
+- Normandy
+- Samphire Hoe
+- UK
+people:
+- Chris Philp
+- Shabana Mahmood
+organisations:
+- Border Security Command
+- Home Office
+- Home Secretary
+- Kent Police
+- Labour
+- RNLI
+- Reform UK
+- Royal Navy
+- Western Jet Foil
 ---
 
 Watch: Migrant boat arrives on beach near Folkestone

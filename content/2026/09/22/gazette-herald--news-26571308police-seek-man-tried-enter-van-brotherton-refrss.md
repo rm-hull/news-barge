@@ -15,6 +15,15 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21486292.jpg?type=og-image&xType=0&yType=0
+locations:
+- Brotherton
+- Low Street
+people:
+- David Fulford
+organisations:
+- Ford
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21494201.jpg?type=og-image
+locations:
+- Middlesbrough
+- North East
+- Sunderland Empire
+people:
+- Baby
+- Charlie Varlet
+- Ellie Fergusson
+- Frances "Baby" Houseman
+- Joel Benjamin
+- Johnny Castle
+- Kellerman
+- Matt Baker
+- Penny Johnson
+- Sam Linfoot
+organisations:
+- A1
+- Darlington Countryfile
+- Darlington Emmerdale
+- Hungry Eyes
+- SUNDERLAND EMPIRE
+- Sunderland Empire
 ---
 
 Sam Linfoot finds Dirty Dancing delivers exactly what fans want, combining nostalgia, romance, unforgettable music and a feel-good night out.

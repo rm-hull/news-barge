@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - History
 - Society & Culture
+locations:
+- Africa
+- Earth
+- Europe
+- France
+- Greenland
+- Togo
+- UK
+- United States
+people:
+- Gerardus Mercator
+- Robert Dussey
+organisations:
+- AU
+- African Union
+- BBC News Africa
+- Mercator
+- Reuters
+- UN General Assembly
 ---
 
 ![Side-by-side maps of Africa comparing two map projections. The Mercator projection on the left makes Africa appear smaller in comparison with Europe to its north. The Equal Earth projection on the right shows a longer, more proportionally accurate shape of the continent.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/722b/live/e7c4b610-a873-11f1-b109-879e35c24276.png)

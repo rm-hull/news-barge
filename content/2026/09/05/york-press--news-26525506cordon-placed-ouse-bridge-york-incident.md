@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Ouse Bridge
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- York Rescue Boat
+- Yorlshire Ambulance Service
 ---
 
 - Police have placed a cordon around an incident along Ouse Bridge.

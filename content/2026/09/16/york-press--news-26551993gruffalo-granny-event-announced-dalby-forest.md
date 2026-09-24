@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Dalby Forest
+- England
+- North Yorkshire
+people:
+- Axel Scheffler
+- Gruffalo
+- Julia Donaldson
+organisations:
+- Forestry England
+- Macmillan Children’s Books
 ---
 
 *(Image: Forestry England/Crown copyright)*

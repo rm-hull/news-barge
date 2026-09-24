@@ -11,6 +11,36 @@ image: https://static.independent.co.uk/2026/08/27/07/2026-08-27T060009Z_1735238
 categories:
 - News & Politics
 - UK
+locations:
+- Downing Street
+- Kyiv
+- Ukraine
+- Westminster
+people:
+- Andy Burnham
+- Boris Johnson
+- Brexit
+- John Curtice
+- Keir Starmer
+- Liz Truss
+- Lord Hayward
+- Nigel Farage
+- Peter Kellner
+- Rishi Sunak
+- Robert Hayward
+- Theresa May
+- Zack Polanski
+organisations:
+- BMG
+- Commons
+- Green Party
+- Labour Party
+- Opinium
+- Reform UK
+- Starmer
+- The Guardian
+- The Independent
+- YouGov
 ---
 
 The “Burnham bounce” has ended, just weeks after the new prime minister entered Downing Street, leading pollsters have said, as they warned there would be no point in Labour calling an early election.

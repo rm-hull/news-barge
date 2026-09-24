@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/9f31d4906d75f1f85fff8ab79ffe818176d3d573/522_46_2393_1915/master/2393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b368b3ca73a8656f8159217e01ef48d1
+locations:
+- Australia
+- Germany
+- Italy
+- Japan
+- Republic of Korea
+people:
+- Covid
+- Jim Chalmers
+- Peter Costello
+organisations:
+- AI
+- Australian National University
+- IGR
+- IGRs
+- Liberal
+- Treasury
 ---
 
 There will be more Australians dying than being born in 40 years’ time, according to the government’s latest intergenerational report, which lays bare the fundamental challenges of managing an ageing population at a time of rapid change and lower economic growth.

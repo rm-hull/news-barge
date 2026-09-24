@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham
+- John Street North
+- Meadowfield
+- North Durham
+- University Hospital
+people:
+- Andrew Kylie
+- Ann Ming
+organisations:
+- Citroen
+- Durham Police
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
 ---
 
 *(Image: Andrew Kylie)*

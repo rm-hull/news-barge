@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- High Street
+- Shein
+- UK
+people:
+- Ms Davies
+- Pascal Schuster
+- Sara Davies
+- Temu
+organisations:
+- Dragons’ Den
+- EEP
+- Executive Equity Partners
+- PA
+- Press Association
 ---
 
 Not On The High Street is culling its website of “cheap tat” and mass-produced products in favour of British-made artisan gifts, Dragons’ Den star Sara Davies has said after buying a stake in the business.

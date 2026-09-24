@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Haxby
+- York Rivers Trail
+people:
+- Kate Ravilious
+- Richard Taylor
+organisations:
+- '## Logistics'
+- Central Portal Access Organisers
+- City of York Council
+- City of York Council:** “York
+- East Yorkshire Bat Group
+- Living Streets
+- NHS
+- University of York
+- iTravel York Walking Festival Portal
 ---
 
 **HARROGATE** — Regional transport and tourism heads have unveiled the official programme for a major autumn recreational campaign, opening up dozens of specialized outdoor events across the county border.

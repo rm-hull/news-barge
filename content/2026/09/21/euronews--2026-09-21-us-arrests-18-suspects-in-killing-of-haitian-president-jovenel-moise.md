@@ -12,6 +12,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/07/63/1200x675_cmsv2_a6ee4fce-6ea1-5c85-9db7-255c9c02a347-9920763.jpg
+locations:
+- Bogota
+- Colombia
+- Florida
+- Miami
+- Port-au-Prince
+- Republic of Haiti
+- Southern District
+- US
+- United States
+people:
+- '## Moïse'
+- Brett Skiles
+- Jason Reding Quinones
+- Joseph Felix Badio
+- Jovenel Moïse
+organisations:
+- AFP
+- CTU
+- FBI
+- Ministry of Foreign Affairs
+- Ministry of Justice
 ---
 
 ## Moïse, 53, was gunned down on 7 July 2021 at his private residence by a hired group of about 20 military-trained Colombian mercenaries. His security detail did not intervene to protect him.

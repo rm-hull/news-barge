@@ -12,6 +12,32 @@ image: https://static.independent.co.uk/2026/09/13/11/APTOPIX_Ohio_St_Texas_Foot
 categories:
 - News & Politics
 - UK
+locations:
+- Alabama
+- Colorado
+- Washington
+people:
+- Chris Murphy
+- Cody Campbell
+- Deion Sanders
+- Derrick Johnson
+- Donald Trump
+- Joey Cappelletti
+- Maria Cantwell
+- Nick Saban
+- Ted Cruz
+organisations:
+- Associated Press
+- Congress
+- Congressional Black Caucus
+- ESPN’s “College GameDay
+- NAACP
+- NCAA
+- NIL
+- Senate
+- Texas Sen
+- Texas Tech
+- University of Texas
 ---
 
 With college football in full swing, proponents of the Protect College Sports Act have launched an all-out blitz to push the legislation through the Senate before the chamber breaks in the coming weeks.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Herringthorpe Valley Road
+- Rotherham
+- Yorkshire
+people:
+- Andy Hayter
+- Polly Hamilton
+organisations:
+- HEART
+- Mushroom Garage
+- Rotherham Council
+- Worrygoose Roundabout
 ---
 
 # Petition to save ‘iconic’ trees from axe gains hundreds of signatures

@@ -14,6 +14,18 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Back Hares Avenue
+- Chapeltown
+- Leeds West Indian
+- Leeds West Indian Carnival
+- Roundhay Road
+- Shepherd’s Lane
+people:
+- Scott Hartley
+organisations:
+- CCTV
+- Leeds West Indian Carnival
 ---
 
 # Teenage boy, 13, stabbed in Leeds as police hunt balaclava-clad suspect

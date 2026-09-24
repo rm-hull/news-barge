@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20244212.jpg?type=og-image
+locations:
+- Antalya
+- Birmingham Airport
+- Gatwick Airport
+- Glasgow
+- Iran
+- London Stansted
+- Manchester
+- Newcastle Airport
+- North East
+- Turkey
+- UK
+people:
+- Matthew Carpenter
+organisations:
+- Corendon Airlines
+- Jet2
+- Newcastle Airport
+- SunExpress
+- TUI
+- easyJet
 ---
 
 Holidaymakers flying from Newcastle Airport will have fewer options for Turkey next summer after a major shake-up to one airline's UK schedule.

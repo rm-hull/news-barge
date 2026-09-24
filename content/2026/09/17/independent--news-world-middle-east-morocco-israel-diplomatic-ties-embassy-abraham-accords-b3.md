@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/17/10/18/iStock-1093199576.jpeg?
 categories:
 - News & Politics
 - UK
+locations:
+- Bahrain
+- Egypt
+- Israel
+- Jordan
+- Morocco
+- New York
+- Sudan
+- U.S.
+- United Arab Emirates
+- Western Sahara
+people:
+- Abraham
+- André Azoulay
+- Gideon Saar
+- Mike Waltz
+- Mike Waltz.
+- Mohammed VI
+- Nasser Bourita
+organisations:
+- '![Astatement'
+- AP
+- United Nations
 ---
 
 Israel and Morocco have agreed to step up diplomatic ties, including opening embassies and appointing ambassadors, according to an Arabic statement posted Wednesday on X by an official Israeli government account.

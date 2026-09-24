@@ -12,6 +12,21 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/vYZ7Ecame3RzGytFMYbDAP-1920-80.jpg
+locations:
+- China
+people:
+- Anton Shilov
+- Tom
+organisations:
+- 24Gb LPDDR5X
+- CXMT
+- G5
+- Get Tom's Hardware
+- Google News
+- Micron
+- SK
+- Samsung
+- Tom’s Hardware
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/vYZ7Ecame3RzGytFMYbDAP.jpg)

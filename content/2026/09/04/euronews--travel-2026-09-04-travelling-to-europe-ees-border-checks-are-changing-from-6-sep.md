@@ -12,6 +12,33 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Adriatic Sea
+- Amsterdam
+- Budva
+- Frankfurt
+- Montenegro
+- Munich
+- UK
+people:
+- Jurgen Himmelmann
+- Luke Petherbridge
+- Thomas Reynaert
+organisations:
+- ABTA
+- Ashford Castle
+- EC
+- EES
+- EU
+- European Commission
+- European Union
+- Financial Times
+- Global Work & Travel
+- IATA
+- International Air Transport Association
+- LinkedIn
+- Public Affairs
+- Qsensor
 ---
 
 ## Industry experts are concerned the removal of the Entry/Exit System’s temporary flexibilities will see border chaos return.

@@ -10,6 +10,24 @@ description: This 'dumb watch' has just enough smarts about it
 image: https://cdn.mos.cms.futurecdn.net/zoWPMrxDXSe9uxSxjhUwHi-2116-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+- UK
+- US
+people:
+- Barack Obama
+- Matt Evans
+organisations:
+- Amazfit
+- Casio Watches
+- F-91W
+- F-B100W
+- Garmin Fenix
+- Google News
+- Men's Health
+- Runner's World
+- Samsung
+- TechRadar
 ---
 
 ![Casio F-B100W](https://cdn.mos.cms.futurecdn.net/zoWPMrxDXSe9uxSxjhUwHi.jpg) 

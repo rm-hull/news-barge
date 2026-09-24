@@ -13,6 +13,34 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Clifford's Tower
+- Gaza
+- PicTap
+- Piccadilly
+- Spark York
+people:
+- Andrew McConnell
+- Becca Bowers
+- DJ Jono
+- George Cares
+- Jonny Hooker
+- Khaled Dawas
+- Manal Massalha
+- Molly Ovendon
+organisations:
+- Bee's Khraw
+- Canvas York
+- FacePaint York
+- Issy Green
+- Newsquest
+- Piccadilly
+- SPARK
+- Spark York
+- Teapot Solidarity Space
+- The Hanoon Foundation
+- Waqif Arabian Kitchen
+- Wellbeing Collective
 ---
 
 *(Image: Newsquest)*

@@ -12,6 +12,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Delph Hill
+- Greater Manchester
+- Wyke
+people: []
+organisations:
+- PCSO
+- West Yorkshire Police
 ---
 
 *(Image: WYP)*

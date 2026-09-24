@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- England
+people:
+- Andy Burnham
+- Dame Emma
+- Dame Emma Thompson
+- Jamie Oliver
+- Lucy Powell
+- Matt Vickers
+- Paul Whiteman
+- Pepe Di’Iasio
+- Peter
+organisations:
+- Armed Forces
+- Association of School and College Leaders
+- Conservative Party
+- Department for Education
+- DfE
+- Food Foundation
+- Food Standards Agency
+- NAHT
+- Teacher Tapp for School Food Matters
 ---
 
 Sweetened baked treats served to school pupils face major cutbacks as part of the first overhaul of school food guidelines in over ten years.

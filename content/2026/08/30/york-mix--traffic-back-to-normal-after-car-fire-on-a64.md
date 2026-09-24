@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- York
+people: []
+organisations:
+- A64
 ---
 
 The A64 eastbound was closed on the a64 at York this lunchtime with no cars moving.

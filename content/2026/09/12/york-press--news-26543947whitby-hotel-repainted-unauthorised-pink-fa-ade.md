@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Caedmon House
+- East Terrace
+- Grade II
+- The Royal Hotel
+- Whitby
+- Whitby’s West Cliff
+- YOUR
+people: []
+organisations:
+- 6 East Parade
+- Google Maps
+- Kirby’s Hotel
+- North Yorkshire Council
+- Public Notice Portal
+- Royal Hotel
+- The Royal Hotel
 ---
 
 ## Listed Whitby hotel that was painted pink without permission to be redone

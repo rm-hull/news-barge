@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/2682fb6ff4a3009a14304ef15d3a2c645b8bd00c/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=efd768a224e8e76db457cbdb9b661497
+locations:
+- Ankara
+- Copenhagen
+- Europe
+- Greenland
+- Iran
+- Kingdom of Denmark
+- New York City
+- Pituffik
+- Russia
+- U.S.
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Jens-Frederik Nielsen
+- Katie Miller
+- Mette Frederiksen
+- Miranda Bryant
+- Usha
+organisations:
+- Guardian
+- House
+- Nato
+- Senate
+- Trump
+- United Nations
+- Western Alliance
 ---
 
 Donald Trump announced on Friday that the US had struck an Arctic security pact with the leaders of Denmark and Greenland, after threatening for much of his second term to annex the semi-autonomous Danish territory by force.

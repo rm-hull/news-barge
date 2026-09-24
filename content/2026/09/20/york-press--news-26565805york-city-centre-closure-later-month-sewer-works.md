@@ -12,6 +12,15 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21427722.jpg?type=og-image
+locations:
+- Church Street
+- Colliergate
+- Goodramgate
+- Kings Square
+- Parliament Street
+- Pavement
+people: []
+organisations: []
 ---
 
 *(Image: Newsquest)*

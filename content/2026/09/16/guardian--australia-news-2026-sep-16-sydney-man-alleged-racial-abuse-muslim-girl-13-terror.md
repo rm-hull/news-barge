@@ -13,6 +13,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Bankstown
+- Greenacre
+- Strathfield
+- Sydney
+people:
+- Gary Still
+- Jason Yat-sen Li
+- Omar Yassine
+organisations:
+- ABC
+- Strathfield
 ---
 
 A middle-aged man accused of a “disgusting” Islamophobic attack on a 13-year-old girl has berated a judge after he was denied bail

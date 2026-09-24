@@ -13,6 +13,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/18181028.jpg?type=og-image
+locations:
+- Britain
+- UK
+- York
+people:
+- Fiona McCulloch
+- Uber
+organisations:
+- Citizens Advice York
+- Citizens Advice York Image
+- City of York Council
+- Uber
+- York Citizens Advice
 ---
 
 ## Why your Uber fare could be taking money out of York

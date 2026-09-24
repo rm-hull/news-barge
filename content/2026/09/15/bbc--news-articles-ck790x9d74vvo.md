@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Brooklyn
+- Cardiff Rhys'
+- Hollywood
+- London
+- New York
+- River
+- US
+- Wales
+- West End
+- Ysgol Glantaf
+- Ysgol Gyfun Gymraeg Glantaf
+people:
+- Ernest Hemingway
+- God
+- Han Solo
+- Ioan Gruffudd
+- John Swinney
+- Kathleen Turner
+- Keri Russell
+- Mary Lou McDonald
+- Matthew Rhys
+- Michael Sheen
+- Michelle O'Neill
+- Rhun ap Iorwerth
+- Richard Burton
+- Sam A
+- Welshman
+- Willa
+organisations:
+- BBC
+- British Army
+- Brooklyn Boatworks
+- Glantaf
+- LA Tafia
+- New York Times
+- Rhys
+- The Graduate
+- The Independent
+- The Interview
+- Turner
+- Welsh National Theatre
 ---
 
 ![Matthew Rhys is photographed attending the 78th Emmy Awards. He is wearing a black suit jacket, black waist coat and black bow tie. He has dark hair and a grey beard. He is smiling whilst holding three Emmy awards. He is looking away from the camera.](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg)

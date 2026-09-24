@@ -13,6 +13,57 @@ categories:
 - Business & Entrepreneurship
 - History
 image: https://static.independent.co.uk/2026/09/18/16/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- AlUla
+- Bab el-Mandeb Strait
+- Gaza City
+- Idaho
+- Iraq
+- Israel
+- Janfaday-e Iran
+- Jeddah
+- Khamis Mushait
+- Mecca
+- Middle East
+- Minnesota
+- Palestine
+- Persian Gulf
+- Red Sea
+- Saudi Arabia
+- South Dakota
+- Strait of Hormuz
+- Taif
+- Tehran
+- US
+- United States
+- Virginia
+- Yemen
+people:
+- Anne Redwan
+- Ansar Allah
+- Diane Briest
+- Donald Trump
+- Ed Sheeran
+- Hussein Murtaja
+- Macklemore
+- Qusai al-Helo
+- Toby Fricker
+- William Curry
+organisations:
+- Basij
+- Civil Defence
+- Congress
+- Defence Department
+- Pentagon
+- Reuters
+- Revolutionary Guard
+- The Washington Post
+- UN
+- UNICEF
+- US Air Force
+- US Central Command
+- USS Boxer
+- United Kingdom Maritime Trade Operations
 ---
 
 Tehran has held a huge pro-regime march in defiance of Donald Trump’s threat that he could ‘annihilate’ Iran.

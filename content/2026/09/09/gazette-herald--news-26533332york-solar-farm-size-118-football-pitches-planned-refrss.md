@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Newlands Lane
+- Upper Poppleton
+- YOUR
+- York
+people: []
+organisations:
+- BSR Energy
+- Public Notice Portal
+- York Council
 ---
 
 ### What is the Public Notice Portal?

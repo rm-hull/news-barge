@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Family & Parenting
 - Business & Entrepreneurship
+locations:
+- Australia
+- Burwood
+- Lebanon
+- Sydney
+people:
+- Ashlyn Nassif
+- Ashlyn Nassif.
+- Jean Nassif
+- Murugan Thangaraj SC
+organisations:
+- Icac
+- NSW Independent Commission Against Corruption
+- NSW Liberal
+- Toplace
+- Westpac
 ---
 
 The daughter of a fugitive property developer succumbed to pressure from her father when she falsified documents for a $150m construction loan, a Sydney court has heard.

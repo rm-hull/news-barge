@@ -13,6 +13,27 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21176354.jpg?type=og-image
+locations:
+- Britain
+- Larbert
+- North Yorkshire
+- Scarborough
+- Scotland
+- UK
+- Unite
+- Whitby
+people:
+- Alexander Dennis
+- Alexander Dennis Picket
+- Alison Hume
+- Dan Stephens
+- Sharon Graham
+organisations:
+- Alexander Dennis Facility
+- LDRS
+- Liverpool City Region Combined Authority
+- Local Democracy Reporting Service
+- Unite
 ---
 
 ## 400 staff return to work as end of strike action welcomed by workers and bosses

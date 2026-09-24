@@ -12,6 +12,33 @@ image: https://cdn.mos.cms.futurecdn.net/FqiDiKS2RTRNmTbMZHExkW-2000-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations: []
+people:
+- Aaron Pierre
+- Bloys'
+- Casey Bloys
+- Hal Jordan
+- James Gunn
+- John Stewart
+- Kyle Chandler
+- Kyle Chandler-led
+- Lanterns
+- Tom
+organisations:
+- DC Studios
+- DC Studios' TV
+- DCU
+- Disney Plus
+- Google News
+- Green Lantern TV
+- HBO
+- Lanterns
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Star Wars
+- TechRadar
 ---
 
 ![A collage of close-up shots of Aaron Pierre's John Stewart and Kyle Chandler's Hal Jordan in Lanterns episode 5](https://cdn.mos.cms.futurecdn.net/FqiDiKS2RTRNmTbMZHExkW.jpg) 

@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Coppice Valley
+- 'Harrogate ##'
+- Little Ferns
+people:
+- Coun Viv Poskitt
+- Hannah McNamara
+- Ian Tucker
+- Viv Poskitt
+organisations:
+- Coppice Valley Primary Academy
+- Coppice Valley Primary School
+- Little Ferns
+- Little Ferns Pre-School
+- NSM
+- Red Kite Learning Trust
+- Valley Primary Academy
 ---
 
 # Official opening of Little Ferns Pre-School at Coppice Valley Primary School in Harrogate

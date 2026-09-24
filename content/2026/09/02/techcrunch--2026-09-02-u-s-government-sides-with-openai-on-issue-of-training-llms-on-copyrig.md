@@ -13,6 +13,22 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- United States
+people:
+- Claude
+- Donald Trump
+- William Alsup
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Gemini
+- LLM
+- OpenAI
+- The New York Times
+- Trump
+- U.S. District Court for the Southern District of New York
 ---
 
 In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs.

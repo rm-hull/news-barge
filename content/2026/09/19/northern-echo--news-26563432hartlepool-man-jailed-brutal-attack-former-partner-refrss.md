@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21475163.jpg?type=og-image&xType=0&yType=69
+locations:
+- Dunbar Road
+- Hartlepool
+people:
+- Albany Kidd
+- Jo Kidd
+- Man
+- Matthew Hurst
+- Richard Wilson
+organisations:
+- CCTV
+- Cleveland Police
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Police)*

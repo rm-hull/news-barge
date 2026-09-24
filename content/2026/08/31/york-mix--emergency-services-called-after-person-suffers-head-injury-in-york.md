@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Acomb
+- Kingsthorpe**
+- York
+people:
+- '#### **Kingsthorpe'
+- York
+organisations:
+- North Yorkshire Fire & Rescue Service
 ---
 
 Emergency services were called to an incident in Acomb, York, this afternoon (Monday).

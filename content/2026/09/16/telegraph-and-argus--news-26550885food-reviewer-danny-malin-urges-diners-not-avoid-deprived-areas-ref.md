@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Essex
+- Jaywick
+- UK
+people:
+- Danny Malin
+organisations:
+- Danny vs Food YouTube
+- YouTuber
 ---
 
 *(Image: YouTube)*

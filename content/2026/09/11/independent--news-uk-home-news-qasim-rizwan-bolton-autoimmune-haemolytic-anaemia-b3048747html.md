@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Bolton Hospital
+- Colindale
+- Liverpool
+- Manchester Children’s Hospital
+- Royal Manchester Children’s Hospital
+- UK
+people:
+- Joanne Mathews
+- Mahnaz Nazar
+- Qasim Rizwan
+- Rachael Barber
+- Rizwan Ahmed
+- Yusuf
+organisations:
+- AIHA
+- NHS Blood and Transplant
+- NHSBT
 ---
 
 Every compatible unit of blood available nationwide was required to treat a nine-year-old boy with a rare mix of blood types, helping save him from a disorder that can prove life-threatening if unmanaged.

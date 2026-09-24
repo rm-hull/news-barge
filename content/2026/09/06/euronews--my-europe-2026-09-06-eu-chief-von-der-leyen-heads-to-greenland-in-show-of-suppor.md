@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- China
+- Davos
+- Denmark
+- Greenland
+- Louisiana
+- Nuuk
+- Pituffik
+- Russia
+- US
+- United States
+- White House
+people:
+- António Costa
+- Donald Trump
+- Jeff Landry
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- Agence France-Presse
+- EU
+- European Commission
+- European Council
+- Financial Times
+- Pituffik Space Base
+- US Department of Defense
+- US Space Force
+- World Economic Forum
 ---
 
 ## Speaking at the World Economic Forum's annual meeting in Davos this year, von der Leyen said the EU was working on a "massive European investment surge" in Greenland in a bid to ramp up Arctic security.

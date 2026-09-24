@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- County Durham McDonald
+- Marske
+- South Bank
+- Teesside Man
+people:
+- Chris Overfield
+- Dale Smith
+- Daniel Moore
+- Matty
+- PC Matthew Blades
+- Shaun Taylor
+- Tom Clough
+organisations:
+- A66
+- Army
+- Cleveland Police Federation
+- Marines
+- SOCIAL MEDIA
+- VW
 ---
 
 *(Image: SOCIAL MEDIA)*

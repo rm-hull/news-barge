@@ -10,6 +10,30 @@ description: AI means you can’t trust a familiar voice on the phone anymore
 image: https://cdn.mos.cms.futurecdn.net/qa2vdH9ywWNaTcjgaZuxL3-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- AI
+- Tesla
+- US
+people:
+- Benedetto Vigna
+- Fred Heiding
+- Graham Barlow
+- Mark Beare
+- Reddit
+organisations:
+- AI
+- BBC One Breakfast
+- BBC TV
+- Computeractive
+- Ferrari
+- Google News
+- Mac
+- MacFormat
+- Malwarebytes
+- PC Pro
+- Radio 4
+- TechRadar
+- iMore
 ---
 
 ![Caucasian adult man male guy at home living room nervous looking at mobile phone.](https://cdn.mos.cms.futurecdn.net/qa2vdH9ywWNaTcjgaZuxL3.jpg) 

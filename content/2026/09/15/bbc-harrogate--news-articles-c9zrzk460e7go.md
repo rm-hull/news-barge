@@ -12,6 +12,23 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- Brimham Rocks
+- Harrogate
+- Leeds Crown Court
+- North Yorkshire
+- North Yorkshire Carrack
+- Pateley Bridge
+- Scarborough
+- West Yorkshire
+people:
+- Gemma Simpson
+- God
+- Martin Bell
+- Naomi Carrack
+organisations:
+- BBC Sounds
+- Parole Board
 ---
 
 ![A young woman is near the camera. She has dark hair and dark eyes and is smiling, looking to the side.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f876/live/f1c33a40-b0c7-11f1-a2b7-314e849a6e43.jpg)

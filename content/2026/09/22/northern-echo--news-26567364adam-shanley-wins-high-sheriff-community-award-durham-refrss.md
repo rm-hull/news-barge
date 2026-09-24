@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21481178.jpg?type=og-image
+locations:
+- County Palatine of Durham
+- Durham City
+- Durham Railway Station
+- Ex County Durham
+- Mr Durham City
+- Northumbria
+- UK
+people:
+- Adam Shanley
+- Arnab Basu MBE DL
+- Dave Clarke
+- Yvette Cooper
+organisations:
+- Bishop Auckland
+- City Theatre
+- City of Durham Parish Council
+- County Durham
+- Darlington
+- Durham City Remembrance Parade
+- Durham City Safety Hub
+- Durham Constabulary
+- Durham Heritage Blue Plaque
+- Durham University
+- Golden Orb Working Group
+- NHS
+- Operation Lentil
+- Riverscape
 ---
 
 *(Image: Supplied)*

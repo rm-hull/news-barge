@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Halifax
+- Square Chapel
+- Square Chapel Arts Centre
+- Square Road
+- Yorkshire
+people:
+- Watling
+organisations:
+- ACE
+- Arts Council
+- Arts Council England
+- Calderdale Industrial Museum
+- Community Interest Company
+- HMRC
+- Revenue and Customs
+- Save Square Chapel Campaign
+- Square Chapel Arts Centre
+- Square Chapel CIC
+- The Square Chapel CIC
+- Watling Real Estate
 ---
 
 # Square Chapel Arts Centre: Campaigners say sale issue means Yorkshire arts centre’s future ‘not assured’

@@ -14,6 +14,23 @@ categories:
 - UK
 - Sports
 - Video Gaming
+locations:
+- California
+- Hollywood
+- Los Angeles
+- Miami
+people:
+- Demi Singleton
+- Elena Rybakina
+- Richard Williams
+- Richard,” Frodin
+- Serena Williams
+- Serena Williams'
+- Thea Frodin
+- Venus Williams
+- Will Smith
+organisations:
+- No. 2
 ---
 
 Thea Frodin is playing her first U.S. Open singles match against the No. 2 player in women's tennis.

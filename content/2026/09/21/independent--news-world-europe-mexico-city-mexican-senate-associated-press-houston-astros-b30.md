@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/01/Mexico_Soccer_9_955.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Mexican Federation
+- Mexico
+- Morelia
+- México
+- Portugal
+- Spain
+people:
+- Alberto Castellanos
+- Clemente Castañeda
+- Francisco Iturbide
+- Giovani Solazzi
+- Ignacio Mier
+- Jeff Luhnow
+- Mikel Arriola
+- Morena
+- Roberto Galán
+- U. de G.
+- \_\_\_ Armando Solís
+organisations:
+- Associated Press
+- CNA
+- Cancún FC
+- Club América
+- Houston Astros
+- Liga MX
+- Mexican Football Federation
+- Morelia
+- Movimiento Ciudadano
+- National Antitrust Commission
+- Senate
 ---
 
 The debate over the absence of promotion and relegation in Mexican soccer reached the floor of the Senate on Monday, where officials announced that a legislative reform to restore the system will be proposed on Tuesday.

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Food & Cooking
+locations:
+- Champagne
+- Cuis
+- England
+- Europe
+- France
+- Gobillard
+- Hampshire
+- Hautvillers
+- Kent
+- Verzenay
+- Vranken-Pommery
+people:
+- David Chatillon
+- Didier Gimonnet
+- Maxime Toubart
+- Stéphane Vignon
+- Tattinger
+organisations:
+- Comite Champagne
+- National Origin and Quality Institute
+- The Times
 ---
 
 Champagne from this summer may leave you with a worse hangover and a lingering headache - as record heatwaves have forced some producers to increase their alcohol content.

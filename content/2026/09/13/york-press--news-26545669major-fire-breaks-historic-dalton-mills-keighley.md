@@ -12,6 +12,27 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Dalton Mills
+- Downton Abbey
+- Keighley
+- Peaky Blinders
+- Yorkshire
+people:
+- Dalton Mills
+- Keighley
+- Robbie Moore
+organisations:
+- Bradford Telegraph & Argus
+- Downton Abbey
+- Keighley & Ilkley
+- Peaky Blinders
+- T&A
+- The Press'
+- West Yorkshire Fire and Rescue
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 ## Huge fire at historic Yorkshire mill used for Peaky Blinders and Downton Abbey

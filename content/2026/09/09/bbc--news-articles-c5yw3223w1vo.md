@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- UK
+people:
+- Alan Milburn
+- Andy Burnham
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+organisations:
+- Department for Work and Pensions
+- House
+- Houses of Parliament.
+- Labour
+- Nato
 ---
 
 National security 'can't come at the expense of social security', says Burnham

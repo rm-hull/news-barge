@@ -13,6 +13,24 @@ categories:
 - York
 - Personal Finance & Investing
 - News & Politics
+locations:
+- England
+- Filey
+- North Yorkshire
+people:
+- Carl Les
+- Chris Hall
+organisations:
+- Government
+- Housebuilding
+- LDRS
+- Local Democracy Reporting Service
+- Malton Area Committee
+- North Yorkshire Council
+- SHOUT
+- Second Homeowners Opposed to Unfair Taxation
+- Second Homes Council Tax Housing Fund
+- Thirsk
 ---
 
 ## Second homes tax protest reaches North Yorkshire councillors

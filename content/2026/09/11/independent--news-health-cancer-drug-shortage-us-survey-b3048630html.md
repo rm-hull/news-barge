@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- U.S.
+people:
+- Crystal Denlinger
+organisations:
+- American Cancer Society
+- Department of Health and Human Services
+- HHS
+- National Comprehensive Cancer Network
+- The Independent
+- The New York Times
 ---
 
 America’s cancer treatment centers are continuing to face a years-long cancer drug shortage with implications for patient care, a new survey of more than 30 academic facilities reveals.

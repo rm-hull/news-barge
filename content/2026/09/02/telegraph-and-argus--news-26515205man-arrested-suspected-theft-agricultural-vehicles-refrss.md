@@ -14,6 +14,14 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Denholme
+- Trough Lane
+people: []
+organisations:
+- JCB
+- Shipley Neighbourhood Policing Team
 ---
 
 A MAN has been arrested after police uncovered a haul of suspected stolen agricultural vehicles in the Bradford district.

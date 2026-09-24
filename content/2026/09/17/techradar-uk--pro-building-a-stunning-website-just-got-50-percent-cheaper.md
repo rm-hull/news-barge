@@ -10,6 +10,20 @@ image: https://cdn.mos.cms.futurecdn.net/JeLDziJRmrqzjup5AYdyLQ-1376-80.jpg
 categories:
 - Technology & Software
 - Music
+locations: []
+people:
+- Owain Williams
+organisations:
+- BA
+- CRM
+- Core’
+- Digital Doughnut
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- Squarespace
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![squarespace template on a macbook](https://cdn.mos.cms.futurecdn.net/JeLDziJRmrqzjup5AYdyLQ.jpg) 

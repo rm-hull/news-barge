@@ -13,6 +13,32 @@ categories:
 - Local
 - Harrogate
 - Careers & Productivity
+locations:
+- Alban House
+- Ampleforth Abbey
+- Germany
+- Gowan
+- Haworth
+- Idar-Oberstein
+- North York Moors
+- North Yorkshire
+- Pateley Bridge
+- Ponden Hall
+- R.M. Weare
+- UK
+- Wuthering Heights
+people:
+- Edgar Linton
+- Emily Brontë
+- Heathcliff
+- Joanne Gowan
+- Joanne Gowan:** Cathy
+- Joanne Gowan:** I
+- Nelly
+- Susan Rumfitt
+organisations:
+- Acquire
+- Ampleforth Abbey
 ---
 
 What does it take to make an heirloom of the future? That is the captivating question playing on the mind of designer jeweller Joanne Gowan as she prepares for a major exhibition in North Yorkshire later this month.

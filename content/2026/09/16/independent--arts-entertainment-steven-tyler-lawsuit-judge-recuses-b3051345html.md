@@ -10,6 +10,24 @@ image: https://static.the-independent.com/2026/04/29/22/2234223905.jpg?width=120
 categories:
 - News & Politics
 - UK
+locations:
+- Boston
+- California
+- Los Angeles
+- Massachusetts
+- Oregon
+- Washington
+people:
+- Heath
+- Lawrence P. Riff
+- Patricia A. Young
+- Seth
+- Steven Tyler
+- Tamara Hall
+organisations:
+- Aerosmith
+- Inglewood Superior Court
+- Torrance Superior Court
 ---
 
 A second judge has removed herself from a lawsuit accusing Aerosmith frontman Steven Tyler of having an illegal sexual relationship with a girl beginning when she was 16 and he was 25.

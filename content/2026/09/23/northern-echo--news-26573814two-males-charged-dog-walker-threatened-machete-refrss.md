@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21489949.jpg?type=og-image&xType=2&yType=0
+locations:
+- Darlington Here
+- Eastbourne
+- Fenby Avenue
+- Neasham Road
+- Newton Aycliffe Magistrates’ Court
+- Tornado Way
+people:
+- Bobby Duxfield
+organisations:
+- Darlington NPAS
+- Durham Constabulary
+- Durham Police
+- Durham Roads and Armed Policing Unit
+- NPAS Newcastle
+- National Police Air Service
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

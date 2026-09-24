@@ -13,6 +13,60 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png
+locations:
+- BBC
+- England
+- Republic of Ireland
+- Spain
+people:
+- Adam Wharton
+- Alex Howell
+- Alex Scott
+- Anthony Gordon
+- Archie Gray
+- Ben White
+- Brian Madjo
+- Bukayo Saka
+- Cole Palmer
+- Dean Henderson
+- Declan Rice
+- Elliot Anderson
+- Ezri Konsa
+- Harry Kane
+- Ian Dennis
+- Ian Dennis' England
+- James Trafford
+- Jarrad Branthwaite
+- John Murray
+- Jordan Pickford
+- Jude Bellingham
+- Levi Colwill
+- Lewis Hall
+- Lewis Miley
+- Marc Guehi
+- Max Dowman
+- Morgan Gibbs-White
+- Morgan Rogers
+- Myles Lewis-Skelly
+- Nico O'Reilly
+- Phil McNulty
+- Reece James
+- Rio Ngumoha
+- Sami Mokbel
+- Thomas Tuchel
+- Tino Livramento
+- Trent Alexander-Arnold
+organisations:
+- BBC Radio
+- BBC Sport
+- England
+- Everton
+- Liverpool
+- Rio Ngumoha
+- Scotland
+- Spain
+- Spurs
+- Wales
 ---
 
 ![Lewis Hall, Jude Bellingham and Reece James](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png)

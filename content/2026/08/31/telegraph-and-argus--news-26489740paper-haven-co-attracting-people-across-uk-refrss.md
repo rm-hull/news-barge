@@ -15,6 +15,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- '##'
+- Bradford
+- Hull
+- Idle
+- Manchester
+- Nottingham
+people:
+- Julie Sutcliffe
+- Miss Butterfinger
+organisations:
+- Julie Sutcliffe
+- Paper Haven and Co
+- Tearoom
+- The Paper Haven and Co
 ---
 
 *(Image: Julie Sutcliffe)*

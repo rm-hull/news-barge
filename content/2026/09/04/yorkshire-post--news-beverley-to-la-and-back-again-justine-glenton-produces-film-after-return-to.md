@@ -15,6 +15,34 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Beverley
+- Coronation Street
+- East Yorkshire
+- Everingham Park
+- Hotham Hall Estate
+- Hull
+- LA
+- London
+- Los Angeles
+- North Ferriby
+- States
+- USA
+people:
+- Beverley
+- Grace Williamson
+- Justine Glenton
+- Justine Glenton.
+- Michael Lacey
+- Vanja Penca
+organisations:
+- Doctors and Casualty
+- House of Cards
+- Hull City Council
+- Hull Truck
+- Just Be Productions
+- Parkway Cinema
+- The Bill
 ---
 
 # Beverley to LA and back again: Justine Glenton produces film after return to Yorkshire

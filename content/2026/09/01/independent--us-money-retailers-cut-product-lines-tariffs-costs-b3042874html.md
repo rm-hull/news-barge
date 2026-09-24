@@ -14,6 +14,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- U.S.
+people:
+- Trump
+organisations:
+- Armour
+- British Standards Institution
+- Helen of Troy
+- OXO
+- SharkNinja
+- Supreme Court
+- The Wall Street Journal
+- Tractor Supply
+- U.S. Customs and Border Protection
+- Walmart
 ---
 
 Roughly one in four U.S. businesses plan to shrink their product offerings over the next six months, according to a survey by the British Standards Institution.

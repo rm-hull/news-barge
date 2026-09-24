@@ -15,6 +15,15 @@ categories:
 - Arts & Culture
 - History
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260722__C2V22TY__v1__MidRes__FranceMuseum.jpg@webp
+locations:
+- France
+- Louvre
+people:
+- Emmanuel Macron
+- Leonardo Da Vinci
+organisations:
+- Louvre
+- Mona Lisa
 ---
 
 The two men used sticky tape to stick the two paintings -- measuring 30 by 40 cm -- in the hall where visitors flock to see Leonardo Da Vinci's masterpiece.

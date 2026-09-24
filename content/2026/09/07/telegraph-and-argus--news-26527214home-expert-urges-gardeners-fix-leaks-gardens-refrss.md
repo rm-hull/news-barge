@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations: []
+people:
+- Angi
+- Deirdre Sullivan
+organisations:
+- Angi
 ---
 
 As the autumn starts, the weather is likely to get a lot cooler and wetter, which should help revive plants in your garden.

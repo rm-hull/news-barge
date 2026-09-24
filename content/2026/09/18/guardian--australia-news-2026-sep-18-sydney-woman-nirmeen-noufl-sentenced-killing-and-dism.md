@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Australia
+- Egypt
+- Greenacre
+- Mamdouh
+- NSW
+- Noufl
+- Sydney
+people:
+- Mamdouh Noufl
+- Mark Hay
+- Nirmeen Noufl
+- Peter Hamill
+organisations: []
 ---
 
 A woman who lied to police multiple times to cover up killing and dismembering her abusive husband will spend a further 12 months in jail.

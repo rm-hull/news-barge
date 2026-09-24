@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Austria
+- China
+- Cincinnati
+- Great Britain
+- Louis Armstrong Stadium
+- New York
+- Paris
+- Poland
+- Roland Garros
+- Toronto
+people:
+- '## Andreeva'
+- '## Swiatek'
+- Anastasia Potapova
+- Coco Gauff
+- Daniela Hantuchova
+- Elena Rybakina
+- Emma Raducanu
+- For Swiatek
+- Iga Swiatek
+- Iva Jovic
+- Maja Chwalinska
+- Mirra Andreeva
+- Naomi Osaka
+- Zheng Qinwen
+organisations:
+- Andreeva
+- BBC Radio 5
+- Madison Keys
+- Osaka
+- Potapova
+- WTA
 ---
 
 ![Zheng Qinwen drops to the floor in celebration](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/18f3/live/cbabd780-aae7-11f1-aed2-8d6da8d75094.jpg)

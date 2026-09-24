@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Europe
+- Greece
+- Serres
+- Turkey
+people: []
+organisations:
+- EU
+- TRACIT
 ---
 
 **Euronews**

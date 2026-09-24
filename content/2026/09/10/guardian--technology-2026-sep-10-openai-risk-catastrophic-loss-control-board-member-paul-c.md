@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Atlantic
+- OpenAI
+- San Francisco
+- Silicon Valley
+- UK
+- US
+people:
+- AI
+- Andy Burnham
+- Bernie Sanders
+- Claude Mythos
+- Darren Jones
+- Evan Hubinger
+- Geoffrey Hinton
+- Jacob Coxon
+- Paul Christiano
+- Ted Cruz
+organisations:
+- AI
+- AIs
+- ASI
+- Anthropic
+- BBC Newsnight
+- CNN
+- METR
+- OpenAI
+- PyPI
 ---
 
 OpenAI is not on track to reduce risks of “catastrophic” loss of control to an acceptable level, a member of its non-profit board has warned, amid spreading public and political concern that super-advanced AIs could one day wipe out humanity.

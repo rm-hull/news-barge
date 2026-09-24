@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- England
+- UK
+people:
+- Justin Madders
+- Marc Clothier
+- Sarah Jones
+organisations:
+- DVLA
+- DVSA
+- Department for Transport
+- DfT
+- NRPCC
+- National Roads Policing Coordination Centre
+- Road Safety Strategy
 ---
 
 *(Image: Getty)*

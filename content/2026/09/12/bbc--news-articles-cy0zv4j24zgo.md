@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Alice Tully Hall
+- Broadway
+- Earth
+- New York
+- New York City.
+- Times Square
+people:
+- Daniel Radcliffe
+- Draco Malfoy
+- Emma Watson
+- Harry Potter
+- Lox Pratt
+- Ron Weasley
+- Rupert Grint
+- Tom Felton
+organisations:
+- BBC News
+- Deathly Hallows
+- Draco
+- Felton
+- HBO
+- NBC Studios
+- Radio City Music Hall
 ---
 
 ![Tom Felton attends The 78th Annual Tony Awards Red Carpet at Radio City Music Hall on June 08, 2025 in New York City.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5584/live/43fdac50-adda-11f1-8b98-35ffe039e825.jpg)

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 - Sports
+locations:
+- Orem
+- Provo
+- US
+- Utah
+people:
+- Charlie Kirk
+- Donald Trump
+- Erika Kirk
+- Lance Twiggs
+- Tony Graf
+- Tyler Robinson
+organisations:
+- Turning Point USA
+- Utah Valley University
 ---
 
 Nearly a year after Charlie Kirk was shot dead at a Utah university, a judge on Tuesday is expected to rule on whether the Utah man accused of killing the conservative activist will stand trial and whether he should face the death penalty.

@@ -11,6 +11,39 @@ image: https://i.guim.co.uk/img/media/7a2d7ba0af4f1476b6ed17b1a5f1c46f488b0f3b/9
 categories:
 - UK
 - News & Politics
+locations:
+- England
+- Greater Manchester
+- Heaton Park
+- Heaton Park Hebrew
+- Islamic State
+- Manchester Arena
+- Old Bailey
+- Shrivenham
+- Swindon
+- UK
+- Wales
+- Westminster
+- Yom Kippur
+people:
+- Adrian Daulby
+- Al-Shamie
+- Alexia Durran
+- Anna Morris KC
+- Edward Pleeth
+- Hekmat Omar Ali Hakim
+- Jihad al-Shamie
+- Melvin Cravitz
+- Mohammad Asim Bashir
+- Neil Sheldon KC
+- Shabana Mahmood
+- Victoria Ailes
+organisations:
+- Home Office
+- House of Commons
+- MI5
+- UK Defence Academy
+- al-Shamie
 ---
 
 Ministers are seeking to block intelligence material from being heard at an inquest into the death of two men killed in the 2025 Manchester synagogue attack.

@@ -12,6 +12,14 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Anfield
+- UK
+people:
+- Alexis Mac Allister
+organisations:
+- Atletico Madrid
+- Liverpool
 ---
 
 # Liverpool come from behind to beat Atletico Madrid

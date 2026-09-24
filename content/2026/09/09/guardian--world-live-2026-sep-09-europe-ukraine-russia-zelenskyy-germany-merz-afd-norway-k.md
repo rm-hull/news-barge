@@ -13,6 +13,155 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Akershus Fortress
+- Akershus Fortress Back
+- Beijing
+- Belgrade
+- Berlin
+- Birmingham
+- Black Sea
+- Britain
+- Brussels
+- Budapest
+- Bundestag
+- China
+- Copenhagen
+- Denmark
+- Dnipro
+- Dublin Region
+- Estonia
+- Europe
+- Evian-les-Bains
+- France
+- Germany
+- Grand Kremlin Palace
+- Hungary
+- Iran
+- Ireland
+- Irish Sea
+- Italy
+- Japan
+- Kharkiv
+- Kyiv
+- Leipzig
+- Lithuania
+- Moldova
+- Moscow
+- Mykolaiv
+- Netherlands
+- Nord Stream
+- Norway
+- Novi Sad
+- Odesa
+- Oslo Cathedral
+- Poland
+- Royal Palace
+- Royal Palace Chapel
+- Russia
+- Saxony-Anhalt
+- Serbia
+- Spain
+- Starokozache
+- Ticino
+- UK
+- US
+- Ukraine
+- United States
+- Zaporizhzhia
+- Zhytomyr
+people:
+- Akishino
+- Alamy
+- Alar Karis
+- Aleksandar Vucić
+- Alice Weidel
+- Benjamin Haddad
+- Clacton
+- Coffin
+- Darko Vojinović
+- Dean Pictures
+- Dirk Wiese
+- Dmitry Peskov
+- Donald Trump
+- Dylan Martinez
+- Felipe
+- Francis Joseph Dean
+- Frank-Walter Steinmeier
+- Frederik
+- Friedrich Merz
+- Gitanas Nausėda
+- Haakon
+- Harald V
+- Heiko Junge
+- Jakub Krupa
+- Jennifer Rankin
+- Jon Henley
+- Jonathan Nackstrand
+- Jordan Bardella
+- Leonhard Föger
+- Maia Sandu
+- Marine Le Pen
+- Markus Schreiber
+- Michele Tantussi
+- Nicolas Tucat
+- Nigel Farage
+- Pavel Bednyakov
+- Paweł Zerka
+- Peter Summers
+- Royal Anne
+- Sonja
+- Stéphane Séjourné
+- Thibault Camus
+- Valentyn Ogirenko
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- William
+organisations:
+- AFP
+- AP Reuters
+- Aer Lingus
+- AfD
+- Alternative für Deutschland
+- Annegret Hilse
+- Beate Oma Dahle
+- Bundestag
+- DJT
+- ECFR
+- EPA
+- EU Commission
+- European Commission
+- European Council
+- European Council on Foreign Relations
+- France TV
+- G7
+- Garda
+- Gardaí
+- Getty Images Police
+- InterCity
+- Irish Times
+- JLBvdWOLF
+- Le Pen
+- NRK
+- Norstat
+- Oslo Cathedral
+- PKP Intercity
+- Paris Reform UK
+- Pool NTB
+- Populist Party
+- RN
+- Rassemblement National
+- Reform UK
+- Reuters A
+- Rowena MasonandAngelique Chrisafis
+- SNS
+- SPA
+- Serbian Progressive Party
+- Shutterstock A
+- Social Democratic party
+- State Border Guard Service
+- Temilade Adelaja
+- Truth Social
 ---
 
 Germany's Merz cancels phone call with Trump after social media post celebrating AfD win to 'make Germany great again'

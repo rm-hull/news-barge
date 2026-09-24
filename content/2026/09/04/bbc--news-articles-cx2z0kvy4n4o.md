@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- Emden
+- Europe
+- Hanover
+- Neckarsulm
+- South East Asia
+- UK
+- US
+- Zwickau
+people:
+- Christianne Benner
+- Donald Trump
+- Oliver Blume
+organisations:
+- Audi
+- BYD
+- Beetle-maker
+- European Union
+- IG Metall
+- Lamborghini
+- NIO
+- Porsche
+- Seat
+- Skoda
+- Supervisory Board
+- VW
+- Volkswagen
 ---
 
 ![A Volkswagen employee presents a Volkswagen ID.3 car during a press presentation. He has his hand over a car, in a mossy green colour, parked in a tunnel full of white LED panels.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg)

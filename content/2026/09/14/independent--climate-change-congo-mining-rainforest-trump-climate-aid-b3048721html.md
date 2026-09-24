@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- China
+- Congo Basin
+- Democratic Republic of the Congo
+- East__
+- Europe
+- Gabon
+- Global North
+- Horn of Africa
+- North America
+- Russia
+- Sahel
+- Sub-Saharan Africa
+- US
+people:
+- Antonio Guterres
+- Donald Trump
+- Lee White
+organisations:
+- DRC
+- Environment Lee White
+- The Independent
+- UN Security Council
+- US Agency for International Development
+- USAID
 ---
 
 Mining for critical minerals in the Congo could help protect Africa’s great rainforest by creating new economic opportunities and giving countries in the region greater power over the value of their natural resources, the former environment minister of Gabon – a country 90 per cent covered by the rainforest - has told *The Independent*.

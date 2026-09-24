@@ -12,6 +12,16 @@ image: https://static.independent.co.uk/2026/08/06/09/Nigeria-Rescue_41129.jpg?w
 categories:
 - News & Politics
 - UK
+locations:
+- Nigeria
+- U.S.
+- United States
+people:
+- Bola Tinubu
+- Donald Trump
+- Samaila Uba
+organisations:
+- Islamic State
 ---
 
 Nigeria on Tuesday confirmed the planned withdrawal of around 200 U.S. troops sent to help the West African country tackle its complex security crisis.

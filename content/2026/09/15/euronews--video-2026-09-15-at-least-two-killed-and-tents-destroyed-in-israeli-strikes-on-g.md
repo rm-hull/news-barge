@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Abu Khadra
+- Gaza
+- Khan Younis
+- Zawaida
+people:
+- Shaaban Abu Zeidieh
+organisations:
+- Health Ministry
+- UN
 ---
 
 At Abu Khadra camp, footage shows damaged tents, bloodstains and belongings scattered across the ground. The Israeli military said it carried out four strikes targeting militants.

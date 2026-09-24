@@ -13,6 +13,28 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Berlin
+- Edinburgh
+- England
+- Europe
+- North
+- Paris
+- Rome
+- Scotland
+- UK
+- Wales
+people:
+- Allen Simpson
+- Andy Burnham
+- Angela Rayner
+- Keir Starmer
+- Kemi Badenoch
+organisations:
+- BBC Radio 4
+- Labour
+- Sky News
+- UK Hospitality
 ---
 
 Andy Burnham is set to hand England’s mayors the power to introduce an uncapped tourist tax in a move that has been criticised by hospitality leaders.

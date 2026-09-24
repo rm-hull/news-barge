@@ -13,6 +13,37 @@ categories:
 - York
 - Society & Culture
 - Arts & Culture
+locations:
+- Dales
+- Miles
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+people:
+- Amanda Owen
+- Annas
+- Anty John
+- Anty John’s
+- Clem
+- Clementine
+- Clemmie
+- Clive Owen
+- Edith
+- Miles
+- Nancy
+- Nellie
+- Raven
+- Ravenseat
+- Reuben Owen
+- Sid
+- Sidney
+- Violet
+organisations:
+- Channel 5
+- More4
+- Our Farm Next Door
+- Our Yorkshire Farm
+- York St John University
 ---
 
 ## Which of Amanda Owen's nine children still live and work at Ravenseat Farm?

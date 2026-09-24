@@ -12,6 +12,112 @@ image: https://i.guim.co.uk/img/media/a0b11b2113a93ae1a52b70db9effd282bcffd4ca/3
 categories:
 - UK
 - News & Politics
+locations:
+- Afghanistan
+- Alachua
+- Asia
+- Big Bend
+- Bosnia
+- Cambodia
+- Cascades Park
+- Colorado
+- Dunedin
+- Florida
+- Gainesville
+- Iraq
+- Iraq-Syria
+- Islamic State
+- Jefferson
+- Jericho
+- Leon
+- Nigeria
+- Persian Gulf
+- Salt Lake City
+- Syria
+- Tallahassee
+- U.S.
+- US
+- United States
+- Utah
+- Wakulla
+- West Bank
+people:
+- '## Victor'
+- Bill Owens
+- Buddy Jericho
+- Buddy Jericho Harry William “Buddy” Jericho
+- Chaz Yandall
+- Chuck Whaley
+- Davis
+- Derek Benner
+- Elizabeth Joh
+- Geneva Stokely
+- Harry Jericho
+- Harry “Buddy” Jericho
+- Heather J Hagan
+- Jeff Tiegs
+- Karl Marx
+- Karl Marx”
+- Marx’s
+- Nelson Moya
+- Seth Stoughton
+- Tim Ballard
+- Vaughn Victor Kennedy
+- Victor Marx
+- Walt McNeil
+organisations:
+- ATP
+- All Things Possible
+- All Things Possible Ministries
+- All Things Possible ministry
+- Authority
+- Board
+- CIA
+- Cobwebs Technologies
+- DIA
+- Defense Intelligence Agency
+- Dell
+- Delta
+- Echo Analytics
+- FBI
+- FDLE
+- Facebook
+- Guardian
+- HSI
+- Homeland Security Intelligence
+- Homeland Security Investigations
+- Indago
+- Intel Talion
+- Jericho
+- Leon and Wakulla
+- LinkedIn
+- MOU
+- Marines
+- Marx
+- Marx’s
+- Mothers Against Drunk Driving
+- Navy Seals
+- Not-a-Fan
+- Our Rescue
+- PCI
+- PCI-TF Detectives
+- PCI-TF GEB
+- PCI-TF”
+- PCITF
+- Protecting Children’s Innocence Task Force
+- SF
+- Silver Star
+- Skull Games
+- Skull Games’
+- Special Forces
+- Task Force
+- The Intercept
+- US Army
+- US Marshals Service
+- University of California
+- University of South Carolina
+- WCSO
+- Wakulla County Sheriff’s Office
 ---
 
 The All Things Possible ministry (ATP) is an unusual, and critics say potentially dangerous, operation. It has in the last year funded surveillance equipment and salaries for out-of-state law enforcement agencies, hired a range of private security and intelligence contractors, and is connected to a network of other self-appointed sex-trafficking rescue groups whose leading figures have attracted significant controversy.

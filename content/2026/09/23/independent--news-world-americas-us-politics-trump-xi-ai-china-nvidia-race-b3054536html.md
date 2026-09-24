@@ -15,6 +15,41 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/14/2026-09-21T024945Z_1909362519_RC2Q8LAI9JN8_RTRMADP_3_USA-CHINA.JPG?trim=0,159,0,159&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Beijing China
+- Great Hall of the People
+- People’s Republic of China
+- Taipei
+- U.S.
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Frazier
+- Jane Fraser
+- Jeff Bezos
+- Jensen Huang
+- Michael Dell
+- Obama
+- Sam Altman
+- Sundar Pichai
+- Tim Cook
+- Xi Jinping
+organisations:
+- AI
+- Apple
+- Citi
+- Dell
+- GOP
+- Google
+- Nvidia
+- Pichai
+- RTX Spark
+- Treasury Department
+- Trump
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

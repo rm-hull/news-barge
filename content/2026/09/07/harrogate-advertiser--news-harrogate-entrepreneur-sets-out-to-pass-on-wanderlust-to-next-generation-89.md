@@ -14,6 +14,36 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Americas
+- Asia
+- Azerbaijan
+- Borneo
+- Botswana
+- Europe
+- France
+- Garforth
+- Georgia
+- Himalayas
+- Istanbul
+- Ladakh India
+- Leeds
+- Majorca
+- Mallorca
+- Nepal
+- Patagonia
+- South Africa
+- Switzerland
+- Vietnam
+- Yorkshire
+people:
+- Brexit
+- Gemma Herron
+- Mark
+organisations:
+- Colour the World
+- Eurocamp
+- Harrogate Campsite
 ---
 
 # Harrogate entrepreneur sets out to pass on wanderlust to next generation

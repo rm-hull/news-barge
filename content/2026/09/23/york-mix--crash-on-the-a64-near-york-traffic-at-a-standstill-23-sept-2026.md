@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Automotive
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/police-accident-canva-3.webp
+locations:
+- A64
+- Askham Bar
+- Bilbrough Top
+- York
+people:
+- Askham Bryan
+organisations:
+- A64
 ---
 
 There was a crash on the A64 near York this morning (Wednesday).

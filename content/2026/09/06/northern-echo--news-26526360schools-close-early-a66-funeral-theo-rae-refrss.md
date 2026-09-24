@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Acklam Road
+- CLEVELAND
+- Middlesbrough
+- South Bank
+- St Bede’s Chapel
+- Teesside Crematorium
+people:
+- Cole Robert Worthy
+- Cole Worthy
+- Jakub Matusiak
+- John Wrintmore
+- Lucy Powell
+- Makai Saddington
+- Matthew Blades
+- Michael Robert Cahill
+- Passat
+- Pc Tom Clough
+- Ray
+- Theo Rae
+- Tom Clough
+organisations:
+- A66
+- Acklam Grange
+- Acklam Whin Primary School
+- BBC Radio 4
+- Cleveland Police
+- Green Lane School
+- Home Office
+- NORTHERN ECHO
+- Newham Bridge Primary School
+- North News & Pictures Ltd
+- Outwood Academy
+- SOCIAL MEDIA
 ---
 
 *(Image: North News & Pictures Ltd)*

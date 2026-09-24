@@ -12,6 +12,101 @@ image: https://cdn.mos.cms.futurecdn.net/8asTJ6AnZLnwXJe6LwqTg4-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Australia
+- CA
+- Canada
+- Emirates
+- Europe
+- Ireland
+- London
+- Naples
+- Stadio Diego Armando Maradona
+- UK
+- US
+- uk
+people:
+- Adrian Back
+- Badiashile
+- Beukema
+- Bruno Guimaraes
+- Calafiori
+- Christos Tzolis
+- Como
+- Contini
+- De Bruyne
+- Declan Rice
+- Di Lorenzo
+- Dowman
+- Eze
+- Ezri Konsa
+- Favasuli
+- Gabriel
+- Gilmour
+- Gyokeres
+- Havertz
+- Hincapie
+- Kepa
+- Lewis-Skelly
+- Lobotka
+- Lucca
+- Madueke
+- Marin
+- Martin Odegaard
+- Max Allegri
+- Merino
+- Meslier
+- Milinkovic-Savic
+- Napoli XI:** Meret
+- Neres
+- Olivera
+- Politano
+- Rasmus Hojlund
+- Rrahmani
+- Saka
+- Salmon
+- Santos
+- Scott McTominay
+- Spinazzola **Arsenal XI:** Raya
+- Subs
+- Vergara
+- White
+- Zubimendi
+organisations:
+- '## Napoli'
+- AU
+- Arsenal FC
+- ChampionsLeague
+- Chelsea FC
+- DAZN
+- EFL
+- Facebook
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Gunners
+- Instagram
+- Inter Milan
+- Little Donkeys
+- NBA
+- NFL
+- Newsweek
+- PSG
+- Paramount
+- Red Bull
+- Stan Sport
+- TNT Sports
+- Tabii
+- TechRadar
+- TikTok
+- UEFA
+- Virgin Media
+- Virgin Media Play
+- Watch Napoli
+- World Soccer Magazine
+- Yahoo
+- YouTube
 ---
 
 ![Martin Odegaard and Declan Rice of Arsenal celebrate after the Premier League 2026/27 match between Arsenal FC and Chelsea FC at Emirates Stadium.](https://cdn.mos.cms.futurecdn.net/8asTJ6AnZLnwXJe6LwqTg4.jpg) 

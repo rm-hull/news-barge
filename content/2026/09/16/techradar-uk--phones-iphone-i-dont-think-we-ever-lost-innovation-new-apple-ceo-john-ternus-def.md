@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/tt4GGu4uCFHLPTg3puu6x6-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- John Ternus
+- John Ternus Greg Joswiak
+- John Ternus'
+- Josephine
+- Lance Ulanoff
+- Steve Jobs'
+- TechRadar
+- Tim Cook
+organisations:
+- Apple
+- Disney
+- Google News
+- Josephine Watson
+- PPA
+- TechRadar
+- Ternus'
+- TikTok
+- Tom's Guide
 ---
 
 ![John Ternus Greg Joswiak](https://cdn.mos.cms.futurecdn.net/tt4GGu4uCFHLPTg3puu6x6.jpg) 

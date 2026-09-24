@@ -14,6 +14,28 @@ categories:
 - Arts & Culture
 - Music
 image: https://static.independent.co.uk/2026/09/19/05/Ed_Sheeran_85689.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Free Palestine
+- Gaza
+- Lincoln Financial Field
+- New Jersey
+- Philadelphia
+- South America
+- U.S.
+people:
+- Aaron Rowe
+- Billie Eilish
+- Ed Sheeran
+- Finneas
+- Lukas Graham
+- Macklemore
+- Robert Kraft
+organisations:
+- Beoga
+- Kraft
+- New England Patriots
+- No. 3
+- Pollstar
 ---
 
 Ed Sheeran is set to resume his tour Saturday — possibly solo — after all his supporting acts withdrew in solidarity with opener Macklemore, who was dropped after making pro-Palestinian comments onstage.

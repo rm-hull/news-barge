@@ -10,6 +10,23 @@ description: No windows? No problem — this smart light is the next best thing.
 image: https://cdn.mos.cms.futurecdn.net/dkvx8HDSnqCgSMjaKzN4xS-1530-80.png
 categories:
 - Technology & Software
+locations:
+- Berlin
+people:
+- Govee
+organisations:
+- Bulb3
+- Google News
+- Govee Curtain Lights4
+- IFA
+- PC Format
+- PC Plus
+- Philips Hue
+- Philips Hue White & Color Ambiance2
+- SCA
+- Signify
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Govee Sky Ceiling Light installed in room](https://cdn.mos.cms.futurecdn.net/dkvx8HDSnqCgSMjaKzN4xS.png) 

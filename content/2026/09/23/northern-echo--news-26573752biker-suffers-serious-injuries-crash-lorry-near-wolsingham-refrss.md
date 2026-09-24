@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21488926.jpg?type=og-image&xType=0&yType=226
+locations:
+- A689
+- Auckland
+- County Durham
+- County Durham Boy
+- Darlington
+- East End
+- East End Bridge
+- Newcastle
+- Royal Victoria Infirmary
+- Stanhope Fire Station
+- Wolsingham Park
+people:
+- PAUL WILLIS
+organisations:
+- Darlington Fire and Rescue Service
+- GNAAS
+- Great North Air Ambulance Service
+- NEAS
+- North East Ambulance Service
+- RVI
 ---
 
 A biker suffered "serious injuries" when his motorcycle collided with a lorry on a major County Durham road.

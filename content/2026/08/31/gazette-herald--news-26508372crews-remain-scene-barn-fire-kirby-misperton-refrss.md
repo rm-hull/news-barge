@@ -13,6 +13,19 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Miles
+- North Yorkshire
+- Scarborough
+- Tadcaster
+people:
+- Lottie
+- William Easterby
+organisations:
+- North Yorkshire Fire and Rescue
 ---
 
 CREWS remain at the scene of a fire which began after lightning struck two barns in North Yorkshire yesterday evening (Sunday).

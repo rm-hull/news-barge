@@ -12,6 +12,26 @@ image: https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Cardiff
+- Dyson CameraJet
+- Singapore
+people:
+- CameraJet I
+- Dyson CameraJet
+- Matt Evans
+- Rich Bacon
+organisations:
+- Apple Health
+- Dyson CameraJet
+- Dyson Camerajet
+- Dyson*,*
+- Dyson’s
+- Google News
+- Men's Health
+- Reddit
+- Runner's World
+- TechRadar
 ---
 
 ![Dyson CameraJet toothbrush](https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo.jpg) 

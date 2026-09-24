@@ -14,6 +14,18 @@ categories:
 - Video Gaming
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/aTvuT8fTQHsjy7GUgm4Xaf-1920-80.jpg
+locations: []
+people:
+- Loïc Gounon
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Rayman Legends Retold
+- TechRadar Gaming
+- Ubisoft
 ---
 
 ![A Rayman Legends Retold screenshot.](https://cdn.mos.cms.futurecdn.net/aTvuT8fTQHsjy7GUgm4Xaf.jpg)

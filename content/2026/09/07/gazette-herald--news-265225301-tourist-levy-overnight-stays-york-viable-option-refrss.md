@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Barcelona
+- Edinburgh
+- Manchester
+- North Yorkshire
+- Paris
+- York
+people:
+- Alec Shelbrooke
+- Brendan Paddison
+- David Skaith
+- Julian Smith
+- Kevin Hollinrake
+- Prof Paddison
+- Rishi Sunak
+organisations:
+- Labour
+- Newsquest
+- North Yorkshire
+- Policy Lab
+- York Business School
+- York St John University
 ---
 
 *(Image: Newsquest)*

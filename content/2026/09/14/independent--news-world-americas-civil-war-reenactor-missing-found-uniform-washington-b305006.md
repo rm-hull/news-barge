@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Evenson Farm
+- George Road
+- Pacific Northwest
+- Tacoma
+- Washington
+- Yelm
+people:
+- Brian Richardson
+- Chris Davis
+- Thomas Goodwin
+organisations:
+- Confederate
+- Endangered Missing Person Alert
+- Evenson Farm
+- KOIN
+- Tacoma News Tribune
+- Thurston Co
+- Washington Civil War Association
+- Washington State Patrol
+- Weather Blog
+- Yelm Fire Public Information
+- Yelm Police Department
 ---
 
 A Civil War reenactor has been found still in uniform days after he went missing from a Labor Day weekend event.

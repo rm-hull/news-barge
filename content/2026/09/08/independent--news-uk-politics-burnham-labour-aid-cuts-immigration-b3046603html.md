@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Nepal
+- UK
+people:
+- Andy Burnham
+- Ed Miliband
+- Gordon Brown
+- Keir Starmer
+- Kirsty McNeill
+- Tamsyn Barton
+- Tony Blair
+organisations:
+- G20
+- ICAI
+- Independent Commission for Aid Impact
+- Labour
+- Rishi Sunak
+- The Independent
+- UN
 ---
 
 Andy Burnham is keen to show he is taking a different path to his predecessor, Keir Starmer. He has signalled that he harks back to the efforts of Tony Blair and Gordon Brown to position the UK as a leader in global social justice, not least in choosing Ed Miliband for his foreign secretary, and Brown’s former aide Kirsty McNeill as the development minister.

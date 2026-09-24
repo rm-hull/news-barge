@@ -10,6 +10,39 @@ image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
 categories:
 - UK
 - News & Politics
+locations:
+- America
+- Guantanamo Bay
+- New York
+- New York City
+- United States
+people:
+- Alix Pickles
+- Bin Laden
+- George Dabby
+- Justin Webb
+- Khalid
+- Marianna Spring
+- Mike Regaard
+- Mohammed
+- Nik Sindle
+- Osama Bin Laden
+- Peter Bergen
+- Purvee Pattni
+- Sam Bonham
+- Sumi Somaskanda
+- Zohran Mamdani
+organisations:
+- Americast
+- Anthony’s BBC
+- BBC News Podcasts
+- BBC Sounds
+- CNN National Security Analyst
+- Georgetown University
+- Newscast
+- Radio 4
+- US Election Unspun
+- al-Qaeda
 ---
 
 ## Episode details

@@ -13,6 +13,47 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Austria
+- Belgium
+- Berlin
+- Croatia
+- Czechia
+- Europe
+- Finland
+- France
+- Germany
+- Hungary
+- Italy
+- Mecklenburg-Western Pomerania
+- Netherlands
+- Poland
+- Saxony-Anhalt
+- Spain
+- Sweden
+- UK
+people:
+- Cas Mudde
+- Fidesz
+- Friedrich Merz
+- Gabriela Greilinger
+- Geert Wilders
+- Marine Le Pen
+- Matthijs Rooduijn
+- Mujtaba Rahman
+- Tarik Abou-Chadi
+- Viktor Orbán
+organisations:
+- AfD
+- Alternative für Deutschland
+- CDU
+- Eurasia Group
+- Freedom
+- Oxford University
+- PVV
+- SPD
+- University of Amsterdam
+- University of Georgia
 ---
 
 The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled its score in Sunday’s state election in Saxony-Anhalt to 43.8% of the vote.

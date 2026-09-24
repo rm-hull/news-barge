@@ -13,6 +13,30 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Austria
+- Brazil
+- Bulgaria
+- Gibraltar
+- India
+- Ireland
+- Philippines
+- Portugal
+- Spain
+- UK
+- Uruguay
+people:
+- Andy Burnham
+- Evoke
+- John Healey
+- Stella David
+- William Hill
+organisations:
+- Betting and Gaming Council
+- Coral
+- Entain
+- Ladbrokes
+- Sportingbet
 ---
 
 Ladbrokes owner Entain has announced plans to cut around 400 global jobs, blaming rising tax burdens and warning of further losses amid speculation over plans to double machine games duty in the Budget.

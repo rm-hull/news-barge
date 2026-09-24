@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- York
+people:
+- Cllr Ayre
+- Cllr Kent
+- Cllr Nigel Ayre
+- Ian Hoult
+- Jenny Kent
+organisations:
+- City of York Council
+- Labour
+- Liberal Democrat
 ---
 
 ## People 'begging for recycling bins' in York as rollout branded 'a mess'

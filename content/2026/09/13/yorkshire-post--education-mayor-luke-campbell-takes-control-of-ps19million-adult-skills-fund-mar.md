@@ -15,6 +15,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- East Yorkshire
+- Hull
+- Manchester
+people:
+- Luke Campbell
+- Luke Campbell.
+organisations:
+- East Yorkshire
+- East Yorkshire Combined Authority
+- HEYCA
+- Hull
+- Local Growth Plan
+- Mayoral Council
+- No.10 North
+- State for Education
+- theHull
 ---
 
 # Mayor Luke Campbell takes control of £19million adult skills fund, marking devolution shift

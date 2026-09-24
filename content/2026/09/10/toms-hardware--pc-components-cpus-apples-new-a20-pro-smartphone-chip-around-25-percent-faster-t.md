@@ -13,6 +13,15 @@ image: https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Mark Tyson
+- Tom
+organisations:
+- A20
+- Apple
+- Google News
+- Tom's Hardware
 ---
 
 ![Apple A20 Pro](https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd.jpg) 

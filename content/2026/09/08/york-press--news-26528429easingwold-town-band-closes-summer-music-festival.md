@@ -12,6 +12,17 @@ categories:
 - York
 - Music
 - Arts & Culture
+locations:
+- York
+people:
+- Christina Perri
+- Crocodile Rock
+- Elton John
+- Mr Blue Sky
+organisations:
+- ELO
+- Easingwold Town Band
+- LP
 ---
 
 ## Easingwold Town Band brings curtain down on Summer of Music festival

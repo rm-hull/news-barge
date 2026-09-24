@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Allerton Bywater
+- Castleford
+- Kippax
+- Ledston
+- Leeds
+- Santa Cruz
+people:
+- Karl
+- Kirsty Walsh
+organisations:
+- Kippax
+- Leeds CID
+- Tesco
 ---
 
 # Growing concern for missing Leeds man not seen for two weeks

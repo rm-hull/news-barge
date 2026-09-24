@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Holywell Heights
+- Sheffield
+- South Yorkshire
+- Wincobank
+people:
+- Tom Woodward
+organisations:
+- Crimestoppers
+- DCI
 ---
 
 Five people are being held on suspicion of murder after a newborn baby died from stab wounds in Sheffield on Sunday.

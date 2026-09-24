@@ -13,6 +13,38 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/fbcbdbbbd98821a10d9314890d3272ef1abb4563/588_0_5863_4693/master/5863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d49c0b672c309129da4d4a5065dd6586
+locations:
+- Australia
+- Beetaloo
+- Bunbury
+- Hormuz
+- Hunter
+- Illawarra
+- Southern Ocean
+people:
+- Amanda McKenzie
+- Angus Taylor
+- Chris Bowen
+- Dan Tehan
+- Gavan McFadzean
+- Harden
+- Jim Chalmers
+- Madeleine King
+- Mehreen Faruqi
+- Monique Ryan
+- Peter Holding
+organisations:
+- Australian Conservation Foundation
+- Australian Energy Regulator
+- Climate Action
+- Climate Council
+- Coalition
+- FCA
+- Greens
+- Kooyong
+- Labor
+- Liberal Party
+- One Nation
 ---
 
 Angus Taylor has vowed to repeal a raft of emissions reduction and renewable energy policies, including several measures supported by or introduced under past Coalition governments, within a month of being elected prime minister, prompting accusations he would “let climate change rip”.

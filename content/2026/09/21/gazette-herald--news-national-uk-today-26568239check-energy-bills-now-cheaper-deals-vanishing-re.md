@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21371984.jpg?type=og-image
+locations:
+- Channel Islands
+- Middle East
+- Northern Ireland
+people:
+- Laura Hinton
+- Martin Lewis
+organisations:
+- DWP
+- Isle of Man
+- MartinSLewis
+- MoneySuperMarket Energy
+- Ofgem
+- State Pension
+- SuperSaveClub
 ---
 
 *(Image: Getty Images/iStockphoto)*

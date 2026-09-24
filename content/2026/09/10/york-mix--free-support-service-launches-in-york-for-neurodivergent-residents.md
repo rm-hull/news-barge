@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Connecting Our City
+- York
+people:
+- Lucy Steels-Walshaw
+- Lynne Gabriel
+- Steve Wright
+organisations:
+- City of York Council
+- Daisy Chain
+- NHS
+- York Mental Health Partnership
 ---
 
 A free support service has launched in York to help neurodivergent adults, regardless of whether they have a formal diagnosis.

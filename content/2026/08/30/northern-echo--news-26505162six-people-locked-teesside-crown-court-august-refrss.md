@@ -15,6 +15,56 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Albert Park
+- Darlington
+- Kildale Court
+- Middlesbrough
+- Myrtle Grove
+- Newton Aycliffe Magistrates’ Court
+- Nissan Qashqai
+- North East
+- North Ormesby
+- Pemberton Crescent
+- Rampton Hospital
+- The Crescent
+- Thornaby
+- Tornado Way
+people:
+- Albany Kidd
+- Andrew Hatton
+- Angela Lloyd
+- Ayesha Smart
+- Charlie Thompson
+- Chris Baker
+- Dad
+- James Stoddart
+- Jason Walker
+- Jonathan Carroll
+- Junior Lavin
+- Keats
+- Lois Carey
+- Mark Hubbard
+- Mark Wilson
+- Michael Mason
+- Miss Lloyd
+- Patricia Hewitt
+- Phillip Morley
+- Rio Jamison
+- Rod Hunt
+- Stanley
+- Tabitha Buck
+organisations:
+- Class A
+- Cleveland Police
+- Durham Constabulary
+- Kia
+- Morrisons Daily
+- Neighbourhood Team
+- Proactive Team
+- SRO
+- Sportage
+- Teesside Crown Court
 ---
 
 A machete teen, killer and drug dealer caught via a police drone are among those locked up in August.

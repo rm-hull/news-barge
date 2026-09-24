@@ -12,6 +12,36 @@ categories:
 - Local
 - Harrogate
 - Sports
+locations:
+- Brazil
+- England
+- Harrogate
+- Japan
+people:
+- Alexandra Ivanics
+- Alice Flinta
+- Anya Holmes-Ellerker
+- Dan
+- Eilidh Owens
+- Eleanor Price
+- Evander Morrison
+- Helen Thornham
+- Isobel McGowan
+- Jade Stapleton-Smith
+- Jonty Price
+- Kate Hambleton
+- Matt Price
+- Mirren Thornham
+- Rowan Underwood
+- Tom Little
+- Valerie Jones
+- Zarana Gilthorpe
+- Zoe Price
+organisations:
+- Harrogate High School
+- Harrogate Shotokan Karate Club
+- JKS England
+- Vitória
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa26ec91171e54b95c.jpg) 

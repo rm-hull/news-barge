@@ -9,6 +9,26 @@ description: Tern has described its tech as "Google Maps for the battlefield."
 image: https://techcrunch.com/wp-content/uploads/2026/09/TERN_IDPS_Offroad2-copy.jpg?resize=1200,809
 categories:
 - Technology & Software
+locations:
+- Afghanistan
+- Austin
+- California
+- Laguna Beach
+- Middle East
+- Russia
+- Tern
+- U.S.
+- Ukraine
+people:
+- Brett Harrison
+- Shaun Moore
+- Tern
+- Trump
+organisations:
+- Congress
+- GPS
+- Tern
+- U.S. Army
 ---
 
 Austin-based Tern has won a contract from the U.S. Army to deploy the startup’s low-cost GPS alternative tech.

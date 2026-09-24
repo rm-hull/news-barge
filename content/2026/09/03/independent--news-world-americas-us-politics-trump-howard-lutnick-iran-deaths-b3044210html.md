@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Chapel Hill
+- Delaware
+- Florida
+- Iran
+- Islamic Republic
+- Maryland
+- New York
+- North Carolina
+- Tehran
+- U.S. Virgin Islands
+- Venezuela
+people:
+- Chris Van Hollen
+- Donald Trump
+- Howard Lutnick
+- Jeffrey Epstein
+organisations:
+- AI
+- CNBC
+- Commerce Department
+- Commerce Secretary
+- Dover Air Force Base
+- George W Bush-era
+- Justice Department
+- Labor
+- New York Post
+- Senate Commerce Committee
+- The Independent
+- Truth Social
 ---
 
 President Donald Trump on Thursday was forced to use his Truth Social megaphone to play cleanup after Commerce Secretary Howard Lutnick’s televised claim that no Americans had died in the administration’s six-month-old war against Iran sparked outrage and ridicule.

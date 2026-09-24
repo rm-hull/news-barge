@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Britain
+- Canada
+- Gaza
+- Israel
+- UK
+people:
+- Benjamin Netanyahu
+- Brig Gen Solomon
+- Damian Sobol
+- Hamas
+- Jacob Flickinger
+- James Henderson
+- James Kirby
+- John Chapman
+- Nochi Mendel
+- Oren Solomon
+- Saifeddin Abutaha
+- Zomi Frankcom
+organisations:
+- Gaza Division
+- Guardian
+- Hamas
+- IDF
+- Israel Defense Forces
+- WCK
+- World Central Kitchen
 ---
 
 Seven aid workers killed in an airstrike in Gaza were marked as targets under an Israeli military practice of establishing guilt by association, a Guardian investigation shows.

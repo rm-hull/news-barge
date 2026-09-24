@@ -11,6 +11,25 @@ description: Amid continuing criticism over what these glasses are capable off, 
 image: https://cdn.mos.cms.futurecdn.net/D2meKFBKmLgtVMaFPtFTVY-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Burbank
+- England
+- Meta
+- Stockport
+people:
+- Dave
+- David Nield
+organisations:
+- Clubmaster
+- Gizmodo
+- Google News
+- Meta
+- Nearby Glasses
+- PC Explorer
+- The Hardware Handbook
+- The Information
+- Wired
+- ZuckOff
 ---
 
 ![Meta Ray-Ban Gen 2](https://cdn.mos.cms.futurecdn.net/D2meKFBKmLgtVMaFPtFTVY.jpg) 

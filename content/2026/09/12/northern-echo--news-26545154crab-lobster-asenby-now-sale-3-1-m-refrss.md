@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Asenby
+- Darlington
+- North Yorkshire
+- Thirsk
+people:
+- Ann Ming
+- Savills
+organisations:
+- A1
+- A168
+- AA Rosettes
+- Amazon Prime Air
+- GOOGLE
+- Lobster Hotel
+- Savills
 ---
 
 *(Image: GOOGLE)*

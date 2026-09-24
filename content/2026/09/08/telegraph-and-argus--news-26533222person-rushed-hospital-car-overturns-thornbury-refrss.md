@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Bradford Royal Infirmary
+- Leeds Road
+- Thornbury
+- West Yorkshire
+people: []
+organisations:
+- McDonald's
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Pixabay)*

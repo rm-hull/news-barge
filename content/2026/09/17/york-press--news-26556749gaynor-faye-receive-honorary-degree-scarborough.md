@@ -13,6 +13,20 @@ categories:
 - York
 - Film & TV
 - Arts & Culture
+locations:
+- Coronation Street
+- Emmerdale
+- Leeds
+- Yorkshire
+people:
+- Gaynor Faye
+- Jackie Mathers
+- Judy Mallett
+- Megan Macey
+organisations:
+- '## Yorkshire'
+- CU Scarborough
+- Fat Friends
 ---
 
 ## Yorkshire star Gaynor Faye honoured for championing county on screen

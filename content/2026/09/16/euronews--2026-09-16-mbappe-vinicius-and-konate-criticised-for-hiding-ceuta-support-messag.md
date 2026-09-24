@@ -13,6 +13,29 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Barcelona
+- Ceuta
+- Instagram
+- La Liga
+- Morocco
+- North Africa
+people:
+- Abde Ezzalzouli
+- Ibrahima Konaté
+- Javier Tebas
+- Kylian Mbappé
+- Miguel Ángel Montaño
+- Vinícius Júnior
+organisations:
+- Barcelona
+- Elche
+- La Liga
+- Levante
+- Real Betis
+- Real Madrid
+- Valencian Community
+- Villarreal
 ---
 
 ## The La Liga president criticised Mbappé, Vinícius and Ibrahima Konaté for partially rolling up a T-shirt supporting Ceuta, hiding the message "We are all from Ceuta", amid a migration crisis and social tension in the city.

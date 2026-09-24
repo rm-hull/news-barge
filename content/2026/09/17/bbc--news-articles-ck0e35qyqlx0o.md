@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Health & Fitness
 - Sports
+locations:
+- Beijing
+- China
+- Germany
+- Hamburg
+- National Speed Skating Oval
+people:
+- Hyrox
+- Joanna Wietrzyk
+- Moritz Fürste
+organisations:
+- HYROX
+- Hyrox
+- Instagram
 ---
 
 ![Joanna Wietrzyk wears a black sports bra and a dark headband with the words 'the feed' printed in green letters. Her hair is tied back into a plait and she is mid-run.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/ae40/live/65f662f0-b2a5-11f1-bd7d-0f16235ccc4c.jpg)

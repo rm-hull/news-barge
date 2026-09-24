@@ -12,6 +12,32 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21368036.jpg?type=og-image
+locations:
+- Barbican
+- North Yorkshire
+- Nunnery Lane
+- UK
+- York
+people:
+- Kevin Glenton
+organisations:
+- ARG
+- Assisted Restrictions Grant
+- City of York Council
+- Covid
+- Expanded Retail Discount
+- FOI
+- Freedom of Information
+- Fulford Arms
+- Government
+- Guildhall Orchestra
+- National Centre for Early Music
+- Night Time Economy Market Monitor
+- RHL
+- Retail, Hospitality and Leisure
+- The Crescent
+- Victoria Vaults
+- YPO Productions
 ---
 
 ## Financial support for York venues in decline, new data shows

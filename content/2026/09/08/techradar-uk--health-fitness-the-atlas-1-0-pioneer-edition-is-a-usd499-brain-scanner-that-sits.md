@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/VF5DS8TSgmH7WFMDMAVtzn-1600-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- England
+- Stockport
+- US
+people:
+- Ana Montero
+- Dave
+- David Nield
+organisations:
+- Atlas
+- Gizmodo
+- Google News
+- Netflix
+- PC Explorer
+- The Hardware Handbook
 ---
 
 ![Atlas 1.0 Pioneer Edition](https://cdn.mos.cms.futurecdn.net/VF5DS8TSgmH7WFMDMAVtzn.jpg) 

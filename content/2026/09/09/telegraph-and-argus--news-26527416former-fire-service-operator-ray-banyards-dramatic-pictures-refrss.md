@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations: []
+people:
+- Ray Banyard
+organisations:
+- Telegraph & Argus
 ---
 
 FORMER fire service control room operator Ray Banyard, pictured left, was a regular contributor to the Telegraph & Argus until his death in July this year. We trawled our archives to find some of the dramatic pictures he sent to us over the years. He will be very much missed.

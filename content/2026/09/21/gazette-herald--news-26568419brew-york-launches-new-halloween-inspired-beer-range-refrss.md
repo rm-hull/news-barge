@@ -13,6 +13,23 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21481988.jpg?type=og-image
+locations:
+- Osbaldwick
+- Wal
+- Walmgate
+- York
+people:
+- Andrew Stark
+- Askham Bog
+- Brew York
+- Lee Grabham
+- Wayne Smith
+- Yousef Doubooni
+organisations:
+- Brew York
+- Dark Chapters
+- Jekyll & Haze
+- UnitedByDesign
 ---
 
 *(Image: Pic supplied)*

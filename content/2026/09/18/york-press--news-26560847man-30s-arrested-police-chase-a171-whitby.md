@@ -13,6 +13,22 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Borrowby
+- Cleveland
+- Dale House
+- Hinderwell Lane
+- North Yorkshire
+- Port Mulgrave
+- Rosedale Lane
+- Roxby Lane
+- Roxby Low Moor
+- Scaling Dam
+- Whitby
+people:
+- Alex Langley
+organisations:
+- North Yorkshire Police
 ---
 
 **UPDATE: The man has since been charged and has been remanded in custody. He will appear before court on Friday (September 18).**

@@ -11,6 +11,26 @@ image: https://i.guim.co.uk/img/media/ea860ffeb44fb7a2e26a2b1fb0f0399ec819d0c5/6
 categories:
 - UK
 - News & Politics
+locations:
+- Houston
+- Texas
+- US
+- White House
+people:
+- Bloomberg
+- Donald Trump
+- Holly Bender
+- Joe Biden
+- Lee Zeldin
+organisations:
+- Bloomberg News
+- Congress
+- EPA
+- New York Times
+- Reuters
+- Sierra Club
+- Trump
+- US Environmental Protection Agency
 ---
 
 The US Environmental Protection Agency (EPA) is poised to formally repeal carbon pollution standards for coal- and gas-fired power plants, according to reports.

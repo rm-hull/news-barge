@@ -14,6 +14,15 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Birmingham
+- UK
+people:
+- Carmen Demeca
+organisations:
+- Leonardo Royal Hotel Birmingham
+- NewU Professional Hairdressing
+- Telegraph & Argus
 ---
 
 *(Image: Supplied)*

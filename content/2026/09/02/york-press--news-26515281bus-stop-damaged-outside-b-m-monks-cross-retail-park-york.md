@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Monks Cross
+- York
+people:
+- PC Franks
+organisations:
+- North Yorkshire Police
+- North Yorkshire Tesco
+- Post Office
+- Stacie-Lea.Franks
 ---
 
 *(Image: North Yorkshire Police)*

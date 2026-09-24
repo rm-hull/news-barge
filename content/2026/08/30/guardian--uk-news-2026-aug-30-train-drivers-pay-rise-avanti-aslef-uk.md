@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Avanti West Coast
+- Birmingham
+- Britain
+- Glasgow
+- Liverpool
+- London
+- London-Manchester
+- Manchester
+- UK
+people:
+- Andy Burnham
+- Aslef
+- Richard Holden
+organisations:
+- Aslef
+- Associated Society of Locomotive Engineers and Firemen
+- Avanti
+- DFTO
+- Department for Transport
+- Department for Transport Operator
+- Labour
+- No 10 North office
+- Office of Rail and Road
+- Sunday Times
 ---
 
 Train drivers have secured a significant pay rise after the threat of strike action was floated on busy routes across the UK, including on the busy London-Manchester line.

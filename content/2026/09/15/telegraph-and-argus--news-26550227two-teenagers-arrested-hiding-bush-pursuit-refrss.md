@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Halifax
+- Leeds
+- Pudsey
+- Shroggs Road
+- West Yorkshire
+people: []
+organisations:
+- Kawasaki
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

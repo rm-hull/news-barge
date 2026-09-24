@@ -14,6 +14,14 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations: []
+people:
+- Drake Maye
+- Drew Lock
+- Sam Darnold
+organisations:
+- New England Patriots
+- Seattle Seahawks
 ---
 
 Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch

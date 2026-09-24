@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- Marina
+- Roker
+- Seaburn
+- Sunderland
+people:
+- Roberta Redecke
+organisations:
+- Adventure Sunderland
+- Art Café Sunderland
+- Little Libraries
+- National Literacy Trust
+- Seafront Volunteer Group
+- Su Devine
+- Sunderland BID
+- Sunderland Seafront BID
+- The Seaburn Inn
+- The Tram Shelter
 ---
 
 *(Image: Provided)*

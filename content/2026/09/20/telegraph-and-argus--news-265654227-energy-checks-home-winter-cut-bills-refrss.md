@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471950.jpg?type=og-image
+locations:
+- UK
+people:
+- Madeleine Porter
+organisations:
+- British Gas
+- Martin Lewis
+- Utility Bidder
 ---
 
 While it might not be time to put the heating on yet, experts are warning homeowners and business owners to make sure they give their property an ‘energy MOT’.

@@ -11,6 +11,46 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/00/057635cc9850c6b15c984404f80ce04bY29udGVudHNlYXJjaGFwaSwxNzkwMTg5MDg1-2.85938765.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Brazil
+- Canada
+- China
+- Finland
+- Germany
+- India
+- Ireland
+- New York
+- Norway
+- PA
+- Toby Melville
+- UK
+- US
+- United States
+- White House
+people:
+- Andy Burnham
+- Darren Jones
+- Donald Trump
+- Ed Davey
+- Keir Starmer
+organisations:
+- AI Security Institute
+- American AI
+- Anthropic
+- CPTPP
+- Commonwealth
+- Department of Justice
+- EU
+- G20
+- Google
+- House of Commons Business, Innovation, Science and Trade Committee
+- Meta
+- OpenAI
+- Security Council
+- Toby Melville
+- UN
+- United Nations General Assembly
 ---
 
 Andy Burnham said he wants the UK to lead the world in developing a set of rules to prevent the spread of rogue artificial intelligence (AI), putting him on a collision course with US President Donald Trump.

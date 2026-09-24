@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations: []
+people:
+- Lucy Powell
+- Nick Harrison
+organisations:
+- Sutton Trust
+- Universal Credit
 ---
 
 Annual back-to-school costs can be pricey for parents, but families could save £1,200 this year on school uniforms and lunches.

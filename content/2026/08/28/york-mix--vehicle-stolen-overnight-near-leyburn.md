@@ -11,6 +11,11 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- AYSGARTH
+people: []
+organisations:
+- OIC
 ---
 
 Police are asking for help in tracing the vehicle pictured here.

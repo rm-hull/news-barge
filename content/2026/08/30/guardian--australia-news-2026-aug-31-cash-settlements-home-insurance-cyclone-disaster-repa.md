@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Cyclone Jasper
+- Queensland
+people:
+- Alan Kirkland
+- Asic
+organisations:
+- AAI
+- Allianz Australia
+- Asic
+- Australian Securities and Investments Commission
+- Finity
+- IAG
+- Insurance Australia Group
+- Insurance Council of Australia
+- QBE Insurance
+- Sure Insurance
 ---
 
 Home insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes.

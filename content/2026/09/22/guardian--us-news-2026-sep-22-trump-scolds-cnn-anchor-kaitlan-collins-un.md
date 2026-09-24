@@ -11,6 +11,21 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/d330c08e427a4c967b0cbe57c4b81868a27f7c49/676_294_4017_3214/master/4017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a89a36411204df86d92065a8069f9f9
+locations:
+- Iran
+- New York
+- US
+- White House
+people:
+- Donald Trump
+- Kaitlan Collins
+organisations:
+- CNN
+- Free Press
+- Guardian
+- MS Now
+- Politico
+- UN
 ---
 
 Donald Trump has scolded a CNN anchor for covering him at the UN in New York after banning the network and two other media outlets from the White House.

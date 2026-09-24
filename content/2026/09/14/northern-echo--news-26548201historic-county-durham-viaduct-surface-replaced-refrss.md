@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Travel
 - History
+locations:
+- Coast to Coast
+- Consett
+- County Durham
+- DURHAM COUNTY
+- Ex County Durham
+- Grade II
+- Hownsgill Valley
+- Hownsgill Viaduct
+- North Yorkshire
+- Stanhope and Tyne Railway
+- Waskerley Way
+- YOUR
+people:
+- Thomas Bouch
+organisations:
+- C2C
+- Durham County Council
+- Public Notice Portal
 ---
 
 *(Image: DURHAM COUNTY COUNCIL PLANNING PORTAL)*

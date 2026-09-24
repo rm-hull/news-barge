@@ -15,6 +15,27 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- Birchington Avenue
+- Grangetown
+- Normanby
+- South Bank
+- South Bank.
+people:
+- Alec Brown
+- Anna Turley
+- Brian Archer
+- Coun Brown
+- PC Matthew Blades
+- Paul Salvin
+- Tom Clough
+organisations:
+- A66
+- Cleveland Council
+- Cleveland Police
+- 'Grangetown ## Council'
+- Local Democracy Reporting Service
+- Redcar
 ---
 
 # Community safety briefing for councillors after deaths in South Bank and Grangetown

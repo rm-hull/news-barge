@@ -15,6 +15,26 @@ categories:
 - Travel
 - Society & Culture
 - Arts & Culture
+locations:
+- Fujiyoshida
+- Japan
+- Kabukicho
+- Kyoto
+- Mount Fuji
+- Osaka
+- Shinjuku
+- Tokyo
+people:
+- Koji Matsui
+- Shigeru Horiuchi
+organisations:
+- Airbnb
+- Asahi Shimbun
+- Fuji
+- Guardian
+- Japan Times
+- Mainichi Shimbun
+- Shinjuku
 ---
 
 A neighbourhood in Tokyo popular with foreign tourists will ban visitors from using thousands of short-term rental accommodations after a slew of complaints about behaviour.

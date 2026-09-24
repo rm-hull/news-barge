@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- London
+- UK
+people:
+- Zoe Kleinman
+organisations:
+- BBC
+- London Customers
+- Uber Comfort
+- Uber Electric
 ---
 
 # Watch: BBC travels in self-driving Uber around London

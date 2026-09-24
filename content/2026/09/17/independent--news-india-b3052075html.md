@@ -13,6 +13,13 @@ categories:
 - UK
 - Travel
 - Sports
+locations:
+- Champupara
+- Guwahati
+- India
+- Kulsi River
+people: []
+organisations: []
 ---
 
 About 50 men on long boats paddle to the finish line as they race on the Kulsi River in India’s Champupara village, near Guwahati.

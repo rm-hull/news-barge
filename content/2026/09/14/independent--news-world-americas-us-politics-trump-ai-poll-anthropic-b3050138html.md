@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/14/21/23/GettyImages-2270717460.
 categories:
 - News & Politics
 - UK
+locations:
+- AI
+- China
+- U.S.
+- White House
+people:
+- Donald Trump
+- Harry Enten
+- Jacob Coxon
+- Jacques Cousteau
+- Jesus
+organisations:
+- AI
+- AI,” Enten
+- CNN
+- Democratic Party
+- Nvidia
+- Politico
+- Radical Left Dumocrats
+- Trump
+- Truth Social
+- Truth Social Monday
+- University of Massachusetts Amherst
 ---
 
 A new poll has shown just how much Americans loathe the way President Donald Trump is handling artificial intelligence.

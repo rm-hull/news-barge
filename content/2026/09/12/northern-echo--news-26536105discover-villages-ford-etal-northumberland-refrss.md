@@ -16,6 +16,39 @@ categories:
 - Travel
 - Arts & Culture
 - History
+locations:
+- Bamburgh
+- Black Bull
+- Border
+- CAMERA CLUB
+- Cheviot Hills
+- County Durham
+- England
+- Etal Castle
+- Ford Village
+- Harry Little
+- Heatherslaw Light Railway
+- Holy Island
+- Lady Waterford Hall
+- Northumberland
+- River Till
+- Scotland
+people:
+- Harry Little
+- Heatherslaw
+- James IV
+- Lady Waterford
+- Louisa
+- Marchioness
+- Robert Manners
+organisations:
+- English Heritage
+- Etal
+- Ford Castle
+- Ford Moss Nature Reserve
+- Heatherslaw
+- River Wear
+- Visit Northumberland
 ---
 
 Northumberland is packed with villages boasting spectacular views and ancient buildings.

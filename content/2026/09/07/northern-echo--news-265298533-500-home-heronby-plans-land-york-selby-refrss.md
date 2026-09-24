@@ -13,6 +13,28 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Escrick
+- Heronby
+- North Yorkshire
+- Richmond
+- Selby
+- Vale of York
+people:
+- Beilby Forbes Adam
+- Forbes Adam
+- Generation Limbo’
+- Heronby
+- John Cattanach
+- Selby
+- Steve Shaw-Wright
+organisations:
+- A19
+- Cawood and Escrick
+- Environmental Impact Assessment
+- Escrick Park Estate
+- Heronby
+- North Yorkshire Council
 ---
 
 Fresh plans are being developed for a new community of around 3,500 homes between York and Selby.

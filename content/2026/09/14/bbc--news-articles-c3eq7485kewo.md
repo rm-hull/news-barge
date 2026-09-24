@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- America
+- California
+- Illinois
+- Indiana
+- Jacksonville
+- Los Angeles
+- Muncie
+- New York
+- Oregan
+- Oregon
+- Portland Brianna
+- San Diego
+- US
+people:
+- Brianna Beyrouti
+- Elena Chrysostomou
+- Muncie Brianna
+organisations:
+- JREDC
+- Jacksonville Regional Economic Development Corporation
+- MakeMyMove
+- National Association of Realtors
 ---
 
 ![Brianna Beyrouti](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg)

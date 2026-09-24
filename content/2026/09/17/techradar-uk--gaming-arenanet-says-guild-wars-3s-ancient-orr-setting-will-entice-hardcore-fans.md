@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Video Gaming
 - Sports
+locations:
+- Gamescom
+- Orr
+people:
+- ArenaNet
+- Colin Johanson
+- Orr
+organisations:
+- ArenaNet
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Google News
+- Guild Wars
+- NME
+- Orr
+- TechRadar
+- Veil Warden
 ---
 
 ![Guild Wars 3](https://cdn.mos.cms.futurecdn.net/ctP3uGQiRmUjGGNvMydU2M.jpg) 

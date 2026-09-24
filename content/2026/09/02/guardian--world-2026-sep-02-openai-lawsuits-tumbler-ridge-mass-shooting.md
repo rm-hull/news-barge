@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- British Columbia
+- California
+- Canada
+- Florida
+- Tumbler Ridge
+people:
+- Bill Clinton
+- Chris Lehane
+- David Eby
+- Jason Kwon
+- Jay Edelson
+- Jesse Van Rootselaar
+- OpenAI
+- Sam Altman
+- Van Rootselaar
+organisations:
+- ChatGPT
+- Florida State University
+- OpenAI
 ---
 
 OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.

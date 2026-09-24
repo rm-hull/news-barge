@@ -14,6 +14,36 @@ categories:
 - UK
 - Society & Culture
 - Family & Parenting
+locations:
+- America
+- California
+- Kansas City
+- U.S.
+- US
+- White House
+- Wisconsin
+people:
+- Anna Stubblefield
+- Donald Trump
+- Harmeet Dhillon
+- Jimmy
+- Laura Ingraham
+- Todd Blanche
+organisations:
+- DOJ
+- Defending Education
+- FERPA
+- Fox News
+- Justice Department
+- KSHB 41
+- Kansas Public Schools
+- PPRA
+- Pew Research Center
+- Protection of Pupil Rights Amendment
+- Supreme Court
+- The Independent
+- UCLA School of Law
+- Williams Institute
 ---
 
 Attorney General Todd Blanche condemned what he called a “pandemic” of “secret” gender transitions in U.S. schools.

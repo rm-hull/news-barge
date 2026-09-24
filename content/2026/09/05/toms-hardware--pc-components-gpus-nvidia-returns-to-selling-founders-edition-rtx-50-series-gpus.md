@@ -13,6 +13,35 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Austin
+- QuakeCon
+- Seattle
+- Texas
+- U.S.
+- Washington
+people:
+- Jacob Freeman
+- Tom
+organisations:
+- AMD
+- Blackwell
+- DLSS
+- GPU
+- GPUs
+- GeForce
+- Get Tom's Hardware
+- Google News
+- Lenovo
+- NBA
+- Nvidia
+- RTX
+- Radeon
+- Razer
+- Seattle Convention Center
+- Starforge Systems
+- Tom’s Hardware
+- VPA IRL
 ---
 
 ![GPU prices for current-gen Nvidia and AMD](https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5.jpg) 

@@ -12,6 +12,18 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cf3/live/9400d2
 categories:
 - UK
 - News & Politics
+locations:
+- Mexico
+- Michigan
+- UK
+- US
+people: []
+organisations:
+- CDC
+- Centers for Disease Control and Prevention
+- DC
+- Taco Bell
+- Taylor Farms
 ---
 
 ![A row of green lettuces sits on a shelf](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0cf3/live/9400d280-ae4e-11f1-9561-17f4d4326a2b.jpg)

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Berlin
+- Gaza
+- Germany
+- Israel
+- Nicaragua
+- South Africa
+- United States
+people:
+- Carlos José Argüello Gómez
+- Julia Monar
+organisations:
+- Hamas
+- International Court of Justice
+- United Nations’
 ---
 
 Nicaragua told the United Nations’ top court on Tuesday that Germany has breached the Genocide Convention by selling Israel weapons that were used in the country's war in Gaza.

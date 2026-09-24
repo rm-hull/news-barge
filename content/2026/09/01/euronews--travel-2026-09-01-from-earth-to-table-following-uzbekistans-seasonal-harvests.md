@@ -13,6 +13,24 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Europe
+- Jizzakh
+- Kishmish
+- Parkent
+- Surkhandarya
+- Tashkent
+- Uzbekistan
+people:
+- Alisher Azimov
+- Bobomurod Mirsaliddinov
+- Iskandar Urmonov
+- Suhrob Akabirov
+- Yusuf Meliboyev
+organisations:
+- Fuji
+- Rizamat
+- Tayfi
 ---
 
 ## Vineyards, melon fields, orchards and almond farms highlight how each season brings different harvests, local traditions and rural experiences for visitors exploring Uzbekistan.

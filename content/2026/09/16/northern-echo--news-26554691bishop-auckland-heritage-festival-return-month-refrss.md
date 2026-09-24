@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bishop Auckland
+- Bishop Auckland Marketplace
+- County Durham
+- North East
+- Raby Castle
+- UK
+people:
+- Anne Allen
+- John Phelan
+- Sarah Harris
+- Tom Hutchinson
+organisations:
+- 100 Pictures
+- Artists Hub
+- Auckland Palace
+- Auckland Town Council
+- Bishop Auckland Heritage Fayre
+- Bishop Auckland Town Council
+- County Durham Forum for History and Heritage
+- Durham Cathedral
+- Northern Bygone Society
+- Spanish Gallery
 ---
 
 *(Image: SUPPLIED)*

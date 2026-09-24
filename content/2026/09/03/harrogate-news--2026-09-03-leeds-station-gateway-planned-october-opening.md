@@ -12,6 +12,22 @@ categories:
 - Local
 - Harrogate
 - Travel
+locations:
+- Bishopgate Street
+- Leeds City Station
+- Network Rail
+- New Station Street
+- Princes Square
+people:
+- Balfour Beatty
+- James Lewis
+organisations:
+- Combined Authority
+- Leeds City Council
+- Leeds Station Sustainable Travel Gateway
+- Network Rail
+- Transforming Cities Fund
+- West Yorkshire Combined Authority
 ---
 
 The Leeds Station Sustainable Travel Gateway is expected to begin opening in October.

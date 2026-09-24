@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Home, Garden & DIY
+locations:
+- North Yorkshire
+- North Yorkshire Barratt
+- UK
+people:
+- Barratt Redrow
+- David Wilson Homes
+- Jo Ainsley
+organisations:
+- Barratt Redrow
+- David Wilson Homes
+- David Wilson Homes North East
+- Manthorpe
+- RSPB
 ---
 
 ## Thousands of special bricks to give threatened bird homes in North Yorkshire

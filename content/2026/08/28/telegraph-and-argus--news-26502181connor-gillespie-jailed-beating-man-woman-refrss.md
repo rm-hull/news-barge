@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bridge Street
+- Halifax
+- Huddersfield
+- Slaithwaite
+people:
+- '## Woman'
+- Benjamin Bell
+- Colin Burn
+- Connor Gillespie
+- David Hall
+- Jack Daniel
+organisations:
+- Bradford Crown Court
+- GBH
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

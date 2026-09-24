@@ -10,6 +10,30 @@ image: https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- ANKLE
+- BERTH
+- DELTA
+- EXILE
+- LITHE
+- North London
+- Quordle
+- TITAN
+people:
+- '## Quordle'
+- Elton John
+- Fred
+- Johnny
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+organisations:
+- Channel 5
+- NEIGH
+- NYT Strands
+- Pop Detective
 ---
 
 ![Quordle on a smartphone held in a hand](https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL.jpg) 

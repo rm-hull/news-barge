@@ -14,6 +14,40 @@ categories:
 - UK
 - Automotive
 - Technology & Software
+locations:
+- Australia
+- Beijing
+- China
+- Detroit
+- Europe
+- Germany
+- Mexico
+- Michigan
+- Motor City
+- South America
+- Southeast Asia
+- U.S.
+- Washington
+people:
+- Debbie Dingell
+- Donald Trump
+- Joe Biden
+- John Bozzella
+- John Moolenaar
+- Lin Jian
+- Scott Bessent
+- Xi Jinping
+organisations:
+- 119th Congress
+- Alliance for Automotive Innovation
+- Chinese Communist Party
+- Foreign Ministry
+- G20
+- House of Representatives
+- Mercedes-Benz
+- Oval Office
+- Senate Commerce, Science and Transportation Committee
+- Treasury
 ---
 
 One of the U.S.’s most powerful auto industry lobby groups has written to Congress calling for a ban on Chinese vehicles from America’s roads.

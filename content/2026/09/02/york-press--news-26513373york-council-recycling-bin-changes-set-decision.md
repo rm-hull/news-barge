@@ -13,6 +13,18 @@ categories:
 - York
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- York York
+- __York
+people:
+- Cllr Kent
+- Green
+- Ian Hoult
+- Jenny Kent
+organisations:
+- City of York Council
+- City of York Council)* Council
+- Labour
 ---
 
 ## When recycling boxes could be ditched for wheelie bins in York

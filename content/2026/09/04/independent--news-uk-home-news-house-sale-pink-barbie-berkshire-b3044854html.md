@@ -13,6 +13,17 @@ categories:
 - UK
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Berkshire
+- Blackwater
+- Camberley
+- Crowthorne
+- M3
+- Sandhurst
+people:
+- Ken
+organisations:
+- Yopa
 ---
 
 A five-bedroom house on a quiet street in Berkshire is up for sale, with the buyer having the chance to live out their bubblegum-pink fantasy.

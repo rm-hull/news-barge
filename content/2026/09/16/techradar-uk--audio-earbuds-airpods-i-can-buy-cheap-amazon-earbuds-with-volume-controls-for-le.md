@@ -10,6 +10,17 @@ description: It’s the $700 Mac Pro wheels all over again
 image: https://cdn.mos.cms.futurecdn.net/8mCK7x9BaxJ66wEpn688K4-980-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+people:
+- Axel Metz
+- Matt Evans
+organisations:
+- AirPods
+- Apple
+- Google News
+- Hamish
+- TechRadar
 ---
 
 ![The AirPods 5](https://cdn.mos.cms.futurecdn.net/8mCK7x9BaxJ66wEpn688K4.jpg) 

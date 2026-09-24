@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png
+locations:
+- Afghanistan
+- Faryab
+- Italy
+- Japan
+- Los Angeles
+- Nagoya
+- Paris
+- Shinshiro
+people:
+- Alessandra Cappellotto
+- Fariba Hashimi
+- Yulduz
+organisations:
+- Reuters.
 ---
 
 ![Fariba Hashimi pretends to bite her medal after winning the Aichi-Nagoya Asian Games women's cycling road race silver in Shinshiro, as she stands between two Afghanistan fellow riders](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png)

@@ -10,6 +10,19 @@ description: Ugreen's cute robot 100W four-port GaN charger scored 5 stars in ou
 image: https://cdn.mos.cms.futurecdn.net/kJSpddWBGGswWTrKkFrk4S-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Amazon
+- UK
+people:
+- Harry
+- Wayne Williams
+organisations:
+- Amazon
+- PC
+- TechRadar Pro
+- Ugreen
+- Uno
+- Wayne Williams
 ---
 
 ![UGreen Uno Charger 100W plugged in with blushing emoji on display](https://cdn.mos.cms.futurecdn.net/kJSpddWBGGswWTrKkFrk4S.jpg) 

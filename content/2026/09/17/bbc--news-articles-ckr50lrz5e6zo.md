@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 - Music
+locations:
+- Canterbury
+- Lambeth Palace
+- London.
+- Pakistan
+- US
+people:
+- Bin Laden
+- Hafiz Muhammad Tahir Mehmood Ashrafi
+- Hon Dame
+- Imam Ashrafi
+- Osama Bin Laden.
+- Rimsha Masih
+- Salman Rushdie
+- Sarah Mullally
+organisations:
+- BBC
+- Human Rights Watch
+- Lambeth Palace
+- The Hubert Walter Award for Reconciliation and Interfaith Cooperation
+- The Most Revd
 ---
 
 ![Handout photo sued by Lambeth Palace of Hafiz Muhammad Tahir Mehmood Ashrafi and his wife being presented with The Hubert Walter Award for Reconciliation and Interfaith Cooperation by The Most Revd and Rt Hon Dame Sarah Mullally, Archbishop of Canterbury for his outstanding work as an ambassador of interfaith harmony in Pakistan at The Lambeth Awards 2026 held at Lambeth Palace, London.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d685/live/90c8b8c0-b2be-11f1-bc1f-3f186ca4140c.jpg)

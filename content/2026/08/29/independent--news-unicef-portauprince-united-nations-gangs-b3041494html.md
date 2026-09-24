@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Haiti
+- Kenscoff
+- Port-au-Prince
+people:
+- Izo
+- Kenscoff
+- Yannig Dussart
+organisations:
+- UNICEF
+- United Nations
 ---
 
 Six children and seven women were released by a gang in Haiti that had kidnapped more than 50 people after launching a deadly attack on a community near the capital, Port-au-Prince, nearly a week ago, according to UNICEF.

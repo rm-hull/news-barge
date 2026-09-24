@@ -17,6 +17,34 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - History
+locations:
+- Dock End
+- Market Place
+- New Quay Road
+- North Yorkshire
+- Old Town
+- Old Town Hall
+- Whitby
+people:
+- Coun Mark Crane
+- Coun Neil Swannick
+- Coun Phil Trumper
+- Coun Trumper
+- Coun Wild
+- Gary Jamieson
+- Linda Wild
+- Ross Powdrell
+organisations:
+- Align
+- Government’s Towns Fund
+- North Yorkshire Council
+- Old Town Hall
+- Town Hall
+- Whitby Market
+- Whitby Old Town Hall
+- Whitby Streonshalh
+- Whitby Town
+- Whitby West division
 ---
 
 # 'Unlike any other’ - Traders return to historic Yorkshire market after £1.3m restoration

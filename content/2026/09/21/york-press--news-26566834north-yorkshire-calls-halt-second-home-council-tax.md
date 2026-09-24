@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/9412491.jpg?type=og-image
+locations:
+- Malton
+- York
+people:
+- Frank Dwyer
+- Lesley Tate
+organisations:
+- Executive
+- North Yorkshire Council
+- SHOUT
+- Second Homeowners Opposed to Unfair Taxation
+- Thirsk
 ---
 
 ## Petition growing as calls to halt second home council tax intensify

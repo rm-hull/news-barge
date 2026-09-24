@@ -14,6 +14,34 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Boundary Mill
+- Colne
+- East Lancashire
+- Leeds
+- Malham
+- Pennines
+- Skipton
+- West Yorkshire
+- Yorkshire Dales
+people:
+- George Boulter
+- Julian Smith
+- Lesley Tate
+- Nick Tennant
+organisations:
+- Craven College
+- East Lancashire
+- Ermysted's Grammar School
+- Gargrave Parish Council
+- LCCA
+- Lancashire Combined Authority
+- Lesley Tate
+- Nottingham University
+- Pendle
+- SELRAP
+- Skipton East Lancashire Rail Action Partnership
+- Skipton-Colne
 ---
 
 A PETITION calling for the reinstatement of the Skipton to Colne railway line is to be launched in October, heard a meeting of Gargrave Parish Council.

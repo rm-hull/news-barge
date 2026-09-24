@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Bharatpur
+- Chitwan
+- Devighat
+- Kathmandu
+- Nepal
+- Tibet
+- Trishuli River
+people:
+- Amabadutta Bhatta
+- Amrit Bahadur Rai
+- Jamuna Magar
+- Usha Nepali
+organisations: []
 ---
 
 The bodies continue to wash up. But the morgues have already run out of room.

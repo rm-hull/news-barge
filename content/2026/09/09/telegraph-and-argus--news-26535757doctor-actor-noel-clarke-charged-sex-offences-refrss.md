@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Film & TV
+locations:
+- Westminster Magistrates’ Court
+people:
+- '## Noel Clarke'
+- Aaron Chown
+- Bethan David
+- Mike Cagney
+- Noel Clarke
+- PA Wire
+organisations:
+- CPS London
+- Crown Prosecution Service
+- Metropolitan Police
 ---
 
 *(Image: Aaron Chown/PA Wire)*

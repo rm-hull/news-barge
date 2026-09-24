@@ -15,6 +15,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- '**York'
+- York
+people:
+- Sons
+- Vicky Moss
+- William Birch
+organisations:
+- Group of Companies'
+- Pic
+- William Birch
+- William Birch & Sons
+- York Local Plan
 ---
 
 *(Image: Pic supplied)*

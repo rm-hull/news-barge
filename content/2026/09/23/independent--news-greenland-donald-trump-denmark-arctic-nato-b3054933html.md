@@ -13,6 +13,22 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/11/Trump_48634.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Greenland
+- Kingdom of Denmark
+- Mestersvig
+- Narsarsuaq
+- New York
+- Pituffik Space Base
+- U.S.
+- United States
+- Washington
+people:
+- Donald Trump
+organisations:
+- Golden Dome
+- NATO
+- Non-NATO
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

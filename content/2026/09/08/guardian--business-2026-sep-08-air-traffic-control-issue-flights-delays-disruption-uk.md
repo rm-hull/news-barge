@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Belfast
+- Birmingham
+- Britain
+- Edinburgh
+- England
+- Europe
+- Heathrow
+- London Gatwick
+- Manchester
+- UK
+people:
+- Heidi Alexander
+- Martin Rolfe
+- Neal McMahon
+organisations:
+- ATC
+- British Airways
+- Eurocontrol
+- Eurowings
+- FlightRadar24
+- KLM
+- Nats
+- Nats’
+- Ryanair
+- Wizz Air
+- easyJet
 ---
 
 Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday.

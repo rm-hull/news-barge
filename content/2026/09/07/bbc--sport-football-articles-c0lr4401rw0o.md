@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Slovenia
+people:
+- Benjamin Sesko
+- Danny Murphy
+- Hotspur.
+- Howard Webb
+- Neco Williams
+- Neco Williams'
+- Oliver Glasner
+- Peter Bankes
+- Stuart Attwell
+organisations:
+- BBC Sport
+- Liverpool
+- Manchester United
+- Neco Williams
+- Nottingham Forest
+- PGMO
+- Premier League
+- Pro Ref
+- Professional Game Match Officials
+- Sky Sports
+- VAR
+- VARs
 ---
 
 New camera angle shows the ball hitting Williams' arm in the lead-up to disallowed goal

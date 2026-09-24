@@ -11,6 +11,101 @@ image: https://cdn.mos.cms.futurecdn.net/NgNSUPeMXnUvtfNe3uTU2W-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Atlantic
+- Australia
+- Baltimore
+- Canada
+- FNB Stadium
+- Johannesburg
+- NZ
+- NZST
+- New Zealand
+- South Africa
+- South Africa.
+- UK
+- US
+- onThreeNowin New Zealand
+- uk
+people:
+- Andre Esterhuizen
+- Anton Lienert-Brown
+- Ardie Savea
+- Asafo Aumua
+- Beauden Barrett
+- Cam Roigard
+- Cameron Hanekom
+- Cheslin Kolbe
+- Cobus Reinach
+- Codie Taylor
+- Damian McKenzie
+- Damian Willemse
+- Damian de Allende
+- Dave Rennie
+- Deon Fourie
+- Eben Etzebeth
+- Ethan Blackadder
+- Ethan Hooker
+- Ethan de Groot
+- Fabian Holland
+- Fletcher Newell
+- Gerhard Steenekamp
+- Hooker Codie Taylor
+- James Roberts
+- Jasper Wiese
+- Jesse Kriel
+- Jordie Barrett
+- Josh Lord
+- Josh Moorby
+- Kurt-Lee Arendse
+- Kyle Preston
+- Lood de Jager
+- Luke Jacobson
+- Malcolm Marx
+- Manie Libbok
+- Morne van den Berg
+- Ox Nche
+- Patrick Tuipulotu
+- Peter Lakai
+- Pieter-Steph du Toit
+- Quinn Tupaea
+- Richie Mo'unga
+- Rieko Ioane
+- Ruan Nortje
+- Sacha Feinberg-Mngomezulu
+- Sam Darry
+- Siya Kolisi
+- Thomas du Toit
+- Tupou Vaa'i
+- Tyrel Lomax
+- Wallace Sititi
+- Wilco Louw
+- Will Jordan
+- Xavier Numia
+organisations:
+- 7am AEST
+- 9am NZST
+- All Blacks
+- Boks
+- FourFourTwo
+- Future Publishing
+- M&T Bank Stadium
+- NOW Sports
+- New Zealand 4th Test onSky Sport NZ
+- NordVPN
+- Oxford Mail
+- Oxford United
+- Paramount
+- Rassie Erasmus'
+- Rugby
+- RugbyPass TV
+- Sky Sport
+- Sky Sports
+- Sky Sports Action.Sky Sports
+- South Africa
+- Springboks
+- SuperSport
+- XV
 ---
 
 ![New Zealand's number eight Ardie Savea scores a try in the third Rugby's Greatest Rivalry international rugby union match against South Africa at the FNB Stadium in Johannesburg, on September 5, 2026](https://cdn.mos.cms.futurecdn.net/NgNSUPeMXnUvtfNe3uTU2W.jpg) 

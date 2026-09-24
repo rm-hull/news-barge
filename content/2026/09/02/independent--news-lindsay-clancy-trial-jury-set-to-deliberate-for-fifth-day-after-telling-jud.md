@@ -15,6 +15,12 @@ categories:
 - UK
 - True Crime
 - Law & Justice
+locations: []
+people:
+- Clancy
+- Kevin Reddington
+- William Sullivan
+organisations: []
 ---
 
 Jurors in the Lindsay Clancy murder trial were set to resume deliberations Wednesday, a day after telling the judge they couldn’t agree on whether she was criminally responsible for killing her three children.

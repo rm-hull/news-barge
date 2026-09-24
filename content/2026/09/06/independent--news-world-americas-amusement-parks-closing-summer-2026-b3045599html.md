@@ -13,6 +13,33 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- California
+- Califronia
+- Colton
+- Dixieland Fun Park
+- Fayetteville
+- Federal Way
+- Fiesta Village
+- Florida
+- Fun Spot America
+- Georgia
+- Kissimmee
+- Orlando
+- Washington
+- Wild Waves
+people:
+- John Arie
+- Keaira Stanley
+- Wes Petree
+organisations:
+- Fiesta Fun Park
+- Fun Junction USA
+- KIRO
+- Oklahoma-based Premier Parks
+- WSB-TV
+- Wild Waves
+- Wild Waves Theme & Water Park
 ---
 
 For many Americans, Labor Day weekend signifies the start of a new school year — and sadly, the end of summer fun.

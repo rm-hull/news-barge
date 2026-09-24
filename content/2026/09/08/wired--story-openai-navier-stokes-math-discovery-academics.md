@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations: []
+people:
+- Claude
+- Euler
+- Levent Alpöge
+- Mark Chen
+- Navier-Stokes
+- Sam Altman
+- Sebastien Bubeck
+- Tristan Buckmaster
+- Ven Chandrasekaran
+organisations:
+- AI
+- Anthropic
+- NYU
+- OpenAI
+- WIRED
 ---
 
 OpenAI said today that it has found an AI-generated solution to one of the biggest problems in mathematics—a 200-year-old equation that describes the natural behavior of fluids like water and air.

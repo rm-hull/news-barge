@@ -14,6 +14,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Shopping & Deals
+locations:
+- England
+- Europe
+- Great Britain
+- Middle East
+- Northern Ireland
+- Scotland
+- Sheffield
+- UK
+- Wales
+people:
+- Dan Coatsworth
+- George Weston
+organisations:
+- ABF
+- AJ Bell
+- Associated British Foods
+- Debenhams Group
+- Hovis
+- Jordans
+- Kingsmill
+- Patak’s
+- Primark
+- Twining
+- Twinings
 ---
 
 Primark is set to launch home delivery in the UK in a bid to bolster the retailer’s online offering.

@@ -13,6 +13,20 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Age UK York
+- River Ouse
+- UK York
+people:
+- Simon Holmes
+- York
+organisations:
+- Age UK York
+- Age UK York and York Older People’s Assembly
+- Borthwick Institute
+- City Cruises
+- YOPA
+- York Older People
 ---
 
 A festival celebrating age, joy and connection will return to York this autumn.

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Australia
+- Beijing
+- Britain
+- Canada
+- China
+- Gyirong
+- India
+- Labi
+- Nepal
+- Nepal-Tibet
+- Serchung
+- Taipei
+- Tibet
+- US
+people:
+- Guo Jiakun
+- Hu Xijin
+- Maya Wang
+- Tencho Gyatso
+- Yu-chen Li
+- Zhang
+- Zhou
+organisations:
+- Global Times
+- Guardian
+- Human Rights Watch
+- International Campaign for Tibet
+- Tibet Daily
 ---
 
 A Tibetan advocacy group says hundreds of homes were destroyed on the Tibetan side of the border in last week’s deadly floods, raising questions about Beijing’s official account of the scale of the disaster.

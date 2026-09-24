@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations: []
+people:
+- Andy Burnham
+- Bill
+- Kim Leadbeater
+- Lauren Edwards
+organisations:
+- End of Life
+- House of Commons
+- Ipsos
+- Labour
+- NHS
+- Press Association
+- Terminally Ill Adults
 ---
 
 Six in 10 people support the return of the assisted dying bill to parliament, according to new polling.

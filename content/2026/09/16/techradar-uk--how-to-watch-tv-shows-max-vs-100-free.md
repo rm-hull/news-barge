@@ -12,6 +12,164 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- Australia
+- Canada
+- Madrid
+- Madring
+- Mars
+- Netherlands
+- Pieface23
+- Pitlane
+- QueenB
+- Silverstone
+- Spain
+- UK
+- US
+- USA
+- uk
+people:
+- Adam Powell
+- Aidan Heslop
+- Amar Al Naimi
+- Amber Gill
+- André da Silva Montoito
+- Arda Saatci
+- Austin Sprinz
+- Bachala Mbunzama
+- Bea Eguiraun
+- Bella James
+- Billy Bolt
+- Brian Manuel Otero
+- Charles Andre Alexandre
+- Chris Matthews
+- Daniel Ahola
+- Daniel Moss
+- Dave Rosenburg
+- David Canovas
+- David Egan
+- David Terrien
+- Developer Adam
+- Diogo
+- Donato Jose Munoz Calabrese
+- Emily Xuechun Zhang
+- Emmanuel David Brown
+- Enis Kirazoglu
+- Gabs Djay
+- Greg Gevojanyan
+- Henry Robert Williams
+- Ilija Ravlic
+- Jack McDermott
+- Jacopo D'Alesio
+- James Doyle
+- James Roberts
+- Jan Liska
+- Janja Garnbret
+- Joe Tasker
+- John-Marc van Wyk
+- Jojo Sim
+- Jonathan Amaral
+- Jonathan Balchin
+- Jonathan Gaming
+- Joseph Brophy
+- Joseph Eunbo Sim
+- Josh Richards
+- Juank Perez
+- Julia Haller
+- Kalia Lai
+- Karol Zdeba
+- Larry Chen
+- Leo Neugebauer
+- Leticia Bufoni
+- Manny
+- Marc Lamont
+- Mateus dos Santos Machado Almeida
+- Matt Jones
+- Max Verstappen
+- Melanie Buffetaud
+- Mike Dokas
+- Mind
+- Mo Gilligan
+- Molly Carlson
+- Molly Marsh
+- Nate Saunders
+- Nathan Lust
+- Nieve Petruzziello
+- Niklaus Manuel Hirschi
+- Norbert Osbath
+- Nuri Amiraslan
+- Pablo Jimenez
+- Patrick Tremolada
+- Pol Tarres
+- Qucee
+- Rebecca Evans
+- Roberts Vitols
+- Romell Henry
+- Sarah Lezito
+- Shreeman Legend
+- Siddhant Praveen Joshi
+- Simon de Montfort Walker
+- Steven Javier Santos del Rosario
+- Tansel Celia
+- Taylor Serage
+- Timothe Rangstrom
+- Timothy Kwang Suk An
+- Tommo McCluskey
+- Tyrique Hyde
+- Ujjwal Chaurasia
+- Yau Hawk Sau
+- YouTuber TheDonato
+- Zac Alsop
+- Zhang Jing
+- Øyvind Ludwig Iversen
+organisations:
+- AustrianKiwi
+- Bash The Entertainer
+- Caedrel
+- Daily Mail
+- Dantic
+- Disney
+- Drift Games
+- Dyler
+- ESPN Unlimited
+- ESPN2
+- ExtraEmily
+- F1
+- FourFourTwo
+- Fresia Aria
+- Future Publishing
+- Gabs Djanogly
+- GoKartGod
+- Helydia
+- Jakidale
+- Love Island UK
+- MrCarSounds
+- Neo Yau
+- NordVPN
+- NordVPN**
+- Nugato
+- Oracle Red Bull Racing
+- Oxford Mail
+- Oxford United
+- Pableke
+- Paky TWC
+- Pamkutya Bela
+- RDJavi
+- Red Bull
+- Shredded Fox
+- Si Hyun Park
+- Sporttouchen
+- Stuntpegg
+- Supercar Blondie
+- TGFBro
+- TechRadar
+- Tettrem
+- TheDonato
+- TheGrefg
+- Vale Sulca
+- Wirtual
+- nnnurdaylet
+- talkSPORT
 ---
 
 ![Max Verstappen of the Netherlands and Oracle Red Bull Racing looks on in the Pitlane during previews ahead of the F1 Grand Prix of Spain at Madring on September 10, 2026 in Madrid, Spain](https://cdn.mos.cms.futurecdn.net/53H5FNd8WL6uixQ26x5Zfg.jpg) 

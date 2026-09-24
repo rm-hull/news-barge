@@ -12,6 +12,15 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Daisy Street
+- Great Horton
+- West Yorkshire
+people:
+- Pixabay
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

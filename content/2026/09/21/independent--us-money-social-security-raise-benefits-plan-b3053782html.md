@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/02/13/32/GettyImages-1346574062.jpeg?trim=0,37,0,37&width=1200&height=800&crop=1200:800
+locations:
+- Vermont
+people:
+- Bernie Bump
+- Bernie Sanders
+- Sanders’
+organisations:
+- COLA
+- Congress
+- Credit Karma
+- Social Security
+- Social Security Disability Insurance
 ---
 
 Millions of Social Security recipients could get an extra $200 a month under a proposal backed by Senator Bernie Sanders.

@@ -10,6 +10,20 @@ description: This candybar-shaped workstation hides a full NAS server and a seri
 image: https://cdn.mos.cms.futurecdn.net/LeRkdgSaKf7NcFkAkdT6NF-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- PCMark
+- USB4
+people: []
+organisations:
+- CPU
+- Efosa
+- GPU
+- Google News
+- MNAS-X1
+- Morefine
+- TechRadar Pro
+- Via HKEPC Hardware
+- XDNA NPU
 ---
 
 ![Morefine MNAS-X1 NAS](https://cdn.mos.cms.futurecdn.net/LeRkdgSaKf7NcFkAkdT6NF.jpg) 

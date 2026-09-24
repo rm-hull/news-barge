@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Cambridge
+- London
+- St Andrews
+- UK
+people:
+- Dame Sally Mapstone
+- Helen Davies
+- Zoe Thomas
+organisations:
+- Cambridge
+- Imperial College London
+- LSE
+- London School of Economics and Political Science
+- Ms Thomas
+- Oxbridge
+- Oxford
+- St Andrews
+- The Sunday Times
+- The Sunday Times Good University Guide
+- The Times
+- University of St Andrews
+- University of the Year 2027
 ---
 
 The University of St Andrews has claimed the top spot in *The Times* and*The Sunday Times* Good University Guide 2027.

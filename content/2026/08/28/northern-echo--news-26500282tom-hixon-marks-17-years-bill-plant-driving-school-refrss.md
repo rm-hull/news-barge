@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Canalside House
+- County Durham
+- Darlington
+- Ripon
+- UK
+people:
+- Roy Danby
+- Tom Hixon
+organisations:
+- BTEC
+- Bill Plant Driving School
+- Cleveland Police
+- KFC
+- PDI
+- Volkswagen
 ---
 
 A teenager who started work at a driving school 17 years ago now leads a key department at the company.

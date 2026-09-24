@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Alps
+- Leukerbad
+- Rhône Valley
+- Sion
+- Switzerland
+- Valais
+people:
+- Elizabeth II
+- Sarah Cooper-Lesadd
+organisations:
+- FCDO
+- Foreign, Commonwealth and Development Office
+- Office of the Attorney General
+- Swiss Transportation Safety Board
+- Valais Police
+- Valais Rescue Organisation
 ---
 
 ![Helicopter tail in foreground with rising smoke in the distance and emergency crews seen high in the Alps overlooking a mountain range](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b2bc/live/1bb49480-b216-11f1-8117-470b3119e06f.jpg)

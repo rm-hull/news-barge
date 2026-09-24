@@ -12,6 +12,54 @@ image: https://cdn.mos.cms.futurecdn.net/yDmoLcV9TAZznXPKF4kBVW-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- AUS
+- Abu Dhabi
+- Argentina
+- Australia
+- Buenos Aires.
+- Japan
+- Jose Amalfitani
+- London
+- NZ
+- New Zealand
+- San Salvador de Jujuy
+- South Africa
+- Sydney
+- UK
+- US
+- uk
+people:
+- Adrian Back
+- Boan Venter
+- Joseph-Aukuso Suaalii
+- Len Ikitau
+- Les Kiss
+- Matías Moroni
+- Tomas Rapetti
+organisations:
+- AU
+- All Blacks
+- Argentina
+- Australia
+- Black Ferns
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Los Pumas
+- NBA
+- Newsweek
+- Red Bull
+- Rugby Union
+- RugbyPass TV
+- Sky Sport Now
+- Sky Sports
+- Stan Sport
+- Super Rugby
+- TechRadar
+- Wallabies
+- World Soccer Magazine
+- Yahoo
 ---
 
 ![Argentina's prop Tomas Rapetti is tackled by South Africa's Boan Venter during the Rugby Union one-off test match between Argentina and South Africa at the Jose Amalfitani stadium in Buenos Aires.](https://cdn.mos.cms.futurecdn.net/yDmoLcV9TAZznXPKF4kBVW.jpg) 

@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Video Gaming
+locations:
+- Ravenloft
+people:
+- '**Guay'
+- Darkon
+- Dominic Guay
+organisations:
+- Demi Williams
+- Dungeons & Dragons
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Invoke Studios
+- NME
+- PS5
+- TTRPG
+- TechRadar Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/4t9mHZ2DZq7ZqJMPidyyHj.jpg) 

@@ -12,6 +12,12 @@ image: https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- Dara Khosrowshahi
+organisations:
+- Bloomberg
+- Uber
 ---
 
 Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to cut management layers and invest more in its ride-sharing, delivery and robotaxi divisions. The company announced the changes in an internal email sent by CEO Dara Khosrowshahi and published online Wednesday.

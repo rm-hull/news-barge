@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Louisiana
+- Pennsylvania
+- US
+people:
+- Bill Cassidy
+- Chris Klomp
+- Donald Trump
+- Nicole Saphier
+- Robert F Kennedy Jr
+- Timothy Westlake
+organisations:
+- Autism and Vaccines
+- CDC
+- Centers for Disease Control and Prevention
+- Fox News
+- MMR
+- Senate
+- Substance Abuse and Mental Health Services Administration
+- Trump
 ---
 
 Senator Bill Cassidy, the Republican chairman of the US Senate health committee, blamed the Trump administration’s vaccine-skeptical approach for recent measles deaths in Pennsylvania and challenged Donald Trump’s pick for surgeon general to directly state that vaccines do not cause autism on Wednesday.

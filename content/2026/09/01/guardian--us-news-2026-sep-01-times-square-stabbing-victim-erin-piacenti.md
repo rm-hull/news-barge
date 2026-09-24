@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Manhattan
+- New York City
+- One Bryant Park
+- Seventh Avenue
+- Times Square
+- US
+- West 42nd Street
+people:
+- Erin Piacenti
+- Fordham Law
+- Frank
+- Jessica Tisch
+- Matthew Koder
+- Pamela Cisneros
+organisations:
+- Associated Press
+- Bank of America
+- Business Selection and Conflicts team
+- Fordham Law School
+- LinkedIn
+- NYPD
+- Reuters
 ---
 
 A corporate vice-president at Bank of America was killed in a stabbing in New York City’s Times Square, the second-biggest US lending bank said on Tuesday about a random incident that took place in broad daylight in the bustling heart of Manhattan.

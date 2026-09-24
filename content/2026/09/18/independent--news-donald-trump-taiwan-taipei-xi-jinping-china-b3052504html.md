@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Beijing
+- China
+- Pingtung
+- Taiwan
+- U.S.
+- United States
+people:
+- Donald Trump
+- Lai Ching-te
+- Xi Jinping
+organisations:
+- HIMARS
 ---
 
 Taiwan conducted military drills featuring missiles and drones on Friday ahead of the summit next week in the U.S. between President Donald Trump and China's Xi Jinping in which the fate of the self-ruled island will be discussed.

@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Sanaa
+- Yemen
+people: []
+organisations:
+- AP
 ---
 
 Photos show Houthi rallies, fighters and daily life inside Yemen.

@@ -12,6 +12,23 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Acomb
+- Lake District
+- Lincolnshire
+- Newsquest
+- RAF Waddington
+- South Ayrshire
+- Upper Poppleton
+- Walmgate
+- YORK
+people:
+- Paula Gore-Browne
+organisations:
+- Facebook
+- RAF
+- Red Arrows
+- York Press
 ---
 
 *(Image: Paula Gore-Browne / Newsquest)*

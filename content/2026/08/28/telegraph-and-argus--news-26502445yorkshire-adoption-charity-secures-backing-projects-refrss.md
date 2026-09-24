@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations:
+- North West
+people:
+- Susy White
+organisations:
+- Adoption England
+- Adoption Matters
+- Caritas Care and Regional Adoption Agency
+- Early Support Innovation Fund
+- Yorkshire Consortium
 ---
 
 *(Image: Supplied)*

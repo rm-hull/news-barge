@@ -14,6 +14,27 @@ categories:
 - York
 - Film & TV
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY5ODZiMjcyLTdhOTMtNGQ1Ny1hODFhLWVlYTA0OGQwODcyODoyZjhiMjkzZi04MzQ3LTQwODAtOTliYS0wZTdjNDNmY2UyMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Charlotte
+- Dewsbury
+- Emley
+- Great Yorkshire
+- Haworth
+- North Sea
+- Sandsend
+- West Yorkshire
+people:
+- Charlotte Bellamy
+- Jenny Makin
+- John Phillips
+- Laurel Thomas
+- Lauren Truelove
+- Regan Gerard Dickinson
+- Stephen Short
+- Tom
+organisations:
+- Red
+- Yorkshire Coast
 ---
 
 # Our Great Yorkshire Life: Emmerdale star Charlotte Bellamy revisits her favourite escape in Yorkshire fishing village on new episode of Channel 5 series

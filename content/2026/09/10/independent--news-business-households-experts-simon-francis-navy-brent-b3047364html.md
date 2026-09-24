@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- Russia
+- UK
+- US
+- Ukraine
+people:
+- Andrew Goodwin
+- Simon Cran-McGreehin
+- Simon Francis
+- Susannah Streeter
+organisations:
+- ECIU
+- End Fuel Poverty Coalition
+- Energy and Climate Intelligence Unit
+- Government
+- Navy
+- Ofgem
+- Oxford Economics
+- RAC
+- Wealth Club
 ---
 
 Experts have warned that households could be facing further pain on energy bills as oil prices surge above 100 dollars a barrel and UK gas prices reach a near four-year high.

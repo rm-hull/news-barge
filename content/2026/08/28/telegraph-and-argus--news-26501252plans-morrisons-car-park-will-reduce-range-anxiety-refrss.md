@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Technology & Software
 - Automotive
+locations:
+- Bradford
+- UK
+- YOUR
+people: []
+organisations:
+- Bradford Council
+- Enterprise 5
+- Morrisons
+- Motor Fuel Group
+- Public Notice Portal
 ---
 
 *(Image: Google)*

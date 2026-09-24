@@ -13,6 +13,15 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- North Yorkshire
+- Sutton Bank
+people:
+- Malcolm Taylor
+organisations:
+- A170
+- North Yorkshire Council
+- North Yorkshire Council Cameras
 ---
 
 *(Image: North Yorkshire Council Cameras)*

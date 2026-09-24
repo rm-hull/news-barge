@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Comedy & Entertainment
+locations:
+- America
+- Texas
+people:
+- Donald Trump
+- God
+- James Talarico
+- Jimmy Kimmel
+- Ken Paxton
+- Laura Ingraham
+- Talafreako
+- Talafreako…Becuase
+organisations:
+- ABC
+- FCC
+- Fox News’
+- Trump
+- U.S. Senate
+- US Senate
+- YouTube
 ---
 
 James Talarico, the Democratic nominee for U.S. Senate in Texas, revealed that President Donald Trump’s derisive nickname for him has become a best-selling piece of campaign merchandise.

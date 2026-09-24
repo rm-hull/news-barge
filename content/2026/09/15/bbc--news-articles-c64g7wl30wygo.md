@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Countess of Chester Hospital
+- Liverpool Town Hall
+people:
+- Alison Kelly
+- Annette Weatherly
+- Eirian Powell
+- Ian Harvey
+- Justice Thirlwall
+- Karen Rees
+- Lucy Letby
+- Ravi Jayaram
+- Tony Chambers
+organisations:
+- '## Hospital'
+- '## Letby'
+- CQC
+- Care Quality Commission
+- Countess of Chester
+- General Medical Council
+- Lady Justice Thirlwall
+- Liverpool Town Hall
+- Lucy Letby
+- Morecambe Bay NHS Trust
+- Speak Out Safely
+- Thirlwall Inquiry
+- Thirwall
 ---
 
 ![Image shows Lucy Letby, wearing a blue hooded top, being led in handcuffs from her house, in footage captured on a police body camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg)

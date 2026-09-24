@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Dubai
+- Kenya
+- Nairobi
+- Netherlands
+people:
+- Hellen Moraa
+- Moss Ndiema
+organisations:
+- Jambojet
+- Jomo Kenyatta International Airport
+- KAWU
+- Kenya Airports Authority
+- Kenya Airways
+- Kenya Aviation Workers Union
 ---
 
 A workers’ strike has slowed down air traffic at Kenya’s main airport in Nairobi, leaving many travelers stranded after their flights were delayed or canceled.

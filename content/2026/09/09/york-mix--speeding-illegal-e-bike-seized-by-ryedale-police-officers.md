@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Pickering
+- Surron
+people: []
+organisations:
+- Ryedale Neighbourhood Policing Team
 ---
 
 Ryedale Neighbourhood Policing Team responded to multiple reports of youths riding two Surron e-bikes at extreme speeds on roads in the Pickering area last night (Tuesday 8 September).

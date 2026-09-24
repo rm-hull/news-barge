@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Berlin
+- Bonn
+- Germany
+- Halle Airport
+- Leipzig
+- Moscow
+- Russia
+- Russian House
+- St. Petersburg
+- Ukraine
+people: []
+organisations:
+- Foreign Ministry
 ---
 
 Russia’s Foreign Ministry on Monday announced the closure of the German consulate in St. Petersburg, a tit-for-tat move that reflected the simmering tensions between the two countries.

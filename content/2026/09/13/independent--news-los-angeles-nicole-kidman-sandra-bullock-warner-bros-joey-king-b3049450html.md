@@ -12,6 +12,51 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- England
+- U.S.
+people:
+- Alan Ritchson
+- Alice Hoffman
+- Andrew Garfield
+- Buddy
+- Christopher Nolan
+- Coyote
+- Gillian Owens
+- Hope
+- Hwang Jung-min
+- Joey King
+- Lee Pace
+- Maisie Williams
+- Matt Damon
+- Na Hong-jin
+- Nicole Kidman
+- Odysseus
+- Owen Wilson
+- Paul Greengrass
+- Richard II
+- Runner
+- Sally
+- Sandra Bullock
+- Scott Waugh
+- Tom Holland
+- Zo In-sung
+- “Hope
+- “Runner
+organisations:
+- Acme
+- Angel Studios
+- Coyote
+- Ketchup Entertainment
+- Marvel
+- Practical Magic
+- Rentrak
+- Sony
+- Susanne Bier-directed
+- The Associated Press
+- The Odyssey
+- Universal Pictures
+- Warner Bros
 ---
 
 “Practical Magic 2" conjured a box-office victory this weekend, opening atop the North American charts nearly three decades after its predecessor grew from a modest theatrical performer into a cult favorite.

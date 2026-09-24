@@ -12,6 +12,26 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2024/06/18/08/ef95d3944e30a583878a0ca9c3f1ef42Y29udGVudHNlYXJjaGFwaSwxNzE4NzgyNzYz-2.71245441.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Avanti West Coast
+- Britain
+- Great Western Railway
+- Greater Anglia
+- Merseyrail
+people:
+- Paul Goldspring
+- Penelope Gibbs
+organisations:
+- Arriva Rail Northern
+- C2C
+- Freedom of Information Act
+- Govia
+- Magistrates Association
+- Ministry of Justice
+- MoJ
+- Northern, Transpennine
+- SJP
+- Transform Justice
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

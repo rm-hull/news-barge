@@ -12,6 +12,19 @@ image: https://cdn.mos.cms.futurecdn.net/ham7YNNptEDdKwBvCDFpQ7-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- U.S.
+people:
+- Mark Tyson
+- Tom
+organisations:
+- Apple Music
+- Google News
+- RIAA
+- Recording Industry Association of America
+- Spotify
+- Tom's Hardware
+- YouTube Music
 ---
 
 ![Some CD albums and vinyl records](https://cdn.mos.cms.futurecdn.net/ham7YNNptEDdKwBvCDFpQ7.jpg) 

@@ -14,6 +14,18 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/19049599.jpg?type=og-image
+locations:
+- 2 Yorkway
+- Bothal Walk
+- North East
+- Stockton
+- Thornaby
+- YOUR
+people: []
+organisations:
+- Public Notice Portal
+- Stockton Council
+- The Northern Echo
 ---
 
 *(Image: Newsquest)*

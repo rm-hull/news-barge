@@ -15,6 +15,18 @@ categories:
 - UK
 - Health & Fitness
 - Family & Parenting
+locations:
+- Islamabad
+- Muslim Pakistan
+people:
+- Razia Noreen
+- Shehbaz Sharif
+organisations:
+- AP
+- CCTV
+- Pakistan Institute of Medical Sciences
+- Star of Service
+- The Associated Press
 ---
 
 Razia Noreen and her colleagues had just checked on the 15 newborns in their care at the hospital nursery in Islamabad and were preparing injections for some of them in an adjacent room when she saw noticed something unusual: flames.

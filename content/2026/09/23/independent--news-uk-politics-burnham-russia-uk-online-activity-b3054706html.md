@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/08/01M35RYQEC3PK4MG4ZAF2T0G4R.jpg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+locations:
+- Kremlin
+- New York
+- Russia
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Mr Burnham
+- Vladimir Putin
+- Wes Streeting
+organisations:
+- AI
+- BBC
+- Brexit
+- National Centre for Information Defence
+- UN
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

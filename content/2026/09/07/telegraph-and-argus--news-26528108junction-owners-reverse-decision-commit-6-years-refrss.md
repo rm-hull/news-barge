@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baildon
+- Bingley Road
+- Bradford
+- The Junction
+people:
+- Beth High
+- Nathan High
+organisations:
+- Baildon Cricket Club
+- Newsquest
+- Shipley Town FC
+- The Junction
 ---
 
 *(Image: Newsquest)*

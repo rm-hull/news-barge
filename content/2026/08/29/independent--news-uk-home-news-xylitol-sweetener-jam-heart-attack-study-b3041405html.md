@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Berlin
+- Charité University Hospital
+- Germany
+- Munich
+people:
+- Marco Witkowski
+organisations:
+- ESC
+- European Society of Cardiology
 ---
 
 A common sweetener used in jam and chewing gum has been linked to increased risks of heart attacks and stroke, a new study has shown.

@@ -10,6 +10,27 @@ description: Russia's new drone-carrying warboat is made of plywood
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/disatKuEeuwQpDijy8gUfF-1280-80.png
+locations:
+- Russia
+- Skorlupa
+- Ukraine
+people:
+- Alexey Chadayev
+- Rahim Amir
+organisations:
+- FPV
+- Google News
+- KVN
+- PC
+- PCs
+- RGB
+- Rossiyskaya Gazeta
+- SFF
+- Scientific and Production Center Ushkuynik
+- TechRadar Pro
+- USV
+- Unmanned Surface Vehicle
+- www1.ru
 ---
 
 ![A screengrab from a video from Ushkuynik&#039;s Telegram channel](https://cdn.mos.cms.futurecdn.net/disatKuEeuwQpDijy8gUfF.png)

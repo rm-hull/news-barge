@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Africa
+- Ardeche
+- Atlantic
+- Bosnia and Herzegovina
+- Croatia
+- England
+- Erbo valley
+- Europe
+- France
+- Greece
+- Iberian Peninsula
+- Madrid
+- Mediterranean
+- Northern Ireland
+- Poland
+- Portugal
+- Serbia
+- Spain
+- Turkey
+- UK
+- Wales
+- Zaragoza
+people: []
+organisations:
+- BBC Weather
+- El Granado
+- Scotland
 ---
 
 ![A woman walks through a town square in Madrid, Spain, carrying a handheld fan.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7cb1/live/ffff45a0-a847-11f1-a291-b542ee92de7c.jpg)

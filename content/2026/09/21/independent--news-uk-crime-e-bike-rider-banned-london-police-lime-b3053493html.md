@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/11/18/Screenshot-2026-09-21-at-12-12-13.png?trim=0,294,0,158&width=1200&height=800&crop=1200:800
+locations:
+- Fleet Street
+- London
+- UK
+people:
+- Alice Pleasant
+- Lime
+- Sgt Ford
+- Stuart Ford
+organisations:
+- CCTV
+- City of London Police
+- Lime
 ---
 
 An e-bike rider has been fined and permanently banned after the police and Lime collaborated to track him down after he swore at a pedestrian.

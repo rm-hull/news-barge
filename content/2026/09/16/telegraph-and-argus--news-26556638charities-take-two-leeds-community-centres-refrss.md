@@ -13,6 +13,29 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Chapeltown Road
+- Ebor Gardens
+- Ebor Gardens Community Centre
+- Haslewood Drive
+- Leeds
+- Mandela Centre
+people:
+- Asghar Khan
+- Chapel Allerton
+- Mohammed Rafique
+organisations:
+- CATs
+- Community Asset Transfers
+- Google)* Burmantofts
+- Leeds City Council
+- Leeds Civic Hall
+- Leeds West Indian Carnival
+- Project Hope
+- Project Hope Leeds
+- RJC Dance
+- Richmond Hill Labour
+- The Ebor Gardens
 ---
 
 *(Image: Google)*

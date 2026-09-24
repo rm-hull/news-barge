@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Durham
+- Edgbaston
+- England
+- Lord's
+- Pakistan
+- Razaullah
+people:
+- '## Gay'
+- :** Gay
+- :** Shakeel
+- Ali-Abbas
+- Ben Duckett
+- Dan Lawrence
+- Emilio Gay
+- Gus Atkinson
+- Harry Brook
+- Ian Botham
+- Jacob Bethell
+- Joe Root
+- Jofra Archer
+- Jordan Cox
+- Josh Tongue
+- Mohammad Ali
+- Muhammad Abbas
+- Ollie Robinson
+- Razaullah
+- Saim Ayub
+- Saud Shakeel
+organisations:
+- England
 ---
 
 Highlights: England in control of final Test after dominating opening day

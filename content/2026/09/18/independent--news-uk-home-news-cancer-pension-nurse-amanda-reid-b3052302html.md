@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Dubai
+- Livingston Sheriff Court
+people:
+- Amanda Reid
+- John Millar
+- Munchausen
+organisations:
+- NHS
+- Nursing and Midwifery Council
+- Scottish Pensions Authority
+- Spire Hospital Edinburgh
 ---
 
 A children’s nurse shaved her head daily to pretend she had terminal leukaemia and claim £185,422.95 in pension payments.

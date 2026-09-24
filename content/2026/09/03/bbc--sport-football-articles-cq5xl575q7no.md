@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Brazil
+- Emirates Stadium
+- England
+- London
+- West Ham
+people:
+- Arsenalforward Gabriel Martinelli
+- Cristiano Ronaldo
+- Crysencio Summerville
+- Gabriel Martinelli
+- Ian Wright
+- Mikel Arteta
+- Ollie Watkins
+- Simone Inzaghi
+organisations:
+- Al-Hilal
+- Al-Nassr
+- Arsenal
+- Aston Villa
+- Coventry
+- Gunners
+- Ituano
+- Premier League
+- Sky Sports
 ---
 
 ![Gabriel Martinelli](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cf1e/live/61713bd0-a4b6-11f1-a35f-6d34e03b9d9f.jpg)

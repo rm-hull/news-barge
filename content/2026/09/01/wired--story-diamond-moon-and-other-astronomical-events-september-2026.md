@@ -11,6 +11,20 @@ image: https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Neptune
+- Spica
+- Taurus
+people:
+- Venus
+organisations:
+- Earth
+- Sirius
+- Spica
+- Spotting Neptune
+- Star Walk
+- Sun
+- Venus
 ---
 
 August set the bar high for stargazers, with two eclipses and the peak of the Perseids meteor shower. But it’s not time to put away your telescopes, with some lesser-known astronomical events set to arrive across the sky this month.

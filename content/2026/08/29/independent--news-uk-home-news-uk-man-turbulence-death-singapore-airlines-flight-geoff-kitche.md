@@ -14,6 +14,42 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Australia
+- Bangkok
+- Bristol
+- Europe
+- Indonesia
+- London Heathrow
+- Myanmar
+- Singapore
+- Thailand
+- Thornbury
+- UK
+people:
+- Andrew Dawood
+- Anthe Korelidou
+- Bradley Richards
+- Bryan Matthews
+- Geoff I
+- Geoff Kitchen
+- Goh Choon Phong
+- Hannah Fullerton
+- Irwin Mitchell
+- Jack Jenkins
+- Josh Silverstone
+- Linda Kitchen
+- Michael Rainey
+- Ms Kitchen
+- Pauline
+organisations:
+- All Linda
+- High Court
+- Ms Kitchen
+- Singapore Airline
+- Singapore Airlines
+- Suvarnabhumi International Airport
+- Thornbury Musical Theatre Group
 ---
 
 The heartbroken wife of a man who died after a Singapore Airlines flight was hit by severe turbulence has described the terrifying moment their plane plunged 178ft in under five seconds.

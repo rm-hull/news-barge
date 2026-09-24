@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Beachport
+- Hawaii
+- Heard Island
+- Kangaroo Island
+- Limestone Coast
+- Seal Bay
+- South America
+- South Australia
+- US
+- Western Australia
+- sub-Antarctica
+people:
+- Emily Bourke
+- John Woinarski
+organisations:
+- Charles Darwin University
+- Guardian Australia
+- SA
 ---
 
 South Australia has recorded the first death of an endangered Australian sea lion from H5 bird flu.

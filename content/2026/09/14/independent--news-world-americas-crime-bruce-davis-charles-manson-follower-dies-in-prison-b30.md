@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Solano County
+- Vacaville
+people:
+- Arnold Schwarzenegger
+- Bruce Davis
+- Charles Manson
+- Charlie
+- Donald “Shorty” Shea
+- Gary Hinman
+- Gavin Newsom
+- Jerry Brown
+- Sharon Tate
+organisations:
+- ABC News
+- California Medical Facility
 ---
 
 Bruce Davis, a former follower of cult leader Charles Manson who was convicted of two murders more than half a century ago, has died while serving a life sentence, according to officials.

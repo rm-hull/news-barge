@@ -16,6 +16,18 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 - Arts & Culture
+locations:
+- Gamescom
+people:
+- Dave Curd
+- James Pickard
+organisations:
+- Black Friday
+- Eurogamer
+- Google News
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A character from PUBG: Dednet wielding a gun with a doll holding a drill rides on his back](https://cdn.mos.cms.futurecdn.net/yX2DkGaSfK8VxhWrhsBxhA.jpg) 

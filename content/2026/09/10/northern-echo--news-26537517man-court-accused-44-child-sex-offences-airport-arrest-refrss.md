@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Leeds Bradford Airport
+- Newton Aycliffe Magistrates’ Court
+- UK
+people:
+- Robert Esterbrook
+organisations:
+- Durham Crown Court
+- Durham Police
+- PA MEDIA
 ---
 
 *(Image: PA MEDIA)*

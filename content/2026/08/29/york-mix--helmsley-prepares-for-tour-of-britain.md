@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Ampleforth
+- Helmsley
+- Howardian Hills
+- Leyburn
+- Market Square
+- Newburgh Priory
+- Oulston
+people:
+- Carolyn Frank
+- Ellie Hook
+- Helmsley
+organisations:
+- Heart of Helmsley
+- Howardian Hills National Landscape
+- Libby Butler Jewellers
+- Mayoral High Street Fund
+- YNYCA
+- York and North Yorkshire Combined Authority
 ---
 
 Helmsley is preparing to welcome thousands of visitors next weekend.

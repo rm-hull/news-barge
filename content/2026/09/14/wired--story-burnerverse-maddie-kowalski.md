@@ -13,6 +13,108 @@ categories:
 - Technology & Software
 - Science
 - Comedy & Entertainment
+locations:
+- Atlanta
+- Birkin
+- Coral Springs
+- Dublin
+- East Coast
+- Fort.
+- Gainesville
+- Japan
+- LA
+- London
+- Miami
+- New York
+- Northern District of Florida
+- Ole Miss
+- Saltburn
+- Snapchat
+- Tampa
+- UF
+- YikYak
+people:
+- Adam Ludwin
+- Addison King
+- Antonio Brown
+- Arthur Cacciatore
+- Bailey
+- Barstool
+- Blake Trauschke
+- Brendan Pitfield
+- Bro
+- Covid
+- III
+- Instagram
+- Jack Mac
+- Jacob Gomberg
+- Kamran Ahmed
+- Kowalskis
+- Leslie
+- Lexie Blake
+- Maddie Kowalski
+- Mandy
+- Mary Kate Cornett
+- Michael Mayer
+- Moulin Rouge
+- Mount Rushwhore
+- Ole Miss
+- Owen McCarthy
+- Pat McAfee
+- Peter Millar
+- Rosie
+- Rush Phi Delt
+- Steve Cumfull
+- SteveCumfull
+- Theta Chi
+- TikTok
+organisations:
+- Atlantic Coast Conference
+- BV
+- Barstool Sports
+- DM
+- DMs
+- Delta Zeta
+- Division 1
+- Division I
+- ESPN
+- Elon Musk
+- FERPA
+- FSU
+- Fraternity Life
+- Gainesville PD
+- Gainesville Police Department
+- Indiana University
+- Instagram
+- LSU
+- LinkedIn
+- MSU
+- Maddiekowalski
+- McAfee
+- Michigan State
+- Michigan State University
+- NCII
+- NFL
+- Office of Student Conduct
+- Offices of Student Conduct and Sorority
+- Ole Miss
+- Phi Delta Theta
+- SEC
+- Southeastern Conference
+- SteveCumfull
+- Texas Rangers
+- TheSportsGrail
+- Theta Chi
+- UF Gators
+- UF’s Office of Sorority
+- UNLV
+- University of Florida
+- University of Maryland
+- University of Mississippi
+- WIRED
+- X Space
+- YikYak
+- YouTube
 ---
 
 *Content warning: This piece includes descriptions of nonconsensual sex and intimate image abuse.*

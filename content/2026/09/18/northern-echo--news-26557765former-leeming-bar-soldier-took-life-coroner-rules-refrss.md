@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- A19
+- Afghanistan
+- Darlington Memorial Hospital
+- Iraq
+- Leeming Bar
+- Northallerton Coroner's Court
+people:
+- Caitlin
+- Gill Kane
+- Ian Huntley
+- Rufus Barraclough
+- Scott James McNeice
+organisations:
+- Armed Forces Para Snowsports Team
+- Army Nursing Corps
+- Team UK
 ---
 
 A former soldier and promising para-snowboarder took his own life after struggling with his mental health following his medical discharge from the Army, an inquest heard.

@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Buckingham Court
+- Chelsea Court
+- Darlington
+- Dorchester Court
+- Kingston
+- Lombard Court
+- North East
+- Persimmon
+- Polam Hall Estate
+- Stratton Court
+- Wilko
+- YOUR
+- Yorkshire
+people:
+- Anja Smith
+- Dad
+- Glenyce Toole
+- STUART BOULTON
+organisations:
+- Bernicia
+- KPS
+- Kingston Property Services
+- Persimmon Homes
+- Persimmon Teesside
+- Polam Hall Estate
+- Public Notice Portal
+- STUART BOULTON
 ---
 
 ### What is the Public Notice Portal?

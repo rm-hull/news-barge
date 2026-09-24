@@ -10,6 +10,22 @@ description: The 39-inch 5K2K Alienware AW3926QW is probably the best OLED gamin
 image: https://cdn.mos.cms.futurecdn.net/pSxwHiBPDFYbborBBzAs9Y-2100-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- UK
+- US
+people:
+- Alienware
+- Jeremy
+organisations:
+- '### TechRadar Verdict Alienware'
+- OLED
+- RGWB LG
+- Samsung
+- Storm Trooper
+- T3
+- Twitter
+- iCar
 ---
 
 ### TechRadar Verdict

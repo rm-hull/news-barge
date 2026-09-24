@@ -15,6 +15,29 @@ categories:
 - News & Politics
 - Arts & Culture
 - Society & Culture
+locations:
+- Bingley West
+- Cons
+- Cross Roads
+- Keighley
+people:
+- Andrew Judson
+- Cllr Khan
+- Cllr Place
+- Dave Shepherd
+- Falak Ahmed
+- Ian Walker
+- Imran Khan
+- Stephen Place
+organisations:
+- BRADFORD Council’s Executive
+- Bradford Council
+- Ford Hill
+- Golden Butts
+- Labour Government
+- Portfolio Holder for Neighbourhoods and Communities
+- Reform UK Executive
+- Section 151 Officer
 ---
 
 *(Image: Bradford Council)*

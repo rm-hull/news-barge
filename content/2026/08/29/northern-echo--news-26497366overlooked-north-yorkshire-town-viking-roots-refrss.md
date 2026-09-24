@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - History
 - Travel
+locations:
+- Cattersty Sands
+- Cleveland Way
+- East Cleveland
+- Hidden Teesside
+- Loftus Iron Mine
+- Loftus'
+- North East
+- North York Moors
+- North Yorkshire
+- Skinningrove
+- St Leonard's Church
+- Staithes
+people:
+- Faye Marsay
+- Julia Jackson
+- Loftus
+- Paul Drinkhall
+- Stanley Hollis
+organisations:
+- Angel Inn
+- Cleveland Way
+- Oddfellows Hall
+- Town Hall
+- Victoria Cross
+- Viking
 ---
 
 Perched between the North York Moors and the coast is a town where Viking heritage, Victorian ambition and East Cleveland's industrial past still leave their mark today.

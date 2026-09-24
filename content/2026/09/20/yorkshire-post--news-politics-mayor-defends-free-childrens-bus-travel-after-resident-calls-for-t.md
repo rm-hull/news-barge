@@ -16,6 +16,23 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZiZWE5MWIyLWU1ODQtNDVmNC04YmZhLThhNTNhMDg4MWNlOTo0NGJlZTg0NC0yYWE5LTRlOTctODRlOS0yMjk4YWNkMmJkYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Barnsley
+- Covid
+- England
+- Sheffield
+- South Yorkshire
+- UK
+people:
+- Kate Savage
+- Ms Savage
+- Oliver Coppard
+organisations:
+- Board
+- European Union
+- SYMCA
+- Sheffield
+- South Yorkshire Mayoral Combined Authority
 ---
 
 # Mayor defends free children’s bus travel after resident calls for them to walk

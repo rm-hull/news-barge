@@ -12,6 +12,28 @@ image: https://images.euronews.com/articles/stories/09/90/52/13/1200x675_cmsv2_d
 categories:
 - Europe
 - News & Politics
+locations:
+- Canada
+- Gulf of America
+- Gulf of Mexico
+- Iran
+- Lake America
+- Lake Ontario
+- NEW AMERICA
+- New America
+- New Mexico
+- Strait of Hormuz
+- Trump Strait
+- US
+- United States
+- White House
+people:
+- '## Trump'
+- Donald Trump
+- Michelle Lujan Grisham
+organisations:
+- Fox News
+- Truth Social
 ---
 
 ## Trump last week suggested renaming the Strait of Hormuz as "Trump Strait" as the war with Iran continues, then hours later implied he was not serious about the plan.

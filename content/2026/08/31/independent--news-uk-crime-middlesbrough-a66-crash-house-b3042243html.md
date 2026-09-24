@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Birchington Avenue
+- Burns Road
+- Cleveland
+- Derwentwater Road
+- Grangetown
+- Middlesbrough
+- Old Trafford
+- Ruskin Avenue
+people:
+- Cole Worthy
+- Jakub Matusiak
+- Makai Saddington
+- Michael Cahill
+- Natalie McDonaled
+- Pc Blades’
+- Pc Clough
+- Pc Matthew Blades
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+- Wayne Fox
+organisations:
+- A66
+- Cleveland Police
+- Cleveland Police HQ
+- Ipswich Town
+- Manchester United
+- Pc Blades
+- Teesside Magistrates’ Court
 ---
 
 Two more arrests have been made by police after a vehicle was rammed in Middlesbrough, eight days after a head-on collision which killed five young men and two police officers.

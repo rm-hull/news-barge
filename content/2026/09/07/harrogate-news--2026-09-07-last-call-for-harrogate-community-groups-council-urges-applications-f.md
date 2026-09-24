@@ -13,6 +13,17 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations: []
+people:
+- Mark Warr**
+organisations:
+- Capital Grants Fund
+- Finance & General Purposes Committee
+- HARROGATE
+- Harrogate Round Table**
+- Harrogate Town Council
+- Harrogate Town Council**
+- Small Grants Scheme
 ---
 
 **HARROGATE**— Local charities, voluntary groups, and non-profit organisations are facing a rapidly approaching deadline to secure essential funding.** Harrogate Town Council**is urging community entities to submit their applications for the** 2026/27 Small Grants Scheme**before the window slams shut on** Tuesday 15 September 2026**.

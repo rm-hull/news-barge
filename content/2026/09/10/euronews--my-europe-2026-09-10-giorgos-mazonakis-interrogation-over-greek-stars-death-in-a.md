@@ -14,6 +14,39 @@ categories:
 - Europe
 - News & Politics
 - Science
+locations:
+- Albania
+- Athens
+- Australia
+- Balkans
+- Bulgaria
+- Cyprus
+- Germany
+- Greece
+- Nikaia
+- Patras
+- Piraeus
+- Sofia
+- Tirana
+- United States
+people:
+- Adonis Georgiadis
+- Giorgos Mazonakis
+- Giorgos Patoulis
+- Konstantinos Giannakas
+- Thanos Dimopoulos
+organisations:
+- Athens Medical Association
+- Athens-Macedonian News Agency
+- Central Health Council
+- ERTnews
+- Greek Media
+- Greek National Television
+- Medical Association
+- PolyGram
+- The Voice of Greece
+- Therapeutic Clinic
+- University of Athens
 ---
 
 ## The case dominating debate in Greece and Cyprus involves one of the country's biggest music stars, also popular in the Balkans. He suffered a cardiac arrest at an Athens medical practice. Investigators are examining two plasma-exchange machines and the timeline of events.

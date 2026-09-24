@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Film & TV
+locations:
+- Coronation Street
+- UK
+people:
+- Claudia Winkleman
+- Gordon Ramsay
+- James Blunt
+- Miranda Hart
+- Ms Winkleman
+- Romesh Ranganathan
+- Tess Daly
+organisations:
+- BBC
+- Hell’s Kitchen
+- ITV
+- Strictly Come Dancing
+- The Sun
+- The Traitors
 ---
 
 *(Image: ITV)*

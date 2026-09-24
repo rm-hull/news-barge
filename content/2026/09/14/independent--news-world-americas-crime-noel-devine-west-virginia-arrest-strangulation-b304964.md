@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Charlotte
+- Morgantown
+- North Carolina
+- North Central Regional Jail
+- West Virginia
+people:
+- '![Devine'
+- Noel Devine
+- Rich Rodriguez
+organisations:
+- Mountaineers
+- No. 25 Virginia
+- UT Martin
 ---
 
 West Virginia assistant football coach Noel Devine has been arrested on a felony strangulation charge, according to jail records.

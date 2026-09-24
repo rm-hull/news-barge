@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Cooks River
+- Grayndler
+- New South Wales
+- Queensland
+- Sydney
+- Tasmania
+- Victoria
+people:
+- Anthony Albanese
+- Bridget McKenzie
+- Catherine King
+- Eden-Monaro
+- Jacqui Lambie
+- Kristy McBain
+organisations:
+- AAP
+- ABC Radio
+- ABC TV
+- CPI
+- Centre for Public Integrity
+- Coalition
+- Department
+- Labor
+- Marrickville Golf Club
+- NSW
 ---
 
 Anthony Albanese has claimed he did not know he was a member of his local golf club when his government gave it $6m for renovations, accusing the ABC of inappropriate reporting.

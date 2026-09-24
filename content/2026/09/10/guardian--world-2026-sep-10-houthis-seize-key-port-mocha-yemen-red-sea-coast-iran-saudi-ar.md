@@ -13,6 +13,48 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bab al-Mandab
+- Bab al-Mandeb
+- Gulf
+- Hanish
+- Hays
+- Hodeidah
+- Hormuz
+- Iran
+- Jazan
+- Khalid ibn al-Walid
+- Marib
+- Mecca
+- Mocha
+- Pakistan
+- Red Sea
+- Sana’a
+- Saudi Arabia
+- Saudi Arabia-Yemen
+- Shabwah
+- Taiz
+- Taiz.
+- Tehran
+- Turkey
+- US
+- United Arab Emirates
+- Yanbu
+- Yemen
+- Zuqar
+- al-Jawf
+people:
+- Ad Dali
+- Ali Khamenei
+- Donald Trump
+- Sherwan Hindreen Ali
+- Tareq Saleh
+- al-Bayda
+organisations:
+- Acled
+- Aramco
+- Royal United Services Institute ***(***Rusi
+- Southern Transitional Council
 ---
 
 Yemen’s Houthi rebels are making a concerted drive to take full control of the country’s Red Sea coast, claiming control of the key port of Mocha, in the most serious wave of fighting with the Saudi-backed government in years.

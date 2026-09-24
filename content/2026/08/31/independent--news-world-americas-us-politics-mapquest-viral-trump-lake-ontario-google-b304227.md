@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alaska
+- Canada
+- Denali
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- Mount McKinley
+- New York
+- North America
+- U.S.
+people:
+- Cheryl Casone
+- Donald Trump
+- Doug Berger
+- Doug Burgum
+- Eric Reguly
+- MapQuest
+- Maria Bartiromo
+organisations:
+- App Store
+- Apple Maps
+- Associated Press
+- Fox Business’
+- Google Cowards
+- Google Maps
+- MapQuest
+- MeidasTouch
+- No. 8
+- Trump
+- U.S. Geographic Names Information System
 ---
 
 MapQuest has surged in App Store rankings after Google bowed to President Donald Trump and relabeled Lake Ontario.

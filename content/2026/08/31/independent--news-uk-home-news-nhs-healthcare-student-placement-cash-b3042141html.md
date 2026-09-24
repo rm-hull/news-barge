@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+people:
+- Alison McGovern
+- Duncan Burton
+- Gill Walton
+- Patricia Marquis
+- Susan Price
+organisations:
+- British Dietetic Association
+- DHSC
+- Department of Health and Social Care
+- NHS Business Services Authority
+- NHS Learning Support Fund
+- RCM
+- RCN England
+- Royal College of Midwives’
 ---
 
 Thousands of healthcare students will receive upfront cash support to cover travel and accommodation costs for clinical placements under new government plans.

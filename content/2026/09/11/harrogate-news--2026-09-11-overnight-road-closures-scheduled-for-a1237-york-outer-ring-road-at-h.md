@@ -12,6 +12,29 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- A19
+- Bootham
+- Clifton Moor
+- Gillygate
+- Harrogate
+- Hawthorn Terrace
+- Haxby Road
+- Heworth Green
+- Huntington Road
+- Link Road
+- Lord Mayor’s Walk
+- Malton Road
+- New Earswick
+- Outer Ring Road
+- Strensall Road
+- Wigginton Road
+- York
+people:
+- Kate Ravilious
+organisations:
+- City of York Council
+- Lane Rental Services
 ---
 
 **TRANSPORT**— Motorists from the Harrogate district planning evening travel around the east side of York are being warned to prepare for significant delays, as a major section of the

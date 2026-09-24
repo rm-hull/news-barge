@@ -14,6 +14,15 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Grange Avenue
+- North Yorkshire
+- Scarborough
+people:
+- David Fulford
+organisations:
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

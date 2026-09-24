@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- DC
+- Trump
+- Washington
+- West Wing
+- White House
+people:
+- Don McGahn
+- Donald Trump
+- Jamie Raskin
+organisations:
+- Congress
+- House Judiciary Committee
+- Hugo Lowell’sInner Loop
+- Justice Department
+- Supreme Court
+- Trump
+- West Wing
 ---
 
 Smelling a potential victory in the midterms, House Democrats are starting to think about oversight investigations next year and how to wield the power of the purse to make the Trump administration comply. In short, Trump’s West Wing renovations and DC arch could be on the chopping block, sources tell *Inner Loop*.

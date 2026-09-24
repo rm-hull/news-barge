@@ -11,6 +11,28 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdf3/live/eadd60
 categories:
 - UK
 - News & Politics
+locations:
+- Great Yarmouth
+- Port of Dover
+- Port of Dover **
+- Port of Dover Reynolds
+- Preston
+people:
+- Chris Vinson
+- Danny Thomas
+- Jonathan Reynolds
+- Kevin Mills
+- Laura Kuenssberg
+- Rupert Lowe
+- Tommy Robinson
+organisations:
+- BBC Radio Kent
+- Dover District Council
+- Hope Not Hate
+- Kent Police
+- Labour
+- Patriot Platform
+- Restore Britain
 ---
 
 Masked men chanting "stop the boats" at Port of Dover

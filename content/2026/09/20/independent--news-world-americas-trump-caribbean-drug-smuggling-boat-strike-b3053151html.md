@@ -11,6 +11,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/20/17/2026-09-20T005607Z_904264331_RC2OMNA3OLYO_RTRMADP_3_USA-TRUMP-DRUGS-STRIKE.JPG?trim=0,254,0,254&width=1200&height=800&crop=1200:800
+locations:
+- Caribbean Sea
+- China
+- Colombia
+- Ecuador
+- Greenland
+- Guatemala
+- Honduras
+- India
+- Mexico
+- Pacific Ocean
+- Panama
+- U.S.
+- US
+people:
+- Donald Trump
+- Pete Hegseth
+organisations:
+- Trump
+- U.S. Southern Command
 ---
 
 Four people were killed on Saturday when the U.S. military struck a suspected drug smuggling vessel in the Caribbean Sea, marking the latest action in the Trump administration's ongoing operation against alleged Latin American traffickers.

@@ -13,6 +13,44 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Duxbury
+- England
+- Mass
+- Massachusetts
+- Nazi Germany
+- Plymouth County Superior Court
+- UK
+people:
+- Bonnie Kerker
+- Callan
+- Cora
+- Crystal Schiller
+- Dalila Argaez Wendlandt
+- Dana Goldblatt
+- Dawson
+- Greg Derr
+- Jennifer Sprague
+- Joseph Prezioso
+- Kevin Reddington
+- Lindsay Clancy
+- Sarah Sloat
+- Soudabeh Givrad
+- Tim Cruz
+- William Sullivan
+- Winston Churchill
+organisations:
+- AFP
+- CNN
+- Chapel Hill Center for Women’s Mood Disorders
+- Commonwealth of Massachusetts
+- Getty Images
+- NYU Grossman School of Medicine
+- National Health Service
+- Patriot Ledger
+- Plymouth County Superior Court
+- Stanford Medicine
+- University of North Carolina
 ---
 
 The judge has now declared a mistrial after jurors failed for a third time to reach a verdict on whether Lindsay Clancy is criminally responsible for killing her children.

@@ -13,6 +13,25 @@ image: https://cdn.mos.cms.futurecdn.net/dfjfmvbQNcwCpXaUSykQX5-2560-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Effluvia
+- York
+people:
+- Jason
+- Jason’s Yang
+- Lucia
+- Mike York
+- Niko Bellic
+organisations:
+- '**York'
+- Demi Williams
+- GTA
+- GameSpot
+- GamesRadar
+- Google News
+- NME
+- Series S. Rockstar
+- TechRadar Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/dfjfmvbQNcwCpXaUSykQX5.jpg) 

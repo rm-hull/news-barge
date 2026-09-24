@@ -13,6 +13,34 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- D.C.
+- North Carolina
+- Oregon
+- Qatar
+- Rhode Island
+- U.S.
+- Washington
+people:
+- Anuj Khare
+- Howard Lutnick
+- Pat Harrigan
+- Ron Wyden
+- Sheldon Whitehouse
+organisations:
+- Appin
+- BellTroX
+- Commerce Department
+- CyberRoot
+- Electronic Frontier Foundation
+- FIFA
+- MuckRock Foundation
+- Reuters
+- Sunkissed Organic Farms
+- TechCrunch
+- Techdirt
+- The Citizen Lab
+- The New Yorker
 ---
 
 A bipartisan group of U.S. lawmakers has asked the U.S. government to ban several hack-for-hire firms — companies that carry out cyberattacks on behalf of paying clients. The lawmakers accuse the firms of targeting Americans and abusing foreign courts to silence U.S. reporting on their activities.

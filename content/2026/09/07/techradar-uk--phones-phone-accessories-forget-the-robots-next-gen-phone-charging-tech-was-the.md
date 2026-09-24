@@ -12,6 +12,22 @@ description: I saw a lot of cool gadgets at IFA Berlin 2026, but charging tech f
 image: https://cdn.mos.cms.futurecdn.net/omh2FBuXo4eHGcNJQRtZEC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- USB-C
+people:
+- Belkin
+- Harry Padoan
+- UGreen
+organisations:
+- Belkin
+- ESR
+- Gan Fast Charger
+- Google News
+- IFA Berlin
+- MagFlow Pro Magnetic Power Bank
+- Power Bank
+- TechRadar
+- UGreen
 ---
 
 ![UGreen and ESR chargers beside one another](https://cdn.mos.cms.futurecdn.net/omh2FBuXo4eHGcNJQRtZEC.jpg) 

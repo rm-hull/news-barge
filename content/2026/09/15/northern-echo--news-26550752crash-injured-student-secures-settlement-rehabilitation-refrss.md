@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Grangetown
+- Historic Yorkshire
+- Irwin Mitchell
+- Marston Lane
+- Ripon
+- STEPS Rehabilitation Centre
+- Sheffield
+- York
+people:
+- Ian Huntley
+- Irwin Mitchell
+- Joshua Kay-Shaw
+organisations:
+- Manhunt
+- York College
 ---
 
 A college student who suffered life-changing brain and spinal injuries in a crash has secured a settlement to fund his rehabilitation.

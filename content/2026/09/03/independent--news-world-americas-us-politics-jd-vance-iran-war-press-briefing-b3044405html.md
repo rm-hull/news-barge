@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Iran
+- Kyiv
+- Middle East
+- Tehran
+- U.S.
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Joe Biden
+- Karoline Leavitt
+- Pete Hegseth
+organisations:
+- James Brady Briefing Room
+- Pentagon
+- SCUM
+- The Wall Street Journal
+- Truth Social
 ---
 
 More than six months after President Donald Trump announced the start of a war against Iran that has claimed the lives of 18 service members, injured at last 750 more, and cost between $71 billion and $118 billion, Vice President JD Vance now says the war is not a war at all.

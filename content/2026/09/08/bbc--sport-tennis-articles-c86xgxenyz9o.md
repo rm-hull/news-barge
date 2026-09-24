@@ -13,6 +13,30 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Cincinnati
+- Flushing Meadows
+- New York
+- United States
+people:
+- Alex Michelsen
+- Andy Roddick
+- Anna Kalinskaya
+- Aryna Sabalenka
+- Ashe
+- Ben Shelton
+- Carlos Alcaraz
+- Coco Gauff
+- Emma Navarro
+- Frances Tiafoe
+- Jannik Sinner
+- Jessica Pegula
+- Mirra Andreeva
+- Roger Federer
+- Taylor Fritz
+- Tommy Paul
+organisations: []
 ---
 
 ![Ben Shelton and Carlos Alcaraz hug after their 2025 French Open match](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cf79/live/bd2f3300-ab4b-11f1-8e27-d7d44e0117ca.jpg)

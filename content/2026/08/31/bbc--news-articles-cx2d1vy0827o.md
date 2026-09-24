@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Manchester
+people:
+- Joy Conlon
+- Mark Williamson
+- Sarah Robinson
+- Susan Carr
+- Tara Humphrey
+organisations:
+- Action for Happiness
 ---
 
 ![A shot of a crowded train. A man in a pinstriped suit stands next to a woman wearing a green top. A smaller woman is standing next to a red pole, next to her a man in a brown t-shirt, with sweat patches visible at his armpit.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/6542/live/43e361e0-9702-11f1-beff-6d9a50bab282.jpg)

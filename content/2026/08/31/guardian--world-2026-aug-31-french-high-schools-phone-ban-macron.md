@@ -12,6 +12,17 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- France
+people:
+- Emmanuel Macron
+- Jérôme Fournier
+- Valère Ndior
+organisations:
+- Macron
+- SE-Unsa
+- TikTok
+- University of Western Brittany
 ---
 
 French high schools are rushing to put in place a ban on mobile phones this week as Emmanuel Macron pushes for children to spend less time in front of screens.

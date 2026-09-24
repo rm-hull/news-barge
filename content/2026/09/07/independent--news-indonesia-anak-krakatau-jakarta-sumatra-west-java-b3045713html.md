@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Anak Krakatau
+- Banten
+- Indonesia
+- Jakarta
+- Lampung
+- Pacific Ocean
+- Pacific “Ring of Fire
+- Radin Inten
+- Soekarno-Hatta
+- Sumatra
+- Sunda Strait
+- West Java
+people:
+- Halim Perdanakusuma
+- Husein Sastranegara
+- Lana Saria
+organisations:
+- AirNav Indonesia
+- Geological Agency
+- Geology Agency
+- InJourney Airports
 ---
 
 Indonesia kept several airports closed and shifted schools to remote learning Monday though the volcanic eruption that has halted 2,300 flights and coated areas with ash was subsiding.

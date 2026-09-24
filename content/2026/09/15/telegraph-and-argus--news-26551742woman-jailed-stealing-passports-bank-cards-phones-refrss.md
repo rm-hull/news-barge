@@ -14,6 +14,22 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Brooksbank Avenue
+- Canterbury
+- Clayton
+- HMP New Hall
+- Southfield Lane
+people:
+- '## Woman'
+- Oliver Norman
+- Tom Little KC
+- Viktoria Keselova
+organisations:
+- Bradford Crown Court
+- CCTV
+- West Yorkshire Police
+- YOUNG Bradford
 ---
 
 *(Image: West Yorkshire Police)*

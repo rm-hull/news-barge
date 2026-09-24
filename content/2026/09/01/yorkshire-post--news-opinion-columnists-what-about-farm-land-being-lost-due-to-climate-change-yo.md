@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Daniel Leal-Olivas
+- Exeter
+- Matford Avenue
+- Old Molton
+- PA
+- UK
+people:
+- Andrew Blewett
+- Peter Auty
+organisations:
+- UK government Climate Change Committee
+- Yorkshire Post Letters
 ---
 
 # What about farm land being lost due to climate change? - Yorkshire Post Letters

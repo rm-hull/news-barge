@@ -13,6 +13,39 @@ image: https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n-2560-80.png
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Canada
+- Fall River
+- Japan
+- Madripoor
+- Massachusetts
+people:
+- Donning Logan
+- James "Logan" Howlett
+- Jean Grey
+- Liam McIntyre
+- Lizzie Borden
+- Matt Cabral
+- Mystique
+- Nathaniel Essex
+- Troy Baker
+- Wolverine I
+organisations:
+- CNN
+- Entertainment Weekly
+- Fandango
+- Forbes
+- HDR
+- HQ
+- IGN
+- Insomniac Games'
+- Marvel
+- Netflix
+- Sony Interactive Entertainment
+- StarWars.com
+- Team X
+- Wolverine
+- X-Men
 ---
 
 ### TechRadar Verdict

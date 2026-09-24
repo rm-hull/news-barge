@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Kunal Khullar
+- Kwak Noh-jung
+- Raymond van Eck
+- Tom
+organisations:
+- Counterpoint Research
+- Fairphone
+- Framework
+- Google News
+- Jolla
+- LPCAMM2
+- Reuters
+- SK Hynix
+- Tom’s Hardware
 ---
 
 ![Framework Laptop 13 Pro](https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN.jpg) 

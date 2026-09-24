@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- China
+- San Francisco
+- Silicon Valley
+- US
+- Vermont
+- White House
+people:
+- AI
+- Bernie Sanders
+- Brad Gerstner
+- Clement Delangue
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Evan Hubinger
+- George Arison
+- Greg Brockman
+- Jacob Coxon
+- Jensen Huang
+- Sid Sheth
+organisations:
+- AI
+- Altimeter Capital
+- Anthropic
+- Astra
+- BBC
+- Goldman Sachs.
+- Grindr
+- Hugging Face
+- LGBTQ
+- Newsnight
+- Nvidia
+- OpenAI
+- Palace Hotel
+- The Palace Hotel
+- Trump
+- d-Matrix
 ---
 
 ![A blue  Anthropic logo on a flat surface with blue nobs and dials in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg)

@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bahrain
+- Cuba
+- Hormuz
+- Iran
+- Iraq
+- Israel
+- Jordan
+- Kuwait
+- Larak Island
+- UMass-Amherst
+- US
+- Venezuela
+- White House
+people:
+- Donald Trump
+- Howard Lutnick
+- Nicolás Maduro
+- Tim Hawkins
+organisations:
+- CNBC
+- Central Command
+- Civilian Protection Center of Excellence
+- Pentagon
+- Red Crescent
+- Reuters
+- Squawk Box
+- Trump
+- Truth Social
+- US Central Command
 ---
 
 Donald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US operation, in Venezuela.

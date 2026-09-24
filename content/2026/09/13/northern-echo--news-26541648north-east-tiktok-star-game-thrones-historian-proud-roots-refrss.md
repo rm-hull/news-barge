@@ -14,6 +14,38 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- County Durham
+- Echo The Darlington
+- Ireland
+- North East
+- Sunderland
+people:
+- Criston Cole
+- Daenerys Targaryen
+- Emilia Clarke
+- Emma D’arcy
+- Fabian Frankel
+- George R
+- KELLIE SODEN
+- Kellie Soden
+- Mackem
+- Matt Baker
+- Ned Stark
+- Phoebe Campbell!
+- R. Martin
+- Rhaena
+- Sean Bean
+- TIKTOK
+organisations:
+- Alice in Wonderland
+- Blue Peter
+- Countryfile
+- HBO
+- House of the Dragon
+- Northumbria University
+- TikTok
+- Warner Bros
 ---
 
 If you're a Game of Thrones fan and are active on social media, there is a good chance you will have heard the voice of Kellie Soden.

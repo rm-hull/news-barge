@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Arlington National Cemetery
+- Bunker Hill Monument
+- DC
+- Delaware River
+- Massachusetts
+- Potomac River
+- Smithsonian
+- U.S.
+- Washington
+- White House
+people:
+- Donald Trump
+- George Washington
+- Lonnie Bunch
+organisations:
+- Confederacy
+- Flag Hall
+- National History Museum
+- National Mall
+- National Museum of American History
+- Restoring Truth and Sanity to American History
+- Smithsonian Institution
+- Smithsonian’s National Museum of American History
+- Trump
+- Truth Social
+- Washington’s “Life and Legacy
 ---
 
 President Donald Trump called for a towering statue of George Washington to be erected outside the Smithsonian’s National Museum of American History, the latest in a series of efforts to reshape the nation’s capital and the institutions that tell its history.

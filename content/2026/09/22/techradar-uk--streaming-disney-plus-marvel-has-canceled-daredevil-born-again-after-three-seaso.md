@@ -13,6 +13,37 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 image: https://cdn.mos.cms.futurecdn.net/6PsFi4wCdRjJuMeHbrZBZP-1416-80.jpg
+locations:
+- US
+people:
+- Charlie
+- Dario Scardapane
+- Hablemonsdecine
+- Iron Fist
+- Jessica Jones
+- Luke Cage
+- Matt Murdock
+- Tom
+- Vincent
+- Wilson Fisk
+organisations:
+- Charlie Cox
+- Daredevil
+- Disney Plus
+- Google News
+- HablemonsdecineX
+- MCU
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- NYCC
+- Netflix
+- New York Comic-Con
+- Star Wars
+- THR
+- TechRadar
+- The Hollywood Reporter
+- Vincent D'Onofrio-led TV
 ---
 
 ![Matt Murdock crying at night in Daredevil: Born Again season 1 episode 1](https://cdn.mos.cms.futurecdn.net/6PsFi4wCdRjJuMeHbrZBZP.jpg)

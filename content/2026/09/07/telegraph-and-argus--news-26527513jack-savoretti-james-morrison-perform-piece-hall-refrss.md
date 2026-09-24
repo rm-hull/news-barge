@@ -12,6 +12,20 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Halifax
+- Royal Albert Hall
+- UK
+people:
+- Jack Savoretti
+- James Morrison
+- Nicky Chance-Thompson
+organisations:
+- Halifax
+- KT Tunstall
+- Piece Hall
+- The Piece Hall
+- The Piece Hall Charitable Trust
 ---
 
 THE Piece Hall has announced its first headliner for next summer.

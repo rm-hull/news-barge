@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21473894.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Bishop Auckland West
+- County Durham
+- Dan Millard
+- Durham Dales
+- North East
+- Stanhope
+- Weardale Railway
+people:
+- Claire Gibbons
+- Dan Millard
+organisations:
+- Gin & Cheese Train
+- River Wear
+- The Auckland Project
+- WL Distillery
+- Weardale Railway
 ---
 
 *(Image: Dan Millard)*

@@ -12,6 +12,143 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Alligator Alcatraz
+- California
+- Capitol Hill
+- China
+- Florida
+- Gulf
+- Hormuz
+- Iran
+- Kentucky
+- Madison
+- Mariupol
+- Maryland
+- Montana
+- Moscow
+- New York
+- Russian Federation
+- Syria
+- Texas
+- Travis county
+- U.S.
+- U.S.A.
+- US Capitol
+- Ukraine
+- United Russia
+- United States
+- United States of America
+- Washington DC
+- White House
+- Wisconsin
+people:
+- AI
+- Alex Ovechkin
+- Alexey Navalny
+- Barack Obama
+- Beni Harmony
+- Brett Kavanaugh
+- Charlie Kirk
+- Chris Stein
+- Chris Van Hollen
+- Chuck Schumer
+- Clarence Thomas
+- Donald Trump
+- Dyana Limon-Mercado
+- Elaine Chao
+- Evgeny Poddubny
+- Finn Gomez
+- Gavin Newsom
+- Gavin Newson
+- Getty Images McConnell
+- Glenn Beck
+- God
+- JD Vance
+- Jacob Coxon
+- Jake Tapper
+- Jessica Mendoza
+- Joe Biden
+- Kamala Harris
+- Kristen Clarke
+- Maga
+- Margarita Simonyan
+- Maria Alekseyevna Lvova-Belova
+- Matt Gaetz
+- Mike Johnson
+- Mitch McConnell
+- Nick Sortor
+- Paul Gosar
+- Polluters
+- Ro Khanna
+- Rob Bonta
+- Robert Garcia
+- Sam Altman
+- Samuel Alito
+- Satya Rhodes-Conway
+- Sergei Sobyanin
+- Sergey Lavrov
+- Seth Bodnar
+- Thune
+- Tianna Mays
+- Travis
+- Trevor Potter
+- Van Hollen
+- Venn
+- Vladimir Putin
+- Vladislav Golovin
+organisations:
+- AI
+- Anthropic
+- Arizona Students’ Association
+- Associated Press
+- Big Oil & Big Coal
+- Big Tech
+- Blaze
+- CNN
+- Campaign Legal Center
+- Campaign Legal Center and Democracy Defenders Fund
+- Conference
+- Congress
+- Constitution
+- DHS
+- Democracy Defenders Fund
+- Department of Homeland Security
+- District Court
+- District of Columbia
+- Fox News
+- House Committee on Oversight and Government Reform
+- ICE
+- Immigration and Customs Enforcement
+- International Criminal Court
+- League of United Latin American Citizens
+- MS Now
+- NAACP
+- NHL
+- OpenAI
+- Postal Service
+- Putinism
+- Real America’s Voice
+- Republican National Committee
+- Russia Today
+- Secure Families Initiative
+- Senate
+- Supreme Court
+- TMZ
+- Trump Administration
+- Trump House
+- Truth Social
+- Turning Point USA
+- U.S. Mail
+- U.S. Supreme Court
+- US Capitol
+- US Postal Service
+- USPS
+- United States Postal Service
+- University of Montana
+- Vedomosti
+- Washington Capitals
+- Washington Post
 ---
 
 Voting rights advocates welcome US supreme court decision to stop Trump administration from restricting mail voting in midterms

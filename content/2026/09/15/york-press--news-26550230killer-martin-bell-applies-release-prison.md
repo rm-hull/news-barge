@@ -12,6 +12,21 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Brimham Rocks
+- Harrogate
+- Leeds Crown Court
+- Pateley Bridge
+- Scarborough
+- Yorkshire
+people:
+- Gemma Simpson
+- God
+- Martin Bell
+- Naomi Carrack
+organisations:
+- BBC
+- Parole Board
 ---
 
 *(Image: Supplied)*

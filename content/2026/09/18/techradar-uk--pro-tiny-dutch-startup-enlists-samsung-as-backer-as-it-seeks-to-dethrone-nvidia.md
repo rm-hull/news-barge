@@ -11,6 +11,28 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png
+locations: []
+people:
+- AI
+- Bernardo Kastrup
+organisations:
+- AI
+- Amazon Web Services
+- CNBC
+- Efosa
+- Euclyd
+- Google News
+- Innovation Industries
+- Jalapeño
+- Kastrup
+- Meta
+- Nvidia
+- Nvidia**
+- OpenAI
+- Samsung
+- Scaleup Europe Fund
+- Somerset Capital Partners
+- TechRadar Pro
 ---
 
 ![Samsung Logo](https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd.png) 

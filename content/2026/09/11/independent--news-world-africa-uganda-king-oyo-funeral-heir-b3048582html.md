@@ -11,6 +11,25 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Fort Portal
+- Tooro Kingdom
+- US
+- Uganda
+people:
+- Andrew Mwenda
+- Denis Sigoa
+- Edward Rukidi Kijanangoma
+- Kemigisa
+- King Oyo
+- Oyo Nyimba
+- Ruth Komuntale
+- Vincent Mugume
+organisations:
+- Entebbe International Airport
+- NTV Uganda
+- UBC
+- UN
 ---
 
 The Ugandan government is working urgently to help resolve a fierce royal succession conflict within the Tooro Kingdom following the death of monarch Oyo Nyimba at the age of 34.

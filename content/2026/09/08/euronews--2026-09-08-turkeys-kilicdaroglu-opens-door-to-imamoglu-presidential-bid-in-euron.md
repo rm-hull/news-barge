@@ -13,6 +13,35 @@ image: https://images.euronews.com/articles/stories/09/89/90/03/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Ankara
+- Gaza
+- Iran
+- Iraq
+- Israel
+- Istanbul
+- Syria
+- Turkey
+people:
+- Bashar al-Assad
+- Ekrem İmamoğlu
+- Erdoğan
+- Kemal Kılıçdaroğlu
+- Kemalism
+- Mustafa Kemal Atatürk
+- Yeni Parti
+- Özgür Özel
+organisations:
+- AKP
+- CHP
+- Constitutional Court
+- EU
+- Euronews
+- Istanbul University
+- Kılıçdaroğlu
+- Middle East Peace and Cooperation Organisation
+- Republican People's Party
+- Yeni Parti
 ---
 
 ## In an exclusive interview with Euronews, Kılıçdaroğlu defended his court-ordered return to the CHP leadership, said İmamoğlu is not a political prisoner but should not have been detained, and left the door open to backing İmamoğlu in a presidential bid.

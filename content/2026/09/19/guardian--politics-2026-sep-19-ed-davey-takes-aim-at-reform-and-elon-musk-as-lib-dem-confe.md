@@ -11,6 +11,28 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/c5b976904a34ae0257792769360c6a865ba30711/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e021ebf9be5106f26ba892416e4149b6
+locations:
+- Brighton Centre
+- South Africa
+- United Kingdom
+people:
+- Ed Davey
+- Elon Musk
+- Helen Morgan
+- Munira Wilson
+- Nigel Farage
+- Trump
+- Zia Yusuf
+organisations:
+- AfD
+- Barclays
+- Le Pen
+- Lib Dem
+- Liberal Democrats’
+- NHS
+- RNLI
+- Reform UK
+- Royal National Lifeboat Institution
 ---
 
 The Liberal Democrats’ leader, Sir Ed Davey, took aim at Nigel Farage’s Reform UK and Elon Musk on the first day of his party’s annual conference, saying that they “won’t give up the fight” to defeat “nasty populism” and the far-right party’s “£72m arsenal of hate and lies”.

@@ -15,6 +15,18 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Bradford
+- Leeds Road
+- Snapchat
+- West Midlands
+- West Yorkshire Police
+people: []
+organisations:
+- Mercedes
+- Mercedes-Benz
+- Operation Steerside
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

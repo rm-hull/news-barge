@@ -12,6 +12,23 @@ image: https://cdn.mos.cms.futurecdn.net/UMXPMhSxLwjs5j7URVUMXD-1600-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Australia
+- UK
+- US
+people:
+- James
+- Mark Gurman
+- Sonny Dickson
+organisations:
+- AI
+- Apple
+- Clarity Media
+- Google News
+- MagSafe
+- TechRadar
+- Ultra’
+- iPhone Air
 ---
 
 ![A foldable iPhone concept against a multi-colored background.](https://cdn.mos.cms.futurecdn.net/UMXPMhSxLwjs5j7URVUMXD.jpg) 

@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21394695.jpg?type=og-image&xType=0&yType=32
+locations:
+- Birchington Avenue
+- Grangetown
+- Middlesbrough Valentina
+people:
+- Francis Laird KC
+- Jaden Wright
+- Man
+- Matthew Blades
+- Natalie McDonald
+- Teenager
+- Tom Clough
+- Valentina Foster
+organisations:
+- Cleveland Police
+- Recorder of Middlesbrough
+- Section 18
 ---
 
 A man has denied two counts of murder after a devastating house fire killed a seven-year-old girl and her aunt.

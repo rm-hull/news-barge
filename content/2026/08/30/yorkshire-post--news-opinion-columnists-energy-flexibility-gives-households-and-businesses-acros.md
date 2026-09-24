@@ -18,6 +18,19 @@ categories:
 - York
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Humber
+- PA
+- Yorkshire
+people:
+- Rebecca Beresford
+organisations:
+- Gareth Fuller
+- NESO
+- NESO’s Demand Flexibility Service
+- National Energy System Operator
+- Yorkshire
 ---
 
 # Energy flexibility gives households and businesses across Yorkshire a choice - Rebecca Beresford

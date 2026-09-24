@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - York
 - Lifestyle & Fashion
+locations:
+- Boston
+- Mounjaro
+- Salem
+- USA
+- YORK
+- York
+people:
+- Krispy Kreme
+- Mounjaro
+- Rebecca Miller
+organisations:
+- Krispy Kreme
+- Rebecca Miller
+- SWNS Rebecca
 ---
 
 A YORK woman ditched her Krispy Kreme habit to lose 13 stone on Mounjaro and has saved £4,000 in a year by cutting out Uber Eats.

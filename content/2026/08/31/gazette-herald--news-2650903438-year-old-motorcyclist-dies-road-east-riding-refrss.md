@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- Burton Pidsea
+- East Riding of Yorkshire
+- Estronwick
+- Fieldend Lane
+- Humberside
+people:
+- Craig Manning
+organisations:
+- Humberside Police
+- Newsquest
+- Suzuki
 ---
 
 *(Image: Craig Manning / Newsquest)*

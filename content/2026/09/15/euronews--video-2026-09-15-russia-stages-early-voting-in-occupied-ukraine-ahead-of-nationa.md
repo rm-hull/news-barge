@@ -12,6 +12,18 @@ image: https://images.euronews.com/articles/stories/09/91/46/14/1200x675_cmsv2_1
 categories:
 - Europe
 - News & Politics
+locations:
+- Donetsk
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- Ukraine
+people: []
+organisations:
+- Central Electoral Commission
+- SBU
+- Security Service
 ---
 
 Mobile polling teams visited homes in rural areas on 14 September, carrying ballot boxes and portable voting booths. Footage showed residents casting their ballots outside their homes, while members of Russia’s Central Electoral Commission oversaw the process alongside Russian servicemen and police officers.

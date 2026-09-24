@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Personal Finance & Investing
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIxYmFhMzk4LWRhOGItNGM1Zi1hZDIxLWMxNzIxZjdjOGRlZjpiZmNkYWM5My1kZGZhLTQ0NWEtYTkwZC1hZTQyZWNiZjM3MzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- North Yorkshire
+- Richmond
+- York
+people:
+- Carl Les
+- David Skaith
+organisations:
+- Labour
+- Local Transport Plan
+- North Yorkshire Council
 ---
 
 # North Yorkshire buses are a “mess” after years of underinvestment, says mayor

@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Magistrates’ Court
+- Brook Street
+- Ilkley
+- Station Road
+- West Yorkshire
+people:
+- Adam Moore
+organisations:
+- Midland Hotel
+- West Yorkshire Police
 ---
 
 *(Image: Pixabay)*

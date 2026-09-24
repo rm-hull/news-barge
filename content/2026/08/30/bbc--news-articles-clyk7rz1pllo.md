@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Canterbury
+- East Sussex
+- Eastbourne
+- England
+- Jesus the Living Water Church
+- Sovereign Harbour Community Centre
+- Steyning
+- UK
+- West Sussex
+- Wiston Park
+- Worthing
+people:
+- Ellie
+- God
+- Isay
+- Josh Babarinde
+- Norman Ponce
+- Robert Guanco
+- Sarah Mullally
+organisations:
+- BBC Radio Sussex
+- BBC Sussex
+- Health and Safety Executive
+- Jesus the Living Water Church
+- Jesus the Living Water Worldwide Church
+- Sussex Police
 ---
 
 ![A man in w white hat and navy coat. He has a goatee and is standing in front of rolling hills.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/f811/live/6fa11450-a45c-11f1-b370-b9b7934350c8.jpg)

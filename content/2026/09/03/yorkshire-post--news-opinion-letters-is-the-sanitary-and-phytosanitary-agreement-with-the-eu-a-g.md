@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- Great Hatfield
+- James Hardisty
+- UK
+people:
+- Peter Auty
+organisations:
+- EU
+- Yorkshire Post Letters
 ---
 
 # Is the sanitary and phytosanitary agreement with the EU a good deal? - Yorkshire Post Letters

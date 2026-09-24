@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Alabama
+- Birmingham
+- East Baton Rouge Parish
+- Louisiana
+people:
+- Dae’Quan Wright
+- Greg Sankey
+- Jeff Landry
+- Lane Kiffin
+- Liz Murrill
+- Wade Rousse
+- William Jorden
+- Zxavian Harris
+organisations:
+- ACC
+- AP
+- Big Ten and Big 12
+- Clemson
+- LSU
+- NCAA
+- NFL
+- SEC
+- Southeastern Conference
+- Tigers
 ---
 
 The Southeastern Conference's next — and maybe last — chance to keep players who spent time with NFL teams this summer from being added to LSU's football roster comes in a federal court in Alabama.

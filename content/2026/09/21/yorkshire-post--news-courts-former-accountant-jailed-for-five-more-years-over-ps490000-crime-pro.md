@@ -15,6 +15,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/21/16/23/Sukhdev-Singh.png?trim=315,0,45,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Chelwood Drive
+- Gibraltar
+- Harrogate
+- Leeds Magistrates' Court
+- Spain
+people:
+- Ian Sharp
+- Sukhdev Singh
+organisations:
+- North Yorkshire Police
+- North Yorkshire Police’s Economic Crime Unit
+- Proceeds of Crime
+- York Crown Court
 ---
 
 # Former accountant jailed for five more years over £490,000 crime proceeds

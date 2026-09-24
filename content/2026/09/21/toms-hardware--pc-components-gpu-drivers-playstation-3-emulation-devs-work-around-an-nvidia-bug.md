@@ -11,6 +11,22 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/DTyif5tMyL37FaiLreQSkS-1920-80.jpg
+locations: []
+people:
+- Manuel Guzman
+- Mark Tyson
+- Tom
+organisations:
+- '## Gran Turismo'
+- AMD GPU
+- Blackwater
+- Google News
+- Gran Turismo
+- Nvidia Software QA
+- RDR
+- RPCS3
+- Saints Row IV
+- Tom's Hardware
 ---
 
 ![Gran Turismo 5 ran 37% faster, used far less VRAM](https://cdn.mos.cms.futurecdn.net/DTyif5tMyL37FaiLreQSkS.jpg)

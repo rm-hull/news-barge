@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- Bridge 192
+- Leeds Liverpool Canal
+- Silsden
+- West Yorkshire
+people: []
+organisations:
+- Leeds Liverpool Canal
+- West Yorkshire Police
 ---
 
 AN otter has died in the Bradford district, West Yorkshire Police has confirmed.

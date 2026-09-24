@@ -12,6 +12,25 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- China
+- Denver Water
+- El Reno
+- Iran
+- New York
+- Oklahoma
+- Patagonia
+- Russia
+- Thailand
+- U.S.
+- Virginia
+people:
+- Trump
+organisations:
+- Amazon
+- Bitcoin
+- Get Tom's Hardware
 ---
 
 ![power lines as seen from above](https://cdn.mos.cms.futurecdn.net/CLB7qJReTEKaR87xGroG8n-320-80.png)

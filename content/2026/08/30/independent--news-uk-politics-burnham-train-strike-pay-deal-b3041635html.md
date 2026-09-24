@@ -13,6 +13,25 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Sports
+locations:
+- Avanti West Coast
+- Blackpool
+- Britain
+- Glasgow
+- Liverpool
+- London
+- London-Manchester
+- Manchester
+- North
+people:
+- Andy Burnham
+organisations:
+- Aslef
+- Avanti West Coast
+- DFTO
+- Department for Transport
+- Department for Transport Operator
+- Sunday Times
 ---
 
 Train drivers including those operating the London-Manchester line used by Andy Burnham are set to receive an above-inflation pay rise of 3.6 per cent.

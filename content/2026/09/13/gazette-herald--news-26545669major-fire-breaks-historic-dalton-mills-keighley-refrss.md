@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Film & TV
+locations:
+- Dalton Mills
+- Keighley
+- Yorkshire
+people:
+- Dalton Mills
+- Keighley
+- Robbie Moore
+organisations:
+- Bradford Telegraph & Argus
+- Downton Abbey
+- Keighley & Ilkley
+- Peaky Blinders
+- T&A
+- The Press'
+- West Yorkshire Fire and Rescue
+- West Yorkshire Fire and Rescue Service
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 A major investigation is underway after a huge fire ripped through an historic mill in Yorkshire.

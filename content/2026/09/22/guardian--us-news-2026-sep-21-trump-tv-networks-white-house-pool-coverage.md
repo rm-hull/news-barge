@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/894f4f3744dd16f67635d89714528d052ab9e9ce/535_0_3000_2401/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6e6172b821e3a7cb008f121dbf91ecd
+locations:
+- New York
+- US
+- Washington
+- White House
+people:
+- Bryan Boughton
+- Donald Trump
+organisations:
+- ABC
+- Associated Press
+- CBS
+- CNN
+- Fox News
+- Free Press
+- MS Now
+- NBC
+- New York Times
+- Politico
+- Secret Service
+- Trump Administration
+- Trump TV
+- Truth Social
+- United Nations
+- Washington Post
 ---
 
 The major US television news outlets agreed to suspend their video coverage of Donald Trump after the administration banned journalists from several outlets from entering the White House grounds.

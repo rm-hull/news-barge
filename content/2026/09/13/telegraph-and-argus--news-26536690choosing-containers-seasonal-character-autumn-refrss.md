@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Moss and Moor
+- Newby Hall
+- RHS
+- Ripon
+- UK
+- Yorkshire
+people:
+- Jenny
+organisations:
+- Harrogate Flower Show
 ---
 
 *(Image: Getty)*

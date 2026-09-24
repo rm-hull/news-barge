@@ -16,6 +16,21 @@ categories:
 - York
 - History
 - Arts & Culture
+locations:
+- A65
+- Abbey House
+- Kirkstall Abbey
+- Leeds
+- Penny Arcade
+- Skipton
+- Stephen Harding Gate
+- West Riding
+people:
+- Henry VIII
+organisations:
+- Abbey Fold
+- Gatehouse
+- Leeds City Council
 ---
 
 # The Abbey House: Gatehouse to the 12th century Cistercian monastery of Kirkstall Abbey

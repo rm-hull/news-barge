@@ -11,6 +11,30 @@ image: https://i.guim.co.uk/img/media/3e3cf0448660f5e084369101cb80369f69c1e465/0
 categories:
 - UK
 - News & Politics
+locations:
+- Herdegen
+- Perth
+- Secret Harbour
+- Western Australia
+people:
+- Andrew Hastie
+- Barnaby Joyce
+- Basil Zempilas
+- Jonno Duniam
+- Luke Herdegen
+- Luke Pors
+- Pat Conroy
+- Paul Papalia
+- Pauline Hanson
+- Rod Caddies
+- Roger Cook
+organisations:
+- Georgia Tree
+- News24
+- One Nation
+- Qantas
+- WA Labor
+- WA Liberal
 ---
 
 Barnaby Joyce has declared “politics has changed” after One Nation claimed victory in the Secret Harbour state byelection in Western Australia.

@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ashford
+- Braintree
+- Castleford
+- Dalton Park
+- Portsmouth
+- Pottery Village
+- Somerset
+- UK
+- York
+people:
+- Denby
+- Tony Wright
+organisations:
+- '## Denby'
+- Aldi
+- Cheshire Oaks
+- FRP
+- Newsquest
 ---
 
 *(Image: Denby)*

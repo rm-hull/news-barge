@@ -13,6 +13,17 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Athersley South
+- Barnsley
+- Wingfield Road
+people:
+- Adam Watkinson
+- Russell Baxter
+organisations:
+- Crimestoppers
+- Major Incident Public Portal
+- Yorkshire Ambulance Service
 ---
 
 # Man found dead with multiple injuries named as murder suspect bailed

@@ -14,6 +14,26 @@ categories:
 - Arts & Culture
 - True Crime
 image: https://cdn.mos.cms.futurecdn.net/63YFsfMGgBgS844Nfo2REN-1920-80.jpg
+locations:
+- Virgin River
+- Wakestead
+people:
+- DI Emma Clare
+- DI Tom Radley
+- Douglas Booth
+- George Cooper Sr.
+- Michelle Keegan
+organisations:
+- Google News
+- Hallmark
+- ITV
+- ITVX
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![The cast of The Blame stand outside a fake police station](https://cdn.mos.cms.futurecdn.net/63YFsfMGgBgS844Nfo2REN.jpg)

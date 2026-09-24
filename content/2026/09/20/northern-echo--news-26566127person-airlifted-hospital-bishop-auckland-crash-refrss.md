@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21478744.jpg?type=og-image
+locations:
+- Bishop Auckland
+- James Cook University Hospital
+- Morrisons
+- Newgate Street
+- Princes Street
+- Princess Street
+- South Church Road
+- South Church Street
+people: []
+organisations:
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- North East Ambulance Service
+- Northern Echo
 ---
 
 *(Image: Anonymous member of public)*

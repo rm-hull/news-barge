@@ -12,6 +12,37 @@ image: https://cdn.mos.cms.futurecdn.net/myGg799ocMMaYj2442vKCo-1920-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- US
+- Virgin River
+people:
+- Brian
+- Claire
+- Duncan Lacroix
+- Ellen
+- George Cooper Sr.
+- Harriet Slater
+- Henry
+- Hermione Corfield
+- Jamie Roy
+- Jeremy Irvine
+- Julia
+- Murtagh
+- Rory Alexander
+- Sam Heughan
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- MGM
+- Netflix
+- Outlander
+- Radio Times
+- Scottish Highlands
+- Starz
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Brian takes Ellen's hand in his](https://cdn.mos.cms.futurecdn.net/myGg799ocMMaYj2442vKCo.jpg) 

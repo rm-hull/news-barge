@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Horn of Africa
+- Kampala
+- Somalia
+- Turkey
+- Uganda
+people:
+- '"(Lumbuye'
+- Angelo Izama
+- Fadil Twalla
+- Fred Lumbuye
+- Muhoozi Kainerugaba
+- Yoweri Museveni
+organisations:
+- Fanaka Kwawote
+- Patriotic League of Uganda
+- al-Shabab
 ---
 
 Hundreds of Ugandans demonstrated outside the Turkish Embassy on Friday to demand the extradition of a dissident whose online activities are seen by local authorities as anti-government propaganda.

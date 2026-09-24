@@ -13,6 +13,12 @@ categories:
 - Germany
 - News & Politics
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20251215__887E7NQ__v1__MidRes__BelgiumEuPoliticsCommission.jpg@webp
+locations:
+- Europe
+people: []
+organisations:
+- Commission
+- EU
 ---
 
 The proposal aims to make qualification recognition easier “in order to address labour and skills shortages” and “help EU employers accelerate recruitment of talent from outside the EU”.

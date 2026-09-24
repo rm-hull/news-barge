@@ -13,6 +13,36 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Belgium
+- Butler Farm Show Grounds
+- Germany
+- PA
+- White House
+people:
+- Butler
+- Christopher Wray
+- Corey Comperatore
+- Dan Bongino
+- Democrat Plot
+- Donald Trump
+- Jill Biden
+- Joe Biden FBI
+- Kash Patel
+- Thomas Crooks
+- Thomas Matthew Crooks
+organisations:
+- AI
+- Bongino
+- Crooks’
+- Election
+- FBI
+- Fox News Digital
+- Office of Joe
+- The Independent
+- Trump
+- Truth Social
+- U.S. Secret Service
 ---
 
 President Donald Trump has alleged that a “Democrat Plot” was behind the 2024 assassination attempt against him and claimed newly discovered information shows key evidence was missing, altered or corrupted.

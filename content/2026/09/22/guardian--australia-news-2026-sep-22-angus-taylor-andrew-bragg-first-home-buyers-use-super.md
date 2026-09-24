@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/4504ac2dde06c5fcd610b416e7a53d814a6ae839/16_457_4793_3836/master/4793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c362808a284e2fe5785ed6bd71d7c17d
+locations:
+- Australia
+people:
+- Andrew Bragg
+- Angus Taylor
+- Matthew Bowes
+- Peter Tulip
+- Richard Marles
+organisations:
+- ABC
+- ABC’s Radio National
+- Centre for Independent Studies
+- Coalition
+- Financial Service Council
+- Grattan Institute
+- Liberal
+- National Press Club
+- Tulip
 ---
 
 Angus Taylor has immediately distanced himself from the latest policy proposal from Liberal frontbencher Andrew Bragg that would let first home buyers use their superannuation savings as collateral for a loan.

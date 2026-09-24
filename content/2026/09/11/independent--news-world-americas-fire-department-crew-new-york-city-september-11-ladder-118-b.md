@@ -14,6 +14,64 @@ categories:
 - Music
 - Society & Culture
 - History
+locations:
+- Bergen Beach
+- Brooklyn Bridge
+- Brooklyn Heights
+- Ground Zero
+- Manhattan
+- Middagh Street
+- New York
+- New York City
+- Puerto Rico
+- Queens
+- South Tower
+- Staten Island
+- World Trade Center
+people:
+- Bobby
+- Eddie Green
+- Elsie Hewitt
+- God
+- Joey Agnello
+- John Sorrentino
+- Joseph Agnello
+- Leon Smith
+- Martin Egan
+- Marty
+- Pete Davidson
+- Pete —
+- Peter Vega
+- Richie Murray
+- Robert Egan
+- Robert Regan
+- Robert Wallace
+- Scott Davidson
+- Scotty
+- So
+- Superman
+- Vernon Cherry
+- Vernonmo Lasagmo
+- Wacky Wallace
+- Zohran Mamdani
+organisations:
+- Air Force
+- Division 15
+- FDNY
+- Google
+- HQ
+- Little League
+- Marriott Hotel
+- National Anthem
+- National September 11 Memorial & Museum
+- Navy
+- New York Post
+- Port Authority
+- Queens-based Songs of Love Foundation
+- Starbucks
+- The Independent
+- Twin Towers
+- World Trade Center
 ---
 
 The six-man crew on FDNY Ladder 118’s truck raced across the Brooklyn Bridge toward the twin towers of the World Trade Center as thick black smoke poured out of their upper floors on the otherwise bright, clear morning of September 11, 2001.

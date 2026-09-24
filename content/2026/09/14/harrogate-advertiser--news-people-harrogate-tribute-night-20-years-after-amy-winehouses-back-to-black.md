@@ -13,6 +13,34 @@ categories:
 - Local
 - Harrogate
 - Music
+locations:
+- Harrogate
+- UK
+people:
+- Amy Winehouse
+- Billie Holiday
+- Chris Simpson
+- Colin Paine
+- David Bowie
+- George Farrar
+- Graham Chalmers
+- Ken Scott
+- Mark Ronson
+- Rob Chapman
+- Sarah Vaughan
+- Syd Barrett
+organisations:
+- Beatles
+- Charm
+- Harrogate Advertiser
+- Harrogate District Hospital
+- Harrogate Hospital
+- Harrogate International Festivals Fringe
+- Magna Carta
+- Queen Extravaganza
+- Special Care Baby Unit
+- Starling Independent Bar Cafe Kitchen
+- Vinyl Sessions
 ---
 
 # Harrogate tribute night 20 years after Amy Winehouse's Back to Black album hit number one

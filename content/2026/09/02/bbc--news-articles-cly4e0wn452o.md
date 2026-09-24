@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Downing Street
+- Downing Street.
+- London
+- UK
+people:
+- Larry
+- Rory Boland
+- Trevor
+organisations:
+- AI
+- BBC
+- Booking.com
+- Booking.com's
+- OSA
+- Ofcom
+- Which?
 ---
 
 ![10 Downing Street. The black door featuring the "10" lettering and letterbox is closed, with Larry the Cat sat on the doorstep in front of it.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg)

@@ -14,6 +14,20 @@ categories:
 - Business & Entrepreneurship
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/19821117.jpg?type=og-image
+locations:
+- Clifton Moor
+- Holgate Road
+- York
+people:
+- Joanne Bowes
+- Laura Mae
+- Laura Mae Bowes
+organisations:
+- Cameo Engraving
+- MAE Café
+- MAE Market
+- The Yorkshire Dales
+- The Yorkshire Dales meets M&S
 ---
 
 A much-loved coffee shop founded by a mother and daughter team is set to expand with a new venture in York.

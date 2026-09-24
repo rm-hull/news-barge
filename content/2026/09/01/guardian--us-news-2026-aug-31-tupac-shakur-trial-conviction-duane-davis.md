@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Brooklyn
+- Las Vegas
+- Los Angeles
+- MGM Grand
+people:
+- Biggie Smalls
+- Christopher Wallace
+- Davis’
+- Duane Davis
+- Duane “Keffe D” Davis
+- Marc DiGiacomo
+- Marion “Suge” Knight
+- Michael Sanft
+- Mike Tyson
+- Orlando “Baby Lane” Anderson
+- Pac
+- Tupac Shakur
+- Zayd Akinyela
+organisations:
+- B.I.G
+- Black Panther
+- Cadillac
+- Death Row Records
+- FBI
+- South Side Compton Crips
 ---
 
 Thirty years after the killing of Tupac Shakur, conspiracy theories and rumors about the perpetrator’s identity, one man has now been held criminally responsible for the rap icon’s death.

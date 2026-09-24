@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Devon
+- Exe Estuary
+- Exmouth
+- Green Farm
+- Littleham Brook
+- Littleham Village
+- Maer Bridge
+- Maer Farm
+- Maer Rocks
+- UK
+people: []
+organisations:
+- EA
+- Environment Agency
 ---
 
 Environment bosses have issued an urgent “do not swim” warning at a UK beauty spot after a pollutant turned the river bright blue.

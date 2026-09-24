@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/19313644.jpg?type=og-image
+locations:
+- Bradford
+- Eccleshill
+- Harrogate Road
+- Lidl
+- UGC
+people: []
+organisations:
+- West Yorkshire Police
+- YORKSHIRE Ambulance Service
+- Yorkshire Ambulance Service
 ---
 
 *(Image: UGC)*

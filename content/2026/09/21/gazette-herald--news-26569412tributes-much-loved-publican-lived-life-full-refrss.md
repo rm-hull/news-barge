@@ -13,6 +13,41 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21483567.jpg?type=og-image&xType=0&yType=284
+locations:
+- Born
+- Caistor
+- Market Rasen
+- Rillington
+- Rog
+- South Lincolnshire
+- West Heslerton
+- West Lutton
+- Wyberton
+people:
+- Angela —
+- Bell
+- Cyril
+- Dad
+- Helen
+- Helen.Together
+- Helena
+- James
+- Jane
+- John
+- Katherine
+- Lucian.Rog
+- Richard
+- Rog
+- Roger “Rog” Shaul
+- Sebastian
+- William
+organisations:
+- Coach & Horses
+- Dawnay Arms
+- HGV
+- Rog
+- The Coach & Horses
+- The Three Tuns
 ---
 
 *(Image: Family)*

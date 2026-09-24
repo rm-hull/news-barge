@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Britain
+- Europe
+- London
+- UK
+- Whitehall
+- Yorkshire
+people:
+- Christopher Furlong
+organisations:
+- Centre for Cities
 ---
 
 # Fiscal devolution is a key piece of the economic puzzle but must fit in the right place

@@ -13,6 +13,25 @@ image: https://static.independent.co.uk/2026/09/06/14/43/chriswright_sotu_926.jp
 categories:
 - News & Politics
 - UK
+locations:
+- Hormuz Strait
+- Iran
+- Strait of Hormuz
+- Tehran
+- U.S.
+- United States
+- Washington
+people:
+- Chris Wright
+- Dana Bash
+- Donald Trump
+- JD Vance
+organisations:
+- AAA
+- CNN
+- State of the Union
+- Truth Social
+- U.S. Navy
 ---
 
 Donald Trump’s energy chief hesitated to say whether gas prices would go up or down, with the midterms only two months away.

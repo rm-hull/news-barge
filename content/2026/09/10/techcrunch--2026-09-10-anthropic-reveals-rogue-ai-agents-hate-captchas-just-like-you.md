@@ -9,6 +9,14 @@ description: Come inside the mind of a bot trying to convince the internet it's 
 image: https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676
 categories:
 - Technology & Software
+locations: []
+people:
+- Colin Fraser
+organisations:
+- Anthropic
+- CAPTCHA
+- PyPI
+- Python
 ---
 
 Anthropic’s latest report about agentic misbehavior offers plenty to be concerned about — its Mythos 5 model gained unauthorized access to the internet and uploaded a malicious software package to a public database — but it also offers some levity: AI agents hate CAPTCHA.

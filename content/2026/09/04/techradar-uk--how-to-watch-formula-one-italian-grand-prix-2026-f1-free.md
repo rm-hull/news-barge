@@ -9,6 +9,63 @@ description: Can Ferrari beat Mercedes and McLaren to a home win at Monza?
 image: https://cdn.mos.cms.futurecdn.net/xx853zVsPmHMZxwcFTdLei-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Alpine
+- Australia
+- Austria
+- Belgium
+- Budapest
+- Canada
+- Circuit Zandvoort
+- Great Britain
+- Italy
+- Luxembourg
+- Monza
+- North America
+- UK
+- US
+- uk
+people:
+- Charles Leclerc
+- George Russell
+- Isack Hadjar
+- Isack Hadjar**
+- Kimi Antonelli
+- Krishi
+- Lando Norris
+- Larry
+- Lewis Hamilton
+- Liam Lawson
+- Max Verstappen
+- Oscar Piastri
+- Pierre Gasly
+- Yuki Tsunoda
+organisations:
+- Apple TV
+- F1 TV
+- Ferrari
+- Fox Sports
+- Future Publishing
+- Kayo
+- Krishi
+- McLaren
+- Mercedes
+- Monza
+- Norris'
+- Now TV
+- RTBF Auvio
+- Racing Bulls
+- Red Bull
+- Red Bull)
+- Scuderia
+- Servus
+- Sky Sports
+- TSN
+- TV8
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
 ---
 
 ![Race winner Lando Norris of Great Britain and McLaren celebrates on arrival in parc ferme during the F1 Grand Prix of Netherlands at Circuit Zandvoort](https://cdn.mos.cms.futurecdn.net/xx853zVsPmHMZxwcFTdLei.jpg) 

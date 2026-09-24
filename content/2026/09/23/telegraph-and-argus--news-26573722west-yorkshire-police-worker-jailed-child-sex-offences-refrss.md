@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489850.jpg?type=og-image&xType=0&yType=436
+locations:
+- Great Grimsby Crown Court
+- West Yorkshire
+people:
+- Christopher Thompson
+- Supt Wilkins
+- Tanya Wilkins
+organisations:
+- Kingston-Upon-Hull Crown Court
+- Professional Standards Directorate
+- Regional Scientific Support Services
+- Sex Offenders Register
+- West Yorkshire Police
+- West Yorkshire Police’s Professional Standards Directorate
 ---
 
 *(Image: West Yorkshire Police)*

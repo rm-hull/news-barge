@@ -13,6 +13,33 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- America
+- Hawaii
+- Kansas
+- San Bernardino
+- South Carolina
+- US
+- United States
+people:
+- Annie Andrews
+- Barbara Bollier
+- Darline
+- Donald Trump
+- Josh Green
+- Lindsey Graham
+- Matthew Motta
+- Meredith Conroy
+- Rand Paul
+- Shaughnessy Naughton
+organisations:
+- 314 Action
+- Boston University’s School of Public Health
+- California State University
+- Congress
+- House
+- National Health Service Corps
+- Senate
 ---
 
 Annie Andrews was a dark horse Democrat challenging a five-term Republican in the US Senate when 314 Action, a political action fund devoted to electing scientists and doctors, first backed her.

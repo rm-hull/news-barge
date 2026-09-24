@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Grantley Hall
+- London
+- Yorkshire
+people:
+- Victoria Clapham
+organisations:
+- Yorkshire Beauty
 ---
 
 *(Image: Supplied)*

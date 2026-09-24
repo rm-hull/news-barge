@@ -14,6 +14,23 @@ categories:
 - Technology & Software
 - Science
 image: https://i.guim.co.uk/img/media/5a5ced93558051e86c64eafe2873ada8279106f9/407_0_4068_3255/master/4068.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d5ce1c5ea9878017349c492e1b3d31e
+locations:
+- Gulf
+- Lower Rio Grande Valley National Wildlife Refuge
+- South Texas
+- US
+- US-Mexico
+people:
+- Elon Musk
+- Fernando Rodriguez Jr
+- Laiken Jordahl
+organisations:
+- Center for Biological Diversity
+- Fish and Wildlife Service
+- SpaceX
+- Starbase
+- Trump
+- US Fish and Wildlife Service
 ---
 
 A federal judge on Monday refused to block the Trump administration from giving SpaceX more than 700 acres of wildlife refuge as part of a land swap in Texas, while environmental groups vowed to continue their legal challenge.

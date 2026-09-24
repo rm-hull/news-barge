@@ -12,6 +12,49 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Florida
+- Iowa
+- Maryland
+- Ohio
+- South Carolina
+- Washington
+- White House
+people:
+- Byron Donalds
+- Cory Mills
+- Darline Graham Nordone
+- Donald Trump
+- Donald Trump Jr.
+- J.D. Vance
+- Jay Collins
+- Lindsey Graham
+- Marco Rubio
+- Matt
+- Mike Waltz
+- Nikki Haley
+- Pete Hegseth
+- Ralph Norman
+- Ron DeSantis
+- Trump Jr.
+organisations:
+- CPAC
+- Congress
+- Conservative Political Action Conference
+- Fox News
+- GOP
+- House Freedom Caucus
+- Iowa State Fair
+- Marine One
+- Mercedes Schlapp
+- New York Times
+- No. 2
+- Oval Office Trump
+- Republican Party
+- Senate
+- U.N.
+- Washington Post
 ---
 
 President Donald Trump was asked by a reporter Monday about rumors that Secretary of Defense Pete Hegseth may run for president in 2028— and he gave a response that probably won’t be well-received by supporters of his presumed successor at the top of the ticket, J.D. Vance.

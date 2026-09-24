@@ -14,6 +14,36 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIwMGFjMTI3LTk3MTgtNDIyZC04ZjY2LTZjMWU0YTkzNGZmYTpjZTBlODY5MS02OWY1LTQ1MTItYTRkNy1kYmRjYjE5NDQ3NTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bradford
+- Elland Road
+- England
+- Leeds
+- South Yorkshire
+- UK
+- West Yorkshire
+- Westminster
+- Whitehall
+people:
+- Aditi Sriram
+- Andy Burnham
+- Jim O’Neill
+- Peter Lowy
+- Rachel Reeves’
+- Tracy Brabin
+organisations:
+- Department for Transport
+- DfT
+- Government
+- IPPR North
+- Institute for Public Policy Research
+- Leeds United
+- Ms Brabin
+- OECD
+- Organisation for Economic Co-operation and Development
+- Treasury
+- WYCA
+- West Yorkshire Combined Authority
 ---
 
 # Hand mayors extra £4bn from income tax to boost mass transit schemes, report finds

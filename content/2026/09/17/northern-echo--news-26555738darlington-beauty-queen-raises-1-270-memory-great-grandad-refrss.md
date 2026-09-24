@@ -14,6 +14,35 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- County Durham
+- Darlington
+- Great-Grandad
+- King's Cross
+- Miss Great Britain
+- North East
+- Scotland
+- Team Valley
+people:
+- Arthur Crosier
+- Francis Crick
+- James Bradbury
+- Jamie Wards
+- Nicole Hanson
+organisations:
+- Abarth Club North East
+- Abarth Fest
+- Alloy Wheel Workshop
+- Auckland
+- Best Paint
+- Bigby Studios
+- Cancer Research
+- Cancer Research UK
+- Durham
+- H2O Hydrogen Engine Cleaning
+- HB Vinyls
+- Spud Detailing
+- Tuning Art
 ---
 
 A Darlington beauty queen has raised more than £1,000 for charity in memory of the great grandad she tragically lost to a brain tumour.

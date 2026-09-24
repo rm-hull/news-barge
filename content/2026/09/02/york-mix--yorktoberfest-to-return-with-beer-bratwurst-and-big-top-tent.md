@@ -11,6 +11,19 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Brew York
+- Munich
+- York Racecourse
+people:
+- James Cundall
+- Velma Celli
+organisations:
+- Bavarian Bar
+- Jamboree Entertainment
+- The Bavarian Strollers
+- The Dog Haus
+- Yorktoberfest
 ---
 
 York’s traditional Bavarian beer festival is back!

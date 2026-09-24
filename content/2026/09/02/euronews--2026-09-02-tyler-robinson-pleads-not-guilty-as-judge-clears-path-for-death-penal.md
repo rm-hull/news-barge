@@ -13,6 +13,25 @@ categories:
 - Europe
 - News & Politics
 - True Crime
+locations:
+- Provo
+- Utah
+people:
+- '## Robinson'
+- Chad Grunander
+- Charlie Kirk
+- Erika Kirk
+- Kathryn Kirk
+- Robert
+- Ryan McBride
+- Staci Visser
+- Tony Graf
+- Trump
+- Tyler James Robinson
+- Tyler Robinson
+organisations:
+- Utah County Attorney’s Office
+- Utah Valley University
 ---
 
 ## Robinson, seen as the sole suspect in the 2025 assassination of right-wing activist Charlie Kirk, entered a not guilty plea after a judge gave the green light for prosecutors to advance towards the death penalty as the case goes to trial.

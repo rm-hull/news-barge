@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f80/live/a313f290-b5a9-11f1-a430-4d16ee157c41.jpg
+locations:
+- Caracas
+- Caribbean
+- Colombia
+- Pacific
+- US
+- White House
+people:
+- Ben Saul
+- Gustavo Petro
+- Nicolás Maduro
+- Pete Hegseth
+organisations:
+- BBC News
+- State Department
+- UN Human Rights Council
+- US Southcom
 ---
 
 ![Image supplied by US Southcom on 19 September showing projectile approaching vessel alleged to be involved in drug-trafficking](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9f80/live/a313f290-b5a9-11f1-a430-4d16ee157c41.jpg)

@@ -13,6 +13,30 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Adessia Stream
+- Hull
+- Leeds
+- Liverpool Lime Street
+- Manchester Airport
+- Manchester Piccadilly
+- Manchester__
+- North’
+- Pennines
+- Saltburn
+- Scarborough
+- UK
+- York
+- Yorkshire
+people:
+- Andy Burnham
+organisations:
+- Adessia Stream
+- Alstom
+- Government
+- Rock Rail
+- TransPennine Express
+- Transpennine Express
 ---
 
 # Inside the 29 new trains which 'will bring faster, more reliable travel to Yorkshire'

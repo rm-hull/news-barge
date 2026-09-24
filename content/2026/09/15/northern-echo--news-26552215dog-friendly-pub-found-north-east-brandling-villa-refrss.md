@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Bamburgh
+- Brandling Villa
+- Britain
+- County Durham
+- Darlington
+- Dipton
+- Harbottle
+- Hart Village
+- Newcastle
+- North East
+- South Gosforth
+- Teesside
+- The Brandling Villa
+- UK
+people:
+- Adem Fehmi
+- Charlie Cook
+- Vinnie *(Image
+organisations:
+- Brandling Villa
+- Raby Arms
+- Rover
+- Tavern Testers
+- Tavern Testers'
+- The Middle Inn
+- The Owl & Otter
+- The Star Inn
 ---
 
 A pub in the North East has been crowned the most dog-friendly pub in Britain.

@@ -13,6 +13,24 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/18/APTOPIX_Israel_Palestinians_West_Bank_8_466.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brazil
+- Israel
+- Senegal
+- Taybeh
+- Ukraine
+- West Bank
+people:
+- Benjamin Netanyahu
+- Leo Correa
+- Muhammad
+- Nayef Kaabneh
+organisations:
+- AP
+- Hamas
+- The Associated Press
+- U.N.
+- Zeiss
 ---
 
 Leo Correa began working in Israel for The Associated Press following the Oct. 7, 2023 Hamas attack and joined the staff the next year.

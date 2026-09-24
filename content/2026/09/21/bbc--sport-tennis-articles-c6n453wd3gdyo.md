@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf0e/live/5e368760-b5c6-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Australia
+- China
+- Cincinnati
+- Czech Republic
+- Great Britain
+- Kazakhstan
+- Melbourne
+- Miami
+- Osaka
+- Ostrava
+- Rybakina
+- Shenzhen
+- Spain
+people:
+- Anne Keothavong
+- Aryna Sabalenka
+- Elena Rybakina
+- Emma Raducanu
+- Harriet Dart
+- Harriet Dart.
+- Jodie Burrage
+- Karolina Muchova
+- Katerina Siniakova
+- Katie Boulter
+- Linda Noskova
+- Madison Keys
+- Marie Bouzkova
+- Mika Stojsavljevic
+- Sara Bejlek
+- Sonay Kartal
+organisations:
+- BBC Sport
+- BBC iPlayer
+- GB
+- Nottingham
+- Queen's
+- Sonay Kartal
+- WTA
 ---
 
 ![Mika Stojsavljevic, Katie Boulter, Anne Keothavong, Harriet Dart, Jodie Burrage and Sonay Kartal pose for a photograph with arms around each other, all wearing zip-up blue team tracksuit tops](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cf0e/live/5e368760-b5c6-11f1-abb5-85e9be42cb76.jpg)

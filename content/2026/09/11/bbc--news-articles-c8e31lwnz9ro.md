@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Atlanta
+- Georgia
+- Llanfairpwllgwyngyll
+- Machynlleth
+- New York
+- New York City
+- Swansea
+- Twin Towers
+- UK
+- USA
+- Vermont
+- Wales
+people:
+- Carl Williams
+- Charles Wolf
+- Katherine **When
+- Katherine Wolf
+- Katherine goodbye
+- Llinos
+- Rhun ap Iorwerth
+- Stanley Tucci
+organisations:
+- BBC
+- FBI
+- Iorwerth
+- Marsh
+- McLennan
+- Mid and West Wales Fire and Rescue Service
+- Netflix
+- Twin Towers
+- Victim Compensation Fund
+- World Trade Center
+- World Trade Centre
 ---
 
 ![A picture of Charles Wolf and his wife smiling at the camera. They are stood outside a door to a house. He is wearing a dark suit jacket and a black shirt. He has short, brown hair and is wearing spectacles. She is leaning into him, wearing a green jumper. She has short, red hair.](https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/66ee/live/8db13e30-ad9d-11f1-9c00-532e2e73065b.jpg)

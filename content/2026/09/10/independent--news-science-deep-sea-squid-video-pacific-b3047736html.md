@@ -11,6 +11,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- California
+- Davidson Seamount
+- Monterey Bay National Marine Sanctuary
+- Pacific
+people:
+- Andrew DeVogelaere
+- David Packard
+- Olívia Soares Pereira
+organisations:
+- Monterey Bay Aquarium Research Institute
+- Monterey Bay National Marine Sanctuary
 ---
 
 An elusive deep-sea squid has been filmed in a rare encounter off the coast of California, marking the first time the species has been spotted in the northeastern Pacific region.

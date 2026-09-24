@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 - History
+locations:
+- Khartoum
+- Nairobi
+- Sudan
+- US
+people: []
+organisations:
+- '## Former Organisation for the Prohibition of Chemical Weapons'
+- Al-Jili Oil Refinery
+- EU
+- Euronews
+- New York Times
+- OPCW
+- Organisation for the Prohibition of Chemical Weapons
+- Rapid Support Forces
+- State Party
+- States Parties
+- UN
+- Washington Post
 ---
 
 ## Former Organisation for the Prohibition of Chemical Weapons officials say they have found evidence that the Sudanese government may have deployed chemicals amid the country's ongoing civil war.

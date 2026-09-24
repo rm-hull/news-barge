@@ -11,6 +11,16 @@ description: The new Apple Watch health monitoring tools are broader, smarter, a
 image: https://cdn.mos.cms.futurecdn.net/WddgqpgGSUhVQPC9fyoLyH-1920-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Rowan Davies
+organisations:
+- Apple Intelligence
+- Apple Watch
+- Garmin
+- Google News
+- TechRadar
+- Whoop
 ---
 
 ![Apple Watch and iPhone displaying heart health](https://cdn.mos.cms.futurecdn.net/WddgqpgGSUhVQPC9fyoLyH.jpg) 

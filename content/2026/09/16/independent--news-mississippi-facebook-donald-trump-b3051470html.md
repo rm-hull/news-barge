@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Leake County
+- Mississippi
+people:
+- Daniel Jordan
+- Donald Trump
+- John Hooks
+- Monte Ladner
+- Will Russell
+organisations:
+- Board
+- Copiah County School District
+- Facebook
+- Justice Department
+- Leake County School District
+- Mississippi Today
+- Rankin County School District
+- The Associated Press
+- U.S. Department of Justice
+- U.S. District Court
+- U.S. District Court for the Southern District of Mississippi
 ---
 
 After more than half a century, Leake County schools have been released from a federal order that monitored and prevented racial discrimination within the district.

@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Bridge Street
+- Britain
+- King's Staith
+- Pavement
+- River Ouse
+- York
+people: []
+organisations:
+- Benson & Hedges
+- Tetley Bitter
+- The Press
 ---
 
 These old photographs of York show a city that may seem to belong to another world.

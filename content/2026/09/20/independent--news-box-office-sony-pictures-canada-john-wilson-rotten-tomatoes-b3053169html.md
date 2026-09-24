@@ -13,6 +13,30 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/16/21/Film_Review_-_Resident_Evil__3784.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- New York
+- North America
+- Raccoon City
+- U.S.
+people:
+- Austin Abrams
+- Buddy
+- Coyote
+- Daniel
+- John Wilson
+- Paul Dergarabedian
+- Resident Evil
+- Zach Cregger
+- “Runner
+organisations:
+- Acme
+- Fiery Furnace
+- IFC Center
+- Odyssey
+- PostTrak
+- Rentrak
+- Sony Pictures
 ---
 
 Zach Cregger’s “Resident Evil” gave the North American box office a shot in the arm in its first weekend in theaters. The Sony Pictures release earned $60 million in ticket sales from 3,684 locations in the U.S. and Canada, according to studio estimates Sunday.

@@ -13,6 +13,37 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- England
+- India
+- Ireland
+- Lord's
+- South Africa
+- Sussex
+people:
+- '** Capsey'
+- Alice Capsey
+- Amy Jones
+- Charlotte Edwards
+- Dani Gibson
+- Gibbo
+- Issy Wong
+- Lauren] Filer
+- Linsey Smith
+- Nat Sciver-Brunt
+- Sarah Taylor
+- Sophia Dunkley
+- Sophie Ecclestone
+organisations:
+- BBC Sport
+- Bede's School
+- Capsey
+- England
+- ICC
+- ODI
+- South East Stars
+- Surrey
+- iPlayer
 ---
 
 ![A smiling Alice Capsey holds up a ball while wearing wicketkeeper gloves](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/92b7/live/b7caa4f0-a54a-11f1-8689-6589354d0f8e.jpg)

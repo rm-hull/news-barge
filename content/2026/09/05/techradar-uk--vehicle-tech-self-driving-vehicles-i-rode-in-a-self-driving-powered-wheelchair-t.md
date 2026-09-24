@@ -12,6 +12,22 @@ image: https://cdn.mos.cms.futurecdn.net/EemEYNJey6DHFNvqqzemoR-2560-80.jpg
 categories:
 - Technology & Software
 - Automotive
+locations: []
+people:
+- Mario Kart
+- Matt Bolton
+- Strutt
+organisations:
+- Creative Bloq
+- Dolby Vision
+- Edge
+- Google News
+- Home Tech
+- IFA
+- Matt
+- PC Gamer
+- T3
+- TechRadar
 ---
 
 ![The Strutt ev1c with TechRadar Editor Matt Bolton sitting on it, in a booth at the IFA trade show](https://cdn.mos.cms.futurecdn.net/EemEYNJey6DHFNvqqzemoR.jpg) 

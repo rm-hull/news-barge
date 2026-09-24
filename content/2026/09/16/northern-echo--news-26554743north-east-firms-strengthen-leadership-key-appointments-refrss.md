@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- North East
+- UK
+people:
+- Catherine Earl
+- Graham Palmer
+- James Evans
+- Louise Thompson
+organisations:
+- Aldermore
+- Aptean
+- Assetz Capital
+- British Business Bank
+- Business Durham’s Finance Durham Fund
+- Commsworld
+- Indigo Software
+- Maven Capital Partners
+- Nexa Finance
+- Northern Powerhouse Investment Fund II
+- Northumberland County Council
+- StreamBank
 ---
 
 *(Image: Maven)*

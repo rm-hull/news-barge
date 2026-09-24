@@ -14,6 +14,26 @@ categories:
 - York
 - History
 - Travel
+locations:
+- LDRS
+- Little Ale House
+- Norman House
+- Stonegate
+- The Little Ale House
+- YOUR
+- York
+people: []
+organisations:
+- City of York Council
+- Grade II
+- Harrogate Tipple
+- Historic England
+- Little Betty’s Café
+- Public Notice Portal
+- Stonegate
+- York Civic Trust
+- York Council
+- York Minster
 ---
 
 ### What is the Public Notice Portal?

@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Dover
+- Ealing
+- England
+- Epping
+- Essex
+- London
+- Northern Ireland
+- Oxfordshire
+- Piddington
+- Pimlico
+- Portsmouth
+- Scotland
+- UK
+- Wales
+people:
+- Andy Burnham
+- Piddington
+- Tommy Robinson
+organisations:
+- Brexit
+- ECHR
+- Ealing Studio
+- European Convention of Human Rights
+- House of Burgundy
+- Labour
+- Reform UK
+- Restore Britain
+- Tories
 ---
 
 When nationalist leaders in Scotland, Wales and Northern Ireland banded together earlier this week – demanding the independence of their various nations – Andy Burnham probably did not appreciate he would face a separatist vote just days later.

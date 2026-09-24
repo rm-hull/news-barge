@@ -12,6 +12,21 @@ description: Sony has announced that it will release two limited-edition DualSen
 image: https://cdn.mos.cms.futurecdn.net/kFhzqy4kquMF96MoiGda9B-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Vice City
+people: []
+organisations:
+- Demi Williams
+- DualSense Wireless Controller
+- GameSpot
+- GamesRadar
+- Google News
+- Grand Theft Auto
+- NME
+- Sony
+- TechRadar
+- Vice City"**
+- White Limited Edition
 ---
 
 ![The DualSense Wireless Controller – Grand Theft Auto 5 Black Limited Edition](https://cdn.mos.cms.futurecdn.net/kFhzqy4kquMF96MoiGda9B.jpg) 

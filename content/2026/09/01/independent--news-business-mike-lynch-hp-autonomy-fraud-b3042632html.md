@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Sicily
+- UK
+people:
+- Hannah
+- Justice Asplin
+- Justice Hildyard
+- Mike Lynch
+organisations:
+- Autonomy
+- Court of Appeal
+- HP
+- HPE
+- Hewlett-Packard Enterprise
+- Mr Lynch
 ---
 
 Mike Lynch’s estate has been allowed to challenge part of a ruling ordering it to pay Hewlett-Packard Enterprise (HPE) more than $1.2 billion over its acquisition of software company Autonomy.

@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- France
+- Ian West
+- PA
+- Sydney
+- US
+people:
+- Beyonce
+- David Beckham
+- Ian West
+- Jennifer Lopez
+- Kate Winslet
+- Lady Beckham
+- Mel C
+- Victoria Beckham
+organisations:
+- British Empire
+- Financial Times
+- NEO Investment Partners
+- Netflix
+- Paris Fashion Week
+- Spice Girl
+- Victoria Beckham
+- Victoria Beckham Holdings Ltd
 ---
 
 Victoria Beckham’s fashion and beauty label has recorded an operating profit for the first time in the 18 years since it launched.

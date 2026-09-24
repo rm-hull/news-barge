@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/005d4917372c725d7757a080af31f902d028df90/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b89f2ac88087b7d6452dceadacedc284
+locations:
+- Argentina
+- Atlantic
+- Britain
+- Falkland Islands
+- Falklands
+- Malvinas
+- New York
+- North Falkland Basin
+- UK
+- US
+- United Kingdom
+people:
+- Andy Burnham
+- Donald Trump
+- Javier Milei
+organisations:
+- Falkland Islanders
+- Sea Lion
+- UN
 ---
 
 Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with Britain over the sovereignty of the Falkland Islands.

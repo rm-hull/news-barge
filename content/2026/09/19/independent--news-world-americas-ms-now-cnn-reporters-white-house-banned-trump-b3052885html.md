@@ -13,6 +13,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/22/13/GettyImages-2294419035.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Camp David
+- Maryland
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Betsy Klein
+- Donald Trump
+- Sherill
+organisations:
+- District of Columbia Circuit Court
+- Fake News CNN
+- Fake News Media Outlets
+- MS NOW
+- MSNOW
+- Media Outlets
+- Oval Office
+- Politico
+- Trump Administration
+- U.S. Constitution
+- United States of America
 ---
 
 Reporters for MS NOW and CNN said the White House turned them away Saturday morning, a day after President Donald Trump announced plans to block the network and other news outlets from the complex.

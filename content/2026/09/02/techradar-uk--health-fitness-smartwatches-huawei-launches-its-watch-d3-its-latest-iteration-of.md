@@ -10,6 +10,23 @@ description: A slimmer, sleeker version of Huawei's once-boxy Watch D series sti
 image: https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d-2492-80.jpg
 categories:
 - Technology & Software
+locations:
+- Cardiff
+- Matt Evans
+- US
+people:
+- Matt
+organisations:
+- '**Huawei'
+- ABPM
+- Apple
+- Google News
+- Huawei Watch D3
+- Men's Health
+- Runner's World
+- Signal Ring
+- TechRadar
+- Watch D3
 ---
 
 ![Huawei Watch D3](https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d.jpg) 

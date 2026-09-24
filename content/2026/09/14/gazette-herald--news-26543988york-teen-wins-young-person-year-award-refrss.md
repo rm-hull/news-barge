@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations: []
+people:
+- Grace Kirby
+- Ruby
+organisations:
+- David Harrison Photography
+- York St John University
 ---
 
 A teen who consistently gives up her Saturdays to help maintain her local cemetery has been commended at the York Community Pride Awards.

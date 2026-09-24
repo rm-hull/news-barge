@@ -11,6 +11,29 @@ image: https://i.guim.co.uk/img/media/0dd2688e5ac18e8e6706d39e66bd7e95e52b831c/1
 categories:
 - UK
 - News & Politics
+locations:
+- Kentucky
+- New York
+- White House
+people:
+- Alan Dershowitz
+- Anna Betts
+- David Copperfield
+- Donald Trump
+- James Comer
+- Jeffrey Epstein
+- Leon Black
+- Ro Khanna
+- Susan Estrich
+- Teresa Leger Fernández
+- Thomas Massie
+organisations:
+- Congress
+- Department of Justice
+- Epstein
+- FBI
+- Guardian
+- House
 ---
 
 An outgoing Republican congressman accused billionaire Leon Black and David Copperfield, the illusionist, of being co-conspirators of the accused late sex trafficker Jeffrey Epstein, and repeated a call for the Department of Justice to launch an immediate investigation into the men, among others.

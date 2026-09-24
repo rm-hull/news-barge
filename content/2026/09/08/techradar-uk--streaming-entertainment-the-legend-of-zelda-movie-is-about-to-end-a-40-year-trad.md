@@ -13,6 +13,29 @@ categories:
 - Technology & Software
 - Arts & Culture
 - Film & TV
+locations: []
+people:
+- Benjamin Evan Ainsworth
+- Bo Bragason
+- Link
+- Sam Neill
+- Shigeru Miyamoto
+- Tom
+- Yvonne Strahovski
+- Zelda
+organisations:
+- '2027'
+- Disney Plus
+- Google News
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- Nintendo Direct
+- Okay
+- Sony Pictures
+- Star Wars
+- TechRadar
 ---
 
 ![A close up of Benjamin Evan Ainsworth's Link in The Legend of Zelda movie](https://cdn.mos.cms.futurecdn.net/5kyzriZumgihLMworumSpU.jpg) 

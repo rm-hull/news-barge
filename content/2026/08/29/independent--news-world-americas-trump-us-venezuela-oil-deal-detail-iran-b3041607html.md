@@ -12,6 +12,39 @@ image: https://static.independent.co.uk/2026/08/29/15/2026-08-29T002705Z_4013806
 categories:
 - News & Politics
 - UK
+locations:
+- America
+- Canada
+- Caracas
+- Iran
+- Lake Maracaibo
+- Mexico
+- New York
+- Persian Gulf
+- U.S.
+- US
+- United States
+- Venezuela
+- White House
+people:
+- Amy Myers Jaffe
+- David Oxley
+- Delcy Rodríguez
+- Donald Trump
+- Douglas Borjas
+- Hugo Chavez
+- Marco Rubio
+- Nicolás Maduro
+- Pete Hegseth
+- Ricardo Hausmann
+organisations:
+- AAA
+- Capital Economics
+- Chevron
+- Energy, Climate Justice and Sustainability Lab
+- Harvard University
+- New York University
+- Saudi Aramco
 ---
 
 The White House has offered little detail regarding what President Donald Trump has described as "THE BIGGEST OIL DEAL IN WORLD HISTORY" in Venezuela, beyond a single social media post.

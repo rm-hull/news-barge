@@ -19,6 +19,20 @@ categories:
 - York
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Hanover Street
+- Keighley College.
+- UK
+people:
+- Kevin O’Hare
+organisations:
+- Arts and Maths
+- Hanover Works
+- Keighley College
+- Keighley College Skills Space
+- Keighley Creative
+- National Careers Service
+- Office for National Statistics’
 ---
 
 # Overcoming the challenge of getting economically inactive adults into work - Kevin O’Hare

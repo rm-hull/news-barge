@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Brooklyn
+- Hudson Square
+- Hudson St.
+- Lower Manhattan
+- New York
+people:
+- John Butch
+organisations:
+- Commercial Observer
+- FTS Studio
+- From the Source
+- Google
+- Internal Affairs Bureau
+- Joe & the Juice
+- NYPD
+- New York Post
+- New York Society for the Deaf
+- Sweetgreen
+- The Independent
+- Weill Cornell Medical Center
 ---
 
 A Brooklyn man was arrested on arson charges Friday after allegedly setting himself on fire in the lobby of a Lower Manhattan building housing Google.

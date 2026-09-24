@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- BRADLEY HALL
+- Brancepeth Manor Farm
+- Durham
+- Winds’
+people: []
+organisations:
+- Bradley Hall
 ---
 
 BEAUTIFULLY renovated and significantly improved by its current owners, Four Winds is an exceptional home in the exclusive semi-rural development of Brancepeth Manor Farm that seamlessly blends contemporary styling with charming character features.

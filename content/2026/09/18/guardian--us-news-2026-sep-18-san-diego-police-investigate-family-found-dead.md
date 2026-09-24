@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- Afghanistan
+- Iraq
+- San Diego
+people:
+- Amy Voight
+- David Voight
+- Gerald Austin
+- Mary Austin
+- Quinn Slaven
+organisations:
+- All VA
+- Department of Veterans Affairs
+- Fox 5
+- Naval Criminal Investigative Service
+- San Diego Union-Tribune
 ---
 
 Authorities are investigating what led to the tragic case of a family who was found fatally shot in their San Diego area home on Wednesday morning.

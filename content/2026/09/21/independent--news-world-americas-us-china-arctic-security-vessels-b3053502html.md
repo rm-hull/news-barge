@@ -12,6 +12,28 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/21/11/2294972562..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Aleutian Islands
+- Baltic (Sea
+- Barents
+- Beijing
+- Bering Strait
+- China
+- Europe
+- Moscow
+- North Pole
+- Norway
+- Oslo
+- Russia
+- Sea
+- U.S.
+- United States
+people:
+- Bob Little
+organisations:
+- Arctic District
+- U.S. Coast Guard
 ---
 
 American national security officials are closely watching growing Chinese activity in the Arctic region, according to a senior U.S. military officer.

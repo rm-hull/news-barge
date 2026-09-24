@@ -14,6 +14,26 @@ categories:
 - UK
 - Society & Culture
 - True Crime
+locations:
+- North Carolina
+- Raleigh
+- Utah
+- Wake County
+- West Virginia
+people:
+- Dennis Gaddy
+- Katheryn Zughbi
+- Laura Webb
+- Mike Tadych
+- Pate McMichael
+- Sam Pennica
+organisations:
+- North Carolina Justice Center
+- North Carolina Open Government Coalition
+- North Carolina Press Association
+- WSJ
+- Wake County’s Bureau of Forensic Services
+- Wall Street Journal
 ---
 
 A North Carolina county plans to remove around 400,000 mugshots from its public website, ending online access to booking photos collected over the past two decades.

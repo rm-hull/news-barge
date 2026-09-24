@@ -11,6 +11,38 @@ image: https://static.independent.co.uk/2026/09/11/08/download..?trim=0,0,0,0&wi
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Germany
+- Malmo
+- Malmö
+- Moscow
+- Russia
+- Stockholm
+- Sweden
+- Ukraine
+- Uppsala
+people:
+- Elisabeth Svantesson
+- Gunnar Strömmer
+- Gustav Gellerbrant
+- Jimmie Åkesson
+- Magdalena Andersson
+- Maria Malmer Stenergard
+- Nicholas Aylott
+- Pål Jonson
+- Ulf Kristersson
+- Zeth Isaksson
+organisations:
+- Cabinet
+- European Union
+- Expo magazine
+- NATO
+- Psychological Defense Agency
+- Riksdag
+- Stockholm University
+- Sweden Democrats
+- Södertörn University
 ---
 
 Voters in Sweden will go to the polls on Sunday in a contest that will decide if the conservative government stays in power, potentially granting a hard-right party its first cabinet seats, or if the centre-left will regain control.

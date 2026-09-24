@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin
+- Bundesrat
+- Germany
+- Germany.
+- Halle Airport
+- Kremlin
+- Leipzig
+- Magdeburg
+- Moscow
+- Saxony-Anhalt
+- Ukraine
+- Weissenfels
+people:
+- Boris Rhein
+- Friedrich Merz
+- Hans-Thomas Tillschneider
+- Simson
+- Sven Schulze
+- Ulrich Siegmund
+organisations:
+- AfD Meanwhile
+- Alternative for Germany
+- Alternative für Deutschland
+- BBC
+- BfV
+- CDU
+- Der Spiegel
+- Hesse State
 ---
 
 ![Ulrich Siegmund, lead candidate of the far-right Alternative for Germany (AfD), gestures as he speaks to supporters during an AfD-sponsored outing of Simson motorcycle enthusiasts ahead of upcoming state elections in Saxony-Anhalt on July 26, 2026 in Weissenfels, Germany.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bcfc/live/4c218f20-a86f-11f1-bbad-43eaf67b94b6.jpg)

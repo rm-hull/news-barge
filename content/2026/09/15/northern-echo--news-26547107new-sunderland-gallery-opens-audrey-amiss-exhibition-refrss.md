@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Fulwell
+- Keel Square
+- North East
+- South London
+- Sunderland
+people:
+- Audrey Amiss
+- Audrey Amiss’
+- Colin Davison
+- Kevin Petrie
+- Nick Malyan
+- Steve Weatherell
+organisations:
+- Audrey Amiss
+- Culture House Sunderland
+- Kitchen Sink Realism
+- NGCA
+- Northern Gallery for Contemporary Art
+- Royal Academy
+- Sunderland College of Art
+- Sunderland Culture
+- University of Sunderland
+- University of Sunderland’s School of Media and Creative Industries
+- Wellcome Collection
 ---
 
 A new chapter for arts and culture in the North East has begun with the opening of a contemporary art gallery in a landmark city centre venue, marked by an exhibition celebrating the life and work of a Sunderland-born artist.

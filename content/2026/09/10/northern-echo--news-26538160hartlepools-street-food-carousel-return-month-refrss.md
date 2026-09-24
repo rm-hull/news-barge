@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Church Square
+- Hartlepool
+- North East
+- North-East
+- Scarborough Street
+people:
+- ANDY FUTERS
+- Read More
+- Rob Darby
+- Thomas Wales
+organisations:
+- Baccanalia
+- Council's Housing, Growth and Communities Committee
+- Hartlepool Borough Council
+- Street Food Carousel
 ---
 
 *(Image: ANDY FUTERS)*

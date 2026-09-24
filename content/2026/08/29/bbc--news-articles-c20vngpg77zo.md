@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - True Crime
 - Society & Culture
+locations:
+- County Tyrone
+- Dungannon
+- Lisnahull Road
+people:
+- Barry Monteith
+- Deirdre Varsani
+organisations:
+- HART
+- Hazardous Area Response Team
+- NIAS
+- Northern Ireland Ambulance Service
+- Royal Belfast Hospital for Sick Children
+- Sinn Féin
 ---
 
 ![Two police officers stand beside a car, wearing hi-vis waterproof coats and police vests.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg)

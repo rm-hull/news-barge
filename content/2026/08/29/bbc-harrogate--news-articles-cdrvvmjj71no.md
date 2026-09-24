@@ -13,6 +13,59 @@ categories:
 - Harrogate
 - Travel
 - History
+locations:
+- Beverley Town
+- Beverley Westwood
+- Borders
+- Boston
+- Caistor
+- Castle Square
+- Cornhill
+- Cornmarket
+- Earlston
+- East Park
+- East Yorkshire
+- Helmsley
+- Horncastle
+- Hornsea
+- Hull
+- Ingham
+- Leyburn
+- Lincoln Castle
+- Lincoln Cathedral
+- Lincolnshire Wolds
+- Louth
+- Market Place
+- Market Rasen
+- Michaelgate
+- North Bar
+- North Yorkshire
+- Scotland
+- Skegness
+- Skipsea
+- Thirsk Racecourse
+- Waddingham
+- Wensleydale Railway
+- Withernsea
+- Woodhall Spa
+- Wragby Road East
+- Yorkshire Dales National Park
+- Yorkshire Dales National Park.
+- Your Eye
+people:
+- Carl Les
+- Cheryl Giles
+- Jim Togher
+- Jolly Fisherman
+organisations:
+- BBC Sounds
+- Big Yellow Bus
+- Hull City Council
+- Lincolnshire
+- Louth
+- National Escort Group
+- North Yorkshire Council
+- Yorkshire Dales
 ---
 
 ![A peloton of cyclists riding on a countryside road. People are crowded around, watching from behind metal barriers.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aeb9/live/9672c8f0-997e-11f1-a4eb-59b79ff5ff4f.jpg)

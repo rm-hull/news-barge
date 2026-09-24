@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- AI
+- UK
+people:
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- BT
+- EMR
+- Google News
+- Jowi Morales
+- Openreach
+- The Guardian
 ---
 
 ![a bundle of wires for recycling](https://cdn.mos.cms.futurecdn.net/WLkSxNzEFCG23B5WF4koxX.png) 

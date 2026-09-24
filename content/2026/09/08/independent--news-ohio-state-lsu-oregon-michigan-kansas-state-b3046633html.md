@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Austin
+- Michigan
+- North Dakota
+- Texas
+people:
+- Bryce Underwood
+- Hail Mary
+- JJ Buchnan
+organisations:
+- AP
+- Associated Press
+- Ball State
+- Boise State
+- Buckeyes
+- Clemson
+- Kansas State
+- Longhorns
+- No. 1
+- No. 11 LSU
+- No. 16 Michigan
+- No. 17
+- No. 2
+- No. 5
+- Ohio State
+- Oregon
+- Texas State
+- Western Michigan
 ---
 
 No. 2 Oregon’s closer-than-expected win over Boise State and No. 11 LSU’s lopsided victory over Clemson could have ramifications in the first regular-season Associated Press Top 25 college football poll set to be released on Monday.

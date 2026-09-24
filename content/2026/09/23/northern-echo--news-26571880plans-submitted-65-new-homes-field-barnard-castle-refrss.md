@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21487036.jpg?type=og-image
+locations:
+- Barnard Castle
+- Darlington Road
+- North East
+- Stonebridge Homes' Ashtree Park
+- YOUR
+people:
+- Bellway
+organisations:
+- Bellway
+- Darlington McDonald's
+- Durham County Council
+- GOOGLE
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Iran
+- UK
+people:
+- Andy Burnham
+- Angela Eagle
+- Tom Bradshaw
+organisations:
+- Government
+- NFU
+- National Farmers’ Union
 ---
 
 Agricultural leaders have warned that British farming has endured its most difficult summer in a generation, battered by extreme weather, escalating costs and widespread disease.

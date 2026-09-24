@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cape Town
+- DHL Stadium
+- Ellis Park
+- FNB Stadium
+- Johannesburg
+- South Africa
+- Soweto
+- africa
+people:
+- de Villiers Engelbrecht
+organisations:
+- AP Africa
+- Airlink
+- All Blacks
+- Rugby’s Greatest Rivalry
+- SACAA
+- South African Civil Aviation Authority
+- Springboks
+- Springboks-All Blacks
 ---
 
 A low fly past by two Airlink passenger jets before a rugby match at Cape Town’s DHL Stadium which drew safety concerns is being reviewed, South Africa ’s aviation authority said on Wednesday.

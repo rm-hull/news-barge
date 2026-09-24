@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Billingham
+- Braemar Road
+- County Durham McDonald's
+- Grangetown Middlesbrough-Redcar
+- Manchester Airport
+- Norton
+- Stockton Fire Station
+- Teesside
+- The Causeway
+- Victoria Jones
+people: []
+organisations:
+- Cleveland Fire Brigade
+- Cleveland Police
+- PA Wire
 ---
 
 *(Image: Victoria Jones/PA Wire)*

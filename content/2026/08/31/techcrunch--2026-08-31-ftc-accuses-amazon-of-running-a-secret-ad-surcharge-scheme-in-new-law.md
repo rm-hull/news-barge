@@ -12,6 +12,36 @@ image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Alaska
+- Amazon
+- Arizona
+- California
+- Colorado
+- Florida
+- Idaho
+- Illinois
+- Indiana
+- Iowa
+- Kentucky
+- Louisiana
+- Maryland
+- Nebraska
+- New Jersey
+- New York
+- North Carolina
+- Oklahoma
+- Pennsylvania
+- Rhode Island
+- South Carolina
+- Vermont
+- Washington
+people: []
+organisations:
+- Amazon
+- FTC
+- Federal Trade Commission
+- Sponsored Products
 ---
 
 Amazon is facing a new lawsuit from the Federal Trade Commission (FTC) and 22 states, which accuse the company of secretly charging businesses more for advertising on its platform.

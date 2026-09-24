@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Jarrow
+- North East
+- UK
+people:
+- Anissa Khalfa
+- Ian Gilmore
+- Ms Khalfa
+- Richard Piper
+- Susan Taylor
+- Tom
+organisations:
+- Alcohol Change UK
+- Alcohol Health Alliance
+- Balance, Alcohol Change UK
+- Fresh and Balance
+- NHS
 ---
 
 *(Image: Provided)*

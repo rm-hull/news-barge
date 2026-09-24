@@ -12,6 +12,22 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Australia
+- China
+- Masuria
+- Paris
+- Poland
+- Warmia
+people:
+- Mark Hamer
+- Mike Trott
+- Yongming Li
+organisations:
+- Shanghai University of Sport
+- University College London
+- University of Queensland
+- World Health Organization
 ---
 
 ![People practice yoga in Paris](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312402242.jpg?w=840)

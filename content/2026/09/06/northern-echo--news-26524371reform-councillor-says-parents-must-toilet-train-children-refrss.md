@@ -16,6 +16,24 @@ categories:
 - Family & Parenting
 - Society & Culture
 - Education & Learning
+locations:
+- Alnwick
+- Ashington
+- County Durham
+- North East
+- Northumberland
+people:
+- Coun Guy Renner-Thompson
+- Coun Simm
+- Coun Sonia Simm
+- Covid
+- David Street
+- Sonia Simm
+organisations:
+- Kindred Squared
+- NHS
+- Northumberland County Council’s Family and Children’s Services
+- The Guardian
 ---
 
 *(Image: PIXABAY)*

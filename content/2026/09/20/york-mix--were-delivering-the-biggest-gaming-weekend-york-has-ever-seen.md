@@ -11,6 +11,15 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/ybgc-2026.webp
+locations:
+- York
+people:
+- Ivan Brett
+- Ryan
+- Wilfred Webster
+organisations:
+- St Peter’s School
+- York Board Games Convention
 ---
 
 York is preparing to host the biggest tabletop gaming event in the city’s history.

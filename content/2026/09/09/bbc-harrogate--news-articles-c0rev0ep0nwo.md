@@ -12,6 +12,39 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Aldborough
+- Australia
+- Battle Cross
+- Boroughbridge
+- Brimham Rocks
+- Britain
+- England
+- How Hill
+- Ireland
+- Knaresborough
+- North Yorkshire
+- Plumpton Rocks
+- River Ure
+- Scotland
+- Swale
+- York
+people:
+- Anthony Clarke
+- Devil
+- Jim Leary
+- Justin Scully
+organisations:
+- Battle Cross
+- Brimham Rocks
+- Curtin University
+- Devil's Arrows
+- Devil’s Arrow
+- Devil’s Arrows
+- Fountains Abbey
+- National Trust
+- Stone Age
+- University of York
 ---
 
 ![One large grey stone monolith can be seen in the foreground with another in the background. They are in a field of crops. The sky is cloudy and grey.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/78ab/live/5fb399b0-aabe-11f1-9bcd-4de40c4158ea.jpg)

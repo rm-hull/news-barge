@@ -10,6 +10,24 @@ description: A 1990s jet engine prototype is being revived
 image: https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Kansas
+- Nazi Germany
+people:
+- Christian Cawley
+organisations:
+- AVEN Shield AI
+- Computer Weekly
+- ComputerActive
+- GE Aerospace
+- GE Aerospace and Shield AI
+- Google News
+- Linux Format
+- MATV
+- Matter Alpha
+- Multi-Axis Thrust Vectoring
+- TechRadar Pro
+- X-BAT
 ---
 
 ![Axisymmetric Vectoring Exhaust Nozzle](https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen.jpg) 

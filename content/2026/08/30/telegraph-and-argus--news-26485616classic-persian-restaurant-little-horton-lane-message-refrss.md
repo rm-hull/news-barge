@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bradford
+- Leeds
+- Little Horton Lane
+people:
+- Arash Imani
+organisations:
+- '## Hospitality'
+- Persian Restaurant
+- T&A
 ---
 
 *(Image: T&A)*

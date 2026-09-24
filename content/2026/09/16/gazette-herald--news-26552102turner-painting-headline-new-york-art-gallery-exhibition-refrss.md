@@ -14,6 +14,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Britain
+- Europe
+- York
+people:
+- Angelica Kauffman
+- Flaxman
+- Jean-Auguste-Dominique Ingres
+- Josiah Wedgwood
+- Turner
+- William Blake
+- William Etty
+organisations:
+- Flaxman
+- JMW Turner
+- National Gallery
+- Polyphemus – Homer
+- Wedgwood & Beyond
+- York Art Gallery
 ---
 
 An exhibition featuring one of JMW Turner’s most celebrated paintings is set to open in York, with curators putting the finishing touches to a showcase bringing together works by some of Britain's and Europe’s most renowned artists.

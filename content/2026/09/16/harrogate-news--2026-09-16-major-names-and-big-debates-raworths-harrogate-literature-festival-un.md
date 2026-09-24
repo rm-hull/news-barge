@@ -14,6 +14,29 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Britain
+- UK
+- Westminster
+people:
+- Dame Prue Leith
+- John Curtice
+- John Sergeant
+- Julian Clary
+- Kate Mosse
+- Lord Jonathan Sumption
+- Lucy Easthope
+- Paul Brand
+- Rachel Tunnicliffe
+- Sharon Canavar
+- Sophie Raworth
+organisations:
+- BBC
+- Cedar Court Hotel
+- Harrogate International Festivals
+- Raworths Solicitors
+- Supreme Court
+- The Crown Hotel
 ---
 
 **HARROGATE**— The full programme for the 14th annual Raworths Harrogate Literature Festival has been officially unveiled, bringing a characteristically high-profile mix of television household names, political analysts, and major memoirs to the town this October.

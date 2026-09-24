@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- England
+- High Street
+- Malton
+- Ryedale
+- Sherburn
+- The Pastures
+- White Gate
+- YOUR
+people:
+- Alan Goforth
+- William Edward Cundall
+organisations:
+- Cromsdale Estates
+- Government
+- NPPF
+- North Yorkshire Council
+- Public Notice Portal
+- Thirsk
 ---
 
 ### What is the Public Notice Portal?

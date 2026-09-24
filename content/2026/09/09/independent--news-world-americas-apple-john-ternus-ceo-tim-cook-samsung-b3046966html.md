@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- California
+- Cupertino
+people:
+- Dipanjan Chatterjee
+- John Ternus
+- Tim Cook
+organisations:
+- AI
+- Apple
+- Forrester
+- Google
+- Motorola
+- Samsung
+- Ternus
 ---
 
 Apple is unveiling its latest generation of iPhones, widely expected to include a foldable version, on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1.

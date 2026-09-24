@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Afghanistan
+- Americas
+- El Salvador
+- Haiti
+- Honduras
+- Lebanon
+- Nicaragua
+- Sudan
+- Syria
+- U.S.
+- Ukraine
+- Venezuela
+- Washington
+- White House
+people:
+- Donald Trump
+- Joe Biden
+- Nayib Bukele
+organisations:
+- CECOT
+- Congress
+- Department of Homeland Security
+- El Salvador
+- Homeland Security
+- State Department
+- Supreme Court
+- TPS
+- Trump
 ---
 
 Temporary legal protections for about 200,000 immigrants from El Salvador was in limbo Wednesday as a deadline neared for the Trump administration to decide if they should end, as it has done for hundreds of thousands from Venezuela, Haiti and other countries.

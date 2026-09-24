@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- America
+- Argentina
+- Croatia
+- Czech Republic
+- England
+- France
+- Kansas City
+- St George's Park
+people:
+- Anthony Gordon
+- Thomas Tuchel
+organisations:
+- BBC Sport
+- England
+- FA
+- Football Association
+- Spain
 ---
 
 ![England manager Thomas Tuchel](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg)

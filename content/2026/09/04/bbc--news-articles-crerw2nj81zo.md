@@ -12,6 +12,18 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Isle of Mull
+- Loch Spelve
+- Scotland
+- Shetland
+- UK
+people:
+- Dave Sexton
+- Kinky
+organisations:
+- Kinky
+- RSPB
 ---
 
 ![The image shows a sea eagle with a marked bump in its left wing - its wings spread against the background of a grey sky.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/38af/live/acdb7c20-a79f-11f1-aed2-8d6da8d75094.jpg)

@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Pacific
+- Saildrone
+people:
+- Mark Tyson
+- Saildrone
+- Tom
+organisations:
+- ARES
+- CVN-71
+- Carrier Strike Group
+- Google News
+- JAGM
+- Lockheed Martin
+- RIMPAC
+- Saildrone Surveyor SD-3001 Unmanned Surface Vessel
+- Spectre
+- Tom's Hardware
+- U.S. Navy
+- USS Theodore Roosevelt
+- USV
 ---
 
 ![Saildrone Surveyor SD-3001](https://cdn.mos.cms.futurecdn.net/uFUvCuBYpLznCPB9MPruAm.jpg) 

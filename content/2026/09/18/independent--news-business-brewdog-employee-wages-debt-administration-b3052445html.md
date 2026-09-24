@@ -14,6 +14,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- UK
+people: []
+organisations:
+- AlixPartners
+- BrewDog
+- Brewdog PLC
+- HMRC
+- Tilray
 ---
 
 Ex-workers and certain creditors of BrewDog’s collapsed retail division are expected to receive no money following its administration.

@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Eastney Marina
+- Guildhall Square
+- Hampshire
+- Isle of Wight
+- Portsmouth
+- Southampton
+people:
+- Paulsgrove
+- Tony Rowlinson
+organisations:
+- Crimestoppers
+- Hampshire Police
 ---
 
 Police have released photos of six men they’d like to speak to after disorder at an anti-migrant protest last weekend.

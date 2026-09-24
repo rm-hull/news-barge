@@ -14,6 +14,12 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Jh1DVv6gRhm1YBBM5Y8s_undefined.webp
+locations:
+- Tetr
+people: []
+organisations:
+- AI
+- World Economic Forum
 ---
 
 The World Economic Forum expects 39% of workers’ existing skills to change or become outdated between 2025 and 2030. It also identifies AI and big data, creative thinking, resilience, and curiosity as increasingly important skills. Together, these changes offer a useful view of where **business education** is heading. Business theory will remain useful, but graduates will also need to know how to respond when familiar frameworks don’t work.

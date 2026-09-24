@@ -11,6 +11,32 @@ image: https://static.independent.co.uk/2026/09/06/21/58/Ken-Paxton-Donald-Trump
 categories:
 - News & Politics
 - UK
+locations:
+- Austin
+- Dallas
+- Michigan
+- Milwaukee
+- Texas
+- Wisconsin
+people:
+- Donald Trump
+- JD Vance
+- James Talarico
+- Joe Gruters
+- John Thune
+- Ken Paxton
+- Melania Trump
+- Tom Barrett
+organisations:
+- American Airlines Center
+- Party
+- Politico
+- RNC
+- Republican National Committee
+- Reuters/Ipsos
+- Senate
+- Trump
+- University of Massachusetts Amherst
 ---
 
 The Republican National Committee is giving seats away.

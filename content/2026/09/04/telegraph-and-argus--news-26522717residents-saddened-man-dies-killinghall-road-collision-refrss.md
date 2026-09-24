@@ -14,6 +14,29 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Bradford Moor
+- Bradford Moor Park
+- Killinghall Road
+- Killlinghall Road
+- 'Killlinghall Road ##'
+- West Yorkshire
+people:
+- Cllr Iqbal
+- Cllr Riaz Ahmed
+- Lib Dem
+- Paul Conroy
+- Zafar Iqbal
+- 'Zafar Iqbal ##'
+organisations:
+- Bradford Moor
+- CCTV
+- Labour
+- MCET
+- Major Collision Enquiry Team
+- Newsquest
+- Telegraph & Argus
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

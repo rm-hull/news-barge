@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Capitol Hill
+- US
+- Washington
+people:
+- Bill Gates
+- Ehud Barak
+- Elon Musk
+- Guzel Ganieva
+- Jeffrey Epstein
+- Jomes Comer
+- Leon Black
+- Robert Garcia
+- Sarah Ferguson
+- Susan Estrich
+organisations:
+- Apollo Global Management
+- Congress
+- Congressional
+- Epstein
+- House Oversight Committee
+- NDA
+- NDAs
 ---
 
 ![Leon Black seen on Capitol Hill before a hearing with the House Oversight Committee in June](https://ichef.bbci.co.uk/ace/standard/868/cpsprodpb/80e4/live/b3cecac0-a7b1-11f1-b78b-6b70b0a83270.jpg)

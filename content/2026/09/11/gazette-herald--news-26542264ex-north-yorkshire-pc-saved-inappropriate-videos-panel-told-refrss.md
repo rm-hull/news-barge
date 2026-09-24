@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Snapchat
+- York
+people:
+- Callum Storr
+- Man
+- Richard Doughty
+organisations:
+- Ex-PC
+- North Yorkshire Police
+- WhatsApp
 ---
 
 *(Image: Richard Doughty)*

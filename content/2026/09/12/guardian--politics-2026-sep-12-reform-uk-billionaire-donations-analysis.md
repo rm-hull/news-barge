@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Harborne
+- Hong Kong
+- Thailand
+- UK
+- Westminster
+people:
+- Andy Burnham
+- Ben Delo
+- Christopher Harborne
+- Dan Jukes
+- James Orr
+- Nigel Farage
+- Richard Tice
+organisations:
+- Channel 4 News
+- Conservative
+- Delo
+- Green and Reform
+- Guardian
+- Labour
+- Liberal Democrat
+- Reform UK
 ---
 
 All things being equal, pretty much any political strategist would welcome a £72m war chest; a sum higher than the combined spending of every major party at the 2024 general election. But all things are not equal, and with such a huge amount comes risk.

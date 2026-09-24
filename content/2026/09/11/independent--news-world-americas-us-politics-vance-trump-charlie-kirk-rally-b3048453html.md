@@ -12,6 +12,31 @@ image: https://static.independent.co.uk/2026/09/11/07/2294612365..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Butler
+- Dallas
+- Iran
+- Mexico
+- Pennsylvania
+- Plano
+- Texas
+- U.S.
+- USA
+- United States
+people:
+- Barbara Johnson
+- Biden
+- Charlie Kirk
+- Donald Trump
+- JD Vance
+- Marco Rubio
+- Ted Cruz
+organisations:
+- Air Force One
+- MAGA
+- Republican Party
+- Reuters
+- Trump
 ---
 
 Vice President JD Vance previewed a potential 2028 presidential campaign at a Republican gathering in Dallas on Thursday, delivering a message of nationalist pride to an enthusiastic pro-Trump crowd.

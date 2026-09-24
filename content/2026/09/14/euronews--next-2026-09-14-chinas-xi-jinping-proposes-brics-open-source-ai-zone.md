@@ -13,6 +13,29 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- China
+- India
+- New Delhi
+- North Carolina
+- Paris.
+- Qingdao
+- Russia
+- Shandong
+- US
+- United States
+people:
+- Donald Trump
+- Liao Min
+- Pan Gongsheng
+- Xi Jinping
+organisations:
+- BHV
+- BRICS
+- CCTV
+- China Central Bank
+- Chinese AI
+- Shein
 ---
 
 ## China will lead the creation of an "open-source zone for artificial intelligence" for BRICS countries, President Xi Jinping said on Sunday at a summit of the 11-nation group in New Delhi.

@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Israel
+- Lebanon
+people: []
+organisations:
+- Health Ministry
+- Hezbollah
+- Islamic Risala Scout Association
 ---
 
 Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13

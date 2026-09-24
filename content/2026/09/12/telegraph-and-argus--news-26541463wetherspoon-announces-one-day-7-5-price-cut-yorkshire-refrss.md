@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Food & Cooking
+locations:
+- Bingley
+- Bradford
+- Cleckheaton
+- Myrtle Grove
+- The Obediah Brooke
+- The Turls Green
+people:
+- Chris Ashworth
+- Martin Humby
+organisations:
+- The Turls Green
+- Wetherspoon
 ---
 
 *(Image: Martin Humby)*

@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Society & Culture
+locations:
+- England
+- UK
+- Wales
+people:
+- Alan Milburn
+- Robert de Vries
+- Stephen Timms
+organisations:
+- BSA
+- British Social Attitudes
+- Labour
+- Pip
+- Reform UK
+- Tory
+- University of Kent
 ---
 
 There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey.

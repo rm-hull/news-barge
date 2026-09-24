@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Netherlands
+- Philippine
+- Philippines
+- The Hague
+people:
+- Dela Rosa
+- Ferdinand Marcos Jr.
+- Joanna Korner
+- Peter Haynes
+- Rodrigo Duterte
+- Ronald Marapon dela Rosa
+- Sara Duterte
+organisations:
+- ICC
+- International Criminal Court
+- Senate
 ---
 
 Former Philippine President Rodrigo Duterte is due to make his first public appearance in more than a year on Wednesday, after the presiding judge in his case at the International Criminal Court in the Netherlands said she expected the 81-year-old to attend a pretrial hearing.

@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Bradford
+people: []
+organisations:
+- Asda Bradford
+- Asda Little Horton Automat
+- Asda West Bradford Automat
+- Murco Bingley
+- Shell Whetley Hill
+- Tesco Bradford
+- Tesco Bradford Buttershaw
 ---
 
 *(Image: Archive)*

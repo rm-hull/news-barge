@@ -13,6 +13,17 @@ categories:
 - York
 - News & Politics
 - Technology & Software
+locations:
+- Ashfield
+- North Yorkshire
+- Old Malton Road
+people:
+- Insp Lockey-Smith
+- Keane Duncan
+- Keeley Lockey-Smith
+- Norton
+organisations:
+- North Yorkshire Council
 ---
 
 ## Police issue warning after YouTubers enter former North Yorkshire care home

@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Asia
+people: []
+organisations:
+- AI
+- Dream
+- DreamGroup
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- VP Product and Cyber Research
 ---
 
 ![A hand about to touch a phone. Superimposed on top of it is a pink triangle with exclamation mark inside it. Behind it is a computer display with code on it](https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL.jpg) 

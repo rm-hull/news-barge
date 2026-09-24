@@ -15,6 +15,22 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdmNTg3NGQ4LTVmNGEtNDgyYy05ZmM0LTUyNDY0YWU1MmFkNjpjZTBjY2U5Mi1mMTgxLTQ3MGItYjhhOC04YWFiYjYzZTdkMDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Betteras Hill Road
+- Hillam
+- North Yorkshire
+- Selby
+- South Milford
+people:
+- Monk Fryston
+- Nic Harne
+- Tim Grogan
+organisations:
+- High Court
+- Leeds District Registry
+- North Yorkshire Council
+- North Yorkshire Police
+- Reform
 ---
 
 # Travellers told to stop work on unauthorised site but ‘lorries are still coming’

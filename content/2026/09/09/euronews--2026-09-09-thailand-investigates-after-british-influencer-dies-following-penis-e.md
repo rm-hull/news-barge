@@ -13,6 +13,19 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Bangkok
+- London
+- Thailand
+- UK
+people:
+- Danielle
+- Igho Ubiribo
+- Pattana Promphat
+- Utit Soodjai
+organisations:
+- AFP
+- Instagram
 ---
 
 ## The case has reignited debate about medical tourism, with Thailand a leading destination for visitors from abroad seeking healthcare, including cosmetic procedures.

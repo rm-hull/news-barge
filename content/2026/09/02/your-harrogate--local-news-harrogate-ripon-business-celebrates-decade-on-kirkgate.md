@@ -12,6 +12,24 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Derbyshire
+- Lancashire
+- Old Deanery
+- Ripon
+- Scotland
+- Yorkshire
+people:
+- Karma
+- Kevin Hill
+- Lilla Bathurst
+- Liz
+organisations:
+- Karma
+- Kirkgate
+- Liz
+- Ripon BID
+- YouTube
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c381a45732ec5d2.jpg) 

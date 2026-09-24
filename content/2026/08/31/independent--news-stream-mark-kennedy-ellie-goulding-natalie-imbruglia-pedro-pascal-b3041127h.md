@@ -15,6 +15,49 @@ categories:
 - Film & TV
 - Technology & Software
 - Creator Economy & Marketing
+locations:
+- Drake
+- Europe
+- Japan
+- London
+people:
+- Alicia Rancilio
+- Alix Earle
+- Ashley Dupré
+- Ashtin
+- Carly Rae Jepsen
+- Caspar Jopling
+- Chad Powers
+- Coen
+- Din Djarin
+- Eddie
+- Eliot Spitzer
+- Ellie Goulding
+- Gal Gadot
+- Glen Powell
+- Guy Ritchie
+- Hugh Bonneville
+- Jake Coyle
+- Jon Favreau
+- Kevin Macdonald
+- Lou Kesten
+- Maria Sherman
+- Mark Kennedy
+- Michele Morrone
+- Miyamoto Musashi
+- Natalie Imbruglia
+- Pedro Pascal
+- Russ Holliday
+- Theo James
+organisations:
+- AP
+- Disney
+- ICE
+- Netflix
+- Rebel Wolves
+- Scary Movie
+- The Associated Press’
+- The Gentlemen
 ---
 
 The “Mandalorian & Grogu” and a new album from Ellie Goulding are some of the new television, films, music and games headed to a device near you.

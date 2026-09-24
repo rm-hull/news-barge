@@ -11,6 +11,36 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/12/07/Screenshot-2026-09-22-at-8-54-34-AM.png?trim=122,0,187,0&width=1200&height=800&crop=1200:800
+locations:
+- California
+- China
+- Gulf of America
+- Gulf of Mexico
+- North Korea
+- Russia
+- White House
+people:
+- Benny Johnson
+- Dean Withers
+- Donald Trump
+- Gavin Newsom
+- Juliet Jeske
+- Kaelan Dorr
+organisations:
+- ABC
+- CBS
+- CNN
+- Fox News
+- Lincoln Project
+- MAGA
+- MSNOW
+- NBC
+- State Ran Television
+- The Independent
+- Trump Administration
+- Trump TV
+- Truth Social
+- YouTube
 ---
 
 The White House debut of Trump TV, launched amid the administration’s feud with the mainstream media, was widely mocked online and compared to state-run television in North Korea and China.

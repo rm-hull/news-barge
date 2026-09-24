@@ -15,6 +15,14 @@ categories:
 - Personal Finance & Investing
 - News & Politics
 - Society & Culture
+locations:
+- East Riding
+people:
+- Nigel Wilkinson
+organisations:
+- CRF
+- Crisis and Resilience Fund
+- East Riding of Yorkshire Council
 ---
 
 *(Image: East Riding of Yorkshire Council)*

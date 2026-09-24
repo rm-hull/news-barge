@@ -13,6 +13,28 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/22/15/25/valley-heights-stabbing-b0081cfd.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Blue Mountains
+- Kenya
+- North South Wales
+- Valley Heights
+- Waratah Road
+- Westmead Children’s Hospital
+- Westmead Hospital
+people:
+- Callan
+- Cora
+- Dawson
+- John Nelson
+- Julie Sakkar
+- Lindsay Clancy
+- Peter McKenna
+organisations:
+- Australia’s 7News
+- Daily Mail
+- NSW
+- Penrith Local Court
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

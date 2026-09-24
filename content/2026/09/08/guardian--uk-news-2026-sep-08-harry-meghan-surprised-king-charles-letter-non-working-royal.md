@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Buckingham Palace
+- London
+- UK
+- US
+people:
+- Archie
+- Charles
+- Harry
+- Jimmy Carr
+- Lilibet
+- Lord Benyon
+- Meghan
+- Ravec
+- Richard Benyon
+organisations:
+- Duchess of Sussex
+- Home Office
+- Ravec
+- Sussexes
+- Sussexes’
+- The Big Pitch
+- Tower Bridge Studios
 ---
 
 The Duke and Duchess of Sussex were “surprised” at being given little notice of a formal letter sent to government departments and the military on behalf of King Charles reiterating their status as non-working royals.

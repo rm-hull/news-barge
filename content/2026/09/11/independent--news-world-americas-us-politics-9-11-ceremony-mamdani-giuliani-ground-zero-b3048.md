@@ -13,6 +13,29 @@ categories:
 - UK
 - History
 - Society & Culture
+locations:
+- America
+- Manhattan
+- New York City
+- North Tower
+- Pennsylvania
+- Shanksville
+- Twin Towers
+- Upper West Side
+- Washington, D.C.
+people:
+- Donald Trump
+- JD Vance
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- American Airlines
+- National September 11 Memorial and Museum
+- Pentagon
+- United Airlines
+- World Trade Center
+- World Trade Center Health Program
+- al-Qaeda
 ---
 
 New York City Mayor Zohran Mamdani shook hands with former Mayor Rudy Giuliani as families, mourners and politicians gathered at the site of the September 11 attacks, 25 years after the devastation.

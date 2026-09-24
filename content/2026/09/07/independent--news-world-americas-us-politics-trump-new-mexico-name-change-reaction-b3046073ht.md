@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/07/13/4be56b8d8c1499b21d168c6a68
 categories:
 - News & Politics
 - UK
+locations:
+- Canada
+- Great Lakes
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- NEW AMERICA
+- New America
+- New Mexico
+- Ottawa
+- U.S.
+- United States
+people:
+- Ben Ray Lujan
+- Donald Trump
+- Gregg Hull
+- Melanie Stansbury
+- Michelle Lujan Grisham
+- ex-Rio Rancho
+organisations:
+- Albequerque Journal
+- Congress
 ---
 
 Top officials in New Mexico are blasting President Donald Trump’s pitch for renaming the 47th state “New America” after he floated the bizarre idea in a wave of social media posts over the weekend.

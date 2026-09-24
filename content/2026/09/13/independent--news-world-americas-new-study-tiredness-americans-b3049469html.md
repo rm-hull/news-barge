@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- U.S.
+people:
+- Natalie A.E
+- Young
+organisations:
+- CDC
+- NBC News
+- National Center for Health Statistics
+- U.S. Centers for Disease Control and Prevention
 ---
 
 Pretty much everyone is tired, and now there's proof to back that claim up.

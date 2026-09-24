@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Tees, Esk
+- UK
+- York
+people:
+- Jane Tomlinson
+- Piotr Pacych
+organisations:
+- '## York NHS'
+- Brain Tumour Research
+- Centres of Excellence
+- Wear Valleys NHS Foundation Trust
 ---
 
 ## York NHS worker turns health scare into half marathon fundraiser

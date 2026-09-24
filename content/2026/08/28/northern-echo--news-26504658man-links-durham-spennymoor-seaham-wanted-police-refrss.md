@@ -12,6 +12,16 @@ categories:
 - UK
 - News & Politics
 - Relationships & Dating
+locations:
+- County Durham
+- DURHAM
+- Messy County Durham
+- Seaham
+- Spennymoor
+people:
+- Mark Wild
+organisations:
+- Durham Police
 ---
 
 *(Image: DURHAM CONSTABULARY)*

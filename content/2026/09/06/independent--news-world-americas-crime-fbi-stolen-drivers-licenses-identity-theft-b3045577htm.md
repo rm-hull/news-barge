@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Canada
+- Krebs’ Virginia
+- Las Vegas
+- Louisiana
+- New Orleans
+- Planet13
+- U.S.
+people:
+- Andrew Bailey
+- Brian Krebs
+- Christopher Raia
+- Jillian Kossman
+- Zach Edwards
+organisations:
+- Exploit
+- FBI
+- Hertz
+- IDScan.net
+- Krebs on Security
+- Nexus
+- The Independent
+- Washington Post
 ---
 
 The FBI has launched an investigation into the theft of millions of stolen Americans' and Canadians’ driver’s licenses.

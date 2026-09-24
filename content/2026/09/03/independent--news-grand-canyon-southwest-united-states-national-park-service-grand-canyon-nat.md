@@ -11,6 +11,40 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Albuquerque
+- Arizona
+- Bright Angel Creek
+- Cottonwood Campground
+- Dallas
+- Flagstaff
+- Georgia
+- Grand Canyon
+- Grand Canyon National Park
+- New Mexico
+- North Rim
+- Oklahoma
+- Phantom Ranch
+- Savannah
+- South Rim
+- Southwest
+- The Box
+- Tulsa
+- United States
+people:
+- Drew Harrell
+- Jamie Stengle
+- Mike Sumaruk
+- Montoya Bryan
+- Parth Desai
+- Runoff
+- Russ Bynum
+- Tom Monroe
+organisations:
+- National Park Service
+- Red Cross
+- The Associated Press
+- University of New Mexico Hospital
 ---
 
 Like clockwork, clouds build up in the afternoon, the wind starts to swirl and the skies darken. Then the rain comes.

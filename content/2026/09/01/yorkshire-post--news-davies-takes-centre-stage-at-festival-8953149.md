@@ -15,6 +15,22 @@ categories:
 - York
 - Arts & Culture
 - Books & Literature
+locations:
+- BBC
+- Broadway
+- Cardiff
+people:
+- Alexander Ballinger
+- Andrew Davies
+- Diana Rigg
+- Phyllis Dalton
+- Rachael Stirling
+- Robert Altman
+- Samira Ahmed
+organisations:
+- Bridget Jones
+- House of Cards
+- Ilkley’s King’s Hall
 ---
 
 # Davies takes centre stage at festival

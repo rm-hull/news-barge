@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Oxford Street
+- Stanley
+people:
+- Mark Faulds
+- Nathan Adams
+organisations:
+- Newsquest
 ---
 
 *(Image: Newsquest)*

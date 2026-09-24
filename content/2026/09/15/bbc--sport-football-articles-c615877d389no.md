@@ -13,6 +13,104 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Belgium
+- Cardiff City
+- Cardiff City Stadium
+- Copenhagen
+- Croatia
+- Denmark
+- Estádio José Alvalade
+- Ghana
+- Leeds'
+- Lisbon
+- Norway
+- Oslo
+- Parken Stadium
+- Portugal
+- Romania
+- Stoke City
+- Ullevaal Stadium
+- Wales
+people:
+- :** Ethan Ampadu
+- :** Karl Darlow
+- :** Nathan Broadhead
+- Aaron Ramsey
+- Alan Sheehan
+- Ashley Williams
+- Ben Cabango
+- Ben Davies
+- Brennan Johnson
+- Cameron Congreve
+- Chris Mepham
+- Cian Ashford
+- Connor Roberts
+- Craig Bellamy
+- Cristiano Ronaldo
+- Cristiano Ronaldo.
+- Dan James
+- Danny Ward
+- David Brooks
+- Dylan Lawlor
+- Erling Haaland
+- Harry Wilson
+- Isaak Davies
+- James Rowberry
+- Jay DaSilva
+- Jayden Lienou
+- Joe Rodon
+- Joel Colwill
+- Jordan James
+- Jorge Jesus
+- Josh Sheehan
+- Kai Andrews
+- Kieffer Moore
+- Lewis Koumas
+- Liam Cullen
+- Mark Harris
+- Neco Williams
+- Piet Cremers
+- Rhys Norrington-Davies
+- Ronan Kpakio
+- Rubin Colwill
+- Sorba Thomas
+- Tom King
+- Wales'
+- Wes Burns
+organisations:
+- Bolton Wanderers
+- Bosnia-Herzegovina
+- Bournemouth
+- Burnley
+- Cardiff City
+- Cardiff City Stadium
+- Cian Ashford
+- Coventry City
+- Everton
+- Hull City
+- KVC Westerlo
+- League A
+- Leeds United
+- Leicester City
+- Liverpool
+- Manchester United
+- Nations League
+- Norway
+- Nottingham Forest
+- Oxford United
+- Sheffield United
+- Spurs
+- Stade Rennais
+- Swansea City
+- Tottenham Hotspur
+- Wales
+- Wales'
+- West Bromwich Albion
+- Wolverhampton Wanderers
+- Wolves
+- Wrexham
+- ex-Swansea City
 ---
 
 ![Separate close-up images of Joe Rodon (left) and Cian Ashford (right) both in red Wales kit](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ea98/live/ffd19250-b0c0-11f1-bc1f-3f186ca4140c.png)

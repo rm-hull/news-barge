@@ -13,6 +13,35 @@ categories:
 - Harrogate
 - Travel
 - Sports
+locations:
+- '**Bagnères-de-Luchon'
+- Bagnères-de-Luchon
+- Col de Menté
+- Col des Ares
+- Col du Portillon
+- Europe
+- French Pyrenees
+- Harrogate
+- La Lapébie
+- Luchon
+- North Yorkshire
+- Superbagnères
+- Superbagnères**
+people:
+- Dennis Richards
+- Emma Dooley
+- Rob Beagley
+- Roger Lapébie
+organisations:
+- Endless
+- Harrogate Informer
+- Harrogate International Partnerships
+- Harrogate Nova
+- Harrogate Tri Club
+- Hornbeam Park Developments
+- Prologue Junior Racing Team
+- Verity Frearson
+- Wheel Easy ‘Contrarians’
 ---
 
 **HARROGATE** — A coordinated contingent of regional endurance athletes has returned from the French Pyrenees after completing one of Europe’s most challenging mountain cyclosportives to commemorate a historic international civic partnership.

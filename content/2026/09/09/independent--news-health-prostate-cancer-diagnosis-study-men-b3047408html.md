@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Science
+locations: []
+people:
+- Colin Cooper
+- Hayley Luxton
+- Joachim Weischenfeldt
+- Ros Eeles
+organisations:
+- ICR
+- Nature
+- PPCG
+- Pan Prostate Cancer Group
+- Prostate Cancer UK
+- The Institute of Cancer Research
+- The Royal Marsden NHS Foundation Trust
+- University of Copenhagen
+- University of East Anglia
 ---
 
 Scientists say they have uncovered genetic "footprints" responsible for 85 per cent of prostate cancers, offering vital insights into why the disease turns fatal in some men.

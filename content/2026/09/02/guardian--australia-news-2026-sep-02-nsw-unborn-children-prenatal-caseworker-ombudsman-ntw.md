@@ -13,6 +13,22 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- NSW
+people:
+- Jacynta Krakouer
+- Paul Miller
+- Rosh
+organisations:
+- Adelaide University
+- Australian Centre for Child Protection
+- Australian Institute of Health and Welfare
+- DCJ
+- Department of Communities and Justice
+- First Nations
+- Guardian Australia
+- NSW
+- New South Wales
 ---
 
 More than a third of all reports raising concerns about the future welfare of unborn children were closed due to a shortage of allocated caseworkers, while families were unlawfully compelled to take part in prenatal case work, the New South Wales ombudsman has found.

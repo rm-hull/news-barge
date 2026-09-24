@@ -13,6 +13,20 @@ categories:
 - Shopping & Deals
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/10/b91d00abee4a8a53a6f68273a3a45bd2Y29udGVudHNlYXJjaGFwaSwxNzkwMjQxMTMy-2.85944418.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Ben Whitley
+- John Lewis
+- London
+- Oxford Street
+- PA
+people:
+- Ben Whitley
+- Cydney Ball
+- John Lewis
+organisations:
+- Liberty
+- Native Union
+- Selfridges
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

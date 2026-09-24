@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Alder Hey
+- Cheshire
+- Liverpool
+- London
+- Royal Free
+people:
+- Andrew Malkinson
+- Chris Henley KC
+- David Davis
+- Ian Harvey
+- Jane Hawdon
+- Kathryn Thirlwall
+- Lucy Letby
+- Mark McDonald
+- Shoo Lee
+- Steve Barclay
+- Wes Streeting
+organisations:
+- Alder Hey
+- CPS
+- Cheshire
+- Countess of Chester
+- Criminal Cases Review Commission
+- Crown Prosecution Service
+- Guardian
+- Labour
+- Letby
+- NHS
+- Royal College of Paediatrics and Child Health
+- Thirlwall
 ---
 
 Just two months before Lady Justice Kathryn Thirlwall opened her inquiry into events at the Countess of Chester hospital and the crimes of Lucy Letby, a report by Chris Henley KC was published into the “atrocious” wrongful conviction of Andrew Malkinson for rape.

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- England
+- Scotland
+- UK
+people:
+- Alzheimer’s
+- Andy Burnham
+- Emily Holzhausen
+organisations:
+- Carers UK
+- Department for Business and Trade
+- Opinium
+- Wales
 ---
 
 More than 1,500 workers across the UK are resigning every day to care for a loved one, a charity has estimated, describing the situation as "deeply worrying".

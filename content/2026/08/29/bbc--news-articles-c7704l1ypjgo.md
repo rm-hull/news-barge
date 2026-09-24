@@ -12,6 +12,48 @@ categories:
 - UK
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Arashiyama
+- China
+- DisneySea
+- Dotonbori
+- Fujikawaguchiko
+- Fushimi Inari
+- Golden Route
+- Hakone
+- Hiroshima
+- Japan
+- Japan.
+- Japanese Alps
+- Kyoto
+- Mount Fuji
+- Nara
+- Osaka
+- Shibuya Crossing
+- Tokyo
+people:
+- Aden Ibrahim
+- Alex Baker
+- Chiyuki Izumii
+- Faye Jawad
+- Laura McGregor
+- Maitri Sanghvi
+- Millie Dring
+- Sam Corbett
+- TikTok
+- TikToks
+- Vivek Haria
+organisations:
+- Aden
+- Disney
+- Faye
+- Fuji
+- Japan Guide Agency
+- Japanese National Tourism Organization
+- Millie
+- TikTok
+- UK-Japan Choir
+- Universal
 ---
 
 ![A photo taken from behind of a woman looking up at a snow-topped Mount Fuji, with a lake in front of it](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b5e/live/9e9feb10-a22b-11f1-aed2-8d6da8d75094.jpg)

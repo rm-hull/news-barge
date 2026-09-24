@@ -14,6 +14,20 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21477727.jpg?type=og-image&xType=0&yType=52
+locations:
+- Bishop Auckland Christmas Town
+- Darlington
+- Grange Road
+- North East
+- North Yorkshire
+- Richmond
+- Salt on Grange Road
+people: []
+organisations:
+- Google
+- NORTHERN ECHO
+- Northern Echo
+- Salt
 ---
 
 A busy burger joint appears to have shut for good as the business stands lifeless in Darlington.

@@ -12,6 +12,16 @@ image: https://cdn.mos.cms.futurecdn.net/KpE8i6iS7HdtgXuyvW6UjE-2560-80.jpg
 categories:
 - Technology & Software
 - Food & Cooking
+locations: []
+people: []
+organisations:
+- Google News
+- IKEA
+- PC Format
+- PC Plus
+- SCA
+- Speciality Coffee Association
+- TechRadar
 ---
 
 ![Kitchen with various IKEA accessories in shades of black and duck egg blue](https://cdn.mos.cms.futurecdn.net/KpE8i6iS7HdtgXuyvW6UjE.jpg) 

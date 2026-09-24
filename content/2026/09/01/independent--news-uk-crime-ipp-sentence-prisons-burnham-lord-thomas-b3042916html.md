@@ -12,6 +12,22 @@ image: https://static.independent.co.uk/2025/03/21/16/27/IPP-prisons-split.jpeg?
 categories:
 - News & Politics
 - UK
+locations: []
+people:
+- Alex Norris
+- Andy Burnham
+- John Thomas
+- Leroy Douglas
+- Lord Thomas
+- Nick Timothy
+organisations:
+- Commons
+- IPP
+- Imprisonment for Public Protection
+- Independent
+- Ministry of Justice
+- Parole Board
+- UN Working Group
 ---
 
 Almost 700 never-released prisoners trapped on indefinite jail terms have been held for at least a decade longer than their original tariff, stark figures show, as the government lays out plans to finally end the injustice.

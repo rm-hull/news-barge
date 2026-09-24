@@ -11,6 +11,15 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Cardigan Street
+- Luton
+people:
+- Zara Brown
+organisations:
+- Bedfordshire Police
+- IOPC
+- Independent Office for Police Conduct
 ---
 
 An investigation has been launched following a police shooting in Luton on Tuesday afternoon.

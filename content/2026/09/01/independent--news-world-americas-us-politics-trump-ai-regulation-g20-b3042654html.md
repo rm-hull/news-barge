@@ -15,6 +15,36 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- AI
+- China
+- Miami
+- North Carolina
+- U.S.
+- Washington
+- White House
+people:
+- David Sacks
+- Dina Powell McCormick
+- Donald Trump
+- Elon Musk
+- Howard Lutnick
+- Jensen Huang
+- Michael Kratsios
+- Sam Altman
+- Vivek Chilukuri
+organisations:
+- Anthropic
+- Center for a New American Security
+- Kratsios
+- Meta
+- Nvidia
+- OpenAI
+- Oval Office
+- Scale AI
+- SpaceX
+- United Nations
+- White House AI
 ---
 
 A two-day summit hosted by U.S. Commerce Secretary Howard Lutnick and White House technology adviser Michael Kratsios will promote a "pro-growth vision for the future of emerging technologies," according to a statement from Kratsios, previously with data firm Scale AI.

@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Hollywood Hills
+- Los Angeles
+- Tesla
+people:
+- '![Burke'
+- Beth Silverman
+- Celeste Rivas Hernandez
+- Charlaine F. Olmedo
+- D4vd
+- David Anthony Burke
+- Nathan Hochman
+organisations:
+- Los Angeles County District Attorney's Office
+- Los Angeles County Superior Court
+- Los Angeles Police Department
+- Uber
 ---
 
 Singer D4vd, whose legal name is David Anthony Burke, has pleaded not guilty to murder and other charges stemming from the death of a 14-year-old Celeste Rivas Hernandez, whose dismembered and decomposing remains were found in the trunk of his Tesla at a Hollywood tow yard.

@@ -14,6 +14,27 @@ categories:
 - Hardware
 - News & Politics
 - Society & Culture
+locations:
+- AI
+- China
+- Mount Pleasant
+- U.S.
+- Wisconsin
+people:
+- Bernie Sanders
+- Bill Gates
+- Donald Trump
+- Jowi Morales
+- Tom
+- Xi Jinping
+organisations:
+- American AI
+- Gates Foundation
+- Google News
+- Human Reserved
+- Jowi Morales
+- Microsoft AI
+- Reuters
 ---
 
 ![Bill Gates](https://cdn.mos.cms.futurecdn.net/dkTyoZvtU7Qz7ABhLFTEEg.png) 

@@ -14,6 +14,34 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- England
+- Europe
+- NORTH Yorkshire
+- North Yorkshire
+- Scarborough
+- UK
+- Westminster
+- Whitby
+- York
+people:
+- Alison Hume
+- Andrew Carter
+- David Skaith
+- Gavin Lane
+- Levy
+organisations:
+- CLA
+- Centre for Cities
+- Country Land and Business Association
+- Greggs
+- LDRS
+- Labour
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Scarborough South Bay
+- Wetherspoons
+- York St John University
 ---
 
 A NORTH Yorkshire MP has warned about the impacts on ‘very price-sensitive’ domestic tourism from the possible introduction of a new overnight visitor levy by regional mayors.

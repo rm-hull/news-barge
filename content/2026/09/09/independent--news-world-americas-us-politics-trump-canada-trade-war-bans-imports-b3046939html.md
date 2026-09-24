@@ -13,6 +13,26 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Canada
+- France
+- Strasbourg
+- U.S.
+- United States
+- White House
+people:
+- Donald Trump
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- Associated Press
+- EU
+- European Commission
+- European Parliament
+- European Union
+- State of the European Union
+- Trump
+- U.S. General Services Administration
 ---
 
 Donald Trump has intensified the U.S. trade war with Canada by banning dairy products, most alcoholic beverages and motorcycles from its neighbor, the White House announced on Tuesday.

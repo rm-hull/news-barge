@@ -11,6 +11,56 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- America
+- Berlin
+- Black Sea
+- Brovary
+- Europe
+- Germany
+- Halle Airport
+- Krasnodar
+- Kremlin
+- Kyiv India
+- Kyiv Region
+- Leipzig
+- Moscow
+- Munich
+- Odesa
+- Poland
+- Russia
+- Russia-Ukraine
+- Russian House
+- Sochi
+- St Petersburg
+- U.S.
+- U.S.A.
+- US
+- Ukraine
+- Ukrnafta
+- United States
+- Vladivostok
+- Yekaterinburg
+people:
+- '## Zelensky'
+- Andrii Sybiha
+- Andy Hunder
+- Donald Trump
+- Joe Biden
+- S Jaishankar
+- Sergei Lavrov
+- Ukrainianleader
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Allies
+- American chamber of commerce
+- Coca-Cola
+- Naftogaz
+- Nato
+- Reuters
+- Telegram
+- Zelensky Officials
 ---
 
 Russian drones hit a Coca-Cola plant outside Kyiv on Thursday, president Volodymyr Zelensky said.

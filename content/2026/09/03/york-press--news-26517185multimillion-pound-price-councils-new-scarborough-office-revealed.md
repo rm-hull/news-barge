@@ -13,6 +13,45 @@ categories:
 - York
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Castle House
+- Malton
+- North Yorkshire
+- Northallerton
+- Pavilion House
+- Resolution House
+- Ryedale House
+- Scarborough Town Hall
+- Town Hall
+people:
+- Cllr Murray
+- Cllr Rich Maw
+- Courtesy Numminen
+- Michelle Donohue-Moncrieff
+- Michelle Richardson
+- Rich Maw
+- Scarborough
+- Thomas Murray
+organisations:
+- A64
+- Anglo American
+- Independent
+- LDRS
+- Local Democracy Reporting Service
+- Malton
+- Mazars
+- NYC
+- North Yorkshire Council
+- Protestors Against Purchase Of Resolution House
+- Reform
+- Resolution House
+- STC
+- Scarborough Borough Council
+- Scarborough Town Council
+- Scarborough Town Hall
+- Town Council
+- Town Hall
+- United Scarborough Residents Action Group
 ---
 
 ## Multimillion-pound price of council’s new office revealed

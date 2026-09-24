@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Falkland Islands
+- UK
+people: []
+organisations:
+- Armed Forces
+- Future plc
+- TechRadar Pro
+- TechRadarPro
+- Telent
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

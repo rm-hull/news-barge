@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Family & Parenting
+locations:
+- Bradford
+- Calder Bank Farm
+- Calder Banks
+- Dacre Son & Hartley
+- Halifax
+- Juliet
+- Leeds
+- M62
+- Queensbury
+- Saltaire
+- Yorkshire
+- Zoopla
+people: []
+organisations:
+- Calder Bank Farm
+- Calder Banks
+- Dacre Son & Hartley
+- Saltaire
+- Zoopla.Dacre Son & Hartley
 ---
 
 *(Image: Zoopla/Dacre Son & Hartley)*

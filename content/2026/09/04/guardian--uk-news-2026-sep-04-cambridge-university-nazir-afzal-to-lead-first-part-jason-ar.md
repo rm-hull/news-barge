@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Cambridge
+- England
+- London
+- Rochdale
+people:
+- Deborah Prentice
+- Jacqui Smith
+- Jason Arday
+- Nazir Afzal
+organisations:
+- Arday
+- CPS
+- Office for Students
+- University of Birmingham
+- University of Cambridge
+- University of Manchester
 ---
 
 The University of Cambridge has asked Nazir Afzal, a former chief crown prosecutor for north-west England, to lead the first part of its review into the death of the scholar Jason Arday.

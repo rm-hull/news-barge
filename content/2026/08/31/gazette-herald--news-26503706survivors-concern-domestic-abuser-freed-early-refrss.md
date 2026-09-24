@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- North Yorkshire
+- Pickering
+- Ruffa Lane
+- The York
+people:
+- Camilla
+- Evil’
+- Helen Duncanson
+- Kevin Hollinrake
+- Michael Boyes
+- Michael Cahill
+- Ms Duncanson
+organisations:
+- Conservative
+- IDAS
+- IPP
+- Independent Domestic Abuse Service
+- Labour
+- Ministry of Justice
+- Ms Duncanson
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: Supplied)*

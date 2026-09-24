@@ -12,6 +12,29 @@ description: I complemented my Sennheiser HD 660S2 cans with the excellent iFi Z
 image: https://cdn.mos.cms.futurecdn.net/Ep37GHh3PJEMcB85vgVy4P-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Ladysmith Black Mambazo
+- Silicon Valley
+people:
+- Dave Matthews Band
+- Fleetwood Mac
+- Goddard
+- Jon Hopkins
+- Josh Russell
+- Neil Peart
+- O’Flynn
+- Paul Simon
+organisations:
+- ANC
+- Google News
+- Gryphon4
+- Josh
+- London Grammar
+- MacBook Air
+- Pola & Bryson
+- T3
+- TechRadar
+- iFi Zen DAC
 ---
 
 ![The Sennheiser HD 660S2 leaning against a concrete block next to the iFi Zen DAC 3, with the wire not plugged in.](https://cdn.mos.cms.futurecdn.net/Ep37GHh3PJEMcB85vgVy4P.jpg) 

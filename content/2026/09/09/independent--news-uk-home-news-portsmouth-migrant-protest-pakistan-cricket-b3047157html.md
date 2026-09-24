@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Hampshire
+- Marriott
+- Port Solent
+- Portsmouth Lifeboats Station
+- ’s Eastney
+people:
+- Alexis Boon
+- Cllr Madgwick
+- George Madgwick
+- Peter Sparkes
+organisations:
+- England and Wales Cricket Board
+- Hampshire County Council
+- Hampshire Police
+- Marriott Hotel
+- Pakistan Cricket Board
+- Pakistan Under-19
+- RNLI
+- Reform UK
+- The Independent
 ---
 
 Anti-immigrant protestors staged another demonstration in Portsmouth on Tuesday –after mistaking a Pakistani cricket team for asylum seekers.

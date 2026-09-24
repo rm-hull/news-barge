@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- OpenAI
+- US
+people:
+- Dario Amodei
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Elon Musk
+- Fortune
+- IPO
+- OpenAI
+- Reuters
+- The New York Times
 ---
 
 OpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.

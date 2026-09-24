@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Huddersfield
+- Leeds General Infirmary
+- Leeds Road
+- UK
+people: []
+organisations:
+- Ford Transit
+- Google Street View
+- West Yorkshire Police
 ---
 
 *(Image: Google Street View)*

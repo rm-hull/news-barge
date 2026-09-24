@@ -12,6 +12,25 @@ categories:
 - Harrogate
 - Careers & Productivity
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Group-Photo-of-Giant-Veg-Winners.webp
+locations:
+- Grand Floral Pavilion
+- Harrogate
+- Newby Hall
+- Ripon
+people:
+- Anna Cartmell-Done
+- Gareth Griffin
+- Jonathan Moseley
+- Nick Smith
+organisations:
+- '### Giant Vegetables'
+- Harrogate Autumn Flower Show
+- Harrogate Flower Shows Booking Portal
+- Jonathan’s Grain & Grandeur
+- NEHS
+- Newby Hall & Gardens
+- North of England Horticultural Society
+- RIPON**—
 ---
 
 **RIPON**— The Harrogate Autumn Flower Show has officially launched its landmark 50th anniversary event at Newby Hall & Gardens, celebrating five decades of horticultural excellence with a spectacular harvest-themed exhibition.To mark the golden anniversary of the first show in 1976, renowned floral designer Jonathan Moseley unveiled a bespoke, harvest-inspired gown during a preview photocall. Modeled by Anna Cartmell-Done against the historic backdrop of the estate, the elaborate living gown serves as the dramatic centerpiece for Moseley’s anniversary installation, titled

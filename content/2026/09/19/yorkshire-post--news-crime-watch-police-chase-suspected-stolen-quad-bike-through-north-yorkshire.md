@@ -13,6 +13,22 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/19/13/04/NYP-quad-bike.png?trim=0,22,0,22&crop=&width=1200&auto=webp&quality=75
+locations:
+- Borrowby
+- Cleveland
+- Dale House
+- Hinderwell Lane
+- North Yorkshire
+- Port Mulgrave
+- Rosedale Lane
+- Roxby Lane
+- Roxby Low Moor
+- Scaling Dam
+- Whitby
+people:
+- Alex Langley
+organisations:
+- North Yorkshire Police
 ---
 
 # Watch: Police chase suspected stolen quad bike through North Yorkshire in early-hours pursuit

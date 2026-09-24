@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Acme
+- Bradford Odeon
+- Coyote
+- End of Oak Street
+- La La Land
+- Moana
+- Mutiny
+- Paw Patrol
+- Pout-Pout Fish
+- The End of Oak Street
+- The Light
+people:
+- Christopher Nolan
+- Harry Potter
+- Peter Parker
+- Tony
+organisations:
+- ACME
+- BRADFORD
+- Bradford Odeon
+- Dino Movie
+- Dog Stars
+- Kiki's Delivery Service
+- PG
+- The Light
+- The Super Mario Galaxy Movie
+- Wallace & Gromit
 ---
 
 *(Image: Getty)*

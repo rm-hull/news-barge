@@ -13,6 +13,17 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/21/05/Hong_Kong_Murder_Trial_36419.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Hong Kong
+- Tai Po
+people:
+- Abby Choi
+- Alex Kwong
+- Anthony Kwong
+- Kwong Kau
+organisations:
+- Dior
+- Paris Fashion Week
 ---
 
 A murder trial began Monday for the former husband and in-laws of Hong Kong socialite Abby Choi more than three years after the discovery of parts of her dismembered body at a house shocked the city where violent crime is rare.

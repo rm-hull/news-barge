@@ -12,6 +12,43 @@ image: https://i.guim.co.uk/img/media/be7141b940c24233deb779405f16a2da1a0a323c/3
 categories:
 - UK
 - News & Politics
+locations:
+- Canada
+- Crimea
+- France
+- Gaza
+- Germany
+- Gulf
+- Iran
+- Israel
+- Palestine
+- Paris
+- Russia
+- Soviet Union
+- UK
+- UK-Israel
+- US
+- West Bank
+- White House
+people:
+- Alan Duncan
+- Alistair Burt
+- Andy Burnham
+- Benjamin Netanyahu
+- Chris Bryant
+- Ed Miliband
+- Margaret Thatcher
+- Marion Kozak
+- Mike Huckabee
+- Trump
+organisations:
+- Disinvestment and Sanctions
+- EU
+- European Commission
+- Foreign Office
+- ICJ
+- Labour
+- UN
 ---
 
 The indefatigable ability of UK Foreign Office ministers over decades to issue boilerplate statements of concern about the extension of illegal settlements in Israel has long been a matter of ridicule.

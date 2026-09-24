@@ -11,6 +11,38 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32d0/live/67c12e
 categories:
 - UK
 - News & Politics
+locations:
+- Eastney
+- Gosport
+- Isle of Wight
+- Langstone Harbour
+- Nab Tower
+- Port of Dover
+- Portsmouth Harbour
+- Solent
+- Southampton
+people:
+- Billy Johnson
+- Caroline Dinenage
+- Eastney
+- Sarah Jones
+- Steve Pitt
+organisations:
+- ABP
+- BBC
+- Border Force
+- British Ports
+- Eastside Plaza Tower
+- Harbour Master Portsmouth
+- Home Office
+- House of Commons
+- KHM
+- King's Harbour Master
+- Langstone Harbour Master
+- Portsmouth City Council
+- RNLI
+- Solent
+- Spinnaker Tower
 ---
 
 ![A general view looking across the Solent towards Portsmouth Harbour including the Spinnaker Tower and Eastside Plaza Tower residential apartment building in Gunwharf Quays.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/32d0/live/67c12eb0-ab90-11f1-aa04-efbf6a882854.jpg)

@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
 categories:
 - Technology & Software
 - Relationships & Dating
+locations:
+- North London
+people:
+- Elton John
+- Fred
+- Johnny
+- MEDLEY
+- Madonna
+- Marc
+- Peter Kay
+- Right
+- Steve Jobs'
+- Wordle
+organisations:
+- '### Yesterday'
+- CRUISE
+- Channel 5
+- NYT Connections
+- New York Times
+- Pop Detective
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg) 

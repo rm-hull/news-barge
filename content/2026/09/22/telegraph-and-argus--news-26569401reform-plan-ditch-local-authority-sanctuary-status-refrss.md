@@ -12,6 +12,31 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/19456486.jpg?type=og-image
+locations:
+- Bradford District
+- Ukraine
+people:
+- Hawarun Hussain
+- Imran Khan
+- Jayne Morgan
+- Matt Edwards
+- Stephen Place
+organisations:
+- BRADFORD’S Reform
+- Bradford Council
+- Bradford Council Meeting
+- Bradford Labour Group
+- City of Sanctuary
+- Council of Sanctuary
+- Green Group
+- Green Party
+- Healthy People
+- Local Authority of Sanctuary
+- Local Sanctuary of Status
+- Reform Councillors
+- Reform Group
+- Reform UK Group
+- Telegraph & Argus
 ---
 
 BRADFORD’S Reform leaders have proposed pulling out of Bradford’s current 'Local Authority of Sanctuary' status, arguing the Council’s focus should be on Bradford residents.

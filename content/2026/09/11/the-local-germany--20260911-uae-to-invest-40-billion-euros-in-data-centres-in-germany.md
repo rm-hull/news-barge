@@ -15,6 +15,42 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Abu Dhabi
+- Berlin
+- Europe
+- Germany
+- Gulf
+- Iran
+- Russia
+- Sudan
+- UAE
+- US
+- United Arab Emirates
+people:
+- Donald Trump
+- Frank-Walter Steinmeier
+- Friedrich Merz
+- Mohamed bin Zayed Al Nahyan
+- Philipp Frisch
+- Sultan Ahmed Al Jaber
+organisations:
+- ADNOC
+- AI
+- BMW
+- Deutsche Bahn
+- EU
+- European Union
+- HRW Germany
+- Human Rights Watch
+- Investment Council
+- NATO
+- RWE
+- Rapid Support Forces
+- Siemens
+- ThyssenKrupp
+- UAE Industry
+- United Arab Emirates'
 ---
 
 The leader of the United Arab Emirates was on a state visit to Germany on Thursday that resulted in a promise to invest 40 billion euros into Europe's top economy.

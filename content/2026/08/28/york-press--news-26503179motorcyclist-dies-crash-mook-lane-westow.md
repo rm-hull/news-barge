@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Mook Lane
+- Mook Street
+- North Yorkshire
+- Westow
+- northyorkshire
+people:
+- Ruby Rutter
+organisations:
+- Honda
+- North Yorkshire Police
+- Yamaha
 ---
 
 ## Motorcyclist dies after serious crash in North Yorkshire

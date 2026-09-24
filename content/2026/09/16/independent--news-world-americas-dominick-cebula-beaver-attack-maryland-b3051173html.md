@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Baltimore
+- Cunningham Falls
+- Frederick County
+- Hunting Lake Creek
+- Johns Hopkins Hospital
+- Maryland
+people:
+- Dominick Cebula
+- Jeff Cebula
+- Leigh Cebula
+organisations:
+- Maryland’s Department of Natural Resources
+- WUSA9
+- World Health Organization
 ---
 
 A teenage boy was mauled by a rabid beaver while swimming on a family trip to a state park in Maryland.

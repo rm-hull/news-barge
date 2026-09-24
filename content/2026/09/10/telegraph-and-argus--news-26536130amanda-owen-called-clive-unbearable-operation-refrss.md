@@ -13,6 +13,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations: []
+people:
+- Amanda Owen
+- Clive Owen
+- Ian West
+- Miley?
+organisations:
+- All4
+- Channel 4
+- Our Yorkshire Farm
+- PA Wire
 ---
 
 *(Image: Ian West/PA Wire)*

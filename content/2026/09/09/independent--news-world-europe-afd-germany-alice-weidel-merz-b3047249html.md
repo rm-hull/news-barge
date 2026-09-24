@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Auschwitz
+- Germany
+- Moscow
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Alice Weidel
+- Bernd Baumann
+- Eva Umlauf
+- Friedrich Merz
+organisations:
+- AfD
+- International Auschwitz Committee
+- Nazi Party
+- Reuters
 ---
 
 German Chancellor Friedrich Merz has accused the Alternative for German of supporting Russia and advocating anti-migration policies that were tantamount to "ethnic cleansing".

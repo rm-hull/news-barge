@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Arizona
+- Instagram
+- Los Angeles
+- Montclair
+- Old Milwaukee
+- Southern California
+- Tucson
+people:
+- Pabst
+organisations:
+- Anheuser-Busch
+- Los Angeles Times
+- PBR
+- Pabst Blue Ribbon
 ---
 
 Thieves made off with tens of thousands of cans of Pabst beer in two separate heists from a Southern California warehouse on the same day, police said.

@@ -13,6 +13,29 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://media.wired.com/photos/6aad64b406b0d5688dcc1408/191:100/w_1280,c_limit/wired-women-tech-sruvey-thumb-1.jpg
+locations:
+- AI
+- Silicon Valley
+people:
+- Donald Trump
+- Ej Dickson
+- Elon Musk
+- Kate Taylor
+- Maxwell Zeff Meta
+- Paresh Dave
+- Sandra Upson
+- Steven Levy
+organisations:
+- AI
+- Backchannel
+- Communications Workers of America
+- Cursor
+- Elon Musk OpenAI
+- Medium
+- SpaceX
+- Trump
+- WIRED
+- Wall Street Journal
 ---
 
 ## WIRED Women

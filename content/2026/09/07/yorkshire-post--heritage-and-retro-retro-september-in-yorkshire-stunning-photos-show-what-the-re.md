@@ -15,6 +15,19 @@ categories:
 - York
 - Travel
 - Arts & Culture
+locations:
+- Berengaria
+- Leeds
+- Sheffield
+- Yorkshire
+people:
+- L. Blandford
+organisations:
+- AFS
+- Auxiliary Fire Service
+- Hulton Archive
+- Leeds Auxiliary Fire Service
+- Sheffield Central Day Commercial College
 ---
 
 It’s good every now and then to reflect on what has changed over the decades and what has remained the same.

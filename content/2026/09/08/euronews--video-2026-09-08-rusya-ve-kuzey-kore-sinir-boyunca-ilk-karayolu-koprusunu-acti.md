@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- North Korea
+- Russia
+- Tumen River
+people: []
+organisations: []
 ---
 
 Russia and North Korea opened their first road bridge across their shared border on Monday, marking a new development in ties between the two countries.

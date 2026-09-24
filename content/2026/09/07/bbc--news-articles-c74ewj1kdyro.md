@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Health & Fitness
 - Food & Cooking
+locations:
+- Aberdeen
+- Burra
+- Lerwick
+- London
+- Northlink
+- Shetland Dairy
+people:
+- Alex Armitage
+organisations:
+- Scottish Greens
+- Tesco
 ---
 
 ![A man with dark hair, wearing a dark blue shirt, sits at a green outdoor table. He is surrounded by shrubs in a rockery. He has samples of honey and milk on the table.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/41e7/live/0eb27c50-aaca-11f1-9ffe-379165646670.jpg)

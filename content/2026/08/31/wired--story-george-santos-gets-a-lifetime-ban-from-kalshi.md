@@ -12,6 +12,33 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- California
+- Maine
+- North Carolina
+- Santos’
+people:
+- Ben Midgley
+- Elisabeth Diana
+- George Santos
+- Kalshi
+- Laurie Buckhout
+- Mark Moran
+- Stephen Kloobeck
+- Trump
+organisations:
+- CFTC
+- Commodity Futures Trading Commission
+- Congress
+- FML
+- Kalshi
+- Polymarket
+- Santos
+- Santos’
+- State of Union
+- State of the Union
+- US Senate
+- WIRED
 ---
 
 Former Republican congressman George Santos has received a first-of-its-kind lifetime ban from the prediction market platform Kalshi, which has also fined him $71,356 for violating its rules around insider trading and market manipulation.

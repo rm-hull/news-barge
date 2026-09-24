@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Britain
+- Marsh
+- North East
+- North East Birds
+- North Yorkshire
+- RSPB Saltholme
+- Stockton
+- Suffolk
+- Teesmouth
+- Teesside
+- UK
+people:
+- PAT BLEWITT
+- Pat Blewitt
+organisations:
+- Avocets
+- Northern Echo Camera Club
+- PAT BLEWITT
+- RSPB Durham Local Group
 ---
 
 *(Image: PAT BLEWITT/CAMERA CLUB)*

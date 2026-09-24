@@ -12,6 +12,62 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Benfieldside
+- Bishop Auckland
+- Chester-le-Street South
+- County Durham
+- Delves Lane
+- Easington
+- Historic County Durham
+- Lower Teesdale
+- Murton
+- Newton Aycliffe
+- Seaham
+- Shildon
+- Shotton
+- UK
+- West Auckland
+people:
+- Andrew Harrison
+- Andrew Husband
+- Andrew Kilburn
+- Cllr Fox
+- Cllr Husband
+- David Cumming
+- Dawn Saunders
+- Ian Catchpole
+- Jack McGlenen
+- Jasmine Fox
+- John Bailey
+- Kate Rowland
+- Kenny Hope
+- Lyndsey Fox
+- Michael Ramage
+- Nick Brown
+- Nicole Brown
+- Nigel Farage
+- Paul Bean
+- Paul Sexton
+- SARAH CALDECOTT
+organisations:
+- Advance UK
+- Aycliffe South
+- Big Club
+- Bishop Auckland
+- County Durham
+- Crook
+- Dawdon
+- Durham County Council
+- NORTHERN ECHO
+- Northern Echo
+- Peterlee
+- Police and Crime Commissioner
+- Reform UK
+- Sedgefield
+- Shildon
+- Sky News
+- The Big Club
 ---
 
 Reform UK's majority on Durham County Council has been cut to just three councillors after another trio of members quit the party ahead of a crucial meeting on plans to find £20 million of savings this year.

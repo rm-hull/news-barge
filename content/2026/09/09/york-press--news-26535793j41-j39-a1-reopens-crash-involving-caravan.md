@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Automotive
+locations:
+- MAJOR
+- Newsquest
+- Yorkshire
+people: []
+organisations:
+- A1
+- National Highways
 ---
 
 *(Image: Newsquest)*

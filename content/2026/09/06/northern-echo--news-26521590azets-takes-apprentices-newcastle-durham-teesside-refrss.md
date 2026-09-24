@@ -14,6 +14,26 @@ categories:
 - News & Politics
 - Careers & Productivity
 - Education & Learning
+locations:
+- Durham
+- Newcastle
+- North East
+- Stockton
+- Sudan
+- Teesside
+people:
+- Claire Hinshaw
+organisations:
+- A66
+- AAT
+- ACA
+- ACCA
+- Association of Accounting Technicians
+- Azets
+- CTA
+- ICAS
+- NHS
+- Office for National Statistics
 ---
 
 *(Image: Azets)*

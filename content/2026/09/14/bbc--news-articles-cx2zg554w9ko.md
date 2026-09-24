@@ -12,6 +12,32 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Amazon
+- Florida
+- Miami
+- Puerto Rico
+- San Juan
+- Tesla Cybercabs
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jennifer Homendy
+- Julio C Pineda
+- Keith Winters
+- Kelly Nantel
+- Rolando Aleman Leon
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- Amazon
+- BBC
+- DHL
+- Luis Muñoz Marín International Airport
+- Miami International Airport
+- NTSB
+- Prime Air
+- US National Transportation Safety Board
 ---
 
 ![A parking lot filled with Tesla Cybercabs is seen in the foreground as the nose of a Prime Air cargo plane rests on the ground after the aircraft overran the runway and struck cars the previous day at Miami International Airport in Miami, Florida, on September 7, 2026.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/6e20/live/5e01de50-afdd-11f1-85da-1d41c9633ce8.jpg)

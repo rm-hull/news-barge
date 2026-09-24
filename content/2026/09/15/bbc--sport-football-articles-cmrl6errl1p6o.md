@@ -14,6 +14,28 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Brazil
+- London
+- Tottenham
+people:
+- '![Richarlison'
+- De Zerbi
+- Joao Palhinha
+- Micky van de Ven
+- Richarlison
+- Roberto de Zerbi
+organisations:
+- Everton
+- Liverpool
+- Premier League
+- Richarlison
+- Spurs
+- TSG Hoffenheim
+- Toffees
+- Tottenham Hotspur
+- Vasco da Gama
+- Watford
 ---
 
 ![Richarlison of Tottenham Hotspur reacts during the pre-season friendly match between Tottenham Hotspur and TSG Hoffenheim](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b879/live/655224b0-b0d9-11f1-a540-61c3f7fc4e6c.jpg)

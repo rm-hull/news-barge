@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Arjomand
+- Balochistan
+- Bandar-e-Kuhestak
+- Hormozgan
+- Hormuz
+- Iran
+- Kuhestak
+- Makran
+- Minab
+- US
+people:
+- Ahmad
+- Ahmad*
+- Ali Mallahi
+- Allah
+- Amir Mohammad Karimi
+- Asiyeh Molainejad
+- Chakar Baloch
+- Farzin Kadkhodaei
+- God
+- JD Vance
+- Moein Arjomand
+- Mohammad Mallahi
+- Sepehr
+- Sirik
+- Yaqoob Mallahi
+organisations:
+- Arjomand
+- Balochistan Human Rights Documentation Network
+- Guardian
 ---
 
 People in Kuhestak, a predominantly Baloch city in Iran’s southern Hormozgan province, are mourning after a strike on a wedding killed at least four people, including a child, and injured more than 60, according to local authorities.

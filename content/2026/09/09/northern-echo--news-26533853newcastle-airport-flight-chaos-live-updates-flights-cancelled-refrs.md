@@ -14,6 +14,11 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- UK
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the major disruption to airports across the UK due to a technical issue.

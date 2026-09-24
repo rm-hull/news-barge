@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/b410679732df3d5d295e5bacb878e74d07453fb0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7228ab9a455abed34f9bfc185c10ac7
+locations:
+- Chengdu
+- Guangzhou
+- Wuhan
+people:
+- Lian Yunzhi
+- Lin Yangxi
+- Speedcuber
+- Zhizhi
+organisations:
+- CCTV
+- Red Star News
+- World Cube Association
 ---
 
 A six-year-old Chinese girl has set a new women’s world record for solving a Rubik’s Cube in just over four seconds, state media reported.

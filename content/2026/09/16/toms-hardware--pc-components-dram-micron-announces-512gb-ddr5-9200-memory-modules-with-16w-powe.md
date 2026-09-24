@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/piUuHtgGMF6aJLG24RchXg-1280-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Anton Shilov
+- Reply Wow
+- Tom
+organisations:
+- AMD
+- Get Tom's Hardware
+- Google News
+- Intel
+- Micron
+- RDIMM
+- Samsung
+- Spark Support Vector Machine
+- Tom’s Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/piUuHtgGMF6aJLG24RchXg.png) 

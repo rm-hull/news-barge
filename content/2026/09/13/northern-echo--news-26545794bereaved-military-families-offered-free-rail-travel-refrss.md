@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Cenotaph
+people:
+- Calvin Bailey
+- Lord Hendy
+- Mikki Brett
+- Ola Ogun
+- STUART BOULTON
+- Stuart Brett
+organisations:
+- Armed Forces
+- Armed Forces’
+- Defence Medical Welfare Service
+- National Rail
+- Rail Delivery Group
+- Royal Navy
+- SSAFA
+- Veterans and People
 ---
 
 *(Image: STUART BOULTON)*

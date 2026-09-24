@@ -12,6 +12,56 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- Europe
+- Germany
+- Greater Manchester
+- Leipzig
+- Liz Truss
+- North Devon
+- Russia
+- UK
+- Ukraine
+people:
+- '## Burnham'
+- '## Ed Davey'
+- Andrew Griffith
+- Andy Burnham
+- 'Burnham ##'
+- David Maddox
+- Ed Davey
+- God
+- Howard Davies
+- Jim O’Neill
+- John Healey
+- Karl Matchett
+- Keir Starmer
+- Kemi Badenoch
+- Liz Truss
+- Lord O’Neill
+- Mel Stride
+organisations:
+- Brexit
+- Budget
+- Commons
+- G7
+- Greater Manchester Police
+- Home Secretary
+- House
+- Labour
+- Lib Dem
+- Liberal Democrat
+- NATO
+- NatWest
+- Nato
+- Opposition
+- PM
+- Reform
+- State for Health
+- Tory
+- Treasury
+- Truss
 ---
 
 Andy Burnham has refused to rule out further tax rises in his October Budget, in his first Prime Minister’s Questions, as Kemi Badenoch accused him of being a “people-pleaser”

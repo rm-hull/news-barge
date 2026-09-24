@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Brighton
+people:
+- Paul Nowak
+organisations:
+- Congress
+- Government
+- TUC
 ---
 
 The Government is facing calls to follow through on its promised crackdown on zero-hours contracts, with union chiefs dismissing arguments against the policy as "baseless myths".

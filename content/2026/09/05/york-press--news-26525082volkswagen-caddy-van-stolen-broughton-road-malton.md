@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Broughton Road
+- Malton
+- North Yorkshire
+- Northallerton
+people: []
+organisations:
+- North Yorkshire Police
+- Volkswagen Caddy
 ---
 
 *(Image: North Yorkshire Police)*

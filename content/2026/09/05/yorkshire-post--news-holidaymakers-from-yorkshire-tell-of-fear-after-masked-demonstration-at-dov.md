@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Dover Priory
+- Folkestone
+- Leeds
+- Yorkshire
+people:
+- Maureen Lightwood
+- Mike Tapp
+- Nigel Farage
+- Oscar Rihll
+- Steve
+organisations:
+- Brighton Labour
+- Deal
+- PA Photo
+- Reform
 ---
 
 # Holidaymakers from Yorkshire tell of fear after masked demonstration at Dover

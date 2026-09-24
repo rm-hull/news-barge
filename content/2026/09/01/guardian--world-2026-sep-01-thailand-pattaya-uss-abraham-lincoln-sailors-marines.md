@@ -13,6 +13,31 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- California
+- Iran
+- Laem Chabang
+- Lincoln
+- Middle East
+- Pattaya
+- Singapore
+- South China Sea
+- Thailand
+- US
+- Vietnam
+- Walking Street
+people:
+- Abraham Lincoln
+- Anek Srathongyoo
+- Bualuang Ponok
+- Donald Trump
+- George Washington
+- Narit Niramaiwong
+- Poramase Ngampiches
+organisations:
+- AFP
+- Agence France-Press
+- Associated Press
 ---
 
 Authorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome thousands of sailors and marines from the USS Abraham Lincoln who have spent more than 270 consecutive days at sea.

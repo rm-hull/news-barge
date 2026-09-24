@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Australia
+- California
+- Federation Square
+- London
+- Melbourne
+- Ram Tram
+- UK
+- US
+- Victoria
+- Yarra River
+people:
+- Christian McCaffrey
+- Danny Webb
+- Dontay Atkinson
+- George Kittle
+- Gerrit Meier
+- Jesse Sapolu
+- Joe Nedney
+- Jordan Mailata
+- Kyren Williams
+- Stephanie Cheng
+- Thomas McMillan
+organisations:
+- AFL
+- BBC
+- LA Rams
+- MCG
+- Melbourne Cricket Ground
+- NFL International
+- Philadelphia Eagles
+- Reuters
+- San Francisco 49ers
 ---
 
 ![Men in red sports gear walk out of a tunnel into a stadium with fans behind them](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3c39/live/ee4db2d0-abf6-11f1-8260-f57b5f356735.jpg)

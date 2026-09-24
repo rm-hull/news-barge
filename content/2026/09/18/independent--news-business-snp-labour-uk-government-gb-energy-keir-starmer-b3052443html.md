@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Aberdeen
+- Grangemouth
+- PA
+- Port of Greenock
+- Scotland
+- UK
+people:
+- Anas Sarwar
+- Ed Miliband
+- Jack Middleton
+- Jürgen Maier
+- Keir Starmer
+- Martin McCluskey
+- Stefan Rousseau
+organisations:
+- Aberdeen Central
+- GB Energy
+- HQ
+- Labour Party
+- SNP
+- Times Radio
+- UK Government
 ---
 
 A UK minister has been accused of telling “fibs” after saying GB Energy was “never meant” to employ 1,000 people in Aberdeen.

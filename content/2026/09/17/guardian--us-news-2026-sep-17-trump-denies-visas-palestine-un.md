@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- New York
+- US
+- United States
+people:
+- Mahmoud Abbas
+- Trump
+organisations:
+- ICC
+- ICJ
+- International Court of Justice
+- International Criminal Court
+- New York Times
+- PA
+- PLO
+- Palestine Liberation Organization
+- Palestinian Authority
+- UN
+- United Nations
 ---
 
 The US state department said on Wednesday that it had again denied entry visas to Palestinian officials ahead next week’s United Nations general assembly gathering in New York.

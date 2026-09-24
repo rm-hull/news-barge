@@ -11,6 +11,59 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1a4/live/6767e5
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Duchess of Sussex
+- Duke
+- Germany
+- Greece
+- Israel
+- Portsmouth
+- UK
+- US
+- West Bank
+people:
+- '!["Bernie'
+- '!["King'
+- Andy Burnham
+- Bernie Ecclestone
+- Charles
+- Chris Rokos
+- Derek Guy
+- Donald Trump
+- Ed Miliband
+- Harry
+- John Healey
+- Kemi Badenoch
+- King
+- Meghan
+- Megxit
+- Merz
+- Nigel Farage
+organisations:
+- '!["New ISA'
+- AfD
+- Budget
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Duchess of Sussex
+- F1
+- Financial Times
+- Guardian
+- Home Office
+- Labour
+- Metro
+- RNLI
+- Reform UK
+- Space Force
+- Sun
+- The Times
+- Treasury
+- i Paper
 ---
 
 !["Port in a storm" reads the headline on the front page of Metro.](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/8057/live/e8f23030-aafd-11f1-a291-b542ee92de7c.jpg)

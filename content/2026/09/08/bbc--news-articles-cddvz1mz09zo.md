@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Barnaby
+- Burford Road
+- Eastwood
+- London
+- Normanton
+- Nottingham
+- Nottinghamshire
+people:
+- Barnaby Webber
+- Barney
+- Deborah Taylor KC
+- Grace O'Malley-Kumar
+- Ian Coates
+- Marcin Gawronski
+- Rachel Langdale KC
+- Rob Behrens
+- Sanjoy Kumar
+- Sharon Miller
+- Tim Moloney KC
+- Valdo Calocane
+- Wayne Birkett
+organisations:
+- BBC Nottingham
+- BBC Radio Nottingham
+- Calocane
+- Nottingham Inquiry
+- Nottinghamshire Police
+- The Nottingham Inquiry
+- VC
 ---
 
 ![A composite image of Barnaby Webber, Grace O'Malley-Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/443c/live/5c3356e0-ab5e-11f1-a291-b542ee92de7c.jpg)

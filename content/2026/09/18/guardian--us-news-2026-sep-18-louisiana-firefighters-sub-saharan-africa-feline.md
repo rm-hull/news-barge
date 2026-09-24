@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 - Pets & Animals
+locations:
+- British Columbia
+- Cincinnati
+- Harvey
+- JPaws
+- Jefferson
+- Louisiana
+- Marrero
+- New Orleans
+- New Orleans’ Audubon
+- North America
+- Ohio
+- Pennsylvania
+- Philadelphia
+- Vancouver
+- sub-Saharan Africa
+people:
+- Amiry
+- JPaws
+- John McCusker
+- Marrero
+- Michelle Brignac
+- Victoria Clark
+organisations:
+- Guardian
+- JPaws
+- JPaws’
+- NBC News
 ---
 
 Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, and an animal welfare agency is now seeking to place the creature in an appropriate environment, according to officials.

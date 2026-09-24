@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Helmsley station
+- NORTH Yorkshire
+people: []
+organisations:
+- North Yorkshire Fire and Rescue
 ---
 
 ## Busy month for North Yorkshire Fire and Rescue after call-outs

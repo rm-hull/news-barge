@@ -15,6 +15,16 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+- England
+- Leeds
+- West Yorkshire
+people: []
+organisations:
+- Centre for Cities
+- G7
+- Leeds
 ---
 
 # Housing potential another reason to deliver West Yorkshire mass transit

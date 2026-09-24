@@ -14,6 +14,19 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://i.guim.co.uk/img/media/a289589fb3b26a9d70097606a90a2d0f0466ebad/0_0_6006_4805/master/6006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1753ad13a6498d59daedc03613df72ba
+locations:
+- Australia
+- Melbourne
+- Richmond
+people:
+- Skye Cappuccio
+organisations:
+- Australian Bureau of Statistics
+- Australian Criminal Intelligence Commission
+- Council of Small Business Organisations Australia
+- Guardian Australia
+- QBE
+- Suncorp
 ---
 
 Small businesses located near tobacconists are being denied insurance or priced out of coverage as rising arson attacks turn neighbouring shops into collateral damage.

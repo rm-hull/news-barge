@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Arizona
+- California
+- Georgia
+- Iran
+- U.S.
+- White House
+people:
+- Brian O'Neill
+- Chelsea Manning
+- Dobbs
+- Roe
+- Scooter Libby
+- Trump
+- Valerie Plame
+- Wade
+organisations:
+- American Psychological Association
+- CIA
+- Department of Homeland Security
+- FBI
+- Georgia Institute of Technology
+- Joint Staff
+- National Academy of Sciences
+- Pentagon
+- Supreme Court
+- The Conversation
+- The New York Times
+- Trump
 ---
 
 In August 2026, government investigators subjected roughly 50 military officers and civilian employees on the Joint Staff to polygraph tests as part of an inquiry into press leaks about the Iran war and depleted U.S. munitions, according to *The New York Times*. The newspaper described the scope of the investigation as unprecedented in the modern military.

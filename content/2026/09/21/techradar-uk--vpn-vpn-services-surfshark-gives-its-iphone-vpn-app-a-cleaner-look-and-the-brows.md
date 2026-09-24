@@ -11,6 +11,19 @@ description: The locations tab is now split into two views, so your most-used se
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/pWpou2FvwQCdLVveG7JmGA-1920-80.jpg
+locations: []
+people:
+- Monica J. White
+organisations:
+- Digital Trends
+- Google News
+- Monica
+- No Trace
+- SlashGear
+- Starter
+- Surfshark
+- Tom’s Hardware
+- WePC
 ---
 
 ![Surfshark VPN app](https://cdn.mos.cms.futurecdn.net/pWpou2FvwQCdLVveG7JmGA.jpg)

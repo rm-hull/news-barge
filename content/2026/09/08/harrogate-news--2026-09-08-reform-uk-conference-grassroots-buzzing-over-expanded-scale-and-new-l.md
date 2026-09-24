@@ -15,6 +15,16 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Doncaster
+people:
+- Braverman
+- Mike Jordan
+organisations:
+- BIRMINGHAM
+- NEC
+- Reform UK
+- Reform council
 ---
 
 **BIRMINGHAM** — Grassroots organizers within Reform UK have reported an overwhelmingly positive reception to the party’s expanded annual conference at the NEC, pointing to enhanced corporate infrastructure and a successful reboot of its local government strategy.

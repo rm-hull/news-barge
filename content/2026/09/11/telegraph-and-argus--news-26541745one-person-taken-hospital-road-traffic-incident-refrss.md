@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Beacon Road
+- Bradford
+people: []
+organisations:
+- '## FULL'
+- Newsquest
+- West Yorkshire Police
+- YAS
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

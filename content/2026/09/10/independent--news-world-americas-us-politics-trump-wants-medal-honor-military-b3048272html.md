@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Arlington
+- Norway
+- Queens
+- Texas
+- Venezuela
+- Washington, D.C.
+people:
+- Donald Trump
+- Elysa Braunstein
+- Fred Trump
+- Hershel “Woody” Williams
+- Larry Braunstein
+- María Corina Machado
+- Nicolás Maduro
+organisations:
+- Armed Forces
+- National Mall
+- National Medal of Honor Museum
+- Norwegian Nobel Committee
+- Oval Office
+- The New York Times
+- Trump
 ---
 
 President Donald Trump bemoaned not being able to give himself the Medal of Honor in front of recipients of the highest award for military valor in action.

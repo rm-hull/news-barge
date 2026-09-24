@@ -14,6 +14,23 @@ categories:
 - UK
 - True Crime
 - Family & Parenting
+locations:
+- Massachusetts
+- UK
+- USA
+people:
+- '![Clancy'
+- Allen
+- Callan
+- Cora
+- Dawson
+- Lindsay Clancy
+- Patrick Clancy
+- William Sullivan
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Plymouth Superior Court
+- Samaritans
 ---
 
 A deadlocked jury was sent back to deliberate Thursday as Plymouth Superior Court teeters on the brink of a mistrial in the trial of Lindsay Clancy, the former nurse accused of strangling her three young children to death in their basement.

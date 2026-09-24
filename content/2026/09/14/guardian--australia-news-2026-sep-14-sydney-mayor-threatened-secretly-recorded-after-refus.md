@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Baulkham Hills
+- Beirut
+- Castle Hill
+- Icac
+- Lebanon
+- New South Wales
+- Strathfield
+people:
+- David Chandler
+- David Elliot
+- David Elliott
+- Icac
+- Jean Nassif
+- Karen Pensabene
+- Matthew Blackmore
+- Peggy Dwyer
+- Peggy Dwyer SC
+- Ray Hadley
+- Sharangan Maheswaran
+- Tony Abbott
+organisations:
+- 2GB
+- Icac
+- Labor
+- NSW Independent Commission Against Corruption
+- NSW Liberal
+- NSW Liberals
+- News Corp
+- YouTuber Friendlyjordies
 ---
 
 The fugitive property developer Jean Nassif has bragged about taking down his political foes and bolstering the right wing of the Liberal party in calls played to the New South Wales corruption watchdog, as he vowed to “speak [his] heart” at his much-anticipated appearance.

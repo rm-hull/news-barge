@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Education & Learning
+locations:
+- Ilkley
+- Leeds
+- North Yorkshire
+- West
+people:
+- Ben Rhydding
+- Helen Williams
+- Peter Timms
+organisations:
+- Ashlands Primary School
+- Ben Rhydding Primary School
+- Benton Park School
+- Burley Oaks Primary School
+- Eastburn Primary School
+- Ilkley Grammar School
+- MLT
+- Menston Primary School
+- Moorlands Learning Trust
+- Nidderdale High School
+- Skipton Academy
+- Talbot Primary School
 ---
 
 *(Image: submitted)*

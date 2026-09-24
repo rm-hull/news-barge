@@ -13,6 +13,68 @@ image: https://i.guim.co.uk/img/media/72511061c7679c0d11237294a7e3584153591763/3
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Camden
+- England
+- Falkland Islands
+- Falklands
+- Florida
+- Germany
+- Heaton Park
+- Holborn
+- Iran
+- London
+- Middle East
+- Palestine
+- St Pancras
+- State of Israel
+- Tel Aviv
+- UK
+- US
+- United States
+- West Bank
+- West Bank Miliband
+people:
+- Andreas Schleicher
+- Andy Burnham
+- Ed Miliband
+- Ehud Olmert
+- Ephraim Sneh
+- Hamza Chowdhury
+- Jeremy Corbyn
+- Jonathan Hall KC
+- Keir Starmer
+- Kemi Badenoch
+- Lisa Nandy
+- Lorna Russell
+- Lucy Powell
+- Mike Huckabee
+- Peter Walker Peter Walker
+- Randy Fine
+- Richard Adams Richard Adams
+- Zack Polanski
+- al-Jihad al-Hassan
+organisations:
+- Airbnb
+- BBC’s Newsnight
+- Camden Green
+- Commons
+- European Union
+- G7
+- Guardian
+- Hamas
+- Hezbollah
+- IDF
+- IRGC
+- International Court of Justice
+- Jewish Chronicle
+- Labour
+- Legislature
+- OECD
+- Observer
+- Pisa
+- UN
 ---
 
 UK sanctions on Israeli settlements in West Bank will take up to nine months to come into force, Miliband says – UK politics live

@@ -12,6 +12,13 @@ image: https://static.the-independent.com/2026/09/17/13/33/Margaret-Rog.avif?tri
 categories:
 - News & Politics
 - UK
+locations:
+- West Virginia
+people:
+- Margaret Rog
+organisations:
+- Monongalia County Sheriff’s Office
+- The Independent.
 ---
 
 A West Virginia wife is accused of leaving her ailing husband on the toilet for 19 hours, allowing his condition to worsen before he ultimately died a week later.

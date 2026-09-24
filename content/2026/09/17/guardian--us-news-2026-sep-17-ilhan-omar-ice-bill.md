@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Illinois
+- Louisiana
+- Maine
+- Minneapolis
+- Minnesota
+- North Carolina
+- Oregon
+- Somalia
+- US
+people:
+- Alex Pretti
+- Donald Trump
+- Ilhan Omar
+- Markwayne Mullin
+- Renée Good
+organisations:
+- CBP
+- Catahoula Crunch
+- Customs and Border Protection
+- Department of Housing and Urban Development
+- Guardian
+- Harris
+- Harvard CAPS
+- ICE
+- Immigration and Customs Enforcement
+- Operation Black Rose
+- Operations Swamp Sweet
+- Trump
 ---
 
 The US congresswoman Ilhan Omar is set to introduce a bill that would make federal immigration agencies “pay the price” for terrorising vulnerable communities, blocking nearly $140bn in funding and redirecting it to local recovery efforts, the Guardian has learned.

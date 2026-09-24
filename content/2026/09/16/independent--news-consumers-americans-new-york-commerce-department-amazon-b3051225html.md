@@ -14,6 +14,13 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Middle East
+- U.S.
+people: []
+organisations:
+- AAA
+- Commerce Department
 ---
 
 Consumers stepped up their spending at a better-than-anticipated pace in August after an unexpectedly sharp pullback in July.

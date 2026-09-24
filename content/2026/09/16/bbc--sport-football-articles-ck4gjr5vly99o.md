@@ -12,6 +12,45 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa
+- England
+- Haaland
+- Manchester
+- Spain
+- Stockley Park
+people:
+- Antrobus'
+- Blake Antrobus
+- Dan Ballard
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Howard Webb
+- Josko Gvardiol
+- Kevin Danso
+- Lee Mason
+- Matt Donohue
+- Mike Dean
+- Neil Davies
+- Nick Hopton
+- Pro Ref
+- Rooney **"Quick
+- Tim Wood
+organisations:
+- AVAR
+- Arsenal
+- Brentford
+- La Liga
+- Manchester City
+- Manchester United
+- Premier League
+- Pro Ref
+- Sunderland
+- Uefa
+- VAR
+- VARs
+- West Ham
 ---
 
 Refereeing decisions were 'baffling' - Rooney

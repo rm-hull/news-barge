@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Connect Property North East
+- Darlington
+- Galgate
+- Hollywood
+- Market Place
+- North East
+- Quiet County Durham
+- The Witham Arts Centre
+people:
+- Tom Hardy
+organisations:
+- Barclays
+- Butter Market
+- Market Place
+- NORTHERN ECHO
 ---
 
 *(Image: NORTHERN ECHO)*

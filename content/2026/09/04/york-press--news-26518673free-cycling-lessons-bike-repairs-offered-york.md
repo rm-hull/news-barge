@@ -12,6 +12,16 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Burnholme Leisure Centre
+- York
+people:
+- Kate Ravilious
+organisations:
+- Active Travel Fund
+- City of York Council
+- Mayor of York
+- North Yorkshire
 ---
 
 *(Image: City of York Council)*

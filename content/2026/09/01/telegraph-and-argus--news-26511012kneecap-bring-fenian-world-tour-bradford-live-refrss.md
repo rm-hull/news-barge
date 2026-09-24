@@ -12,6 +12,28 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Bradford Live
+- Coachella
+- Crystal Palace Park
+- Dublin’s 3Arena
+- Glastonbury
+- London
+- Palestine
+- UK
+- West Yorkshire
+people:
+- Dan Carey
+- Kneecap
+organisations:
+- BAFTA
+- Bradford Live
+- Fontaines D.C.
+- Kae Tempest
+- Kneecap
+- Odeon Cinema
+- Trafalgar Entertainment
+- Wet Leg
 ---
 
 *(Image: Supplied)*

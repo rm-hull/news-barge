@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Music
+locations:
+- East Yorkshire
+- Selby Town Hall
+- UK
+people:
+- Gerardo Villar y Los Aguirre
+- Lisa Cherry-Downes
+- Martin
+- Martín Alvarado
+organisations:
+- L Tango Promotions
+- National Academy of Tango
 ---
 
 ## World-renowned Argentinian tango singer to take centre stage in Selby

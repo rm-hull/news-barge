@@ -12,6 +12,19 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b8/live/ca7d85
 categories:
 - UK
 - News & Politics
+locations:
+- New York
+- North Tower
+people:
+- Andrew Blum
+- Nada Tawfik
+- Pratiksha Ghildial
+- Rudy Giuliani
+- Salman
+- Zeshan Hamdani
+- Zohran Mamdani
+organisations:
+- BBC
 ---
 
 # Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial

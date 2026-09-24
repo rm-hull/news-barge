@@ -13,6 +13,13 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Britain
+people:
+- Christine
+organisations:
+- BBC
+- Forgotten Girls
 ---
 
 # 'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal

@@ -10,6 +10,16 @@ image: https://media.wired.com/photos/6a9600c80fdf8d2aaa7d4ea9/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Claus Jönsson
+- Einstein
+- Erwin Schrödinger
+- Newton
+- Richard Feynman
+- Thomas Young
+organisations:
+- Nice
 ---
 
 A big problem with physics is that it’s invented by humans. We see stuff around us and use our observations to build a mental model of the world. Children do this, and of course physicists keep right on doing it. In many cases, this is awesome. It's how we got Newton's laws of motion. But it goes sideways when we try to picture the behavior of tiny, invisible things like subatomic particles.

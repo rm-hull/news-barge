@@ -12,6 +12,38 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Baja California
+- Big Island
+- Hawaii
+- Hawaii.
+- Honolulu
+- Kauai County
+- Lihue Airport
+- Lowell
+- Malibu
+- Marie
+- Maui
+- Mexico
+- Niihau
+- Oahu
+- Pacific Ocean.
+- Southern California
+people:
+- '## Marie'
+- Derek Kawakami
+- Eric Blake
+- Josh Green
+- Lala
+- Lori Benkert
+- Lowell
+- Rochelle Ballard
+organisations:
+- CIRA
+- Kauai Island Utility Cooperative
+- Los Angeles County Fire Department
+- NOAA
+- National Hurricane Center
 ---
 
 Severe gales and heavy rain triggered by Hurricane Lowell battered the western islands of Hawaii on Tuesday, severing power to thousands and tearing up stretches of coastal roads.

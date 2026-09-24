@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Belvedere Road
+- Cayton Bay
+- Esplanade Crescent
+- Holbeck Road
+- Holbeck Road Campervan ETRO
+- Marine Drive
+- NYC
+- North Yorkshire
+- Royal Albert Drive
+- Sandsend
+- Scarborough
+- Sea Cliff Road
+- South Cliff
+- Whitby
+people:
+- Cllr Malcolm Taylor
+- Rich Maw
+organisations:
+- Crown Copyright
+- Experimental Traffic Regulation Order
+- Holbeck Road Campervan ETRO
+- NYC Expanded Motohome ETRO
+- Newsquest
+- North Yorkshire Council
+- Nyc Parking Survey
+- Ramshill division
+- Weaponness
 ---
 
 ## Campervan ban that led to vandalism of signs expanded on North Yorkshire coast

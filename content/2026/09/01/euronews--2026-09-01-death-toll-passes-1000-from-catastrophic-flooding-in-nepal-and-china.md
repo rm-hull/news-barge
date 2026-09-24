@@ -13,6 +13,15 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- China
+- Himalayas
+- Nepal
+- Tibet
+- Timure
+people:
+- Bimal Sharma
+organisations: []
 ---
 
 ## The 26 August disaster began with a chain of events high in the Himalayas. A glacial collapse sent large amounts of rock, ice and meltwater into valleys below, triggering powerful floods downstream.

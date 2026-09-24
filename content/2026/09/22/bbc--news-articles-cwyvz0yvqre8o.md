@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab10/live/c3d14350-b6a0-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Alabama
+- Nashville
+- Nissan Stadium
+- Old Town Road
+- Tennessee
+- Texas
+- UK
+- US
+people:
+- Daddy Yankee
+- Ella Langley
+- Joybeth Taylor
+- Justin Bieber
+- Luis Fonsi
+- Luke Dick
+- Mariah Carey
+- Miranda Lambert
+- Olivia Dean
+- Sam Fender
+organisations:
+- Billboard magazine
+- Choosin
+- Competition and Markets Authority
+- Lambert
+- Langley
+- Lil Nas X
 ---
 
 ![Ella Langley performs onstage at Nissan Stadium during CMA Fest 2026 day one on June 04, 2026 in Nashville, Tennessee. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab10/live/c3d14350-b6a0-11f1-bc1f-3f186ca4140c.jpg)

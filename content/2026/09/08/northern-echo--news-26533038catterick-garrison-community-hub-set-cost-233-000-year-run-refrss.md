@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Catterick Garrison
+- Coronation Park
+- North Yorkshire
+- Scarborough
+- Shute Road
+- Whitby
+people:
+- Cllr Foster
+- Colburn
+- Hipswell
+- Kevin Foster
+- Mark Crane
+organisations:
+- Catterick Community and Enterprise Building
+- Colburn
+- HIVE
+- Ministry of Defence
+- North Yorkshire Council
 ---
 
 North Yorkshire Council will need to pay £233,000 a year to operate a new community building being built in Catterick Garrison.

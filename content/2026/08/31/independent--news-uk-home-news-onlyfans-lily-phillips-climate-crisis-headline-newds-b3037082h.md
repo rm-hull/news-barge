@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations: []
+people:
+- Adam McKay
+- Bree Essrig
+- Jessica Riches
+- Lilly Phillips
+- Lily Phillips
+- Megan Prescott
+organisations:
+- Riches
+- The Big Short
+- Yellow Dot Studios
 ---
 
 In a bid to bring public attention to the global climate crisis, a group of filmmakers have taken an unusual approach; recruiting OnlyFans stars.

@@ -14,6 +14,13 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Andy Burnham
+- Rich Bayer
+organisations:
+- Clearpay
 ---
 
 Sales of basic mobile phones which help people to digitally “detox” have jumped over the past year, according to a buy now pay later provider.

@@ -14,6 +14,81 @@ categories:
 - News & Politics
 - Music
 - Arts & Culture
+locations:
+- Aotearoa
+- Argentina
+- Brighton
+- Brooklyn
+- Buenos Aries
+- Gold Street
+- Ireland
+- K Bridge Park
+- Leicester
+- London
+- Melbourne
+- New Zealand
+- Oasis
+- River Plate
+- San Diego
+- US
+- Wembley Stadium
+- Yorkshire
+people:
+- :** Wayne Spike Large
+- Amy Taylor
+- Amyl
+- Billie Marten
+- Bryce Glenn
+- Caity Krone
+- Chappell Roan
+- Charli XCX
+- Charlie Barclay Harris
+- Chris Penney
+- Crazyhead
+- Daniel Rojos
+- Danny North
+- FKA Twigs
+- Frances Carter
+- Gaye Bykers
+- Harriet Bols
+- Ian Anderson
+- Jack Oliver
+- Jamie Wdziekonski
+- Jenn Devereaux
+- Jessie Morgan
+- Joshua Halling
+- Kendrick Lamar
+- Kendrick Lamar**
+- Kevin Parker
+- Lewis Evans
+- Liam Gallagher
+- Masayoshi Sukita
+- Nile Rogers
+- Noel Gallagher
+- Phoebe Lunny of Lambrini Girls
+- Rankin
+- Rapper Kendrick Lamar
+- Raye
+- Robber Byker
+- Roberta Bayley
+- Sacha Lecca
+- Sombr
+- Suzanne Phoenix
+organisations:
+- Acid
+- FKA Twigs
+- Fontaines DC
+- Harriet
+- LED
+- Lambrini Girls
+- Leeds
+- Oasis
+- Outernet London
+- Reading
+- Rolling Stone
+- Soda Bar
+- Tame Impala
+- The New York band Geese
 ---
 
 ![Liam Gallagher of Oasis with his eyes shaded by the peak of his hat, with a smile-shaped tambourine in his mouth](https://ichef.bbci.co.uk/ace/standard/691/cpsprodpb/0fe0/live/f2244ce0-aaaf-11f1-9eba-7de947fa7cd1.jpg)

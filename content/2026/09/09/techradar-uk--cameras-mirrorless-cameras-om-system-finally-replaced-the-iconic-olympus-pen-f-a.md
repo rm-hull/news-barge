@@ -12,6 +12,22 @@ description: OM System has finally relaunched the iconic PEN series and put its 
 image: https://cdn.mos.cms.futurecdn.net/VQ9ADTucQR4m5vHYBJXsU7-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Australia
+- Kenya
+- Nairobi
+people:
+- Tim
+- Timothy Coleman
+organisations:
+- Amateur Photographer
+- Canon
+- Google News
+- OM System
+- OM System PEN
+- Olympus
+- PEN E-P7
+- TechRadar
 ---
 
 ![Fashionable lady holding the OM System PEN up to her eye, there's abrick wall background](https://cdn.mos.cms.futurecdn.net/VQ9ADTucQR4m5vHYBJXsU7.jpg) 

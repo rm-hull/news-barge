@@ -13,6 +13,12 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations: []
+people:
+- Ben Gallizzi
+- Stephen Hankinson
+organisations:
+- Electric Radiators Direct
 ---
 
 *(Image: Getty Images)*

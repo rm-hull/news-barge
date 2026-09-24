@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- North Carolina
+- UK
+- USA
+people:
+- Andrew Bailey
+- Huw Pill
+organisations:
+- Bank of England
+- Edinburgh Chamber of Commerce
+- G20
+- MPC
+- Monetary Policy Committee
 ---
 
 Interest rates should be increased to curb growing inflation risks triggered by the energy crisis in the Middle East, the Bank of England’s chief economist has warned.

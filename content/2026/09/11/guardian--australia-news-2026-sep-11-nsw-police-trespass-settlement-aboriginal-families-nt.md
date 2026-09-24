@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- NSW
+- New South Wales
+- Sydney
+people:
+- Joanne
+- Kate Sinclair
+- Megan
+organisations:
+- Justice and Equity Centre
+- Law Enforcement Conduct Commission
+- NSW
 ---
 
 Two Indigenous mothers have settled a trespass case against New South Wales police, after officers turned up at one of their homes 150 times in 20 months to conduct bail checks on her sons.

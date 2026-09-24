@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Education & Learning
+locations:
+- England
+- North and North East
+- UK
+- Wales
+- YORK
+- York
+people:
+- Helen Davies
+organisations:
+- Durham University
+- Imperial College London
+- London University of the Year 2027
+- Newsquest
+- Russell Group University of the Year 2027
+- Scottish University of the Year 2027
+- Sunday Times Good University
+- The Sunday Times Good University Guide
+- The Sunday Times University of the Year 2027
+- The Times
+- University of Cambridge
+- University of Oxford
+- University of Sheffield
+- University of St Andrews
+- University of York
+- University of the Year for Graduate Employment 2027
+- York St John University
 ---
 
 ## How did York's higher education institutions rank in annual university guide?

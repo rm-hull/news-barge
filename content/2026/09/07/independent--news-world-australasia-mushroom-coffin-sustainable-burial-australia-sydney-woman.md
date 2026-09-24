@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Australia
+- Blue Mountains
+- Faulconbridge
+- Melbourne
+- New South Wales
+- Springwood Cemetery
+- Sydney
+people:
+- Alex Greenwich
+- Asha Dooley
+- Bob Hendrikx
+- Carolyn
+- Christine
+- Donald
+- Hannah Gould
+organisations:
+- 1News
+- Delft University of Technology
+- Funerals Australia
+- Grace Funerals
+- Loop Biotech
+- Loop Living Cocoon
+- Sydney Morning Herald
+- University of Melbourne
 ---
 
 A Sydney woman has become the first person in Australia to be buried in a coffin grown from mushrooms, in a funeral that organisers say reflects a wider shift towards environmentally friendly ways of being laid to rest.

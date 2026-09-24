@@ -16,6 +16,65 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Chelsea
+- Dublin
+- Europe
+- Everton
+- Iran
+- Israel
+- Italy
+- Liverpool
+- London
+- Maldives
+- Mauritius
+- New York City
+- North Carolina
+- Russia
+- Saudi Arabia
+- UK
+- US
+people:
+- Amy Whitell
+- Andrew Strauss
+- Andy Burnham
+- Anthony Hutton
+- Bradley Barcola
+- David Miliband
+- De Zerbi
+- Donald Trump
+- Ed Gamble
+- Elizabeth Davies
+- Enzo Fernandez
+- Harry Styles
+- Joanne McNally
+- Kim Kardashian
+- Lemoncello
+- Marilyn Monroe
+- Mark Carney
+- Michael Whatley
+- Mikel Arteta
+- Nourah
+- Putin
+- Roy Cooper
+- Sam Ryder
+- Tom Grennan
+- Zelensky
+organisations:
+- Burnham
+- Chelsea
+- De Zerbi
+- ELITE
+- Everton
+- Labour
+- Liverpool
+- MI6
+- Premier League
+- See.Sense
+- Senate
+- Spice Kitchen
+- Tottenham
+- Trump
 ---
 
 ## Showing now | News

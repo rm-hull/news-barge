@@ -14,6 +14,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- AI
+- China
+- D.C.
+- RUSSIA
+- U.S.
+- U.S.A.
+people:
+- AI
+- Bernie Sanders
+- Chris Murphy
+- DONALD J
+- Dario Amodei
+- Donald Trump
+- Jacob Coxon
+- John Kennedy
+- Kamala Harris
+- Michael Greenstone
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- ChatGPT
+- Congress
+- Democratic Party
+- Elon Musk of xAI
+- Energy Policy Institute
+- GOP
+- Gallup
+- Global Warming Scam
+- House
+- OpenAI
+- Politico
+- Pro-Human Assembly
+- TRUMP
+- The Associated Press-NORC Center for Public Affairs Research
+- Trump
+- University of Chicago
 ---
 
 A new poll has found that a majority of Americans believe AI could pose a threat to humanity, despite President Donald Trump playing down the risks.

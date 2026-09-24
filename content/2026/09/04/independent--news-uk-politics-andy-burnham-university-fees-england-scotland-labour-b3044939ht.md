@@ -13,6 +13,23 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- England
+- London
+- Scotland
+- UK
+- Westminster
+people:
+- Andy Burnham
+- Jeremy Corbyn
+- Keir Starmer
+- Kirsty Blackman
+- Tony Blair
+organisations:
+- Department for Education
+- House of Commons
+- Labour Party
+- SNP Westminster
 ---
 
 Prime Minister Andy Burnham has been criticised for "hiking tuition fees to record levels", with new figures revealing cost increases of a "staggering" 879% since their introduction.

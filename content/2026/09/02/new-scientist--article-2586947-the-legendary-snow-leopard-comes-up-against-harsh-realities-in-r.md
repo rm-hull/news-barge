@@ -13,6 +13,38 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445169.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Alps
+- Central Asia
+- Europe
+- Everest
+- Gobi
+- Himalaya
+- India
+- Inner Dolpa
+- Kent
+- Ladakh
+- Nepal
+- Portugal
+- Siberia
+- Suryawanshi
+- Tibet
+- UK
+- US
+people:
+- Adam Weymouth
+- George Schaller
+- John Vaillant
+- Kulbhushansingh Suryawanshi
+- Marie Amiguet
+- Peter Matthiessen
+- Sylvain Tesson
+- Vincent Munier
+organisations:
+- Granta Books
+- International Union for Conservation of Nature
+- Riverhead Books
+- Tost-Tosonbumba Nature Reserve
 ---
 
 ![Snow leopard. Wild {Panthera uncia} Ladakh, India](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309445169.jpg?w=840)

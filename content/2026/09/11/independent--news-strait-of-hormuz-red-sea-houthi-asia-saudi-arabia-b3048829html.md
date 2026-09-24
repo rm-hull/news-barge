@@ -12,6 +12,47 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Africa
+- Ain Sokhna
+- Asia
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Cape of Good Hope
+- Egypt
+- Europe
+- Fujairah
+- Gaza
+- Gulf of Oman
+- Iran
+- Israel
+- Mediterranean
+- Middle East
+- Mokha
+- Perim
+- Red Sea
+- Saudi Arabia
+- Sidi Kerir
+- South Korea
+- Strait of Gibraltar
+- Strait of Hormuz
+- Suez Canal
+- U.S
+- U.S.
+- United Arab Emirates
+- Yanbu
+- Yemen
+people:
+- Mayun
+- Mokha
+- Richard Meade
+- Victoria Grabenwöger
+organisations:
+- Bab el-Mandeb
+- IEA
+- International Energy Agency
+- Kpler
+- Lloyd's List
 ---
 
 The capture of the Red Sea port of Mokha and a strategic island by Iran-backed Houthi rebels in Yemen brings their forces to the heart of a key choke point for the global economy: the Bab el-Mandeb Strait leading out of the Red Sea.

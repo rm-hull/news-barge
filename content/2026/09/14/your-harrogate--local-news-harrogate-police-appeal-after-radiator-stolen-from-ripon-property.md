@@ -12,6 +12,13 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://mmo.aiircdn.com/409/6aa79c02887b6fc917a.png
+locations:
+- Knaresborough Road
+- Ripon
+people:
+- David Fulford
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa79c02887b6fc917a.png)

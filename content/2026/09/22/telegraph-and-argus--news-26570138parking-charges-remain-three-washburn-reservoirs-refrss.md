@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21484631.jpg?type=og-image&xType=0&yType=0
+locations:
+- Fewston Reservoir
+- Lesley Tate
+- Swinsty
+- Thruscross
+- Washburn Valley
+people:
+- Bransby Wilson
+- David Spencer
+- Lee Otter
+- Lesley Tate
+organisations:
+- Blue Badge
+- Lesley Tate
+- Yorkshire Water
 ---
 
 PARKING charges are here to stay at three popular reservoirs in the Washburn Valley.

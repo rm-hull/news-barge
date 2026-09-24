@@ -13,6 +13,123 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/92400394de0e87909e29008a0a4d5f2c455ea498/1135_0_4759_3809/master/4759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f8084c56114dae4710e12b33f206f83d
+locations:
+- Aalborg
+- Azerbaijan
+- Black Sea
+- Borlange
+- Brussels
+- Central Asia
+- Copenhagen
+- Czech Republic
+- Dalarna
+- Denmark
+- Europe
+- Finland
+- France
+- Gaza
+- Greenland
+- Iran
+- Israel
+- Kremlin
+- Latvia
+- Lithuania
+- Luxembourg
+- Manhattan
+- Middle East
+- Moscow
+- Myanmar
+- New York
+- Nuuk
+- Paris
+- Poltava
+- Prague
+- Rovaniemi
+- Russia
+- Slovakia
+- Sudan
+- Sweden
+- U.S.
+- UK
+- US
+- USA
+- Ukraine
+- Vilnius
+- Washington
+- West Bank
+- White House
+people:
+- Alexander Stubb
+- Alisher Usmanov
+- Andrew Roth
+- Andrii Sybiha
+- Andris Kulbergs
+- António Guterres
+- Baiba Braže
+- Carl Court
+- Dmitry
+- Donald Trump
+- Emmanuel Macron
+- Gitanas Nausėda
+- Henning Bagger
+- Jakub Krupa
+- Jennifer Rankin
+- Jens-Frederik Nielsen
+- Jens-Friedrik Nielsen
+- Julie Rademacher
+- Kaisa Siren
+- Kevin Lamarque
+- Lars Løkke Rasmussen
+- Lev Radin
+- Mads Claus Rasmussen
+- Marco Rubio
+- Mette Frederiksen
+- Michal Koudelka
+- Mikhail Fridman
+- Mindaugas Sinkevičius
+- Mohamed Abdukardir Ali
+- Mohammed bin Salman
+- Múte B. Egede
+- Peskov
+- Sergei Lavrov
+- Seth Wenig
+- Shaun Walker
+- Shutterstock
+- Vladimir Putin
+- Volodymyr Zelenskiy
+- Volodymyr Zelenskyy
+organisations:
+- BBC Newsnight
+- BIS
+- DR
+- Diesel Oil Industry
+- Duma
+- EPA Trump
+- EU
+- EUROPEAN UNION
+- Financial Times
+- G7 Energy
+- Instagram
+- Kyiv
+- Left Party
+- Macron
+- Naftogaz
+- Nato
+- Organisation of Turkic States
+- Petras Malūkas
+- Presidential Press Service Handout
+- Reuters Ukraine
+- Ritzau Scanpix Foto
+- SPUTNIK
+- Truth Social
+- UN Headquarters
+- UNGA
+- US Miranda Bryant Nordic
+- USM Holdings
+- Uagut
+- United Nations
+- United Nations General Assembly
+- Usmanov
 ---
 
 Global leaders are gathering in New York this week for the 81st UN general assembly and given the state of the world, it’s likely to be a lively one.

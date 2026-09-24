@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1ba/live/c4418760-b64a-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- China
+- Inner Mongolia
+- US
+- Washington
+people:
+- Donald Trump
+- Laura Bicker
+- Xi Jinping
+organisations:
+- BBC
 ---
 
 # Rare look at the remote engine rooms powering China's AI ambitions

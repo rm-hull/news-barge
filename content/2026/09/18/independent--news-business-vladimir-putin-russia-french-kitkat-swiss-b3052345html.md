@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Europe
+- Kremlin
+- Russia
+- Ukraine
+people:
+- Vladimir Putin
+organisations:
+- AB InBev
+- Auchan
+- Budweiser
+- Cadbury
+- Carlsberg
+- Cheerios –
+- Danone
+- KitKat
+- Mondelez
+- Nescafe
+- Nestle
+- PepsiCo
+- Stella Artois
 ---
 
 KitKat maker Nestle has said it is considering options after its Russian business was seized by president Vladimir Putin and placed in temporary administration.

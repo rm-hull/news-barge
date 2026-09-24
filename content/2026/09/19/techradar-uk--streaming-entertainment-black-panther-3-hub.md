@@ -12,6 +12,60 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/j2KKRE2VTdTM83t7CZ5f2h-1200-80.jpg
+locations:
+- Avengers
+- Baku
+- Black Panther
+- Jabari
+- San Diego
+- Shuri
+- Wakanda
+- Wakandan
+people:
+- Chadwick Boseman
+- Challa
+- Danai Gurira
+- David Jonsson
+- Denzel Washington
+- Dora Milaje
+- Jabari Tribe
+- Kevin Feige
+- Killmonger
+- Letitia Wright
+- Lupita Nyongo'o
+- M'Baku Jonsson
+- Nakia
+- Nate Moore
+- Okoye
+- Ryan Coogler
+- Shuri
+- T'Challa II
+- T'Challa's
+- Tom
+- Wakanda
+- Winston Duke
+- aka T'Challa II
+organisations:
+- Avengers
+- Black Panther
+- Disney Plus
+- Entertainment Weekly
+- Google News
+- Hall H
+- MCU
+- Marvel Cinematic Universe
+- Marvel Studios
+- Moon Knight TV
+- Netflix
+- SDCC
+- Shuri
+- Star Wars
+- T'Challa II
+- TechRadar
+- Toussaint —
+- Wakanda Forever
+- Yibambe!
+- people.com
 ---
 
 ![The official logo for Marvel Studios&#039; Black Panther 3, with black/silver/gold text on a black background](https://cdn.mos.cms.futurecdn.net/j2KKRE2VTdTM83t7CZ5f2h.jpg)

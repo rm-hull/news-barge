@@ -12,6 +12,20 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/ZwfFt8nZVwKad3sVbp2jkh-320-80.jpg
+locations:
+- Kickstarter
+people: []
+organisations:
+- Acer
+- Airbus
+- Asus
+- ExoMars
+- Get Tom's Hardware
+- IFA
+- Scalpers
+- Valve
+- eBay
+- gamescom
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/ZwfFt8nZVwKad3sVbp2jkh-320-80.jpg)

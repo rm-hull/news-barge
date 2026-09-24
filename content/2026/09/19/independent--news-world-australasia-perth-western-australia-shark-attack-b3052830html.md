@@ -12,6 +12,23 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/18/08/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- City of Joondalup
+- Geraldton
+- Iluka
+- Marmion
+- Perth
+- Sorrento Beach
+- WA
+- Western Australia
+people:
+- Darrel Haythornthwaite
+- Jackie Jarvis
+- WAtoday
+organisations:
+- 7News
+- Department of Primary Industries and Regional Development
+- WAtoday
 ---
 
 Beaches across Perth’s northern suburbs will remain closed until Sunday after a shark killed a swimmer in a fatal attack witnessed by onlookers, authorities said on Saturday.

@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- North Yorkshire
+- Richmond Bike Park
+- Richmond Racecourse
+- Rufus Woods
+- Whashton Road
+people:
+- Stuart Parsons
+organisations:
+- Job Environmental Enterprise Ltd
 ---
 
 An unused stone barn in North Yorkshire could be given a new lease of life as an eco-friendly community café — with the public being urged to help shape the project.

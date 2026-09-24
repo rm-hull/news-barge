@@ -12,6 +12,44 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- America
+- Baselworld
+- La Chaux-de-Fonds
+- Miles Davis
+- North Flag
+- US
+- Winston Churchill
+people:
+- Audemars Piguet
+- Christopher Nolan
+- Gallet
+- Gonzo
+- Hamilton
+- John Graham Kerr
+- Kermit
+- Ming Thein
+- Nautilus
+- Oris
+- Patek Philippe
+- Tudor
+organisations:
+- Breitling
+- Bulgari
+- Casio
+- El Primero
+- Flying Officer
+- G-Shock
+- Gallet
+- House of Brands
+- Hublot
+- Muppets
+- North Flag
+- Royal Oak
+- Swatch Group
+- Universal Genève
+- WIRED
+- Zenith
 ---
 
 While Watches and Wonders every April is undoubtedly the watch world's main event of the year, Geneva Watch Days—which inauspiciously launched in 2020, the year Covid was declared a pandemic—is now establishing itself as a serious follow-up. Big brands can hold back key releases and gain valuable space to shout about new pieces away from the horological hubbub of W&W.

@@ -12,6 +12,33 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Clacton
+- Essex
+- UK
+- Westminster
+people:
+- Dan Jukes
+- James Orr
+- Lawrence Carter
+- Nigel Farage
+organisations:
+- BBC
+- CCR
+- Center for Climate Reporting
+- Centre for Climate Reporting
+- Channel 4
+- Channel 4 News
+- Channel 4.
+- Electoral Commission
+- Head of Policy
+- Houses of Parliament.
+- Jukes and Reform
+- Metropolitan Police
+- Political Parties
+- Reform UK
+- United States Congress
+- Verbatim Investigations
 ---
 
 Watch: Undercover reporters posing as party donors meet with Nigel Farage

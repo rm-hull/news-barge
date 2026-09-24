@@ -12,6 +12,30 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/20/15/24/01M2YRZ8J81SVPZPPFQY4EX4TC.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Coventry Hospital
+- McDonald’s
+- Stockton
+- Tiny
+- University Hospital Coventry
+- Warwickshire
+people:
+- Biggie
+- Byron
+- Ellena
+- Kyla
+- Kyson
+- Mark Bailey
+- Nicola Bailey
+- Tiny
+organisations:
+- Cardiac Rehabilitation Service
+- McDonald’s
+- Rugby Cardiac Rehabilitation
+- Rugby Cardiac Rehabilitation team
+- Slimming World
+- Tiny
+- Warwickshire
 ---
 
 A father who lost 32st after being cautioned that his size endangered his life during open-heart surgery now believes he has the "best chance" of staying with his family.

@@ -15,6 +15,48 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- City of York
+- Concordia
+- Corpus Christi
+- St John the Baptist
+- The Merchant Taylors Fashion Runway
+- UK
+- Yorkshire
+people:
+- Alexander McQueen
+- Cherie Federico
+- David Miller
+- Gary McQueen
+- Hayina Cao
+- Hollie Haughin
+- Joe Leigh
+- Liz Mawbey
+- Roy Wallington
+- Sally Hobbs
+- Sally Hobbs CBE
+- Stephanie Smith
+- Will Zhuang
+- Yani Lin
+organisations:
+- Aesthetica
+- Agincourt
+- Atelier
+- Great and Little Halls
+- Guild Hall
+- Guild of Merchant Tailors
+- Jury
+- Mareks Strods
+- Mareks Strods.
+- Merchant Taylors
+- Merchant Taylors' Hall
+- Merchant Taylors’ Company
+- Selfridges
+- The Company
+- YMT
+- York Merchant Taylors Guild
+- York Merchant Taylors’
+- Yorkshire Post Fashion
 ---
 
 # The Golden Thread Awards: 'Our historic York guild is looking to a new generation of fashion and fabric makers'

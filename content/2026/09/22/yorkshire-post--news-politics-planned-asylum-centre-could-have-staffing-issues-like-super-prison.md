@@ -14,6 +14,39 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ4ZTUyNWI5LTAwYjQtNDZkYy05NjdiLTE5YzY4OTIxMzk5MToyNTdiN2E3Zi1lMWVkLTQwY2UtOWNmYy1iMmFhNTM1NzUwYzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- HMP Millsike
+- Linton
+- North East
+- North Yorkshire
+- North Yorkshire.
+- Owen Humphreys
+- PA
+- RAF Linton-on-Ouse
+- Stamford Bridge
+- York
+people:
+- Ian Carson
+- Mitie
+- Olga Matthias
+- Owen Humphreys
+organisations:
+- Government
+- HM Prison and Probation Service
+- HMP Full Sutton
+- HMP Millsike
+- HMP Sutton
+- Home Office
+- Independent Monitoring Board
+- Linton-on-Ouse Action Group
+- Ministry of Defence
+- Ministry of Justice
+- Mitie
+- POA
+- Prison Officers Association
+- RAF Linton-On-Ouse
+- Serco
+- Yorkshire
 ---
 
 # Campaigners say North Yorkshire asylum centre could have staffing issues like nearby 'super prison'

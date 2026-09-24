@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Technology & Software
 - Sports
+locations:
+- Aarau
+- Bern
+- Europe
+- Germany
+- Schachen
+- Switzerland
+- Switzerland.
+- Zurich
+people:
+- Bernhard Graser
+- DJ Tekibo
+- Olivier Grein
+organisations:
+- AFP
+- Aargau Cantonal Police
+- Agency Events AG
+- BBC News
+- Blick
+- Instagram
+- KKE
+- SRF
+- Swiss Army
 ---
 
 ![Three police officers in uniform, including a bulletproof vest reading Kantons Polizei at the back, stand watching a field cordoned off by white and red tape. A fourth officer sits inside a police car parked next to his colleagues](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg)

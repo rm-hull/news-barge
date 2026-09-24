@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Careers & Productivity
+locations:
+- Cornwall
+- Devon
+- London St Pancras
+- Nottingham
+- Plymouth
+- Sheffield
+- Western Railway
+people: []
+organisations:
+- Alstom
+- Angel Trains
+- EMR
+- East Midlands Railway
+- Exeter
+- GWR
+- Hitachi
+- Penzance
 ---
 
 Great Western Railway is cutting its timetable in order to reduce cancellations caused by the unreliability of its fleet of trains.

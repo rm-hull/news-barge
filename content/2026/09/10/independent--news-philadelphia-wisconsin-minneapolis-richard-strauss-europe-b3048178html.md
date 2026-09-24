@@ -14,6 +14,50 @@ categories:
 - UK
 - Arts & Culture
 - Food & Cooking
+locations:
+- Appleton
+- Boston
+- Detroit
+- Europe
+- Festival Napa Valley
+- Midtown
+- Minneapolis
+- Philadelphia Rae
+- Pontus
+- U.S.
+- Wisconsin
+people:
+- Anthony Roth Costanzo
+- Aspasia
+- Bill Palant
+- Brenda Rae
+- Colter Schoenfish
+- Corrado Rovaris
+- Diana Damrau
+- Donizetti
+- Emma Griffin
+- Grant Loehnig
+- Hibla Gerzmava
+- Jake Heggie
+- Kaye Voyce
+- Lauren Snouffer
+- Lawrence Brownlee
+- Lucia di Lammermoor
+- Michael Eberhard
+- Mitridate
+- Mozart’s “Mitridate
+- Richard Strauss'
+- Wolfgang Amadeus Mozart
+- re di Ponto
+organisations:
+- ASAP
+- Academy of Music
+- Boston Lyric Opera
+- Opera Philadelphia
+- Seattle Opera
+- The RealReal
+- Vienna State Opera
+- Étude Arts
 ---
 
 Brenda Rae was driving with her husband and children from their home in Minneapolis to visit her father in Appleton, Wisconsin, last Thursday night when her phone rang with an intriguing offer: Could she travel ASAP and take over the lead soprano role in Mozart’s “Mitridate” at Opera Philadelphia's opening night?

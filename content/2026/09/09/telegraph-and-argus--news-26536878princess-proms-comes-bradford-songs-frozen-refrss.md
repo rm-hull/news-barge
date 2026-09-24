@@ -13,6 +13,28 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- St George's Hall
+- West End
+people:
+- Coldplay
+- Rachel Platte
+- Taylor Swift
+- Willy Wonka
+organisations:
+- Beauty & The Beast
+- Bradford
+- Chocolate Factory
+- Frozen
+- ITV
+- K-Pop Demon Hunters
+- Moana
+- Princess Proms
+- Royalty
+- The Lion King
+- The Little Mermaid
+- The Wizard of Oz
+- Wicked
 ---
 
 *(Image: T&A)*

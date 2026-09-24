@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Sports
 - Video Gaming
+locations:
+- London
+- UK
+people:
+- Abir
+- Cathy Carmine
+- Dashiell Wood
+- Helen Lloyd
+- Luna Snow
+- Ms Harriot
+- Robert Cavendish
+- Sid Scabies
+- Ventrue
+organisations:
+- App Store
+- Dash
+- Edge
+- Google News
+- Google Play Store
+- Official PlayStation Magazine UK
+- PC Gamer
+- PLAY
+- SFX
+- TechRadar
 ---
 
 ![Vampire: The Masquerade Clans of London](https://cdn.mos.cms.futurecdn.net/Kw8k7KYU34TuS74oE7jTC.jpg) 

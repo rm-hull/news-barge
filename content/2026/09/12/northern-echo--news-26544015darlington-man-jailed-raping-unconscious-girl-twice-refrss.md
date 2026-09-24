@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Coxwold Drive
+- Darlington
+people:
+- Aunt
+- Charlie Dobbing
+- Nathan Adams
+- Paul Cleasby
+- Victoria Lamballe
+organisations:
+- Durham Constabulary
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

@@ -13,6 +13,18 @@ categories:
 - Local
 - Harrogate
 - True Crime
+locations:
+- Crimple Valley Garden Centre
+- Harrogate
+- Leeds Road
+- North Yorkshire
+- Pannal
+people:
+- Megan Ward
+organisations:
+- CCTV
+- Crimestoppers
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police release CCTV images of man and woman following theft at garden centre in Harrogate

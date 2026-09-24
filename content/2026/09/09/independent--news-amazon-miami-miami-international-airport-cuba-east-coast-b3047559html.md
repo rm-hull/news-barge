@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Amazon
+- Cuba
+- East Coast
+- Miami
+- U.S.
+people:
+- Carlos Acosta Fajardo
+- Javierkys Reyes Quevedo
+- Jorge Garcia
+- Julio C. Pineda
+- Manny Pastreich
+- Ridoel Averhoff Diaz
+- Rolando Aleman Leon
+- Roosevelt Sebastian Perdomo Torres
+- Soma Priddle
+- Yoel Rodriguez Naranjo
+organisations:
+- 21 Air
+- 32BJ Service Employees International Union
+- Amazon
+- Charlotte Douglas International Airport
+- Econoline
+- Miami International Airport
+- Professional Ocean Service Corp
+- Professional Ocean Service Corp.
 ---
 
 Five members of a crew killed when an Amazon cargo jet smashed into their van were wrapping up their eight-hour shift cleaning planes at the Miami airport when the crash happened, lawyers for one of the victims said on Wednesday.

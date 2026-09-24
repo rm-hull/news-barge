@@ -12,6 +12,44 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Derby
+- England
+- Ireland
+- Uptonsteel County Ground
+people:
+- '## Bouchier'
+- ):** Bouchier
+- ):** Lewis
+- Alice Capsey
+- Alice Tector
+- Amy Hunter
+- Amy Jones
+- Cara Murray
+- Charlie Dean
+- Charlotte Edwards
+- Freya Kemp
+- Gaby Lewis
+- Heather Knight
+- Jane Maguire
+- Jodi Grewcock
+- Lauren Bell
+- Leah Paul
+- Lewis'
+- Maia Bouchier
+- Nat Sciver-Brunt
+- Orla Prendergast
+- Rebecca Stokell
+- Sophia Dunkley
+- Sophie Ecclestone
+- Tammy Beaumont
+- Tilly Corteen-Coleman
+- Wong
+organisations:
+- Capsey
+- Ireland
+- LeicesterIreland
+- ODI XI
 ---
 
 Highlights: Bouchier delivers as England secure record-breaking win

@@ -14,6 +14,37 @@ categories:
 - Germany
 - News & Politics
 - Technology & Software
+locations:
+- Bavaria
+- Berlin
+- City
+- Germany
+- Iran
+- Kyiv
+- Mideast
+- Russia
+- Strait of Hormuz
+- US
+- Ukraine
+- Würzburg
+people:
+- Achim Wambach
+- Alexander Dobrindt
+- Friedrich Merz
+- Holger Münch
+- Stefan Thumann
+- Vladimir Putin
+organisations:
+- AFP
+- BKA
+- CSU
+- Donaustahl
+- FactSet
+- Federal Criminal Police Office
+- Franz-Oberthür School
+- Technical University
+- ZEW
+- interior ministry
 ---
 
 **Today's top story: Organised crime in Germany becoming more international and digitally connected**

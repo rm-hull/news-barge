@@ -12,6 +12,61 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Gakpo
+- Ipswich Town
+- Palacios
+- Portman Road
+people:
+- 4Dara O'Shea
+- 5Exequiel Palacios
+- 5Kasey McAteer
+- 5Leif Davis
+- 5Ryan Gravenberch
+- 5Zian Flemming
+- 6Alexander Isak
+- 6Jacob Greaves:** Stern
+- 6Ronald Araujo:** Strong
+- 6Sasa Lukic
+- Abdoul Outarra
+- Alexander Isak
+- Alisson:** Lucky
+- Andoni Iraola
+- Bradley Barcola
+- Cody Gakpo
+- Diop:** Towering
+- Emersonn
+- Enciso
+- Endo
+- Fatawu
+- Florentino
+- Frimpong
+- Furlong
+- Isak):** Brought
+- Jack Clarke
+- Jacquet
+- Jacquet.
+- Kipre
+- Kjell Scherpen
+- Lewis Koumas
+- Mac Allister
+- Maeda
+- Mamardashvili
+- Munoz
+- Munoz:** Willing
+- Ngumoha
+- 'Nunez ## Liverpool'
+- Nyoni**
+- Tsimikas
+- Van Dijk
+- Walton
+- Wirtz
+- van Dijk
+organisations:
+- BBC Sport
+- Ipswich Town
+- Liverpool
+- Manchester City
 ---
 
 Isak's early double gives Liverpool victory over Ipswich

@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-2560-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Anton Shilov
+- David Wang
+- Tom
+organisations:
+- Ascend
+- Board
+- Chinese AI
+- Get Tom's Hardware
+- Google News
+- Huawei
+- NPU
+- Nvidia
+- Peerium
+- Rotating
+- SuperPod
+- Tom’s Hardware
+- UnifiedBus
 ---
 
 ![Huawei Ascend](https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR.png) 

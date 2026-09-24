@@ -11,6 +11,16 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/max-midgley-coxwold.webp
+locations:
+- Coxwold
+- Hustwaite Road
+- North Yorkshire
+- York Magistrates’ Court
+people:
+- Anne Yates
+- Max Midgley
+organisations:
+- North Yorkshire Police
 ---
 
 A North Yorkshire man has been jailed for a prolonged and abusive stalking campaign against his ex partner.

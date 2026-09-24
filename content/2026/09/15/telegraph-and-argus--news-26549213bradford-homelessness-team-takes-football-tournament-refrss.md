@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Sports
 - Video Gaming
+locations:
+- England
+- Lifehouses
+- Manchester
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+people:
+- Danny Murphy
+- Pep Guardiola
+- Peter Powell
+- Wayne
+organisations:
+- Bradford Orchard
+- Guardiola Sala Foundation
+- Lifehouses
+- Salvation Army
 ---
 
 *(Image: Peter Powell)*

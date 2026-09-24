@@ -12,6 +12,26 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/mVEGUNr4j5GaFJZjRyhfk3-1920-80.png
+locations: []
+people:
+- Anton Shilov
+- Tom
+organisations:
+- 16Gb DDR5
+- AI
+- DRAM
+- DRAMeXchange
+- Get Tom's Hardware
+- Google News
+- Kurnal Insights
+- Micron
+- N2
+- N3
+- SK
+- Samsung
+- TSMC
+- Tom’s Hardware
+- TrendForce
 ---
 
 ![Samsung](https://cdn.mos.cms.futurecdn.net/mVEGUNr4j5GaFJZjRyhfk3.png)

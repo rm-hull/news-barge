@@ -12,6 +12,26 @@ categories:
 - UK
 - Comedy & Entertainment
 image: https://static.independent.co.uk/2026/09/22/18/05/Untitled-design-(14).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Miami
+- U.S.
+people:
+- Eduardo Granados
+- Hershey
+- James Kelly
+- Melissa Damian
+- Nathan Vidal
+- Reese
+organisations:
+- Hershey
+- Hershey’s
+- Peanut Butter Pumpkins
+- Publix
+- Reuters
+- Target
+- The Independent
+- Walmart
 ---
 
 Trick or treat, Reese’s chocolate pumpkins are still good to eat, regardless of whether they have the distinctly carved eyes and mouth shown on the packaging, a federal judge in Miami ruled.

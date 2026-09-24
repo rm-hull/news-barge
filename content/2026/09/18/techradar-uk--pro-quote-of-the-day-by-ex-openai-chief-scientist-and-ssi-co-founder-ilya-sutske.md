@@ -13,6 +13,27 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg
+locations:
+- AI
+people:
+- IJ Good
+- Ilya Sutskever
+- Keumars Afifi-Sabet
+organisations:
+- AGI
+- AI
+- ASI
+- ChatGPT
+- Google
+- ITPro
+- Keumars Afifi-Sabet
+- Live Science
+- OpenAI
+- QOTD
+- Safe Superintelligence Inc
+- Tech Radar
+- TechRadar Pro
+- University of Toronto
 ---
 
 ![Ilya Sutskever](https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd.jpg) 

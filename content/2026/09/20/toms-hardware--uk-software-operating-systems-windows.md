@@ -11,6 +11,17 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/NjiwF9x9izu42zhHwzNuvX-320-80.jpg
+locations: []
+people:
+- Dave Plummer
+- Putin
+- Sam
+organisations:
+- Free Software Foundation Europe
+- Get Tom's Hardware
+- Italian Linux Society
+- TMOG
+- Task Manager
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/NjiwF9x9izu42zhHwzNuvX-320-80.jpg)

@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Food & Cooking
 - Technology & Software
+locations:
+- Sheffield
+- UK
+people:
+- Danny Malin
+organisations:
+- Danny v Food
+- Rate My Takeaway
+- YouTube
 ---
 
 *(Image: Danny Malin / YouTube)*

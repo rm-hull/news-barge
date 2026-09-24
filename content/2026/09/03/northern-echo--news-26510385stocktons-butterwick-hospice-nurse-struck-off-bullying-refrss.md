@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Sports
+locations:
+- River Tyne
+- Stockton
+- Willington
+people:
+- A. Colleague A
+- Colleague A
+- Suzanne Tuffnell
+organisations:
+- Butterwick Hospice
+- Butterwick Hospice Care
+- Butterwick's Hospice
+- Colleague A
+- Ex-Durham
+- NMC
+- Northern Echo
+- Nursing and Midwifery Council
+- SARAH CALDECOTT
 ---
 
 A hospice nurse has been struck off after a regulator found she subjected a colleague to a 'campaign of bullying and harassment'.

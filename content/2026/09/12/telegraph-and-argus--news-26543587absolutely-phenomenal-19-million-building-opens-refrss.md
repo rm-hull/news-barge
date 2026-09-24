@@ -14,6 +14,37 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bowling Back Lane
+- Bradford Live
+- Junction Mill
+- One City Park
+- Thornton Road
+- West Yorkshire
+- YOUR
+people:
+- Abigayle André
+- Judith Cummins
+- Miss André
+- Pamela Sheldon
+- Stephen Place
+- Steve Smith
+organisations:
+- '## Council'
+- Bond Bryan Architects
+- Bradford College
+- Bradford College’s Motor Vehicle & Engineering Building
+- Bradford Council
+- Bradford South
+- Construction & Engineering
+- Department for Education Further Education Capital Transformation Fund
+- Electrical Academy
+- Junction Mills
+- Labour
+- Morgan Sindall Construction
+- Public Notice Portal
+- Reform UK
+- Telegraph & Argus
 ---
 
 ### What is the Public Notice Portal?

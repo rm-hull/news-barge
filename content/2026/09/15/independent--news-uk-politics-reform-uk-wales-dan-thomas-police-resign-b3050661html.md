@@ -11,6 +11,29 @@ image: https://static.independent.co.uk/2026/09/15/15/17/6560308-library.jpeg?tr
 categories:
 - News & Politics
 - UK
+locations:
+- Aberbargoed
+- Casnewydd Islwyn
+- Downing Street
+- Finchley Church End
+- Senedd
+- South Wales Valleys
+- UK
+people:
+- Dan Thomas
+- Ken Skates
+- Nigel Farage
+- Sarah Cooper-Lesadd
+- Thomas’
+organisations:
+- Barnet Council
+- Gwent Police
+- Plaid Cymru
+- Press Association
+- Reform UK
+- Reform Wales
+- Senedd
+- Welsh Labour
 ---
 
 Reform UK’s leader in Wales has stood down after he was arrested on suspicion of assault and controlling or coercive behaviour.

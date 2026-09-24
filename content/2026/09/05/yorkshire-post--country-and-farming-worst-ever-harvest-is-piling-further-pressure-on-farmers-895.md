@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Crockey Hill
+- Denaby Main
+- England
+- Helmsley.
+- Sproxton Hall Farm
+- UK
+- York
+- Yorkshire
+people:
+- Andy Burnham
+- Helen Plant
+- Robbie Moore
+- Rodger Hobson
+- William Shaw
+organisations:
+- Agriculture and Horticulture Development Board
+- British Carrot Growers Association
+- British Carrot Growers Association.
+- Doncaster Council
+- Keighley
 ---
 
 # ‘Worst ever’ harvest is piling further pressure on farmers

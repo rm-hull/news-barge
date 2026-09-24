@@ -13,6 +13,55 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Berlin Germany
+- Bonn
+- Denmark
+- Europe Live
+- Greenland
+- Leipzig
+- Lower Saxony
+- Moscow
+- Nuuk
+- Osnabrück
+- Qoornoq
+- Russia
+- Saxony-Anchalt
+- Saxony-Anhalt
+- St Petersburg
+- US
+- Ukraine
+- West
+people:
+- Donald Trump
+- Friedrich Merz
+- Jens-Frederik Nielsen
+- Mads Claus Rasmussen
+- Mette Frederiksen
+- Michael Kappeler
+- Schulze
+- Ursula von der Leyen
+- von der Leyen
+organisations:
+- AFP
+- AfD
+- Aurelius Capital
+- BSW
+- CDU Federal Executive Committee
+- DPA
+- European Commission
+- Goethe Institutes
+- Konrad Adenauer House
+- Mette Frederiksen European Commission
+- News Agency Germany
+- Rafael Advanced Defence Systems
+- Reuters EU
+- SPD
+- Shutterstock He
+- Shutterstock Merz
+- VW
+- Volkswagen
+- dts News Agency Germany
 ---
 
 Chancellor Friedrich Merz gives a press conference following the AfD’s victory in the Saxony-Anhalt state election Photograph: dts News Agency Germany/Shutterstock

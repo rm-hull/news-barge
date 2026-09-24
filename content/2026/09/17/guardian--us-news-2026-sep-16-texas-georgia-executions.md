@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Atlanta
+- Cobb
+- Dodge Durango
+- Dunwoody
+- Edna
+- Florida
+- Georgia
+- Houston
+- Huntsville
+- Jackson
+- Mexico
+- Powder Springs
+- Texas
+- US
+- Wisconsin
+people:
+- Celso Lopez
+- Cyndi Williams
+- Humphreys’
+- Ker’Sean Ramey
+- LeJames Norman
+- Lori Brown
+- Samuel Roberts
+- Sonia Sotomayor
+- Stacey Humphreys
+- Tiffani Peacock
+organisations:
+- Humphreys’
 ---
 
 A man convicted over the shooting deaths of three people was executed on Wednesday in Texas, while another execution scheduled for the same time in Georgia was halted by a judge.

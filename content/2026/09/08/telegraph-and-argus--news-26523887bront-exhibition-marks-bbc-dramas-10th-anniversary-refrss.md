@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Haworth
+people:
+- Anne
+- Branwell
+- Charlie Murphy
+- Charlotte Brontë
+- Chloe Pirrie
+- Emily
+- Finn Atkins
+- Grant Montgomery
+- Mia Ferullo
+- Ms Ferullo
+- Sally Wainwrights
+- Tom Pye
+organisations:
+- BBC
+- Brontë Parsonage Museum
+- Emerald Fennell
 ---
 
 The Brontë Parsonage Museum has launched an exhibition marking the 10th anniversary of the BBC drama 'To Walk Invisible', which told the story of the Brontë sisters.

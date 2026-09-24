@@ -12,6 +12,13 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af02/live/b93c6630-b5d9-11f1-8c16-65d8f060d73f.jpg
+locations:
+- Japan
+- Pacific Ocean
+- Tokyo
+people:
+- Dujuan
+organisations: []
 ---
 
 # Watch: Timelapse shows typhoon barrelling towards Japan

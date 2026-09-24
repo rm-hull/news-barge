@@ -11,6 +11,23 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa2/live/0733f3
 categories:
 - UK
 - News & Politics
+locations:
+- Downing Street
+- Pakistan
+- Whitehall
+people:
+- Andrew Harper
+- Andy Burnham
+- Emma Webber Barnaby Webber
+- Keir Starmer
+- Kemi Badenoch
+- Lindsay Hoyle
+- Lissie Harper
+- PC Harper
+- Shabir Ahmed
+organisations:
+- BBC Breakfast
+- Ministry of Justice
 ---
 
 Watch: PM confirms PC Harper's killers will remain in prison

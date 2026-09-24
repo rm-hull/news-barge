@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Arts & Culture
 - History
+locations:
+- BBC
+- County Durham
+- Ravenseat
+- UK
+people:
+- '## Richard Osman'
+- Amanda Owen
+- Amol Rajan
+- Bella Ramsey
+- Euan Cherry
+- Hannah Fry
+- James Acaster
+- James Blunt
+- Jerry Hall
+- Joanne McNally
+- Joe Lycett
+- Joe Marler
+- Julie Hesmondhalgh
+- Kenny – Content
+- Leigh-Anne Pinnock
+- Marina Hyde
+- Maya Jama
+- Michael Sheen
+- Miranda Hart
+- Myha’la – Actor
+- Raven
+- Richard E. Grant
+- Richard Osman
+- Rob Beckett
+- Romesh Ranganathan
+- Ross Kemp
+- Sebastian Croft
+- Sharon Rooney
+- Traitors Richard
+organisations:
+- BBC
+- Singer
+- Studio Lambert
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

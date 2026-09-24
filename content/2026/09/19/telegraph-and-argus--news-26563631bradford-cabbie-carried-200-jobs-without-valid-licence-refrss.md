@@ -14,6 +14,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20217527.jpg?type=og-image
+locations:
+- Bradford Magistrates Court
+- Dalton Terrace
+- Keighley
+people:
+- Ibrar Hussain
+- Imran Hussain
+- Imran Khan
+- Khalid Bashir
+- Mike Simmonds
+organisations:
+- Aireside Private Hire
+- Bradford Council
+- Keighley-based Aireside Private Hire
+- Newsquest
 ---
 
 *(Image: Newsquest, Mike Simmonds)*

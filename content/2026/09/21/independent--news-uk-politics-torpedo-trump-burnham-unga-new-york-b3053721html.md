@@ -12,6 +12,51 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/07/19/15/39/Burnham-Trump-split.png?trim=0,108,0,142&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- America
+- Argentina
+- Australia
+- Britain
+- Canada
+- China
+- Falklands
+- Florida
+- France
+- Iran
+- Israel
+- Manchester
+- Middle East
+- New York
+- Northern Ireland
+- Palestine
+- Saudi Arabia
+- UK
+- US
+- Ukraine
+- United States
+- Washington
+- West Bank
+people:
+- Andy Burnham
+- Donald Trump
+- Gordon Brown
+- Keir Starmer
+- Kim Darroch
+- Malcolm
+- Malcom Rifkind
+- Mike Huckabee
+- Xi
+organisations:
+- AI
+- Aukus
+- EU
+- G20
+- Labour
+- Ministry of Defence
+- PA
+- The Independent
+- United Nations General Assembly
 ---
 
 Britain and the United States have made history by firing the first torpedo from an unmanned undersea drone, the government has revealed on the eve of Andy Burnham’s first meeting with Donald Trump.

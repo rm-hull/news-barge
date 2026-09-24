@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations: []
+people:
+- Christopher Dring
+- David Heaney
+- Jeremy Selan
+- Tom Gerken
+- Valve
+organisations:
+- AI
+- Alyx
+- Apple
+- BBC
+- Meta
+- Moss
+- Samsung
+- Selan
+- VR
+- VR," UploadVR
+- Valve
 ---
 
 Watch: BBC’s Tom Gerken gets his hands on Valve's Steam Frame

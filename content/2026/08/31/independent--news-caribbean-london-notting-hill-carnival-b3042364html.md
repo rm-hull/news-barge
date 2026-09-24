@@ -14,6 +14,13 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- Caribbean
+- J'ouvert
+- London
+- Notting Hill Carnival
+people: []
+organisations: []
 ---
 
 Photos show revelers celebrating Caribbean culture at London's Notting Hill Carnival

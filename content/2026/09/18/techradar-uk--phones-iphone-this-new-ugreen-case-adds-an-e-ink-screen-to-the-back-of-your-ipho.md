@@ -11,6 +11,17 @@ description: The Ugreen Magic E Ink Screen Case gives you a new way to view your
 image: https://cdn.mos.cms.futurecdn.net/RzSRf3zX3P3Gupftpv7FkP-1271-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- Xteink
+people:
+- James
+organisations:
+- AI
+- Clarity Media
+- Google News
+- TechRadar
+- Ugreen
 ---
 
 ![The Ugreen Magic E Ink Screen Case](https://cdn.mos.cms.futurecdn.net/RzSRf3zX3P3Gupftpv7FkP.jpg) 

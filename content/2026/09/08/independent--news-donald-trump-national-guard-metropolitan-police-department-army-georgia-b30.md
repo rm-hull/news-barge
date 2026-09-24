@@ -13,6 +13,23 @@ image: https://static.independent.co.uk/2026/08/28/15/APTOPIX_March_on_Washingto
 categories:
 - News & Politics
 - UK
+locations:
+- D.C.
+- Georgia
+- Puerto Rico
+- Washington
+people:
+- Donald Trump
+- Zion Mitchell
+organisations:
+- Army
+- D.C
+- Freedom
+- Georgia National Guard
+- Joint Task Force
+- MPD
+- Metropolitan Police Department
+- National Guard
 ---
 
 A member of the Georgia National Guard deployed in Washington, D.C., as part of President Donald Trump’s task force to fight crime has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts.

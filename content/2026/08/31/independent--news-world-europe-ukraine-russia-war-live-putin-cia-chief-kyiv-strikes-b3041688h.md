@@ -13,6 +13,56 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Arctic
+- Bucha
+- China
+- Europe
+- Far North
+- Iran
+- Kremlin
+- Kyiv
+- Latvia
+- Moscow
+- Myla
+- Nato
+- Poland
+- Riga
+- Russia
+- US
+- Ukraine
+- United States
+- Vnukovo
+- Washington DC
+- 'West ##'
+people:
+- Dmitry Peskov
+- Donald Trump
+- Donald Tusk
+- John Ratcliffe
+- Kyiv
+- Lavrov Russia
+- Moment Putin
+- Sergei Lavrov
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yevhenii Khmara
+organisations:
+- Amazon
+- Andrews Air Force Base
+- Arctic Sentry
+- C17A Globemaster III
+- CIA
+- EU
+- European Union
+- Kyiv
+- Nato
+- Ozon
+- Reuters
+- Telegram
+- US Air Force
+- Wildberries
 ---
 
 Russia’s defence ministry has announced it is preparing “massive strikes” on Ukraine’s energy infrastructure in retaliation for a drone campaign by Kyiv attacking warehouses and oil and gas facilities.

@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Comedy & Entertainment
+locations:
+- Victoria
+people:
+- Andrew Hastie
+- Anthony Albanese
+- Barnaby Joyce
+- Ben Roberts-Smith
+- Jacqui Lambie
+- Pauline Hanson
+- Richard Marles
+- Sean Bell
+organisations:
+- ABC
+- Greens
+- Guardian Australia
+- Labor
+- Liberal
+- News24
+- One Nation
+- RSL
+- SAS
 ---
 
 Andrew Hastie has accepted an apology from his former colleague Barnaby Joyce over a One Nation cartoon video labelling the former SAS captain a traitor but reiterated that he believed Pauline Hanson was a “lying coward”.

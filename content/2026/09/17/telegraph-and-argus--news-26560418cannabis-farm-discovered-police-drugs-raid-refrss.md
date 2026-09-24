@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford
+- CANNABIS
+- Daisy Street
+- Great Horton
+- West Yorkshire
+- West Yorkshire Police
+people: []
+organisations:
+- '## Police'
+- Bradford South NPT Team 1
+- Bradford South Neighbourhood Policing Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

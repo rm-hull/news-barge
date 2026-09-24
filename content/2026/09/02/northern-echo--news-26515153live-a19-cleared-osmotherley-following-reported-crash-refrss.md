@@ -12,6 +12,14 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- A19 Northbound
+- Ellerbeck
+people:
+- Freya Cain-Metcalf
+organisations:
+- Northern Echo
+- Osmotherley
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

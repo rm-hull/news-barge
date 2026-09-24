@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- Coron
+- Manila
+- Palawan
+- Philippines
+- Turda
+people: []
+organisations:
+- Philippine Coast Guard
 ---
 
 Video shows the MV June Aster on fire off Coron in the Philippines, as coast guard crews throw life jackets to people in the water.

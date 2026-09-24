@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Automotive
+locations:
+- China
+people:
+- '## Millroy'
+- Dutchman Hartog
+- Fern
+- Loek Hartog
+- Ollie Millroy
+organisations:
+- BBC Sport
+- Ferrari
+- GT
+- Ollie Millroy
+- Porsche
+- Shanghai International Circuit
 ---
 
 ![Ollie Millroy](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/13cc/live/0c1599e0-b1e7-11f1-ac01-a9af2f94b2cc.jpg)

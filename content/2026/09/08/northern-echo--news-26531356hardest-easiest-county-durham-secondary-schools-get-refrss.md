@@ -13,6 +13,40 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- County Durham
+- Getty
+people:
+- James I
+organisations:
+- '## Hardest County Durham'
+- Belmont Community School
+- Bishop Auckland
+- Bishop Barrington Academy
+- British Schools Guide
+- County Durham
+- Darlington County Durham
+- Dene Academy
+- Durham Academy
+- Easington Academy
+- Ferryhill School
+- Framwellgate School Durham
+- Great British Schools Guide
+- Greenfield Academy
+- Hermitage Academy
+- North Durham Academy
+- OFSTED
+- Park View School
+- Seaham High School
+- Shotton Hall
+- Sixth Form
+- Staindrop Academy
+- Tanfield School
+- Teesdale School
+- The Academy
+- Wellfield School
+- Wolsingham School
+- Woodham Academy
 ---
 
 If you are moving to County Durham or are considering bringing up a family in the area, you might be interested to know how easy or hard it is to get into secondary schools.

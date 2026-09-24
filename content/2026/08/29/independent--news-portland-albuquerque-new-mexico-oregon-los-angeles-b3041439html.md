@@ -12,6 +12,37 @@ categories:
 - News & Politics
 - UK
 - Automotive
+locations:
+- Albuquerque
+- Boulder
+- California
+- Colorado
+- LA
+- Lead and Coal
+- Long Beach
+- Los Angeles
+- New Mexico
+- North Carolina
+- Oregon
+- Portland
+- Southeast Powell Boulevard
+- U.S.
+people:
+- Aaron Moody
+- David Hurwitz
+- Isaac Romero
+- Jay Beeber
+- Jennifer Turner
+- Peter Koonce
+- Rebecca Sanders
+organisations:
+- Albuquerque
+- Arizona State University
+- Fehr & Peers
+- National Motorists Association
+- North Carolina Department of Transportation
+- Oregon State University
+- Toole Design
 ---
 
 Officials struggled for years to curb high-speed crashes along a residential corridor cutting through Albuquerque, New Mexico, but simply punishing the lead-footed drivers didn’t seem to work.

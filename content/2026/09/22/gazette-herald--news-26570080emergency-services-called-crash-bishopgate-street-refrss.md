@@ -13,6 +13,17 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21484701.jpg?type=og-image
+locations:
+- Bishopgate Street
+- Newsquest
+- Skeldergate Bridge
+- York
+people: []
+organisations:
+- North Yorkshire Highways
+- North Yorkshire Police
+- Suzuki
+- Yorkshire Ambulance Service
 ---
 
 **UPDATE: Two patients were taken to hospital in separate ambulances following the incident, Yorkshire Ambulance Service said.**

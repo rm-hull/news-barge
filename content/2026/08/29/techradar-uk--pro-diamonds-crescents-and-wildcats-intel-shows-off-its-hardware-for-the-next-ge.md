@@ -10,6 +10,37 @@ description: Intel wants to power the next iteration of AI
 image: https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg
 categories:
 - Technology & Software
+locations:
+- Crescent Island
+- Panther Lake
+- Wildcat Lake
+people:
+- Pushkar Ranade
+- Rahim Amir
+organisations:
+- AI
+- AMD
+- CPU
+- Chips and Cheese
+- Copilot
+- Diamond Rapids
+- EPYC Venice
+- Foveros
+- GPU
+- Google News
+- Intel
+- Microsoft
+- NPU
+- Nvidia
+- ODM
+- PC
+- PCs
+- RGB
+- SFF
+- ServeTheHome
+- TSMC
+- TechRadar Pro
+- Wildcat Lake
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83.jpg) 

@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- U.S.
+- US
+- Venezuela
+- White House
+people:
+- Chris Wright
+- Donald Trump
+organisations:
+- Chevron
+- North American Blue Energy Partners
+- The Associated Press
+- Venezuela Oil
 ---
 
 Oil giant Chevron is expected to announce it will expand operations in Venezuela, US official says

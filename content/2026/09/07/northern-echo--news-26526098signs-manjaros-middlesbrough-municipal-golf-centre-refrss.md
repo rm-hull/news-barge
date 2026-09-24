@@ -14,6 +14,40 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Billingham
+- Birmingham
+- Brick Lane
+- Darlington
+- Hartlepool
+- Huddersfield
+- Ilford
+- Ingleby Barwick
+- Ladgate Lane
+- Leeds
+- Leicester
+- Leyton
+- Manjaros
+- Marton
+- Middlesbrough Municipal Golf Centre
+- Newcastle
+- Peterlee
+- Preston
+- Redcar
+- Southall
+- Sunderland
+- Teesside
+- The Ormesby
+- UK
+people:
+- Manjaros
+organisations:
+- KFC
+- Manjaros Kitchen & Cocktails
+- Northern Echo
+- Our New Marton Restaurant!
+- THE NORTHERN ECHO
+- The Northern Echo
 ---
 
 *(Image: THE NORTHERN ECHO)*

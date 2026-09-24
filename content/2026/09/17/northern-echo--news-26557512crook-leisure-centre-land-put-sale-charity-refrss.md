@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Barnard Castle
+- Catterick Garrison
+- County Durham
+- YOUR
+people:
+- Crook
+- Dorothy Winter
+- Jonathan Wallis
+organisations:
+- Charity Commission
+- Crook Community Leisure
+- Durham County Council
+- National Living Wage and National Insurance
+- Public Notice Portal
 ---
 
 ### What is the Public Notice Portal?

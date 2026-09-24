@@ -11,6 +11,17 @@ description: Microsoft exec also underlined promise that Windows 11 will run bet
 image: https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Mark Linton
+organisations:
+- 8GB
+- Google News
+- Hachette UK
+- IFA
+- Microsoft
+- Windows & Devices
+- Windows Latest
 ---
 
 ![businessman holding clock by laptop](https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb.jpg) 

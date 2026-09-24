@@ -13,6 +13,23 @@ categories:
 - Local
 - Harrogate
 - History
+locations:
+- Harrogate
+- Oxford Street
+- Yorkshire
+people:
+- Charles Jesper
+- Foster Barrett Jesper
+- James Gawthorpe
+- Jespers
+- Lynn Cummings
+- Peter Jesper
+organisations:
+- Harrogate Advertiser
+- Jespers
+- London Jewellers
+- Royal Family
+- Vickers Oils
 ---
 
 # Generations of family members attend milestone event for famous Harrogate business founded in 1901

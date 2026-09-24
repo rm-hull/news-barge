@@ -12,6 +12,20 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/08/14/13/14134451-7ab87b9f-1b61-462a-94bc-9b53898033eb.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- HMP Belmarsh
+- Surrey
+- Wakefield
+- Woking
+people:
+- Adam Watson
+- Beinash Batool
+- Lynn Tayton KC
+- Sara Sharif
+- Steven Sansom
+- Urfan Sharif
+organisations:
+- Old Bailey
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

@@ -13,6 +13,19 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21474871.jpg?type=og-image
+locations:
+- Bishop Barns
+- Bishop Wilton
+- Carter Jonas
+- Pocklington
+- Prestigious’ North Yorkshire
+- Vale of York
+- Yorkshire Wolds
+- Zoopla
+people:
+- Carter Jonas
+organisations:
+- Yorkshire
 ---
 
 ## Inside 'extraordinary' country home for sale in Yorkshire village - for £1.3 million

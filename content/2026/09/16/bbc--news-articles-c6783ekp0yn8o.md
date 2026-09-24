@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Afghanistan
+- Chiswick
+- Greece
+- London
+- Putney Bridge
+people:
+- Katherine
+- Met
+- Nicholas Brandram
+- Oliver Salbris
+- Philip
+- Sgt Mat Knowles
+organisations:
+- BBC London
+- BBC Radio London
+- CCTV
+- Duke of Edinburgh
+- HSBC
+- Met
+- Metropolitan Police
+- Scots Guards
+- Sunday Times
 ---
 
 ![A head-and-shoulders image of Nicholas Brandram, seen with light brown hair and blue eyes, wearing a light blue collared shirt, a dark blue suit jacket, and a burgundy tie with a repeated white pattern. He is facing forward with a neutral expression.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a10c/live/282a8f90-b1de-11f1-a430-4d16ee157c41.jpg)

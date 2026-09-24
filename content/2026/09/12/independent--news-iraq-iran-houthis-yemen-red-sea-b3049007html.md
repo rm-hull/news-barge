@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Chazabeh
+- East-West
+- Iran
+- Iraq
+- Israel
+- Khuzestan
+- Maysan
+- Middle East
+- Mokha
+- Red Sea
+- Saudi Arabia
+- Shalamcheh
+- Strait of Hormuz
+- Tehran
+- U.S.
+- Yemen
+people:
+- Ali al-Zaidi
+- Valiollah Hayati
+organisations:
+- Foreign Ministry
+- International Energy Agency
 ---
 
 Attacks on a key Saudi oil pipeline were launched from Iraqi territory, said Iraq's government Saturday, pledging to probe further.

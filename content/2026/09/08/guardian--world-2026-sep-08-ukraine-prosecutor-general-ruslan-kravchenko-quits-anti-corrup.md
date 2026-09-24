@@ -12,6 +12,34 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Europe
+- Kremlin
+- Kyiv
+- Lviv
+- Moscow
+- Russia
+- Ukraine
+people:
+- Andriy Osadchuk
+- Andriy Yermak
+- Donald Trump
+- Jared Kushner
+- Nabu
+- Olena Tregub
+- Ruslan Kravchenko
+- Sapo
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+organisations:
+- EU
+- Kyiv
+- Nabu
+- Sapo
+- Society
+- Ukrainska Pravda
+- Verkhovna Rada
 ---
 
 Ukraine’s prosecutor general has resigned after investigators used ladders to raid his office in connection with a major corruption scandal that threatens to embarrass Volodymyr Zelenskyy.

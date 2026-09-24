@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - York
 - Travel
+locations:
+- Manchester
+- Millennium Bridge
+- Skipton
+- York
+people:
+- Barry Fairbrother
+- Colin Unsworth
+- Dylan Connell
+- John Cossham
+- John O'Groats
+- Sadie Tann
+organisations:
+- Mind
 ---
 
 *(Image: Dylan Connell)*

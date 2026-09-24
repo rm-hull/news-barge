@@ -12,6 +12,35 @@ image: https://i.guim.co.uk/img/media/a05710204f48a2fa20464f28a36ef2667539fbe3/1
 categories:
 - UK
 - News & Politics
+locations:
+- Caracas
+- Iran
+- People of the United States
+- Saudi Arabia
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Alejandro Betancourt
+- Delcy Rodríguez
+- Donald Trump
+- Hugo Chávez
+- Joe Biden
+- Juan Pablo Guanipa
+- Marco Rubio
+- Nicolás Maduro
+- Rafael Ramírez
+- X
+organisations:
+- El Nacional
+- New York Times
+- Office of Strategic Capital
+- PDVSA
+- Pentagon
+- Strategic National Reserves
+- Trump
+- Yankees
 ---
 
 Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves.

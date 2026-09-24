@@ -11,6 +11,17 @@ image: https://i.guim.co.uk/img/media/fc9d278b58587cc1e88a8eab4d8d5d281ca5aafb/3
 categories:
 - UK
 - News & Politics
+locations:
+- US
+- United States
+people:
+- Donald Trump
+- Joe Biden
+organisations:
+- Census Bureau
+- Federal Register
+- House of Representatives
+- Trump
 ---
 
 The Trump administration on Wednesday proposed changes to the US census intended to exclude immigrants without legal status in addition to other groups, with potentially significant effects on the allocation of federal resources and drawing of districts in the US House of Representatives.

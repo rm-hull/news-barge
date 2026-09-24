@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Greater Eston
+- North East bridge
+- Redcar
+- Teesside
+people:
+- Nicola Barker
+organisations:
+- Redcar CID
+- South Bank
 ---
 
 *(Image: NEWSQUEST)*

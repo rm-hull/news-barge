@@ -13,6 +13,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Halewood
+- Merseyside
+- Norway
+- Solihull
+- UK
+- US
+- West Midlands
+people:
+- Jonathan Reynolds
+- PB Balaji
+- Sharon Graham
+- Stefan Rousseau
+- Yui Mok
+organisations:
+- Business Secretary
+- JLR
+- Jaguar Land Rover
+- Range Rover
+- Range Rover Sport
+- The Times
+- Unite
+- ZEVs
 ---
 
 The Business Secretary is due to meet Jaguar Land Rover bosses amid reports that the UK’s largest car manufacturer is to cut 4,000 jobs.

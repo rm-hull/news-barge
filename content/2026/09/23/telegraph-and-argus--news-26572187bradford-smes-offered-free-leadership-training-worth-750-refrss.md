@@ -16,6 +16,13 @@ categories:
 - Careers & Productivity
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/17905315.jpg?type=og-image
+locations:
+- UK
+people: []
+organisations:
+- Newsquest
+- SME
+- University of Bradford
 ---
 
 *(Image: Newsquest)*

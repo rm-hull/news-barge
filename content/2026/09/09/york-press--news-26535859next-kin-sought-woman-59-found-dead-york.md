@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- York
+people:
+- Diane Carlin
+- Ms Carlin
+organisations:
+- Coroner’s Office
+- North Yorkshire Police
 ---
 
 *(Image: PA)*

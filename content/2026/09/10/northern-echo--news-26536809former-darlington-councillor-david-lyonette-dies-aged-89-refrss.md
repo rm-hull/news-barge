@@ -14,6 +14,30 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Darlington Carnival
+- Haughton West
+- Park East
+- River Skerne
+- Springfield
+- St Augustine's Church
+people:
+- David Lyonette
+- Ellie
+- Haughton
+- Joe
+- Nick Wallis
+- Ruth Lyonette
+- Theo
+organisations:
+- Darlington Borough
+- Darlington Borough Council
+- Darlington FC
+- Darlington Market
+- Labour
+- Maxine's
+- North East
+- St Teresa's Hospice
 ---
 
 Family, friends and former colleagues have paid tribute to former Darlington Mayor David Lyonette as being “Darlington through and through”.

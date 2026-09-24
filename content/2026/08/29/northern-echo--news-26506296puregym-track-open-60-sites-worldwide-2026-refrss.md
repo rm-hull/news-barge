@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Denmark
+- North East
+- Republic of Ireland
+- Saudi Arabia
+- Switzerland
+- UK
+- US
+- United Arab Emirates
+people:
+- Alex Wood
+- Amanda Owen
+- Regis Le Bris
+organisations:
+- '## PureGym'
+- Our Yorkshire Farm
+- Sunderland
 ---
 
 *(Image: Getty Images)*

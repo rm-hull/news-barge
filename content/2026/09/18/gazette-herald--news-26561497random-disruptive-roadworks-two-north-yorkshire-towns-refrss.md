@@ -14,6 +14,28 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Coppice Valley
+- Duchy
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- York
+people:
+- Chris Aldred
+- Cllr Lacey
+- Monika Slater
+- Peter Lacey
+organisations:
+- Bilton Grange and New Park division
+- Google Maps)* Council
+- Great Yorkshire Show
+- Harrogate Convention Centre
+- High Harrogate
+- Kingsley division
+- Knaresborough Bed Race
+- Local Democracy Reporting Service
+- North Yorkshire Council
 ---
 
 *(Image: Google Maps)*

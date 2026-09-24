@@ -13,6 +13,26 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Bangkok
+- Chonburi
+- Mount Pleasant
+- Thailand
+- Wisconsin
+people:
+- Bruno Ferreira
+- Danucha Pichayanan
+- Tom
+organisations:
+- Eastwater Stecon Utilities
+- Get Tom's Hardware
+- Google News
+- Microsoft
+- NESDC
+- National Economic and Social Development Council
+- PC
+- Project Jupiter
+- Tom's Hardware
 ---
 
 ![Thailand technology](https://cdn.mos.cms.futurecdn.net/wEpFcAVWHoqM35wKx7VNBd.jpg) 

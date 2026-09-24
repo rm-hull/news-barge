@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/20853509.jpg?type=og-image
+locations:
+- Bradford City Hall
+- Bradford Crown Court
+- Bradford Magistrates Court
+- England
+- Leeds
+- ST Luke’s Hospital
+- St Luke’s Hospital
+- Thornton Road
+- UK
+- York
+- Yorkshire
+people:
+- Martin McCluskey
+organisations:
+- 1 Energy
+- Bradford City Hall
+- Bradford College
+- Bradford Energy Network
+- Bradford’s
+- Incommunities
+- Local Energy
+- University of Bradford
+- University of Bradford Campus
 ---
 
 *(Image: T&A)*

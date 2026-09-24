@@ -14,6 +14,35 @@ image: https://static.independent.co.uk/2026/09/06/18/2293360060..?trim=77,0,77,
 categories:
 - News & Politics
 - UK
+locations:
+- Berlin
+- Europe
+- Federal Republic
+- Germany
+- Russia
+- Saxony
+- Saxony-Anhalt
+- Thuringia
+- Ukraine
+people:
+- Alice Weidel
+- Friedrich Merz
+- Lars Klingbeil
+- Sven Schulze
+organisations:
+- AfD
+- BSW
+- Brookings Institution
+- Bundesrat
+- CDU
+- Christian Democratic Union
+- Christian Democrats
+- FDP
+- Free Democrats
+- SPD
+- Social Democrats
+- The Left
+- ZDF
 ---
 
 The confirmed, full results in Germany's Saxony-Anhalt regional election are likely to be a major political headache for Chancellor Friedrich Merz, whose centre-right Christian Democrats (CDU) party have governed the eastern state for more than 20 years.

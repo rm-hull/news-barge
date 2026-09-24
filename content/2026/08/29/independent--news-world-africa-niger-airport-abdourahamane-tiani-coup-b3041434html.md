@@ -10,6 +10,38 @@ image: https://static.independent.co.uk/2026/08/29/11/2291885874..?trim=0,316,0,
 categories:
 - News & Politics
 - UK
+locations:
+- Base 101
+- Burkina Faso
+- Dosso
+- Europe
+- France
+- Islamic State
+- Islamic State Sahel Province
+- Mali
+- Niamey
+- Niger
+- Ouallam
+- Russia
+- Tera
+- West Africa
+people:
+- Abdourahamane Tiani
+- Bana Wagana Ibrahim
+- Mohamed Bazoum
+- Orano
+- Yvan Guichaoua
+organisations:
+- AES
+- Alliance of Sahel States
+- Bonn International Centre for Conflict Studies
+- Bureau of the Consultative Council
+- ECOWAS
+- Facebook
+- Islamic State
+- Orano
+- Reuters
+- al Qaeda
 ---
 
 Gunfire and explosions rang out across several areas of Niger's capital on Saturday mroning, including the airport and near the presidency, in what has been described as an attack by mutinous soldiers.

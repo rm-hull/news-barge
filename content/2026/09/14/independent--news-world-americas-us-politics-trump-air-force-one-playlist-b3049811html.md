@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - UK
 - Music
+locations:
+- Broadway
+- Mar-a-Lago
+- White House
+people:
+- ABBA
+- Abba
+- Baba O'Riley
+- Cat Stevens
+- Dolly Parton
+- Donald Trump
+- Fernando
+- Jolene
+- Lesley Gore
+- Luciano Pavarotti
+- Nessun Dorma
+- Nicoletta Mantovani Pavarotti
+organisations:
+- ABBA
+- Air Force One
+- Axios
+- Nessun Dorma
+- The Guardian
+- The New York Times
+- The Telegraph
+- Trump
+- Undertaker
+- Universal Music
 ---
 
 President Trump shared his personal playlist with reporters on Air Force One, telling the journalists that he wanted to make them “happy.”

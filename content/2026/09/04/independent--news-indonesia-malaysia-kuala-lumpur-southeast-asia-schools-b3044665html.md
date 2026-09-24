@@ -14,6 +14,23 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Borneo Island
+- Brunei
+- Haze
+- Indonesia
+- Kalimantan
+- Kuching
+- Malaysia
+- Sarawak
+- Serian
+- Singapore
+- Southeast Asia
+people:
+- Raja Juli Antoni
+- Serian
+organisations:
+- Forestry Ministry
 ---
 
 Air pollution in a town in Sarawak state on Borneo Island breached Malaysia’s emergency-level threshold on Friday amid worsening haze linked to forest and land fires in neighboring Indonesia.

@@ -11,6 +11,28 @@ image: https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4-1920-80.png
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Alberta
+- Canada.
+- Germany
+- Japan
+- US
+people:
+- Craig Hale
+- Josh Parker
+organisations:
+- AEMA
+- AI Energy Management Alliance
+- Anthropic
+- Bloomberg
+- Craig’s
+- Emerald AI
+- Google News
+- Meta
+- Moody's
+- Nvidia Head of Sustainability
+- SiliconANGLE
+- TechRadar Pro
 ---
 
 ![An artistic depiction of Meta's new data center in Alberta, Canada.](https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4.png) 

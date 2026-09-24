@@ -11,6 +11,21 @@ image: https://cdn.mos.cms.futurecdn.net/seeS9jv2oonLE9fDnGpLyU-2560-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- Ethernet
+- UK
+- US
+people:
+- Collin
+organisations:
+- Airbnb
+- Amazon
+- Beryl 7
+- GL.iNet
+- Gearadical
+- Swiss Army
+- TechRadar Pro
+- USB-C
 ---
 
 ### TechRadar Verdict

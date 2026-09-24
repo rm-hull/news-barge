@@ -12,6 +12,34 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Cattle Hill
+- Church Lane
+- Cobdale Lane
+- Coldwold
+- Fishpond Hill
+- Huggate
+- Kilnwick Percy Hall Access Road
+- Kilnwick Percy Hill
+- Main Street
+- Martin Lane
+- Millington Lane
+- Millington Pastures
+- Nunburnholme
+- Pasture Lane
+- Swineridge Lane
+- Warter
+- Wolds Weighton Ward
+- Wood Gate
+- YOUR
+people: []
+organisations:
+- East Riding of Yorkshire Council
+- Highways Maintenance
+- Kilnwick Percy
+- Public Notice Portal
+- Rose Cottages
+- Streetscene Services
 ---
 
 *(Image: The Press)*

@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Calais
+- Cherbourg
+- Dover
+- Eastney Ferry Landing
+- Eastney Marina
+- England
+- France
+- Hampshire
+- Isle of Wight
+- Kent
+- Manston
+- RNLI Portsmouth Lifeboat Station
+- UK
+people:
+- Donna Jones
+- Mihnea Cuibus
+- Steve Pitt
+organisations:
+- Home Office
+- Isle of Wight Constabulary
+- Maritime and Coastguard Agency
+- Portsmouth
+- RNLI
+- UK Border Force
+- University of Oxford’s Migration Observatory
 ---
 
 Traffickers shifting destinations along England’s south coast could present a new challenge in tackling the small boat crisis, an expert has warned.

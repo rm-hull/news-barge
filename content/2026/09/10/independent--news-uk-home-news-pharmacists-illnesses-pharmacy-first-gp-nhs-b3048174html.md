@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Britain
+people:
+- Amanda Doyle
+- Andy Burnham
+- Leyla Hannbeck
+organisations:
+- IPA
+- Independent Pharmacies Association
+- NHS England
 ---
 
 Patients suffering from acne, migraines, and further types of ear infection will soon be able to receive treatment directly from qualified pharmacists as the NHS expands its "pharmacy first" scheme.

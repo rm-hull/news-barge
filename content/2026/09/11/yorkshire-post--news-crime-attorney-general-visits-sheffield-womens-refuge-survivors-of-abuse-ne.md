@@ -15,6 +15,19 @@ categories:
 - York
 - Society & Culture
 - News & Politics
+locations:
+- England
+- Sheffield
+- South Yorkshire
+- Wales
+people:
+- Ellie Reeves
+- Kilvinder Vigurs
+- Ms Reeves
+organisations:
+- Policing and Crime
+- Sheffield Women’s Aid
+- The Yorkshire Post
 ---
 
 # Attorney General visits Sheffield women's refuge: 'Survivors of abuse need a system that works for them and not against them'

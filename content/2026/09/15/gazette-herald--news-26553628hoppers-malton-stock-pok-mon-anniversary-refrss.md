@@ -13,6 +13,14 @@ categories:
 - Harrogate
 - York
 - Music
+locations:
+- Malton
+- NORTH Yorkshire
+people: []
+organisations:
+- AQUA TCG
+- Elite Trainer Boxes
+- Pokémon
 ---
 
 *(Image: AQUA TCG)*

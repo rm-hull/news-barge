@@ -13,6 +13,27 @@ image: https://cdn.mos.cms.futurecdn.net/sNx7AT95EveUJBhbUQMAzE-1920-80.jpg
 categories:
 - Technology & Software
 - Family & Parenting
+locations:
+- Miyazaki
+people:
+- Hii-kun
+- Masashi Hayashida
+- Michael Dell
+- Rahim Amir
+- Yoko Oishi
+organisations:
+- AI
+- Dell Technologies
+- Dell Technologies' Miyazaki Customer Center
+- Google News
+- Intel
+- Miyazaki Customer Center
+- PC
+- PCs
+- RGB
+- SFF
+- TechRadar Pro
+- USB-C
 ---
 
 ![Dell HQ](https://cdn.mos.cms.futurecdn.net/sNx7AT95EveUJBhbUQMAzE.jpg) 

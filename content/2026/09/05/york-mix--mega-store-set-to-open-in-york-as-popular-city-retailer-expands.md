@@ -12,6 +12,18 @@ categories:
 - York
 - Business & Entrepreneurship
 - Lifestyle & Fashion
+locations:
+- Acomb
+- Barnitts
+- Front Street
+- James Street
+- York
+- Yorkshire
+people:
+- Dominic Shortle
+- James Street
+organisations:
+- Sunley & Co
 ---
 
 A York retailer is set to open a second location before the end of the year – and the owners described it as a “mega store”.

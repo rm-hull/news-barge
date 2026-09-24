@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Harrogate
+- Little Ferns
+people:
+- Hannah McNamara
+- Ian Tucker
+- Viv Poskitt**
+organisations:
+- Coppice Valley Primary School
+- Coppice Valley Primary School**
+- Little Ferns Pre-School**
+- NSM
+- Red Kite Learning Trust
 ---
 
 **HARROGATE**— A brand new early years setting has officially opened its doors to local families this week, expanding the educational offering within the Harrogate district.

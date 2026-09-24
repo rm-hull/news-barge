@@ -13,6 +13,20 @@ categories:
 - Hardware
 - Personal Finance & Investing
 - Science
+locations:
+- Minecraft
+- Strait of Hormuz
+- Tennessee
+people:
+- Claude
+- Elon Musk
+organisations:
+- Bitcoin ATM
+- Cryptocurrency
+- GPU
+- Get Tom's Hardware
+- Liquid Network
+- Pearl
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CGHmZmGyZacDDWKL9xLdTc-320-80.jpg)

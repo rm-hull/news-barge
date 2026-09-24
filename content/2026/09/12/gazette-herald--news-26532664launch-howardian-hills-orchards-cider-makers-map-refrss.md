@@ -12,6 +12,39 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Ampleforth
+- Britain
+- Coulton Mill
+- Coulton Mill Cider
+- Coxwold
+- Helmsley
+- Howardian Hills
+- Howardian Hills Cider
+- Husthwaite
+- Malton
+- National Landscape
+- North Riding
+- North Yorkshire
+- Scackleton
+- St Lawrence’s Church
+- Thirsk
+- UK
+- York
+people:
+- Coulton Mill
+- Elliott Harrison
+- Nick Burrows
+organisations:
+- Ampleforth Abbey
+- Green Balsam
+- Keswick Codling
+- National Landscape
+- Newburgh Priory
+- Ribston Pippin
+- York Beer
+- Yorkshire Beauty
+- Yorkshire Greening
 ---
 
 An historic North Yorkshire industry is back on the map.

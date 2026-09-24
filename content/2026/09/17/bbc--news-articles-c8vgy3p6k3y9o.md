@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Bab al-Mandab
+- Iran
+- Jizan
+- Khamis Mushait
+- Marib
+- Mecca
+- Saudi Arabia
+- US
+- Yemen
+people:
+- Adam Baron
+- Alex Murray
+- Baraa Shiban
+- Donald Trump
+- Nick Brown
+- Shayan Sardarizadeh
+- Tom Shiel
+organisations:
+- 55th Squadron
+- BBC Verify
+- Houthi
+- Janes
+- King Khalid Air Base
+- New America
+- Planet Labs PBC
+- Royal Saudi Air Force
+- Royal Saudi Air Force F-15 Strike Eagle
+- Royal United Services Institute
+- Saudi Ministry of Defence
 ---
 
 BBC Verify has confirmed the footage was filmed in western Yemen.

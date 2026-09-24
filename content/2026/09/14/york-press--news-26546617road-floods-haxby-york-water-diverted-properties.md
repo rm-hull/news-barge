@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Haxby Road
+- York
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Fire and Rescue Services
+- Yorkshire Water
 ---
 
 *(Image: Contributed)*

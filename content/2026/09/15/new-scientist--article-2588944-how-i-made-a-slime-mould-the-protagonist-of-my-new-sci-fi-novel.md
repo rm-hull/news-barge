@@ -12,6 +12,25 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640595.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Earth
+- Gardenpath
+- Herculaneum
+- Maryland
+- Milky Way
+- Pompeii
+people:
+- Eric Poehler
+- Gardenpath
+- Molly Peeples
+- Murtis
+- Oriel
+- Wesley Swingley
+organisations:
+- Northern Illinois University
+- Pompeii
+- Space Telescope Science Institute
+- University of Massachusetts Amherst
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311640595.jpg?w=840)

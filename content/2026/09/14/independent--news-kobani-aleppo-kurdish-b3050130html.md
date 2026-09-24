@@ -15,6 +15,12 @@ categories:
 - UK
 - True Crime
 - Society & Culture
+locations:
+- Aleppo
+- Kobani
+- Syria
+people: []
+organisations: []
 ---
 
 Photos of the funeral for victims of a deadly prison fire and riot in northern Syria

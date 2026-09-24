@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- UK
+people:
+- Mo Rafique
+organisations:
+- Asda
+- Blue Badge
+- Highway Code
+- Lidl
+- Motor Guards UK
+- RAC
+- Tesco
 ---
 
 *(Image: Getty Images)*

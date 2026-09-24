@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21479290.jpg?type=og-image
+locations:
+- Cleveland
+- Dormanstown
+- South Bank
+people:
+- Alec Brown
+- Barry Hunt
+- Brotton
+- Ceri Cawley
+- Jemma Joy
+- Philip Shaw
+- Philip Thomson
+- Sue Jeffrey
+organisations:
+- Cleveland Council
+- Redcar
+- Saltburn
 ---
 
 The cost of a contract to sort Redcar and Cleveland’s kerbside recycling could go up due to residents continuing to put items in the wrong bins, councillors have been warned.

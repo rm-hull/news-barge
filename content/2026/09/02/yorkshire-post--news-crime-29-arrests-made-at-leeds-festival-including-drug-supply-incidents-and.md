@@ -14,6 +14,12 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Bramham Park
+- West Yorkshire
+- Wetherby
+people: []
+organisations: []
 ---
 
 # Police reveal 29 arrests made at Leeds Festival 2026 including sexual offences

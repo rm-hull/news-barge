@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Kyiv
+- Russia
+- Ukraine
+people: []
+organisations: []
 ---
 
 Pupils return to school in Russia and Ukraine as Kyiv students shelter from air raids, in photos

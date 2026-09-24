@@ -13,6 +13,25 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Birdcage
+- Middlesbrough
+- North East
+- Northallerton Darlington
+- Stockton
+- Teesside
+- The Olive Branch
+people:
+- Carl *(Image
+- Carl Blake
+- Lisa
+- Paul Sargeant
+- Rachel McLaine
+- Vicki Busby
+organisations:
+- Olive Branch
+- The Birdcage
+- The Songbird
 ---
 
 A popular Middlesbrough restaurant has changed hands, with the former owners moving on to a new chapter after an "unforgettable journey".

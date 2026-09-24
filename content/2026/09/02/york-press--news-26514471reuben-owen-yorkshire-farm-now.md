@@ -12,6 +12,28 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Our Yorkshire Farm
+- Ravenseat Farm
+- Upper Swaledale
+- Yorkshire Dales
+- Yorkshire Farm
+people:
+- Amanda
+- Clive Owen
+- Clive and Sid
+- Miles Owen
+- Owens
+- Ravenseat Reuben Owen
+- Reuben Owen
+- Sidney
+organisations:
+- Anty John's
+- Channel 5
+- Clive and Kids
+- Reuben and Clive
+- TG Jones and York main Post Office
+- Yorkshire Dales
 ---
 
 ## Reuben Owen's life after Our Yorkshire Farm as he builds career away from Ravenseat

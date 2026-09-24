@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21482156.jpg?type=og-image&xType=108&yType=0
+locations:
+- Consett
+- County Durham
+- Knitsley
+- North East
+- Northumberland
+- Old Mill
+- The Old Mill
+people:
+- Wissem Amara
+organisations:
+- The Old Mill Knitsley
 ---
 
 A popular pub and restaurant near Consett has reopened under new ownership, with its new boss promising to restore the venue as "the heart of the community once again".

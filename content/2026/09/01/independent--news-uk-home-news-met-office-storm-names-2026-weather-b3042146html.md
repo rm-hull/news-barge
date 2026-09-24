@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Boo-loh
+- Dah-noh
+- Fay-lim
+- Groningen
+- Ireland
+- Ivy
+- Netherlands
+- North Atlantic
+- UK
+- Vhen-duh
+people:
+- Austen Nagle
+- Benjamin
+- Boelo
+- Chloe
+- Claudia
+- Dano
+- Eoin Sherlock
+- Evelyn Murphy
+- Finn
+- Goretti
+- Gwendolyn
+- Heather
+- Holly Clements
+- Ivy
+- Jade
+- Kilian
+- Laoise
+- Met Éireann
+- Miriam
+- Nicola
+- Olaf
+- Phelim
+- Shaun
+- Theo
+- Vesna
+- Wende
+organisations:
+- Aardman
+- Chloe
+- Irish Meteorological Service
+- KNMI
+- Met Office
+- RTE
+- Ruban
+- Shaun the Sheep
+- Storm Dave
+- Wallace and Gromit
 ---
 
 Meteorologists have decided Austen, Boelo and Chloe will be the first named storms of the 2026/27 season, after more than 40,000 public suggestions.

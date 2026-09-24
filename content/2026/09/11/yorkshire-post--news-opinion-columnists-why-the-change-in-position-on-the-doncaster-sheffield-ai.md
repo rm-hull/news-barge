@@ -16,6 +16,15 @@ categories:
 - York
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people: []
+organisations:
+- DSA
+- Doncaster Sheffield Airport
+- Doncaster Sheffield Airport.
+- James Hardisty
+- SYMCA
+- South Yorkshire Mayoral Combined Authority
 ---
 
 # Why the change in position on the Doncaster Sheffield Airport lease renegotiation deadline?

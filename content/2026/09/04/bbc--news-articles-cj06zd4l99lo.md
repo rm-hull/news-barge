@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Technology & Software
 - Video Gaming
+locations:
+- Covid
+- Windows Central
+people:
+- Asha Sharma
+- Brad Smith
+- Jeff Gattiss
+- Jez Corden
+organisations:
+- AI
+- Amazon
+- BBC
+- Game Pass
+- Google
+- Microsoft Copilot
+- Stadia
+- Wall Street Journal
+- Xbox
 ---
 
 ![A close up of someone's hands holding a red Xbox controller](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg)

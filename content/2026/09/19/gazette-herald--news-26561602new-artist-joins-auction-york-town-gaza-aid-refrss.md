@@ -13,6 +13,20 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21472386.jpg?type=og-image
+locations:
+- Gaza
+- Haxby and Wigginton Methodist Church
+- West Bank
+- York
+people:
+- Catherine King
+- Damien Hirst
+- Eve Hart
+- Roswitha Jarman
+- Sue Cooke
+- Zahra Yassine
+organisations:
+- MAP
 ---
 
 A new artist has joined an art auction in a York town raising money for humanitarian work in Gaza.

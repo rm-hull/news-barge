@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Billingham
+- Dunlop
+- Grange Avenue
+- London
+- Teesside
+- The Old Bailey
+people:
+- ANDY FUTERS
+- Ann Ming
+- Billy Dunlop
+- Echo
+- Julie Hogg
+- Kevin Hogg
+- Shabana Mahmood
+organisations:
+- North News and Pictures
+- The Northern Echo
 ---
 
 *“We are doing a life sentence. You are living and breathing it all the time.”*

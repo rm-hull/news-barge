@@ -11,6 +11,18 @@ image: https://static.independent.co.uk/2026/08/11/10/56/570143.jpg?trim=36,0,0,
 categories:
 - News & Politics
 - UK
+locations:
+- England
+- Port Talbot
+- South Wales
+people:
+- Dan Ashby
+- Douglas Gowan
+- Lucy Taylor
+- Michael Sheen
+organisations:
+- BBC
+- Welsh Affairs Committee
 ---
 
 Michael Sheen is set to give evidence to MPs following his involvement in a documentary probing alleged toxic contamination across Wales.

@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Automotive
+locations:
+- North Yorkshire
+- Northallerton
+- Thirsk
+- Thornton-le-Street
+people: []
+organisations:
+- Newsquest
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: Newsquest)*

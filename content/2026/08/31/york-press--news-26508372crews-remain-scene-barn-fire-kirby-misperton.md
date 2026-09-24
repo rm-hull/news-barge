@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Kirby Misperton
+- Kirkbymoorside
+- Malton
+- Miles
+- North Yorkshire
+- Scarborough
+- Tadcaster
+people:
+- Lottie
+- William Easterby
+organisations:
+- North Yorkshire Fire and Rescue
 ---
 
 ## PICTURES - Firefighters still at scene of major fire started by lightning strike

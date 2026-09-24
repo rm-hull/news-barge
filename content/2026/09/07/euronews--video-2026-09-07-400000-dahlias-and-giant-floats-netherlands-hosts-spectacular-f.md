@@ -13,6 +13,13 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Corso
+- Netherlands
+- North Brabant
+- Zundert
+people: []
+organisations: []
 ---
 
 Spectators lined the streets of Zundert in the Netherlands on Sunday as giant floats covered in dahlias rolled through the town during the annual Flower Parade. Volunteers spent months building the displays, attaching hundreds of thousands of blooms by hand.

@@ -13,6 +13,28 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/11262639.jpg?type=og-image
+locations:
+- Newsquest.
+- North Yorkshire
+- Scarborough
+- St Patrick
+- The Spa
+people:
+- David Owen
+- Margaret Thatcher
+organisations:
+- Conservative Party
+- Conservative Party Central Council
+- IRA
+- Labour
+- Liberal Democratic Party
+- Liberal Party
+- Newsquest
+- SDP
+- Scarborough Spa
+- Social Democratic Party
+- The Press in York
+- Young Conservative
 ---
 
 A national political conference will be held in a North Yorkshire resort in October, almost four decades after a bomb scare disrupted a party conference in the town.

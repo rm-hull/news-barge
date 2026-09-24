@@ -13,6 +13,37 @@ categories:
 - UK
 - Technology & Software
 - Science
+locations:
+- Africa
+- Crimean Peninsula
+- Earth
+- Europe
+- Gulf of America
+- Gulf of Mexico
+- Lake America
+- Lake Ontario
+- North America
+- Russia
+- US
+- Ukraine
+- United States
+people:
+- Derek Alderman
+- Derek H. Alderman Derek H. Alderman
+- Jack Swab
+- Trump
+organisations:
+- Apple Maps
+- Department of Geography & Sustainability
+- Equal Earth
+- Equal Earth Projection
+- Google Maps
+- Mercator
+- The Conversation
+- UN
+- United Nations
+- United Nations General Assembly
+- University of Tennessee
 ---
 
 The UN has passed a non-binding resolution to endorse the Equal Earth Projection, a map which more fairly represents the true size of the Earth’s landmasses.

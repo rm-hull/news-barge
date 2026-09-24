@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Darlington
+- The Tubwell Tap
+- Tubwell Row
+people: []
+organisations:
+- NEAS
+- North East Ambulance Service
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

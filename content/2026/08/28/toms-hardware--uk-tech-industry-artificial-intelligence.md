@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+people:
+- Bill Gates
+- Claude
+- Tom
+- Vera Rubin
+organisations:
+- ChatGPT
+- GPT-5.6 Sol
+- Get Tom's Hardware
+- Microsoft
+- Nvidia
+- OpenAI
+- Vera Rubin
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

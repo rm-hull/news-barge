@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6aabff60bda6d39b9e4.jpg
+locations:
+- Bramham Park
+- Old Kitchen
+people:
+- James Hamilton-Goddard
+organisations:
+- Bramham Park
+- Bramham Park International Horse Trials
+- Yorkshire Rock Choir
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabff60bda6d39b9e4.jpg)

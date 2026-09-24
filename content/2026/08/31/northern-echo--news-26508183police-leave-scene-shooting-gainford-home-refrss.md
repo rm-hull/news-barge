@@ -14,6 +14,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Balmer Hill
+- County Durham
+- Darlington
+- Gainford
+- NORTHERN ECHO
+people: []
+organisations:
+- CSI
+- Durham Police
+- GNAAS
+- Great North Air Ambulance Service
+- NORTHERN ECHO
+- Newcastle
+- North East Ambulance Service
+- Sky Sports News
+- The Northern Echo
 ---
 
 A cordon has been lifted at the scene of an "attempted murder" shooting on a County Durham street that left a man in critical condition.

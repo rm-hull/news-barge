@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Iran
+- Tehran
+people: []
+organisations: []
 ---
 
 Iran stages massive Tehran rally as volunteers pledge to take up arms, in photos

@@ -12,6 +12,48 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Beijing
+- China
+- Geneva
+- Gulf
+- Israel
+- Lamerd
+- Middle East
+- Minab
+- Red Sea
+- Saudi Arabia
+- Seoul
+- South Korea
+- Strait of Hormuz
+- Taif
+- Tehran
+- US Iran
+- United States
+- Washington
+- Yemen
+people:
+- '## Trump'
+- Abbas Araqchi
+- Cho Hyun
+- Donald Trump
+- Marco Rubio
+- Mike Johnson
+- Mohsen Rezaei
+- Tim Hawkins
+- Wang Yi
+organisations:
+- Al Jazeera
+- CBS
+- Centcom
+- House
+- Lamerd
+- Pentagon
+- Reuters
+- TV
+- UN Human Rights Council
+- US Central Command
+- US Navy
 ---
 
 A UN fact-finding mission to Iran says it has reasonable grounds to believe US forces carried out two strikes in February that amounted to war crimes.

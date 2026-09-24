@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- North Yorkshire
+- Scarborough
+- St Thomas Street
+people: []
+organisations:
+- Fusion
+- Google Maps
+- JPH Venues Ltd
+- North Yorkshire Council
+- North Yorkshire Police
+- Scarborough Town Hall
 ---
 
 ## 'Urination in the street' fears over nightclub’s 3am licence plan

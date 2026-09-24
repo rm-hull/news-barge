@@ -13,6 +13,10 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Bradford
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Abu Ghraib
+- Bagram
+- Bleecker Street
+- Tesla
+- U.S.
+people:
+- Alex Gibney
+- Donald Trump
+- Elizabeth Holmes
+- Elon Musk
+- GIBNEY
+- Harris
+- Kamala
+- Leonardo da Vinci
+- Melania
+- Richard Feynman
+- Tucker Carlson
+organisations:
+- Enron
+- Musk
+- SpaceX
+- Tesla
+- The Associated Press
 ---
 
 Alex Gibney has made films about powerful people, corporations and organizations before: Enron, Elizabeth Holmes, Scientology and the U.S. military’s abuses at Bagram and Abu Ghraib are just a few. And yet, he said, nothing compares to the scope of power held by his latest subject, Elon Musk.

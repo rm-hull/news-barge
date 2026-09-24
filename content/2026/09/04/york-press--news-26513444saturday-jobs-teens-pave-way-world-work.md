@@ -12,6 +12,15 @@ categories:
 - Local
 - York
 - Careers & Productivity
+locations:
+- Middlesbrough
+people:
+- Sharon
+- Stuart Machin
+organisations:
+- British Retail Consortium
+- HMRC
+- Marks & Spencer
 ---
 
 MY FIRST Saturday job was washing pots in the kitchen of a local hotel. It was hard work, stuck in a steamy corner of a small kitchen, the greasy pots piling up around me.

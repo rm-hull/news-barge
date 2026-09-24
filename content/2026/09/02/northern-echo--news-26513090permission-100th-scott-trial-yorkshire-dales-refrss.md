@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Arkengarthdale
+- Bainbridge
+- North Yorkshire
+- Swaledale
+- Yorkshire Dales National Park
+people:
+- Cllr Peacock
+- Richard Graham
+- Robert Stones
+- Yvonne Peacock
+organisations:
+- Richmond Motor Club
+- Upper Dales
+- YDNPA
+- Yorkshire Dales National Park Authority
 ---
 
 National park authority members have given permission for this year’s Scott Trial after hearing the historic motor sport event had the backing of the local community.

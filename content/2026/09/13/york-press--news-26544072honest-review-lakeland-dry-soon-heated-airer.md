@@ -12,6 +12,12 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Hanger
+- Lakeland
+people:
+- Jade Wright
+organisations: []
 ---
 
 *(Image: Jade Wright)*

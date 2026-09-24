@@ -13,6 +13,22 @@ image: https://static.independent.co.uk/2026/08/28/16/APTOPIX_Bosnia_Obit_Mladic
 categories:
 - News & Politics
 - UK
+locations:
+- Bosnia
+- Europe
+- Netherlands
+- Sarajevo
+- Serbia
+- Srebrenica
+- The Hague
+- U.S.
+- West
+people:
+- Aleksandar Vucic
+- Ratko Mladic
+organisations:
+- European Union
+- U.N.
 ---
 
 The body of the former Bosnian Serb army commander Ratko Mladic, who died last week while serving a life sentence for genocide and other atrocities during the war in Bosnia, will be flown to Serbia on Thursday, President Aleksandar Vucic said.

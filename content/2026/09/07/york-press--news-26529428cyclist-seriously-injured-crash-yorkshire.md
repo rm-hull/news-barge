@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- B6161 Leathley Lane
+- Harrogate
+- North Yorkshire
+- Otley
+people: []
+organisations: []
 ---
 
 *(Image: Supplied)*

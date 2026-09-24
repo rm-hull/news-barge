@@ -14,6 +14,20 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Newcastle
+- Northumbria Police
+- Tewkesbury Road
+people:
+- Claire Ashurst
+- Det Con Ashurst
+- Matthew Watson
+organisations:
+- Crimestoppers
+- Newcastle Crown Court
+- Northumbria Police
+- SHPO
+- Safeguarding Department
 ---
 
 *(Image: Northumbria Police)*

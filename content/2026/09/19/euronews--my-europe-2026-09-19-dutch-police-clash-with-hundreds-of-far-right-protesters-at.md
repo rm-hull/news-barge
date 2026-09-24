@@ -12,6 +12,17 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/00/54/1200x675_cmsv2_d3576a9a-2a22-5365-b9b3-df00142d6665-9920054.jpg
+locations:
+- Malieveld
+- The Hague
+people:
+- David van Weel
+- Rob Jetten
+- Thijs Jansen
+- van Weel
+organisations:
+- D66
+- Justice
 ---
 
 ## Dutch riot police clashed with around 500 far-right protesters in The Hague during an anti-immigration rally. Police used water cannons and dogs after demonstrators threw fireworks and performed Nazi salutes.

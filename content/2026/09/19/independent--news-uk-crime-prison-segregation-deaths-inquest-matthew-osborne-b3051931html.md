@@ -14,6 +14,30 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/18/8/58/Screenshot_20260825_130442_com-android-chrome_edit_5518643123020.jpeg?trim=506,0,507,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+- HMP Lowdham Grange
+- Nottinghamshire
+- Wales
+people:
+- Adrian Usher
+- Inquest
+- Jasmine Osborne
+- Jessica Pandian
+- Matthew Osborne
+- Ms Osborne
+organisations:
+- ACCT
+- CSU
+- Care and Separation Unit
+- HMP Lowdham Grange
+- Inquest
+- Ministry of Justice
+- MoJ
+- Segregation Review Board
+- Sodexo
+- The Independent
 ---
 
 Almost 50 people have died in segregation in Britain’s prisons over the past decade, *The Independent* can reveal, as governors face calls to stop putting vulnerable inmates in isolation.

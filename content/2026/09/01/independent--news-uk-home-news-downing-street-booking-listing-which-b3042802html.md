@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Film & TV
+locations:
+- Downing Street
+- London
+- UK
+people:
+- Larry The Cat’
+- Rory Boland
+organisations:
+- Booking.com
+- Booking.com’s
+- Houses of Parliament
+- Ofcom
 ---
 
 Booking.com has been accused of "systemic security failures" by a consumer watchdog after the online platform allowed a fraudulent advertisement for 10 Downing Street to accept reservations and process payments.

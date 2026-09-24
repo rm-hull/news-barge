@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abe/live/928bf9e0-b5ae-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Republic of Ireland
+people:
+- Graham Doyle
+organisations:
+- DPC
+- Data Protection Commission
+- EEA
+- EU
+- European Economic Area
+- European Union
+- GDPR
+- General Data Protection Regulation
+- Google
 ---
 
 ![The word 'Google' is stuck to a plain wooden surface, the letters in simple font and in block colours blue, red, yellow and green. ](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6abe/live/928bf9e0-b5ae-11f1-8d1d-a985658d9d3a.jpg)

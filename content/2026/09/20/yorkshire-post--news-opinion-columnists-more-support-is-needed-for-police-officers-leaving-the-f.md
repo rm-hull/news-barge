@@ -16,6 +16,13 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNkZjdlYmI1LWQ4MTctNGM2MS05Y2NiLTVjOTlmMjVkOTRjYjpkNmJkMDlkNi02YTEwLTRjYjgtOGI4ZC0zYzA3OWE3M2Q2YjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- UK
+people:
+- James Hardisty
+- Ria Vaportzis
+organisations:
+- University of Bradford
 ---
 
 # More support is needed for police officers leaving the force - Dr Ria Vaportzis

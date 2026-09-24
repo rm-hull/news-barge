@@ -13,6 +13,32 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Cold Bath Road
+- Harrogate
+- Knaresborough
+- North Bar
+- Westmoreland Coffee House
+- Westmoreland Street
+people:
+- Andy Burnham
+- Leda
+- Louise Haigh
+- Tom Gordon
+- Tom Kerridge
+organisations:
+- Fat Badger
+- Harrogate
+- Harrogate's
+- House of Commons
+- Knaresborough
+- Lib Dem
+- Liberal Democrat
+- MP
+- North Bar
+- The Problem
+- Westmoreland Coffee House
+- White Hart Hotel
 ---
 
 # Harrogate's 'friendliest coffee house’ praised in the House of Commons

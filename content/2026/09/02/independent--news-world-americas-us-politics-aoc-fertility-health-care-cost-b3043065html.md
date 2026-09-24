@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- California
+- Canada
+- D-Ill.
+- D-N.Y.
+- France
+- New York City
+- Spain
+- U.S.
+- UK
+- United States
+people:
+- Alexandria Ocasio-Cortez
+- Donald Trump
+- Lauren Underwood
+- Sara Jacobs
+organisations:
+- AOC
+- Alexandria Ocasio-Cortez
+- Congress
+- EMD Serono
+- HSA
+- House
+- IVF
+- Instagram
+- Senate
+- The Independent
+- TrumpRX
+- Underwood’s Health Coverage
 ---
 
 After chronicling the process for freezing her eggs, Rep. Alexandria Ocasio-Cortez is joining an effort to make fertility and family planning treatments far more affordable.

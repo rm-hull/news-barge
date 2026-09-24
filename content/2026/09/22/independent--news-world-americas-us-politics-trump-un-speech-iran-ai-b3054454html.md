@@ -13,6 +13,41 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/15/2296029632..?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- China
+- France
+- Gaza
+- Gulf of America
+- Iran
+- Islamic Republic
+- Lake Ontario
+- Louisiana
+- Memphis
+- Middle East
+- New Orleans
+- South Korea
+- Tennessee
+- U.K.
+- U.S.
+- Ukraine
+- United States
+- Washington, D.C.
+people:
+- AI
+- Donald Trump
+- Mark Rutte
+- Melania Trump
+organisations:
+- International Criminal Court
+- PTA
+- State of the Union
+- Trump
+- UN General Assembly
+- UN Security Council
+- UNESCO
+- UNGA
+- United Nations
 ---
 
 Nobody had high hopes for Trump’s speech at the UN General Assembly, and as the president ambled out to the lectern and tiredly began ranting about how “I can report to you with pride that America is back and our country is better than ever before,” most diplomats and journalists alike settled in for a proto-rally.

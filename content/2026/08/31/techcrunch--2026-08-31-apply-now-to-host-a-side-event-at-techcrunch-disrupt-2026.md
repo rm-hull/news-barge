@@ -11,6 +11,12 @@ image: https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Bay Area
+- Moscone West
+- San Francisco
+people: []
+organisations: []
 ---
 
 We’re getting close to TechCrunch Disrupt 2026! From October 13-15, more than 10,000 innovators, founders, investors, and industry leaders will attend our event in San Francisco’s Moscone West, but the community gathering in the Bay Area stretches beyond those three days.

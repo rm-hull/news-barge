@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - History
 - Sports
+locations:
+- Belfast
+- Estonia
+- Germany
+- Ireland
+- Netherlands
+- Paris
+- Ulster
+people:
+- Eimear Savage
+- Ethan Cole
+- Ethan?
+- Gareth Annesley
+organisations:
+- BBC News NI
+- Eiffel Tower
+- Ethan
+- Strand Chess Club
 ---
 
 ![Ethan Cole is a boy with dark hair and wearing a blue polo shirt. He is holding a trophy and smiling to the camera with his back to a white wall](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/cb7f/live/cea34bc0-ad3b-11f1-85f8-e90160a10ad0.jpg)

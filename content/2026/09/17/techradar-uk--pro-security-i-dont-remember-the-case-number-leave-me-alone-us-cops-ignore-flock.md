@@ -11,6 +11,29 @@ image: https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f-2560-80.jpg
 categories:
 - Technology & Software
 - True Crime
+locations:
+- Columbus
+- Flock
+- Florida
+- Indiana
+- Lake County
+- Ohio
+- Texas
+- US
+people:
+- Benedict Collins
+organisations:
+- AI
+- ALPR
+- APT
+- Anthropic
+- BUCSIS
+- EFF
+- Electronic Frontier Foundation
+- Google News
+- Pentagon
+- TechRadar Pro
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![A flock camera in front of a blue sky](https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f.jpg) 

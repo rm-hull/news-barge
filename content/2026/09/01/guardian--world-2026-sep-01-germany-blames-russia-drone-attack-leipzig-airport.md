@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Berlin
+- Bonn
+- Bulgaria
+- Europe
+- Finland
+- Germany
+- Halle
+- Italy
+- Leipzig
+- Mecklenburg Vorpommern
+- Moscow
+- Nord Stream
+- North
+- Poland
+- Romania
+- Russia
+- Russian Federation
+- Saxony-Anhalt
+- Sweden
+- UK
+- Ukraine
+people:
+- Alexander Dobrindt
+- Friedrich Merz
+- Johann Wadephul
+- Konstantin von Notz
+- Maria Zakharova
+- Mark Rutte
+- Roderich Kiesewetter
+- Ursula von der Leyen
+- Vladimir Putin
+- von der Leyen
+organisations:
+- Alternative für Deutschland
+- Antonov
+- Bild Zeitung
+- Christian Democratic Union
+- EU
+- European Commission
+- Green
+- House
+- Interfax
+- Nato
+- RND
 ---
 
 The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks.

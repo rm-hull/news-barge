@@ -12,6 +12,40 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Botswana
+- Brazil
+- Colombia
+- Cuba
+- Egypt
+- Ghana
+- India
+- Jordan
+- Kenya
+- Kharkiv
+- Kremlin
+- Moscow
+- Nepal
+- New Delhi
+- Pyongyang
+- Russia
+- Sierra Leone
+- Somalia
+- South Africa
+- Sri Lanka
+- US
+- Ukraine
+people:
+- Dmitry Peskov
+- Evans Kibet
+- Musalia Mudavadi
+organisations:
+- Amnesty International
+- Defence Ministry
+- EU
+- European Parliament
+- Labour
+- Treatment of Prisoners of War
 ---
 
 ## In a new report, human rights advocates say that in many cases the recruitment of foreigners into Russia's army amounts to the crime of human trafficking.

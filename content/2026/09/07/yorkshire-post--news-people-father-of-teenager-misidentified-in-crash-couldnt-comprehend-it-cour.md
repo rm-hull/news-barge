@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - True Crime
+locations:
+- Doncaster Coroner’s Court
+- Rotherham Mortuary
+- Royal Hallamshire Hospital
+- Sheffield
+- South Yorkshire Police
+- Todwick Road
+people:
+- Andy Knowles
+- Colin McFarlane
+- Joe Binley
+- Joshua Johnson
+- Lee Johnson
+- Miss Scott
+- Nicola Mundy
+- Peter Gallagher
+- Summer Louise Scott
+- Trevor Wynn
+organisations:
+- College of Policing
+- IOPC
+- Independent Office for Police Conduct
+- Independent Office of Police Conduct
+- Rotherham
+- Toyota
 ---
 
 # Father of teenager misidentified in crash ‘couldn’t comprehend it’, court told

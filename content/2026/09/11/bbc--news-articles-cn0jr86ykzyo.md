@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Sports
 - True Crime
+locations:
+- Bromley High Street
+people: []
+organisations:
+- BBC London
+- BBC Radio London
+- KFC
+- Met Police
 ---
 
 ![Two people, a man and a woman, dressed in light blue overalls looking down towards the ground.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7388/live/a1feaae0-adba-11f1-a1fc-c76e930e8813.jpg)

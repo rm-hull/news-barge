@@ -13,6 +13,19 @@ image: https://images.euronews.com/articles/stories/09/91/59/93/1200x675_cmsv2_4
 categories:
 - Europe
 - News & Politics
+locations:
+- Japan
+- Lebanon
+- Paris
+people:
+- Carlos Ghosn
+- Rachida Dati
+- Renault-Nissan
+organisations:
+- European Parliament
+- RNBV
+- Renault
+- Renault-Nissan
 ---
 
 ## Former minister and MEP Rachida Dati is on trial in Paris in the Renault-Nissan case, accused of corruption and influence peddling after taking €900,000 from a group subsidiary for counseling. Carlos Ghosn is being tried in the same case in absentia.

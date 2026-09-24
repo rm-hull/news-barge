@@ -12,6 +12,26 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Duchy Road
+- England
+- Harrogate
+- Manchester’s Bridgewater Hall
+- St Wilfrid’s Church
+people:
+- Adele
+- Ben
+- Justin Timberlake
+- Laura Bennett-Gornall
+- Stevie Wonder
+organisations:
+- Fleetwood Mac
+- Liverpool Institute for Performing Arts
+- Local Vocals
+- North West Cancer Research
+- Oasis
+- Take That
+- The Human League
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c7908d1b15c55c5.jpg) 

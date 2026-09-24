@@ -13,6 +13,34 @@ categories:
 - UK
 - True Crime
 - Film & TV
+locations:
+- '![Street'
+- Cambourne
+- Cambridgeshire
+- Daniel Leal-Olivas
+- Huntingdon
+- Old Bailey
+- PA
+- Street
+people:
+- '![Street'
+- Anne Whyte KC
+- Jennifer Dempster KC
+- Josh Williams
+- Joshua Williams
+- Lisa Rose
+- Mark Lucraft KC
+- Paul Street
+- Robert Morris
+- Robiul Islam
+- WhatsApp
+organisations:
+- BBC
+- Cambridgeshire Constabulary
+- Channel 4
+- Crown Prosecution Service
+- Ex-Cambridgeshire Constabulary
+- Street
 ---
 
 A disgraced celebrity police officer who established a "toxic" environment on WhatsApp has been sentenced to four years in prison after requesting an intimate video of a female suspect.

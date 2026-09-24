@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Connecticut
+- D.C
+- Democratic House
+- Illinois
+- Massachusetts
+- Mexico
+- New York
+- Ohio
+- Rose Garden
+- Trump
+- U.S. Capitol
+- Washington
+- White House
+people:
+- Brad Schneider
+- Donald Trump
+- Greg Landsman
+- Hakeem Jeffries
+- Jared Kushner
+- Jay Clayton
+- Jim Himes
+- Lori Trahan
+- Marie Gluesenkamp Perez
+- Rep.e Alexandria Ocasio-Cortez
+- Stephen Miller
+- Tom Suozzi
+- Tulsi Gabbard
+organisations:
+- Blue Dog Caucus
+- Congress
+- House Intelligence Committee
+- House of Representatives
+- National Intelligence
+- Senate
+- The Independent
+- The New York Times
+- Trump
 ---
 
 Last month, House Minority Leader Hakeem Jeffries came under significant fire after *The New York Times* reported that he met with President Donald Trump’s son-in-law Jared Kushner. It particularly irritated some Democrats because Democrats hope to investigate Kushner and the rest of the Trump family, particularly looking into any ways they benefited financially from their closeness to the president. 

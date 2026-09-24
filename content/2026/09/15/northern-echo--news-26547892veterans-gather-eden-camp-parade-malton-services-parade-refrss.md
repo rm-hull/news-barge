@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Eden Camp
+- Malton
+- Nepal
+- North Yorkshire
+- North Yorkshire Gurkha
+- UK
+people:
+- Jo Peirson
+- Nick Hill
+organisations:
+- Eden Camp
+- Last Post
+- Standards
+- Yorkshire Volunteers Marching Band
 ---
 
 *(Image: Jo Peirson)*

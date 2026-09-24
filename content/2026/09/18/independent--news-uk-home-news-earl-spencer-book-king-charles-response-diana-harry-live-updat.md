@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Buckingham Palace
+- London
+- Mayfair
+- PA
+- Wales
+people:
+- Aaron Chown
+- Catherine
+- Charles III
+- Diana
+- Earl Spencer
+- Elizabeth II
+- Harry
+- James MacMillan
+- Jennie Bond
+- King Charles
+- Laura Weir
+- Morgane Halimi
+- Robert Fellowes
+- William
+organisations:
+- Daily Mail
+- Duke of Sussex
+- Dumfries House
+- Sotheby’s
+- Tolu Coker
 ---
 
 The late Queen offered to restore Diana’s HRH title on the day of her funeral, Earl Spencer has claimed.

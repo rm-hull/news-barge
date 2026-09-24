@@ -11,6 +11,38 @@ image: https://static.independent.co.uk/2026/09/01/20/1422321173..?trim=0,1,0,1&
 categories:
 - News & Politics
 - UK
+locations:
+- Arizona
+- Oregon
+- US
+people:
+- Christina Davidson
+- Donald Trump
+- Robert F. Kennedy Jr.
+- Sandra Fryhofer
+- Sarah Nosal
+organisations:
+- AAFP
+- ACOG
+- AMA
+- American Academy of Family Physicians
+- American Academy of Pediatrics
+- American College of Obstetricians and Gynecologists
+- American Medical Association
+- CDC
+- Centers for Disease Control and Prevention
+- FDA
+- Food and Drug Administration
+- Infectious Diseases Society of America
+- JAMA
+- Moderna
+- Novavax
+- Pfizer
+- Sanofi
+- Trump
+- University of Minnesota
+- Vaccine Integrity Project
+- Walgreens
 ---
 
 Prominent US medical organizations are encouraging the public to get updated influenza and COVID-19 shots this fall, joining forces Wednesday to publish vaccination guidelines and explain the supporting science to clear up confusion over the Trump administration's changing guidance.

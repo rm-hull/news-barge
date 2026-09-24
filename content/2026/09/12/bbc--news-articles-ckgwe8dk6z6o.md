@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Self-Improvement
+locations:
+- UK
+people:
+- Aditi Desai
+- Ella
+- Prof Frank Lobbezoo
+- Rahi Popat
+- Riaz Yar
+- Simon Cove
+organisations:
+- BBC
+- BSDSM
+- British Association for Counselling and Psychotherapy
+- British Dental Association
+- British Society of Dental Sleep Medicine
+- NHS
+- OSA
 ---
 
 ![Jaw pain after waking up or sleeping - Bruxisum, teeth grinding - stock photo](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7bfa/live/afda27d0-ad1e-11f1-b1d1-571ed4d7ff2c.jpg)

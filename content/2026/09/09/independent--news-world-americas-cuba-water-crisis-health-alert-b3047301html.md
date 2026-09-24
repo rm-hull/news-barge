@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Angola
+- Caribbean
+- Cuba
+- La Guarida
+- Old Havana
+- U.S.
+- US
+- United States
+people:
+- Armando Lafita
+- Bruno Rodríguez
+- Dianne Tamayo
+- Donald Trump
+- Felicó Riverón
+- José Laó Faviel
+- José Manuel Borroto Díaz
+- Lázaro Alfonso Oviedo
+- Oscar Joaquín López
+- Teresita del Rosario González Ricardo
+- Wilfredo Cisneros Duarte
+- Yomeidis Felicó Riverón
+organisations: []
 ---
 
 Cubans have painted a grim picture of daily life as multiple crises affecting the island nation worsen, with locals forced to rummage through trash for food and sleep on the street to survive.

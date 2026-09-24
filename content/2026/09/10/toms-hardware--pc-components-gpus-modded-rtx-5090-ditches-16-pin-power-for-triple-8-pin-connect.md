@@ -11,6 +11,19 @@ image: https://cdn.mos.cms.futurecdn.net/4pk3zA6rRHSUmT43HstFU4-1920-80.png
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Kunal Khullar
+- Tom
+organisations:
+- GPU
+- Google News
+- PCB
+- PCI Special Interest Group
+- PCI-SIG
+- TecLab
+- Tom’s Hardware
+- YouTube
 ---
 
 ![A modified Galax RTX 5090 graphics card with triple 8-pin PCIe power connectors](https://cdn.mos.cms.futurecdn.net/4pk3zA6rRHSUmT43HstFU4.png) 

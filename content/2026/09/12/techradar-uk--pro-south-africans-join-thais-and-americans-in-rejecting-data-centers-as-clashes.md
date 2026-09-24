@@ -12,6 +12,27 @@ categories:
 - Technology & Software
 - News & Politics
 - Society & Culture
+locations:
+- Cape Town
+- South Africa
+- Thailand
+- United States
+people:
+- Cyril Ramaphosa
+- Eileen Carter
+- Pitso Tsibolane
+- Sasha Booth-Beharilal
+organisations:
+- Amazon
+- Efosa
+- Equinix
+- Eskom
+- Google News
+- Internet Service Providers Association
+- Microsoft
+- South African Human Rights Commission
+- TechRadar Pro
+- University of Cape Town
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

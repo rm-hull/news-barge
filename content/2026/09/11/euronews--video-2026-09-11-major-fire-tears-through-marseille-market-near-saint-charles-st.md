@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Marché du Soleil
+- Marseille
+- Saint-Charles
+people: []
+organisations: []
 ---
 
 A major fire broke out early Thursday at the Marché du Soleil in Marseille, a large market near Saint-Charles station known for selling counterfeit goods.

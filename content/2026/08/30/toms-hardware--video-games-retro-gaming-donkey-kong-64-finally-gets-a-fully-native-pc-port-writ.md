@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations:
+- Vimm's Lair
+people:
+- Claude
+- Hassam Nasir
+- Tom
+organisations:
+- GitHub
+- Google News
 ---
 
 ![Donkey Kong 64: Recompiled](https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh.png) 

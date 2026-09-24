@@ -12,6 +12,25 @@ categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+locations:
+- Arkendale Livery
+- Boroughbridge
+- Ferrensby
+- Forest
+- Harrogate
+- Knaresborough
+- North Yorkshire
+- Padel Farm
+- Poplars Farm
+- Poplars Storage
+- Sutton
+people:
+- Andy
+- HG5 Padel
+- Ione Cumming
+organisations:
+- Cummings
+- HG5 Padel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9699d8e8f3fa8e1b9.jpg) 

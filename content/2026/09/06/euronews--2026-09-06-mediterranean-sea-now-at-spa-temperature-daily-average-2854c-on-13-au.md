@@ -13,6 +13,20 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Cyprus
+- Larnaca
+- Mediterranean Sea
+- Spain
+people:
+- Aemet
+- Fisherman Photis Gaitanos
+organisations:
+- Aemet
+- Copernicus
+- Mercator Ocean
+- Mercator Ocean International
+- State Meteorological Agency
 ---
 
 ## On 13 August the Mediterranean averaged 28.54°C, its highest level since comparable records began in 1940, Aemet reports, capping a summer with the warmest July on record at sea and in mainland Spain.

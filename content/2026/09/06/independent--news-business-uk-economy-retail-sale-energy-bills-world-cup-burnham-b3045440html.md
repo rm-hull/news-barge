@@ -14,6 +14,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- England
+- UK
+people:
+- Andy Burnham
+- Thomas Pugh
+organisations:
+- G7
+- Investec
+- Office for National Statistics
+- Pantheon Macroeconomics
+- Pantheon Macroeconomics’ Robert Wood
+- RSM UK
 ---
 
 Economists have warned that the UK economy is likely to have experienced a slight dip in July due to pressure from sluggish retail activity and higher energy costs for households.

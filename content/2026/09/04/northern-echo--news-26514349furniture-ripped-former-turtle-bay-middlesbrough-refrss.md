@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Food & Cooking
 - Lifestyle & Fashion
+locations:
+- Corporation Road
+- Durham
+- Hartlepool
+- Leeds
+- Middlesbrough
+- Newcastle
+- Newgate Street
+- THE NORTHERN ECHO
+- The Light
+- The Riverwalk
+- Turtle Bay
+- UK
+people:
+- Ajith Jayawickrema
+- Morgan Whittaker
+organisations:
+- Boro
+- Brighton
+- CVA
+- JD Sports
+- Piper
+- THE NORTHERN ECHO
+- Turtle Bay
 ---
 
 *(Image: THE NORTHERN ECHO)*

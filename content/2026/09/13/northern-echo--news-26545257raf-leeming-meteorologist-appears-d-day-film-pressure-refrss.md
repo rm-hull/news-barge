@@ -14,6 +14,34 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Borehamwood
+- Buckinghamshire
+- Mentmore Towers
+- Normandy
+- North Yorkshire
+- RAF
+- UK
+- US
+people:
+- Andrew Scott
+- Bean
+- Bill Shiel Dods
+- Brendan Fraser
+- Crick
+- Irving P Krick
+- James Stagg
+- Rowan Atkinson
+- Shiel Dods
+- Ted Lasso
+organisations:
+- AS1 Richard Dilworth
+- Allied
+- County Durham
+- Group
+- Met Office
+- RAF LEEMING
+- RAF Leeming
 ---
 
 *(Image: RAF LEEMING)*

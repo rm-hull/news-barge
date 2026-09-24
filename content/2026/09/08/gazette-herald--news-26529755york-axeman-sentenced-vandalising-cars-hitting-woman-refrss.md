@@ -13,6 +13,12 @@ categories:
 - Harrogate
 - York
 - Society & Culture
+locations:
+- Cemetery Road
+- York
+people:
+- Kevin Jackson
+organisations: []
 ---
 
 *(Image: LDRS)*

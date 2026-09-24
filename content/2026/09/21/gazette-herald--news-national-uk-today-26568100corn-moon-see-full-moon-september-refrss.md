@@ -13,6 +13,14 @@ categories:
 - York
 - Science
 image: https://www.gazetteherald.co.uk/resources/images/21481553.jpg?type=og-image
+locations:
+- London
+- UK
+people: []
+organisations:
+- Corn Moon
+- RMG
+- Royal Museums Greenwich
 ---
 
 *(Image: Getty)*

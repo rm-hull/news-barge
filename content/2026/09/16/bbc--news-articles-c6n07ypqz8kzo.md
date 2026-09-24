@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Science
+locations:
+- AI
+people:
+- Claude
+- Dario Amodei
+- Mustafa Suleyman
+- Wendy Hall
+organisations:
+- AI Code of Conduct
+- AIs
+- Anthropic
+- BBC
+- Microsoft
+- OpenAI
+- University of Southampton
 ---
 
 ![Microsoft's head of AI, Mustafa Suleyman, on stage and wearing a cream top with a collar and a white t-shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg)

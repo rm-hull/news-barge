@@ -14,6 +14,18 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Amazon
+- U.S.
+people:
+- Udit Madan
+organisations:
+- Amazon
+- Amazon.com
+- Day 1 Financial
+- First Tech Federal Credit Union
+- Whole Foods Market
+- Whole Foods Market Online
 ---
 
 Amazon is raising starting wages for some workers and giving all U.S. employees new grocery discounts and access to a banking benefit.

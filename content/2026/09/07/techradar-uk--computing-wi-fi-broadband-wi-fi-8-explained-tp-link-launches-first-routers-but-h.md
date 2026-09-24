@@ -11,6 +11,16 @@ description: Wi-Fi 8 offers a whole lot of performance benefits over Wi-Fi 7, bu
 image: https://cdn.mos.cms.futurecdn.net/nUotAbxW2PuwN5VqNBLo9W-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- DSO
+- Google News
+- Hachette UK
+- IFA
+- NPCA
+- TP-Link Archer
+- Wi-Fi 8
 ---
 
 ![The TP-Link Archer 8 Ultra router shown on a table next to a laptop, next to the TP-Link Deco 8 Ultra mesh router unit placed on a wooden cabinet in a living room](https://cdn.mos.cms.futurecdn.net/nUotAbxW2PuwN5VqNBLo9W.jpg) 

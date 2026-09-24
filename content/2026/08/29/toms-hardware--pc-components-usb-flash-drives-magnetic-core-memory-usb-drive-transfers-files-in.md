@@ -11,6 +11,18 @@ image: https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Jay Forrester
+- Mark Tyson
+- Nao
+- Tom
+organisations:
+- Google News
+- MIT
+- Nao
+- Notepad
+- Tom's Hardware
 ---
 
 ![PC-to-PC USB magnetic core memory tests.](https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn.jpg) 

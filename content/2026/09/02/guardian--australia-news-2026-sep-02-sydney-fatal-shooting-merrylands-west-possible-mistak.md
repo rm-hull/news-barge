@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bondi
+- Campbelltown
+- Glen Alpine
+- Merrylands West
+- New South Wales
+- Sydney
+people:
+- Alameddine
+- Chris Baghsarian
+- Gretchen Atkins
+- Kellie Sloane
+- Marco Tapia
+- Simon Glasser
+- Yasmin Catley
+organisations:
+- Coconut Cartel
+- NSW
+- Vaucluse
 ---
 
 New South Wales police are investigating the shooting death of a man in Sydney’s west as a potential case of mistaken identity, marking the second fatal shooting incident in as many days.

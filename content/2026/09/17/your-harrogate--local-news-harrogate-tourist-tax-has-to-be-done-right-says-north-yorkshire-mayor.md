@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg
+locations:
+- Castle Division
+- Helmsley
+- North Yorkshire
+- Scarborough
+- York
+people:
+- Angela Rayner
+- Cllr Jefferson
+- David Skaith
+- Janet Jefferson
+organisations:
+- Government
+- Hospitality Association York
+- Labour
+- North Yorkshire Combined Authority
+- North Yorkshire Independent
+- Overview and Scrutiny Committee
+- Policy Lab
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg)

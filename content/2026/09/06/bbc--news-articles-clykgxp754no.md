@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Leeds
+- UK
+- Wales
+people:
+- Carla Denyer
+- Mothin Ali
+organisations:
+- BBC
+- Companies House
+- Green Party
+- Green Party of England
+- Greens
+- Houses of Parliament.
+- MA Holdings
+- Politics Essential
+- Times
 ---
 
 ![Mothin Ali looking to his right, wearing a beige suit jacket with a green and white scarf draped over his right shoulder](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0af4/live/1fdfa5d0-a9ed-11f1-a291-b542ee92de7c.jpg)

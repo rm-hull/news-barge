@@ -10,6 +10,20 @@ description: The Romo 2's uses DJI's drone expertise to deliver precise navigati
 image: https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- IFA
+- US
+people:
+- Giger
+- Romo
+- Ruth Hamilton
+organisations:
+- Apple
+- DJI Home
+- Google News
+- IFA
+- Ruth
+- TechRadar
 ---
 
 ![DJI Romo 2 robot vacuum in reviewer's home](https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC.jpg) 

@@ -13,6 +13,18 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- County Durham
+- Great Britain
+- Northern Ireland
+- UK
+people:
+- Amanda Owen
+- Eric Bramlett
+- Raven
+organisations:
+- Bramlett Residential
+- Energy Saving Trust
 ---
 
 Energy bills are set to rise again from October with the energy price cap increasing by 4%.

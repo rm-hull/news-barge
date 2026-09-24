@@ -13,6 +13,18 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- '## India'
+- New Delhi
+- Phuket
+- Thailand
+people: []
+organisations:
+- AAIB
+- Air India
+- Aircraft Accident Investigation Bureau
+- Co-Pilot
+- PIC
 ---
 
 ## India's Aircraft Accident Investigation Bureau said the aircraft detected a triple-hydraulic failure, with the autopilot disengaging and a stall warning triggered for two seconds.

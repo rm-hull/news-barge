@@ -13,6 +13,19 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Midlands
+- Nottingham
+- Yorkshire
+people:
+- Darren Winter
+- Doughnotts
+- Meg Scaddan
+- Wade Smith
+organisations:
+- Doughnotts
+- Doughnotts’
+- Frasers Plus Designer Outlet Leeds
 ---
 
 *(Image: Supplied)*

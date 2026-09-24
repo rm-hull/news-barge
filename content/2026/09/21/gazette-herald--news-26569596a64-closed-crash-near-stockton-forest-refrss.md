@@ -13,6 +13,17 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/17956606.jpg?type=og-image
+locations:
+- Forest
+- North Lane
+- Stockton
+- York
+people: []
+organisations:
+- A64
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- The Press
 ---
 
 *(Image: North Yorkshire Police)*

@@ -15,6 +15,19 @@ categories:
 - News & Politics
 - Society & Culture
 - Family & Parenting
+locations:
+- Barnes’
+- Charles Street
+- Easington Colliery
+people:
+- Chris Morrison
+- Kenneth Barnes
+- Mark McKone
+- Ralf Xhepa
+organisations:
+- Durham Constabulary
+- Durham Crown Court
+- Probation Service
 ---
 
 *(Image: Durham Constabulary)*

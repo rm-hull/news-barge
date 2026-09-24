@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/27572261a546b2ec182112bcc3c0d9fff0614056/1675_603_4617_3694/master/4617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=902daefb1b1b7047d46f680400d46b54
+locations:
+- Delaware
+- Ellendale
+- Georgetown
+- Maryland
+- Salisbury
+people:
+- Santos Maria Chilel Soto
+- Walter Moorhead
+organisations:
+- IHEA
+- International Hunter Education Association
 ---
 
 A Maryland hunter was recently jailed on suspicion of manslaughter after he allegedly fatally shot a woman whom he mistook for a deer, according to authorities in Delaware.

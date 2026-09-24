@@ -13,6 +13,33 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- America
+- Canada
+- Davos
+- Europe
+- France
+- Ottawa
+- Strasbourg
+- U.S.
+- US
+- United States
+- Washington
+- White House
+people:
+- '## Trump'
+- Donald Trump
+- Jonathan Wilkinson
+- Mark Carney
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- CETA
+- EU Commission
+- European Parliament
+- European Union
+- State of the European Union
 ---
 
 ## Trump on Wednesday warned he would impose heavy tariffs on Europe if he judged the bloc's intentions to be unfavourable, while leaving the door open if they were not.

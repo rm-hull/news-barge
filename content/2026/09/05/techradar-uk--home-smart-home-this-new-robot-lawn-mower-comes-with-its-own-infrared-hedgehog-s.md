@@ -10,6 +10,19 @@ description: The Anthbot R7 uses an extending trimmer to tackle edges
 image: https://cdn.mos.cms.futurecdn.net/q6ApnVZSuDZF6VBuTFdrNE-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Anthbot
+- AstroTurf
+people:
+- Anthbot
+- Ruth Hamilton
+organisations:
+- Anthbot
+- Google News
+- IFA
+- Ruth
+- Segway Navimow
+- TechRadar
 ---
 
 ![Anthbot R7 Series lawnbot](https://cdn.mos.cms.futurecdn.net/q6ApnVZSuDZF6VBuTFdrNE.jpg) 

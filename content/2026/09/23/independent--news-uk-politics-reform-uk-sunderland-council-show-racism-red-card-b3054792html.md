@@ -12,6 +12,30 @@ categories:
 - UK
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/23/09/2240996632..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- North East
+- Sunderland
+- UK
+people:
+- Bridget Phillipson
+- Chris Eynon
+- Gareth Southgate
+- Gary Bennett
+- Ged Grebby
+- Harry Kane
+- Nick
+- Robert Jenrick
+- Yui Mok
+organisations:
+- LBC
+- Red Card
+- Reform UK
+- Reform UK Sunderland
+- Sunderland AFC
+- Sunderland City Council
+- The Guardian
+- Treasury
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

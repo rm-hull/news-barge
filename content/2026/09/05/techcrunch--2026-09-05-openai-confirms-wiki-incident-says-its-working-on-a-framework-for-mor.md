@@ -12,6 +12,20 @@ image: https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jp
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+- California
+people:
+- Jacob Steinhardt
+- Rob Bonta
+organisations:
+- AI
+- Anthropic
+- Hugging Face
+- Meta
+- OpenAI
+- Reuters
+- Transluce
 ---
 
 OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum. The company also said it’s “past time” to “define standards” around how it shares information around incidents where its technology behaves in unexpected ways.

@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Personal Finance & Investing
+locations:
+- UK
+people:
+- Baroness Coffey
+- Baroness Therese Coffey
+- Cardowan
+- James Manning
+- Lord Liddle
+- Lord Pitt-Watson
+- Lord Redwood
+- Lord Reid
+- Lord Tugendhat
+- Lord Turnbull
+organisations:
+- Conservative-Liberal Democrat
+- Labour
+- Lords
+- OBR
+- PA Wire
+- Treasury
 ---
 
 *(Image: James Manning/PA Wire)*

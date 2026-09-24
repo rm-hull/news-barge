@@ -14,6 +14,24 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- California
+- Kentucky
+people:
+- Bill Clinton
+- Bill Gates
+- Ghislaine Maxwell
+- James Comer
+- Jeffrey Epstein
+- Leon Black
+- Robert Garcia
+organisations:
+- Apollo Global Management
+- Congress
+- Epstein
+- House Oversight Committee
+- Justice Department
+- Oversight Committee
 ---
 
 The House Oversight Committee voted Tuesday to recommend that billionaire Leon Black be held in contempt of Congress for failing to comply with a subpoena for testimony in the investigation of Jeffrey Epstein.

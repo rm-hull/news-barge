@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- County Durham
+- Darlington
+- North East
+- UK
+people:
+- Martyn Kendrick
+organisations:
+- Cleveland Police
+- KFC
+- Lloyds Business Barometer
+- North East
 ---
 
 *(Image: Lloyds)*

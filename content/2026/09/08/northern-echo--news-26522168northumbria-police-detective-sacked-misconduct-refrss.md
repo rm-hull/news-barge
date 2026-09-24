@@ -14,6 +14,17 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations: []
+people:
+- Alastair Simpson
+- Christopher Hogg
+- DS Hogg
+organisations:
+- Durham Police
+- Ex-Durham
+- NORTHERN ECHO
+- NPICCS
+- Northumbria Police
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -11,6 +11,25 @@ description: In a briefing for the Poco F9 Ultra, Xiaomi sub-brand Poco explaine
 image: https://cdn.mos.cms.futurecdn.net/WshsojgHQVikdE4xD4L5b8-2000-80.jpg
 categories:
 - Technology & Software
+locations: []
+people:
+- Axel
+- Kang Lou
+- Olivia Jiang
+- Poco
+organisations:
+- Apple
+- Axel Metz
+- Esquire
+- F8 Ultra
+- F9
+- Google News
+- Poco Global As Poco
+- Qualcomm
+- Snapdragon
+- TechRadar
+- University of Warwick
+- Xiaomi
 ---
 
 ![The Poco F9 Ultra being held in the hand on a yellow background](https://cdn.mos.cms.futurecdn.net/WshsojgHQVikdE4xD4L5b8.jpg) 

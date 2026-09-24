@@ -12,6 +12,32 @@ categories:
 - Technology & Software
 - Science
 - Film & TV
+locations:
+- Brazil
+- Earth
+- Erewhon
+- Hollywood
+- Los Angeles
+- Miles
+- Norwood
+people:
+- Aaron Rodgers
+- Eline van der Velden
+- Hasan Piker
+- Leonardo DiCaprio
+- Martha Stewart
+- Miles
+- Roe
+- Tilly Norwood
+- Wade
+organisations:
+- AI
+- NFL
+- Norwood
+- Particle 6
+- Particle 6 Group
+- WIRED
+- Xicoia
 ---
 
 For Hollywood stars, press junkets are an opportunity to promote new work while connecting with fans. They tell funny or embarrassing stories about one another, give us a glimpse into the film production process, and reveal mannerisms that make them more relatable.

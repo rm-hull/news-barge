@@ -13,6 +13,30 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab18726d3445bdfbd468e18/191:100/w_1280,c_limit/Rabbit-is-Back-Gear-OS3_r1.jpg
+locations:
+- Amazon
+- India
+- Silicon Valley
+people:
+- AI
+- Jesse Lyu
+- Rabbit
+- Slack
+organisations:
+- Amazon
+- Best Buy
+- Excel
+- Hermes AI
+- Meta
+- Muse
+- OS3
+- OpenAI
+- OpenClaw
+- PC
+- R1
+- Rabbit
+- Telegram
+- WIRED
 ---
 
 Jesse Lyu doesn't think the Rabbit R1 was a flop.

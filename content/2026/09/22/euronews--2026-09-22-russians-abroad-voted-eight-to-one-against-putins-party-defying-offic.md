@@ -13,6 +13,46 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/21/75/1200x675_cmsv2_efc39fbf-fbde-5386-af37-e7265239bb47-9922175.jpg
+locations:
+- Armenia
+- Bern
+- Cyprus
+- Finland
+- Geneva
+- Germany
+- Helsinki
+- Kremlin
+- Switzerland
+- Ukraine
+- United Russia
+- Yerevan
+people:
+- Aleksandr Teplyakov
+- Alexei Navalny
+- Ella Pamfilova
+- Irina Kh
+- Ivan Zhdanov
+- Kaja Kallas
+- Milena
+- Vladimir Putin
+- Yabloko
+organisations:
+- Anti-Corruption Foundation
+- CEC
+- Central Election Commission
+- Communist Party
+- EU
+- Euronews
+- Foreign Ministry
+- LDPR
+- New People
+- Progress
+- State Duma
+- USSR Supporters of United Russia
+- United Russia
+- Vesna
+- Vote Abroad
+- Yabloko
 ---
 
 ## Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap "destroys the image of supposed support for the authorities."

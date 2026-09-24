@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- UK
+people:
+- Greggs
+- Stilton
+- Zoe Harris
+organisations:
+- Greggs Steak
+- Steak & Stilton
+- Stilton Bake
+- Stilton Insurance’
 ---
 
 *(Image: Getty Images)*

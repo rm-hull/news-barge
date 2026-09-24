@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://www.thenorthernecho.co.uk/resources/images/21480016.jpg?type=og-image
+locations:
+- Billingham
+- County Durham
+- Hartlepool High Street
+- North East
+- Stockton
+people:
+- Amanda Owen
+- Edith
+- Ravenseat
+organisations:
+- Cleveland Fire Brigade
+- Facebook
+- Verrills Fish Shop
+- Verrills’
 ---
 
 *(Image: GOOGLE MAPS)*

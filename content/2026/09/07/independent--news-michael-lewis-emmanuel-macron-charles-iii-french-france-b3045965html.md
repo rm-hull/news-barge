@@ -14,6 +14,35 @@ categories:
 - UK
 - History
 - Arts & Culture
+locations:
+- Bayeux
+- Britain
+- England
+- France
+- London
+- Normandy
+- U.K.
+people:
+- Andy Burnham
+- Big Ben
+- Bishop Odo
+- Charles III
+- David Hockney
+- Edward the Confessor
+- Emmanuel Macron
+- Halley
+- Harold Godwinson
+- Keir Starmer
+- Larry the
+- Leonie Hicks
+- Michael Lewis
+- William
+organisations:
+- British Museum
+- Canterbury Christ Church University
+- Canterbury Embroidery
+- Channel
+- Macron
 ---
 
 After a wait of almost 1,000 years and a journey of hundreds of miles, the Bayeux Tapestry 's big moment is here.

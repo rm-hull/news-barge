@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- Kent
+- UK
+- US
+- United Kingdom
+- United States
+people:
+- Breitbart
+- Donald Trump
+- Kanye West
+- Laura Loomer
+- Marjorie Taylor Greene
+- Milo Yiannopoulos
+organisations:
+- BBC
+- Black Lives Matter
+- Breitbart News
+- CPAC
+- DHS
+- Department of Homeland Security
+- Home Office
+- ICE
+- Immigration and Customs Enforcement
+- Louis Armstrong New Orleans International Airport
 ---
 
 ![DHS released an mugshot of Yiannopoulos after his arrest. He wears a black shirt and has facial hair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg)

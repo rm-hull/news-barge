@@ -10,6 +10,17 @@ description: These tiny mini PCs now pack 192GB RAM and enough power to run mass
 image: https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png
 categories:
 - Technology & Software
+locations: []
+people: []
+organisations:
+- '## Acemagic'
+- AMD
+- Efosa
+- F9A
+- Framework
+- GMKtec
+- Google News
+- TechRadar Pro
 ---
 
 ![Acemagic F9A](https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N.png) 

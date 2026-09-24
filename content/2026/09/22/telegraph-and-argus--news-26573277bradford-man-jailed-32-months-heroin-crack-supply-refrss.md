@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21489176.jpg?type=og-image
+locations:
+- Bradford
+- Great Horton Road
+- Kirkwall Drive
+- Seat Leon
+- West Yorkshire
+people:
+- Ahmed Nadim
+- Sohiel Shabir
+organisations:
+- Bradford Crown Court
+- Nokia
 ---
 
 *(Image: West Yorkshire Police)*

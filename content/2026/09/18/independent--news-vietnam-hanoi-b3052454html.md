@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Bui River
+- Da Bac
+- Hanoi
+- Hoi An
+- Hue
+- Ninh Binh
+- Phu Tho
+- Thanh Hoa
+- Vietnam
+people:
+- Bualoi
+- Kajiki
+organisations:
+- AP
+- Associated Press’
+- Hanoi University of Mining and Geology
 ---
 
 At least four people were killed after heavy rains, floods and landslides inundated more than 16,000 homes in northern and central Vietnam, authorities said Friday.

@@ -12,6 +12,29 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- Newcastle
+- Scarborough
+- Sea
+people:
+- Alison Carr
+- Catja Hamilton
+- Colin
+- Deborah
+- Hannah Sibai
+- Maria Crocker
+- Ms Crocker
+- Phil Corbitt
+- Roma Yagnik
+- Sarah Belcher
+- Ziad Jabero
+organisations:
+- All at Sea
+- Live Theatre
+- Newcastle’s Live Theatre
+- SJT
+- SPACE
+- Stephen Joseph Theatre
 ---
 
 ## New play inspired by infamous canoe man story coming to Scarborough

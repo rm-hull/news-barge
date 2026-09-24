@@ -14,6 +14,16 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/15/UN_General_Assembly_Trump_489_3.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Congo
+- Gaza
+- Iran
+- Myanmar
+- Sudan
+- Ukraine
+people: []
+organisations:
+- U.N
 ---
 
 Photos of world leaders confronting global crises at the U.N. General Assembl

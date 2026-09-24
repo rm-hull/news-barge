@@ -14,6 +14,64 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- America
+- Bandiana
+- Bradshaw
+- Canberra
+- China
+- Cyprus
+- Europe
+- Fremantle
+- Indian Ocean
+- Iran
+- Middle East
+- Mulwala
+- New South Wales
+- Northern Territory
+- Pacific
+- Pine Gap
+- Port Wakefield
+- Rockingham
+- South Australia
+- US
+- United States
+- Victoria
+- Washington
+- Western Australia
+- Wodonga
+people:
+- Albert Palazzo
+- Christopher Pyne
+- Donald Trump
+- Emma Shortis
+- Pete Hegseth
+- Richard Marles
+- Richard Tanter
+- Vince Scappatura
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- ADF
+- Aukus
+- Australia Institute
+- Australian Defence Force
+- Australian Defence Policy
+- Guardian Australia
+- HMAS Stirling
+- Lockheed Martin
+- Lowy Institute
+- Marles
+- Nautilus Institute
+- Nautilus Institute for Security and Sustainability
+- Northrop Grumman
+- Osprey
+- Pentagon
+- Pine Gap
+- The Guardian
+- The US Lobby
+- University of Melbourne
+- University of New South Wales Canberra
 ---
 
 US military interests control or have access to more than 100 defence facilities on Australian soil, in what some analysts describe as a “saturation” – even a “colonisation” – of the Australian continent.

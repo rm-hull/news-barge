@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- North Yorkshire
+- Osbornes Bar
+- Wellington Road
+- Whitby
+people: []
+organisations:
+- CCTV
 ---
 
 *(Image: North Yorkshire Police)*

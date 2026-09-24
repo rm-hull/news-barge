@@ -14,6 +14,11 @@ categories:
 - Harrogate
 - True Crime
 - News & Politics
+locations:
+- Harrogate District Hospital
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 # North Yorkshire Police launch investigation after large amount of cabling stolen overnight from Harrogate hospital

@@ -13,6 +13,24 @@ categories:
 - Personal Finance & Investing
 - Real Estate
 image: https://www.yorkpress.co.uk/resources/images/21479558.jpg?type=og-image
+locations:
+- Bellway
+- Beverley
+- Boroughbridge
+- Brigg
+- Brough
+- Harworth
+- Hoyland
+- Kirk Ella
+- Skellow
+- Skipton
+- Snaith
+people:
+- Melanie Smith
+- Simon Smith
+organisations:
+- Bellway Yorkshire
+- Home Builders Federation
 ---
 
 *(Image: Bellway)*

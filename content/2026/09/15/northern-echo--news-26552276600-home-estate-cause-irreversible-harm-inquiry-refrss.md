@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Crossways Roundabout
+- Dunedin House
+- Green Lane
+- Leven Bank
+- Mount Leven
+- Stockton West
+- Thornaby
+- YOUR
+- Yarm
+people:
+- George Underwood
+- John Hunter
+- Matt Vickers
+- Sasha White KC
+- Taylor Wimpey
+organisations:
+- ATE
+- Active Travel England
+- National Highways
+- Northern Powergrid
+- Public Notice Portal
+- Stockton Borough Council
+- TAYLOR WIMPEY
+- THE NORTHERN ECHO
 ---
 
 ### What is the Public Notice Portal?

@@ -12,6 +12,20 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJlNmVmZTg3LTg0Y2QtNGRkZS04ZDZiLTllN2Q5YjYyYThjNzoxMWRhM2VkOS1iYmQxLTRhYzgtYWY1Yy04YWE5NmYzMzg1ZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bewerley Park
+- Dalesbred
+- Pateley Bridge
+people:
+- Dalesbred
+- David Charnley
+- Tony Johnson
+organisations:
+- Nidderdale Show
+- Nidderdale Show Dalesbred
+- Nidderdale Show Visitors
+- Pateley Show’
+- Yorkshire Post
 ---
 
 Also known as ‘Pateley Show’, the event is a traditional Dales agricultural Show.

@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - True Crime
 - History
+locations:
+- Afghanistan
+- Syachow
+- Syahchow
+people:
+- Andrew Hastie
+- Anthony Besanko
+- Ben Roberts-Smith
+- PUC
+- Pauline Hanson
+- Person
+- Robert-Smith
+organisations:
+- One Nation
+- PUC
+- SAS
+- Victoria Cross
 ---
 
 “I don’t dislike Mr Roberts-Smith at all. I pity Mr Roberts-Smith. I pity this whole process. I don’t want to be here.”

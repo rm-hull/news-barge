@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Personal Finance & Investing
+locations:
+- Goldthorpe
+- Hoyland
+- Penistone Town Hall
+- Principal Towns
+- Royston
+- Wombwell
+people:
+- James Higginbottom
+- Marie Tidball
+- William Brown
+organisations:
+- Barnsley Council
+- Barnsley Labour
+- Penistone Paramount
+- Reform UK
+- Stocksbridge
 ---
 
 # More than 4,400 back campaign to reinstate £1.8m Penistone Paramount plans

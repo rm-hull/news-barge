@@ -13,6 +13,28 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2025/02/13/11/a27206caf92c9175cc14065c3eea4288Y29udGVudHNlYXJjaGFwaSwxNzM5NTMwNTc0-2.77175407.jpg?width=1200&height=800&crop=1200:800
+locations:
+- England
+- Italy
+- Japan
+- London
+- Norway
+- Spain
+- Switzerland
+- UK
+people:
+- Aidan Fowler
+- Baroness Merron
+- Martha Mills
+- Merope Mills
+- Paul Laity
+organisations:
+- Imperial College London
+- King’s College Hospital NHS Foundation Trust
+- Martha’s
+- NHS England
+- OECD
+- Organisation for Economic Co-operation and Development
 ---
 
 Patients, families and healthcare staff across England will soon find it much easier to request a second opinion as Martha’s Rule expands into hospital accident and emergency departments (A&Es).

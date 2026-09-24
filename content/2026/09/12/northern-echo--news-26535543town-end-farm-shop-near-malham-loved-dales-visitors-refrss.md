@@ -13,6 +13,24 @@ categories:
 - UK
 - News & Politics
 - Food & Cooking
+locations:
+- Airton
+- Amanda Owen The Yorkshire
+- Malham Cove
+- Malhamdale
+- Our Yorkshire Farm
+- Pennine Way
+- Town End
+- Yorkshire Dales
+people: []
+organisations:
+- Google
+- Post Office
+- Tearoom
+- The Yorkshire Dales
+- Town End Farm Shop
+- Tripadvisor
+- Yorkshire Dales
 ---
 
 *(Image: TRIPADVISOR)*

@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e814dac70cbcc331525841cd34235110
+locations:
+- Hugging Face
+people:
+- Bernie Sanders
+- Dario Amodei
+- Heather Adkins
+organisations:
+- AI
+- Anthropic
+- Gemini
+- Google
+- Guardian
+- Hugging Face
+- Irregular
+- OpenAI
+- WSJ
+- Wall Street Journal
 ---
 
 In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular.

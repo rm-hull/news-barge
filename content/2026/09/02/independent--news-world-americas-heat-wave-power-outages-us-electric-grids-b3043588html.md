@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Technology & Software
+locations:
+- Chicago
+- Mid-Atlantic
+- Midwest
+- Missouri
+- Ozark
+- St. Louis
+- Washington D.C
+- Washington D.C.
+people:
+- Chris Wright
+organisations:
+- DOE
+- Howell-Oregon Electric Cooperative
+- MISO
+- Midcontinent Independent System Operator
+- PJM Interconnection
+- U.S. Department of Energy
 ---
 
 Millions of homes and businesses across the Midwest and Mid-Atlantic face an increased threat of power outages on Wednesday as intense heat places severe strain on electricity networks.

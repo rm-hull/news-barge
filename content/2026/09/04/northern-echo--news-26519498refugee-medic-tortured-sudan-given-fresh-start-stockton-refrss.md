@@ -15,6 +15,35 @@ categories:
 - News & Politics
 - Health & Fitness
 - Business & Entrepreneurship
+locations:
+- County Durham
+- Darlington
+- Esk
+- Hartlepool
+- North East
+- North Tees
+- Saudi Arabia
+- Stockton
+- Sudan
+- Tees Valley
+- Teesside
+- UK
+- Wear Valleys
+people:
+- Ahmed Bakheet
+- Amerjit Chohan
+- Ezzeldin
+- Mo
+- Ramit Imtiaz
+- Refga
+organisations:
+- Essex
+- Helpforce Volunteer to Career
+- James Cook
+- NHS
+- South Tees Hospitals
+- University Hospital of North Tees
+- University Hospitals Tees
 ---
 
 A medic who was forced to flee Sudan after suffering persecution and torture has spoken of how a Teesside volunteering scheme offered him a fresh start.

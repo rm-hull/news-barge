@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Skipton
+- UK
+people:
+- Flagstone
+- Katie Horne
+- Ms Horne
+organisations:
+- Bank of England
+- Skipton Building Society
 ---
 
 *(Image: Pixabay)*

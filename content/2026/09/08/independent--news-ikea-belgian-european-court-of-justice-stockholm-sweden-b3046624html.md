@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Belgium
+people: []
+organisations:
+- ECJ
+- European Court of Justice
+- European Union
+- IKEA
+- Vlaams Belang
+- Vrijheidsfonds
 ---
 
 A far-right Belgian party was not entitled to use IKEA’s trademarks to promote an anti-immigration campaign and may have caused “significant detriment” to the furniture giant’s reputation, the European Union's highest court ruled on Tuesday.

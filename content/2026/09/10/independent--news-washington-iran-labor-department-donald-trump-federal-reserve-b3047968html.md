@@ -13,6 +13,17 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Canada
+- Iran
+- Middle East
+people:
+- Donald Trump
+organisations:
+- Fed
+- Federal Reserve
+- Labor Department
+- Trump
 ---
 
 Wholesale inflation picked up last month after cooling earlier this summer as higher oil and gas prices stemming from the Iran war are keeping costs elevated.

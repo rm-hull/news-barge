@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- AI
+people:
+- Donald Trump
+- Rubin
+organisations:
+- EPA
+- Get Tom's Hardware
+- IntelBrief
+- Microsoft
+- Soufan Center
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/iTfiVsnBuTP5SGz8ZVHzfP-320-80.jpg)

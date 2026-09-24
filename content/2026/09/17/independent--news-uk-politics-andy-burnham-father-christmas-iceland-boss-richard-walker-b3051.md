@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iceland
+- Iran
+- Middle East
+- UK
+people:
+- Andrew Bailey
+- Andy Burnham
+- Burrnham
+- Donald Trump
+- Father Christmas
+- John Healey
+- Keir Starmer
+- Lord Richard Walker
+- Lord Walker
+- Richard Walker
+organisations:
+- Bank of England
+- Budget
+- LBC
 ---
 
 The government’s former cost-of-living tsar had warned Andy Burnham must stop acting like “Father Christmas”, telling the prime minister that British businesses aren't a “piggy bank” to be raided.

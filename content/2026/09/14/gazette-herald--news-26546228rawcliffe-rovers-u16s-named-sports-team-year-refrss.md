@@ -14,6 +14,18 @@ categories:
 - York
 - Sports
 - Video Gaming
+locations:
+- York Racecourse
+- York Stadium
+people:
+- Gaz
+- Ryan
+organisations:
+- Brooklyn Lions
+- Rawcliffe Junior Football Club
+- Rawcliffe Rovers
+- Scalby
+- York College & University Centre
 ---
 
 The MOST successful team in a club’s history, which has championed grassroots football, has been presented with a prestigious award.

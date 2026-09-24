@@ -14,6 +14,33 @@ categories:
 - Science
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Capitol Hill
+- South Dakota
+people:
+- Andreessen Horowitz
+- Ben Horowitz
+- Brian Beng
+- Greg Brockman
+- Julian Beaudion
+- Marc Andreesen
+- Mike Rounds
+- Robert Skjonsberg
+organisations:
+- AI
+- Anthropic
+- Applied Digital
+- Congress
+- FEC
+- Gallup
+- Google
+- Meta
+- Microsoft
+- OpenAI
+- PAC Defend American Jobs
+- Politico
+- Rounds
+- Senate
 ---
 
 Major super PACs associated with AI labs and investors have poured close to $1 million into incumbent Republican Mike Rounds’s South Dakota senate race, seeking to shape the outcome of a noncompetitive race amid a critical national debate over AI regulation.

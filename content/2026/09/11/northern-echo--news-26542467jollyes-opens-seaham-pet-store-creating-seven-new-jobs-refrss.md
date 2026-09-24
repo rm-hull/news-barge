@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Byron Place Shopping Centre
+- County Durham
+- Paris
+- Seaham
+- UK
+people:
+- Janet Long
+- Jollyes
+- Milford Lingard
+- Molly
+- Pip
+- Ulrich
+- Vicky
+organisations:
+- JOLLYES
+- JOLLYES)* A
+- Jollyes
+- Jollyes’
+- NFRSA
+- National Foundation for Retired Service Animals
 ---
 
 An award-winning pet superstore has opened its doors in County Durham, creating seven new jobs.

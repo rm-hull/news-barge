@@ -11,6 +11,51 @@ image: https://static.independent.co.uk/2026/09/18/06/2026-09-17T201602Z_1694996
 categories:
 - News & Politics
 - UK
+locations:
+- Donetsk
+- Elysee Palace
+- Europe
+- France
+- Georgia
+- Iraq
+- Izmail
+- Kharkiv
+- Kremlin
+- Kyiv
+- Middle East
+- Moscow
+- Novovodolazhka
+- Odesa
+- Paris
+- Poland
+- Qatar
+- Russia-Ukraine
+- Saudi Arabia
+- Sevastopol
+- Strait of Hormuz
+- Ukraine
+- United Russia
+- Yaroslavl
+people:
+- Anatoliy Simonenko
+- Donald Tusk
+- Giorgia Meloni
+- Macron
+- Robert Fox
+- Tymur Tkachenko
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Bloomberg
+- Emmanuel Macron
+- Kremlin
+- Kyiv A
+- Kyiv Regional Military Administration
+- Ministry of Defence
+- Nato
+- Odesa
+- State Duma
+- The Independent
 ---
 
 Polish prime minister Donald Tusk says Russia is planning hybrid strikes with drones or missiles targeting Nato countries supporting Ukraine, potentially including Poland.

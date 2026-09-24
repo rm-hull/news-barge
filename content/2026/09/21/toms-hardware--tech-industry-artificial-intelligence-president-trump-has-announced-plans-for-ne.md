@@ -14,6 +14,40 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://cdn.mos.cms.futurecdn.net/TvjtM2Qm2ZXCJyBDABNkyR-1920-80.jpg
+locations:
+- AI
+- China
+- U.S.
+- Washington
+- White House
+people:
+- AI
+- Dario Amodei
+- David Sacks
+- Donald Trump
+- Etiido Uko
+- Jensen Huang
+- Sam Altman
+- Sundar Pichai
+- Tom
+- Xi Jinping
+organisations:
+- AI Czar
+- Anthropic
+- Etiido Uko
+- Google DeepMind
+- Google News
+- Microsoft
+- Nvidia
+- OpenAI
+- PC
+- Tom's Hardware
+- Trump
+- Truth Social
+- U.S. Space Force
+- UN
+- Venture
+- ex-OpenAI
 ---
 
 ![Trump pointing at a reporter for a question](https://cdn.mos.cms.futurecdn.net/TvjtM2Qm2ZXCJyBDABNkyR.jpg)

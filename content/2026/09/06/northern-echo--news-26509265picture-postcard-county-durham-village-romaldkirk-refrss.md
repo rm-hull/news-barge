@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- A County Durham
+- Barnard Castle
+- Church of St Romald
+- Church of St. Romald
+- County Durham
+- Historic County Durham
+- Middleton-in-Teesdale
+- North Pennines
+- Romaldkirk
+- Rose and Crown
+- Spennymoor
+- Stuart Boulton
+- Teesdale
+people:
+- Hannah Hauxwell
+- Jane Drew
+- Maxwell Fry
+- Romaldkirk
+- Thomas Page
+organisations:
+- Dales
+- High Force
 ---
 
 *(Image: Stuart Boulton)*

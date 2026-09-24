@@ -12,6 +12,37 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Arsenal
+- Newcastle
+people:
+- Amar Dedic
+- Anthony Gordon
+- Bruno Guimaraes
+- David Hopkinson
+- Eddie Howe
+- Jaissle Jaissle
+- Johan Manzambi
+- Lukas Hornicek
+- Matthias Jaissle
+- Nico Gonzalez
+- Ross Wilson
+- Sandro Tonali
+- Scot
+- Victor Munoz
+organisations:
+- Al-Ahli
+- Aston Villa
+- Barcelona
+- Bournemouth
+- Guimaraes
+- Liverpool
+- Magpies
+- Newcastle United
+- Newcastle Unitedsporting
+- Red Bull Salzburg
+- Tottenham Hotspur
+- Uefa
 ---
 
 ![Eddie Howe, wearing a black-and-white tracksuit stop, looks on before a Newcastle match](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e877/live/2efe0d10-aa90-11f1-ab09-7f2415c9a652.jpg)

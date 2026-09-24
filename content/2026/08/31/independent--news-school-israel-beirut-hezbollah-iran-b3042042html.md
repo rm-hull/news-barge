@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Beirut
+- Iran
+- Israel
+- Lebanon Lebanon
+- Mansouri
+- Tyre
+- U.S.
+people:
+- Fatima Khashab
+- Georgia Hachem
+- God
+- Malak Abu Sari
+- Nasser Yassin
+- Nora Ingdal
+- Randa al-Taki
+organisations:
+- Arab Center for Research and Policy Studies
+- Hezbollah
+- Save the Children
+- U.N.
 ---
 
 Eleven-year-old Fatima Khashab helps her mother tidy the small area where their family sleeps, in a row of makeshift living quarters in a school gymnasium.

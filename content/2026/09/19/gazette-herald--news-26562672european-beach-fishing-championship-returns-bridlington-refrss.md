@@ -13,6 +13,20 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21473546.jpg?type=og-image
+locations:
+- Bridlington
+- East Yorkshire
+- Europe
+- North Marine Promenade
+- Pilot Jetty
+- Sand-Le-Mere Holiday Park
+- Spurn Point
+- UK
+people:
+- Nick Coultish
+organisations:
+- East Riding of Yorkshire Council
+- Juniors
 ---
 
 *(Image: Supplied)*

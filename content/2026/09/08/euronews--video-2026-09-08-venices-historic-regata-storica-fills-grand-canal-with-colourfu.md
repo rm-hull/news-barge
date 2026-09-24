@@ -12,6 +12,12 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Grand Canal
+- Rialto Bridge
+- Venice
+people: []
+organisations: []
 ---
 
 Venice’s Grand Canal came alive on Sunday as historic boats sailed through the heart of the city for the annual Regata Storica.

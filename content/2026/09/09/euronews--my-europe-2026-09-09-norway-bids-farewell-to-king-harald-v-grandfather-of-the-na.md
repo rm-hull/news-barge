@@ -13,6 +13,40 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- Akershus Castle
+- Britain
+- Czech Republic
+- Europe
+- Finland
+- Germany
+- Japan
+- Jordan
+- Lutheran
+- Monaco
+- Norway
+- Oslo Cathedral
+- Spain
+people:
+- Abdullah II
+- Akishino
+- Albert
+- Allah
+- God
+- Gunn Johnsen
+- Haakon VIII
+- Harald V
+- Jeffrey Epstein
+- Kiko
+- Marius Borg Høiby
+- Mette-Marit
+- Sonja
+- Vigdis Simonsen
+- Volodymyr Zelenskyy
+- William
+organisations:
+- AFP
+- University of Oslo
 ---
 
 ## Norway's royal family, led by new King Haakon VIII, foreign royals, heads of state and dignitaries are taking part in the procession to Oslo's Lutheran cathedral on foot.

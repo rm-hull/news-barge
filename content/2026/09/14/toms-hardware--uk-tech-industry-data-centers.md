@@ -12,6 +12,21 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Argentina
+- California
+- Denver Water
+- El Reno
+- Oklahoma
+- Patagonia
+- Thailand
+- Virginia
+people: []
+organisations:
+- AWS
+- Bitcoin
+- Claremore
+- Get Tom's Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn-320-80.jpg)

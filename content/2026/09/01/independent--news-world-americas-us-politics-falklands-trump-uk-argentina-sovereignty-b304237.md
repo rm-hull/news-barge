@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- America
+- Argentina
+- Britain
+- British Overseas Territory
+- Europe
+- Falkland Islands
+- Falklands
+- Iran
+- UK
+- US
+people:
+- Andy Burnham
+- Donald Trump
+- John Healey
+organisations:
+- Labour
+- NATO
+- Nato
+- Oval Office
+- Pentagon
+- The Telegraph
+- The Times
+- United States’
 ---
 
 President Donald Trump said he was reviewing the United States’ position on the British sovereignty over the Falkland islands, in a move that will raise alarm for Labour ministers.

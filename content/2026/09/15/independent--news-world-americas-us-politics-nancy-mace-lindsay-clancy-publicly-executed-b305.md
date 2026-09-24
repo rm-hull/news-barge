@@ -11,6 +11,21 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Massachusetts
+- Plymouth
+- South Carolina
+people:
+- Donald Trump
+- Kevin Reddington
+- Lindsay Clancy
+- Nancy Mace
+- Tim Cruz
+- Wasserman
+organisations:
+- CBS News Boston
+- TMZ
+- The Independent
 ---
 
 Representative Nancy Mace says that Lindsay Clancy should face “public execution” after killing her own children at her home in Massachusetts.

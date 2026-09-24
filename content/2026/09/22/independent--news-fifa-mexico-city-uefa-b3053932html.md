@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 image: null
+locations:
+- U.S.
+people:
+- Gianni Infantino
+organisations:
+- FFE
+- FIFA Council
+- FIFA Forward Enterprise ”
+- Infantino
+- The Associated Press
+- UEFA
 ---
 
 FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.

@@ -14,6 +14,27 @@ categories:
 - Technology & Software
 - Travel
 - Food & Cooking
+locations:
+- Bhotekoshi river
+- Canada
+- Earth
+- England
+- Europe
+- London
+- Nepal
+- Nuwakot
+- Tibet
+- UK
+people:
+- Bethan Davies
+- Brook Mitchell
+- Daniel Shugar
+- Gunjan Silwal
+- Mike Byrne
+organisations:
+- Newcastle University
+- University of Calgary
+- University of St Andrews
 ---
 
 ![The aftermath of severe flooding along the Bhotekoshi river in Nuwakot, Nepal, on 28 August](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309798787.jpg?w=840)

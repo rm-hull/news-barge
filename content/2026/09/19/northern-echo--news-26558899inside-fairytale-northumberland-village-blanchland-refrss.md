@@ -15,6 +15,30 @@ categories:
 - Travel
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21467882.jpg?type=og-image&xType=0&yType=36
+locations:
+- Alnwick
+- Bamburgh
+- Blanchland Abbey Church
+- Britain
+- CAMERA CLUB
+- County Durham
+- Derwent Reservoir
+- England
+- Gary Tidbury
+- Lord Crewe Arms
+- North Pennines
+- North Pennines National Landscape
+- North Yorkshire
+- Northumberland
+people:
+- Blanchland
+- Edward III
+- Henry VIII
+- Thomas Forster
+- Walter de Bolbec
+organisations:
+- Blanchland Abbey
+- Lord Crewe Arms
 ---
 
 *(Image: Gary Tidbury/CAMERA CLUB)*

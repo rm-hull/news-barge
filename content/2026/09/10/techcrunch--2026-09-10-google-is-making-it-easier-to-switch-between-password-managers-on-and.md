@@ -11,6 +11,10 @@ image: https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Google
 ---
 
 Google on Thursday introduced a new password manager switching experience on Android that doesn’t require you to download CSV files when migrating to a new app.

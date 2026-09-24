@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Africa
+- Dangote
+- Iran
+- Lagos
+- Lamu
+- Nigeria
+- Saudi Arabia
+people:
+- Dangote
+- Tony Elumelu
+organisations:
+- Aliko Dangote
+- Dangote Petroleum Refinery and Petrochemicals
+- IPO
 ---
 
 The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.

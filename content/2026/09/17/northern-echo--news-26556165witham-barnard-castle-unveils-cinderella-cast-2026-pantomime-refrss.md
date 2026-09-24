@@ -14,6 +14,31 @@ categories:
 - News & Politics
 - Film & TV
 - Arts & Culture
+locations:
+- Barnard Castle
+- Cinderella Charlotte Hugil
+- The Witham
+people:
+- Alexa
+- Barnard Castle
+- Buttons
+- Charlotte Hugil
+- Charlotte Hugill
+- Cinderella
+- Dale Ibbetson
+- Harry Privett
+- Liam McGrath
+- Phil Hoyles
+- SARAH CALDECOTT
+- Tesla
+organisations:
+- Buttons
+- Cinderella Charlotte Hugil
+- Henry's Bar
+- Tesla
+- The Prince
+- Tom Rolfe Productions
+- Witham
 ---
 
 Barnard Castle shall go to the ball with Cinderella as the fairy-tale favourite returns for the town's Christmas pantomime.

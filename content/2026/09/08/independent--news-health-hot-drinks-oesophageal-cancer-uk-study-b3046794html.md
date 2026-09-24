@@ -14,6 +14,19 @@ categories:
 - UK
 - Health & Fitness
 - Food & Cooking
+locations:
+- South America
+- UK
+people:
+- Fiona Osgun
+- Keren Papier
+organisations:
+- Cancer Research UK
+- International Agency for Research on Cancer
+- Oxford Population Health
+- SCC
+- UK Biobank
+- University of Oxford
 ---
 
 Drinking very hot beverages increases the risk of developing oesophageal cancer, the largest study into the subject has found.

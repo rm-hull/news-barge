@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Alamo
+- Big Bend National Park
+- Gulf of Mexico
+- Pacific Ocean
+- Presidio
+- Santa Ana National Wildlife Refuge
+- South America
+- Southern Arizona
+- U.S.
+- West Texas
+people:
+- Bush
+- Obama
+organisations:
+- AP
+- Border Patrol
+- Hidalgo County Irrigation District No. 2
+- Trump
 ---
 
 A segment of border wall erected in late July stands incomplete along the edge of a wildlife refuge in Alamo, Texas, after a lawsuit halted work.

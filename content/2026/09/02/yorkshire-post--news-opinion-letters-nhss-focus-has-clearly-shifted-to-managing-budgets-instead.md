@@ -14,6 +14,21 @@ categories:
 - York
 - Careers & Productivity
 - Personal Finance & Investing
+locations:
+- Oakenshaw
+people:
+- James Urquhart-Burton
+- Peter Byrne
+organisations:
+- Admiral Nurse
+- CHC
+- Continuing Health Care
+- ICB
+- Jean Tottie
+- NHS
+- National Framework
+- Ombudsman
+- Yorkshire Post Letters
 ---
 
 # NHS’s focus has clearly shifted to managing budgets instead of assessing needs with CHC - Yorkshire Post Letters

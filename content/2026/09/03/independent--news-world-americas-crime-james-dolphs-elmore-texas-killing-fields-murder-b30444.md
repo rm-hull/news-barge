@@ -14,6 +14,34 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Brazoria County
+- Galveston County
+- Houston
+- Interstate 45
+- League City
+- Oklahoma
+- Texas
+people:
+- Clyde Hedrick
+- Denton
+- Ellen Beason
+- James Dolphs Elmore Jr.
+- Jessica Cain
+- Kelli Cox
+- Laura Miller
+- Laura Smither
+- Stuart Villanueva
+- Tim Miller
+- William Agnew
+- William Reece
+organisations:
+- AP
+- Netflix
+- Texas Department of Criminal Justice
+- Texas EquuSearch
+- Texas Killing Fields
+- The Galveston County Daily News
 ---
 
 A man has been sentenced to 20 years in prison in a rare trial connected to the decades-long "Texas Killing Fields" investigation.

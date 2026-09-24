@@ -12,6 +12,23 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/07/29/12/22/Untitled-design-(2).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Fayette County
+- Florida
+- Georgetown
+- Kentucky
+- Lexington
+- Mustang
+- Pinellas County
+- Scott County
+- Walmart
+people:
+- James Farthing
+- Mustang
+organisations:
+- Scott County Detention Center
+- Scott County Sheriff’s Office
+- WLEX
 ---
 
 A Kentucky man who won a $167.3 million Powerball jackpot — the largest prize in the state’s history — was arrested for the fifth time since claiming his earnings last year.

@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Alpha’
+- Bab el-Mandeb
+- Bab el-Mandeb Strait
+- Bab-al Mandeb
+- Brig
+- Iran
+- Iraq
+- Israel
+- Kolang Kouh
+- Medina
+- Middle East
+- Muscat
+- Najran
+- Oman
+- Pickaxe Mountain
+- Red Sea
+- Saudi Arabia
+- Sharurah
+- Strait of Hormuz
+- Sulaimaniya
+- US
+- United States
+- Venezuela
+- Yemen
+people:
+- Brad Cooper
+- Bravo
+- Bravo’
+- Chris Wright
+- Donald Trump
+- Mohammed bin Salman
+- Sayyid Badr Albusaidi
+- Yahya Saree
+organisations:
+- CBS
+- Iran.Trump
+- MBS
+- Reuters
+- US Air Force
+- US Centcom
+- US Central Command
 ---
 
 Oman announced late on Sunday that planned talks with Iran about the future of the Strait of Hormuz had been cancelled “in the interests of consensus”, scuppering hopes of a diplomatic breakthrough in the near term.

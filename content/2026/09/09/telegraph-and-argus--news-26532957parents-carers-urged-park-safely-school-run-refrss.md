@@ -15,6 +15,14 @@ categories:
 - News & Politics
 - Family & Parenting
 - Society & Culture
+locations: []
+people:
+- PCSO Clapperton
+organisations:
+- Bradford West NPT
+- Bradford West Neighbourhood Policing Team
+- Heaton St Barnabas Primary School
+- West Yorkshire Police)* Police
 ---
 
 *(Image: West Yorkshire Police)*

@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Banstead
+- Essex
+- Old Bailey
+- PA
+- Park Road
+- Romania
+- Romford
+- Surrey
+people:
+- Anthony O’Connor
+- Daniel Leal-Olivas
+- Gheorghita Arsene
+- Ienuta Arsene
+- Judy Khan KC
+- Mark Balysz KC
+- Thomas Vaughan
+organisations:
+- Appledorn Developments Limited
+- Geo
+- HSE
+- Prashant Popat KC
+- T Vaughan Limited
+- TVL
 ---
 
 Two firms have received fines exceeding £1 million after a worker was buried alive in a trench collapse.

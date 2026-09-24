@@ -10,6 +10,39 @@ image: https://cdn.mos.cms.futurecdn.net/RqHi9WeL8AsuHJqpvUNV2L-1902-80.png
 categories:
 - Technology & Software
 - Sports
+locations:
+- Alice
+- Hollywood
+people:
+- '### Alice'
+- Clerkenwell
+- Daniel
+- Dom
+- Izzy
+- Jemaine Clement
+- Jermaine Clement
+- Joel Fry
+- Lee Mason
+- Lucy Buglass
+- Marcia Warren
+- Nicola Walker
+- Sophie Goodhart
+- Steve - Yali Topol Margalith
+- Steve’
+- Tyrese Eaton-Dyce
+- Val
+- Yali Topol Margalith
+- Yannis
+organisations:
+- Disney
+- EMEA
+- Google News
+- Lucy Goes
+- Rotten Tomatoes
+- Steve's
+- TechRadar
+- The Simpsons
+- VP
 ---
 
 ![Nicola Walker walks across a bridge wearing a leopard print coat. Her hand is bandaged.](https://cdn.mos.cms.futurecdn.net/RqHi9WeL8AsuHJqpvUNV2L.png) 

@@ -12,6 +12,15 @@ categories:
 - UK
 - News & Politics
 - Careers & Productivity
+locations:
+- Eastney Landing
+- Poole
+- Port of Dover
+- Portsmouth Lifeboat Station
+people:
+- Peter Sparkes
+organisations:
+- RNLI
 ---
 
 ![Aerial picture showing Portsmouth Lifeboat Station  lifeboat station](https://ichef.bbci.co.uk/ace/standard/769/cpsprodpb/1943/live/d5de9080-b28a-11f1-8096-b33a1297275a.jpg)

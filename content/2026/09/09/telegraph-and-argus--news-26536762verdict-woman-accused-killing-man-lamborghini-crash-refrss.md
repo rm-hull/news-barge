@@ -15,6 +15,36 @@ categories:
 - News & Politics
 - True Crime
 - Technology & Software
+locations:
+- Bankfoot
+- Batool
+- Bradford
+- CPS
+- Calderdale
+- M62
+- Outlane
+- Ripponden
+- Scott Hall Farm
+- Smiddles Lane
+- Urus
+- West Yorks Police
+- West Yorkshire
+people:
+- Ben Lack
+- Christopher Dunn
+- Humaira Batool
+- Mohammed Shaan Hussain
+- Paul Conroy
+- Richard Dawson
+- Shaan Hussain
+organisations:
+- Force
+- HMP Leeds
+- Lamborghini
+- Leeds Crown Court
+- Major Collision Enquiry Team
+- SWNS
+- West Yorkshire Police
 ---
 
 A Bradford woman has been found guilty of causing the death of her friend in a horror crash involving a rented Lamborghini.

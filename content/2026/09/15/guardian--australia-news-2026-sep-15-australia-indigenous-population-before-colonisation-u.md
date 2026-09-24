@@ -13,6 +13,32 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Australia
+- Torres Strait Island
+people:
+- Alan Williams
+- Alfred Radcliffe-Brown
+- Arthur Phillip
+- J Peter White
+- John Mulvaney
+- Larissa Behrendt
+- Lynette Russell
+- Mabo
+- Noel Butlin
+- Prof Corey Bradshaw
+organisations:
+- Aboriginal
+- Australian Research Council Centre of Excellence for Indigenous and Environmental
+  Histories and Futures
+- CIEHF
+- Euahleyai/Gamillaroi
+- First Nations
+- Flinders University
+- James Cook University
+- Monash University Indigenous Studies Centre
+- Nature Human Behaviour
+- Torres Strait Islander
 ---
 
 The number of Aboriginal and Torres Strait Islander people in Australia before colonisation was dramatically underestimated, according to new research that suggests many more of them were killed.

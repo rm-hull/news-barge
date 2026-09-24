@@ -14,6 +14,33 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Australia
+- Birmingham
+- Edgbaston
+- England
+- Pakistan
+people:
+- Abdul Razzaq
+- Babar Azam
+- Bazball
+- Ben Stokes'
+- Dan Lawrence
+- Geoffrey Boycott
+- Joe Root
+- Michael Vaughan
+- Pakastani
+- Ramiz Raja
+- Razaullah
+- Shahid Afridi
+- Shan Masood
+- Waqar Younis
+organisations:
+- BBC Test Match Special
+- Cadbury World
+- Cleethorpes
+- England
+- Yorkshire Cricket Southern Premier League
 ---
 
 'He's become a star' - watch the best shots of Razaullah's stunning innings

@@ -12,6 +12,25 @@ categories:
 - Local
 - York
 - Family & Parenting
+locations:
+- Finland
+- Kela
+- North Yorkshire
+- Scarborough
+- Scotland
+- Selby
+- York
+people:
+- Bob Webb
+- Cllr Webb
+- David Skaith
+- Mark Crane
+organisations:
+- Cradle to Career’
+- Finnish Baby Box
+- North Yorkshire Combined Authority
+- North Yorkshire Council
+- York and North Yorkshire Combined Authority
 ---
 
 ## North Yorkshire to trial Finnish-inspired baby boxes for new parents

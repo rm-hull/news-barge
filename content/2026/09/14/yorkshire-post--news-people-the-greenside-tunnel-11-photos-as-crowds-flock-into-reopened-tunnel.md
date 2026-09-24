@@ -14,6 +14,17 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Bradford
+- Greenside Tunnel
+- Pudsey
+- Tyersal
+people:
+- Chris Young
+- Mary Johnson-Green
+organisations:
+- Greenside Greenway
+- Leeds
 ---
 
 The Greenside Tunnel sits between Tyersal and Pudsey, and was closed in the 1960s as part of sweeping changes to the country’s rail system.

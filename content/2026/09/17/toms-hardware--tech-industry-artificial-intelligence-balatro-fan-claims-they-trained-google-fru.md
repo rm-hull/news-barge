@@ -11,6 +11,25 @@ image: https://cdn.mos.cms.futurecdn.net/de9AZSVVPswtFQSMdMQaPm-1920-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations:
+- Black Deck
+- Red Deck
+- White Stack
+people:
+- ActualAerie1011
+- Tom
+organisations:
+- ActualAerie1011
+- Astra
+- BalatroBot
+- BalatroLLM
+- Get Tom's Hardware
+- Gold Stack
+- Google News
+- OpenAI
+- Reddit
+- Tom’s Hardware
+- White Stake
 ---
 
 ![A Balatro game in-progress.](https://cdn.mos.cms.futurecdn.net/de9AZSVVPswtFQSMdMQaPm.jpg) 

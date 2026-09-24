@@ -12,6 +12,46 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Afghanistan
+- Brexit
+- Cambridge
+- France
+- Germany
+- Italy
+- Migrationsverket
+- Netherlands
+- Northern Ireland
+- Spain
+- Stockholm
+- Sweden
+- UK
+people:
+- Brexit
+- Catherine Barnard
+- Charles
+- David Milstead
+- George Mason
+- George] Mason
+- Horace
+- James Savage
+- John Sellers
+- Joyce Thomas
+- Lily
+- Martin Gelin
+- Michel Barnier
+- Niels Paarup-Petersen
+organisations:
+- Brexit
+- Brits
+- Cambridge University
+- Centre
+- EU
+- European Commission
+- Eurostat
+- Guardian
+- Local
+- WA
 ---
 
 He arrived with nothing other than the clothes he wore that morning. Hours later he was banged up in a detention centre close to a Stockholm airport to await deportation.

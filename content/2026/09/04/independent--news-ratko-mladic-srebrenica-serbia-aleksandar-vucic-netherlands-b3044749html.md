@@ -14,6 +14,44 @@ image: https://static.independent.co.uk/2026/09/04/12/Serbia_Mladic__284_.jpg?wi
 categories:
 - News & Politics
 - UK
+locations:
+- Balkans
+- Belgium
+- Belgrade
+- Bosnia and Herzegovina
+- Brussels
+- Europe
+- Netherlands
+- Republika Srpska
+- Russia
+- Sarajevo
+- Serbia
+- Srebrenica
+- The Hague
+- U.S.
+- Ukraine
+- West
+people:
+- Aleksandar Vucic
+- Darko Mladic
+- Flaherty
+- Lorne Cook
+- Marta Kos
+- Maxime Prevot
+- Michael O’Flaherty
+- Nebojsa Pavkovic
+- Nenad Vujic
+- Ratko Mladic
+- Sam McNeil
+organisations:
+- AP
+- Council of Europe Commissioner for Human Rights
+- EU
+- European Convention on Human Rights
+- European Union
+- Informer
+- Justice
+- U.N.
 ---
 
 The European Union is closely watching how membership candidate Serbia will handle the funeral of the former Bosnian Serb army commander Ratko Mladic, who was convicted of genocide by a U.N. court but remains a hero to many Serbs, an EU official said on Friday.

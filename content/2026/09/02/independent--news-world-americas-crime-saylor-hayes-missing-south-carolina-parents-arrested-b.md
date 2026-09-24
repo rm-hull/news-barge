@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Bristol
+- Carter County
+- Georgetown County
+- Myrtle Beach
+- Pawleys Island
+- South Carolina
+- Tennessee
+- Washington County
+people:
+- Carter Weaver
+- Geordyn Nichole Hayes
+- John Herb Hayes III
+- Saylor Hayes
+organisations:
+- Facebook
+- Georgetown Sheriff’s Department
+- Washington County Sheriff’s Office Project Lifesaver
+- Washington County Virginia Sheriff's Office
 ---
 
 The parents of a missing nonverbal 5-year-old girl have been arrested after her body was found near a South Carolina beach, authorities said.

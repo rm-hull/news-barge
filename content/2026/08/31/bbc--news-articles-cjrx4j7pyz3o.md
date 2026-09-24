@@ -12,6 +12,38 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Australia
+- Bondi Beach
+- Chanukah
+- England
+- Golders Green
+- Hatzola
+- Heaton Park
+- London
+- Manchester
+- Sydney
+- Wales
+- Yom Kippur
+people:
+- Adrian Daulby
+- Angela Rayner
+- Bernard Agyemang
+- Bev Craig
+- Ephraim Mirvis
+- Jihad al-Shamie
+- Lauren Woodhead
+- Melvin Cravitz
+- Rabbi Daniel Walker
+- Rabbi Walker
+- Stephen Watson
+organisations:
+- BBC Freedom of Information
+- BBC Manchester
+- BBC Radio Manchester
+- Greater Manchester Police
+- Heaton Park Hebrew Congregation
+- Kippah's
 ---
 
 ![Rabbi Daniel Walker, who is wearing a black blazer, shirt and tie and a kippah on his head, is starring directly at the camera.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/9a9b/live/0249c460-a2c2-11f1-9024-715001d09aeb.jpg)

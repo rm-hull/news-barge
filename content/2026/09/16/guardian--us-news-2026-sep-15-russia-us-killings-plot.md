@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Manhattan
+- New York
+- Russia
+- Russian Federation
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Darren Cox
+- James Barnacle Jr
+organisations:
+- FBI
+- Washington DC
 ---
 
 Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations supporting Ukraine, federal authorities said Tuesday as they announced charges against five people who remain at large.

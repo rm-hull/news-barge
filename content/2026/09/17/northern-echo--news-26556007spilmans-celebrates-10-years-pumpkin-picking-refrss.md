@@ -14,6 +14,26 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- County Durham
+- North East
+- Spilmans
+- Thirsk
+- Yorkshire
+people:
+- Tom Spilman
+organisations:
+- DJ Laura Castle
+- Downton Abbey
+- Facebook
+- Instagram
+- Paddington
+- Pumpkin Patch
+- Spilmans
+- Spilmans’
+- Whitby
+- Wizfords Academy
+- York Mix
 ---
 
 *(Image: Spilmans)*

@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Aberdeen
+- Bristol
+- Downing Street
+- England
+- Jackdaw
+- North Sea
+- Rosebank
+- Scotland
+- UK
+people:
+- Andy Burnham
+- Ivy
+- Jo Groves
+- Joanna Groves
+- Maya Mailer
+- Ms Groves
+- Ms Groves’
+organisations:
+- Climate Change Committee
+- Met Office
+- The Independent
+- UK Health Security Agency
+- UKHSA
 ---
 
 A mother whose daughter suffered heat exhaustion after a day at nursery during this year’s record-breaking summer weather has urged Andy Burnham to prioritise future generations over drilling in the North Sea.

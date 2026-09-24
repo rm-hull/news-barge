@@ -13,6 +13,39 @@ categories:
 - Technology & Software
 - Science
 - News & Politics
+locations:
+- United States
+- White House
+people:
+- Aaron Lukas
+- Donald Trump
+- Dylan Borland
+- Marco Rubio
+- Marik von Rennenkampff
+- Stephen Miller
+- von Rennenkampff
+organisations:
+- AARO
+- Air Force
+- All-domain Anomaly Resolution Office
+- Borland
+- CIA
+- Congress
+- Defense Department
+- FBI
+- House Oversight
+- Langley Air Force Base
+- NASA
+- NDA
+- National Security Agency
+- PURSUE
+- Pentagon
+- Presidential Direction
+- Sol Foundation
+- State Department
+- UAP
+- UFO
+- WIRED
 ---
 
 Just over a year ago, Dylan Borland—a former Air Force geospatial intelligence specialist—told a House Oversight task force that he'd watched a roughly 100-foot triangular craft lift silently off the flight line at Langley Air Force Base in 2012. But there were some questions he couldn’t answer.

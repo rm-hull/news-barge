@@ -14,6 +14,31 @@ categories:
 - UK
 - News & Politics
 - Home, Garden & DIY
+locations:
+- County Durham
+- Dalton-on-Tees
+- Darlington
+- Diddly Squat Farm
+- Paddock Farm
+- Saltburn
+- Waterfall Garden
+- West Lane
+people:
+- Jeremy Clarkson
+- Kaleb Cooper
+organisations:
+- Bamboo Garden
+- Google
+- Gothic Garden
+- Japanese Garden
+- Joe Bloggs Garden
+- Mediterranean Garden
+- Paddock Farm Nursery
+- Paddock Farm Tea Room
+- The Stream
+- The Wildlife Garden
+- Water Gardens
+- Woodmans Lodge
 ---
 
 *(Image: GOOGLE MAPS)*

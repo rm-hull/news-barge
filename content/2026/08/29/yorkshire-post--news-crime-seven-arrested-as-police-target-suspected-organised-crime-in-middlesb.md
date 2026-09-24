@@ -14,6 +14,18 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Atlee Road
+- Grangetown
+- Kingsley Road
+- Middlesbrough
+- South Bank
+- Steele Crescent
+people:
+- Wayne Fox
+organisations:
+- Cleveland Police
+- Mercedes
 ---
 
 # Seven arrested as police target suspected organised crime in Middlesbrough

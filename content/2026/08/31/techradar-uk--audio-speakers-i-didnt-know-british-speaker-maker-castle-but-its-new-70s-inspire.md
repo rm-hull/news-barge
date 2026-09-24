@@ -12,6 +12,30 @@ image: https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc-2560-80.jpg
 categories:
 - Technology & Software
 - Arts & Culture
+locations:
+- British Castle
+- Castle Tintagel
+- Castle Walmer
+- UK
+- Warwick
+- Windsor
+people:
+- Arthur
+- Tom Bedford
+organisations:
+- Android Police
+- BGR
+- British Castle
+- Castle Tantagel
+- Castle Walmer
+- Digital Trends
+- GamesRadar
+- Google News
+- TechAdvisor
+- TechRadar
+- Tom Bedford
+- Tower of London
+- WhattoWatch
 ---
 
 ![The Castle Tantagel and Walmer speakers, in a dramatic black room](https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc.jpg) 

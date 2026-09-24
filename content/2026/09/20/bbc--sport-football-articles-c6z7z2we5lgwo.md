@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1732/live/e8376180-b50a-11f1-91cc-c5691e33b858.jpg
+locations:
+- Do City
+- England
+- Etihad Stadium
+people:
+- Antoine Semenyo
+- Brian] Brobbey
+- Carlo Ancelotti
+- Charlie Adam
+- Craig Shakespeare
+- Enzo Fernandez
+- Enzo Maresca
+- Erling Haaland
+- Marseca
+- Maurizio Sarri
+- Mikel Arteta
+- Ole Gunnar Solskjaer
+- Pep Guardiola
+- Rayan Cherki
+- Regis le Bris'
+- Ruben Dias
+organisations:
+- Arsenal
+- Black Cats
+- Bournemouth
+- Brighton
+- Community Shield
+- Gunners
+- Liverpool
+- Manchester City
+- Manchester Cityhead
+- Premier League
+- Reds
+- Sunderland
 ---
 
 ![Rayan Cherki and Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/1732/live/e8376180-b50a-11f1-91cc-c5691e33b858.jpg)

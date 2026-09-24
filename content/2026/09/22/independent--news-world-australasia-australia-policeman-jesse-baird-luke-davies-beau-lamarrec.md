@@ -10,6 +10,19 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2024/02/23/06/newFile.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Bondi
+- Sydney
+people:
+- Beau Lamarre-Condon
+- Brett Hatfield
+- Jesse Baird
+- Luke Davies
+organisations:
+- Australian TV
+- NSW
+- Qantas
 ---
 
 A police officer, charged with the killing of Australian TV presenter Jesse Baird and his new partner Luke Davies, was driven by “jealous infatuation” with his ex, prosecutors told a court in Australia.

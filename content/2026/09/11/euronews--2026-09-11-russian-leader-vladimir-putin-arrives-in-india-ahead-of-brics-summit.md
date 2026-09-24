@@ -11,6 +11,43 @@ image: https://images.euronews.com/articles/stories/09/90/95/44/1200x675_cmsv2_8
 categories:
 - Europe
 - News & Politics
+locations:
+- Belarus
+- Bolivia
+- Brazil
+- China
+- Cuba
+- Egypt
+- Ethiopia
+- Gulf
+- India
+- Indonesia
+- Iran
+- Kazakhstan
+- Malaysia
+- Middle East
+- New Delhi
+- Nigeria
+- Russia
+- Saudi Arabia
+- South Africa
+- Thailand
+- Uganda
+- Ukraine
+- United Arab Emirates
+- Uzbekistan
+- Vietnam
+- Yekaterinburg
+people:
+- Harsh V. Pant
+- Kirti Vardhan Singh
+- Masoud Pezeshkian
+- Narendra Modi
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- BRICS
+- Observer Research Foundation
 ---
 
 ## Chinese President Xi Jinping is also set to attend the two-day summit, in what would be his first visit to India since 2019.

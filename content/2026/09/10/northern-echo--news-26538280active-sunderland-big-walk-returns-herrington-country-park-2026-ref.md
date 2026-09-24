@@ -13,6 +13,16 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- BIG Walk
+- Herrington Country Park
+- River Wear
+- Sunderland
+- Wearside
+people:
+- Jonathon Emerson
+organisations:
+- Sunderland City Council
 ---
 
 *(Image: Sunderland City Council)*

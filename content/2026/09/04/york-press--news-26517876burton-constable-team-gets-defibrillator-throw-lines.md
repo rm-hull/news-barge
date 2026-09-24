@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Sports
+locations:
+- Burton Constable
+- Humber
+- Parkland
+people:
+- Alasdair Hutson
+organisations:
+- Burton Constable
+- Burton Constable Foundation
+- Burton Constable’s Wildlife and Parkland Officer
+- HFR Solutions CiC
+- HFR Solutions Community Interest Company
+- HUMBSAR
+- Humberside Search and Rescue
 ---
 
 ## Life-saving equipment donated to Burton Constable parkland team

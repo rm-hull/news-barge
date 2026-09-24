@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Buckingham Palace
+- UK
+- United Kingdom
+people:
+- Andrew Mountbatten-Windsor
+- Bobby Dean
+- Brian Leishman
+- Caroline Nokes
+- King
+- Torsten Bell
+organisations:
+- Alloa
+- Commons
+- Commonwealth
+- Crown Estate
+- Government
+- Grangemouth
+- House of Lords
+- Labour
+- Sovereign Grant
+- Sovereign Grant Bill
+- Treasury
 ---
 
 Public funds allocated to the King "could and should be directed elsewhere", a Labour MP has said as the Commons backed new royal financial arrangements.

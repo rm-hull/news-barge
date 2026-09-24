@@ -12,6 +12,98 @@ image: https://cdn.mos.cms.futurecdn.net/SBvM4UJHhuoVf6C5um35wk-819-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Abu Dhabi
+- Australia
+- Brighton
+- Canada
+- Hove
+- London
+- Man City
+- Man Utd
+- Old Trafford
+- Oz
+- UK
+- US
+people:
+- '### Man Utd'
+- :** Lammens
+- :** Verbruggen
+- Adrian Back
+- Amass
+- Ayari
+- Boscagli
+- Chema
+- Costinha
+- Cunha
+- Dalot
+- Danny Welbeck
+- De Cuyper
+- Fabian Hurzeler
+- Fernandes
+- Gomez
+- Hadjam
+- Heaven
+- Jack Hinshelwood
+- Kadioglu
+- Kaoru Mitoma
+- Kostoulas
+- Lacey
+- Lewis Dunk
+- Maguire
+- Mainoo
+- Malick Yalcouye
+- Man Utd
+- Man Utd XI:** Darlow
+- Mazraoui
+- Mbeumo
+- Michael Carrick
+- Mount
+- O'Riley
+- Osman
+- Pascal Gross
+- Promise
+- Rashford
+- Rutter
+- Santos
+- Sesko
+- Steele
+- Struijk
+- T Fletcher
+- Tielemans
+- Vuskovic
+- Yankuba Minteh
+- Yoro
+- Zirkzee
+organisations:
+- Brighton XI
+- Chelsea
+- Coventry City
+- DAZN Canada
+- Formula 1
+- FourFourTwo
+- Future Publishing
+- Hove Albion
+- ITV1
+- ITVX
+- Man Utd
+- NBA
+- Newsweek
+- NordVPN
+- Paramount
+- Premier League
+- Red Bull
+- Red Devils
+- Seagulls
+- Sky Sports
+- Sky Sports Football
+- TechRadar
+- United
+- VAR
+- Watch Man Utd
+- World Soccer Magazine
+- Yahoo
+- beIN Sports 2
 ---
 
 ![Lewis Dunk of Brighton & Hove Albion celebrates scoring his team’s fourth goal with teammates during the Premier League 2026/27 match between Coventry City and Brighton & Hove Albion.](https://cdn.mos.cms.futurecdn.net/SBvM4UJHhuoVf6C5um35wk.jpg) 

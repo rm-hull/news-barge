@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Israel
+- Middle East
+- North East of England
+- Russia
+- Saudi Arabia
+- Tehran
+- UK
+- US
+- Ukraine
+- Yemen
+people:
+- Rod Dennis
+organisations:
+- RAC
 ---
 
 ![Woman filling her car at a petrol station in the North East of England. The woman is looking worriedly at the price on the screen](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg)

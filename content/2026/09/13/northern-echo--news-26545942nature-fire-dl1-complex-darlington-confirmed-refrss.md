@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Film & TV
+locations:
+- Amazon
+- County Durham
+- DL1
+- Darlington
+- Premier Inn
+- Vue
+- Woollen Mill
+people:
+- Chris Williams
+- Nando
+organisations:
+- DL1
+- Darlington Fire and Rescue Service
+- NEWSQUEST
 ---
 
 Popcorn-carrying movie goers were evacuated from a Darlington cinema after six wheelie bins set ablaze at DL1.

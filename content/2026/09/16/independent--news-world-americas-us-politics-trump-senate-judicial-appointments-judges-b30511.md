@@ -11,6 +11,39 @@ image: https://static.independent.co.uk/2026/09/16/09/55e23c8ea4cfd85097ac6edb4a
 categories:
 - News & Politics
 - UK
+locations:
+- North Dakota
+- Oklahoma
+- Texas
+- U.S.
+- Washington
+- West
+- White House
+people:
+- Courtney Coker
+- Donald Trump
+- Emil Bove
+- Joe Biden
+- Lauren Bis
+- Lee Rudofsky
+- Robert Luther
+- Zach West
+organisations:
+- 3rd U.S. Circuit Court of Appeals
+- 8th Circuit
+- Congress
+- Constitution
+- Federalist Society
+- George Mason University
+- Northern District of Texas
+- Oklahoma Attorney General's Office
+- Senate Judiciary Committee
+- St. Louis-based 8th U.S. Circuit Court of Appeals
+- Supreme Court
+- U.S. Circuit Court of Appeals
+- U.S. District Court
+- U.S. Postal Service
+- U.S. Supreme Court
 ---
 
 Facing uncertainty over Republican control of the U.S. Senate, President Donald Trump's administration is moving quickly to secure confirmation for a broad slate of federal judicial appointments before the end of the year.

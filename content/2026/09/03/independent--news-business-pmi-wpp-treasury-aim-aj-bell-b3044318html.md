@@ -12,6 +12,54 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Canada
+- Frankfurt
+- London
+- New York
+- Paris
+- UK
+- US
+people:
+- Chris Waller
+- Kathleen Brooks
+- Rob Wood
+- Russ Mould
+organisations:
+- AJ Bell
+- Alliance News
+- Bank of America
+- Berenberg
+- BofA
+- Coca-Cola
+- Convatec
+- Diageo
+- Endeavour Mining
+- FXStreet
+- Fed
+- Foppen
+- Fresnillo
+- Haleon
+- Hilton Food
+- ISM
+- Informa
+- London Stock Exchange Group
+- Metlen Energy & Metals
+- Monetary Policy Committee
+- Omnicom
+- PMI
+- Pantheon Macroeconomics
+- PepsiCo
+- Prudential
+- Publicis
+- Reckitt Benckiser
+- Reuters
+- S&P Global
+- S&P Global UK
+- Treasury
+- US Federal Reserve
+- WPP
+- XTB
 ---
 
 The FTSE 100 closed higher on Thursday as bond yields cooled and data showed that UK services activity grew at its fastest pace in four months in August.

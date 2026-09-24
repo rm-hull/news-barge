@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Apperley Bridge
+- Bingley
+- Bradford
+- Great Northern Railway
+- Hellifield Station
+- Keighley
+- LNER Pacific
+- Lesley Tate
+- London King's Cross
+- North Eastern Railway
+- North Yorkshire Moors Railway
+- Shed24H
+- Shipley
+people:
+- Mallard
+- Nigel Gresley
+organisations:
+- Nigel Gresley Locomotive Trust
+- No. 4079 Pendennis Castle
 ---
 
 Iconic steam locomotive 60007 Sir Nigel Gresley passed through the Bradford district today.

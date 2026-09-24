@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4eac/live/30e27b30-b3a9-11f1-a7fa-c95bcf5935e4.jpg
+locations:
+- Athlos
+- Georgia
+- London
+- Los Angeles
+- New York
+- Norway
+- Poland
+- StoneX Stadium
+people:
+- '## Hodgkinson'
+- Alaysha Johnson
+- Alexis Ohanian
+- Alyssa Jones
+- Athlos
+- Audrey Werro
+- Cathy Freeman
+- Daryll Neita
+- Gabby Thomas
+- Georgia Hunter Bell
+- Henriette Jaeger
+- Hogkinson
+- Hunter Bell
+- Imani-Lara Lansiquot
+- Keely Hodgkinson
+- Klaudia Kazimierska
+- Marileidy Paulino
+- Masai Russell
+- Reddit
+- Serena Williams
+- Sha'Carri Richardson
+- Sydney Sweeney
+- Tiffany
+- Valentina Rosamilia
+organisations:
+- Angel City FC
+- Athlos
+- BBC Sport
+- Chelsea
+- Diamond League
+- London Diamond League
+- Nike
+- Reddit
+- Tiffany & Co
+- Ultimate
+- Women's Super League
 ---
 
 'Speed meeting style' - Hogkinson charges ahead to win Athlos 800m

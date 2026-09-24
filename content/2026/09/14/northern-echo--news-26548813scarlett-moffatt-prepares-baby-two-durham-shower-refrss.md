@@ -14,6 +14,22 @@ categories:
 - UK
 - News & Politics
 - Family & Parenting
+locations:
+- Bloom
+- County Durham
+- Darlington
+people:
+- Amanda Owen
+- Betty
+- Miss Tesstickle
+- Molly
+- SCARLETT MOFFATT
+- Scarlett Moffatt
+- Scott Dobinson
+organisations:
+- Auckland TV
+- County Durham TV
+- Gogglebox
 ---
 
 County Durham TV star Scarlett Moffatt has shared a glimpse inside her baby shower in Durham as she counts down to the arrival of her second child.

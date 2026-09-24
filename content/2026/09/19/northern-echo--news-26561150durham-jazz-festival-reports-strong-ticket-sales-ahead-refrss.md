@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21420337.jpg?type=og-image
+locations:
+- Durham City
+- London
+- Newcastle
+- North East
+- Redhills
+- UK
+people:
+- '![]()Left'
+- Alan Patrickson
+- Bill Bruford
+- Django Reinhardt
+- Eleonora Kouneni
+- Emma Fisk
+- Janette Mason ReWired
+- Jo Harrop
+- John Lyons
+- Knats
+- Marvin Muoneké
+- Olivia Dean
+- Paul Edis Quartet
+- Paul McCartney
+- RAYE
+- Richard Turner
+- Ronnie Scott
+- Seb Rochford
+- Stéphane Grappelli
+- Vasilis Xenopoulos
+organisations:
+- Darlington
+- Du Nord
+- Finding Ways
+- Fontaines DC
+- Hot Club du Nord
+- Jazz Club
+- Knats
+- Newcastle
+- Olivia Cuttill Quintet
+- Redhills Durham Miners’ Hall
+- Rivkala
+- SULA
+- Soho Songbook
+- Strictly Smokin’ Big Band
+- SwanNek
+- The Biscuit Boys
+- The Pete Roth Trio
+- The Ronnie Scott
+- Utilita Arena
 ---
 
 *(Image: Supplied)*

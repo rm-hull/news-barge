@@ -12,6 +12,15 @@ image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311301141.jpg
 categories:
 - Science
 - Technology & Software
+locations:
+- Bellingham
+- Kent
+- UK
+- US
+- Washington
+people:
+- Stacey Gambrill
+organisations: []
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311301141.jpg?w=840)

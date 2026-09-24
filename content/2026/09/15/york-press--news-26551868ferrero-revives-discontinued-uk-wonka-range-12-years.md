@@ -12,6 +12,37 @@ categories:
 - Local
 - York
 - Music
+locations:
+- Ireland
+- UK Ferrero
+people:
+- Charlie
+- Ferrero
+- Gary Youren
+- Johnny Depp
+- Johnny Depp Wonka
+- Patrick Glover
+- Roald Dahl
+- Tim Burton
+- Willy Wonka
+organisations:
+- '## Ferrero'
+- Aldi
+- Blueberry
+- Cadbury
+- Chocolate Factory
+- Facebook
+- Fizz Wiz
+- Lime Ropes
+- Magic Garden Lemon
+- Milk Chocolate Oompa Loompa
+- Morrisons
+- Nestle
+- Nestlé
+- Newfoodsuk
+- Newsquest
+- Rowntree Mackintosh
+- Wonka
 ---
 
 *(Image: Patrick Glover/Newsquest)*

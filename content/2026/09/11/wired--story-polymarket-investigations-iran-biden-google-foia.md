@@ -16,6 +16,44 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - News & Politics
+locations:
+- Iran
+- New York
+- US
+- United States
+people:
+- Adam Kinzinger
+- Adam Schiff
+- George Santos
+- Joseph Biden
+- Joseph Konizeski
+- Kalshi
+- Liz Cheney
+- Michael Selig
+- Michele Spagnuolo
+- Nicolás Maduro
+- Olivia Chalos
+- Paul Hayeck
+- Trump
+organisations:
+- 1789 Capital
+- CFTC
+- Commodity Futures Trading Commission
+- DOJ
+- Department of Justice
+- Donald Trump Jr.’s
+- Freedom of Information Act
+- Google
+- Kalshi
+- MAGA
+- Maddy Varner.
+- NPR
+- Polymarket
+- SDNY
+- Southern District of New York
+- State of the Union
+- The New York Times
+- WIRED
 ---
 
 The US government launched at least three previously unreported investigations into trading on the prediction market Polymarket, according to documents obtained by WIRED through a Freedom of Information Act request.

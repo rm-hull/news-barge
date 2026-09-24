@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/54a6390419207d61bd14505b111e99319e182071/0_0_5322_4258/master/5322.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dc3db96d319f66644ada30d92f779b1
+locations:
+- Australia
+- Canberra
+people:
+- Anthony Albanese
+- Connell Griffin
+- Georgie Dent
+- Jim Chalmers
+organisations:
+- Australian Politics
+- Deloitte
+- Guardian Australia
+- Labor
+- National Press Club
+- The Parenthood
 ---
 
 The cost for Australian families of raising two or more children has risen to at least $36,500 a year, according to new research, with the money needed to run a family increasing by 134% in two decades.

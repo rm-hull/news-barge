@@ -12,6 +12,33 @@ image: https://static.independent.co.uk/2026/08/04/22/2260788399..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- China
+- Houston
+- India
+- Russia
+- U.S.
+- United States
+people:
+- Biden
+- Carrie Jenks
+- Chris Wright
+- Doug Burgum
+- Lee Zeldin
+- Manish Bapna
+- Trump
+organisations:
+- Cleanview
+- EPA
+- Energy Abundance Ministerial
+- Environmental Protection Agency
+- Environmental and Energy Law Program
+- Group of 20
+- Harvard Law School
+- Natural Resources Defense Council
+- New York Times
+- Sierra Club
+- Trump
 ---
 
 The Environmental Protection Agency is expected to announce Monday that the United States will stop limiting the greenhouse gases released by coal- and gas-fired power plants, completing the Trump administration's dismantling of the climate policies of the two previous Democratic presidents.

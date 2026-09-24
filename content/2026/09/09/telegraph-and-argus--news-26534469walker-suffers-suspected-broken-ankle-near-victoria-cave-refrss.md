@@ -13,6 +13,14 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Settle
+- Victoria Cave
+people:
+- WALKER
+organisations:
+- Cave Rescue
+- Cave Rescue Organisation
 ---
 
 *(Image: CRO)*

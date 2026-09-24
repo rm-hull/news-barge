@@ -11,6 +11,16 @@ image: https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-2560-80.jpg
 categories:
 - Technology & Software
 - Hardware
+locations: []
+people:
+- Tom
+organisations:
+- Get Tom's Hardware
+- Google News
+- Google Play Store
+- Microsoft
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Android smartphone](https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX.jpg) 

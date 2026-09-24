@@ -13,6 +13,38 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Alabama
+- America
+- Arkansas
+- Indiana
+- Kirk
+- St Mary's College
+- US
+- Utah Valley
+- Washington DC
+people:
+- Andrew Kolvet
+- Anthony Shinkle
+- Charlie Kirk
+- Charlie Kirk.
+- Christ
+- Donald Trump
+- Erika Kirk
+- Jeb Jacobi
+- Macy Gunnell
+- Mark Brewer
+- Prof Brewer
+- Tyler Robinson
+organisations:
+- BBC
+- Republican Party
+- TPUSA
+- Turning Point
+- Turning Point USA
+- UVU
+- University of Maine
+- Utah Valley University
 ---
 
 ![Charlie Kirk poses for a selfie with Jeb Jacobi](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0b8e/live/052238c0-ac86-11f1-ab14-5b9069dc795d.jpg)

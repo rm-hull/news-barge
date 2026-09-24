@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Travel
 - Sports
+locations:
+- NSW
+- Sydney
+- Warriewood
+people:
+- David Driver
+- Josh Murray
+organisations:
+- New South Wales
+- The Transport for NSW
+- Transport for NSW
 ---
 
 Dozens of high-powered and illegal ebikes have been seized by police on Sydney’s northern beaches just weeks after the force was granted new powers to destroy dangerous bikes.

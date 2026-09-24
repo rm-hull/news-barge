@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford City
+- Leeds Road
+- West Yorkshire
+people: []
+organisations:
+- BMW
 ---
 
 *(Image: WYP)*

@@ -15,6 +15,18 @@ categories:
 - Harrogate
 - Government
 - Society & Culture
+locations:
+- Buttertubs Pass
+- England
+- Fleet Moss Road
+- Keld
+- Kidstone Pass
+- Kirkby Stephen
+- The Stang
+people:
+- Cllr Annabel Wilkinson
+- Cllr Wilkinson
+organisations: []
 ---
 
 ![A school bus](https://www.northyorks.gov.uk/sites/default/files/2026-09/School%20bus%20latest%201.jpg) 

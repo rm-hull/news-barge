@@ -13,6 +13,24 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- A1079 Hull Road
+- City of York
+- Common Lane
+- Common Road
+- Dauby Lane
+- Dunnington
+- Kexby Bridge
+- Kexby Stray
+- Long Lane
+- York Road
+people:
+- Kate Ravilious
+organisations:
+- A1079
+- City of York Council
+- Highways Maintenance
+- Lane Rentals Services
 ---
 
 MOTORISTS are being reminded of a series of closures scheduled for a major road into York.

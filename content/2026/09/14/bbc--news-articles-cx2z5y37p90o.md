@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- China
+- Germany
+- Hamburg
+- Hengshui Lake Marathon
+- Hyrox Beijing
+- National Speed Skating Oval
+people:
+- Anthony Huang
+- Hyrox
+- Joe Ho
+- Laura Bicker
+- Li Meizhen
+- Moritz Fürste
+- Paula Radcliffe
+organisations:
+- BBC Chinese
+- Department of Sport Information and Communication
+- Hyrox
+- Instagram
+- National Taiwan University of Sport
+- Xinhua
 ---
 
 ![A woman holds a mobile phone with Hyrox branding on it.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5380/live/fc11c310-b02f-11f1-9ae0-e316eeb4632d.jpg)

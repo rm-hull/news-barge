@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Caribbean Sea
+- Colombia
+- Ecuador
+- Quito
+- South America
+- US
+- Washington
+people:
+- Donald Trump
+- Marco Rubio
+organisations:
+- Trump
+- US Southern Command
 ---
 
 US secretary of state Marco Rubio gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused on working with allied countries and aligning with their laws but insisting the military will “still blow up ships if need be.”

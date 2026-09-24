@@ -11,6 +11,24 @@ image: https://i.guim.co.uk/img/media/6ac8e3a3560a88095d192c5be64de2c991c870df/7
 categories:
 - UK
 - News & Politics
+locations:
+- Earth
+- Patagonia
+- US
+- Utah
+people:
+- Barack Obama
+- Bill Clinton
+- Christy Goldfuss
+- Donald Trump
+- Joe Biden
+- Ryan Gellert
+organisations:
+- Bears Ears
+- NRDC
+- Natural Resources Defense Council
+- Patagonia
+- Trump
 ---
 
 Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump’s decision to significantly reduce the Bears Ears and Grand Staircase-Escalante national monuments in Utah, removing protections from nearly 3m acres.

@@ -13,6 +13,20 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Leeds
+- Liverpool Canal
+- Richard’s Endeavour
+- Skipton Sheep Trail
+people:
+- Bob Evans
+- Ralph
+- Winston Feather
+organisations:
+- Craven Action for Disability
+- SCAD
+- Skipton
+- Spirit of Endeavour
 ---
 
 *(Image: Submitted)*

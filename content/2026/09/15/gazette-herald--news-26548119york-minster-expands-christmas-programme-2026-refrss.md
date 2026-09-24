@@ -13,6 +13,16 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- York
+people:
+- Canon Maggie McClean
+- Dean
+- Tchaikovsky
+organisations:
+- Newsquest)* York Minster
+- York Minster
+- YouTube
 ---
 
 *(Image: Newsquest)*

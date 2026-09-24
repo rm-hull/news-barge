@@ -14,6 +14,13 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/6aa93ebfcb414698a87.jpg
+locations:
+- North Yorkshire
+- UK
+people:
+- Thomas Lupton
+organisations:
+- Ripon-based Econ Engineering
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa93ebfcb414698a87.jpg)

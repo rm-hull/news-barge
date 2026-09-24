@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/20/2296063815..?width=1200&height=800&crop=1200:800
+locations:
+- America
+- United States
+- White Houses
+people:
+- Barack Obama
+- Donald J. Trump
+- Donald Trump
+- Greg Kelly
+- JD Vance
+- Michael Whatley
+organisations:
+- CCJ
+- Council on Criminal Justice
+- Newsmax
+- Senate
+- Trump
+- VP
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

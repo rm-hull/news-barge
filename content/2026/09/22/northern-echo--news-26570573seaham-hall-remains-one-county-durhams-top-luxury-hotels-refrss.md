@@ -14,6 +14,32 @@ categories:
 - History
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21485250.jpg?type=og-image&xType=0&yType=106
+locations:
+- County Durham
+- Durham Heritage Coast
+- Ireland
+- North East
+- North Sea
+- Seaham Hall
+- UK
+- US
+people:
+- Ada Lovelace
+- Anne Isabella Milbanke
+- Byron
+- Kylie Minogue
+- Lionel Richie
+- Tom Maxfield
+organisations:
+- Geko
+- Harvey's Bar
+- La Liste
+- Michelin Key
+- Michelin Star
+- Milbanke Suite
+- Seaham Hall
+- Serenity Spa
+- Take That
 ---
 
 Perched on the clifftops of the Durham Heritage Coast, Seaham Hall has grown from a historic country house into one of the North East's most prestigious luxury hotels.

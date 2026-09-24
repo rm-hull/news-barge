@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Benedict Collins
+- Brent Schiestl
+organisations:
+- '## AI'
+- APT
+- BUCSIS
+- Google News
+- Perforce
+- Perforce’s Digital Creation
+- Product Management
+- State of Game Technology Report
+- State of Real-Time Workflows Report
+- TechRadar Pro
+- Tokkenmaxxing
+- University of Buckingham Centre for Security and Intelligence Studies
 ---
 
 ![Who will win the AI race?](https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB.jpg) 

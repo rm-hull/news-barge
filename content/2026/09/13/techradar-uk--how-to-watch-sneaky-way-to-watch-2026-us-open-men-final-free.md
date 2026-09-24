@@ -12,6 +12,52 @@ image: https://cdn.mos.cms.futurecdn.net/zG2kApkHvTxzToEnWuAQFH-2560-80.jpg
 categories:
 - Technology & Software
 - Sports
+locations:
+- Arthur Ashe Stadium
+- Australia
+- Canada
+- New York
+- Perth
+- Rybakina
+- Sabalenka
+- U.S.
+- UK
+- US
+- USA
+people:
+- Alexander Zverev
+- Andy Roddick
+- Ben Shelton
+- Botic van de Zandschulp
+- Carlos Alcaraz
+- Frances Tiafoe
+- Jannik Sinner
+- Karen Khachanov
+- Krishi
+- Roland Garros
+organisations:
+- 9Gem TV
+- Amazon Fire TVAndroid
+- Apple TV
+- Future Publishing
+- Google TV
+- Hulu
+- Krishi
+- Mozilla
+- NordVPN**
+- Roku 2
+- Roku Express
+- Roku Premiere
+- Roku Streambar
+- Roku Streaming Stick
+- Roku**(
+- Safari
+- TechRadar
+- Techopedia
+- The Tech Report
+- Tom's Guide
+- USA
+- YouTube TV
 ---
 
 ![USA's Ben Shelton reacts after his victory over USA's Frances Tiafoe during the men's singles semi-final tennis match on day thirteen of the US Open tennis tournament](https://cdn.mos.cms.futurecdn.net/zG2kApkHvTxzToEnWuAQFH.jpg) 

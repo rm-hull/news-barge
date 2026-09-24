@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21474810.jpg?type=og-image
+locations:
+- North Yorkshire
+- Ripon Grammar
+people:
+- Big Ben
+- Clotherholme
+- Edmund Beckett
+- Iona O'Hare
+- Jonathan Webb
+- Lord Grimthorpe
+- Matthew Buller
+- Ripon
+- William Renton
+organisations:
+- Potts & Sons of Leeds
+- Ripon Grammar School
+- The Brasserie
 ---
 
 *(Image: Supplied)*

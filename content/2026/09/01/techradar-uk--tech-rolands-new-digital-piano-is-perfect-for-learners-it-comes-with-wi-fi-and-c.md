@@ -11,6 +11,18 @@ description: Roland's FP-40 piano is the brand's first with Wi-Fi integration, a
 image: https://cdn.mos.cms.futurecdn.net/iY5AKpNoRaiUWEnffP566b-2000-80.jpg
 categories:
 - Technology & Software
+locations:
+- Roland
+people:
+- Roland
+- Rowan Davies
+organisations:
+- Bluetooth Audio
+- FP-40
+- Google News
+- Roland
+- Skoove
+- TechRadar
 ---
 
 ![A man sat by a window playing the Roland FP-40 digital piano](https://cdn.mos.cms.futurecdn.net/iY5AKpNoRaiUWEnffP566b.jpg) 

@@ -14,6 +14,33 @@ categories:
 - Harrogate
 - Arts & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY0ZmMwMWFhLWE2NmUtNDNlOS1iNjllLTRmZjMwYzA1ZTQ3Zjo2NTNlZjk3OC0xODdhLTQ4OTEtOTM5YS05ODYxNmQ4ZTI1MWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Leeds Town Hall
+- US
+people:
+- Barack Obama
+- Darryl Cunningham
+- Kate Beaton
+- Kristyna Baczynski
+- Lee Garbett
+- Lisa Wood
+- Martha Julian
+- Nabil Homsi
+- Tula Lotay
+organisations:
+- Batgirl
+- Bubble Festival
+- DSTLRY
+- Hark!
+- Harrogate Convention Centre
+- Marvel’s Daredevil
+- NYT
+- Skyward and Shadecraft
+- Thought Bubble
+- Travelling Man
+- Uncanny Spider-Man
+- Yorkshire
 ---
 
 # Harrogate Convention Centre is to host leading figures in comic book industry for Thought Bubble Festival

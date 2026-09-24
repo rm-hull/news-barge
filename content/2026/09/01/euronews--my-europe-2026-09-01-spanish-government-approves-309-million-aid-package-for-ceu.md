@@ -13,6 +13,30 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Ceuta Day Vivas
+- Melilla
+- Spain
+people:
+- '## Vivas'
+- Alberto Núñez Feijóo
+- Carlos Cuerpo
+- Ceutans
+- Elma Saiz
+- Juan Jesús Vivas
+- Podemos
+- Ángel Víctor Torres
+organisations:
+- Council of Ministers
+- Cuerpo
+- ERTE
+- FEMP
+- Government
+- PP
+- PSOE
+- Spanish Federation of Municipalities and Provinces
+- Tax Agency
+- Territorial Policy
 ---
 
 ## Spain's Economy Minister said the aid package represents a 'shock response' designed to meet the demands of social organisations and the city government.

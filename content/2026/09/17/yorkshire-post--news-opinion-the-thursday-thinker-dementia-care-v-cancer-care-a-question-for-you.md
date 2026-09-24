@@ -14,6 +14,22 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Lake Windermere
+- Manchester
+- Sheffield’s Crucible
+- UK
+people:
+- Des Lynam
+- Gerald
+- Ian McDiarmid
+- James
+- King Lear
+organisations:
+- Alzheimer’s Society
+- Enhertu
+- King’s Fund
+- NHS
 ---
 
 # The Thursday Thinker: Dementia care v cancer care, a question for you - Editor's Newsletter

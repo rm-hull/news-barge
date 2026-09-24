@@ -13,6 +13,69 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- Connecticut
+- Duchess of Sussex
+- Europe
+- Germany
+- Halle
+- Leipzig
+- London
+- Moscow
+- Russia
+- Saxony-Anhalt
+- US
+- United States
+- Wimbledon
+people:
+- '!["Blunkett'
+- Andy Burnham
+- Archie
+- Boohoo
+- Chris Philp
+- Farage
+- Holly Wiffen
+- James Cartlidge
+- Jared Kushner
+- John Healey
+- Lilibet
+- Lord Blunkett
+- Robert Jenrick
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- A&E
+- AfD
+- All England Club
+- Alternative for Germany
+- British Chamber of Commerce
+- British Chambers of Commerce
+- Daily Express
+- Daily Express.
+- Daily Mail
+- Daily Mirror
+- Daily Star
+- Daily Telegraph
+- Department of Health
+- EHCPs
+- Financial Times
+- Financial Times.
+- Guardian
+- Harry & Meg
+- Home Office
+- JK Rowling
+- Labour
+- Metro
+- NHS
+- National Gallery
+- Nato
+- Reform UK
+- Sky News
+- Sun
+- The Daily Telegraph
+- Wadsworth Atheneum
 ---
 
 !["Europe is losing battle to halt Russia's 'hybrid' war, defence officials warn" reads the headline on the front page of the Financial Times.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/2637/live/ed5a13b0-aa38-11f1-a291-b542ee92de7c.jpg)

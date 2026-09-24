@@ -13,6 +13,45 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- White House
+people:
+- Biden
+- Bill Gates
+- Charles Coristine
+- DOGE
+- Edward Coristine
+- Joe Gebbia
+- Merici Vinton
+- Musk
+- Sam Corcos
+- Trump
+organisations:
+- AI
+- Airbnb
+- America.gov
+- Center for American Progress
+- DOGE
+- Department of Government Efficiency
+- Direct File
+- Elon Musk
+- Financial Times
+- GAO
+- GSA
+- General Services Administration
+- Government Accountability Office
+- LesserEvil
+- Login.gov
+- Microsoft
+- National Design Studio
+- State Department
+- Sun*
+- The Independent
+- The Washington Sun
+- Treasury Department
+- Trump Gold Card
+- U.S. Agency for International Development
+- Wall of Receipts
 ---
 
 Former members of Elon Musk's controversial Department of Government Efficiency — including one known as “Big Balls” — are reportedly developing a new government services website for the public that will be powered by artificial intelligence.

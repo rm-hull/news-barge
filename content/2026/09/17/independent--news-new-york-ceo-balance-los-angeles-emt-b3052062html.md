@@ -14,6 +14,18 @@ categories:
 - UK
 - Careers & Productivity
 - Family & Parenting
+locations:
+- Los Angeles
+- U.S.
+people:
+- Amy Green
+- Cortney Shegerian
+- Heydi Fernandez
+- Inimai Chettiar
+organisations:
+- A Better Balance
+- EMT
+- Shegerian Conniff
 ---
 
 The ambulance dispatch station where Heydi Fernandez waited for calls as an emergency medical technician didn't have a private place to pump breast milk when she returned to work three months after giving birth to her son.

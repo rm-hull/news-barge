@@ -12,6 +12,29 @@ image: https://static.independent.co.uk/2026/09/17/21/Trump_Endangered_Species_8
 categories:
 - News & Politics
 - UK
+locations:
+- California
+- Pacific Northwest
+people:
+- Antonin Scalia
+- Barack Obama
+- Brian Nesvik
+- Dan Ashe
+- Donald Trump
+- Felling
+- Joe Biden
+- Noah Greenwald
+organisations:
+- Association of Zoos and Aquariums
+- Center for Biological Diversity
+- Congress
+- ESA
+- Fish and Wildlife Service
+- Interior Department
+- Supreme Court
+- The New York Times
+- Trump
+- U.S. Fish and Wildlife Service
 ---
 
 Inadvertently killing endangered animals while logging a forest or building a dam would no longer be considered illegal under a new interpretation of the Endangered Species Act by federal officials, marking a sea change by President Donald Trump’s administration in how the landmark environmental law is enforced.

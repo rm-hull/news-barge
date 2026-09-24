@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21296595.jpg?type=og-image
+locations:
+- Airedale Shopping Centre
+- Cavendish Street
+- East Parade
+- Gresley Road
+- Hanover Street
+- Keighley Town Centre
+- Low Street
+- YOUR
+people:
+- Hardeep Singh Sandal
+organisations:
+- Airedale Shopping Centre
+- Bradford Council
+- Keighley Cat Care
+- Keighley Creative
+- M&S
+- Marks & Spencer
+- McDonalds
+- Nandos
+- Public Notice Portal
+- Victoria Hotel
 ---
 
 ### What is the Public Notice Portal?

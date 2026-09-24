@@ -13,6 +13,20 @@ categories:
 - UK
 - Travel
 - Society & Culture
+locations:
+- Cabo Delgado
+- Marangira
+- Mozambique
+- Niassa Special Reserve
+- U.S.
+- United States
+people:
+- Tertius Jacobs
+organisations:
+- Focus Group
+- Niassa Special Reserve
+- State Department
+- Zitamar News
 ---
 
 At least three Americans were evacuated after suspected insurgents attacked and burned a hunting camp in a wildlife reserve in northern Mozambique, according to a source familiar with the incident.

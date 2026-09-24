@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- AI
+- Anton Shilov
+- Dario Amodei
+- Evan Hubinger
+- Frank Herbert
+- James Cameron
+- Tom
+organisations:
+- AI
+- Anthropic
+- Get Tom's Hardware
+- Google News
+- MrK26
+- SenVetis
+- Tom’s Hardware
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/SvLU6cxYvNBbAzAkMrzDeL.jpg) 

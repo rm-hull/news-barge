@@ -14,6 +14,41 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Bradford
+- Bradford’s Alhambra Theatre
+- Calderdale
+- Gentleman Jack
+- Halifax Minster
+- Haworth
+- Listers Road
+- Little Germany
+- Minster houses Lister
+- Ring O’ Bells
+- Saltaire
+- Salts Mill
+- The Piece Hall
+people:
+- Anna Jaxe
+- Anne Lister
+- Bradford
+- Gentleman Jack
+- Mark Simmons
+- Peter Williams
+- Suranne Jones
+organisations:
+- BBC
+- Bradford
+- HBO
+- Little Germany
+- Nearby Wainhouse Tower
+- Northern Ballet
+- Saltaire
+- Shibden Hall
+- UNESCO City of Film
+- UNESCO World Heritage
+- World Heritage
+- Yorkshire
 ---
 
 Northern Ballet’s Gentleman Jack arrives at Bradford’s Alhambra Theatre today (September 3), bringing Anne Lister’s story to the stage.

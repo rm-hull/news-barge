@@ -11,6 +11,9 @@ image: https://cdn.mos.cms.futurecdn.net/WcYvPapmgjHvX6hfQHZpWn-1080-80.jpg
 categories:
 - Technology & Software
 - Careers & Productivity
+locations: []
+people: []
+organisations: []
 ---
 
 Get daily insight, inspiration and deals in your inbox

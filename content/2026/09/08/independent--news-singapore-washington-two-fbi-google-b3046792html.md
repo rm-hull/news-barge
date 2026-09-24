@@ -16,6 +16,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - Technology & Software
+locations:
+- Los Angeles
+- Miami
+- Singapore
+- U.S.
+- Washington
+- Washington, D.C.
+people:
+- Colleen Kollar-Kotelly
+- Malone Lam
+organisations:
+- FBI
+- Gemini
+- Google
+- Justice Department
 ---
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident — one of the largest cryptocurrency thefts in U.S. history — and then embarking on a wild spending spree with the laundered proceeds.

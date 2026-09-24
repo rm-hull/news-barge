@@ -13,6 +13,21 @@ categories:
 - Society & Culture
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/19/17/2026-09-19T023408Z_1676795578_RC20MNAYWKDZ_RTRMADP_3_CUBA-CRISIS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Camagüey
+- Cuba
+- Granma
+- Havana
+- Matanzas
+- Pinar del Río
+- United States
+people:
+- Abilén Marrero
+- Mercedes Rodriguez
+organisations:
+- Granma
+- Ministry of Energy and Mines
+- The Associated Press
 ---
 
 Millions of people across Cuba were left without electricity on Friday following a total collapse of the island's power grid.

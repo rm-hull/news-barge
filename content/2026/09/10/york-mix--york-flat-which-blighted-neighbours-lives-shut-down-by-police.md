@@ -12,6 +12,15 @@ categories:
 - York
 - News & Politics
 - Society & Culture
+locations:
+- Regent Street
+- Selby
+- York
+people:
+- Ryan Chapman
+organisations:
+- '#### Cornetto Court'
+- Cornetto Court
 ---
 
 A York flat which was a magnet for trouble has been targeted by police

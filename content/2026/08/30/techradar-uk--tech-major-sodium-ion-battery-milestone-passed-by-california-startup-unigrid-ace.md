@@ -12,6 +12,27 @@ image: https://cdn.mos.cms.futurecdn.net/nbGANf34NLVwWVjzLTLQWg-1403-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- England
+- Nature
+- Stockport
+- US
+- Unigrid
+people:
+- Abu Faizal Abdul Salam et al
+- Dave
+- David Nield
+organisations:
+- CATL
+- Gizmodo
+- Google News
+- Hyundai
+- Interesting Engineering
+- Journal of Materials Chemistry A
+- Journals of Materials Chemistry A
+- PC Explorer
+- The Hardware Handbook
+- Unigrid
 ---
 
 ![A Unigrid sodium-ion battery on a factory floor](https://cdn.mos.cms.futurecdn.net/nbGANf34NLVwWVjzLTLQWg.jpg) 

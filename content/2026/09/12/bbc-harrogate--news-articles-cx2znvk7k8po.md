@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - Arts & Culture
 - Home, Garden & DIY
+locations:
+- Caedmon House
+- Whitby
+people: []
+organisations:
+- Caedmon House
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- The Royal Hotel
 ---
 
 ![A bright pink three‑storey building with matching pink window frames and door, next to cream‑coloured buildings, with two parked cars and a yellow ladder leaning by the entrance.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/63b8/live/0a26a9f0-aeac-11f1-8972-d5c52a82c3b8.png)

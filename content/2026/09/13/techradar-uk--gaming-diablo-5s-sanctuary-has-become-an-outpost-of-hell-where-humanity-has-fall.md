@@ -12,6 +12,21 @@ image: https://cdn.mos.cms.futurecdn.net/Vuvnto3cV5bWarYNZ5CDM-2000-80.jpg
 categories:
 - Technology & Software
 - History
+locations: []
+people:
+- Joe Shely
+- Rob Dwiar
+organisations:
+- Blizzard
+- Diablo
+- GamesRadar+
+- Google News
+- Hardware
+- Sanctuary
+- Streaming
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![An image of Diablo's world, Sanctuary, destroyed in Diablo 5](https://cdn.mos.cms.futurecdn.net/Vuvnto3cV5bWarYNZ5CDM.jpg) 

@@ -13,6 +13,17 @@ categories:
 - UK
 - Travel
 - Technology & Software
+locations:
+- East Anglia
+- Lowestoft
+- Pleasurewood Hills
+- Suffolk
+people: []
+organisations:
+- Lowestoft Journal
+- Pleasurewood Hills
+- Suffolk County Council
+- The Independent
 ---
 
 Twenty-seven people have been rescued after becoming stuck on a rollercoaster at the Pleasurewood Hills theme park in Lowestoft in Suffolk.

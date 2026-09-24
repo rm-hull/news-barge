@@ -13,6 +13,21 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- AI
+- Estonia
+- Europe
+- France
+- Germany
+- Spain
+people:
+- Andreas Schleicher
+organisations:
+- AI
+- EU
+- Euronews
+- OECD
+- PISA
 ---
 
 ## The father of the world-famous standardised PISA tests warned that a dramatic decline in parental interest and tech-driven behavioural changes could be behind record-low student performances.

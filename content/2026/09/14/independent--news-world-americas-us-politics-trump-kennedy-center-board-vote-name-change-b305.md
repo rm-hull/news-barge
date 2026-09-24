@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- America
+- Kennedy Center
+- Washington, D.C.
+people:
+- Christopher Cooper
+- David Rubenstein
+- Donald J. Trump
+- Joel Shapiro
+- Joyce Beatty
+- Kennedy
+- Nathaniel Zelinsky
+- Roma Daravi
+organisations:
+- Congress
+- Delta Consulting Group
+- Department of Justice
+- John F. Kennedy Center
+- John F. Kennedy Center for the Performing Arts
+- Kennedy Center
+- National Gallery
+- Renovation Restoration and Endowment
+- Renovation and Restoration
+- The John F. Kennedy Center
+- The John F. Kennedy Memorial Center for the Performing Arts
+- The Trump Kennedy Center Fund
+- Trump Kennedy Center Fund
 ---
 
 “The John F. Kennedy Center for the Performing Arts With Gratitude for Support from President Donald J. Trump and the Trump Kennedy Center Fund”?

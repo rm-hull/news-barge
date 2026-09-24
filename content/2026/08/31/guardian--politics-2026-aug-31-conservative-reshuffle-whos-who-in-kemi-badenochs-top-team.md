@@ -12,6 +12,51 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Afghanistan
+- Arundel
+- Hornchurch
+- Iraq
+- South Downs
+- Upminster
+people:
+- '## Claire Coutinho Widely'
+- Andrew Bowie
+- Andrew Griffith Griffith
+- Andy Burnham
+- Angela Rayner
+- Boris Johnson
+- Chris Philp
+- Claire Coutinho
+- Damian Hinds
+- Ed Miliband
+- James Cartlidge
+- Julia Lopez
+- Just Eat
+- Katie Lam
+- Kemi Badenoch
+- Liz Truss
+- Mel Stride
+- Nigel Farage
+- Nigella Lawson
+- Priti Patel
+- Rishi Sunak
+- Stuart Andrew
+- Tom Tugendhat
+- Tom Tugendhat Badenoch
+organisations:
+- AI
+- Cpac
+- KPMG
+- Labour
+- Merrill Lynch
+- PMQs
+- PR
+- Portland Communications
+- Reform UK
+- Sky
+- Tory
+- Truss
 ---
 
 Kemi Badenoch has kicked off the return to parliament with a reshuffle of her top team in order to take on Andy Burnham and Reform UK. She has made sweeping changes to the shadow cabinet and ruthlessly axed her shadow chancellor. Here is a run-down of the new characters sitting across from Labour on the opposition frontbench.

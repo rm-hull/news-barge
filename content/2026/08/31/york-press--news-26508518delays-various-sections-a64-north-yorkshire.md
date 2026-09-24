@@ -11,6 +11,15 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- Claxton
+- Crambeck
+- Flaxton
+- Musley Bank
+- North Yorkshire
+people: []
+organisations:
+- A64
 ---
 
 *(Image: Contributed)*

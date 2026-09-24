@@ -15,6 +15,26 @@ categories:
 - News & Politics
 - Food & Cooking
 - Travel
+locations:
+- Lastingham
+- Malcolm Warne
+- North York Moors
+- Northallerton
+people:
+- Alastair Moran
+- Malcolm Warne
+- Savoy
+organisations:
+- Ampleforth
+- Church of St Mary
+- North York Moors
+- Parma
+- Rosedale Reading Room
+- Updale Institute
+- Updale Women’s Institute
+- WIs
+- White Horse Inn
+- Yorkshire Tapas’
 ---
 
 This week’s review comes to you courtesy of the ladies of Updale Women’s Institute.

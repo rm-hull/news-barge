@@ -11,6 +11,24 @@ image: https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg
 categories:
 - Technology & Software
 - Science
+locations: []
+people:
+- Claude
+organisations:
+- AI
+- Amazon Web Services
+- Anthropic
+- Automata
+- Danaher
+- Doosan Robotics
+- Efosa
+- Google News
+- MBF Bioscience
+- MHS
+- QIAGEN
+- Tecan
+- TechRadar Pro
+- Universal Robots
 ---
 
 ![Anthropic Claude](https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ.jpg) 

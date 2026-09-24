@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Britain
+- Muchelney Abbey
+- Somerset
+- West Country
+people:
+- Bathsheba Everdene
+- Charles
+- Ginny Slade
+- James Adams
+- Mark Clark
+- Muchelney
+- Thomas Hardy
+organisations:
+- Bumblebee Conservation Trust
+- English Heritage
+- Exmoor National Park Authority
 ---
 
 It sounds like something out of a Thomas Hardy novel: a merry band of men and women roaming the West Country cutting meadows by hand in exchange for hunks of bread and cheese.

@@ -14,6 +14,17 @@ categories:
 - UK
 - True Crime
 - Law & Justice
+locations:
+- Massachusetts
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Kevin Reddington
+- Lindsay Clancy
+- Patrick Clancy
+- William Sullivan
+organisations: []
 ---
 
 The deadlocked jury in the Lindsay Clancy trial has been sent home without a verdict once again after a dramatic sixth day of deliberations.

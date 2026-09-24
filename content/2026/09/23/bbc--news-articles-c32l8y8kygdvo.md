@@ -13,6 +13,33 @@ categories:
 - History
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9888/live/768b63b0-b771-11f1-a7b2-f3bdba1cd194.jpg
+locations:
+- Amazon
+- Britain
+- Canada
+- China
+- Europe
+- Russia
+- UK
+- US
+- Washington
+people:
+- ACM Smyth
+- Harv Smyth
+- Harvey Smyth
+- Wes Streeting
+organisations:
+- ACM Smyth
+- BBC
+- GPS
+- Ministry of Defence
+- MoD
+- RAF
+- Space Command
+- Streeting
+- UK Space Command
+- UK Space Conference
+- US Space Force
 ---
 
 ![Stock image of the UK Space Command badge stitched onto the arm of a soldier](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9888/live/768b63b0-b771-11f1-a7b2-f3bdba1cd194.jpg)

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - True Crime
+locations:
+- Bradford South
+- Bradford West
+- Keighley
+- West Yorkshire
+people: []
+organisations:
+- CCTV
+- Crimestoppers
+- HERE'S
 ---
 
 *(Image: WYP)*

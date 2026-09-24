@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Blake Street
+- North Yorkshire
+- York
+people: []
+organisations:
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

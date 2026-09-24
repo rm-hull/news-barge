@@ -11,6 +11,47 @@ image: https://static.independent.co.uk/2026/09/04/13/19/GettyImages-2293245877.
 categories:
 - News & Politics
 - UK
+locations:
+- Alaska
+- Dallas
+- Florida
+- Iran
+- Michigan
+- New York
+- Pennsylvania
+- Rose Garden
+- Texas
+- White House
+people:
+- Anna Paulina Luna
+- Dan Sullivan
+- Donald Trump
+- Kamala Harris
+- Ken Paxton
+- Mike Lawler
+- Natalie Baldassarre
+- Olivia Wales
+- Richard Hudson
+- Rob Bresnahan
+- Tom Barrett
+organisations:
+- AP-NORC
+- Cook Political Report
+- Gallup
+- Harris
+- Harvard CAPS
+- House
+- MAGA Inc
+- MAGA Majority
+- National Republican Congressional Committee
+- PAC
+- Pew Research Center
+- Politico
+- Quinnipiac
+- Republican National Committee
+- Reuters/Ipsos
+- Trump
+- University of Massachusetts Amherst
 ---
 
 Republicans in some of the most competitive races in the country have told President Donald Trump's political operation that they do not want him campaigning in their districts this fall — including in seats he won by double digits two years ago.

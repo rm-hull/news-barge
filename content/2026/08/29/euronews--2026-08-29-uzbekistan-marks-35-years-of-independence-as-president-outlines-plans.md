@@ -14,6 +14,23 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Africa
+- Americas
+- Asia-Pacific
+- Central Asia
+- New Tashkent
+- Soviet Union
+- Uzbekistan
+people:
+- Alessandro Safina
+- Islam Karimov
+- José Carreras
+- Sarah Brightman
+- Shavkat Mirziyoyev
+organisations:
+- European Union
+- Non-Aligned Movement
 ---
 
 ## The anniversary ceremony in New Tashkent combined political messaging with a large-scale cultural programme. President Shavkat Mirziyoyev announced seven national programmes, including major targets for investment, education, healthcare and economic growth.

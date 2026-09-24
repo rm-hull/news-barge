@@ -12,6 +12,35 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Anfield
+- Blackheath
+- China
+- Greenwich
+- London
+- Nepal
+- Nuwakot
+- Trishuli
+people:
+- David Wardrop
+- Jane Davis
+- Joanna Lumley
+- Lord Wood
+- Sally Lindsay
+- Steve White
+organisations:
+- 6th Gurkha Rifles
+- British Army
+- British Indian Army
+- Coronation Street
+- Doctors for Nepal
+- Foreign Office
+- House of Lords
+- Ministry of Foreign Affairs
+- Panas Gurkha Restaurant
+- The Gurkha Welfare Trust
+- USGS
+- United States Geological Survey
 ---
 
 Dame Joanna Lumley has described the flash flood in Nepal as "heartbreaking", suggesting the disaster "could have maybe been predicted" as she attended a vigil for those affected.

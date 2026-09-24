@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Travel
+locations:
+- Atlantic
+- Europe
+- France
+- Northern England
+- Northern Ireland
+- Scotland
+- Skegness
+- UK
+- Wales
+people: []
+organisations:
+- BBC Weather
+- Eastern Scotland
 ---
 
 ![A seaside scene in Skegness with a big wheel and a funfair, the skies are blue](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a83e/live/b8175640-a777-11f1-b2d5-535b3b3d379f.jpg)

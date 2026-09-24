@@ -13,6 +13,44 @@ image: https://cdn.mos.cms.futurecdn.net/yphsYc2hYSBLVPmEXJN5bW-1920-80.jpg
 categories:
 - Technology & Software
 - Film & TV
+locations:
+- Amazon
+- Virgin River
+people:
+- Alison Thornton
+- Amber Midthunder
+- Arthur Conti
+- Billy
+- Carrie White
+- Chamberlain
+- Chris Hargensen
+- Emaline
+- George Cooper Sr.
+- Grayle
+- Joel Oulette
+- Josie Totah
+- Margaret White
+- Matthew Lillard
+- Mike Flanagan
+- Miss Desjardin
+- Samantha Sloyan
+- Siena Agudong
+- Sissy Spacek
+- Stephen King
+- Sue Snell
+- Summer H. Howell
+- Thalia Dudek
+- Tina
+- Tommy Ross
+organisations:
+- Google News
+- Hallmark
+- Jasmine
+- Netflix
+- Radio Times
+- Stylist
+- TechRadar
+- Yahoo!
 ---
 
 ![Carrie looks concerned about something offscreen](https://cdn.mos.cms.futurecdn.net/yphsYc2hYSBLVPmEXJN5bW.jpg) 

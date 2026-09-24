@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations:
+- UK
+people: []
+organisations:
+- Future plc
+- Ricoh Digital Experience Centre
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Workers gather around a desk in a futuristic office](https://cdn.mos.cms.futurecdn.net/cnsWkMrXZfFuz5FGFGK72n.jpg) 

@@ -14,6 +14,27 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- Belmont
+- Harrogate
+people:
+- Andy Brown
+- Charles Taylor
+- Claire
+- Clare Morrow
+- Fiona Fox
+- Frederick Belmont
+- Paul Coupe
+- Simon Eyles
+organisations:
+- Bettys & Taylors
+- Bettys & Taylors Group
+- Bettys & Taylors Group Board
+- Co-CEO
+- Inspired Pet Nutrition
+- Mars
+- Procter & Gamble
+- Taylors of Harrogate
 ---
 
 # Famous Harrogate family business's announcement: Two senior leadership appointments as part of changes to leadership structure

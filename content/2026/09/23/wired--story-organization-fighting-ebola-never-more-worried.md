@@ -13,6 +13,37 @@ categories:
 - Science
 - News & Politics
 image: https://media.wired.com/photos/6ab2cd570ef9fcff0e0baf15/191:100/w_1280,c_limit/092226-Ebola%20Vaccine.jpg
+locations:
+- Bundibugyo
+- DRC
+- Democratic Republic of Congo
+- Oxford
+- US
+- Uganda
+- West Africa
+- West Africa Ebola
+people:
+- Covid
+- Donald Trump
+- Emily Hillard
+- Nicole Lurie
+- Obama
+- Teresa Lambe
+organisations:
+- Bill & Melinda Gates Foundation
+- CDC
+- CEPI
+- Coalition for Epidemic Preparedness Innovations
+- DRC
+- Department of Health and Human Services
+- Moderna
+- Oxford University
+- Red Cross
+- Serum Institute of India
+- US Department of Health and Human Services
+- US State Department
+- USAID
+- World Health Organization
 ---
 
 Ebola hasn’t gone away. In fact, the ongoing outbreak in Africa is among the most concerning epidemics the organization trying to tame it has ever seen.

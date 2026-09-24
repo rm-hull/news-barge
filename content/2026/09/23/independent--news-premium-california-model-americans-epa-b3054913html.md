@@ -13,6 +13,23 @@ categories:
 - Technology & Software
 - Automotive
 image: https://static.independent.co.uk/2026/09/23/11/Behind_The_Wheel_5_24_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Edmunds
+- Edmunds’
+- Standard Long Range
+people:
+- Edmunds
+- Michael Cantu
+- Rivian
+organisations:
+- California EV
+- EPA
+- Edmunds
+- Edmunds’
+- NACS
+- Rivian
+- Tesla
+- The Associated Press
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

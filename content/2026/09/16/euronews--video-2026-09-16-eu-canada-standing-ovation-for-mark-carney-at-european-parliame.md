@@ -14,6 +14,16 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Canada
+- Strasbourg
+people:
+- Mark Carney
+- Ursula von der Leyen
+organisations:
+- EU
+- European Commission
+- European Parliament
 ---
 
 Canadian Prime Minister Mark Carney received a standing ovation at the European Parliament in Strasbourg on Wednesday.

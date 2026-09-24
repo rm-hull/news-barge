@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Baxtergate
+- Juliet
+- Juliette
+- New Quay Road
+- Whitby
+people: []
+organisations:
+- Barclays Bank
+- Baxtergate
+- North Yorkshire Council
+- Post Office
+- Town Centre Of Whitby
+- Whitby Civic Society
+- Whitby Town Council and North Yorkshire Council
+- Yorkshire Trading Company
 ---
 
 A bargain shop in Whitby has revised its expansion plans in the town after a series of objections from local groups and council planners.

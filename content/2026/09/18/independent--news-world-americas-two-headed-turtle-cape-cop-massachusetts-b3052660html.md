@@ -11,6 +11,19 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Barnstable
+- Cape Cod
+- Cape Wildlife Center
+- Mass Audubon Wellfleet Bay Wildlife Sanctuary
+- Massachusetts
+people:
+- Zak Mertz
+organisations:
+- CBS News
+- Facebook
+- National Geographic
+- New England Wildlife Center
 ---
 
 Double trouble! A rare two-headed baby turtle has been discovered on Cape Cod.

@@ -12,6 +12,29 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 - Careers & Productivity
+locations:
+- AI
+- Silicon Valley
+- UK
+people:
+- Mark Zuckerberg
+- Meta
+- Mike Moore
+- Muse
+organisations:
+- B2B
+- B2C
+- Facebook
+- Google News
+- Google Workspace
+- ITProPortal
+- Instagram
+- Meta Muse AI
+- OpenClaw
+- Stripe
+- Supermassive Black
+- TechRadar Pro
+- WhatsApp
 ---
 
 ![Meta Muse AI agent](https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4.jpg) 

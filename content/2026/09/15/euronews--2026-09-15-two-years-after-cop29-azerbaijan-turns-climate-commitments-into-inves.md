@@ -13,6 +13,41 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Antalya
+- Azerbaijan
+- BRIDGE
+- Baku
+- Black Sea
+- Central Asia
+- Eastern Europe
+- Kazakhstan
+- Kyrgyzstan
+- South Caucasus
+- Tajikistan
+- Turkey
+- Uzbekistan
+people:
+- António Guterres
+- Fatma Varank
+- Jens Nielsen
+- Majnun Mammadov
+- Nasar Hayat
+- Petra Schwager
+- Yalchin Rafiyev
+organisations:
+- COP29
+- COP31
+- Euronews Baku
+- FAO
+- Ministry of Environment, Urbanisation and Climate Change
+- SURF
+- UN Development Programme
+- UN Food and Agriculture Organisation
+- UN Framework Convention on Climate Change
+- UN Industrial Development Organisation
+- UNIDO
+- World Climate Foundation
 ---
 
 **Euronews Baku bureau**

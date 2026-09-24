@@ -14,6 +14,27 @@ categories:
 - York
 - Food & Cooking
 - Travel
+locations:
+- CITY
+- Gillygate
+- UK
+- York
+- Yorkshire
+people:
+- Chris Pragnell
+- Ian Pragnell
+- Ian Pragnell.
+- Lucie Wake
+- Martin Gore
+organisations:
+- Bistro
+- Café No 8
+- Good Food Guide
+- Harden’s
+- Newsquest
+- Olive
+- SquareMeal
+- The Good Food Guide
 ---
 
 A CITY bistro has earned a spot in the Good Food Guide after impressing diners and inspectors alike.

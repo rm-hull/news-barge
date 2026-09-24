@@ -11,6 +11,20 @@ image: https://cdn.mos.cms.futurecdn.net/MQg6bgb2ivV7eRFBy4HurZ-2560-80.jpg
 categories:
 - Technology & Software
 - Lifestyle & Fashion
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- CISA
+- CTI
+- Google News
+- Represent Communications
+- TechRadar Pro
+- US Cybersecurity and Infrastructure Security Agency
+- Zero Trust
 ---
 
 ![A 3d rendering of "sweet returns" or "liquid gold," the combination of the honey (the lure) and the coins (the asset) is a classic visual metaphor for a honeypot scam.](https://cdn.mos.cms.futurecdn.net/MQg6bgb2ivV7eRFBy4HurZ.jpg) 

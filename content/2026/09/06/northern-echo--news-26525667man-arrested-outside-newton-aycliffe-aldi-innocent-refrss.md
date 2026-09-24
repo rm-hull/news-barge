@@ -13,6 +13,17 @@ categories:
 - Local
 - UK
 - News & Politics
+locations:
+- Aldi
+- County Durham
+- Newton Aycliffe
+people:
+- Aldi
+organisations:
+- CCTV
+- Durham Police
+- GOOGLE
+- PCC
 ---
 
 *(Image: GOOGLE)*

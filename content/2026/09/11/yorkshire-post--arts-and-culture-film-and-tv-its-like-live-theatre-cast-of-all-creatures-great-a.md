@@ -16,6 +16,78 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Australia
+- Charlotte
+- Darrowby
+- Goole
+- Grassington
+- Harrogate
+- Hebden
+- Japan
+- Kettlewell
+- London
+- Mrs Hall
+- Skeldale House
+- South Africa
+- United Kingdom
+- Yorkshire
+people:
+- Anna Madeley
+- Arthur Sugdale’
+- Ben
+- Callum Woodhouse
+- Caolan McCarthy
+- Charlotte
+- Dorothy
+- Gaia Wise
+- Graham Hall
+- Granville Bennett
+- Helen Herriot
+- Helen Williams
+- Imogen Clawson
+- Isabella Ward
+- James Herriot
+- Jenny Alderson
+- Jim Wight
+- Jimmy Herriot
+- Lenny
+- Maggie
+- Mark
+- Molly Winnard
+- Mrs Hall
+- Nicholas Ralph
+- Nick
+- Patricia Hodge
+- Pumphrey
+- Rachel Shenton
+- Rosie Herriot
+- Rosie Page
+- Sam
+- Samuel West
+- Siegfried Farnon
+- Stephanie Smith
+- Thomas Riches
+- Tristan Farnon
+- Yeah
+organisations:
+- All Creatures Great and Small
+- Atkinson Action Horses
+- Bradford City Hall
+- Broadcasting Limited
+- Channel 5
+- Darrowby
+- Helen Williams
+- Mrs Hall
+- Playground Television UK Ltd
+- RSC
+- Rivals
+- Royal Veterinary College
+- Skeldake
+- Skeldale House
+- The Drovers –
+- The Yorkshire Post
+- Yorkshire Dales
 ---
 
 # 'It's like live theatre': Cast of All Creatures Great and Small Season 7 on filming in the Yorkshire Dales

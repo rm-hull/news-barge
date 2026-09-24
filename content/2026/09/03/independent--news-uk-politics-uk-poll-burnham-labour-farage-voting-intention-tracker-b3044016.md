@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Birmingham
+- Britain
+- Westminster
+people:
+- Andy Burnham
+- Green
+- Keir
+- Nigel Farage
+- Rupert Lowe
+organisations:
+- Labour
+- Liberal
+- Reform
+- YouGov
 ---
 
 Nigel Farage’s party continues to drop in popularity as Reform begin their annual conference in Birmingham.

@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beckside
+- Bradford
+- Yorkshire
+people:
+- Fahad Qureshi
+- Mike Simmonds
+- Padel
+organisations:
+- Beckside Business Park
+- Bradford
+- Strike Padel
+- T&A
 ---
 
 A Bradford padel business has announced a major expansion of its flagship venue, more than doubling its capacity and creating what it describes as one of the region's leading indoor facilities.

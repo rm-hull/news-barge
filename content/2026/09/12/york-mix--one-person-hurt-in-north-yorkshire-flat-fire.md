@@ -11,6 +11,18 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- '#### Victoria Road'
+- Darlington
+- Leyburn
+- North Yorkshire
+- Reeth
+- Richmond
+- Victoria Road
+people: []
+organisations:
+- Immediate Emergency Care
+- Richmond A North Yorkshire Fire & Rescue Service
 ---
 
 One person was taken to hospital after a fire in a North Yorkshire town.

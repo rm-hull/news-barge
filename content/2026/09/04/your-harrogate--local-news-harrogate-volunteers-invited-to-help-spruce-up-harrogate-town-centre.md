@@ -12,6 +12,12 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+people:
+- Jason Maxwell
+organisations:
+- Harrogate BID
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a9674a0effc5e264.jpg) 

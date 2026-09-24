@@ -14,6 +14,31 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21230472.jpg?type=og-image
+locations:
+- England
+- Northern Ireland
+people:
+- Andy Burnham
+- Dale Vince
+- David Gauke
+- James Speakman
+- John Healey
+organisations:
+- BBC Radio 4
+- Bank of England
+- Conservative Treasury
+- Government
+- HMRC
+- Labour
+- OBR
+- Office for Budget Responsibility
+- PA Wire
+- Starbucks
+- State Pension
+- State Pension Triple Lock
+- The Times
+- Triple Lock
+- Wales
 ---
 
 *(Image: James Speakman/The Times/PA Wire)*

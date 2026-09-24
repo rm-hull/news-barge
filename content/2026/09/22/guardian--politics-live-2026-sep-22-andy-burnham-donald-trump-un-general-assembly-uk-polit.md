@@ -11,6 +11,125 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/56c58cb40b5288e4e7aa737a6ca86e97e2953c92/391_0_2459_1968/master/2459.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f9a35c93096e362cba91976114d3e903
+locations:
+- AI
+- Atlantic
+- Australia
+- Bahrain
+- Brighton
+- Britain
+- Builth Wells
+- Canada
+- Central Park
+- Central Park It
+- China
+- DonaldTrumptold
+- Downing Street
+- Germany
+- Greater Manchester
+- Iran
+- Manchester’
+- Middle East
+- New York
+- Russia
+- Saudi Arabia
+- Singapore
+- Tehran
+- UK
+- US Capitol
+- Ukraine
+- United Arab Emirates
+- United Kingdom
+- United States
+- Wales
+- White House
+- Yemen
+people:
+- AI
+- Andy Burnham
+- Daisy Cooper
+- Danny Dyer
+- Darren Jones
+- Donald Trump
+- Ed Davey
+- Emmanuel Macron
+- Getty Images Burnham
+- Helen Jenner
+- Josh Babarinde
+- Josh Turner
+- Kanishka Narayan
+- Keir Starmer
+- Keir] Starmer
+- Kemi Badenoch
+- Laura Anne Jones
+- Marie-France van Heel
+- Mark Carney
+- Matthew Horwood
+- Nathan Brooker
+- Nigel Farage
+- Pedro Sánchez
+- Peter Walker
+- Pippa Crerar
+- Sam Coates
+- Sam Fleming
+- Stefan Rousseau
+- Theresa May
+- Toby Melville
+- Trump Good
+- Ursula von der Leyen
+- Valentina Romei
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- AI Security Institute
+- AP Reform UK
+- American AI
+- Bank of England
+- BoE
+- Brexit
+- Campaign Against Arms Trade
+- EU
+- EU-UK
+- Equality and Human Rights Commission
+- European Commission
+- European Union
+- Financial Times
+- Frontier AI
+- G20
+- G7
+- GB News
+- Glee Club
+- Guardian
+- Labour
+- Lib Dem
+- Lib Dems
+- Lib Dems’
+- Liberal Democrat
+- London Playbook
+- Manchester Evening News
+- Ministry of Defence Rapid AI Delivery Taskforce
+- Nato
+- No 10
+- Politico
+- Pool Reuters
+- Reform UK
+- Reform UK MSs
+- Reuters Burnham
+- Royal Welsh Agricultural Show
+- Senedd
+- Sky News
+- Socks
+- Tories
+- Tory
+- Transition Security Project
+- UN
+- UNGA
+- US’s Department of War Chief Digital and Artificial Intelligence Office
+- United Nations
+- United Nations General Assembly
+- WPA
+- Wales Reform UK
+- West Ham
 ---
 
 Andy Burnham and his wife Marie-France van Heel board a plane for the United States, ahead of attending the 81st United Nations General Assembly (UNGA). Photograph: WPA/Getty Images

@@ -14,6 +14,36 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/17/57/1200x675_cmsv2_c6739a00-4165-55ea-b01b-b7aa3206d3ac-9921757.jpg
+locations:
+- Baghdad
+- Gulf
+- Iran
+- Iraq
+- Salah al-Din
+- Samarra
+- Tehran
+- US
+- Washington
+people:
+- Al-Awadi
+- Al-Zaidi
+- Ali al-Zaidi
+- Asaib Ahl al-Haq
+- Ayatollah Ali al-Sistani
+- Harakat al-Nujaba
+- Hussein al-Awadi
+- Kataib Hezbollah
+- Kataib Imam Ali
+- Mohammed Shia al-Sudani
+- Muqtada al-Sadr
+- Saraya al-Salam
+organisations:
+- IRGC
+- Interior Ministry
+- Islamic State
+- PMF
+- Popular Mobilisation Forces
+- Shiite Coordination Framework
 ---
 
 ## Baghdad recast 30 September — originally a hard deadline for armed factions to surrender an estimated 6 million weapons — as the start of the regulatory process as Kataib Hezbollah and Harakat al-Nujaba refuse to hand over what they call "resistance weapons".

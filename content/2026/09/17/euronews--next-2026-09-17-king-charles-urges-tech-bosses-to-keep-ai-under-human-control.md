@@ -12,6 +12,29 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Britain
+- China
+- Dumfries House
+- Scotland
+- UK
+- US
+- Vatican
+people:
+- AI
+- Charles III
+- Dario Amodei
+- Jacob Coxon
+- Kanishka Narayan
+- King
+- Nvidia Jensen Huang
+organisations:
+- AI Security Institute
+- Anthropic
+- Artificial Intelligence
+- Google DeepMind
+- Nvidia
+- OpenAI
 ---
 
 ## The UK has a significant role in AI safety through its AI Security Institute and research community, but the sector itself is dominated by the US and China.

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/21/20/04/GettyImages-2294931608.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- New York City
+- United States
+- White House
+people:
+- Betsy Klein
+- Brian Stelter
+- Donald Trump
+- Melania Trump
+organisations:
+- CNN
+- MS NOW
+- Media Outlets
+- Politico
+- Secret Service
+- The Independent
+- Trump Administration
+- Truth Social
+- U.N.
+- USA Today
+- United Nations General Assembly
+- United States of America
 ---
 
 Days after President Donald Trump banned CNN from the White House, First Lady Melania Trump’s office approved a request from the outlet to cover an upcoming event with her in New York City.

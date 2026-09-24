@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Dales
+- Emmerdale
+- Hanover Street
+- Holby City
+people:
+- '## Patsy Kensit'
+- Cain Dingle
+- Faye Morton
+- Jimmy King
+- Liam Gallagher
+- Ms Kensit
+- Ms Wheeler
+- Nicola Wheeler
+- Patsy Kensit
+- Robert Sugden
+- Sadie King
+organisations:
+- Absolute Beginners
+- Emmerdale
+- ITV
+- YouTube
 ---
 
 *(Image: YouTube/ITV)*

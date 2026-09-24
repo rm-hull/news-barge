@@ -11,6 +11,12 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- B1363 York Road
+- Sutton-on-the-Forest
+people: []
+organisations:
+- Audi
 ---
 
 **Police are appealing for information after a man in his 70s died in hospital following a car crash.**

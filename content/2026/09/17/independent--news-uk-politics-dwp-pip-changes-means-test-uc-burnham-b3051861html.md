@@ -11,6 +11,20 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations: []
+people:
+- Eduin Latimer
+- Ross Barrett
+- Stephen Timms
+organisations:
+- DWP
+- IFS
+- Institute for Fiscal Studies
+- Labour
+- MS Society
+- PIP
+- Stephen’s
+- Timms Review
 ---
 
 The government could save billions on welfare spending by making the personal independence payment (PIP) a means-tested benefit, an influential think tank has said.

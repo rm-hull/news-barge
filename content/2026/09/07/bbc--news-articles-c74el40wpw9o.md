@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Bristol
+- England
+- Gloucestershire
+- Minehead
+- Scotland
+- Somerset
+- Wales
+- Warrington Crown Court
+people:
+- Gisèle Pélicot
+- Jazz
+- Kelly Faiers
+- Krystyna Scatchard
+- Marcia
+- Marianne Hester
+- Mike Faiers
+- Nicole Jacobs
+- Richard Dunlop
+- Richard Scatchard
+- Richard Scatchard.
+organisations:
+- Avon and Somerset Police
+- BBC West Investigations
+- Bristol University
+- CNN
+- Jazmin Faiers
+- Krystyna
+- Ministry of Justice
+- National Crime Agency
+- Parole Board
+- Probation Service
+- Tania Jackson
+- Women's Aid
 ---
 
 ![A woman with short reddish hair with a neutral expression faces the camera while sitting a room with black and brown wallpaper.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bbaf/live/3722d930-a865-11f1-a291-b542ee92de7c.jpg)

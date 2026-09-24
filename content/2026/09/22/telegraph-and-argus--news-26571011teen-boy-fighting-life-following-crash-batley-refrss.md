@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Automotive
 image: https://www.thetelegraphandargus.co.uk/resources/images/21485949.jpg?type=og-image
+locations:
+- Batley
+- Carlinghow Lane
+- Ealand Road
+- Ruby Street
+people: []
+organisations:
+- Ford S-Max
+- Lexmoto Cypher
+- West Yorkshire Police
 ---
 
 *(Image: Google Maps)*

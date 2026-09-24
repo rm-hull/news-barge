@@ -13,6 +13,20 @@ categories:
 - Technology & Software
 - Hardware
 - Careers & Productivity
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- Anthropic
+- ChatGPT
+- Get Tom's Hardware
+- Google Gemini
+- Google News
+- OpenAI
+- PC
+- Perplexity
+- Tom's Hardware
 ---
 
 ![A person staring at a computer screen.](https://cdn.mos.cms.futurecdn.net/B7Rcg3byUtPYqh55zijFKD.jpg) 

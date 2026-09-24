@@ -11,6 +11,26 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Cheshire
+- England
+- Fairway
+- Huyton
+- Widnes
+people:
+- David Potter
+- Joey Barton
+- Kevin Lynch
+organisations:
+- Burnley
+- HMP Liverpool
+- Liverpool Crown Court
+- Manchester City
+- Marseille
+- Newcastle
+- NexGen Academy
+- Prescot Golf Club
+- Queens Park Rangers
 ---
 
 Former Manchester City footballer Joey Barton has had his bail application denied.

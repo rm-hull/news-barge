@@ -13,6 +13,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 - Careers & Productivity
+locations:
+- AI
+people:
+- Ara Kharazian
+organisations:
+- AI
+- Anthropic
+- OpenAI
+- Ramp
+- U.S. Census Bureau
 ---
 
 The adoption of AI tools by businesses slowed in August, according to spending data at 70,000 companies collected by the payments company Ramp. The latest survey shows 56% of Ramp customers paid for AI products in August, rising just 0.4% from the month before.

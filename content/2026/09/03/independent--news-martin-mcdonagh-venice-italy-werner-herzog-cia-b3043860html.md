@@ -14,6 +14,25 @@ categories:
 - UK
 - Film & TV
 - Comedy & Entertainment
+locations:
+- Easter Island
+- Lido
+- Missouri
+- Venice
+people:
+- Bucking Fastard
+- Danny Boyle
+- Frances McDormand
+- John Malkovich
+- Kate Mara
+- Martin McDonagh
+- Rooney Mara
+- Rupert Murdoch
+- Sam Rockwell
+- Werner Herzog
+organisations:
+- CIA
+- NAZA
 ---
 
 The Venice Film Festival is in full swing with the world premieres of the dark CIA comedy “Wild Horse Nine” and Werner Herzog’s “Bucking Fastard” Thursday evening on the Lido.

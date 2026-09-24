@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Iran
+- Middle East
+- US
+- White House
+people:
+- Donald Trump
+- Kevin Warsh
+- Scott Bessent
+organisations:
+- Fed
+- Treasury
+- US Federal Reserve
 ---
 
 The US treasury will buy back $6bn worth of government debt in an effort to alleviate a sell-off in the US bond market, the treasury secretary, Scott Bessent, announced on Wednesday.

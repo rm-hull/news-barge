@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Law & Justice
+locations:
+- Britain
+- Israel
+- Jerusalem
+- Palestine
+- Russia
+- UK
+- West Bank
+people:
+- Alan Moses
+- Andy Burnham
+- Ed Miliband
+- Gideon Sa’ar
+- Imran Khan KC
+- Michael Mansfield KC
+- Ralph Wilde
+organisations:
+- Arab League
+- ICJ
+- KCs
+- UN
+- University College London
 ---
 
 More than 130 legal experts, including 18 king’s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements “fall far short” of Britain’s obligations under the international court of justice’s (ICJ’s) finding that the occupation is unlawful.

@@ -14,6 +14,12 @@ categories:
 - Europe
 - News & Politics
 - Careers & Productivity
+locations:
+- Azerbaijan
+people: []
+organisations:
+- 4th International Mine Action Conference
+- International Mine Action Conference
 ---
 
 **Euronews**

@@ -12,6 +12,43 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg
+locations:
+- Africa
+- Bab al-Mandab
+- Bab al-Mandab Strait
+- Camp Lemonnier
+- China
+- Dhubab
+- Djibouti
+- Eritrea
+- Ethiopia
+- Gulf of Aden
+- Houthi
+- Indian Ocean
+- Markazi
+- Mokha
+- Obock
+- Perim
+- Red Sea
+- Res Sea
+- Saudi Arabia
+- US
+- Yemen
+people:
+- Abdrabbuh Mansour Hadi
+- Aden
+- Aisha Abdulkadir Mohammed
+- Aisha Abdulkadir Mohammed Yemen
+- God
+- Ibrahim Issa
+- Mohammed Abdullarim
+- Qassim Abraham Abssy
+- Qassim Abssy
+organisations:
+- Foreign Legion
+- NGOs
+- UN
+- UNHCR
 ---
 
 Watch: Inside a camp for Yemeni refugees in Djibouti

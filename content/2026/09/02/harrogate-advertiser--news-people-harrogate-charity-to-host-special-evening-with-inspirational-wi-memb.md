@@ -14,6 +14,26 @@ categories:
 - Local
 - Harrogate
 - Arts & Culture
+locations:
+- Harrogate
+- Horticap
+- North Yorkshire
+- Otley Road
+- Rylstone
+people:
+- Annette Crosbie
+- Celia Imrie
+- Chris Harper
+- Helen Mirren
+- Horticap
+- Julie Walters
+- Penelope Wilton
+- Tricia Stewart
+organisations:
+- Bluecoat Wood Nurseries
+- Calendar Girls
+- Horticap
+- Women's Institute
 ---
 
 # Harrogate charity to host special evening with inspirational WI member who came up with idea for Calendar Girls

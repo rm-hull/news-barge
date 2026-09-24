@@ -10,6 +10,33 @@ image: https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL-1920-80.jpg
 categories:
 - Technology & Software
 - Travel
+locations:
+- America
+- Beverly Hills
+- Miami-Dade County
+- Nigeria
+- US
+- USA
+people:
+- Ian Ziering
+- Jakob Barnes
+- Kenya Moore
+- Kiran Reddy
+organisations:
+- Adrienne Arsht Center for the Performing Arts
+- Entertainment Weekly
+- FourFourTwo
+- Future plc
+- Golf Monthly
+- Instagram
+- Miss USA
+- NordVPN
+- Queen Beauty Network
+- Queen Beauty Network**
+- TechRadar
+- The CW
+- Tom's Guide
+- Ziff Ballet Opera House
 ---
 
 ![Image of Miss Teen USA 2026 contestant Kiran Reddy](https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL.jpg) 

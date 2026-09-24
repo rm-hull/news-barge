@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- America
+- Iran
+- Kremlin
+- Kyiv
+- Moscow
+- Russia
+- U.S.
+- Ukraine
+- Washington
+people:
+- Donald Trump
+- Jared Kushner
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelenskyy
+- Yuri Ushakov
+organisations: []
 ---
 
 U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia’s full-scale invasion of Ukraine.

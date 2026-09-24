@@ -13,6 +13,32 @@ categories:
 - News & Politics
 - UK
 - Arts & Culture
+locations:
+- National Mall
+- New York
+- Pa.
+- Shanksville
+- Smithsonian
+- South Tower
+- U.S.
+- White House
+people:
+- Anthea Hartig
+- Barbara
+- Donald Trump
+- JD Vance
+- John Roberts
+- Lonnie Bunch
+- Ted Olson
+organisations:
+- Board of Regents
+- National Museum of American History
+- Pentagon
+- Smithsonian Institution
+- Supreme Court
+- Trump
+- United Airlines
+- World Trade Center
 ---
 
 A purse containing keys and a wallet recovered from the World Trade Center site. Seat belts and a flight attendant call button salvaged from the doomed United Airlines Flight 93. The desk telephone U.S. Solicitor General Ted Olson answered when his wife, Barbara, phoned from a hijacked airplane.

@@ -14,6 +14,49 @@ categories:
 - Europe
 - News & Politics
 - Society & Culture
+locations:
+- Belgrade
+- Bosnia
+- Brussels
+- Kosovo
+- Košutnjak
+- Republika Srpska
+- Sarajevo
+- Serb Orthodox Church
+- Serbia
+- Srebrenica
+- St Luke
+- The Hague
+- Vukovar
+- West
+- Western Balkans
+people:
+- Aleksandar Vučić
+- Alexander Botsan-Kharchenko
+- Danilo
+- Marko Milosavljević
+- Marta Kos
+- Nebojša Pavković
+- Nenad Vujić
+- Porfirije
+- Ratko Mladić
+- Svetozar Andrić
+organisations:
+- Alley of Distinguished Citizens
+- Alley of the Greats
+- EU
+- Enlargement
+- Euronews
+- European Commission
+- European Court of Human Rights
+- European Union
+- ICTY
+- Justice
+- NATO
+- Red Star Belgrade
+- UN Convention on Human Rights
+- YIHR Serbia
+- Youth Initiative for Human Rights
 ---
 
 ## Serbian ministers attended despite earlier assurances no serving officials would be present, with Mladić's coffin arriving draped in the national flag and his medals on display. The EU said any glorification of convicted war criminals "has no place in the EU or in EU candidate countries".

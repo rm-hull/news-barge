@@ -13,6 +13,57 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- '**__Middlesbrough__**'
+- Cleveland
+- Durham
+- England
+- Grangetown
+- Middlesborough
+- Redcar
+- Seaham
+- South Bank
+- Spennymoor
+- Stockton West
+- Tees Valley
+- Teesside
+- Thornaby East
+- Wales
+people:
+- Alec Brown
+- Andy McDonald
+- Anna Turley
+- Ben Houchen
+- Cole Robert Worthy
+- Jacob Matusiak
+- Joy Allen
+- Makai Saddington
+- Matt Storey
+- Matt Vickers
+- Matthew Blades
+- Michael Robert Cahill
+- Ms Turley
+- Natalie McDonald
+- SARAH CALDECOTT
+- Theo Rae
+- Tom Clough
+- Valentina Foster
+organisations:
+- A66
+- Cleveland Borough Council
+- Cleveland Council
+- Cleveland Fire Brigade
+- Cleveland Police
+- Cleveland’s Police and Crime
+- Durham Police
+- Facebook
+- Government
+- Home Office
+- Police and Crime Commissioner
+- Redcar
+- Stockton West
+- Tees Valley Combined Authority
+- Times Radio
 ---
 
 Violent disorder across Teesside has sparked urgent calls for action from politicians and police leaders after days of unrest left communities living in fear.

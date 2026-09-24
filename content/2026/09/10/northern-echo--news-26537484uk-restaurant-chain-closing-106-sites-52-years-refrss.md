@@ -13,6 +13,29 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Beefeater
+- Ireland
+- North East
+- UK
+- Whitbread
+people:
+- Dominic Paul
+- Whitbread
+organisations:
+- All Beefeater
+- All Brewers Fayre
+- Bar + Block
+- Beefeater Grill Reward Club
+- Berni Inn
+- Brewers Fayre
+- Cookhouse
+- Newsquest
+- Premier Inn
+- Pub
+- Queensway Inns
+- Table Table
+- Whitbread
 ---
 
 *(Image: Newsquest)*

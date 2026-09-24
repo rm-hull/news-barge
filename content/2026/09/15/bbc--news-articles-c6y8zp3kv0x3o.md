@@ -12,6 +12,28 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Kennedy Center
+- Ohio
+- Potomac River
+- US
+- Washington DC
+people:
+- Christopher Cooper
+- Donald J. Trump
+- Donald J. Trump Plaza
+- Donald Trump
+- John F Kennedy
+- Joyce Beatty
+organisations:
+- BBC
+- Board
+- CNN
+- Congress
+- Supreme Court
+- Truth Social
+- US Department of Justice
+- Washington Post
 ---
 
 Watch: President Trump's name added to facade of Kennedy Center

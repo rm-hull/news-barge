@@ -12,6 +12,77 @@ categories:
 - UK
 - News & Politics
 - True Crime
+locations:
+- Arabian Peninsula
+- Birmingham
+- Charleston
+- Earth
+- Kingdom of Saudi Arabia
+- LA
+- London
+- Los Angeles
+- New Scotland Yard
+- New York
+- Paddington Green
+- Paddington Green Police Station
+- Pennsylvania
+- Riyadh
+- San Diego
+- Saudi Arabia
+- SeaWorld
+- South Carolina
+- The
+- UK
+- US
+- USA
+- United States
+people:
+- Allahu
+- Anwar al-Awlaki
+- Awlaki
+- Bayoumi
+- George W Bush
+- Hazmi
+- Jeffrey Breinholt
+- Jodi Westbook Flowers
+- Jodi Westbrook Flowers
+- Joe Biden
+- Khalid al-Mihdhar
+- Khalid al-Mihdhar.
+- Mabahith
+- Mary Galligan
+- Mihdhar
+- Nawaf al-Hazmi
+- Omar al-Bayoumi
+- Philip Zelikow
+- Rick Lambert
+- Steve Moore
+organisations:
+- Anti-Terror Branch Special Operations team
+- BBC One
+- BBC Panorama
+- BBC Sounds
+- Bayoumi
+- CIA
+- Commission
+- Congress
+- DOJ
+- Department of Justice
+- FBI Field Office
+- Met Police
+- Metropolitan Police
+- Ministry of Islamic Affairs
+- New York Attorney's Office
+- New York Field Office
+- Paintballing
+- Pentagon
+- Radio 4
+- Saudi Connection
+- State Department
+- The Ministry of Islamic Affairs
+- US Department of Justice
+- World Trade Center
+- al-Qaeda
 ---
 
 Watch: Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?

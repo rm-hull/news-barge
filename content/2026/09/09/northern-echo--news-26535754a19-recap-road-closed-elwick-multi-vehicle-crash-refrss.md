@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Automotive
 - Technology & Software
+locations:
+- Elwick
+people:
+- Olivia Howlett
+organisations:
+- A19
 ---
 
 ## Our live feed has now finished.

@@ -12,6 +12,18 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Boroughbridge Fire Station
+- Flyingdales Moor
+- Langdale
+- North Yorkshire
+- York
+people:
+- Jo Coles
+organisations:
+- Fire and Crime
+- North Yorkshire Combined Authority
+- North Yorkshire Fire and Rescue Service
 ---
 
 ## Sharp rise in outdoor fires puts pressure on North Yorkshire firefighters

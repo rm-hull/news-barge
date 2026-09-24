@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Washington
+people: []
+organisations:
+- Fork
+- GTA VI
+- Get Tom's Hardware
+- Nintendo Switch
+- YouTuber Kouzex
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/uneps7xms57jgZpmDy6nrc-320-80.jpg)

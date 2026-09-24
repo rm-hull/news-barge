@@ -14,6 +14,24 @@ categories:
 - UK
 - News & Politics
 - Books & Literature
+locations:
+- Hartlepool
+- Italy
+- North East
+- Seaton Carew Community Hub
+- Sicily
+- Spain
+- Station Lane
+- UK
+people:
+- Aurelia
+- Ben Kane
+- Hannibal
+- Hanno
+- Rob Darby
+organisations:
+- Growth and Communities Committee
+- Hartlepool Borough Council
 ---
 
 *(Image: Provided)*

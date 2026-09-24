@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Charlotte
+- Columbus
+- Miami
+- Mississippi
+- Oklahoma State
+- Stillwater
+- Texas
+- Tulsa
+people:
+- Arch Manning
+- Bo Jackson
+- Cam Coleman
+- Darian Mensah
+- Drew Mestemaker
+- Eric Morris
+- Jeremiah Smith
+- Julian Sayin
+- Trinidad Chambliss
+organisations:
+- AP
+- Big Ten
+- Buckeyes
+- Cowboys
+- Ducks
+- ESPN
+- FCS
+- Hollywood Smothers
+- Longhorns'
+- Louisville
+- No. 1
+- Ohio State
+- Oklahoma State
+- Oregon
+- SEC
+- Southeastern Conference
+- Tennessee Martin
+- Texas
+- Tulsa
 ---
 
 Oklahoma State was given no shot at beating No. 6 Oregon, not after losing at Tulsa last week nor a 66-point thumping by the Ducks last season.

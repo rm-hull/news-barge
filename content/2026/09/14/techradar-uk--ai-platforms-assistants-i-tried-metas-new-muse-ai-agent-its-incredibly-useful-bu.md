@@ -10,6 +10,27 @@ description: Meta’s Muse proved remarkably capable at handling digital errands
 image: https://cdn.mos.cms.futurecdn.net/oThcXBvjEBFUXAR2RHFW9k-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- Muse.ai
+- New York City
+- U.S.
+people:
+- Eric Hal Schwartz
+- Meta
+- Muse
+- Scout
+organisations:
+- Amazon
+- Google Gemini
+- Google News
+- Meta Muse
+- Muse AI
+- OpenAI
+- Sentinel
+- TechRadar
+- VM
+- Voicebot.ai
+- WhatsApp
 ---
 
 ![Meta Muse](https://cdn.mos.cms.futurecdn.net/oThcXBvjEBFUXAR2RHFW9k.jpg) 

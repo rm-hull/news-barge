@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Dartmoor National Park
+- Dartmoor Prison
+- Duchy of Cornwall
+- Plymouth
+- Prince of Wales
+- Princetown
+people:
+- Emma Byrom
+- Emma Hogbin
+- Emma Magee
+- Gari
+- Jon Palmer
+- Karen Munn
+- Mann
+- Moor
+- Prince William
+- Treacle
+organisations:
+- Devon Communities Together
+- Duchy of Cornwall
+- Princetown Community Fund
+- Princetown Place Strategy
+- Princetown Press
+- Princetown Youth Club
+- The Princetown Community Fund
 ---
 
 The Prince of Wales has visited Princetown, an isolated village next to the shuttered Dartmoor Prison, to launch a new regeneration fund.

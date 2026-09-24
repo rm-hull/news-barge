@@ -13,6 +13,23 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- A66
+- Aislaby Court
+- Bolckow Road
+- Grangetown
+- Guisborough
+- Middlesbrough
+people:
+- Callum Briggs
+- Callum Briggs Tom Bennett
+- Joshua Peters
+- Joshua Peters Briggs’
+- Lee Goodchild
+- Nathan Adams
+- Shaun Dryden
+organisations:
+- Teesside Crown Court
 ---
 
 Two thugs who forced a man off his £6,000 e-bike have been jailed for robbery.

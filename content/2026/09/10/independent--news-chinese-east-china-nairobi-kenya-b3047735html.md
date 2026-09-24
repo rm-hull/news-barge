@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Algeria
+- China
+- East and Central Africa
+- East and West Africa
+- Egypt
+- Kenya
+- Morocco
+- North Africa
+- South Africa
+- Uganda
+- sub-Saharan Africa
+people:
+- Peter Kossakowski
+- Spiro
+- Tom Courtright
+organisations:
+- AP
+- African Tech Futures Lab
 ---
 
 Africa’s imports of electric motorcycles and three-wheelers from China rose sharply in the first half of 2026, an increase that highlights a divide in the continent's transition to electric vehicles.

@@ -11,6 +11,27 @@ categories:
 - York
 - History
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/assize-of-ale.webp
+locations:
+- Parliament Street
+- Sheriff of York
+- St Sampson’s Centre
+- Town Crier
+- York Mansion House
+people:
+- Ale’
+- Brew York’
+- Dough’
+- Geoff Cossins
+- Mr Chippy’
+organisations:
+- Goodramgate
+- Lord Mayor’s Charity Fund
+- Shared York’
+- Sheriff of York
+- The Potions Cauldron Group’
+- The Sheriff of York
+- York Cares’
+- York Food and Drink Festival Marquee
 ---
 
 York’s medieval pub crawl is set to return this weekend.

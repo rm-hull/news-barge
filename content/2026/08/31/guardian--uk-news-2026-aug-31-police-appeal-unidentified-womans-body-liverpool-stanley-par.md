@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Anfield
+- Goodison Park
+- Liverpool
+- Merseyside
+- Stanley Park
+people:
+- Andy Ryan
+- Rachel Wilson
+organisations:
+- Anfield
+- Crimestoppers
+- Everton Women
+- Liverpool FC
+- Stanley Park
 ---
 
 Police in Liverpool have urged members of the public to come forward with information after the body of an unknown woman believed to be in her 70s was found in a black bin bag in a popular park.

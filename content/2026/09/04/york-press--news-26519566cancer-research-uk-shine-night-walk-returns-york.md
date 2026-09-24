@@ -12,6 +12,19 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- England
+- Rowntree Park
+- UK
+- York
+people:
+- Jose Ramos
+organisations:
+- Cancer Research UK
+- Fishergate Postern Tower
+- Micklegate Bar
+- York Minster
+- Yorkshire Museum
 ---
 
 *(Image: Cancer Research UK)*

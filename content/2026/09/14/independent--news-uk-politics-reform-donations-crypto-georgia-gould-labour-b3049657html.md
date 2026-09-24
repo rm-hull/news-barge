@@ -13,6 +13,38 @@ categories:
 - UK
 - Society & Culture
 - History
+locations:
+- Brighton Centre
+- Downing Street
+- Georgia
+- Hong Kong
+- Thailand
+- UK
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- David Blunkett
+- Georgia Gould
+- Lord Blunkett
+- Lou Haigh
+- Ms Gould
+- Paul Nowak
+- Richard Tice
+- Robert Jenrick
+- Sharon Graham
+organisations:
+- BBC Radio 4’s Today
+- Electoral Commission
+- House of Lords
+- ITV’s Good Morning Britain
+- Labour Party
+- Reform UK
+- Spotlight on Corruption
+- TUC Congress
+- Times Radio
+- Trades Union Congress
+- Unite
 ---
 
 Donations from two crypto-billionaires to Reform UK worth £72m represent a “crisis for our democracy”, Trades Union Congress (TUC) general secretary Paul Nowak has warned, as the government vowed to “seriously address” spending limits on political donations.

@@ -12,6 +12,40 @@ categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
+locations:
+- Britain
+- Essex
+- Iran
+- Middle East
+- North Sea
+- Northern Ireland
+- Russia
+- UK
+- Ukraine
+people:
+- Andrew Griffith
+- Daisy Cooper
+- Emma Ashfield
+- Goran Raven
+- Grant Fitzner
+- John Healey
+- Paul Dales
+- Selfie
+- Trump
+- Yael Selfin
+organisations:
+- BBC
+- Bank of England
+- Budget
+- Capital Economics
+- Conservatives and Reform UK
+- Dales
+- KPMG
+- Liberal Democrat Treasury
+- ONS
+- Office for National Statistics
+- RJ Raven
+- Tory
 ---
 
 ![A woman prepares to pay for fuel at the pump in a petrol station. She is wearing a pink cardigan over a pink and white patterned blouse](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d847/live/6dc55eb0-b1be-11f1-b1d1-571ed4d7ff2c.jpg)

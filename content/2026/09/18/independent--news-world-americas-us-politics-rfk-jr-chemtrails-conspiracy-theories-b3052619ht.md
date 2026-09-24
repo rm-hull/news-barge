@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - UK
 - Science
+locations:
+- Arizona
+- Atlantic
+- Central Park
+- U.S.
+- Washington, D.C.
+- White House
+people:
+- Aaron Rupar
+- Amy McGrath
+- Josh Billinson
+- Mark Kelly
+- Neil Stone
+- Robert F Kennedy Jr
+- Ron Filipkowski
+- Semafor
+- Tom Nichols
+organisations:
+- Children’s Health Defense
+- Environmental Protecting Agency
+- HHS
+- Health and Human Services
+- Marines
+- RFK Jr
 ---
 
 Health and Human Services Secretary Robert F Kennedy Jr has invited ridicule by announcing he is “looking at chemtrails” and their adverse impact on public health, reviving a long-debunked conspiracy theory.

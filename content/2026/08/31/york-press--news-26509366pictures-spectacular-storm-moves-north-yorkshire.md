@@ -12,6 +12,20 @@ categories:
 - Local
 - York
 - Travel
+locations:
+- England
+- North Yorkshire
+- Scotland
+- Wales
+- Whitby
+- York
+people:
+- Christopher H Drinkwater
+- Estelle Drye
+- Kelly Pennock
+organisations:
+- Met Office
+- North Yorkshire
 ---
 
 ## PICTURES - Your photos of 'spectacular' storm over York and North Yorkshire

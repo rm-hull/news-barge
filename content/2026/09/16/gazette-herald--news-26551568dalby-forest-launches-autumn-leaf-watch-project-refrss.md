@@ -13,6 +13,13 @@ categories:
 - Harrogate
 - York
 - Home, Garden & DIY
+locations:
+- Dalby Forest
+- England
+people:
+- Chris Sorenson
+organisations:
+- Forestry England
 ---
 
 *(Image: Forestry England/Crown copyright)*

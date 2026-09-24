@@ -13,6 +13,15 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Ashbrooke
+- Sunderland
+- The Elms West
+people: []
+organisations:
+- Housing Options Team
+- Sunderland City Council
+- Tyne Housing
 ---
 
 *(Image: Google Maps)*

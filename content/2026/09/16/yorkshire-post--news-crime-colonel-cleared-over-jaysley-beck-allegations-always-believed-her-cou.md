@@ -17,6 +17,35 @@ categories:
 - York
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Catterick Garrison
+- Chichester Harbour
+- Gunner Beck
+- North Yorkshire
+- Royal Artillery
+- Thorney Island
+people:
+- Col Shepherd
+- Colonel Shepherd
+- Derek Johashen
+- Drew Tudor
+- Edward Legard
+- Gunner Beck
+- Gunner Jaysley Beck
+- James Hook
+- Jaysley Beck
+- Leighann McCready
+- Mae King
+- Michael Webber
+- Office Webber
+- Paul Patterson
+- Samantha Shepherd
+organisations:
+- Air Commodore
+- Army
+- Crown
+- Military Court Centre
+- Royal Navy
 ---
 
 # Colonel cleared over Jaysley Beck allegations ‘always believed’ her, court told

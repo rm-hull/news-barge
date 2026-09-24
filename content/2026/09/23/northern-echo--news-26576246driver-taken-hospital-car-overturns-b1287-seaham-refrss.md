@@ -14,6 +14,17 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21039462.jpg?type=og-image&xType=2&yType=0
+locations:
+- B1287
+- Lord Byron's Walk
+- North East
+- Ryhope
+- Seaham
+- Sunderland Royal Hospital
+people: []
+organisations:
+- Durham Police
+- North East Ambulance Service
 ---
 
 *(Image: NEAS)*

@@ -15,6 +15,21 @@ categories:
 - York
 - Personal Finance & Investing
 - History
+locations:
+- York
+people:
+- Coun Andrew Hollyer
+- Coun Hollyer
+- Coun Kilbane
+- Coun Pete Kilbane
+- Jenny Layfield
+- Ms Layfield
+organisations:
+- City of York Council
+- Explore York
+- Labour
+- Liberal
+- York Explore Library
 ---
 
 # £600,000 cuts to York library contract shelved as 'now isn't the right time'

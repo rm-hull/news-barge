@@ -13,6 +13,108 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- Bari
+- Belgrade
+- Bergheim
+- Bucharest
+- Chigi Palace
+- Dormagen
+- Düsseldorf
+- Emden
+- Europe
+- Germany
+- Hanover
+- Italian Republic
+- Italy
+- Kyiv
+- Luton
+- Magdeburg
+- Moscow
+- Neckarsulm
+- Romania
+- Rome
+- Russia
+- Saxony-Anhalt Polls
+- Serbia
+- St Petersburg
+- UK
+- US
+- Ukraine
+- Washington
+- Wolfsburg
+- Zwickau
+people:
+- Aleksandar Vučić
+- Andrei Popoviciu
+- Andrew Tate
+- Angela Giuffrida
+- Ashifa Kassam
+- Christopher Neundorf
+- Darko Vojinović
+- Eduard Vinatoru
+- Eugen Vidineac
+- Fatemeh
+- Getty Images Meloni
+- Giorgia Meloni
+- Jakub Krupa
+- Jared Kushner
+- Jens Schluter
+- Lisa O’CarrollandMark Sweney
+- Marta Kos
+- Maxym Marusenko
+- Oleh Kiper
+- Oliver Blume
+- Patrick Daly
+- Pedja Milosavljevic
+- Ratko Mladić
+- Roberto Vannacci
+- Silvio Berlusconi
+- Steve Witkoff
+- Tates
+- Tristan Tate
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- AP
+- AfD
+- Agerpress
+- Air Tanzania
+- Aisha Down Global
+- Alternative for Germany
+- Alternative für Deutschland
+- Anadolu
+- Antena3
+- Apple
+- Audi
+- Citizen Lab
+- DIICOT
+- Digi24
+- Directorate for Investigating Organized Crime and Terrorism
+- EPA Ukraine
+- EU
+- Facebook
+- Generation Germany
+- Getty Images Polls
+- Guardian
+- IG Metall
+- Inquam Photos
+- International Civil Aviation Organization
+- Kyiv
+- LGBTQ
+- NSO Group
+- NoviSpy
+- Odesa
+- Pegasus
+- Remo Casilli
+- Reuters Stability
+- Russia-friendly Alternative for Germany
+- Share Foundation
+- TASS
+- Tates
+- VW
+- Volkswagen
+- interior ministry
 ---
 
 Romanian prosecutors indict British man identified as Andrew Tate for number of alleged crimes

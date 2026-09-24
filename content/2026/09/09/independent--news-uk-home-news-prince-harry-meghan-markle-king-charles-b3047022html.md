@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Britain
+- Buckingham Palace
+- California
+- Duke
+- Harry
+- PA
+- Sandringham
+- UK
+- US
+people:
+- Aaron Chown
+- Archie
+- Duchess
+- King
+- Lillibet
+- Meghan Markle
+- Prince Harry
+- Sussexes
+organisations:
+- BBC
+- Duke and Duchess of Sussex
+- Royal Family
+- State and Royal
+- Sussexes’
+- The Independent
+- The Royal Family
+- The Sovereign
 ---
 
 Prince Harry and Meghan Markle were disappointed by the King’s decision to brand them as private citizens and instead hoped to be known as “public figures”, it has been reported.

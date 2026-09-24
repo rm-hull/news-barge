@@ -15,6 +15,31 @@ categories:
 - News & Politics
 - Health & Fitness
 - Self-Improvement
+locations:
+- County Durham
+- England
+- Esk
+- NHS
+- Tees
+people:
+- Alison McGovern
+- Christie Harnett
+- Emily Moore
+- John Potter
+- Nadia Sharif
+- SARAH CALDECOTT
+organisations:
+- Care Quality Commission
+- Court of Appeal
+- Department of Health and Social Care
+- Durham
+- Government
+- Inquiry
+- Social Care and Mental Health
+- TEWV
+- THE NORTHERN ECHO
+- The Northern Echo
+- Wear Valleys NHS Foundation Trust
 ---
 
 *As the TEWV public inquiry finally progresses with the appointment of a chair, Minister for Social Care and Mental Health Alison McGovern writes in The Northern Echo about her hopes for what the probe can achieve.*

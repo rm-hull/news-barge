@@ -14,6 +14,24 @@ categories:
 - UK
 - Travel
 - History
+locations:
+- Ceuta
+- Italy
+- Melilla
+- Morocco
+- North Africa
+- Rome
+- Schengen
+- Spain
+people:
+- Giorgia Meloni
+- Pedro Sánchez
+organisations:
+- EU
+- European Union
+- Interior Ministry
+- NGOs
+- Socialist
 ---
 
 Italy on Tuesday extended for another 15 days border checks on visitors from Spain that it imposed after more than 72,000 migrants poured into Spain’s North African territory of Ceuta from Morocco in late July.

@@ -13,6 +13,11 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Halifax
+- The Piece Hall
+people: []
+organisations: []
 ---
 
 *(Image: Pixabay)*

@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Travel
+locations:
+- Bradford
+- Hard Ings Road
+- Keighley
+- Victoria Park
+people: []
+organisations:
+- Bradford Council
+- Environmental Health
+- Telegraph & Argus
 ---
 
 *(Image: T&A)*

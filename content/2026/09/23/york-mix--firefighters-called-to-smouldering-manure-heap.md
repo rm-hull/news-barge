@@ -11,6 +11,14 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/manure-dreamstime.webp
+locations:
+- Malton
+- Ryedale
+people:
+- '#### Westow'
+organisations:
+- North Yorkshire Fire & Rescue Service
+- North Yorkshire “Crews
 ---
 
 Firefighters were called to a smouldering muck heap in Ryedale last night.

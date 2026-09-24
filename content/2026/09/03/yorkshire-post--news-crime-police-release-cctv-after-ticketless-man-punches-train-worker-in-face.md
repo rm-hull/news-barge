@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - York
 - Sports
+locations:
+- Doncaster
+- Hessle Railway Station
+- Hull Paragon Interchange
+people: []
+organisations:
+- BTP
+- CCTV
+- Crimestoppers
 ---
 
 # Police release CCTV after ticketless man punches train worker in face

@@ -15,6 +15,28 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Health & Fitness
+locations:
+- Iran
+- Shanghai
+- Tehran
+- US
+- Washington
+people:
+- Ahmad Ariayi Nejad
+- Ariayi Nejad
+- Hadi Ahmadi
+- Mehdi Pirsalehi
+- Ruhollah Lak Aliabadi
+- Salman Es'haghi
+- Tofigh Daru
+- Vahideh Mahmoudkhani
+organisations:
+- Food and Drug Organisation
+- Hamshahri
+- Iranian Pharmacists Association
+- Mehr
+- Tabnak
+- Tofigh Daru
 ---
 
 **Euronews Persian**

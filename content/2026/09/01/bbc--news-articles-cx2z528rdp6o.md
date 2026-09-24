@@ -12,6 +12,37 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31e9/live/bc2c39
 categories:
 - UK
 - News & Politics
+locations:
+- Britain
+- Cornwall
+- Devon
+- England
+- Greater Manchester
+- Jackdaw
+- London
+- North Sea
+- Northern Ireland
+- Rosebank
+- Scotland
+- UK
+- Wales
+people:
+- Alison Griffiths
+- Andy Burnham
+- Ed Davey
+- Ellie Chowns
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Richard Tice
+organisations:
+- Brexit
+- Cornwall Council
+- Green Party
+- House of Commons
+- Houses of Parliament.
+- Labour
+- Reform UK
 ---
 
 Watch: Key moments from Burnham's first Commons speech as PM

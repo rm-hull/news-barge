@@ -12,6 +12,30 @@ categories:
 - Technology & Software
 - Hardware
 - Science
+locations:
+- Indiana
+- Ohio
+- Seoul
+- Silicon Valley
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Chey Tae-won
+- Jowi Morales
+- Tom
+organisations:
+- AI
+- Blue House
+- Commerce Department
+- Google News
+- HBM
+- Intel Ohio One
+- Jowi Morales
+- Reuters
+- SK Group
+- SK hynix
 ---
 
 ![an SK hynix factory](https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk.png) 

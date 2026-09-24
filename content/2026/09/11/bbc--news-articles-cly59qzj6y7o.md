@@ -12,6 +12,14 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4efd/live/595695
 categories:
 - UK
 - News & Politics
+locations:
+- Indonesialeft
+- US
+people:
+- Donald Trump
+- Grace Dean
+organisations:
+- Eton College
 ---
 
 **This week,Prince Georgestarted at Eton College, avolcanic eruption in Indonesialeft passengers stranded, and US President Donald Trump saidevery adult American would get $5,000 (£3,700)if the Republicans won in the midterms.**

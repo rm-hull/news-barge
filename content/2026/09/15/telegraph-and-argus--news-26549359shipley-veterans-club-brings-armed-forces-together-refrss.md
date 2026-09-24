@@ -13,6 +13,21 @@ categories:
 - Bradford
 - News & Politics
 - Lifestyle & Fashion
+locations:
+- Bradford
+- Shipley
+people:
+- Mark Sugrue
+- Scott Isherwood
+organisations:
+- Armed Forces
+- HMS Ceres
+- RAF
+- Royal Naval Reserve
+- Shipley Veterans Breakfast Club
+- The Pride of Shipley
+- Veterans Breakfast Club
+- Veterans Breakfast Clubs
 ---
 
 *(Image: Supplied)*

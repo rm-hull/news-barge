@@ -17,6 +17,36 @@ categories:
 - Health & Fitness
 - Society & Culture
 - News & Politics
+locations:
+- Britain
+- England
+- Leeds
+- Street Lane
+- Surrey
+- West Yorkshire
+- Winston Solicitors
+people:
+- James Urquhart-Burton
+- Simon Hulme
+organisations:
+- Age UK
+- Continuing Healthcare
+- Department of Health and Social Care
+- ICB
+- ICBs
+- Integrated Care Board
+- Integrated Care Boards
+- Local Integrated Care Boards
+- NHS Continuing Healthcare
+- NHS England
+- NHS’s Continuing Healthcare
+- National Audit Office
+- National Framework
+- National Framework for CHC
+- Nuffield Trust
+- The Yorkshire Post
+- Winston Solicitors
+- Yorkshire Post
 ---
 
 # 'This is just the tip of iceberg': Vulnerable families are being denied funding, says lawyer

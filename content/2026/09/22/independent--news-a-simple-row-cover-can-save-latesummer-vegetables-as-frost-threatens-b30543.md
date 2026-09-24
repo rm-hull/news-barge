@@ -12,6 +12,13 @@ categories:
 - Lifestyle & Fashion
 - Home, Garden & DIY
 image: https://static.independent.co.uk/2026/09/22/14/Gardening-Row_Covers_23578.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Jessica Damiano
+organisations:
+- AP
+- The Associated Press
+- Weekly Dirt Newsletter
 ---
 
 Most of my summer vegetables are winding down now, the cooling temperatures serving as a cue that their mission has been nearly accomplished. But if frost threatens before the last of my tomatoes have turned red, I’ll drape a sheet of sheer fabric over their supporting cages to provide some warmth.

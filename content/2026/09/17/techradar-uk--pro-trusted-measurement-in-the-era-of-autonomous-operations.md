@@ -10,6 +10,16 @@ image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Hexagon
+people:
+- Burkhard Boeckem
+organisations:
+- AI
+- CTO
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

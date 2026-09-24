@@ -12,6 +12,83 @@ categories:
 - Technology & Software
 - Science
 - Music
+locations:
+- Afghanistan
+- Alfred P. Murrah Federal Building
+- America
+- Arizona
+- Austin
+- Branch Davidian
+- Cannes
+- Capitol
+- Iraq
+- Kandahar
+- Mercury Marquis station
+- National Mall
+- Oklahoma City
+- Sandy Hook
+- Saudi Arabia
+- Texas
+- US
+- United States
+- Vanderbilt
+- Vietnam
+- Waco
+- Watergate
+people:
+- Alex Jones
+- Alex Jones—Liar
+- Austin
+- Baker Atyani
+- Bill Cooper
+- Colin Dickey
+- David Koresh
+- Donald Trump
+- George W. Bush
+- Israel.’” Cooper
+- John McCain
+- Jones’
+- Louis Freeh
+- Michael Moore
+- Milton William “Bill” Cooper
+- Mohammed Atif
+- Nicole Hemmer
+- Osama bin Laden
+- Pizzagate
+- Robert F. Kennedy Jr.’s Covid
+- Rush Limbaugh
+- Saddam Hussein
+- Timothy McVeigh
+- al Qaeda
+- bin Laden
+organisations:
+- Bermuda Triangle
+- Branch Davidian
+- CIA
+- CNN
+- Church
+- FBI
+- Google Video
+- Health and Human Services
+- InfoWars Battle Tank
+- Jones’
+- KJFK
+- KJFK-FM
+- MBC
+- New World Order
+- Pentagon
+- Philadelphia Experiment
+- Popular Mechanics
+- Rolling Stone
+- The Onion
+- UFO
+- United Airlines
+- WWCR
+- Warren Commission
+- World Trade Center
+- World Trade Centers
+- World Wide Christian Radio
+- Zogby
 ---
 
 There are many, many strange things about the stew of conspiracy theories that fall under the umbrella of “9/11 Truth”—the false, often antisemitic worldview purporting that the US government had inside knowledge of or even actively participated in the September 11 attacks. But perhaps the strangest is that the seed of these theories was planted three months before the attacks themselves.

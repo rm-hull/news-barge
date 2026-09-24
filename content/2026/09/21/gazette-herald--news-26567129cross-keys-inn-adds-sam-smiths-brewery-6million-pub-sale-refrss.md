@@ -14,6 +14,31 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21480075.jpg?type=og-image
+locations:
+- Guisborough
+- Knaresborough
+- Loftus
+- Malton
+- North Yorkshire
+- Sam Smith
+people:
+- Christian Horton
+- Sam Smith
+- Tom Taverner
+organisations:
+- 3 Bed Accommodation
+- Abbey Inn
+- Arlington Hotel
+- BTG Eddison
+- Bar and Restaurant Areas
+- Cross Keys Inn
+- Fleurets
+- Freehold
+- Knaresborough
+- Stillingfleet
+- The Press
+- Wellington Inn
+- York Arms
 ---
 
 At least three more Sam Smith’s pubs in North Yorkshire have been put on the market by the Tadcaster-based brewery as part of a £6 million sale.

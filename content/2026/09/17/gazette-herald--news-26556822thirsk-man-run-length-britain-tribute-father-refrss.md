@@ -13,6 +13,23 @@ categories:
 - Harrogate
 - York
 - Business & Entrepreneurship
+locations:
+- Great Britain
+- John O'Groats
+- North Yorkshire
+- Thirsk
+people:
+- Archie Whitfield
+- Cushing
+- Dad
+- Dave Whitfield
+- John O’Groats
+- Matt Meaney
+organisations:
+- Green Party
+- Land’s End
+- Portuguese Primeira Liga
+- The Brain Charity
 ---
 
 A RUNNER is taking on an epic 870-mile challenge in memory of his late father to raise £100,000 for charity.

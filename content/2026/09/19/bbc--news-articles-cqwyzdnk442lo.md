@@ -13,6 +13,24 @@ categories:
 - Sports
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/762a/live/cf51bb00-b41c-11f1-a430-4d16ee157c41.jpg
+locations:
+- Geraldton
+- Joondalup
+- Perth
+- Queensland
+- Sorrento Beach
+- Sydney Harbour
+- WA
+- Western Australia
+people:
+- Greg O'Neill
+- Greg O'Neill's
+- Jackie Jarvis
+- Jacqui Rapaic
+- WAtoday
+organisations:
+- ABC
+- WA Fisheries
 ---
 
 ![Greg O'Neill stands beside a beachfront railing overlooking clear blue water and white sand on the Western Australian coast.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/762a/live/cf51bb00-b41c-11f1-a430-4d16ee157c41.jpg)

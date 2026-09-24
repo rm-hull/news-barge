@@ -12,6 +12,19 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/23/05/Texas_Execution_3658_.jpg?trim=499,564,251,561&width=1200&height=800&crop=1200:800
+locations:
+- Edna
+- Houston
+- Huntsville
+- Texas
+people:
+- Celso Lopez
+- Ker’Sean Ramey
+- LeJames Norman
+- Samuel Roberts
+- Tiffani Peacock
+organisations:
+- U.S. Supreme Court
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

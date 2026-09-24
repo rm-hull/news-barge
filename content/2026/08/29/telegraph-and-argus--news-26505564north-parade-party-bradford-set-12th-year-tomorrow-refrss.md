@@ -13,6 +13,16 @@ categories:
 - Bradford
 - News & Politics
 - Music
+locations:
+- Bradford
+people:
+- James Brunskill
+- Philip Lickley
+organisations:
+- Boar and Fable
+- Bradford
+- North Parade Street Party
+- The Fourth Act
 ---
 
 *(Image: Philip Lickley)*

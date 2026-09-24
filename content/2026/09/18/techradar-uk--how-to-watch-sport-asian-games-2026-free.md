@@ -11,6 +11,67 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/GpbaH9NVUVTx4V4xdAZ9aX-1920-80.jpg
+locations:
+- Aichi
+- Australia
+- Canada
+- China
+- India
+- Japan
+- Madison
+- Malaysia
+- Nagoya
+- Paris
+- Singapore
+- South Korea
+- UK
+- US
+- USA
+- Vietnam
+people:
+- Aatif Sulleyman
+- Alexandra Eala
+- An Se-young
+- Carlos Yulo
+- Kim Ye-ji
+- PV Sindhu
+- Pan Zhanle
+- Qinwen Zheng
+- Quan Hongchan
+- Rumesh Pathirage
+- Skeet
+- Yamaguchi Akane
+- Zhang Boheng
+- Zou Jingyuan
+organisations:
+- Aatif
+- AsianGames
+- AsianGames2026AichiNagoya
+- CCTV5
+- Dakshin Flex
+- Facebook
+- Future Publishing
+- Gizmodo
+- Instagram
+- Jiu Jitsu
+- KBS
+- Kabaddi
+- MBC
+- MeWatch
+- Newsweek
+- Pokémon UNITE
+- RTM
+- SBS
+- Sabre
+- Sling TV
+- Sony LIV
+- Sony Sports Network
+- TechRadar
+- The Independent
+- Trusted Reviews
+- VTV
+- Willow TV
+- Willow TV**
 ---
 
 ![Alexandra Eala at US Open 2026](https://cdn.mos.cms.futurecdn.net/GpbaH9NVUVTx4V4xdAZ9aX.jpg)

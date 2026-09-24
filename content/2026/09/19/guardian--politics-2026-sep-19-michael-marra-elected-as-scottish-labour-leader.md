@@ -12,6 +12,29 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/d124688ca45b7d5fd2534fb5948bbcb6e4a51b44/1222_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=162c89ccb5b26ac1ef36d20ce5c02bab
+locations:
+- Holyrood
+- Jackdaw
+- North East Scotland
+- Rosebank
+- Westminster
+people:
+- Anas Sarwar
+- Andy Burnham
+- Eric Shaw
+- Ewan Gibbs
+- Joe Fagan
+- Michael Marra
+organisations:
+- MSP
+- Reform
+- SNP
+- Scotland
+- Scottish Green
+- Scottish Labour
+- The Strange Death of Labour
+- University of Glasgow
+- University of Stirling
 ---
 
 Michael Marra has been elected as the new leader of the Scottish Labour party, winning almost two-thirds of the vote to lead the party in Holyrood.

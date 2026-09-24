@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21485357.jpg?type=og-image
+locations:
+- Askwith
+- Denton Reserve
+- Ilkley
+- Otley
+- Penny Bun Inn
+- UK
+- Yorkshire
+people:
+- Penny Bun
+- Simon Numphud
+organisations:
+- AA Hospitality Awards
+- AA Hotel and Hospitality Services
+- AA Red Stars
+- AA Rosette
+- AA Rosettes
+- AA Silver Stars
+- Penny Bun
+- The AA
+- The Penny Bun
 ---
 
 An inn hailed as a “destination experience in its own right” has been named one of the country’s best.

@@ -13,6 +13,18 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Calderdale
+- Halifax Town Hall
+- Stainland Memorial Park
+- Stainland Recreation Ground
+people:
+- Mike Payne
+organisations:
+- Cabinet
+- Calderdale Council
+- Corporate Services, Assets and Resources
+- Stainland Cricket Club
 ---
 
 Fully transferring a Calderdale park pavilion to a local cricket club to run will allow it to develop it further, with resulting wider community benefits, senior councillors are told.

@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Careers & Productivity
 - Business & Entrepreneurship
+locations: []
+people:
+- AI
+- Christian Cawley
+- Ihor Herasymov
+organisations:
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- TechRadar Pro
+- Use.AI
+- Use.AI** AI
 ---
 
 ![Teacher using a smartphone at his desk with blackboard behind](https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44.jpg) 

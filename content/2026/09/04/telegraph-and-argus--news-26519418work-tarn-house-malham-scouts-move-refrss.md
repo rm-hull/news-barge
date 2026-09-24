@@ -12,6 +12,35 @@ categories:
 - Bradford
 - News & Politics
 - History
+locations:
+- Glusburn
+- High Stables
+- Malham Tarn
+- Pennine Way
+- Settle
+- Skipton
+- Tarn House
+- Upper Wharfedale
+- YOUR
+- Yorkshire Dales
+people:
+- Andy Stronach
+- Charles Darwin
+- Charles Kingsley
+- Craig Gillon
+- Lesley Tate
+- Walter Morrison
+organisations:
+- Field Studies Council
+- High Stables
+- Lead Volunteer
+- Malham Tarn Estate
+- National Trust
+- Newsquest
+- Public Notice Portal
+- South Craven District
+- South Craven Scouts
+- Tarn House
 ---
 
 ### What is the Public Notice Portal?

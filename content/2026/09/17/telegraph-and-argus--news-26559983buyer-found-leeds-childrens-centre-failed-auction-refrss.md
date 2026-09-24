@@ -14,6 +14,16 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Coldcotes Grove
+- Dame Fanny Waterman Centre
+- Gipton South
+- Osmondthorpe Children’s Centre
+people: []
+organisations:
+- Gipton South Children’s Centre
+- Google
+- Leeds City Council
 ---
 
 *(Image: Google)*

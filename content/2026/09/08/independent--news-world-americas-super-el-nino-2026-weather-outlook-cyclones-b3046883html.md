@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Africa
+- Australia
+- El Niño
+- Hawaii
+- Indonesia
+- Japan
+- Pacific Ocean
+- South America
+people:
+- Mandy Freund
+organisations:
+- Bureau of Meteorology
+- El Niño
+- The Conversation
+- The University of Melbourne
+- United Nations
 ---
 
 The world is bracing for the strongest El Niño in history.

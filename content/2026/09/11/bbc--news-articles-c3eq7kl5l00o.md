@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 - Technology & Software
+locations:
+- UK
+- US
+people:
+- Alex Sobel
+- Daniel Kokotajlo
+- Lord Clement-Jones
+- Trump
+organisations:
+- AI Security Institute
+- AI2027
+- AISI
+- Anthropic
+- BBC News
+- Cabinet Office
+- Gemini
+- House of Lords
+- Labour
+- OpenAI
 ---
 
 ![A hand on a phone displaying several AI apps including ChatGPT, Claude, Copilot, DeepSeek and Gemini](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg)

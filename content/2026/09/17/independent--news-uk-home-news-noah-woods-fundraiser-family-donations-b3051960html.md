@@ -13,6 +13,17 @@ categories:
 - UK
 - Family & Parenting
 - Society & Culture
+locations:
+- Brantham
+- Decoy Pond
+- Suffolk
+people:
+- Noah Woods
+- Supt Pearse
+- Tom Pearse
+organisations:
+- Good Dads Club
+- Suffolk Police
 ---
 
 An online fundraiser set up to support the family of three-year-old Noah Woods is set to surpass £50,000 less than 24 hours after being launched.

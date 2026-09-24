@@ -14,6 +14,24 @@ categories:
 - York
 - History
 - Society & Culture
+locations:
+- Albert Museum
+- Bradford
+- UK
+- Victoria
+- Yorkshire
+people:
+- Arantza Barrutia
+- Ms Truman
+- Rebecca Truman
+organisations:
+- Ms Truman
+- Rope Women
+- Skinning the Cat
+- University of Sheffield
+- Western Bank
+- Western Bank Library
+- Wool Exchange
 ---
 
 # Sharing the limelight of Yorkshire daredevil circus troupe

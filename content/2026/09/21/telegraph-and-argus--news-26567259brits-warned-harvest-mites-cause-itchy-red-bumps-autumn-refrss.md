@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21478918.jpg?type=og-image
+locations:
+- UK
+people:
+- Hanna Yusuf
+organisations:
+- Asda
+- Chemist4U
+- Lidl
+- PDSA
+- Sainsbury's
+- Tesco
 ---
 
 *(Image: Getty)*

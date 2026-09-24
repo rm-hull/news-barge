@@ -11,6 +11,18 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/whitby-marina-car-park-river-rescue-18-sept-2026-coastguard-1.webp
+locations:
+- Marina
+- River Esk
+- Whitby
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
+- North Yorkshire Police
+- Whitby Coastguard
+- Whitby Coastguard Rescue Team
+- Whitby RNLI
+- Yorkshire Ambulance Service
 ---
 
 A rescue operation was launched today (Friday) after a car went into the water at Whitby.

@@ -14,6 +14,24 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Burley-in-Wharfedale
+- Bury
+- Derry Hill
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- Ian Henderson KC
+- John Robinson
+- Mason Jones
+- Me
+- Miss Ramsay
+- Mr Clarke
+- Will Clarke
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

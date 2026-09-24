@@ -13,6 +13,36 @@ categories:
 - Sports
 - History
 image: https://i.guim.co.uk/img/media/56fd5972da71e25bc7784d0abc49977c8d4576df/125_0_3749_3000/master/3749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=597d481eefd49e158359f7e0caaffca6
+locations:
+- Apollo Bay
+- Ballarat Central
+- Bunya
+- Canary Island
+- Carlton North
+- Castlemaine
+- Central America
+- Daintree
+- Geelong Botanic Gardens
+- Jess Hood
+- Maldon
+- Melbourne
+- Mount Alexander Shire
+- Newcastle
+- Prahran
+- South Yarra
+- Victoria
+- Warburton
+people:
+- Ginkgo
+- Jacob Bernstein
+- Justin Buckley
+- Sarah Rees
+organisations:
+- Catalpa
+- Melbourne Metropolitan Board of Works
+- National Trust
+- National Trust of Victoria
+- Sequoia
 ---
 
 A decades-old shady eucalyptus, an elm beloved by thousands of commuters, and a type of ginkgo once thought to be extinct in the wild are among the finalists for Victoria’s tree of the year.

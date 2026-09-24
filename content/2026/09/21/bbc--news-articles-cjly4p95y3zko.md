@@ -11,6 +11,34 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce74/live/803df1c0-b5b4-11f1-8d1d-a985658d9d3a.jpg
+locations:
+- Anglesey
+- Bangor Conwy Môn
+- Cardiff Bay
+- England
+- London
+- Senedd
+- Wales Jenner
+people:
+- Adam Hale
+- Catherine Zeta-Jones
+- Dan Thomas
+- Helen Jenner
+- James Evans
+- Jason O'Connell
+- Matthew
+- Nigel Farage
+- Rachel
+- Rhun ap Iorwerth
+- Sarah Cooper-Lesadd
+organisations:
+- BBC Wales
+- Brexit Party
+- Farage
+- Labour
+- Plaid Cymru
+- Reform Senedd
+- UKIP
 ---
 
 ![Nigel Farage and Helen Jenner speak into a row of microphones as part of a press conference.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/f121/live/daaebc80-b5c7-11f1-abb5-85e9be42cb76.jpg)

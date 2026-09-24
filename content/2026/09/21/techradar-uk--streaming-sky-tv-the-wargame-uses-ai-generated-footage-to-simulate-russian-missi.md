@@ -12,6 +12,40 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/qpJxBeduEcck9Y5Y3xNtMG-1920-80.jpg
+locations:
+- Russia
+- UK
+- US
+- Virgin River
+people:
+- :** The Rt Hon
+- Anthony Scaramucci
+- Baroness Hazarika
+- Baroness Warsi
+- Christopher Steele
+- George Cooper Sr.
+- Jim Murphy
+- Kim Darroch KCMG
+- Lord Robertson
+- Nicola Sturgeon
+- Penny Mordaunt
+- Richard Barrons
+- Rt Hon
+organisations:
+- AI
+- Baroness Harman KC
+- Google News
+- Hallmark
+- Jasmine
+- Nato
+- Netflix
+- RAF
+- Radio Times
+- Sky TV
+- Stylist
+- TechRadar
+- The Rt Hon
+- Yahoo!
 ---
 
 ![The Baroness Hazarika MBE looks at something across a boardroom table](https://cdn.mos.cms.futurecdn.net/qpJxBeduEcck9Y5Y3xNtMG.jpg)

@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Brighton
+- Britain
+- England
+- Hong Kong
+- New York
+- Poland
+- UK
+- US
+- Wales
+people:
+- Andy Burnham
+- Angela Rayner
+- John Healey
+- Lord O'Neill
+- Paul Nowak
+- Rachel Reeves
+organisations:
+- BBC
+- Budget
+- Capital Gains Tax
+- Conservative
+- Greens
+- Labour
+- Liberal Democrats
+- TUC
+- UK Finance
 ---
 
 ![TUC general secretary Paul Nowak sitting in his office. He is pictured in a grey suit and white shirt, worn without a tie. Behind him is a desk and a poster with the phrase Solidarity Forever! on it.](https://ichef.bbci.co.uk/ace/standard/833/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png)

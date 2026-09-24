@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - Health & Fitness
+locations:
+- Gulf
+- Hormuz
+- Iran
+- Louisiana
+- US
+- United States
+- White House
+people:
+- Chris Wright
+- Dana Bash
+- Donald Trump
+- JD Vance
+- John Kennedy
+- Leon Panetta
+organisations:
+- ABC
+- CBS
+- CNN
+- Face the Nation
+- Guardian
+- NBC
+- New York Times
+- State of the Union
 ---
 
 US energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a nuclear agreement with Iran that would prevent the country from having nuclear weapons.

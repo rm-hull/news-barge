@@ -11,6 +11,22 @@ image: https://static.independent.co.uk/2026/09/17/21/28/Screenshot-2026-09-17-a
 categories:
 - News & Politics
 - UK
+locations:
+- Southlake
+- St. Martin-in-the-Fields Episcopal Church
+- Texas
+people:
+- Alan Bentrup
+- April Dreyson
+- Ellen Singer
+- Keller
+- Pilar Schank
+organisations:
+- Fort Worth Star-Telegram
+- Fox 4
+- Pride Kel-So
+- Southlake City Council
+- The Independent
 ---
 
 City officials in Southlake, Texas, have denied a Pride festival a permit to hold an event scheduled for this October despite granting the same permit last year, according to local reports.

@@ -13,6 +13,32 @@ categories:
 - UK
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- Britain
+- New York
+- North Sea
+- Russia
+- Ukraine
+people:
+- Andy Burnham
+- JP Morgan
+- Jamie Dimon
+- John Healey
+- John Swinney
+- Rachel Reeves
+- Rishi Sunak
+- Zack Polanski
+organisations:
+- BP
+- Green Party
+- Greens
+- JP Morgan
+- Labour
+- Positive Money
+- Shell
+- The Telegraph
+- The Telegraph.
+- Treasury
 ---
 
 Chancellor John Healey is reportedly considering policies for windfall tax on banks and oil companies in his first Budget, as speculation grows over ways he can tackle a gaping black hole in public finances.

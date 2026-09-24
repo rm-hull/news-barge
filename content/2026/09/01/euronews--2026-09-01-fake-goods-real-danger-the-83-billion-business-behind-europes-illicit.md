@@ -14,6 +14,12 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Alicante
+people: []
+organisations:
+- EU
+- OLAF
 ---
 
 ## A hidden network of organised crime is flooding European markets with counterfeit goods worth billions, and investigators warn that consumers are unknowingly funding it.

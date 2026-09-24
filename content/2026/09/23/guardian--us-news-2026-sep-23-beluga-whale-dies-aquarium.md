@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/3b8881037251528087171b42f4667d6d5f1d3769/12_0_4748_3801/master/4748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f25b4298a5d45dc900122699aa7150f
+locations:
+- Alaska
+- Canada
+- Chicago
+- China
+- Cook Inlet
+- Georgia
+- Illinois
+- Marineland
+- Niagara
+- Oceanogràfic de València
+- Ontario
+- San Antonio
+- San Diego
+- SeaWorld
+- Shedd
+- Spain
+- US
+people:
+- AnneMarie Iturrizaga
+- Jelly Bean
+- John Chu
+- José Rafael Serra Díez
+- Noaa
+- Osiris
+- Peekachu
+- Rain
+- Shedd
+organisations:
+- AP
+- Associated Press
+- National Oceanic and Atmospheric Administration
+- Noaa Fisheries
+- Oceanogràfic de València
+- The Associated Press
 ---
 
 An Illinois aquarium has said that a third beluga whale it rescued from a closed marine park in Canada this summer has died after it struggled to acclimate to its new environment.

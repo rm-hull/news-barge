@@ -11,6 +11,43 @@ image: https://static.independent.co.uk/2026/09/11/07/2294074132..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Des Moines
+- Iowa
+- Italy
+- Milan
+- U.S.
+- Washington
+- White House
+people:
+- Chris Klomp
+- Christina Bohannan
+- Donald Trump
+- Josh Turek
+- Kash Patel
+- Mariannette Miller-Meeks
+- Miller-Meeks'
+- Robert F. Kennedy Jr.
+- Stephanie Spear
+- Tom Price
+- Zach Lahn
+organisations:
+- Air Force
+- Cook Political Report
+- Department of Health and Services
+- Expedia
+- FBI
+- GOP
+- Gulfstream
+- HHS
+- Hawkeye State
+- KGAN
+- Newtown YMCA
+- Pentagon
+- TV
+- The Independent
+- The Washington Post
+- WGAN
 ---
 
 Health Secretary Robert F. Kennedy Jr. used a $9,000-an-hour military jet to fly to Iowa for appearances with Republican candidates running in tight races ahead of the midterm elections — as the White House hopes he can help win over voters who don’t normally favor the GOP, according to a report.

@@ -12,6 +12,27 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Akershus Fortress
+- Iran
+- Nidaros Cathedral
+- Norway
+- Oslo
+- Trondheim
+people:
+- God
+- Haakon VIII
+- Harald V
+- Holm
+- Ingrid Alexandra
+- Jeffrey Epstein
+- King Haakon
+- Marius Borg Høiby
+- Masud Gharahkhani
+- Mette-Marit
+organisations:
+- Mette-Marit
+- NRK
 ---
 
 King Haakon VIII swore an oath of allegiance before Norway’s parliament on Tuesday in the first major stage in the passing of the crown since the death of his father after 35 years on the throne.

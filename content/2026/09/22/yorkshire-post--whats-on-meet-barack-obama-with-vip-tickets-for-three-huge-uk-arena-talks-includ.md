@@ -14,6 +14,27 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/22/16/59/Meet-Barack-Obama-with-2-000-photo-packages-and-other-options-at-Belfast-Glasgow-and-Manchester.jpeg?trim=0,196,0,196&crop=&width=1200&auto=webp&quality=75
+locations:
+- America
+- Co-op Live
+- Glasgow
+- Ireland
+- Manchester
+- Manchester.
+- North
+- OVO Hydro
+- The O2 Belfast
+- UK
+- US
+- United States
+people:
+- Barack Obama
+- Fane
+organisations:
+- Backstage Club
+- Regular Music
+- Seat Unique
+- Yorkshire
 ---
 
 # Meet Barack Obama with VIP tickets for three huge UK arena talks including £2,000 photo packages - buy here

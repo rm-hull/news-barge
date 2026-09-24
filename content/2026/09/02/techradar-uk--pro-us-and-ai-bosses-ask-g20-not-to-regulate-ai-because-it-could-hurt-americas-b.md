@@ -10,6 +10,32 @@ description: US tech advisor Michael Kratsios pushes for lighter AI regulation
 image: https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg
 categories:
 - Technology & Software
+locations:
+- China
+- US
+people:
+- Craig Hale
+- Demis Hassabis
+- Elon Musk
+- Jensen Huang
+- Michael Kratsios
+- Sam Altman
+- Tom Brown
+- Yin Hejun
+organisations:
+- '## Carolina Principles'
+- American AI
+- Anthropic
+- Carolina Principles
+- Craig’s
+- G20
+- Google DeepMind
+- Google News
+- Nvidia
+- OpenAI
+- Reuters
+- SpaceX
+- TechRadar Pro
 ---
 
 ![Who will win the AI race?](https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB.jpg) 

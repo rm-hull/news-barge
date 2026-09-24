@@ -13,6 +13,34 @@ categories:
 - Europe
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bab el-Mandeb
+- Dubai
+- Germany
+- Gulf
+- Iran
+- Islam
+- Jeddah
+- Lebanon
+- Mecca
+- Riyadh
+- Saudi Arabia
+- Tehran
+- UAE
+- United Arab Emirates
+- Yemen
+people:
+- '## Houthi'
+- Anwar Gargash
+- Ayatollah Ali Khamenei
+- Khalid bin Mohamed
+- Masoud Pezeshkian
+- Mohamed bin Zayed
+organisations:
+- BRICS
+- Bab el-Mandeb
+- GCC
+- Hezbollah
 ---
 
 ## The diplomatic adviser to the UAE president told a session in Dubai that relations with Tehran must continue, but that confidence broken by the attacks on the Gulf will take years to restore.

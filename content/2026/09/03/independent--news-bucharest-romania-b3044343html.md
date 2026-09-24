@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - UK
 - Society & Culture
+locations:
+- Romania
+people: []
+organisations:
+- International Meeting of Orthodox Youth
 ---
 
 Young Orthodox Christians gathered in Romania's capital for a candlelit procession, part of the annual International Meeting of Orthodox Youth.

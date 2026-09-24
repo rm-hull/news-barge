@@ -15,6 +15,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Family & Parenting
+locations:
+- Bradford Royal Infirmary
+people:
+- Nathan Grant
+organisations:
+- Bradford Hospitals Charity
+- Garfield Weston Foundation
+- Harry and Mary Foundation
+- Sovereign Healthcare
+- The Sick Children's Trust
 ---
 
 A NEW 'Home from Home' for families with babies receiving specialist neonatal care at Bradford Royal Infirmary is set to open next spring.

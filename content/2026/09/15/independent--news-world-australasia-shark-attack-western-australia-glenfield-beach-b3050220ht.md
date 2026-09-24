@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Albany
+- City of Geraldton
+- Geraldton Health Campus
+- Glenfield Beach
+- Michaelmas Island
+- Perth
+- Rottnest Island
+- St John Ambulance
+- Western Australia
+people:
+- Cadeyn Catto
+- Daniel Turpin
+- Jackie Jarvis
+- Kirrilee Warr
+- Mel Ismail
+- Melissa Pexton
+- Ms Ismail
+- Steven Mattaboni
+organisations:
+- ABC News
+- Department of Primary Industries and Regional Development
+- Geraldton
 ---
 
 A man is in a serious but stable condition after being attacked by a shark at Glenfield Beach in Western Australia.

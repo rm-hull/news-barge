@@ -11,6 +11,16 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- York Dog Park
+people:
+- Amanda Owen
+organisations:
+- Image-Courtesy-of-York-Dog-Park-1.webp
+- Pampered Paws
+- York Museum Gardens
+- York Museums Trust
+- Yorkshire Shepherdess
 ---
 
 More details have been revealed for York’s first ever city centre dog show.

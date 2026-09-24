@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Philadelphia
+people:
+- Bueaford
+- Eugene Beauford
+- Kevin Bethel
+organisations:
+- Kia
+- NBC 10
+- WPVI
 ---
 
 A Philadelphia police officer used his foot to nudge a man lying in the street — and then left him there and drove off — just before a car fatally hit the man.

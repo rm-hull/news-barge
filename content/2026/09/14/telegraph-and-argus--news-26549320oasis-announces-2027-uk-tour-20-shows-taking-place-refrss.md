@@ -14,6 +14,30 @@ categories:
 - Bradford
 - News & Politics
 - Arts & Culture
+locations:
+- Cardiff
+- Cletic Park
+- Edinburgh
+- Etihad
+- Glasgow
+- Knebworth
+- London
+- Manchester City
+- Melbourne
+- Mexico City
+- PA
+- Sao Paolo
+- Tokyo
+- UK
+people:
+- Doug Peters
+- Liam
+- Noel Gallagher
+organisations:
+- '## Oasis'
+- Etihad
+- Instagram
+- Oasis’
 ---
 
 *(Image: Doug Peters/PA)*

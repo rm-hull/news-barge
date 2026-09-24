@@ -13,6 +13,60 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Aston Villa
+- Barcelona
+- Europe
+- London
+- Real Madrid
+people:
+- Andrea Berta
+- Atleti
+- Bradley Barcola
+- Bruno Guimaraes
+- Christian Norgaard
+- Christos Tzolis
+- Declan Rice
+- Eberechi Eze
+- Ezri Konsa
+- Gabriel Jesus
+- Gabriel Martinelli
+- Josh Kroenke
+- Julian Alvarez
+- Jurrien Timber
+- Kai Havertz
+- Leandro Trossard
+- Luis Enrique
+- Mikel Arteta
+- Mikel Merino
+- Morgan Rogers
+- Piero Hincapie
+- Richard Garlick
+- Viktor Gyokeres
+- Vinicius Jr
+- William Saliba
+- Zubimendi
+organisations:
+- Al-Hilal
+- Arsenal
+- Aston Villa
+- Atletico Madrid
+- Barcelona
+- Besiktas
+- Chelsea
+- Club Brugge
+- Coventry
+- Crystal Palace
+- Edu
+- Everton
+- Guimaraes
+- Gunners
+- Liverpool
+- Manchester City
+- Newcastle
+- Paris St-Germain
+- Sporting
+- Times
 ---
 
 ![Josh Kroenke, Andrea Berta and Mikel Arteta](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fa59/live/179ef150-a646-11f1-8d30-cf6fd28b1367.jpg)

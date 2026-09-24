@@ -14,6 +14,11 @@ categories:
 - News & Politics
 - Travel
 - Society & Culture
+locations:
+- Berlin
+people: []
+organisations:
+- Senate Department for Mobility, Transport, Climate Protection and the Environment
 ---
 
 © dpa

@@ -13,6 +13,22 @@ categories:
 - Harrogate
 - York
 - Science
+locations:
+- Australia
+- Canada
+- Ireland
+- UK
+- US
+- York
+people:
+- Paul Galdas
+- Rebecca Jenkinson
+organisations:
+- Department of Health Sciences
+- Discovery Research Programme
+- Movember Institute
+- Movember Institute of Men’s Health
+- University of York
 ---
 
 *(Image: Supplied)*

@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Abu Dhabi
+- Gulf
+- Iran
+- Middle East
+- Qatar
+- Strait of Hormuz
+- Tehran
+- UAE
+- US
+- United States
+- Washington
+people:
+- Al Ansari
+- Anwar Gargash
+- Majed Al Ansari
+organisations:
+- Gulf Cooperation Council
+- Hili Forum
 ---
 
 ## Qatar and the UAE have called for stronger Gulf defences as US security protection is no longer enough, with officials stating that trust with Iran "is a mountain to climb" and that their economies "cannot be held hostage" by Tehran.

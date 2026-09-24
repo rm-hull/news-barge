@@ -14,6 +14,27 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bishop Auckland
+- Carlisle
+- County Durham
+- Darlington
+- Metro
+- Metrocentre
+- Middlesbrough
+- Newcastle
+- Saltburn
+- Seaham
+- Sunderland
+- Teesside Airport
+- Whitby
+people: []
+organisations:
+- NORTHERN ECHO
+- Northern Railway
+- Northern's Low Fare Finder
+- Northern’s
+- Yorkshire Dales Great North Run
 ---
 
 *(Image: NORTHERN ECHO)*

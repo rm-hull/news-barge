@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - Health & Fitness
+locations:
+- England
+- Nottingham
+- Scarborough
+- Southport
+- York
+people:
+- Ldrs Paul Arnold
+organisations:
+- FOI
+- Freedom of Information
+- ICO
+- Information Commissioner’s Office
+- LDRS
+- Local Democracy Reporting Service
+- NHS Trust
+- Newsquest
+- Scarborough Hospital
+- Scarborough Teaching Hospitals NHS Foundation Trust
+- The York and Scarborough NHS Trust
+- York Hospital
+- York and Scarborough NHS Trust
 ---
 
 The NHS Trust that runs York and Scarborough hospitals has apologised after providing inaccurate figures regarding the wrongful access of patient records by staff.

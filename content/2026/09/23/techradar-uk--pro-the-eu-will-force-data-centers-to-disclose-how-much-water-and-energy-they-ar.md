@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe-1920-80.jpg
+locations: []
+people:
+- Craig Hale
+- Dan Jørgensen
+- Teresa Ribera
+organisations:
+- Craig’s
+- Data Center Energy Efficiency Package
+- EC
+- EU
+- European Commission
+- Google News
+- Just and Competitive Transition EVP
+- Reuters
+- TechRadar Pro
 ---
 
 ![Stylized image of a data center rack with electric blue lines running across it](https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe.jpg)

@@ -12,6 +12,24 @@ image: https://cdn.mos.cms.futurecdn.net/wEwgym685CbrTUVcmcTbbf-1920-80.jpg
 categories:
 - Technology & Software
 - Personal Finance & Investing
+locations:
+- Dacia
+- Leon Poultney
+- UK
+people:
+- Leapmotor
+organisations:
+- Android Auto
+- Android Automotive
+- Apple CarPlay
+- Dacia
+- EVs
+- Google News
+- Honda
+- Leapmotor
+- Leon
+- Renault Group
+- Renault Twingo EV
 ---
 
 ![2027 Dacia Spring](https://cdn.mos.cms.futurecdn.net/wEwgym685CbrTUVcmcTbbf.jpg) 

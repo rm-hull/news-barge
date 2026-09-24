@@ -13,6 +13,13 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Dalton Lane
+- Dalton Mills
+- Keighley
+people: []
+organisations:
+- West Yorkshire Fire and Rescue Service
 ---
 
 A major fire at Dalton Mills in Keighley is now under control, fire chiefs have confirmed.

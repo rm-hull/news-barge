@@ -12,6 +12,104 @@ categories:
 - Local
 - Harrogate
 - News & Politics
+locations:
+- Cambridge Crescent
+- Cold Bath Road
+- Easingwold
+- Harrogate
+- Haunted House
+- High Birstwith
+- Humber
+- Kettlesing
+- Knaresborough Road
+- Middle East
+- North Yorkshire
+- Pakistan
+- Pannal
+- Reynard Crag Holiday Park
+- Ripon
+- Smithy Close
+- Thirkhill Drive
+- UK
+- Wetherby
+- William & Victoria
+people:
+- Alec Shelbrooke
+- Amy Winehouse
+- Andy Burnham
+- Becky Farnell
+- Chloë Hanslip
+- David Coulthard
+- Ella
+- Grantley
+- Hugh Bonneville
+- James Gawthorpe
+- James Kelly
+- John Harris
+- Julian Smith
+- Kevin Hollinrake
+- Kirsty Henshaw
+- Liz Charnley
+- Lynn Cummings
+- Max Partington
+- Mika Häkkinen
+- Mike Schofield
+- Neil Allan
+- Nigel Hull
+- Peter Lewis
+- Rachel Tunnicliffe
+- Roksana Matwijiszyn
+- Shahban Aziz
+- Sharon Canavar
+- Steve Gill
+- Tessa Munt
+- Tom Gordon
+- Victoria Kirkman
+organisations:
+- Adam Isaacs
+- Arville Textiles
+- Billie Coulson
+- Department for Business, Innovation, Science and Trade
+- Department for Education
+- EU
+- Formula One
+- Good Growth Foundation
+- Harrogate Bus Company
+- Harrogate Convention Centre
+- Harrogate International Festivals
+- Harrogate and District NHS Foundation Trust
+- Jane Marriott CMG OBE
+- Jespers
+- Kirsty's
+- Knaresborough Town Council
+- Les Parkes
+- Lewis Wilson
+- MDAV
+- Masham
+- Morrisons Daily
+- National Trust
+- Newton Solicitors
+- North Yorkshire
+- Pakistan Bilateral Trade Relations
+- Pitcher & Piano
+- Project Officer
+- RAF Linton-on-Ouse
+- Raworths
+- Red Wall Theatre
+- Rethink Repayment
+- Ripley Church of England Primary Schools
+- Ripon
+- Sarah Andreson NUS
+- St Cecilia Orchestra
+- Textile Centre of Excellence
+- The Federation of Beckwithshaw
+- The Pavilions of Harrogate
+- UNESCO-listed Fountains Abbey
+- West Yorkshire Combined Authority
+- Wetherby
+- Will Tennison
+- Yorkshire Water
+- Young Liberals
 ---
 
 ![The cast of Fighting Fascism - Knaresborough's Home Front by Red Wall Theatre. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

@@ -10,6 +10,14 @@ description: Pssssst.... you also have the option to read our stories without th
 image: https://cdn.mos.cms.futurecdn.net/ptN8ZQVMsfuSUCPCRzECwN-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- UK
+people:
+- Amelia Schwanke
+organisations:
+- App Store
+- Google News
+- TechRadar Insider
 ---
 
 ![The TechRadar app as shown on a tablet, iPhone and Android](https://cdn.mos.cms.futurecdn.net/ptN8ZQVMsfuSUCPCRzECwN.jpg) 

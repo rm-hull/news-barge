@@ -13,6 +13,14 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- West Yorkshire
+people: []
+organisations:
+- Horse Watch
+- Neighbourhood Watch
+- West Yorkshire Police
+- West Yorkshire Police Horse Watch
 ---
 
 *(Image: Pixabay)*

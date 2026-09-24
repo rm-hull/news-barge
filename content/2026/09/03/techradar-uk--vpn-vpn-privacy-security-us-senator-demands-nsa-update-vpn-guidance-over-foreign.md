@@ -10,6 +10,25 @@ description: Senator Ron Wyden seeks clear warnings about the limitations of sta
 image: https://cdn.mos.cms.futurecdn.net/ji5q5LEbkXwmbhvpgHgPqK-1024-80.jpg
 categories:
 - Technology & Software
+locations:
+- US
+people:
+- Joshua M. Rudd
+- Rene Millman
+- Ron Wyden
+organisations:
+- Apple
+- CRS
+- Computer Weekly
+- Congressional Research Service
+- Financial Times
+- Google
+- IT Pro
+- NSA
+- National Security Agency
+- No Trace
+- Proton VPN
+- The Guardian
 ---
 
 ![A VPN runs on a mobile phone placed on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/ji5q5LEbkXwmbhvpgHgPqK.jpg) 

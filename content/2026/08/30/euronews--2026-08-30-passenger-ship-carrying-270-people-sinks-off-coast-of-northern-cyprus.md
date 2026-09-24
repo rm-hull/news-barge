@@ -12,6 +12,20 @@ categories:
 - Europe
 - News & Politics
 - Technology & Software
+locations:
+- Kyreneia
+- Republic of Cyprus
+- Taşucu
+- Turkey
+- Turkish Republic of Northern Cyprus
+people:
+- Murat Senkul
+- Nikos Christodoulides'
+- Tufan Erhürman
+organisations:
+- CNN Turk
+- Facebook
+- Interior Ministry
 ---
 
 ## Video footage circulating on social media appears to show passengers in life jackets sitting on the overturned ship as they wait to be reached.

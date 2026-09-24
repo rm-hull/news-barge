@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- County Durham
+- North East
+people:
+- Ben Gilligan
+- Graeme Weeks
+- Jack Moffat
+- Mark Savage Photograpy
+organisations:
+- County Durham
+- Cricket Team
+- Durham Cricket Foundation
+- Durham VI Cricket Team
+- Durham Visually Impaired
+- ECB
+- EVs
+- Elite Bus Driver Training Academy
+- Go North East
+- Thomas Pocklington Trust
+- VI Team
 ---
 
 A transport company has renewed its support for County Durham’s only visually impaired cricket team for a fourth year, helping players with sight loss compete nationally.

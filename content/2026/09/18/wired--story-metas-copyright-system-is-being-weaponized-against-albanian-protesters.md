@@ -12,6 +12,34 @@ image: https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/191:100/w_1280,c_
 categories:
 - Technology & Software
 - Science
+locations:
+- Albania
+- Myanmar
+- Tirana
+- US
+people:
+- Alexandra Geese
+- Arjan Koçi
+- Edi Rama
+- Ivanka Trump
+- Jared Kushner
+- Kian Vesteinsson
+- Koci
+- Mark Zuckerberg
+- Martha Dimitratou
+- Thomas Regnier
+organisations:
+- DMCA
+- EU
+- European Commission
+- European Parliament
+- Freedom House
+- Koçi
+- Meta
+- NGO
+- Repro Uncensored
+- Trump
+- WIRED
 ---
 
 European lawmakers are calling for an investigation into Meta after the mass suspension of accounts posting about anti-government protests in Albania, in what observers believe is a coordinated brigading attack.

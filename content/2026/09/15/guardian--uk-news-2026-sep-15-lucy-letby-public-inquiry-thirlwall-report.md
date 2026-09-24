@@ -11,6 +11,22 @@ image: https://i.guim.co.uk/img/media/52718705e1fb4cf5d0d9e96da6fc047a4d615968/5
 categories:
 - UK
 - News & Politics
+locations:
+- Countess of Chester
+- Liverpool
+- NHS England
+people:
+- Justice Thirlwall
+- Kathryn Thirlwall
+- Lady Justice Thirlwall
+- Lucy Letby
+- Vera Baird
+organisations:
+- BBC
+- CCRC
+- Criminal Cases Review Commission
+- NHS
+- Thirlwall
 ---
 
 Lady Justice Thirlwall has published the report on the findings of her inquiry into events at the Countess of Chester hospital involving the actions of former neonatal nurse Lucy Letby, who was convicted over the murder and attempted murder of multiple babies.

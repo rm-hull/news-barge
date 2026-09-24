@@ -17,6 +17,22 @@ categories:
 - York
 - News & Politics
 - Sports
+locations:
+- Askern Lake
+- Wingerworth Lido
+people:
+- Big Duffs’
+- Jackie
+- John Rowley
+- Mo Metcalf-Fisher
+organisations:
+- Askern Town Council
+- City of Doncaster Council
+- Countryside Alliance
+- Doncaster Council
+- Facebook
+- NHS
+- North East Derbyshire District Council
 ---
 
 # Doncaster Council’s no-fishing signs at Askern Lake should never see the light of day - Mo Metcalf-Fisher

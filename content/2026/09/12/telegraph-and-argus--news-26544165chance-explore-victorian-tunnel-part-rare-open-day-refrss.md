@@ -13,6 +13,24 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Fox
+- Greenside Greenway
+- Greenside Tunnel
+- LS28 8HU
+- Leeds Bradford Supercycle
+- Mass Transit
+- Pudsey
+- Smalewell Road
+- Spen Valley Greenway
+- Tyersal
+- West Yorkshire
+people:
+- Gary Lemal
+organisations:
+- Greenside Greenway
+- Leeds
+- West Yorkshire Combined Authority
 ---
 
 A DISUSED rail tunnel that has been gated off for over two decades will be open to the public this weekend.

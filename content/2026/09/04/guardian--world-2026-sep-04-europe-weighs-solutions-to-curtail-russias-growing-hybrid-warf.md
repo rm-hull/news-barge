@@ -12,6 +12,29 @@ image: https://i.guim.co.uk/img/media/90fab552e833c01fd5c9dd7ef906baf55dbb0c00/2
 categories:
 - UK
 - News & Politics
+locations:
+- Berlin
+- Denmark
+- Europe
+- Germany
+- Leipzig
+- Moscow
+- Netherlands
+- Poland
+- Russia
+- Svalbard
+- Ukraine
+people:
+- Jakub Krupa
+- Putin
+- Radosław Sikorski
+organisations:
+- CIA
+- DHL
+- EU
+- GRU
+- Goethe-Institut
+- Telegram
 ---
 
 Russia’s suspected sabotage campaign across Europe appears to be gathering pace again, confronting governments with a problem they have struggled to solve since the start of the war in Ukraine: how to impose a meaningful cost on Moscow for attacks that remain deliberately below the threshold of conventional war.

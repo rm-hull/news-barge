@@ -14,6 +14,24 @@ categories:
 - Real Estate
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/20/14/2281581978..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- London
+- North West of England
+- Scotland
+- South East
+people:
+- Colleen Babcock
+- Kevin James
+- Marc von Grundherr
+- Matt Smith
+- Reeves
+- Rightmove
+organisations:
+- Bank of England
+- Benham
+- Bradleys Estate Agents
+- Rightmove
 ---
 
 Signs of an "autumn bounce" appeared in the housing market during September as average asking prices rose month on month for the first time since May, according to Rightmove.

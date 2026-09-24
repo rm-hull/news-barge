@@ -14,6 +14,53 @@ categories:
 - News & Politics
 - Science
 - Health & Fitness
+locations:
+- Black
+- Capitol Hill
+- Hill District
+- Homewood
+- Pennsylvania
+- Pitt
+- Pittsburgh
+- US
+people:
+- Alzheimer
+- Andrea Rosso
+- Anne Cohen
+- Homewood
+- Jared Stonesifer
+- Jay Bhattacharya
+- Lawrence Gostin
+- La’vette Wagner
+- Negar Fani
+- Obama
+- Olga Akselrod
+- Parkinson’s
+- Phresh
+- Robert F] Kennedy [Jr
+- Roderick Blair
+- Tamara Dubowitz
+organisations:
+- Alzheimer’s Association
+- American Civil Liberties Union
+- CDC
+- Centers for Disease Control and Prevention
+- DEI
+- Dubowitz
+- Emory University
+- Georgetown Law
+- Guardian
+- HHS
+- Hill District
+- Homewood Research on Eating, Shopping and Health
+- Kaiser Permanente
+- NIH
+- National Institutes of Health
+- Phresh
+- Pitt
+- Pittsburgh Hill
+- Trump
+- University of Pittsburgh
 ---
 
 Roderick Blair was surprised when scientific researchers appeared on his doorstep in the Homewood neighborhood of Pittsburgh, Pennsylvania.

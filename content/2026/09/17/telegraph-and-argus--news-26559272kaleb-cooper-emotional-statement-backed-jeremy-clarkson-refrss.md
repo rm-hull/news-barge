@@ -13,6 +13,27 @@ categories:
 - Bradford
 - News & Politics
 - Sports
+locations:
+- Chadlington
+- Chipping Norton
+- Oxfordshire
+people:
+- Alfie
+- Arya
+- Diesel
+- Jeremy Clarkson
+- Kaleb Cooper
+- Lisa
+- Rex
+- Sansa
+organisations:
+- Amazon TV
+- Clarkson's Farm
+- Diddly Squat
+- Game of Thrones
+- Instagram
+- The Farmer's Dog
+- The Windmill
 ---
 
 *(Image: Prime Video)*

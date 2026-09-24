@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04f7/live/02246e00-b419-11f1-8a8e-d9778c1036bb.jpg
+locations:
+- David Wallace Lockhart
+- Downing Street
+- Holyrood
+- Scotland
+people:
+- Anas Sarwar
+- Andy Burnham
+- David Wallace Lockhart
+- Joe Fagan
+- Mark Diffley
+- Michael Marra
+- Monica Lennon
+organisations:
+- Commons
+- House of Lords
+- Number 10
+- Reform UK
+- SNP
+- Scottish Greens
+- Scottish Labour
+- Scottish Labour Party
 ---
 
 ![Michael Marra smiling on stage after his election ](https://ichef.bbci.co.uk/ace/standard/629/cpsprodpb/04f7/live/02246e00-b419-11f1-8a8e-d9778c1036bb.jpg)

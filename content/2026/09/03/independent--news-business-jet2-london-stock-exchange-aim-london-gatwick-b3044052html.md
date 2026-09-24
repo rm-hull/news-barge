@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- Gatwick
+- Iran
+- London
+- UK
+people:
+- Adam Vettese
+- Jet2
+- Steve Heapy
+organisations:
+- AIM
+- Alternative Investment Market
+- Etoro
+- Jet2
+- London Stock Exchange
 ---
 
 Jet2 has said summer bookings were higher than last year and it is on track for a stronger winter, while the holiday firm unveiled plans to move its listing up to the main market of the London Stock Exchange.

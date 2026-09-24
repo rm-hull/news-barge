@@ -14,6 +14,14 @@ categories:
 - York
 - True Crime
 - News & Politics
+locations:
+- Boroughbridge Road
+- North Yorkshire
+- Ripon Canal
+people: []
+organisations:
+- Newsquest)* Police
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

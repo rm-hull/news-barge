@@ -13,6 +13,15 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- '## Yorkshire'
+- Spilmans
+- Thirsk
+people:
+- Tom Spilman
+organisations:
+- Spilmans
+- Wizfords Academy
 ---
 
 ## Yorkshire farm celebrates 10 years of autumn attraction with 175,000 pumpkins to pick

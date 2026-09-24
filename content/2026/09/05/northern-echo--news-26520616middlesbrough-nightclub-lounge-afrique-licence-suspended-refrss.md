@@ -14,6 +14,21 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Corporation Road
+- Middlesbrough
+- North East
+people:
+- Fiona Helyer
+- Lindsay Clode
+- Percy Quarcoo
+organisations:
+- Border Force
+- CCTV
+- Cleveland Police
+- Lounge Afrique
+- Middlesbrough Council
+- Security Industry Authority-registered
 ---
 
 A North East nightclub where underage girls were said to have been served drinks before one was allegedly raped has had its licence suspended for six weeks.

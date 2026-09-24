@@ -12,6 +12,20 @@ categories:
 - Local
 - Harrogate
 - Technology & Software
+locations:
+- B6265
+- Glasshouses
+- Harrogate Magistrates’ Court
+- Lupton Bank
+- Pateley Bridge
+people:
+- Bailey Chadwick
+- DI Cowling
+- Jill Cowling
+- Joseph Henry Stott
+organisations:
+- North Yorkshire Police
+- Serious Collision Investigation Unit
 ---
 
 ![](https://mmo.aiircdn.com/409/687e7a24bf2db.png) 

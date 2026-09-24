@@ -12,6 +12,37 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/48/74/1200x675_cmsv2_5ab80520-0f43-506d-8ac5-f122457c0514-9924874.jpg
+locations:
+- Africa
+- Casablanca
+- Israel
+- Marrakech
+- Morocco
+- Portugal
+- Spain
+- US
+people:
+- Abdelilah Benkirane
+- Aziz Akhannouch
+- Fatima-Zahra Mansouri
+- Fouzi Lekjaa
+- Istiqlal
+- Mohamed Chouki
+- Mohammed VI
+- Nizar Baraka
+- PAM
+organisations:
+- Authenticity and Modernity Party
+- House of Representatives
+- Istiqlal Party
+- Justice and Development Party
+- National Rally of Independents
+- PAM
+- PJD
+- Party of Progress and Socialism
+- Popular Movement
+- RNI
+- Socialist Union of Popular Forces
 ---
 
 ## Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.

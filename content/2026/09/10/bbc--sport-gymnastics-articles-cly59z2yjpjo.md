@@ -13,6 +13,27 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- China
+- Fenton Manor
+- France
+- Germany
+- Great Britain
+- Los Angeles
+- Paris
+- Shropshire
+- Stoke
+- Tokyo
+people:
+- Alice Kinsella
+- Parker
+organisations:
+- BBC Radio Stoke
+- Commonwealth
+- Italy
+- Park Wrekin Gymnastics Club
+- Switzerland
+- Team GB
 ---
 
 ![Alice Kinsella in a teal coloured leotard competing at the British Artistic Gymnastics Championship.](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/0654/live/c00fdc70-ad06-11f1-beae-535b95a24b3e.jpg)

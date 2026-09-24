@@ -11,6 +11,25 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- Grade II
+- High Petergate
+- Sam Smith’s Brewery
+- York Minster
+people:
+- Hugh Murray
+- Humphrey Smith
+- Sam Smith
+organisations:
+- '***YorkMix***'
+- Brewery
+- Carr’s Coffee House
+- High Court
+- Sam Smith’s
+- The Chapter Coffee House
+- The Eclipse
+- The York Arms
+- York Arms
 ---
 
 There are hopes that one of York’s best-known pubs could soon reopen.

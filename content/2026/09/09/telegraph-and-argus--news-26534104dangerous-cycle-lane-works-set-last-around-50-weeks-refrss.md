@@ -13,6 +13,31 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- A652 Bradford Road
+- Bradford Road
+- Dewsbury
+- Rink Street
+- Victoria Road
+- YOUR
+people:
+- Cllr Hardie
+- Cllr Zaman
+- Habiban Zaman
+- John Hardie
+- Sharon McNulty
+organisations:
+- Batley East
+- Bradford Road Transport Corridor
+- Grilled and Filtered
+- Kirklees Council
+- Kirklees Independents
+- Kirklees Independents Group
+- Labour Group
+- Local Democracy Service
+- Public Notice Portal
+- Reform UK Cabinet
+- Regeneration, Highways and Transport
 ---
 
 ### What is the Public Notice Portal?

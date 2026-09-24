@@ -13,6 +13,27 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/21/20/Airport_Delays_56731.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Kennedy
+- LaGuardia
+- New Brunswick
+- New Jersey
+- New York
+- New York City
+- Newark
+- Philadelphia
+- U.S. Northeast
+- Washington D.C.
+- Washington, D.C.
+people:
+- Brian Bedford
+- Donald Trump
+organisations:
+- CBS
+- FAA
+- Federal Aviation Administration
+- Newark Liberty International Airport
+- United Nations General Assembly
 ---
 
 Hundreds of flights were canceled in the U.S. Northeast on Monday due to technical problems at a key regional air traffic control center, halting operations at every major airport in the New York City area for several hours just as numerous foreign leaders were flying in for the United Nations General Assembly.

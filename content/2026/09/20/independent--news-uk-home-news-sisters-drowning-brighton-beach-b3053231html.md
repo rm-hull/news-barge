@@ -12,6 +12,21 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/05/29/9/09/01KRKF06DSS0040MFYBWAVN74Q.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- Brighton
+- London
+- Madeira Drive
+- Uxbridge
+people:
+- Adam Hays
+- Christina Walters
+- Jane Adetoro
+- Joseph Jacobson
+- Rebecca Walters
+organisations:
+- CCTV
+- RNLI
+- Sussex Police
 ---
 
 Police have confirmed that three sisters whose bodies were recovered from the sea off Brighton beach died of drowning after being dropped off nearby by a taxi, police said.

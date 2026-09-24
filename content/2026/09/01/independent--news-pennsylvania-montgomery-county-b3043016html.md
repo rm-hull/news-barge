@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Montgomery County
+- Pennsylvania
+people:
+- Glenwood Earl Pysher IV
+- Kevin R. Steele
+- Kevin Steele
+- Sean Farrell
+organisations:
+- Montgomery County Detective Bureau
+- Upper Pottsgrove Police
 ---
 
 A Pennsylvania police officer who fatally shot a 22-year-old college student has been charged with voluntary manslaughter, a prosecutor said Tuesday.

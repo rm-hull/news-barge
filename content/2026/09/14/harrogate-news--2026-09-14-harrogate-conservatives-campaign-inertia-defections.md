@@ -12,6 +12,35 @@ categories:
 - Local
 - Harrogate
 - Society & Culture
+locations:
+- County Hall
+- Harrogate
+- North Yorkshire
+- Reform UK
+- Westminster
+people:
+- Andrew Jones
+- John Mann
+- Karl Arthur
+- Nigel Farage
+- Tim Grogan
+- Tom Gordon
+organisations:
+- Cliffe & North Duffield
+- Conservative Association
+- Conservative Party
+- Conservative and Independent
+- Harrogate BID
+- Harrogate District Chamber of Commerce
+- Harrogate Informer
+- Harrogate and Knaresborough Conservative Association
+- Lifeline
+- Monk Fryston & South Milford
+- North Yorkshire Conservative
+- North Yorkshire Council
+- Oatlands & Pannal
+- Reform UK
+- Tory
 ---
 
 **HARROGATE** — Questions are mounting over the long-term strategic viability and communication framework of the Harrogate and Knaresborough Conservative Association, amid growing localized criticism regarding a perceived withdrawal from frontline public debate.

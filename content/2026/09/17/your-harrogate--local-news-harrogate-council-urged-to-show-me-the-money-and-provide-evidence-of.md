@@ -15,6 +15,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://mmo.aiircdn.com/409/668fe0ac94f9c.jpg
+locations:
+- County Hall
+- North Yorkshire
+- Northallerton
+people:
+- Felicity Cunliffe-Lister
+- Howard Emmett
+- Jo Foster
+- Mike Jordan
+- Peter Lacey
+- Rachel Joyce
+organisations:
+- Liberal Democrat
+- North Yorkshire Council
+- PIR
+- Reform
+- STAG
+- School Transport Action Group
 ---
 
 ![](https://mmo.aiircdn.com/409/668fe0ac94f9c.jpg)

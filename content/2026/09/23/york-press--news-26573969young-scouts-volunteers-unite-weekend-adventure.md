@@ -12,6 +12,12 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21483900.jpg?type=og-image
+locations:
+- North Yorkshire
+people: []
+organisations:
+- Ignite
+- North Yorkshire Scouts
 ---
 
 *(Image: Supplied)*

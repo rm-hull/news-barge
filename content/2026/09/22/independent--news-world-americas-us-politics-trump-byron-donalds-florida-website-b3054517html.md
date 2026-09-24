@@ -12,6 +12,35 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/22/19/2161591374..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Miami
+- Sen
+people:
+- BYRON
+- Byron Donalds
+- Charlie Kirk
+- David Jolly
+- Donald Trump
+- Donalds’
+- Elon Musk
+- Gates McGavick
+- James Fishback
+- Jay Collins
+- Maria Elvira Salazar
+- Mike Johnson
+- Rick Scott
+- Ron DeSantis
+- Ted Cruz
+organisations:
+- Congress
+- Donalds’
+- House of Representatives
+- Immigration and Customs Enforcement
+- Law and Order
+- The Miami Herald
+- Trump
+- Visualping
 ---
 
 President Donald Trump’s preferred candidate to be governor of Florida quietly scrubbed nearly all references to the president from his campaign website, according to a new report.

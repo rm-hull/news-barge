@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- D.C.
+- Ground Zero
+- Manhattan
+- New York
+- New York City
+- Washington
+people:
+- James Brosi
+- Jerry Nadler
+- Michael Bloomberg
+- Robert Eustace
+- Rudy Giuliani
+- Zohran Mamdani
+organisations:
+- Environmental Protection Agency
+- FDNY Uniformed Fire Officers Association
+- FDNY Uniformed Firefighters Association
+- FDNY World Trade Center Health Program
+- Federal Emergency Management Agency
+- New York City Fire Department
+- World Trade Center
 ---
 
 A massive tranche of never-before-released documents shows how New York City officials knew the potentially devastating consequences of exposure to Ground Zero toxins in the aftermath of the September 11, 2001 terror attacks.

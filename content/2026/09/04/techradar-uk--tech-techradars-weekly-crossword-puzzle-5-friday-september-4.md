@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Science
 - Education & Learning
+locations:
+- Gamescom
+people:
+- James Pickard
+organisations:
+- Black Friday
+- Eurogamer
+- Google News
+- PS5
+- Tampa Bay Buccaneers
+- TechRadar
 ---
 
 ![A crossword puzzle with the words TechRadar Crossword in pink and other clues filled in with categories from across the site](https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh.jpg) 

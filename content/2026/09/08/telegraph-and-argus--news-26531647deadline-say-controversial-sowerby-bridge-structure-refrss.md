@@ -13,6 +13,39 @@ categories:
 - Bradford
 - News & Politics
 - Science
+locations:
+- Calderdale
+- Dafn
+- Quran
+- Sowerby Bridge
+- West Yorkshire
+- Willow Terrace
+- Wood Nook Lane
+- YOUR
+people:
+- Adam Wilkinson
+- Allaah
+- Allah
+- Cllr Wilkinson
+- Coun Wilkinson
+- Mike Payne
+- Mohammed Khorshid
+organisations:
+- Calderdale Council
+- Companies House
+- EA
+- Environment Agency
+- Forestry Commission
+- Labour
+- Planning Inspectorate
+- Public Notice Portal
+- Reform
+- Rest Gardens Limited
+- Shaheed Quran Team
+- Sowerby Bridge
+- The Shaheed Quran Team
+- TikTok
+- Wood Nook Lane Residents Association
 ---
 
 ### What is the Public Notice Portal?

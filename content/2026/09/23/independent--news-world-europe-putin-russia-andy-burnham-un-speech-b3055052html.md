@@ -12,6 +12,24 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/07/10/08/2026-07-09T111203Z_1535598630_RC2QJIAVJR8Q_RTRMADP_3_NATO-SUMMIT-TRUMP-UKRAINE-RUSSIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Europe
+- Kremlin
+- London
+- Moscow
+- New York
+- Russia
+- UK
+people:
+- Andy Burnham
+- Brexit
+- Dmitry Peskov
+- Vladimir Putin
+organisations:
+- National Centre for Information Defence
+- UN General Assembly
+- United Nations General Assembly
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

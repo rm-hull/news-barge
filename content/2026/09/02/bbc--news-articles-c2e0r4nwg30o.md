@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Technology & Software
 - Sports
+locations:
+- Cape Town
+- DHL Stadium
+- Johannesburg
+- New Zealand
+- South Africa
+- Soweto
+people: []
+organisations:
+- Airlink
+- All Blacks
+- BBC News Africa
+- Flightradar24
+- SACAA
+- Springboks
 ---
 
 Watch: Moment two planes fly less than 50 feet above stadium

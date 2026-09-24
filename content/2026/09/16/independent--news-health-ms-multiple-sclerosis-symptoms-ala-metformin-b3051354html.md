@@ -13,6 +13,22 @@ categories:
 - UK
 - Health & Fitness
 - Science
+locations:
+- Australia
+- Surrey
+- UK
+people:
+- Ailsa Guidi
+- Emma Gray
+- Jeremy Chataway
+- Max Parmar
+organisations:
+- ALA
+- MS Register
+- MS Society
+- Queen Square MS Centre
+- UCL
+- University College London
 ---
 
 An existing antioxidant and anti-inflammatory medicine may slow down progression of multiple sclerosis (MS), a world-first trial has found.

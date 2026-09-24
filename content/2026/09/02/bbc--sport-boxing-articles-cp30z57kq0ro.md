@@ -13,6 +13,50 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- 3Arena
+- Bray
+- Chicago
+- Croke Park
+- Dublin
+- Finland
+- France
+- London
+- Louisiana
+- Madison Square Garden
+- New York
+- Republic of Ireland
+- Rio
+- United States
+- Wembley Arena
+people:
+- '## Hearn'
+- Amanda Serrano
+- Bonnie Canino
+- Brian Peters
+- Bridget
+- Chantelle Cameron
+- Deirdre Gogarty
+- Delfine Persoon
+- Eddie Hearn
+- Eddie Hearn.
+- Flora Pili
+- Hi Eddie
+- Jake Paul
+- Katie Taylor
+- Long
+- Mike Tyson
+- Mira Potkonen
+- Ross Enamait
+organisations:
+- DM
+- DMs & Taylor
+- MSG
+- Matchroom
+- Netflix
+- Serrano
+- Twitter
+- WIBF
 ---
 
 ![Katie Taylor acknowledges the crowd at Croke Park](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c7a5/live/97862a90-a38b-11f1-9e7c-cb942f2e97d9.jpg)

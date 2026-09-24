@@ -12,6 +12,31 @@ categories:
 - Local
 - York
 - Health & Fitness
+locations:
+- Derwent
+- Malton Hospital
+- North Yorkshire
+- Norton
+- Ryedale
+- Scarborough
+- Springwood Centre
+- York
+people:
+- Cllr Burr
+- Cllr Di Keal
+- Cllr Lindsay Burr
+- Kevin Hollinrake
+- Max Downing
+organisations:
+- Gazette & Herald
+- Malton
+- North Yorkshire Council
+- Springwood
+- TEWV
+- Tees, Esk
+- Thirsk
+- Wear Valley NHS Trust
+- Wear Valleys NHS Foundation Trust
 ---
 
 ## Fears for future of dementia services after hospital fire

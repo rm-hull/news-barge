@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Arizona
+- Italy
+- Los Angeles
+- Montclair
+- New England
+- Old Milwaukee
+- Poland
+- Southern California
+- TikTok
+- Tucson
+people:
+- Greig DeBow
+- Pabst
+organisations:
+- Anheuser-Busch
+- Nestlé
+- PBR
+- Pabst Blue Ribbon
+- Pabst Brewing Co.
 ---
 
 Pabst Blue Ribbon wants its beer back, and it's offering a reward to help that happen.

@@ -13,6 +13,17 @@ categories:
 - York
 - Business & Entrepreneurship
 - Society & Culture
+locations:
+- Toft Green
+- York
+people:
+- Matthew Hendry
+- Naish
+- Sam Smith
+organisations:
+- Estate Agency
+- Naish Estate Agents
+- York Matthew
 ---
 
 *(Image: Supplied)*

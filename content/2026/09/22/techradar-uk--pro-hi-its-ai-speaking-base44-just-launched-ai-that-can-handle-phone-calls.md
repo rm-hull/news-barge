@@ -10,6 +10,22 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/eTAQwoocjoi2ejyyLKBtLN-1376-80.jpg
+locations: []
+people:
+- Owain Williams
+organisations:
+- AI
+- BA
+- Base44
+- Base44’s Superagent
+- CRM
+- Digital Doughnut
+- Google News
+- MarketingProfs
+- NealSchaffer.com
+- Owain
+- TechRadar Pro
+- Website Builder Expert
 ---
 
 ![Prompt entered into Base 44](https://cdn.mos.cms.futurecdn.net/eTAQwoocjoi2ejyyLKBtLN.jpg)

@@ -14,6 +14,45 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- China
+- Hormuz
+- India
+- Indiana
+- Maryland
+- New York
+- Russia
+- US
+- Virginia
+- Western Pennsylvania
+people:
+- Amanda Mendoza
+- Bilal Khan
+- Blackstone
+- Mark Zhu
+- Matt Parr
+- Nichole Heil
+- Stonepeak
+organisations:
+- AES Corporation
+- AI
+- ArcLight
+- BlackRock
+- Blackrock’s GIP
+- Blackstone
+- California Public Employees’ Retirement
+- EQT
+- Energy Capital Partners
+- Guardian
+- Kayne Anderson
+- NIPSCO
+- Northern Indiana Public Service Company
+- PESP
+- PitchBook
+- Private Equity Climate Risks Consortium
+- Private Equity Stakeholder Project
+- QTS
+- Stonepeak Infrastructure Partners
 ---
 
 The energy portfolios of 20 private equity firms produce 1.5bn tons of greenhouse gases a year, more than the annual emissions of any country except China, the US, India and Russia, according to a new report.

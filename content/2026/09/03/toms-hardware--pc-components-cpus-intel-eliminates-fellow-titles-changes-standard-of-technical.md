@@ -13,6 +13,48 @@ categories:
 - Technology & Software
 - Hardware
 - Business & Entrepreneurship
+locations: []
+people:
+- Ajay Bhatt
+- Anton Shilov
+- Boris Babayan
+- Justin Rattner
+- Mark Bohr
+- Ranade
+- Tom
+- Yan Borodovsky
+organisations:
+- AGP
+- AMD
+- ASML
+- Apple
+- Applied Materials
+- Arm
+- Broadcom
+- CFO
+- Distinguished Engineers
+- FRS
+- Get Tom's Hardware
+- Google News
+- IBM
+- IEEE Fellow
+- Intel CTO
+- Intel CTO Pushkar Ranade
+- Intel Fellow
+- Micron
+- Microsoft
+- Nvidia
+- Qualcomm
+- Royal Society
+- SVP
+- SVPs
+- TI
+- TSMC
+- Texas Instruments
+- Tom’s Hardware
+- USB
+- VP
+- VPs
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL.png) 

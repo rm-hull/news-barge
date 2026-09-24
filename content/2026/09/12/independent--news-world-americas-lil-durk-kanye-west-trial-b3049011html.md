@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - UK
 - True Crime
+locations:
+- Atlanta
+- Beverly Center
+- Chicago
+- Los Angeles
+- U.S.
+- US
+people:
+- Bill Essayli
+- Cole
+- Craig Harbaugh
+- David Lindsey
+- Deandre Wilson
+- Durk Banks
+- Gun Kelly
+- Kanye West
+- Lil Durk
+- Lul Pab
+- Quando Rondo
+- Saviay’a Robinson
+- Von
+- Ye
+organisations:
+- Durk
+- Durk's
+- Escalade
+- Only The Family
 ---
 
 US rapper Lil Durk has been cleared by a federal jury of involvement in an alleged murder-for-hire plot targeting rival artist Quando Rondo, which left Rondo's cousin dead at a Los Angeles gas station.

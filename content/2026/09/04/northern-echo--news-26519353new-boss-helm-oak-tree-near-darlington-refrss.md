@@ -13,6 +13,26 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Darlington
+- Europe
+- Middleton St George
+- North East
+- The Oak Tree
+- UK
+people:
+- Ersim Aydin
+- Julie Richardson
+- Morgan Stanton
+- Punch
+organisations:
+- Home Office
+- Middleton St George
+- Oak Tree Inn
+- PUNCH PUBS
+- Punch Pubs
+- Punch Pubs and Co
+- The Oak Tree
 ---
 
 There’s a new boss at the helm of a popular pub near Darlington following an “eye catching” £415k facelift.

@@ -15,6 +15,33 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Careers & Productivity
+locations:
+- Alabama
+- Boston
+- Franklin St.
+- High St.
+- Kansas City
+- Lockton
+- Massachusetts
+- Missouri
+- Pennsylvania
+- Rhode Island
+- Suffolk Superior Court
+- U.S.
+- United Kingdom
+people:
+- Lockton
+- Michael Scott
+- Thomas Grandmaison
+- Willis Towers Watson
+organisations:
+- Aon
+- Insurance Journal
+- Lockton
+- The Independent
+- WTW
+- Willis Towers Watson
+- Willis Towers Watson Northeast
 ---
 
 Global insurance brokerage and risk management firm Willis Towers Watson has filed a lawsuit in Boston after 18 employees resigned within 44 minutes and moved to a rival brokerage down the street.

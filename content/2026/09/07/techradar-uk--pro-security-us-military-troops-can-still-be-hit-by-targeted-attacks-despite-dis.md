@@ -10,6 +10,29 @@ description: Government-issued devices are safe
 image: https://cdn.mos.cms.futurecdn.net/KcuQeJXg8Wj7ktEdTA3XhC-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+- US
+people:
+- Jason Bourne
+- Pat Harrigan
+- Ron Wyden
+- Sead
+organisations:
+- Air Force
+- Al Jazeera Balkans
+- Apple
+- DOD
+- DoD
+- Google News
+- Marine Corps
+- Navy
+- Represent Communications
+- Special Operations Command
+- TechRadar Pro
+- US Army
+- US Department of Defense
 ---
 
 ![A Belarusian border guard with a service dog](https://cdn.mos.cms.futurecdn.net/KcuQeJXg8Wj7ktEdTA3XhC.jpg) 

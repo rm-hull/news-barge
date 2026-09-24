@@ -13,6 +13,26 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/23/21/Trump_White_House_36734.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arlington National Cemetery
+- Florida
+- Kennedy Center
+- Lincoln Memorial
+- Mar-a-Lago
+- South Lawn
+- Washington
+- White House
+- White House Rose Garden
+people:
+- Brent Leggs
+- Donald Trump
+organisations:
+- Congress
+- East Wing
+- Lincoln Memorial Reflecting Pool
+- Oval Office
+- Supreme Court
+- The National Trust for Historic Preservation
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

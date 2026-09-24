@@ -12,6 +12,55 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- '## Sea'
+- Austin
+- Dubai
+- Earth
+- England
+- Europe
+- Flushing Bay
+- Frankfurt
+- Gatwick
+- Hampshire
+- Heathrow
+- LaGuardia
+- London
+- Luton
+- New York
+- New York City
+- North Atlantic
+- Stansted
+- Swanwick
+- Terminal Control
+- Texas
+- UK
+- US East Coast
+- Washington DC
+people:
+- Andrew Charlton
+- Emma Barnett
+- Guy Gratton
+- John Simpson
+- Paul Williams
+- Sandy
+- Theo Leggett
+- Tim Atkinson
+organisations:
+- Amsterdam Schiphol
+- Aviation Advocacy
+- Bahrain International
+- Cranfield University
+- Dubai International Airport
+- Gatwick Airport
+- London City
+- Lufthansa
+- Met Office
+- NATS
+- National Air Traffic Services's
+- Newark Liberty International
+- Newcastle University
+- University of Reading
 ---
 
 ![Theo Leggett](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4407/live/88aef9b0-a873-11f1-aed2-8d6da8d75094.png)

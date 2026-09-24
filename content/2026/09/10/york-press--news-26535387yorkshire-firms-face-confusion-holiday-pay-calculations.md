@@ -14,6 +14,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 - News & Politics
+locations:
+- Humber
+- UK
+- Yorkshire
+people:
+- Hannah-Jane Dobbie
+- Julie Gunnell
+- Ron Wain
+organisations:
+- Azets
+- Deep South Media
+- FWA
+- Fair Work Agency
 ---
 
 *(Image: Ron Wain of digital content specialist Deep South Media)*

@@ -13,6 +13,42 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- China
+- Davos
+- Milwaukee
+- Oval Office
+- U.S.
+- Wall Street
+- Washington
+- White House
+people:
+- Aidan McLaughlin
+- Alex Isenstadt
+- Cheryl Casone
+- Donald Trump
+- Eric Trump
+- Fox
+- God
+- JD Vance
+- Jason Chaffetz
+- Joe Biden
+- Joey Ramone
+- Karoline Leavitt
+- Maria Bartiromo
+- Smart
+organisations:
+- Bartiromo
+- Dominion Voting Systems
+- Fox Business
+- Fox Business Network
+- Fox News
+- Fox News Media
+- FoxNews/Business
+- Independent
+- TV
+- Trump
+- Truth Social
 ---
 
 President Donald Trump has reacted to Maria Bartiromo’s shock departure from Fox News and Fox Business, paying tribute to the conservative newscaster on Truth Social.

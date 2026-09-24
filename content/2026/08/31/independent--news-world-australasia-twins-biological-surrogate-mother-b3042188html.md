@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Australia
+- Queensland
+people:
+- Alex Polyakov
+- Jodie Wooldridge KC
+organisations:
+- Children’s Court of Queensland
+- Faculty of Medicine, Dentistry & Health Sciences
+- Gold Coast
+- The Conversation
+- The University of Melbourne
 ---
 
 A Gold Coast woman has given birth to twins who aren’t genetically related to each other, after becoming pregnant with a surrogate couple’s embryo and her own biological baby at the same time.

@@ -13,6 +13,12 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Shiney Row
+- Sunderland
+people: []
+organisations:
+- Northumbria Police
 ---
 
 *(Image: POLICE)*

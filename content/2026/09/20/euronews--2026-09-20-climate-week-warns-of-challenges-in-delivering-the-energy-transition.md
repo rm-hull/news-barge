@@ -12,6 +12,30 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/03/62/1200x675_cmsv2_10b815eb-d56d-5432-bab7-37a4f264501b-9920362.jpg
+locations:
+- Amazon
+- Australia
+- Belém do Pará
+- Brazil
+- Devighat
+- Nepal
+- New York
+- Nuwakot
+- Trishuli River
+- UK
+people:
+- Anthony Albanese**
+- Ed Milliband
+- Kristún Frostadóttir
+organisations:
+- AI
+- Artificial Intelligence
+- Asociacion Nuestra Casa Comun
+- COP30
+- Climate Group
+- NGO Climate Group
+- Trump
+- United Nations General Assembly
 ---
 
 ## The event coincides with the United Nations General Assembly and is organised by the NGO Climate Group, which aims to achieve net-zero carbon emissions worldwide by 2050.

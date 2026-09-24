@@ -11,6 +11,15 @@ image: https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748-
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people: []
+organisations:
+- Copilot
+- Defender XDR
+- Exchange Online
+- Microsoft 365 Admin Center
+- Purview
+- Universal Print
 ---
 
 Microsoft’s efforts to fix what is now a multi-day outage affecting customers’ access to Outlook email and other Microsoft 365 services are entering day two.

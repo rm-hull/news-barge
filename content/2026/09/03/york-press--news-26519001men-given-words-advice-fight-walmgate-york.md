@@ -13,6 +13,18 @@ categories:
 - York
 - News & Politics
 - True Crime
+locations:
+- Hurst's Yard
+- The Press
+- Walmgate
+- York
+- Yorkshire
+people: []
+organisations:
+- BBC
+- CCTV
+- Newsquest
+- North Yorkshire Police
 ---
 
 *(Image: Newsquest)*

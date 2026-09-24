@@ -11,6 +11,26 @@ image: https://cdn.mos.cms.futurecdn.net/uRjGLuUVadcWwMQTmRQuZF-2000-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations: []
+people:
+- IPVanish
+- Monica J. White
+organisations:
+- 10Gbps
+- Digital Trends
+- ExpressVPN
+- Google News
+- IPVanish
+- ISP
+- Monica
+- No Trace
+- NordVPN
+- OpenVPN Data Channel
+- Proton VPN
+- SlashGear
+- Tom’s Hardware
+- WePC
+- WireGuard
 ---
 
 ![IPVanish VPN running on a Macbook Pro](https://cdn.mos.cms.futurecdn.net/uRjGLuUVadcWwMQTmRQuZF.jpg) 

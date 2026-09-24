@@ -15,6 +15,15 @@ categories:
 - News & Politics
 - Health & Fitness
 - Personal Finance & Investing
+locations:
+- COUNTY Durham
+people:
+- Karen Allison
+- Tom Clough
+organisations:
+- Durham County Council
+- Move Hubs
+- Technogym
 ---
 
 *(Image: Supplied)*

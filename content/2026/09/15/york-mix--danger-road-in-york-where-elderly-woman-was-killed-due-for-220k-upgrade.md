@@ -11,6 +11,21 @@ categories:
 - Local
 - York
 - Personal Finance & Investing
+locations:
+- '#### Outgang Lane'
+- Murton Way
+- Osbaldwick Village
+- Outgang Lane
+- Restore Britain
+- York
+people:
+- Betty Elizabeth Smith
+- Cllr Warters
+- Keyline
+- Mark Warters
+organisations:
+- City of York Council
+- Keyline
 ---
 
 Plans for safety improvements on a York road where an elderly woman was killed by a lorry are set for a decision.

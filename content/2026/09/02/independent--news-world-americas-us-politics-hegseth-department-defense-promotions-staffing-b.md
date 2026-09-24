@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Quantico
+- Virginia
+people:
+- Dan Driscoll
+- Donald Trump
+- Fox
+- Pete Hegseth
+- Sean Parnell
+organisations:
+- DEI
+- Defense Department
+- Defense Secretary
+- Department of Defense
+- Department of War
+- NBC News
+- New York Times
+- Pentagon
+- The Hill
+- The Independent
+- The New York Times
+- U.S Army
+- U.S. Army
 ---
 
 Defense Secretary Pete Hegseth has blocked the promotion of at least six more U.S Army officers, according to reports.

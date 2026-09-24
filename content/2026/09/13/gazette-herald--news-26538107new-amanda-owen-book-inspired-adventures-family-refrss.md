@@ -14,6 +14,20 @@ categories:
 - York
 - Arts & Culture
 - Film & TV
+locations:
+- Huddersfield
+- North Yorkshire
+- Our Yorkshire Farm
+- Ravenseat Farm
+- UK
+people:
+- Amanda Owen
+organisations:
+- Becca Hall
+- Channel 5
+- Puffin
+- Sunday Times
+- Yorkshire
 ---
 
 The Yorkshire Shepherdess Amanda Owen from Our Yorkshire Farm on Channel 5 has released a new children’s book.

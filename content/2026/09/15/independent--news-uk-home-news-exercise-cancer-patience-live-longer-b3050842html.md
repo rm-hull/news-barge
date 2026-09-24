@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - UK
 - Health & Fitness
+locations:
+- Asia
+- Australia
+- Europe
+- North America
+- Taiwan
+people:
+- Claire Taylor
+- Michelle Mitchell
+organisations:
+- British Journal of Sports Medicine
+- Cancer Research UK
+- Macmillan Cancer Support
 ---
 
 Cancer patients who integrate structured physical activity into their routine medical treatment could live for longer and have more time free of disease, research indicates.

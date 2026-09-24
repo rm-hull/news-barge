@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/2b2vVHCj3sDSu9FRE8mgCd-2560-80.jpg
+locations:
+- Gamescom
+people:
+- Rob Dwiar
+organisations:
+- Asus ROG
+- Forza Horizon
+- GamesRadar+
+- Google News
+- Hardware
+- OLED
+- PC
+- Streaming
+- TMR
+- TRG
+- TechRadar Gaming
+- WePC
 ---
 
 ![The Asus ROG Xbox Ally X20 handheld being held in the hands of a man, playing Forza Horizon 5](https://cdn.mos.cms.futurecdn.net/2b2vVHCj3sDSu9FRE8mgCd.jpg)

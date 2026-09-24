@@ -13,6 +13,36 @@ categories:
 - Europe
 - News & Politics
 - History
+locations:
+- '## Ceuta'
+- Africa
+- Autonomous Cities
+- Barbary
+- Kingdom of Morocco
+- Melilla
+- Portugal
+- Rabat
+- Spain
+- Strait
+- United States
+- Western Sahara
+people:
+- Ferdinand
+- Isabella
+- Margarita Robles
+- Melilla
+- Mohammed VI
+- Pedro de Estopiñán
+- Philip II
+organisations:
+- Catholic Monarchs
+- Congress
+- European Union
+- Protectorate
+- Senate
+- Statutes of Autonomy
+- UN
+- United Nations
 ---
 
 ## Ceuta and Melilla have been under Spanish rule since the 15th and 16th centuries and have never been part of the Moroccan state. The UN does not treat them as territories awaiting decolonisation, despite Rabat's objections.

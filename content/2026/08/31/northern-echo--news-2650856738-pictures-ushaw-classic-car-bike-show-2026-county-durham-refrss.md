@@ -14,6 +14,16 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Bounds Field
+- Chapels & Gardens
+- Durham
+- Ushaw Historic House
+people: []
+organisations:
+- 121 Business Links
+- Ushaw
+- Workwear Express
 ---
 
 Hundreds of classic cars and motorbikes descended on the grounds of Ushaw for a major motoring show over the Bank Holiday weekend.

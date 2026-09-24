@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Technology & Software
 - Creator Economy & Marketing
+locations:
+- Bradford
+- Derby
+- Leicester
+- Sheffield
+people:
+- Anita Rani
+- Charles Denton
+- Min Sandhu
+organisations:
+- Bodycare
+- Bradford
+- Bradford-born TV
+- Creator Studio
+- South Asian Party
+- The Broadway
 ---
 
 *(Image: Supplied)*

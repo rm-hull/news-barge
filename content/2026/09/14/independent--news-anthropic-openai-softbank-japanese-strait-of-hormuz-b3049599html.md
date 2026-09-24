@@ -14,6 +14,43 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Asia
+- Australia
+- Hong Kong
+- Iran
+- Japan
+- Saudi Arabia
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- U.S.
+- Wall Street
+people:
+- Dan Baker
+- Dario Amodei
+- Ewa Manthey
+- Sam Altman
+- Stan Choe
+- Warren Patterson
+organisations:
+- Anthropic
+- Fed
+- Federal Reserve
+- Fortune
+- ING
+- Kioxia Holdings
+- Kospi
+- Morningstar
+- Open AI
+- OpenAI
+- SK Hynix
+- Samsung Electronics
+- SoftBank Group
+- Taiex
+- Tokyo Electron
+- U.S. Treasury
+- U.S. Treasury Department
 ---
 
 Asian shares were mixed Monday, as shares of Japanese investment conglomerate SoftBank Group, a key investor in OpenAI, fell more than 10% following calls from Anthropic and OpenAI to slow AI development for safety.

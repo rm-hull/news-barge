@@ -15,6 +15,25 @@ categories:
 - Harrogate
 - York
 - Technology & Software
+locations:
+- Alton Towers
+- Efteling
+- Energylandia
+- Europe
+- Flamingo Land
+- Malton
+- Netherlands
+- Poland
+- Yorkshire
+- Zadra
+people:
+- Joe Marshall
+- Sik
+organisations:
+- Intamin
+- Superman
+- The Smiler
+- YouTube
 ---
 
 # YouTuber from Yorkshire goes upside down 400 times in same day during Flamingo Land roller coaster challenge

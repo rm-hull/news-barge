@@ -14,6 +14,43 @@ categories:
 - Science
 - Technology & Software
 - Health & Fitness
+locations:
+- Australia
+- Berlin
+- China
+- Europe
+- Germany.
+- Netherlands
+- UK
+- US
+people:
+- Aristotle
+- Celean Camp
+- Donald Ingber
+- Hans Clevers
+- Ivan Rusyn
+- Michael Hadjiargyrou
+organisations:
+- AI
+- Central Animal Laboratory
+- Congress
+- EU
+- Emulate
+- European Union
+- FDA
+- Harvard University
+- Moderna
+- NIH
+- National Institutes of Health
+- New South Wales
+- New York Institute of Technology
+- Replacing Animal Research
+- Texas A&M University
+- US Environmental Protection Agency
+- US Food and Drug Administration
+- Utrecht University
+- ZTL
+- Zentralen Tierlaboratorien
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501779.jpg?w=840)

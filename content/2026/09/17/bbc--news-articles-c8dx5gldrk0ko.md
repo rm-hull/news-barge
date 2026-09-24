@@ -13,6 +13,35 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Leyton Jamia Masjid
+- London
+- Russia
+- Stratford Magistrates' Court
+- Thames Magistrates' Court
+- UK
+people:
+- Biluyk
+- Evgeny Lyukshin
+- Hate
+- Illia Bilyk
+- Illia Bilyk Hours
+- Keir Starmer
+- Keir Starmer.
+- Rhona Hunt
+- Roman Lavrynovych
+- Stanislav Carpiuc
+organisations:
+- Al-Birr Mosque
+- BBC
+- Bilyk
+- Direct Action Telegram
+- Direct Action UK
+- EL
+- Islamic Shariah Council
+- Met Police
+- Noor Ul Islam Primary School
+- Stratford Islamic Association
 ---
 
 ![A custody image of Illia Bilyk](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6680/live/5c9b8300-b2bb-11f1-a430-4d16ee157c41.jpg)

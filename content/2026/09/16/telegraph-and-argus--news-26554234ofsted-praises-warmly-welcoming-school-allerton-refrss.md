@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Education & Learning
 - Self-Improvement
+locations:
+- Allerton
+- Bradford
+people:
+- Carol Dewhurst OBE
+- Ruthi Thompson
+organisations:
+- Academy at St James
+- Bradford Diocesan Academies Trust
+- Ofsted
+- St James
+- The Academy
 ---
 
 *(Image: Supplied)*

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/3c2463353a633778731be993b87857641663654b/375_363_587_469/master/587.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=230733fac02117cbc991dd8e460a968d
+locations:
+- Britain
+- England
+- UK
+people:
+- Alan Milburn
+- Andy Burnham
+- Joe Dromey
+organisations:
+- Department for Work and Pensions
+- Fabian Society
+- Labour
+- Milburn
 ---
 
 Labour has been warned its “skills revolution” to tackle youth unemployment risks failure, after its flagship apprenticeship scheme enrolled only 160 young people in its first eight months.

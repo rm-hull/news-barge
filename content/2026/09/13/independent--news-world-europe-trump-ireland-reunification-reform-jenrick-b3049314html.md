@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 - Business & Entrepreneurship
+locations:
+- Ben Birchall
+- Dublin
+- Farmleigh House
+- Irish Republic
+- London
+- Northern Ireland
+- PA
+- UK
+- US
+- United Kingdom
+- Washington
+people:
+- Alex Burghart
+- Angela Rayner
+- Donald Trump
+- Gavin Robinson
+- Kemi Badenoch
+- Micheál Martin
+- Nigel Farage
+- Robert Jenrick
+organisations:
+- Conservative
+- DUP
+- Labour
+- Reform UK
+- Sky News
+- Union
 ---
 
 Robert Jenrick has hit back at Donald Trump’s calls for a united Ireland and said the US President should have “butted out” of British politics.

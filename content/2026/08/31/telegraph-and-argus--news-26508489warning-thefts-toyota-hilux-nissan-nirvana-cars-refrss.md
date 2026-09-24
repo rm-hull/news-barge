@@ -13,6 +13,24 @@ categories:
 - Bradford
 - News & Politics
 - Automotive
+locations:
+- Baildon
+- Bradford
+- Burmantofts
+- Castleford
+- Halifax
+- Halton
+- Ilkley
+- Rothwell
+- West Yorkshire
+people:
+- Shaun Taylor
+organisations:
+- Keighley Neighbourhood Policing Team
+- Nissan Navara
+- Pixabay)* Police
+- Toyota HiLux
+- West Yorkshire Police’s Wildlife and Rural Crime section
 ---
 
 *(Image: Pixabay)*

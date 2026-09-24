@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Budapest
+- Hungary
+- U.S.
+people:
+- Amy Hunt
+- Ariarne Titmus
+- Christy Martin
+- Gracie Kramer
+- Novig
+- Sofie Fella
+- Sydney Sweeney
+organisations:
+- BBC
+- Body Issue
+- ESPN The Magazine
+- Instagram
+- Sydney Sweeney
 ---
 
 An advertising campaign featuring American actor Sydney Sweeney has sparked widespread backlash from female athletes who say it is sexualizing women in sports.

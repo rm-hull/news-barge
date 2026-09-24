@@ -12,6 +12,24 @@ categories:
 - Local
 - York
 - Society & Culture
+locations:
+- Alaska
+- Barrow
+- North Yorkshire
+- West Cliff
+- Whitby Abbey
+- Whitby’s West Cliff
+people:
+- Bronze
+- Mark Crane
+- Sandra Turner
+- Whitby
+organisations:
+- NYC Feedback
+- North Yorkshire Council
+- Numminen Ldrs Whitby Town
+- Whale Bone Arch
+- Whitby Whale Bone Arch Photos
 ---
 
 ## Landmark being removed from North Yorkshire town today

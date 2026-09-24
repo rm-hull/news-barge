@@ -11,6 +11,57 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/15/2296032733..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Denmark
+- France
+- Greenland
+- Iran
+- Islamic Republic
+- Israel
+- Manhattan
+- Michigan
+- Middle East
+- Middle Eastern
+- New York
+- New York City
+- Strait of Hormuz
+- Strasbourg
+- Tehran
+- US
+- White House
+people:
+- Abdul El-Sayed
+- Andrew Feinberg
+- Ayatollah Ali Khamenei
+- Donald Trump
+- Jared Kushner
+- Jens-Frederik Nielsen
+- Kaitlan Collins
+- Mark Carney
+- Mette Frederiksen
+- Mojtaba Khamenei
+- Reza Pahlavi
+- Steve Witkoff
+organisations:
+- Army
+- CNN
+- European Parliament
+- Fox News
+- Lotte Palace Hotel
+- MSNOW
+- Pentagon
+- Politico
+- Reuters
+- Senate
+- Super Intelligence
+- Task & Purpose
+- The Associated Press
+- The Independent’
+- The Washington Post
+- Trump
+- UN General Assembly
+- United Nations
+- United Nations General Assembly
 ---
 
 Donald Trump said that US envoys Jared Kushner and Steve Witkoff held a productive meeting with Iranian officials — just hours after threatening to “annihilate” the Middle Eastern nation.

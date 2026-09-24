@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- France
+- Mer de Glace
+- Mont Blanc
+people: []
+organisations: []
 ---
 
 Tourists visit France’s shrinking Mer de Glace glacier, where tarps slow melting as record summer heat thaws Alpine permafrost, triggers rockfalls and makes routes up Mont Blanc increasingly dangerous.

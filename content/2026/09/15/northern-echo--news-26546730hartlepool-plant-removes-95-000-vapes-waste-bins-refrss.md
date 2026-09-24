@@ -14,6 +14,19 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- County Durham
+- Darlington
+- Hartlepool
+- North East
+- North Yorkshire
+- Teesside
+- UK
+people:
+- Richard Nicol
+organisations:
+- Biffa
+- Tofts Farm Industrial Estate
 ---
 
 *(Image: Biffa)*

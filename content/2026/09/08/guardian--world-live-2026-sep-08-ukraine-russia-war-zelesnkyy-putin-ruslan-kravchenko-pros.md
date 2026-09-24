@@ -13,6 +13,66 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Balkans
+- Belgrade
+- Bosnia and Herzegovina
+- Budapest
+- Cologne
+- Dormagen
+- Europe
+- Germany
+- Hungary
+- Kyiv
+- Moscow
+- North Rhine-Westphalia
+- Podgorica
+- Romania
+- Russia
+- Russian Federation
+- Serbia
+- The Netherlands
+- UK
+- US
+- Ukraine
+- Weisweiler
+- Zagreb
+people:
+- Anita Orbán
+- Bernadett Szabó
+- Christian Wigand
+- Dan Sabbaghhave
+- Daniel V.
+- Jamie Grierson
+- Maria Zakharova
+- Paula Pinho
+- Péter Magyar
+- Ratko Mladić
+- Rutte
+- Tom Berendsen
+- Ursula von der Leyen
+- Volodymyr Zelenskyy
+- von der Leyen
+organisations:
+- AFP
+- Bernadett Szabó
+- DPA
+- Directorate for Investigating Organized Crime and Terrorism
+- EU
+- European Commission
+- European Union
+- Kyiv
+- Member States
+- Nato
+- Patriots
+- Petra Wischgoll
+- RIA Novosti
+- Reuters Moscow
+- SRI
+- Serbian Government
+- TASS
+- The European Commission
+- US Patriot
 ---
 
 Prime minister Péter Magyar and foreign minister Anita Orbán (who announced the expulsion of the diplomats today) pictured in May. Photograph: Bernadett Szabó/Reuters

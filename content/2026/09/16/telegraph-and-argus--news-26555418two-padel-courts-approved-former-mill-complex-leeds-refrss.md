@@ -13,6 +13,18 @@ categories:
 - Local
 - Bradford
 - News & Politics
+locations:
+- Leeds
+- Stanningley Road
+- Swinnow Grange Mills
+- UK
+- YOUR
+people: []
+organisations:
+- Gems Investments Ltd
+- Leeds City Council
+- Public Notice Portal
+- Swinnow Grange Mills
 ---
 
 *(Image: Google)*

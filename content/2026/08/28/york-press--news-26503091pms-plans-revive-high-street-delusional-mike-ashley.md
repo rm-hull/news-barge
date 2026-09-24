@@ -13,6 +13,27 @@ categories:
 - Local
 - York
 - Lifestyle & Fashion
+locations:
+- Britain
+- Downing Street
+- Grade I
+- UK
+- Westminster
+- York
+people:
+- Andy Burnham
+- Frank Dwyer
+- Harvey Nichols
+- Mike Ashley
+organisations:
+- Aviva Investors,**
+- Evans Cycles
+- Frasers Group
+- House of Fraser
+- Labour
+- Newcastle United Football Club
+- Sports Direct
+- York Designer Outlet
 ---
 
 *(Image: Frank Dwyer)*

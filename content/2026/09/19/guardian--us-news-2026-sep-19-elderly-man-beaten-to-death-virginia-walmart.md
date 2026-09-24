@@ -13,6 +13,20 @@ categories:
 - Business & Entrepreneurship
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/7237a463cc5403199e1decbc8134d327762fd71e/357_0_4144_3315/master/4144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3ab40016772c8104ef908f8df5ab5b8
+locations:
+- Norfolk
+- US
+- Virginia
+- Walmart
+people:
+- Bert Atienza
+- Erika Mitchell
+- Josephine
+- Travis White
+organisations:
+- WAVY
+- WTKR
+- Walmart
 ---
 
 A 77-year-old Walmart shopper died after he was allegedly attacked inside a Virginia store by the parents of a teenage employee he had confronted over a shopping cart incident involving his wife, according to US media reports.

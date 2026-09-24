@@ -11,6 +11,38 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg
+locations:
+- Iowa
+- US
+- United States
+- White House
+people:
+- Bruce Brown
+- Donald Trump
+- JD Vance
+- Jameel Jaffer
+- Jim Acosta
+organisations:
+- AP
+- Air Force One
+- Associated Press
+- BBC
+- CNN
+- Columbia University
+- Freedom of the Press Foundation
+- Knight First Amendment Institute
+- MS NOW
+- MSNBC
+- New York Times
+- Oval Office
+- Politico
+- Reporters Committee for Freedom of the Press
+- Trump Administration
+- Truth Social
+- US Constitution
+- United States of America
+- Wall Street Journal
+- White House Correspondents Association
 ---
 
 Watch: Trump says ban on some news outlets from White House is "because they're fake news"

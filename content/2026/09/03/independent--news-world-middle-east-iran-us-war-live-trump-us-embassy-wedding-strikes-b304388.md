@@ -13,6 +13,60 @@ categories:
 - News & Politics
 - UK
 - Sports
+locations:
+- Abraham Lincoln
+- Buckingham Palace
+- Guam
+- Hormuz Strait
+- Iran
+- Middle East
+- Oman
+- Pattaya
+- Riyadh
+- Russia
+- San Diego
+- Saudi Arabia
+- Sin City
+- Strait of Hormuz
+- Tehran
+- Thailand
+- U.S.
+- UAE
+- US
+- USA
+- United States
+- Washington
+- White House
+- Windsor Castle
+people:
+- '## Trump'
+- Bola Tinubu
+- Camilla
+- Charles
+- Donald Trump
+- Elizabeth Becker
+- Lincoln
+- Pete Hegseth
+- Sam Kiley
+- Sultan Haitham bin Tariq
+organisations:
+- Associated Press
+- Fox News
+- ICYMI
+- Iranian Army
+- Iranian Revolutionary Guard
+- MS
+- Marines
+- McDonald’s
+- Pentagon
+- Reuters
+- Tasnim
+- The Wall Street Journal
+- Trump Strait’
+- US West Texas Intermediate
+- USS Abraham Lincoln
+- USS Lincoln
+- WTI
 ---
 
 Donald Trump has labelled Iran’s strikes on US targets as a “love tap” after US forces had hit the country “very hard” in yet another bizarre rant.

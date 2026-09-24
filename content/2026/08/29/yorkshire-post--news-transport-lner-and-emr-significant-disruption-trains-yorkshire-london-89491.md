@@ -14,6 +14,31 @@ categories:
 - Harrogate
 - York
 - History
+locations:
+- Doncaster
+- East Coast Main Line
+- East Midlands Railway
+- Edinburgh
+- Hull
+- Leeds
+- London Kings Cross
+- London King’s Cross
+- London St Pancras
+- Newcastle
+- North East
+- Peterborough
+- Scotland
+- Sheffield station
+- Yorkshire
+people:
+- Eddie Dempsey
+- Philippa Cresswell
+organisations:
+- EMR
+- Hitachi Rail
+- LNER
+- Network Rail
+- RMT
 ---
 
 # LNER and EMR warn of 'significant disruption' on trains between Yorkshire and London

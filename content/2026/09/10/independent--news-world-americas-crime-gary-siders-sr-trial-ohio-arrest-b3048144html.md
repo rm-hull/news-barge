@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Hamden
+- Ohio
+- Vinton County
+- West Virginia
+people:
+- Andy Wilson
+- Christina Siders
+- Dorian Baum
+- Elizabeth Siders
+- Gary Siders Jr
+- Gary Siders Jr.
+- Gary Siders Sr
+- Gary Siders Sr.
+- Ryan Cain
+- Siders’
+- William Archer
+organisations:
+- Gallia County Children’s Services
+- scho Records
 ---
 
 A southern Ohio grandfather whose 16 grandchildren were found living in squalid conditions was declared mentally incompetent to stand trial on Wednesday – but the case is still set to continue against other members of his family.

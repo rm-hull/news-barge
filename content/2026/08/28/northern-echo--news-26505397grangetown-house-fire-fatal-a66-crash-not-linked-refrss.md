@@ -15,6 +15,32 @@ categories:
 - News & Politics
 - Society & Culture
 - True Crime
+locations:
+- A66
+- Birchington Avenue
+- CLEVELAND
+- Cleveland
+- Grangetown
+- Redcar
+- South Bank
+- Teesside
+- West Brom
+people:
+- Anna Turley
+- Dave Sutherland
+- Mathew Blades
+- Natalie McDonald
+- PC Clough
+- SARAH CALDECOTT
+- Tom Clough
+- Valentina Foster
+organisations:
+- ACC Sutherland
+- Cleveland Police
+- Local Policing
+- Middlesbrough FC
+- National Crime Agency
+- PC Blades
 ---
 
 *(Image: CLEVELAND POLICE)*

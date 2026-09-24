@@ -13,6 +13,21 @@ categories:
 - UK
 - News & Politics
 - Education & Learning
+locations:
+- Darlington
+- Getty
+people: []
+organisations:
+- British Schools Guide
+- Church of England Academy
+- Haughton Academy
+- Hummersknott Academy
+- Hurworth School
+- Longfield Academy
+- OFSTED
+- Polam Hall School
+- St Aidan
+- Wyvern Academy
 ---
 
 Data has revealed the hardest and easiest secondary schools to get into around Darlington.

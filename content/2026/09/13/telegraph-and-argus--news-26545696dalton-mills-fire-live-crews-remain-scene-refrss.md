@@ -13,6 +13,10 @@ categories:
 - Bradford
 - News & Politics
 - Technology & Software
+locations:
+- Dalton Mills
+people: []
+organisations: []
 ---
 
 ## Our live feed has now finished.

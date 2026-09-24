@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 - Personal Finance & Investing
+locations:
+- Iran
+- Middle East
+- UK
+people:
+- Catherine Mann
+- Charlotte O’Leary
+- Huw Pill
+- Megan Greene
+- Thomas Pugh
+organisations:
+- Bank of England
+- Bank’s Monetary Policy Committee
+- European Central Bank
+- MPC
+- National Institute of Economic and Social Research
+- Niesr
+- Ofgem
+- Pantheon Economics
+- RSM UK
+- US Federal Reserve
 ---
 
 The Bank of England is expected to hold interest rates at 3.75% but economists have warned that pressure to hike rates is mounting as inflation rises.

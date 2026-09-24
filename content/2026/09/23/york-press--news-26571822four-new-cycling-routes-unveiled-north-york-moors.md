@@ -12,6 +12,29 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21487267.jpg?type=og-image
+locations:
+- Bike Base
+- Blakey Ridge North York Moors National Park
+- Danby
+- Esk Valley Railway
+- Great Ayton
+- Gribdale
+- Guisborough
+- Mick Kirkman
+- North York Moors
+- North York Moors'
+- Roseberry Topping
+- Skinningrove
+- UK
+- Yorkshire
+people:
+- Guy Kesteven
+- John
+- Lois Fife
+organisations:
+- National Park
+- North York Moors
+- North York Moors National Park
 ---
 
 ## Four new cycling routes unveiled across the North York Moors

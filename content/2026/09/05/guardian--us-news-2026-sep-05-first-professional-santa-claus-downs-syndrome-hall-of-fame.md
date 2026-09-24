@@ -13,6 +13,36 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- Atlanta
+- Carlisle
+- Indiana
+- New York City
+- Santa Bradley
+- Santa Claus
+- Santa’s
+- Times Square
+- US
+people:
+- Bradley Carlisle
+- Buddy Walk
+- Debbie Chadrix
+- Phil Wenz
+- Rick Rosenthal
+- Saaaaantaaaaa
+- Santa Claus
+organisations:
+- Atlanta’s Northern Lights Santa Academy
+- Carlisle
+- Chadrix
+- DSAA
+- Down Syndrome Association of Atlanta
+- Guardian
+- International Santa Claus Hall of Fame
+- Kennesaw State University Marietta
+- Santa Claus Oath Foundation
+- St Nick
+- WXIA
 ---
 
 After recently gaining recognition as the first professional Santa Claus with Down’s syndrome in the US, Bradley Carlisle has already gotten a lot more than the traditional serving of milk and cookies that is usually left out for Father Christmas each year.

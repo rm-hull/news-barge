@@ -12,6 +12,39 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Harborne
+- Hong Kong
+- Thailand
+- UK
+- US
+people:
+- Angela Rayner
+- Ben Delo
+- Christopher Harborne
+- Donald Trump
+- Jenrick **Robert Jenrick
+- Laura Kuenssberg
+- Lisa Smart
+- Nigel Farage
+- Philip Rycroft
+- Tom Tugendhat
+organisations:
+- BBC News
+- BitMex
+- Channel 4 News
+- Conservative Party
+- Delo
+- Electoral Commission
+- Green Party
+- Harborne
+- House of Lords
+- Houses of Parliament.
+- Labour Party
+- Liberal Democrat Cabinet Office
+- Reform UK
+- Telegraph
+- The Times
 ---
 
 Watch: Donations 'entirely in line with the law', says Jenrick

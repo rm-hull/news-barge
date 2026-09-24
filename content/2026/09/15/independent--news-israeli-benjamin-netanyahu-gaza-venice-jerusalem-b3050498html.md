@@ -13,6 +13,30 @@ image: https://static.independent.co.uk/2026/09/15/13/Italy_Venice_Film_Festival
 categories:
 - News & Politics
 - UK
+locations:
+- Europe
+- Gaza
+- Israel
+- Tel Aviv
+- United States
+- Venice
+- West Bank
+people:
+- Benjamin Netanyahu
+- Doron Spielman
+- Eyal Zamir
+- Jonathan Glazer
+- Miki Zohar
+- Rachel Szor
+- Raviv Drucker
+- Yuval Abraham
+organisations:
+- AI
+- Cabinet
+- Gaza Health Ministry
+- Hamas
+- NAZA
+- The Guardian
 ---
 
 An Israeli documentary about the civilian death toll in the war in Gaza has sparked fierce backlash at home after being awarded the special jury prize last week at the Venice Film Festival, drawing anger from top officials and even calls to strip the filmmakers of Israeli citizenship.

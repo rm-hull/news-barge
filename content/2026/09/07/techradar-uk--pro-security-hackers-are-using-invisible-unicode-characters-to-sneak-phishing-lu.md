@@ -10,6 +10,17 @@ description: Technique used in prompt injection attacks has made it into phishin
 image: https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d-1920-80.jpg
 categories:
 - Technology & Software
+locations:
+- Bosnia and Herzegovina
+- Sarajevo
+people:
+- Sead
+organisations:
+- Al Jazeera Balkans
+- Google News
+- Microsoft
+- Represent Communications
+- TechRadar Pro
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d.jpg) 

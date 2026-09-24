@@ -13,6 +13,26 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/7/19/Screenshot-2026-09-23-at-08-11-29.png?trim=0,80,0,8&width=1200&height=800&crop=1200:800
+locations:
+- Dover
+- England
+- France
+- Gosport
+- Portsmouth
+- UK
+- United Kingdom
+people:
+- Andy Burnham
+- Daniel Thomas
+- Danny Tommo
+- Tommy Robinson
+organisations:
+- Border Security Command
+- Hampshire
+- Isle of Wight Constabulary
+- Joint Council for Welfare of Immigrants
+- Patriot Platform
+- Portsmouth Crown Court
 ---
 
 ![Independent Membership](https://static.independent.co.uk/static-assets/images/MOS+prompts/Independent+Membership+White.png)

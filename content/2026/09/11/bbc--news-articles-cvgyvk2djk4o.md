@@ -12,6 +12,21 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Beijing
+- China
+- Hong Kong
+- Tiananmen Square
+people:
+- Albert Ho
+- Chow Hang-tung
+- Lee Cheuk-yan
+- Sarah Brooks
+organisations:
+- Amnesty International
+- BBC
+- Chinese Communist Party
+- Hong Kong Alliance
 ---
 
 ![Chow Hang-Tung](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/48ba/live/11753770-ad8b-11f1-8ea7-df517b57beba.jpg)

@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472315.jpg?type=og-image
+locations:
+- Birmingham
+- Leeds General Infirmary
+- Otley
+- Royal Orthopaedic Hospital
+- Yorkshire
+people:
+- Emily
+- Ewing
+- Jane Bullock
+- Nick
+- Ryann Lambert-Tuthill
+- Wendy
+organisations:
+- Cancer Research UK
+- St James’s University Hospital
+- UGC
+- Yorkshire
 ---
 
 *(Image: UGC)*

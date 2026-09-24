@@ -12,6 +12,36 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Augsburg
+- Berlin
+- Bonn
+- Croatia
+- Germany
+- Italy
+- Kremlin
+- Leipzig
+- Moscow
+- Nord Stream
+- Russia
+- Saxony-Anhalt
+- Ukraine
+people:
+- Alexander Dobrindt
+- Die Linke
+- Dietmar Bartsch
+- Friedrich Merz
+- Johann Wadephul
+- Konstantin von Notz
+- Markus Frohnmaier
+- Roderich Kiesewetter
+organisations:
+- AfD
+- Alternative für Deutschland
+- CDU
+- Christlich Demokratische Union
+- Greens
+- InfoRadio
 ---
 
 Even before the German government laid the blame this week on Russia for an attempted drone attack at Leipzig airport, the topic of German ties to Moscow was high on the political agenda.

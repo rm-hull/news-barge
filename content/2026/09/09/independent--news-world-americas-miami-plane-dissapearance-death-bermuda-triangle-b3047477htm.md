@@ -13,6 +13,31 @@ categories:
 - News & Politics
 - UK
 - Travel
+locations:
+- Andros Island
+- Bahamas
+- Bahamas’
+- Bermuda Triangle
+- Great Harbour Cay
+- Miami
+- North Andros
+- Red Bays
+- South Florida
+people:
+- Christian Sosa
+- Lili Lamar
+- Mario Lamar
+- Silvia Larrieu
+- Sofi Sosa
+organisations:
+- ABC News
+- Associated Press
+- Coast Guard
+- Fox
+- Miami Executive Airport
+- Orlando
+- Royal Bahamas Police Force
+- U.S. Coast Guard
 ---
 
 A Florida couple and their two grandchildren were found dead Tuesday after the small plane piloted by the grandfather disappeared near the Bermuda Triangle while returning to Miami.

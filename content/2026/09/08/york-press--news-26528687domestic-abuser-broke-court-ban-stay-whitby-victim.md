@@ -12,6 +12,17 @@ categories:
 - Local
 - York
 - True Crime
+locations:
+- Manchester
+- Whitby
+- York
+people:
+- Blaney
+- Georgina Fishwick
+- Kevin Blount
+organisations:
+- North Yorkshire Police
+- York Magistrates Court
 ---
 
 *(Image: North Yorkshire Police)*

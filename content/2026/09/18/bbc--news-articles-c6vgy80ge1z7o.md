@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Africa.
+- BBC
+- Ceuta
+- Italy
+- Morocco
+- Península de Almina
+- Spain
+people:
+- Ester Muñoz
+- Juan Jesus Vivas
+- Pedro Sánchez
+- Sanchez
+organisations:
+- Efe
+- People's Party
+- Supreme Court
 ---
 
 ![Police officers in riot gear push back a densely packed crowd of migrants during a chaotic transfer operation in Ceuta's port area](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg)

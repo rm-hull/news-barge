@@ -15,6 +15,11 @@ categories:
 - True Crime
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/13/45/16743521-library.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- South Yorkshire
+people: []
+organisations:
+- South Yorkshire Police
 ---
 
 # Fraudsters posing as South Yorkshire Police in new scam attempt

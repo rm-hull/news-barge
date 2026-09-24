@@ -14,6 +14,17 @@ categories:
 - Bradford
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- Bradford Magistrates' Court
+- Manchester Road
+- West Yorkshire
+people:
+- Denzel Deneus
+- Mohammed Balmakhear
+organisations:
+- Newsquest
+- Royal Jewellers
+- West Yorkshire Police
 ---
 
 *(Image: Newsquest)*

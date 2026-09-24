@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 - Lifestyle & Fashion
+locations:
+- Bridlington
+- Filey
+- North Yorkshire
+- Reighton Nurseries
+- Richardsons
+people:
+- Murph
+- Richardsons
+organisations:
+- Off The Map Yorkshire
+- Reighton Nurseries
 ---
 
 While summer might be coming to an end, that does not mean your garden can’t still look lovely throughout the autumn and winter.

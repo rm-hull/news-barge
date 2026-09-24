@@ -13,6 +13,28 @@ categories:
 - Harrogate
 - York
 - News & Politics
+locations:
+- Doncaster
+- Edinburgh
+- Grand Central
+- Hull
+- Leeds
+- London King's Cross
+- London Kings Cross
+- Manchester
+- Newcastle
+- Retford
+- Sheffield
+- York
+people: []
+organisations:
+- CrossCountry
+- Hull Trains
+- LNER
+- London Kings Cross
+- National Rail
+- Newsquest
+- TransPennine Express
 ---
 
 *(Image: Newsquest)*

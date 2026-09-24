@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Bergheim
+- Berlin
+- Brandenburg
+- Cologne
+- Essen
+- Germany
+- Halle Airport
+- Jänschwalde
+- Leipzig
+- Russia
+people:
+- Jan Redmann
+organisations:
+- RWE
 ---
 
 Two incidents that disrupted power distribution systems in the west and east of Germany are being invested as possible sabotage, authorities said.

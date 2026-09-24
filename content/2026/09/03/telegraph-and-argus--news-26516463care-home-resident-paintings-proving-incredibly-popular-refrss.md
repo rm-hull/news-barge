@@ -14,6 +14,19 @@ categories:
 - Bradford
 - News & Politics
 - Home, Garden & DIY
+locations:
+- Herncliffe Care Home
+- Keighley
+- Parkinson’s
+people:
+- David Hardman
+- David'
+- Helen McAskill
+- Janet
+organisations:
+- '## Weekly'
+- Dementia Friendly Keighley
+- Herncliffe Nursing Home
 ---
 
 *(Image: Herncliffe Care Home)*

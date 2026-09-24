@@ -12,6 +12,19 @@ categories:
 - Local
 - Harrogate
 - Lifestyle & Fashion
+locations:
+- Bettys Harlow Carr
+- RHS Garden Harlow Carr
+- Yorkshire
+people:
+- Bettys
+- Liz Thwaite
+- Nicky Sellers
+organisations:
+- Bettys Café Tea Rooms
+- Bettys Harlow Carr
+- Bettys Harrogate
+- RHS Garden Harlow Carr
 ---
 
 ![](https://mmo.aiircdn.com/409/6a968cd2255173b0aea.jpg) 

@@ -12,6 +12,22 @@ categories:
 - UK
 - News & Politics
 - Arts & Culture
+locations:
+- Bristol
+- England
+- London
+- M1
+- M25
+- M4
+- Shoreditch
+- Windsor Castle
+people:
+- Boris
+- Helch
+organisations:
+- BSMT Space
+- Instagram
+- Network Rail
 ---
 
 The street artist Helch, known for murals and tags across England, has died, his gallery has said.

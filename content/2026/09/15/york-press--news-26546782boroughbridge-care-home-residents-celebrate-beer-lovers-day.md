@@ -13,6 +13,17 @@ categories:
 - Local
 - York
 - Arts & Culture
+locations:
+- '## North Yorkshire'
+- Boroughbridge Manor
+- North Yorkshire
+- UK
+people:
+- Andy
+- Lynnette Sellers
+organisations:
+- Barchester Healthcare group
+- Boroughbridge Manor
 ---
 
 ## North Yorkshire care home hosts pub-style beer celebration for residents and guests

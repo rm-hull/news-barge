@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 - Business & Entrepreneurship
+locations:
+- AI
+people:
+- Christian Cawley
+organisations:
+- AI
+- Computer Weekly
+- ComputerActive
+- Google News
+- Linux Format
+- Matter Alpha
+- McKinsey
+- TechRadar Pro
 ---
 
 ![businessman working on desk office with using a calculator to calculate the numbers, finance accounting concept](https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK.jpg) 

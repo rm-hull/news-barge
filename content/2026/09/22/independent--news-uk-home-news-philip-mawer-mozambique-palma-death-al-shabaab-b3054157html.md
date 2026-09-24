@@ -12,6 +12,28 @@ categories:
 - True Crime
 - Science
 image: https://static.independent.co.uk/2026/09/21/14/28/philip-mawer-ra-international.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Hants
+- Mozambique
+- Palma
+- Somerset
+- Winchester Coroner's Court
+- Winchester Coroner’s Court
+people:
+- Gordon Rhattigan
+- Lars Narfeldt
+- Mr Mawer
+- Palma
+- Philip Mawer
+- Russell Delaney
+- Soraya Narfeldt
+organisations:
+- Al-Shabaab
+- Amarula Hotel
+- Dyck Advisory Group
+- Home Office
+- RA International
 ---
 
 A British project manager killed in a siege in Mozambique turned down an offer of evacuation so that women and children could go first, an inquest has heard.

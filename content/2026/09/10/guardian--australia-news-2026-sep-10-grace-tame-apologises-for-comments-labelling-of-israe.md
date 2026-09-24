@@ -13,6 +13,20 @@ categories:
 - UK
 - News & Politics
 - Society & Culture
+locations:
+- Canberra
+- Gaza
+- State of Israel
+people:
+- Grace Tame
+- Lynda Ben-Menashe
+organisations:
+- ABC
+- Hamas
+- Human Rights Watch
+- Instagram
+- National Council of Jewish Women Australia
+- United Nation
 ---
 
 Grace Tame has apologised for her comments labelling the rape of Israeli women by Hamas during the 7 October attacks as “propaganda” and “debunked”, saying her words were “misinterpreted”.

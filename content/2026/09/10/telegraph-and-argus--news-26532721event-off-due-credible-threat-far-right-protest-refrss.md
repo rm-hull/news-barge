@@ -13,6 +13,26 @@ categories:
 - Bradford
 - News & Politics
 - Society & Culture
+locations:
+- Civic Centre
+- Dover
+- Keighley
+- North Street
+- Portsmouth
+- UK
+people:
+- Anne Cryer
+- Dave Towers
+- Ian Nichol
+- Keighley Together
+- Lisa Foley
+- Nick Griffin
+organisations:
+- British National Party
+- KTUC
+- Keighley Together
+- Keighley Together Campaign Committee
+- Keighley Trades Union Council
 ---
 
 *(Image: Keighley Together)*

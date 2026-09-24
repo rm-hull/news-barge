@@ -11,6 +11,36 @@ image: https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg
 categories:
 - Technology & Software
 - News & Politics
+locations:
+- AI
+- China
+- D-Ariz.
+- Texas
+- US
+people:
+- AI
+- Chris Lehane
+- Craig Hale
+- Dario Amodei
+- Donald Trump
+- Frankenstein
+- Gina Hinojosa
+- Mike Johnson
+- R-La.
+- Ruben Gallego
+- Sam Altman
+organisations:
+- '** Tech'
+- American AI
+- Amodei
+- Anthropic
+- CNBC
+- Congress
+- Craig’s
+- Google News
+- House
+- OpenAI
+- TechRadar Pro
 ---
 
 ![Donald Trump sings executive order](https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk.jpg) 

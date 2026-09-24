@@ -13,6 +13,22 @@ image: https://cdn.mos.cms.futurecdn.net/rUCfd8vscfh4hBTzsohVXH-1920-80.jpg
 categories:
 - Technology & Software
 - Video Gaming
+locations:
+- Darkon
+people:
+- Dominic Guay
+- Kaatri
+- Skev
+organisations:
+- Demi Williams
+- GameSpot
+- GamesRadar
+- Gamescom
+- Google News
+- Invoke Studios
+- NME
+- PS5
+- TechRadar Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/rUCfd8vscfh4hBTzsohVXH.jpg) 

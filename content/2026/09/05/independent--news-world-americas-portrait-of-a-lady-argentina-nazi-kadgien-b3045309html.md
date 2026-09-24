@@ -13,6 +13,34 @@ categories:
 - UK
 - Arts & Culture
 - History
+locations:
+- Amsterdam
+- Argentina
+- Connecticut
+- Europe
+- Germany
+- Greenwich
+- Mar del Plata
+- Netherlands
+- Switzerland
+people:
+- Adolf Hitler
+- Daniel Adler
+- Friedrich Kadgien
+- Giacomo Antonio Melchiorre Ceruti
+- Giuseppe Ghislandi
+- Giuseppe Vittore Ghislandi
+- Hermann Göring
+- Jacques Goudstikker
+- Juan Carlos Cortegoso
+- Marei von Saher
+- Patricia Kadgien
+- Rembrandt
+- Vermeer
+- von Saher
+organisations:
+- Algemeen Dagblad
+- National Academy of Fine Arts
 ---
 
 An Argentine court has approved a deal to return a long-lost 18th-century Italian portrait, which was looted from a prominent Jewish art dealer during World War II, to his heir.

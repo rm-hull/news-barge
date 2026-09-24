@@ -12,6 +12,13 @@ categories:
 - Europe
 - News & Politics
 - Travel
+locations:
+- Greece
+- Ionian Sea
+- Ithaca
+- Piggie Island
+people: []
+organisations: []
 ---
 
 Atokos, a tiny private island in Greece's Ionian Sea, has become a popular stop for visitors drawn by its unusual residents. Tourists arrive by boat to swim alongside Mediterranean black pigs, feed them fruit and watch them roam the beach.

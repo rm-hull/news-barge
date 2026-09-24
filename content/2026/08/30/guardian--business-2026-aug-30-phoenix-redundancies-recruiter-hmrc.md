@@ -15,6 +15,22 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 - Technology & Software
+locations:
+- Las Vegas
+- UK
+people:
+- Andrew Woosnam
+organisations:
+- Companies House
+- EU
+- Graham
+- HM Revenue and Customs
+- HMRC
+- PGGBR Ltd
+- PGREC
+- PGUSA
+- Premier Group Recruitment
+- University of Wolverhampton
 ---
 
 A recruitment executive who was allowed to buy back the assets of his bust company in instalments, despite it accumulating almost £3m of debt, has placed his new business into liquidation after falling behind with promised payments to the administrator.

@@ -12,6 +12,23 @@ categories:
 - UK
 - News & Politics
 - Sports
+locations:
+- England
+- UK
+people:
+- Amy Fairman
+- Guy Shrubsole
+- Kirstin McEvoy
+- Megan Klaar
+organisations:
+- EA
+- England Golf
+- Environment Agency
+- Guardian
+- Met Office
+- River Action
+- The Lie of the Land
+- University of Leeds
 ---
 
 More than 140 golf clubs in England have breached their water extraction licences in the past five years, according to data analysis by the Guardian.

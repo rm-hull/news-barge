@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 - History
+locations:
+- Crimean Peninsula
+- Donetsk
+- France
+- Germany
+- Iran
+- Kherson
+- Kremlin
+- Leipzig Airport
+- Lublin
+- Luhansk
+- Moscow
+- Paris
+- Poland
+- Rzeszow
+- Ukraine
+- United Russia
+- Zaporizhzhia
+people:
+- Donald Tusk
+- Emmanuel Macron
+- Laurent Nunez
+- Vladimir Putin
+organisations:
+- Nato
+- State Duma
 ---
 
 Ukrainians in territories occupied by Russia are being “held at gunpoint” and forced to vote in parliamentary elections that “bear no resemblance to democracy,” the Ukrainian foreign ministry has warned.

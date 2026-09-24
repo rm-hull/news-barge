@@ -12,6 +12,29 @@ image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.
 categories:
 - Business & Entrepreneurship
 - Technology & Software
+locations: []
+people:
+- Bloomberg
+- Carson Oliver
+- Eddy Cue
+- Jeff Williams
+- Jennifer Bailey
+- John Ternus
+- Kate Adams
+- Lisa Jackson
+- Paul Meade
+- Phil Schiller
+- Tim Cook
+organisations:
+- App Store
+- Apple Pay
+- Apple’s App Store
+- Bloomberg
+- Environment, Policy, and Social Initiatives
+- Epic
+- OpenAI
+- TechCrunch
+- Vision Pro
 ---
 
 Tim Cook is departing from his long-held role as Apple’s CEO — and a wave of top executives are heading for the exits as he does.

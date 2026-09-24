@@ -11,6 +11,20 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
+locations:
+- US
+people:
+- Andrej Karpathy
+- Klarna
+- Michael Kremer
+- Sebastian Siemiatkowski
+organisations:
+- AI
+- Anthropic
+- Future plc
+- Ninox
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot&#039;s hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg)

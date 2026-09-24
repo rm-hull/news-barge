@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - UK
 - Family & Parenting
+locations:
+- Boston
+- Duxbury
+- Massachusetts
+- UK
+- USA
+people:
+- Callan Clancy
+- Cora
+- Dawson
+- Lindsay Clancy
+- Patrick Clancy
+- William Sullivan
+organisations:
+- 988 Suicide and Crisis Lifeline
+- Samaritans
 ---
 
 The judge in Lindsay Clancy’s murder trial has ordered jurors to keep deliberating after they said they could not reach a unanimous decision.

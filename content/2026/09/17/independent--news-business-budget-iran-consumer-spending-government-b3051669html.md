@@ -13,6 +13,21 @@ categories:
 - UK
 - Business & Entrepreneurship
 - Personal Finance & Investing
+locations:
+- India
+- Iran
+- Middle East
+- Northern Europe
+- UK
+people:
+- Aarin Chiekrie
+- Lord Simon Wolfson
+- Lord Wolfson
+organisations:
+- Hargreaves Lansdown
+- Next
+- PA
+- Press Association
 ---
 
 Retail giant Next has warned against tax increases in next month’s Budget as it said consumers were already under mounting pressure from Iran war inflation and a weak jobs market.

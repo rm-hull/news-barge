@@ -11,6 +11,37 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab1289a5263c12dd1677528/191:100/w_1280,c_limit/DSC_9551.jpg
+locations:
+- Googlebook
+- New York City
+people:
+- Sameer Samat
+organisations:
+- '## New Frontiers Googlebook'
+- AAA
+- AI
+- Acer
+- Adobe Photoshop
+- Android
+- Asus
+- CapCut
+- Chromebooks
+- Dell
+- Facebook
+- GeForce Now
+- Gemini
+- Google Pixel
+- Googlebooks
+- HP
+- HiLight
+- Lenovo
+- Magic Pointer
+- MediaTek
+- Nvidia
+- Play Store
+- Qualcomm
+- Rambler
+- iPhone
 ---
 
 iPhones and Macs are like two peas in a pod. Apple’s hardware synergy means you can launch iPhone apps right from the macOS desktop, respond to texts without picking up your iPhone, and even copy text on one platform and paste it on the other. That kind of seamless connectivity does not natively exist for Android phone owners at the operating system level.

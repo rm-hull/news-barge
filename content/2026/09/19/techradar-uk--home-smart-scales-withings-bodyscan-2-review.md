@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://cdn.mos.cms.futurecdn.net/p6gdZW7MiwEwbcKBCurLhB-2560-80.jpg
+locations:
+- RunStar
+people:
+- Paul Hatton
+- Withings
+organisations:
+- AI
+- Apple Watches
+- BodyScan 2
+- ITO
+- Withings
 ---
 
 ### TechRadar Verdict

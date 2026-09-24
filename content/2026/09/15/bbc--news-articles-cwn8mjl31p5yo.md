@@ -12,6 +12,30 @@ categories:
 - UK
 - News & Politics
 - History
+locations:
+- Baltic Sea
+- Baltic Sea.
+- Belarus
+- Denmark
+- Estonia
+- Gedser
+- Kaunas
+- Latvia
+- Lithuania
+- Moscow
+- Netherlands
+- Poland
+- Russia
+- Russian Federation
+- Ukraine
+- Zwolle
+people:
+- Gitanas Nausėda
+- Lars Lokke Rasmussen
+- Mette Frederiksen
+organisations:
+- Fennec
+- Nato
 ---
 
 ![A Danish Fennec helicopter](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg)

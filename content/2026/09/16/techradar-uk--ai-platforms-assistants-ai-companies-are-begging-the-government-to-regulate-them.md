@@ -11,6 +11,30 @@ image: https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg
 categories:
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- New York City
+- Silicon Valley
+- U.S.
+people:
+- Claude Fable
+- Dario Amodei
+- Demis Hassabis
+- Eric Hal Schwartz
+- JD Vance
+- Karolis Kaciulis
+- Sam Altman
+organisations:
+- AI
+- Anthropic
+- Astra
+- Google DeepMind
+- Google Gemini
+- Google News
+- Lead System Engineer
+- OpenAI
+- Surfshark
+- TechRadar
+- Voicebot.ai
 ---
 
 ![AI security](https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC.jpg) 

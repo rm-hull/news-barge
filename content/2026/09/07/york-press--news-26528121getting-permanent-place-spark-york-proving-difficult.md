@@ -12,6 +12,33 @@ categories:
 - Local
 - York
 - Business & Entrepreneurship
+locations:
+- Covid
+- East Yorkshire
+- Huntington
+- North Yorkshire
+- Piccadilly
+- Spark York
+- Ukraine
+people:
+- Gabriel Macarthur
+- Malkani Wijesinghe
+- Mike Brand
+- Ms Wijesinghe
+- Pablo
+- Sam Leach
+- Tom Kerrige
+organisations:
+- CIC
+- City of York Council
+- Clucking Oinks
+- Elephant Feast
+- Gabriel Macarthur
+- Michelin Guide
+- National Insurance
+- Piccadilly
+- Spark York
+- Tricolour
 ---
 
 ## Why getting a permanent place at Spark York is proving difficult

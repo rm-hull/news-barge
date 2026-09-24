@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/64ed3693e0659a864573fe3af76cc70ae5cb0f75/442_0_3129_2506/master/3129.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b47bb24d8ae084896950ad8e0b79dbd9
+locations:
+- Australia
+- England
+- London
+- The Hague
+- UK
+- US
+- Wales
+people:
+- Adrienne Barnett
+- Alison Shalaby
+- Claire
+- Lisa Smart
+- Roz Osborne
+- Ruth Dineen
+organisations:
+- Filia Hague Mothers
+- Globalarrk
+- Home Office
+- Ministry of Justice
+- Reunite
+- Right to Equality
 ---
 
 British mothers who bring their children with them when returning to the UK after fleeing from domestic abuse abroad – which can lead to them being accused of abduction – could be given greater legal protection and support.

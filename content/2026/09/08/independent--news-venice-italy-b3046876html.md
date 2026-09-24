@@ -14,6 +14,9 @@ categories:
 - UK
 - Film & TV
 - Arts & Culture
+locations: []
+people: []
+organisations: []
 ---
 
 Photos of Venice Film Festival stars and premieres, in photos

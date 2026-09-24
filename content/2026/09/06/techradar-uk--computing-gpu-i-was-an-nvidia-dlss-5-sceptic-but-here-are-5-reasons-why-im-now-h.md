@@ -12,6 +12,25 @@ image: https://cdn.mos.cms.futurecdn.net/6rLn9bm594drr7izET26mG-1920-80.jpg
 categories:
 - Technology & Software
 - Science
+locations:
+- Reddit
+people:
+- Tom
+- VideoCardz
+organisations:
+- DLSS 5
+- Darren
+- Dev Studio
+- Google News
+- Hachette UK
+- LTT
+- Linus Tech Tips
+- NBA
+- NPC
+- Nvidia
+- PC
+- RTX
+- Reddit
 ---
 
 ![A young teenager is playing a PC game and celebrating](https://cdn.mos.cms.futurecdn.net/6rLn9bm594drr7izET26mG.jpg) 

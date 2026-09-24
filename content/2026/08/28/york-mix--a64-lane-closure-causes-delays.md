@@ -11,6 +11,13 @@ categories:
 - Local
 - York
 - Technology & Software
+locations:
+- Claxton
+- Lofthouse
+- M1
+people: []
+organisations:
+- A64
 ---
 
 There are delays on the A64 around Claxton and traffic building in both directions.

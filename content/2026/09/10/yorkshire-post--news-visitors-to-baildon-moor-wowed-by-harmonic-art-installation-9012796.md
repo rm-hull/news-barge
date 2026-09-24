@@ -13,6 +13,25 @@ categories:
 - Harrogate
 - York
 - Arts & Culture
+locations:
+- Baildon Moor
+- Baildon Moor Trig Point
+- Bracken Hall Countryside Centre
+- Bradford 2025
+- Copenhagen
+- Helsinki
+- Marseille
+- UK
+people:
+- Jane Earnshaw
+- Pierre Sauvageot
+organisations:
+- Baildon Moor
+- Bracken Hall Countryside Centre and Museum
+- Bradford Culture Company
+- Bradford Pennine Gateway National Nature Reserve
+- Harmonic Fields
+- UK City of Culture
 ---
 
 # Visitors to Baildon Moor wowed by harmonic art installation

@@ -12,6 +12,16 @@ categories:
 - Local
 - Harrogate
 - Food & Cooking
+locations:
+- Bettys Harrogate
+people:
+- '**Abu'
+organisations:
+- Cedar Court Hotel
+- Churchill Suite
+- Crown Hotel
+- Harrogate BID
+- Harrogate Brewing Co
 ---
 
 ![](https://mmo.aiircdn.com/409/66d7160ebcdfe.jpg) 

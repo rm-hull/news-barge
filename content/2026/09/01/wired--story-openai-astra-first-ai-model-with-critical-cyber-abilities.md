@@ -12,6 +12,22 @@ categories:
 - Technology & Software
 - Science
 - Business & Entrepreneurship
+locations:
+- Silicon Valley
+people: []
+organisations:
+- AI
+- Anthropic
+- Astra “
+- ChatGPT
+- Cisco
+- Cloudflare
+- Codex
+- ExploitBench
+- GPT-5.6 Sol
+- Meta
+- OpenAI
+- Palo Alto Networks—
 ---
 
 OpenAI announced Tuesday that its forthcoming AI model, Astra, is its first to reach the company’s threshold for what it calls “critical” cyber capabilities. OpenAI says it plans to publicly release a version of Astra “soon,” but will make the model’s advanced cyber capabilities available only to select partners in its Daybreak Blue early-access program at launch.

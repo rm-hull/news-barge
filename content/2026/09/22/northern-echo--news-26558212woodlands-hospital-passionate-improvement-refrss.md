@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21466956.jpg?type=og-image
+locations:
+- Darlington
+- Morton Park
+- NHS
+- North East
+- Woodlands Hospital
+people:
+- Covid
+- Deb
+- Debbie Dobbs
+- Mike Hughes
+organisations:
+- '![]()Woodlands Hospital'
+- A&E
+- Chrysalis Finance
+- Circle Health Group
+- NHS
+- St Teresa’s Hospice
+- Woodlands Hospital
 ---
 
 In partnership with

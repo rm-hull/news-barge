@@ -11,6 +11,34 @@ image: https://static.independent.co.uk/2026/09/10/15/2293887619..?trim=0,0,0,0&
 categories:
 - News & Politics
 - UK
+locations:
+- Dallas
+- U.S.
+people:
+- Donald Trump
+- Liz Landers
+- Mary Bruce
+- Nandita Bose
+- Scott Bessent
+organisations:
+- ABC News
+- American Airlines Center
+- Associated Press
+- GOP
+- House of Representatives
+- Los Angeles Rams
+- NFL
+- Netflix
+- New England Patriots
+- PBS
+- Reuters White House
+- San Francisco 49ers
+- Seattle Seahawks
+- Senate
+- The Blaze
+- Treasury
+- Truth Social
+- UFC
 ---
 
 Donald Trump asserted that his Republican midterm convention in Dallas outperformed the kickoff of the NFL season in television ratings, despite no official audience metrics being available.

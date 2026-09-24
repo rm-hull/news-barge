@@ -12,6 +12,23 @@ categories:
 - Technology & Software
 - Hardware
 - Video Gaming
+locations:
+- Minecraft
+- SteamDB
+people: []
+organisations:
+- Ada Lovelace
+- Blackwell
+- Call of Duty
+- DLSS-G
+- Get Tom's Hardware
+- IKEA
+- Microsoft
+- NVIDIA
+- Nvidia
+- PC
+- The Elder Scrolls
+- Valve
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/UvdybwqrqkuUKc5paGb9t4-320-80.jpg)

@@ -14,6 +14,37 @@ categories:
 - News & Politics
 - Technology & Software
 - Business & Entrepreneurship
+locations:
+- Makerfield
+- Mayfair
+- UK
+people:
+- Andy Burnham
+- Cameron Ford
+- Chris Banatvala
+- Ellie Hodges
+- June Slater
+- Laurence Fox
+- Liz Truss
+- Lucy Connolly
+- Mark Littlewood
+- Mike Graham
+- Mike Graham.
+- Robert Tchenguiz
+- Rupert Murdoch
+organisations:
+- GB News
+- Graham
+- Institute of Economic Affairs
+- Labour
+- Leconfield
+- Ofcom
+- Reform
+- Socialpruf
+- TalkTV
+- Truss
+- UKLive
+- YouTube
 ---
 
 When Liz Truss launched her podcast last year, she declared it would bring a “counter-revolution” to take on the “deep state”, which, she said, “tried to destroy” her.

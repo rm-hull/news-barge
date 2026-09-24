@@ -12,6 +12,49 @@ categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
+locations:
+- England
+- Nottingham
+- Wales
+- Wales.
+people:
+- Alex Norris
+- Andrew Harper
+- Andy Burnham
+- Annabel Rook
+- Barnaby Webber
+- Bridget Phillipson
+- Carol
+- Clifton George
+- Diana Parkes
+- Emma Webber
+- Emma Webber Barnaby Webber
+- Frank Mullane
+- Grace O'Malley Kumar
+- Grace O'Malley-Kumar
+- Hannah
+- Ian Coates
+- Jane Clough
+- Jo Early
+- Joanna Simpson
+- John Hunt
+- Josh Rook
+- Kyle Clifford
+- Louise
+- PC Harper
+- Penny Clough
+- Robert Brown
+- Valdo Calocane
+organisations:
+- Advocacy After Fatal Domestic Abuse
+- BBC Nottingham
+- BBC Radio Nottingham
+- Emma Webber
+- IPP
+- Ministry of Justice
+- Murder and Manslaughter
+- Radio 4
+- Women and Equalities
 ---
 
 ![Emma Webber Barnaby Webber's mother looking at the camera, wearing a pink coat](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8e0b/live/7eaa5a20-a384-11f1-aff5-c9bc64006961.jpg)

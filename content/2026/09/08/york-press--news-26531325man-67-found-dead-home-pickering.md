@@ -12,6 +12,14 @@ categories:
 - Local
 - York
 - News & Politics
+locations:
+- PA
+- Pickering
+people:
+- David Belt
+- Jacob King
+- Sandra Prince
+organisations: []
 ---
 
 *(Image: Jacob King/PA)*

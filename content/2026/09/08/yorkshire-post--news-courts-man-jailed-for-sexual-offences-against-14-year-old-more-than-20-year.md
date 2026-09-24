@@ -13,6 +13,18 @@ categories:
 - Harrogate
 - York
 - Self-Improvement
+locations:
+- Bradford Crown Court
+- Calderdale
+- Halifax
+- Shaw Hill
+people:
+- Carly Hemingway
+- James Hartley
+organisations:
+- Bradford Crown Court
+- Calderdale Child Vulnerability Exploitation Team
+- Sex Offenders Register
 ---
 
 # Man jailed for sexual offences against 14-year-old more than 20 years ago
