@@ -1,0 +1,82 @@
+---
+title: Xi Jinping got the red carpet treatment from Trump - but not everything he
+  wanted
+source_url: https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-25T04:47:51Z'
+published: '2026-09-25T00:00:00Z'
+description: China wanted progress on trade, technology and Taiwan - but hasn't got
+  as much as it would have hoped for.
+categories:
+- UK
+- News & Politics
+- Technology & Software
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg
+---
+
+Watch: The world’s two most powerful men just met. How did it go?
+
+**President Xi Jinping's summits with Donald Trump have one clear aim.**
+
+China believes the United States is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.
+
+On this visit, however, despite Trump rolling out the red carpet for him, the Chinese leader didn't get everything he wanted.
+
+The trade truce that saw both countries pause a tit-for-tat tariff war and prevent a further escalation, was extended by only a few months - from November to January.
+
+Beijing had hoped for at least a year as Xi looks to ride out the remainder of Trump's presidency.
+
+This means key disputes on tariffs, China's dominance on rare earth supplies and access to advanced US chips are being kicked forward into yet another round of negotiations.
+
+This suggests the US wants China to do more to fulfil its side of the bargain before offering longer-term concessions.
+
+![US President Donald Trump holds a binder as he stands next to Chinese President Xi Jinping before Xi delivers a speech during a state dinner at the White House in Washington](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/94a5/live/1865a060-b894-11f1-bc1f-3f186ca4140c.jpg)
+
+Trump and Xi attend a dinner at the White House
+
+The uncomfortable truth for Xi is that his domestic economy is in trouble. While the country sells a record number of goods around the world, consumers at home are holding back. Youth unemployment remains stubbornly high and property prices have slumped in a country where 80% of people own their own homes.
+
+Trade is helping to prop up growth, making access to overseas markets more important than ever. Xi needs to protect those exports from the kind of debilitating tariffs the US imposed last year.
+
+On Taiwan, Xi once again made clear that US arms sales to Taiwan are a red line for China.
+
+The US is bound by law to provide the self-governing island with the means to defend itself.
+
+In May, Xi warned Trump that mishandling the issue could cause the two countries to "collide or even enter into conflict".
+
+Trump then delayed the approval of a $14 billion arms package for Taiwan, describing it as a "very good negotiating chip" with Beijing.
+
+Xi may have seized on that opening during the talks and likely argued that restraining support for Taiwan reduces the risk of conflict.
+
+On Thursday he reiterated his hope that the US would adhere to the "correct position" of opposing Taiwan independence.
+
+However, Trump - who is coming under some bipartisan pressure to continue US support to Taiwan - is yet to make any public response to the Chinese leader's comments.
+
+![Robots weld bodies of new energy commercial vehicles at the commercial vehicle welding workshop of Dongfeng Liuzhou Automobile Co., Ltd. on September 16, 2026 in Liuzhou, Guangxi](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1fdf/live/3c169e40-b891-11f1-99e6-f38a3d3c2e67.jpg)
+
+Trade is helping to prop up growth
+
+The two leaders did at least discuss artificial intelligence (AI) although it's unclear whether they agreed to any safeguards.
+
+All eyes were on whether they would make any concrete decisions on AI - such as an agreement to hold a summit - in the wake of an essay by Anthropic CEO Dario Amodei calling for the slowing down of AI development to make it safer. That followed a warning by a top safety researcher from the company that there was a "greater than 10% chance" that AI could cause the extinction of humans.
+
+But besides Xi talking about the importance of ensuring AI "is always under human control" we didn't get much else. Trump has most recently dismissed fears of human extinction from the technology as a "hoax".
+
+And, of course, let's not forget the pandas. The gift of Ping Ping and Fu Shuang to Atlanta was first heralded in April, but Xi has now announced they will arrive in just a few days as China's panda diplomacy resumes.
+
+There may be more announcements to come as the two prepare to have tea and visit the national archives on Friday.
+
+![Giant panda Le Le enjoys a special Mid-Autumn Festival meal at Hong Kong Ocean Park on September 23, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8fa1/live/f0466530-b891-11f1-99e6-f38a3d3c2e67.jpg)
+
+Pandas have played an important role in Chinese diplomatic measures
+
+But for now, one of the summit's biggest victories for Beijing may have been the optics.
+
+The lavish welcome, a personal greeting at the airport and a state banquet featuring sesame crusted sea bass and braised baby bok choy have been welcomed by those watching from China. It will have helped cement Xi's image at home as Trump's equal.
+
+Memes contrasting the two leaders have spread widely on Chinese social media. One popular image shows Trump grimacing as bomber jets fly overhead, while Xi remained impassive.
+
+Xi has found a way to manage one of the world's most unpredictable leaders. But while Trump talks of a "truly great friendship", China's leader is focussed on something bigger: securing China's place alongside the United States as a superpower.
+
+The pandas, the pageantry and the warm words may help smooth this relationship. But beneath the spectacle, the competition between the world's two most powerful countries remains as fierce as ever.
