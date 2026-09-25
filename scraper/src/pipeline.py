@@ -146,7 +146,7 @@ async def process_article(
         dict.fromkeys((site.get("categories") or []) + generated_categories)
     )
 
-    entities = named_entities(description)
+    entities = named_entities(md_body)
 
     frontmatter: dict[str, Any] = {
         "title": title,
