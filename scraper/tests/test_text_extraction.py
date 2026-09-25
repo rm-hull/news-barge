@@ -185,3 +185,31 @@ class TestRemoveExcludedElements:
         result = remove_excluded_elements(html, ["role='dialog'"])
         assert "Remove" not in result
         assert "Keep" in result
+
+    def test_removes_figure_containing_specific_image(self) -> None:
+        """Mimics the TechRadar Google News badge exclusion: a <figure>
+        wrapping a targeted image is removed while other figures survive."""
+        html = """\
+<div>
+  <p>Real article content that should survive.</p>
+  <a href="https://news.google.com/publications/xyz" target="_blank">
+    <figure class="van-image-figure pull-right inline-layout">
+      <div class="image-full-width-wrapper">
+        <div class="image-widthsetter" style="max-width:676px;">
+          <p class="vanilla-image-block">
+            <picture><img src="https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78.jpg" alt="Click to follow TechRadar"></picture>
+          </p>
+        </div>
+      </div>
+    </figure>
+  </a>
+  <figure class="van-image-figure">
+    <p><img src="https://cdn.mos.cms.futurecdn.net/legit-article-image.jpg" alt="A real photo"></picture></p>
+  </figure>
+</div>"""
+        xpath = "//figure[.//img[contains(@src, 'diM9tpwF2Lz85R8q85CT78')]]"
+        result = remove_excluded_elements(html, [xpath])
+        assert "diM9tpwF2Lz85R8q85CT78" not in result
+        assert "Click to follow TechRadar" not in result
+        assert "Real article content" in result
+        assert "legit-article-image" in result

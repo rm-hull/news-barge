@@ -109,6 +109,11 @@ sites:
       - //div[contains(@class, 'slice-author-bio')]
       # The "Follow TechRadar on Google News" inline CTA embedded in #article-body.
       - //p[contains(., 'Follow TechRadar on Google News')]
+      # The Google News "Follow TechRadar" badge image that accompanies the
+      # text CTA above. It sits in a <figure> (with nested image divs) inside
+      # the news.google.com follow link and leaks into the extracted prose
+      # on its own, so it needs its own exclusion rule.
+      - //figure[.//img[contains(@src, 'diM9tpwF2Lz85R8q85CT78')]]
       # Viafoura "confirm your public display name" comment-login overlay.
       - x-show="showConfirmDisplayNamePrompt"
 
