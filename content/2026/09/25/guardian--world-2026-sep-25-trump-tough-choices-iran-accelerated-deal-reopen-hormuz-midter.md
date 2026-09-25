@@ -1,0 +1,72 @@
+---
+title: Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms
+source_url: https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-25T16:32:47Z'
+published: '2026-09-25T00:00:00Z'
+description: Iran’s seven-day timetable would restart nuclear talks, but will the
+  US be willing to deliver on terms that include reining in Israel in Lebanon?
+image: https://i.guim.co.uk/img/media/2210b6ca25038caad4fe6ef57ca94dcacd18dab6/713_0_4504_3602/master/4504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ead6c6b97c84cd8cffa422ecb052902b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Donald Trump
+- Benjamin Netanyahu
+- Steve Witkoff
+- Abbas Araghchi
+- MoU
+- Masoud Pezeshkian
+- Mojtaba Khamenei
+locations:
+- Iran
+- Hormuz
+- US
+- Israel
+- Lebanon
+- New York
+- China
+- Oman
+- Islamabad
+- Saudi Arabia
+- Gulf
+organisations:
+- Hezbollah
+- UN General Assembly.
+---
+
+Iran’s seven-day timetable to reopen the strait of Hormuz and start talks on its nuclear programme has been pitched as a deal that could rapidly extricate Donald Trump from a political crisis but requires the US president to make difficult concessions.
+
+In the five days left before the proposed reopening of the strait, which is expected to relieve pressure on global energy markets, Trump would need to lift Iranian asset freezes, permit Iran to export its oil and, probably most difficult of all, order Benjamin Netanyahu to end Israel’s attacks on Hezbollah in Lebanon, thus achieving the “ceasefire on all fronts”.
+
+Iranian diplomats in New York said they thought a three-hour meeting earlier this week with the US envoy Steve Witkoff in which they laid out the seven-day plan was productive, but were doubtful the US would deliver.
+
+Iran nevertheless feels it has done the diplomatic spadework, taking the proposal to China for endorsement and ensuring that Oman, located on the south side of the strait, was also on board.
+
+The foreign minister, Abbas Araghchi, explained that the idea was to take the elements of the Iran-US memorandum of understanding that Trump signed in June and repackage and accelerate the process since, as they understood it, Trump had come to hate the MoU.
+
+“The conditions we have asked the US to meet is nothing new, nothing more than what was already in the Islamabad agreement, which was signed by the US president,” Araghchi said. But what is new is the speed.
+
+![Abbas Araghchi in black suit at UN General Assembly.](https://i.guim.co.uk/img/media/d1a667564647ddeb1887c8157db2e98430d5a2c5/20_139_3356_2685/master/3356.jpg?width=445&dpr=1&s=none&crop=none)
+
+In the first four to five days under this timetable, the US would have to lift the naval blockade on Iran’s oil ports, restore the waiver that lifted sanctions on Iran’s oil exports, end the war on all fronts and permit the release of some of Iran’s frozen assets.
+
+On the sixth day, the strait of Hormuz would be reopened by Iran, with ships using a new route designated by Oman and Iran. And on the next day, negotiations would start on the future of Iran’s civil nuclear programme, including a protocol to allow UN nuclear inspectors back in to look at Iran’s damaged sites and the stockpile of highly enriched uranium. This accelerates the point at which nuclear talks would begin, from 60 days in the June agreement to seven.
+
+Those talks could, of course, take a long time, but from Trump’s perspective, the strait of Hormuz would be reopened before the midterm elections, a point in the political calendar that the Iranian president, Masoud Pezeshkian, says has never been a factor in Iranian thinking. Trump had claimed Iran was waiting until after the vote to offer a deal.
+
+Iran, Araghchi argued at a largely off-the-record briefing with reporters – at which Pezeshkian was also present – had every reason not to negotiate with the US.
+
+In particular, he admitted to being sceptical that Witkoff could deliver. He recounted how he had twice held talks with Trump’s special envoy, after which Witkoff had described them as “productive and good”, only for the US to bomb Iran the next day. Other Iranian diplomats say Trump’s willingness to rein in Netanyahu in Lebanon remains key. If he could do that, a deal would be feasible.
+
+It is a difficult deal for Trump to swallow since the strait would reopen largely on Iran’s terms, with the new route predominantly going through Iranian waters. Saudi Arabia is also concerned that the route deal is bilateral between Iran and Oman, and not with the Gulf states as joint signatories.
+
+![US president Donald Trump in dark suit and red tie.](https://i.guim.co.uk/img/media/f9572fda00c0449d44a3db2406287d8008e15f04/206_0_2118_1694/master/2118.jpg?width=445&dpr=1&s=none&crop=none)
+
+Trump says he has a choice to make between the annihilation of Iran and engagement – an engagement that, he says with typical hyperbole, could make Iran one of the great countries of the world. In reality, the judgment he has to make is more prosaic. Is he prepared to go back to war with Iran after the midterms and, if not, does he believe the US can squeeze the Iranian economy so hard that the leadership will succumb.
+
+Pezeshkian, who handed all questions about the talks to Araghchi, admitted Iranians wanted the war to end and did not deny the economic pressure, but said the public had withstood sanctions for 45 years.
+
+He also insisted Iran’s decision-making machinery was functioning. The reclusive supreme leader, Mojtaba Khamenei, was completely healthy, he claimed, a testimony based on spending seven hours in his presence. He did not explain why, apart from security, Khamenei had not issued a voice recording, photograph or video as proof of life.
