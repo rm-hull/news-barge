@@ -10,21 +10,54 @@ Contributions are welcome! If there's a feed you'd like to see added, please [cr
 
 ```
 sites.yaml               ← Edit this to add/remove sites
-scraper/
-scraper/
-  scrape.py              ← Python scraper (uv-managed, no separate requirements.txt)
+scraper/                 ← Python scraper package (uv-managed)
+  pyproject.toml         ← Project config, entry point, deps
+  uv.lock
+  pyrightconfig.json
+  .python-version
+  .editorconfig
+  .env                    ← Local-only secrets (gitignored)
+  src/
+    __init__.py
+    scrape.py            ← Main CLI entry point (console script: scrape)
+    pipeline.py          ← Per-article processing pipeline
+    classifiers.py       ← Article categorisation & NER (taxotag + flair)
+    constants.py         ← Paths, headers, defaults
+    dates.py             ← Date / retention-window helpers
+    fetchers.py          ← aiohttp + Playwright HTML fetchers
+    log_helper.py        ← Colour + GitHub Actions logging
+    output.py            ← Output file-path computation
+    slugs.py             ← URL → filesystem-safe slug helpers
+    text_extraction.py   ← HTML cleaning, markdown conversion, exclusions
+  tests/                 ← pytest suite (unit + integration)
+  backfill_entities.py   ← Backfill NER entities on existing articles
+  flair_classifier.py    ← Flair NER backfill script
+  litert_classifier.py   ← LiteRT classifier backfill script
+  google_classifier.py   ← Google GenAI classifier backfill script
+  spacy_classifier.py    ← spaCy classifier backfill script
+  rename_slugs.py        ← Recompute / rename article slugs
 
 content/                 ← Generated markdown (committed by the Action)
-  2025/06/27/
-    guardian--article-slug.md
-site/                    ← 11ty site
+  YYYY/MM/DD/
+    <site-slug>--<article-slug>.md
+site/                    ← 11ty static site
   eleventy.config.js
   index.njk              ← Latest articles
+  archive.njk            ← Archive index
   search.njk             ← Pagefind search
   sites.njk              ← Site index
-  public/css/style.css
+  categories.njk
+  _data/site.json
+  _includes/
+  _layouts/
+  _site/                  ← Built output
+  public/css/style.css    ← Styles
+  public/js/
+  package.json
 .github/workflows/
-  scrape.yml             ← Cron job + Pages deploy
+  scrape.yml             ← Cron job: scrape, commit, Pages deploy
+  build.yml              ← CI: lint, type-check, test on PRs/pushes
+  archive.yml            ← Cron job: prune articles older than retention window
 ```
 
 ## Setup
@@ -53,14 +86,14 @@ sites:
   - name: Some HTML-only site
     slug: example
     listing_url: https://example.com/news
-    listing_class: ".article-link"
+    listing_class: article-link
     limit: 10
     force_playwright: true   # use a real browser for JS-heavy sites
 ```
 
 ### 4. Commit and push
 
-The Action runs every day at 07:00 UTC. You can also trigger it manually
+The Action runs every 4 hours. You can also trigger it manually
 from the **Actions** tab, optionally targeting a single site slug.
 
 ## Running locally
@@ -70,14 +103,12 @@ Ensure [uv](https://github.com/astral-sh/uv) is installed.
 ```bash
 # Scrape
 cd scraper
-uv lock --upgrade
 uv sync
 # Ensure playwright browser is installed/updated
 uv run playwright install chromium
 
-uv run scrape.py --dry-run        # preview only
-uv run scrape.py                  # write to ../content/
-
+uv run scrape --dry-run       # preview only
+uv run scrape                  # write to ../content/
 
 # Build and preview the site
 cd ../site
@@ -94,34 +125,33 @@ dependencies and run:
 
 ```bash
 uv sync --group dev
-uv run ruff check scrape.py backfill_categories.py tests/  # lint
-uv run ruff format scrape.py backfill_categories.py tests/ # format
-uv run mypy scrape.py backfill_categories.py                # type check
-uv run pytest tests/  # run tests with coverage
+uv run ruff check src/ tests/            # lint
+uv run ruff format --check src/ tests/   # format check
+uv run mypy src/ tests/                  # type check
+uv run pytest tests/                     # run tests with coverage
 ```
 
 The CI workflow (`.github/workflows/build.yml`) runs all checks on every
 push and pull request affecting files under `scraper/`.
 
-```bash
-# Scrape
-cd scraper
-pip install -r requirements.txt
-python -m playwright install chromium
-python scrape.py --dry-run        # preview only
-python scrape.py                  # write to ../content/
+### Adding a custom extraction rule for noisy sites
 
-# Build and preview the site
-cd ../site
-npm install
-npm start    # http://localhost:8080
+Some sites inject modals, paywalled overlays, or author bios into the article
+HTML that trafilatura can mistake for body content. Add an `exclusions` list
+to the site's entry in `sites.yaml` — each entry is either a bare
+`attr="value"` matcher or a full XPath expression. Matched elements are
+detached from the HTML **before** trafilatura runs:
+
+```yaml
+sites:
+  - name: Some News Site
+    slug: example
+    feed: https://example.com/rss
+    exclusions:
+      - role="dialog"                        # bare attr form
+      - //div[contains(@class, "paywall")]   # full XPath
+      - //p[contains(., "Follow on Google")] # text-based XPath
 ```
-
-### Adding a custom extraction rule
-
-For sites where Readability struggles, add a `custom_selector` field in
-`sites.yaml` (not implemented yet — see scrape.py for the hook point) or
-pre-process the HTML before passing it to trafilatura.
 
 ### Search
 
