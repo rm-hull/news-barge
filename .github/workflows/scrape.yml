@@ -3,6 +3,9 @@ name: Scrape and publish
 on:
   schedule:
     - cron: "11 */4 * * *"
+  push:
+    branches:
+      - "**"
   workflow_dispatch:
     inputs:
       site:
@@ -109,10 +112,10 @@ jobs:
   build-and-deploy:
     name: Build site and deploy
     needs: scrape
-    # Always build on manual dispatch; on schedule only if there's new content
+    # Always build on manual dispatch; on schedule only if there's new content; skip for branch pushes
     if: |
       github.event_name == 'workflow_dispatch' ||
-      needs.scrape.outputs.changed == 'true'
+      (needs.scrape.outputs.changed == 'true' && !(github.event_name == 'push' && github.ref_type == 'branch'))
     runs-on: ubuntu-latest
     environment:
       name: github-pages
