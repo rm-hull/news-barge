@@ -157,7 +157,7 @@ def remove_excluded_elements(
     return cast(str, lxml_html.tostring(tree, encoding="unicode"))
 
 
-def filter_duplicate_names(names):
+def filter_duplicate_names(names: list[str]) -> list[str]:
     """
     Remove single-word names (forename or surname fragments) that are
     already covered by a fuller (multi-word) name in the list.
