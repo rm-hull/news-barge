@@ -24,6 +24,7 @@ from .dates import months_ago
 from .fetchers import fetch_html_aiohttp, fetch_html_playwright
 from .log_helper import SiteLogger, report_error
 from .output import output_path
+from .sites import SiteConfig
 from .slugs import url_to_slug
 from .text_extraction import (
     clean_markdown_formatting,
@@ -39,7 +40,7 @@ from .text_extraction import (
 
 async def process_article(
     url: str,
-    site: dict[str, Any],
+    site: SiteConfig,
     dry_run: bool,
     force: bool,
     session: ClientSession,
@@ -54,7 +55,7 @@ async def process_article(
 
     Args:
         url: The article URL to process.
-        site: Site configuration dictionary.
+        site: Site configuration (SiteConfig).
         dry_run: If True, only report what would be done.
         force: Force regeneration of existing files.
         session: aiohttp ClientSession for HTTP requests.
@@ -68,17 +69,16 @@ async def process_article(
     Returns:
         True if article was processed successfully.
     """
-    slug = url_to_slug(url, site.get("exclude_query_params", False))
-    site_slug = site["slug"]
-    use_playwright = site.get("force_playwright", False)
+    exclude_query_params = site.exclude_query_params
+    article_slug = url_to_slug(url, exclude_query_params)
 
     logger.log(f"  → {url}")
 
     async with fetch_semaphore:
-        ssl = not site.get("trust_insecure_certs", False)
+        ssl = not site.trust_insecure_certs
         html = (
             await fetch_html_playwright(url, browser, browser_semaphore, logger=logger)
-            if use_playwright
+            if site.force_playwright
             else await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
         )
 
@@ -86,9 +86,8 @@ async def process_article(
         return False
 
     # Strip site-level chrome before trafilatura sees it
-    exclusions = site.get("exclusions") or []
-    if exclusions:
-        html = remove_excluded_elements(html, exclusions, logger=logger)
+    if site.exclusions:
+        html = remove_excluded_elements(html, site.exclusions, logger=logger)
 
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
@@ -101,7 +100,7 @@ async def process_article(
             pass
     file_date = pub_date or now
 
-    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
+    path = output_path(site.slug, article_slug, file_date, output_dir=output_dir)
 
     # Don't create articles older than the retention window
     if retention_months > 0:
@@ -148,9 +147,9 @@ async def process_article(
     else:
         image = extract_first_image_from_markdown(md_body)
 
-    title = (meta.title if meta else None) or slug
+    title = (meta.title if meta else None) or article_slug
     if title:
-        suffix = site.get("remove_suffix")
+        suffix = site.remove_suffix
         if suffix and title.endswith(suffix):
             title = title[: -len(suffix)].strip()
         if "|" in title:
@@ -160,8 +159,8 @@ async def process_article(
     frontmatter: dict[str, Any] = {
         "title": title,
         "source_url": url,
-        "source_site": site["name"],
-        "source_slug": site_slug,
+        "source_site": site.name,
+        "source_slug": site.slug,
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
@@ -178,9 +177,7 @@ async def process_article(
     # No point in creating categories or entities (both relatively expensive) if they
     # arent going to be written in the document
     categories = list(
-        dict.fromkeys(
-            (site.get("categories") or []) + article_categories(title, description)
-        )
+        dict.fromkeys((site.categories) + article_categories(title, description))
     )
 
     entities = named_entities(md_body)

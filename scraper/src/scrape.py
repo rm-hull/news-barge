@@ -46,6 +46,7 @@ from .log_helper import (
     report_group,
 )
 from .pipeline import process_article
+from .sites import SiteConfig
 
 # ---------------------------------------------------------------------------
 # Feed handlers
@@ -57,7 +58,7 @@ async def urls_from_feed(
     limit: int,
     session: aiohttp.ClientSession,
     logger: SiteLogger | None = None,
-    site: dict[str, Any] | None = None,
+    site: SiteConfig | None = None,
 ) -> list[str]:
     """Fetch URLs from an RSS/Atom feed."""
     feed_headers: dict[str, str] = {
@@ -67,7 +68,7 @@ async def urls_from_feed(
             "application/xhtml+xml,text/html;q=0.9,*/*;q=0.8"
         ),
     }
-    ssl = not site.get("trust_insecure_certs", False) if site else True
+    ssl = not site.trust_insecure_certs if site else True
     body = await fetch_html_aiohttp(
         feed_url,
         session,
@@ -100,10 +101,10 @@ async def urls_from_listing(
     listing_class: str | None = None,
     resolve_relative_to_root: bool = False,
     logger: SiteLogger | None = None,
-    site: dict[str, Any] | None = None,
+    site: SiteConfig | None = None,
 ) -> list[str]:
     """Discover article URLs from a listing page."""
-    ssl = not site.get("trust_insecure_certs", False) if site else True
+    ssl = not site.trust_insecure_certs if site else True
     html = (
         await fetch_html_playwright(
             listing_url, browser, browser_semaphore, logger=logger
@@ -188,16 +189,10 @@ def write_markdown(
 # ---------------------------------------------------------------------------
 
 
-def load_sites(path: Path = SITES_FILE) -> list[dict[str, Any]]:
-    with open(path, encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-    return cast(list[dict[str, Any]], data.get("sites", []))
-
-
 async def main_async(args: argparse.Namespace) -> None:
-    sites = load_sites(args.config)
+    sites = SiteConfig.load_sites(args.config)
     if args.site:
-        sites = [s for s in sites if s["slug"] == args.site]
+        sites = [s for s in sites if s.slug == args.site]
         if not sites:
             report_error(f"No site with slug '{args.site}' found.")
             sys.exit(1)
@@ -209,7 +204,7 @@ async def main_async(args: argparse.Namespace) -> None:
     browser_semaphore = asyncio.Semaphore(browser_concurrency)
 
     site_loggers: dict[str, SiteLogger] = {}
-    all_tasks: list[tuple[str, dict[str, Any], SiteLogger]] = []
+    all_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
 
     async with aiohttp.ClientSession() as session:
         async with async_playwright() as playwright:
@@ -217,36 +212,34 @@ async def main_async(args: argparse.Namespace) -> None:
 
             # Phase 1 & 2: Discovery
             for site in sites:
-                site_slug = site["slug"]
-                logger = SiteLogger(site["name"], site_slug)
+                site_slug = site.slug
+                logger = SiteLogger(site.name, site_slug)
                 site_loggers[site_slug] = logger
 
-                print(f"Discovery: {site['name']} ({site['slug']})", end="", flush=True)
+                print(f"Discovery: {site.name} ({site.slug})", end="", flush=True)
 
-                urls = list(site.get("urls") or [])
+                urls = list(site.urls)
 
-                if "feed" in site:
-                    limit = site.get("limit", site.get("feed_limit", 10))
+                if site.feed:
+                    limit = site.feed_limit_or_default
                     feed_urls = await urls_from_feed(
-                        site["feed"], limit, session, logger=logger, site=site
+                        site.feed, limit, session, logger=logger, site=site
                     )
                     print(
-                        f" | Feed {site['feed']} -> found {len(feed_urls)} URLs",
+                        f" | Feed {site.feed} -> found {len(feed_urls)} URLs",
                         end="",
                         flush=True,
                     )
                     urls = feed_urls + urls
 
-                if "listing_url" in site:
-                    use_playwright = site.get("force_playwright", False)
-                    limit = site.get("limit", site.get("listing_limit", 10))
-                    pattern = site.get("listing_link_pattern", "")
-                    listing_class = site.get("listing_class")
-                    resolve_relative_to_root = site.get(
-                        "resolve_relative_to_root", False
-                    )
+                if site.listing_url:
+                    use_playwright = site.force_playwright
+                    limit = site.listing_limit_or_default
+                    pattern = site.listing_link_pattern
+                    listing_class = site.listing_class
+                    resolve_relative_to_root = site.resolve_relative_to_root
                     listing_urls = await urls_from_listing(
-                        site["listing_url"],
+                        site.listing_url,
                         pattern,
                         limit,
                         use_playwright,
@@ -259,7 +252,7 @@ async def main_async(args: argparse.Namespace) -> None:
                         site=site,
                     )
                     print(
-                        f" | Listing {site['listing_url']} -> "
+                        f" | Listing {site.listing_url} -> "
                         f"found {len(listing_urls)} URLs",
                         end="",
                         flush=True,
@@ -284,11 +277,11 @@ async def main_async(args: argparse.Namespace) -> None:
 
                 # Log discovery to the stashed logger for the final grouped report
                 logger.log(f"\n{'─' * 50}")
-                logger.log(f"Site: {site['name']} ({site['slug']})")
-                if "feed" in site:
-                    logger.log(f"  Fetching feed: {site['feed']}")
-                if "listing_url" in site:
-                    logger.log(f"  Fetching listing: {site['listing_url']}")
+                logger.log(f"Site: {site.name} ({site.slug})")
+                if site.feed:
+                    logger.log(f"  Fetching feed: {site.feed}")
+                if site.listing_url:
+                    logger.log(f"  Fetching listing: {site.listing_url}")
                 logger.log(f"  Total URLs discovered: {len(urls)}")
 
                 for url in urls:

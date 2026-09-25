@@ -5,6 +5,7 @@ from __future__ import annotations
 import asyncio
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any
 from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
@@ -12,17 +13,19 @@ import pytest
 from src.log_helper import SiteLogger
 from src.output import output_path
 from src.pipeline import process_article
+from src.sites import SiteConfig
 from src.slugs import url_to_slug
 
 
-def make_site(**overrides: object) -> dict[str, object]:
-    """Create a minimal site config dict."""
-    return {
+def make_site(**overrides: Any) -> SiteConfig:
+    """Create a minimal site config dataclass."""
+    defaults: dict[str, Any] = {
         "slug": "test-site",
         "name": "Test Site",
         "categories": ["News"],
-        **overrides,
     }
+    defaults.update(overrides)
+    return SiteConfig(**defaults)
 
 
 @pytest.fixture
