@@ -12,6 +12,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/17/2296270754..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dallas
+- East Wing
+- Europe
+- Iran
+- Israel
+- Pacific
+- Russia
+- U.S.
+- White House
+people:
+- Donald Trump
+- JD Vance
+- Theodore Boutrous Jr.
+- Timothy Kelly
+organisations:
+- CNN
+- Independent
+- MS NOW
+- Politico
+- Republican National Committee
+- Secret Service
+- Senate
+- The Washington Post
+- Trump
+- Truth Social
+- White House Press Office
 ---
 
 In letters to CNN, MS NOW and *Politico*, the White House Press Office accused the outlets of “trafficking in verifiable falsehoods about national security” and “publishing sensitive or classified information.”

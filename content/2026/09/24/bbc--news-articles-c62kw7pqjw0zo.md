@@ -12,6 +12,18 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01cc/live/d8062300-b83e-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Enfield
+- London
+- Wood Green Crown Court
+people:
+- Mark Rowley
+- Zafer Dogan
+organisations:
+- AI
+- BBC London
+- BBC Radio London
+- Zafer Dogan
 ---
 
 ![Custody image of Zafer Dogan](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/01cc/live/d8062300-b83e-11f1-bc1f-3f186ca4140c.jpg)

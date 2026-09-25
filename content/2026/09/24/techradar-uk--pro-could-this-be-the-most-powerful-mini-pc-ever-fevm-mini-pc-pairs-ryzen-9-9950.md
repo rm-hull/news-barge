@@ -11,6 +11,20 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/8P2wrCmgfkXbG9kTYg3coc-1920-80.png
+locations: []
+people: []
+organisations:
+- AMD
+- Apple
+- FA80G
+- FEVM
+- GPU
+- M5 Ultra
+- Mac Studio
+- Metal
+- Nvidia
+- TechRadar Pro
+- Via Videocardz
 ---
 
 ![FEVM FA80G mini PC](https://cdn.mos.cms.futurecdn.net/8P2wrCmgfkXbG9kTYg3coc.png)

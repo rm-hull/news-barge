@@ -14,6 +14,32 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/63/46/1200x675_cmsv2_4f709865-5fa5-5ee5-9755-0b622b9d32ae-9926346.jpg
+locations:
+- '## Central Asia'
+- Afghanistan
+- Aral Sea
+- Central Asia
+- Europe
+- New York
+- Samarkand
+- Tashkent
+- Uzbekistan
+people:
+- '## Saida Mirziyoyeva'
+- António Guterres
+- Ben Black
+- Karan Bhatia
+- Saida Mirziyoyeva
+organisations:
+- DFC
+- General Assembly
+- Google
+- Non-Aligned Movement
+- Presidential Administration
+- UN Security Council
+- UN-backed Decade of Action for Afforestation and Forest Restoration
+- US International Development Finance Corporation
+- United Nations
 ---
 
 ## Saida Mirziyoyeva, head of Uzbekistan’s Presidential Administration, used her UN address to focus on regional cooperation, Afghanistan and reform of the organisation. She also covered domestic reforms, AI, human rights and environmental challenges.

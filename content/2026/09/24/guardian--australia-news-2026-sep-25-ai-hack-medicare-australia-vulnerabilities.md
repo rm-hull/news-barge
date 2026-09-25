@@ -13,6 +13,37 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=435f58910e5a84c536fbcac0c3f4571f
+locations:
+- Arabia
+- Australia
+- US
+people:
+- Andrew Hastie
+- Anna-Maria Arabia
+- Anthony Albanese
+- David Brat
+- Donald Trump
+- Johanna Weaver
+- Katy Gallagher
+- Mehreen Faruqi
+- Olivia Shen
+- Sam Altman
+organisations:
+- ASD
+- Australian Council on AI Strategy
+- Australian Institute of Health and Welfare
+- Australian Signals Directorate
+- Frontier AI
+- Greens
+- Guardian Australia
+- Labor
+- New South Wales Bureau of Crime Statistics and Research
+- OpenAI
+- Services Australia
+- Tech Policy Design Institute
+- US Studies Centre
+- United Nations
+- Victoria’s Department of Health
 ---
 
 Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk.

@@ -14,6 +14,21 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/18/download..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Israel
+- Jerusalem
+- Palestine
+- UK
+- US
+- West Bank
+people:
+- Benjamin Netanyahu
+- Ed Miliband
+- Gideon Saar
+organisations:
+- ODA
+- Official Development Assistance
 ---
 
 Hundreds of thousands of Palestinians will receive healthcare, clean water and protection under a new £88 million aid package announced by the UK Government.

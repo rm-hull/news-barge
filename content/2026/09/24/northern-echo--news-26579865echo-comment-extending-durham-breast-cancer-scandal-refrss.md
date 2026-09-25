@@ -12,6 +12,13 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21498701.jpg?type=og-image
+locations: []
+people:
+- Stuart Boulton
+organisations:
+- Cleveland Police
+- County Durham & Darlington NHS Trust
+- National Health Service
 ---
 
 *(Image: Stuart Boulton)*

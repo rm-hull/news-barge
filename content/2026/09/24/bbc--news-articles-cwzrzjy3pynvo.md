@@ -13,6 +13,24 @@ categories:
 - True Crime
 - History
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg
+locations:
+- Belgium
+- Dortmund
+- France
+- Hemer Stalag VI A
+- Ludwigsburg
+- Nazi Germany
+- PoW
+- Poland
+- Sachsenhausen
+- Senne
+- Serbia
+people:
+- Josef Schütz
+- Sonja Frodermann
+organisations:
+- Soviet Red Army
+- VI K
 ---
 
 ![A black and white pictured showing men in a graveyard](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/fbf1/live/cd6d8e60-b811-11f1-bc1f-3f186ca4140c.jpg)

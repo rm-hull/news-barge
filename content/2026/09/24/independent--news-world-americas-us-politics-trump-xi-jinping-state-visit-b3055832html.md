@@ -12,6 +12,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/15/download..?trim=45,0,45,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- United States
+- Washington
+- White House
+people:
+- AI
+- Donald Trump
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- Department of Justice
+- SI
+- State Visit
+- Super Intelligence
 ---
 
 President Donald Trump said he has forged a "truly great friendship" with Xi Jinping, as the Chinese president’s State Visit gets underway.

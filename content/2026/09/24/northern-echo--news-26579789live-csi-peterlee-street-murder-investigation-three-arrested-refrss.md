@@ -13,6 +13,12 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21499256.jpg?type=og-image
+locations:
+- Peterlee
+people:
+- Anna Barnes
+organisations:
+- Northern Echo
 ---
 
 * Good afternoon, welcome to this Northern Echo live breaking news blog.

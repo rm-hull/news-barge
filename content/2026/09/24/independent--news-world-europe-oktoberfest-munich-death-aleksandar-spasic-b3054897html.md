@@ -12,6 +12,18 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/23/10/43/Aleksandar-Spasic-Oktoberfest-2.jpeg?trim=114,0,7,0&width=1200&height=800&crop=1200:800
+locations:
+- Germany
+- Munich
+- Oktoberfest
+- Serbia
+people:
+- Adrijana
+- Aleksandar Spasic
+- Lazar
+- Thomas Schelshorn
+organisations:
+- CPR
 ---
 
 A security guard has died after being struck by a ride at Munich’s Oktoberfest just 10 minutes before his shift was scheduled to end.

@@ -12,6 +12,32 @@ categories:
 - UK
 - Science
 image: null
+locations:
+- Beijing
+- China
+- U.S.
+- United States
+- Washington
+- White House
+- Zoo Atlanta
+people:
+- Bao Li
+- Donald Trump
+- Fu Shuang
+- Lun Lun
+- Ping Ping
+- Qing Bao
+- Raymond B. King
+- Xi Jinping
+- Xi Lun
+- Ya Lun
+- Yang Yang
+organisations:
+- Chengdu Research Base
+- China Wildlife Conservation Association
+- Giant Panda Breeding
+- National Zoo
+- Zoo Atlanta
 ---
 
 Two giant pandas from China will arrive at Zoo Atlanta in the coming days, renewing a loan initiative that had lapsed amid diplomatic friction between Beijing and Washington.

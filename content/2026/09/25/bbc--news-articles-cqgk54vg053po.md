@@ -1,0 +1,87 @@
+---
+title: Noah Woods died after leaving park through gap in fence, inquest hears
+source_url: https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-25T13:40:48Z'
+published: '2026-09-25T00:00:00Z'
+description: Noah's mother tells parents to "hold their children a little tighter
+  and cherish every moment".
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg
+---
+
+![Three-year-old Noah Woods, with light hair and wearing a brightly coloured top, smiles at the camera.](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg)
+
+Noah's family said he was a "happy, cheeky, playful" boy
+
+**Three-year-old Noah Woods, who was found dead in a pond following a huge search in Suffolk, had left a play area "through a gap in the fence", an inquest has heard.**
+
+A major search was carried out in the village of Brantham after the toddler went missing on 15 September. His body was found the next day in nearby water by police divers.
+
+Assistant coroner Jyoti Gill said it was a "very sad and tragic death" as she opened and adjourned the inquest in Ipswich.
+
+A tribute issued by Noah's family called him a "happy, cheeky, playful" boy who loved to laugh, with his mother urging other parents to "hold their children a little tighter and cherish every moment".
+
+Suffolk Coroner's Court heard from police that Noah had left the playground, walked into a memorial garden and left that through an open gate. He then ran down a path on a new housing estate towards nearby Decoy Pond.
+
+Det Ch Insp Matt Connick from Suffolk Police told the court that CCTV showed Noah in the play area being looked after by a relative, which was "part of a normal routine".
+
+The detective said Noah "left through a gap in the fence leading to the memorial garden where he left through an open gate".
+
+After he had left the play area, he was closely followed by the relative trying to catch up with him, Connick added.
+
+The inquest heard the relative had shouted out to Noah, who lived in neighbouring East Bergholt, but he went out of sight shortly afterwards.
+
+Another man was said to have joined the search and then police were called.
+
+At the time of the search, volunteers were told that Noah was non-verbal and partially deaf.
+
+A statement from Brantham Parish Council, which maintains the play area at Merriam Close, said it was "deeply saddened by Noah's death and our thoughts remain with his family and all those affected at this extremely difficult time".
+
+"The parish council understands that there was a break in the internal fencing, being constructed to separate the play area from the memorial garden, however the whole of the area at Merriam Close, including the play area and memorial garden are completely enclosed by appropriate perimeter fencing," it said.
+
+"The council will co-operate fully with any investigation and, while inquiries are ongoing, does not consider it appropriate to comment further."
+
+## 'His little voice'
+
+The written tribute from Noah's family said he was at the centre of their world.
+
+"He was part of a loving and caring family, living with his mummy, daddy and his little baby brother," it said.
+
+"Every Tuesday since the day he was born Noah went to the park with a treasured relative. They had the most wonderful relationship, they loved playing chase together, running around, and exploring the play equipment.
+
+"Noah was being assessed for autism, although he had not received a diagnosis. He also had mild hearing loss and was speech delayed.
+
+"Despite the challenges he faced, he was learning every day. He was saying new words all the time and had only just started finding and using his little voice."
+
+Part of the tribute, from Noah's mother Charlie, said: "If there is one thing we could ask of people, it is to hold their children a little tighter, cherish every moment, and never take those precious memories for granted."
+
+You can read the full family tribute here:
+
+At least 1,300 people helped to try to find Noah in the following 24 hours.
+
+Helicopters, dog units and members of the public had been scouring the area, close to the River Stour on the Suffolk-Essex border.
+
+Divers from the Metropolitan Police went into Decoy Pond on 16 September in an area where Noah was last seen.
+
+His body was found five metres from the edge within submerged tree roots, at a depth of 1.8 metres.
+
+![Annotated Google view shows Merriam Close playground, footpath, new-build housing estate and Decoy Pond.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/877d/live/888e74d0-b1f4-11f1-b1d1-571ed4d7ff2c.jpg)
+
+Brantham is on the north bank of the River Stour estuary, beyond the railway line at the top of this picture
+
+Connick told the court that Noah's death was confirmed at 16:31 BST by paramedics and his identity was formally confirmed by his mother at Ipswich Hospital that evening.
+
+A post-mortem examination was carried out at Addenbrooke's Hospital in Cambridge, which the court was told "requires further investigation" before a final conclusion on the cause of death could be made.
+
+Noah's death was not being treated as suspicious by police.
+
+At the outset of the hearing, which was not attended by family, the coroner said: "I would like to express my deepest condolences to Noah's family and friends and all those affected by Noah's death."
+
+A date for the full inquest has not been set.
+
+**Do you have a story suggestion for Suffolk? Contact us below.**

@@ -13,6 +13,22 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/KkbpjHyeWvgDQw7MS2xvqj-2560-80.jpg
+locations: []
+people:
+- Oliver Haslam
+- Tom
+organisations:
+- Bluetooth
+- Dexerto
+- DualSense
+- Get Tom's Hardware
+- Google News
+- NFC
+- Oliver Haslam
+- PS5
+- PS6
+- PlayStation
+- Sony
 ---
 
 ![Sony PlayStation 5 controllers](https://cdn.mos.cms.futurecdn.net/KkbpjHyeWvgDQw7MS2xvqj.jpg)

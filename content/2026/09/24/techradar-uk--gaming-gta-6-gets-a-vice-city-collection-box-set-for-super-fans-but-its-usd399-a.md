@@ -13,6 +13,17 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/Pw3JFYKsxK2LHcbdxpeHoh-1920-80.jpg
+locations: []
+people:
+- Leonida
+organisations:
+- GTA
+- Goodtime State
+- Leonida Keys
+- Rockstar Games'
+- Rockstar Store
+- The Goodtime State
+- Vice City Collection
 ---
 
 ![A split image, showing a figurine, cap and box from the GTA 6 Vice City Collection box set](https://cdn.mos.cms.futurecdn.net/Pw3JFYKsxK2LHcbdxpeHoh.jpg)

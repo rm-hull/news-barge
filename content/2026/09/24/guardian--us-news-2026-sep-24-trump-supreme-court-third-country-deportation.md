@@ -14,6 +14,29 @@ categories:
 - Law & Justice
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/11cf60eec05417076890e3f035a59221bb482eab/0_0_3308_2646/master/3308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51211fc50a444ea6e898a4a12c3b9b4c
+locations:
+- Africa
+- Boston
+- Caribbean
+- Central African Republic
+- Central Asia
+- Latin America
+- Mexico
+- South Sudan
+- US
+people:
+- Donald Trump
+- James Percival
+- Todd Blanche
+organisations:
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- Human Rights First
+- Refugees International
+- Reuters
+- Supreme Court
+- Third Country Deportation Watch
 ---
 
 The Trump administration will ask the US supreme court to allow it to deport immigrants to countries other than their own, the latest effort to seek approval for a controversial policy that fulfils Donald Trump’s mass deportation agenda.

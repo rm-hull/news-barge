@@ -11,6 +11,22 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9660/live/3a490bd0-b831-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Del Somerville
+- Eastney Beach
+- Eastney Marina
+- Ferry Road
+- Portsmouth Magistrates Court
+- Portsmouth.
+people:
+- '** Del Somerville'
+- Daniel Sawyer
+- Edward Warren
+- Helen Easterbrook
+- Sommerville
+organisations:
+- Del Somerville
+- RNLI
 ---
 
 ![Del Somerville custody picture](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9660/live/3a490bd0-b831-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -11,6 +11,14 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/06/03/15/2214408292..?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Jed Meers
+organisations:
+- Administrative Fairness Lab
+- DWP
+- Department for Work and Pensions
+- The Independent
 ---
 
 Millions of benefit claimants are facing “stressful” investigations by the Department for Work and Pensions (DWP) under powers that are set to be expanded, new research has warned.

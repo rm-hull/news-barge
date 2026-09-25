@@ -14,6 +14,27 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20218460.jpg?type=og-image&xType=0&yType=45
+locations:
+- North East
+- UK
+people:
+- Andrew Husband
+- Chris Eynon
+- Kim McGuinness
+- Nick Allan
+- Paul Mackings
+- SARAH CALDECOTT
+organisations:
+- County Durham Reform
+- Durham County Council
+- Gateshead Council
+- LDRS
+- Labour
+- NORTHERN ECHO
+- North East Mayoral Strategic Authority
+- Reform UK
+- South Tyneside Council
+- Sunderland City Council
 ---
 
 The North East Mayor has been warned a tourism tax would "send visitors elsewhere" and harm jobs, as four council leaders urged her to rule out the proposal.

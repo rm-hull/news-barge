@@ -12,6 +12,26 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/22/15/23/Screenshot_20260128_144554_Instagram.jpeg?trim=75,0,627,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Broadditch Farm
+- England
+- Faversham
+- Kent
+- Ruffins Farm
+- Suffolk
+- UK
+- Us
+- Wales
+- Wonky Parsnip
+people:
+- Andrew King
+- John Harris
+- Laura Brady
+- Mr Harris
+organisations:
+- El Nino
+- Government Office for Science
 ---
 
 “Most years, I’m growing 10,000 pumpkins. This year – I’ve gotten 25,” Suffolk-based farmer Andrew King says*.*

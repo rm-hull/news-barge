@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21498036.jpg?type=og-image
+locations:
+- Parkgate
+- The Greyhound
+- The Greyhound Darlington
+people: []
+organisations:
+- CSI
+- Crimestoppers
+- Durham Constabulary
+- Durham Police
+- NORTHERN ECHO
+- North East Ambulance Service
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

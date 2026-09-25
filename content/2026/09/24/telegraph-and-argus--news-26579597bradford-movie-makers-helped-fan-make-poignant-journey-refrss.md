@@ -13,6 +13,52 @@ categories:
 - News & Politics
 - Film & TV
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498281.jpg?type=og-image
+locations:
+- Back Lane
+- Bradford
+- Cornwall
+- England
+- Hull
+- Little Horton
+- Netherlands
+- Rotterdam
+- Stanbury
+- Top Withens
+- Wales
+- Whitby
+people:
+- Andrew Cockerill
+- Colin Egglestone
+- Daphne du Maurier
+- Dave Marshall
+- Dylan Thomas
+- Harry Nicolls
+- Harry’s
+- Joe Ogden
+- John O’Groats
+- Kim Hopkins
+- Lewis Carroll
+- Margareta Szabo
+- Nanda
+- Nandy
+- Ponden Kirk
+- Ron Hoek
+- Ron’s
+- Simon Beaufoy
+- Top Withens
+organisations:
+- BRADFORD’S
+- Bradford Cine
+- Bradford Cine Circle
+- Bradford Movie Makers
+- Jacobs Well
+- Labor of Love Films
+- Movie Makers
+- Movie Makers’
+- T&A
+- The BFI Doc Society Fund
+- Top Withens
+- Video Club
 ---
 
 BRADFORD’S amateur film-making club went from obscurity to global fame when it was the subject of a multi award-winning documentary.

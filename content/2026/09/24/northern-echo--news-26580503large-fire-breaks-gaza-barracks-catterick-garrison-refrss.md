@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20718710.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Catterick Garrison
+- County Durham
+- DL1
+- Darlington
+- Gaza Barracks
+- Hipswell Road
+- North East
+- North Yorkshire
+- Richmond
+people:
+- Hipswell
+- Kevin Foster
+organisations:
+- Armed Forces
+- Colburn
+- Darlington Fire and Rescue Service
+- North Yorkshire Council
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: NEWSQUEST)*

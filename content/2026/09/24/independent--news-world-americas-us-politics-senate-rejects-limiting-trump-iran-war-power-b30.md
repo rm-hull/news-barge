@@ -10,6 +10,35 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/20/2294886032..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Iowa
+- Iran
+- Kansas
+- Kentucky
+- Louisiana
+- Maine
+- Nebraska
+- North Carolina
+- Pennsylvania
+- Sen
+people:
+- Donald Trump
+- Hakeem Jeffries
+- John Fetterman
+- John Kennedy
+- Josh Hawley
+- Lisa Murkowski
+- R-Mo.
+- Rand Paul
+- Susan Collins
+- Thom Tillis
+organisations:
+- AAA
+- Congress
+- Congressional
+- House of Representatives
+- Senate
 ---
 
 A Democratic proposal seeking to stop military action in Iran without explicit authorization from Congress was narrowly defeated by the Senate on Thursday.

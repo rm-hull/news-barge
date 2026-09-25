@@ -11,6 +11,27 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/262345f1054115efd6050b4874852b97770b7ff6/419_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d63c8a5b8e6fe758913c0e5258fc1c25
+locations:
+- America
+- Gallup
+- Louisiana
+- Maine
+- New Mexico
+- US
+- Vermont
+- White House
+people:
+- Bernie Sanders
+- Bill Cassidy
+- Donald Trump
+- Heidi Overton
+- Marty Makary
+- Susan Collins
+organisations:
+- America First Policy Institute
+- FDA
+- Senate
+- US Food and Drug Administration
 ---
 
 Dr Heidi Overton, Donald Trump’s nominee to lead the US Food and Drug Administration (FDA), has told senators the measles, mumps and rubella (MMR) vaccine is “safe and effective”, weeks after standing behind the president as he suggested the shot could be “quite lethal”.

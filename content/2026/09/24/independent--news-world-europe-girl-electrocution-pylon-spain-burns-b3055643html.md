@@ -12,6 +12,19 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/9/41/toledo-fire-rescue-f50b3f2f.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Castilla-La Mancha
+- La Paz Hospital
+- Madrid
+- Navahermosa
+- Spain
+- Toledo
+people: []
+organisations:
+- Civil Guard
+- ICU
+- La Voz de Galicia
+- Toledo Provincial Firefighting and Rescue Consortium
 ---
 
 A 12-year-old girl was hospitalised with severe electrical burns after climbing a pylon in Spain, reportedly to take pictures to post online.

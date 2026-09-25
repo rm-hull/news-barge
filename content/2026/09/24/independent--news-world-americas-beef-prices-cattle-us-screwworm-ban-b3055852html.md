@@ -12,6 +12,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/15/27/GettyImages-1154000196.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Columbus
+- Douglas
+- New Mexico
+- New World
+- Santa Teresa
+- Texas
+- US
+- US-Mexico
+- United States
+people:
+- Donald Trump
+- Jeff Stolle
+- Jeff Witte
+- Samantha Holeck
+- Thomas Lansford
+organisations:
+- Nebraska Cattlemen
+- US Department of Agriculture
+- USDA
 ---
 
 The main livestock inspection entry point on the US-Mexico border will reopen on Thursday, expanding domestic cattle supplies but failing to deliver an immediate drop in record-high beef prices, according to government and industry officials.

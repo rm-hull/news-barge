@@ -15,6 +15,31 @@ categories:
 - True Crime
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/67/74/1200x675_cmsv2_3846ba48-c685-5fee-98ab-43f9f234eec1-9926774.jpg
+locations:
+- Baqueira
+- Barcelona
+- Juanpere
+- Lleida
+- Madrid
+- Montserrat
+- Spain
+- Val d'Aran
+- Vielha
+people:
+- '## Juanpere'
+- Antonio Puig
+- Baqueira
+- Isak Andic
+- Jonathan Andic
+- Josep Juanpere
+- Josep Juanpere i Miret
+- Mango**
+organisations:
+- El Confidencial
+- El Mundo
+- GCA Architects**
+- Juanpere
+- Mango
 ---
 
 ## Nine months after the Baqueira death of Catalan architect Josep Juanpere, police arrest his partner; his nephew who found the body is in a coma and autopsy found no violence.

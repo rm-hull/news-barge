@@ -15,6 +15,22 @@ categories:
 - Comedy & Entertainment
 - Music
 image: https://www.thenorthernecho.co.uk/resources/images/21495888.jpg?type=og-image&xType=0&yType=0
+locations:
+- St James’ Park
+- St James’ Stack
+people:
+- Chelsea Morton
+- Claire James
+- Matthew Bailey
+- Ms Morton
+- Read More
+organisations:
+- BBC
+- NUFC
+- Newcastle United
+- Stack
+- Wor Flags
+- Wor Flags’
 ---
 
 *(Image: Stack)*

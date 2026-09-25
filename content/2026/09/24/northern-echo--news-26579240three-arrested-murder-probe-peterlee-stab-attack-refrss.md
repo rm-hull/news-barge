@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21498338.jpg?type=og-image
+locations:
+- County Durham
+- Peterlee
+- Thames Road
+people: []
+organisations:
+- Crimestoppers
+- Durham Constabulary
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO)*

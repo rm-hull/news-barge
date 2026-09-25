@@ -13,6 +13,18 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/24/19/Death_Row_Retrial_Utah_66541.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Provo
+- U.S.
+- Utah County
+people:
+- Douglas Stewart Carter
+- Eva Olesen
+- Jeffrey Gray
+- Neal Hamilton
+- Orla Olesen
+organisations:
+- Supreme Court
 ---
 
 Prosecutors are dropping their plan to seek the death penalty in an upcoming retrial of a Utah man who spent decades on death row for a 1985 killing in which newly analyzed DNA evidence did not match him.

@@ -12,6 +12,17 @@ description: Something isn't right in Central Park and Division 2 agents are goi
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/B5GJxFh2P8xPt2Pnvekpsb-1920-80.jpg
+locations:
+- Brooklyn
+- Central Park
+- New York City
+- Upper West Side
+people:
+- Tom Clancy
+organisations:
+- Central Park DLC
+- The Division
+- Ubisoft
 ---
 
 ![A two-way split image of screenshots and artwork from the upcoming Division 2 DLC, Echoes of Central Park](https://cdn.mos.cms.futurecdn.net/B5GJxFh2P8xPt2Pnvekpsb.jpg)

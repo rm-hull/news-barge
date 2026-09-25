@@ -12,6 +12,24 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/CwsGNxWTerBDa2nPRfRd99-1920-80.jpg
+locations:
+- Australia
+- France
+people:
+- Glass
+- Meta
+- Oliver
+- Zuckerberg
+organisations:
+- '## Meta'
+- AI
+- CBS
+- Google Glass
+- Meta Connect
+- Ray-Ban Meta
+- Ray-Ban Meta Audio
+- University of Sydney
+- Wired
 ---
 
 ![Split image of Google Glass and Meta Ray Ban Audio.](https://cdn.mos.cms.futurecdn.net/CwsGNxWTerBDa2nPRfRd99.jpg)

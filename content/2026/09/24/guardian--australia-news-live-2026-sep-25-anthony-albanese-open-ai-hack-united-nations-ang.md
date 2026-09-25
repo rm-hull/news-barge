@@ -12,6 +12,52 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1473f893d81bbf0c739cd8d5f138833a
+locations:
+- Australia
+- Gibbons Street
+- NSW
+- New York
+- New York City
+- NurPhoto
+- Redfern
+- Royal Prince Alfred
+- Sunrise
+- Sydney
+- UK
+- US
+people:
+- Amy Peacock
+- Andrew Charlton
+- Anthony Albanese
+- Catie McLeod
+- Claire Corby
+- James Paterson
+- Jane Hume
+- KellieSloane
+- Kevin Rudd
+- Lukas Coch
+- Matt Hunt
+- Mick Tsikas
+organisations:
+- AAP
+- ABC
+- AI
+- Asia Society
+- Australian Signals Directorate
+- Capital Buyers Agency
+- ChrisMinns
+- Cotality
+- EPA Charlton
+- Lukas Coch/AAP
+- National Drug and Alcohol Research Centre
+- Nsw Police
+- OpenAI
+- RN Breakfast
+- Services Australia
+- Shutterstock A
+- Trump
+- UN
+- University of NSW Sydney
 ---
 
 Shadow defence minister, James Paterson, said he believed Anthony Albanese had chosen to make the announcement at the UN summit in New York as part of his effort to stand up to ‘big tech’ on AI. Photograph: Lukas Coch/AAP

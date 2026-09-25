@@ -12,6 +12,39 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/68/18/1200x675_cmsv2_ee5b14b9-4ed9-5510-905f-4b38933f5492-9926818.jpg
+locations:
+- Agri
+- Christianshavn
+- Copenhagen
+- Europe
+- France
+- Gandzasar Monastery
+- Greenland
+- Gurbulak
+- Kyiv
+- Laem Chabang
+- Lisbon
+- Mexico
+- Poza Rica
+- Riyadh
+- Saudi Arabia
+- Strasbourg
+- Turkey
+- US
+- Vangli
+- Veracruz
+people:
+- Abraham Lincoln
+- Andrius Kubilius
+- Kamal Amakrane
+- Katherina Reiche
+- Osama Rizvi
+- Putin
+organisations:
+- Chloé Ridel
+- EU
+- Euronews
+- US Navy
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

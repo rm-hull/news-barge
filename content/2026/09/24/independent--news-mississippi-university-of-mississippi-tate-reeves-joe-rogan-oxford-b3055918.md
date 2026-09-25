@@ -13,6 +13,38 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/24/17/Kratom_Student_Deaths__4962.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Connecticut
+- Hartford
+- Kratom
+- Lafayette County
+- Mississippi
+- North Dakota
+- Oxford
+- Southeast Asia
+- U.S.
+people:
+- Cindy Crawford
+- Dave Collins
+- Joe Rogan
+- Kelly Armstrong
+- Mac Haddow
+- Mallory Pullman
+- Presley Gerber
+- Sean McCabe
+- Tate Reeves
+organisations:
+- American Kratom Association
+- FDA
+- Lafayette County Metro Narcotics
+- Mississippi Poison Control
+- Texas State University
+- The Associated Press
+- U.S. Food and Drug Administration
+- University of Michigan
+- University of Michigan News
+- University of Mississippi
+- \_\_\_ Associated Press
 ---
 
 A drug task force in Mississippi is urging people to avoid kratom after authorities found packages of the substance while investigating the deaths of two University of Mississippi students.

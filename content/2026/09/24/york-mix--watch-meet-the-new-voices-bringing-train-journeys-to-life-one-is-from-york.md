@@ -11,6 +11,25 @@ categories:
 - York
 - Arts & Culture
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Dan_Burn_by_Jonny_Walton_3-scaled.jpg
+locations:
+- Cleethorpes
+- Glasgow
+- North of England
+- Northallerton
+- Scotland
+- Selby
+- Thirsk
+- York
+people:
+- Andrew McClements
+- Daniel Burn
+- Grant Rodden
+- Sophie Howse
+organisations:
+- Daniel
+- PA
+- TPE
+- TransPennine Express
 ---
 
 Passengers travelling with TransPennine Express (TPE) in York, Thirsk, Selby and Northallerton, are set to hear a new sound on board, as three colleagues’ step into the spotlight as the voices on the train PA systems.

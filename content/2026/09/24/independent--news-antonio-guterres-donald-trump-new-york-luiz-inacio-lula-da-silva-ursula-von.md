@@ -14,6 +14,48 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/21/UN_General_Assembly_44927.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Amazon
+- Bahamas
+- Bangladesh
+- Brazil
+- Cape Verde
+- Europe
+- Fiji
+- Ghana
+- Global South
+- Himalayas
+- Japan
+- Nepal
+- Pacific
+- South Korea
+- U.S.
+- West Africa
+people:
+- Antonio Guterres
+- Cabo Verde
+- Donald Trump
+- Francisco Carvalho
+- John Dramani Mahama
+- Lee Jae Myung
+- Luiz Inácio Lula da Silva
+- Naiqama Lalabalavu
+- Philip Davis
+- Sanae Takaichi
+- Shisir Khanal
+- Tarique Rahman
+- Ursula von der Leyen
+- \_\_\_
+organisations:
+- AP
+- Associated Press’
+- European Commission
+- G20
+- G7
+- General Assembly
+- Lalabalavu
+- U.N.
+- World Weather Attribution
 ---
 
 U.N. Secretary-General Antonio Guterres said the world cannot “allow countries and cultures to vanish beneath the waves” on Thursday as the General Assembly approved its first declaration on sea-level rise.

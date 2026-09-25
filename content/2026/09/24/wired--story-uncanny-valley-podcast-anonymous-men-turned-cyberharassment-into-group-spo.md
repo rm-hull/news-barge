@@ -13,6 +13,41 @@ categories:
 - Science
 - Sports
 image: https://media.wired.com/photos/6ab454752f4fc19ebd23c7b2/191:100/w_1280,c_limit/Uncanny-Valley-Burnerverse.jpg
+locations:
+- Bluesky
+- Gainesville
+- Uncanny Valley
+people:
+- Adriana Tapia
+- Bluesky
+- Daniel Roman
+- EJ Dickson
+- Kate Osborn
+- Katie Drummond
+- Kowalskis
+- Maddie Kowalski
+- Maddie Kowalski**:* I
+- Mary Kate Cornett
+- Matt Giles
+- Ole Miss
+- Pat McAfee
+- Theta Chi
+- Yik Yak
+- Zoë Schiffer
+organisations:
+- Barstool Sports
+- EJ
+- Elon Musk
+- FSU
+- Gainesville Police Department
+- Instagram
+- MaddieKowalski
+- Spotify
+- Theta Chi
+- Twitter
+- UF
+- University of Florida
+- WIRED
 ---
 
 Last year, Maddie Kowalski was a regular sophomore attending the University of Florida. Then a series of burner accounts on X started proliferating explicit, nonconsensual videos of her. This week, Zoë Schiffer sits down with WIRED senior writer EJ Dickson to discuss the burnerverse, a sprawling, loosely organized network of anonymous accounts that have turned the sexual humiliation of young women into an online participatory sport.

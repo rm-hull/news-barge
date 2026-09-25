@@ -13,6 +13,25 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/24/18/Elder_Abuse_Prevention_Audit_27771.jpg?width=1200&height=800&crop=1200:800
+locations:
+- CAPE
+- Cambria
+- Pennsylvania
+- R.
+people:
+- Jason Kavulich
+- Josh Shapiro
+- Rosie Lapowsky
+- Tim DeFoor
+- Wayne Langerholc Jr
+organisations:
+- Area Agencies on Aging
+- CAPE
+- Department of Aging
+- Office of State Inspector General
+- Pennsylvania Department of Aging
+- Spotlight PA
+- The Associated Press
 ---
 
 The Pennsylvania Department of Aging’s oversight of local agencies charged with preventing elder abuse is riddled with weaknesses and deficiencies that could leave vulnerable older adults at further risk of harm, according to a stinging audit released Wednesday by the state’s top fiscal watchdog.

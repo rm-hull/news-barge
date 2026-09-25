@@ -14,6 +14,21 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/16/APTOPIX_Israel_Palestinians_Gaza_56923.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Israel
+people:
+- Jodie Ginsberg
+- Julie Pace
+- Mariam Dagga
+organisations:
+- AP
+- CPJ
+- Committee to Protect Journalists
+- Hamas
+- Health Ministry
+- The Associated Press
+- U.N.
 ---
 
 The Committee to Protect Journalists said Thursday that 19 Palestinians killed by Israeli fire who it had previously identified as journalists or media workers were actually militants or participants in combat. After a review of its tally, it says Israeli forces have killed 191 Palestinian journalists and media workers since the start of the war in Gaza.

@@ -14,6 +14,25 @@ categories:
 - Society & Culture
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/17/09/HS_tMK7WwAAK6Zn-(1).jpeg?trim=0,53,0,53&width=1200&height=800&crop=1200:800
+locations:
+- Butler
+- Pennsylvania
+people:
+- Butler
+- Corey Comperatore
+- David Dutch
+- Donald Trump
+- Jim Copenhaver
+- Ken Silva
+- Thomas Matthew Crooks
+organisations:
+- Fox News
+- Government Accountability Office
+- Great Patriots
+- House
+- Secret Service
+- Senate
+- Trump
 ---
 
 A man who was wounded during the assassination attempt on Donald Trump in Butler, Pennsylvania, in 2024 has died, lawmakers said.

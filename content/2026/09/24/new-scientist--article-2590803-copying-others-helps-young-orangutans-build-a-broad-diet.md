@@ -13,6 +13,18 @@ categories:
 - Technology & Software
 - Self-Improvement
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313824482.jpg
+locations:
+- Germany
+- Indonesia
+- North Carolina
+- Suaq Balimbing
+people:
+- Elizabeth Lonsdorf
+- Michael Tomasello
+- Revathe Thillaikumar
+organisations:
+- Duke University
+- Max Planck Institute of Animal Behavior
 ---
 
 ![A Sumatran orangutan mother uses a stick tool to extract honey from a large tree hole](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313824482.jpg?w=840)

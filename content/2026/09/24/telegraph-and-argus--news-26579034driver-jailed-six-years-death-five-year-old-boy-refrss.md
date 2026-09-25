@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497581.jpg?type=og-image&xType=0&yType=541
+locations:
+- Back Camberley Street
+- Knottingley
+- Leeds Crown Court
+- Pear Tree Grove
+- West Yorkshire
+people:
+- '### Mother'
+- Abdullah Ebrahim
+- Colin Agyei
+- Salma Begum
+- Steve Suggitt
+organisations:
+- Major Collision Enquiry Team
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

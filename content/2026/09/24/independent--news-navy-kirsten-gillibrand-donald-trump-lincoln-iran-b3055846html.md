@@ -15,6 +15,30 @@ categories:
 - Business & Entrepreneurship
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/02/12/APTOPIX_Thailand_US_Carrier_536_7.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Abraham Lincoln
+- California
+- Iran
+- Middle East
+- New York
+- San Diego
+- Sen
+- Strait of Hormuz
+- Thailand
+- U.S.
+people:
+- Dan Keeler
+- Donald Trump
+- Hung Cao
+- Kirsten Gillibrand
+- Lincoln
+- Pete Hegseth
+organisations:
+- CNN
+- LINCOLN
+- Navy
+- Sailors
+- The Associated Press
 ---
 
 Eight sailors attempted suicide while deployed with the USS Abraham Lincoln aircraft carrier strike group, which spent a record-setting uninterrupted time at sea supporting the Iran war, the Navy's top civilian leader said this week.

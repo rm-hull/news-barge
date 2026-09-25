@@ -14,6 +14,13 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498209.jpg?type=og-image&xType=0&yType=133
+locations:
+- Bradford
+- LiveChat
+- West Yorkshire
+people:
+- Qamari
+organisations: []
 ---
 
 *(Image: West Yorkshire Police)*

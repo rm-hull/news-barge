@@ -14,6 +14,22 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/11/12/17/iStock-2197234829-f415fbc0.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Michigan
+people:
+- Dave Mazurkiewicz
+- Luke Chalker
+- Shiv Rao
+organisations:
+- AI
+- Abridge
+- Amber Nigam
+- Basys.ai
+- Blue Cross
+- Blue Cross Blue Shield Association
+- McLaren Health Care
+- New York Times
+- The New York Times
 ---
 
 Hospitals and health insurance companies' use of AI may be driving Americans' healthcare costs up by nearly a billion dollars, according to a new report.

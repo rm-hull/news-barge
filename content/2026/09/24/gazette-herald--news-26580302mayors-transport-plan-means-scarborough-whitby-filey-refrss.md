@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21499387.jpg?type=og-image
+locations:
+- Filey
+- North Yorkshire
+- Scarborough
+- Whitby
+- York
+people:
+- David Skaith
+organisations:
+- A64
+- Combined Authority
+- Local Transport Plan
+- North Yorkshire
+- Scarborough Indoor Market
+- Whitby Market
 ---
 
 Coastal towns such as Scarborough, Whitby and Filey have been earmarked as places receiving less support from transport investment as residents are being invited to have their say.

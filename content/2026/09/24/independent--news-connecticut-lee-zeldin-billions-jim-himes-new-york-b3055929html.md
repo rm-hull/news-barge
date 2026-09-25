@@ -13,6 +13,42 @@ categories:
 - Technology & Software
 - Music
 image: https://static.independent.co.uk/2026/09/24/17/Long_Island_Sound_Water_Quality_169_6.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Connecticut
+- D-4th District
+- Darien
+- Fairfield County
+- Long Island
+- Long Island Sound
+- New York
+- New York City
+- Stamford
+- U.S.
+- Weed Beach
+- Westchester County
+people:
+- Bill Flood
+- Bill Lucey
+- Jim Himes
+- Lee Zeldin
+- Peter Linderoth
+organisations:
+- Clean Water Fund
+- Connecticut Department of Energy and Environmental Protection
+- DEEP
+- EPA
+- General Permit for Nitrogen Discharges
+- Interstate Environmental Commission
+- Long Island Sound
+- Long Island Sound Partnership
+- Long Island Sound Program
+- New York City Department of Environmental Protection
+- Save the Sound
+- The Associated Press
+- The Connecticut Mirror
+- Trump
+- U.S. Environmental Protection Agency
+- Unified Water Study
 ---
 
 Billions of dollars spent on wastewater treatment and other infrastructure upgrades in Connecticut and New York have resulted in apparent improvements in Long Island Sound’s water quality, according to a report from the ecological nonprofit Save the Sound.

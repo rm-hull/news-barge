@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/66/73/1200x675_cmsv2_8597f902-b1c8-5819-a82f-8d638315f37d-9926673.jpg
+locations:
+- Berlin
+- France
+- Frankfurt
+- Germany
+- Italy
+- Madrid
+- Spain
+people:
+- Christine Lagarde
+- Florens Odendahl
+- Giulia Sestrieri
+- Joachim Nagel
+- Klodiana Istrefi
+organisations:
+- Deutsche Bundesbank
+- ECB
+- European Central Bank
+- Executive Board
+- Governing Council
 ---
 
 ## Markets react not only to ECB policy decisions but also to policymaker speeches and interviews, whose cumulative impact can rival formal announcements, new research finds.

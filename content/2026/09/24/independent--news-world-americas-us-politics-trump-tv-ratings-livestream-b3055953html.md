@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/17/35/GettyImages-2268828809.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- California
+- North Korea
+- United States
+- White House
+people:
+- Dean Withers
+- Donald Trump
+- Gavin Newsom
+organisations:
+- CNN
+- MSNOW
+- Media Outlets
+- Politico
+- State Ran Television
+- Trump Administration
+- Trump TV
+- Truth Social
+- United States of America
+- University of Alabama
 ---
 
 Ratings are so low on President Donald Trump’s new livestream that more people are tuning into YouTube to watch a blank screen with the sound of a running box fan.

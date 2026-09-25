@@ -12,6 +12,26 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21133041.jpg?type=og-image
+locations:
+- Linton
+- North Yorkshire
+- RAF Linton-on-Ouse
+- York
+people:
+- Catherine Clarke
+- David Skaith
+- Jo Coles
+- Ms Coles
+- Shabana Mahmood
+organisations:
+- CCTV
+- Government
+- Home Office
+- Home Secretary
+- Local Resilience Forum
+- National Police Public Order Coordination Centre
+- North Yorkshire Police
+- PA)* Police
 ---
 
 *(Image: PA)*

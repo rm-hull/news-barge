@@ -13,6 +13,29 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/24/15/2128601538..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Boston
+- Chesapeake Bay
+- Connecticut
+- East Coast
+- Gulf Stream
+- Long Island
+- Maine
+- Massachusetts
+- New Hampshire
+- New Jersey
+- New York
+- North Carolina
+- Outer Banks
+- Rhode Island
+- Virginia
+- mid-Atlantic
+people:
+- Jon Porter
+organisations:
+- AccuWeather
+- Southeastern New England
+- The Weather Channel
 ---
 
 A nor’easter is set to slam the East Coast over the weekend, dumping heavy rain and unleashing hurricane-force winds on residents living in North Carolina all the way up to Maine.

@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21261934.jpg?type=og-image
+locations:
+- England
+- Filey
+- North Yorkshire
+people:
+- Carl Les
+- Chris Hall
+- Daniel Harry
+organisations:
+- '![]()House Building'
+- LDRS
+- Local Democracy Reporting Service
+- Local Government Ombudsman
+- NYC
+- North Yorkshire Council
+- SHOUT Filey
+- Second Homeowners Opposed to Unfair Taxation
+- Second Homes Council Tax Housing Fund
 ---
 
 ## Campaign group plans Ombudsman complaint over second-home tax

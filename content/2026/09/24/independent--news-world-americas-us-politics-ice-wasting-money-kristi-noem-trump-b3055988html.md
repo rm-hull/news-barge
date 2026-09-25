@@ -14,6 +14,28 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/01/19/2287296637..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Cuba
+- Florida
+- Guantanamo Bay
+- Guantánamo Bay
+- Maryland
+- Sanderson
+- White House
+people:
+- Donald Trump
+- Kristi Noem
+organisations:
+- Bureau of Prisons
+- Congress
+- DHS
+- Department of Defense
+- Department of Homeland Security
+- Federal Emergency Management Agency
+- GAO
+- ICE
+- U.S. Government Accountability Office
 ---
 
 ICE and other federal agencies have squandered tens of millions of dollars pursuing ill-conceived plans to rapidly expand detention capacity, with ongoing mismanagement likely to drive costs even higher, congressional investigators warned on Thursday.

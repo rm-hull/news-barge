@@ -13,6 +13,36 @@ categories:
 - UK
 - Self-Improvement
 image: null
+locations:
+- California
+- Citrus Heights
+- Elk Grove
+- Fairfield
+- Folsom
+- LA County
+- Los Angeles
+- Rancho Cordova
+- Sacramento County
+- Sen
+- Solano County
+- Vallejo
+people:
+- Angelique Ashby
+- Darrell Steinberg
+- Doriss Panduro
+- Gavin Newsom
+- Joe Colletti
+- Patrick Kennedy
+- Vallejo
+organisations:
+- CalMatters
+- California Legislature
+- HUB for Urban Initiatives
+- LA
+- Los Angeles Homeless Services Authority
+- Senate
+- The Associated Press
+- Trump
 ---
 
 The Legislature is forcing the city and county of Sacramento to try something unusual in their fight against homelessness, and both critics and supporters of the controversial plan say it could have broad implications for the rest of the state.

@@ -13,6 +13,37 @@ categories:
 - True Crime
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69cb/live/590dcc50-b835-11f1-b4bc-39c67eb36497.png
+locations:
+- Canada
+- Croatia
+- Italy
+- KL
+- Ontario
+- Southampton
+- UK
+- US
+people:
+- Adele Zeynep Walton
+- Aimee Louise Elif Walton
+- Aimee Walton
+- Chimma
+- Danielle Cornish
+- Debbie Cornish
+- Elisabeth Belien
+- Faith George
+- Faith Ike-Elechi
+- Gary Cooper
+- Kenneth Law
+- Maureen Cooper
+- Maurice Dunham
+- Michael Dunham
+- Paul
+- Samuel Whitaker
+- Tanya Whitaker
+- Yeanu Mistry
+organisations:
+- KL
+- University of Warwick
 ---
 
 ![Danielle is shown smiling and wearing a beanie hat in a crowd. Her hair is ginger coloured and she is looking at the camera with her brown eyes.](https://ichef.bbci.co.uk/ace/standard/528/cpsprodpb/69cb/live/590dcc50-b835-11f1-b4bc-39c67eb36497.png)

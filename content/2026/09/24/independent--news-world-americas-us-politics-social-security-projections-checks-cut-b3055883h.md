@@ -14,6 +14,27 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/11/2295988672..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Alan Armstrong
+- Angus King
+- Bill Cassidy
+- Dick Durbin
+- John Cornyn
+- Nancy Altman
+- Thom Tillis
+- Tim Kaine
+organisations:
+- Congress
+- Congressional Budget Office
+- House Ways and Means Committee
+- MarketWatch
+- SSAB
+- Senate Finance Committee
+- Social Security
+- Social Security Advisory Board
+- Social Security Works
+- The Washington Examiner
 ---
 
 Those who do – or soon will – rely on Social Security may find their checks lighter by up to $540 come 2032.

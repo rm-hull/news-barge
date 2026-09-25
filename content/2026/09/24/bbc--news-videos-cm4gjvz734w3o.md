@@ -13,6 +13,16 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5549/live/db8fa170-b84a-11f1-a430-4d16ee157c41.jpg
+locations:
+- Madrid
+- Retiro
+- Spain
+people:
+- Guy Hedgecoe
+- Maricarman
+organisations:
+- BBC
+- Urbagestión
 ---
 
 # Spain's housing crisis in focus after eviction of 87-year-old woman

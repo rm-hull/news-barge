@@ -11,6 +11,33 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/21/download.-2.?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- Alaska
+- Indiana
+- Louisiana
+- Maine
+- Sen
+- Washington
+- White House
+people:
+- Bill Cassidy
+- Donald Trump
+- Heidi Overton
+- Jim Banks
+- Lisa Murkowski
+- Marty Makary
+- Patty Murray
+- Robert F. Kennedy Jr.
+- Susan Collins
+organisations:
+- America First Policy Institute
+- FDA
+- Food and Drug Administration
+- Johns Hopkins University
+- Oval Office
+- Overton
+- Senate Health Committee
+- University of New Mexico
 ---
 
 Appearing before lawmakers on Thursday, President Donald Trump’s nominee to head the Food and Drug Administration defended the safety of established immunizations, even as senators pressed her on White House attempts to alter routine childhood vaccination schedules.

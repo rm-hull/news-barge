@@ -13,6 +13,24 @@ categories:
 - Sports
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/14/10/01KZZTND0VZZ3D2HGM42KR2JHW.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+people:
+- Daniel Kebede
+- Lucy Powell
+organisations:
+- Association of School and College Leaders
+- Department for Education
+- DfE
+- Government
+- IFS
+- Institute for Fiscal Studies
+- NAHT
+- NASUWT
+- NEU
+- National Education Union
+- Teachers’ Pension
+- Treasury
 ---
 
 Plans to launch a formal ballot for strike action over teacher pay have been paused by the country’s largest education union.

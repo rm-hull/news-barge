@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497761.jpg?type=og-image
+locations:
+- Bradford
+- Greengates
+- HMP Leeds
+- Rimswell Holt
+- West Yorkshire
+people:
+- Barrie Hartley
+- Christopher Smith
+- Michael Morley
+organisations:
+- Bradford Crown Court
 ---
 
 *(Image: West Yorkshire Police)*

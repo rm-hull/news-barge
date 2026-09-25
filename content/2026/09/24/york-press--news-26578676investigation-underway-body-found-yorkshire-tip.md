@@ -12,6 +12,19 @@ categories:
 - York
 - True Crime
 image: https://www.yorkpress.co.uk/resources/images/18478627.jpg?type=og-image&xType=0&yType=17
+locations:
+- Burnby
+- Driffield
+- East Yorkshire
+- Market Weighton
+- Pocklington Household Waste Recycling Centre
+- Pocklington Lane
+people: []
+organisations:
+- Crimestoppers
+- East Riding of Yorkshire Council
+- Humberside Police
+- Pocklington Household Waste Recycling Site
 ---
 
 *(Image: East Riding of Yorkshire Council)*

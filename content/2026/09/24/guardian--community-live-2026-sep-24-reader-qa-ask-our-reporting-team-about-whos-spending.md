@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/1f3cb3b8df007f15b6a3aa54e8f5638c828943b9/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2030b983a2d80fe0e434743b0c2e4ad6
+locations:
+- Community Presbyterian Church
+- Merrick
+- New York
+- US
+people:
+- Chris Stein
+- Dara Kerr**
+- Joseph Gedeon
+organisations:
+- Aipac
+- Congress
 ---
 
 Welcome to our second live Q&A about the upcoming midterm elections. Today, our reporters will be joining us to answer your questions about who is funding the campaigns, where the money is going and how it’s shaping the election outlook ahead of the votes on 3 November.

@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/cd189393c252079a4f645c4b72f0b3416c2c4530/614_0_6149_4921/master/6149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=837a193fbf18eb1bece46100bf49d404
+locations:
+- Brooklyn
+- New York City
+- Park avenue
+- Upper East Side
+people: []
+organisations:
+- NYPD
+- UN General Assembly
+- United Nations
 ---
 
 Three unidentified people were seen emerging from a manhole in New York City’s Upper East Side neighborhood early Wednesday before fleeing the area, police said, in an incident that comes as many world leaders have gathered in the city for the United Nations general assembly.

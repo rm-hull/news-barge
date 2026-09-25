@@ -13,6 +13,21 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/24/20/52/Screenshot-2026-09-24-at-4-38-32-PM.jpg?trim=0,47,0,46&width=1200&height=800&crop=1200:800
+locations:
+- Florida
+- Fort Lauderdale
+- New Jersey
+- River Vale
+people:
+- Dina DeMayo
+- Frank Guzman
+- Mike
+organisations:
+- Fort Lauderdale Fire Rescue
+- Miami Herald
+- The Independent
+- WABC
+- WSVN
 ---
 
 A second crane has toppled onto a home in Florida while fire crews tried to use it to remove a first fallen crane.

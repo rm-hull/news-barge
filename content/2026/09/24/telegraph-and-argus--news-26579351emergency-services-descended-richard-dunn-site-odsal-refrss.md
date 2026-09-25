@@ -14,6 +14,23 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498393.jpg?type=og-image
+locations:
+- Bradford
+- Margaret McMillan Towers
+- Odsal
+- Richard Dunn Sports Centre
+- Richard Dunns
+- Spen Valley
+- St John Ambulance
+people:
+- Richard Dunns
+organisations:
+- Bradford College
+- Grenfell Tower
+- Newsquest
+- Technical Rescue Team
+- West Yorkshire Fire Authority
+- West Yorkshire Fire Service
 ---
 
 A major emergency services presence at the Richard Dunn Sports Centre caught attention across south Bradford today.

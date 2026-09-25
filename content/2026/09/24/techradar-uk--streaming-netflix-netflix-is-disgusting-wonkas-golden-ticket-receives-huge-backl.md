@@ -12,6 +12,17 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/idm5zjSwaTG5EYGM7q8TjZ-1920-80.jpg
+locations: []
+people:
+- AI Gene Wilder
+- Gene Wilder
+- Willy Wonka
+organisations:
+- AI
+- Netflix
+- Reddit
+- The Guardian
+- Variety
 ---
 
 ![An image of Gene Wilder as Willy Wonka next to the promo for Netflix&#039;s Wonka&#039;s Golden Ticket ](https://cdn.mos.cms.futurecdn.net/idm5zjSwaTG5EYGM7q8TjZ.jpg)

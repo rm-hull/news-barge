@@ -15,6 +15,22 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21261934.jpg?type=og-image
+locations:
+- England
+- Filey
+- North Yorkshire
+people:
+- Carl Les
+organisations:
+- '![]()House Building'
+- LDRS
+- Local Democracy Reporting Service
+- Local Government Ombudsman
+- NYC
+- North Yorkshire Council
+- SHOUT Filey
+- Second Homeowners Opposed to Unfair Taxation
+- Second Homes Council Tax Housing Fund
 ---
 
 A campaign group opposed to ‘unfair tax’ has accused North Yorkshire Council of ‘maladministration’ over the introduction of a 100 per cent second homes levy.

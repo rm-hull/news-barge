@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-320-80.jpg
+locations: []
+people:
+- Hollyland Lark
+organisations:
+- Amazon
+- Get Tom's Hardware
+- HyperX
+- Logitech
+- QuadCast
+- Razer
+- USB-C
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-320-80.jpg)

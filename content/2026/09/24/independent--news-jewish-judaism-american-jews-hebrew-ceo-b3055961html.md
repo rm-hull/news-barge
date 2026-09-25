@@ -15,6 +15,49 @@ categories:
 - Health & Fitness
 - Self-Improvement
 image: https://static.independent.co.uk/2026/09/24/18/Jewish_Mindfulness_96649.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brooklyn
+- Cambridge
+- Hasidism
+- Massachusetts
+- Montclair
+- New Jersey
+- New York
+- North America
+- North Raleigh
+- Philadelphia
+- San Francisco
+- Silicon Valley
+- Yom Kippur
+people:
+- Angela Buchdahl
+- Bnai Keshet
+- Candy Gunther Brown
+- Elliott Tepperman
+- God
+- Harris Sokoloff
+- Jenny Solomon
+- Jon Kabat-Zinn
+- Josh Feigelson
+- Rebecca Schisler
+- Richard Jaffe
+- Rick Jacobs
+- Shevet
+- \_\_\_ Beth Meyer
+organisations:
+- AP
+- Beth Meyer Synagogue
+- Central Synagogue
+- Duke University
+- IJS
+- Indiana University Bloomington
+- Institute for Jewish Spirituality
+- RNS
+- Reconstructing Judaism
+- Religion News Service
+- Templeton Religion Trust
+- The Associated Press
+- Union for Reform Judaism
 ---
 
 At an afternoon class on spiritual ethics this week, Rabbi Jenny Solomon began, as she always does, with a few minutes of guided mindfulness meditation.

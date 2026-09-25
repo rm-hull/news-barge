@@ -13,6 +13,17 @@ categories:
 - True Crime
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Jarosław
+- Poland
+- Russia
+- Ukraine
+people:
+- Donald Tusk
+- Karol Nawrocki
+- Marcin Kierwiński
+- Volodymyr Zelensky
+organisations: []
 ---
 
 ![A police officer stands guard near the site of a knife attack on the grounds of a Catholic abbey in Jarosław, south-eastern Poland. Photo: 24 September 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg)

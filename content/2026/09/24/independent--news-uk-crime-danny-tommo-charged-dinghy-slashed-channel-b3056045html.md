@@ -12,6 +12,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/21/16/40/danny-tommo-boat.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Basingstoke Magistrates’ Court
+- Dover
+- France
+- Gosport
+- Hampshire
+- Kent
+- UK
+people:
+- Chris Derrick
+- Daniel Thomas
+- Danny Tommo
+- Lucy Powell
+- Shabana Mahmood
+organisations:
+- Border Security Command
+- Crown Prosecution Service
+- English Channel
+- Hampshire Constabulary
+- Home Office
+- PIN
+- The Independent
+- Union
 ---
 
 A man has been charged in connection with an incident that took place in the English Channel earlier this week.

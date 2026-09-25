@@ -12,6 +12,18 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313806661.jpg
+locations:
+- China
+- Switzerland
+- UK
+people:
+- Chengsong Yu
+- Conor Walsh
+- Olivier Lambercy
+organisations:
+- ETH Zurich
+- Harvard University
+- Wuhan Institute of Technology
 ---
 
 ![Someone wearing the backpack while lifting dumbbells and recovering](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313806661.jpg?w=840)

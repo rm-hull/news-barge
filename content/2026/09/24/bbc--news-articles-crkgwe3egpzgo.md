@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52f6/live/636e7d80-b861-11f1-93a5-e363768bffbc.png
+locations:
+- Basingstoke Magistrates' Court
+- Dover
+- England
+- London
+- Normandy
+people:
+- Chris Derrick
+- Daniel Thomas
+- Danny Tommo
+organisations:
+- CPS
+- Daily Mail
+- Hampshire Police
+- PIN
+- Patriot Platform
+- RNLI
+- The Crown Prosecution Service
+- UK Border Force
+- Wessex
 ---
 
 ![Anti-migrant campaigner leaning out of a boat appearing to hold a knife and to be shouting ](https://ichef.bbci.co.uk/ace/standard/528/cpsprodpb/52f6/live/636e7d80-b861-11f1-93a5-e363768bffbc.png)

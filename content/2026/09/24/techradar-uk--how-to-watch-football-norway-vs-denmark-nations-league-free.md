@@ -12,6 +12,37 @@ categories:
 - Sports
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/C8RwVycrSdDFo5i44PaT49-2500-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Denmark
+- England
+- France
+- Norway
+- Oslo
+- UK
+- US
+- USA
+- canada
+people:
+- Erling Haaland
+- Mikkel Damsgaard
+- Patrick Dorgu
+- Rasmus Hojlund
+- Thomas Tuchel
+organisations:
+- DAZN
+- DirecTV Stream
+- FS1
+- Fox One
+- Fox Sports 1
+- Future Publishing
+- L'Equipe Live Foot
+- Man City
+- Nations League
+- Norway
+- TechRadar
 ---
 
 ![Erling Haaland in action for Norway at World Cup 2026](https://cdn.mos.cms.futurecdn.net/C8RwVycrSdDFo5i44PaT49.jpg)

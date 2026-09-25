@@ -12,6 +12,22 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21459824.jpg?type=og-image
+locations:
+- Acadia Grove
+- Church Lane
+- Hawthorn Avenue
+- Haxby
+- North Lane
+- St Mary's Church
+- The Village
+- York
+people:
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- City of York Council
+- Haxby Sports Bar
+- Labour
 ---
 
 A DECISION has been made about plans for a parking ban in York.

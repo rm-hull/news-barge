@@ -11,6 +11,35 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- America
+- Britain
+- France
+- Gaza City
+- Gaza Strip
+- Iran
+- Israel
+- Middle East
+- New York
+- New York City
+- Tehran
+- US
+- West Bank
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- God
+- Hannah Einbinder
+- Mahmoud Abbas
+- Recep Tayyip Erdogan
+- Susan Sarandon
+- Zohran Mamdani
+organisations:
+- Hamas
+- IAGS
+- International Association of Genocide Scholars
+- International Criminal Court
+- UN General Assembly.
 ---
 
 Watch: UN delegates walk out of Israeli PM Benjamin Netanyahu's speech

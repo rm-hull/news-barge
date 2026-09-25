@@ -11,6 +11,22 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/24/12/08/iStock-2173694247.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Blackpool
+- Darlington
+- England
+- London
+- Mayfair
+- North East
+- UK
+people:
+- Andy Burnham
+- Hannah Aldridge
+- Rachel Reeves
+organisations:
+- Band D
+- Budget
+- Resolution Foundation
 ---
 
 Londoners could be made to pay up to £950 more a year under radical new proposals put to the government to fix England’s “broken” property tax system.

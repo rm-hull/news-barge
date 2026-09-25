@@ -12,6 +12,22 @@ categories:
 - UK
 - Society & Culture
 image: https://static.the-independent.com/2026/09/24/14/47/Anthony-(Tony)-Philip-Bruccoliere.png?trim=80,0,80,0&width=1200&height=800&crop=1200:800
+locations:
+- Costa Mesa
+people:
+- '![Anthony'
+- Anthony Philip Bruccoliere
+- Brooke Mueller
+- Charlie Sheen
+- Mark Fredrick
+- Thomas Farnell
+- Tony) Philip Bruccoliere
+organisations:
+- Bruccoliere
+- Cobra Kai
+- LinkedIn
+- Netflix
+- Orange County Superior Court
 ---
 
 A music teacher who claimed he worked as a personal assistant to actors Charlie Sheen and Brooke Mueller was convicted Thursday of sexually assaulting two young girls after luring them into his home for twisted "slumber parties."

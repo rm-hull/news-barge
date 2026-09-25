@@ -11,6 +11,42 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/e6025ae2e7cf604bfe5cdff418ccd2bb98cfea48/319_0_3183_2547/master/3183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea02dc17b220a661b21c8c0a63aef204
+locations:
+- America
+- Atlanta
+- China
+- Eritrea
+- Joint Base Andrews
+- Maryland
+- North Korea
+- Oval Office
+- Rose Garden
+- US
+- White House
+people:
+- Barack Obama
+- Chuck Schumer
+- Donald Trump
+- Fuchuan
+- JD Vance
+- Madam Xi
+- Madame Peng
+- Melania
+- Michael McFaul
+- Peng Liyuan
+- Ping Ping
+- Trumps
+- Usha
+- Vladimir
+- Xi Jinping
+organisations:
+- CNN
+- Chinese Communist
+- Flying Tigers
+- MS Now
+- Politico
+- Reporters Without Borders’
+- The Apprentice
 ---
 
 One is an authoritarian who represses the media with a strong allergy to democratic elections. The other is head of the Chinese Communist party.

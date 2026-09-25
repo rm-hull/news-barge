@@ -14,6 +14,25 @@ categories:
 - History
 - Society & Culture
 image: https://images.euronews.com/articles/stories/09/92/68/91/1200x675_cmsv2_fcda36db-ba28-542f-89d5-94c10626ea96-9926891.jpg
+locations:
+- Atlanta
+- Beijing
+- China
+- Gulf
+- Iran
+- Taiwan
+- US
+- United States
+- Washington
+- White House
+people:
+- '## **Xi'
+- AI
+- Donald Trump
+- Xi Jinping
+organisations:
+- AI
+- Trump
 ---
 
 ## China’s president Xi Jinping begins a highly anticipated state visit to the United States as thorny issues dominate the talks, saying the “two countries shoulder a historic responsibility”.

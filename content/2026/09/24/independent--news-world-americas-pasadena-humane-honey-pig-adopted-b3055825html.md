@@ -11,6 +11,28 @@ categories:
 - UK
 - Lifestyle & Fashion
 image: https://static.independent.co.uk/2026/09/24/14/59/Honey-the-pig2.jpeg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+locations:
+- Arcadia
+- Bradbury
+- Flintridge
+- Glendale
+- La Cañada
+- Los Angeles
+- Monrovia
+- San Marino
+- Sierra Madre
+- South Pasadena
+- United States
+people:
+- Anna Key
+- Honey
+- Raymond Ave.
+organisations:
+- City News Service
+- North American Pet Pig Association
+- North American Potbellied Pig Association
+- Pasadena Humane
+- Pasadena Humane Society
 ---
 
 A public appeal for assistance from Pasadena Humane has ended successfully, with a 100-pound pig named Honey securing a new residence on Wednesday.

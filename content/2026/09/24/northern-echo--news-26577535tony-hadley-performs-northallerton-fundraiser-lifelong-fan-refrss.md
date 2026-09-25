@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Science
 image: https://www.thenorthernecho.co.uk/resources/images/21495482.jpg?type=og-image
+locations:
+- Britain
+- Northallerton
+- O2
+people:
+- ANDY FUTERS
+- Mike Carr
+- Sara
+- Tony Hadley
+organisations:
+- Friends of the Friarage
+- Lincoln County Hospital
+- Northallerton
+- Prostate Cancer UK
+- Radiotherapy Department
+- The Forum
 ---
 
 *(Image: AF Photography)*

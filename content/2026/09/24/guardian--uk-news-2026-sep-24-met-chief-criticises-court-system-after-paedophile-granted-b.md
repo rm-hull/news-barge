@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Sports
 image: https://i.guim.co.uk/img/media/6fcbbcdcb73c235bfcba93545406973539e3dbc2/0_56_236_189/master/236.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa5bbeb065077d7b11a50061cedf6b8d
+locations:
+- Enfield
+- Highbury Corner
+- London
+- Metropolitan
+- Wood Green
+people:
+- Hyde
+- Jacobs
+- Jekyll
+- Joseph Carr
+- Mark Rowley
+- Sarah Gabay
+- Zafer Dogan
+organisations:
+- AI
+- CPS
+- Dogan
 ---
 
 Pressure to cut the number of prisoners on remand has led to “dangerous and prolific offenders” being granted bail, the country’s most senior police officer said after a paedophile was allowed to return to his flat that overlooked a children’s playground.

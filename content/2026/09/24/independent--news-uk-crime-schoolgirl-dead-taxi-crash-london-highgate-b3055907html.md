@@ -12,6 +12,18 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/05/08/17/2274559000.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Highgate
+- London
+- North Road
+people:
+- Addison Lee
+organisations:
+- Addison Lee
+- Highgate School
+- London Ambulance Service
+- London Fire Brigade
+- Metropolitan Police
 ---
 
 A 16-year-old girl has died after being hit by a taxi near her private school in north London during her morning commute.

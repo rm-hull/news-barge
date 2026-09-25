@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21497857.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Carver Residential
+- Dalton Way
+- Newton Aycliffe
+- STUART BOULTON
+- Subway
+people:
+- Fred DeLuca
+- Peter Buck
+- STUART BOULTON
+organisations:
+- Holland & Barrett
+- Newton Aycliffe
+- Northern Echo
+- STUART BOULTON
+- Subway
 ---
 
 A new Subway has officially opened in Newton Aycliffe town centre after months of delays.

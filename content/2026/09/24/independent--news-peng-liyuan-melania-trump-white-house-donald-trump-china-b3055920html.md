@@ -15,6 +15,42 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/17/Trump_Xi_Spouses_9468_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Asia
+- Beijing
+- China
+- London
+- National Mall
+- Smithsonian
+- U.S.
+- United States
+- Washington
+- White House
+people:
+- Barack Obama
+- Bei Bei
+- Didi Tang
+- Donald Trump
+- Fu Ting
+- James McNeill Whistler
+- Melania Trump
+- Michelle Obama
+- Peng Liyuan
+- Xi Jinping
+- Yun Sun
+organisations:
+- China Program
+- Fox News Channel
+- Land of Porcelain
+- National Museum of Asian Art
+- National Zoo
+- Palace Museum
+- Peacock Room
+- Stimson Center
+- The Smithsonian
+- Trump
+- World Health Organization
+- \_\_\_ Associated Press
 ---
 
 Melania Trump and Peng Liyuan on Thursday toured one of the largest Asian art museums in the United States, celebrating cultural ties between the U.S. and China during a high-profile diplomatic visit to Washington.

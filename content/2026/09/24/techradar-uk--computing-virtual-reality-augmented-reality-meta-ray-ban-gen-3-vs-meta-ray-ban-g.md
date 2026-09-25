@@ -11,6 +11,14 @@ description: Meta has a new pair of smart glasses for your consideration, and he
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/iuHtmHW7kL5VdJeC5EMAZS-2000-80.jpg
+locations:
+- Black and Havana
+people:
+- Skyler
+organisations:
+- AI
+- Meta Ray-Ban Gen 2
+- Meta VR Glasses
 ---
 
 ![Meta Ray-Ban Gen 3 vs Meta Ray-Ban Gen 2](https://cdn.mos.cms.futurecdn.net/iuHtmHW7kL5VdJeC5EMAZS.jpg)

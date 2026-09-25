@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/20369639.jpg?type=og-image&xType=0&yType=115
+locations:
+- BEAMISH MUSEUM
+- County Durham
+- New College Durham
+people:
+- Beamish
+- Rob Ribchester
+organisations:
+- Beamish Museum
+- Henry Smith's Charity
+- New College Durham
+- Transport Engineering Team
 ---
 
 *(Image: BEAMISH MUSEUM)*

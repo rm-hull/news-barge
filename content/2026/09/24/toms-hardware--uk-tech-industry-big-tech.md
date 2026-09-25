@@ -12,6 +12,17 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-320-80.jpg
+locations: []
+people:
+- Jensen Huang
+- Rene Haas
+organisations:
+- Arm
+- Get Tom's Hardware
+- LG
+- Nvidia
+- Oracle
+- PAC
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-320-80.jpg)

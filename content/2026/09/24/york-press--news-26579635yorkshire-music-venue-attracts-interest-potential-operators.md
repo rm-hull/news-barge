@@ -12,6 +12,26 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/20923404.jpg?type=og-image
+locations:
+- '* York'
+- Local York
+- Nunnery Lane
+- YOUR
+people:
+- Barry Crux
+- Clem Burke
+- Nabeel Hanif
+- Nick Love
+organisations:
+- ACV
+- CAMRA Victoria Vaults
+- City of York Council
+- LDRS
+- Local Democracy Reporting Service
+- Planning Inspectorate
+- Public Notice Portal
+- Victoria Vaults
+- York's Campaign for Real Ale
 ---
 
 ## 'Interest' in reopening vacant York live music venue prompts call for talks

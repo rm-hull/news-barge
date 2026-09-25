@@ -13,6 +13,14 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/16932947.jpg?type=og-image
+locations:
+- Clifton
+- York
+people: []
+organisations:
+- '![]()St Peter''s School'
+- North Yorkshire Police
+- St Peter’s School
 ---
 
 A PRIVATE school in York has been placed into a lockdown following a police incident.

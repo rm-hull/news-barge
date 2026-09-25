@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/13/42/7071d8c321e91d1a.jpeg?trim=246,0,247,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- U.S.
+people:
+- Camilla
+- Charles III
+- Donald Trump
+- He AI
+- Melania Trump
+- Monica Crowley
+- Natalie Harp
+- Xi Jinping
+organisations:
+- AI
+- Fox News
+- Trump and Xi
+- Truth Social
 ---
 
 A photo shared by President Donald Trump from his meeting with Chinese Leader Xi Jinping has caused questions and speculation throughout the internet.

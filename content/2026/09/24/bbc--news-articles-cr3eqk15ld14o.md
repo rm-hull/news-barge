@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg
+locations:
+- Australia
+- New York
+- OpenAI
+- Perth
+- US
+people:
+- Alastair MacGibbon
+- Anika Wells
+- Anthony Albanese
+- Donald Trump
+- Jacob Coxon
+- Laura Kuenssberg
+- Michael Noetel
+- Sam Altman
+- Tama Leaver
+- Xi Jinping
+organisations:
+- BBC
+- Curtin University
+- CyberCX
+- OpenAI
+- Rogue AI
+- UN
+- United Nations General Assembly.
+- University of Queensland
 ---
 
 **Australia made a dramatic revelation on Wednesday during the United Nations General Assembly.**

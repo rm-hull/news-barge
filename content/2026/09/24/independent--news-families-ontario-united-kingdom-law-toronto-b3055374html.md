@@ -14,6 +14,21 @@ categories:
 - Society & Culture
 - True Crime
 image: https://static.independent.co.uk/2026/09/23/22/Canada_Lethal_Substances_63437.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Mississauga
+- Ontario
+- U.S.
+- UK
+- United Kingdom
+people:
+- Elisabeth Belien
+- Jeshennia Bedoya-Lopez
+- Kenneth Law
+- Leonardo Bedoya Forero
+- Stephen Mitchell Jr.
+- Stephen Mitchell Sr.
+organisations: []
 ---
 
 Families of people who died after buying lethal products from a Canadian online seller investigated in connection with more than 100 deaths worldwide described lives shattered by grief Wednesday as he faced sentencing for aiding 14 suicides.

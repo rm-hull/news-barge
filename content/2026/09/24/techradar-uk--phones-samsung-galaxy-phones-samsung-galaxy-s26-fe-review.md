@@ -12,6 +12,31 @@ categories:
 - Technology & Software
 - Health & Fitness
 image: https://cdn.mos.cms.futurecdn.net/tK7sLn2z3MmEHRyiUTvBmK-2560-80.jpg
+locations:
+- Galaxy
+- London Eye
+- Soho
+- Solar Bay
+- UK
+- US
+people: []
+organisations:
+- '### TechRadar Verdict'
+- Black
+- Blueberry
+- Cobalt Violet
+- Galaxy S
+- Galaxy S26 FE
+- Gemini
+- Photo Assist
+- Pink Gold
+- Pistachio
+- S25 FE
+- S26 FE
+- Samsung Galaxy
+- Silver Shadow
+- Sky Blue
+- White
 ---
 
 ### TechRadar Verdict

@@ -11,6 +11,17 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/phBZNwhNmfBffbU44G9rxT-1920-80.jpg
+locations:
+- Iran
+- Pacific
+- US
+people:
+- Pete Hegseth
+organisations:
+- AI
+- CNN
+- Pentagon
+- TechRadar Pro
 ---
 
 ![Chinese cargo ship](https://cdn.mos.cms.futurecdn.net/phBZNwhNmfBffbU44G9rxT.jpg)

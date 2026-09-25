@@ -12,6 +12,22 @@ categories:
 - York
 - Sports
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/house-of-memento-mori-whitby-pub-1.webp
+locations:
+- Grape Lane
+- North Yorkshire
+- Valhalla York
+- Whitby
+people:
+- Led Zepp
+- Matt Bedingham
+- Memento Mori
+- Patrick Pool
+- Vincent Roberts
+- Whitby
+organisations:
+- House of Mëmento Möri
+- Iron Maiden
+- Motörhead
 ---
 
 Welcome to the House of Mëmento Möri.

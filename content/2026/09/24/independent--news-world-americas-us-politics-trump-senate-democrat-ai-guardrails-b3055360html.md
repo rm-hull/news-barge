@@ -13,6 +13,44 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/23/22/2296183153..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Arizona
+- Capitol Hill
+- China
+- D-Ariz.
+- D-Mass.
+- I-Vt.
+- New York
+- R-Alaska
+- R-Calif.
+- R-La.
+- Sen
+- U.S.A.
+- Washington
+people:
+- Bernie Sanders
+- Chuck Schumer
+- Donald Trump
+- Elizabeth Warren
+- Jacob Coxon
+- Jim Obernolte
+- Lisa Murkowski
+- Lori Trahan
+- Mike Johnson
+- Ron Wyden
+- Ruben Gallego
+- Steve Bannon
+- Trump,” Sanders
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- Congress
+- House
+- Senate Finance Committee
+- The Independent
+- Trump
 ---
 
 President Donald Trump’s attempts to rebrand AI as “super intelligence” landed with a thud among Democrats on Capitol Hill on Wednesday. It’s a sign that the president might not have carte blanche authority on AI should they take back the majority next year.

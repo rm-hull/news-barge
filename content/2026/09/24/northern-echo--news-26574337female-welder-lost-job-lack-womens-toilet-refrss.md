@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21490697.jpg?type=og-image&xType=0&yType=124
+locations:
+- Aberdeen
+- Australia
+- Bedlington
+- Britain
+- China
+- County Durham
+- North East
+- UK
+people:
+- Adam Maughan
+- Mel Stewart
+organisations:
+- AdMel
+- Adam
+- Mel
 ---
 
 *(Image: ADMEL)*

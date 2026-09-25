@@ -12,6 +12,38 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/16/15/MACKLEMORE-ED_SHEERAN_55253.jpg?width=1200&height=800&crop=1200:800
+locations:
+- 3Arena
+- Dublin
+- Europe
+- Free Palestine
+- London
+- North and South America
+- U.S.
+people:
+- Ed Sheeran
+- Macklemore
+- Robert Kraft
+organisations:
+- Anera
+- Gaza Soup Kitchen
+- Gillette Stadium
+- HEAL Palestine
+- Instagram
+- Institute for Middle East Understanding
+- Jewish Voice for Peace
+- Kraft Group
+- Macklemore.com
+- Middle East Children’s Alliance
+- NFL
+- New England Patriots
+- OVO Arena Wembley
+- Palestine Children’s Relief Fund
+- Palestinian Youth Movement
+- Paris' Accor Arena
+- Taawon
+- U.N.
+- UNRWA USA
 ---
 
 After being removed from Ed Sheeran's Loop Tour, Grammy Award winner Macklemore will soon return to the live stage. The rapper has announced “Free Palestine,” a series of performances with all proceeds to benefit Palestinian aid organizations.

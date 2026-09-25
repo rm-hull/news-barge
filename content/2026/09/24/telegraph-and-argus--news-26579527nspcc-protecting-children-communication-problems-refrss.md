@@ -14,6 +14,18 @@ categories:
 - Society & Culture
 - Education & Learning
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498169.jpg?type=og-image
+locations:
+- Deaf Zone
+- Makaton
+people:
+- Deafness
+organisations:
+- BSL
+- British Sign Language
+- Childline
+- NSPCC
+- Talk PANTS
+- United Nations
 ---
 
 *(Image: NSPCC)*

@@ -11,6 +11,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/15/2026-09-22T100020Z_196164816_RC2ABMAKS7RK_RTRMADP_3_USA-TRUMP-SECURITY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arlington House
+- Arlington National Cemetery
+- Lincoln Memorial
+- U.S.
+- Washington Monument
+- Washington, D.C.
+- Washington, DC
+- White House
+people:
+- Charles Birnbaum
+- Donald Trump
+- Doug Burgum
+- Travis Voyles
+organisations:
+- Advisory Council on Historic Preservation
+- Capitol
+- Congress
+- Cultural Landscape Foundation
+- National Mall
+- National Park Service
+- The Independent
+- The Independent.
+- Trump
+- Voyles
 ---
 
 Donald Trump’s administration is abruptly ending a federally required review to determine how badly the president’s plans for a massive arch will harm the nation’s capital, already facing a flood of construction projects remaking Washington, D.C., in his image.

@@ -15,6 +15,26 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBmMzc2NWY1LTRjZGQtNGY4NC04NDEwLWFhZGNhNDBiYTE5ZDoxYTA0MjJhYy04OWIwLTQxODMtYmYzZS03ZTQ1ODNhMmRlZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Colwyn Farm
+- Cornwall
+- England
+- Truro
+people:
+- Andy Burnham
+- Harriet Ranson
+- Stephen Morgan
+organisations:
+- CLA
+- Country Land and Business Association
+- Defra
+- Department for Environment, Food and Rural Affairs
+- F G Pryor & Son Ltd
+- Government
+- National Farmers’ Union
+- Rural Payments Agency
+- SFI
+- SFI26
 ---
 
 # SFI: Defra considering ending 'first-come, first-served' application process for 2027

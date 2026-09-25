@@ -12,6 +12,16 @@ description: Ford's patent for what looks very like the Ford Fathom shows a mult
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/MjexnAfXgj4hYJNzUdu4uA-2048-80.png
+locations: []
+people:
+- Fathom
+organisations:
+- Android Auto
+- Apple Maps
+- CarPlay
+- Electrek
+- Fathom
+- Ford
 ---
 
 ![A press image of two Ford Fathoms, both in heavy camouflage, shot from an angle at the rear](https://cdn.mos.cms.futurecdn.net/MjexnAfXgj4hYJNzUdu4uA.png)

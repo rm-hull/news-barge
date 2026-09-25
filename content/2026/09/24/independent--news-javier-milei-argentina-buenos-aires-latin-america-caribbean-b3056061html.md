@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/22/APTOPIX_Argentina_Poverty_28746.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Argentina
+- Caribbean
+- Latin America
+- apnews.com
+- hub
+people:
+- Isabel DeBre
+- Javier Milei
+- Lucas Romero
+- Luis Caputo
+organisations:
+- Argentine Institute of Fiscal Analysis
+- INDEC
+- Milei
+- Synopsis Consultores
+- \_\_\_ Associated Press
 ---
 
 Argentina’s poverty rate jumped to 32.3% in the first half of 2026, official data showed Thursday, as incomes failed to keep pace with the rising cost of basic goods, a setback for libertarian President Javier Milei little more than a year before he seeks reelection.

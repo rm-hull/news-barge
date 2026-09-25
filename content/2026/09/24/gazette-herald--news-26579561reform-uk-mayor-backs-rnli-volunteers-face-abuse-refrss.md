@@ -14,6 +14,20 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21498199.jpg?type=og-image
+locations:
+- England
+- North Yorkshire
+- Scarborough
+- South Bay
+- UK
+people:
+- Peter Sparkes
+- Rich Maw
+- Thomas Murray
+organisations:
+- Reform UK
+- Scarborough Town Council
+- Whitby RNLI Lifeboat
 ---
 
 The Reform mayor of a coastal town in North Yorkshire has backed the ‘courageous’ RNLI after the charity’s volunteers faced abuse across the UK.

@@ -12,6 +12,41 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/20/2296269232..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Albania
+- Beijing
+- Iran
+- Mar-a-Lago
+- Tirana
+- U.S.
+- Ukraine
+- Washington
+- White House
+people:
+- Aaron Rupar
+- Arabella
+- Bessent?
+- Charles
+- Donald Trump
+- Greta Van Susteren
+- Howard Lutnick
+- Ivanka Trump
+- JD Vance
+- Jared Kushner
+- Marco Rubio
+- Pete Hegseth
+- Scott Bessent
+- Susie Wiles
+- Usha Vance
+- Xi Jinping
+organisations:
+- Commerce
+- Fox News
+- Ivanka Trump
+- Ivanka Trump Marks LLC
+- NewsMax
+- The Independent
+- Treasury
 ---
 
 Ivanka Trump was given a prominent front-row seat for Chinese President Xi Jinping’s remarks during his state visit to Washington. President Donald Trump’s Cabinet officials, meanwhile, were seated farther from the podium.

@@ -14,6 +14,19 @@ categories:
 - Harrogate
 - News & Politics
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUwZjdiODgyLTU5ZDgtNDAyNS1hNGFkLTkxMTliMTk5Yjg2NDpmMDc1ZWU3MC1mOWM4LTRjMzctOGQ2NC0zZDkzYzFhYjQ5OWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- North Yorkshire
+- RAF Linton-on-Ouse
+people:
+- Olga Matthias
+organisations:
+- CCTV
+- Home Office
+- Linton-on-Ouse Community Action Group
+- Local Democracy Reporting Service
+- Local Resilience Forum
+- North Yorkshire Council
+- North Yorkshire Police
 ---
 
 # Campaigners warn ‘mega hotel’ asylum centre in Linton-on-Ouse would give rural village ‘city-sized problems’

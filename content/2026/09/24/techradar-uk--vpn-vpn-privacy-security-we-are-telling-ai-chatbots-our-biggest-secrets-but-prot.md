@@ -11,6 +11,20 @@ description: A new Proton survey shows two-thirds of Brits are using AI as a jud
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg
+locations:
+- Africa
+- Asia
+- Switzerland
+- UK
+people:
+- Eamonn Maguire
+organisations:
+- AI Engineering
+- British AI
+- Lumo
+- No Trace
+- Proton
+- VPN
 ---
 
 ![Two robotic faces in green and red indicating a good bot and a bad bot representing the positive and negative impacts of AI and chatbots.](https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26.jpg)

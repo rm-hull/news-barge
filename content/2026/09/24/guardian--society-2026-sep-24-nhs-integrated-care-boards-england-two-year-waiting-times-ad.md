@@ -12,6 +12,45 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=356ba49afc415e63532cd15e0c2bf717
+locations:
+- Bradford
+- Calderdale
+- Castleford
+- Devon
+- England
+- Hampshire
+- Isle of Wight
+- Kirklees
+- Knottingley
+- Leeds
+- North East
+- Pontefract
+- Wakefield
+- West Yorkshire
+people:
+- Henry Shelford
+- Mel Merritt
+- Peter Fonagy
+- Rebecca Gray
+- Sean Phillips
+- Wes Streeting
+- Yvette Cooper
+organisations:
+- ADHD UK
+- British Medical Journal
+- Clinical Practice Research Datalink
+- Finally Seen
+- Fonagy
+- Guardian
+- ICBs
+- Independent Healthcare Providers Network
+- Kent
+- Medway
+- NHS Alliance
+- National Autistic Society
+- North Cumbria ICB
+- Somerset ICB
+- West Yorkshire ICB
 ---
 
 NHS bodies are forcing people with suspected attention deficit hyperactivity disorder and autism to wait at least two years before they can be assessed as they struggle to meet surging demand for diagnoses of neurodiversity.

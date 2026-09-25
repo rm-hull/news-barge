@@ -12,6 +12,19 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/05/04/19/2273141551.jpg?width=1200&height=800&crop=1200:800
+locations:
+- NYC
+- New York
+people:
+- Kathy Hochul
+- Neal Kumar
+organisations:
+- Coinbase
+- Commodity Futures Trading Commission
+- Gemini
+- Kalshi
+- Polymarket
+- U.S. Commodity Futures Trading Commission
 ---
 
 State authorities in New York filed a lawsuit against Polymarket on Thursday, alleging that the prediction platform functions as an illegal gambling business and asking a judge to halt its operations.

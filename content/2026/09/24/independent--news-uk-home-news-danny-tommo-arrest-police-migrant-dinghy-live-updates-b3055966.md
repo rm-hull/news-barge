@@ -11,6 +11,29 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/18/2296276556..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Basingstoke
+- Dover
+- English Channel
+- France
+- Gosport
+- Hampshire
+- Kent
+- UK
+people:
+- Daniel Thomas
+- Danny Tommo
+- Lucy Powell
+- Shabana Mahmood
+organisations:
+- Border Security Command
+- English Channel
+- Hampshire
+- Home Office
+- Isle of Wight Constabulary
+- The Independent
+- Union
+- YouTube
 ---
 
 An estimated 300 people have gathered outside a police investigation centre where anti-migrant activist Daniel Thomas is under arrest, calling for his release.

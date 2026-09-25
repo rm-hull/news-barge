@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Science
 image: https://i.guim.co.uk/img/media/0756631cc68aeb4de1f723c28879d58bb1a0b817/285_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2da3b4ed85fde555a7ab0cdae4c6d30
+locations:
+- Asia
+- Caucasus
+- Europe
+- Germany
+- Halle
+- Kremlin
+- Leipzig
+- Masovian
+- Moldova
+- Moscow
+- Poland
+- Russia
+- Slovakia
+- Starlink
+- US
+- Ukraine
+- Wola Krobowska
+people:
+- Donald Trump
+- Donald] Tusk
+- Krzysztof Gawkowski
+- Putin
+- Robert Fico
+- Volodymyr Zelenskyy
+organisations:
+- Gawkowski
+- Nato
+- Starlink
+- UN
 ---
 
 Russia could launch a limited military attack against a Nato country in the coming months, Danish intelligence said, in one of the starkest warnings yet by western security services.

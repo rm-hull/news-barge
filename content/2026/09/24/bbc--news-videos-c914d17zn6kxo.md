@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a42/live/8b6617d0-b834-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Joint Base Andrews
+- Maryland
+- US
+- Washington DC
+- White House
+people:
+- Donald Trump
+- Sarah Smith
+- Xi Jinping
+organisations:
+- BBC
+- North America
 ---
 
 # Here's why Trump's been so keen on Xi's visit

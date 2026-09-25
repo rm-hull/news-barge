@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+locations:
+- Auckland
+- County Durham
+- Eleventh Street
+- Herbert Street
+- Horden
+- Middlesbrough
+- North East
+people:
+- Driver
+- Emma Atkinson
+- Kayleigh Gallon
+- Michele Turner
+- Miss Atkinson
+- Richard Bennett
+- Woman
+organisations:
+- Newsquest
+- Teesside Crown Court
 ---
 
 *(Image: Newsquest)*

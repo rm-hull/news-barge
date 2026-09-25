@@ -15,6 +15,25 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/02/15/00/GettyImages-2153309254.jpg?trim=0,300,0,481&width=1200&height=800&crop=1200:800
+locations:
+- Abilene
+- Allentown
+- California
+- Imperial
+- Pennsylvania
+- Stargate Oracle AI
+- Texas
+- United States
+people:
+- Chris Wright
+- Donald Trump
+- Joe Biden
+organisations:
+- AI
+- Energy Department
+- Environmental Protection Agency
+- The Associated Press
+- Trump
 ---
 
 The Trump administration is set to announce a nearly $2 billion investment to try and squeeze more electricity out of the nation's aging and stressed power grid.

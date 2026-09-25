@@ -13,6 +13,21 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21498199.jpg?type=og-image
+locations:
+- England
+- North Yorkshire
+- Scarborough
+- South Bay
+- UK
+people:
+- Courtesy Numminen
+- Peter Sparkes
+- Rich Maw
+- Thomas Murray
+organisations:
+- Reform UK
+- Scarborough Town Council
+- Whitby RNLI Lifeboat
 ---
 
 ## Reform UK mayor backs ‘courageous’ RNLI after volunteers 'subjected to abuse'

@@ -12,6 +12,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/20/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Iran
+- Israel
+- Lebanon
+- Manhattan
+- New York
+- Qatar
+- Tehran
+- Turkey
+- US
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Zohran Mamdani
+organisations:
+- General Assembly
+- Hamas
+- Hezbollah
+- Starlink
+- UN
+- United Nations
 ---
 
 Delivering a defiant address to the United Nations on Thursday, Prime Minister Benjamin Netanyahu mounted a firm defence of Israel's regional military actions, attempting to push back against deepening global isolation ahead of upcoming domestic elections. His speech was met with a prompt exit by dozens of diplomats.

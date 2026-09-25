@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/03/Canada_Shooting_2_368.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Jacob Synagogue
+- Ontario
+- Yom Kippur
+people:
+- Jeff Smith
+- Murray Rodd
+- Norman Weddum
+- Patricia
+- Sean Ward
+- Yom Kippur
+organisations:
+- Belleville Police
+- Belleville Police Service
+- Canadian Armed Forces
+- Canadian Light Infantry
+- Department of National Defense
+- Synagogue
 ---
 
 A former Canadian soldier who opened fire on a police officer outside an Ontario synagogue during Yom Kippur shouted “you’re going to die for the Jews” moments before shooting, police said Thursday, declaring the attack was motivated by hate.

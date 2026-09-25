@@ -14,6 +14,40 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/20613687.jpg?type=og-image&xType=0&yType=134
+locations:
+- '### Road'
+- Bristol
+- Central Park
+- County Durham
+- DL1 4AA
+- Darlington Railway Station
+- Darlington Train Station
+- Darlington Train Station Darlington Train Station
+- Darlington station
+- Edinburgh
+- Glasgow
+- Grade-ll
+- Leeds
+- London
+- Manchester
+- Neasham Road
+- Newcastle
+- SARAH CALDECOTT
+- Stuart Boulton
+- UK
+- WHSmith
+- York
+people:
+- '### Greggs'
+- Stuart Boulton
+organisations:
+- Bank Top
+- Costa Coffee
+- Darlington Borough Council
+- Greggs
+- LNER
+- THE NORTHERN ECHO
+- Tees Valley Combined Authority
 ---
 
 *(Image: Stuart Boulton)*

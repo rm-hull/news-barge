@@ -12,6 +12,24 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg
+locations:
+- Italy
+- New York
+people:
+- Anna Ascani
+- Elly Schlein
+- Giorgia Meloni
+- Giuseppe Valditara
+- Mariastella Gelmini
+- Matteo Salvini
+- Roberto Vannacci
+organisations:
+- Ansa
+- Democratic Party
+- Fondazione ISMU
+- Futuro Nazionale
+- League
+- PD
 ---
 
 ![Italian Prime Minister Giorgia Meloni, who has long blonde hair and is wearing a white jacket, speaks into a microphone at an event on 20 September.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg)

@@ -12,6 +12,40 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/24/21/07/GettyImages-2296265812-41e14a1c.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- China
+- District of Columbia
+- Hill
+- Iran
+- Joint Base Andrews
+- Kennedy Center
+- Maryland
+- Mississippi
+- San Francisco
+- Sen
+- U.S.
+- United States
+- United States of America
+- White House
+people:
+- Barack Obama
+- Donald Trump
+- DronePort
+- Joe Biden
+- Roger Wicker
+- Xi Jinping
+organisations:
+- APEC
+- CNN
+- Congress
+- East Wing
+- MS Now
+- Politico
+- Presidential Walk of Fame
+- Secret Service
+- U.N.
+- United Nations General Assembly
 ---
 
 Donald Trump proudly showed off his additions to the White House wall of presidents to a visiting Xi Jinping on Thursday, which under his domain has become a sideshow pathway used to attack two of his predecessors: Barack Obama and Joe Biden.

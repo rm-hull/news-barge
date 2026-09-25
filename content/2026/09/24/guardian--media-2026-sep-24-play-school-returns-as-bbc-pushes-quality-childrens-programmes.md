@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/32c4491a302fb24f8c3d60064d6ab4e7e84501e2/280_312_3365_2691/master/3365.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff3d83f4221a1f95a984d1165ff17b0b
+locations: []
+people:
+- Big Ted
+- Floella Benjamin
+- Floella Benjamin.
+- Humpty
+- Jemima
+- Johnny Ball
+- Patricia Hidalgo
+- Sarah Greene
+organisations:
+- BBC Children’s and Education
+- BBC’s Play School
+- CBeebies Parenting
+- CBeebies Parenting YouTube
+- Channel 4
+- Channel 5
+- Guardian
+- ITV
+- Play School
 ---
 
 For the generations who grew up watching Humpty, Jemima and Big Ted, the mere mention of the BBC’s Play School evokes a pang of childhood nostalgia.

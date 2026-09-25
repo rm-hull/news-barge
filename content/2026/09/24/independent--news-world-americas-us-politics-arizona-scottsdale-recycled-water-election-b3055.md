@@ -11,6 +11,28 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/18/18/GettyImages-2215454466.jpeg?trim=0,85,0,85&width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- California
+- Colorado River
+- Lake Mead
+- Lake Powell
+- Phoenix
+- Scottsdale
+- Southwest
+- West
+people:
+- Barry Graham
+- Ben Grumbles
+- Bryan Cassens
+- Cynthia Campbell
+- Michelle Ugenti-Rita
+- Rob Schneider
+organisations:
+- Associated Press
+- Environmental Council of the States
+- Scottsdale Water
+- U.S. Bureau of Reclamation
 ---
 
 An affluent Phoenix suburb has scrapped plans to deliver recycled wastewater directly to household taps after local political candidates made unproven claims that the supply consists of contaminated “poop water.”

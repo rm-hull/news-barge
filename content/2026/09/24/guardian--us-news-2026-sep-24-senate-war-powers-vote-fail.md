@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - History
 image: https://i.guim.co.uk/img/media/5827dcd9bb6d9269de67c3f7994d7c369f45eb86/600_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b5251e5319140ecce2b9460a2c9ed0f
+locations:
+- Alaska
+- Chaos
+- Iran
+- Middle East
+- New Jersey
+- Oregon
+- US
+- Virginia
+people:
+- Andy Kim
+- Bill Cassidy
+- Chuck Schumer
+- Dan Sullivan
+- Lisa Murkowski
+- Rand Paul
+- Ron Wyden
+- Susan Collins
+- Tim Kaine
+- Trump
+organisations:
+- House
+- Senate
 ---
 
 Senate Republicans on Thursday blocked a Democratic effort to end the US war with Iran, voting 49-50 against a House-passed war powers resolution as the conflict passed the 200-day mark, with 19 American service members killed.

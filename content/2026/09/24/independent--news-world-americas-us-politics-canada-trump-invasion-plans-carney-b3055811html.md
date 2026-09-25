@@ -12,6 +12,31 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/16/2218821463..?width=1200&height=800&crop=1200:800
+locations:
+- Canada
+- Davos
+- Great White North
+- Manhattan
+- U.S.
+- US
+- United States
+- White House
+people:
+- Donald Trump
+- Justin Trudeau
+- Mark Carney
+organisations:
+- 51st State
+- Bank of Canada
+- Bank of England
+- Globe & Mail
+- Liberal Party of Canada
+- Politico
+- The Independent
+- The New York Times
+- Trump
+- Truth Social
+- United Nations General Assembly
 ---
 
 Canadian Prime Minister Mark Carney indicated that he took steps to prepare for the unlikely prospect of a U.S. invasion following President Donald Trump’s repeated remarks about making Canada the “51st state.”

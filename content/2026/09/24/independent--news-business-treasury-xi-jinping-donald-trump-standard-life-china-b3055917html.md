@@ -13,6 +13,66 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/24/17/24-08bdfcf9179e482b90334640f25258c5.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- Cambridge
+- Frankfurt
+- Germany
+- Iran
+- London
+- Michigan
+- New York
+- Paris
+- Strait of Hormuz
+- UK
+- US
+- Ukraine
+- Washington
+- White House
+people:
+- Adam Daniels
+- Anthony Codling
+- David Morrison
+- Donald Trump
+- Jim Reid
+- John Healey
+- Kathleen Brooks
+- Ms Brooks
+- Neil Wilson
+- Xi Jinping
+organisations:
+- AI
+- AIM
+- Alliance News
+- BP
+- British American Tobacco
+- Bunzl
+- Compass Group
+- Computacenter
+- Deutsche Bank
+- FT
+- Fed
+- Financial Times
+- Ithaca Energy
+- JD Sports
+- JD Sports Fashion
+- JPMorgan
+- Kingfisher
+- Malibu Life Holdings
+- Number 10
+- Office for Budget Responsibility
+- RBC Capital Markets
+- Raspberry Pi
+- Rentokil Initial
+- Rollins
+- Rollins’
+- Saxo UK
+- Shell
+- Standard Life
+- Trade Nation
+- Treasury
+- US Federal Reserve
+- XTB
 ---
 
 Stocks in London ended lower on Thursday as investors weighed developments in the US-China summit and kept a watchful eye on elevated bond yields and oil prices.

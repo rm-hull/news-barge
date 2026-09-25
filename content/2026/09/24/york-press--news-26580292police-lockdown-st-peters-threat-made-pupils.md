@@ -12,6 +12,14 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/16932947.jpg?type=og-image
+locations:
+- TOP York
+- top York
+people: []
+organisations:
+- North Yorkshire Police
+- St Peter's School
+- St Peter’s School
 ---
 
 ## Woman makes 'threat to pupils' close to top York school
