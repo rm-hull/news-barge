@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import re
-from typing import Any, cast
+from typing import Any, Iterable, cast
 
 from lxml import html as lxml_html
 from markdownify import markdownify as to_markdown
@@ -157,7 +157,7 @@ def remove_excluded_elements(
     return cast(str, lxml_html.tostring(tree, encoding="unicode"))
 
 
-def filter_duplicate_names(names: list[str]) -> list[str]:
+def filter_duplicate_names(names: Iterable[str]) -> list[str]:
     """
     Remove single-word names (forename or surname fragments) that are
     already covered by a fuller (multi-word) name in the list.

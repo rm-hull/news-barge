@@ -156,6 +156,17 @@ async def process_article(
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
 
+    if dry_run:
+        display_path = (
+            path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
+        )
+        logger.log(f"  [dry-run] would write {display_path}")
+        return True
+
+    # Prefer site-defined categories; append classifier-derived ones, no dupes.
+    categories = list(dict.fromkeys(site.categories + article_categories(title, description)))
+    entities = named_entities(md_body)
+
     frontmatter: dict[str, Any] = {
         "title": title,
         "source_url": url,
@@ -165,31 +176,11 @@ async def process_article(
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
         "image": image,
+        "categories": categories,
+        "people": sorted(filter_duplicate_names(entities.people)),
+        "locations": sorted(filter_duplicate_names(entities.locations)),
+        "organisations": sorted(filter_duplicate_names(entities.organisations)),
     }
-
-    if dry_run:
-        display_path = (
-            path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
-        )
-        logger.log(f"  [dry-run] would write {display_path}")
-        return True
-
-    # No point in creating categories or entities (both relatively expensive) if they
-    # arent going to be written in the document
-    categories = list(
-        dict.fromkeys((site.categories) + article_categories(title, description))
-    )
-
-    entities = named_entities(md_body)
-
-    frontmatter.update(
-        {
-            "categories": categories,
-            "people": sorted(filter_duplicate_names(entities.people)),
-            "locations": sorted(filter_duplicate_names(entities.locations)),
-            "organisations": sorted(filter_duplicate_names(entities.organisations)),
-        }
-    )
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(
