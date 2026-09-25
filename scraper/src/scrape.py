@@ -231,7 +231,7 @@ async def main_async(args: argparse.Namespace) -> None:
                         site["feed"], limit, session, logger=logger, site=site
                     )
                     print(
-                        f" | Feed {site['feed']}: found {len(feed_urls)} URLs",
+                        f" | Feed {site['feed']} -> found {len(feed_urls)} URLs",
                         end="",
                         flush=True,
                     )
