@@ -1,5 +1,6 @@
 import argparse
 from pathlib import Path
+import re
 
 from flair.nn import Classifier
 from flair.splitter import SegtokSentenceSplitter
@@ -7,9 +8,12 @@ from flair.splitter import SegtokSentenceSplitter
 import yaml
 from tqdm import tqdm
 
-
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
+
+
+def strip_non_alnum(s: str) -> str:
+    return re.sub(r"^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$", "", s)
 
 
 def parse_article(path: Path) -> tuple[dict, str]:
@@ -113,11 +117,11 @@ if __name__ == "__main__":
         for sentence in sentences:
             for label in sentence.get_labels():
                 if label.value == "LOC" and label.data_point.text not in locations:
-                    locations.append(label.data_point.text)
+                    locations.append(strip_non_alnum(label.data_point.text))
                 if label.value == "PER" and label.data_point.text not in people:
-                    people.append(label.data_point.text)
+                    people.append(strip_non_alnum(label.data_point.text))
                 if label.value == "ORG" and label.data_point.text not in orgs:
-                    orgs.append(label.data_point.text)
+                    orgs.append(strip_non_alnum(label.data_point.text))
 
         frontmatter["locations"] = sorted(filter_duplicate_names(locations))
         frontmatter["people"] = sorted(filter_duplicate_names(people))
