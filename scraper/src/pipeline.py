@@ -139,14 +139,6 @@ async def process_article(
         if "|" in title:
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
-    generated_categories = await asyncio.to_thread(
-        article_categories, title, description
-    )
-    categories = list(
-        dict.fromkeys((site.get("categories") or []) + generated_categories)
-    )
-
-    entities = named_entities(md_body)
 
     frontmatter: dict[str, Any] = {
         "title": title,
@@ -156,11 +148,7 @@ async def process_article(
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
-        "categories": categories,
         "image": image,
-        "people": entities.people,
-        "locations": entities.locations,
-        "organisations": entities.organisations,
     }
 
     path = output_path(site_slug, slug, file_date, output_dir=output_dir)
@@ -185,6 +173,25 @@ async def process_article(
         )
         logger.log(f"  [dry-run] would write {display_path}")
         return True
+
+    # No point in creating categories or entities (both relatively expensive) if they
+    # arent going to be written in the document
+    categories = list(
+        dict.fromkeys(
+            (site.get("categories") or []) + article_categories(title, description)
+        )
+    )
+
+    entities = named_entities(md_body)
+
+    frontmatter.update(
+        {
+            "categories": categories,
+            "people": entities.people,
+            "locations": entities.locations,
+            "organisations": entities.organisations,
+        }
+    )
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(

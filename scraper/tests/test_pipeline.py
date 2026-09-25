@@ -670,7 +670,7 @@ class TestProcessArticle:
         await process_article(
             url="https://example.com/article",
             site=make_site(categories=["News", "Politics"]),
-            dry_run=True,
+            dry_run=False,
             force=True,
             session=mock_session,
             browser=mock_browser_with_context,
