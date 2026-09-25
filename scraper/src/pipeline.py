@@ -28,6 +28,7 @@ from .slugs import url_to_slug
 from .text_extraction import (
     clean_markdown_formatting,
     extract_first_image_from_markdown,
+    filter_duplicate_names,
     linkify_text,
     normalize_inline_spacing,
     remove_excluded_elements,
@@ -187,9 +188,9 @@ async def process_article(
     frontmatter.update(
         {
             "categories": categories,
-            "people": entities.people,
-            "locations": entities.locations,
-            "organisations": entities.organisations,
+            "people": filter_duplicate_names(entities.people),
+            "locations": filter_duplicate_names(entities.locations),
+            "organisations": filter_duplicate_names(entities.organisations),
         }
     )
 
