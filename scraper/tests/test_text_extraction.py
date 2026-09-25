@@ -197,14 +197,22 @@ class TestRemoveExcludedElements:
       <div class="image-full-width-wrapper">
         <div class="image-widthsetter" style="max-width:676px;">
           <p class="vanilla-image-block">
-            <picture><img src="https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78.jpg" alt="Click to follow TechRadar"></picture>
+            <picture>
+              <img src="https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78.jpg"
+                   alt="Click to follow TechRadar">
+            </picture>
           </p>
         </div>
       </div>
     </figure>
   </a>
   <figure class="van-image-figure">
-    <p><img src="https://cdn.mos.cms.futurecdn.net/legit-article-image.jpg" alt="A real photo"></picture></p>
+    <p>
+      <picture>
+        <img src="https://cdn.mos.cms.futurecdn.net/legit-article-image.jpg"
+             alt="A real photo">
+      </picture>
+    </p>
   </figure>
 </div>"""
         xpath = "//figure[.//img[contains(@src, 'diM9tpwF2Lz85R8q85CT78')]]"
