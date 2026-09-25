@@ -125,6 +125,7 @@ sites:
     slug: gazette-herald
     categories: [Local, Harrogate, York]
     feed: https://www.gazetteherald.co.uk/News/rss/
+    exclude_query_params: true
     limit: 100
 
   - name: Wired
@@ -210,7 +211,6 @@ sites:
     remove_suffix: "- The Berliner"
     limit: 50
     categories: [Berlin, Germany, News & Politics]
-
 
   - name: The Local Germany
     slug: the-local-germany
