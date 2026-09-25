@@ -101,7 +101,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             COUNT=$(git diff --cached --name-only | wc -l)
-            git commit -m "scrape: add ${COUNT} article(s) [$(date -u +%Y-%m-%d)]"
+            git commit -m "scrape: add ${COUNT} article(s) [$(date -u +%Y-%m-%d)] [skip-ci]"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
