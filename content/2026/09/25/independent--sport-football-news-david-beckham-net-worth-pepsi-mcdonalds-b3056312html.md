@@ -13,6 +13,22 @@ categories:
 - Business & Entrepreneurship
 - Sports
 image: https://static.independent.co.uk/2026/07/12/08/01KX9G7TERTPY9P7Q3JACBN20F.jpg?trim=23,0,23,0&width=1200&height=800&crop=1200:800
+locations:
+- US
+people:
+- Corey Salter
+- David Beckham
+- Hugo Boss
+organisations:
+- Authentic Brands Group
+- Bank of America
+- DRJB Holdings
+- David Beckham Brands
+- David’s vehicle Footwork Productions
+- McDonald’s
+- PepsiCo Lay’s
+- Safilo
+- Verizon
 ---
 
 Sir David Beckham secured a payout of around £38 million from his media, fashion and sports business empire thanks to a surge in new fashion collections and commercial deals.

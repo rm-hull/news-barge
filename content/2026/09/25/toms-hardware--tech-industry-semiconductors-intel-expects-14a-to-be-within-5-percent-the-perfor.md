@@ -11,6 +11,25 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/XSmGCAUBerwsBhZgUEkxS-2560-80.jpg
+locations: []
+people:
+- Anton Shilov
+- Lip-Bu Tan
+- Tom
+organisations:
+- A14
+- AMD
+- Alex\_Intel
+- Apple
+- CPU
+- Google News
+- Intel Foundry
+- Intel's
+- KeyBanc
+- Naga Chandrasekaran
+- PPA
+- TSMC
+- Tom’s Hardware
 ---
 
 ![Intel](https://cdn.mos.cms.futurecdn.net/XSmGCAUBerwsBhZgUEkxS.jpg)

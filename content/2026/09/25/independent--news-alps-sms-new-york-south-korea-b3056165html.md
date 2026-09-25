@@ -13,6 +13,20 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/25/06/EU_Austria_Parking_Garage_Yodelingx_6_293.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Alps
+- Austria
+- Graz
+- New York
+- South Korea
+- U.S
+people:
+- Anna Maria Gutschi
+- Jamey Sohn
+- Rudolf Schmidhofer
+- Thomas Button
+- Yodeling
+organisations: []
 ---
 
 No mountains to practice on? No problem. Yodeling fans in Austria have moved their practice sessions to an underground parking garage, since it produces echoes like those they can get in the landscapes of the Alps.

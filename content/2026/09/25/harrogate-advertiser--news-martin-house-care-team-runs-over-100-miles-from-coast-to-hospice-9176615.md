@@ -11,6 +11,29 @@ categories:
 - Harrogate
 - Sports
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/25/9/32/Martin-House-care-team-celebrate-running-over-100-miles.jpeg?trim=66,0,67,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Boston Spa
+- Copmanthorpe
+- Crayke
+- East Yorkshire
+- Glaisdale
+- Helmsley
+- Martin House
+- North
+- Rosedale
+- Saltburn
+- Staithes
+- Tadcaster
+- West
+- Whitby
+- York
+people:
+- Hollie Siu
+- Martin House
+organisations:
+- Boston Spa
+- Care Team
+- Martin House Children
 ---
 
 # Martin House care team runs over 100 miles from coast to hospice

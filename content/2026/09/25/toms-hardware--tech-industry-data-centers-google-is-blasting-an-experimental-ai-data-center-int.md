@@ -15,6 +15,33 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/YayC3wPSmmRcR2qtkKzynS-1877-80.jpg
+locations:
+- California
+- China
+- Earth
+people:
+- James Manyika
+- Jeff Bezos
+- Oliver Haslam
+- Sam Altman
+- Tom
+organisations:
+- Amazon
+- Elon Musk
+- Gemini
+- Get Tom's Hardware
+- Google News
+- Intel
+- New York Times
+- Oliver Haslam
+- OpenAI
+- SVP
+- SpaceX
+- TPUs
+- Tensor Processing Units
+- Tesla
+- Vandenberg Space Force Base
+- xAI
 ---
 
 ![Earth from Space](https://cdn.mos.cms.futurecdn.net/YayC3wPSmmRcR2qtkKzynS.jpg)

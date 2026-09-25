@@ -11,6 +11,24 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/t7p3aKcK7sziExinNCa7Ej-320-80.jpg
+locations:
+- DPRK
+- Louisiana
+- US
+people:
+- Claude
+organisations:
+- Flock
+- Get Tom's Hardware
+- Hackron AI
+- Hertz
+- Intel
+- Intigriti
+- OpenAI
+- Shenzhen Zhibotong Electronics
+- Target
+- United States Coast Guard
+- Vulncheck
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/t7p3aKcK7sziExinNCa7Ej-320-80.jpg)

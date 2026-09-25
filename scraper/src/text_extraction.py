@@ -155,3 +155,30 @@ def remove_excluded_elements(
         )
 
     return cast(str, lxml_html.tostring(tree, encoding="unicode"))
+
+
+def filter_duplicate_names(names: list[str]) -> list[str]:
+    """
+    Remove single-word names (forename or surname fragments) that are
+    already covered by a fuller (multi-word) name in the list.
+
+    A single-word entry is dropped if it exactly matches one of the
+    whitespace-separated parts of some other multi-word entry.
+    Multi-word entries (including hyphenated ones like 'Stokes-McCullum',
+    since they don't split on whitespace) are always kept.
+    """
+    full_names = [n for n in names if len(n.split()) > 1]
+    fragment_pool = set()
+    for full in full_names:
+        fragment_pool.update(full.split())
+
+    result = []
+    for name in names:
+        if len(name.split()) > 1:
+            result.append(name)  # always keep full names
+        elif name in fragment_pool:
+            continue  # drop fragment covered by a fuller name
+        else:
+            result.append(name)  # keep standalone single-word names
+
+    return result

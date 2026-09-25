@@ -14,6 +14,16 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/18103663.jpg?type=og-image&xType=0&yType=32
+locations:
+- A59
+- Ripon
+- Skipton
+- West Marton
+people: []
+organisations:
+- A59
+- HGV
+- North Yorkshire Fire and Rescue Service
 ---
 
 *(Image: NYP)*

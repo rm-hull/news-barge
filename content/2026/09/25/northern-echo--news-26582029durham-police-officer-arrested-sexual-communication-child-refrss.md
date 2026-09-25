@@ -12,6 +12,12 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21282401.jpg?type=og-image&xType=0&yType=83
+locations: []
+people:
+- Stuart Boulton
+organisations:
+- Durham Police
+- Northern Echo
 ---
 
 *(Image: Stuart Boulton)*

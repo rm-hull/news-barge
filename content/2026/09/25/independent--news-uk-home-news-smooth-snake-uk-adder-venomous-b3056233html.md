@@ -12,6 +12,16 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/25/8/28/smooth-snake-644af660.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+people:
+- Alessandro Paterna
+- Duvernoy
+- Grégoire Meier
+organisations:
+- European Protected Species
+- International Union for Conservation of Nature
 ---
 
 Great Britain has always been thought to be home to a single venomous snake species, the adder. Although its bites are rarely life-threatening, they will require a trip to A&E and more than likely ruin your week. On the other hand, the other two native British snakes, the grass and smooth snakes, have been largely considered non-venomous.

@@ -14,6 +14,22 @@ categories:
 - Arts & Culture
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21498460.jpg?type=og-image
+locations:
+- Britain
+- Halifax
+- Jarrow Town Hall
+- London
+- Newcastle
+- North East
+- South Tyneside
+people:
+- Jarrow
+- Peter Rabbit
+- Stan Wildhirt
+- Susan Sybenga
+organisations:
+- All Lloyds
+- South Tyneside Council
 ---
 
 *(Image: Supplied)*

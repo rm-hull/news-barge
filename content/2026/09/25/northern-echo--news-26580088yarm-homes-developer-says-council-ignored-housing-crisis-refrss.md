@@ -15,6 +15,23 @@ categories:
 - Real Estate
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21499127.jpg?type=og-image
+locations:
+- County Durham
+- Dunedin House
+- Green Lane
+- Thornaby
+- YOUR
+- Yarm
+people:
+- George Underwood
+- John Hunter
+- Sasha White
+- Taylor Wimpey
+organisations:
+- Northern Powergrid
+- Public Notice Portal
+- Stockton Borough Council
+- THE NORTHERN ECHO
 ---
 
 *(Image: THE NORTHERN ECHO / TW)*

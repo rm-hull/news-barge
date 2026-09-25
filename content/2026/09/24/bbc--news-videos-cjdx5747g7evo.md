@@ -11,6 +11,14 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed8d/live/b044a2f0-b862-11f1-a430-4d16ee157c41.jpg
+locations:
+- Canada
+- US
+people:
+- Mark Carney
+organisations:
+- BBC
+- The New York Times
 ---
 
 # A military threat from US? Canadians react to Carney's concerns

@@ -11,6 +11,25 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/sky-blue-restaurant-york-window.webp
+locations:
+- Barbican Road
+- Birmingham
+- UK
+- York
+people:
+- Kheng Chooi Koay
+- Zhong Le Chen
+organisations:
+- CCTV
+- City of York Council
+- HMRC
+- Home Office
+- ICE
+- Immigration Compliance and Enforcement
+- Sky Blue
+- Sky Blue Chinese Restaurant
+- Sky Blue York Ltd
+- The Regency Chinese Restaurant
 ---
 
 A York restaurant has been stripped of its licence after illegal workers were found during immigration raids.

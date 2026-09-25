@@ -56,6 +56,12 @@ jobs:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ hashFiles('scraper/uv.lock') }}
 
+      - name: Cache flair NER model
+        uses: actions/cache@v6
+        with:
+          path: ~/.flair/models
+          key: ${{ runner.os }}-flair
+
       - name: Cache taxotag model
         uses: actions/cache@v6
         with:
@@ -103,10 +109,10 @@ jobs:
   build-and-deploy:
     name: Build site and deploy
     needs: scrape
-    # Always build on manual dispatch; on schedule only if there's new content
+    # Always build on manual dispatch; on schedule only if there's new content; skip for branch pushes
     if: |
       github.event_name == 'workflow_dispatch' ||
-      needs.scrape.outputs.changed == 'true'
+      (needs.scrape.outputs.changed == 'true' && !(github.event_name == 'push' && github.ref_type == 'branch'))
     runs-on: ubuntu-latest
     environment:
       name: github-pages

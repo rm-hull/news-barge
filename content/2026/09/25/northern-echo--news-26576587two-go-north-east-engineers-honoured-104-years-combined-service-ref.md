@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - Careers & Productivity
 image: https://www.thenorthernecho.co.uk/resources/images/21493963.jpg?type=og-image&xType=0&yType=66
+locations:
+- Gateshead
+- Go North East
+- North East
+- Riverside
+- Saltmeadows
+people:
+- Ben Gilligan
+- Billy Cummings
+- Glen Minikin
+- John Jackson
+- Read More
+organisations:
+- Go North East
+- Go.B.E
 ---
 
 *(Image: Glen Minikin/Go North East)*

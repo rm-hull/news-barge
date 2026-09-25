@@ -13,6 +13,38 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/25/11/Saudi_Arabia_National_Day_1159_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Egypt
+- Gaza Israel
+- Iran
+- Iraq
+- Lebanon
+- Middle East
+- New York
+- Saudi Arabia
+- U.S
+- Yemen
+people:
+- Al-Fawzan
+- God
+- Nadav Kali
+- Ofek Moalem
+- Philippe Lazzarini
+- Saleh al-Fawzan
+organisations:
+- Board of Peace
+- General Assembly
+- Grand Mufti
+- Hamas
+- International Court of Justice
+- Saudi Press Agency
+- The Associated Press
+- U.N
+- U.N
+- U.N
+- U.N
+- UNRWA
+- United Nations
 ---
 
 Saudi Arabia's top cleric has issued a rare statement, calling on the kingdom's troops to defend the country from the Iran-backed Houthi rebels in neighboring Yemen. Israel's military, meanwhile, said two soldiers were killed in Gaza while inspecting an unexploded Israeli drone.

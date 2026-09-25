@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/75/95/1200x675_cmsv2_70d8f641-0311-5343-aa5d-bfece091befb-9927595.jpg
+locations:
+- Alps
+- Graz
+- Kaiser-Franz-Josef-Kai
+people:
+- Anna Maria Gutschi
+organisations:
+- Graz
+- Styrian Folk Song Association
 ---
 
 For more than an hour, around 30 singers followed teacher Anna Maria Gutschi through Graz's Kaiser-Franz-Josef-Kai underground car park, gradually making their way to its deepest section in search of the richest sound. There, the acoustics proved particularly strong. Gutschi said the broad corridors and reflective walls generated echoes similar to those found high in the mountains.

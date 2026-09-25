@@ -12,6 +12,24 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f40c/live/6f491a90-b837-11f1-b4bc-39c67eb36497.jpg
+locations:
+- England
+- London
+- South Kensington
+people:
+- Daniel Roseberry
+- Mike Clancy
+organisations:
+- Members of Prospect
+- PCS
+- Public and Commercial Services union
+- Schiaparelli
+- The V&A
+- Trade Union
+- Trade Unions
+- V&A East Museum and Storehouse
+- V&A South Kensington
+- Young V&A
 ---
 
 ![Exterior of the V&A in London](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f40c/live/6f491a90-b837-11f1-b4bc-39c67eb36497.jpg)

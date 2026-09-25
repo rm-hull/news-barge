@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499896.jpg?type=og-image&xType=0&yType=71
+locations:
+- BD5
+- Bradford
+- Park Side Road
+- Park Way
+- Springwood Gardens
+- West Yorkshire
+- Woodroyd Terrace
+people: []
+organisations:
+- Bradford East Neighbourhood Policing Team
+- Google Maps)* Police
+- West Yorkshire Police
 ---
 
 *(Image: Google Maps)*

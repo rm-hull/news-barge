@@ -11,6 +11,49 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/KkfVmyhUNGVrMShzNCowNA-1920-80.png
+locations:
+- Australia
+- CA
+- Canada
+- UK
+- US
+people:
+- Amanda Cordner
+- Ann
+- Ayami Sato
+- Barb
+- Boris
+- Carolyn Taylor
+- Chelsea Muirhead
+- Chris Locke
+- Chris Sandiford
+- Don MacLean Jr
+- Emily Hampshire
+- Emma Hunter
+- Gwenlyn Cumyn
+- J Stevens
+- Jess Salgueiro
+- Joanne Pico
+- Karen Knox
+- Khadijah Roberts-Abdullah
+- Lane Webber
+- Laura De Carteret
+- Leanne
+- Lee
+- Mel
+- Nadine Bhabha
+- Sasha
+- Varun Saranga
+- Zari
+organisations:
+- Future Publishing
+- LGBTQ
+- League
+- NordVPN
+- Public Lass Brovaries
+- Sky
+- TechRadar
+- Toronto Blue Gays
 ---
 
 ![The cast of Slo Pitch, led by Jess Salgueiro as Joanne Pico](https://cdn.mos.cms.futurecdn.net/KkfVmyhUNGVrMShzNCowNA.png)

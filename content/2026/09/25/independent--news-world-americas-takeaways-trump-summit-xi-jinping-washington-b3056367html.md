@@ -12,6 +12,36 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/10/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- Japan
+- Ming
+- Rose Garden
+- South Lawn
+- Taiwan
+- US
+- United States
+- Washington
+- White House
+people:
+- Donald Trump
+- Jensen Huang
+- Sam Altman
+- Scott Bessent
+- Sundar Pichai
+- Washington
+- Xi Jinping
+organisations:
+- AI
+- Alphabet
+- Congress
+- Nvidia
+- OpenAI
+- SI
+- Trump
+- US Department of Justice
+- US Treasury
 ---
 
 US president Donald Trump welcomed Chinese president Xi Jinping to the White House on Thursday, with talks on trade and ​artificial intelligence and the growing strategic rivalry between the countries all in the spotlight during an elaborate state visit.

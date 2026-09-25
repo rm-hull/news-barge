@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/74/89/1200x675_cmsv2_233fa158-2436-52ef-95cc-3efbf7303453-9927489.jpg
+locations:
+- France
+- Iran
+- Oise
+- Saint-Just-en-Chaussée
+people:
+- Kevin Luce
+- Martial Realland
+organisations: []
 ---
 
 ## In the Oise department, soaring energy prices driven by the war in Iran are hitting rural businesses hard, as they face rocketing bills for heating oil and diesel.

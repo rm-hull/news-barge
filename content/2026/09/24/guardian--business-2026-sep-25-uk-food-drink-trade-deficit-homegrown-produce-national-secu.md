@@ -11,6 +11,25 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/3172af30eef264bc61c6f7a2080329ce57527524/471_0_4708_3767/master/4708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5935e9bb1ff810bcb112386bb3f4530d
+locations:
+- Australia
+- Britain
+- China
+- Iran
+- Middle East
+- UAE
+- UK
+- US
+people:
+- Karen Betts
+- Rachel Reeves
+- Tom Bradshaw
+organisations:
+- Brexit
+- EU
+- FDF
+- Food & Drink Federation
+- National Farmers’ Union of England and Wales
 ---
 
 The gap between Britain’s food and drink exports and imports has neared its highest this century, as a combination of Brexit, war in the Middle East and US tariffs dented deliveries overseas while imports soared.

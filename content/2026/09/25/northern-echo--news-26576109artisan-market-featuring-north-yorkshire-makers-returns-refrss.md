@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21493796.jpg?type=og-image
+locations:
+- Market Place
+- North Yorkshire
+- Richmond Castle
+people:
+- Jackie Crozier
+- Tara Marshall
+organisations:
+- Angel Skin Products
+- Little Bird Made
+- Little Bird Made Artisan Market
 ---
 
 A market showcasing some of the region’s best independent traders is set to return to a North Yorkshire town, giving shoppers the chance to browse artisan food, crafts and seasonal products.

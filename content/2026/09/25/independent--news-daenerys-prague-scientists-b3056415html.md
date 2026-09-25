@@ -14,6 +14,13 @@ categories:
 - Family & Parenting
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/25/13/Czech_RepublicBaby_Cheetahs_17321.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cheetahs
+- Prague Zoo
+people:
+- Daenerys
+- Pavel Brandl
+organisations: []
 ---
 
 Five cheetah cubs had to survive a weather scare and the illness of their mother after their birth at the Prague Zoo. But they are doing well now, the zoo said on Friday.

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f50/live/f3a93430-b27b-11f1-b9d9-1daf2e675d85.jpg
+locations:
+- Clyde Metro
+- East Kilbride
+- Holyrood
+- Scotland
+people:
+- Collette Stevenson
+- Graeme Cook
+- Stephen Gethins
+organisations:
+- Facebook
+- MSP
+- SNP
+- Transport Scotland
 ---
 
 ![Collette Stevenson in Holyrood. She is wearing a black and white jacket and black top.](https://ichef.bbci.co.uk/ace/standard/869/cpsprodpb/6f50/live/f3a93430-b27b-11f1-b9d9-1daf2e675d85.jpg)

@@ -14,6 +14,24 @@ categories:
 - Technology & Software
 - History
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI313523164.jpg
+locations:
+- New York
+- Texas
+- Times Square
+- Tokyo
+people:
+- Claire Bennet
+- Hayden Panettiere
+- Hiro Nakamura
+- Isaac Mendez
+- Matt Parkman
+- Mohinder Suresh
+- Peter Petrelli
+- Shankar
+- Sylar
+- Tim Kring
+organisations:
+- FBI
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI313523164.jpg?w=840)

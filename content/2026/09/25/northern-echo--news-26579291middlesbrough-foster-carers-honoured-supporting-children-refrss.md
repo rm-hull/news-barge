@@ -14,6 +14,20 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21498572.jpg?type=og-image
+locations:
+- Middlesbrough
+- North East
+- North Yorkshire
+- The Staiths
+people:
+- Chris Cooke
+- Foster
+- Valentina
+organisations:
+- AV Dawson
+- Annabel Bates
+- Middlesbrough Council
+- North East
 ---
 
 *(Image: Middlesbrough Council)*

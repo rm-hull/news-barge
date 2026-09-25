@@ -11,6 +11,12 @@ description: Sony has rolled out a new PlayStation Portal software update to imp
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/YycMFdfvT7BbckSgFNFTz6-2560-80.jpeg
+locations: []
+people:
+- Song
+organisations:
+- PS Portal
+- Sony
 ---
 
 ![The PlayStation Portal handheld games console being held in the hands of a model](https://cdn.mos.cms.futurecdn.net/YycMFdfvT7BbckSgFNFTz6.jpeg)

@@ -12,6 +12,15 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/02/NJ_Lieutenant_Gov_Misconduct_99199.jpg?width=1200&height=800&crop=1200:800
+locations:
+- East Brunswick
+- New Jersey
+people:
+- Dale Caldwell
+- Mikie Sherrill
+- Thomas Calcagni
+organisations:
+- Administration
 ---
 
 The governor of New Jersey requested on Thursday that the state's lieutenant governor, Dale Caldwell, step down by Friday following an inquiry by a hired law firm concluding he breached ethics and anti-discrimination policies.

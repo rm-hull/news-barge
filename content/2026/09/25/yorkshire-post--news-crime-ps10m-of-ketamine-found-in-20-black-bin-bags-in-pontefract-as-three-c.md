@@ -15,6 +15,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg4MTVkNDY2LWI5MDYtNDFmMy05N2RiLTAyY2MxZjZiNmQwMDowYzg1ZTQ0ZC1jMTEyLTQwZmQtYTI0OC0yMWUxN2I4Yjk4Mzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Common Lane
+- Leeds Magistrates Court
+- Pontefract
+- Rose Avenue
+- Sunny Avenue
+- UK
+- Upton
+- Wolverhampton
+- Yorkshire
+people:
+- Christopher Wills
+- Curtis Binns
+- Paul Turner
+organisations:
+- Humber Regional Organised Crime Unit
+- Humber Regional Organised Crime Unit
+- Pontefract
+- West Yorkshire Police
 ---
 
 # £10m of ketamine found in 20 black bin bags in Pontefract as three charged

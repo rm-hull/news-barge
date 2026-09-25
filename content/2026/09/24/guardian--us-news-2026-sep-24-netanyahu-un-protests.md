@@ -12,6 +12,54 @@ categories:
 - News & Politics
 - Comedy & Entertainment
 image: https://i.guim.co.uk/img/media/76ecd88784b846d7ab3939c6ac73f339e97f17a8/342_0_3411_2729/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a407ee3f9f40c2f2af75a57ccbfd80b
+locations:
+- America
+- Bryant Park
+- Colorado
+- Free Palestine
+- Gaza
+- Israel
+- John F Kennedy
+- New Jersey
+- New York
+- New York City
+- Pennsylvania
+- The Hague
+- US
+people:
+- Abby Stein
+- Aber Kawas
+- Adam Hamawy
+- Benjamin Netanyahu
+- Beth Miller
+- Brad Lander
+- Caleb Hearon
+- Chelsea Manning
+- Chi Oss
+- Chris Rabb
+- Darializa Avila Chevalier
+- David Valesco
+- Debra Winger
+- Glennon Doyle
+- Hannah Einbinder
+- Him
+- Indya Moore
+- Linda Sarsour
+- Melat Kiros
+- Nas Issa
+- Susan Sarandon
+- Tiffany Cabán
+- Trump
+- Zohran Mamdani
+organisations:
+- Democratic Socialists of America
+- Guardian
+- Jewish Voice for Peace Action
+- NYPD
+- New York
+- Palestinian Youth Movement
+- UN
+- United Nations
 ---
 
 More than 100 people were arrested outside the United Nations’ headquarters in New York City on Thursday as Benjamin Netanyahu addressed the general assembly, a speech that also prompted dozens of UN delegates to walk out in protest.

@@ -12,6 +12,34 @@ categories:
 - Harrogate
 - Food & Cooking
 image: https://mmo.aiircdn.com/409/6631e06a516da.jpg
+locations:
+- Horsham
+- Horto
+- Killiecrankie House
+- Kitchen Garden
+- London
+- London’s Park Plaza Westminster Bridge
+- Manchester
+- Pitlochry
+- Rudding Park
+people:
+- Adam Degg
+- Adam Reid
+- Emma
+- Jean Delport
+- Other Adam
+- Tom Tsappis
+organisations:
+- AA Rosettes
+- Chiltern Firehouse
+- FIFTY TWO
+- Hotel Cateys
+- Kitchen Garden
+- Michelin
+- Restaurant Interlude
+- Rudding Park
+- The French
+- Wild Honey
 ---
 
 ![](https://mmo.aiircdn.com/409/6631e06a516da.jpg)

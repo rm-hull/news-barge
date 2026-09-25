@@ -12,6 +12,61 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/o3FfrrVSdmKFWeMeWAM3w6-2560-80.jpg
+locations:
+- Australia
+- Berlin
+- Canada
+- Chicago
+- England
+- France
+- London
+- NZ
+- New Zealand
+- San Francisco
+- Spain
+- Team Europe
+- The O2
+- UK
+- US
+- United Kingdom
+people:
+- Alex de Minaur
+- Alexander Bublik
+- Alexander Zverev
+- Andre Agassi
+- Brandon Nakashima
+- Carlos Alcaraz
+- Casper Ruud
+- Flavio Cobolli
+- Francisco Cerúndolo
+- Jakub Mensik
+- Rafael Jodar
+- Rod Laver
+- Roger Federer
+- Taylor Fritz
+- Yannick Noah
+organisations:
+- ATP
+- AU
+- Future Publishing
+- NOW Sports
+- No. 2
+- O2 Arena
+- Premier League
+- RTVE
+- Roland-Garros
+- Sky Sport
+- Sky Sports
+- Sporting News
+- Stan Sport
+- Super Rugby
+- TEAM8
+- TSN
+- Team Europe
+- Team World
+- TechRadar
+- Tennis Australia
+- Tennis Channel
 ---
 
 ![ Carlos Alcaraz of Team Europe plays a backhand during a practice session ahead of Laver Cup 2026 at The O2 on September 22, 2026 in London, England.](https://cdn.mos.cms.futurecdn.net/o3FfrrVSdmKFWeMeWAM3w6.jpg)

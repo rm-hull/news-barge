@@ -14,6 +14,49 @@ categories:
 - Music
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21496938.jpg?type=og-image&xType=0&yType=27
+locations:
+- Basht
+- Birmingham
+- Darlington
+- Esmerelda Road
+- Glasgow
+- Ireland
+- Manchester
+- North East
+- Stockton
+- Teesside
+- UK
+people:
+- Basht
+- Charlie Floyd
+- Daisy Brown
+- George Bailey
+- Jordan Kean
+- Little Grandad
+- Swindled
+- Tom A. Smith
+organisations:
+- 24 Hours In Paris
+- ARC Stockton Arts Centre
+- ARC2
+- Esmeralda Road
+- Fontaines D.C
+- Gathering Sounds
+- Georgian Theatre
+- KU Stockton
+- Little Grandad
+- North East
+- Overpass
+- Shelf Lives
+- Sports Team
+- TTSSFU
+- TTSSFU
+- The Gathering Sounds
+- The Link
+- The Royston Club
+- The Social Room
+- VLURE
+- Vlure
 ---
 
 More than 50 artists are heading to Teesside this weekend as a local music festival returns with its biggest line-up yet.

@@ -13,6 +13,16 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21050678.jpg?type=og-image
+locations:
+- York Outer
+people:
+- Baroness Casey
+- Luke Charters
+- Lyndsay Lindley
+- Sara Storey
+organisations:
+- City of York Council
+- University of York
 ---
 
 *(Image: Supplied)*

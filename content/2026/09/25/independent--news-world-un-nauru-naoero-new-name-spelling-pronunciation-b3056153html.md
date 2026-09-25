@@ -13,6 +13,49 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2025/08/29/13/46/iStock-1473363761.jpeg?trim=0,3,0,3&width=1200&height=800&crop=1200:800
+locations:
+- Africa
+- Australia
+- Benin
+- Burkina Faso
+- Burma
+- Ceylon
+- Dahomey
+- Germany
+- Ghana
+- Gold Coast
+- Iran
+- Myanmar
+- Naoero
+- Nauru
+- Nauruan
+- New York
+- New Zealand
+- Persia
+- Rhodesia
+- South Pacific
+- Sri Lanka
+- Swaziland
+- Thailand
+- Turkey
+- Turkiye
+- United Kingdom
+- Upper Volta
+- Zimbabwe
+people:
+- David Adeang
+- David Ranibok Adeang
+- Naoero
+- Nauru
+- Siam
+organisations:
+- Eswatini
+- General Assembly
+- NRO
+- NRU
+- U.N
+- United Nations
+- United Nations General Assembly
 ---
 
 The tiny South Pacific island nation of Nauru, its president said, had changed its name — and reclaimed its heritage in the process.

@@ -12,6 +12,20 @@ categories:
 - York
 - Science
 image: https://www.yorkpress.co.uk/resources/images/20681805.jpg?type=og-image
+locations:
+- A64
+- AA
+- Barton Hill
+- North Lane
+- Popular York
+- Scarborough
+- Towthorpe Moor Lane
+- UGC
+- UK
+people: []
+organisations:
+- A64
+- AA
 ---
 
 ## Severe delays on the A64 with congestion building for motorists

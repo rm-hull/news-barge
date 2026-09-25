@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/77/72/1200x675_cmsv2_24f1db0f-cfeb-5260-981f-311d060aeef1-9927772.jpg
+locations:
+- Ishigaki
+- Japan
+- South Africa
+people:
+- Lady Zamar
+- Mafikizolo
+- Matthew Mole
+- Shekhinah
+organisations:
+- Guinness
 ---
 
 Around **3,000 participants** were expected for**The World’s Biggest Braai**, held on** Heritage Day**, with roughly** 500 pre-lit stations** prepared across the venue.

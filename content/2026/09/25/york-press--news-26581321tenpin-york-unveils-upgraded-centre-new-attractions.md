@@ -12,6 +12,26 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21500732.jpg?type=og-image
+locations:
+- Clifton Moor
+- Clifton Moor Centre
+- Pocklington
+- Popular York
+- Ripon
+- TIM HILLS
+- Tenpin York
+- UK
+people:
+- Houdini
+- Marc Couget
+- Tenpin
+organisations:
+- CAMRA
+- Sam Smith
+- Sky Sports
+- TNT
+- Tenpin Ltd
+- Tenpin York
 ---
 
 ## Popular York attraction unveils karaoke rooms, interactive darts and soft play

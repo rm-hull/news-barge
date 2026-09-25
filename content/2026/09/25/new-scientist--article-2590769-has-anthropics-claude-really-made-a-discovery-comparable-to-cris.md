@@ -12,6 +12,21 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313839108.jpg
+locations:
+- Berkeley
+- Japan
+- Spain
+people:
+- Alyssa Tapley
+- Claude
+- Francisco Mojica
+- Jennifer Doudna
+organisations:
+- AI
+- Anthropic
+- CRISPR
+- University of Alicante
+- University of California
 ---
 
 ![CRISPR-Cas9 gene editing technology](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313839108.jpg?w=840)

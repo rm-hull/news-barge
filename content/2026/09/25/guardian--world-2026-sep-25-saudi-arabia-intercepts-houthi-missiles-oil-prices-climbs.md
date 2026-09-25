@@ -11,6 +11,31 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/0cced5f15101e20b40aa39b9e15cbeff90445226/614_0_4174_3339/master/4174.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac738e65b96a1db8d6b4b027a2c0abe5
+locations:
+- Aden
+- Bab el-Mandeb
+- Hejat al-Abd
+- Hormuz
+- Iran
+- Middle East
+- Pakistan
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Saudi Aramco
+- Taif
+- Taiz
+- Tanbu
+- Turkey
+- US
+- Yanbu
+- Yemen
+people:
+- Abdullah Abdulkader al Alimi-Bawzer
+organisations:
+- Associated Press
+- Reuters
+- UN
 ---
 
 Saudi Arabia says it intercepted six ballistic missiles fired by Yemen’s Iran-backed Houthis, with the latest attacks pushing oil prices ⁠to a one-week high over fears of spiralling supply disruptions.

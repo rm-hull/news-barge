@@ -14,6 +14,15 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21497211.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Bishop Auckland Stack
+- SARAH CALDECOTT
+people:
+- Paul Darby
+organisations:
+- Bishop Auckland Town Hall
+- Durham County Council
 ---
 
 *(Image: SARAH CALDECOTT)*

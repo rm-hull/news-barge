@@ -11,6 +11,28 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/71/97/1200x675_cmsv2_3eb8a3f7-0061-59ad-89f2-126bfd6121f9-9927197.jpg
+locations:
+- Britain
+- France
+- Gaza
+- Iran
+- Israel
+- New York
+- New York City
+- UK
+- US
+people:
+- Benjamin Netanyahu
+- God
+- Louise
+- Susan Sarandon
+- Zohran Mamdani
+organisations:
+- AFP
+- ICC
+- International Criminal Court
+- NYPD Community Affairs Bureau
+- United Nations General Assembly
 ---
 
 ## The speech came as demonstrators gathered in New York to protest against the Israeli leader, with around 100 people reportedly detained by police.

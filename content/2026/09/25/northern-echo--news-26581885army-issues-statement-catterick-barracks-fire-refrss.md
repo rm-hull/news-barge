@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/20718710.jpg?type=og-image
+locations:
+- Bedale
+- Catterick Garrison
+- County Durham
+- Darlington
+- Gaza Barracks
+- Leyburn
+- Masham
+- Northallerton
+- Reeth
+- Richmond
+people: []
+organisations:
+- Council
+- Fire Investigation
+- NEWSQUEST
+- North Yorkshire Fire and Rescue Service
+- The Northern Echo
 ---
 
 *(Image: NEWSQUEST)*

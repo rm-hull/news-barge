@@ -11,6 +11,33 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/67d305784dfd315cace78bf9474fb8c26a114654/911_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bdca6502c5cbc63719cb11d6b064f87
+locations:
+- America
+- Atlanta
+- Beijing
+- Busan
+- China
+- Iran
+- Taiwan
+- US
+- Ukraine
+- White House
+people:
+- Biden
+- Donald Trump
+- Julian Gewirtz
+- Melania Trump
+- Neil Thomas
+- Peng Liyuan
+- William Yang
+- Xi Jinping
+organisations:
+- AI
+- Asia Society
+- International Crisis Group
+- Joint Base Andrews
+- Trump
+- US Senate
 ---
 
 If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.

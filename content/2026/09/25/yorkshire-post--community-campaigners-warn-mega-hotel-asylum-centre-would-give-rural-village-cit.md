@@ -14,6 +14,19 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI0ZGZiZTQwLWY5NmUtNDA5Mi05ZjVkLWJhMDE0NjM3MWUwMjpkZTQ4NmYwOC03YjM5LTRhNDQtODljOC1jOGIyNWY5MDJjNGI=.jpg?crop=3:2,smart&trim=&width=832&auto=webp&quality=75
+locations:
+- North Yorkshire
+- RAF Linton-on-Ouse
+people:
+- Olga Matthias
+organisations:
+- CCTV
+- Home Office
+- Linton-on-Ouse Community Action Group
+- Local Democracy Reporting Service
+- Local Resilience Forum
+- North Yorkshire Council
+- North Yorkshire Police
 ---
 
 # Campaigners warn 'mega hotel' asylum centre would give rural village ‘city-sized problems’

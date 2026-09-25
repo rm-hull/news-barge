@@ -12,6 +12,19 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21492366.jpg?type=og-image
+locations:
+- Fourth Avenue
+- North Yorkshire
+- Tang Hall
+- York
+people:
+- Julie Dalzell
+- Kashif Khan
+- Mohammed Latif Ahmad
+- Ms Dalzell
+organisations:
+- 4th Avenue Shop
+- Newsquest
 ---
 
 ## Magistrates reject police bid to keep York shop at centre of major raid closed

@@ -13,6 +13,22 @@ categories:
 - Home, Garden & DIY
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/031b/live/9f829700-b831-11f1-b4bc-39c67eb36497.jpg
+locations:
+- Bedfordshire
+- Herts
+- Kempston Hardwick
+- Manor Road
+- Milton Keynes Central
+- UK
+people:
+- Emily Darlington
+- Ritchie Wood
+organisations:
+- BBC
+- Bedfordshire Journey
+- Disneyland Paris
+- Labour
+- Universal
 ---
 
 ![Ritchie Wood has his hair swept backwards and is wearing glasses and a dark purple T-shirt. He is standing in his back garden with his brick house behind him.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/031b/live/9f829700-b831-11f1-b4bc-39c67eb36497.jpg)

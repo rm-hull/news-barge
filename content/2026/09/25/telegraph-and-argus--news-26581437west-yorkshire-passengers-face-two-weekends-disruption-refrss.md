@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21500796.jpg?type=og-image
+locations:
+- Colton Junction
+- Darlington
+- Doncaster
+- East Coast Main Line
+- Leeds
+- North Yorkshire
+- Northallerton
+- Tollerton North
+- WEST Yorkshire
+- York
+people:
+- Gunnar Lindahl
+organisations:
+- LNER
+- National Rail
+- Network Rail
 ---
 
 *(Image: Supplied)*

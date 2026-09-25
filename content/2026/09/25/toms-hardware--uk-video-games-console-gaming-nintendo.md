@@ -12,6 +12,15 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/Sj4Dce8mY2XbR88g8wA9nL-320-80.png
+locations:
+- Washington
+people: []
+organisations:
+- Fork
+- GTA VI
+- Get Tom's Hardware
+- Nintendo
+- YouTuber Kouzex
 ---
 
 ![Nintendo logo](https://cdn.mos.cms.futurecdn.net/Sj4Dce8mY2XbR88g8wA9nL-320-80.png)

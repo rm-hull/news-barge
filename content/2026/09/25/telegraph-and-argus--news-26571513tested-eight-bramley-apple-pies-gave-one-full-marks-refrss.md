@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21486479.jpg?type=og-image
+locations:
+- England
+people:
+- Lidl
+- Mary Berry
+- Morrisons
+- Mr Kipling
+- Rowan Hill
+- Rowan Hill Bakery
+organisations:
+- Aldi
+- Asda
+- Bramley Apple Pies
+- M&S
+- Tesco
+- The Bakery
 ---
 
 APPLE pie season is here, when the fruit comes into its own.

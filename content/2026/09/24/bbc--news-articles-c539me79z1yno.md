@@ -12,6 +12,36 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16ba/live/5491a2f0-b849-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Beijing
+- Capitol Building
+- China
+- Iran
+- North America
+- UK
+- US
+- Ukraine
+- United States
+- Washington
+- White House
+people:
+- Anthony Zurcher
+- Donald Trump
+- How Trump
+- Jennifer Welch
+- Mike Pompeo
+- Miles Yu
+- Robyn Klingler-Vida
+- Scott Bessent
+- Xi Jinping
+organisations:
+- American AI
+- BBC
+- Bloomberg Economics
+- Kings College London
+- Trump
+- US Politics Unspun
+- US Treasury
 ---
 
 A red carpet and military flyover - How Trump welcomed Xi

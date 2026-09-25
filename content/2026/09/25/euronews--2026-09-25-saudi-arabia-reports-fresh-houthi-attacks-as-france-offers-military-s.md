@@ -13,6 +13,40 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/72/05/1200x675_cmsv2_17fb3336-e073-570b-84e0-83f3cb0efca1-9927205.jpg
+locations:
+- Bab al-Mandab
+- East-West
+- France
+- Gulf
+- Iran
+- Jeddah
+- Kahboub Mountains
+- Lahj
+- Mecca
+- Middle East
+- Red Sea
+- Riyadh
+- Saudi Arabia
+- Tabuk
+- Taif
+- Taiz
+- Tehran
+- Yanbu
+- Yemen
+people:
+- Emmanuel Macron
+- Masoud Pezeshkian
+- Turki al-Maliki
+organisations:
+- AFP
+- Aramco
+- Fox News
+- France
+- Houthis
+- Macron
+- Petroline
+- Saudi Civil Defence
+- TF1
 ---
 
 ## Yanbu serves as the kingdom's primary crude export terminal on the Red Sea and is connected to its oil-producing regions near the Gulf coast by the East-West pipeline, also known as Petroline.

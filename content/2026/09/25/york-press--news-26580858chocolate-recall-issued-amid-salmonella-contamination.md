@@ -13,6 +13,19 @@ categories:
 - Health & Fitness
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21500087.jpg?type=og-image
+locations:
+- England
+- Northern Ireland
+- UK
+people: []
+organisations:
+- Alyan Dubai
+- Alyan Dubai Style Crunchy Knafeh
+- Dubai Style Crunchy Knafeh
+- FSA
+- Food Standards Agency
+- Pistachio Milk Chocolate
+- World of Sweets
 ---
 
 *(Image: Getty Images)*

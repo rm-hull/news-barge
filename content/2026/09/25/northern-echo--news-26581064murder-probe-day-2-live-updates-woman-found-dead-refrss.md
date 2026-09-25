@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21500421.jpg?type=og-image
+locations:
+- Darlington
+people:
+- Olivia Howlett
+organisations: []
 ---
 
 * Welcome to The Northern Echo’s live breaking blog on day two of the murder investigation in Darlington.

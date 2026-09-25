@@ -13,6 +13,21 @@ categories:
 - Harrogate
 - Travel
 image: https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg
+locations:
+- Harrogate
+- Knaresborough
+- Knaresborough’s Viaduct Terrace
+- Network Rail
+- River Nidd
+- Viaduct Terrace
+people:
+- Cllr Walker
+- Hannah Gostlow
+- Matt Walker
+- Phil Richardson
+organisations:
+- Network Rail
+- North Yorkshire Council
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg)

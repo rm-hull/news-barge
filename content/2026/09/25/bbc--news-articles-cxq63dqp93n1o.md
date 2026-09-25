@@ -12,6 +12,56 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg
+locations:
+- America
+- Beijing
+- China
+- Taiwan
+- US
+- United States
+- Washington Trump
+- Washington, D.C
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Jared Kushner
+- Jeff Bezos
+- Jeff Yass
+- Jensen Huang
+- Marco Rubio
+- Mark Zuckerberg
+- Melania Trump
+- Monica Crowley
+- Nixon
+- Pete Hegseth
+- Sam Altman
+- Schramsberg Blanc De Noir
+- Sundar Pichai
+- Tim Cook
+- Xi Jinping
+- Zhou Enlai
+organisations:
+- AI
+- Amazon
+- Anthropic
+- Apple
+- BBC
+- Bill of Rights
+- Declaration of Independence
+- ExxonMobil
+- General Motors
+- Google
+- Musk
+- National Archives and Records Administration
+- Nvidia
+- OpenAI
+- Paramount Skydance
+- Red Room
+- TikTok
+- US Constitution
+- US National Archives
+- Visa
 ---
 
 Watch: The world’s two most powerful men just met. How did it go?

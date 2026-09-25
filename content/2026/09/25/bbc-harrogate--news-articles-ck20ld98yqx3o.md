@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebcf/live/72583480-b825-11f1-9173-8b6ede38f022.jpg
+locations:
+- England
+- Malton
+- North Yorkshire
+- Scarborough
+people:
+- Colin Unwin
+- Shout
+organisations:
+- Local Democracy Reporting Service
+- North Yorkshire Council
+- Second Homeowners Opposed to Unfair Taxation
+- Shout
+- Thirsk
 ---
 
 ![The beach and seafront at Scarborough, pictured on a cloudy day.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ebcf/live/72583480-b825-11f1-9173-8b6ede38f022.jpg)

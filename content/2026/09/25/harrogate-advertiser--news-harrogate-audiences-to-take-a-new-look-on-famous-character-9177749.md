@@ -13,6 +13,23 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/25/11/47/Bravo-Mrs-Bennet.jpeg?trim=0,7,0,7&crop=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Scarborough
+- St Martin
+- Stephen Joseph Theatre
+people:
+- Bennet A
+- Bravo Mrs Bennet
+- Hill
+- Jane Austen
+- Paula Vickers
+- Rachel Fearnehough
+organisations:
+- Bravo
+- Harrogate
+- Scarborough Theatre Company
+- The Royal Pump Room Museum
 ---
 
 # Harrogate audiences to take a new look on famous character

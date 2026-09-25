@@ -15,6 +15,27 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlMTEwMWYxLWFiY2ItNDAyZC1iZTE3LWVjOTc5MDBhODdiZjpjNzI3ZTQ4NS03OWY5LTQ3Y2MtYTJlZi1mOGNiMmE2ZTNhNDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Aire
+- Bingley
+- Burley-in-Wharfedale
+- My Shipley
+- PA
+- Paris
+- Westminster Hall
+- Wharfe
+- Yorkshire
+people:
+- Anna Dixon
+- Rui Vieira
+organisations:
+- Conservative Government
+- Cunliffe Commission
+- Environment Agency
+- Labour
+- Shipley
+- Thames Water
+- Yorkshire Water
 ---
 
 # Our rivers are being poisoned by a broken system - it's time to bring water back into public hands - Anna Dixon

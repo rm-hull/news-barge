@@ -15,6 +15,41 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-517120265.jpg@webp
+locations:
+- BER Airport
+- Berlin
+- Berlin-Brandenburg
+- Brandenburg
+- Bremen
+- Bremerhaven
+- Deutsche Bahn
+- Frankfurt
+- Germany
+- Hamburg AB
+- Lower Saxony
+- Munich
+- MunichHamburg
+- Rhine-Main
+- Ruhr
+- Stuttgart
+- Zone M
+people: []
+organisations:
+- ABC
+- BSAG
+- Berlin AB
+- Berlin-Brandenburg Transport Association
+- Bremen
+- Bremerhaven Bus
+- HVV
+- Lower Saxony transport association
+- MVV
+- Munich Transport and Fare Association
+- RMV
+- Rhine-Main Transport Association
+- VBB
+- VBN
+- Zone M
 ---
 
 Public transport users across Germany are beginning to get a clearer picture of what they'll be paying for buses, trams and local trains next year.

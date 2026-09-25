@@ -14,6 +14,25 @@ categories:
 - Health & Fitness
 - Science
 image: https://i.guim.co.uk/img/media/6f4c55cd7ddcba9b79e619500207bbcc8fea7f5c/684_0_4509_3607/master/4509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62dfb499ad87258d4cd7d159a3513ded
+locations:
+- Birmingham NHS
+- Bristol
+- Great Ormond Street
+- Leeds
+- Manchester
+- Newcastle
+- Nottingham
+- Oxford
+- UK
+people:
+- Frankie Swords
+- Stuart Smith
+organisations:
+- Brain Tumour Research Centre of Excellence
+- King’s College
+- NHS England
+- Oxford Nanopore
+- University of Nottingham
 ---
 
 A rapid new test for brain tumours can diagnose patients while they are still on the operating table.

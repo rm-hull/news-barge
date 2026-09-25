@@ -13,6 +13,48 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/11/01M31V9KWHMXYBNBA36J4PBQSE.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- England
+- PA
+- Scotland
+- UK
+- Wales
+people:
+- Alan Lockey
+- Andy Burnham
+- John Curtice
+- Keir Starmer
+- Mike Galsworthy
+- Naomi Smith
+- Nigel Farage
+- Patrick English
+- Peter Kellner
+- Rejoin
+- Richard Tice
+- Robert Hayward
+- Robert Jenrick
+- Suella Braverman
+- Toby Melville
+- Tony Blair
+organisations:
+- Best for Britain
+- Brexit
+- Commons
+- EU
+- European Movement UK
+- Greens
+- Labour Party
+- Lib Dems
+- Plaid
+- Reform UK
+- SNP
+- The Independent
+- The Times
+- Times Radio
+- Tories and Reform UK
+- YouGov
+- pro-EU Lib Dems
 ---
 
 Anti-Brexit campaigners have hailed three new mega polls which reveal the next election will provide an historic opportunity for Britain to rejoin the EU.

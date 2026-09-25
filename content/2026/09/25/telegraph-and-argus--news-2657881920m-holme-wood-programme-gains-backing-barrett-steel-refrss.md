@@ -13,6 +13,19 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/17784147.jpg?type=og-image
+locations:
+- Bradford
+- Holme Wood
+people:
+- Guy Barrett
+- Judith Cummins
+- Ms Cummins
+organisations:
+- Barrett Steel
+- Bradford South
+- Holme Wood
+- MAJOR
+- Pride in Place Board
 ---
 
 *(Image: Submitted)*

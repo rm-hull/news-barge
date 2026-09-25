@@ -12,6 +12,30 @@ categories:
 - UK
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/24/22/2026-09-18T200229Z_1725641696_RC2WLNAHQI82_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Turkey
+- Washington, D.C
+- Washington, D.C
+- White House
+people:
+- Donald Trump
+- God
+- Heaven
+- Jon Ossoff
+- Joni Eareckson Tada
+- Natalie Harp
+- Steven Cheung
+- Susie Wiles
+organisations:
+- Administration
+- Congress
+- Golden Age of America
+- Harp
+- MBA
+- Radical Left
+- Truth Social
+- Washingtonian
+- White House Communications
 ---
 
 Newly released candid responses from Natalie Harp, the 35-year-old White House aide widely reported as a key figure managing President Donald Trump’s social media presence, offer a rare glimpse into her daily routine and working relationship with the president — and a telling trait of Trump’s that has rubbed off on her.

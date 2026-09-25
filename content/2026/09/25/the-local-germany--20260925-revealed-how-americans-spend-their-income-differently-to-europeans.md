@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-pexels-jakubzerdzicki-34975711.jpg@webp
+locations:
+- Europe
+- France
+- Michigan
+- New York
+- US
+- USA
+- United States
+people:
+- Doris Speer
+organisations:
+- AARO
+- Association of Americans Resident Overseas
+- EU
+- European Union
+- Eurostat
+- The Local
+- US Bureau of Labor Statistics
 ---
 
 Official statistics show that the biggest expenditure item across the European Union is food, while in the United States it is housing. In Europe, leisure also accounts for more than in the USA.

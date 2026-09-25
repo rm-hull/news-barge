@@ -11,6 +11,92 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/PPC2RuFA5wi3moNbnTA5de-1024-80.jpg
+locations:
+- Australia
+- Belarus
+- Brisbane
+- Canada
+- Cuba
+- Iran
+- Japan
+- NZ
+- New Zealand
+- North Korea
+- Pacific Islands
+- Russia
+- Suncorp Stadium
+- Sydney
+- UK
+- US
+- USA
+- canada
+- uk
+people:
+- Angus Crichton
+- Billy Smith
+- Bradley Schneider
+- Cody Ramsey
+- Connelly Lemuelu
+- Connor Watson
+- Daly Cherry-Evans
+- Daniel Tupou
+- Felise Kaufusi
+- Francis Molo
+- Hamiso Tabuai-Fidow
+- Herbie Farnworth
+- Hugo Savala
+- Isaiya Katoa
+- Jack Bostock
+- Jamayne Isaako
+- James Tedesco
+- Jeremy Marshall-King
+- Kodi Nikorima
+- Kristian Woolf
+- Kulikefu Finefeuiaki
+- Kurt Donoghoe
+- Lindsay Collins
+- Mark Nawaqanitawase
+- Mark Nawaquanitawase
+- Max Plath
+- Morgan Knowles
+- Nat Butcher
+- Naufahu Whyte
+- Ray Stone
+- Reece Robson
+- Robert Toia
+- Salesi Foketi
+- Sam Walker
+- Selwyn Cobbo
+- Siua Wong
+- Spencer Leniu
+- Thomas Flegler
+- Tom Gilbert
+- Victor Radley
+organisations:
+- AESTWatch Dolphins
+- Apple TV
+- Blue
+- FS2
+- Fox League
+- Fox One
+- Foxtel
+- Future Publishing
+- NORDVPN
+- NordVPN
+- OTT
+- Phins
+- Roosters NRL
+- Sharks
+- Sky Sport
+- Sky Sport 1
+- Sky Sport NZ
+- Sky Sports
+- Sky Sports
+- Sky Sports Mix
+- Sling TV
+- Sportsnet
+- TechRadar
+- Warriors
 ---
 
 ![Herbie Farnworth celebrates scoring a try for the Dolphins in the NRL 2026](https://cdn.mos.cms.futurecdn.net/PPC2RuFA5wi3moNbnTA5de.jpg)

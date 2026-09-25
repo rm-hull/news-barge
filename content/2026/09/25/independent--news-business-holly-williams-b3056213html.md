@@ -13,6 +13,14 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/08/25080403-42a825c1-4b0c-4151-ab8a-befc22aa7189.jpg?width=1200&height=800&crop=1200:800
+locations:
+- US
+- Ukraine
+people:
+- Kostyantyn Zhevago
+- Lucio Genovese
+organisations:
+- Ferrexpo
 ---
 
 Stricken iron ore miner Ferrexpo has revealed it remained heavily loss-making after an “exceptionally difficult” start to the year just days after securing investor backing for a 100 million US dollar (£76 million) emergency fundraising.

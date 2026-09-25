@@ -13,6 +13,21 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21500058.jpg?type=og-image
+locations:
+- Emmerdale
+- Liverpool
+- New York
+people:
+- Ian West
+- Lisa Riley
+- Mandy Dingle
+- Stevie Wonder
+organisations:
+- ESTA
+- Emmerdale
+- GMB
+- Good Morning Britain
+- PA Wire
 ---
 
 *(Image: Ian West/PA Wire)*

@@ -12,6 +12,18 @@ categories:
 - Harrogate
 - Education & Learning
 image: https://mmo.aiircdn.com/409/6ab66b42c2f47a731ee.jpg
+locations:
+- Brackenfield
+- Harrogate
+- Ripon Cathedral
+people:
+- Brackenfield
+- Joe Masterson
+- Philip Soutar
+organisations:
+- Brackenfield School
+- ISI
+- Independent Schools Inspectorate
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab66b42c2f47a731ee.jpg)

@@ -13,6 +13,13 @@ categories:
 - Personal Finance & Investing
 - Health & Fitness
 image: https://www.yorkpress.co.uk/resources/images/21499057.jpg?type=og-image
+locations:
+- Spain
+- UK
+people:
+- Leila Fathi
+- Sophie Perry
+organisations: []
 ---
 
 ## Scientists warn that 5 staple foods are set to become more expensive this winter

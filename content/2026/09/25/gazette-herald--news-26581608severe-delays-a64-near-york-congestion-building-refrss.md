@@ -13,6 +13,19 @@ categories:
 - York
 - Science
 image: https://www.gazetteherald.co.uk/resources/images/20681805.jpg?type=og-image
+locations:
+- A64
+- AA
+- Barton Hill
+- North Lane
+- Popular York
+- Scarborough
+- Towthorpe Moor Lane
+- UK
+people: []
+organisations:
+- A64
+- AA
 ---
 
 Severe delays are affecting the A64 westbound with motorists facing increasing journey times near York this morning.

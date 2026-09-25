@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/17712363.jpg?type=og-image
+locations:
+- Brancepeth
+- Stockley Lane
+- Willington
+people: []
+organisations:
+- Council
+- Durham Police
+- Great North Air Ambulance Service
+- North East Ambulance Service
 ---
 
 *(Image: GNAAS)*

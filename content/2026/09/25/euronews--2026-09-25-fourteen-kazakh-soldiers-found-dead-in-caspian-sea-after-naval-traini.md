@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/73/03/1200x675_cmsv2_22480a7d-f179-53d4-8ffb-4b7874d218fa-9927303.jpg
+locations:
+- Aktau
+- Caspian Sea
+- Kaisar
+- Kazakhstan
+- Mangystau
+people:
+- Kanat Bozumbayev
+- Kassym-Jomart Tokayev
+organisations:
+- Kazakh Defence Ministry
+- Naval Forces
+- Prosecutor General’s Office
 ---
 
 ## Kazakhstan declared a day of national mourning after one of the country’s deadliest military accidents in recent years.

@@ -15,6 +15,12 @@ categories:
 - History
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/79/51/1200x675_cmsv2_3dacea14-bab0-5eba-8f17-d4e5eba94e30-9927951.jpg
+locations:
+- Gaza Strip
+- Israel
+people: []
+organisations:
+- Health Ministry
 ---
 
 The Israeli military has released video it says shows the destruction of an underground tunnel route in the southern Gaza Strip.

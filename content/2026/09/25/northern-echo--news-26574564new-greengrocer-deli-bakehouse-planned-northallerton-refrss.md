@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thenorthernecho.co.uk/resources/images/21491191.jpg?type=og-image&xType=343&yType=0
+locations:
+- Argos
+- Bishop Auckland
+- Consett
+- High Street
+- Lakeland
+- North Yorkshire
+- Northallerton High Street
+- Victoria
+people:
+- Alice Norton
+organisations:
+- Holland & Barrett
+- Nick Mitchinson Greengrocer
+- Northallerton BID
 ---
 
 *(Image: GOOGLE MAPS)*

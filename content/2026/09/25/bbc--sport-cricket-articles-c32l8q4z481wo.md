@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - History
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03c3/live/d1b4e4b0-b8c4-11f1-ad1f-538855f30ba1.jpg
+locations:
+- Durham
+- England
+- Headingley
+- India
+- South Africa
+people:
+- Andrew Strauss
+- Ben Stokes
+- Brendon McCullum
+- Caprice
+- Harry Brook
+- Jessica
+- Joe Root
+- Kevin Pietersen
+- Rehan Ahmed
+- Stephen Fleming
+- Taylor Swift
+- Tom Banton
+organisations:
+- ECB
+- England
+- Liberty X
+- ODI
+- Pietersen
+- Wales Cricket board
+- YouTube
 ---
 
 ![Kevin Pietersen](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/03c3/live/d1b4e4b0-b8c4-11f1-ad1f-538855f30ba1.jpg)

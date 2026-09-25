@@ -13,6 +13,16 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21501946.jpg?type=og-image&xType=20&yType=0
+locations:
+- County Durham
+- Ford Transit
+- Shincliffe Lane
+- University Hospital North Durham
+people: []
+organisations:
+- Durham Police
+- Fiat
+- Serious Collision Investigation Unit
 ---
 
 *(Image: GOOGLE MAPS)*

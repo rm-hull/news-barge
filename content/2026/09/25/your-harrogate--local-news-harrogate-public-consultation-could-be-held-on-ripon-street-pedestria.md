@@ -13,6 +13,18 @@ categories:
 - Society & Culture
 - History
 image: https://mmo.aiircdn.com/409/6ab64cdbbacf7f49de2.jpg
+locations:
+- Court Terrace
+- Kirkgate
+- Ripon Cathedral
+- Studley Royal and Fountains Abbey World Heritage Site
+people:
+- Andrew Williams
+- Cllr Williams
+organisations:
+- North Yorkshire Council
+- Ripon Area Committee
+- Skipton
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab64cdbbacf7f49de2.jpg)

@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/6642be81840c6089176d414c0d9d67ed018572b1/407_0_4065_3252/master/4065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5017a16cbe0a711a7b370921bf82e055
+locations:
+- Africa
+- Albania
+- Ceuta
+- Italy
+- Schengen
+people:
+- Brothers
+- Daniela Ionita
+- De Pieri
+- Elisa De Pieri
+- Elly Schlein
+- Giorgia Meloni
+- Giuseppe Valditara
+- Marco Tarchi
+- Roberto Vannacci
+organisations:
+- Amnesty International
+- Brothers of Italy
+- European Union
+- FN
+- Forza Italia
+- Futuro Nazionale
+- Italians Without Citizenship
+- League
+- University of Florence
 ---
 
 The Italian government has been accused of ramping up divisive rhetoric to try to court far-right voters ahead of next year’s general election after it passed a decree aimed at capping the number of newly arrived migrants in classrooms and banning the burqa and niqab in schools.

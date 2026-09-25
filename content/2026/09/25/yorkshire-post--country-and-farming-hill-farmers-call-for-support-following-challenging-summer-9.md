@@ -14,6 +14,17 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE4MGI2MjhhLTkzYmQtNDAxNC1iNDI0LWU1ZjAzNjFmMDQ0NjoxZTQyMWM5Ny1jMDc2LTRhYzgtYTY0Yy04NGM2YjdmODAwMDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- North
+people:
+- Dave Stanners
+- Robyn Munt
+organisations:
+- Department for Environment, Food and Rural Affairs
+- Environmental Land Management
+- House of Commons Environment, Food and Rural Affairs Committee
+- NFU North Uplands Group
+- Yorkshire Dales
 ---
 
 # Hill farmers call for support following challenging summer

@@ -11,6 +11,23 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21501051.jpg?type=og-image&xType=0&yType=843
+locations:
+- Bishop Auckland West
+- County Durham
+- Darlington
+- Durham Dales
+- Northumbria Police
+- Stanhope
+- Weardale Railway
+people:
+- Claire Gibbons
+- Gemma Calvert
+organisations:
+- Firearms Support Unit
+- Northumbria Police
+- Tanfield Railway
+- The Auckland Project
+- Weardale Railway
 ---
 
 Armed police officers were spotted at Weardale Railway, sparking questions at the popular County Durham attraction.

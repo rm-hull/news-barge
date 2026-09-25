@@ -13,6 +13,32 @@ categories:
 - Law & Justice
 - True Crime
 image: https://static.the-independent.com/2026/09/24/05/Nolan_Wells_49225.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Chicago
+- Horn Island
+- Illinois
+- McCormick Place
+- Mississippi
+- Nolan
+- Stonecrest
+- Wells
+- Wells
+- Wells
+people:
+- Andrew Garrett
+- Angel Myers McIlrath
+- Ben Crump
+- Black
+- Edward Paltzik
+- Liza Park
+- Nolan Wells
+- Nolan Xavier Wells
+organisations:
+- Crump
+- Wells
+- Wells
+- Wells
+- Wells
 ---
 
 Civil rights attorney Ben Crump has released new details from a forensic examination of Nolan Wells’ cellphone and the official autopsy, days after a Mississippi grand jury found no evidence of criminal conduct in the 18-year-old college student’s death.

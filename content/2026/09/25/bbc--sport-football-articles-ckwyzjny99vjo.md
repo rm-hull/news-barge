@@ -12,6 +12,50 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/958d/live/8cf37e80-b848-11f1-a2ec-c153af45023f.jpg
+locations:
+- Arsenal
+- Bath City
+- Birmingham
+- Bristol
+- Chichester
+- Finchley
+- Kent
+- London
+- Sheppey United
+- Snowdon
+- Sussex
+- Wingate
+people:
+- Alex Fletcher
+- Ben Hiscox
+- Bills
+- Billy Vigar
+- Camilla Vigar
+- Darin Kilpatrick
+- Keith Vigar
+- Lois
+- Ollie
+- Phoebe
+organisations:
+- Arsenal
+- BBC Sport
+- Bromsgrove Sporting
+- Chichester City
+- Chichester City FC
+- Chichester FC
+- FA
+- Finchley FC
+- Football Association
+- Football League
+- Hove Rivervale
+- National League
+- Premier League
+- Sheppey United
+- Stoke Gifford United
+- Vigar
+- Vigars
+- Wingate
+- Women's National League
 ---
 
 Billy Vigar's parents speak about their son

@@ -13,6 +13,25 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/zSDbAK6zJvGgD5vmjfWw3m-2560-80.jpg
+locations: []
+people:
+- Tom
+organisations:
+- AMD Radeon
+- DLSS
+- DLSS5
+- GPU
+- Get Tom's Hardware
+- Google News
+- HWiNFO
+- Nvidia
+- PCAT
+- PCI-SIG
+- QuasarZone
+- Reddit
+- TDP
+- Tom’s Hardware
+- Zhiye Liu
 ---
 
 ![Nvidia GeForce RTX 5090 Founders Edition](https://cdn.mos.cms.futurecdn.net/zSDbAK6zJvGgD5vmjfWw3m.jpg)

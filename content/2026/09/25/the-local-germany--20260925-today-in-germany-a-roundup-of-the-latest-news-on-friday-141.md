@@ -14,6 +14,49 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260924__C9BA2PL__v1__HighRes__FblEurNationsNedGer.jpg@webp
+locations:
+- Amsterdam
+- Augsburg
+- Berlin
+- Brandenburg Gate
+- China
+- East Germany
+- Ethiopia
+- France
+- Greece
+- Hamburg
+- India
+- Italy
+- Kenya
+- Kottbusser Tor
+- Marienplatz
+- Netherlands
+- Northern and Eastern Europe
+- S-Bahn
+- Schwerin
+- St. Pauli
+- Tiergarten
+- U-Bahn
+- United States
+people:
+- Cody Gakpo
+- Felix Nmecha
+- GermanyKlopp
+- Hazem Krichene
+- Jamal Musiala
+- Jürgen Klopp
+- Kai Havertz
+- Marc-André ter Stegen
+- Stasi
+- Tigst Assefa
+organisations:
+- AFP
+- AI
+- Allianz Trade
+- Borussia Dortmund
+- Greens
+- Left Party
+- Liverpool
 ---
 
 **Friday's top story:Berlin police launch controversial AI surveillance pilot**

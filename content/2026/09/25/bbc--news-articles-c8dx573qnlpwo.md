@@ -11,6 +11,22 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9689/live/ebc20600-b8c7-11f1-ad1f-538855f30ba1.png
+locations:
+- Carmarthenshire
+- Ceredigion
+- Pembrokeshire
+- Powys
+- Wales
+people: []
+organisations:
+- Dyfed-Powys Police
+- ICO
+- IOC
+- Information Commissioner's Office
+- PCSO
+- ROCU
+- Regional Organised Crime Unit
+- Tarian
 ---
 
 ![Headquarters of Dyfed-Powys Police - there is a sign that says this on a wall. And a road to the left of the image, and there is a carpark seen towards the back of the image.](https://ichef.bbci.co.uk/ace/standard/600/cpsprodpb/9689/live/ebc20600-b8c7-11f1-ad1f-538855f30ba1.png)

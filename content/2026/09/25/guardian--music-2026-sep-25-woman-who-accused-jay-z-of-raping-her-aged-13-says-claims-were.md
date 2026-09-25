@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/831e465eb61cf233e6526e08d5e526354790da54/0_239_3335_2667/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de3bfc534fa73c680b269fdb1bfff03e
+locations: []
+people:
+- James Blair Newman Jr
+- Jay-Z
+- P Diddy
+- Sean Combs
+- Shawn Carter
+- Shawn ‘Jay-Z’ Carter
+- Tony Buzbee
+organisations:
+- GQ
+- MTV
+- Rolling Stone
 ---
 
 A woman who accused Jay-Z of raping her when she was 13 years old has formally withdrawn her allegation, saying that she has never met the rap superstar.

@@ -11,6 +11,33 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/08/25/19/Obit_Dolly_Parton_83541.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- California
+- Canada
+- Ireland
+- Manhattan
+- Nashville
+- New Orleans
+- New York City
+- San Francisco
+- Tennessee
+- U.S
+- U.S
+- United Kingdom
+people:
+- Dolly Parton
+- Freddie O’Connell
+- Jeff Conyers
+- Jolene
+- Parto
+organisations:
+- Dollywood Foundation
+- Imagination Library
+- Krewe of Dolly
+- Southwest Airlines
+- The Associated Press
+- The Dollywood Foundation
 ---
 
 Pour yourself a cup of ambition. It’s Dolly Parton Day.

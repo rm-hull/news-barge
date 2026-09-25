@@ -11,6 +11,32 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/XtVyNkZbtdgeKjCfgjtZG-1920-80.png
+locations:
+- Kotaku
+people:
+- Andrew E. Freedman
+- Copilot
+- Jared Spataro
+- Tom
+organisations:
+- AI at Work
+- Anthropic
+- Astra
+- Autopilot
+- ChatGPT
+- Fable
+- Frontier Program
+- Get Tom's Hardware
+- GitHub Copilot
+- Google News
+- IT
+- Laptop Mag
+- Microsoft IQ
+- PCMag and Complex
+- Scout
+- Tom's Guide
+- Tom's Hardware
+- UBB
 ---
 
 ![Microsoft Copilot](https://cdn.mos.cms.futurecdn.net/XtVyNkZbtdgeKjCfgjtZG.png)

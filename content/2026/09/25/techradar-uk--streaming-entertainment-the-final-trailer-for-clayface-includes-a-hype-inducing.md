@@ -12,6 +12,20 @@ categories:
 - Technology & Software
 - Film & TV
 image: https://cdn.mos.cms.futurecdn.net/nDkg8MeAb8V9r43hqUBLkY-1200-80.jpg
+locations: []
+people:
+- Batman
+- Bruce Wayne
+- Clayface
+- James Gunn
+- Matt Hagen
+- Peter Safran
+- Tom Rhys Harries
+organisations:
+- DC Studios
+- DC Studios
+- DCU
+- Dark Knight
 ---
 
 ![Tom Rhys Harries&#039; Matt Hagen with a pained expression on his face in Clayface](https://cdn.mos.cms.futurecdn.net/nDkg8MeAb8V9r43hqUBLkY.jpg)

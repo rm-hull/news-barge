@@ -12,6 +12,29 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/25/10/01M39PZ19JQZ30NS85PJDRE139.jpg?trim=217,0,217,0&width=1200&height=800&crop=1200:800
+locations:
+- Connected Coast
+- East Coast Flyway
+- Europe
+- Lincolnshire Coastal Country Park
+- Lincolnshire coast
+- Mablethorpe
+- Sandilands
+- Sandilands
+- Skegness
+- Sutton-on-Sea
+people:
+- Katie Scott
+organisations:
+- East Lindsey District Council
+- Lincolnshire Wildlife Trust
+- Mablethorpe Towns Fund
+- National Highways
+- National Trust
+- National Trust at Sandilands
+- Neptune Coastline Campaign
+- Rangers
+- UK Government Shared Prosperity Fund
 ---
 
 A new 30-hectare nature reserve situated on the Lincolnshire coast will open to the public this Saturday, following the transformation of a former golf course into a wetland habitat, the National Trust has announced.

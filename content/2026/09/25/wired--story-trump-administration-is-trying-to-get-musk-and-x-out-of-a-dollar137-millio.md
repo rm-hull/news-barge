@@ -15,6 +15,34 @@ categories:
 - Business & Entrepreneurship
 - News & Politics
 image: https://media.wired.com/photos/6ab63ebb0662cfa065c46bf8/191:100/w_1280,c_limit/092526-Trump%20Musk%20X%20Crop.jpg
+locations:
+- Australia
+- US
+people:
+- Brett A. Shumate
+- Donald Trump
+- Elon Musk
+- JD Vance
+- Julia Hörnle
+organisations:
+- Civil Division
+- DS
+- DSA
+- Department of State
+- EU
+- European Commission
+- European Union
+- Google
+- Instagram
+- Justice Department
+- LinkedIn
+- Meta’s Facebook
+- Microsoft
+- Musk and X
+- Queen Mary University of London
+- US Department of Justice
+- WIRED
+- YouTube
 ---
 
 The US government is trying to get Elon Musk and his social media platform X out of a $137 million fine by the European Union in an escalation of its criticism of the bloc’s tech rules.

@@ -12,6 +12,55 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/0f146466cd44b35019114fd56743207f90fdbcce/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c3bfd7c1ea6b77781291cabb745cf813
+locations:
+- Australia
+- Baiada
+- Gibbons Street
+- NSW
+- New South Wales
+- New York
+- New York
+- Queensland
+- Redfern
+- Sydney
+- Tamworth
+- US
+- Yeppoon
+people:
+- Angus Taylor
+- Anoulack Chanthivong
+- Anthony Albanese
+- Donald Trump
+- Frank Franklin II
+- James Ashby
+- Jed Goodfellow
+- Kelvin Morton
+- Kyriakos Mitsotakis
+- Mal Lanyon
+- Mia Lay
+- Murray Watt
+- Sam Altman
+organisations:
+- AAP
+- AI
+- AP Watt
+- Albanese
+- All Ordinaries
+- Ashby’s
+- Australian Alliance for Animals
+- Baiada
+- Coalition
+- Guardian Australia
+- Instagram
+- Minns Labor
+- One Nation
+- OpenAI
+- Sky News
+- Small Batch Brewing Pty Ltd
+- South Sydney Police Area Command
+- Sunrise
+- UN
+- United Nations
 ---
 
 Albanese said AI breach information was released as soon as possible

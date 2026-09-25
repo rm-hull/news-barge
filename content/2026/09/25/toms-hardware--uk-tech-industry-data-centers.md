@@ -12,6 +12,22 @@ categories:
 - Hardware
 - Science
 image: https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC-320-80.png
+locations:
+- China
+- Iran
+- New York
+- Russia
+- U.S
+- Virginia
+people:
+- Trump
+organisations:
+- Amazon
+- Anthropic
+- Get Tom's Hardware
+- Google
+- Microsoft
+- OpenAI
 ---
 
 ![natural gas turbines deployed on a site](https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC-320-80.png)

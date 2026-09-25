@@ -13,6 +13,21 @@ categories:
 - York
 - Health & Fitness
 image: https://www.gazetteherald.co.uk/resources/images/21496490.jpg?type=og-image&xType=0&yType=223
+locations:
+- Cross Lane Hospital
+- Great North Run
+- Harewood Road
+- Harrogate
+- Scarborough
+- UK
+- York
+people:
+- Harry Blaza
+- Kathryn Walters
+- Vanessa Kershaw
+organisations:
+- North Yorkshire
+- North Yorkshire Police
 ---
 
 *(Image: North Yorkshire Police)*

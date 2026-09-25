@@ -13,6 +13,15 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/10/03/iStock-922898896.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Adam French
+organisations:
+- ADVERTISEMENT Plum
+- Bank of England
+- Chip
+- Hargreaves Lansdown
+- Moneyfactscompare.co.uk
 ---
 
 Tax-free savings have hit a new milestone this week, with cash ISAs returning to 5 per cent rates for the first time in well over a year.

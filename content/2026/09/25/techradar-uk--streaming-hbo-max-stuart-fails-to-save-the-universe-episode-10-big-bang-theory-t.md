@@ -13,6 +13,27 @@ categories:
 - Film & TV
 - Comedy & Entertainment
 image: https://cdn.mos.cms.futurecdn.net/PtGzaqtdmPhYE2wa6c6PXS-1920-80.jpg
+locations:
+- Burbank
+- California
+people:
+- Bert
+- Brian Posehn
+- Chuck Lorre
+- Denise
+- George Cooper
+- Jim Parsons
+- John Ross Bowie
+- Johnny Galecki
+- Kevin Sussman
+- Kripke
+- Lauren Lapkus
+- Leonard
+- Sheldon
+- Stuart Fails
+organisations:
+- Georgie & Mandy
+- Warner Bros
 ---
 
 ![Stuart, Denise, Bert and Bert stand shocked](https://cdn.mos.cms.futurecdn.net/PtGzaqtdmPhYE2wa6c6PXS.jpg)

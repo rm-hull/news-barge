@@ -13,6 +13,56 @@ categories:
 - UK
 - Sports
 image: https://static.independent.co.uk/2026/09/25/14/Philanthropy_UNGA_Ukraine_25893.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arab Gulf
+- Germany
+- Harvard
+- Midtown Manhattan
+- New York
+- Nigeria
+- Russia
+- Switzerland
+- U.S
+- U.S
+- Ukraine
+- United Kingdom
+people:
+- Agnes Dasewicz
+- Ann Lee
+- Bill Clinton
+- Donald Trump
+- Hammam bin Nasser bin Juraied
+- Howard G. Buffett
+- John Hecklinger
+- Maysa Jalbout
+- Samantha Power
+- Warren Buffett
+- William Moore
+organisations:
+- AP
+- Arab Gulf Programme for Development
+- Berkshire Hathaway
+- CGI
+- Clinton Global Initiative
+- Community Organized Relief Effort
+- Devex
+- Eleanor Crook Foundation
+- Gates Foundation
+- General Assembly
+- Global Energy Alliance for People and Planet
+- Global Fund for Children
+- Lilly Endowment Inc
+- OES
+- Philanthropies
+- The Conversation US
+- The Global Fund to Fight AIDS, Tuberculosis and Malaria
+- Trump
+- U.N
+- U.N
+- U.S. State Department
+- USAID
+- United Nations General Assembly
+- World Bank
 ---
 
 New players hit the United Nations General Assembly sidelines this week as humanitarian groups searched for a counterweight to foreign aid cuts that have hampered global fights against disease, malnutrition and poverty.

@@ -12,6 +12,65 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/16/2026-09-23T135815Z_180677856_RC21PNACP4GT_RTRMADP_3_RUSSIA-ELECTION-PUTIN.JPG?width=1200&height=800&crop=1200:800
+locations:
+- Airport
+- Black Sea
+- Chuhuiv
+- Denmark
+- Finland
+- Germany
+- Halle
+- India
+- Iran
+- Kharkiv
+- Kyiv
+- Leipzig
+- Miami
+- Moscow
+- New York
+- North Korea
+- Pyongyang
+- Russia
+- South Carolina
+- Stara Hnylytsia
+- US
+- Ukraine
+- Wall Street
+- Washington
+- West
+people:
+- Alexander Stubb
+- Donald Trump
+- Elon Musk
+- Johann Wadephul
+- Kaja Kallas
+- Kim Jong Un
+- Lindsey Graham
+- Marco Rubio
+- S Jaishankar
+- Thomas Ahrenkiel
+- Vladimir Putin
+- Volodymyr Zelensky
+organisations:
+- Citigroup
+- EU
+- European Union
+- ICYMI
+- Kyiv
+- NATO
+- Reuters
+- SRIA
+- Sky News
+- SpaceX
+- Starlink
+- State Department
+- TASS
+- Tass
+- Trump US
+- UN General Assembly
+- US Chamber of Commerce
+- United Nations
+- United Nations Security Council
 ---
 
 There is "a low but growing risk" that Russia would launch a limited military attack against one or several NATO countries that border it, Denmark intelligence has warned

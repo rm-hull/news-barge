@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21499546.jpg?type=og-image
+locations:
+- County Durham
+- DURHAM
+- Darlington
+- ESSO
+- Gulf
+- Historic Yorkshire
+- KAYSBURN
+- NEVILLES
+- PARKLANDS
+- ST GILES SERVICE STATION
+people:
+- Luke Bosdet
+organisations:
+- A690
+- AA
+- Durham
+- Government
+- Shell Stanley Service Station
+- Tesco
+- Treasury
 ---
 
 *(Image: Getty)*

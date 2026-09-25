@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21501559.jpg?type=og-image
+locations:
+- Bradford City
+- Preston North End
+people:
+- Graham Alexander
+- Humayun Islam
+- Ian Taylor
+- John Percy
+- Preston
+organisations:
+- Baji Bantams
+- Bingley Bantams
+- Bradford City
+- Bradford City AFC
+- Preston North End
+- T&A
+- The Daily Telegraph
 ---
 
 *(Image: Baji Bantams)*

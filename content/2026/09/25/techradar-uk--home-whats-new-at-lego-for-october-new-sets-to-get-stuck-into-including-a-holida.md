@@ -11,6 +11,14 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/heSjs7SNPXei47fQLeono5-2560-80.jpg
+locations:
+- UK
+- US
+people:
+- Aardman
+- Claus
+organisations:
+- Lego
 ---
 
 ![Lego countdown calendar, Gromit dog and Pokeball](https://cdn.mos.cms.futurecdn.net/heSjs7SNPXei47fQLeono5.jpg)

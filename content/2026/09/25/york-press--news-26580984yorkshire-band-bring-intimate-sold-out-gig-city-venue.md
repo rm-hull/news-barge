@@ -12,6 +12,30 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21500271.jpg?type=og-image
+locations:
+- Atlantic
+- Memphis
+- Pudsey
+- US
+- York
+- Yorkshire
+people:
+- Dave Dunwell
+- Gareth John
+- Gareth John Musically
+- Gareth John New
+- Joe
+- Mumford
+- Simon Cowell
+- Sons
+- Tom Jones
+organisations:
+- All Time High
+- Forty-Five Vinyl Cafe
+- Syco Entertainment
+- The Dunwells
+- Universal Music Publishing Group
+- Yorkshire
 ---
 
 ## Yorkshire brothers who went from open mics to US charts wow sold-out York gig

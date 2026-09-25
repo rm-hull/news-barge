@@ -10,7 +10,9 @@ from unittest.mock import AsyncMock, MagicMock, patch
 import pytest
 
 from src.log_helper import SiteLogger
+from src.output import output_path
 from src.pipeline import process_article
+from src.slugs import url_to_slug
 
 
 def make_site(**overrides: object) -> dict[str, object]:
@@ -254,10 +256,6 @@ class TestProcessArticle:
         meta.description = "Test description"
         meta.image = None
         mock_meta.return_value = meta
-
-        # Pre-create the file
-        from src.output import output_path
-        from src.slugs import url_to_slug
 
         slug = url_to_slug("https://example.com/article", False)
         file_date = datetime.now(UTC)
@@ -672,7 +670,7 @@ class TestProcessArticle:
         await process_article(
             url="https://example.com/article",
             site=make_site(categories=["News", "Politics"]),
-            dry_run=True,
+            dry_run=False,
             force=True,
             session=mock_session,
             browser=mock_browser_with_context,

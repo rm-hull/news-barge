@@ -17,6 +17,13 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBkNGIwMDQzLTIyZDctNDYyOC1iYTBkLTEwODZjNTU2YTgzMjo3ODNlODBmMy03MDZmLTRjZjUtYTk4ZC1iNWM1ODBhZTNlODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- James Hardisty
+people: []
+organisations:
+- Government
+- Labour
+- Ministry of Justice
 ---
 
 # The Government risks losing the public’s faith on law and order unless the courts crisis is dealt with

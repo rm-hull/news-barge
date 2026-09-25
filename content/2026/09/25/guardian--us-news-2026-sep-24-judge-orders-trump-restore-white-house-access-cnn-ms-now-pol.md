@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/2e355e48b2c9523618a38f11f1028978cbe08ada/560_0_4896_3919/master/4896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7063380c4bed0b635a9d99f00ec17bed
+locations:
+- China
+- District of Columbia
+- US
+- United States
+- White House
+people:
+- Laura Barrón-López
+- MS Now
+- Micah Stopperich
+- Michael Kenneth Velchik
+- Peng Liyuan
+- Steven Cheung
+- Theodore J Boutrous Jr
+- Timothy Kelly
+- Trump
+- Xi Jinping
+organisations:
+- CNN
+- Department of Justice
+- MS Now
+- Politico
+- Secret Service
+- Trump White House
+- Truth Social
+- US Secret Service
+- United States Secret Service
 ---
 
 Journalists for CNN and MS Now were denied access to the White House state dinner in honor of Xi Jinping, China’s president, on Thursday evening, hours after a federal judge ruled the Trump administration must allow them in after imposing a ban last week.

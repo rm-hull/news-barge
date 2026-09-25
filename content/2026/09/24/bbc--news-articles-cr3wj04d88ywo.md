@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6c9/live/287094c0-b82a-11f1-89f8-b5d404417bc8.png
+locations:
+- Birmingham
+- Bristol
+- King's College Hospital
+- Leeds
+- London
+- Manchester
+- NHS England
+- Newcastle
+- Nottingham
+- Oxford
+- Queens Medical Centre
+- UK
+people:
+- Dame Sue Hill
+- Frankie Swords
+- Simon Paine
+- Steve Palmer
+- Stuart Smith
+organisations:
+- BBC
+- Great Ormond Street Hospital NHS Foundation Trust
+- NHS England
+- Newcastle Hospitals NHS Foundation Trust
+- Nottingham University Hospitals NHS Trust
+- Oxford Nanopore
+- University Hospitals Birmingham NHS Foundation Trust
+- University of Nottingham
 ---
 
 ![Steve wears a hospital gown and sits up on a gurney. He is propped up on a pillow and is wearing a patterned hospital gown in black and white. He is being pushed on his way to have his operation](https://ichef.bbci.co.uk/ace/standard/950/cpsprodpb/c6c9/live/287094c0-b82a-11f1-89f8-b5d404417bc8.png)

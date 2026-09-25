@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21497551.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Consett
+- County Durham
+- Gibbon Street
+- Holme House Prison
+- Iran
+- Stockton
+- UK
+people:
+- Karwan Ahmady
+- Laura Miller
+- Man
+- Ms Miller
+- Richard Bennett
+organisations:
+- Durham Constabulary
+- Probation Service
+- Teesside Crown Court
 ---
 
 *(Image: Durham Constabulary)*

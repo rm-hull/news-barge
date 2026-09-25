@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21497410.jpg?type=og-image
+locations:
+- Middlesbrough
+- North East
+- Teesside
+people:
+- Adeel Khaliq
+- Adeel Khaliq *(Image
+- Hashim Din
+- James Archer
+- Joseph Harris
+- Mia Brennan
+- Theo Alali
+- left,James Archer
+- leftAdeel Khaliq
+organisations:
+- Cornerstone
+- Joseph Harris Estate Agents
+- Saltburn
+- Teesside Hospice
 ---
 
 *(Image: Supplied)*

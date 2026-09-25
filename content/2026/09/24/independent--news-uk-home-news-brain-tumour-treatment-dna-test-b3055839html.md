@@ -12,6 +12,23 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/23/17/529086340..?trim=12,0,12,0&width=1200&height=800&crop=1200:800
+locations:
+- NHS England
+- Nottingham
+people:
+- Dame Sue Hill
+- Frankie Swords
+- Karen Noble
+- Simon Newman
+- Steve Palmer
+- Stuart Smith
+- Yvette Cooper
+organisations:
+- Brain Tumour Research
+- NHS England
+- Nottingham University Hospitals NHS Trust
+- The Brain Tumour Charity
+- University of Nottingham
 ---
 
 A pioneering pilot scheme offering rapid genetic analysis to brain tumour patients is set to "transform" both diagnosis and subsequent treatment, according to medical experts.

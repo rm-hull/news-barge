@@ -12,6 +12,18 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/uvMbLn95EcYuCK78iGqYz4-1200-80.png
+locations: []
+people:
+- Jensen Huang
+- Tom
+organisations:
+- AMD
+- GPU
+- Gaming
+- Get Tom's Hardware
+- Leaker Kopite7kimi
+- Nvidia
+- RPCS3
 ---
 
 No tech has seen more innovation in the last decade than graphics cards, thanks to powerhouse rivals AMD and Nvidia advancing the state of the art with ray-tracing, FSR and DLSS, 3D chip stacking and more. What does it all mean? Tom's Hardware is the industry standard for GPU news, reviews, and insights.

@@ -13,6 +13,25 @@ categories:
 - York
 - True Crime
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/25/13/52/01M3C9Q9D2RSCEH3WA1C1GANSD.jpeg?trim=26,0,26,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- Kirklevington
+- Lancaster
+- Middlesbrough
+- North Yorkshire
+- Priory Road
+- Teesside Crown Court
+people:
+- Dan Cook
+- Ian Tate
+- Jamie Wilson
+- Luke Lancaster
+- Massey Ferguson
+- Nathan Blagg
+- Paul Reid
+- Rod Hunt
+organisations:
+- Jaguar
+- Probation Service
 ---
 
 # Man jailed for ramming house with tractor after graves of relatives desecrated

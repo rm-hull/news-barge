@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://i.guim.co.uk/img/media/a2f99ffe6fc66332e76f4202e3a5941c11f59ba5/1740_713_3578_2863/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c7a60e1ce9971afe680cdbbb16ea0982
+locations:
+- Europe
+- France
+- Italy
+- Middle East
+- Moscow
+- Notre Dame Cathedral
+- Paris
+- Rome
+- Russia
+- U.S
+- UAE
+- US
+- Ukraine
+- Unesco
+- United Arab Emirates
+- United States
+- lysée Palace
+- lysée Palace
+- lysée Palace
+people:
+- Benoît Tessier
+- Daniela Ionita
+- Donald Trump
+- Emmanuel Macron
+- Georges Bernanos
+- Giorgia Meloni
+- Giuseppe Valditara
+- God
+- Kaja Kallas
+- Leo XIV
+- Roberto Monaldo
+- Zelenskiy
+- Zelenskyy
+organisations:
+- AI
+- AP
+- Ashifa Kassam
+- Brothers of Italy
+- EU
+- European Peace Facility
+- Italians Without Citizenship
+- Jazz Radio
+- LaPresse
+- Nice
+- Pool Reuters
+- Unesco
+- Unesco’s “Square of Tolerance
 ---
 
 Pope Leo warns against 'a paradise of machines' as he focuses on AI concerns

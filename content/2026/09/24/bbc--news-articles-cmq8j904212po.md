@@ -12,6 +12,66 @@ categories:
 - News & Politics
 - Travel
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d70/live/7b6d6240-b7f6-11f1-8ef6-b9665ffdab6f.jpg
+locations:
+- Ajaccio
+- Amazon
+- Arc de Triomphe
+- Armenia
+- Avignon
+- Champs-Élysées
+- Chicago
+- Corsica
+- Eiffel Tower
+- Ethiopia
+- Europe
+- Georgia
+- India
+- Le Havre
+- Lourdes
+- Marseilles
+- Mass
+- Metz
+- Normandy
+- Notre-Dame
+- Orly
+- Paris
+- Paris
+- Place de la Concorde
+- Rome
+- Saint-Sulpice Church
+- Stade de France
+- Strasbourg
+- Tibet
+- US
+- Vatican
+- lysée Palace
+people:
+- Brigitte
+- Bruno Retailleau
+- Edouard Philippe
+- Emmanuel Macron
+- Francis
+- François Bustillo
+- Gabriel Attal
+- God
+- John Paul II
+- John-Paul II
+- Leo XIV
+- Lourdes
+- Marine Le Pen
+- Napoleon
+- Pope Leo
+- Pope Leo XIV
+- Robert Prevost
+- Robert Schuman
+- Sébastien Lecornu
+organisations:
+- AI
+- Catholic Church of Rome
+- European Union
+- Macron
+- Metz
+- lysée
 ---
 
 ![Displayed on the entrance gates of Saint-Sulpice Church, a banner extends a warm welcome to Pope Leo XIV in Paris, France, on September 21, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8d70/live/7b6d6240-b7f6-11f1-8ef6-b9665ffdab6f.jpg)

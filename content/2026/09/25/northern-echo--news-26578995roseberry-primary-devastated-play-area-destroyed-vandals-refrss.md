@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Video Gaming
 image: https://www.thenorthernecho.co.uk/resources/images/21497452.jpg?type=og-image&xType=0&yType=114
+locations:
+- Chester-le-Street
+- County Durham
+- England
+people:
+- Emma Dunn
+organisations:
+- Durham Police
+- MND
+- Middlesbrough
+- Roseberry Primary School
+- Roseberry Primary and Nursery School
+- Teesside
 ---
 
 A County Durham headteacher has spoken of her devastation after vandals destroyed an award-winning play area which staff and families had spent years creating.

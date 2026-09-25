@@ -12,6 +12,38 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/77/12/1200x675_cmsv2_aad44cb3-771f-5a09-9592-4d4fe9a09457-9927712.jpg
+locations:
+- China
+- East Room
+- Europe
+- France
+- Gaza Strip
+- Ireland
+- New York
+- Paris
+- Sirnak
+- Turkey-Iraq
+- US
+- Uzbekistan
+- Wadi Gaza
+- Yemen
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Emmanuel Macron
+- Ian O. Lesser
+- Michael Jackson
+- Pope Leo XIV
+- Saida Mirziyoyeva
+- Xi Jinping
+organisations:
+- Champs Elysees
+- Euronews
+- Presidential Administration
+- Trinity College
+- UN General Assembly
+- United Nations
+- United Nations General Assembly
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

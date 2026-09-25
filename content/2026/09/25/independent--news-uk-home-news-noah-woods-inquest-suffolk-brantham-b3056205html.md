@@ -12,6 +12,33 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/19/19/17e9105d127f3fef6ced91f2118e3db2Y29udGVudHNlYXJjaGFwaSwxNzg5OTI5ODI4-2.85866824.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Addenbrooke’s Hospital
+- Brantham
+- Cambridge
+- Decoy Pond
+- East Bergholt
+- Hill Dickinson Stadium
+- Ipswich Hospital
+- Liverpool
+- Suffolk Coroner’s Court
+people:
+- Charlie Peck
+- Jyoti Gill
+- Matthew Connick
+- Noah Woods
+organisations:
+- CCTV
+- Everton
+- Good Dads Club
+- HM Coastguard
+- Ipswich Town Football Club
+- Ipswich Town Premier League
+- Met Police
+- National Police Air Service
+- Suffolk Fire and Rescue Service
+- Suffolk Lowland Search and Rescue
+- Suffolk Police
 ---
 
 A three-year-old who was found dead in a lake following a huge search left a play area “through a gap in the fence”, an inquest heard.

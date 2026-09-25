@@ -12,6 +12,18 @@ categories:
 - UK
 - True Crime
 image: https://static.independent.co.uk/2026/09/17/13/4cbc230f0fdfe7ce9a93f43ff12527f2Y29udGVudHNlYXJjaGFwaSwxNzg5NzMzMzAz-2.85883603.jpg?width=1200&height=800&crop=1200:800
+locations:
+- London
+- Putney Bridge
+people:
+- Dan Knowles
+- Nicholas Brandram
+- Nick
+organisations:
+- Independent Office for Police Conduct
+- Met Police
+- Metropolitan Police
+- The Independent
 ---
 
 The Metropolitan Police should investigate itself over the arrest of Nicholas Brandram, who the force suspected of being the so-called “Putney pusher”, the Independent Office for Police Conduct says.

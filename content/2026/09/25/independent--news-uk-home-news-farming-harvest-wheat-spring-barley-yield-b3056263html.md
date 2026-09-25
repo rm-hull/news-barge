@@ -12,6 +12,18 @@ categories:
 - UK
 - Home, Garden & DIY
 image: https://static.independent.co.uk/2026/08/07/13/2288576828..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Scotland
+- UK
+- Wales
+people:
+- Anthony Hopkins
+- Helen Plant
+organisations:
+- AHDB
+- Agriculture and Horticulture Development Board
+- Ms Plant
 ---
 
 Following a summer marked by extreme weather conditions, this year’s harvest has proved "disappointing", with cereal yields dropping well beneath historical benchmarks, according to fresh findings.

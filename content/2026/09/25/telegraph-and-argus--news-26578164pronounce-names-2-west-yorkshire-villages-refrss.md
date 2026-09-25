@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20829894.jpg?type=og-image
+locations:
+- England
+- Halifax
+- Keighley
+- Matthew’s Caf
+- Mytholmroyd
+- Northowram
+- Pack Horse
+- Shibden Hall
+- Southowram
+- West Yorkshire
+people:
+- Anne Lister
+organisations:
+- Shoulder of Mutton
+- Stump Cross Inn
+- Windmill Tavern
+- Yorkshire
 ---
 
 *(Image: Google)*

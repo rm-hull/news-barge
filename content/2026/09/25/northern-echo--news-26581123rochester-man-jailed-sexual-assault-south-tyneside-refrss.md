@@ -14,6 +14,21 @@ categories:
 - Society & Culture
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21500460.jpg?type=og-image
+locations:
+- Dawes Street
+- Gillingham
+- North East
+- Rochester
+- South Tyneside
+people:
+- Harry Gray
+- Kerry Kane
+- Michael Burke
+organisations:
+- Newcastle Crown Court
+- Northumbria Police
+- Safeguarding Department
+- Sex Offenders’ Register
 ---
 
 A North East victim of sexual assault has spoken of the devastating impact an attack has had on her life as the man responsible begins a prison sentence.

@@ -13,6 +13,16 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/23/02/Climate_Disasters_Funding_Cuts_34922.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Kathmandu
+- Nepal
+- Newar
+people:
+- Indra
+- Kumari
+- Ram Chandra Poudel
+organisations:
+- Festival of Lights
 ---
 
 Devotees pulled a wooden chariot with a girl revered as a living goddess in Nepal, kicking off the festival season in the Himalayan nation on Friday even as it struggles to recover from devastating floods last month. Meteorologists warned of more heavy rainfall this week.

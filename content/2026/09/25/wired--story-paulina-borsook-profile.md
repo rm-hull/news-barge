@@ -12,6 +12,83 @@ categories:
 - Science
 - Arts & Culture
 image: https://media.wired.com/photos/6aa97822098f642057f99ca8/191:100/w_1280,c_limit/PaulinaBorsook_WiredMag_081126_0051.jpg
+locations:
+- Bay Area
+- Berkeley
+- Berlin
+- Borsook
+- California
+- Cheyenne
+- Columbia
+- Marin County
+- Oakland
+- Pasadena
+- San Francisco
+- Sand Hill Road
+- Silicon Valley
+- Tin House
+people:
+- Birchers
+- Bluesky
+- Cassandra
+- Chris Carlsson
+- Dale Spender
+- Dick Pick
+- Dicks
+- Don Nelson
+- Elizabeth Reba Weise
+- Ellen Ullman
+- Esther Dyson
+- Fred Turner
+- Gil Durán
+- God
+- Jane Fonda
+- John Battelle
+- John Markoff
+- Katie Hafner
+- Kevin Kelly
+- Lenny Siegel
+- Lisa Kaufman
+- Louis Rossetto
+- Luddite
+- McCarthy
+- Mother Jones
+- Newt Gingrich
+- PICK
+- Paul Allen
+- Paulina Borsook
+- Peter Schmader
+- Richard A. Pick
+- Sandy
+- Steven Levy
+- Stewart Brand
+- Stuart Krichevsky
+- Sue
+- Susan Clerc
+organisations:
+- Airbnb
+- Army
+- Bluesky
+- Caltech
+- Construction Information Systems
+- Cyberselfish
+- Data Communications
+- GIRLS
+- Jet Propulsion Laboratory
+- Lockheed
+- MFA
+- MSNBC
+- Microsoft
+- Mute
+- PICK
+- PublicAffairs
+- Seal Press
+- TDB
+- The New York Times
+- Tin House
+- UC Berkeley
+- UCSD
+- WIRED
 ---
 
 The offers had come in earlier that day. Paulina Borsook, 72, allowed herself a flash of excitement before returning to the question of what had ruined her life.

@@ -13,6 +13,16 @@ categories:
 - York
 - News & Politics
 image: https://www.gazetteherald.co.uk/resources/images/21500529.jpg?type=og-image&xType=0&yType=168
+locations:
+- Clifton
+- North Yorkshire
+- York
+people:
+- Peter
+organisations:
+- North Yorkshire Police
+- St Peter’s
+- St Peter’s School
 ---
 
 PUPILS at a York private school have been told to expect an increased police presence around the site after the school was placed in a lockdown yesterday.

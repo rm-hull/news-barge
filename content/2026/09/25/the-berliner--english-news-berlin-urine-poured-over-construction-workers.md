@@ -13,6 +13,17 @@ categories:
 - Germany
 - News & Politics
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0060699844h-scaled.jpg
+locations:
+- Friedrichshain
+- Gürtelstraße
+- Hostel Georghof
+people: []
+organisations:
+- Gürtelstraße
+- Tagesspiegel
+- Tiergarten District Court
+- dBS Investment
+- dBS Investment GmbH
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0060699844h-scaled.jpg)

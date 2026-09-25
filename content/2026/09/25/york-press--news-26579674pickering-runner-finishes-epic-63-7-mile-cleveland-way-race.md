@@ -12,6 +12,24 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21498418.jpg?type=og-image&xType=0&yType=0
+locations:
+- Cleveland Way
+- Filey
+- Guisborough
+people:
+- Charles Corbett
+- Chris Adams
+- Dave Smith
+- Jo Towler
+- Lucy Saggers
+- Paul Smith
+- Simon Rycroft
+organisations:
+- M50
+- M55
+- M65
+- Pickering Ladies Team
+- Pickering Running Club
 ---
 
 *(Image: Supplied)*

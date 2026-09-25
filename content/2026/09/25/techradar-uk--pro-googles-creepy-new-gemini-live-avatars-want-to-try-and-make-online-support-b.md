@@ -10,6 +10,16 @@ description: Gemini Enterprise customers can now use avatars
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/S8uot4jPmHmwvWn8fNqRej-1920-80.png
+locations: []
+people:
+- CJ Zheng
+- Shuo-yiin Chang
+organisations:
+- AI
+- GPT-Live-1 Astra
+- Gemini
+- Google
+- TechRadar Pro
 ---
 
 ![Gemini 3.8 Live Avatar](https://cdn.mos.cms.futurecdn.net/S8uot4jPmHmwvWn8fNqRej.png)

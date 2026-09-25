@@ -13,6 +13,34 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg
+locations:
+- Britain
+- East Sussex
+- Golders Green
+- Hatzola
+- Iran
+- Islamic Republic
+- Israel
+- Middle East
+- New York City
+- Strait of Hormuz
+- UK
+- US
+people:
+- Abbas Araghchi
+- Craig Foreman
+- Donald Trump
+- Ed Miliband
+- Foremans
+- Lindsay
+- Masoud Pezeshkian
+organisations:
+- BBC
+- Foreign Office
+- Islamic Republic News Agency
+- Telegraph
+- UN General Assembly
+- United Nations Security Council
 ---
 
 ![Britain's Foreign Secretary Ed Miliband attends a meeting of the United Nations Security Council, wearing a blue suit and red tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg)

@@ -12,6 +12,23 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21500192.jpg?type=og-image
+locations:
+- Coronation Street
+- Emmerdale
+- Switzerland
+people:
+- Anya Williams
+- Corrie
+- Debbie Webster
+- Georgia Taylor
+- Toyah Battersby
+organisations:
+- Coronation Street TV
+- Emmerdale
+- ITV
+- Scotland
+- Toyah Battersby
+- UEFA Nations League
 ---
 
 *(Image: ITV)*

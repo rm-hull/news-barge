@@ -13,6 +13,78 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/64d3d1f971f508e92a1c71196578c532b94cbd46/607_0_5193_4156/master/5193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bd83a56c5819726d70f16cdcf334d210
+locations:
+- Britain
+- Cambridge
+- Camden
+- Glasgow
+- Greenwich
+- Holborn
+- Hormuz
+- Israel
+- Jerusalem
+- Middle East
+- New York
+- Palestine
+- Primrose Hill
+- Regent’s Park
+- Russia
+- St Pancras
+- UK
+- Ukraine
+- West
+people:
+- Abbas Araghchi
+- Aldo Ciarrocchi
+- Alexandra Topping
+- Andy Burnham
+- Angela Weiss
+- Antonio Olmos
+- Colin Edgar
+- Dan Jarvis
+- Diane Taylorhas
+- Ed Miliband
+- Graham McNabb
+- Grant Shapps
+- Heather Stewart Ravinder Athwal
+- Holborn
+- James Purnell
+- John Healey
+- Keir Starmer
+- Louise Sandher-Jones
+- Martin Godwin
+- Nataliya Rumyantseva
+- Peter Walker
+- Ravinder Athwal
+- Sagal Abdi Wali
+- Sagal Abdi-Wali
+- Sky Zack Polanski
+- Sylvia Haughney
+- Valentyna Klymova
+- Vladimir] Putin
+- Zack Polanski
+organisations:
+- AFP
+- Armed Forces
+- BBC Radio 4’s Today Programme
+- Flint Global
+- Foreign Office
+- Future Publishing
+- Getty Images Healey
+- Glasgow City Council
+- Green Party
+- Guardian
+- Homes for Ukraine Scheme
+- Kyiv
+- Labour Party
+- PA Media
+- Sky News
+- St Pancras
+- Telegraph
+- UN
+- Unison
+- Unite
+- Wiktor Szymanowicz
 ---
 
 Polanski heckled as he declares himself an anti-Zionist at byelection hustings

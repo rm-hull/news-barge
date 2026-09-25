@@ -11,6 +11,11 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/17/12/21/Frame-1631.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Clickhereto
+organisations:
+- All Access
 ---
 
 Is there something in the news you’d like to know more about? Or perhaps you have a burning question you’ve been wanting to ask? From politics, culture and climate to sport and the big issues shaping our world, our new Ask Me Anything series gives you the chance to put your questions to our journalists.

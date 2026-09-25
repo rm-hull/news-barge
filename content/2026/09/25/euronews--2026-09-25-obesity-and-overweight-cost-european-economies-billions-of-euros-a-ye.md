@@ -14,6 +14,24 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/80/61/1200x675_cmsv2_07e4c34d-4b74-5981-a105-8b384488b58e-9928061.jpg
+locations:
+- Europe
+- France
+- Germany
+- Greece
+- Ireland
+- Italy
+- Romania
+- Spain
+- UK
+- United Kingdom
+people:
+- Nathalie Moll
+organisations:
+- EFPIA
+- European Federation of Pharmaceutical Industries
+- OHE
+- Office of Health Economics
 ---
 
 ## Obesity and overweight are costing European economies billions of euros every year, with the burden equivalent to what some countries spend on housing or defence, according to a pharmaceutical industry’s report.

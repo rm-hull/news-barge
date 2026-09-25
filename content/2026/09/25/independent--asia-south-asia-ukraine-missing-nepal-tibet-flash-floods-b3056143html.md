@@ -12,6 +12,25 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/25/05/2296234369..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- Gyirong Port
+- Kathmandu
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Norway
+- Tibet
+- Ukraine
+people:
+- Elena
+- Irina Blonskaya
+- Olena Kalynychenko
+- Oles Visich
+- Stanislav Solohub
+- Vladsylava Horlova
+organisations:
+- Red Cross
 ---
 
 Olena Kalynychenko was looking forward to sharing the chrysanthemum tea she had bought in China with her partner.

@@ -12,6 +12,18 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21499910.jpg?type=og-image
+locations:
+- Bedale
+- Catterick Garrison
+- Darlington
+- Leyburn
+- Masham
+- North Yorkshire
+- Northallerton
+- Reeth
+- Richmond
+people: []
+organisations: []
 ---
 
 *(Image: North Yorkshire Weather Updates)*

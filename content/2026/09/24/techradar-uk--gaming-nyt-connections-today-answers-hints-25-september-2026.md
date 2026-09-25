@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Relationships & Dating
 image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
+locations: []
+people:
+- ADAM
+- Daniels
+- I'M
+- LEVY
+- Marc
+- SAVAGE
+- SWANK
+- Wordle
+organisations:
+- LUXE
+- NYT Connections
+- New York Times
+- Yesterday
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg)

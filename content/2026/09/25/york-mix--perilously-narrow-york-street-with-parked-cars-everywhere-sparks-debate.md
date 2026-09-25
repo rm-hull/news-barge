@@ -11,6 +11,23 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-lane-haxby-gsv.webp
+locations:
+- Acadia Grove
+- Church Lane
+- Hawthorn Avenue
+- Haxby
+- Haxby’s North Lane
+- North Lane
+- St Mary’s Church
+- The Village
+- York
+people:
+- Cllr Ravilious
+- Kate Ravilious
+organisations:
+- City of York Council
+- Haxby Sports Bar
+- Labour
 ---
 
 A decision has been made about plans for a parking ban in York.

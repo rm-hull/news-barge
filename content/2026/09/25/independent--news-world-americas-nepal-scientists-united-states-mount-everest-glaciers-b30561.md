@@ -12,6 +12,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/03/UN_General_Assembly_Nepal_15411.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Asia
+- Dhaka
+- Mount Everest
+- Nepal
+- New York
+- U.S
+- United States
+people:
+- Al Gore
+- Balendra Shah
+- Delgado
+- Jennifer McDermott
+- Shisir Khanal
+- Subeksha Khadka
+organisations:
+- AP
+- Associated Press
+- Associated Press
+- General Assembly
+- Global Carbon Project
+- Miss Nepal International
+- U.N
+- UN
+- United Nations
 ---
 
 Nepal's prime minister scolded fellow world leaders Thursday, saying the nation's recent deadly flood reminds a warming world that climate change keeps hurting people who didn't cause the crisis but now need help.

@@ -12,6 +12,39 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/4ea62128703f9ad94cbf34c7ac65bc43c1361b4f/730_209_4425_3540/master/4425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0285ee4729e1394ddb0fdeba72536828
+locations:
+- Dallas
+- Iran
+- Texas
+- US
+- United States
+- Uvalde
+- Walmart
+- Washington
+- White House
+people:
+- Brandon Herrera
+- Chris Stein
+- Donald Trump
+- Hmm
+- Joe Biden
+- Maurice Mitchell
+organisations:
+- AI
+- BBC
+- CBS
+- CNN
+- Congress
+- Fake News Media
+- MS Now
+- Mobil
+- Politico
+- Senate
+- Trump TV
+- United Nations
+- Wall Street Journal
+- Working Families
+- YouTube
 ---
 
 One of Donald Trump’s greatest talents – deployed during his time as a real estate tycoon, source and subject of tabloid gossip, reality TV protagonist, and president of the United States – is his ability to tell stories. With six weeks until the US midterm elections, he is likely to lean on this instinct more than ever.

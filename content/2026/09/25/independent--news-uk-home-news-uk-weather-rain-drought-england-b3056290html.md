@@ -12,6 +12,14 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2025/07/18/7/15/01JX042FYKAB7YDA8RJJ89NJDS.jpeg?width=1200&height=800&crop=1200:800
+locations:
+- England
+people:
+- Lucy Clarke
+organisations:
+- Department of Animal, Rural and Environmental Sciences
+- Nottingham Trent University
+- The Conversation
 ---
 
 After one of the driest periods in recent memory, rain has finally returned to many parts of England. Lawns that were brown only a few weeks ago are green again, rivers have begun to rise and the parched appearance of the landscape is starting to fade.

@@ -12,6 +12,22 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb7f/live/7ac73620-b8c5-11f1-ad1f-538855f30ba1.jpg
+locations:
+- Alabama
+people:
+- Beyonc
+- Jane Doe
+- Jay-Z
+- Jay-Z
+- Sean "Diddy" Combs
+- Shawn 'Jay-Z' Carter
+- Shawn Carter
+- Tony Buzbee
+organisations:
+- BBC
+- Facebook
+- Jay-Z
+- Rolling Stone
 ---
 
 ![Jay-Z wearing a black suit, white shirt, grey patterned tie and white rose](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/fb7f/live/7ac73620-b8c5-11f1-ad1f-538855f30ba1.jpg)

@@ -14,6 +14,26 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/v5gaDyKVpCwCfWBSSHjNZH-2560-80.png
+locations:
+- Asia
+- Europe
+- Middle East
+- Red Sea
+- Suez Canal
+people:
+- Jason Chen
+- Jowi Morales
+- Sanjay Mehrotra
+- Tom
+organisations:
+- Asus
+- Framework
+- Google News
+- Jowi Morales
+- Micron
+- RAM
+- Schenker
+- XMG
 ---
 
 ![XMG Fusion 15](https://cdn.mos.cms.futurecdn.net/v5gaDyKVpCwCfWBSSHjNZH.png)

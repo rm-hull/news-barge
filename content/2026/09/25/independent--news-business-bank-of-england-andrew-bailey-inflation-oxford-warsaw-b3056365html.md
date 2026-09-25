@@ -12,6 +12,16 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/25/12/5b6fd9bb8207a44bbde8f25bf99560d6Y29udGVudHNlYXJjaGFwaSwxNzkwNDIwODc4-2.85452797.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Middle East
+- Oxford
+- UK
+- Warsaw
+people:
+- Andrew Bailey
+- Clare Lombardelli
+organisations:
+- Bank of England
 ---
 
 The governor of the Bank of England has said high energy prices will make it “harder” to maintain interest rates at their current levels and avoid an increase.

@@ -12,6 +12,21 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/25/10/2026-09-25T001138Z_205628861_RC20QNACR9PA_RTRMADP_3_USA-CHINA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Kennedy Center
+- U.S
+people:
+- Christopher Cooper
+- Matt Floca
+- Trump
+organisations:
+- ABC News
+- Building
+- Congress
+- NBC Washington
+- The Washington Post
+- Trump
+- Truth Social
 ---
 
 The Kennedy Center could be closed for far longer than the 7-day period originally set out by the Trump administration, according to reports.

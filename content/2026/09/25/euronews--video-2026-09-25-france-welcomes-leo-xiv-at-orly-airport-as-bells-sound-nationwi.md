@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/77/11/1200x675_cmsv2_d3f0e092-6895-5f6d-9d09-9349c8de0984-9927711.jpg
+locations:
+- Europe
+- Lourdes
+- Lyon
+- Marseille
+- Metz
+- Metz
+- Notre-Dame Cathedral
+- Orléans
+- Paris
+- Saint-Denis
+- Stade de France
+- lysée Palace
+people:
+- Benedict XVI
+- Emmanuel Macron
+- Leo XIV
+- Leo XIV
+- Lourdes
+- Pope
+organisations:
+- Macron
+- UNESCO
 ---
 
 President **Emmanuel Macron** welcomed the**Pope** on his arrival at around 10am, before military honours and introductions to French and Vatican officials. The two then made their way to the**Élysée Palace** for talks.

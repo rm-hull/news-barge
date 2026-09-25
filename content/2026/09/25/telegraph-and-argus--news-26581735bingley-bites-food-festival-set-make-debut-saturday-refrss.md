@@ -13,6 +13,34 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443412.jpg?type=og-image&xType=0&yType=394
+locations:
+- Bingley Market Square
+- Leeds
+- West Yorkshire
+people:
+- Holly
+- Maria
+- Matthew Broadbent
+- Tara Broe
+organisations:
+- Bingley Arts Centre
+- Bingley Bites
+- Bingley High Street Tara
+- Bingley Market
+- Bradford
+- Brick Bank
+- Chilli Sauces
+- For Bake
+- Greek Corner
+- Hedgehog Organics
+- Istanbul Grill
+- Northern Indie Collective
+- Northern Indie Collective and Bingley Arts Centre
+- Sake
+- Shipley
+- Tara Broe
+- Tara Broe)* Entertainment
+- Yorkshire Coffee Bar
 ---
 
 A new festival is set to bring food, fun and entertainment to the heart of Bingley.

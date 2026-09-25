@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/12/923370..?trim=18,0,18,0&width=1200&height=800&crop=1200:800
+locations:
+- Afghanistan
+- UK
+people:
+- Charles Haddon-Cave
+- Edward Craven KC
+- Lord Haddon-Cave
+- N1466
+- Stephen Gray KC
+organisations:
+- British Army
+- Lord Haddon-Cave
+- Ministry of Defence
+- MoD
+- N1466
+- Royal Courts of Justice
+- UKSF
 ---
 
 The sudden discovery of 97 million new files by the Ministry of Defence (MoD) is “staggering and profoundly worrying”, an inquiry into allegations that UK special forces executed Afghans has heard.

@@ -13,6 +13,74 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499248.jpg?type=og-image
+locations:
+- Barnsley
+- Britain
+- Ilkley
+- Keighley
+- North Yorkshire Moors Railway
+- Ocean
+- Red River Valley
+- The Vanishing Girl of Kabul
+- Wuthering Heights
+- York
+people:
+- Andrew Davies
+- Antony Dunn
+- Barbara Cartland
+- Brian Bilston
+- Bridget Jones
+- Chris Bolland
+- Colin Butfield
+- Daljit Nagra
+- David Attenborough
+- Diana Rigg
+- Emily Zobel Marshall
+- Erica Morris
+- Finola Burrell
+- Fiona Mozley
+- Gilgamesh
+- Gyles Brandreth
+- Hairy Biker Si King
+- Hitler
+- Ian McMillan
+- Jacqueline Wilson
+- Jasper Fforde
+- Jeff Overs
+- John Yorke
+- Judy Murray
+- Kate Atkinson
+- Kim Moore
+- Margaret Hodge
+- Mark Foster
+- Mary Mooney
+- Matthew Sweet
+- Nancy Birtwhistle
+- Pam Ayres
+- Paul ‘Piglet’ Middleton
+- Rachael Stirling
+- Reeta Chakrabarti
+- Samira Ahmed
+- Shahnaz Ahsan
+- Simon Armitage
+- Zahra Joya
+organisations:
+- BBC Drama Production
+- BBC News
+- Bafta Fellowship
+- Channel 4
+- Channel Four Drama
+- Front Row
+- House of Cards
+- Hull
+- Labour
+- Open Planet Studios
+- Silverback Films
+- Steam Train Diaries
+- The Beatles
+- The Wasp Factory
+- World Record
+- Yorkshire
 ---
 
 IT is, as Poet Laureate Simon Armitage says, “a landmark occasion in the literary year”.

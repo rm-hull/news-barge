@@ -14,6 +14,19 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/20718710.jpg?type=og-image
+locations:
+- Bedale
+- Catterick Garrison
+- County Durham Council
+- Darlington
+- Leyburn
+- Masham
+- Northallerton
+- Reeth
+- Richmond
+people: []
+organisations:
+- Fire Investigation
 ---
 
 *(Image: NEWSQUEST)*

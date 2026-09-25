@@ -13,6 +13,26 @@ categories:
 - Arts & Culture
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/25/13/9e7ebe7382fe03d2f8c25ac62f43ef68Y29udGVudHNlYXJjaGFwaSwxNzkwNDIyODYw-2.75340303.jpg?width=1200&height=800&crop=1200:800
+locations:
+- George Square
+- Glasgow
+- PA
+- Unison
+people:
+- Colin Edgar
+- Graham McNabb
+- Neil Gray
+- Sylvia Haughney
+organisations:
+- Communication and Governance
+- Craig Meighan
+- GMB
+- Glasgow City Council
+- Justice
+- PA
+- Press Association
+- Unison
+- Unite
 ---
 
 Council bosses in Glasgow “feel sick” about their plans to fire and rehire 23,000 workers across the city, a spokesperson for the authority has said.

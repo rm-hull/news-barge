@@ -14,6 +14,20 @@ categories:
 - Harrogate
 - Technology & Software
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI1OGY2MDA2LTM4OWEtNDEyOC1hZmM2LTE3MmEzNGE1MDdiNjpjMDdjZDgxMi0wZmQ4LTQyMjctODBkNS01ODE0YTg1YmE2ZjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Harrogate
+- Knaresborough
+- Knaresborough’s Viaduct Terrace
+- Network Rail
+- River Nidd
+- Viaduct Terrace
+people:
+- Hannah Gostlow
+- Matt Walker
+- Phil Richardson
+organisations:
+- Network Rail
+- North Yorkshire Council
 ---
 
 # Knaresborough residents demand repairs after council uses pre-collapse terrace image in job advert

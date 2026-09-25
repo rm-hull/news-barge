@@ -13,6 +13,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497042.jpg?type=og-image&xType=0&yType=0
+locations: []
+people:
+- Andy Burnham
+- Dan Brook
+- Paul Churchill
+organisations:
+- Heart of Yorkshire
+- Leeds College of Building
+- Leeds-based G&H
 ---
 
 *(Image: Supplied)*

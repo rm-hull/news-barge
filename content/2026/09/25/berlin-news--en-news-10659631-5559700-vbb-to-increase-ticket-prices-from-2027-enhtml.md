@@ -15,6 +15,12 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.berlin.de/binaries/asset/image_assets/9360297/ratio_4_3/1790341763/800x600/
+locations:
+- Berlin
+- Brandenburg
+people: []
+organisations:
+- VBB
 ---
 
 The new fares apply to all journeys by bus, tram, underground, suburban rail and regional trains within the transport network, which covers Berlin and the whole of the state of Brandenburg. The VBB attributes the price rises to persistently high costs. “In particular, the rise in inflation and the necessary investments in vehicles, infrastructure and a modern, efficient public transport system are posing major financial challenges for transport operators,” the statement said. The price adjustment is necessary to ensure that existing transport services can be maintained.

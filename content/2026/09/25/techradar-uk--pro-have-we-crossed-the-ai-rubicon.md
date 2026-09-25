@@ -9,6 +9,18 @@ description: Recent AI breakouts reveal evaluation flaws, not rogue models
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg
+locations:
+- AI
+- Advania UK
+- GitHub
+people:
+- Caesar
+organisations:
+- AI
+- CTO
+- Future plc
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![A robot hand touching a locked digital shield blocking a human from accessing data](https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej.jpg)

@@ -12,6 +12,29 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/7/20/danny-tommo-channel-dinghy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Basingstoke Magistrates’ Court
+- Dover
+- France
+- Gosport
+- Hampshire
+- Kent
+- UK
+people:
+- Chris Derrick
+- Daniel Thomas
+- Danny Tommo
+- Lucy Powell
+- Shabana Mahmood
+organisations:
+- Border Security Command
+- Crown Prosecution Service
+- English Channel
+- Hampshire Constabulary
+- Home Office
+- PIN
+- The Independent
+- Union
 ---
 
 Far-right activist Daniel Thomas has been charged with criminal damage after allegedly slashing a dinghy in the English Channel earlier this week.

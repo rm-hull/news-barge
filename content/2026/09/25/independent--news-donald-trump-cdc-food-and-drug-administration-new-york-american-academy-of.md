@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/11/Trump__3289.jpg?width=1200&height=800&crop=1200:800
+locations:
+- U.S
+people:
+- Angela Botticella
+- Chris Regal
+- Donald Trump
+- James Campbell
+- Jason Goldman
+- Jason Schwartz
+- Robert F. Kennedy Jr.’s
+organisations:
+- AAP
+- ACIP
+- AP Fund for Journalism
+- Advisory Committee on Immunization Practices
+- American Academy of Pediatrics
+- American College of Physicians
+- America’s Health Insurance Plans
+- CDC
+- Centers for Disease Control and Prevention
+- Department of Health and Human Services
+- FDA
+- Food and Drug Administration
+- Governors Public Health Alliance
+- RSV
+- Trump
+- University of Minnesota
+- Yale University
+- mFlusiva
 ---
 
 The Food and Drug Administration recently approved a new flu vaccine that tested well in older adults. But the federal agency responsible for telling doctors and the general public how to use it has made no recommendation on it.

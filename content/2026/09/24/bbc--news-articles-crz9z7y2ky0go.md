@@ -12,6 +12,53 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a126/live/549bede0-b822-11f1-a430-4d16ee157c41.jpg
+locations:
+- Britain
+- Downing Street
+- Edinburgh
+- England
+- Gaza
+- Greater Manchester
+- Holborn
+- Israel
+- Jackdaw
+- Labour
+- Liverpool
+- Makerfield
+- New York
+- Rosebank
+- St Pancras
+- UK
+- Uplift
+- West Bank
+- Whitehall
+people:
+- Alan Milburn
+- Andy Burnham
+- Gordon Brown
+- John Healey
+- Keir Starmer
+- Kemi Badenoch
+- Nigel Farage
+- Rachel Reeves
+- Sharon Graham
+- Zack Polanski
+organisations:
+- Budget
+- Greenpeace
+- Houses of Parliament
+- Ipsos
+- Labour Party
+- Lib Dem
+- Reform UK
+- Rosebank
+- Scottish Court of Session
+- Starmer
+- TUC
+- Treasury
+- UN General Assembly
+- Unite
+- YouGov
 ---
 
 ![Andy Burnham looking pleased as he reacts to becoming Labour leader. He is wearing black rimmed glasses and a dark suit and tie, against a red background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a126/live/549bede0-b822-11f1-a430-4d16ee157c41.jpg)

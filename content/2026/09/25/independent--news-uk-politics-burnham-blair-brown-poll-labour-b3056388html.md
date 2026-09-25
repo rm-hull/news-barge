@@ -14,6 +14,31 @@ categories:
 - Sports
 - Society & Culture
 image: https://static.independent.co.uk/2026/07/20/12/01KXZJZ47EAY1Y4HY69Q8M6AF1.jpg?trim=0,20,0,20&width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- Iraq
+- New Labour
+- UK
+people:
+- Andy Burnham
+- Bobby Duffy
+- Gordon Brown
+- John Healey
+- Jon Davis
+- Sir Tony
+- Tony Blair
+organisations:
+- Brexit
+- EU
+- King’s College London
+- Labour Party
+- NHS
+- New Labour
+- Opinium for the Policy Institute
+- Policy Institute
+- Reform
+- Strand Group
+- The New Labour
 ---
 
 Labour supporters believe Andy Burnham is as good or a better prime minister than either Sir Tony Blair or Gordon Brown, a new survey has revealed.

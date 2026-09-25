@@ -12,6 +12,47 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/25/01/UN_General_Assembly_Yemen_16511.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Bab el-Mandeb Strait
+- Cairo
+- Iran
+- Islamic Republic
+- Israel
+- Jazan
+- Jerusalem
+- Mokha
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Strait of Hormuz
+- Taif
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- US
+- Yanbu
+- Yemen
+people:
+- Abdullah Abdulkader al Alimi-Bawzer
+- Al Alimi-Bawzer
+- Anna
+- Faisal bin Farhan
+- Farnoush Amiri
+- Khaled
+- Marco Rubio
+- Turki al-Malki
+organisations:
+- Associated Press
+- Security Council
+- U.N
+- U.N
+- U.N
+- U.N
+- United Nations
 ---
 
 Yemen's internationally recognized government pressed world leaders anew Thursday for help defeating the Iran-backed Houthi rebels, saying that their new perch along one of the world's busiest waterways presents an international economic risk.

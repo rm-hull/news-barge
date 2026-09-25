@@ -14,6 +14,17 @@ categories:
 - History
 - Society & Culture
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc5YjljMDAwLTE3OTItNDcxMS04YjJkLWJmNjU2Yjk5ODdmZTo5MjQ3OWRjNC1iMWI2LTQyMmEtOTlmNS04NmI0MzA0YjQ4YjQ=.jpg?crop=3:2,smart&trim=&width=690&auto=webp&quality=75
+locations:
+- Court Terrace
+- Kirkgate
+- Ripon Cathedral
+- Studley Royal and Fountains Abbey World Heritage Site
+people:
+- Andrew Williams
+organisations:
+- North Yorkshire Council
+- Ripon Area Committee
+- Skipton
 ---
 
 # Public consultation could be held on plans to pedestrianise historic Ripon city centre street

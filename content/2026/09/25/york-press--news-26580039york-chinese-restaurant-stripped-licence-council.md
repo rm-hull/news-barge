@@ -12,6 +12,26 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21467974.jpg?type=og-image
+locations:
+- Barbican Road
+- Birmingham
+- UK
+- YORK
+- York
+people:
+- Kheng Chooi Koay
+- Zhong Le Chen
+organisations:
+- CCTV
+- City of York Council
+- HMRC
+- Home Office
+- ICE
+- Immigration Compliance and Enforcement
+- Sky Blue
+- Sky Blue Chinese Restaurant
+- Sky Blue York Ltd
+- The Regency Chinese Restaurant
 ---
 
 *(Image: LDRS)*

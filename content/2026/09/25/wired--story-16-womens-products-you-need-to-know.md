@@ -12,6 +12,48 @@ categories:
 - Science
 - Careers & Productivity
 image: https://media.wired.com/photos/6ab65063111caf4531b01e6e/191:100/w_1280,c_limit/WI110126_GR_GearWomen-TOP%20ART.jpg
+locations:
+- St. Vincent
+- US
+people:
+- Ada Lovelace
+- Adafruit Pimoroni Badgeware Badger Ladyada
+- Annie Clark
+- Bonnie Tu
+- Elina Berglund Scherwitzl
+- Jelenew Mont Blanc
+- Jen Rubio
+- Johnson
+- Kaela
+- Klaus Nomi
+- Laura Youngson
+- Limor Fried
+- Liv EnviLiv
+- Marion Clignet
+- Michelle Penney
+- Sandra Oh Lin
+- Slate
+- Steph Korey
+organisations:
+- Adafruit
+- Away
+- CERN
+- EV-maker Slate
+- Giant
+- IDA
+- KiwiCo STEM Kits Chemical
+- Liv
+- MIT
+- NC° Band
+- NFC
+- Posedla
+- SRAM Force
+- Softside Carry-on
+- TaylorMade
+- Tisha Johnson
+- WIRED
+- Warby Parker
+- Whoop
 ---
 
 ## Slate Auto Fastback SUV

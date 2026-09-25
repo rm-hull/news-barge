@@ -11,6 +11,21 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
+locations: []
+people: []
+organisations:
+- AI ROI
+- Apptio
+- EMEA Field CTO
+- FinOps
+- Future plc
+- Gartner
+- IBM Company
+- ROI of AI
+- Real ROI
+- TechRadar Pro
+- TechRadarPro
+- Technology Business Management
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg)

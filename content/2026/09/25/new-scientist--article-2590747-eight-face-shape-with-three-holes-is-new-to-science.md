@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - History
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313696618.jpg
+locations:
+- UK
+people:
+- Lars Schewe
+- Ruslan Mizhaev
+organisations:
+- ChatGPT
+- Mizhaev
+- University of Edinburgh
 ---
 
 ![Integer Realization of an Equivelar Octahedron of Genus 3](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313696618.jpg?w=840)

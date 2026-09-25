@@ -12,6 +12,22 @@ categories:
 - Harrogate
 - Careers & Productivity
 image: https://mmo.aiircdn.com/409/6ab61ac43be9fa6ef31.jpg
+locations:
+- Bilton Lane
+- Harrogate Town
+- Knaresborough
+people:
+- Tom Gordon
+organisations:
+- Bilton Health and Wellbeing Hub
+- Department for Education
+- Department for Work and Pensions
+- Government
+- Harrogate College
+- Jobcentre
+- Knaresborough
+- NEET
+- Youth Hub
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab61ac43be9fa6ef31.jpg)

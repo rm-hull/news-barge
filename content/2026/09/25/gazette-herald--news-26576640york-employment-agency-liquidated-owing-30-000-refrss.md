@@ -14,6 +14,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21494036.jpg?type=og-image
+locations:
+- Oakdale Road
+- Tower Court
+- YORK
+- York
+- York
+people:
+- Stephen Quinn
+organisations:
+- ADS Electrical Services Ltd of Easingwold
+- Companies House
+- Durham
+- HMRC
+- Statement of Affairs
+- VNPro Ltd
 ---
 
 *(Image: Street View)*

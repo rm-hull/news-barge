@@ -12,6 +12,28 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/owYUMd8oDnV2SberXyPrnM-796-80.png
+locations:
+- Canada
+- Ontario
+people:
+- Bill C-22
+- Gary Anandasangaree
+- Yegor Sak
+organisations:
+- Apple
+- Bill C-22
+- Chamber of Progress
+- EU
+- ExpressVPN
+- Google
+- No Trace
+- Nord
+- NordVPN
+- Public Safety
+- Signal
+- TechRadar
+- VPNs
+- Windscribe
 ---
 
 ![Call to fix Canada Bill C-22 (September 2026)](https://cdn.mos.cms.futurecdn.net/owYUMd8oDnV2SberXyPrnM.png)

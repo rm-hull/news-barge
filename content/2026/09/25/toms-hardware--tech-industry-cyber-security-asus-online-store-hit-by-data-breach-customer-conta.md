@@ -13,6 +13,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/t7p3aKcK7sziExinNCa7Ej-1818-80.jpg
+locations: []
+people:
+- Bruno Ferreira
+- Tom
+organisations:
+- Asus
+- Google News
+- PC
+- Tom's Hardware
 ---
 
 ![Online store breach](https://cdn.mos.cms.futurecdn.net/t7p3aKcK7sziExinNCa7Ej.jpg)

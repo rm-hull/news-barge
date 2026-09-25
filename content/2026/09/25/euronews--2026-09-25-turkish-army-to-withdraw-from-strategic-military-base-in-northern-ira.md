@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/78/02/1200x675_cmsv2_5b07ba02-edca-53a1-9e36-0a9d5352a0a4-9927802.jpg
+locations:
+- Ankara
+- Baghdad
+- Bashiqa-Zilkan
+- Iraq
+- New York
+- Sinjar
+- Syria
+- Turkey
+- US
+- United States
+- Zilkan
+people:
+- Ali al-Zaidi
+- Bashiqa-Zilkan
+- Recep Tayyip Erdoğan
+- Tom Barrack
+organisations:
+- General Assembly
+- ISIL
+- Kurdistan Workers' Party
+- PKK
+- Sinjar Resistance Units
+- UN
+- United Nations
 ---
 
 ## Turkey will gradually hand over the Bashiqa-Zilkan camp, where it has had troops since 2015, to the Iraqi government.

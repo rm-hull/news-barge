@@ -12,6 +12,42 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7c4/live/d45fc990-b839-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Angh
+- Assam
+- Compton
+- Delhi
+- India
+- Konyak
+- Mon
+- Mumbai
+- Nagaland
+- New York
+- Rio
+- Toronto
+people:
+- Abbas Kiarostami
+- Adam Pietkiewicz
+- Amao
+- Angh
+- Anghba
+- Anghlong Konyak
+- Anghs
+- Anglong Konyak
+- B Amo Konyak
+- Black Thought
+- Dominic Sangma
+- Douglas Henshall
+- Meghalaya
+- Nancy Nisa Beso
+- Rima Das
+- Siddhant Adlakha
+- Sobino Rengma
+- Theja Rio
+organisations:
+- Angh
+- The Roots
+- Theja Rio
 ---
 
 Watch: Indian film brings a rarely seen world to global cinema

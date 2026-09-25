@@ -13,6 +13,35 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21497808.jpg?type=og-image&xType=0&yType=359
+locations:
+- Alnwick
+- Bishop Auckland
+- Bloom
+- Chester-le-Street
+- Cockton Hill Bowling Green
+- County Durham
+- Gateshead
+- Kingsway
+- Large Town
+- North East
+- Northumbria
+people:
+- Agnes Wasiluk
+- Michael Siddle
+- Rae Beckwith
+- Sarah Harris
+organisations:
+- Auckland Palace
+- Bishop Auckland
+- Bishop Auckland Hospital Garden
+- Bishop Auckland Town Council
+- Chelsea Flower Show
+- Darlington
+- Durham County Council
+- Greener Together
+- Greener Together Group
+- RHS Britain
+- Tanfield Railway
 ---
 
 Bishop Auckland has scooped gold and been crowned the North East's best large town at this year's Northumbria in Bloom Awards.

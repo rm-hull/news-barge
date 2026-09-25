@@ -11,6 +11,211 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/98ef9332c4cf653bd4bc1d080344a801bbc1716a/623_0_6170_4936/master/6170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=479d64286960dfc9ba6ae5d06ae98b70
+locations:
+- Alaska
+- Amazon
+- America
+- Asia
+- Beijing
+- Butler
+- Chaos
+- Chicago
+- China
+- East Jerusalem
+- Gaza Strip
+- Gracie Mansion
+- Hague
+- Iran
+- Israel
+- Kennedy Center
+- Las Vegas
+- London
+- Los Angeles
+- Louisiana
+- Maryland
+- Miami
+- Middle East
+- NY
+- New Jersey
+- New York
+- New York City
+- North Lawn
+- Oregon
+- Palestine
+- Pennsylvania
+- Smithsonian
+- Swing States
+- Taipei
+- Taiwan
+- Tehran
+- U.S
+- US
+- Venezuela
+- Virginia
+- Washington
+- West Bank
+- White House
+people:
+- Adam Hamawy
+- Amy Coney Barrett
+- Andrew Harnik
+- Andrew Leyden
+- Andy Kim
+- Ayatollah Ali Khamenei
+- Benjamin Netanyahu
+- Betsy Klein
+- Bill Cassidy
+- Boygenius
+- Brad Lander
+- Brendan Smialowski
+- Bret Baier
+- Brett Kavanaugh
+- Brian Stelter
+- Caleb Hearon
+- Chase Robinson
+- Chelsea Manning
+- Chi Oss
+- Chris Rabb
+- Chuck Schumer
+- Cristiano Ronaldo
+- Cynthia Nixon
+- Dan Sullivan
+- Dana White
+- Darializa Avila Chevalier
+- David Ellison
+- Donald Trump
+- Elliot Page
+- Elon Musk
+- Evan Vucci
+- Finn Gomez
+- Fox
+- Getty Images Xi
+- Glennon Doyle
+- Gracie Mansion
+- Greg Brockman
+- Hannah Einbinder
+- Harry Cockburn
+- Heidi Overton
+- Hillary Clinton
+- JMSN
+- James McNeill Whistler
+- Jamie Raskin
+- Jasmine Flower
+- Jeff Bezos
+- Jensen Huang
+- Jesse Watters
+- Jim DeFede
+- Joe Biden
+- John Ratcliffe
+- John Roberts
+- Joseph Gedeon
+- Julien Baker
+- Kamala Harris
+- Laura Ingraham
+- Linda Sarsour
+- Lisa Murkowski
+- Lucy Dacus
+- MS Now
+- Mahmoud Abbas
+- Marco Rubio
+- Mark Zuckerberg
+- Mary Beth Barone
+- Mary Peltola
+- Melania Trump
+- Melat Kiros
+- Miriam Adelson
+- Mohammed bin Salman
+- Nate Adams
+- Netanyahu Darializa Avila Chevalier
+- Peng Liyuan
+- Rand Paul
+- Robert F. Kennedy Jr
+- Ron Wyden
+- Sam Altman
+- Sarah Sherman
+- Sergey Brin
+- Shannon Ho
+- Shannon Stapleton
+- Sundar Pichai
+- Susan Collins
+- Tim Cook
+- Tim Kaine
+- Tony Kushner
+- Xi Jinping
+- Zohran Mamdani
+organisations:
+- ABC
+- AFP
+- AdImpact
+- Amazon
+- Apple
+- Associated Press
+- Ballotpedia
+- Board of Peace
+- CBS News Miami
+- CIA
+- CNN
+- Congress
+- Elon Musk of Tesla
+- FDA
+- Fake News
+- Fifa
+- Food and Drug Administration
+- Fox News
+- Fox News The Trump
+- Getty Images A
+- Getty Images Trump
+- Google
+- Hamas
+- Health and Human Services
+- Hope Chinese School
+- International Court of Justice
+- International Criminal Court
+- Israeli-American Trump
+- JMSN
+- Jewish Voice for Peace
+- Land of Porcelain
+- MS NOW
+- MS Now
+- Mariam Zuhaib
+- Marine One
+- McDonalds
+- Meta
+- NBC
+- National Museum Of Asian Art
+- Newsmax
+- Nvidia
+- OpenAI
+- Oval Office
+- POOL Getty Images North America
+- Palestine Liberation Organization
+- Palestinian Authority
+- Paramount Skydance
+- Peacock Room
+- Politico
+- Presidential Walk of Fame
+- Reuters Chevalier
+- Senate Health, Education, Labor and Pensions Committee
+- Senate Health, Education, Labor, and Pensions
+- Shutterstock
+- Smithsonian
+- Smithsonian’s National Museum of Asian Art
+- State Department
+- State of Palestine
+- TRUMP
+- The Associated Press
+- The New York Times
+- Trump and Xi
+- UN
+- US Navy
+- United Nations
+- United Nations General Assembly
+- Wall Street Journal
+- Washington DC
+- White House A
+- Xinhua
+- YouTube
+- ZUMA Press Wire
 ---
 
 A monitor shows CNN senior reporter Betsy Klein as she does a live report from the designated outdoor press area on the North Lawn after being allowed back on to the grounds of the White House on 24 September. Photograph: Andrew Harnik/Getty Images

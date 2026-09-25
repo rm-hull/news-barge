@@ -14,6 +14,22 @@ categories:
 - Family & Parenting
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/21313402.jpg?type=og-image
+locations:
+- Leeds General Infirmary
+- NHS England
+- St James’s University Hospital
+people:
+- Brendan Brown
+- Donna Ockenden
+- Phil Wood
+- Prof Wood
+organisations:
+- CQC
+- Calderdale
+- Care Quality Commission
+- Huddersfield NHS Foundation Trust
+- Leeds Teaching Hospitals
+- Leeds Teaching Hospitals NHS Trust
 ---
 
 An NHS trust is recruiting a full-time chief executive as the city’s hospitals face an inquiry into maternity care.

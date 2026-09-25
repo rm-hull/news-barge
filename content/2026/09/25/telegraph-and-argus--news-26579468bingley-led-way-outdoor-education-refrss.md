@@ -13,6 +13,43 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498091.jpg?type=og-image
+locations:
+- Bingley
+- Bradford
+- Buckden
+- Grassington
+- London
+- Myrtle Park
+people:
+- Binghelia
+- Helen Wodehouse
+- Margaret McMillan
+- Miss Morton
+- Patrick Geddes
+- Wally Keay
+organisations:
+- Alan Cattell archives
+- Bingley College
+- Bingley Teacher Training College
+- Buckden House Dales Centre
+- Camp School
+- Cooperative Society
+- District Local History Society
+- Friends War Victims Relief Committee
+- Friends of Bingley College
+- Halls of Residence
+- Independent Labour Party and Workers Education Association
+- Linton Camp School
+- Masque of Education
+- Method
+- Mountain Leadership Certificate
+- The Camp School
+- The Masque
+- The Masque of Learning
+- Training College
+- West Riding County Council
+- Workers Education Association
+- YMCA
 ---
 
 USING rare photographs and detailed research, I have explored four quirky events which happened in Bingley in 1916/1917.

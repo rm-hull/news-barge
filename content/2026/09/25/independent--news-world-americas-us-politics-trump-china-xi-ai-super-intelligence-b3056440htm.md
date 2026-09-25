@@ -10,6 +10,18 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/10/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- U.S.A
+- U.S.A
+people:
+- Donald Trump
+- Xi Jinping
+organisations:
+- AI
+- Artificial Intelligence
+- Congress
+- Truth Social
 ---
 
 President Donald Trump said on Friday morning that Chinese President Xi Jinping agreed with about renaming AI “super intelligence.”

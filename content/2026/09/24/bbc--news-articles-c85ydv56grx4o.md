@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/768f/live/c7ff5680-b86a-11f1-a8da-fd9a2823684e.jpg
+locations:
+- Pennsylvania
+- Switzerland
+- Toronto Pearson Airport
+- US
+- Zurich
+people:
+- Ali Raza
+- Amit Jalota
+organisations:
+- Air Canada
+- Peel Regional Police
+- US Department of Justice
 ---
 
 ![A police officer in a suit stands at a podium and speaks to the media. Next to him is an image on a screen of six gold bracelets with the words "seized items. Valued over $89,000". ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/768f/live/c7ff5680-b86a-11f1-a8da-fd9a2823684e.jpg)

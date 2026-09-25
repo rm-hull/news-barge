@@ -10,6 +10,25 @@ description: Microsoft even said it was by design
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+locations:
+- Austria
+people:
+- Daniel Gruss
+- Florian Draschbacher
+- Hannes Weissteiner
+- Jeanette Angelika Wultsch
+- Stefan Gast
+- Sudheendra Raghav Neela
+- Xufan Zhao
+organisations:
+- ACM CCS
+- Apple
+- Graz University
+- Graz University of Technology
+- Linux
+- Microsoft
+- TU Graz
+- TechRadar Pro
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg)

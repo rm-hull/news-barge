@@ -12,6 +12,36 @@ categories:
 - Science
 - Business & Entrepreneurship
 image: https://media.wired.com/photos/6ab63fba15ca4b3475f8233a/191:100/w_1280,c_limit/GettyImages-2294893161.jpg
+locations:
+- China
+- LA
+- Middle East
+- Nevada
+- Ride
+- Sparks
+- US
+- White House
+people:
+- Dan Priestley
+- Elon Musk
+- Lars Moravy
+- Meena Bibra
+- Tesla
+- Xi Jinping
+organisations:
+- EVs
+- GOP
+- Kenworth
+- Microsoft
+- Musk
+- Nvidia
+- PepsiCo
+- Smart Freight Centre
+- Tesla
+- Vehicle Engineering
+- Volvo
+- WIRED
+- White House China State Dinner
 ---
 
 Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. He’s targeted a $20 trillion valuation—nearly four times the value of market leader Nvidia—on that premise. But his Tesla team was in Sparks, Nevada, on Thursday to focus on, well, an electric vehicle: the long-awaited Tesla Semi.

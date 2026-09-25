@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb1/live/5b4a9420-b8bd-11f1-8668-c7d18ac42397.jpg
+locations:
+- Glasgow City
+- UK
+people:
+- Colin Edgar
+- Douglas Alexander
+- Joanne
+- Neil Gray
+- Susanne Millar
+- Sylvia Haughey
+organisations:
+- BBC Radio Scotland
+- BBC Scotland
+- BBC Scotland News
+- GMB
+- Glasgow City Chambers
+- Glasgow City Council
+- Unison
+- Unite
 ---
 
 ![a group of workers protesting and waving purple 'Unison' flags outside an Glasgow City chambers.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9bb1/live/5b4a9420-b8bd-11f1-8668-c7d18ac42397.jpg)

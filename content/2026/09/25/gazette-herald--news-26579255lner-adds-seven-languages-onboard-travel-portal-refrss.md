@@ -15,6 +15,15 @@ categories:
 - Technology & Software
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21498398.jpg?type=og-image
+locations:
+- UK
+people:
+- Jenni Falconer
+- Nick Bibby
+organisations:
+- LNER Kids Club
+- London North Eastern Railway
+- Simon Williams
 ---
 
 *(Image: Simon Williams)*

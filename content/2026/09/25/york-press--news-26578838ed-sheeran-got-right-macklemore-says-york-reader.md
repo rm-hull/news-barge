@@ -12,6 +12,22 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21456450.jpg?type=og-image
+locations:
+- Brayton North Yorkshire
+- Earth
+- England
+people:
+- Andy Burnham
+- Derek Reed
+- Earl Spencer
+- Ed Sheeran
+- Jofra Archer
+- Macklemore
+- Peter Rickaby Moat
+- Phil ShepherdsonWoodthorpeYorkWhat
+organisations:
+- Archer
+- UN
 ---
 
 *(Image: Image: PA Wire)*

@@ -12,6 +12,21 @@ categories:
 - UK
 - Science
 image: https://static.independent.co.uk/2026/09/23/12/39/polar-vortex-543221.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Arctic
+- Atlantic
+- El Niño
+- Europe
+- North America
+- Pacific Ocean
+- UK
+people:
+- Adam Scaife
+- Dan Holley
+- Nick Dunstone
+organisations:
+- El Niño
+- Met Office
 ---
 
 Freezing temperatures and unsettled conditions could sweep the UK as the El Niño weather phenomenon continues to wreak havoc on global weather.

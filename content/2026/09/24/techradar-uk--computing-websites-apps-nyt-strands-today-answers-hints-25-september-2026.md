@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg
+locations: []
+people:
+- Marc
+- Spangram
+organisations:
+- EIGHTYONE
+- NYT
+- Quordle
+- Spelling Bee
+- Today
+- Wordle and Connections
+- Yesterday
 ---
 
 ![NYT Strands homescreen on a mobile phone screen, on a light blue background](https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB.jpg)

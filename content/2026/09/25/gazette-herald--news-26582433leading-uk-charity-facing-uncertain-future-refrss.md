@@ -13,6 +13,29 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21501724.jpg?type=og-image
+locations:
+- Batley
+- Bicester
+- Manchester
+- Middle East
+- Milton
+- Oxfam
+- UK
+- Ukraine
+- Venezuela
+- West Yorkshire
+- Yorkshie
+people:
+- Lorna Fallon
+organisations:
+- Batley
+- British Heart Foundation
+- Cancer Research UK
+- Ms Fallon
+- Oxfam Activities
+- Oxfam GB
+- Oxfam)* Oxfam
+- The Guardian
 ---
 
 *(Image: Oxfam)*

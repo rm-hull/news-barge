@@ -13,6 +13,40 @@ categories:
 - History
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/9/10/kate-anna-f9bf46ac.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Alpamayo
+- Ana
+- Borneo
+- Cordillera Blanca
+- Earth
+- Huascarán National Park
+- Kensington
+- London
+- Mount Everest
+- Nepal
+- Norbury
+- Peru
+- Peruvian Andes
+- Shropshire
+- South China Sea
+- Whitchurch
+people:
+- Alexander Learmonth KC
+- Ana Lesiak Samuel
+- Anna Unett
+- Eva Zontar
+- Jamie Quintana Figueroa
+- Julie Case
+- Kate Samuel
+- Mark Baxter
+- Master Francesca Kaye
+- Ms Unett
+- Paul Samuel
+organisations:
+- Bank Farm
+- High Court
+- MBA
+- Royal Geographical Society
 ---
 
 The wife and daughter of a mountaineer killed in an avalanche are locked in a High Court fight over his £10m fortune.

@@ -12,6 +12,28 @@ categories:
 - Harrogate
 - Sports
 image: https://mmo.aiircdn.com/409/6ab61c2fc30c9c2e5e9.jpg
+locations:
+- Boston Spa
+- Copmanthorpe
+- Crayke
+- East Yorkshire
+- Glaisdale
+- Helmsley
+- Martin House
+- North
+- Rosedale
+- Saltburn
+- Staithes
+- Tadcaster
+- West
+- Whitby
+- York
+people:
+- Hollie Siu
+- Running Costs
+organisations:
+- Boston Spa
+- Martin House Children's Hospice
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab61c2fc30c9c2e5e9.jpg)

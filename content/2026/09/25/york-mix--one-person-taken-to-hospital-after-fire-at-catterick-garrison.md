@@ -11,6 +11,19 @@ categories:
 - York
 - Health & Fitness
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/06/north-yorkshire-fire-service-aerial-ladder-platform.webp
+locations:
+- Bedale
+- Catterick Garrison
+- Darlington
+- Leyburn
+- Masham
+- Northallerton
+- Reeth
+- Richmond
+people: []
+organisations:
+- Fire Investigation
+- North Yorkshire Fire & Rescue Service
 ---
 
 One person has been taken to hospital after a fire at Catterick Garrison.

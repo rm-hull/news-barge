@@ -13,6 +13,23 @@ categories:
 - History
 - Arts & Culture
 image: https://static.independent.co.uk/2026/09/25/09/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Athens
+- Greece
+- Lysikratous Street
+- Plaka
+people:
+- Andreas Martzakis
+- Andreas Martzaklis
+- Constantina Dimoglidou
+- Protothema
+organisations:
+- Airbnb
+- ERT
+- Ethnos
+- Orange Press Agency
+- Protothema
+- The Independent
 ---
 
 Three people have been injured after a residential building collapsed following a powerful explosion in the bustling historic centre of Athens on Friday, damaging surrounding homes, shops and vehicles.

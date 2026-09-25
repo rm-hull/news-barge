@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21483186.jpg?type=og-image
+locations:
+- BD11RU
+- Bradford
+- Ivegate
+- Lefteris The
+- Rawson Place
+- Tyrrel Street
+- United Kingdom
+- York
+people:
+- Andrew
+- Lefteris
+organisations:
+- Bradford Bakery
+- Brown Muff’s
+- House of Fraser
+- KFC
+- Lefteris Coffee & Tearoom
 ---
 
 I LOVE people watching, and, with a window seat at a city centre café, I was able to indulge my passion.

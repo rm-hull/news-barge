@@ -16,6 +16,61 @@ categories:
 - Comedy & Entertainment
 - Arts & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI4NjkzNGM1LWFiOWItNDg3OS1iMmM4LTQyYWJjZDZmZjEzZTplYWIxNjgxMy1kZmU5LTQ3ZTAtOTExMy03MDE2MzRlNWYwYzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Cape Town
+- Glen Campbell
+- Hyde Park
+- Jamaica
+- Japan
+- Lawnswood
+- Leeds
+- London
+- Manchester
+- Menston
+- Paris
+- Pinewood
+- South Africa
+- UK
+- US
+- Woodhouse Moor
+- York
+- Yorkshire
+people:
+- Ali
+- Bill
+- Edward
+- Glen Campbell
+- Holly
+- Joe Brown
+- Joe Browns
+- Judy
+- Mrs Simpson
+- Oliver Sweeney
+- Peter Christian
+- Primo
+- Richard
+- Rita
+- Roderick Lockyer
+- Sassoon
+- Sophie
+- Sue
+- Waitrose
+organisations:
+- Anchor Cardigan
+- Disney
+- Everton Campbell
+- Glen
+- Hip and Accent
+- Ivory London
+- Leeds
+- Mano Dridi
+- QVC
+- Royal Park Middle School
+- Strand
+- The Little Mermaid
+- Union
+- Vidal Sassoon
+- Yorkshire TV
 ---
 
 # 'We are one of the coolest older age groups there has ever been': Yorkshire model Glen Campbell on being in demand at 65

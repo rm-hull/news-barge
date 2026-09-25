@@ -11,6 +11,23 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/09/2295623881..?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Kentucky House
+people:
+- Donald Trump
+- George W. Bush
+- Kaitlan Collins
+- Thomas Massie
+organisations:
+- Associated Press
+- CNN
+- Congress
+- Epstein
+- ICE
+- Republican Party
+- Reuters
+- Trump
 ---
 
 A Republican member of Congress has said President Donald Trump and the Republican party can expect a “shellacking” in November’s midterms.

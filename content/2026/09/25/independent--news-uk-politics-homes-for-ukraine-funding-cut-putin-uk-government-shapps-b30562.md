@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/23/2026-09-24T142524Z_1259444814_RC25LNAM405H_RTRMADP_3_RUSSIA-ECONOMY.JPG?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+locations:
+- London
+- Russia
+- UK
+- West
+- Westminster
+people:
+- Andy Burnham
+- Grant Shapps
+- Vladimir) Putin
+organisations:
+- BBC Radio 4
+- Homes for Ukraine Scheme
+- Kyiv
 ---
 
 Planned government cuts to the Homes for Ukraine Scheme could “send the wrong message to Putin” by giving the impression that Western support for Kyiv is faltering, a Conservative former defence secretary has warned.

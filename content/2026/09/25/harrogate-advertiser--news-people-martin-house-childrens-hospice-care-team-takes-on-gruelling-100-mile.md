@@ -14,6 +14,29 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY0YjRhNDI5LTQ4OTQtNDM0Ni04NGY2LWI4YmNlOTM5YWFjYjoxMzgxYzUyNy01NGIxLTRhZmMtYTU2MC00YWIyNzFhYTk3ZDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Boston Spa
+- Copmanthorpe
+- Crayke
+- East Yorkshire
+- Glaisdale
+- Helmsley
+- Martin House
+- North
+- Rosedale
+- Saltburn
+- Staithes
+- Tadcaster
+- West
+- Wetherby
+- Whitby
+- York
+people:
+- Hollie Siu
+organisations:
+- Martin House Children
+- Martin House Children’s Hospice
+- Martin House Children’s Hospice care team
 ---
 
 # Martin House Children’s Hospice care team takes on gruelling 100-mile relay to raise vital funds

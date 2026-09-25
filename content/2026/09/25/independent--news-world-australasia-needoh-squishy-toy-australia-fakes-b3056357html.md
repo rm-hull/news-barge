@@ -12,6 +12,40 @@ categories:
 - UK
 - Family & Parenting
 image: https://static.independent.co.uk/2026/09/25/11/43/Screenshot-2026-09-25-163427.png?trim=112,0,202,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- China
+- UK
+- US
+- Westmead
+people:
+- Amanda
+- Benjamin Halls
+- Jody Zerbst
+- Mason
+- Schylling
+- Veevek Thankey
+- Violet Zerbst
+- William Valentine
+organisations:
+- ABC News
+- ACCC
+- Australian Border Force
+- Australian Competition and Consumer Commission
+- Australian Customs
+- Better Retailing
+- Burns and Plastics Treatment Centre
+- Coca-Cola
+- Consumer Product Safety Commission
+- Gold Coast
+- Gold Coast Bulletin
+- NeeDoh
+- Office for Product Safety and Standards
+- Pepsi
+- Queensland Children’s Hospital
+- Red Bull
+- Schylling
+- Sydney Children’s Hospitals Network
 ---
 
 The maker of NeeDoh, the squishy toy that has become a viral sensation among children, is asking the Australian Border Force to stop counterfeit versions entering the country as serious injuries fuel concerns over the safety of the toys and what their fakes contain.

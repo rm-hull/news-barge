@@ -13,6 +13,25 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/80/27/1200x675_cmsv2_a717e371-746f-5220-b990-cfa6a7feb211-9928027.jpg
+locations:
+- Argentina
+- Brazil
+- Britain
+- Denmark
+- England
+- Europe
+- Finland
+- Northern Ireland
+- Scotland
+- UK
+people: []
+organisations:
+- EU
+- Energy Saving Trust
+- GreenSketch
+- JRC
+- Joint Research Centre
+- Southwest Wales
 ---
 
 ## Despite the money they can save households on electricity bills, just one in 10 European roofs has solar panels.

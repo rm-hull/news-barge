@@ -13,6 +13,21 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/25/00/24171014-9c447706-a04a-4a05-9387-e32f099d5d4d.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Brexit
+- France
+- Iran
+- Ireland
+- Middle East
+- UAE
+- UK
+- US
+people:
+- Karen Betts
+organisations:
+- EU
+- FDF
+- Food and Drink Federation
 ---
 
 UK food and drink exports plunged by more than a 10th over the first half of the year because of increased costs and the conflict in the Middle East, according to new figures.

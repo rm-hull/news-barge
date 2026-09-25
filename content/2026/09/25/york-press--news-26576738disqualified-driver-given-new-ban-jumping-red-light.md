@@ -12,6 +12,17 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/21128136.jpg?type=og-image
+locations:
+- Dringhouses
+- Highmoor Close
+- Old Malton
+- York
+people:
+- Ethan Dennis Barnett
+- Harry Bayman
+- Kevin Glenton
+- Sarah Tyrer
+organisations: []
 ---
 
 *(Image: Kevin Glenton)*

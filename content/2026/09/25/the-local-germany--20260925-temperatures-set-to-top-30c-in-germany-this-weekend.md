@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-621383164.jpg@webp
+locations:
+- Berlin
+- Breisgau
+- Europe
+- Germany
+- Iceland
+- North Atlantic
+people: []
+organisations:
+- DWD
+- German Weather Service
 ---
 
 Just when many people in Germany have started reaching for jumpers and raincoats, the weather is preparing a surprise.

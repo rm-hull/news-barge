@@ -15,6 +15,32 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21494092.jpg?type=og-image
+locations:
+- Darlington Arena
+- Mowden Park
+- Newcastle
+- North East
+people:
+- Alan Turing
+- Bex Murphy
+- Christopher Kewin
+- Matt Atkinson
+- Paul Alsop
+- Stewart Donnor
+- Trevor Creek
+organisations:
+- AI
+- BHP Law and Pulse Accountants
+- Cornerstone
+- Darlington Mowden Park Rugby Club
+- Dartmouth Workshop
+- Enginuity Matt Atkinson
+- Google
+- Lucid
+- Mincoffs
+- Newcastle Red Bulls
+- Ready Mix Tees Valley
+- Wildix Stewart Donnor
 ---
 
 *(Image: Supplied)*

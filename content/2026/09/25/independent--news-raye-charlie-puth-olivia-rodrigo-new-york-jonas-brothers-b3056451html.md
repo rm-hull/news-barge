@@ -13,6 +13,57 @@ categories:
 - UK
 - Sports
 image: null
+locations:
+- Boston
+- Chicago
+- D.C
+- D.C
+- Dallas
+- Detroit
+- Dickies Arena
+- Fort Worth
+- Los Angeles
+- Madison Square Garden
+- Nashville
+- New York
+- Philadelphia
+- Tennessee
+- Texas
+- The Beaches
+- Washington
+people:
+- Alex Warren
+- Bella Kay
+- Charlie Puth
+- Freya Skye
+- Hilary Duff
+- Jonas Brothers
+- Katseye
+- Kylie Cantrall
+- Ludacris
+- Myles Smith
+- Olivia Rodrigo
+- Raye
+- Sienna Spiro
+- Sombr
+- Sombr, OneRepublic
+- Stella Lefty
+- Teddy Swims
+- Tove Lo
+- Yeonjun
+organisations:
+- ABC
+- Boston
+- Capital One
+- Disney
+- JYT
+- Madison Square Garden
+- Nashville
+- The Beaches
+- Ticketmaster
+- Tomorrow X Together
+- Z100
+- iHeartRadio
 ---
 
 iHeartRadio is loading its 2026 holiday tour with some starry acts, including performances by Olivia Rodrigo, Charlie Puth, Raye, Katseye, Jonas Brothers, Alex Warren, Hilary Duff, Sombr, OneRepublic, Ludacris, Teddy Swims and Sienna Spiro.

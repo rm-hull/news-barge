@@ -12,6 +12,16 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21495563.jpg?type=og-image
+locations:
+- York
+people:
+- Emily Pulsford
+- Ms Pulsford
+organisations:
+- Grown Up Cake Co
+- Grown Up Cake Co
+- The Grown Up Cake Co
+- Yorkshire
 ---
 
 *(Image: Supplied)*

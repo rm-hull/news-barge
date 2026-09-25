@@ -13,6 +13,14 @@ categories:
 - True Crime
 - News & Politics
 image: https://mmo.aiircdn.com/409/6ab6199fd78f1aa9ab6.jpg
+locations:
+- North Yorkshire
+- Northallerton
+- York
+people:
+- Tim Forber
+organisations:
+- North Yorkshire Police
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab6199fd78f1aa9ab6.jpg)

@@ -14,6 +14,26 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNjNjU2OTFjLTU4ZjUtNDVkZC1iMWJkLWQ5MjAyOGU2MjA0ZjoyNmYyM2UwMC1mYTIxLTQyNjAtOTY3YS05MzI2NDY2YzMyMDY=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+locations:
+- Leeds
+- North East
+- Wales
+- York
+people:
+- Alex Norris
+- Andrew Thomas KC
+- Andy Burnham
+- Mark Evans
+organisations:
+- Bradford
+- Criminal Bar Association
+- Crown Court
+- Law Society of England
+- Leeds Crown Court
+- Ministry of Justice
+- MoJ
+- Sheffield
+- The Yorkshire Post
 ---
 
 # Minister pledges to cut courts backlog as funding agreed to recruit new magistrates

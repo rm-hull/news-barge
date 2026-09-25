@@ -10,11 +10,12 @@ from pathlib import Path
 from typing import Any
 
 import trafilatura
+import yaml
 from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import Browser
 
-from .classifiers import article_categories
+from .classifiers import article_categories, named_entities
 from .constants import (
     REPO_ROOT,
     TRAFILATURA_CONFIG,
@@ -27,6 +28,7 @@ from .slugs import url_to_slug
 from .text_extraction import (
     clean_markdown_formatting,
     extract_first_image_from_markdown,
+    filter_duplicate_names,
     linkify_text,
     normalize_inline_spacing,
     remove_excluded_elements,
@@ -88,6 +90,33 @@ async def process_article(
     if exclusions:
         html = remove_excluded_elements(html, exclusions, logger=logger)
 
+    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
+
+    now = datetime.now(UTC)
+    pub_date: datetime | None = None
+    if meta and meta.date:
+        try:
+            pub_date = datetime.fromisoformat(meta.date.replace("Z", "+00:00"))
+        except ValueError:
+            pass
+    file_date = pub_date or now
+
+    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
+
+    # Don't create articles older than the retention window
+    if retention_months > 0:
+        cutoff = months_ago(retention_months)
+        if file_date.date() < cutoff.date():
+            logger.log(
+                f"  · older than {retention_months} month(s) "
+                f"(published {file_date.date()} < {cutoff.date()}), skipping"
+            )
+            return False
+
+    if path.exists() and not force:
+        logger.log(f"  · already exists, skipping: {path.name}")
+        return False
+
     extracted_html = await asyncio.to_thread(
         trafilatura.extract,
         html,
@@ -112,23 +141,12 @@ async def process_article(
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
 
-    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
-
     # Fallback to first image in markdown if metadata image is missing
     image: str | None = None
     if meta and meta.image:
         image = meta.image
     else:
         image = extract_first_image_from_markdown(md_body)
-
-    now = datetime.now(UTC)
-    pub_date: datetime | None = None
-    if meta and meta.date:
-        try:
-            pub_date = datetime.fromisoformat(meta.date.replace("Z", "+00:00"))
-        except ValueError:
-            pass
-    file_date = pub_date or now
 
     title = (meta.title if meta else None) or slug
     if title:
@@ -138,12 +156,6 @@ async def process_article(
         if "|" in title:
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
-    generated_categories = await asyncio.to_thread(
-        article_categories, title, description
-    )
-    categories = list(
-        dict.fromkeys((site.get("categories") or []) + generated_categories)
-    )
 
     frontmatter: dict[str, Any] = {
         "title": title,
@@ -153,25 +165,8 @@ async def process_article(
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
-        "categories": categories,
         "image": image,
     }
-
-    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
-
-    # Don't create articles older than the retention window
-    if retention_months > 0:
-        cutoff = months_ago(retention_months)
-        if file_date.date() < cutoff.date():
-            logger.log(
-                f"  · older than {retention_months} month(s) "
-                f"(published {file_date.date()} < {cutoff.date()}), skipping"
-            )
-            return False
-
-    if path.exists() and not force:
-        logger.log(f"  · already exists, skipping: {path.name}")
-        return False
 
     if dry_run:
         display_path = (
@@ -180,8 +175,24 @@ async def process_article(
         logger.log(f"  [dry-run] would write {display_path}")
         return True
 
-    # Write the markdown file
-    import yaml
+    # No point in creating categories or entities (both relatively expensive) if they
+    # arent going to be written in the document
+    categories = list(
+        dict.fromkeys(
+            (site.get("categories") or []) + article_categories(title, description)
+        )
+    )
+
+    entities = named_entities(md_body)
+
+    frontmatter.update(
+        {
+            "categories": categories,
+            "people": sorted(filter_duplicate_names(entities.people)),
+            "locations": sorted(filter_duplicate_names(entities.locations)),
+            "organisations": sorted(filter_duplicate_names(entities.organisations)),
+        }
+    )
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(

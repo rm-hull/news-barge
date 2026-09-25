@@ -15,6 +15,25 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/24/15/21/iStock-1185314524.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- UK
+people:
+- Alan Milburn
+- Barnardo
+- Keir Starmer
+- Lynn Perry
+- Rachel Millward
+organisations:
+- Barnardo
+- Barnardo’s
+- Government
+- Green Party
+- Greene King
+- Lloyds bank
+- Milburn
+- Octopus Energy
+- Royal Mail
 ---
 
 More than half of young people have turned down or left a job, apprenticeship or work experience because they could not afford travel, clothes or childcare, new research has suggested.

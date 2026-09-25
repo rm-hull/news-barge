@@ -13,6 +13,24 @@ categories:
 - York
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21500732.jpg?type=og-image
+locations:
+- Clifton Moor
+- Clifton Moor Centre
+- Pocklington
+- Ripon
+- Tenpin York
+- UK
+people:
+- Houdini
+- Marc Couget
+- Tenpin
+organisations:
+- CAMRA
+- Sam Smith
+- Sky Sports
+- TNT
+- Tenpin Ltd
+- Tenpin York
 ---
 
 A newly refurbished entertainment centre on the edge of York is welcoming visitors to try its upgraded attractions.

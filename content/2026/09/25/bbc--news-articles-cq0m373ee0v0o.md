@@ -14,6 +14,29 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg
+locations:
+- US
+people:
+- Brett A. Shumate
+- Donald Trump
+- Elon Musk
+- Henna Virkkunen
+- Marco Rubio
+- Thomas Regnier
+organisations:
+- AI
+- DOJ
+- DSA
+- EU
+- Elon Musk
+- European Commission
+- FCC
+- Federal Communications Commission
+- General Court
+- Grok
+- Musk's and X
+- Statute of the Court of Justice
+- US Department of Justice
 ---
 
 ![A headshot of Elon Musk looking off camera, wearing a black suit jacket and white shirt. He has stubble and brown hair](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg)

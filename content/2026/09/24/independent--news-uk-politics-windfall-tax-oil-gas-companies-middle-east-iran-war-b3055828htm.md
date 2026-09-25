@@ -14,6 +14,31 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/22/08/2294113178..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Middle East
+- North Sea
+- Strait of Hormuz
+- UK Continental Shelf
+- US
+- Westminster
+people:
+- Andy) Burnham
+- Clare Aston
+- Enrique Cornejo
+- Flossie Boyd
+- John Healey
+- Rudy Schulkind
+- Simon Francis
+organisations:
+- End Fuel Poverty Coalition
+- Global Witness
+- Greenpeace UK
+- OEUK
+- OGRL
+- Offshore Energies UK
+- Stamp Out Poverty and Tax Justice UK
+- Treasury
 ---
 
 Campaigners have accused energy firms of “pushing for tax breaks” after “cashing in” on the crisis in the Middle East.

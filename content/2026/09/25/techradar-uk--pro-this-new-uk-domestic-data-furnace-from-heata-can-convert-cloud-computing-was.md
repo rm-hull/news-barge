@@ -10,6 +10,17 @@ description: Data processing hot water
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/FeMwDc5b5o2eVrdKt4ShJP-1200-80.jpg
+locations:
+- Europe
+- Heata
+- UK
+people:
+- Heata
+organisations:
+- Heata
+- Raspberry Pi Compute Modules
+- TechRadar Pro
+- Thermify
 ---
 
 ![Compute powered water heater from Heata](https://cdn.mos.cms.futurecdn.net/FeMwDc5b5o2eVrdKt4ShJP.jpg)

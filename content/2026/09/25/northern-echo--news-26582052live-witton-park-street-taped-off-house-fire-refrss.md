@@ -12,6 +12,10 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21501695.jpg?type=og-image
+locations:
+- Witton Park
+people: []
+organisations: []
 ---
 
 * Welcome to The Northern Echo's live breaking news blog on a fire in Witton Park.
