@@ -90,6 +90,33 @@ async def process_article(
     if exclusions:
         html = remove_excluded_elements(html, exclusions, logger=logger)
 
+    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
+
+    now = datetime.now(UTC)
+    pub_date: datetime | None = None
+    if meta and meta.date:
+        try:
+            pub_date = datetime.fromisoformat(meta.date.replace("Z", "+00:00"))
+        except ValueError:
+            pass
+    file_date = pub_date or now
+
+    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
+
+    # Don't create articles older than the retention window
+    if retention_months > 0:
+        cutoff = months_ago(retention_months)
+        if file_date.date() < cutoff.date():
+            logger.log(
+                f"  · older than {retention_months} month(s) "
+                f"(published {file_date.date()} < {cutoff.date()}), skipping"
+            )
+            return False
+
+    if path.exists() and not force:
+        logger.log(f"  · already exists, skipping: {path.name}")
+        return False
+
     extracted_html = await asyncio.to_thread(
         trafilatura.extract,
         html,
@@ -114,23 +141,12 @@ async def process_article(
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
 
-    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
-
     # Fallback to first image in markdown if metadata image is missing
     image: str | None = None
     if meta and meta.image:
         image = meta.image
     else:
         image = extract_first_image_from_markdown(md_body)
-
-    now = datetime.now(UTC)
-    pub_date: datetime | None = None
-    if meta and meta.date:
-        try:
-            pub_date = datetime.fromisoformat(meta.date.replace("Z", "+00:00"))
-        except ValueError:
-            pass
-    file_date = pub_date or now
 
     title = (meta.title if meta else None) or slug
     if title:
@@ -151,22 +167,6 @@ async def process_article(
         "description": description,
         "image": image,
     }
-
-    path = output_path(site_slug, slug, file_date, output_dir=output_dir)
-
-    # Don't create articles older than the retention window
-    if retention_months > 0:
-        cutoff = months_ago(retention_months)
-        if file_date.date() < cutoff.date():
-            logger.log(
-                f"  · older than {retention_months} month(s) "
-                f"(published {file_date.date()} < {cutoff.date()}), skipping"
-            )
-            return False
-
-    if path.exists() and not force:
-        logger.log(f"  · already exists, skipping: {path.name}")
-        return False
 
     if dry_run:
         display_path = (
