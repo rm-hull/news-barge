@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/12914605.jpg?type=og-image
+locations:
+- Bradford Royal Infirmary
+- Gate 6
+- Seat Leon
+- Smith Lane
+- West Yorkshire
+people: []
+organisations:
+- Newsquest
+- West Yorkshire Police
+- Yorkshire Ambulance Service
 ---
 
 *(Image: Newsquest)*

@@ -15,6 +15,19 @@ categories:
 - Family & Parenting
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21496478.jpg?type=og-image&xType=0&yType=75
+locations:
+- County Durham
+- Darlington Santa Run
+- Winston
+people:
+- Anna England
+- Michael
+- Millie England
+- Zain
+organisations:
+- Gainford Primary School
+- Little SENDsations
+- St Teresa’s Hospice
 ---
 
 A County Durham youngster whose parents were told she may never walk has completed the Mini Great North Run to raise money for charities that have supported her.

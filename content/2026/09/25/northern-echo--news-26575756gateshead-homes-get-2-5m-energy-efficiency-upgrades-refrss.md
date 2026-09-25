@@ -13,6 +13,29 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21493070.jpg?type=og-image
+locations:
+- Carlisle Place
+- Causeway
+- County Durham Esh Construction
+- Florence Avenue
+- Gateshead
+- Hillside Place
+- Kells Lane
+- Malton Green
+- North East
+- Penrith Grove
+people:
+- Lisa Stafford
+organisations:
+- A690
+- Department for Energy and Net Zero
+- Esh Construction
+- Gateshead Council
+- Government
+- HUG
+- North Yorkshire Council
+- PAS
+- Storm Tempest
 ---
 
 *(Image: Supplied)*

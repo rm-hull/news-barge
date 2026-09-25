@@ -13,6 +13,27 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/19/09/a025240343b092ca29bfdd7d3748e8c8Y29udGVudHNlYXJjaGFwaSwxNzg3MjE1MDAy-2.85400226.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Blackpool
+- Mayfair
+- Westminster
+people:
+- Andy Burnham
+- Dale Vince
+- Gordon Brown
+- John Healey
+- Rachel Reeves
+organisations:
+- Band H
+- CGT
+- Capital Gains Tax
+- Ecotricity
+- KPMG
+- Labour
+- OBR
+- Office for Budget Responsibility
+- Resolution Foundation
+- Treasury
 ---
 
 It is just over a month until John Healey makes his first Budget announcement as chancellor, and speculation has grown rife about the changes he and Andy Burnham will make at the major fiscal event.

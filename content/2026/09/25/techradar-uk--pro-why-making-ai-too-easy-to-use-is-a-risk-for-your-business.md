@@ -11,6 +11,16 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+locations: []
+people:
+- AI
+organisations:
+- AI
+- Future plc
+- Imperial College London
+- Strategy and Behavioural Science
+- TechRadar Pro
+- TechRadarPro
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg)

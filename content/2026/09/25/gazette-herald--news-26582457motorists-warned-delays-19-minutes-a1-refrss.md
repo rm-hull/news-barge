@@ -14,6 +14,21 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.gazetteherald.co.uk/resources/images/21391870.jpg?type=og-image
+locations:
+- Boston Spa
+- J45
+- MAJOR
+- Tadcaster
+- Wattle Syke
+- York
+- Yorkshire
+people: []
+organisations:
+- A1
+- AA Traffic
+- Southbound
+- The Press
+- Yorkshire Ambulance Service
 ---
 
 A MAJOR road in Yorkshire has become partially blocked after a crash involving multiple vehicles.

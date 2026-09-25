@@ -15,6 +15,17 @@ categories:
 - Automotive
 - Technology & Software
 image: null
+locations:
+- Germany
+people: []
+organisations:
+- Audi Q3
+- Caddy
+- Golf Variant
+- KBA
+- Touran
+- Volkswagen Group
+- Volkswagen Tiguan
 ---
 
 Volkswagen Group said Friday it is recalling 2.86 million Volkswagen and Audi branded vehicles as a precautionary measure over a screw whose failure could cause a loss of steering.

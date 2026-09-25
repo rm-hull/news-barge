@@ -13,6 +13,27 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/10/01M3BXFBT40BBPXZMMGDAD7VZJ.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Basingstoke Magistrates’ Court
+- England
+- English Channel
+- France
+- Portsmouth Crown Court
+people:
+- Chris Derrick
+- Daniel Thomas
+- Danny Tommo
+- Kevin Lucie
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations:
+- Crown Prosecution Service
+- English Channel
+- Hampshire Constabulary
+- Hampshire Constabulary Police Investigation Centre
+- Hampshire Police
+- PIN
+- Union
 ---
 
 Anti-migrant activist Danny Tommo has pleaded not guilty to criminal damage after being accused of slashing a boat in the English Channel with an emergency responder on board.

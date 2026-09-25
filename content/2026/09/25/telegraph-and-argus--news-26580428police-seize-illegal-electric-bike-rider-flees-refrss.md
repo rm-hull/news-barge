@@ -12,6 +12,16 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499589.jpg?type=og-image&yType=12
+locations:
+- Bradford
+- Horsforth
+- Sur-Ron
+- West Yorkshire
+people: []
+organisations:
+- Leeds District Off Road Bike Team
+- SelectaDNA Defence Spray
+- West Yorkshire Police
 ---
 
 A rider was caught trying to flee police on a Sur-Ron bike.

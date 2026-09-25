@@ -13,6 +13,16 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21497923.jpg?type=og-image
+locations:
+- Beverley
+- Yorkstone
+people:
+- Beverley
+- Paul West
+organisations:
+- Department for Transport
+- East Riding of Yorkshire Council
+- Market Cross
 ---
 
 *(Image: Supplied)*

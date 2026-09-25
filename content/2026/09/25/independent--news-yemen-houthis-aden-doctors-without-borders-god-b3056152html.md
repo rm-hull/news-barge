@@ -13,6 +13,48 @@ categories:
 - Society & Culture
 - History
 image: https://static.independent.co.uk/2026/09/25/06/APTOPIX_Mideast_Wars_Yemen_96_16.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Aden
+- Al-Gamhouria
+- Anna
+- Brussels
+- Cairo
+- Iran
+- Jerusalem
+- Marib
+- Middle East
+- Mokha
+- Red Sea
+- Sanaa
+- Saudi Arabia
+- Taiz
+- Yemen
+- Yemeni-Swedish Maternity and Children's Hospital
+people:
+- Abdulnasser Alseddik
+- Ahmed Modhesh
+- Arwa Atef
+- Emmanuel Massart
+- Fahd al-Nazari
+- Francesco Galtieri
+- God
+- Hashem Osseiran
+- Khaled
+- Martyr Mohamed Hayel
+- Mohammed al-Salami
+- Mokha
+- Sami al-Sharabi
+- Tarek al-Salami
+- Toqa Ezzidin
+organisations:
+- AP
+- Associated Press
+- Doctors Without Borders
+- ICRC
+- International Committee of the Red Cross
+- United Nations
+- United Nations Population Fund
+- World Health Organization
 ---
 
 Tarek al-Salami, aged 7, sat in a diaper, looking frail. Normally, the malnutrition and diarrhea that weakened his tiny frame would have been treated within a few days, but nothing is normal in Yemen anymore.

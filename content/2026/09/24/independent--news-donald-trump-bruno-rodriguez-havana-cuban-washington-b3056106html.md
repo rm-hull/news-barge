@@ -14,6 +14,45 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/09/25/00/UN_General_Assembly_Cuba_1659_.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- Argentina
+- Caribbean
+- Cuba
+- Europe
+- Havana
+- Hungary
+- Manhattan
+- New York
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- Ukraine
+- United States
+- Washington
+people:
+- Bruno Rodríguez
+- Donald Trump
+organisations:
+- AP
+- General Assembly
+- State Department
+- The Associated Press
+- Trump
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- United Nations
 ---
 
 The Trump administration was considering imposing new restrictions on Cuban officials who travel to the United Nations, another step to squeeze the government in Havana as its top diplomat accused the United States on Thursday of unleashing collective punishment on Cuba’s people with its intensifying measures.

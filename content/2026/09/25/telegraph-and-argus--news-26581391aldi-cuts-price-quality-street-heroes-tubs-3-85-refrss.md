@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://www.thetelegraphandargus.co.uk/resources/images/21359553.jpg?type=og-image
+locations:
+- Quality Street
+- Scotland
+people: []
+organisations:
+- ALDI
+- Aldi
+- Cadbury Heroes
+- Sainsbury
+- Sainsbury’s
 ---
 
 *(Image: Aldi)*

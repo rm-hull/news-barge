@@ -14,6 +14,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/20611112.jpg?type=og-image&xType=0&yType=113
+locations:
+- Burley-in-Wharfedale
+- Derry Hill
+- Ilkley
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- Google Streetview)* Robinson
+- John Robinson
+- Jonathan Carroll
+- Katto
+- Mason Jones
+organisations:
+- Bradford Crown Court
+- Burley-in-Wharfedale
 ---
 
 **A jury in the trial of a man charged with murder has delivered its verdict this morning at Bradford Crown Court.**

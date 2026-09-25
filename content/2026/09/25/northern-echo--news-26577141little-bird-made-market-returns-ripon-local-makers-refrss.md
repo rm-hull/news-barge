@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21494883.jpg?type=og-image
+locations:
+- Consett
+- County Durham
+- North East
+- Ripon
+- Ripon’s Market Place
+- Spa Gardens
+people:
+- Jackie Crozier
+- Ripon
+- Tim Gomersall
+organisations:
+- Little Bird Made
+- Little Bird Made Artisan Market
+- Little Bird Markets
+- Ripon Market Place
+- Tim Gomersall Art and Illustration
 ---
 
 A popular artisan market featuring independent makers, food producers and creative businesses is set to bring visitors into the heart of a North East city.

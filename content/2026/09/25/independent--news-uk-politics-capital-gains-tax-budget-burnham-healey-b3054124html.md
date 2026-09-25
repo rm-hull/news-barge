@@ -11,6 +11,23 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/08/19/09/a025240343b092ca29bfdd7d3748e8c8Y29udGVudHNlYXJjaGFwaSwxNzg3MjE1MDAy-2.85400226.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Andy Burnham
+- Christopher Furlong
+- John Healey
+- Ms Coles
+- Rachael Griffin
+- Sarah Coles
+- Susannah Streeter
+organisations:
+- AJ Bell
+- Budget
+- CGT
+- Capital Gains Tax
+- Quilter
+- Treasury
+- Wealth Club
 ---
 
 Andy Burnham and John Healey have been warned that any attempt to increase capital gains tax during the Budget will end in failure.

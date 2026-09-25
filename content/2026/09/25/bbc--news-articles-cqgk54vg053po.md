@@ -12,6 +12,30 @@ categories:
 - News & Politics
 - Family & Parenting
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg
+locations:
+- Addenbrooke's Hospital
+- Brantham
+- Cambridge
+- Decoy Pond
+- East Bergholt
+- Ipswich Hospital
+- Merriam Close
+- River Stour
+- River Stour estuary
+- Suffolk
+- Suffolk-Essex
+people:
+- Charlie
+- Jyoti Gill
+- Matt Connick
+- Noah Woods
+organisations:
+- Brantham Parish Council
+- CCTV
+- Merriam Close
+- Metropolitan Police
+- Suffolk Coroner's Court
+- Suffolk Police
 ---
 
 ![Three-year-old Noah Woods, with light hair and wearing a brightly coloured top, smiles at the camera.](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg)

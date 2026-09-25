@@ -13,6 +13,19 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21498344.jpg?type=og-image
+locations:
+- Burnby Hall
+- HISTORIC
+- Pocklington
+people: []
+organisations:
+- Burnby Hall
+- East Riding of Yorkshire Council
+- National Lottery Heritage Fund
+- Pocklington Community Trust
+- Pocklington District Heritage Trust
+- Pocklington Town Council
+- Stewart Room
 ---
 
 *(Image: Supplied)*

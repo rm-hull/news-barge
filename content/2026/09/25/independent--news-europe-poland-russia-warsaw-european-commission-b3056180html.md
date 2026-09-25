@@ -13,6 +13,39 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/07/Migration-Poland-Europe_48615.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belarus
+- Brussels
+- Ceuta
+- Europe
+- Mediterranean Sea
+- Morocco
+- North Africa
+- Poland
+- Russia
+- Ukraine
+people:
+- Alexander Lukashenko
+- Karolina Czerwinska
+- Maciej Duszczyk
+- Michael O’Flaherty
+- Sam McNeil
+- Tineke Strik
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- AP
+- Association for Legal Intervention
+- Council of Europe
+- EU
+- European Commission
+- European Council
+- European Parliament
+- European Union
+- NGO
+- Pact on Migration and Asylum
+- The Associated Press
 ---
 
 When Poland stopped registering asylum applications from migrants entering from Belarus in March 2025, authorities presented it as a temporary emergency measure to counter what they saw as a push by Russia and its ally Belarus to destabilize the country by directing tens of thousands of migrants toward the European Union.

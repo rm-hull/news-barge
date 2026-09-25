@@ -12,6 +12,23 @@ categories:
 - York
 - Sports
 image: https://www.yorkpress.co.uk/resources/images/18600607.jpg?type=og-image
+locations:
+- Diddly Squat Farm
+- North Yorkshire
+- Oxfordshire
+- Symonds Yat East
+- Wye Valley
+- York
+people:
+- Jeremy Clarkson
+organisations:
+- Clarkson's Farm
+- Diddly Squat Farm
+- Popular York
+- Radio Times
+- The Farmer's Dog
+- Top Gear
+- Yorkshire TV
 ---
 
 *(Image: PR)*

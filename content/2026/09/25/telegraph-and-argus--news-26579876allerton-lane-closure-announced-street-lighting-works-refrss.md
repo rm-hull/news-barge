@@ -12,6 +12,21 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498730.jpg?type=og-image
+locations:
+- ALLERTON Lane
+- Allerton Lane
+- Allerton Road
+- Beck Bridge Lane
+- Bell Dean Road
+- Cote Lane
+- Old Road
+- Saffron Drive
+- School Green
+- Thornton Road
+people: []
+organisations:
+- Bradford Council
+- Google Street View
 ---
 
 *(Image: Google Street View)*

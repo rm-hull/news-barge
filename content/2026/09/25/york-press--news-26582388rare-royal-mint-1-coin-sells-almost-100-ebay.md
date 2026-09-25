@@ -13,6 +13,17 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/20593625.jpg?type=og-image
+locations:
+- Great Britain
+- UK
+- United Kingdom
+people:
+- Charles III
+- Martin Lewis
+- Peter Rabbit
+organisations:
+- Royal Mint
+- eBay
 ---
 
 *(Image: Getty Images/iStockphoto)*

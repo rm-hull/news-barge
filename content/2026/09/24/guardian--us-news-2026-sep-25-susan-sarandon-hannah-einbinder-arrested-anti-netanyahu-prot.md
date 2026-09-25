@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/820b3127e99cff519fdf5f10e9d47749102a5e40/1488_0_3858_3088/master/3858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74e4de3abf13f4efdeb71a9d01d8d990
+locations:
+- Britain
+- Cannes
+- France
+- Gaza
+- Hollywood
+- Israel
+- New York
+- Palestine
+- US
+- Venice
+people:
+- Benjamin Netanyahu
+- Chi Oss
+- Darializa Avila Chevalier
+- God
+- Hannah Einbinder
+- Melissa Barrera
+- Sarah Sherman
+- Susan Sarandon
+organisations:
+- Agence France-Presse
+- Hacks
+- Jewish Voice for Peace
+- NYPD Community Affairs Bureau
+- New York Post
+- New York ⁠City council
+- Thelma & Louise
+- United Nations
 ---
 
 Oscar-winning actor Susan Sarandon and Hacks star Hannah Einbinder were among people detained by police in New York on Thursday as they moved in to break up a protest against Benjamin Netanyahu.

@@ -13,6 +13,14 @@ categories:
 - Travel
 - Arts & Culture
 image: https://images.euronews.com/articles/stories/09/92/70/35/1200x675_cmsv2_930415db-7175-5007-8a0d-3a386490b07a-9927035.jpg
+locations:
+- Boulevard Saint-Michel
+- Notre-Dame
+- Notre-Dame-des-Champs
+- Paris
+people:
+- Leo XIV
+organisations: []
 ---
 
 Police in Paris have begun enforcing a parking ban along routes that Pope Leo XIV is expected to take during his walk through the city.

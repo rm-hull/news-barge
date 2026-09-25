@@ -13,6 +13,22 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21494358.jpg?type=og-image
+locations:
+- Bishopton Road West
+- Castle Close
+- Middlesbrough
+- North Tees Hospital
+- Stockton
+people:
+- Daniel Ward
+- Laura Marshall
+- Nathan Adams
+- PC Ward
+- Timothy Jacobs
+organisations:
+- Cleveland Police
+- Durham Crown Court
+- VW
 ---
 
 A serving police officer faces trial accused of careless driving in a police van crash that left a woman injured.

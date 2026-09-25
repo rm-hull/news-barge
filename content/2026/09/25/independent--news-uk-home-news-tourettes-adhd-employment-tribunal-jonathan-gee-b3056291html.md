@@ -12,6 +12,20 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/02/15/01/iStock-1922633073.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- JF Renshaw
+people:
+- Callum Cowx
+- JF Renshaw
+- Jonathan Gee
+- OH
+- Sandra Bray
+- Tourette
+organisations:
+- JF Renshaw
+- Liverpool Employment Tribunal
+- Occupational Health
+- Tourette's
 ---
 
 A worker with Tourette's syndrome has been awarded almost £10,000 after he was dismissed for calling a colleague a "lazy bastard".

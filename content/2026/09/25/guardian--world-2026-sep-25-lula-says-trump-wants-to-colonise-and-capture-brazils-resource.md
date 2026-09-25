@@ -13,6 +13,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://i.guim.co.uk/img/media/329c41740d9ff323fbde3b87c6cf9324354da8b8/186_0_4366_3493/master/4366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e94fc761f5b84fa6b5de124e92e88f0
+locations:
+- Brazil
+- Latin America
+- New York
+- US
+- United States
+- Venezuela
+- Washington
+people:
+- Donald Trump
+- Flávio Bolsonaro
+- JD Vance
+- Luiz Inácio Lula da Silva
+- Marco Rubio
+- Renan Santos
+- den Valadares
+organisations:
+- Big Tech
+- Lula’s Worker
+- PT
+- Rockbridge
+- Trump
+- UN
+- US
 ---
 
 Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order to capture its natural resources by meddling in next month’s presidential election.

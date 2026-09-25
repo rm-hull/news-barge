@@ -15,6 +15,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21239873.jpg?type=og-image
+locations:
+- Haxby
+- North Lane
+- York
+people:
+- Haxby
+- Jo Coles
+organisations:
+- ASB
+- Haxby Town Council
+- North Yorkshire
+- North Yorkshire Jo Coles
+- North Yorkshire Police
+- PCSO
+- Skoda
+- The Press
+- Wigginton Youth and Community Association
 ---
 
 Police are investigating damage caused to a vehicle in a York town, weeks after the town council unveiled a campaign to change how anti-social behaviour is reported.

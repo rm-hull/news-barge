@@ -11,6 +11,13 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg
+locations: []
+people: []
+organisations:
+- C2C
+- Fuser
+- TechRadar Pro
+- Tsinghua University
 ---
 
 ![Hologram of the artificial intelligence robot showing up from binary code](https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk.jpg)

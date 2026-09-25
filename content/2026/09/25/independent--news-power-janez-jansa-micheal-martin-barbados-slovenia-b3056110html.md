@@ -14,6 +14,25 @@ categories:
 - Society & Culture
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/25/01/UN_General_Assembly_Barbados_5_288.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Barbados
+- Hungary
+- Ireland
+- Slovenia
+- The Comoros
+people:
+- András Baka
+- Azali Assoumani
+- Chinua Achebe
+- Janez Jansa
+- Mia Amor Mottley
+- Micheál Martin
+- Power
+organisations:
+- General Assembly
+- The Associated Press
+- U.N
+- United Nations
 ---
 
 Many leaders saying many things about many topics that matter to them, to their regions, to the world: That’s what the U.N. General Assembly invariably produces each year.

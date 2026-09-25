@@ -12,6 +12,23 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21122845.jpg?type=og-image
+locations:
+- North Yorkshire
+- RAF Linton-on-Ouse
+- Top York
+people:
+- Olga Matthias
+organisations:
+- CCTV
+- Home Office
+- Linton-on-Ouse Community Action Group
+- Local Democracy Reporting Service
+- Local Resilience Forum
+- North Yorkshire Council
+- North Yorkshire Police
+- Ombudsman
+- RNLI
+- Reform UK
 ---
 
 ## Campaigners warn asylum centre would give rural village ‘city-sized problems’

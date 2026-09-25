@@ -14,6 +14,36 @@ categories:
 - Society & Culture
 - History
 image: https://static.independent.co.uk/2026/09/25/12/Ethiopia_Fighting_44614.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Abiy
+- Afar
+- Eritrea
+- Ethiopia
+- Kenya
+- Mekelle
+- Nairobi
+- Red Sea
+- Tigray
+people:
+- Abiy Ahmed
+- Desmond Tiro
+- Hailay Meles
+- Magnus Taylor
+- Selam Fantay
+- Tadesse Werede
+- Valerie Browning
+organisations:
+- AP
+- Afar Pastoralist Development Association
+- Amhara Fano National Movement
+- Associated Press
+- Ethiopian Airlines
+- International Crisis Group
+- Oromo Liberation Army
+- Prosperity Party
+- TPLF
+- The Associated Press
+- Tigray People’s Liberation Front
 ---
 
 Residents of the largest city in northern Ethiopia said they were living in fear Friday, with many reportedly trying to flee to other provinces to escape renewed fighting between federal troops and rebels opposed to Prime Minister Abiy Ahmed.

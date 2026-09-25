@@ -15,6 +15,28 @@ categories:
 - Technology & Software
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21499936.jpg?type=og-image&xType=0&yType=117
+locations:
+- Belfast
+- Birmingham
+- Bristol
+- Deliveroo
+- Edinburgh
+- Glasgow
+- Leeds
+- Leicester
+- London
+- Manchester
+- UK
+people:
+- Ishna Berry
+organisations:
+- Bournemouth
+- Cardiff
+- Clubcard Prices
+- Deliveroo
+- Sandhurst Extra
+- Sheffield
+- Tesco
 ---
 
 *(Image: Getty Images)*

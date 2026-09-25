@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21493427.jpg?type=og-image
+locations:
+- County Durham
+- County Durham One
+- Cumbria
+- Eaglescliffe
+- Isle of Man
+- Lancashire
+- North East
+- Northumberland
+- Penrith
+- Saltburnj
+- Scotland
+- Yorkshire
+people:
+- Phil Lambert
+organisations:
+- Crinkle Crags
+- GNAAS
+- GNAAS
+- Great North Air Ambulance Service
+- The Great North Air Ambulance
 ---
 
 The Great North Air Ambulance Service answered more than 550 emergency calls across the North East and beyond during one of its busiest summers.

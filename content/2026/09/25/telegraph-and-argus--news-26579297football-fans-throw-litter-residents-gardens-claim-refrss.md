@@ -14,6 +14,24 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497909.jpg?type=og-image
+locations:
+- Bradford City
+- Lab
+- Manningham Lane
+- Mbanq Stadium
+- Valley Parade
+people:
+- Catherine Smith
+- Cllr Khan
+- Muhammad Haseeb Khan
+- Nazam Azam
+organisations:
+- Bradford City
+- Bradford Council
+- Bradford Independent Group
+- Bradford West Area Committee
+- Manningham Lane
+- Parks and Cleansing Service
 ---
 
 CONCERNS have been raised about football fans “throwing rubbish into gardens” on the way to watch Bradford City matches.

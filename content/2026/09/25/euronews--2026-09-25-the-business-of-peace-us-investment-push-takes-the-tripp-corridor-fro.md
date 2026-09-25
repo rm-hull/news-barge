@@ -14,6 +14,44 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/92/72/00/1200x675_cmsv2_7fdda6ff-d81c-5020-a770-155c74617cab-9927200.jpg
+locations:
+- Armenia
+- Azerbaijan
+- Caspian Sea
+- Central Asia
+- Europe
+- Georgia
+- Kazakhstan
+- Kyrgyzstan
+- Middle Corridor
+- New York
+- South Caucasus
+- Tajikistan
+- Trans-Caspian Route
+- Trump Route
+- Turkey
+- Turkmenistan
+- U.S
+- US
+- Uzbekistan
+- Washington
+people:
+- Ararat Mirzoyan
+- Brendan Hanrahan
+- Jeyhun Bayramov
+- Mark Cameron
+- Steve Daines
+- Steve Witkoff
+- Yalchin Rafiyev
+organisations:
+- Bureau of South and Central Asian Affairs
+- Euronews
+- International Peace and Prosperity
+- TRIPP
+- Trans-Caspian Enterprise Fund
+- US State Department
+- US Trade and Development Agency
+- United Nations General Assembly
 ---
 
 ## Washington grants millions to the so-called Trans-Caspian Enterprise Fund to act as a catalyst for private investment in the South Caucasus and Central Asia.

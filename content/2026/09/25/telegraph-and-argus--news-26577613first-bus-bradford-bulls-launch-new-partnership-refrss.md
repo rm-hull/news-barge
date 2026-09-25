@@ -13,6 +13,15 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21495483.jpg?type=og-image
+locations:
+- Bartercard Odsal Stadium
+people:
+- Ian Stafford
+- Mubs Mahmed
+organisations:
+- Bradford Bulls
+- Bradford’s
+- First Bus
 ---
 
 *(Image: Supplied)*

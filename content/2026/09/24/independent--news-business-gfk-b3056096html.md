@@ -13,6 +13,11 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/25/00/39fc7b2ebb65a68448bd61981a67b1d6Y29udGVudHNlYXJjaGFwaSwxNzkwMzMxNTAy-2.84997233.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Neil Bellamy
+organisations:
+- GfK
 ---
 
 Consumer confidence has continued its gradual recovery amid concerns rising household bills could be behind signs of cooling.

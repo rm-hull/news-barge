@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - Travel
 image: https://i.guim.co.uk/img/media/b50c83c9039b9bab804792995e9e6fe40b2bd16b/328_0_1834_1467/master/1834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73bc6d9668fafbef4650eefa3d7ae801
+locations:
+- Baja California
+- Hurricane Polo
+- Iberia
+- India
+- Mexico
+- Odisha
+- Pacific Ocean
+- Portugal
+people: []
+organisations:
+- Alvega
+- Polo
 ---
 
 Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength.

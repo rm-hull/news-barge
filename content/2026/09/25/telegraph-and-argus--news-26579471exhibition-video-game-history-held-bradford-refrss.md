@@ -14,6 +14,16 @@ categories:
 - History
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20406490.jpg?type=og-image&xType=0&yType=180
+locations:
+- Bradford
+- North of England
+people:
+- Alan Wake
+- Baldur
+organisations:
+- National Science and Media Museum
+- Star Wars
+- Virgin Media O2
 ---
 
 *(Image: Virgin Media O2)*

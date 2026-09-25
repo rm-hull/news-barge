@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1a3/live/6f930ce0-b8dc-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Bristol
+- Buckingham Palace
+- Cambridgeshire
+- NHS England
+- Southmead Hospital
+people:
+- Barnaby Webber
+- Grace O'Malley Kumar
+- Ian Coates
+- Jim Mackey
+- Oliver McGowan
+- Paula McGowan
+organisations:
+- BBC
+- Bristol Foundation NHS Trust
+- Bristol NHS Foundation Trust
+- GMC
+- General Medical Council
+- Health Services Journal
+- NHS England
+- Nottingham
+- Southport
 ---
 
 ![Stock image of a nurse holding a tablet computer presumably containing medical records.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f1a3/live/6f930ce0-b8dc-11f1-bc1f-3f186ca4140c.jpg)

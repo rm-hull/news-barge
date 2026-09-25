@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0694/live/bcd32e70-b87f-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Beijing
+- China
+- Washington
+people:
+- Donald Trump
+- Laura Bicker
+- Xi Jinping
+organisations:
+- The BBC
 ---
 
 # The world’s two most powerful men just met. How did it go?

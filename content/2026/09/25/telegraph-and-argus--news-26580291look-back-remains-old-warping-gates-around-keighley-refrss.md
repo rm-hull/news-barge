@@ -13,6 +13,15 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499363.jpg?type=og-image
+locations:
+- Denholme
+- Haworth
+- Micklefield
+- Oldfield
+- Steeton
+people:
+- Robin Longbottom
+organisations: []
 ---
 
 By Robin Longbottom

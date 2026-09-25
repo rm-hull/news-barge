@@ -15,6 +15,18 @@ categories:
 - Personal Finance & Investing
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21491148.jpg?type=og-image
+locations:
+- North Atlantic
+- Shipley
+people:
+- Ms Gregory
+- Sarah Gregory
+organisations:
+- ASTRO
+- DEFENDER
+- DIANA
+- NATO
+- Slipstream Design
 ---
 
 *(Image: Supplied)*

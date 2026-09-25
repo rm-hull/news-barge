@@ -13,6 +13,15 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6a57d0ff65010a62477.jpg
+locations:
+- North Yorkshire
+people:
+- Ian Dawson
+organisations:
+- North Yorkshire Council
+- PIR
+- STAG
+- School Transport Action Group
 ---
 
 ![](https://mmo.aiircdn.com/409/6a57d0ff65010a62477.jpg)

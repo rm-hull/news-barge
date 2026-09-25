@@ -17,6 +17,22 @@ categories:
 - Society & Culture
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY2YmE2ZDYwLWRhNGItNGMyOS1iYTdjLTE5ZGMxN2YyMjdlZTo1M2UzNTQ5OS02MDgwLTRjMTYtYTE4OC1hMGNmODZiOTk2NTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Britain
+- Europe
+- London
+- Middle East
+- Palestine
+- Red Sea
+- Ukraine
+people:
+- Aaron Chown
+- Daxa Manhar Patel
+- Daxa Patel
+- Diana
+- Earl Spencer
+organisations:
+- Waterstones Piccadilly
 ---
 
 # Earl Spencer is a distraction at a gravely important time for the country - Daxa Patel

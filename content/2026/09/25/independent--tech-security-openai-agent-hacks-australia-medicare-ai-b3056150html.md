@@ -12,6 +12,26 @@ categories:
 - UK
 - Technology & Software
 image: https://static.the-independent.com/2026/09/24/10/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Australia
+- OpenAI
+people:
+- Anthony Albanese
+- Jake Moore
+- Maurice Chiodo
+- Niusha Shafiabady
+- Sam Altman
+organisations:
+- Anthropic
+- Australian Catholic University
+- Cambridge University
+- Centre for the Study of Existential Risk
+- ESET
+- Frontier AI
+- Gemini
+- OpenAI
+- UN General Assembly
 ---
 
 An OpenAI system has gone rogue in what might be the most chilling incident of out-of-control artificial intelligence yet.

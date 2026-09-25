@@ -13,6 +13,81 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498449.jpg?type=og-image
+locations:
+- Boroughbridge
+- Cheadle
+- Chelmsford
+- Chester-le Street
+- Collingham
+- Darlington
+- Derby
+- Derbyshire
+- Durham
+- England
+- Glamorgan
+- Gloucestershire
+- Hampshire CCC
+- Headingley Stadium
+- Kent
+- Lancashire
+- Leicestershire
+- Lincolnshire
+- M25
+- Malvern Hills
+- Manchester
+- Mendip Hills
+- Middlesex
+- Monmouth
+- Norfolk
+- North Leeds
+- North West
+- Northamptonshire
+- Northern Ireland
+- Northumberland
+- Nottingham
+- Nottinghamshire
+- Old Trafford
+- Peak District
+- Pennines
+- Portsmouth
+- Route One
+- Saltburn
+- Scarborough
+- Scotland
+- Somerset
+- South East
+- Southampton
+- Suffolk
+- Surrey
+- Sussex
+- Symonds Yat
+- Taunton
+- Wales
+- Warwickshire
+- Wetherby
+- Worcester
+- Worcestershire
+- Worthing
+- Wyke
+- Yorkshire
+people:
+- Alex
+- Derek
+- Margaret
+- Matlock
+- Mikey
+- 'No'
+- RICHARD Clough
+- Richard
+- Ruth
+- Shane Warne
+- Shane Warne Stand
+organisations:
+- Essex
+- Hampshire
+- Low Moor Holy Trinity Cricket Club
+- Marie Curie Hospice
+- Sussex
 ---
 
 RICHARD Clough, of Low Moor Holy Trinity Cricket Club, cycled to all 18 first-class cricket counties in England and Wales to raise funds for Marie Curie Hospice.

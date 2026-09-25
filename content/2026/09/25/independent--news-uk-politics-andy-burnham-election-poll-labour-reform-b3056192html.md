@@ -11,6 +11,32 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/22/08/2295897642..?trim=204,0,204,0&width=1200&height=800&crop=1200:800
+locations:
+- Birmingham
+- Britain
+- Downing Street
+- Middle East
+- UK
+people:
+- Andy Burnham
+- Dan Jukes
+- Farage
+- James Orr
+- Keir Starmer
+- Rupert Lowe
+organisations:
+- Green Party
+- Greens
+- House of Commons
+- Labour
+- Lib Dems
+- Liberal Democrats
+- MRP
+- Plaid Cymru
+- Reform UK
+- SNP
+- The Telegraph
+- YouGov
 ---
 
 Advisers in No 10 are reportedly pushing for Andy Burnham to call an early election next year as part of an attempt to keep Labour in power.

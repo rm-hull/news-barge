@@ -13,6 +13,17 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/71/65/1200x675_cmsv2_c9597bbc-f136-5dfb-a90b-c58a84ebc828-9927165.jpg
+locations:
+- East Room
+- US
+- White House
+people:
+- Donald Trump
+- Elon Musk
+- Melania Trump
+- Xi Jinping
+organisations:
+- Tesla
 ---
 
 US President Donald Trump hosted Chinese President Xi Jinping for a state dinner at the White House on Thursday.

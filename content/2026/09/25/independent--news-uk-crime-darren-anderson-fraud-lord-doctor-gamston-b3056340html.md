@@ -13,6 +13,26 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/09/25/11/30/darren-anderson.png?trim=0,240,0,170&width=1200&height=800&crop=1200:800
+locations:
+- Bassingfield Lane
+- Derbyshire
+- Gamston
+- Nottingham Crown Court
+people:
+- Anna Woodhouse
+- Darren Anderson
+- David Snasdell
+- Duke of Ahlbeck
+- Lord
+- Timothy Ahlbeck
+- Walter Mitty
+organisations:
+- Anderson
+- Crown Prosecution Service
+- Derbyshire Police
+- Insolvency Service
+- Miles Prestland-Windsor
+- Nottingham Crown Court
 ---
 
 A real-life ‘Walter Mitty’ character who falsely claimed to be a doctor and a Lord, as well as set up a number of fake companies, has been jailed.

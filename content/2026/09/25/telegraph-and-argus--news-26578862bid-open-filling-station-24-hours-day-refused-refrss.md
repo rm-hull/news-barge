@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thetelegraphandargus.co.uk/resources/images/20735949.jpg?type=og-image
+locations:
+- Leeds Road
+- Shipley
+- YOUR
+people:
+- Nakendram Piratheepan
+organisations:
+- Bradford Council
+- Noise Impact Assessment
+- Public Notice Portal
+- Texaco
 ---
 
 *(Image: Google)*

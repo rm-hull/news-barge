@@ -13,6 +13,27 @@ categories:
 - York
 - Travel
 image: https://www.gazetteherald.co.uk/resources/images/21498669.jpg?type=og-image&xType=0&yType=361
+locations:
+- Canada
+- Dover
+- Europe
+- Kirkbymoorside
+- Lviv
+- North Yorkshire
+- Pickering
+- Ukraine
+- Wrelton
+people:
+- Andy James
+- Boris Johnson
+- Donald Trump
+- Liz Truss
+- Zelensky
+organisations:
+- D2SL
+- Middleton Arms
+- The Buck Inn
+- Yorkshire
 ---
 
 Retirement took an unexpected turn for one man who swapped a quiet life in North Yorkshire for a new mission delivering aid to Ukraine.

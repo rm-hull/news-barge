@@ -12,6 +12,14 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/4ff9969118bc371acefb0dc5d6cab3086f386509/280_0_2800_2240/master/2800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a6a3092507e430291aee587c7c97906
+locations:
+- New Jersey
+people:
+- Dale Caldwell
+- Mikie Sherrill
+- Thomas Calcagni
+organisations:
+- Administration
 ---
 
 New Jersey’s governor on Thursday called on the state’s lieutenant governor, Dale Caldwell, to resign by Friday after a law firm hired by her office concluded he violated the state’s ethics and discrimination rules.

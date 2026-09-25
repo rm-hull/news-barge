@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Film & TV
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc78/live/d51d7400-b8d8-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Basingstoke Magistrates' Court
+- England
+- English Channel
+- France
+- Hampshire
+- London
+- Portsmouth Crown Court
+people:
+- Daniel Thomas
+- Danny Tommo
+- Kevin Lucie
+- Stephen Yaxley-Lennon
+- Tan Ikram
+- Tommy Robinson
+organisations:
+- Daily Mail
+- PIN
+- Patriot Platform
 ---
 
 ![Patriot Platform leader Daniel Thomas, known as Danny Tommo, leaves the offices of the Daily Mail on September 09, 2026 in London, England](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/dc78/live/d51d7400-b8d8-11f1-b1d1-571ed4d7ff2c.jpg)

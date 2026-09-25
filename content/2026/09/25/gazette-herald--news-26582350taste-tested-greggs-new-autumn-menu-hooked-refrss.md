@@ -13,6 +13,15 @@ categories:
 - York
 - Food & Cooking
 image: https://www.gazetteherald.co.uk/resources/images/21403316.jpg?type=og-image
+locations:
+- Southwark
+people:
+- Greggs
+- Kai Fleet
+organisations:
+- Greggs
+- Greggs
+- Kennedy News
 ---
 
 A food influencer has declared himself "hooked" on a menu item from Greggs’ latest seasonal launch.

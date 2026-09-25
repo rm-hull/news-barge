@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9184/live/060c9cf0-b8b4-11f1-8257-a79ccb54f692.jpg
+locations:
+- Backa Topola
+- Debrecen
+- England
+- Gaza
+- Hungary
+- Israel
+- Kosovo
+- Pristina
+- Republic of Ireland
+- Serbia
+people:
+- Collins
+- Dara O'Shea
+- Jason Knight
+- Nathan
+organisations:
+- Bristol City
+- Hamas
+- UN
+- United Nations
 ---
 
 ![Jason Knight acknowledges the Republic of Ireland fans after Thursday's defeat by Kosovo ](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/9184/live/060c9cf0-b8b4-11f1-8257-a79ccb54f692.jpg)

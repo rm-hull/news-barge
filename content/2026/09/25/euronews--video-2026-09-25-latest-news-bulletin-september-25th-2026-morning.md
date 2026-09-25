@@ -12,6 +12,44 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/71/84/1200x675_cmsv2_f60be2cc-12a1-5615-8f18-feb7832b4c4f-9927184.jpg
+locations:
+- Bay Bridge
+- Catterick
+- China
+- East Room
+- Embarcadero
+- England
+- Europe
+- France
+- France
+- France
+- Frankfurt
+- Gaza Strip
+- Germany
+- New York
+- San Francisco
+- US
+- USA
+- Uzbekistan
+- Wadi Gaza
+- Yemen
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Emmanuel Macron
+- Julie Andrews
+- Michael Jackson
+- Saida Mirziyoyeva
+- Xi Jinping
+organisations:
+- ECB
+- Euronews
+- European Central Bank
+- Presidential Administration
+- Royal Lancers
+- UN General Assembly
+- United Nations
+- United Nations General Assembly
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

@@ -13,6 +13,44 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/0/47/GettyImages-2296992890.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- China
+- East Room
+- East Wing
+- U.S
+- U.S
+- US
+- Washington, D.C
+- White House
+people:
+- Charlie Szymanski
+- Christopher Macchio
+- Donald Trump
+- Elon Musk
+- JD Vance
+- Jeff Domingues
+- Liyuan Peng
+- Liyuan] Peng
+- Madame
+- Makeup
+- Marco Rubio
+- Mark Zuckerberg
+- Melania Trump
+- Sam Altman
+- Xi Jinping
+organisations:
+- Bluesky
+- Congressional
+- East Wing
+- Melania
+- Meta
+- OpenAI
+- Reuters
+- SpaceX
+- Supreme Court
+- The Washington Post
+- Truth Social
 ---
 
 Donald Trump couldn’t help but offer guests at his state dinner with Chinese President Xi Jinping a first-ever tour of his ballroom construction site.

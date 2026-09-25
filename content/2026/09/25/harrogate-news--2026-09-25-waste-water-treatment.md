@@ -14,6 +14,19 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Wastewater-Treatment-Works-resize_cropped.webp
+locations:
+- Bachelor Gardens
+- Harrogate North
+- River Nidd
+- Yorkshire
+people:
+- Lizzie Robinson
+organisations:
+- Bachelor Gardens
+- Hydro International
+- Ward & Burke
+- Yorkshire Water
+- Yorkshire Water
 ---
 
 **Harrogate**— A major**£5 million environmental infrastructure project** has officially launched at the Harrogate North wastewater treatment works to clean up the**River Nidd**.

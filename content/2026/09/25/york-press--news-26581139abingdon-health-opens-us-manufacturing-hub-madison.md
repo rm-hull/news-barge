@@ -12,6 +12,31 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21500457.jpg?type=og-image
+locations:
+- Doncaster
+- Madison
+- US
+- United States
+- Wisconsin
+- York
+people:
+- Chris Yates
+- John Miller
+- Mark Pocan
+- Satya Rhodes-Conway
+organisations:
+- Abingdon Health
+- Abingdon Health Group
+- Abingdon Health USA
+- Abingdon Health of York
+- Abingdon Health plc
+- Abingdon Heath of York
+- Contract Development and Manufacturing Organization
+- OTCQB Venture MarketAbingdon Health of York
+- Pic
+- WEDC
+- Wisconsin Economic Development Company
+- Wisconsin State Legislature
 ---
 
 *(Image: Pic supplied)*

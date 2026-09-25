@@ -12,6 +12,17 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/664306d668db5.jpg
+locations:
+- Bachelor Gardens
+- Harrogate North
+- River Nidd
+- Yorkshire
+people:
+- Lizzie Robinson
+organisations:
+- Hydro International
+- Ward & Burke
+- Yorkshire Water
 ---
 
 ![](https://mmo.aiircdn.com/409/664306d668db5.jpg)

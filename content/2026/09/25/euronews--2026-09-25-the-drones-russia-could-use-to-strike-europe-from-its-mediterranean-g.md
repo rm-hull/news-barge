@@ -13,6 +13,54 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/66/20/1200x675_cmsv2_28e4e254-a01c-5331-bf23-1ec4f9407911-9926620.jpg
+locations:
+- Alabuga Special Economic Zone
+- Bulgaria
+- Dubna
+- France
+- Geran-4
+- Iran
+- Italy
+- Kursk
+- Mediterranean
+- Moscow
+- Poland
+- Russia
+- Saint Petersburg
+- Spain
+- Syria
+- Tatarstan
+- US
+- Ukraine
+people: []
+organisations:
+- Alexa Spatium
+- Bazalt
+- CIA
+- Centre for Strategic and International Studies
+- Defensa
+- Euronews
+- European Union
+- Geran
+- Geran-3
+- Global Military
+- HESA
+- International Institute for Strategic Studies
+- JSC Alabuga Skywalker Technology Co
+- Kniaz Vandal Novgorodsky
+- Kronshtadt Group
+- Kyiv
+- Russian Defence Ministry
+- Shahed Aviation Industries
+- Special Technology Centre
+- TF-TJ2000A
+- The Economist
+- UNITED24 Media
+- Ukrainian Air Force
+- Ushkuinik
+- WikiTanks
+- ZALA Aero
+- ZALA Aero Group
 ---
 
 ## Russia keeps up air strikes on Ukraine with an expanding fleet of drones, from the Shahed-136 to the jet-powered Geran-4 and Geran-5, while boosting production in Alabuga.

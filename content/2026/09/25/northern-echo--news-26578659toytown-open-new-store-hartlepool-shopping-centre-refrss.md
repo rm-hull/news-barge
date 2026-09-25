@@ -15,6 +15,26 @@ categories:
 - Lifestyle & Fashion
 - Shopping & Deals
 image: https://www.thenorthernecho.co.uk/resources/images/21496985.jpg?type=og-image&xType=0&yType=87
+locations:
+- Hartlepool
+- Middleton Grange
+- Middleton Grange Shopping Centre
+- North East
+- UK
+people:
+- Nik McDonald
+- Toytown
+organisations:
+- Barbie
+- Durham
+- Funko
+- Hot Wheels
+- LEGO
+- Metrocentre
+- Middleton Grange Shopping Centre
+- Paw Patrol
+- Pokémon
+- Toytown
 ---
 
 A popular toy retailer is to open a new store at a North East shopping centre, bringing hundreds of toys, games and collectibles to the town centre.

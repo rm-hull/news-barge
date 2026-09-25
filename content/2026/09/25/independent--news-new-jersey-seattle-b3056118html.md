@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/02/NJ_Lieutenant_Gov_Misconduct_99199.jpg?width=1200&height=800&crop=1200:800
+locations:
+- New Jersey
+- Seattle
+people:
+- Dale Caldwell
+- Mikie Sherrill
+- Thomas Calcagni
+organisations:
+- Administration
+- Golden
 ---
 
 New Jersey's governor on Thursday called on the state's lieutenant governor, Dale Caldwell, to resign by Friday after a law firm hired by her office concluded he violated the state's ethics and discrimination rules.

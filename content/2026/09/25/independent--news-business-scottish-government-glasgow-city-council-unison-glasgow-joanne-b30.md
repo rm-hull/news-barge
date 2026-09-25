@@ -12,6 +12,29 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/08/f150db0e3d776e843de2b0241256d489Y29udGVudHNlYXJjaGFwaSwxNzkwNDA0NzQ4-2.81847997.jpg?width=1200&height=800&crop=1200:800
+locations:
+- PA
+- UK
+people:
+- Colin Edgar
+- Graham McNabb
+- Jane Barlow
+- Joanne
+- Mandy McDowall
+- Michael Marra
+- Neil Gray
+- Nicola Sturgeon
+organisations:
+- BBC Radio Scotland’s Breakfast
+- GMB
+- Glasgow City Council
+- Justice Secretary
+- Labour Government
+- SNP
+- Scottish Government
+- Tory
+- Unison Scotland
+- Unite
 ---
 
 Glasgow City Council and unions must “get around the table” to resolve a pay dispute in which thousands of staff are to be fired and rehired, a minister has said.

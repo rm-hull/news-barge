@@ -13,6 +13,39 @@ categories:
 - Society & Culture
 - Education & Learning
 image: https://static.independent.co.uk/2026/09/25/05/Trump_Education_Discrimination_94722.jpg?width=1200&height=800&crop=1200:800
+locations:
+- America
+- D-Va
+- Durham
+- Louisiana
+- North Carolina
+- South
+- U.S
+people:
+- Barack Obama
+- Bobby Scott
+- Catherine Lhamon
+- Donald Trump
+- Joe Biden
+- Johnathan Smith
+- Jovonia Lewis
+- Kelly Gardner
+- Liz Murrill
+- Pam Bisceglia
+- Sabin Sidney
+organisations:
+- AP
+- Advocacy Denver
+- Associated Press
+- Constitution
+- DeSoto Parish School Board
+- Denver Public Schools
+- Durham Public Schools
+- Education Department
+- Justice Department
+- NAACP Legal Defense Fund
+- National Center for Youth Law
+- The Obama and Biden Administrations
 ---
 
 For decades, a key principle underpinned civil rights enforcement in American schools: Not all discrimination was intentional.

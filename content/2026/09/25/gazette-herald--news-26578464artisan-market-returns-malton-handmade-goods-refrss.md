@@ -14,6 +14,15 @@ categories:
 - Arts & Culture
 - Lifestyle & Fashion
 image: https://www.gazetteherald.co.uk/resources/images/21497198.jpg?type=og-image
+locations:
+- North Yorkshire
+people:
+- Dan Leaver
+- Dan’s Pies
+- Jackie Crozier
+organisations:
+- Little Bird Made
+- Malton
 ---
 
 *(Image: Supplied)*

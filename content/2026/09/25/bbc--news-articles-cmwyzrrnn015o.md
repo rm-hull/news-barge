@@ -12,6 +12,33 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4df3/live/ffe27670-b8bc-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Enfield
+- England
+- Highbury Corner Magistrates' Court
+- London
+- Wales
+- Wood Green Crown Court
+people:
+- Andrea Simon
+- Mark Rowley
+- Met
+- Sheryl Wilkins
+- Simon Levy
+- Zafer Dogan
+- Zafer Dogan
+organisations:
+- AI
+- BBC London
+- BBC Radio 4
+- BBC Radio London
+- Crown Prosecution Service
+- Met Police
+- Metropolitan Police
+- Police and Crown Prosecution Service
+- Snaresbrook Crown Court
+- Wood Green Crown Court
+- Zafer Dogan
 ---
 
 ![Custody image of Zafer Dogan](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4df3/live/ffe27670-b8bc-11f1-b1d1-571ed4d7ff2c.jpg)

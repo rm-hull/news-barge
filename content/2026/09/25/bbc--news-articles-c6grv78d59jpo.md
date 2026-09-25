@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1099/live/e10e9f20-b8d6-11f1-a430-4d16ee157c41.jpg
+locations:
+- Africa
+- Europe
+- Middle East
+people:
+- AI
+- Laura Kuenssberg
+- Matt Brittin
+organisations:
+- AI
+- BBC One
+- BBC Sounds
+- Blankety Blank
+- Celebrity Mastermind
+- Google
+- YouTube
+- iPlayer
 ---
 
 'We can't guarantee any programme or channel forever' - BBC Director General Matt Brittin

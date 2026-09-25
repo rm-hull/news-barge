@@ -12,6 +12,15 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/21502371.jpg?type=og-image
+locations:
+- Queenswood Grove
+- York
+people: []
+organisations:
+- CCTV
+- Fiona.Marshall
+- North Yorkshire Police
+- North Yorkshire Police)* Police
 ---
 
 *(Image: North Yorkshire Police)*

@@ -12,6 +12,27 @@ categories:
 - Health & Fitness
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2f7/live/66218770-b2ee-11f1-9c21-0f3ad502fa3d.jpg
+locations:
+- Battersea
+- Manchester
+- Sport England
+- UK
+people:
+- Andrew Scott
+- Antonia Duffin
+- Cordelia Sheridan
+- Esther van Sluijs
+- Hussain Al-Zubaidi
+- Will Seward
+organisations:
+- Gen Z
+- Gym Group
+- Loughborough University
+- Our Future Health
+- Parkrun
+- Sport England
+- UK Active
+- University of Portsmouth
 ---
 
 ![Antonia, on the left, wearing a grey t-shirt and black shorts, is talking to a young female client while she is doing hip thrusts using heavy weights on a bar which is lying across her hips](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d2f7/live/66218770-b2ee-11f1-9c21-0f3ad502fa3d.jpg)

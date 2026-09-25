@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21497301.jpg?type=og-image&xType=0&yType=136
+locations:
+- Hartlepool
+people:
+- Mary Lambert
+- Rob Darby
+organisations:
+- Daisy & Beas
+- Dhamaka
+- Dilshad
+- Hartlepool Restaurant Week
+- New York Pizza
+- Portals
+- Radici Pizza Restaurant
+- Wallis & Co
 ---
 
 *(Image: Agency)*

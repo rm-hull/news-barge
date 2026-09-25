@@ -13,6 +13,17 @@ categories:
 - Business & Entrepreneurship
 - Careers & Productivity
 image: https://www.yorkpress.co.uk/resources/images/21455805.jpg?type=og-image
+locations:
+- Malton
+- North Yorkshire
+- UK
+people:
+- Lisa Werthmann
+- Markel
+- Simon Johnston
+organisations:
+- CMM
+- Care Management Matters
 ---
 
 *(Image: Supplied)*

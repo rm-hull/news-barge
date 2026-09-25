@@ -15,6 +15,39 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://i.guim.co.uk/img/media/77d725891b1c6a7305d62bdee7be3ad8911da003/386_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9a6f945e6a61b9d75209d207495060c
+locations:
+- Australia
+- California
+- New York
+- US
+people:
+- Andrew Charlton
+- Angus Taylor
+- Anthony Albanese
+- Bennett Moses
+- David Pocock
+- Drew Pusateri
+- Katy Gallagher
+- Lyria Bennett Moses
+- Murray
+- Tim Cook
+- Watt
+organisations:
+- ABC
+- AI
+- Apple
+- Asia Society
+- Australian Signals Directorate
+- Channel Seven
+- Charlton
+- Coalition
+- Guardian Australia
+- Labor
+- News24
+- OpenAI
+- Sunrise
+- UN
+- UNSW
 ---
 
 The federal government could change Australian laws if the current legal framework could not respond to the unprecedented OpenAI hack of Medicare, ministers have confirmed.

@@ -12,6 +12,25 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9460/live/22536360-b82f-11f1-89f8-b5d404417bc8.jpg
+locations:
+- BBC
+- Crystal Palace
+- Norwich
+people:
+- Arne Slot
+- Aston Villa
+- Dan Robathan
+- Dan Robathan
+- Emiliano Martinez
+organisations:
+- BBC Newsbeat
+- Crystal Palace
+- FA
+- Fifa
+- Liverpool
+- Manchester City
+- Premier League
+- Southampton
 ---
 
 ![Dan sits on a green chair in a football stand, looking towards the camera. The seats are in a grey metallic stand and Dan wears blue jeans, a maroon top and brown jacket.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9460/live/22536360-b82f-11f1-89f8-b5d404417bc8.jpg)

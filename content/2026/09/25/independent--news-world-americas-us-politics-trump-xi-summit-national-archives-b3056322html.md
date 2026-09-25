@@ -12,6 +12,31 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/10/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Beijing
+- China
+- D.C
+- Taipei
+- Taiwan
+- US
+- United States
+- Washington
+- White House
+people:
+- Craig Singleton
+- Donald Trump
+- Xi Jinping
+organisations:
+- Bill of Rights
+- CNN
+- Declaration of Independence
+- Foundation for Defense of Democracies
+- MS
+- National Archives
+- Senate
+- US Constitution
+- US National Archives
 ---
 
 Following their summit, President Donald Trump will take Chinese leader Xi Jinping to the US National Archives on Friday, where they are expected to emphasize their views on the history and direction of bilateral ties between their countries.

@@ -12,6 +12,36 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/13/25/Screenshot-2026-09-25-at-9-04-43-AM.png?trim=0,170,0,169&width=1200&height=800&crop=1200:800
+locations:
+- New Hampshire
+- North Korea
+- Sen
+- U.S
+- U.S
+- US
+- United States of America
+- White House
+people:
+- Bari Weiss
+- David Ellison
+- Donald Trump
+- Fox
+- JMSN
+- Maggie Hassan
+- Nicolas Maduro
+- Susie Wiles
+- Weijia Jiang
+- Xi Jinping
+organisations:
+- CBS News
+- CBS News’ White House
+- CNN
+- Fox News
+- Paramount Skydance
+- Senate Appropriations
+- The Independent
+- Trump
+- Warner Bros Discovery
 ---
 
 A second commercial glorifying President Donald Trump, paid for by the U.S. government, aired on CBS stations Thursday night as the network continues its push to the right.

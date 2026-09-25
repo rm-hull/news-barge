@@ -12,6 +12,31 @@ categories:
 - UK
 - History
 image: https://static.independent.co.uk/2026/06/27/23/6fce24cb6c4efcbca3da6182ad1cbbc3Y29udGVudHNlYXJjaGFwaSwxNzgyNjgzMDI5-2.85089132.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Barbados
+- Cameroon
+- Comoros
+- Iran
+- Moscow
+- Palau
+- Panama
+- Russia
+- UK
+- US
+- Venezuela
+- West
+people:
+- Smyrtos
+- Vladimir Putin
+organisations:
+- CMR Smyrtos
+- CREA
+- Centre for Research on Energy and Clean Air
+- EU
+- LPhot Hutchins
+- Ministry of Defence
+- PA
+- Windward AI
 ---
 
 Russia has boosted the number of ships flying its own flag by more than one third as it looks to keep oil flowing by avoiding tanker seizures from other countries.

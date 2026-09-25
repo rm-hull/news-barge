@@ -14,6 +14,18 @@ categories:
 - Arts & Culture
 - History
 image: https://www.thetelegraphandargus.co.uk/resources/images/21495216.jpg?type=og-image
+locations:
+- HISTORIC
+- Haworth
+people:
+- Averil Kenyon
+- Patrick Bront
+organisations:
+- Bernard Sunley Foundation
+- Old School Room
+- The Brontë Spirit
+- The Old School Room
+- The Pilgrim Trust
 ---
 
 *(Image: Supplied)*

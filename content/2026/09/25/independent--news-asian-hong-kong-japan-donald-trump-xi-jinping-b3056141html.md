@@ -13,6 +13,33 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/05/Financial_Markets_Wall_Street__348.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- China
+- Hong Kong
+- India
+- Iran
+- Japan
+- Middle East
+- South Korea
+- Strait of Hormuz
+- Taiwan
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- Wall Street
+- Washington
+people:
+- Donald Trump
+- Stan Choe
+- Xi Jinping
+organisations:
+- AP Business
+- Sensex
+- U.S. Treasury
 ---
 
 Asian shares were mixed Friday following another bond sell-off that brought U.S. Treasury yields to their highest in years.

@@ -14,6 +14,21 @@ categories:
 - True Crime
 - Personal Finance & Investing
 image: https://www.gazetteherald.co.uk/resources/images/21500999.jpg?type=og-image
+locations:
+- Drax
+- Escrick
+- North Yorkshire
+- Selby
+people:
+- Rob Campbell
+organisations:
+- DVSA
+- North Yorkshire Council
+- North Yorkshire Council and Trading Standards
+- North Yorkshire Police
+- Operation Super Tornado 2
+- RSPCA
+- Trading Standards
 ---
 
 *(Image: North Yorkshire Police)*

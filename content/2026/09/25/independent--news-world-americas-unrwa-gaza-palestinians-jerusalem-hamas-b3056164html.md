@@ -13,6 +13,38 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/06/Gaza_UNRWA_91257.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Cairo
+- Gaza
+- Geneva
+- Israel
+- New York
+- U.S
+people:
+- Ali Shaath
+- Christian Saunders
+- Philippe Lazzarini
+organisations:
+- AP
+- Board of Peace
+- Hamas
+- International Court of Justice
+- NCAG
+- Palestinian Authority
+- The Associated Press
+- Tony Blair Institute
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- U.N
+- UN
+- UNRWA
 ---
 
 As the U.S.-created Board of Peace pushes ahead with plans to rebuild Gaza, it’s said there’s no place for the U.N. body that for decades has provided support to displaced Palestinians. But the agency’s most recent head says that behind the scenes, board members and others have been more open to working with the U.N. agency for Palestinians than it seems.

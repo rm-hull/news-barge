@@ -13,6 +13,45 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/23/16/44/6371693-library-aea003ef.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Britain
+- Columbia
+- Europe
+- France
+- Georgetown
+- Harvard
+- Italy
+- Kharkiv
+- Kremlin
+- Moscow
+- Poland
+- Russia
+- Spain
+- Stanford
+- US
+- Ukraine
+- Washington
+- West
+people:
+- Daniel Schatz
+- Katia Glod
+- Radoslaw Sikorski
+- Sergei Lavrov
+- Trump
+- Vladimir Putin
+organisations:
+- Alliance
+- Armed Forces
+- CAI
+- Central Intelligence Agency
+- Civil preparedness Glod
+- El Mundo
+- Institute for the Study of War
+- Nato
+- New Eurasian Strategies Centre
+- The Independent
+- United Nations General Assembly
 ---
 
 For months now, European leaders have been incrementally raising the alarm about the threat of Russian strikes on a Nato member.

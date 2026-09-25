@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - History
 image: https://www.thenorthernecho.co.uk/resources/images/21498927.jpg?type=og-image
+locations:
+- Activity Centre
+- County Durham
+- North Yorkshire
+- Quarry Moor
+- Ripon
+people:
+- Andrew Williams
+- Julieann Martin-Long
+- Tony Duncan
+organisations:
+- Alderman Tom F Spence Committee
+- Chair
+- Darlington STEM
+- Durham County Council
+- Echo
+- Full Council
+- Local Nature Reserve
+- Lower Ure Conservation Trust
+- Quarry Moor
+- Ripon City Council
+- Riverside
 ---
 
 *(Image: Supplied)*

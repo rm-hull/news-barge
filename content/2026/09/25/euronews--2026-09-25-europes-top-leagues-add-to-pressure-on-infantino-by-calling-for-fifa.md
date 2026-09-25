@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Sports
 image: https://images.euronews.com/articles/stories/09/92/78/73/1200x675_cmsv2_610d2710-d580-57f4-bf81-2a4e22b44b8c-9927873.jpg
+locations:
+- Brussels
+- Denmark
+- England
+- Europe
+- Germany
+- Italy
+- Morocco
+- Spain
+people:
+- Gianni Infantino
+- Kushner
+organisations:
+- European Commission
+- European Football Clubs
+- European Leagues
+- FIFA Forward Enterprise
+- Infantino
+- Premier League
+- UEFA
 ---
 
 ## It is the latest rift between football leagues and Infantino, whose biggest projects have been seen as attacks on domestic football and were successfully resisted by a backlash from European officials.

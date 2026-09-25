@@ -12,6 +12,27 @@ categories:
 - News & Politics
 - Personal Finance & Investing
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png
+locations:
+- New York
+- UK
+- US
+people:
+- Annika Violet
+- Betsie Brooke-Taylor
+- Ella Feuille
+- Gen Z
+- Hanako Stepper
+- Henry Payne
+- Katrina Dimingot
+- Kaz Jahanbini
+- Laura Pomfret
+- Nouria
+organisations:
+- BBC
+- Betsie
+- New Yorker
+- Nouria
+- Venmo
 ---
 
 Watch: We ask New Yorkers to share the smallest amount they'd ask a friend to pay back

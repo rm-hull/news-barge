@@ -13,6 +13,27 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://images.euronews.com/articles/stories/09/92/75/78/1200x675_cmsv2_9758242e-f418-5a57-aaaf-da41715735b1-9927578.jpg
+locations:
+- Iran
+- Israel
+- Kyiv
+- Moscow
+- Odesa
+- Russia
+- US
+- Ukraine
+- United States
+people:
+- Donald Trump
+- Kyiv
+- Mykyta Sysoyev
+- Volodymyr Zelenskyy
+organisations:
+- AFP
+- IT
+- Kyiv
+- Patriots
+- United States' Patriot
 ---
 
 ## Kyiv has been pushing for a licence to produce Patriot interceptors domestically, arguing that they are crucial to its ability to defend against Russian ballistic missile attacks.

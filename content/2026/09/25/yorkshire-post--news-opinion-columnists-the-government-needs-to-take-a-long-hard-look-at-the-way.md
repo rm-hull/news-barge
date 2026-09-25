@@ -17,6 +17,19 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc2YTgyNzc2LWI3ZDgtNDRhNi04YTY5LTk0ZjQyYTgwYmJhNTpkNTIxNDg2Ni1jNDVkLTQ1MTAtODQ0OC0zMDU2NDIyZWJkZTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- James Hardisty
+- Whitehall
+people:
+- Stephen Morgan
+organisations:
+- Defra
+- Department for the Environment, Food and Rural Affairs
+- Government
+- NFU
+- National Farmers’ Union
+- SFI
+- SFI26
 ---
 
 # The Government needs to take a long hard look at the way it delivers the Sustainable Farming Incentive

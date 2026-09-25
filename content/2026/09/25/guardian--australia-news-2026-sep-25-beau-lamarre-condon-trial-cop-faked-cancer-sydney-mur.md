@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/9121e130e1a0424273a784f6febc21cfcb53dd1d/204_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f05a2120023a9e370f3da2fcd2e2ab1a
+locations:
+- Lamarre-Condon
+- New South Wales
+- Paddington
+- Sydney
+- Westmead
+people:
+- Beau Lamarre-Condon
+- Georgia Cook
+- Jesse Baird
+- Jesse Baird
+- Luke Davies
+- Natalie Adams
+- Shae Davison
+organisations:
+- Instagram
+- NSW
+- Polaroid
 ---
 
 Beau Lamarre-Condon asked a friend, “What would you do if I told you I killed somebody?” nine months before allegedly murdering Jesse Baird and Luke Davies, a Sydney court has heard.

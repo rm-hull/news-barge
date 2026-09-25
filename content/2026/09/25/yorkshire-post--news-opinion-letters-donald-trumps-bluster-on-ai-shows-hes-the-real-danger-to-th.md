@@ -13,6 +13,24 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ0YTE1OGIwLTQ1NTYtNDIxNS05OWZkLTQwNTlhZWNjNDdjMToyMGFhZGU5OS0xMTkxLTQ3ODAtYWQ1ZC03NWFkZDlkMGEyNzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- China
+- Iran
+- Leyburn
+- Russia
+- Spennithorne
+- USA
+- Ukraine
+people:
+- Donald Trump
+- Gerald Hodgson
+organisations:
+- AI
+- Air Force One
+- Artificial Intelligence
+- Julia Demaree Nikhinson
+- Trump
+- Yorkshire Post Letters
 ---
 
 # Donald Trump’s bluster on AI shows he’s the real danger to the world - Yorkshire Post Letters

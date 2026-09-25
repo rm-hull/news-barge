@@ -13,6 +13,31 @@ categories:
 - Science
 - Relationships & Dating
 image: https://media.wired.com/photos/6ab42a814f303cd79a1e8097/191:100/w_1280,c_limit/Culture_Phishing%20Scams%20Are%20the%20New%20Missed%20Connections-v2.jpg
+locations:
+- Alaska
+- Canada
+- Cape Cod
+- Mexico City
+- New York
+- North America
+- UK
+- US
+people:
+- Eric Umansky
+- Lara Aknin
+- Larry Persily
+organisations:
+- AI
+- Communications Psychology
+- FBI
+- Facebook
+- Federal Trade Commission
+- LinkedIn
+- Paperless Post
+- Simon Fraser University
+- WIRED
+- Wrangell Sentinel
+- Zoom
 ---
 
 This past April, while attending his nephew’s bar mitzvah on Cape Cod, Eric Umansky woke up to an inbox full of emails from people from his past. They all wanted to know the same thing: Was he actually throwing a party Saturday night?

@@ -15,6 +15,22 @@ categories:
 - York
 - Technology & Software
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/23/21/03-Yorkshires-river-catchments-connect-upland-landscapes-farmland-and-waterways-ultimately-influenci.jpeg?trim=0,0,1,0&crop=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Gigabit
+- Hull
+- Humber
+- Yorkshire
+people:
+- Ian Murray
+- Mohammed Ameen
+- Quickline
+- Ryan Lupton
+organisations:
+- Quickline
+- Tesco
+- The Yorkshire Post
+- UK Telecoms
 ---
 
 # Project Gigabit: more than half of rural Yorkshire fitted with high-speed broadband

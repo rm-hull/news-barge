@@ -12,6 +12,31 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21501854.jpg?type=og-image
+locations:
+- Europe
+- India
+- Italy
+- King's Road
+- King’s Road
+- London
+- Munich
+- Paris
+- Stockholm
+- UK
+people:
+- Howard Smith
+- Ms Guild
+- Rick Harrison
+- Simon Jeffreys
+- Tricia Guild
+organisations:
+- Designers Guild
+- Designers Guild Ltd
+- Guild Ltd
+- Interpath
+- Ms Guild
+- Royal Collection Fabrics and Wallpapers
+- Windsor Castle
 ---
 
 *(Image: Getty Images)*

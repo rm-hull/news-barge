@@ -13,6 +13,26 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497568.jpg?type=og-image
+locations:
+- Barrowford
+- Bingley
+- Bradford
+- Cross Hills
+- Ilkley
+- Leeds Road
+- Manchester
+- Silsden
+- Skipton
+- UK
+people:
+- Aimi Donohue
+- Darcey Milsted
+- Elfie Higson
+- Gillian Polyhos
+organisations:
+- Olive Lounge Travel
+- UGC
+- Yorkshire’s Top Agency
 ---
 
 *(Image: UGC)*

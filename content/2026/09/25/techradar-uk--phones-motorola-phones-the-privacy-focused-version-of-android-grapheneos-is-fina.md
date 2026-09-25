@@ -11,6 +11,16 @@ description: The Motorola Signature 27 is set to support GrapheneOS, so you won'
 categories:
 - Technology & Software
 image: https://cdn.mos.cms.futurecdn.net/jmyLR9BkarLs4gRqFqPyn6-2000-80.jpg
+locations:
+- US
+people: []
+organisations:
+- AOSP
+- Android Police
+- Google Play Store
+- GrapheneOS
+- Motorola
+- Qualcomm
 ---
 
 ![The Motorola Signature 27 on a yellow background](https://cdn.mos.cms.futurecdn.net/jmyLR9BkarLs4gRqFqPyn6.jpg)

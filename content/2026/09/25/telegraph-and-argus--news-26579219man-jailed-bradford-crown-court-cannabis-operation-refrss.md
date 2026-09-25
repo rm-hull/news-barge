@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497837.jpg?type=og-image
+locations:
+- Pack Horse
+- Pack Horse Inn
+- Southowram
+- Vietnam
+people:
+- Olivia Fraser
+- Patrick Palmer
+- Safaraz Ahad
+- Tran Van Hung
+- Van Hung
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

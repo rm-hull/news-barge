@@ -12,6 +12,16 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/c3424b33ae0c5b1571860a8dc8dbbb93dc60efe6/1173_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f729b4f7302003b16b2a682eb9194f83
+locations:
+- Montparnasse Tower
+- Paris
+people:
+- Emmanuel Grégoire
+- Philippe Goujon
+- Renzo Piano
+- Xavier Niel
+organisations:
+- Agence France-Presse
 ---
 
 It has been called a carbuncle on the Paris skyline, a sombre skyscraper where visitors to its viewing platform often joke that the city looks better when you can’t see the building itself.

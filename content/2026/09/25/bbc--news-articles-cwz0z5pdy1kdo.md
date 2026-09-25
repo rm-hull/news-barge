@@ -14,6 +14,47 @@ categories:
 - History
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e946/live/c9a04730-b868-11f1-9c87-39f93ad008c3.png
+locations:
+- Britain
+- China
+- England
+- London
+- UK
+- US
+- White House
+people:
+- Andy Carroll
+- Anthony Joshua
+- Chris Philp
+- Diana
+- Donald Trump
+- Earl Spencer
+- Fergie
+- Mark Rowley
+- Melania
+- Parkinson
+- Ranulph Fiennes
+- Sarah Ferguson
+- Tyson Fury
+- Xi Jinping
+organisations:
+- British Army
+- Carroll
+- Daily Express
+- Daily Mail
+- Daily Telegraph
+- English Channel
+- Financial Times
+- Guardian
+- Labour
+- Metro
+- Metropolitan Police
+- Mirror
+- NHS
+- Revolut
+- Royal Family
+- Sun
+- Trump
 ---
 
 ![The headline on the front page of the Financial Times reads: “Xi urges rivals to 'coexist in peace' as Trump hosts White House visit”.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/3c73/live/4f263ef0-b85a-11f1-b1d1-571ed4d7ff2c.jpg)

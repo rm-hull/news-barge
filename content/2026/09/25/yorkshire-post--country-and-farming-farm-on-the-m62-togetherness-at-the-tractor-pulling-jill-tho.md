@@ -19,6 +19,15 @@ categories:
 - York
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM4MTZmMzM3LTY4OTAtNDg1MC04Yzk3LTQyZGEzYTA4OTI2ZjpiNmZjMWE1ZS0yNjVjLTRjMDgtOGE1MC03ZjFkYmE0MDI2NTA=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+locations:
+- Emley Moor
+people:
+- Jill Thorp
+- Paul
+organisations:
+- British Tractor Pulling Association
+- Scottish National Party
+- Yorkshire
 ---
 
 # Farm on the M62: ​Togetherness at the tractor pulling - Jill Thorp

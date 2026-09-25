@@ -13,6 +13,23 @@ categories:
 - UK
 - True Crime
 image: https://static.the-independent.com/2026/09/25/9/32/michael-myers-2.jpeg?trim=40,0,562,0&width=1200&height=800&crop=1200:800
+locations:
+- Bedford
+- Florida
+- Inverness
+people:
+- Adolf
+- Mat Baird
+- Michael Myers
+- Renee Bedford
+- Richard Lassiter
+organisations:
+- CCSO
+- CCTV
+- Citrus County Crime Stoppers
+- Citrus County Sheriff’s Office
+- Criminal Investigations Division
+- Fox13
 ---
 
 Florida police havea liquor store of orchestrating an inside-job robbery with a man in a Michael Myers mask.

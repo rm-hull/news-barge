@@ -14,6 +14,34 @@ categories:
 - Careers & Productivity
 - Business & Entrepreneurship
 image: https://www.thenorthernecho.co.uk/resources/images/21497739.jpg?type=og-image
+locations:
+- Hello
+- North East
+- Portugal
+- Spain
+- Teesside Park
+people:
+- Catherine Furlong
+organisations:
+- Arriva
+- Atomix Adult Learning
+- Boots
+- DWP
+- Darlington STEM
+- Echo
+- Katielee Arrowsmith
+- LUSH
+- M&S
+- Mango
+- Middlesbrough College
+- Nando’s
+- Schuh
+- Stagecoach
+- Stockton Employment and Training Hub
+- Stockton Riverside College
+- Tees Valley
+- Teesside Park
+- The Works
 ---
 
 *(Image: Katielee Arrowsmith / SWNS)*

@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - Music
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg
+locations:
+- Colombia
+- Perth
+- UK
+- Western Australia
+people:
+- Andres Felipe Valencia Barrientos
+- Yung Filly
+organisations:
+- BBC Three
+- Beta Squad
+- Channel 4
+- District Court
+- YouTube
 ---
 
 ![Yung Filly, wearing a cream hoodie](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg)

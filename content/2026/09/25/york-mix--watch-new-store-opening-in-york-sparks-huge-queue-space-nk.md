@@ -11,6 +11,18 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-space-nk-opening-queue-25-sept-2026-jonathan-brown-1.webp
+locations:
+- Coney Street
+- Lendal
+- Mansion House
+- St Helen’s Square
+- York
+people:
+- Genie Hunt
+- Me
+organisations:
+- Space NK
+- York St John University
 ---
 
 A new store opened its doors in York this morning (Friday) – causing quite the kerfuffle.

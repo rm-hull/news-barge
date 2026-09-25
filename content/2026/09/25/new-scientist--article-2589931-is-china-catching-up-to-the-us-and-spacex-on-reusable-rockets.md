@@ -12,6 +12,36 @@ categories:
 - Science
 - Technology & Software
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313702443.jpg
+locations:
+- Austin
+- China
+- Earth
+- Russia
+- Silicon Valley
+- Soviet Union
+- UK
+- US
+- Zhuque-2
+- Zhuque-3
+people:
+- Chris Ellis
+- Kevin Sagis
+- Xi Jinping
+- Zeno Leoni
+organisations:
+- Blue Origin
+- China Aerospace Science and Technology Corporation
+- Deep Blue Aerospace
+- Galactic Energy
+- King’s College London
+- LandSpace
+- NASA
+- Pallas-1
+- SLS
+- Saturn V
+- SpaceX
+- University of Nottingham
+- University of Texas
 ---
 
 ![first stage of the Zhuque-3 Y2 rocket making its land-based recovery](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_313702443.jpg?w=840)

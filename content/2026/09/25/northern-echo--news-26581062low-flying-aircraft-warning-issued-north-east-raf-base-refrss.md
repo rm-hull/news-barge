@@ -13,6 +13,14 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://www.thenorthernecho.co.uk/resources/images/21500391.jpg?type=og-image
+locations:
+- North East RAF
+- RAF Boulmer
+- STUART BOULTON
+- UK
+people: []
+organisations:
+- RAF Boulmer
 ---
 
 *(Image: STUART BOULTON)*

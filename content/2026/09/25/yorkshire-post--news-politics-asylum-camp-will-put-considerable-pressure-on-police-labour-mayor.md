@@ -16,6 +16,31 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIzYjU4OGY4LTZlMTktNDdiOS1iOGYxLTQ4NDczMmIzOWE4ZjphZDQ1NTY2My0yNTI3LTQ1YjYtYThkOS05MmMxZGM5N2M3MmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Basingstoke
+- North Yorkshire
+- RAF Linton-on-Ouse
+- Wetherby
+- York
+people:
+- Alec Shelbrooke
+- Catherine Clarke
+- Danny Thomas
+- David Skaith
+- Jo Coles
+- Owen Humphreys
+- Shabana Mahmood
+- York
+organisations:
+- Easingwold
+- Government
+- Home Office
+- Labour
+- Ministry of Defence
+- North Yorkshire
+- North Yorkshire Police
+- RAF Linton-On-Ouse
+- The Yorkshire Post
 ---
 
 # Exclusive:North Yorkshire village asylum camp will put 'considerable pressure' on police, Labour mayor warns

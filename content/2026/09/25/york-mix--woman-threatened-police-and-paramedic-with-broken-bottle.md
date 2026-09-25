@@ -11,6 +11,22 @@ categories:
 - York
 - News & Politics
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/jessica-simms.webp
+locations:
+- Fulford Road Police Station
+- Selby Station
+- The Crescent
+- York
+people:
+- Adam Henry
+- Jessica Simms
+- Julian Fowell
+- Kathryn Walters
+- Selby
+organisations:
+- CPN
+- North Yorkshire Police
+- Simms
+- Simms
 ---
 
 A notorious Selby woman has been jailed for 12 months for threatening a police officer and a paramedic with a broken glass bottle during a two-hour-long incident.

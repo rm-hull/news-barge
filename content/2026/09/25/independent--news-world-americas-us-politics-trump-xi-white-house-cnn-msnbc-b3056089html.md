@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/01/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- China
+- North Portico
+- U.S
+- United States
+- White House
+people:
+- Donald Trump
+- Laura Barrón-López
+- Madam Peng
+- Melania
+- Peng Liyuan
+- Symone Sanders Townsend
+- Timothy Kelly
+- Xi Jinping
+organisations:
+- CNN
+- Fake News
+- MS NOW
+- MS NOW White House
+- Media Outlets
+- Oval Office
+- Politico
+- TRUMP
+- The Independent
+- Trump Administration
+- Truth Social
+- United States of America
 ---
 
 The White House has blocked CNN and MS NOW from covering Chinese President Xi Jinping’s arrival at the White House for a state dinner with Donald Trump, according to the networks.

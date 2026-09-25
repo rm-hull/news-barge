@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-577510832.jpg@webp
+locations:
+- Berlin
+- Gaza
+- Germany
+- Israel
+- Middle Eastern
+- Neukölln
+people:
+- Die Linke
+- Die Linke
+- Elif Eralp
+- Ferat Kocak
+- Friedrich Merz
+- Ibrahim Ibrahim
+- Issa Remmo
+- Issa Remo
+- Josef Schuster
+organisations:
+- CDU
+- Central Council of Jews
+- Greens
+- Kocak
+- SPD
+- Taz
 ---
 
 The party will meet later Friday to vote on opening talks with the centre-left Social Democrats (SPD) and the Greens on forming a coalition government, aiming to pave the way for their candidate Elif Eralp to become Berlin mayor.

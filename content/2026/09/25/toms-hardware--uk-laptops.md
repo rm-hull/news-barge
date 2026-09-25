@@ -11,6 +11,36 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/v5gaDyKVpCwCfWBSSHjNZH-450-80.png
+locations:
+- Aurora
+- Matt Safford
+- Wildcat Lake
+people:
+- Andrew E. Freedman
+organisations:
+- Alienware
+- Andrew E. Freedman
+- Andrew E. Freedman Published
+- Apple
+- Asus Zenbook Duo
+- Brandon Hill Published
+- Charles Jefferies Published
+- Dell Deals
+- Jowi Morales Published
+- Kunal Khullar Published
+- LaptopsLenovo
+- Lenovo Yoga
+- MacBook Air
+- MacbooksAMD
+- MacbooksApple
+- MacbooksIngenious
+- MacbooksRAM
+- Mark Tyson Published
+- Samsung Galaxy Book6
+- Ultrabooks
+- UltraportablesApple
+- UltraportablesChina
+- UltraportablesLenovo
 ---
 
 # Laptops

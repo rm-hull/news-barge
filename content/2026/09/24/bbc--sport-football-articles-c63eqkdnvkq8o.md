@@ -14,6 +14,32 @@ categories:
 - Sports
 - History
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5eb3/live/f017e350-b85e-11f1-b1d1-571ed4d7ff2c.jpg
+locations:
+- Cardiff
+- Copenhagen
+- Denmark
+- Jose Alvalade Stadium
+- Lisbon
+- Portugal
+- Wales
+people:
+- Brennan Johnson
+- Craig Bellamy
+- Cristiano Ronaldo
+- Dylan Lawlor
+- Harry Wilson
+- Joao Felix
+- Joe Rodon
+- Jorge Jesus
+- Karl Darlow
+- Lewis Koumas
+- Nathan Broadhead
+organisations:
+- Al-Nassr
+- Portugal
+- Sporting
+- VAR
+- Wales Ronaldo
 ---
 
 Highlights: Watch as Portugal beat Wales in Nations League opener

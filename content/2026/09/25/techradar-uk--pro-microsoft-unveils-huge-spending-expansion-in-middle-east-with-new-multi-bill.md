@@ -12,6 +12,20 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/295f0b7d716f1d3f3a1cdf27b8a1616e-2560-80.jpg
+locations:
+- France
+- Kuwait
+- Middle East
+- Qatar
+- Saudi Arabia
+- Singapore
+- UAE
+people:
+- Brad Smith
+organisations:
+- Microsoft
+- SeaMeWe-6
+- TechRadar Pro
 ---
 
 ![Microsoft](https://cdn.mos.cms.futurecdn.net/295f0b7d716f1d3f3a1cdf27b8a1616e.jpg)

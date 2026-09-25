@@ -12,6 +12,17 @@ categories:
 - News & Politics
 - UK
 image: https://static.the-independent.com/2026/09/25/10/32/Alleigha-Botner.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Ohio
+- Tipp City
+people:
+- Alleigha Botner
+- Ashley
+- Caleb Flynn
+- Emily Smith
+- Nicholas Gounaris
+organisations:
+- CNN
 ---
 
 The ex-mistress of a former American Idol contestant accused of shooting his wife testified that she believes he committed murder.

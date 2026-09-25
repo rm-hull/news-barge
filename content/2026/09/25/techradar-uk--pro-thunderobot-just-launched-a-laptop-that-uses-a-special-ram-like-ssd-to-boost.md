@@ -11,6 +11,19 @@ categories:
 - Technology & Software
 - Science
 image: https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL-1920-80.png
+locations: []
+people: []
+organisations:
+- 2.5Gb Ethernet
+- AMD
+- M7000
+- OCuLink
+- Phison
+- SSD
+- TechRadar Pro
+- Thunderobot
+- UHS-II
+- USB-C
 ---
 
 ![Thunderobot M7000 workstation](https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL.png)

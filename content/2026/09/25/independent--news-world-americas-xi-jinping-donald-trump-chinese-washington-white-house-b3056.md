@@ -16,6 +16,49 @@ categories:
 - History
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/13/APTOPIX_Trump_Xi_33_21.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Beijing
+- China
+- Hong Kong
+- Iran
+- Japan
+- Lafayette Park
+- North Portico
+- Russia
+- Taiwan
+- Tibet
+- Tokyo
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- Ukraine
+- United States
+- Washington
+- White House
+- Xinjiang
+people:
+- Donald Trump
+- Emmanuel Macron
+- Hu Jintao
+- Melania Trump
+- Peng Liyuan
+- Sanae Takaichi
+- Trump Trump
+- Xi Jinping
+organisations:
+- Bill of Rights
+- Constitution and Bill of Rights Trump
+- Declaration of Independence
+- European Union
+- Macron
+- National Archives
 ---
 
 President Donald Trump is taking Chinese President Xi Jinping to visit the National Archives on Friday, showing off the sacred texts of U.S. democracy to the leader of the world’s most powerful communist country to cap off a three-day state visit criticized for being heavy on pomp and light on substance.

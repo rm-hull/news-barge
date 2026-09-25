@@ -13,6 +13,19 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwY2UyNzlmLTkyZTYtNDRjNi05ZmNmLTgwZjc1ZWQ3MGMxOTo0MmM1NDc1Mi01MzM5LTQ2NTEtODU0Yy1kYTU4MzRmNGZhYmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Bedale
+- Catterick Garrison
+- Darlington
+- Leyburn
+- Masham
+- North Yorkshire
+- Northallerton
+- Reeth
+- Richmond
+people: []
+organisations:
+- North Yorkshire Fire and Rescue Service
 ---
 
 # Catterick Garrison: Fire crews tackle blaze at accommodation block as injury update released

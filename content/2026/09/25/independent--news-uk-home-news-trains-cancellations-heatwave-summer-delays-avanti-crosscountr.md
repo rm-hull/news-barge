@@ -11,6 +11,23 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/08/06/17/2288500681..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Avanti West Coast
+- Great Britain
+- Lewes
+- Network Rail
+- Wickford
+people:
+- Anit Chandarana
+- Nick Westcott
+organisations:
+- Avanti West Coast
+- CrossCountry
+- Department for Transport
+- Great British Railways
+- Network Rail
+- ORR
+- Office of Rail and Road
 ---
 
 Train delays saw a major spike over the summer, new figures show, as the operators with the highest number of cancellations are revealed.

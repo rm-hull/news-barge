@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21496704.jpg?type=og-image
+locations:
+- North East
+- Thornaby Pavilion
+people:
+- Leon Jones
+- Nigel Cooke
+- Peter Thompson
+organisations:
+- English Indoor Bowling Association
+- Tees Active
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,29 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/25/04/Nepal_Families_Missing_97849.jpg?width=1200&height=800&crop=1200:800
+locations:
+- China
+- Gyirong Port
+- Kathmandu
+- Kyiv
+- Mount Kailash
+- Nepal
+- Nepal-China
+- Norway
+- Tibet
+- Ukraine
+people:
+- Binaj Gurubacharya
+- Elena
+- Irina Blonskaya
+- Olena Kalynychenko
+- Oles Visich
+- Stanislav Solohub
+- Vladsylava Horlova
+- Volodymr Yurchuk
+organisations:
+- AP
+- Red Cross
 ---
 
 Olena Kalynychenko was looking forward to sharing the chrysanthemum tea she had bought in China with her partner.

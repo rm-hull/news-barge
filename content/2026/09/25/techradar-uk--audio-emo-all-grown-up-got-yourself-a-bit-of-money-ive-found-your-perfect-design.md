@@ -13,6 +13,13 @@ categories:
 - Technology & Software
 - Music
 image: https://cdn.mos.cms.futurecdn.net/gNUF2eh2FuPWcVrMWc7nt9-800-80.jpg
+locations: []
+people:
+- Thom Browne
+organisations:
+- Bose QuietComfort Headphones3
+- Smoked Pearl
+- Thom Browne
 ---
 
 ![The Bose x Thom Browne QuietComfort Ultra Headphones (2nd Gen).](https://cdn.mos.cms.futurecdn.net/gNUF2eh2FuPWcVrMWc7nt9.jpg)

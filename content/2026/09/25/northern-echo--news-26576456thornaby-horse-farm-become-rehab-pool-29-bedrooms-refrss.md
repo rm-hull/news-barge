@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Home, Garden & DIY
 image: https://www.thenorthernecho.co.uk/resources/images/21493985.jpg?type=og-image
+locations:
+- Acklam Road
+- North East
+- Stainsby Grange Stud
+- Teesside
+- Thornaby
+- YOUR
+people:
+- Robert Hadfield
+- Taylor Wimpey
+organisations:
+- Bhodi Group
+- Bohdi Group
+- Middlesbrough Council
+- Public Notice Portal
+- Public Notice Portal Middlesbrough Council
+- Stainsby Grange Riding School
+- The Bhodi Group
+- Yarm
 ---
 
 ### What is the Public Notice Portal?

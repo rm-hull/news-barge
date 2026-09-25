@@ -12,6 +12,22 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/08/10/08/2232549309..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Australia
+- Fairway Drive
+- Hills District
+- New South Wales
+- Norwest
+- Sydney
+- Westmead Children's Hospital
+people:
+- Chris Minns
+- Heart
+- Isaac Bechara
+- Naomi Moore
+organisations:
+- Blacktown Local Court
+- NSW
 ---
 
 An 11-year-old boy who was shot at a home in northwest of Australia’s Sydney died in hospital on Thursday, police said.

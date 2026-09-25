@@ -12,6 +12,20 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://mmo.aiircdn.com/409/6ab67464b5a0b4ed873.jpg
+locations:
+- Bamber & Brown
+- Crag Lane
+- Hampstead Heath
+- Harrogate
+- London
+- Parliament Hill
+people:
+- Guy Coates
+- Harry Does History
+organisations:
+- Cold Bath Plunge
+- Harrogate
+- Instagram
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab67464b5a0b4ed873.jpg)

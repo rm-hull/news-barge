@@ -11,6 +11,18 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/73/45/1200x675_cmsv2_798eeb9c-ad3a-59a8-b00b-87ed869d4947-9927345.jpg
+locations:
+- Britain
+- France
+- Israel
+- New York
+- US
+people:
+- Benjamin Netanyahu
+organisations:
+- General Assembly
+- UN
+- United Nations
 ---
 
 Protesters gathered outside the United Nations in New York on Thursday as Israeli Prime Minister Benjamin Netanyahu prepared to address the General Assembly.

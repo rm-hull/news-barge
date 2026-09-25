@@ -13,6 +13,24 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20735660.jpg?type=og-image
+locations:
+- Bradford
+- Chapel Street
+- Kirkgate Community Centre
+- Shipley
+people:
+- Harry Jelley
+organisations:
+- BRC
+- Bradford People’s Property Portfolio
+- Bradford Resource Centre
+- Friends of Bradford Resource Centre
+- Melosa Jazz
+- Miski
+- PPP
+- People’s Property Portfolio
+- Resources for Democracy
+- The Triangle
 ---
 
 *(Image: People's Property Portfolio)*

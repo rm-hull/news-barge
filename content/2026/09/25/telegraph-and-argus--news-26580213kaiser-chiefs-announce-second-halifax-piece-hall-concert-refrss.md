@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Music
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499223.jpg?type=og-image
+locations:
+- Halifax
+- The Piece Hall
+- White Lies
+people: []
+organisations:
+- Halifax’s Piece Hall
+- KAISER Chiefs
+- Kaiser Chiefs
+- Leeds
+- Piece Hall
+- The Piece Hall
+- Yorkshire
 ---
 
 *(Image: Supplied)*

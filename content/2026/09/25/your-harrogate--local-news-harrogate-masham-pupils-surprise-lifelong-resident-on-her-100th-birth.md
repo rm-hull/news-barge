@@ -12,6 +12,15 @@ categories:
 - Harrogate
 - Lifestyle & Fashion
 image: https://mmo.aiircdn.com/409/6ab63d8dea4036d67a7.jpg
+locations:
+- Masham
+- Sheffield
+people:
+- Jane Wood
+- Jean
+organisations:
+- Masham CE Primary School
+- Masham Church of England Primary School
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab63d8dea4036d67a7.jpg)

@@ -12,6 +12,19 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/e7f042ddedec644136049404f2312924231eafd8/457_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce30e85ec76895e6d784d74db9ebd0de
+locations:
+- Syndercombe Court
+- UK
+people:
+- Denise Syndercombe Court
+- Nicholas Dawnay
+organisations:
+- American XL
+- King’s College London
+- Liverpool John Moores University
+- Royal Veterinary College
+- STR
+- Syndercombe Court
 ---
 
 From tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database of canine DNA could offer vital leads.

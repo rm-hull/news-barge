@@ -13,6 +13,48 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI2NjA1MTQwLTBjZTMtNGU2Ni1iNzgxLTIyZTZhM2M1ZmU1Mjo5ODdkNzZjMi1mODIzLTRhZTktYWJjMS1mZWVhN2YzODE5NTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Australia
+- Brazil
+- Brexit
+- Britain
+- Brussels
+- Canada
+- China
+- EU-Mexico
+- Europe
+- Latin America
+- Leeds
+- Lisbon
+- London
+- Madrid
+- Mexico
+- New Zealand
+- Portugal
+- Roundhay
+- Russia
+- Spain
+- UK
+- US
+- United States
+people:
+- Mark Carney
+- Pascal Bastien
+- Peter Packham
+- Roberta Metsola
+organisations:
+- Brexit
+- Brexiters
+- CPTPP
+- Commonwealth
+- EU
+- European Parliament
+- European Single Market
+- European Union
+- Office for Budget Responsibility
+- Single Market
+- The Yorkshire Post
+- Yorkshire Post Letters
 ---
 
 # Canada's discussions show the European Union is a positive superpower counterweight - Yorkshire Post Letters

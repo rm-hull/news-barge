@@ -13,6 +13,61 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg
+locations:
+- Aston Villa
+- Belgium
+- England
+- Eredivisie
+- Harefield
+- Manchester
+- Norway
+- Old Trafford
+- Woodford
+people:
+- Darren England
+- Edgware
+- Erling Haaland
+- Fernandez
+- Leah Williamson
+- Lisandro Martinez
+- Luis Diaz
+- Matt Donohue
+- Michael Oliver
+- Mulbarton
+- Oliver Norwood
+- Orjan Nyland
+- Senne Lammens
+- Woodford
+- Yira Sor
+organisations:
+- Anderlecht
+- Belgian Pro League
+- Bridlington Town
+- Court of Arbitration for Sport
+- Edgware Town
+- FA Vase
+- Football Association
+- Genk
+- Gloucester City
+- Harefield United
+- International Football Association Board
+- Isthmian League North
+- Knaresborough
+- Liverpool
+- Manchester City
+- Manchester United
+- Mulbarton Wanderers
+- PEC Zwolle
+- Premier League
+- RKC Waalwijk
+- Sheffield United
+- Southern League Premier Division South
+- Spartan South Midlands League
+- Tottenham
+- Uefa
+- VAR
+- Villa
+- Woodford Town
 ---
 
 ![General view of the FA Cup trophy on display on the sideline at a qualifying round match in 2016](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg)

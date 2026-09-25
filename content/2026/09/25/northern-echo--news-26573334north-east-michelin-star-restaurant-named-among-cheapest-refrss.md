@@ -14,6 +14,23 @@ categories:
 - Food & Cooking
 - Travel
 image: https://www.thenorthernecho.co.uk/resources/images/21489271.jpg?type=og-image
+locations:
+- County Durham
+- Creedy Carver
+- House of Tides
+- London
+- Newcastle
+- River Tyne
+- UK
+people:
+- Abbie Atkinson
+- Kenny Atkinson
+organisations:
+- House of Tides
+- House of Tides?** House of Tides
+- Michelin Guide
+- Square Meals
+- Tripadvisor
 ---
 
 *(Image: Tripadvisor)*

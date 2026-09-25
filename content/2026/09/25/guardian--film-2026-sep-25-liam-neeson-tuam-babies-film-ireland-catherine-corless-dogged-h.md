@@ -14,6 +14,26 @@ categories:
 - Film & TV
 - Family & Parenting
 image: https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3ee34f18498098be943a5628b38c64
+locations:
+- County Galway
+- Ireland
+- St Mary
+- Tuam
+- UK
+people:
+- Aidan
+- Andrew Bennett
+- Catherine Corless
+- Dan Barry
+- Frank Berry
+- Lalor Roddy
+- Liam Neeson
+- Monica Dolan
+- Rebecca Lenkiewicz
+organisations:
+- Bon Secours
+- Guardian
+- New York Times
 ---
 
 Liam Neeson still remembers his shock and shame when he read a New York Times article about the mother and baby institution in Tuam, County Galway.

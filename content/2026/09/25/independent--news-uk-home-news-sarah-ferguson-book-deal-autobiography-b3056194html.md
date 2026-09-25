@@ -13,6 +13,40 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/29/09/c9f3c617143167561e608d8817289c67Y29udGVudHNlYXJjaGFwaSwxNzg4MDc3Njcx-2.26777758.jpg?width=1200&height=800&crop=1200:800
+locations:
+- BBC
+- Britain
+- Jordan
+- PA
+- Royal Lodge
+- Switzerland
+- Windsor
+people:
+- Andrew Mountbatten-Windsor
+- Beatrice
+- Charles
+- Diana
+- Duchess of York
+- Earl Spencer
+- Eugenie
+- Jeff Overs
+- Jeffrey Epstein
+- Meghan Markle
+- Ms Ferguson
+- Piers Morgan
+- Prince Harry
+- Sarah Ferguson
+organisations:
+- Daily Mirror
+- DoJ
+- Duchess of Kent
+- Duke of York
+- King’s Trust
+- Penguin
+- Royal Family
+- The Sun
+- US Department of Justice
+- Westminster Cathedral
 ---
 
 Sarah Ferguson has “no plans to write any tell all memoir”, following reports that she received seven figure offers to write an autobiography.

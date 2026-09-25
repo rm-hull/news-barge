@@ -13,6 +13,16 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://i.guim.co.uk/img/media/2a5f88a44e4aacdfdf73792bcdeb80f1dbf8ffd0/772_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9490d49568e11730d57f5c0376a4f221
+locations:
+- Basingstoke
+- Portsmouth
+people:
+- Daniel Thomas
+- Danny Tommo
+- Kevin Lucie
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+organisations: []
 ---
 
 The far-right agitator Daniel Thomas has denied causing criminal damage after he was filmed appearing to slash a boat in the Channel with a blade, while an emergency responder was onboard.

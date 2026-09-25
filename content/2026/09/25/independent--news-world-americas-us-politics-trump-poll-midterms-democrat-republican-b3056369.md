@@ -12,6 +12,22 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/12/2296800871..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Iran
+- Kentucky
+people:
+- Donald Trump
+- Hakeem Jeffries
+- Thomas Massie
+organisations:
+- CNN
+- Congress
+- House
+- NBC News
+- Republican Party
+- Reuters
+- Senate
+- Trump
 ---
 
 New polling ahead of the November midterms show Democrats with a significant lead in House and Senate races.

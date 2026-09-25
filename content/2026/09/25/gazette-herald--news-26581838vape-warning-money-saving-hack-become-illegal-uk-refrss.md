@@ -14,6 +14,18 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.gazetteherald.co.uk/resources/images/21500992.jpg?type=og-image
+locations:
+- BBC
+- UK
+people:
+- Shane Margereson
+organisations:
+- Ecigone
+- HMRC
+- High Street Organised Crime Unit
+- Home Office
+- National Crime Agency
+- Trading Standards
 ---
 
 *(Image: Getty Images)*

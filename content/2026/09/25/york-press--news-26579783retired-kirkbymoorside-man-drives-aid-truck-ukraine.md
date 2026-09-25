@@ -12,6 +12,29 @@ categories:
 - York
 - Travel
 image: https://www.yorkpress.co.uk/resources/images/21498669.jpg?type=og-image&xType=0&yType=361
+locations:
+- Andy James
+- Canada
+- Dover
+- Europe
+- Kirkbymoorside
+- Lviv
+- Medyka
+- North Yorkshire
+- Pickering
+- Ukraine
+- Wrelton
+people:
+- Andy James
+- Boris Johnson
+- Donald Trump
+- Liz Truss
+- Zelensky
+organisations:
+- D2SL
+- Middleton Arms
+- The Buck Inn
+- Yorkshire
 ---
 
 ## Retired North Yorkshire man drives pig farmer's truck to war zone

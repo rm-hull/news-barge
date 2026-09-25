@@ -12,6 +12,113 @@ categories:
 - Science
 - Food & Cooking
 image: https://media.wired.com/photos/6ab5b6a391f3c7f71908e5ec/191:100/w_1280,c_limit/I-Tried-Dozens-of-Roasters.-These-Are-the-10-Best-Coffee-Subscriptions.jpg
+locations:
+- America
+- Atlas
+- Austin
+- Australia
+- Azahar
+- Baratza
+- Bay Area
+- Bellingham
+- Big River
+- Brazil
+- Breville
+- British Columbia
+- California
+- China
+- Colombia
+- Colorado
+- Cream City
+- Delaware
+- El Salvador
+- Ethiopia
+- Ghost Town
+- Guatemala
+- Kenya
+- Los Angeles
+- Mae Chedi
+- Manhattan
+- Marin County
+- Mexico
+- Myanmar
+- New Orleans
+- New York
+- North Carolina
+- Oregon
+- Pennsylvania
+- Peru
+- Philly
+- Portland
+- Risaralda
+- Royal Mile
+- San Francisco
+- Seattle
+- South Jersey
+- South of Market
+- Taiwan
+- Tennessee
+- Thailand
+- US
+- Uganda
+- United States
+- Vietnam
+- Washington
+- Wisconsin
+- Yunnan
+people:
+- Camber Coffee
+- Elkin Guzman
+- Genaro Juárez
+- Gento
+- Hans
+- Jiyoon Han
+- Matthew Korfhage
+- Michael Calore
+- Petrona Perez
+- Podium
+- Prentice
+- Rachel
+- Sam LaRobardiere
+- Scott Gilbertson
+organisations:
+- Atlas Coffee Club
+- Atlas Coffee Roasters Atlas Coffee Club
+- Baratza
+- Bean & Bean
+- Bean & Bean Bean & Bean
+- Bean Box
+- Beanz
+- Best Cold-Brew Coffee Makers
+- Best Latte
+- Best Mushroom Coffee
+- Black & White
+- Breville
+- Cappuccino Machines
+- Cozy Monster
+- Equator Coffee
+- Fire Department Coffee
+- French Laundry
+- French Truck
+- Heart
+- Kissing Rock
+- Middle Fork Roasters
+- Misto
+- Mistobox
+- Passenger Coffee
+- Podium Coffee Club
+- SF
+- Scarlet Tanager
+- Sightglass Coffee
+- Stone Creek Coffee
+- Sweet Bloom
+- Swiss Water
+- Theory Coffee
+- Trade Coffee
+- US Postal Service
+- WIRED Reviews
+- Wonderstate
+- YES PLZ
 ---
 
 You never need a cup of coffee tomorrow. You need it now. An empty bag signals panic, tragedy, and a trip to the store in your pajamas. The WIRED guide to the best coffee subscriptions is designed, in part, to make sure this moment never happens.

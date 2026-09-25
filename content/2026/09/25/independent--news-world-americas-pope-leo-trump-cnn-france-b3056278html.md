@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/10/2296388925..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+locations:
+- Canary Islands
+- DC
+- France
+- Iberia
+- Rome
+- Spain
+- Tenerife
+- U.S
+- Vatican
+- Washington
+- White House
+people:
+- Flyers
+- Leo XIV
+- Trump
+organisations:
+- CNN
+- MS NOW
+- Politico
 ---
 
 Pope Leo XIV told members of the press on Friday that they were welcome to accompany his trip, highlighting the vital role journalists play in covering public figures amid efforts by the Trump administration to restrict U.S. media access to the White House.

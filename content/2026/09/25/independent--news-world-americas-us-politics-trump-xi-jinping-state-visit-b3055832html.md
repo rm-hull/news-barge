@@ -11,6 +11,63 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/16/2296267633..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- AI
+- Beijing
+- China
+- Iran
+- Joint Base Andrews
+- Miami
+- New York
+- Oval Office
+- Rose Garden
+- Russia
+- Taiwan
+- Tehran
+- US
+- Ukraine
+- United States
+- Washington
+- White House
+people:
+- Barack Obama
+- Craig Singleton
+- Elon Musk
+- Francis
+- Jeff Bezos
+- Jensen Huang
+- Jonathan Schanzer
+- Kaja Kallas
+- Marco Rubio
+- MrTrump
+- Olof Gill
+- Sam Altman
+- Sergey Lavrov
+- Sundar Pichai
+- Tim Cook
+- Trump
+- Vladimir Putin
+- Xi Jinping
+organisations:
+- Amazon
+- Apple
+- Associated Press
+- ChatGPT
+- EU
+- European Commission
+- European Union
+- Foundation for Defence of Democracies
+- Foundation for Defense of Democracies
+- Fox News
+- G20
+- Nvidia
+- Open AI
+- OpenAI
+- Reuters
+- Sky News
+- Tesla
+- UN General Assembly
+- US National
 ---
 
 China and the US can and must develop and manage AI “for good”, Chinese leader Xi Jinping has toldDonald Trump, further ramping up tensions with the American president who has dubbed fears over the technology “a hoax”.

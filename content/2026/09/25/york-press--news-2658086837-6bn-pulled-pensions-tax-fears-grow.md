@@ -12,6 +12,16 @@ categories:
 - York
 - Personal Finance & Investing
 image: https://www.yorkpress.co.uk/resources/images/21186452.jpg?type=og-image
+locations: []
+people:
+- Steve Webb
+organisations:
+- DWP
+- FCA
+- Financial Conduct Authority
+- IHT
+- LCP
+- State Pension
 ---
 
 *(Image: Getty Images)*

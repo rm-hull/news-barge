@@ -13,6 +13,25 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thetelegraphandargus.co.uk/resources/images/21026191.jpg?type=og-image
+locations:
+- England
+- Humber
+- Leeds
+- UK
+- Wales
+- Yorkshire
+people: []
+organisations:
+- Birmingham
+- Bradford
+- HM Land Registry
+- Hull
+- Leeds
+- Muve
+- Newsquest
+- ONS
+- Office for National Statistics
+- Yorkshire
 ---
 
 *(Image: Newsquest)*

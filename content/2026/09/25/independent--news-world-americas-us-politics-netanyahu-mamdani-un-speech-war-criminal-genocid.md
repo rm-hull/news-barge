@@ -12,6 +12,21 @@ categories:
 - UK
 - Careers & Productivity
 image: https://static.independent.co.uk/2026/09/24/20/2026-09-24T184642Z_605967326_RC2UPNAG1F4P_RTRMADP_3_UN-ASSEMBLY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Gaza
+- Israel
+- New York
+- New York City
+- U.S
+- U.S
+people:
+- Benjamin Netanyahu
+- Donald Trump
+- Zohran Mamdani
+organisations:
+- International Criminal Court
+- United Nations
+- United Nations General Assembly
 ---
 
 Addressing the United Nations on Thursday, Israeli Prime Minister Benjamin Netanyahu accused Mayor Zohran Mamdani of endangering Jewish New Yorkers through his criticism of Israeli military actions in Gaza, claiming the official has spread lies about Israel.

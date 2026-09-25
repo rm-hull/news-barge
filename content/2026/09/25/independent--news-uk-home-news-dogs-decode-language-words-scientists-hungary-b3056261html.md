@@ -12,6 +12,18 @@ categories:
 - UK
 - Pets & Animals
 image: https://static.independent.co.uk/2026/09/25/10/2026-09-24T115206Z_908756389_RC2NPNAXAEM6_RTRMADP_3_HUNGARY-DOGS-SPEECH.JPG?trim=91,0,91,0&width=1200&height=800&crop=1200:800
+locations:
+- Budapest
+- Hungary
+people:
+- Attila Andics
+- Boglarka Morvai
+- Kinga G. Tóth
+- Prof Andics
+organisations:
+- ELTE Department of Ethology
+- ERC-funded Neuroethology of Communication Lab
+- Neuroethology Research Group
 ---
 
 If you needed any more convincing that dogs are truly man’s best friend, this latest discovery from scientists might just do it.

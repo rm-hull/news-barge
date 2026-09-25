@@ -12,6 +12,42 @@ categories:
 - Technology & Software
 - Sports
 image: https://cdn.mos.cms.futurecdn.net/sZWgR5bhmPJuppboHtqgCH-2500-80.jpg
+locations:
+- Australia
+- CA
+- Canada
+- Georgia
+- Italy
+- Northern Ireland
+- PT
+- UK
+- UK.It
+- US
+- USA
+- Windsor Park
+- canada
+people:
+- Dan Ballard
+- Jamie Donley
+- Khvicha Kvaratskhelia
+- Michael O'Neill
+- Pierce Charles
+- Shea
+- Trai Hume
+organisations:
+- BBC Two
+- BBC Two Northern Ireland
+- BBC iPlayer
+- BBC iPlayer
+- DAZN
+- Fox Soccer Plus
+- Future Publishing
+- Nations League
+- Northern Ireland
+- PSG
+- Spurs
+- Sunderland
+- TechRadar
 ---
 
 ![Jamie Donley in action for Northern Ireland against Italy](https://cdn.mos.cms.futurecdn.net/sZWgR5bhmPJuppboHtqgCH.jpg)

@@ -12,6 +12,17 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/YQaVTQE6JAfu6bvPgwmd5U-2560-80.jpg
+locations:
+- Brazil
+- Italy
+people: []
+organisations:
+- AI
+- Future plc
+- SDI
+- TechRadar Pro
+- TechRadarPro
+- Vertex
 ---
 
 ![Phone malware](https://cdn.mos.cms.futurecdn.net/YQaVTQE6JAfu6bvPgwmd5U.jpg)

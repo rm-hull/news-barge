@@ -13,6 +13,23 @@ categories:
 - York
 - Music
 image: https://www.gazetteherald.co.uk/resources/images/20015515.jpg?type=og-image
+locations:
+- Chapel House
+- North Street
+- North Yorkshire
+- York
+people:
+- Charra Tea
+- Ru Paul
+- Sam Ashby
+organisations:
+- Big Brother
+- City of York Council
+- Drag Race
+- Little J
+- North Yorkshire Police
+- York LGBTQ
+- York LGTBQ
 ---
 
 HALLOWEEN events at a York LGBTQ venue featuring Ru Paul’s Drag Race and Big Brother stars have sparked noise objections.

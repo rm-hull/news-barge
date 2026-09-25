@@ -13,6 +13,22 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/21501229.jpg?type=og-image
+locations:
+- Burley-in-Wharfedale
+- Derry Hill
+- Ilkley
+- Main Street
+- Menston
+people:
+- Annabel Ramsay
+- John Robinson
+- Jonathan Carroll
+- Katto
+- Mason Jones
+- Miss Ramsay
+organisations:
+- Bradford Crown Court
+- West Yorkshire Police
 ---
 
 This is the face of John Robinson, who killed a stranger after stabbing him outside his girlfriend’s flat.

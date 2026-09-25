@@ -14,6 +14,28 @@ categories:
 - News & Politics
 - Food & Cooking
 image: https://www.thenorthernecho.co.uk/resources/images/21496050.jpg?type=og-image&xType=0&yType=202
+locations:
+- County Durham
+- Gladstone Street
+- Japan
+- Nagomi Darlington
+- Newcastle
+- North East
+- SARAH CALDECOTT
+- Saltburn
+- UK
+people:
+- David Chan
+- Nagomi
+- Nagomi
+- Nagomi
+- Nagomi
+- Nagomi
+- Nagomi
+- SARAH CALDECOTT
+organisations:
+- Nagomi Darlington
+- Newcastle
 ---
 
 A family-run Japanese restaurant has opened in Darlington, serving handcrafted sushi, steaming ramen and food shaped by more than 25 years of experience.

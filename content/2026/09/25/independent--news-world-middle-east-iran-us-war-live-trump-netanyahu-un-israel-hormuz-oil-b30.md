@@ -12,6 +12,59 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/24/18/19/GettyImages-2296283006.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Djibouti
+- Gaza
+- Iran
+- Israel
+- Jawf
+- Jeddah
+- Mecca
+- Middle East
+- New York
+- New York
+- New York City
+- Pakistan
+- Qatar
+- Red Sea
+- Saudi Arabia
+- Saudi Red Sea
+- Saudia Arabia
+- Tehran
+- Turkey
+- US
+- Yanbu
+- Yemen
+people:
+- Benjamin Netanyahu
+- Caleb Heron
+- Chelsea Manning
+- Cynthia Nixon
+- Donald Trump
+- Hannah Einbinder
+- Khalilur Rahman
+- Mahmoud Abbas
+- Masoud Pezeshkian
+- Susan Sarandon
+- Thelma & Louise
+- Zohran Mamdani
+- Zohran Mamdani Zohran Mamdani
+organisations:
+- Fox News
+- General Assembly
+- Hacks
+- Hamas
+- ICC
+- International Criminal Court
+- Jewish Voice for Peace
+- New York Post
+- The Independent
+- UN General Assembly
+- UNGA
+- UNHCR
+- United Nations
+- United Nations General Assembly
+- the City
 ---
 
 Benjamin Netanyahu denounced a mass of delegates who walked out of the UN General Assembly when he took to the podium as “moral cowards” before he said that attacking Iran “was one of the easiest decisions I've ever had to make”.

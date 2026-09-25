@@ -14,6 +14,33 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21502291.jpg?type=og-image
+locations:
+- Addington Road
+- Borough Road
+- Castlelevington
+- Lancaster
+- MIddlesbrough
+- Middlesbrough
+- NORTHERN ECHO
+- North East
+- Priory Road
+- Riverside Park Road
+- Yarm
+people:
+- Jamie Wilson
+- Luke Lancaster
+- Mr Lancaster
+- Nathan Blagg
+- OLIVIA HOWLETT
+- Paul Reid
+- Rod Hunt
+organisations:
+- Audi
+- CCTV
+- Cleveland Police
+- Jaguar
+- Land Rover Discovery
+- Teesside Crown Court
 ---
 
 A man rammed a tractor into the home of his rival who'd urinated on his dad's grave and posted footage of the incident online in a bitter feud.

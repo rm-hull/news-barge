@@ -11,6 +11,11 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/25/01/France_Britain_Migration_57818.jpg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Anita Baca
+organisations:
+- The Associated Press
 ---
 
 Sept. 18-24, 2026

@@ -12,6 +12,19 @@ categories:
 - UK
 - News & Politics
 image: https://www.thenorthernecho.co.uk/resources/images/21498997.jpg?type=og-image
+locations:
+- County Durham
+- Onda
+- Raby Castle
+- Raby Estate
+people:
+- Kayleigh Letman
+- Wendy Bryant
+organisations:
+- Back to Nature Team Building Experience
+- Durham Cathedral
+- Onda Pilates
+- Radisson Blu Durham
 ---
 
 *(Image: Supplied)*

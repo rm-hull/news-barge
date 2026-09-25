@@ -12,6 +12,14 @@ categories:
 - Harrogate
 - News & Politics
 image: https://mmo.aiircdn.com/409/6ab6165ee6ea55b19fa.jpg
+locations:
+- Harrogate
+- Husk
+- North Yorkshire
+- Station Square
+people: []
+organisations:
+- Crimestoppers
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab6165ee6ea55b19fa.jpg)

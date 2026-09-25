@@ -13,6 +13,30 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/Sj4Dce8mY2XbR88g8wA9nL-1920-80.png
+locations:
+- GitHub
+- Washington
+- Williams
+people:
+- James Williams
+- Joshua C. Lewis
+- Jowi Morales
+- Natalie Wood
+- Tom
+organisations:
+- Archbox
+- DMCA
+- Google News
+- Jowi Morales
+- MIG Dumper
+- MIG Switch
+- Nintendo Switch
+- Nintendo of America
+- Palworld
+- Reddit
+- Steam
+- Williams
+- Yuzu
 ---
 
 ![Nintendo logo](https://cdn.mos.cms.futurecdn.net/Sj4Dce8mY2XbR88g8wA9nL.png)

@@ -14,6 +14,30 @@ categories:
 - News & Politics
 - Travel
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-620748709.jpg@webp
+locations:
+- Baltic Sea Coast
+- Berlin
+- Germany
+- GermanyEnjoy
+- Hesse
+- Kellerwald-Edersee
+- Lebanon
+- Munich
+- Olympiapark
+- Ostseeküste
+- Tagundnachtgleiche
+people:
+- Angela Merkel
+- Hamady
+- Sandra Wollner
+- Zwiebeln
+organisations:
+- Borussia Dortmund
+- DMB
+- Deutsche Mieterbund
+- FC Energie Cottbus
+- Kürbisausstellung
+- Tempelhofer Feld
 ---
 
 While the meteorological beginning of autumn (*Herbstanfang*) in Germany was on September 1st, we've just entered the Astronomical start of fall.

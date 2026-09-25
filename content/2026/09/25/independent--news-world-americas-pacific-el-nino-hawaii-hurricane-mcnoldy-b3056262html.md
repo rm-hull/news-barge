@@ -12,6 +12,32 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/25/00/CORRECTION_Tropical_Weather_21734.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Atlantic Ocean
+- China
+- El Niño
+- Hawaii
+- Hurricane Polo
+- Lala
+- Long Beach
+- Lowell
+- Mexico
+- Pacific Ocean
+- Southern California
+- Yangtze River
+people:
+- Brian McNoldy
+- John Bravender
+- Josh Green
+- Matthew Rosencrans
+- Pauline
+organisations:
+- El Niño
+- McNoldy
+- NOAA
+- National Weather Service
+- University of Miami
 ---
 
 The Pacific Ocean is experiencing an unusually severe hurricane season, with weeks of persistent storm activity and several months still remaining in the cycle.

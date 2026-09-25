@@ -13,6 +13,37 @@ categories:
 - History
 - Arts & Culture
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Asia
+- California
+- China
+- Gulf
+- North America
+- UK
+- US
+- US-China
+- West
+- White House
+- Zoo Atlanta
+people:
+- Barack Obama
+- Daniel Kritenbrink
+- Donald Trump
+- Fu Shuang
+- Gordon Brown
+- Melania Trump
+- Morten Skumsrud Anderson
+- Ole Jacob Sending
+- Ping Ping
+- Xi Jinping
+organisations:
+- BBC
+- Congress
+- Norwegian Institute of International Affairs
+- State Dinner
+- The Asia Group
+- US Constitution
+- VIP
 ---
 
 ![Trump, in a tuxedo, stands smiling next to a large white vase filled with red flowers. To the left is a large bronze statue of an eagle on a pedestal, with its wings outstretched. ](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg)

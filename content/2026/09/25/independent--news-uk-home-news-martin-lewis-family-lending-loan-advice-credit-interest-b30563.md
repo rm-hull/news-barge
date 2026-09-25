@@ -12,6 +12,11 @@ categories:
 - UK
 - Personal Finance & Investing
 image: https://static.independent.co.uk/2026/03/12/14/14/rtyjthregfwregtrhgf.jpeg?width=1200&height=800&crop=1200:800
+locations: []
+people:
+- Martin Lewis
+organisations:
+- Money Saving Expert
 ---
 
 Money expert Martin Lewis has shared his guide for savers looking to lend money to family and friends, sharing what to do if things go “wrong”.

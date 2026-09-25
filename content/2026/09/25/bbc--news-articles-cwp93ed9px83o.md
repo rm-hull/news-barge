@@ -12,6 +12,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg
+locations:
+- London
+- Putney Bridge
+people:
+- Nicholas Brandram
+organisations:
+- BBC London
+- BBC Radio London
+- Directorate of Professional Standards
+- IOPC
+- Independent Office for Police Conduct
+- Met
+- Metropolitan Police
+- Nicholas Brandram
 ---
 
 ![Close-up headshot of a smiling Nicholas Brandram with short dark hair, blue eyes. He is clean-shaven. He is wearing a blue open-collared shirt outdoors, with a blurred background showing an outdoor seating area and buildings under a clear sky.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg)

@@ -13,6 +13,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/23/16/talktalk.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Britain
+- London
+people:
+- Charles Dunstone
+organisations:
+- Ares Management
+- BT
+- Carphone Warehouse
+- Ministry of Defence
+- Octopus Investments
+- Ofcom
+- Opus Broadband
+- PXC
+- Penta Capital
+- TalkTalk Consumer
+- TalkTalk Group
+- Telegraph
+- Toscafund
 ---
 
 TalkTalk has said it remains in “advanced discussions” with potential buyers of its consumer and broadband businesses as the troubled telecoms firm races to secure its future.

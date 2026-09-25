@@ -11,6 +11,12 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/20608353.jpg?type=og-image&xType=0&yType=290
+locations:
+- Airedale Shopping Centre
+people:
+- Jenny Mercer
+organisations:
+- Keighley’s Poppy Appeal
 ---
 
 *(Image: Pexels)*

@@ -13,6 +13,24 @@ categories:
 - York
 - Sports
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/24/10/27/GettyImages-2161673849.jpeg?trim=0,33,0,32&crop=&width=1200&auto=webp&quality=75
+locations:
+- England
+- Everton
+people:
+- Andy Burnham
+- Andy Davis
+- Carol Butler
+- Claire Lou
+- Dave Hanwell
+- Francis Ke
+- Joanne de Groot
+- Margo Lax
+- Shaun Barker
+- Stephen Rowe
+organisations:
+- Facebook
+- Yorkshire Post
+- Yorkshire Post
 ---
 
 # 'Absolutely not': Yorkshire Post readers react to calls to allow alcohol in football stands

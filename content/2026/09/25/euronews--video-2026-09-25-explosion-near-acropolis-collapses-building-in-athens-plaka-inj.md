@@ -15,6 +15,13 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/92/79/70/1200x675_cmsv2_790845e8-c9b8-522e-9aff-89534549b56f-9927970.jpg
+locations:
+- Acropolis
+- Athens
+- Lysikratous Street
+- Plaka
+people: []
+organisations: []
 ---
 
 Firefighters rescued **two women** from an adjacent property on**Lysikratous Street** and took them to hospital, while police cordoned off the busy tourist area.

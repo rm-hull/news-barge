@@ -15,6 +15,14 @@ categories:
 - Automotive
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499967.jpg?type=og-image&xType=0&yType=506
+locations:
+- Bradford West
+- Horton Grange Road
+- Horton Grange Road West Yorkshire
+- West Yorkshire
+people: []
+organisations:
+- West Yorkshire Police
 ---
 
 *(Image: West Yorkshire Police)*

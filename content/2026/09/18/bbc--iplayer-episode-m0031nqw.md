@@ -12,6 +12,25 @@ categories:
 - UK
 - News & Politics
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0pb844c.jpg
+locations:
+- BelfastA
+- Britain
+- County Durham
+- SunUnder
+people:
+- Caitlin Hanna
+- Dogs' SakeA
+- James
+- Patrick
+- Pete Wicks
+- Sharon Barbour
+- Stacey
+- Stolen BabiesThe
+organisations:
+- BBC Health
+- NHS
+- Red FlagColeen
+- Stacey DooleyViral
 ---
 
 # Breast Cancer Scandal: Exposing the Harm

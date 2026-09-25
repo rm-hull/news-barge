@@ -13,6 +13,14 @@ categories:
 - York
 - Home, Garden & DIY
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/25/6/09/Main_Image.png?trim=0,150,0,150&crop=&width=1200&auto=webp&quality=75
+locations:
+- UK
+people:
+- Jackery
+organisations:
+- AI
+- Maximum Power Point Trackers
+- Pro AC
 ---
 
 # Solar battery systems – Jackery’s smarter way to lower energy bills in the UK

@@ -13,6 +13,27 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21499102.jpg?type=og-image
+locations:
+- Boston Spa
+- Copmanthorpe
+- Crayke
+- East Yorkshire
+- Glaisdale
+- Helmsley
+- Martin House
+- North
+- Rosedale
+- Saltburn
+- Staithes
+- Tadcaster
+- West
+- Whitby
+- York
+people:
+- Hollie Siu
+organisations:
+- Martin House Children’s Hospice
+- Ms Siu
 ---
 
 *(Image: Supplied)*

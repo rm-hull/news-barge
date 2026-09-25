@@ -13,6 +13,37 @@ categories:
 - UK
 - Travel
 image: https://static.independent.co.uk/2026/09/25/00/CORRECTION_Tropical_Weather_21734.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Arizona
+- Atlantic Ocean
+- China
+- El Nino
+- Hawaii
+- Lowell
+- Mexico
+- Pacific Coast
+- Pacific Ocean
+- Southern California
+- Tropical Storm Nola
+- Yangtze River
+people:
+- Brian McNoldy
+- El Nino
+- Gabriela Aoun Angueira
+- John Bravender
+- Josh Green
+- Lala
+- Matthew Rosencrans
+- Nora
+- Pauline
+organisations:
+- Associated Press
+- El Nino
+- El Ninos
+- NOAA
+- National Weather Service
+- Tropical Storm Nolo
+- University of Miami
 ---
 
 It’s already been an intense hurricane season in the Pacific Ocean — and there’s still quite a ways to go.

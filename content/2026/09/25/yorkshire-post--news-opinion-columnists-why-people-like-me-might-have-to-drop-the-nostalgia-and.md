@@ -18,6 +18,15 @@ categories:
 - Travel
 - Society & Culture
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJhMGMxZWVhLWViMjMtNDlhMC1iNTkwLWVmN2NjZTg3YWI5NToyNzUzZGIzOS0wOGEzLTQyNjYtYWY3ZC00ZmNkNjE2N2JiN2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Dewsbury
+- UK
+people:
+- Annette Barnes
+- 'Ismail Mulla ## Nostalgia'
+organisations:
+- Arcade Group
+- Leeds Building Society
 ---
 
 # Why people like me might have to drop the nostalgia and accept town centres are changing - Ismail Mulla

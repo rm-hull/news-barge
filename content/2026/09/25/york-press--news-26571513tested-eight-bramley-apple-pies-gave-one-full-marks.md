@@ -11,6 +11,22 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21486479.jpg?type=og-image
+locations:
+- England
+people:
+- Lidl
+- Mary Berry
+- Morrisons
+- Mr Kipling
+- Rowan Hill
+- Rowan Hill Bakery
+organisations:
+- Aldi
+- Asda
+- Bramley Apple Pies
+- M&S
+- Tesco
+- The Bakery
 ---
 
 ## I tested eight Bramley apple pies and gave one full marks

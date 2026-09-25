@@ -12,6 +12,29 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://i.guim.co.uk/img/media/6b683b2fc67e992b40238fe7b14f8c21cac5bd12/463_92_1968_1575/master/1968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d208ccb25e1667a2bc33938b828bdb0
+locations:
+- Cambridge
+- Downing Street
+- Starmerite
+- UK
+- Westminster
+people:
+- Andy Burnham
+- James Purnell
+- John Healey
+- Keir Starmer
+- Liz Truss
+- Neil Amin-Smith
+- Rachel Reeves
+- Ravinder Athwal
+- Spencer Thompson
+- Will Straw
+organisations:
+- Clean Bandit
+- Flint Global
+- Labour
+- Office for Budget Responsibility
+- Treasury
 ---
 
 Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an adviser to John Healey, in a move likely to fuel speculation about an early general election.

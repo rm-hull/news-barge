@@ -14,6 +14,46 @@ categories:
 - Film & TV
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+locations:
+- Hollywood
+- New York
+- Secunderabad
+people:
+- Awarapan
+- Bad Apples
+- Charlie the Wonderdog
+- Christopher Nolan
+- Daisy Edgar-Jones
+- Danny
+- Dwight D. Eisenhower
+- Esmé Creed-Miles
+- Farmer
+- Hope
+- Howl
+- James Belmont
+- James Stagg
+- Jane Austen
+- Jessie
+- Lutt Mubarak
+- Mirzapur
+- Odin
+- Owens
+- PG Buzz
+- PG Coraline
+- Peter Parker
+- Shivam
+- U Shaun
+- U Sophie
+- Woody
+organisations:
+- BRADFORD
+- Endgame Encore
+- Moana — PG Disney
+- Moving Castle
+- ODEON
+- Special Forces
+- Spider-Man
+- The Light
 ---
 
 *(Image: Getty)*

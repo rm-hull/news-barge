@@ -12,6 +12,19 @@ categories:
 - Harrogate
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9be4/live/47cff050-b86a-11f1-a430-4d16ee157c41.jpg
+locations:
+- Catterick Garrison
+- County Durham
+- Darlington
+- North Yorkshire
+people:
+- Hipswell
+- Kevin Foster
+organisations:
+- BBC
+- Colburn
+- Ministry of Defence
+- North Yorkshire Fire and Rescue Service
 ---
 
 ![An undated handout photo showing soldiers standing to attention outside a brick building with a clock tower. ](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9be4/live/47cff050-b86a-11f1-a430-4d16ee157c41.jpg)

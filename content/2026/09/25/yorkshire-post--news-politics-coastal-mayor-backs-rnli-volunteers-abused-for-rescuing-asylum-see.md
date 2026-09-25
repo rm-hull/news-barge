@@ -12,6 +12,20 @@ categories:
 - York
 - Travel
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFiOGE5YThkLTZlMWEtNDhlNi1iZTM4LTUyNmU4OWNkMGZhMzoyYzM4MTNkZS1lZWIzLTRiMWUtOWI3OS03ODQyMWUzZWY0M2M=.jpg?crop=3:2,smart&trim=&width=1029&auto=webp&quality=75
+locations:
+- England
+- North Yorkshire
+- Scarborough
+- South Bay
+- UK
+people:
+- Peter Sparkes
+- Rich Maw
+- Thomas Murray
+organisations:
+- RNLI
+- Reform UK
+- Scarborough Town Council
 ---
 
 # Coastal mayor backs RNLI volunteers abused for rescuing asylum seekers

@@ -12,6 +12,18 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/11/2026-09-23T113756Z_476156312_RC2ZONAJU22L_RTRMADP_3_SPAIN-HOUSING.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+locations:
+- Madrid
+- Retiro
+- Spain
+people:
+- Beatriz Duro
+- Isabel Diaz Ayuso
+- Maricarmen Abascal
+organisations:
+- Maricarmen
+- Reuters
+- Urbagestion
 ---
 
 Police evicted an 87-year-old woman on Wednesday from her Madrid home of more than seven decades despite hundreds of people protesting outside and the government criticising the eviction order, in a dramatic new flashpoint of Spain's housing crisis.

@@ -13,6 +13,28 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.yorkpress.co.uk/resources/images/21496113.jpg?type=og-image
+locations:
+- Knaresborough
+- North Yorkshire
+- Wellington
+people:
+- Allan Gauld
+- Christian Horner
+- Nick Love
+- Sam Smith
+- Sam Smiths
+- Sams
+organisations:
+- ACV
+- Brewery
+- Camra
+- Fleurets
+- Harrogate and District CAMRA
+- Sam Smiths
+- Stillingfleet
+- The Press
+- Wellington Inn
+- York CAMRA
 ---
 
 *(Image: Fleurets)*

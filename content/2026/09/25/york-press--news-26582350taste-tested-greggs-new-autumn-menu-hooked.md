@@ -12,6 +12,15 @@ categories:
 - York
 - Food & Cooking
 image: https://www.yorkpress.co.uk/resources/images/21403316.jpg?type=og-image
+locations:
+- Southwark
+people:
+- Greggs
+- Kai Fleet
+organisations:
+- Greggs
+- Greggs
+- Kennedy News
 ---
 
 ## I taste tested Greggs new Autumn menu - I can't believe my favourite

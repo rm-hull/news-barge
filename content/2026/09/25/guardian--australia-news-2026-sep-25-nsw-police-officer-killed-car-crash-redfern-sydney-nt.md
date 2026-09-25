@@ -13,6 +13,28 @@ categories:
 - News & Politics
 - True Crime
 image: https://i.guim.co.uk/img/media/4ef426e6a770cbbe1aa0c7e5cd1d363791f42a69/0_464_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef812af6d1c5e5a53fe9050d826bf86b
+locations:
+- Cleveland
+- Gibbons Street
+- Glebe
+- Lawson
+- NSW
+- New South Wales
+- Redfern
+- Regent Street
+- Sydney
+people:
+- Chris Minns
+- Kelly Sloane
+- Kevin Morton
+- Mal Lanyon
+- Mia Lay
+- Yasmin Catley
+organisations:
+- Law Enforcement Conduct Commission
+- NSW Police
+- NSW Police Commissioner
+- Police Association of NSW
 ---
 
 A New South Wales police officer who was killed on duty when the car she was travelling in crashed into a tree in Sydney has been named as 20-year-old Mia Lay.

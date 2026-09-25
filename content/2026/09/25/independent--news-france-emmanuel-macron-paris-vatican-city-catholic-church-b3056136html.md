@@ -13,6 +13,39 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/23/19/APTOPIX_Vatican_Pope_28654.jpg?width=1200&height=800&crop=1200:800
+locations:
+- City of Light
+- France
+- Lourdes
+- Mass
+- Metz
+- Notre-Dame
+- Paris
+- Paris’ Orly
+- Place de la Concorde
+- Vatican
+- Western Europe
+- lysée Palace
+people:
+- Andrea Tornielli
+- Charles Mercier
+- Emmanuel Macron
+- Francis
+- Hélène Denéchère
+- Jeffrey Schaeffer
+- Leo XIV
+organisations:
+- AP
+- Associated Press
+- Catholic Church
+- Constitution
+- Lilly Endowment Inc
+- Macron
+- Paris EPHE
+- The Conversation US
+- UNESCO
+- Vatican News
+- Visual
 ---
 
 Pope Leo XIV is taking his call to respect the dignity of every human life on the road with a weekend visit to France, where the Catholic Church has lost ground on influencing ethical issues as the country maintains a strict approach to secularism.

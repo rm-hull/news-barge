@@ -13,6 +13,17 @@ categories:
 - York
 - Arts & Culture
 image: https://www.gazetteherald.co.uk/resources/images/21499203.jpg?type=og-image
+locations:
+- City Centre
+people:
+- Bethany Allen
+- Gold
+- Helen James Flowers
+organisations:
+- 2026 Yorkshire
+- Harrogate BID
+- Harrogate International Festivals
+- Yorkshire Rose Town
 ---
 
 *(Image: Supplied)*

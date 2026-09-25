@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thetelegraphandargus.co.uk/resources/images/17482031.jpg?type=og-image
+locations:
+- Cambridge
+- England
+- Wales
+people: []
+organisations:
+- Bradford Crown Court
+- Bradford Crown Court
+- Carlisle
+- Gloucester
+- Leeds Crown Court
+- Manchester Minshull Street
+- Ministry of Justice
+- Press Association
 ---
 
 Backlogs have risen at Bradford Crown Court despite a national trend that has seen some courts reduce the number of outstanding cases.

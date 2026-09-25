@@ -12,6 +12,21 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/70/62/1200x675_cmsv2_86ad3f2c-15a5-510c-9683-7d9b345fe33e-9927062.jpg
+locations:
+- East Wing
+- US
+- Washington
+- White House
+people:
+- Donald Trump
+- Timothy Kelly
+- Xi Jinping
+organisations:
+- CNN
+- MS NOW
+- Politico
+- Secret Service
+- White House Press Office
 ---
 
 ## Though CNN and MS NOW were back on the White House grounds Thursday, both news outlets said their journalists were denied access to Chinese leader Xi Jinping's state dinner arrival.

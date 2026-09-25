@@ -12,6 +12,12 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://mmo.aiircdn.com/409/6ab63b9e950253568aa.jpg
+locations:
+- Knaresborough
+people:
+- Chris Wike
+organisations:
+- Matalan Knaresborough
 ---
 
 ![](https://mmo.aiircdn.com/409/6ab63b9e950253568aa.jpg)

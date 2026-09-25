@@ -12,6 +12,26 @@ categories:
 - News & Politics
 - Sports
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a848/live/1fc45340-b85f-11f1-93a5-e363768bffbc.jpg
+locations:
+- Belleville
+- Jacob Synagogue
+- Ontario
+- Quinte West
+- Sons of Jacob Synagogue
+- Toronto
+- Yom Kippur
+people:
+- Constable Smith
+- Jeff Smith
+- Mark Carney
+- McCrudy
+- Mike McCurdy
+- Murray Rodd
+- Noah Shack
+- Sean Ward
+organisations:
+- Centre for Israel
+- Jewish Affairs
 ---
 
 ![ A forensics officer points towards a police vehicle (out of frame) at the scene of a shooting the Sons of Jacob Synagogue where a man armed with a shotgun exchanged gun fire with a police officer stationed outside of the Synagogue late Sunday evening as people were arriving for Yom Kippur. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a848/live/1fc45340-b85f-11f1-93a5-e363768bffbc.jpg)

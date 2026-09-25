@@ -13,6 +13,23 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/20313371.jpg?type=og-image
+locations:
+- Common Lane
+- Leeds Magistrates' Court
+- Pontefract
+- Rose Avenue
+- Sunny Avenue
+- UK
+- Upton
+- West Yorkshire
+- Wolverhampton
+people:
+- Christopher Wills
+- Curtis Binns
+- Paul Turner
+organisations:
+- Humber Regional Organised Crime Unit
+- West Yorkshire Police
 ---
 
 Three men have been charged after police uncovered what is believed to be the UK's second-largest single seizure of ketamine at a property in a West Yorkshire village.

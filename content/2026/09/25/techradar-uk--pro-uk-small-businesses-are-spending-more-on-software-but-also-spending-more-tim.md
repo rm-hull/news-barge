@@ -12,6 +12,15 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg
+locations:
+- UK
+people:
+- Jordan Shwide
+organisations:
+- Monzo Business
+- Monzo Business
+- SMBs
+- TechRadar Pro
 ---
 
 ![smb](https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM.jpg)

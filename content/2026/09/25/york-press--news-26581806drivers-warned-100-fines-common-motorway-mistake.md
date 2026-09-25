@@ -12,6 +12,21 @@ categories:
 - York
 - Automotive
 image: https://www.yorkpress.co.uk/resources/images/18340106.jpg?type=og-image
+locations:
+- PA
+- UK
+people:
+- Andrew Matthews
+- Gareth Thomas
+- Nicholas Lyes
+organisations:
+- Government
+- IAM RoadSmart
+- NPCC
+- National Highways
+- National Police Chiefs’ Council
+- RAC
+- Red X
 ---
 
 *(Image: Andrew Matthews/PA)*

@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://www.thetelegraphandargus.co.uk/resources/images/21496792.jpg?type=og-image
+locations:
+- Burley-in-Wharfedale
+- Coutances Way
+- YOUR
+people:
+- McDonald
+- Pritpal Singh
+- Steve Goodwill
+organisations:
+- Bradford Council
+- Burley Parish Council
+- McDonalds
+- McDonald’s
+- Noise Technical Note and Lighting
+- Public Notice Portal
 ---
 
 *(Image: T&A)*

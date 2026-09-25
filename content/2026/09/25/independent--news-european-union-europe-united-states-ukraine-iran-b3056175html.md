@@ -15,6 +15,60 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/25/07/Energy-Crisis-Approaches_5_767.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Belgium
+- Berlin
+- Brussels
+- East-West
+- Europe
+- France
+- Germany
+- Greece
+- Iran
+- Israel
+- Italy
+- Lithuania
+- Luxembourg
+- Madrid
+- Middle East
+- Netherlands
+- Paris
+- Poland
+- Red Sea
+- Russia
+- Saudi Arabia
+- Spain
+- Strait of Hormuz
+- U.S
+- U.S
+- U.S
+- US
+- Ukraine
+- United States
+- Washington
+people:
+- Antony Froggatt
+- Donald Trump
+- Emmanuel Macron
+- Geir Moulson
+- John Leicester
+- Olof Gill
+- Suman Naishadham
+- Ursula von der Leyen
+- Von der Leyen
+- von der Leyen
+organisations:
+- Associated Press
+- EU
+- European Commission
+- European Union
+- International Energy Agency
+- Macron
+- OECD
+- Organization for Economic Cooperation and Development
+- State of the European Union
+- The Associated Press
+- Transport & Environment
 ---
 
 Wars in the Middle East and Ukraine are driving governments across Europe to craft subsidies, taxes and policy revisions that might shield their economies, companies and increasingly aggrieved citizens from record gasoline and diesel prices.

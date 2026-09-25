@@ -15,6 +15,31 @@ categories:
 - Health & Fitness
 - Business & Entrepreneurship
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUzMzQ0OTkyLTllZDctNGJkMy04ZTNkLTBlNmFlYjZmOTcyNTo3NGFmNDE4OS1lYzlhLTRjZGMtOGJkNS05ZGNhY2IwNTg0NGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+locations:
+- Madison
+- UK
+- US
+- USA
+- United States
+- University Research Park
+- Wisconsin
+- York
+people:
+- Chris Hand
+- Chris Yates
+- John Miller
+- Mark Pocan
+- Satya Rhodes-Conway
+organisations:
+- 2nd Congressional District
+- ABDXF
+- Abingdon Health
+- Abingdon Health
+- Abingdon Health USA
+- OTCQB Venture Market
+- The Yorkshire Post
+- WEDC
+- Wisconsin State Legislature
 ---
 
 # Abingdon Health: ‘Significant milestone’ as York firm launches US manufacturing facility

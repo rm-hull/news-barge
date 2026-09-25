@@ -14,6 +14,31 @@ categories:
 - Arts & Culture
 - Comedy & Entertainment
 image: https://media.wired.com/photos/6aa814717b858759bf929e36/191:100/w_1280,c_limit/Primetime-Exposes-Ego-Driven-Core-of-Vigilante-Predator-Hunting-Culture-PT-USA-TODAY-STILL%20-%20FINAL.png
+locations:
+- Canada
+- Mumbai
+- Rockwall County
+- Texas
+- Trublu
+- US
+people:
+- Chris Hansen
+- David Osit
+- Decoy Dan
+- Louis William “Bill” Conradt Jr
+- Robert Pattinson
+- Skeet Hansen
+- Skyler Gisondo
+- Vitaly Zdorovetskiy
+organisations:
+- Hollywood Reporter
+- MTV
+- NBC
+- Perverted Justice
+- The New York Times
+- Vice
+- Washington Post
+- YouTube
 ---
 
 Child predators are arguably the most reviled demographic in society.

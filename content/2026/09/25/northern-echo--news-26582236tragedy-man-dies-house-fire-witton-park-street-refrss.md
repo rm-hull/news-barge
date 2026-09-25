@@ -14,6 +14,21 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21501956.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Catterick
+- County Durham
+- Park Road
+- STUART BOULTON
+- Witton Park
+- Woodside
+people: []
+organisations:
+- Army
+- Durham Police
+- Great North Air Ambulance Service
+- North East Ambulance Service
+- Serving Durham Police
 ---
 
 A man has died after being pulled from a house blaze in Witton Park.

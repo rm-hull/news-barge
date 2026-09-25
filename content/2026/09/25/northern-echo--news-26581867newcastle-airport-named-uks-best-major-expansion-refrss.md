@@ -14,6 +14,24 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21500816.jpg?type=og-image
+locations:
+- Berlin
+- Copenhagen
+- County Durham
+- Lisbon
+- Newcastle
+- Nice
+- North East
+- Turkey
+- UK
+people:
+- Nick Jones
+organisations:
+- EasyJet
+- GRESB
+- Manchester Airport
+- Newcastle Airport
+- easyJet
 ---
 
 *(Image: Supplied)*

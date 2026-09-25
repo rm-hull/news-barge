@@ -10,6 +10,17 @@ categories:
 - Technology & Software
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg
+locations:
+- DELTA
+- EXILE
+- METRO
+- Quordle
+people:
+- Marc
+- Quordle
+organisations:
+- NYT Strands
+- TITAN
 ---
 
 ![Quordle on a smartphone held in a hand](https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL.jpg)

@@ -12,6 +12,31 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd5a49becefdba090081030f64dda645
+locations:
+- America
+- North Atlantic
+- US
+people:
+- Andrea Treece
+- Arlo Hemphill
+- Donald Trump
+- Gib Brogan
+- Grace Casselberry
+- Kristen Monsell
+- Lance Morgan
+organisations:
+- CITES
+- Center for Biological Diversity
+- Convention on International Trade in Endangered Species of Wild Fauna and Flora
+- Earthjustice
+- Greenpeace USA
+- Marine Conservation Institute
+- National Marine Fisheries Service
+- Oceana
+- Pinniped Depredation Task Force
+- Restoring American Saltwater Angling and Recreation
+- Trump
+- University of Massachusetts Amherst
 ---
 
 Donald Trump’s latest fishing order is raising new concerns about US marine protections, as it directs federal agencies to prioritize recreational fishing while reconsidering the scientific standards and environmental regulations that govern American fisheries.

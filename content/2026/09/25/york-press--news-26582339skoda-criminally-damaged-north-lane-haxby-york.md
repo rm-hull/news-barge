@@ -14,6 +14,25 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21239873.jpg?type=og-image
+locations:
+- Haxby
+- North Lane
+- North Yorkshire
+- York
+people:
+- Haxby
+- Jo Coles
+organisations:
+- ASB
+- Haxby Town Council
+- North Yorkshire
+- North Yorkshire Jo Coles
+- North Yorkshire Police
+- PCSO
+- Skoda
+- The Press
+- Vehicle
+- Wigginton Youth and Community Association
 ---
 
 ## Vehicle 'criminally damaged' in York town weeks after anti-social campaign launched

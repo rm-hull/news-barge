@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Lifestyle & Fashion
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce2e/live/7c8182b0-b738-11f1-bc1f-3f186ca4140c.png
+locations:
+- Channel Islands
+- HadUK
+- Northern Ireland
+- Scotland
+- South East
+- Southern England
+- UK
+people:
+- Adam Allen
+- Amy Doherty
+- Christine Jeavans
+- Dan Hollis
+- Libby Rogers
+- Oli Claydon
+- Ryan Smith
+- Stephen Connor
+organisations:
+- Acknowledgements
+- Acknowledgements
+- HadUK Grid
+- Met Office
+- Met Office Hadley Centre
+- UK Met Office
+- UN
+- Union Jack
+- Wales
+- World Meteorological Organization
 ---
 
 ![Promotional image to show the hot, dry summer. A young woman with dark hair and a white top is holding a phone in one hand and a fan in the other. The fan is coloured in the Union Jack flag. In the background is dried, cracked, brown ground, depicting drought.  ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ce2e/live/7c8182b0-b738-11f1-bc1f-3f186ca4140c.png)

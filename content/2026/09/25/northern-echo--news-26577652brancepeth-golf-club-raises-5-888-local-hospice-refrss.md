@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Sports
 image: https://www.thenorthernecho.co.uk/resources/images/21495935.jpg?type=og-image
+locations:
+- County Durham
+- St Cuthbert’s Hospice
+people:
+- Neil Tiplady
+organisations:
+- Brancepeth Castle Golf Club
+- Darlington Santa Run
+- Middlesbrough
+- Quakers
+- St Teresa’s Hospice
 ---
 
 *(Image: Supplied)*

@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thetelegraphandargus.co.uk/resources/images/19515582.jpg?type=og-image
+locations:
+- West Yorkshire
+people:
+- Sonya Robertshaw
+organisations:
+- AfC
+- Leeds and York Partnership NHS Foundation Trust
+- MHSTs
+- Mental Health Support Teams
+- Trainee Educational Mental Health Practitioners
+- Workforce Project Lead
 ---
 
 *(Image: Freelance)*

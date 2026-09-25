@@ -12,6 +12,22 @@ categories:
 - Europe
 - News & Politics
 image: https://images.euronews.com/articles/stories/09/92/73/88/1200x675_cmsv2_537297c8-007d-5877-9d36-f96084136d6b-9927388.jpg
+locations:
+- Butler
+- Pennsylvania
+- US
+people:
+- Corey Comperatore
+- Dave Sunday
+- David Dutch
+- Donald Trump
+- James Copenhaver
+- Jim
+- Marianne
+- Thomas Crooks
+organisations:
+- Secret Service
+- Trump
 ---
 
 ## Pennsylvania Attorney General Dave Sunday said Copenhaver had been "gravely wounded" in the shooting and that he had "died from complications stemming from those wounds."

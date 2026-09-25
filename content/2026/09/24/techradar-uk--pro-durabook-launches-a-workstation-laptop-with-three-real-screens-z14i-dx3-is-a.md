@@ -12,6 +12,15 @@ categories:
 - Technology & Software
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/T2aVCAdr4TT8LY6qp7t4iU-1920-80.jpg
+locations: []
+people:
+- Durabook
+organisations:
+- AC
+- CPU
+- Durabook
+- TechRadar Pro
+- Z14I-DX3
 ---
 
 ![A upscaled image of the Z14I-DX3 laptop](https://cdn.mos.cms.futurecdn.net/T2aVCAdr4TT8LY6qp7t4iU.jpg)

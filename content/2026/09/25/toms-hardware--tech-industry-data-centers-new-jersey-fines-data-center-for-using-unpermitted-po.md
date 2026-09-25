@@ -14,6 +14,27 @@ categories:
 - Hardware
 - Business & Entrepreneurship
 image: https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC-1920-80.png
+locations:
+- Memphis
+- New Jersey
+- Southaven
+- Vineland
+people:
+- Jowi Morales
+- Steve Brown
+- Tiffany Leone-Vespa
+- Tom
+organisations:
+- DataOne
+- Department of Justice
+- Elon Musk
+- Google News
+- Jowi Morales
+- Microsoft
+- Nebius
+- New York Times
+- SpaceXAI
+- Vineland
 ---
 
 ![natural gas turbines deployed on a site](https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC.png)

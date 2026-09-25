@@ -13,6 +13,20 @@ categories:
 - News & Politics
 - Self-Improvement
 image: https://www.thenorthernecho.co.uk/resources/images/21498754.jpg?type=og-image
+locations:
+- County Durham
+- Middlesbrough
+- North Yorkshire
+people:
+- Annabel Wilkinson
+- Chris Stokes
+- Cllr Annabel Wilkinson
+organisations:
+- Bedale High School
+- El Mayhew
+- NYC
+- North Yorkshire Council
+- Ofsted
 ---
 
 Ofsted inspectors praised a North Yorkshire secondary school’s “calm, welcoming and ambitious” environment after finding major improvements across school life.

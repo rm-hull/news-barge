@@ -14,6 +14,24 @@ categories:
 - UK
 - Technology & Software
 image: https://static.independent.co.uk/2026/09/25/1/38/Stanford-ai.jpeg?trim=0,134,0,132&width=1200&height=800&crop=1200:800
+locations:
+- Capitol Hill
+- U.S
+people:
+- AI
+- Billy Ramirez
+- Stanford
+organisations:
+- Black and Hispanic
+- Department of Education
+- Justice Department
+- Stanford University
+- Substack
+- Supreme Court
+- The New York Times
+- The Stanford Daily
+- The Stanford Review
+- The Washington Post
 ---
 
 Stanford University has removed campus promotional banners after acknowledging that artificial intelligence was used to alter a photograph of students, replacing a Hispanic senior with an image of a Black woman and slimming the appearances of two others.

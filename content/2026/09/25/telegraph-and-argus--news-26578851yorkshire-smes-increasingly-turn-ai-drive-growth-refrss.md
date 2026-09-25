@@ -13,6 +13,16 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.thetelegraphandargus.co.uk/resources/images/21497255.jpg?type=og-image
+locations:
+- AI
+- North East
+- Yorkshire
+people:
+- Chris Boyes
+organisations:
+- AI
+- BGF
+- Beauhurst
 ---
 
 *(Image: Supplied)*

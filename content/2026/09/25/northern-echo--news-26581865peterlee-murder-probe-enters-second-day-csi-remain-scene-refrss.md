@@ -13,6 +13,17 @@ categories:
 - News & Politics
 - True Crime
 image: https://www.thenorthernecho.co.uk/resources/images/21501427.jpg?type=og-image
+locations:
+- Catterick Garrison
+- County Durham
+- Darlington
+- Northern Echo
+- Peterlee
+- Thames Road
+people: []
+organisations:
+- CSI
+- Northern Echo
 ---
 
 *(Image: Northern Echo)*

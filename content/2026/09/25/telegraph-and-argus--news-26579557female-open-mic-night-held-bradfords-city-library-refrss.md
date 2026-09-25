@@ -13,6 +13,11 @@ categories:
 - News & Politics
 - Arts & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/16332058.jpg?type=og-image
+locations:
+- City Park
+people: []
+organisations:
+- Bradford’s City Library
 ---
 
 *(Image: T&A)*

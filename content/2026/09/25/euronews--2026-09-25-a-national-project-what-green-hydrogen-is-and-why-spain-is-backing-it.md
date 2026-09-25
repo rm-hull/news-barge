@@ -12,6 +12,34 @@ categories:
 - News & Politics
 - Science
 image: https://images.euronews.com/articles/stories/09/91/77/79/1200x675_cmsv2_f4042b8e-33a1-5ce1-945a-2b7776f5bfa8-9917779.jpg
+locations:
+- Andalusian Green Hydrogen Valley
+- Cádiz
+- Europe
+- France
+- Huelva
+- Iberian Peninsula
+- India
+- Moeve Energy Park
+- Onuba
+- Palos de la Frontera
+- Portugal
+- Spain
+people:
+- Maarten Wetselaar
+- María Olavarría
+- Moeve
+- Narendra Modi
+- Pedro Sánchez
+organisations:
+- Cepsa
+- Huelva
+- Huelva
+- La Rábida Energy Park
+- Moeve
+- Onuba
+- Production Department
+- Wetselaar
 ---
 
 ## Spain hopes to become Europe's green hydrogen leader, backed by its renewable resources. What is it, what is it for and what hurdles lie ahead?

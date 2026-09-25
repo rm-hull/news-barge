@@ -12,6 +12,47 @@ categories:
 - Harrogate
 - Business & Entrepreneurship
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/York-College-University-Centre-graduates-outside-York-Minster-with-staff-and-VIP-guests-including-former-England-football-manager-Steve-McClaren.webp
+locations:
+- Aldwark
+- England
+- Merchant Taylors' Hall
+- North Yorkshire
+- The Merchant Taylors’ Hall
+- York Minster
+- York Town Crier
+people:
+- Abi Horton
+- Alex Ferguson
+- Ben Fry
+- Daniel Ellwood
+- David Skaith
+- George Garside
+- Grace Marris
+- Ian Looker
+- Jack Somerville
+- Ken Merry
+- Margaret Wells
+- Minster
+- Robyn Bradley
+- Seuss
+- Steve McClaren
+- Steven Bartlett
+organisations:
+- 120 York College & University Centre
+- BA
+- Early Years & Education
+- Esports and Engineering
+- Grace Marris
+- HNC
+- The Open University
+- The Right Honourable Lord
+- York College
+- York College & University Centre
+- York Press
+- York School of Art
+- York School of Art and Institute of Technology
+- York Science Park
+- ex-Manchester United
 ---
 
 Former England football manager Steve McClaren was the Guest Speaker as more than 120 York College & University Centre degree and higher-level students celebrated their graduation at York Minster last night.

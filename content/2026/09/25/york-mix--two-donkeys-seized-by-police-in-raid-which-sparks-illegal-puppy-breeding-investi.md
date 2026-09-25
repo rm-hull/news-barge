@@ -11,6 +11,19 @@ categories:
 - York
 - True Crime
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/police-vehicles-country-road-nyp.webp
+locations:
+- Drax
+- Escrick
+- North Yorkshire
+- Selby
+people:
+- Rob Campbell
+organisations:
+- DVSA
+- Driver and Vehicle Standards Agency
+- North Yorkshire Council
+- North Yorkshire Police
+- RSPCA
 ---
 
 Two donkeys were seized by police during a raid in North Yorkshire.

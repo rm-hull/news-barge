@@ -14,6 +14,25 @@ categories:
 - Business & Entrepreneurship
 - Personal Finance & Investing
 image: https://www.thenorthernecho.co.uk/resources/images/21492355.jpg?type=og-image
+locations:
+- Hamburg
+- North East
+people:
+- Elaine Stroud
+- John McCabe
+- Katy Scott
+- Kim McGuinness
+- Matt Bratton
+- Michael Sreenan
+organisations:
+- Business Advisory Council
+- CBI
+- Entrepreneurs Forum
+- FSB
+- Federation of Small Businesses
+- North East Chamber of Commerce
+- North East MSA
+- North East Mayoral Strategic Authority
 ---
 
 A £25.9 million investment aimed at helping firms grow, create jobs and access support more easily is set to transform the business landscape across the North East.

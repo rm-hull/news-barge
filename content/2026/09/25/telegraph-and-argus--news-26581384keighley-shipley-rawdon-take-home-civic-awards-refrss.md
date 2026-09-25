@@ -12,6 +12,32 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21500709.jpg?type=og-image&xType=0&yType=355
+locations:
+- Bloomin’ Keighley
+- Civic Centre
+- Haworth
+- Large Town
+- Oxenhope
+- Town Hall Gardens
+- Town Hall Square
+- West Yorkshire
+- Worth Valley Railway
+people:
+- Andrea Walker
+- Cllr Walker
+- Joe
+- Keighley
+- Keighley
+- Maggie Higgson
+- Rawdon
+- Shipley
+- Steve Thorpe
+organisations:
+- Best Overall Town
+- Keighley Healthy Living
+- Keighley Horticultural Society
+- Urban Community
+- Worth Valley Railway
 ---
 
 THREE West Yorkshire districts have scooped top honours at a recent awards ceremony.

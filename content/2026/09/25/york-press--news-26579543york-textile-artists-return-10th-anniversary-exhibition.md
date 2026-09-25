@@ -11,6 +11,21 @@ categories:
 - York
 - Arts & Culture
 image: https://www.yorkpress.co.uk/resources/images/21498207.jpg?type=og-image
+locations:
+- Cemetery Road
+- Danby
+- North Yorkshire
+- Richmond
+- The Station
+- YO10 5AJ
+- York
+people:
+- Fran Brammer
+organisations:
+- Divine Coffee Roasters
+- York Cemetery Chapel
+- York Open Studios
+- York Textile Artists
 ---
 
 *(Image: Supplied)*

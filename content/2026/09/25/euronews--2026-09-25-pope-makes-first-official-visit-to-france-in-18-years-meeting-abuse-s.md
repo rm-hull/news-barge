@@ -14,6 +14,57 @@ categories:
 - Travel
 - History
 image: https://images.euronews.com/articles/stories/09/92/59/34/1200x675_cmsv2_c0ffc43b-b89d-571d-9a9b-a95988a0112b-9925934.jpg
+locations:
+- Champs-Elysées
+- Champs-Élysées
+- Corsica
+- Elysée Palace
+- French Republic
+- Marseille
+- Massabielle
+- Metz
+- Notre-Dame-de-Paris Cathedral
+- Paris
+- Paris-Orly
+- Place de la Concorde
+- Saint-Denis
+- Sanctuary of Our Lady of Lourdes
+- Stade Vélodrome
+- Stade de France
+- Strasbourg
+- Tarbes
+- US
+- Vatican
+- Vespers
+- lysée Palace
+people:
+- Arnaud Gallais
+- Bastien Lachaud
+- Benedict XVI
+- Bernadette Soubirous
+- Brigitte Macron
+- Elysée
+- Francis
+- Francis
+- Laurent Nuñez
+- Leo XIV
+- Mélanie Vogel
+- Pope
+- Sébastien Lecornu
+organisations:
+- AI
+- BFMTV
+- CEF
+- Catholic Church
+- EU
+- Elysée
+- Euronews
+- European Union
+- French Bishops’ Conference
+- Macron
+- Robert Schuman Convention Center
+- UNESCO
+- Virgin Mary
 ---
 
 ## The Pope is making the first official papal visit to France in 18 years, during which he is expected to meet survivors of sexual abuse, EU leaders and large crowds of worshippers.

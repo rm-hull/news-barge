@@ -13,6 +13,50 @@ categories:
 - News & Politics
 - History
 image: https://images.euronews.com/articles/stories/09/91/77/80/1200x675_cmsv2_0a1816d2-f3dd-50ac-b935-e1df9c37b44d-9917780.jpg
+locations:
+- America
+- Americas
+- Aragon
+- Atlantic
+- Basel
+- Castile
+- Columbus
+- Europe
+- France
+- Franciscan Convent of Santa María de La Rábida
+- Granada
+- Huelva
+- Iberian Peninsula
+- Indies
+- Italy
+- La Rábida
+- Netherlands
+- New World
+- Odiel
+- Palos de la Frontera
+- Portugal
+- Santa María de La Rábida
+- Switzerland
+- Tinto
+- Wharf of the Caravels
+people:
+- Castile
+- Christopher Columbus
+- Claude
+- Francisco Martín Pinzón
+- Fray Juan Pérez
+- Isabella I
+- La Pinta
+- Martín Alonso Pinzón
+- Michael Jackson
+- Our Lady of Miracles
+- Santa María de la Rábida
+- Vicente Yáñez Pinzón
+- nao Santa María
+organisations:
+- Catholic Monarchs
+- Crown
+- La Niña
 ---
 
 ## The discovery of America remains one of history's great exploits, where two cultures met. Before sailing, Columbus secured key backing at La Rábida from Franciscan friars and the Pinzón brothers.

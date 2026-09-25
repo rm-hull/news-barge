@@ -13,6 +13,21 @@ categories:
 - True Crime
 - Law & Justice
 image: https://i.guim.co.uk/img/media/585d5d66a715c750e2dbca9b9dde5b21e8b6a832/825_0_6274_5022/master/6274.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17452c0b0c1b94222c1f285d744a7899
+locations:
+- Horn Island
+- Mississippi
+- Wells
+people:
+- Andrew Garrett
+- Angel Myers McIlrath
+- Ben Crump
+- Edward Paltzik
+- Liza Park
+- Nolan Wells
+organisations:
+- Snapchat
+- Wells
+- Wells
 ---
 
 Civil rights attorney Ben Crump released information from a forensic examination of Nolan Wells’ cellphone as well as details of the official autopsy on Thursday, just days after a Mississippi grand jury said it found no evidence of criminal conduct in the teen’s death.

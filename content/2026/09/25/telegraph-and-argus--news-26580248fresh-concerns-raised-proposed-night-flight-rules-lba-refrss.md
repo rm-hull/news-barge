@@ -12,6 +12,21 @@ categories:
 - Bradford
 - News & Politics
 image: https://www.thetelegraphandargus.co.uk/resources/images/21499343.jpg?type=og-image
+locations:
+- YOUR
+people:
+- Nick Hodgkinson
+- Vincent Hodder
+organisations:
+- GALBA
+- Group for Action on Leeds Bradford Airport
+- Horsforth Town Council
+- Leeds Bradford Airport
+- Leeds City Council
+- Public Notice Portal
+- QCS LBA
+- UGC
+- Yorkshire
 ---
 
 ### What is the Public Notice Portal?

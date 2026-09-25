@@ -14,6 +14,18 @@ categories:
 - Arts & Culture
 - Film & TV
 image: https://www.thenorthernecho.co.uk/resources/images/17696434.jpg?type=og-image
+locations:
+- Bishop Auckland
+- Consett
+- County Durham
+people:
+- Paul Darby
+organisations:
+- Consett Empire Theatre
+- DURHAM COUNTY COUNCIL
+- Durham County Council
+- Empire Theatre
+- Historic Durham Miners' Hall
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

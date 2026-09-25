@@ -13,6 +13,16 @@ categories:
 - UK
 - Business & Entrepreneurship
 image: https://static.independent.co.uk/2026/09/23/15/56/Screenshot-2026-09-23-at-11-44-20-AM.png?trim=115,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- Dallas
+- Texas
+- The Colony
+people:
+- Donald Johnson
+- Erin Howell
+- Josephine
+organisations:
+- GoFundMe
 ---
 
 Online donors are rallying around an 81-year-old Texas man who has taken on difficult work — the only job he could land — to help pay for his wife's healthcare needs.

@@ -13,6 +13,16 @@ categories:
 - News & Politics
 - Health & Fitness
 image: https://www.thenorthernecho.co.uk/resources/images/21495142.jpg?type=og-image
+locations:
+- Leyburn
+people:
+- Neil Bowmer
+- Richard Pennell
+- Ruth Waterston
+organisations:
+- RAYNET
+- Wensleydale Rotary
+- Wensleydale School
 ---
 
 *(Image: Supplied)*

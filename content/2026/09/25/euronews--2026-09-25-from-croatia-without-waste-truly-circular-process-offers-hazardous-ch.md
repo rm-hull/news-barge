@@ -15,6 +15,25 @@ categories:
 - News & Politics
 - Business & Entrepreneurship
 image: https://images.euronews.com/articles/stories/09/89/60/11/1200x675_cmsv2_948429d2-1b1d-51d6-bcc7-0a1cf56f0c12-9896011.jpg
+locations:
+- Croatia
+- Europe
+- France
+- Germany
+- Italy
+- Ivanić-Grad
+- Spain
+people:
+- Antun Čengi
+- Blaženko Mari
+- Igor Podravac
+- Mario Želježnjak
+- Nikola Gojavi
+- Silvija Petkovi
+organisations:
+- European Union
+- Premifab Ltd
+- Rotoplast
 ---
 
 ## A clean-tech company in Croatia claims to recycle around three million kilograms of polluted solvents annually – without any waste. An “efficient, safe and economically valuable” recycling process of hazardous chemicals… made in Europe.

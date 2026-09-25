@@ -13,6 +13,26 @@ categories:
 - Business & Entrepreneurship
 - Technology & Software
 image: https://www.yorkpress.co.uk/resources/images/21498637.jpg?type=og-image
+locations:
+- Humber
+- Made Smarter Yorkshire
+- North Yorkshire
+- Tadcaster
+- Tadweld
+people:
+- Chris Houston
+- Mike Pennington
+- Omar Haider
+- Tadweld
+organisations:
+- HMRC
+- Made Smarter Yorkshire & Humber
+- North Yorkshire
+- Orah AI Consultancy
+- Pic
+- Tadweld
+- Tadweld’s AI
+- York
 ---
 
 *(Image: Pic supplied)*

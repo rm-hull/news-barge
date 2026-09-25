@@ -13,6 +13,18 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498081.jpg?type=og-image
+locations:
+- Keighley
+- Pitt St
+- Pitt Street
+- River Worth
+people:
+- Ian Walker
+organisations:
+- Bradford Council
+- Neighbourhoods and Communities
+- River Worth Friends
+- T&A
 ---
 
 A GROUP of dedicated volunteers cleared a whopping ten bags of litter from the River Worth. This is what they found in their haul.

@@ -12,6 +12,35 @@ categories:
 - UK
 - News & Politics
 image: https://i.guim.co.uk/img/media/69fd6994d6128403c7859aa6210870de34cd485f/243_0_5063_4051/master/5063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffcc53761c30e46e64d21fe48e15ce23
+locations:
+- Brussels
+- Croatia
+- Croatia
+- Germany
+- Gospi
+- Gospi
+- Gospi
+- Gospi
+- Gospi
+- Italy
+- Lika
+- Slovenia
+- Turkey
+- UK
+- Zagreb
+- iki
+people:
+- Ivana Rukavina Sari
+- eljka Šiki
+- iki
+- iki
+- iki
+organisations:
+- Croatian Institute of Public Health
+- EU
+- Europol
+- Guardian
+- United Nations
 ---
 
 “Gospić is our home,” Željka Šikić shouted to a crowd of 40,000 people outside the Croatian parliament earlier this month. The slogan is the name of a campaign she helped to set up to protest against the illegal dumping of waste in Gospić, a town in the mountainous Lika region of central Croatia.

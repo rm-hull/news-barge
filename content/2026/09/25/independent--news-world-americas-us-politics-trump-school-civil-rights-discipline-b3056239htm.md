@@ -12,6 +12,31 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/08/27/09/2291874129..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- America
+- Baton Rouge
+- Louisiana
+- South
+- US
+- Virginia
+people:
+- Barack Obama
+- Bobby Scott
+- Catherine Lhamon
+- Donald Trump
+- Joe Biden
+- Julia Letlow
+- Liz Murrill
+- Louisiana Liz Murrill
+- Sabin Sidney
+organisations:
+- Denver Public Schools
+- Education Department
+- Justice Department
+- Louisiana’s DeSoto Parish School Board
+- MMR Headquarters
+- The Obama and Biden Administrations
+- Trump
 ---
 
 The Trump administration is scaling back federal tools that have long been used to identify racial discrimination in US schools, including policies focused on unequal outcomes even when there is no evidence of deliberate bias.

@@ -13,6 +13,21 @@ categories:
 - York
 - Sports
 image: https://www.gazetteherald.co.uk/resources/images/21501479.jpg?type=og-image
+locations:
+- Eastfield
+- North Yorkshire
+- Overdale
+- Scarborough
+people: []
+organisations:
+- Highway Authority
+- MUGA
+- North Yorkshire Council
+- RC Academy Trust
+- RC Primary
+- St Cuthbert
+- St George
+- St George’s
 ---
 
 A North Yorkshire town with ‘insufficient’ sporting facilities will get a new multi-use games area after plans were given the go-ahead.

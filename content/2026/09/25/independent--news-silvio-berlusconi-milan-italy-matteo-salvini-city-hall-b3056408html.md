@@ -11,6 +11,24 @@ categories:
 - News & Politics
 - UK
 image: https://static.independent.co.uk/2026/09/25/13/Italy_Berlusconi_Airport_8_931.jpg?width=1200&height=800&crop=1200:800
+locations:
+- Italy
+- Leonardo da Vinci
+- Lombardy
+- Marco Polo
+- Milan Malpensa
+- Rome
+- Venice
+- Verona’s
+people:
+- Matteo Salvini
+- Silvio Berlusconi
+- Valerio Catullo
+organisations:
+- AC Milan
+- City Hall
+- IATA
+- MXP
 ---
 
 It took over two years and some legal wrangling, but Italy’s second-busiest passenger airport was finally named on Friday after the late former Premier Silvio Berlusconi.

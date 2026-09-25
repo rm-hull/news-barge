@@ -12,6 +12,13 @@ categories:
 - York
 - History
 image: https://www.yorkpress.co.uk/resources/images/21482131.jpg?type=og-image&yType=230
+locations:
+- Flamborough
+- South Sea Road
+- Yorkshire
+people: []
+organisations:
+- Humberside Fire and Rescue Service
 ---
 
 *(Image: Contributed)*

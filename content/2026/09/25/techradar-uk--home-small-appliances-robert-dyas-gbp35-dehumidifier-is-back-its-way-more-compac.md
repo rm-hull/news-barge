@@ -12,6 +12,13 @@ categories:
 - Technology & Software
 - Personal Finance & Investing
 image: https://cdn.mos.cms.futurecdn.net/C36iA9sfXLMLXHDrsAEXEX-1920-80.jpg
+locations: []
+people:
+- Robert Dyas
+organisations:
+- Daewoo
+- Lidl
+- Robert Dyas
 ---
 
 ![Daewoo&#039;s 700ml dehumidifier ](https://cdn.mos.cms.futurecdn.net/C36iA9sfXLMLXHDrsAEXEX.jpg)

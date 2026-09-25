@@ -11,6 +11,18 @@ categories:
 - Technology & Software
 - Hardware
 image: https://cdn.mos.cms.futurecdn.net/XtVyNkZbtdgeKjCfgjtZG-320-80.png
+locations: []
+people: []
+organisations:
+- AMD
+- Copilot
+- Get Tom's Hardware
+- Intel
+- Lunar Lake
+- Microsoft
+- Qualcomm
+- Surface Laptop Studio
+- iFixit
 ---
 
 ![Microsoft Copilot](https://cdn.mos.cms.futurecdn.net/XtVyNkZbtdgeKjCfgjtZG-320-80.png)

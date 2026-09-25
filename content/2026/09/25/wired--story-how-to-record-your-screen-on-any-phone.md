@@ -11,6 +11,16 @@ categories:
 - Technology & Software
 - Science
 image: https://media.wired.com/photos/6ab3b64485437b4e4984653f/191:100/w_1280,c_limit/092326-How%20to%20record%20screen.jpg
+locations:
+- Control Center
+people: []
+organisations:
+- AZ Recorder
+- Google Photos
+- Mobizen Screen Recorder
+- Samsung Galaxy
+- Samsung Gallery
+- YouTube
 ---
 
 There are numerous reasons why you might want to record what’s happening on your phone. Maybe you’re having a problem with an app and you want to share what’s going wrong with a tech-savvy friend; or maybe you're the tech-savvy friend, and you want to show someone else how to fix a bug.

@@ -12,6 +12,35 @@ categories:
 - UK
 - Society & Culture
 image: https://static.independent.co.uk/2026/09/25/11/2231373218..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+locations:
+- Bahamas
+- Caribbean
+- Miami
+- South America
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- U.S
+- US
+- Washington
+people:
+- Herschel Walker
+- Trump
+- Wendall Jones
+organisations:
+- DEA
+- Drug Enforcement Administration
+- Justice Department
+- Margaritaville
+- Royal Bahamas Police Force
+- Tribune
+- U.S. Department of Justice
+- U.S. Jones
+- U.S. State Department
 ---
 
 Officials in the Bahamas have accused "rogue" DEA agents of executing illicit operations on Bahamian soil, raising the matter with the Trump administration last week, the country's ambassador to the U.S. stated on Thursday.

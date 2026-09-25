@@ -13,6 +13,21 @@ categories:
 - News & Politics
 - Travel
 image: https://www.thetelegraphandargus.co.uk/resources/images/21498799.jpg?type=og-image
+locations:
+- BLAMIRES Place
+- Back Great Horton Road South
+- Blamires Place
+- Blamires Street
+- Bradford
+- Great Horton Road
+- Hollybank Road
+people: []
+organisations:
+- BD1 1HY
+- City Hall
+- City of Bradford Metropolitan District Council
+- Google Street View
+- Legal and Democratic Services
 ---
 
 *(Image: Google Street View)*

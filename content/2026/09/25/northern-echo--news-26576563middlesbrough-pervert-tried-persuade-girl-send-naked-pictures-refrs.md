@@ -13,6 +13,19 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://www.thenorthernecho.co.uk/resources/images/21493916.jpg?type=og-image&xType=0&yType=76
+locations:
+- Middlesbrough
+- North East
+- Snapchat
+- Trimdon Avenue
+people:
+- Ameer Ali
+- Anthony Dunne
+- Jonathan Gittins
+organisations:
+- Cleveland Police
+- SHPO
+- Teesside Crown Court
 ---
 
 *(Image: Cleveland Police)*

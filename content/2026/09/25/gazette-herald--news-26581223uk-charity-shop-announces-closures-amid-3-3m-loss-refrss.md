@@ -14,6 +14,13 @@ categories:
 - Personal Finance & Investing
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21243386.jpg?type=og-image&xType=0&yType=68
+locations: []
+people:
+- Charmaine Griffiths
+organisations:
+- BHF
+- British Heart Foundation
+- Civil Society
 ---
 
 *(Image: PA)*

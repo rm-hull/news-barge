@@ -12,6 +12,22 @@ categories:
 - UK
 - Health & Fitness
 image: https://static.independent.co.uk/2026/09/24/16/39/iStock-933952154.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+locations:
+- England
+- Gloucestershire
+- Leicestershire
+- UK
+- Wales
+people:
+- Debbie Wilkins
+- Ruth Grice
+- Tom Cantillon
+organisations:
+- AHDB
+- Agriculture and Horticulture Development Board
+- ECIU
+- Energy and Climate Intelligence Unit
+- Press Association
 ---
 
 Analysis of industry figures shows that British dairy farmers supplied 240 million fewer litres of milk than expected over the UK’s record hot summer.

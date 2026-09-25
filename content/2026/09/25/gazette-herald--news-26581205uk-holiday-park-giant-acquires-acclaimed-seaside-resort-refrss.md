@@ -12,6 +12,35 @@ categories:
 - York
 - Business & Entrepreneurship
 image: https://www.gazetteherald.co.uk/resources/images/21497928.jpg?type=og-image
+locations:
+- Ayrshire
+- East Lothian
+- England
+- Haven Skegness Holiday Park
+- Holivans Caravan Park
+- Mablethorpe
+- Portsmouth
+- Scotland
+- Seal Bay
+- Seal Bay Resort
+- Selsey
+- UK
+- Wales
+- West Sussex
+people:
+- Simon Palethorpe
+organisations:
+- Blackstone
+- Burger Kings
+- Cove Communities
+- Haven
+- JD Wetherspoon
+- Millies Cookies
+- Papa Johns
+- Richmond Holiday Centre
+- Seal Bay
+- Seal Bay Resort
+- Slim Chickens
 ---
 
 *(Image: Haven)*

@@ -12,6 +12,25 @@ categories:
 - York
 - Lifestyle & Fashion
 image: https://www.yorkpress.co.uk/resources/images/21501152.jpg?type=og-image
+locations:
+- Alice Kavanagh
+- Beverley
+- Coney Street
+- Davygate
+- Harrogate
+- Ireland
+- Lendal
+- North Yorkshire
+- Popular York
+- UK
+people: []
+organisations:
+- Alice Kavanagh)* Space NK
+- Beyonce
+- JD Sports
+- Leeds
+- Space NK
+- TAG Heuer
 ---
 
 ## WATCH - Hundreds line up as popular shop returns to York after four years

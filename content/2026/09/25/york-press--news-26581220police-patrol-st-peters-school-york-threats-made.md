@@ -12,6 +12,18 @@ categories:
 - York
 - News & Politics
 image: https://www.yorkpress.co.uk/resources/images/21500529.jpg?type=og-image&xType=0&yType=168
+locations:
+- Clifton
+- North Yorkshire
+- St Peter's School
+- York
+people:
+- Peter
+organisations:
+- Newsquest
+- North Yorkshire Police
+- St Peter’s
+- St Peter’s School
 ---
 
 ## Police to continue patrols around top York school following lockdown

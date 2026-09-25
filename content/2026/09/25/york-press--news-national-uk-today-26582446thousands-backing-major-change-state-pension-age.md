@@ -13,6 +13,14 @@ categories:
 - Careers & Productivity
 - Society & Culture
 image: https://www.yorkpress.co.uk/resources/images/21502356.jpg?type=og-image
+locations: []
+people:
+- Michelle Gill
+- Peter Byrne
+organisations:
+- DWP
+- Government
+- State Pension
 ---
 
 *(Image: Peter Byrne)*

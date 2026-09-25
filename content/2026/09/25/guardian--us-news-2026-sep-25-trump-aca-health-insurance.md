@@ -13,6 +13,29 @@ categories:
 - Health & Fitness
 - Society & Culture
 image: https://i.guim.co.uk/img/media/c218b06282dec90da5ee08114be844ed1ce1a507/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26ef64aa814fe7d4b4d8735715b9d11a
+locations:
+- California
+- Minnesota
+- US
+people:
+- Biden
+- Cynthia Cox
+- Edwin Park
+- JD Vance
+- Mehmet Oz
+organisations:
+- ACA
+- CMS
+- Center for Children and Families
+- Center on Budget and Policy Priorities
+- Centers for Medicare and Medicaid Services
+- Georgetown University’s McCourt School of Public Policy
+- HHS
+- HR1
+- KFF
+- Paragon Institute
+- Trump
+- US Department of Health and Human Services
 ---
 
 The Trump administration is removing 760,000 people enrolled in the Affordable Care Act (ACA) marketplace on allegations of fraud, officials said on Tuesday – adding to previous efforts to chip away at federally subsidized insurance programs and likely causing some of the lowest-income Americans to forego healthcare, experts said.

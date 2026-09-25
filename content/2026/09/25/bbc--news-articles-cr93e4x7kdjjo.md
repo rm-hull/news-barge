@@ -13,6 +13,33 @@ categories:
 - News & Politics
 - Technology & Software
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg
+locations:
+- Atlanta
+- Beijing
+- China
+- Guangxi
+- Hong Kong Ocean Park
+- Liuzhou
+- Taiwan
+- US
+- United States
+- Washington
+- White House
+people:
+- AI
+- Dario Amodei
+- Donald Trump
+- Fu Shuang
+- Ping Ping
+- Xi Jinping
+organisations:
+- AI
+- Anthropic
+- Dongfeng Liuzhou Automobile Co
+- Le Le
+- Ltd
+- Pandas
+- Trump
 ---
 
 Watch: The world’s two most powerful men just met. How did it go?

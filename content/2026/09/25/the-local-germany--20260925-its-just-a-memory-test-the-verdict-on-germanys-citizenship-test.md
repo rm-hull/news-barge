@@ -14,6 +14,35 @@ categories:
 - News & Politics
 - Society & Culture
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-117528675.jpg@webp
+locations:
+- Australia
+- Berlin
+- Berliner
+- Burgwedel
+- Cologne
+- Federal Republic of Germany
+- India
+- Iran
+- Massachusetts
+- Mexico
+- Munich
+- New York City
+- Nigeria
+- North Rhine-Westphalia
+- Stuttgart
+- Trier
+- UK
+- US
+people:
+- Helen
+- Jim
+- Kunle
+- Richard
+- Sama Beheshti
+- Steve
+- William Trimmer
+organisations:
+- AfD
 ---
 
 More than half the respondents to a Local survey said Germany's citizenship test was too easy. But many of the same people also said that preparing for the exam taught them something valuable about German history, politics and everyday life.

@@ -12,6 +12,38 @@ categories:
 - Hardware
 - Video Gaming
 image: https://cdn.mos.cms.futurecdn.net/Sj4Dce8mY2XbR88g8wA9nL-450-80.png
+locations: []
+people:
+- Bruno Ferreira
+- Jack Tretton
+- Mark Tyson
+organisations:
+- Andrew E. Freedman
+- Andrew E. Freedman Published
+- Astro Playroom
+- Console GamingSony
+- Etiido Uko Published
+- GitHub
+- Handheld GamingAirbus
+- Handheld GamingSwitch
+- Handheld GamingUpgrading
+- Jowi Morales Published
+- Luke James Published
+- Mark Tyson Published
+- Nintendo
+- NintendoConsole
+- NintendoNintendo of America
+- NintendoYou
+- Oliver Haslam Published
+- PlayStationGroup
+- PlayStationHardware
+- PlayStationSony
+- Sony
+- Sony’s
+- XboxMicrosoft
+- XboxXbox
+- Zak Killian
+- Zelda
 ---
 
 ## Latest about Console Gaming
