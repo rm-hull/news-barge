@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 from threading import Lock
 from typing import cast
@@ -44,12 +45,15 @@ def article_categories(title: str, description: str) -> list[str]:
     return cast(list[str], [topic.name for topic in topics])
 
 
+def strip_non_alnum(s: str) -> str:
+    return re.sub(r"^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$", "", s)
+
+
 def named_entities(text: str) -> NamedEntities:
     cleaned_lines = [line.strip() for line in text.split("\n") if line.strip()]
     cleaned_text = " ".join(cleaned_lines)
 
     sentences = _splitter.split(cleaned_text)
-    # with _lock:
     _tagger.predict(sentences)
 
     entities = NamedEntities([], [], [])
@@ -57,13 +61,13 @@ def named_entities(text: str) -> NamedEntities:
     for sentence in sentences:
         for label in sentence.get_labels():
             if label.value == "LOC" and label.data_point.text not in entities.locations:
-                entities.locations.append(label.data_point.text)
+                entities.locations.append(strip_non_alnum(label.data_point.text))
             if label.value == "PER" and label.data_point.text not in entities.people:
-                entities.people.append(label.data_point.text)
+                entities.people.append(strip_non_alnum(label.data_point.text))
             if (
                 label.value == "ORG"
                 and label.data_point.text not in entities.organisations
             ):
-                entities.organisations.append(label.data_point.text)
+                entities.organisations.append(strip_non_alnum(label.data_point.text))
 
     return entities

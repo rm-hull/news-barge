@@ -188,9 +188,9 @@ async def process_article(
     frontmatter.update(
         {
             "categories": categories,
-            "people": filter_duplicate_names(entities.people),
-            "locations": filter_duplicate_names(entities.locations),
-            "organisations": filter_duplicate_names(entities.organisations),
+            "people": sorted(filter_duplicate_names(entities.people)),
+            "locations": sorted(filter_duplicate_names(entities.locations)),
+            "organisations": sorted(filter_duplicate_names(entities.organisations)),
         }
     )
 
