@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from threading import Lock
-from typing import List, cast
+from typing import cast
 
 from flair.nn import Classifier
 from flair.splitter import SegtokSentenceSplitter
@@ -25,9 +25,9 @@ _splitter = SegtokSentenceSplitter()
 
 @dataclass
 class NamedEntities:
-    people: List[str]
-    locations: List[str]
-    organisations: List[str]
+    people: list[str]
+    locations: list[str]
+    organisations: list[str]
 
 
 def article_categories(title: str, description: str) -> list[str]:

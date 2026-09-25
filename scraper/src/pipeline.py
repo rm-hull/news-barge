@@ -10,10 +10,10 @@ from pathlib import Path
 from typing import Any
 
 import trafilatura
+import yaml
 from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import Browser
-import yaml
 
 from .classifiers import article_categories, named_entities
 from .constants import (

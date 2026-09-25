@@ -10,8 +10,8 @@ from unittest.mock import AsyncMock, MagicMock, patch
 import pytest
 
 from src.log_helper import SiteLogger
-from src.pipeline import process_article
 from src.output import output_path
+from src.pipeline import process_article
 from src.slugs import url_to_slug
 
 
