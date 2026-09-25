@@ -180,12 +180,14 @@ sites:
     slug: northern-echo
     categories: [Local, UK, News & Politics]
     feed: https://www.thenorthernecho.co.uk/news/rss/
+    exclude_query_params: true
     limit: 50
 
   - name: Telegraph & Argus
     slug: telegraph-and-argus
     categories: [Local, Bradford, News & Politics]
     feed: https://www.thetelegraphandargus.co.uk/news/rss/
+    exclude_query_params: true
     limit: 50
 
   - name: Der Spiegel International
