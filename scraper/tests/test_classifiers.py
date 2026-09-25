@@ -11,7 +11,7 @@ class TestArticleCategories:
     """Tests for the article_categories function."""
 
     @patch("src.classifiers._gist")
-    @patch("src.classifiers._lock")
+    @patch("src.classifiers._gist_lock")
     def test_returns_empty_list_for_empty_text(
         self, mock_lock: MagicMock, mock_gist: MagicMock
     ) -> None:
@@ -21,7 +21,7 @@ class TestArticleCategories:
         mock_gist.classify.assert_not_called()
 
     @patch("src.classifiers._gist")
-    @patch("src.classifiers._lock")
+    @patch("src.classifiers._gist_lock")
     def test_combines_title_and_description(
         self, mock_lock: MagicMock, mock_gist: MagicMock
     ) -> None:
@@ -41,7 +41,7 @@ class TestArticleCategories:
         assert kwargs["top_k"] is not None
 
     @patch("src.classifiers._gist")
-    @patch("src.classifiers._lock")
+    @patch("src.classifiers._gist_lock")
     def test_skips_empty_parts_when_building_text(
         self, mock_lock: MagicMock, mock_gist: MagicMock
     ) -> None:
@@ -56,7 +56,7 @@ class TestArticleCategories:
         assert text == "Only Title"
 
     @patch("src.classifiers._gist")
-    @patch("src.classifiers._lock")
+    @patch("src.classifiers._gist_lock")
     def test_strips_parts_before_classification(
         self, mock_lock: MagicMock, mock_gist: MagicMock
     ) -> None:
@@ -70,7 +70,7 @@ class TestArticleCategories:
         assert "Spaced Description" in text
 
     @patch("src.classifiers._gist")
-    @patch("src.classifiers._lock")
+    @patch("src.classifiers._gist_lock")
     def test_returns_empty_when_no_topics(
         self, mock_lock: MagicMock, mock_gist: MagicMock
     ) -> None:

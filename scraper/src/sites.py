@@ -6,8 +6,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, cast
 
-from .constants import SITES_FILE
 import yaml
+
+from .constants import SITES_FILE
 
 
 @dataclass

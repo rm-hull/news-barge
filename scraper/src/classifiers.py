@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from threading import Lock
 from typing import cast
 
+from flair.data import Sentence
 from flair.nn import Classifier
 from flair.splitter import SegtokSentenceSplitter
 from taxotag import Gist
@@ -17,11 +18,37 @@ from .constants import TAXOTAG_TOP_K
 # Taxotag
 # ---------------------------------------------------------------------------
 
-_gist: Gist = Gist()
-_lock: Lock = Lock()
+# `Gist` loads its model during construction, so it is instantiated lazily
+# on first use rather than at import time.
+_gist: Gist | None = None
+_gist_lock: Lock = Lock()
 
-_tagger = Classifier.load("ner-fast")
+
+def _get_gist() -> Gist:
+    """Return the cached taxotag Gist, constructing it on first call."""
+    global _gist
+    if _gist is None:
+        with _gist_lock:
+            if _gist is None:
+                _gist = Gist()
+    return _gist
+
+
+# The Flair NER classifier is large and slow to load, so it is loaded lazily
+# on first use rather than at import time.
+_tagger: Classifier[Sentence] | None = None
+_tagger_lock: Lock = Lock()
 _splitter = SegtokSentenceSplitter()
+
+
+def _get_tagger() -> Classifier[Sentence]:
+    """Return the cached NER classifier, loading it on first call."""
+    global _tagger
+    if _tagger is None:
+        with _tagger_lock:
+            if _tagger is None:
+                _tagger = Classifier.load("ner-fast")
+    return _tagger
 
 
 @dataclass
@@ -40,8 +67,12 @@ def article_categories(title: str, description: str) -> list[str]:
     if not text:
         return []
 
-    with _lock:
-        topics = _gist.classify(text, top_k=TAXOTAG_TOP_K)
+    # Resolve the Gist *before* locking: _get_gist() acquires _gist_lock on
+    # first construction, and `Lock` is not reentrant, so it must not be
+    # called while we already hold it.
+    gist = _get_gist()
+    with _gist_lock:
+        topics = gist.classify(text, top_k=TAXOTAG_TOP_K)
     return cast(list[str], [topic.name for topic in topics])
 
 
@@ -54,7 +85,7 @@ def named_entities(text: str) -> NamedEntities:
     cleaned_text = " ".join(cleaned_lines)
 
     sentences = _splitter.split(cleaned_text)
-    _tagger.predict(sentences)
+    _get_tagger().predict(sentences)
 
     entities = NamedEntities([], [], [])
 
