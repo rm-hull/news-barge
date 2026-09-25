@@ -29,6 +29,12 @@ jobs:
         working-directory: ./scraper
         run: uv sync --group dev
 
+      - name: Cache flair NER model
+        uses: actions/cache@v6
+        with:
+          path: ~/.flair/models
+          key: ${{ runner.os }}-flair
+
       - name: Cache taxotag model
         uses: actions/cache@v6
         with:
