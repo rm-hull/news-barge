@@ -164,7 +164,9 @@ async def process_article(
         return True
 
     # Prefer site-defined categories; append classifier-derived ones, no dupes.
-    categories = list(dict.fromkeys(site.categories + article_categories(title, description)))
+    categories = list(
+        dict.fromkeys(site.categories + article_categories(title, description))
+    )
     entities = named_entities(md_body)
 
     frontmatter: dict[str, Any] = {
