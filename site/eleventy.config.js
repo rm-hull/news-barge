@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 
 const PAGE_SIZE = 50;
 const MIN_ARTICLES_FOR_PEOPLE = 10;
+const MIN_ARTICLES_FOR_LOCATIONS = 50;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function byDescendingPublishedDate(a, b) {
@@ -36,6 +37,17 @@ function normalizePersonName(person) {
   return name;
 }
 
+function normalizeLocationName(location) {
+  // Strip stray markdown characters and annotations
+  let name = location.trim().replace(/^[‘’']+/, '').replace(/[‘’']+$/, '');
+  // Remove markdown heading/list artifacts that sometimes leak in (##, etc.)
+  name = name.replace(/^#+\s*/, '').replace(/[……]+$/, '').trim();
+  if (!name) return null;
+  // Normalize: strip trailing punctuation (periods, commas, etc.)
+  name = name.replace(/[.,;:!?]+$/, '');
+  return name;
+}
+
 function groupPeopleByArticle(allArticles, eleventyConfig) {
   const grouped = {};
   for (const art of allArticles) {
@@ -55,6 +67,29 @@ function groupPeopleByArticle(allArticles, eleventyConfig) {
   }
 
   const filtered = Object.values(grouped).filter((p) => p.count >= MIN_ARTICLES_FOR_PEOPLE);
+  filtered.sort((a, b) => b.count - a.count);
+  return filtered;
+}
+
+function groupLocationsByArticle(allArticles, eleventyConfig, minArticles) {
+  const grouped = {};
+  for (const art of allArticles) {
+    const locations = art.data.locations;
+    if (!Array.isArray(locations) || locations.length === 0) continue;
+    for (const location of locations) {
+      if (!location || typeof location !== 'string') continue;
+      const name = normalizeLocationName(location);
+      if (!name) continue;
+      const slug = eleventyConfig.getFilter('slug')(name);
+      if (!grouped[slug]) {
+        grouped[slug] = { name, slug, count: 0, articles: [] };
+      }
+      grouped[slug].count++;
+      grouped[slug].articles.push(art);
+    }
+  }
+
+  const filtered = Object.values(grouped).filter((p) => p.count >= minArticles);
   filtered.sort((a, b) => b.count - a.count);
   return filtered;
 }
@@ -120,6 +155,57 @@ export default function (eleventyConfig) {
     return grouped;
   });
 
+
+  // Locations grouped by name with article count and articles
+  eleventyConfig.addCollection('locationsByArticleCount', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    return groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+  });
+
+  // Locations listing pages (pagination of the locations index)
+  eleventyConfig.addCollection('locationsByArticleCountPages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const locations = groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+    const pages = [];
+    const totalPages = Math.ceil(locations.length / PAGE_SIZE);
+
+    for (let i = 0; i < totalPages; i++) {
+      pages.push({
+        pageNumber: i,
+        locations: locations.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+        previousHref: i > 0 ? (i === 1 ? '/locations/' : `/locations/page/${i}/`) : null,
+        nextHref: i < totalPages - 1 ? `/locations/page/${i + 2}/` : null,
+      });
+    }
+
+    return pages;
+  });
+
+  // Articles grouped by location name, split into pages
+  eleventyConfig.addCollection('articlesByLocationPages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const locations = groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+
+    const pages = [];
+    for (const location of locations) {
+      const totalPages = Math.ceil(location.articles.length / PAGE_SIZE);
+      const base = `/locations/${location.slug}/`;
+
+      for (let i = 0; i < totalPages; i++) {
+        pages.push({
+          location: location.name,
+          slug: location.slug,
+          count: location.count,
+          pageNumber: i,
+          articles: location.articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
+          nextHref: i < totalPages - 1 ? `${base}page/${i + 2}/` : null,
+        });
+      }
+    }
+
+    return pages;
+  });
   // People grouped by name with article count and articles
   // (filtered to people mentioned in at least MIN_ARTICLES_FOR_PEOPLE articles)
   eleventyConfig.addCollection('peopleByArticleCount', (collectionApi) => {

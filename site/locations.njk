@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Locations
+permalink: /locations/
+---
+<section class="index-section">
+  <h1 class="page-title">Locations</h1>
+
+  <ul class="locations-list">
+    {% for location in collections.locationsByArticleCount %}
+    <li class="location-card">
+      <a href="/locations/{{ location.slug }}/">{{ location.name }}</a>
+      <span class="location-meta">{{ location.count }} articles</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

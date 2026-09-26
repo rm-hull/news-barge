@@ -1,0 +1,31 @@
+---
+layout: base.njk
+pagination:
+  data: collections.articlesByLocationPages
+  size: 1
+  alias: locationPage
+permalink: /locations/{{ locationPage.slug }}/{% if locationPage.pageNumber > 0 %}page/{{ locationPage.pageNumber + 1 }}/{% endif %}
+eleventyComputed:
+  title: "{{ locationPage.location }}"
+---
+<section class="index-section">
+  <h1 class="page-title">{{ locationPage.location }}</h1>
+  <p class="location-meta">{{ locationPage.count }} articles</p>
+
+  <ul class="article-list">
+    {% for article in locationPage.articles %}
+    {% include "article-card.njk" %}
+    {% endfor %}
+  </ul>
+
+  {% if locationPage.previousHref or locationPage.nextHref %}
+  <nav class="pagination">
+    {% if locationPage.previousHref %}
+      <a href="{{ locationPage.previousHref }}" class="page-link">← Newer</a>
+    {% endif %}
+    {% if locationPage.nextHref %}
+      <a href="{{ locationPage.nextHref }}" class="page-link">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>

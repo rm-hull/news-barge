@@ -180,11 +180,6 @@ a:hover {
   color: var(--text);
 }
 
-.people-intro {
-  color: var(--muted);
-  margin-bottom: 1.5rem;
-}
-
 .article-list {
   list-style: none;
   display: flex;
@@ -470,6 +465,7 @@ a:hover {
 }
 
 .people-list,
+.locations-list,
 .site-list,
 .category-list {
   list-style: none;
@@ -478,6 +474,7 @@ a:hover {
   gap: 0;
 }
 .person-card,
+.location-card,
 .site-card,
 .category-card {
   padding: 0.9rem 0;
@@ -487,6 +484,7 @@ a:hover {
   gap: 0.75rem;
 }
 .person-card a,
+.location-card a,
 .site-card a,
 .category-card a {
   font-weight: 500;
@@ -494,12 +492,14 @@ a:hover {
   margin-right: auto;
 }
 .person-card a:hover,
+.location-card a:hover,
 .site-card a:hover,
 .category-card a:hover {
   color: var(--accent);
   text-decoration: none;
 }
 .person-meta,
+.location-meta,
 .site-meta,
 .category-meta {
   font-size: 0.75rem;
