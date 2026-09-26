@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any, cast
+from typing import Any, Literal, cast
 
 import yaml
 
@@ -59,7 +59,9 @@ class SiteConfig:
     force_playwright: bool = False
     trust_insecure_certs: bool = False
     exclude_query_params: bool = False
-    playwright_wait_until: str | None = None  # "domcontentloaded" (default),
+    playwright_wait_until: (
+        Literal["commit", "domcontentloaded", "load", "networkidle"] | None
+    ) = None  # "domcontentloaded" (default),
     # "load", "networkidle", etc.
 
     # ── Listing / article processing ───────────────────────────────────────
@@ -106,8 +108,16 @@ class SiteConfig:
             name=data["name"],
             slug=data["slug"],
             feed=expand_placeholders(data.get("feed")),
-            listing_urls=[expand_placeholders(u) for u in listing_urls_raw],
-            urls=[expand_placeholders(u) for u in (data.get("urls") or [])],
+            listing_urls=[
+                u
+                for u in (expand_placeholders(u) for u in listing_urls_raw)
+                if u is not None
+            ],
+            urls=[
+                u
+                for u in (expand_placeholders(u) for u in (data.get("urls") or []))
+                if u is not None
+            ],
             categories=data.get("categories") or [],
             limit=data.get("limit"),
             feed_limit=data.get("feed_limit"),

@@ -252,8 +252,7 @@ async def main_async(args: argparse.Namespace) -> None:
                         site=site,
                     )
                     print(
-                        f" | Listing {listing_url} -> "
-                        f"found {len(discovered)} URLs",
+                        f" | Listing {listing_url} -> found {len(discovered)} URLs",
                         end="",
                         flush=True,
                     )

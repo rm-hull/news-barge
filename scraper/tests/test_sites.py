@@ -65,7 +65,8 @@ def test_from_dict_expands_yyyy_in_listing_urls() -> None:
 
 
 def test_from_dict_listing_url_backward_compat() -> None:
-    """from_dict should accept legacy ``listing_url`` (string) as a single-element list."""
+    """from_dict should accept legacy ``listing_url`` (string) as a single-element
+    list."""
     site = SiteConfig.from_dict(
         {
             "name": "Test Site",
@@ -132,6 +133,25 @@ def test_from_dict_none_urls_when_missing() -> None:
     assert site.listing_urls == []
 
 
+def test_from_dict_playwright_wait_until() -> None:
+    """from_dict should pass through playwright_wait_until."""
+    site = SiteConfig.from_dict(
+        {
+            "name": "Test Site",
+            "slug": "test",
+            "force_playwright": True,
+            "playwright_wait_until": "networkidle",
+        }
+    )
+    assert site.playwright_wait_until == "networkidle"
+
+
+def test_from_dict_playwright_wait_until_defaults_none() -> None:
+    """playwright_wait_until should default to None when not specified."""
+    site = SiteConfig.from_dict({"name": "Test Site", "slug": "test"})
+    assert site.playwright_wait_until is None
+
+
 # ─── Real sites.yaml integration test ──────────────────────────────────────
 
 
@@ -170,9 +190,7 @@ def test_sites_yaml_all_urls_expand_yyyy() -> None:
             pytest.fail(f"feed not expanded in {config.slug}: {config.feed}")
         for listing_url in config.listing_urls:
             if "{yyyy}" in listing_url:
-                pytest.fail(
-                    f"listing_url not expanded in {config.slug}: {listing_url}"
-                )
+                pytest.fail(f"listing_url not expanded in {config.slug}: {listing_url}")
         for url in config.urls:
             if "{yyyy}" in url:
                 pytest.fail(f"url not expanded in {config.slug}: {url}")

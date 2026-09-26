@@ -186,6 +186,9 @@ class TestProcessArticle:
 
         assert result is True
         mock_pw_fetch.assert_called_once()
+        # Verify wait_until defaults to None (no override set on site)
+        call_kwargs = mock_pw_fetch.call_args
+        assert call_kwargs[1].get("wait_until") is None
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
