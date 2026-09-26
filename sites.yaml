@@ -250,10 +250,14 @@ sites:
     categories: [Berlin, Germany, News & Politics]
     limit: 50
 
-
-
-
-
-
-
+  - name: Freie Universität Berlin
+    slug: fu-berlin
+    categories: [Berlin, Germany, News & Politics]
+    feed: https://www.fu-berlin.de/en/presse/informationen/fup/aktuell/index.rss?format=rss
+    limit: 50
+    exclusions:
+      # Strips the 'Further Information' and 'Contact' sections (publications
+      # links, email addresses, researcher contact details) that trafilatura
+      # sometimes captures as body text after the article prose.
+      - //section[contains(@class, 'box-article-more-info')]
 
