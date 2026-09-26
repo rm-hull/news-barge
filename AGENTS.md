@@ -10,7 +10,7 @@ Located at: `.agents/skills/scrape-analyzer/SKILL.md`
 This skill provides a disciplined methodology for adding new news sites to `sites.yaml`. It automates the process of:
 - **RSS Discovery**: Searching for and verifying valid RSS/Atom feeds (preferred).
 - **HTML Analysis**: If no feed is available, it identifies the most precise CSS classes (`listing_class`) or URL patterns (`listing_link_pattern`) to capture article links.
-- **Noise Reduction**: Identifying and excluding sponsored or promoted content.
+- **Noise Reduction**: Identifying and excluding sponsored or promoted content, and detecting article-page elements (modals, overlays, paywall prompts, author bios, comment widgets) that leak into the extracted prose and need `exclusions`.
 - **Validation**: Verifying that links lead to actual articles and checking for JS-heavy pages that require Playwright.
 - **Configuration**: Generating the correct YAML snippet for `sites.yaml` and verifying slug uniqueness.
 
@@ -31,3 +31,6 @@ Agents should never modify `sites.yaml` automatically. They should:
 1. Perform the analysis.
 2. Propose the configuration snippet.
 3. Explicitly ask the user for permission to apply the change.
+
+### Filesystem Search
+**Never run `find /` against the whole filesystem.** The Poolside Laguna LLM has a recurring tendency to reach for `find /` when searching, which is slow, noisy, and sweeps up virtual filesystems and caches. Always prefer **ripgrep (`rg`)** instead — it's fast, respects `.gitignore`/`ignore` files, and is the right tool for content and path searches. For example, use `rg -l "pattern" path` to find files by content, or `rg --files path` to list files.
