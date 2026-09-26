@@ -1,0 +1,31 @@
+---
+layout: base.njk
+pagination:
+  data: collections.articlesByPersonPages
+  size: 1
+  alias: personPage
+permalink: /people/{{ personPage.slug }}/{% if personPage.pageNumber > 0 %}page/{{ personPage.pageNumber + 1 }}/{% endif %}
+eleventyComputed:
+  title: "{{ personPage.person }}"
+---
+<section class="index-section">
+  <h1 class="page-title">{{ personPage.person }}</h1>
+  <p class="person-meta">{{ personPage.count }} articles</p>
+
+  <ul class="article-list">
+    {% for article in personPage.articles %}
+    {% include "article-card.njk" %}
+    {% endfor %}
+  </ul>
+
+  {% if personPage.previousHref or personPage.nextHref %}
+  <nav class="pagination">
+    {% if personPage.previousHref %}
+      <a href="{{ personPage.previousHref }}" class="page-link">← Newer</a>
+    {% endif %}
+    {% if personPage.nextHref %}
+      <a href="{{ personPage.nextHref }}" class="page-link">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>

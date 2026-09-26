@@ -4,6 +4,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const PAGE_SIZE = 50;
+const MIN_ARTICLES_FOR_PEOPLE = 10;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function byDescendingPublishedDate(a, b) {
@@ -20,6 +21,42 @@ function categoriesForArticle(article, siteMap) {
     return articleCategories;
   }
   return siteMap.get(article.data.source_slug) || ['Uncategorized'];
+}
+
+function normalizePersonName(person) {
+  // Strip stray markdown characters and annotations
+  let name = person.trim().replace(/^[‘’']+/, '').replace(/[‘’']+$/, '');
+  // Remove markdown heading/list artifacts that sometimes leak in (##, etc.)
+  name = name.replace(/^#+\s*/, '').replace(/[……]+$/, '').trim();
+  if (!name) return null;
+  // Normalize: strip trailing punctuation (periods, commas, etc.)
+  name = name.replace(/[.,;:!?]+$/, '');
+  // Only include names with at least 2 parts (first name + last name)
+  if (name.split(/\s+/).length < 2) return null;
+  return name;
+}
+
+function groupPeopleByArticle(allArticles, eleventyConfig) {
+  const grouped = {};
+  for (const art of allArticles) {
+    const people = art.data.people;
+    if (!Array.isArray(people) || people.length === 0) continue;
+    for (const person of people) {
+      if (!person || typeof person !== 'string') continue;
+      const name = normalizePersonName(person);
+      if (!name) continue;
+      const slug = eleventyConfig.getFilter('slug')(name);
+      if (!grouped[slug]) {
+        grouped[slug] = { name, slug, count: 0, articles: [] };
+      }
+      grouped[slug].count++;
+      grouped[slug].articles.push(art);
+    }
+  }
+
+  const filtered = Object.values(grouped).filter((p) => p.count >= MIN_ARTICLES_FOR_PEOPLE);
+  filtered.sort((a, b) => b.count - a.count);
+  return filtered;
 }
 
 export default function (eleventyConfig) {
@@ -81,6 +118,59 @@ export default function (eleventyConfig) {
     }
 
     return grouped;
+  });
+
+  // People grouped by name with article count and articles
+  // (filtered to people mentioned in at least MIN_ARTICLES_FOR_PEOPLE articles)
+  eleventyConfig.addCollection('peopleByArticleCount', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    return groupPeopleByArticle(all, eleventyConfig);
+  });
+
+  // People listing pages (pagination of the people index)
+  eleventyConfig.addCollection('peopleByArticleCountPages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const people = groupPeopleByArticle(all, eleventyConfig);
+    const pages = [];
+    const totalPages = Math.ceil(people.length / PAGE_SIZE);
+
+    for (let i = 0; i < totalPages; i++) {
+      pages.push({
+        pageNumber: i,
+        people: people.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+        previousHref: i > 0 ? (i === 1 ? '/people/' : `/people/page/${i}/`) : null,
+        nextHref: i < totalPages - 1 ? `/people/page/${i + 2}/` : null,
+      });
+    }
+
+    return pages;
+  });
+
+  // Articles grouped by person name, split into pages
+  eleventyConfig.addCollection('articlesByPersonPages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const people = groupPeopleByArticle(all, eleventyConfig);
+
+    const pages = [];
+    for (const person of people) {
+      const totalPages = Math.ceil(person.articles.length / PAGE_SIZE);
+      const slug = eleventyConfig.getFilter('slug')(person.name);
+      const base = `/people/${slug}/`;
+
+      for (let i = 0; i < totalPages; i++) {
+        pages.push({
+          person: person.name,
+          slug,
+          count: person.count,
+          pageNumber: i,
+          articles: person.articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
+          nextHref: i < totalPages - 1 ? `${base}page/${i + 2}/` : null,
+        });
+      }
+    }
+
+    return pages;
   });
 
   // Articles grouped by site, split into pages (30 per page)

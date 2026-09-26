@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: People
+permalink: /people/
+---
+<section class="index-section">
+  <h1 class="page-title">People</h1>
+
+  <p class="people-intro">People mentioned in the most articles (minimum 10 articles).</p>
+
+  <ul class="people-list">
+    {% for person in collections.peopleByArticleCount %}
+    <li class="person-card">
+      <a href="/people/{{ person.name | slug }}/">{{ person.name }}</a>
+      <span class="person-meta">{{ person.count }} articles</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

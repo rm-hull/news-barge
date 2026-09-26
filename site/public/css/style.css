@@ -180,6 +180,11 @@ a:hover {
   color: var(--text);
 }
 
+.people-intro {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
 .article-list {
   list-style: none;
   display: flex;
@@ -464,6 +469,7 @@ a:hover {
   }
 }
 
+.people-list,
 .site-list,
 .category-list {
   list-style: none;
@@ -471,6 +477,7 @@ a:hover {
   flex-direction: column;
   gap: 0;
 }
+.person-card,
 .site-card,
 .category-card {
   padding: 0.9rem 0;
@@ -479,17 +486,20 @@ a:hover {
   align-items: center;
   gap: 0.75rem;
 }
+.person-card a,
 .site-card a,
 .category-card a {
   font-weight: 500;
   color: var(--text);
   margin-right: auto;
 }
+.person-card a:hover,
 .site-card a:hover,
 .category-card a:hover {
   color: var(--accent);
   text-decoration: none;
 }
+.person-meta,
 .site-meta,
 .category-meta {
   font-size: 0.75rem;
