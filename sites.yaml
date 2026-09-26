@@ -196,6 +196,14 @@ sites:
     exclude_query_params: true
     limit: 50
 
+  - name: University of York News
+    slug: york-university
+    categories: [UK, News & Politics]
+    listing_url: https://www.york.ac.uk/news-and-events/news/2026/
+    listing_link_pattern: "/news-and-events/news/[0-9]{4}/[a-z]+/[a-z0-9-]+"
+    resolve_relative_to_root: true
+    limit: 50
+
   - name: Der Spiegel International
     slug: spiegel-international
     feed: https://www.spiegel.de/international/index.rss
