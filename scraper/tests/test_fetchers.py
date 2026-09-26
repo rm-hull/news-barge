@@ -269,6 +269,35 @@ class TestFetchHtmlPlaywright:
         assert call_kwargs[1]["wait_until"] == "domcontentloaded"
 
     @pytest.mark.asyncio
+    async def test_wait_until_networkidle(self) -> None:
+        """Should pass wait_until='networkidle' through to page.goto."""
+        mock_page = AsyncMock()
+        mock_page.content = AsyncMock(return_value="<html></html>")
+        mock_page.route = AsyncMock()
+        mock_page.goto = AsyncMock()
+        mock_page.close = AsyncMock()
+
+        mock_context = AsyncMock()
+        mock_context.new_page = AsyncMock(return_value=mock_page)
+        mock_context.close = AsyncMock()
+
+        mock_browser = AsyncMock()
+        mock_browser.new_context = AsyncMock(return_value=mock_context)
+
+        semaphore = asyncio.Semaphore(1)
+
+        await fetch_html_playwright(
+            "https://example.com/page",
+            mock_browser,
+            semaphore,
+            wait_until="networkidle",
+        )
+
+        mock_page.goto.assert_called_once()
+        call_kwargs = mock_page.goto.call_args
+        assert call_kwargs[1]["wait_until"] == "networkidle"
+
+    @pytest.mark.asyncio
     async def test_closes_page_and_context_on_success(self) -> None:
         """Should close page and context after successful fetch."""
         mock_page = AsyncMock()

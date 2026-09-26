@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any, cast
+from typing import Any, Literal, cast
 
 import yaml
 
@@ -41,10 +41,10 @@ class SiteConfig:
     slug: str
 
     # ── Source configuration ──────────────────────────────────────────────
-    # A site may provide one or more of: a feed URL, a listing page URL,
-    # or a static list of article URLs.
+    # A site may provide one or more of: a feed URL, a list of listing
+    # page URLs, or a static list of article URLs.
     feed: str | None = None
-    listing_url: str | None = None
+    listing_urls: list[str] = field(default_factory=list)
     urls: list[str] = field(default_factory=list)
 
     # ── Limits ────────────────────────────────────────────────────────────
@@ -59,6 +59,10 @@ class SiteConfig:
     force_playwright: bool = False
     trust_insecure_certs: bool = False
     exclude_query_params: bool = False
+    playwright_wait_until: (
+        Literal["commit", "domcontentloaded", "load", "networkidle"] | None
+    ) = None  # "domcontentloaded" (default),
+    # "load", "networkidle", etc.
 
     # ── Listing / article processing ───────────────────────────────────────
     listing_link_pattern: str | None = None
@@ -85,15 +89,35 @@ class SiteConfig:
     def from_dict(cls, data: dict[str, Any]) -> SiteConfig:
         """Build a :class:`SiteConfig` from a raw mapping (e.g. parsed YAML).
 
-        Any ``{yyyy}`` placeholders in the ``feed``, ``listing_url`` and
+        Any ``{yyyy}`` placeholders in the ``feed``, ``listing_urls`` and
         ``urls`` fields are expanded to the current year at load time.
+
+        For backward compatibility, ``listing_urls`` also accepts the legacy
+        ``listing_url`` key (a single string) — it is coerced to a
+        one-element list.
         """
+        # Support both `listing_urls` (new, array) and `listing_url` (legacy, string)
+        listing_urls_raw = data.get("listing_urls")
+        if listing_urls_raw is None:
+            legacy_listing_url = data.get("listing_url")
+            listing_urls_raw = [legacy_listing_url] if legacy_listing_url else []
+        elif isinstance(listing_urls_raw, str):
+            listing_urls_raw = [listing_urls_raw]
+
         return cls(
             name=data["name"],
             slug=data["slug"],
             feed=expand_placeholders(data.get("feed")),
-            listing_url=expand_placeholders(data.get("listing_url")),
-            urls=[expand_placeholders(u) for u in (data.get("urls") or [])],
+            listing_urls=[
+                u
+                for u in (expand_placeholders(u) for u in listing_urls_raw)
+                if u is not None
+            ],
+            urls=[
+                u
+                for u in (expand_placeholders(u) for u in (data.get("urls") or []))
+                if u is not None
+            ],
             categories=data.get("categories") or [],
             limit=data.get("limit"),
             feed_limit=data.get("feed_limit"),
@@ -101,6 +125,7 @@ class SiteConfig:
             force_playwright=data.get("force_playwright", False),
             trust_insecure_certs=data.get("trust_insecure_certs", False),
             exclude_query_params=data.get("exclude_query_params", False),
+            playwright_wait_until=data.get("playwright_wait_until"),
             exclusions=data.get("exclusions") or [],
             listing_link_pattern=data.get("listing_link_pattern"),
             listing_class=data.get("listing_class"),

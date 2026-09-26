@@ -74,7 +74,7 @@ In your repo → **Settings → Pages**:
 
 ### 3. Add your sites
 
-Edit `sites.yaml`. Each entry can have a `feed` (RSS/Atom URL) or a `listing_url` (HTML page to scrape):
+Edit `sites.yaml`. Each entry can have a `feed` (RSS/Atom URL) or `listing_urls` (one or more HTML pages to scrape):
 
 ```yaml
 sites:
@@ -85,10 +85,30 @@ sites:
 
   - name: Some HTML-only site
     slug: example
-    listing_url: https://example.com/news
+    listing_urls:
+      - https://example.com/news
     listing_class: article-link
     limit: 10
     force_playwright: true   # use a real browser for JS-heavy sites
+```
+
+#### Adding a custom extraction rule for noisy sites
+
+Some sites inject modals, paywalled overlays, or author bios into the article
+HTML that trafilatura can mistake for body content. Add an `exclusions` list
+to the site's entry in `sites.yaml` — each entry is either a bare
+`attr="value"` matcher or a full XPath expression. Matched elements are
+detached from the HTML **before** trafilatura runs:
+
+```yaml
+sites:
+  - name: Some News Site
+    slug: example
+    feed: https://example.com/rss
+    exclusions:
+      - role="dialog"                        # bare attr form
+      - //div[contains(@class, "paywall")]   # full XPath
+      - //p[contains(., "Follow on Google")] # text-based XPath
 ```
 
 ### 4. Commit and push
@@ -133,25 +153,6 @@ uv run pytest tests/                     # run tests with coverage
 
 The CI workflow (`.github/workflows/build.yml`) runs all checks on every
 push and pull request affecting files under `scraper/`.
-
-### Adding a custom extraction rule for noisy sites
-
-Some sites inject modals, paywalled overlays, or author bios into the article
-HTML that trafilatura can mistake for body content. Add an `exclusions` list
-to the site's entry in `sites.yaml` — each entry is either a bare
-`attr="value"` matcher or a full XPath expression. Matched elements are
-detached from the HTML **before** trafilatura runs:
-
-```yaml
-sites:
-  - name: Some News Site
-    slug: example
-    feed: https://example.com/rss
-    exclusions:
-      - role="dialog"                        # bare attr form
-      - //div[contains(@class, "paywall")]   # full XPath
-      - //p[contains(., "Follow on Google")] # text-based XPath
-```
 
 ### Search
 
