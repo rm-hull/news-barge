@@ -2515,7 +2515,7 @@ requires-dist = [
     { name = "markdownify", specifier = ">=1.2.0" },
     { name = "playwright", specifier = ">=1.63.0" },
     { name = "pyyaml", specifier = ">=6.0.3" },
-    { name = "taxotag", extras = ["litert"], specifier = ">=0.1.0" },
+    { name = "taxotag", extras = ["litert"], specifier = ">=0.1.2" },
     { name = "tqdm", specifier = ">=4.70.1" },
     { name = "trafilatura", specifier = ">=2.2.0" },
 ]
