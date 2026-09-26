@@ -1,0 +1,77 @@
+---
+title: Tories invite Phillipson to Piddington in violence against women ‘weaponisation’
+  row
+source_url: https://www.independent.co.uk/news/uk/politics/bridget-phillipson-vawg-piddington-joy-morrissey-b3056826.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-26T11:21:12Z'
+published: '2026-09-26T00:00:00Z'
+description: Women and equalities secretary Bridget Phillipson has rejected the invitation
+  from her Tory shadow Joy Morrissey accusing the opposition of ‘political point scoring’
+image: https://static.independent.co.uk/2026/09/25/13/22/GettyImages-2174388747-6b9fd782.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+people:
+- Bridget Phillipson
+- Joy Morrissey
+- Kemi Badenoch
+- Morrisey
+- Ms Morrissey
+- Ms Phillipson
+- Nigel Farage
+- Piddington
+locations:
+- Liverpool
+- Oxfordshire
+- Piddington
+- UK
+organisations:
+- Labour Party
+- Reform
+- The Independent
+- Tories
+- Tory
+- VAWG
+---
+
+The Tories have offered to “work together” with Labour women and equalities secretary Bridget Phillipson after being accused of “weaponsing” violence against women and girls (VAWG) to “score political points” over immigration.
+
+But the offer has been rejected by Ms Phillipson, who is also chair of the Labour Party, after it again focussed on immigration issues rather than the wider problem.
+
+Shadow equalities secretary Joy Morrissey reached out to Ms Phillipson to come to the Oxfordshire village of Piddington where women have written to the minister expressing their concerns over safety with the imminent arrival of 1,256 male illegal migrants at a nearby camp.
+
+The village recently hit the headlines for voting for independence from the UK over the outrage about the camp in a symbolic poll.
+
+![Bridget Phillipson has accused the right of weaponising violence against women](https://static.independent.co.uk/2026/09/25/13/22/GettyImages-2174388747-6b9fd782.jpeg)
+
+Ms Morrissey, who has already visited Piddington with Tory leader Kemi Badenoch, also asked if Ms Phillipson would meet grooming gang victims.
+
+The national scandal saw men of Asian heritage sexually praying on underage white girls with the authorities often in Labour run council areas ignoring their plight because of a fear of being described as racist.
+
+The offer followed an exclusive interview with Ms Phillipson to *The Independent* ahead of Labour’s conference in Liverpool where she accused the Tories and Reform of “weaponising” violence against women and girls but not taking the wider problem seriously.
+
+Ms Phillipson, who ran a refuge for women who were victims of domestic abuse before entering politics, told The Independent: “The way that the Tories and Reform have approached this issue is all too often about political point-scoring. They’re not serious about taking the action that’s needed to protect women.
+
+“When was the last time Kemi Badenoch visited a rape crisis centre or women’s refuge? Has Nigel Farage ever shown any interest in visiting a women’s refuge, or is he only interested in talking about violence against women when it allows them to make a political point?”
+
+![Tory shadow women and equalities secretary Joy Morrissey](https://static.independent.co.uk/2021/12/16/10/Joy%20Morrissey.jpeg)
+
+She described violence against women and girls (VAWG) as a “national emergency” pointing out that “ we live in a country where a woman is killed by her partner or former partner every five days.”
+
+But Ms Morrisey responded: “Bridget Phillipson has not met the women of Piddington despite their letters and my request. She voted against a proper national inquiry into the grooming gangs in 2025.
+
+“But I’m willing to move on. So here’s an invitation to Bridget.
+
+“If you genuinely care about women feeling unsafe, I’ll work with you. Come with me to Piddington and meet the women. Let’s also go meet rape gang victims across the country together and agree a response.
+
+“This is a national crisis of violence against women and girls. It deserves a serious response from politicians to work together. I’m ready if Bridget is.”
+
+The invitation though was rejected by Ms Phillipson with Labour suggesting it highlighted that the Tories are not serious about the issue.
+
+A Labour source said: "A woman is killed by her partner or ex every five days in this country. Had Kemi Badenoch done anything for women during her time in government she would know abuse of women is sadly a problem in every community.
+
+"Bridget ran a refuge for women. She understands this problem and will tackle it, for every woman, at source - not by turning a blind eye.
+
+"If Kemi Badenoch cared for women's safety she would spend less time parroting Reform lines and more on working to improve support for women and girls.”
