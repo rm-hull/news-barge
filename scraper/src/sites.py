@@ -3,12 +3,29 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, cast
 
 import yaml
 
 from .constants import SITES_FILE
+
+# ─── Placeholder expansion ──────────────────────────────────────────────────
+
+
+def expand_placeholders(value: str | None) -> str | None:
+    """Replace template placeholders in *value* with runtime values.
+
+    Currently supports ``{yyyy}`` - the current four-digit year (e.g.
+    ``2024``).  This lets a ``sites.yaml`` entry stay current without
+    manual edits each year - for instance, a university news archive whose
+    listing URL contains the current year.
+    """
+    if value is None:
+        return None
+    current_year = datetime.now(UTC).strftime("%Y")
+    return value.replace("{yyyy}", current_year)
 
 
 @dataclass
@@ -66,13 +83,17 @@ class SiteConfig:
 
     @classmethod
     def from_dict(cls, data: dict[str, Any]) -> SiteConfig:
-        """Build a :class:`SiteConfig` from a raw mapping (e.g. parsed YAML)."""
+        """Build a :class:`SiteConfig` from a raw mapping (e.g. parsed YAML).
+
+        Any ``{yyyy}`` placeholders in the ``feed``, ``listing_url`` and
+        ``urls`` fields are expanded to the current year at load time.
+        """
         return cls(
             name=data["name"],
             slug=data["slug"],
-            feed=data.get("feed"),
-            listing_url=data.get("listing_url"),
-            urls=data.get("urls") or [],
+            feed=expand_placeholders(data.get("feed")),
+            listing_url=expand_placeholders(data.get("listing_url")),
+            urls=[expand_placeholders(u) for u in (data.get("urls") or [])],
             categories=data.get("categories") or [],
             limit=data.get("limit"),
             feed_limit=data.get("feed_limit"),

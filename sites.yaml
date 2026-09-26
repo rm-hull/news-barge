@@ -21,6 +21,12 @@
 #                            - //div[contains(@class, "modal")]   # full XPath
 #                            - //script | //style
 #   notes:      Freeform reminder
+#
+# {yyyy} placeholder:
+#   The tokens {yyyy} in any feed / listing_url / urls value are replaced
+#   with the current four-digit year at load time.  Use this for sites
+#   whose archive URLs change annually, e.g.:
+#     listing_url: https://example.com/news/{yyyy}/
 
 sites:
   - name: The Guardian
@@ -199,7 +205,7 @@ sites:
   - name: University of York News
     slug: york-university
     categories: [UK, News & Politics]
-    listing_url: https://www.york.ac.uk/news-and-events/news/2026/
+    listing_url: https://www.york.ac.uk/news-and-events/news/{yyyy}/
     listing_link_pattern: "/news-and-events/news/[0-9]{4}/[a-z]+/[a-z0-9-]+"
     resolve_relative_to_root: true
     limit: 50
