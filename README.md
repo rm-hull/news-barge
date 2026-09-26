@@ -6,6 +6,12 @@ and serves them as a static site without the baggage of the modern web.
 
 Contributions are welcome! If there's a feed you'd like to see added, please [create a new issue](https://github.com/rm-hull/news-barge/issues/new) or use the [scrape-analyzer skill](.agents/skills/scrape-analyzer/SKILL.md) to submit a pull request.
 
+## Scrape statistics
+
+![stats](./docs/scrape_stats.png)
+
+*(updated daily at ~0700 hrs)*
+
 ## Repository layout
 
 ```
