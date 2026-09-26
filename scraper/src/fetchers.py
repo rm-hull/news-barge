@@ -65,6 +65,7 @@ async def fetch_html_playwright(
     browser: Browser,
     browser_semaphore: asyncio.Semaphore,
     logger: Any = None,
+    wait_until: str | None = None,
 ) -> FetchResult:
     """Full browser fetch for JS-heavy or anti-bot sites.
 
@@ -73,6 +74,7 @@ async def fetch_html_playwright(
         browser: Playwright Browser instance.
         browser_semaphore: Semaphore to limit concurrent browser instances.
         logger: Optional logger for error reporting.
+        wait_until: Playwright wait_until mode (default: "domcontentloaded").
 
     Returns:
         The HTML content as a string, or None on failure.
@@ -97,7 +99,7 @@ async def fetch_html_playwright(
                 "**/{analytics,doubleclick,googlesyndication,adservice,tracking}**",
                 abort_route,
             )
-            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            await page.goto(url, wait_until=wait_until or "domcontentloaded", timeout=30000)
             html = await page.content()
             return html
         except Exception as e:

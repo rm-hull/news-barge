@@ -59,6 +59,8 @@ class SiteConfig:
     force_playwright: bool = False
     trust_insecure_certs: bool = False
     exclude_query_params: bool = False
+    playwright_wait_until: str | None = None  # "domcontentloaded" (default),
+    # "load", "networkidle", etc.
 
     # ── Listing / article processing ───────────────────────────────────────
     listing_link_pattern: str | None = None
@@ -113,6 +115,7 @@ class SiteConfig:
             force_playwright=data.get("force_playwright", False),
             trust_insecure_certs=data.get("trust_insecure_certs", False),
             exclude_query_params=data.get("exclude_query_params", False),
+            playwright_wait_until=data.get("playwright_wait_until"),
             exclusions=data.get("exclusions") or [],
             listing_link_pattern=data.get("listing_link_pattern"),
             listing_class=data.get("listing_class"),

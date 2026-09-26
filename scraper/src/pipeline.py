@@ -77,7 +77,7 @@ async def process_article(
     async with fetch_semaphore:
         ssl = not site.trust_insecure_certs
         html = (
-            await fetch_html_playwright(url, browser, browser_semaphore, logger=logger)
+            await fetch_html_playwright(url, browser, browser_semaphore, logger=logger, wait_until=site.playwright_wait_until)
             if site.force_playwright
             else await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
         )
