@@ -174,7 +174,7 @@ async def test_listing_url_discovery(
     listing_sites_yaml: str,
     mock_playwright: AsyncMock,
 ) -> None:
-    """Scrape using listing_url instead of feed — exercises urls_from_listing."""
+    """Scrape using listing_urls instead of feed — exercises urls_from_listing."""
     tmp_sites_file.write_text(listing_sites_yaml)
 
     args = argparse.Namespace(

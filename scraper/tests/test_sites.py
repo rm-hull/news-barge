@@ -51,17 +51,29 @@ def test_expand_placeholders_in_url_with_query() -> None:
 # ─── SiteConfig.from_dict tests ────────────────────────────────────────────
 
 
-def test_from_dict_expands_yyyy_in_listing_url() -> None:
-    """from_dict should expand {yyyy} in listing_url."""
+def test_from_dict_expands_yyyy_in_listing_urls() -> None:
+    """from_dict should expand {yyyy} in each listing_urls entry."""
     current_year = datetime.now(UTC).strftime("%Y")
     site = SiteConfig.from_dict(
         {
             "name": "Test Site",
             "slug": "test",
-            "listing_url": "https://example.com/news/{yyyy}/",
+            "listing_urls": ["https://example.com/news/{yyyy}/"],
         }
     )
-    assert site.listing_url == f"https://example.com/news/{current_year}/"
+    assert site.listing_urls == [f"https://example.com/news/{current_year}/"]
+
+
+def test_from_dict_listing_url_backward_compat() -> None:
+    """from_dict should accept legacy ``listing_url`` (string) as a single-element list."""
+    site = SiteConfig.from_dict(
+        {
+            "name": "Test Site",
+            "slug": "test",
+            "listing_url": "https://example.com/news/latest",
+        }
+    )
+    assert site.listing_urls == ["https://example.com/news/latest"]
 
 
 def test_from_dict_expands_yyyy_in_feed() -> None:
@@ -103,21 +115,21 @@ def test_from_dict_no_placeholder_unchanged() -> None:
             "name": "Test Site",
             "slug": "test",
             "feed": "https://example.com/rss/latest",
-            "listing_url": "https://example.com/news/latest",
+            "listing_urls": ["https://example.com/news/latest"],
             "urls": ["https://example.com/article-1"],
         }
     )
     assert site.feed == "https://example.com/rss/latest"
-    assert site.listing_url == "https://example.com/news/latest"
+    assert site.listing_urls == ["https://example.com/news/latest"]
     assert site.urls == ["https://example.com/article-1"]
 
 
 def test_from_dict_none_urls_when_missing() -> None:
-    """from_dict should default urls to an empty list when absent."""
+    """from_dict should default feed/listing_urls/urls when absent."""
     site = SiteConfig.from_dict({"name": "Test Site", "slug": "test"})
     assert site.urls == []
     assert site.feed is None
-    assert site.listing_url is None
+    assert site.listing_urls == []
 
 
 # ─── Real sites.yaml integration test ──────────────────────────────────────
@@ -126,7 +138,7 @@ def test_from_dict_none_urls_when_missing() -> None:
 def test_sites_yaml_york_uses_yyyy_placeholder() -> None:
     """The University of York entry in sites.yaml should use {yyyy}.
 
-    After loading, the listing_url must contain the current year, not the
+    After loading, the listing_urls must contain the current year, not the
     literal ``{yyyy}`` token.
     """
     sites_yaml = Path(__file__).resolve().parents[2] / "sites.yaml"
@@ -135,13 +147,13 @@ def test_sites_yaml_york_uses_yyyy_placeholder() -> None:
 
     york_entry = next(s for s in data["sites"] if s["slug"] == "york-university")
     # The raw YAML should contain the placeholder token
-    assert "{yyyy}" in york_entry["listing_url"]
+    assert "{yyyy}" in york_entry["listing_urls"][0]
 
     # After from_dict expansion it should be replaced with the current year
     config = SiteConfig.from_dict(york_entry)
     current_year = datetime.now(UTC).strftime("%Y")
-    assert f"/{current_year}/" in config.listing_url
-    assert "{yyyy}" not in config.listing_url
+    assert f"/{current_year}/" in config.listing_urls[0]
+    assert "{yyyy}" not in config.listing_urls[0]
 
 
 def test_sites_yaml_all_urls_expand_yyyy() -> None:
@@ -156,10 +168,11 @@ def test_sites_yaml_all_urls_expand_yyyy() -> None:
     for config in configs:
         if config.feed and "{yyyy}" in config.feed:
             pytest.fail(f"feed not expanded in {config.slug}: {config.feed}")
-        if config.listing_url and "{yyyy}" in config.listing_url:
-            pytest.fail(
-                f"listing_url not expanded in {config.slug}: {config.listing_url}"
-            )
+        for listing_url in config.listing_urls:
+            if "{yyyy}" in listing_url:
+                pytest.fail(
+                    f"listing_url not expanded in {config.slug}: {listing_url}"
+                )
         for url in config.urls:
             if "{yyyy}" in url:
                 pytest.fail(f"url not expanded in {config.slug}: {url}")

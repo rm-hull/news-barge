@@ -196,13 +196,14 @@ sites:
 
 @pytest.fixture
 def listing_sites_yaml(test_server: str) -> str:
-    """Generate a sites.yaml using listing_url discovery."""
+    """Generate a sites.yaml using listing_urls discovery."""
     return f"""
 sites:
   - name: Test Listing Site
     slug: test-site
     categories: [News & Politics]
-    listing_url: {test_server}/listing
+    listing_urls:
+      - {test_server}/listing
     listing_link_pattern: "articles/test-article"
     limit: 5
 """

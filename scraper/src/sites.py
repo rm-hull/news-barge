@@ -41,10 +41,10 @@ class SiteConfig:
     slug: str
 
     # ── Source configuration ──────────────────────────────────────────────
-    # A site may provide one or more of: a feed URL, a listing page URL,
-    # or a static list of article URLs.
+    # A site may provide one or more of: a feed URL, a list of listing
+    # page URLs, or a static list of article URLs.
     feed: str | None = None
-    listing_url: str | None = None
+    listing_urls: list[str] = field(default_factory=list)
     urls: list[str] = field(default_factory=list)
 
     # ── Limits ────────────────────────────────────────────────────────────
@@ -85,14 +85,26 @@ class SiteConfig:
     def from_dict(cls, data: dict[str, Any]) -> SiteConfig:
         """Build a :class:`SiteConfig` from a raw mapping (e.g. parsed YAML).
 
-        Any ``{yyyy}`` placeholders in the ``feed``, ``listing_url`` and
+        Any ``{yyyy}`` placeholders in the ``feed``, ``listing_urls`` and
         ``urls`` fields are expanded to the current year at load time.
+
+        For backward compatibility, ``listing_urls`` also accepts the legacy
+        ``listing_url`` key (a single string) — it is coerced to a
+        one-element list.
         """
+        # Support both `listing_urls` (new, array) and `listing_url` (legacy, string)
+        listing_urls_raw = data.get("listing_urls")
+        if listing_urls_raw is None:
+            legacy_listing_url = data.get("listing_url")
+            listing_urls_raw = [legacy_listing_url] if legacy_listing_url else []
+        elif isinstance(listing_urls_raw, str):
+            listing_urls_raw = [listing_urls_raw]
+
         return cls(
             name=data["name"],
             slug=data["slug"],
             feed=expand_placeholders(data.get("feed")),
-            listing_url=expand_placeholders(data.get("listing_url")),
+            listing_urls=[expand_placeholders(u) for u in listing_urls_raw],
             urls=[expand_placeholders(u) for u in (data.get("urls") or [])],
             categories=data.get("categories") or [],
             limit=data.get("limit"),

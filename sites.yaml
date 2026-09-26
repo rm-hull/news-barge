@@ -7,6 +7,8 @@
 #.  categories: List of categories to assign to articles from this site
 #   urls:       List of specific article URLs to scrape
 #   feed:       RSS/Atom feed URL — scraper will pull latest N items
+#   listing_urls: List of listing page URLs — scraper will discover article
+#              links from each (supports {yyyy} placeholder)
 #   limit:      Max articles to pull from feed or listing (default: 10)
 #   force_playwright: Set true if the site needs a real browser (JS-heavy)
 #.  exclude_query_params: Set true to omit query params from the slug name
@@ -23,10 +25,11 @@
 #   notes:      Freeform reminder
 #
 # {yyyy} placeholder:
-#   The tokens {yyyy} in any feed / listing_url / urls value are replaced
+#   The tokens {yyyy} in any feed / listing_urls / urls value are replaced
 #   with the current four-digit year at load time.  Use this for sites
 #   whose archive URLs change annually, e.g.:
-#     listing_url: https://example.com/news/{yyyy}/
+#     listing_urls:
+#       - https://example.com/news/{yyyy}/
 
 sites:
   - name: The Guardian
@@ -45,14 +48,16 @@ sites:
   - name: Harrogate Advertiser
     slug: harrogate-advertiser
     categories: [Local, Harrogate]
-    listing_url: https://www.harrogateadvertiser.co.uk/news/latest
+    listing_urls:
+      - https://www.harrogateadvertiser.co.uk/news/latest
     listing_link_pattern: "/news/"
     limit: 100
 
   - name: Harrogate News
     slug: harrogate-news
     categories: [Local, Harrogate]
-    listing_url: https://www.harrogate-news.co.uk/
+    listing_urls:
+      - https://www.harrogate-news.co.uk/
     listing_link_pattern: /\d{4}/\d{2}/\d{2}/
     limit: 50
 
@@ -78,7 +83,8 @@ sites:
   - name: York Mix
     slug: york-mix
     categories: [Local, York]
-    listing_url: https://www.yorkmix.com/archive/news
+    listing_urls:
+      - https://www.yorkmix.com/archive/news
     listing_class: "category-news"
     resolve_relative_to_root: true
     limit: 100
@@ -86,7 +92,8 @@ sites:
   - name: York Press
     slug: york-press
     categories: [Local, York]
-    listing_url: https://www.yorkpress.co.uk/news/
+    listing_urls:
+      - https://www.yorkpress.co.uk/news/
     force_playwright: true
     listing_class: "omnicard"
     listing_link_pattern: "/news/"
@@ -96,7 +103,8 @@ sites:
   - name: Tom's Hardware
     slug: toms-hardware
     categories: [Technology & Software, Hardware]
-    listing_url: https://www.tomshardware.com/uk/news
+    listing_urls:
+      - https://www.tomshardware.com/uk/news
     listing_class: "listingResult"
     limit: 100
 
@@ -126,7 +134,8 @@ sites:
   - name: Euronews
     slug: euronews
     categories: [Europe, News & Politics]
-    listing_url: https://www.euronews.com/news
+    listing_urls:
+      - https://www.euronews.com/news
     listing_link_pattern: "\\d{4}/\\d{2}/\\d{2}"
     resolve_relative_to_root: true
     force_playwright: true
@@ -167,7 +176,8 @@ sites:
 
   - name: North Yorkshire Council
     slug: north-yorkshire-council
-    listing_url: https://www.northyorks.gov.uk/news
+    listing_urls:
+      - https://www.northyorks.gov.uk/news
     listing_link_pattern: "/news/[0-9]{4}/"
     resolve_relative_to_root: true
     limit: 50
@@ -175,7 +185,8 @@ sites:
 
   - name: Knaresborough Town Council
     slug: knaresborough-town-council
-    listing_url: "https://www.knaresboroughtowncouncil.gov.uk/News_and_Events_21581.aspx"
+    listing_urls:
+      - "https://www.knaresboroughtowncouncil.gov.uk/News_and_Events_21581.aspx"
     listing_class: "news"
     resolve_relative_to_root: true
     limit: 50
@@ -205,7 +216,8 @@ sites:
   - name: University of York News
     slug: york-university
     categories: [UK, News & Politics]
-    listing_url: https://www.york.ac.uk/news-and-events/news/{yyyy}/
+    listing_urls:
+      - https://www.york.ac.uk/news-and-events/news/{yyyy}/
     listing_link_pattern: "/news-and-events/news/[0-9]{4}/[a-z]+/[a-z0-9-]+"
     resolve_relative_to_root: true
     limit: 50
@@ -224,7 +236,8 @@ sites:
 
   - name: The Berliner
     slug: the-berliner
-    listing_url: https://www.the-berliner.com/english-news-berlin/
+    listing_urls:
+      - https://www.the-berliner.com/english-news-berlin/
     force_playwright: true
     listing_link_pattern: "/english-news-berlin/"
     remove_suffix: "- The Berliner"

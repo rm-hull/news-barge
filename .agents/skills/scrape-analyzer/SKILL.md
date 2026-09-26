@@ -19,7 +19,7 @@ Determine if an RSS feed is available; if not, find the most precise CSS class o
 - Search for an RSS feed (check for `<link rel="alternate" type="application/rss+xml">` or common paths like `/rss`, `/feed`).
 - If an RSS feed is found, fetch the first few items to verify it contains actual news articles and not just category lists or empty entries.
 - If a valid RSS feed is verified, skip to **Step 4 — Exclusion Detection** (article-page exclusions still apply to feed-sourced articles).
-- If no RSS feed is found, fetch the `listing_url` using `curl` or `playwright` (if JS-heavy).
+- If no RSS feed is found, fetch the `listing_urls` using `curl` or `playwright` (if JS-heavy).
 - Search for `<a>` tags to identify the general structure of article links.
 - Identify the container that holds the list of articles (e.g., `div.listingResult`, `article.news-item`).
 ### 2. Candidate Identification
@@ -56,7 +56,8 @@ Provide the finalized configuration in the following format. Before suggesting, 
 ```yaml
   - name: [Site Name]
     slug: [site-slug]
-    listing_url: [HTML_URL] # Only for HTML scraping
+    listing_urls:
+      - [HTML_URL] # Only for HTML scraping
     feed: [RSS_URL] # Only for RSS feeds
     # Use listing_class/listing_link_pattern ONLY if feed is not used
     listing_class: "[class_name]" # Optional

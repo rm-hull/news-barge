@@ -232,14 +232,14 @@ async def main_async(args: argparse.Namespace) -> None:
                     )
                     urls = feed_urls + urls
 
-                if site.listing_url:
+                for listing_url in site.listing_urls:
                     use_playwright = site.force_playwright
                     limit = site.listing_limit_or_default
                     pattern = site.listing_link_pattern
                     listing_class = site.listing_class
                     resolve_relative_to_root = site.resolve_relative_to_root
-                    listing_urls = await urls_from_listing(
-                        site.listing_url,
+                    discovered = await urls_from_listing(
+                        listing_url,
                         pattern,
                         limit,
                         use_playwright,
@@ -252,12 +252,12 @@ async def main_async(args: argparse.Namespace) -> None:
                         site=site,
                     )
                     print(
-                        f" | Listing {site.listing_url} -> "
-                        f"found {len(listing_urls)} URLs",
+                        f" | Listing {listing_url} -> "
+                        f"found {len(discovered)} URLs",
                         end="",
                         flush=True,
                     )
-                    urls = listing_urls + urls
+                    urls = discovered + urls
 
                 print()  # Newline after all sources for this site are printed
 
@@ -280,8 +280,8 @@ async def main_async(args: argparse.Namespace) -> None:
                 logger.log(f"Site: {site.name} ({site.slug})")
                 if site.feed:
                     logger.log(f"  Fetching feed: {site.feed}")
-                if site.listing_url:
-                    logger.log(f"  Fetching listing: {site.listing_url}")
+                for listing_url in site.listing_urls:
+                    logger.log(f"  Fetching listing: {listing_url}")
                 logger.log(f"  Total URLs discovered: {len(urls)}")
 
                 for url in urls:
