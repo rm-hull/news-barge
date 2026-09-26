@@ -1,0 +1,61 @@
+---
+title: Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday
+source_url: https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-26T15:46:55Z'
+published: '2026-09-26T00:00:00Z'
+description: 173 people hospitalized and four deaths in state so far, with less than
+  1% of those infected having been vaccinated
+image: https://i.guim.co.uk/img/media/1df1988b978d96e50f066c6ab5b06334c3260412/0_0_2828_2263/master/2828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1e9fc70ad1e6523ded39c96d4d3327e
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
+people:
+- Robert F Kennedy Jr
+locations:
+- Lancaster
+- Pennsylvania
+- US
+organisations:
+- CDC
+- DOH
+- Trump
+- US Centers for Disease Control and Prevention
+---
+
+The Pennsylvania department of health (DOH) announced on Friday that 55 new measles cases had been reported in the state since Wednesday, with officials continuing efforts to contain an outbreak of the disease that has spread across dozens of counties.
+
+In a news release, the DOH said that 890 measles cases had been confirmed across 39 counties in the state so far for the year. The outbreak had resulted in 173 hospitalizations in the state and four measles-associated deaths, the statement added.
+
+State health officials said fewer than 1% of reported cases have occurred among individuals vaccinated against measles. And according to the state data, 31% of the cases are among people younger than 18.
+
+In addition to announcing that 55 new cases had been reported during a two-day period beginning on Wednesday, the DOH said it was “proactively working with residents, community organizations and healthcare providers to combat the measles outbreak … through access to fact-based information and access to the measles, mumps and rubella (MMR) vaccine”.
+
+The update about the measles outbreak on Friday from Pennsylvania came after the Trump administration’s health secretary, Robert F Kennedy Jr – a longtime vaccine skeptic – has sought to cast doubt on deaths related to the disease in the state, writing on social media that they “may even have been altogether fabricated” for political reasons.
+
+In August, the new director of the US Centers for Disease Control and Prevention (CDC) ordered agency staff not to include two measles-associated deaths reported by Pennsylvania in its national tally, as the agency said it was reviewing “additional information” regarding the deaths.
+
+Pennsylvania’s Lancaster county has recorded the highest number of cases in the state for the year so far, with 359 positive cases, according to state data.
+
+State health officials said that since “the outbreak began in late April” they had “administered more than 5,300 MMR vaccinations at 165 pop-up vaccination clinics in the affected communities”.
+
+Dozens of additional vaccine clinics are also scheduled in the coming weeks and months, based on community interest and need, they said.
+
+In total, state health center staff have administered more than 7,900 MMR vaccine doses to residents across Pennsylvania this year, according to the statement. It added that healthcare providers across the state have also seen a “surge of interest from residents seeking MMR vaccinations”.
+
+The DOH said on Friday that the “best protection against measles remains getting fully vaccinated” and states that the MMR vaccine “boosts a person’s immune system and provides 97% lifetime protection.”
+
+Measles is a highly contagious virus that can cause serious health complications. The DOH said that death from measles, though rare, “occurs in one to three patients per 1,000 cases”.
+
+It had been declared eliminated from the US in 2000, but the virus has more recently spread in under-vaccinated communities.
+
+According to the CDC, measles can spread to others through coughing and sneezing – and it can live for up to two hours in an airspace after an infected person leaves an area.
+
+Symptoms usually begin seven to 14 days after infection, the CDC says. They can include high fever, cough, runny nose and red, watery eyes, followed by a rash that spreads down the body.
+
+The CDC advises that two doses of the MMR vaccine “provide the best protection against measles”.
+
+According to data from the CDC, as of 24 September more than 3,659 confirmed measles cases have been reported in the US so far for the year. For all of 2025, a total of 2,289 confirmed measles cases were reported nationwide.
