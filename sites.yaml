@@ -261,3 +261,23 @@ sites:
       # sometimes captures as body text after the article prose.
       - //section[contains(@class, 'box-article-more-info')]
 
+  - name: Leeds Live
+    slug: leeds-live
+    categories: [Local, Leeds, News & Politics]
+    feed: https://www.leeds-live.co.uk/news/?service=rss
+    limit: 50
+    force_playwright: true
+    playwright_wait_until: networkidle
+    exclusions:
+      # Reach PLC injects newsletter / membership-promotion paragraphs at the
+      # end of article bodies. These <p> elements share the same class as
+      # real article paragraphs (Paragraph_paragraph-text__PVKlh), so they
+      # must be identified by their text content rather than by class.
+      # Variant 1: "Sign up for YorkshireLive Premium..." (product promotion)
+      - //p[contains(., 'YorkshireLive Premium')]
+      # Variant 2: "Get all the latest...signing up to our newsletter/Best in Leeds here."
+      - //p[contains(., 'signing up to our')]
+      # Variant 3: "If you don't like our community, you can leave any time..."
+      - //p[contains(., 'community, you can')]
+      # Variant 4 (safety): "special offers, promotions, and adverts..."
+      - //p[contains(., 'special offers, promotions')]
