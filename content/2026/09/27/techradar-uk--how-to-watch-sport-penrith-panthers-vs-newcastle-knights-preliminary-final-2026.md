@@ -1,0 +1,216 @@
+---
+title: 'How to watch Panthers vs Knights for FREE: Live streams for NRL Preliminary
+  Final 2026'
+source_url: https://www.techradar.com/how-to-watch/sport/penrith-panthers-vs-newcastle-knights-preliminary-final-2026-free
+source_site: TechRadar UK
+source_slug: techradar-uk
+scraped_at: '2026-09-27T05:18:25Z'
+published: '2026-09-27T00:00:00Z'
+description: Which of the two NSW teams are heading to the Big Dance?
+image: https://cdn.mos.cms.futurecdn.net/iS42dGudi4RsgnMAjspfLJ-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+people:
+- Billy Phillips
+- Billy Scott
+- Blaize Talagi
+- Bradman Best
+- Brian To'o
+- Casey McLean
+- Cody Hopwood
+- Dane Gagai
+- Dominic Young
+- Dylan Edwards
+- Dylan Lucas
+- Fletcher Hunt
+- Fletcher Sharpe
+- Francis Manuleleua
+- Greg Marzhew
+- Harrison Graham
+- Isaah Yeo
+- Isaiah Papali'i
+- Jack Cogger
+- Jack Cole
+- Jermaine McEwen
+- Justin Holbrook
+- Kalyn Ponga
+- Lachlan Crouch
+- Liam Henry
+- Liam Martin
+- Lindsay Smith
+- Luke Garner
+- Mat Croker
+- Mitch Kenny
+- Moses Leota
+- Nathan Cleary
+- Newy
+- Pasami Saulo
+- Phoenix Crossland
+- Sandon Smith
+- Scott Sorensen
+- Thomas Cant
+- Thomas Jenkins
+- Tyson Frizell
+locations:
+- Accor Stadium
+- Australia
+- Belarus
+- Canada
+- Cuba
+- Eden Park
+- Iran
+- New South Wales
+- New Zealand
+- North Korea
+- Pacific Islands
+- Penrith
+- Russia
+- Sydney
+- UK
+- US
+- USA
+- canada
+- uk
+organisations:
+- AESTWatch Panthers
+- Apple TV
+- Blue
+- FS2
+- Fox League
+- Fox One
+- Foxtel
+- Future Publishing
+- Knights NRL
+- Newcastle Knights
+- NordVPN
+- OTT
+- Penrith Panthers
+- Sky Sport
+- Sky Sport 2
+- Sky Sport NZ
+- Sky Sports
+- Sling TV
+- Sportsnet
+- TechRadar
+- Warriors
+---
+
+![Thomas Jenkins of the Penrith Panthers scores a try during the 2026 NRL season.](https://cdn.mos.cms.futurecdn.net/iS42dGudi4RsgnMAjspfLJ.jpg)
+
+* **Watch Panthers vs Knights NRL Preliminary Final FREE on 9Now(AUS)**
+* **Stream on Fox One(US) / Sky Sports(UK)**
+* **Unlock your stream with NordVPN (save up to 75%)**
+* **Kick-off: Sun, Sep 27, 2am ET / 7am BST / 4pm AESTWatch Panthers vs Knights** in the second NRL 2026 preliminary final as the two sides from New South Wales go head-to-head at Sydney's Accor Stadium for a place in next weekend's Grand Final at the same venue.
+
+For Penrith, the 2025 season is looking more and more like an inexplicable blip. Their shock defeat at this same stage last season followed four consecutive seasons before that as premiers, and now they've bounced back to top the ladder in 2026. Thomas Jenkins has been in sparkling form for the Mountain Men, crossing for 30 tries, while talismanic halfback Nathan Cleary has had a golden boot. Now they'll feel dead set to make the Big Dance once again.
+
+Newy stand in their way, unexpectedly playing in their first prelim final for over a decade; and you have to go back a full quarter of a century for their last Grand Final. Justin Holbrook's men are one game away from fairy-tale stuff, having 'won' the wooden spoon last time out. A thrilling 12-10 victory in the semi-finals against the Warriors in front of 48,000 at Eden Park showed that they can mix it with the big boys and come out on top. Has try-scoring hero Dominic Young got one more magical moment in him?
+
+**Here's how to watch Panthers vs Knights from anywhere in the world – and potentially for FREE.**
+
+## Can you watch Panthers vs Knights for free?
+
+**Yes**. Every game in the NRL finals series 2026 is being** shown on free-to-air Channel 9**and** 9Now** in Australia – including this Penrith Panthers vs Newcastle Knights showdown.
+
+NRL fans in the US can also watch this crucial matchup on **Fox One** thanks the platform's free 3-day trial.
+
+Traveling abroad right now? You can use a **VPN** to watch the NRL Finals Series 2026 for free as if you were right at home.
+
+## Use a VPN to watch Panthers vs Knights live streams
+
+A VPN is a handy piece of software that can make your device appear as if it's back in your home country, so you can unlock your usual streaming services. The best VPN right now? We recommend NordVPN – it does everything and comes with up to 75% off.
+
+![NordVPN – get the world's best VPNNordVPN is our #1 choice✅ Up to 75% off today✅ 3 extra months freeUnlocks 9Now]([https://cdn.mos.cms.futurecdn.net/sQzTzh6cq5yT7jRyuhUMZ7-200-80.png.webp](https://cdn.mos.cms.futurecdn.net/sQzTzh6cq5yT7jRyuhUMZ7-200-80.png.webp) "NordVPN – get the world's best VPNNordVPN is our #1 choice✅ Up to 75% off today✅ 3 extra months freeUnlocks 9Now")
+
+🟩 **NordVPN – get the world's best VPN**  
+Not having a VPN is like leaving your front door wide open in a busy city – anyone can walk right in and take a peek.  
+TechRadar regularly reviews all the biggest and best VPN providers and **NordVPN is our #1 choice**.**✅ Up to 75% off today✅ 3 extra months free**  
+✅ **Unlocks 9Now**  
+Get NordVPN and stream Panthers vs Knights live from anywhere.
+
+## How to watch Panthers vs Knights live streams in the USA
+
+![US flag banner](https://cdn.mos.cms.futurecdn.net/yS8KQAAuq3NZDpRyit65bd.jpg)
+
+NRL fans in the US can watch Panthers vs Knights in the NRL preliminary final 2026 on either **FS2** or**Fox One**.
+
+Dedicated streaming service Fox One costs $19.99 per month after a **3-day FREE trial**.
+
+If you want a more comprehensive cable alternative, access to the Fox One app is also available through a **Sling TV** plan. It comes with the provider's Select ($29.99 a month) and Blue plans ($54.99 a month).
+
+FS2 is carried by several other OTT streaming platforms as well, including **YouTube TV** and**Fubo** – both of which offer new customers a free trial.
+
+One further way to watch this and the rest of the 2026 NRL finals is through the dedicated **Watch NRL** streaming platform. It costs $72 for an NRL Finals Pass that includes all the remaining games.
+
+**Outside of the US?** Use a**VPN** whilst you're traveling away from home to unlock your stream.
+
+## How to watch Panthers vs Knights live streams in Australia
+
+![Australian flag](https://cdn.mos.cms.futurecdn.net/D39crXd3gob7KPsE3LAFUo.jpg)
+
+In Australia, the Panthers vs Knights preliminary final is on the free-to-air **Channel 9** and via the**9Now streaming service**.
+
+All you need is an account. Sign up here!
+
+You can also watch on **Fox League via Foxtel**. While** Kayo Sports** is a much more cost-efficient option, with plans starting from $30 a month after you've taken advantage of its first month for $1 offer or 7-day free trial.
+
+**If you're out of Australia** but still want to tune in, explore**the VPN route** set out above, which will help you access your accounts from anywhere.
+
+## How to watch Panthers vs Knights live streams in New Zealand
+
+![New Zealand flag](https://cdn.mos.cms.futurecdn.net/kZWNrTtXZs7Ep2c7452KSo.jpg)
+
+**Sky Sport NZ** is the NRL rights holder in New Zealand. The action from Sydney will go out on Sky Sport 2 on TV.
+
+You can access Sky Sport through satellite TV or get a live stream with the **Sky Sport Now** subscription service starting at $29.99 per day or $59.99 per month.
+
+**Overseas? NordVPN** will give you access to your home streaming service.
+
+## How to watch Panthers vs Knights live streams in the UK
+
+![uk flag banner](https://cdn.mos.cms.futurecdn.net/B9XNGCRYNHKJzN5zVfTMje.jpg)
+
+Panthers vs Knights is being shown on **Sky Sports** in the UK, via Sky Sports+.
+
+Sky Sports plans start from £35 a month or £20 if you're an existing Sky television subscriber. Alternatively, grab a **Now Sports** membership from £14.99 a day or £34.99 a month.
+
+NRL obsessives can also watch this and every other game of the season with on the dedicated **Watch NRL** platform. It costs £57 for the remainder of the season or £20 for a week.
+
+**Outside the UK right now?** Use**NordVPN** to access your preferred coverage of the NRL Finals Series 2026.
+
+## How to watch Panthers vs Knights live streams in Canada
+
+![canada](https://cdn.mos.cms.futurecdn.net/jgvvohCEmS99W9XuRfJMSo.jpg)
+
+Panthers vs Knights coverage in the NRL is going out online via **Sportsnet** in Canada. Log in with your cable details or, of you're a cord cutter, grab a**Sportsnet+** streaming service subscription (from $34.99 a month / $269.99 a year).
+
+The **Watch NRL** platform will also show the fixture – click through for pricing.
+
+If you already subscribe to one of these services but find yourself **outside Canada** this weekend,**download a VPN** and watch NRL preliminary finals 2026 as if you were back at home.
+
+## How to watch Panthers vs Knights live streams in Rest of World
+
+Every single match of the 2026 NRL Premiership season, including the Qualifying and Elimination Finals, will be shown on the dedicated **Watch NRL** streaming platform, which is available in all territories except for Australia, New Zealand, the Pacific Islands and other selected sanctioned jurisdictions (e.g. Russia, Belarus, Cuba, Iran, North Korea).
+
+Check the website for pricing in your region. Once subscribed, you can stream Watch NRL on phones, tablets, laptops, or the Apple TV app.
+
+Many countries also show games on TV and online through their domestic broadcasters.
+
+### What is the Panthers vs Knights start time?
+
+Sunday, September 27 at 4pm AEST local time. That's 2am ET in the US and 7am BST in the UK.
+
+### What are the Panthers vs Knights teams?
+
+**Panthers**
+
+1. Dylan Edwards, 2. Thomas Jenkins, 3. Blaize Talagi, 4. Casey McLean, 5. Brian To'o, 6. Jack Cole, 7. Nathan Cleary, 8. Moses Leota, 9. Mitch Kenny, 10. Lindsay Smith, 11. Isaiah Papali'i, 12. Liam Martin, 13. Isaah Yeo. **Replacements:** 14. Jack Cogger, 15. Scott Sorensen, 16. Liam Henry, 17. Billy Phillips, 18. Luke Garner, 19. Billy Scott
+
+**Knights**
+
+1. Kalyn Ponga, 2. Dominic Young, 3. Dane Gagai, 4. Bradman Best, 5. Greg Marzhew, 6. Fletcher Sharpe, 7. Sandon Smith, 8. Tyson Frizell, 9. Phoenix Crossland, 10. Cody Hopwood, 11. Jermaine McEwen, 12. Francis Manuleleua, 13. Mat Croker. **Replacements:** 14. Harrison Graham, 15. Lachlan Crouch, 16. Pasami Saulo, 17. Dylan Lucas, 18. Fletcher Hunt, 19. Thomas Cant
+
+We test and review VPN services in the context of legal recreational uses. For example: 1. Accessing a service from another country (subject to the terms and conditions of that service). 2. Protecting your online security and strengthening your online privacy when abroad. We do not support or condone the illegal or malicious use of VPN services. Consuming pirated content that is paid-for is neither endorsed nor approved by Future Publishing.
+
+Sign up for breaking news, reviews, opinion, top tech deals, and more.
