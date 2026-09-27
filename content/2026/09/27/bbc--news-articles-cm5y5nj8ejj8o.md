@@ -1,0 +1,78 @@
+---
+title: '''Scourge'' of abuse must be rooted out, says Pope, during Lourdes visit'
+source_url: https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-27T12:05:00Z'
+published: '2026-09-27T00:00:00Z'
+description: Pope Leo spoke to bishops before leading a service attended by thousands
+  of worshippers in France.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a459/live/8d44b4c0-ba56-11f1-9a84-01517feb24bf.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+people:
+- Emmanuel Macron
+- Leo
+- Mass
+- Pope
+locations:
+- Champs-Élysées Avenue
+- France
+- Mass
+- Paris
+- Place de la Concorde
+- Sanctuary of Our Holy Lady of Lourdes
+- Sanctuary of Our Lady of Lourdes
+organisations:
+- Catholic Church
+---
+
+![The Pope waves to crowds from the popemobile in Lourdes, as a French flag is waved](https://ichef.bbci.co.uk/ace/standard/957/cpsprodpb/a459/live/8d44b4c0-ba56-11f1-9a84-01517feb24bf.jpg)
+
+Hundreds of thousands of people have gathered to hear the Pope speak during a four-day visit to France
+
+**Pope Leo has called on French bishops to root out the "scourge" of sexual abuse in the Roman Catholic church, telling them to "maintain the greatest vigilance", ahead of a meeting with abuse survivors.**
+
+The Pope delivered the message to bishops during a private meeting at the Sanctuary of Our Holy Lady of Lourdes, a holy site in southern France, on the third day of his four-day official visit to France.
+
+A 2021 inquiry found that clergy or lay members of the Church had abused about 330,000 people as children in France over 70 years.
+
+The Pope said Mass in front of thousands of worshippers in Lourdes, before he was scheduled to meet survivors of abuse privately later.
+
+Before giving Mass the Pope told the bishops: "You have faced with determination the painful scourge of abuse of minors committed by members of the clergy or within an ecclesial context.
+
+"It is important to persevere along the path you have begun, maintaining the greatest vigilance."
+
+The gathering of senior church leaders was held behind closed doors and the remarks were later released to reporters.
+
+The Lourdes gathering came a day after an estimated 700,000 people flocked to the Place de la Concorde in Paris to hear the pontiff speak.
+
+Huge crowds cheered and waved as he rode down the Champs-Élysées Avenue greeting followers from his open-topped popemobile.
+
+On Friday, the Pope also met French President Emmanuel Macron.
+
+![The pope in the popemobile waving to a crowd of worshipers at Lourdes](https://ichef.bbci.co.uk/ace/standard/984/cpsprodpb/cbb7/live/1da480f0-ba56-11f1-9a84-01517feb24bf.jpg)
+
+Pope Leo greeted people from his popemobile at the Sanctuary of Our Lady of Lourdes
+
+During Saturday's Mass in Paris, the Pope told worshippers that Catholics should not keep their faith to themselves but "let it overflow so that those you meet may be refreshed".
+
+The leader of the Catholic Church also addressed young people in his speech, describing them as "today's Church".
+
+"How beautiful it is to see your enthusiasm, energy and commitment, and the joy you bring to Christian communities," he said.
+
+The number of regular worshippers in France has fallen from 35% of the population in 1960 to less than 5% today, while the number of priests has shrunk by two-thirds from 25,000 in 1990 to fewer than 9,000.
+
+![The pope saying Mass at Lourdes](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/5a97/live/50cb98b0-ba56-11f1-9a84-01517feb24bf.jpg)
+
+The Pope said Mass at the Meadow of the Shrine of Our Lady of Lourdes
+
+But in recent years there have been signs of a growing interest in religious tradition, with the number of adult baptisms more than doubling in five years to hit 10,000 in 2025.
+
+Later on Sunday the Pope will meet staff and residents at the health facility at Lourdes, before taking part in a torchlight procession in the evening.
+
+It is the Pope's first official visit to France since being chosen to lead the Roman Catholic church in May 2025.
+
+Pope's have regularly visited France, a country with an avowedly secular modern political history but deep Catholic roots.

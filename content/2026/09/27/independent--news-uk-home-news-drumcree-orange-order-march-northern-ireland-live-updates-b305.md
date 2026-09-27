@@ -1,0 +1,162 @@
+---
+title: 'Northern Ireland live: Thousands of protesters block Drumcree Orange Order
+  march'
+source_url: https://www.independent.co.uk/news/uk/home-news/drumcree-orange-order-march-northern-ireland-live-updates-b3057062.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-27T12:05:06Z'
+published: '2026-09-27T00:00:00Z'
+description: Late night approval of loyalist march along the largely Catholic Garvaghy
+  Road in Portadown has been described as ‘madness’
+image: https://static.independent.co.uk/2026/09/27/08/2026-09-27T074823Z_429035570_RC2JRNAFXYOI_RTRMADP_3_NIRELAND-PARADE.JPG?trim=55,0,55,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+people:
+- Breandán Mac Cionnaith
+- Bring Stormont
+- Chris Bryant
+- Claire Hanna
+- Gavin Robinson
+- Jon Boutcher
+- Mary Lou McDonald
+- Michelle O’Neill
+locations:
+- Belfast
+- Drumcree Church
+- Drumcree Church Hall
+- Garvaghy Road
+- Northern Ireland
+- Orange
+- Portadown
+organisations:
+- BBC
+- Belfast Telegraph
+- Court of Appeal
+- DUP
+- Drumcree Parochial Hall
+- High Court
+- Northern Ireland
+- Orange Order
+- PSNI
+- Parades Commission
+- Police Service of Northern Ireland
+- Press Association
+- SDLP
+- Sinn Féin
+- Social Democratic and Labour Party
+---
+
+Thousands of protesters have blocked a controversial loyalist Orange Order march from going ahead on a Catholic street in Northern Ireland for the first time in nearly 30 years.
+
+A late-night legal ruling by the Parades Commission authorising the parade along Garvaghy Road in Portadown during an "unprecedented" late-night High Court session in Belfast.
+
+Large groups of protesters, many wearing balaclavas, gathered along the road on Sunday morning—a location renowned as a major Troubles flashpoint in the 1990s.
+
+A standoff is continuing with members of the Orange Order still waiting inside Drumcree Church Hall to be given the go-ahead to march, according to the *Belfast Telegraph.*
+
+Speaking from the area on Sunday morning, Sinn Féin president Mary Lou McDonald said the people of Garvaghy Road would “not be drawn back to the past”.
+
+“This is madness. This, in fact, is primitive treatment of any community in the year 2026. It is intolerable, and it will not be tolerated.”
+
+The stand-off at Drumcree made headlines in the 1990s, with nationalist residents of the Garvaghy Road opposed to the parade passing through the area, leading to violent clashes for several summers and political tension necessitating a major security operation.
+
+## SDLP leader: 'We are in a stand off here and it is necessary to deescalate'
+
+The leader of the Social Democratic and Labour Party (SDLP), Claire Hanna, has called for the chief constable and secretary of state to intervene.
+
+Speaking from the scene at Garvaghy Road, she told the BBC: "We are in a stand off here and it is necessary to deescalate."
+
+Hanna said police and Northern Ireland secretary have the "ability to revoke any permission for this parade".
+
+"Whatever the legalities, it was never politically right or morally right to do this," she said.
+
+## Standoff continues as protesters block Garvaghy Road
+
+The parade of 35 Orangemen was due to start at 8am, however thousands of protesters have blocked Garvaghy Road.
+
+Crowds gathering were told on a loudspeaker that they were liable for arrest for taking part in an unnoticed parade. Around 15 minutes before the Orange Order march was due to begin, the announcement said anyone participating could be prosecuted.
+
+Around five minutes before the parade was due to start, a huge number of fireworks were set off near Garvaghy Road.
+
+Loud cheers erupted from the crowds after being informed the Orange Order had left Drumcree, according to Press Association. The cheers were soon followed by chants of “Bring Stormont down” from some of the protesters.
+
+However a standoff is continuing with members of the Orange Order still waiting inside Drumcree Church Hall to be given the go-ahead to march, according to the Belfast Telegraph.
+
+## RECAP: Orange order march given go ahead after 29-year ban
+
+The Drumcree parade has been a flash-point for the troubles after a stand-off made headlines in the 1990s. Nationalist residents of the Garvaghy Road opposed the parade passing through the area, leading to violent clashes for several summers and political tension necessitating a major security operation.
+
+The Orange Order has unsuccessfully applied for more than a quarter of a century to complete its 1998 walk along the route.
+
+On Friday, the Parades Commission reversed its long-running determination, to the welcome of unionist parties and outrage of nationalist and republican parties.
+
+Permission was granted for a parade subject to strict restrictions, including a limit of 35 participants and an 8am start time.
+
+The ruling permitting the march from Drumcree Church was upheld in an “unprecedented” late night sitting of the High Court in Belfast just a few hours before the parade was due to start.
+
+The group of Orangemen due to take part in the parade waited at the church on Sunday, but the road was blocked by thousands of protesters.
+
+![A member of the Orange Order outside Drumcree Parochial Hall in Portadown](https://static.independent.co.uk/2026/09/27/10/0155fe0f23a0eefc446d50d40ed646c1Y29udGVudHNlYXJjaGFwaSwxNzkwNTg3MDM1-2.85990187.jpg)
+
+## Irish government 'very concerned about the situation'
+
+The Irish government said it is “very concerned about the situation”.
+
+A government statement said: “Our primary concern remains to avoid a return to the divisions of the past, recalling the significant progress made over many years in furthering reconciliation under the Good Friday Agreement.”
+
+## Protesters block Garvaghy Road after late night ruling allows parade
+
+Thousands of protesters have blocked the predominately nationalist Garvaghy Road in Portadown in a bid to prevent a contentious Orange Order parade passing.
+
+A ruling by the Parades Commission adjudication body permitting the march from Drumcree Church was upheld in an “unprecedented” late night sitting of the High Court in Belfast just a few hours earlier.
+
+The Drumcree parade, which was associated with violent clashes during the Troubles, has been banned since 1998.
+
+Protesters, many of them wearing balaclavas, clustered in large groups in heavy rain along the road on Sunday morning – a move that delayed the scheduled 8am start of the parade.
+
+## Police chief appeals for everyone to 'remain calm and peaceful'
+
+The head of the Police Service of Northern Ireland (PSNI) called for “those with influence to encourage people to comply with the law” amid a large protest blocking the Garvaghy Road.
+
+PSNI Chief Constable Jon Boutcher said: “I’m unbelievably proud of my officers who, supported by mutual aid colleagues, are managing an exceptionally challenging situation.
+
+“The policing operation thus far has helped ensure there has been no violence or disorder. We have an evidence gathering operation in place to detect any offences and will continue to do this throughout today.
+
+“I appeal to everyone to remain calm and peaceful. I am immensely grateful for all those voices who have already called for calm.
+
+“I would urge those with influence to encourage people to comply with the law and work with the police to keep everyone safe.
+
+“Police are engaging and working with all parties and will continue to do so. It is incumbent on us all to come together at times like this to do all we can to preserve a peaceful Northern Ireland.”
+
+## In pictures: Thousands of protesters block Garvaghy Road
+
+![Protesters blocked the Garvaghy Road ahead of the parade](https://static.independent.co.uk/2026/09/27/10/01M3GWSRS8QJR6C5RYH5S27STA.jpg)
+
+## Northern Ireland secretary: 'People will be very nervous and anxious'
+
+Sir Chris Bryant said he wished “we weren’t in this position”, as an Orange Order parade is set to go ahead for the first time in decades in a predominantly nationalist area of Northern Ireland.
+
+Speaking to the BBC, the Northern Ireland Secretary said: “I can imagine that lots of people didn’t sleep very well last night, not least because of course the court case was going on till very late into the night, till 2.30 in the morning.
+
+“I know lots of people will be watching this very, very closely, including people who have long memories of things that happened 30 years ago, and people will be very nervous and anxious.
+
+“So the number one thing I think is people should co-operate with the police. I want everything to pass off as calmly as is possible. I’m speaking to the police obviously on a regular basis throughout the day, and was last night as well, and so is my team.”
+
+He added: “I wish we weren’t in this position. I wish we weren’t looking at relitigating things of the past. But the court decided that the adjudication, the determination of the Parades Commission stood. So it’s important that everybody abides by the law.”
+
+## DUP leader says First Minister should 'uphold lawful decisions, not inflame opposition'
+
+The First Minister of Northern Ireland should “uphold lawful decisions, not inflame opposition to them”, DUP Leader Gavin Robinson said.
+
+His comments come after Michelle O’Neill, who is also Sinn Féin vice-president, spoke to media on the Garvaghy Road.
+
+Mr Robinson said: “The legal position is now unequivocal. 35 Orangemen can walk in silence along Garvaghy Road. The Court of Appeal found that the injunction had been granted in error, and the High Court subsequently confirmed that the Parades Commission determination must be respected.
+
+“Yet Michelle O’Neill described that outcome as ‘disgraceful’, claimed an Orange procession was being ‘forced’ through the area and declared, ‘There is no going back. Not tomorrow. Not ever’.
+
+“Those words were followed by organised obstruction of the road, while Breandán Mac Cionnaith instructed people to sit down, link arms and return if removed by police. Michelle O’Neill then addressed the gathering, urged it to ‘stay strong’ and repeated the ‘no going back’ chant.
+
+“A First Minister’s duty is to uphold lawful decisions, not inflame opposition to them. The rule of law cannot apply only when Sinn Féin likes the outcome. Our institutions are founded on respect for the police, the courts and the rule of law.
+
+“The Orangemen of Portadown have conducted themselves with dignity and respect for the rule of law for 28 years and once again have demonstrated their maturity today.”
