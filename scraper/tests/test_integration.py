@@ -351,3 +351,46 @@ sites:
         await scrape.main_async(args)
 
     assert exc_info.value.code == 1
+
+
+async def test_ci_emits_notice_and_step_summary(
+    scraper_args: argparse.Namespace,
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+    capfd: pytest.CaptureFixture[str],
+    mock_playwright: AsyncMock,
+) -> None:
+    """In GitHub Actions the Done line becomes a ::notice and a per-site
+    markdown summary is appended to $GITHUB_STEP_SUMMARY."""
+    summary_file = tmp_path / "step_summary.md"
+    monkeypatch.setenv("GITHUB_ACTIONS", "true")
+    monkeypatch.setenv("GITHUB_STEP_SUMMARY", str(summary_file))
+
+    await scrape.main_async(scraper_args)
+
+    # The "Done" message should be surfaced as a notice workflow command.
+    captured = capfd.readouterr()
+    assert "::notice::Done. 2 new article(s) written." in captured.out
+
+    # A per-site markdown summary should be appended to the step summary file.
+    assert summary_file.exists()
+    summary = summary_file.read_text(encoding="utf-8")
+    assert "### News barge scrape summary" in summary
+    assert "| Test Site | 2 |" in summary
+    assert "| **Total** | **2** |" in summary
+
+
+async def test_no_summary_or_notice_outside_ci(
+    scraper_args: argparse.Namespace,
+    capfd: pytest.CaptureFixture[str],
+    monkeypatch: pytest.MonkeyPatch,
+    mock_playwright: AsyncMock,
+) -> None:
+    """Without CI env vars, no notice or summary file is produced."""
+    monkeypatch.delenv("GITHUB_ACTIONS", raising=False)
+    monkeypatch.delenv("GITHUB_STEP_SUMMARY", raising=False)
+
+    await scrape.main_async(scraper_args)
+
+    captured = capfd.readouterr()
+    assert "::notice::" not in captured.out

@@ -8,6 +8,7 @@ import os
 import sys
 from collections.abc import Generator
 from contextlib import contextmanager
+from pathlib import Path
 
 from colorama import Fore, Style, init
 
@@ -48,6 +49,47 @@ def report_error(message: str, logger: SiteLogger | None = None) -> None:
     else:
         formatted_msg = f"{Style.BRIGHT + Fore.RED}ERROR:{Style.RESET_ALL} {message}"
         print(formatted_msg, file=sys.stderr)
+
+
+def report_notice(message: str, *, title: str | None = None) -> None:
+    """Emit ``message`` as a GitHub Actions ``::notice`` annotation in CI.
+
+    Outside of GitHub Actions this is a no-op, so callers should emit their
+    own human-readable ``print`` for local runs. Workflow-command special
+    characters (``%``, ``\r``, ``\n``) are escaped per GitHub's spec.
+    """
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    escaped_msg = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    if title:
+        escaped_title = (
+            title.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+        )
+        print(f"::notice title={escaped_title}::{escaped_msg}")
+    else:
+        print(f"::notice::{escaped_msg}")
+
+
+def write_step_summary(markdown: str) -> bool:
+    """Append a markdown block to the GitHub Actions step summary file.
+
+    No-ops (and returns False) when the ``GITHUB_STEP_SUMMARY`` environment
+    variable is unset — i.e. not running inside a GitHub Actions step.
+    Returns True if the block was appended successfully.
+    """
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return False
+    try:
+        path = Path(summary_path)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with path.open("a", encoding="utf-8") as fh:
+            fh.write(markdown)
+            if not markdown.endswith("\n"):
+                fh.write("\n")
+    except OSError:
+        return False
+    return True
 
 
 @contextmanager

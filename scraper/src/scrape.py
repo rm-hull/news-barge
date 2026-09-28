@@ -44,6 +44,8 @@ from .log_helper import (
     SiteLogger,
     report_error,
     report_group,
+    report_notice,
+    write_step_summary,
 )
 from .pipeline import process_article
 from .sites import SiteConfig
@@ -290,21 +292,27 @@ async def main_async(args: argparse.Namespace) -> None:
             random.shuffle(all_tasks)
 
             # Phase 4: Processing
-            article_tasks = [
-                process_article(
-                    url,
-                    site,
-                    dry_run=args.dry_run,
-                    force=args.force,
-                    session=session,
-                    browser=browser,
-                    browser_semaphore=browser_semaphore,
-                    fetch_semaphore=fetch_semaphore,
-                    logger=logger,
-                    retention_months=args.retention_months,
-                    output_dir=args.output_dir,
+            process_kwargs: dict[str, Any] = {
+                "dry_run": args.dry_run,
+                "force": args.force,
+                "session": session,
+                "browser": browser,
+                "browser_semaphore": browser_semaphore,
+                "fetch_semaphore": fetch_semaphore,
+                "retention_months": args.retention_months,
+                "output_dir": args.output_dir,
+            }
+
+            async def _tagged_process(
+                url: str, site: SiteConfig, logger: SiteLogger
+            ) -> tuple[SiteConfig, bool]:
+                was_new = await process_article(
+                    url, site, logger=logger, **process_kwargs
                 )
-                for url, site, logger in all_tasks
+                return site, was_new
+
+            article_tasks = [
+                _tagged_process(url, site, logger) for url, site, logger in all_tasks
             ]
 
             is_gh = os.environ.get("GITHUB_ACTIONS") == "true"
@@ -319,9 +327,12 @@ async def main_async(args: argparse.Namespace) -> None:
                     "{n_fmt}/{total_fmt} [{elapsed}]"
                 )
 
+            site_new_counts: dict[str, int] = {}
             for future in tqdm(asyncio.as_completed(article_tasks), **tqdm_kwargs):
-                if await future:
+                site, was_new = await future
+                if was_new:
                     total_new += 1
+                    site_new_counts[site.slug] = site_new_counts.get(site.slug, 0) + 1
 
             await browser.close()
 
@@ -336,7 +347,25 @@ async def main_async(args: argparse.Namespace) -> None:
                 print(line)
 
     print(f"\n{'─' * 50}")
-    print(f"Done. {total_new} new article(s) written.")
+    done_msg = f"Done. {total_new} new article(s) written."
+    print(done_msg)
+    report_notice(done_msg)
+
+    # Append a per-site markdown summary to the GitHub Actions step summary,
+    # if running inside a step that supports it (GITHUB_STEP_SUMMARY is set).
+    if os.environ.get("GITHUB_STEP_SUMMARY"):
+        summary_lines = [
+            "### News barge scrape summary",
+            "",
+            "| Site | New articles |",
+            "| --- | --- |",
+        ]
+        for slug in sorted(site_loggers, key=lambda s: site_loggers[s].site_name):
+            name = site_loggers[slug].site_name
+            summary_lines.append(f"| {name} | {site_new_counts.get(slug, 0)} |")
+        summary_lines.append(f"| **Total** | **{total_new}** |")
+        summary_lines.append("")
+        write_step_summary("\n".join(summary_lines))
 
 
 def main() -> None:
