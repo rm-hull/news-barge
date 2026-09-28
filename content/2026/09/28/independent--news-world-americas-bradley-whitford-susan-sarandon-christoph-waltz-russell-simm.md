@@ -1,0 +1,361 @@
+---
+title: Celebrity birthdays for the week of Oct. 4-10 include Bradley Whitford and
+  Dakota Johnson
+source_url: https://www.independent.co.uk/news/world/americas/bradley-whitford-susan-sarandon-christoph-waltz-russell-simmons-chris-lowe-b3057680.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-28T21:11:54Z'
+published: '2026-09-28T00:00:00Z'
+description: Celebrities having birthdays during the week of Oct. 4-10 include “The
+  West Wing” actor Bradley Whitford, “Fifty Shades of Grey” actor Dakota Johnson and
+  astrophysicist and “Cosmos” host Neil deGrasse Tyson
+image: null
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
+people:
+- Abraham Benrubi
+- Addams Family Values
+- Aimee Teegarden
+- Airrion Love
+- Aladdin
+- Alan Rosenberg
+- Alicia Silverstone
+- All American
+- All My Children
+- All That
+- Allison Munn
+- Amber Stevens
+- Amen
+- Amy Jo Johnson
+- Angus T. Jones
+- Ann Curless
+- Arli
+- Armand Assante
+- Arrow
+- Barry
+- Bash
+- Bella Thorne
+- Ben Vereen
+- Bend It Like Beckham
+- Bill Fagerbakke
+- Blood Ties
+- Blue’s Clues
+- Bon Jovi
+- Bradley Whitford
+- Brandon Routh
+- Brett Gelman
+- Brian Johnson
+- Brian Mashburn
+- Britt Ekland
+- Brooke Valentine
+- Brothers Phelps
+- Bruno Mars
+- Burn Notice
+- Byron Reeder
+- C.J
+- Castle
+- CeCe Winans
+- Cellist Yo-Yo Ma
+- Charles Dance
+- Cherie
+- Cherry Poppin’ Daddies
+- Chevy Chase
+- Chicago Med
+- Chris Lowe
+- Christoph Waltz
+- Christopher Norris
+- Clifton Davis
+- Clive Barker
+- Cocoa Brown
+- Colin Meloy
+- Counting Crows
+- Cybill
+- Cyril Neville
+- Dakota Johnson
+- Damian Kulash
+- Dan Stevens
+- Dana Davis
+- Daniel Baldwin
+- Darrell Hammond
+- Dave Dederer
+- David Bryson
+- David Hidalgo
+- David Lee Roth
+- David W. Harper
+- Downton Abbey
+- Dr. Ken,” “Community
+- Dylan Baker
+- Dylan Neal
+- Eddie
+- Elisabeth Shue
+- Emily Mortimer
+- Emily Procter
+- Everybody Hates Chris
+- Expose
+- Family Feud,” “Seinfeld
+- Fantastic Four
+- Felicia Farr
+- Felicity
+- Fifty Shades of Grey
+- Fitz
+- For Better
+- Franklin
+- Fred Cash
+- Full House
+- Gang
+- Gary Bennett
+- Gary Frank
+- Ghosts
+- Glee
+- Goo Goo Dolls
+- Good Charlotte
+- Goosebumps
+- Greek
+- Gregg “Hobie” Hubbard
+- Grey’s Anatomy
+- Guillermo del Toro
+- Guy Pearce
+- Halestorm
+- Hang Time
+- Harvey
+- Heather Headley
+- Heidi Newfield
+- Him
+- Holland Roden
+- Horatio Hornblower
+- Ian Hart
+- Inglourious Basterds
+- Ioan Gruffudd
+- J.R
+- Jackson Browne
+- Jacqueline Obradors
+- Jake McLaughlin
+- James Fearnley
+- James Valentine
+- Jeremy Sisto
+- Jerry Minor
+- Jesse Eisenberg
+- Jessica Benson
+- Jessica Harper
+- Jharrel Jerome
+- Jill Larson
+- Jim Glennie
+- Jimmy Workman
+- Jodi Lyn O’Keefe
+- Joelle Carter
+- John Melendez
+- John Mellencamp
+- John O’Hurley
+- Jon Secada
+- Joshua Logan Moore
+- Josie Bissett
+- Joy Behar
+- Judy Landers
+- Julia Sweeney
+- Justified
+- Karen Allen
+- Karimah Westbrook
+- Karyn Parsons
+- Kate Winslet
+- Kenny Garrett
+- Kevin Cronin
+- Kevin Godley
+- Kieran Kane
+- Kim Wayans
+- Kotch
+- Kristanna Loken
+- Kurt Neumann
+- Kyra Schon
+- L.A. Confidential
+- L.A. Law
+- LaBelle
+- Lamman Rucker
+- Law & Order
+- Lecrae
+- Leigh-Anne Pinnock
+- Leroy Van Dyke
+- Liev Schreiber
+- Linwood Boomer
+- Little Mix
+- Lori Saunders
+- Los Lobos
+- Lzzy Hale
+- Madam
+- Manu Bennett
+- Marc Roberge
+- Mario Lopez
+- Maroon
+- Martin Henderson
+- Martin Kemp
+- Mary Badham
+- Mary Poppins
+- Matt Damon
+- Matthew Sweet
+- Melinda Doolittle
+- Melissa Benoist
+- Melissa Villasenor
+- Melrose Place
+- Memento
+- Michael Dudikoff
+- Michael Par
+- Michael W. Smith
+- Midge Ure
+- Mighty Morphin Power Rangers
+- Mike Malinin
+- Mista
+- Molly Quinn
+- Mrs. Maisel,” “Monk
+- Murder One
+- Mya
+- NYPD Blue
+- Nash Bridges
+- Nathaniel Rateliff
+- Neil deGrasse Tyson
+- Nick Cannon
+- Nicole Ari Parker
+- Noelle Scaggs
+- Nona Hendryx
+- O.A.R
+- OK Go
+- Omar Miller
+- One Tree Hill
+- P.J
+- Parminder Nagra
+- Paul Hogan
+- Paul Thomas
+- Paula Newsome
+- Perception
+- Peter Coyote
+- Petticoat Junction
+- Phillip Glasser
+- Predator
+- R.L
+- REO Speedwagon
+- Rachael Leigh Cook
+- Radiohead
+- Ramirez
+- Ramone
+- Real People
+- Remington Steele
+- Reno
+- Richard Chaves
+- Ricky Lee Phelps
+- Ricky Phillips
+- Robbie Bennett
+- Robert Wuhl
+- Robert “Kool” Bell of Kool
+- Rose McIver
+- Roy Blount Jr
+- Russell Simmons
+- Sabrina
+- Sarah Purcell
+- Save Ferris
+- Sawyer Brown
+- Scott Bakula
+- Scott Weinger
+- Scotty McCreery
+- Scream
+- Sean Lennon
+- Sharon Osbourne
+- Shawn Ashmore
+- Sigourney Weaver
+- Simon Cowell
+- Sister Act
+- Soul Food
+- Spencer Grammer
+- SpongeBob SquarePants
+- Stephanie Zimbalist
+- Steve Burns
+- Steve McQueen
+- Steve Miller
+- Steve Perry
+- Stine
+- Stranger Things
+- Styx
+- Supergirl
+- Superman Returns
+- Susan Raye
+- Susan Sarandon
+- TV’s “Dirt
+- Tanya Tucker
+- Taylor Hicks
+- Teddy Riley
+- Teen Wolf
+- The Goldbergs
+- The Good Wife
+- The L Word
+- The Player
+- The Waltons
+- Thom Yorke
+- Thomas McClary
+- Tico Torres
+- Tim Rushlow
+- Tommy Stinson
+- Toni Braxton
+- Tony Shalhoub
+- Trapper John, M.D
+- Tyler James Williams
+- Tyler Perry
+- Ultravox
+- Van Halen
+- Vega
+- Virgin River
+- Ward
+- Wendi McLendon-Covey
+- Wendy Makkena
+- Wes Ramsey
+- Will Butler
+- Zachery Ty Bryan
+- aka “Stuttering John
+locations:
+- Little House
+- Little Texas
+- Miami
+- Quantico
+- The O’Kanes
+- United States of America
+organisations:
+- 10cc
+- AC/DC
+- Arcade Fire
+- BR549
+- Desperate Housewives
+- Flying Lotus
+- Guns N’ Roses
+- Kentucky Headhunters
+- Spandau Ballet
+- The BoDeans
+- The Commodores
+- The Decemberists
+- The Impressions
+- The Manchurian
+- The Neville Brothers
+- The Pet Shop Boys
+- The Pogues
+- The Ramones
+- The Replacements
+- The Social Network
+- The Stylistics
+- The West Wing
+- The X Factor
+- Trick Pony
+---
+
+Celebrity birthdays for the week of Oct. 4-10:
+
+Oct. 4: Country singer Leroy Van Dyke is 97. Actor Felicia Farr (“The Player,” “Kotch”) is 94. Author Roy Blount Jr. is 85. Actor Lori Saunders (“Petticoat Junction”) is 85. Actor Clifton Davis (“Madam Secretary,” “Amen”) is 81. Actor Susan Sarandon is 80. Actor Armand Assante is 77. Actor Alan Rosenberg (“Cybill,” ″L.A. Law”) is 76. Actor Christoph Waltz (“Inglourious Basterds,” “Water for Elephants”) is 70. Actor Bill Fagerbakke (“Coach,” ″SpongeBob SquarePants”) is 69. Actor Kyra Schon (“Night of the Living Dead”) is 69. Rap producer Russell Simmons is 69. Actor Wendy Makkena (“Sister Act” films) is 68. Keyboardist Chris Lowe of The Pet Shop Boys is 67. Keyboardist Gregg “Hobie” Hubbard of Sawyer Brown is 66. Actor David W. Harper (“The Waltons”) is 65. Singer Jon Secada is 65. Media personality John Melendez (aka “Stuttering John”) is 61. Actor Jerry Minor (“Dr. Ken,” “Community”) is 59. Actor Liev Schreiber (“The Manchurian Candidate,” “Scream 2”) is 59. Actor Abraham Benrubi (“Men In Trees,” ″ER”) is 57. Country singer-guitarist Heidi Newfield (Trick Pony) is 56. Singer-guitarist M. Ward of She and Him is 53. Actor Alicia Silverstone is 50. Keyboardist Robbie Bennett of The War on Drugs is 48. Actor Dana Davis (“Franklin and Bash,” “10 Things I Hate About You”) is 48. Actor Phillip Glasser (“Hang Time”) is 48. Singer-guitarist Marc Roberge of O.A.R. is 48. Actor Rachael Leigh Cook (“Perception,” “Josie and the Pussycats”) is 47. Actor Jimmy Workman (“Addams Family Values”) is 46. Singer Jessica Benson (3LW) is 39. Actor Melissa Benoist (“Supergirl,” ″Glee”) is 38. Actor Dakota Johnson (“Fifty Shades of Grey”) is 37. Singer Leigh-Anne Pinnock of Little Mix is 35.
+
+Oct. 5: Singer-guitarist Steve Miller is 83. Singer Brian Johnson of AC/DC is 79. Actor Karen Allen is 75. Director Clive Barker is 74. Guitarist David Bryson of Counting Crows is 72. Astrophysicist and “Cosmos” host Neil deGrasse Tyson is 68. Actor Daniel Baldwin (“Homicide: Life on the Streets”) is 66. Guitarist Dave Dederer (Presidents of the United States of America) is 62. Actor Guy Pearce (“Memento,” “L.A. Confidential”) is 59. Actor Josie Bissett (“Melrose Place”) is 56. Singer-actor Heather Headley is 52. Singer Colin Meloy of The Decemberists is 52. Guitarist Brian Mashburn of Save Ferris is 51. Actor Parminder Nagra (“ER,” “Bend It Like Beckham”) is 51. Actor Scott Weinger (“Full House,” “Aladdin”) is 51. Actor Kate Winslet is 51. Guitarist James Valentine of Maroon 5 is 48. Bassist Paul Thomas of Good Charlotte is 46. Actor Jesse Eisenberg (“The Social Network”) is 43. Singer Brooke Valentine is 41. Actor Joshua Logan Moore (“Desperate Housewives”) is 32.
+
+Oct. 6: Actor Britt Ekland is 84. Singer-guitarist Thomas McClary (The Commodores) is 77. Singer Kevin Cronin of REO Speedwagon is 75. Guitarist David Hidalgo of Los Lobos is 72. Actor Elisabeth Shue is 63. Singer-songwriter Matthew Sweet is 62. Actor Jacqueline Obradors (“NYPD Blue”) is 60. Country singer Tim Rushlow (Little Texas) is 60. Bassist Tommy Stinson (The Replacements, Guns N’ Roses) is 60. Actor Amy Jo Johnson (“Felicity,” “Mighty Morphin Power Rangers”) is 56. Actor Emily Mortimer (“Mary Poppins Returns”) is 55. Actor Lamman Rucker (“Meet the Browns”) is 55. Actor Ioan Gruffudd (“Fantastic Four,” ″Horatio Hornblower”) is 53. Actor Jeremy Sisto (“Law & Order,” “Six Feet Under”) is 52. Actor Brett Gelman (“Stranger Things”) is 50. Singer Melinda Doolittle (“American Idol”) is 49. Actor Wes Ramsey (“CSI: Miami”) is 49. Actor Karimah Westbrook (“All American”) is 48. Musician Will Butler of Arcade Fire is 44.
+
+Oct. 7: TV personality Joy Behar (“The View”) is 84. Drummer Kevin Godley of 10cc is 81. Actor Jill Larson (“All My Children”) is 79. Country singer Kieran Kane of The O’Kanes is 77. Musician John Mellencamp is 75. Guitarist Ricky Phillips of Styx is 75. Actor Mary Badham (“To Kill a Mockingbird”) is 74. Drummer Tico Torres of Bon Jovi is 73. Actor Christopher Norris (“Trapper John, M.D.”) is 71. Cellist Yo-Yo Ma is 71. Gospel singer Michael W. Smith is 69. Actor Dylan Baker (“The Good Wife,” “Murder One”) is 68. Actor Judy Landers (“Vega$,” “BJ and the Bear”) is 68. Reality competition judge Simon Cowell is 67. Actor Paula Newsome (“Chicago Med,” “Barry”) is 65. Singer Ann Curless of Expose’ is 63. Singer Toni Braxton is 59. Singer Thom Yorke of Radiohead is 58. Actor Nicole Ari Parker (“Murder in the First,” “Soul Food”) is 56. Actor Allison Munn (“One Tree Hill”) is 52. Singer Damian Kulash of OK Go is 51. Singer Taylor Hicks (“American Idol”) is 50. Actor Omar Miller (“The Unicorn,” “CSI: Miami”) is 48. Singer Nathaniel Rateliff of Nathaniel Rateliff and the Night Sweats is 48. Actor Shawn Ashmore (TV’s “The Rookie”) is 47. Actor Jake McLaughlin (“Quantico”) is 44. Electronic musician Flying Lotus is 43. Actor Holland Roden (TV’s “Teen Wolf”) is 40. Actor Amber Stevens (“Greek”) is 40.
+
+Oct. 8: Actor Paul Hogan is 87. Singer Fred Cash of The Impressions is 86. Actor-comedian Chevy Chase is 83. Author R.L. Stine (“Goosebumps”) is 83. Country singer Susan Raye is 82. TV personality Sarah Purcell (“Real People”) is 78. Singer Airrion Love of The Stylistics is 77. Actor Sigourney Weaver is 77. Singer Robert “Kool” Bell of Kool and the Gang is 76. Singer-guitarist Ricky Lee Phelps (Brothers Phelps, Kentucky Headhunters) is 73. Actor Michael Dudikoff (“American Ninja”) is 72. Comedian Darrell Hammond (“Saturday Night Live”) is 71. Actor Stephanie Zimbalist (“Remington Steele”) is 70. Actor Kim Wayans (“In The House,” ″In Living Color”) is 65. Singer Steve Perry of Cherry Poppin’ Daddies is 63. Actor Ian Hart (TV’s “Dirt”) is 62. Singer CeCe Winans is 62. Bassist C.J. Ramone of The Ramones is 61. Actor Karyn Parsons (“The Fresh Prince of Bel-Air”) is 60. Singer Teddy Riley is 60. Actor Emily Procter (“The West Wing,” “CSI: Miami”) is 58. Actor Dylan Neal (“Blood Ties,” ″Sabrina, The Teenage Witch”) is 57. Actor-screenwriter Matt Damon is 56. Actor Martin Henderson (“Virgin River,” “Grey’s Anatomy”) is 52. Actor Kristanna Loken (“The L Word,” “Burn Notice”) is 47. Singer Byron Reeder of Mista is 47. Singer Noelle Scaggs of Fitz and the Tantrums is 47. Actor Nick Cannon is 46. Actor J.R. Ramirez (TV’s “Manifest”) is 46. Singer-songwriter Bruno Mars is 41. Actor Angus T. Jones (“Two and a Half Men”) is 33. Actor Molly Quinn (“Castle”) is 33. Actor Bella Thorne (TV’s “Shake It Up,” film “Midnight Sun”) is 29.
+
+Oct. 9: Singer Nona Hendryx (LaBelle) is 82. Singer Jackson Browne is 78. Actor Gary Frank (“Family”) is 76. Actor Richard Chaves (“Predator”) is 75. Actor Robert Wuhl (“Arli$$”) is 75. Manager-TV personality Sharon Osbourne is 74. Actor Tony Shalhoub (“The Marvelous Mrs. Maisel,” “Monk”) is 73. Actor Scott Bakula is 72. Accordion player James Fearnley of The Pogues is 72. Actor John O’Hurley (“Family Feud,” “Seinfeld”) is 72. Actor-turned-producer Linwood Boomer (“Little House on the Prairie”) is 71. Actor Michael Paré (“Eddie and the Cruisers”) is 68. Jazz saxophonist Kenny Garrett is 66. Singer-guitarist Kurt Neumann of The BoDeans is 65. Country singer Gary Bennett (BR549) is 62. Director Guillermo del Toro (“The Shape of Water,” “Pan’s Labyrinth”) is 62. Singer P.J. Harvey is 57. Director Steve McQueen (“12 Years a Slave”) is 57. Actor Cocoa Brown (“Tyler Perry’s For Better or Worse”) is 54. Actor Steve Burns (“Blue’s Clues”) is 53. Singer Sean Lennon is 51. Musician Lecrae is 47. Actor Brandon Routh (“DC’s Legends of Tomorrow,” “Superman Returns”) is 47. Actor Zachery Ty Bryan (“Home Improvement”) is 45. Actor Spencer Grammer (“Greek”) is 43. Comedian Melissa Villasenor (“Saturday Night Live”) is 39. Actor Tyler James Williams (“Everybody Hates Chris”) is 34. Country singer Scotty McCreery (“American Idol”) is 33. Actor Jharrel Jerome (“When They See Us”) is 29.
+
+Oct. 10: Actor Peter Coyote is 85. Actor Charles Dance (“Game of Thrones”) is 80. Actor-dancer Ben Vereen is 80. Singer Cyril Neville of The Neville Brothers is 78. Actor Jessica Harper (“Pennies From Heaven,” “My Favorite Year”) is 77. Singer-guitarist Midge Ure of Ultravox is 73. Singer David Lee Roth (Van Halen) is 72. Country singer Tanya Tucker is 68. Actor Julia Sweeney (“Saturday Night Live”) is 67. Actor Bradley Whitford (“The West Wing”) is 67. Bassist Martin Kemp (Spandau Ballet) is 65. Guitarist Jim Glennie of James is 63. Drummer Mike Malinin of Goo Goo Dolls is 59. Actor Manu Bennett (“Arrow”) is 57. Actor Joelle Carter (“Justified”) is 57. Actor Wendi McLendon-Covey (“The Goldbergs,” “Reno 911!”) is 57. Actor Mario Lopez (“The X Factor,” ″Saved by the Bell”) is 53. Actor Jodi Lyn O’Keefe (“She’s All That,” ″Nash Bridges”) is 48. Singer Mya is 47. Actor Dan Stevens (“Downton Abbey”) is 44. Singer Lzzy Hale of Halestorm is 43. Singer Cherie is 42. Actor Rose McIver (“Ghosts,” “iZombie”) is 38. Actor Aimee Teegarden (“Friday Night Lights”) is 37.
