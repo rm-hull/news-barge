@@ -34,7 +34,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
         with:
-          fetch-depth: 1
+          # Fetch 2 commits so git rebase has a common ancestor when
+          # the remote has advanced during a queued run.
+          fetch-depth: 2
+          # Pin to ref "main" so that when a run is queued by the
+          # concurrency group, checkout fetches the *current* HEAD
+          # of main (not the stale github.sha captured at trigger time).
+          ref: main
 
       - name: Configure Git
         run: |
@@ -92,7 +98,12 @@ jobs:
             DELETED=$(git diff --cached --name-only --diff-filter=d | wc -l)
             echo "Staged $DELETED file deletion(s)."
             git commit -m "archive: remove articles older than ${{ steps.prune.outputs.months }} month(s) [$(date -u +%Y-%m-%d)]"
-            git push
+            git push || {
+              echo "Push rejected, syncing with remote and rebasing..."
+              git fetch origin main
+              git rebase origin/main
+              git push
+            }
           fi
 
       - name: Dry-run summary
