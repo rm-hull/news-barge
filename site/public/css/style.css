@@ -331,7 +331,9 @@ a:hover {
   cursor: pointer;
 }
 
-h2 .searchable, strong .searchable {
+h1 .searchable,
+h2 .searchable,
+strong .searchable {
   font-weight: inherit;
 }
 
