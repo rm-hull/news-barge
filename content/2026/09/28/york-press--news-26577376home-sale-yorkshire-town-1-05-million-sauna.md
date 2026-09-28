@@ -4,7 +4,7 @@ title: Look inside £1m home for sale in Yorkshire town (with its own home cinem
 source_url: https://www.yorkpress.co.uk/news/26577376.home-sale-yorkshire-town-1-05-million-sauna/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:17:20Z'
+scraped_at: '2026-09-28T20:34:03Z'
 published: '2026-09-28T00:00:00Z'
 description: A home has hit the market for £1.05 million in Pocklington – and it has
   its own home cinema and a sauna.
@@ -25,6 +25,8 @@ organisations:
 - Rightmove
 ---
 
+![](https://www.yorkpress.co.uk/resources/images/21495718.jpg?type=mds-article-962)
+
 ## Look inside £1m home for sale in Yorkshire town (with its own home cinema and sauna)
 
 The five-bedroom house for sale in Algarth Road, Pocklington, for £1.05 million *(Image: RM English)*
@@ -39,7 +41,7 @@ At the centre of the home is a modern kitchen with a large central island.
 
 Four double bedrooms, two of which have en-suite facilities, are all located on the first floor.
 
-![]()Inside the five-bedroom house for sale in Algarth Road, Pocklington, for £1.05 million *(Image: RM English)*
+![](https://www.yorkpress.co.uk/resources/images/21495712.jpg?type=mds-article-620)Inside the five-bedroom house for sale in Algarth Road, Pocklington, for £1.05 million *(Image: RM English)*
 
 Standout features at the property include its sauna, included with the home’s gym.
 

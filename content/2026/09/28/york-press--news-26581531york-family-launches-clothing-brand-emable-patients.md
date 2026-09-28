@@ -4,7 +4,7 @@ title: York mum and son launch a clothing brand in memory of daughter who died a
 source_url: https://www.yorkpress.co.uk/news/26581531.york-family-launches-clothing-brand-emable-patients/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T14:05:21Z'
+scraped_at: '2026-09-28T20:33:36Z'
 published: '2026-09-28T00:00:00Z'
 description: A York mother and son have launched an adaptable fashion brand- EmAble-
   in memory of their daughter and sister.
@@ -14,7 +14,7 @@ categories:
 - York
 - Family & Parenting
 people:
-- Alexandra Harrison
+- Alexandra
 - EmAble
 - Emily Rhodes
 - Gavin Priestley
@@ -27,11 +27,13 @@ people:
 - Pic
 locations:
 - UK
-- York
 organisations:
+- Alexandra Harrison
 - EmAble
 - York College
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21501012.jpg?type=mds-article-962)
 
 ## York mum and son launch a clothing brand in memory of daughter who died aged 24
 
@@ -48,7 +50,7 @@ Ms Nicholson, co-founder of EmAble, said: "It was heartbreaking watching Emily s
 
 
 
-![]()l-r: Joanne, Alexandra, Michael, Pam and Matthew *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21500997.jpg?type=mds-article-620)l-r: Joanne, Alexandra, Michael, Pam and Matthew *(Image: Gavin Priestley)*
 
 "Because of her perceived body image, she dreaded undressing for treatment, so we hope we can eliminate this feeling for others.
 
@@ -56,13 +58,13 @@ Ms Nicholson, co-founder of EmAble, said: "It was heartbreaking watching Emily s
 
 "Her nickname, Em, takes centre stage within the brand.
 
-![]()Joanne Nicholson *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21501011.jpg?type=mds-article-620)Joanne Nicholson *(Image: Gavin Priestley)*
 
 "With the ethos and brand vision centring on enabling and empowering others going through treatment, we’ve combined the two to create EmAble which is a fitting tribute to the daughter I miss dearly every single day."
 
 The clothing is designed to improve comfort and dignity for patients during medical procedures, offering easy access for treatments such as chemotherapy, radiotherapy, dialysis, blood tests and transfusions.
 
-![]()Michael Jamson displaying some of the range *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21500993.jpg?type=mds-article-620)Michael Jamson displaying some of the range *(Image: Gavin Priestley)*
 
 After two years of research, engineering and development, the launch of EmAble coincides with Childhood Cancer Awareness Month.
 
@@ -74,13 +76,13 @@ Mr Rhodes, co-founder of EmAble, said: "We know there is a huge need for this ty
 
 "We are particularly passionate about developing a range for children and young people because no-one should have to worry about removing their clothes for treatment or feel uncomfortable in their own skin.
 
-![]()Alexandra Harrison models some of the clothes *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21501015.jpg?type=mds-article-620)Alexandra Harrison models some of the clothes *(Image: Gavin Priestley)*
 
 "This is our opportunity to celebrate the life of Emily and create a lasting legacy for her while supporting others who are facing an uncertain future."
 
 EmAble has already gained industry recognition, winning New Starter Business of the Year at the Yorkshire Choice Awards and being shortlisted in the Against All Odds category at the 2026 York Community Pride Awards.
 
-![]()Alexandra Harrison *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21501022.jpg?type=mds-article-620)Alexandra Harrison *(Image: Gavin Priestley)*
 
 Ms Nicholson and Mr Rhodes have also worked with fashion students at York College to design a collection of vibrant, practical shift dresses with concealed zips.
 
@@ -90,7 +92,7 @@ The Loci sweatshirt, priced at £99.95, features two neck zips extending to the 
 
 Both jogger options, retailing at £79.95, include concealed side seam zips from waist to knee and drawcord ankle cuffs.
 
-![]()Michael Jamson displaying a garment that features a zip to the neck. *(Image: Gavin Priestley)*
+![](https://www.yorkpress.co.uk/resources/images/21501046.jpg?type=mds-article-620)Michael Jamson displaying a garment that features a zip to the neck. *(Image: Gavin Priestley)*
 
 All items are made from 100 per cent organic cotton and are available in ocean grey, in dual sizes from extra small–small to extra large–two extra large.
 

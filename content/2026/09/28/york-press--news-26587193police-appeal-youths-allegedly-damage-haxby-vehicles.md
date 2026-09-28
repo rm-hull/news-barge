@@ -3,7 +3,7 @@ title: Youths 'kick and damage vehicles' in York suburb street
 source_url: https://www.yorkpress.co.uk/news/26587193.police-appeal-youths-allegedly-damage-haxby-vehicles/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:59:51Z'
+scraped_at: '2026-09-28T20:33:46Z'
 published: '2026-09-28T00:00:00Z'
 description: North Yorkshire Police appeal for witnesses after youths allegedly kicked
   and damaged vehicles on Lowfield Drive, Haxby, on September 19.
@@ -18,7 +18,6 @@ locations:
 - Haxby
 - Lowfield Drive
 - North Lane
-- North Yorkshire
 - York
 organisations:
 - CCTV
@@ -27,6 +26,8 @@ organisations:
 - North Yorkshire Police
 - Skoda
 ---
+
+![Police are investigating reports of youths deliberately kicking at cars in Haxby. <i>(Image: North Yorkshire Police)</i>](https://www.yorkpress.co.uk/resources/images/21509511.jpg?type=mds-article-962)
 
 *(Image: North Yorkshire Police)*
 

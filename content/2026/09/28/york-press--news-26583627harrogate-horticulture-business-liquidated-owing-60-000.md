@@ -3,7 +3,7 @@ title: North Yorkshire horticulture business liquidated with £65,576 deficit
 source_url: https://www.yorkpress.co.uk/news/26583627.harrogate-horticulture-business-liquidated-owing-60-000/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:24:03Z'
+scraped_at: '2026-09-28T20:34:05Z'
 published: '2026-09-28T00:00:00Z'
 description: Grant Horticulture Limited of Harrogate has entered into liquidation
   and is said to owe more than £60,000.
@@ -18,16 +18,18 @@ people:
 locations:
 - Harrogate
 - Leeds
+- Ripon Road
 organisations:
 - Chico
 - FK Building Ltd of Harrogate
-- Getty
 - Grant Horticulture Limited
 - Grant Horticulture Ltd
 - HMRC
 - Harrogate Ltd
 - House
 ---
+
+![The company was based at Ripon Road, Harrogate. <i>(Image: Getty)</i>](https://www.yorkpress.co.uk/resources/images/21504041.jpg?type=mds-article-962)
 
 *(Image: Getty)*
 

@@ -3,7 +3,7 @@ title: Appeal to find missing 61-year-old woman last seen in Yorkshire village
 source_url: https://www.yorkpress.co.uk/news/26586967.appeal-find-missing-61-year-old-last-seen-skirpenbeck/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:49:09Z'
+scraped_at: '2026-09-28T20:33:42Z'
 published: '2026-09-28T00:00:00Z'
 description: Police are appealing for information to find 61-year-old Alison, last
   seen in the Dolegate area near Skirpenbeck on Sunday, September 27.
@@ -22,6 +22,8 @@ locations:
 organisations:
 - Humberside Police
 ---
+
+![Humberside Police said missing Alison, 61, was last seen in the Dolegate area of Skirpenbeck yesterday (Sunday, September 27) <i>(Image: Humberside Police)</i>](https://www.yorkpress.co.uk/resources/images/21509174.jpg?type=mds-article-962)
 
 *(Image: Humberside Police)*
 

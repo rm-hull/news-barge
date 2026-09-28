@@ -3,7 +3,7 @@ title: '''I am incredibly proud'' - new York school celebrates first Ofsted insp
 source_url: https://www.yorkpress.co.uk/news/26581989.york-inspire-academy-ofsted-inspection-meets-standards/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:17:54Z'
+scraped_at: '2026-09-28T20:33:41Z'
 published: '2026-09-28T00:00:00Z'
 description: A York school is celebrating after meeting all independent school standards
   in its first Ofsted inspection.
@@ -29,6 +29,8 @@ organisations:
 - York High School
 ---
 
+![](https://www.yorkpress.co.uk/resources/images/20350733.jpg?type=mds-article-962)
+
 ## 'I am incredibly proud' - new York school celebrates first Ofsted inspection
 
 *(Image: Supplied)*
@@ -53,7 +55,7 @@ They also highlighted the school's "powerful mentoring programmes that transform
 
 The personal development curriculum was praised for helping pupils understand how to keep safe, both in their community and online.
 
-![]()Inspire Academy in Acomb is now preparing to open its doors to students *(Image: Apple Photos Clean Up)*
+![](https://www.yorkpress.co.uk/resources/images/19748353.jpg?type=mds-article-620)Inspire Academy in Acomb is now preparing to open its doors to students *(Image: Apple Photos Clean Up)*
 
 The curriculum was described as "academically ambitious," enabling pupils to work towards recognised qualifications, including GCSEs, while closing gaps in their earlier learning.
 
@@ -63,7 +65,7 @@ The inspection confirmed that all independent school standards, spanning the qua
 
 Two areas for improvement were highlighted with inspectors adding that leaders should ensure the curriculum design supports pupils to "learn the most important knowledge set out in the curriculum across all subjects" and that they should strength the school's personal development offer.
 
-![]()Rickie Wilson of Inspire Academy *(Image: Provided)*
+![](https://www.yorkpress.co.uk/resources/images/21501709.jpg?type=mds-article-620)Rickie Wilson of Inspire Academy *(Image: Provided)*
 
 Rickie Wilson, head of school at Inspire Academy, said: "Every pupil who comes to Inspire Academy arrives with a unique story, and we view every new arrival as an opportunity for a fresh start.
 
@@ -73,7 +75,7 @@ Rickie Wilson, head of school at Inspire Academy, said: "Every pupil who comes t
 
 Inspire Academy was established to provide an alternative to permanent exclusion or repeated suspension for students across the trust and the wider city of York, many of whom join with low attendance and a difficult relationship with school.
 
-![]()Mark Hassack has been appointed the new CEO of the South Bank Multi Academies Trust in York
+![](https://www.yorkpress.co.uk/resources/images/13603008.jpg?type=mds-article-620)Mark Hassack has been appointed the new CEO of the South Bank Multi Academies Trust in York
 
 Inspectors noted that the vast majority of students improve their attendance soon after joining, while incidents of suspension drop significantly compared with students' previous settings.
 

@@ -4,7 +4,7 @@ title: Knifewoman and violent shoplifter among defendants sentenced by Scarborou
 source_url: https://www.yorkpress.co.uk/news/26582637.defendants-sentenced-recently-scarborough-magistrates/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:23:26Z'
+scraped_at: '2026-09-28T20:34:11Z'
 published: '2026-09-28T00:00:00Z'
 description: Two women who committed violence related and shoplifting offences were
   among defendants sentenced recently at Scarborough Magistrates Court.
@@ -36,6 +36,8 @@ organisations:
 - One Stop
 - Sainsbury’s
 ---
+
+![ <i>(Image: Newsquest)</i>](https://www.yorkpress.co.uk/resources/images/20629021.jpg?type=mds-article-962)
 
 *(Image: Newsquest)*
 

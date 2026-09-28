@@ -3,7 +3,7 @@ title: '''Absolute misery''- parking in York streets prompts call to end ''chaos
 source_url: https://www.yorkpress.co.uk/news/26583239.york-parking-call-council-look-respark-permits/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:20:55Z'
+scraped_at: '2026-09-28T20:34:16Z'
 published: '2026-09-28T00:00:00Z'
 description: Parking in streets in York is causing chaos and misery for residents
   and it cannot continue, activists calling for action have said.
@@ -36,6 +36,8 @@ organisations:
 - ResPark
 - York Green Party
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21503475.jpg?type=mds-article-962)
 
 ## 'Absolute misery'- parking in York streets prompts call to end 'chaos'
 

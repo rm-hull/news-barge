@@ -3,7 +3,7 @@ title: Pizza oven fire spreads from shed to property in East Yorkshire town
 source_url: https://www.yorkpress.co.uk/news/26585767.fire-started-pocklington-pizza-oven-spreads-garage/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:51:48Z'
+scraped_at: '2026-09-28T20:33:53Z'
 published: '2026-09-28T00:00:00Z'
 description: Humberside Fire and Rescue Service said a crew was called to Amos Drive
   in Pocklington at 2.04am after a fire in a pizza oven spread to a garage.
@@ -20,6 +20,8 @@ locations:
 organisations:
 - Humberside Fire and Rescue Service
 ---
+
+![Crews from Humberside Fire and Rescue Service were called to Amos Drive in Pocklington at 2.04am (Monday, September 28) (Newsquest file image) <i>(Image: Contributed)</i>](https://www.yorkpress.co.uk/resources/images/21507629.jpg?type=mds-article-962)
 
 *(Image: Contributed)*
 

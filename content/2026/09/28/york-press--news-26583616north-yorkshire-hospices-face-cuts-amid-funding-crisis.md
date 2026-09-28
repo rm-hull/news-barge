@@ -3,7 +3,7 @@ title: North Yorkshire hospices warn of cuts and closures as funding crisis deep
 source_url: https://www.yorkpress.co.uk/news/26583616.north-yorkshire-hospices-face-cuts-amid-funding-crisis/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:27:13Z'
+scraped_at: '2026-09-28T20:34:14Z'
 published: '2026-09-28T00:00:00Z'
 description: Hospice services across North Yorkshire are at risk of cuts and closure
   as a multi-million-pound funding crisis deepens, charity chiefs have warned.
@@ -31,12 +31,15 @@ organisations:
 - North Yorkshire Council
 - North Yorkshire NHS scrutiny York
 - Pokémon
+- Saint Michael’s Hospice
 - Scrutiny of Health Committee
 - St Catherine
 - St Catherine’s Hospice
 - St Leonard’s
 - St Leonard’s Hospice
 ---
+
+![Tony Collins, chief executive of Saint Michael’s Hospice and Herriot Hospice. <i>(Image: Herriot Hospice)</i>](https://www.yorkpress.co.uk/resources/images/21503857.jpg?type=mds-article-962)
 
 *(Image: Herriot Hospice)*
 

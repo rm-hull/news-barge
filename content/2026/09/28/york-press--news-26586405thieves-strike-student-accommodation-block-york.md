@@ -3,7 +3,7 @@ title: Thieves strike overnight in York accommodation block
 source_url: https://www.yorkpress.co.uk/news/26586405.thieves-strike-student-accommodation-block-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T14:02:38Z'
+scraped_at: '2026-09-28T20:34:02Z'
 published: '2026-09-28T00:00:00Z'
 description: The incident took place between 10pm on Saturday, August 29, and 3.30am
   on Sunday, August 30, from a student residence in Lawrence Street.
@@ -20,6 +20,8 @@ locations:
 organisations:
 - North Yorkshire Police
 ---
+
+![North Yorkshire Police issued a CCTV image of two people the force said may have information which could help with its enquiries <i>(Image: North Yorkshire Police)</i>](https://www.yorkpress.co.uk/resources/images/21508599.jpg?type=mds-article-962)
 
 *(Image: North Yorkshire Police)*
 

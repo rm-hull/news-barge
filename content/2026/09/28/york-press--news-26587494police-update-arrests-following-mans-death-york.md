@@ -3,7 +3,7 @@ title: Police issue update after arrests following man's 'unexplained' death in 
 source_url: https://www.yorkpress.co.uk/news/26587494.police-update-arrests-following-mans-death-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:48:27Z'
+scraped_at: '2026-09-28T20:34:10Z'
 published: '2026-09-28T00:00:00Z'
 description: Two people arrested after a 28-year-old man's "sudden and unexplained"
   death in York have been released on bail, police said.
@@ -17,12 +17,15 @@ people: []
 locations:
 - Heworth
 - Wood Steet
+- Wood Street
 - York
 organisations:
 - Crimestoppers
 - Newsquest
 - North Yorkshire Police
 ---
+
+![Police were seen in Wood Street, Heworth in the evening of Saturday, September 26. <i>(Image: Newsquest)</i>](https://www.yorkpress.co.uk/resources/images/21505754.jpg?type=mds-article-962)
 
 *(Image: Newsquest)*
 

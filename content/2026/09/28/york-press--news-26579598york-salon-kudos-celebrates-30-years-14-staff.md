@@ -1,9 +1,9 @@
 ---
-title: Thriving York health and beauty salon celebrates 30 happy years
+title: Thriving York hair and beauty salon celebrates 30 happy years
 source_url: https://www.yorkpress.co.uk/news/26579598.york-salon-kudos-celebrates-30-years-14-staff/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:22:13Z'
+scraped_at: '2026-09-28T20:34:07Z'
 published: '2026-09-28T00:00:00Z'
 description: York hair and beauty salon Kudos in Goodramgate has celebrated 30 successful
   years.
@@ -11,7 +11,6 @@ image: https://www.yorkpress.co.uk/resources/images/21498328.jpg?type=og-image
 categories:
 - Local
 - York
-- Health & Fitness
 - Lifestyle & Fashion
 people:
 - Darren Greenwood
@@ -20,7 +19,7 @@ people:
 locations:
 - Goodramgate
 - Lord Mayors Walk
-- Thriving York
+- York
 organisations:
 - Kudos
 - Manchester United
@@ -28,7 +27,9 @@ organisations:
 - Picnics and Parties
 ---
 
-## Thriving York health and beauty salon celebrates 30 happy years
+![](https://www.yorkpress.co.uk/resources/images/21498328.jpg?type=mds-article-962)
+
+## Thriving York hair and beauty salon celebrates 30 happy years
 
 Samantha, Simon and staff celebrate 30 years of Kudos *(Image: Pic supplied)i>*
 
@@ -47,15 +48,15 @@ Samantha said: “The whole Kudos team enjoyed socialising with everyone and giv
 * **York Business Festival to bring business leaders together**
 * **York entrepreneurs to pitch business ideas at funding event**
 
-![]()Samantha, Simon and staff celebrate 30 years of Kudos *(Image: Darren Greenwood)*
+![](https://www.yorkpress.co.uk/resources/images/21498327.jpg?type=mds-article-620)Samantha, Simon and staff celebrate 30 years of Kudos *(Image: Darren Greenwood)*
 
 “We feel very proud of all we have achieved from very humble beginnings!”
 
-![]()Kudos is based in Goodramgate *(Image: Pic supplied)*
+![](https://www.yorkpress.co.uk/resources/images/21498368.jpg?type=mds-article-620)Kudos is based in Goodramgate *(Image: Pic supplied)*
 
 Samantha continued: “What started back in 1995 as only my husband and I renting a property on Lord Mayors Walk, has grown into a much-loved local business, and we're incredibly proud to have been part of the community for three decades.
 
-![]()A card featuring treasured memories at Kudos *(Image: Pic supplied)*
+![](https://www.yorkpress.co.uk/resources/images/21498369.jpg?type=mds-article-620)A card featuring treasured memories at Kudos *(Image: Pic supplied)*
 
 “We moved into new premises on Goodramgate in 2006, a few months after our first child was born.
 

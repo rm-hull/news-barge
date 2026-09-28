@@ -3,7 +3,7 @@ title: North Yorkshire abbey to host antiques and valuation event
 source_url: https://www.yorkpress.co.uk/news/26586415.ampleforth-abbey-host-antiques-day-mouseman-themed-tour/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:55:40Z'
+scraped_at: '2026-09-28T20:33:45Z'
 published: '2026-09-28T00:00:00Z'
 description: A Yorkshire abbey is set to host a day celebrating antiques and the legacy
   of a famed furniture maker.
@@ -37,6 +37,8 @@ organisations:
 - Tennants’ Mouseman
 - Yorkshire Critters
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21508448.jpg?type=mds-article-962)
 
 ## North Yorkshire abbey to host antiques and valuation event
 

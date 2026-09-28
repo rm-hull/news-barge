@@ -3,7 +3,7 @@ title: '''What a pity'': What has gone wrong with York''s modern buildings?'
 source_url: https://www.yorkpress.co.uk/news/26581984.letter-gone-wrong-yorks-modern-buildings/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:17:22Z'
+scraped_at: '2026-09-28T20:34:09Z'
 published: '2026-09-28T00:00:00Z'
 description: Are York’s modern buildings doing justice to the city’s remarkable heritage?
 image: https://www.yorkpress.co.uk/resources/images/21501582.jpg?type=og-image
@@ -25,6 +25,7 @@ people:
 - York
 locations:
 - Charlton Street
+- Coal Drops Square
 - Coney Street
 - England
 - Iran
@@ -32,15 +33,18 @@ locations:
 - Italy
 - Mansion House
 - Penleys Grove Street
+- Western Station
 - YOUR
-- York
+- York Central
 organisations:
 - Assembly Rooms
 - Merchant Adventurers’ Hall
 - Public Notice Portal
 - The United Nations
-- York
+- York Central Ltd
 ---
+
+![An impression of an aerial view of Coal Drops Square in York Central towards the Western Station Entrance Image: York Central Ltd](https://www.yorkpress.co.uk/resources/images/21501582.jpg?type=mds-article-962)
 
 ### What is the Public Notice Portal?
 

@@ -3,7 +3,7 @@ title: First headline act announced for York Museum Gardens summer series 2027
 source_url: https://www.yorkpress.co.uk/news/26582689.olly-murs-headline-live-york-museum-gardens-2027/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:55:00Z'
+scraped_at: '2026-09-28T20:33:30Z'
 published: '2026-09-28T00:00:00Z'
 description: The first headline act has been announced for the extended Live at York
   Museum Gardens concert series in 2027.
@@ -31,10 +31,11 @@ organisations:
 - Super Furry Animals
 - The Voice UK
 - The X Factor
-- York Museum Garden
 - York Museum Gardens
 - York Museums Trust
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21502762.jpg?type=mds-article-962)
 
 ## First headline act announced for York Museum Gardens summer series 2027
 
@@ -62,7 +63,7 @@ Olly, who rose to fame on The X Factor in 2009, has since released eight studio 
 
 He has also become a familiar face on television, returning as a presenter on The X Factor in 2015 and later joining The Voice UK as a coach.
 
-![]()Olly Murs *(Image: Provided)*
+![](https://www.yorkpress.co.uk/resources/images/21502759.jpg?type=mds-article-620)Olly Murs *(Image: Provided)*
 
 The Live at York Museum Garden series, now in its fourth year, has previously featured sold-out performances from Orchestral Manoeuvres in the Dark (OMD), Self Esteem, and Super Furry Animals.
 
@@ -72,7 +73,7 @@ For the first event, York’s Shed Seven headlined Museum Gardens in 2024, leadi
 
 Jocelyn Palmer, senior events manager at York Museums Trust, said: "We are so excited to bring Live at Museum Gardens back for another year, continuing our wonderful partnership with the team at Futuresound.
 
-![]()Live at York Museum Gardens *(Image: Provided)*
+![](https://www.yorkpress.co.uk/resources/images/21502761.jpg?type=mds-article-620)Live at York Museum Gardens *(Image: Provided)*
 
 "Watching the concerts go from strength to strength each year has been so rewarding for us at York Museums Trust and the gardens are a wonderful space where we can blend its rich heritage and iconic scenery with fantastic seasonal events that gives the city centre a variety of entertainment, including these amazing concerts.
 

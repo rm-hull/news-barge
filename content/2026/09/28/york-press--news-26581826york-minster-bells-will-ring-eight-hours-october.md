@@ -3,7 +3,7 @@ title: York Minster bells to ring for eight hours straight next month â€“ hereâ€
 source_url: https://www.yorkpress.co.uk/news/26581826.york-minster-bells-will-ring-eight-hours-october/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:19:26Z'
+scraped_at: '2026-09-28T20:33:51Z'
 published: '2026-09-28T00:00:00Z'
 description: The York Minster bells will ring for eight hours straight next month
   as a team of 12 bellringers will embark on an endurance challenge.
@@ -15,9 +15,9 @@ categories:
 people:
 - Canon Maggie McClean
 - Dean
-- Dylan Connell
 - Ewan Hull
 locations:
+- Dylan Connell
 - Exeter Cathedral
 - York Minster
 organisations:
@@ -25,7 +25,10 @@ organisations:
 - Ringers
 - Society of Royal Cumberland Youths
 - THE York Minster
+- York Minster
 ---
+
+![The York Minster bells will ring for eight hours straight as part of a fundraising effort and to mark their 100th anniversary <i>(Image: Dylan Connell)</i>](https://www.yorkpress.co.uk/resources/images/21073202.jpg?type=mds-article-962)
 
 *(Image: Dylan Connell)*
 

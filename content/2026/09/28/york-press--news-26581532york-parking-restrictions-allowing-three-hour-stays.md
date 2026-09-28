@@ -3,7 +3,7 @@ title: '''Excessive'' parking in York prompts action'
 source_url: https://www.yorkpress.co.uk/news/26581532.york-parking-restrictions-allowing-three-hour-stays/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:52:54Z'
+scraped_at: '2026-09-28T20:33:39Z'
 published: '2026-09-28T00:00:00Z'
 description: A decision has been reached on proposals for parking restrictions in
   a York village.
@@ -24,9 +24,10 @@ organisations:
 - City of York Council
 - Dunnington Parish Council
 - Google Street View
-- Google Street View)* Council
 - Labour
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21464486.jpg?type=mds-article-962)
 
 ## 'Excessive' parking in York prompts action
 
@@ -54,7 +55,7 @@ Dunnington Parish Council called for lesser restrictions to be implemented to be
 
 A Church Street resident also objected, saying they had no off-street parking and feared the restrictions could see them lose a space especially during busy times.
 
-![]()Church Street in Dunnington *(Image: Google Street View)*
+![](https://www.yorkpress.co.uk/resources/images/21464485.jpg?type=mds-article-620)Church Street in Dunnington *(Image: Google Street View)*
 
 Council officials stated the proposals struck the right balance between allowing customers visiting a beauty salon and hairdressers there to park and providing space overnight for residents.
 

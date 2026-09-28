@@ -3,7 +3,7 @@ title: North Yorkshire town wins top prize for floral displays
 source_url: https://www.yorkpress.co.uk/news/26586886.malton-wins-yorkshire-bloom-golden-rose-award/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:58:59Z'
+scraped_at: '2026-09-28T20:33:56Z'
 published: '2026-09-28T00:00:00Z'
 description: A NORTH Yorkshire town has won a top prize for its floral displays.
 image: https://www.yorkpress.co.uk/resources/images/21510456.jpg?type=og-image
@@ -44,6 +44,8 @@ organisations:
 - Royal Horticultural Society
 - Streetscene
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21510456.jpg?type=mds-article-962)
 
 ## North Yorkshire town wins top prize for floral displays
 

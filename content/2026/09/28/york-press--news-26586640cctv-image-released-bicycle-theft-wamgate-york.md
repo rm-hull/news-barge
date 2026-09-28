@@ -3,7 +3,7 @@ title: Police release CCTV image after bicycle stolen in York city centre
 source_url: https://www.yorkpress.co.uk/news/26586640.cctv-image-released-bicycle-theft-wamgate-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:53:35Z'
+scraped_at: '2026-09-28T20:34:17Z'
 published: '2026-09-28T00:00:00Z'
 description: North Yorkshire Police have released a CCTV image after a bicycle was
   stolen in Walmgate, York, on August 31.
@@ -20,6 +20,8 @@ organisations:
 - CCTV
 - North Yorkshire Police
 ---
+
+![Police want to speak to this man as part of an investigation into the theft of a bicycle in Walmgate, on August 31, 2026. <i>(Image: North Yorkshire Police)</i>](https://www.yorkpress.co.uk/resources/images/21508728.jpg?type=mds-article-962&x=0&y=0&w=234&h=528)
 
 *(Image: North Yorkshire Police)*
 

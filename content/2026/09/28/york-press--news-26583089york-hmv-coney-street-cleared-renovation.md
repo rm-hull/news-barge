@@ -3,7 +3,7 @@ title: York city centre shop gutted ahead of major renovation project
 source_url: https://www.yorkpress.co.uk/news/26583089.york-hmv-coney-street-cleared-renovation/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T05:22:21Z'
+scraped_at: '2026-09-28T20:33:49Z'
 published: '2026-09-28T00:00:00Z'
 description: A popular York city-centre retailer has been emptied ahead of a major
   renovation.
@@ -25,6 +25,8 @@ organisations:
 - Space NK
 - The Press
 ---
+
+![](https://www.yorkpress.co.uk/resources/images/21503179.jpg?type=mds-article-962)
 
 ## York city centre shop gutted ahead of major renovation project
 
@@ -48,7 +50,7 @@ A HMV spokesperson told The Press at the time: “HMV is excited to elevate the 
 
 “While we are currently unable to share any further details, we will share more information nearer the time of reopening."
 
-![]()Signs in the windows of HMV York
+![](https://www.yorkpress.co.uk/resources/images/21503180.jpg?type=mds-article-620)Signs in the windows of HMV York
 
 The Coney Street revamp comes ahead of the wider Coney Street Riverside project, with work beginning to improve retail space, add upper-floor accommodation and create new hospitality venues.
 

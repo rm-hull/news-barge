@@ -3,7 +3,7 @@ title: Award-winning North Yorkshire village gastropub noted for Sunday Roasts c
 source_url: https://www.yorkpress.co.uk/news/26586268.white-horse-gastropub-church-fenton-now-closed/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:54:21Z'
+scraped_at: '2026-09-28T20:33:52Z'
 published: '2026-09-28T00:00:00Z'
 description: A highly-regarded community-owned North Yorkshire village gastropub has
   closed saying “the business in its current form is no longer commercially…
@@ -30,6 +30,8 @@ organisations:
 - Google
 - TripAdvisor
 ---
+
+![The White Horse at Church Fenton has now closed, but hopefully that won't be the end. <i>(Image: NQ)</i>](https://www.yorkpress.co.uk/resources/images/21508312.jpg?type=mds-article-962)
 
 *(Image: NQ)*
 

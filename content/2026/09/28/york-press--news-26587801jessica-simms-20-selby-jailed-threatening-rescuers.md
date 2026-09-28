@@ -3,7 +3,7 @@ title: Woman sentenced after threatening paramedic and firefighter with broken b
 source_url: https://www.yorkpress.co.uk/news/26587801.jessica-simms-20-selby-jailed-threatening-rescuers/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:56:52Z'
+scraped_at: '2026-09-28T20:33:53Z'
 published: '2026-09-28T00:00:00Z'
 description: A woman who threatened a paramedic and firefighter with a broken bottle
   has been sentenced to a young offenders’ institution.
@@ -26,6 +26,8 @@ organisations:
 - York Magistrates
 ---
 
+![Jessica Louise Simms, 20, of Selby, has been jailed. <i>(Image: North Yorkshire Police)</i>](https://www.yorkpress.co.uk/resources/images/21510625.jpg?type=mds-article-962)
+
 *(Image: North Yorkshire Police)*
 
 A young woman who threatened a paramedic and firefighter with a broken bottle has been sentenced to 12 months in a young offenders’ institution.
@@ -34,7 +36,7 @@ Jessica Louise Simms, 20, of The Crescent, Selby, appeared at York Magistrates�
 
 Simms pleaded guilty to two counts of threatening a person with an offensive weapon (the broken bottle), criminal damage to a police cell, and breaching a community protection notice.
 
-![]() Jessica Louise Simms, 20, of Selby, has been jailed. *(Image: North Yorkshire Police)*
+![](https://www.yorkpress.co.uk/resources/images/21510625.jpg?type=mds-article-620) Jessica Louise Simms, 20, of Selby, has been jailed. *(Image: North Yorkshire Police)*
 
 The offences occurred on September 17 when Simms threatened emergency workers who had come to her aid. After being arrested, she then damaged the police cell where she was taken.
 

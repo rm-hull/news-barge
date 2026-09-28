@@ -1,10 +1,9 @@
 ---
-title: Temporary traffic lights trialled in York village amid queues from main road
-  closure
+title: Traffic lights trial in York village amid delays triggered by new housing development
 source_url: https://www.yorkpress.co.uk/news/26587318.traffic-lights-trial-york-monks-cross-link-queues/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:48:30Z'
+scraped_at: '2026-09-28T20:34:00Z'
 published: '2026-09-28T00:00:00Z'
 description: The infrastructure work on Monks Cross Link is part of the construction
   of 970 new houses in the area and the closure is expected to remain in place…
@@ -13,6 +12,7 @@ categories:
 - Local
 - York
 - Technology & Software
+- Home, Garden & DIY
 people: []
 locations:
 - A1036 Malton Road
@@ -23,14 +23,16 @@ locations:
 - Monks Cross
 - Monks Cross Garden Village
 - Monks Cross Link
+- Monks Cross Link Road
 - New Lane-North Moor Road
 - York Outer Ring Road
 organisations:
 - City of York Council
-- Newsquest
 - Redrow
 - The Press
 ---
+
+![Works on the Monks Cross Link Road in York <i>(Image: Newsquest)</i>](https://www.yorkpress.co.uk/resources/images/21482801.jpg?type=mds-article-962)
 
 *(Image: Newsquest)*
 

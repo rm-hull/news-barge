@@ -3,7 +3,7 @@ title: E-fit issued by police following early morning burglary in York suburb
 source_url: https://www.yorkpress.co.uk/news/26586701.police-release-e-fit-york-home-burglary-appeal/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-09-28T13:48:50Z'
+scraped_at: '2026-09-28T20:33:39Z'
 published: '2026-09-28T00:00:00Z'
 description: North Yorkshire Police said it was called to an address in Stockton Lane
   in York at around 2.49am on Tuesday, September 15, when the occupants…
@@ -20,6 +20,8 @@ locations:
 organisations:
 - North Yorkshire Police
 ---
+
+![North Yorkshire Police said an intruder was discovered inside a home in Stockton Lane early in the morning of Tuesday, September 15 and an e-fit has been issued of a man the force wants to identify <i>(Image: North Yorkshire Police)</i>](https://www.yorkpress.co.uk/resources/images/21508865.jpg?type=mds-article-962)
 
 *(Image: North Yorkshire Police)*
 
