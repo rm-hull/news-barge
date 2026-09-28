@@ -33,6 +33,7 @@ from .text_extraction import (
     linkify_text,
     normalize_inline_spacing,
     remove_excluded_elements,
+    resolve_srcset_images,
 )
 
 # ---------------------------------------------------------------------------
@@ -94,6 +95,9 @@ async def process_article(
     # Strip site-level chrome before trafilatura sees it
     if site.exclusions:
         html = remove_excluded_elements(html, site.exclusions, logger=logger)
+
+    # Promote srcset images to src so trafilatura retains them
+    html = resolve_srcset_images(html, base_url=url, logger=logger)
 
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
