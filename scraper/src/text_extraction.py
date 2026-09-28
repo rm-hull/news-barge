@@ -125,9 +125,7 @@ def parse_srcset(srcset: str) -> list[tuple[str, int | None]]:
     ...     "https://example.com/large.jpg 1400w, https://example.com/small.jpg 575w"
     ... )
     [('https://example.com/large.jpg', 1400), ('https://example.com/small.jpg', 575)]
-    >>> parse_srcset(
-    ...     "https://example.com/img.jpg 2x, https://example.com/img.jpg"
-    ... )
+    >>> parse_srcset("https://example.com/img.jpg 2x, https://example.com/img.jpg")
     [('https://example.com/img.jpg', None), ('https://example.com/img.jpg', None)]
     """
     entries: list[tuple[str, int | None]] = []
@@ -208,9 +206,7 @@ def ensure_image_extension(url: str) -> str:
     return urlunparse(parsed._replace(path=path))
 
 
-def resolve_srcset_images(
-    html: str, base_url: str = "", logger: Any = None
-) -> str:
+def resolve_srcset_images(html: str, base_url: str = "", logger: Any = None) -> str:
     """Convert ``<img>`` tags that use ``srcset`` into a plain ``src``.
 
     Trafilatura strips ``srcset`` attributes, leaving behind empty ``<img>``

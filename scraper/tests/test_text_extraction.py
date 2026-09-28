@@ -232,8 +232,7 @@ class TestParseSrcset:
 
     def test_parses_width_descriptors(self) -> None:
         srcset = (
-            "https://example.com/large.jpg 1400w, "
-            "https://example.com/small.jpg 575w"
+            "https://example.com/large.jpg 1400w, https://example.com/small.jpg 575w"
         )
         result = parse_srcset(srcset)
         assert result == [
@@ -379,26 +378,24 @@ class TestResolveSrcsetImages:
 
     def test_handles_multiple_srcset_images(self) -> None:
         html = (
-            '<html><body>'
+            "<html><body>"
             '<img srcset="a.jpg 575w, b.jpg 1400w" alt="img1">'
             '<img srcset="c.jpg 320w, d.jpg 768w, e.jpg 1920w" alt="img2">'
-            '</body></html>'
+            "</body></html>"
         )
         result = resolve_srcset_images(html)
         assert 'src="b.jpg"' in result
         assert 'src="e.jpg"' in result
 
     def test_removes_sizes_attribute(self) -> None:
-        html = (
-            '<img srcset="a.jpg 1400w" sizes="(max-width: 992px) 962px" alt="test">'
-        )
+        html = '<img srcset="a.jpg 1400w" sizes="(max-width: 992px) 962px" alt="test">'
         result = resolve_srcset_images(html)
         assert "sizes" not in result
 
     def test_handles_multi_line_srcset(self) -> None:
         html = (
             '<img srcset="/img/a.jpg 575w,\n'
-            '        /img/b.jpg 962w,\n'
+            "        /img/b.jpg 962w,\n"
             '        /img/c.jpg 1400w" alt="test">'
         )
         result = resolve_srcset_images(html, base_url="https://example.com")
@@ -413,16 +410,16 @@ class TestResolveSrcsetImages:
         assert resolve_srcset_images("") == ""
 
     def test_no_changes_when_no_srcset_images(self) -> None:
-        html = '<html><body><p>No images here</p></body></html>'
+        html = "<html><body><p>No images here</p></body></html>"
         result = resolve_srcset_images(html)
         assert "<img" not in result
 
     def test_logs_processed_count(self) -> None:
         html = (
-            '<html><body>'
+            "<html><body>"
             '<img srcset="a.jpg 575w, b.jpg 1400w" alt="img1">'
             '<img srcset="c.jpg 320w, d.jpg 768w" alt="img2">'
-            '</body></html>'
+            "</body></html>"
         )
         logger = MagicMock()
         resolve_srcset_images(html, logger=logger)
@@ -439,14 +436,14 @@ class TestResolveSrcsetImages:
     def test_works_with_realistic_york_press_html(self) -> None:
         """Mimics the structure from the York Press article."""
         html = (
-            '<article>'
+            "<article>"
             '<p><img srcset="https://www.yorkpress.co.uk/resources/images/'
-            '21500997/?type=mds-article-575 575w, '
-            'https://www.yorkpress.co.uk/resources/images/'
+            "21500997/?type=mds-article-575 575w, "
+            "https://www.yorkpress.co.uk/resources/images/"
             '21500997/?type=mds-article-620 1401w"'
             ' sizes="(max-width: 575px) 575px" width="100%">'
             '<span class="inline-image-caption">Caption text</span></p>'
-            '</article>'
+            "</article>"
         )
         result = resolve_srcset_images(html)
         # The extensionless URL should get .jpg added
