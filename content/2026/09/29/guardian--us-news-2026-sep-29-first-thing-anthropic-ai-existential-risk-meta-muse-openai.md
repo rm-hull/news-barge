@@ -1,0 +1,166 @@
+---
+title: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse
+  and OpenAI’s model
+source_url: https://www.theguardian.com/us-news/2026/sep/29/first-thing-anthropic-ai-existential-risk-meta-muse-openai
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-29T12:58:39Z'
+published: '2026-09-29T00:00:00Z'
+description: Anthropic’s prospectus makes chilling claim as new revelations emerge
+  about Muse and Astra models
+image: https://i.guim.co.uk/img/media/9f9d6eba8a617bac477ef893a08eb4ec2a44ebf9/7_166_3539_2832/master/3539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=274d0ec334c6827b65d92bc7e1a69d5e
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Technology & Software
+- Science
+people:
+- Andrew Lawrence
+- Brian Dawkins
+- Christa Pike
+- Christy Spivey
+- Donald Trump
+- John McKie
+- Manor Solomon
+- Matt Robb
+- Muse
+- RaShall Brackney
+- Tasia Fortune
+- Vincent Jamal
+locations:
+- Antarctica
+- Asia
+- California
+- Dublin
+- Earth
+- El Niño
+- Florida
+- Gaza
+- Iowa
+- Ireland
+- Israel
+- Jackson
+- Japan
+- Knoxville
+- London
+- Mississippi
+- New Hampshire
+- New Orleans
+- Paisley Park
+- Serbia
+- South America
+- Tennessee
+- UK
+- US
+organisations:
+- AI
+- AIs
+- Anthropic
+- Astra
+- CDC
+- ESPN
+- Eagles
+- El Niño
+- Facebook Marketplace
+- Financial Times
+- ICE
+- IPO
+- Ireland
+- Mesabi Metallics
+- NFL
+- Nvidia
+- OpenAI?** OpenAI
+- Reuters
+- SpaceX
+- Starship
+- Trump
+- US Department of Homeland Security
+---
+
+Good morning. Anthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn flotation. The warning inside the startup’s IPO prospectus, which has yet to be made public, was reported by Reuters and the Financial Times. The company has previously called for a slowdown in the breakneck development of AI technology.
+
+* **What has Meta’s Muse AI done?** When the consumer tech reviewer Matt Robb listed a keyboard on Facebook Marketplace, Muse accepted a lowball offer without permission, promised a buyer he was waiting inside and handed over Robb’s home address without consent.
+* **Why are there also new safety concerns at OpenAI?** OpenAI has scrapped the release of a new model after internal testing. GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe.
+* **What is the warning about an “intelligence explosion”?** Two of the “godfathers” of modern AI have told governments to prepare for an AI “intelligence explosion”, which they say could be the most consequential technological development in history. Their concerns focus on the possibility of AIs being able to improve themselves without human intervention.
+* **What did the AI chip company Nvidia announce yesterday?** Nvidia announced a new security platform that it said can stop AI agents from going rogue. It also announced a $150bn stock buyback, the largest in US corporate history.
+
+## **Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California**
+
+![Part of the ground next to the beach has broken apart and fallen away on to the sand](https://i.guim.co.uk/img/media/bfd569fc4b81c611f08d7d2737ff6a0dddae25c2/1078_0_6627_5304/master/6627.jpg?width=445&dpr=1&s=none&crop=none)
+
+Concerns are mounting about an ocean phenomenon known as a Kelvin wave that could raise sea levels along the California coastline by up to a foot, as scientists say El Niño is supercharging the threat of storm surges and flooding in the coming months. The Kelvin wave phenomenon is created when trade winds that usually blow from South America towards Asia die down or reverse in El Niño years, setting off a massive, slow-moving slosh of water.
+
+* **How is the Trump administration paving the way for more pollution from gas-powered cars?** Yesterday it announced it was slashing clean car rules that had been aimed at reducing planet-heating emissions. The move, which relaxes requirements on automakers to control pollution from gasoline-powered cars and light trucks, was criticized by environmentalists.
+* **How have fossil fuel firms tried to influence universities?** Recent attacks on US universities by the Trump administration have built on decades of efforts by libertarian donor networks, fossil fuel companies and conservative thinktanks to reshape university governance and increase outside influence, according to a study.
+
+## **Judge sets $5m bond for third suspect in killing of Black woman found hanging from tree in Mississippi**
+
+![Christy Spivey wears a shirt with a portrait of her late daughter, Tasia Fortune.](https://i.guim.co.uk/img/media/0a63681bceaac4302424eceeb6cc6a3e30d38bd1/682_0_5001_4000/master/5001.jpg?width=445&dpr=1&s=none&crop=none)
+
+A Mississippi judge set a $5m bond for a third man charged over the death of a Black woman whose body was found hanging from a tree in August. Police disclosed on Friday that Tasia Fortune, 29, was killed before her body was placed in a tree behind an abandoned house in Jackson.
+
+The discovery of her body stoked fear because the scene recalled lynchings in a southern US state with a long history of racial violence. Outside court on Monday, RaShall Brackney, the Jackson police chief, said props were left at the scene “as part of the staging” of a hanging and more arrests were likely.
+
+## **Sport and politics clash as Israeli captain declares country ‘10 times better than Ireland’ after soccer feud**
+
+![Ireland players bow their heads during the Israeli national anthem.](https://i.guim.co.uk/img/media/a951aab25bf7560869867461a2514aafcf8591d3/532_0_4559_3647/master/4559.jpg?width=445&dpr=1&s=none&crop=none)
+
+Israel’s captain, Manor Solomon, intensified the feud between the Israeli and Ireland soccer teams by claiming his nation was “10 times better” than theirs and saying: “They hate us and we don’t like them. We’re proud to wear the national team’s uniform; proud of our country and our soldiers.”
+
+The two sides played each other at a neutral venue after Ireland opted not to host the fixture in Dublin amid calls for a boycott. Ireland players bowed their heads during Israel’s national anthem. The players also wore black armbands and chose not to shake hands with their opponents in protest against Israel’s military actions in Gaza. Ireland won the match 3-0. The two sides face each other again in Serbia on Sunday.
+
+* **Where else have sport and politics clashed overnight?** The NFL has asked the US Department of Homeland Security to take down a video likening the former Eagles star Brian Dawkins’s most violent hits to a clampdown on immigrants. In a text, Dawkins told ESPN: “I have very respectfully not given permission.”
+
+## **In other news …**
+
+![Christa Pike holds a tissue to her face and cries after being sentenced to death.](https://i.guim.co.uk/img/media/563bef5af2dcb50432436ffb640d8c57ae28d1a9/0_0_1196_957/master/1196.jpg?width=445&dpr=1&s=none&crop=none)
+
+* **Tennessee is to execute a woman for first time in 200 years after the governor denied clemency to Christa Pike.** Lawyers for the 50-year-old, convicted of killing a classmate in Knoxville in 1995, have asked the supreme court to grant stay.
+* **SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time** on a flight intended to pave the way for future missions to the moon and Mars.
+* **Five men arrested over a suspected bomb plot at a UK airbase hosting US forces have been released on bail**. The suspects were revealed to be British men in their 20s from London, but the release suggests detectives believe it is unlikely they were on the brink of an attack.
+* **Several Florida counties recently declared a state of local emergency in response to a spate of dengue fever infections.** The CDC says 392 cases were reported for the year so far in the state.
+
+## **Stat of the day: Trump announces $15bn Iowa steel plant as he attempts to boost flagging midterm hopes**
+
+![Donald Trump.](https://i.guim.co.uk/img/media/78012150682f745be34a7be4e4663afa8c0c53c0/685_0_4187_3351/master/4187.jpg?width=445&dpr=1&s=none&crop=none)
+
+The plant will be built in eastern Iowa by the foreign-owned steelmaker Mesabi Metallics. Trump said the project, due to open in 2030, was expected to create up to 8,000 jobs and was the largest in US history.
+
+## **Culture Pick: Why Netflix’s A Different World is the only TV reboot worth watching this year**
+
+![Vincent Jamal Hopper.](https://i.guim.co.uk/img/media/77bc9dada88fccf0b603ce347c7b5e00d9121b16/0_150_3282_2624/master/3282.jpg?width=445&dpr=1&s=none&crop=none)
+
+Andrew Lawrence says with its zany twists and lovable new faces, the reboot of the Black sitcom is a worthy sequel to the trailblazing 1980s original.
+
+## **Don’t miss this: Gone in 90 seconds – an ‘invisibilized’ ICE is arresting more people than ever**
+
+![An immigration arrest in New Orleans.](https://i.guim.co.uk/img/media/a54580b14b914d3dd6a263e05e37eabef09be4ec/498_0_2500_2000/master/2500.jpg?width=445&dpr=1&s=none&crop=none)
+
+ICE may have a lower profile than at the start of the second Trump administration, but as this investigation shows, more people are being arrested than ever.
+
+## **… or this: How Sign o’ the Times captured Prince at his creative peak**
+
+![Prince.](https://i.guim.co.uk/img/media/c5217b99b8512b3d8c871d2c633d2ffdb2467699/63_20_1742_1394/master/1742.jpg?width=445&dpr=1&s=none&crop=none)
+
+As a new book on the Paisley Park polymath is released, the author John McKie explains why Prince’s 1987 album is the ultimate showcase of his genius.
+
+## **Climate check: ‘Robust little’ vessel begins treacherous journey around Antarctica**
+
+![The uncrewed vessel.](https://i.guim.co.uk/img/media/48058fa72e0165f663864dc596b32a55a904c0c3/455_1450_8422_6738/master/8422.jpg?width=445&dpr=1&s=none&crop=none)
+
+A small uncrewed vessel has embarked on a lap around Antarctica. The seven-metre craft is expected to face massive waves, freezing temperatures and ferocious winds, all with the aim of collecting vital data on carbon dioxide in the ocean and atmosphere.
+
+## **Last Thing: Century-old silent film made in New Hampshire found in Japan antique shop**
+
+![A scene from the 1919 film Van-ar-chy.](https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=445&dpr=1&s=none&crop=none)
+
+Some things, like odd socks, you expect to turn up in strange places. Long lost silent movies? Not so much. But a silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and will now be screened back home.
+
+## **Sign up**
+
+First Thing is delivered to thousands of inboxes every weekday. If you’re not already signed up, subscribe now.
+
+## **Get in touch**
+
+If you have any questions or comments about any of our newsletters please email [newsletters@theguardian.com](mailto:newsletters@theguardian.com)
