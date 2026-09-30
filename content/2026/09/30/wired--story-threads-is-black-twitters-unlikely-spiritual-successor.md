@@ -1,0 +1,112 @@
+---
+title: Black Twitter Is Thriving—on Threads
+source_url: https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-09-30T18:06:30Z'
+published: '2026-09-30T00:00:00Z'
+description: From outrage over Nolan Wells’ death to analysis of HBO Max’s “Lanterns,”
+  Threads has transformed into a vital artery of the Black social media ecosystem.
+image: https://media.wired.com/photos/6abaff642122500d82924081/191:100/w_1280,c_limit/Black-Threads-Thriving-Culture.jpg
+categories:
+- Technology & Software
+- Science
+people:
+- Alphonzo Terrell
+- Blacksky
+- Brittany Packnett Cunningham
+- Chris Brown
+- D.L
+- Donald Trump
+- Elon Musk
+- Hughley
+- Jamilah Lemieux
+- Nikole Hannah-Jones
+- Nolan Wells
+- Obama
+- Phil Lewis
+- Rianna Walcott
+- Roxane Gay
+- Rudy Fraser
+locations:
+- America
+- Bluesky
+- Gary
+- Horn Island
+- Indiana
+- Mississippi
+- Wells
+organisations:
+- Black British Threads
+- Black Digital Migration Project
+- Black LGBTQ
+- Black Lives Matter
+- Black Threads
+- Black Twitter
+- Bluesky
+- Facebook
+- HuffPost
+- Instagram
+- Meta
+- NBA
+- NHJ
+- New York Times Magazine
+- Pew Research Center
+- Spill
+- Statista
+- TikTok
+- Trump
+- University of Maryland
+- WIRED
+- White Mans
+---
+
+Last week, after a Mississippi grand jury declined to bring criminal charges in the death of Nolan Wells, the 18-year-old Black college student who disappeared on Horn Island while traveling with a group of white friends and was later found dead, Black users on Threads demanded justice.
+
+“Just so it’s abundantly clear: The state of Mississippi is covering up the murder of Nolan Wells,” user @\_taexoxo posted two days after the September 21 decision. The case has incited racial tensions nationwide.
+
+“This year a grand jury handed down an indictment for a pool of water turning green, but didn’t indict when a black kid was found floating face down in water!” commented comedian D.L. Hughley.
+
+Black Americans have never shied away from calling out America’s racial hypocrisies—Twitter served as an indispensable tool as the Black Lives Matter movement swelled in the 2020s—but the chatter on Threads was uniquely charged for Wells. It was the latest bit of evidence showing that the platform has emerged as a vital artery of the Black social media ecosystem, at times even rivaling the influence Black Twitter once personified.
+
+In 2021, when I first explored the cultural expansiveness of Black Twitter, I wrote that it was “all the things: news and analysis, call and response, judge and jury—a comedy showcase, therapy session, and family cookout all in one.” Five years later, Threads is proving to be its spiritual successor, a robust digital universe where no conversation, no matter how ugly or awkward, is off limits.
+
+As with Black Twitter, on Threads you are just as likely to come across conversations around the ageism double standard that Black women face as you are off-the-cuff TV commentary. Speaking of HBO Max’s new superhero thriller, *Lanterns,* one user recently quipped that it’s the first sci-fi show “with a black Chosen One and a white Magical Negro.”
+
+“The heyday of Twitter was during the Obama era. Now we’re living through the second Trump administration. Having a place to laugh to keep from crying is just as important as it ever was,” Jamilah Lemieux, a cultural critic and author who has 208,000 followers on the Meta-run platform, tells WIRED.
+
+Lemieux was active on Twitter for over a decade, where she discussed motherhood and women’s rights, but started to pull back because the level of harassment and vitriol she was getting started to outweigh her positive interactions.
+
+Twitter entered a new era, with a pointedly different vibe, in 2022 after Elon Musk bought the platform and renamed it X. For day-one users, the app was less functional: It was harder to see the content you wanted, hate speech and propaganda accounts surged, and moderation seemed to disappear overnight. “I’m not surprised that that happened. It was a very deliberate shift away from the progressive Black voices that had defined the platform for its earlier history,” says Lemieux, who describes the current experience of posting on X as “screaming into the void.”
+
+Lemieux has since decamped to Threads, where she has become a power user of sorts, riffing on everything from singer Chris Brown to public versus private education. “I wanted a social media home again, but I just wasn't really sure where I fit. I have always preferred text to video in terms of the creation. And Threads offered what I loved about Twitter, which is that I could reach people with my words without having to curate visuals.”
+
+Today, some of the biggest cultural voices on X have migrated to Threads—from author Roxane Gay and activist Brittany Packnett Cunningham to journalist Nikole Hannah-Jones, whose recent New York Times Magazine essay about her decision to enroll her daughter in low-performing, predominantly Black public schools sparked an intense debate online around using your child to fight systemic failures.
+
+“omg the threads convo about that article is better because NHJ is on there replying to ppl, god all the employed ppl really did go to threads,” TV writer @theashleyray posted on X, telling another user, “black twitter is there.”
+
+Bluesky, which launched as invite-only in 2023 before opening up to the wider public a year later, initially announced itself as one of the first serious alternatives to X. But it wasn’t until Donald Trump’s 2024 presidential win that millions of users, seemingly in need of a public sphere free of the MAGA-fueled rhetoric that had overtaken the platform, flocked to Bluesky. They were eager to recapture the spirit of social media’s prime years.
+
+Emboldened by its decentralized format and the promise of improved user safety mechanisms, Rudy Fraser, a developer with a background in community organizing, created Blacksky, a custom feed and moderation service that quickly became a central meeting ground for many Black users on the platform. It has proven to be a more secure social ecosystem for Black users, but it hasn’t exactly swayed public discourse in the way Black Twitter did with #OscarsSoWhite or #IfTheyGunnedMeDown.
+
+Part of that is a numbers game, says Rianna Walcott, an assistant professor of communication at the University of Maryland who founded the Black Digital Migration Project, a research initiative examining how Black social media users respond to changing platform conditions.
+
+“The problems of platform fatigue and reaching a globally Black audience are probably limiting Blacksky’s visibility, as it lacks the initial buy-in that comes from an already connected platform ecosystem like Meta’s,” Walcott says. In the beginning, Bluesky’s biggest user base was concentrated among progressives, particularly journalists, academics, activists, and writers. A 2025 Pew Research Center survey found that 69 percent of respondents who were left-leaning news influencers joined the platform during its first year. And while Blacksky was fundamental to the platform’s nascent growth, Black engagement has stalled for a number of reasons; several colleagues and friends of mine stopped using it after the first few months, seemingly disheartened by its low-key atmosphere, on top of having to rebuild their social media presence in a new corner of the internet.
+
+Threads, meanwhile, prioritizes engagement and allows users to easily join communities like Black Threads, Black British Threads, or Black LGBTQ Threads that are tailor-fit to their interests. According to a Meta blog post from December, there are over 200 groups, which include everything from TV and fitness to the NBA.
+
+“I think it matters more to Black users where they can find each other at volume rather than the overall politics of the platform,” says Walcott.
+
+While Spill, the image-forward social media network launched by Alphonzo Terrell, a former Twitter employee, has been successful in directly appealing to Black people, Threads has a unique advantage when it comes to onboarding new members because of its tight integration with Facebook and Instagram, platforms that have over 6 billion users combined. Threads has more than 500 million monthly active users and, in terms of sheer capacity, is on track to surpass X’s 557 million monthly active users, according to a Statista report from March.
+
+Lemieux appreciates how seamless the platform is compared to X. “We often joke that Threads will drop you off anywhere,” she says. “A lot of the laughter and humor, it’s not just Black people coming up with hashtags like it was before, sometimes it’s just a middle-aged white woman’s Facebook post, who has cross-posted to Threads without realizing it.”
+
+Though many of the same people and conversations that defined Black Twitter have moved to Threads, “Black Threads doesn’t feel like an exact replica of Black Twitter to me,” says Phil Lewis, an editor at HuffPost and news aggregator. He says that Black Twitter especially “shined” when users live-tweeted events, like award shows and sports events. “I haven’t seen that yet. But you can feel when a cultural moment is happening on Threads in the same way.”
+
+Even so, the platform has been able to move the needle in surprising ways. In August, when the majority-Black city of Gary, Indiana, lost power for two weeks, causing a food shortage, among a long list of other safety concerns, Lewis says it was users on TikTok and Threads who first raised awareness about the historic blackout, which had received very little national media coverage until that point. “Then news outlets started paying attention.”
+
+One of the most striking things Walcott has noticed about Threads as the spiritual successor to Black Twitter is how users are deliberately building and maintaining a narrative of its history. “People talk about events in Threads history like they did and do with Black Twitter,” she says. “When something happens that calls for comment, people turn to Threads for that discourse, just as they once turned to Twitter as the center of a hypernarrative web.”
+
+User @missglowdigger certainly agrees. “Threads is single handedly thee best thing to happen to black social media,” she posted in September.
+
+To which she was swiftly reminded: “Yes it is and I love the community BUT let us not get too comfortable … this is still a White Mans app.”
