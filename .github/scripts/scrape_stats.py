@@ -24,7 +24,7 @@ OUTPUT = Path(__file__).parents[2] / "docs" / "scrape_stats.png"
 
 # How far back to pull. GitHub returns newest-first; we page until either
 # we run out of runs or hit this cap, whichever comes first.
-MAX_RUNS = 500
+MAX_RUNS = 800
 
 CONCLUSION_COLORS = {
     "success": "#2ea44f",
@@ -66,7 +66,7 @@ def fetch_runs(repo: str, workflow_id: str, max_runs: int) -> list[dict]:
             if not data:
                 break
             runs.extend(data)
-            if len(data) < 100:
+            if len(data) == 0:
                 break
             page += 1
     return runs[:max_runs]
@@ -87,9 +87,14 @@ def main():
     if not runs:
         fig, ax = plt.subplots(figsize=(10, 5))
         ax.text(
-            0.5, 0.5, "No workflow run data yet",
-            ha="center", va="center", transform=ax.transAxes,
-            fontsize=13, color="#888",
+            0.5,
+            0.5,
+            "No workflow run data yet",
+            ha="center",
+            va="center",
+            transform=ax.transAxes,
+            fontsize=13,
+            color="#888",
         )
         ax.set_title(f"{workflow_id} — {repo}", fontsize=13, pad=12)
         ax.spines[["top", "right", "left", "bottom"]].set_visible(False)
@@ -123,13 +128,18 @@ def main():
     weekly_counts: dict[datetime, int] = defaultdict(int)
     for start, _, _ in points:
         week_start = start - timedelta(days=start.weekday())
-        week_start = datetime(week_start.year, week_start.month, week_start.day, tzinfo=timezone.utc)
+        week_start = datetime(
+            week_start.year, week_start.month, week_start.day, tzinfo=timezone.utc
+        )
         weekly_counts[week_start] += 1
     weeks = sorted(weekly_counts)
     week_totals = [weekly_counts[w] for w in weeks]
 
     fig, (ax_dur, ax_freq) = plt.subplots(
-        2, 1, figsize=(12, 8), sharex=True,
+        2,
+        1,
+        figsize=(12, 8),
+        sharex=True,
         gridspec_kw={"height_ratios": [2, 1]},
     )
 
@@ -138,9 +148,13 @@ def main():
         xs = [p[0] for p in points if p[2] == conclusion]
         ys = [p[1] for p in points if p[2] == conclusion]
         ax_dur.scatter(
-            xs, ys, s=14,
+            xs,
+            ys,
+            s=14,
             color=CONCLUSION_COLORS.get(conclusion, DEFAULT_COLOR),
-            label=conclusion, alpha=0.8, edgecolors="none",
+            label=conclusion,
+            alpha=0.8,
+            edgecolors="none",
         )
 
     # Rolling average line (window of 10 runs) to show the trend
@@ -148,12 +162,16 @@ def main():
     if total >= window:
         roll_x = [points[i][0] for i in range(window - 1, total)]
         roll_y = [
-            sum(durations[i - window + 1: i + 1]) / window
+            sum(durations[i - window + 1 : i + 1]) / window
             for i in range(window - 1, total)
         ]
-        ax_dur.plot(roll_x, roll_y, color="#0969da", linewidth=1.5, label=f"{window}-run avg")
+        ax_dur.plot(
+            roll_x, roll_y, color="#0969da", linewidth=1.5, label=f"{window}-run avg"
+        )
 
-    ax_dur.set_title(f"{workflow_id} — duration & frequency — {repo}", fontsize=13, pad=12)
+    ax_dur.set_title(
+        f"{workflow_id} — duration & frequency — {repo}", fontsize=13, pad=12
+    )
     ax_dur.set_ylabel("Duration (minutes, log scale)", fontsize=10)
     ax_dur.set_yscale("log")
     ax_dur.yaxis.set_major_formatter(mticker.ScalarFormatter())
@@ -172,9 +190,9 @@ def main():
     ax_freq.spines[["top", "right"]].set_visible(False)
     ax_freq.grid(axis="y", color="#e0e0e0", linewidth=0.5)
     ax_freq.set_axisbelow(True)
-    ax_freq.xaxis.set_major_locator(mdates.AutoDateLocator())
+    ax_freq.xaxis.set_major_locator(mdates.AutoDateLocator(minticks=20, maxticks=27))
     ax_freq.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
-    fig.autofmt_xdate()
+    fig.autofmt_xdate(rotation=45)
 
     fig.tight_layout()
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
