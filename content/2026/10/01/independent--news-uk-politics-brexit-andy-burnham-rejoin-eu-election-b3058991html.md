@@ -1,0 +1,94 @@
+---
+title: Burnham’s Brexit pledge means an early election is now far more likely
+source_url: https://www.independent.co.uk/news/uk/politics/brexit-andy-burnham-rejoin-eu-election-b3058991.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-01T20:30:15Z'
+published: '2026-10-01T00:00:00Z'
+description: The prime minister’s pledge to stick to the restrictive red lines of
+  Sir Keir Starmer’s manifesto is simply not sustainable until 2029 – however strongly
+  Andy Burnham denies there will be an early general election, writes political editor
+  David Maddox
+image: https://static.independent.co.uk/2026/09/30/12/2297878834..?trim=0,9,0,9&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+people:
+- Andy Burnham
+- Angela Eagle
+- Brexit
+- Douglas Alexander
+- Ed Miliband
+- John Healey
+- Keir Starmer
+- Leave
+- Shabana Mahmood
+- Wes Streeting
+locations:
+- Brexit
+- Britain
+- Doncaster
+- Europe
+- Scotland
+- UK
+- Wales
+organisations:
+- Brexit
+- EU
+- Greens
+- Labour
+- Lib Dem
+- Lib Dems
+- Plaid Cymru
+- SNP
+---
+
+It’s game on for those who want the UK to rejoin the EU – or at least its single market and customs union.
+
+Andy Burnham has made it very clear that he is putting a rethink of Brexit at the heart of his next Labour election manifesto.
+
+But there are political consequences to Burnham’s strategy – which is also true of his other big plans to bring in a national care service, scrap the pension triple lock guarantee, nationalise water and energy and bring in election reform.
+
+Put bluntly, he appears to be preparing not only for an early election, but also a coalition with like-minded centre-left forces.
+
+While the prime minister has said he will consider a number of options – including the status quo – for a closer relationship with the EU, it is clear that his personal preference is to fully rejoin.
+
+But to get to that position he has to persuade a divided cabinet, which includes senior ministers like chancellor John Healey and foreign secretary Ed Miliband, who represent heavily Leave-voting seats from the 2016 referendum.
+
+Miliband has made it clear to allies that, while his Doncaster seat voted 72 per cent for Leave, “that will not stop me from doing the right thing on Brexit”.
+
+![Andy Burnham has made it clear that he is putting a rethink of Brexit at the heart of his next Labour manifesto](https://static.independent.co.uk/2026/09/30/12/2297878834...jpg?quality=75&width=640&auto=webp)
+
+That may be less likely to be the position of home secretary Shabana Mahmood, who also represents a historically pro-Leave seat and is understood to be sceptical about rejoining.
+
+But others like defence secretary Wes Streeting and environment secretary Angela Eagle are very concerned about the UK being locked out of the EU market and security bloc through the “Made in Europe” reforms.
+
+Others, like Scottish secretary Douglas Alexander, came back into politics to fix the disaster of Brexit and are faced with a rise in nationalism, where the SNP in Scotland and Plaid Cymru in Wales argue they are better off as European nations in the EU.
+
+Nevertheless, if we learnt one thing from that speech, it is that Burnham is willing to show leadership and, as he concluded: “Whether you like everything I said or not, I will do my best.”
+
+It means he will take his position on issues with clarity and expect his ministers to follow.
+
+But one big problem remains. Burnham has said that, on every issue, he will stick to the restrictive red lines of the manifesto presented by Sir Keir Starmer in the 2024 general election.
+
+This means no major rises in income tax, VAT or personal national insurance contributions to fund his projects and – in regard to Brexit – no consideration of free movement, or rejoining the EU, its single market or customs union.
+
+That position is simply not sustainable for three years until an election in 2029 – however strongly Burnham denies there will be an early general election.
+
+![Ed Miliband represents a heavily Leave-voting seat](https://static.independent.co.uk/2026/09/29/14/48/ed-miliband-burnham-speech.png?quality=75&width=640&auto=webp)
+
+It is bad enough to offer jam tomorrow. But jam in three years’ time is not a realistic option.
+
+Certainly, there is little point having reset talks if your ultimate plan is to do something much bigger and more ambitious.
+
+This brings us back to the growing probability of an early election next May – either to coincide with the local elections or shortly after, with the local elections used as a tester for the prime minister.
+
+But even more importantly, the polls suggest that the most likely outcome of an election is a centre-left coalition with Labour, the Lib Dems and possibly the Greens.
+
+Already, Lib Dems are speculating that Burnham has laid out an agenda for a coalition which they cannot refuse.
+
+One Lib Dem told *The Independent*: “If he is offering an end to Brexit and giving us electoral reform and a national care service, all the things we have been asking for, then it would be very difficult for us to say no to a coalition.”
+
+Looking ahead, if Burnham is looking at a country with proportional representation deciding who goes to parliament, then he will be accepting a world where coalitions are the norm.
+
+So, while the speech will be remembered for its big ideas and emotion, Burnham may well have already laid out a brilliant strategy for Britain’s future politics – one which could see the UK return to the heart of the EU.
