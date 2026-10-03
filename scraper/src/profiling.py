@@ -130,7 +130,14 @@ def print_profile_stats(stream: Any = sys.stderr) -> None:
             f"{mn:>11.4f}  {mx:>11.4f}  {stats.name:<{name_w}}"
         )
     lines.append("")
-    print("\n".join(lines), file=stream)
+    try:
+        print("\n".join(lines), file=stream)
+    except ValueError:
+        # Stream already closed at interpreter shutdown (e.g. pytest exit).
+        pass
+    except OSError:
+        # Broken pipe / otherwise unwritable stream.
+        pass
 
 
 # Emit the summary automatically when the interpreter exits normally. An

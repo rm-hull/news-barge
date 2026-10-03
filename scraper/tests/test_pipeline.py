@@ -75,8 +75,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_no_html_returns_false(
         self,
@@ -111,8 +111,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_extraction_returns_none_returns_false(
         self,
@@ -147,8 +147,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_playwright_fetch_success(
         self,
@@ -192,8 +192,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_retention_filter_skips_old_articles(
         self,
@@ -237,8 +237,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_existing_file_without_force_skips(
         self,
@@ -286,8 +286,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_dry_run_returns_true(
         self,
@@ -333,8 +333,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_success_writes_markdown_file(
         self,
@@ -383,8 +383,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_exclusions_strip_site_chrome(
         self,
@@ -429,8 +429,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_title_from_metadata(
         self,
@@ -472,8 +472,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_remove_suffix_from_title(
         self,
@@ -515,8 +515,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_invalid_date_string_falls_back_to_now(
         self,
@@ -558,8 +558,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_image_fallback_to_markdown_extraction(
         self,
@@ -604,8 +604,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_title_falls_back_to_slug(
         self,
@@ -647,8 +647,8 @@ class TestProcessArticle:
 
     @pytest.mark.asyncio
     @patch("src.pipeline.fetch_html_aiohttp")
-    @patch("src.pipeline.trafilatura.extract")
-    @patch("src.pipeline.trafilatura.extract_metadata")
+    @patch("src.pipeline.extract_article_html")
+    @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
     async def test_categories_merge_with_site_categories(
         self,
