@@ -378,8 +378,10 @@ def main() -> None:
     plt.setp(ax_freq.get_xticklabels(), rotation=45, ha="right")
     plt.setp(ax_jobs.get_xticklabels(), rotation=45, ha="right")
     # Give the (now-visible) date labels on the middle panel room above the
-    # jobs panel — without hspace they bleed into panel 3.
-    fig.subplots_adjust(bottom=0.16, hspace=0.5)
+    # jobs panel — without enough hspace they bleed into panel 3. The old
+    # bottom=0.14/hspace=0.2 layout let them protrude ~34px into the jobs
+    # axes box; 0.2/0.6 leaves ~20px of clearance for the denser real run set.
+    fig.subplots_adjust(bottom=0.2, hspace=0.6)
     fig.savefig(OUTPUT, dpi=150, bbox_inches="tight")
     gha("notice", f"  Saved to {OUTPUT}")
 
