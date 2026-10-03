@@ -50,11 +50,12 @@ CONCLUSION_COLORS = {
 }
 DEFAULT_COLOR = "#8b949e"
 
-# Preferred colors for the two scrape.yml jobs — purple vs. orange for strong
-# contrast; everything else falls back to the cycle below.
+# Preferred colors for the two scrape.yml jobs — the articles-scrape job
+# is orange for visibility; build-and-deploy is purple. Everything else
+# falls back to the cycle below.
 JOB_COLORS_BY_NAME = {
-    "scrape": "#8250df",  # purple
-    "build-and-deploy": "#d29922",  # orange
+    "scrape": "#d29922",  # orange — the articles-scrape job
+    "build-and-deploy": "#8250df",  # purple
 }
 # Fallback palette for any other job names, chosen for mutual contrast.
 JOB_COLOR_CYCLE = ["#0969da", "#8250df", "#d29922", "#1f734c", "#cb2439", "#54aeff"]
