@@ -289,7 +289,11 @@ def main() -> None:
     ax_freq.set_axisbelow(True)
     ax_freq.xaxis.set_major_locator(mdates.AutoDateLocator(minticks=20, maxticks=27))
     ax_freq.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
-    fig.autofmt_xdate(rotation=45)
+    # Show the shared date axis' labels only on the runs/week panel (the bottom
+    # of the duration/runs-week pair). fig.autofmt_xdate is avoided on purpose:
+    # with the index-based jobs panel anchored below, it blanks the shared date
+    # labels entirely (including the runs/week panel).
+    ax_dur.tick_params(axis="x", labelbottom=False)
 
     # --- Panel 3: per-job time breakdown (most recent runs) ---
     if job_breakdown and job_names:
@@ -351,6 +355,13 @@ def main() -> None:
         ax_jobs.set_yticks([])
         ax_jobs.spines[["top", "right", "left", "bottom"]].set_visible(False)
 
+    # Materialise tick labels (incl. shared date ticks) so we can rotate them
+    # deterministically — fig.autofmt_xdate cannot be used alongside the extra
+    # index-based jobs panel without blanking the shared date labels.
+    fig.canvas.draw()
+    plt.setp(ax_freq.get_xticklabels(), rotation=45, ha="right")
+    plt.setp(ax_jobs.get_xticklabels(), rotation=45, ha="right")
+    fig.subplots_adjust(bottom=0.14)
     fig.savefig(OUTPUT, dpi=150, bbox_inches="tight")
     gha("notice", f"  Saved to {OUTPUT}")
 
