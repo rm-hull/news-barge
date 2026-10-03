@@ -377,7 +377,9 @@ def main() -> None:
     fig.canvas.draw()
     plt.setp(ax_freq.get_xticklabels(), rotation=45, ha="right")
     plt.setp(ax_jobs.get_xticklabels(), rotation=45, ha="right")
-    fig.subplots_adjust(bottom=0.14)
+    # Give the (now-visible) date labels on the middle panel room above the
+    # jobs panel — without hspace they bleed into panel 3.
+    fig.subplots_adjust(bottom=0.16, hspace=0.5)
     fig.savefig(OUTPUT, dpi=150, bbox_inches="tight")
     gha("notice", f"  Saved to {OUTPUT}")
 
