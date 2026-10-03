@@ -21,7 +21,7 @@ import time
 from collections.abc import Callable
 from dataclasses import dataclass, field
 from functools import wraps
-from typing import Any
+from typing import Any, cast
 
 # Collected statistics, in decoration order, guarded by ``_registry_lock``.
 # Decorators are normally applied at import time (single-threaded), but the
@@ -74,14 +74,14 @@ def profiled[T](func: Callable[..., T]) -> Callable[..., T]:
         async def async_wrapper(*args: Any, **kwargs: Any) -> T:
             start = time.perf_counter()
             try:
-                return await func(*args, **kwargs)
+                return cast(T, await func(*args, **kwargs))
             finally:
                 # Count the call and accumulate time even if it raised, so we
                 # capture failures in the statistics too.
                 _record(stats, start)
 
         async_wrapper.__profile_stats__ = stats  # type: ignore[attr-defined]
-        return async_wrapper
+        return cast(Callable[..., T], async_wrapper)
 
     @wraps(func)
     def wrapper(*args: Any, **kwargs: Any) -> T:
