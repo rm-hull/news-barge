@@ -1,0 +1,59 @@
+---
+title: 'Asian Games 2026: Golfer Tom Kim wins gold to secure military service exemption'
+source_url: https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-03T11:37:02Z'
+published: '2026-10-03T00:00:00Z'
+description: Golfer Tom Kim wins gold at the Asian Games to secure an exemption from
+  mandatory service in South Korea's military.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1ce/live/86c8b370-beee-11f1-8fc0-833897bb0a69.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
+people:
+- K Higa
+- Mun Do-yeob
+- S Kaewkanjana
+- SH Kim
+- Son Heung-min
+- T Kim
+- Tom Kim
+- W Ding
+- W-H Wang
+locations:
+- Japan
+- Paris
+- South Korea
+- United States
+organisations:
+- Kasugai Country Club
+- Tottenham
+---
+
+![South Korea's Tom Kim at the Asian Games](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c1ce/live/86c8b370-beee-11f1-8fc0-833897bb0a69.jpg)
+
+Tom Kim won his first title in almost three years with victory at the Scottish Open in July
+
+**Asian Games - final round-18** T Kim (Kor);**-15** K Higa (Jpn), W Ding (Chi), S Kaewkanjana (Tha);**-11** W-H Wang (Tpe)
+
+**Tom Kim won gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.**
+
+The 24-year-old led going into the final round and produced a brilliant six-under-par 64 to finish 18 under and claim victory by three strokes.
+
+There were signs of nerves with a bogey on the 17th but, after five birdies and an eagle prior to that, Kim had the margin for error and tapped in for par on the last before letting out a roar, his relief clear to see.
+
+Able-bodied South Korean males are usually required to undertake between 18 and 21 months of military service before the age of 28.
+
+However, the government rewards Asian Games champions and Olympic medal-winners of any colour with a service exemption bar basic training, which lasts less than a month.
+
+Athletes who have previously secured the exemption include former Tottenham footballer Son Heung-min, who served for only three weeks in 2020 having won the Asian Games with his country two years earlier.
+
+Kim rushed from the Presidents Cup in the United States to tee off at the Kasugai Country Club in Japan, having to manage on just six hours of sleep and a 14-hour time difference.
+
+His efforts were worth it as the world number 32 can now continue his career, in which he has already won four PGA Tour titles and triumphed at the Scottish Open in July, with minimal disruption.
+
+Kim had previously come close to securing an exemption at the Paris Olympics in 2024, finishing day one tied for third before ultimately finishing eighth.
+
+However, his compatriot SH Kim, 28, missed out on a military exemption as South Korea could only win silver in the team event, alongside Tom Kim and Mun Do-yeob, who has already completed his service.
