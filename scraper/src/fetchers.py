@@ -17,11 +17,13 @@ from playwright.async_api import (
 
 from .constants import FETCH_HEADERS
 from .log_helper import report_error
+from .profiling import profiled
 
 # Type alias for fetch results
 FetchResult = str | None
 
 
+@profiled
 async def fetch_html_aiohttp(
     url: str,
     session: aiohttp.ClientSession,
@@ -60,6 +62,7 @@ async def fetch_html_aiohttp(
         return None
 
 
+@profiled
 async def fetch_html_playwright(
     url: str,
     browser: Browser,

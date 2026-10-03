@@ -13,6 +13,7 @@ from flair.splitter import SegtokSentenceSplitter
 from taxotag import Gist
 
 from .constants import TAXOTAG_TOP_K
+from .profiling import profiled
 
 # ---------------------------------------------------------------------------
 # Taxotag
@@ -61,6 +62,7 @@ class NamedEntities:
     organisations: set[str]
 
 
+@profiled
 def article_categories(title: str, description: str) -> list[str]:
     """Classify an article using taxotag.
 
@@ -83,6 +85,7 @@ def strip_non_alnum(s: str) -> str:
     return re.sub(r"^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$", "", s)
 
 
+@profiled
 def named_entities(text: str) -> NamedEntities:
     cleaned_lines = [line.strip() for line in text.split("\n") if line.strip()]
     cleaned_text = " ".join(cleaned_lines)

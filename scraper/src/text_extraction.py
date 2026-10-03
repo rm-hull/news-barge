@@ -4,11 +4,18 @@ from __future__ import annotations
 
 import re
 from collections.abc import Iterable
-from typing import Any, cast
+from typing import TYPE_CHECKING, Any, cast
 from urllib.parse import urljoin, urlparse, urlunparse
 
 from lxml import html as lxml_html
 from markdownify import markdownify as to_markdown
+from trafilatura import extract, extract_metadata
+
+from .constants import TRAFILATURA_CONFIG
+from .profiling import profiled
+
+if TYPE_CHECKING:
+    from trafilatura.settings import Document
 
 
 def clean_markdown_formatting(text: str) -> str:
@@ -337,3 +344,47 @@ def filter_duplicate_names(names: Iterable[str]) -> list[str]:
             result.append(name)  # keep standalone single-word names
 
     return result
+
+
+# ---------------------------------------------------------------------------
+# Trafilatura wrappers
+#
+# Trafilura's extractor/metadata calls are synchronous and CPU-bound, so the
+# pipeline offloads them via ``asyncio.to_thread`` (see ``pipeline.py``). To
+# make their cost visible in the ``@profiled`` exit-time report, we wrap them
+# here in thin delegating functions and decorate those. The wrappers preserve
+# the exact arguments/options previously passed at the call sites.
+# ---------------------------------------------------------------------------
+
+
+@profiled
+def extract_article_html(
+    html: str,
+    *,
+    url: str | None = None,
+) -> str | None:
+    """Profiled wrapper around :func:`trafilatura.extract`.
+
+    Returns the extracted article HTML, or ``None`` if nothing was extracted.
+    """
+    return extract(
+        html,
+        url=url,
+        output_format="html",
+        include_comments=False,
+        include_formatting=True,
+        include_images=True,
+        include_tables=True,
+        favor_precision=True,
+        config=TRAFILATURA_CONFIG,
+    )
+
+
+@profiled
+def extract_article_metadata(
+    html: str,
+    *,
+    url: str | None = None,
+) -> Document | None:
+    """Profiled wrapper around :func:`trafilatura.extract_metadata`."""
+    return extract_metadata(html, default_url=url)

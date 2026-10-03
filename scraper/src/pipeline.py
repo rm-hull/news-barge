@@ -9,7 +9,6 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-import trafilatura
 import yaml
 from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
@@ -18,7 +17,6 @@ from playwright.async_api import Browser
 from .classifiers import article_categories, named_entities
 from .constants import (
     REPO_ROOT,
-    TRAFILATURA_CONFIG,
 )
 from .dates import months_ago
 from .fetchers import fetch_html_aiohttp, fetch_html_playwright
@@ -28,6 +26,8 @@ from .sites import SiteConfig
 from .slugs import url_to_slug
 from .text_extraction import (
     clean_markdown_formatting,
+    extract_article_html,
+    extract_article_metadata,
     extract_first_image_from_markdown,
     filter_duplicate_names,
     linkify_text,
@@ -99,7 +99,7 @@ async def process_article(
     # Promote srcset images to src so trafilatura retains them
     html = resolve_srcset_images(html, base_url=url, logger=logger)
 
-    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
+    meta = await asyncio.to_thread(extract_article_metadata, html, url=url)
 
     now = datetime.now(UTC)
     pub_date: datetime | None = None
@@ -126,18 +126,7 @@ async def process_article(
         logger.log(f"  · already exists, skipping: {path.name}")
         return False
 
-    extracted_html = await asyncio.to_thread(
-        trafilatura.extract,
-        html,
-        url=url,
-        output_format="html",
-        include_comments=False,
-        include_formatting=True,
-        include_images=True,
-        include_tables=True,
-        favor_precision=True,
-        config=TRAFILATURA_CONFIG,
-    )
+    extracted_html = await asyncio.to_thread(extract_article_html, html, url=url)
 
     if not extracted_html:
         report_error(f"extraction returned nothing for {url}", logger=logger)
@@ -174,10 +163,9 @@ async def process_article(
         return True
 
     # Prefer site-defined categories; append classifier-derived ones, no dupes.
-    categories = list(
-        dict.fromkeys(site.categories + article_categories(title, description))
-    )
-    entities = named_entities(md_body)
+    derived_categories = await asyncio.to_thread(article_categories, title, description)
+    categories = list(dict.fromkeys(site.categories + derived_categories))
+    entities = await asyncio.to_thread(named_entities, md_body)
 
     frontmatter: dict[str, Any] = {
         "title": title,
