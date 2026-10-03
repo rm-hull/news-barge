@@ -96,17 +96,17 @@ def profiled[T](func: Callable[..., T]) -> Callable[..., T]:
     return wrapper
 
 
-def print_profile_stats(stream: Any = sys.stderr) -> None:
-    """Print accumulated profiling statistics to *stream*.
+def format_profile_stats() -> str:
+    """Return accumulated profiling statistics as a formatted table.
 
-    Called automatically at interpreter exit; safe to invoke manually, e.g.
-    from tests.
+    Returns an empty string when no functions have been registered, so callers
+    (e.g. the CI step-summary writer) can append the table conditionally.
     """
     with _registry_lock:
         snapshot = list(_registry)
 
     if not snapshot:
-        return
+        return ""
 
     name_w = max(len("Function"), max(len(s.name) for s in snapshot))
     header = (
@@ -130,8 +130,21 @@ def print_profile_stats(stream: Any = sys.stderr) -> None:
             f"{mn:>11.4f}  {mx:>11.4f}  {stats.name:<{name_w}}"
         )
     lines.append("")
+    return "\n".join(lines)
+
+
+def print_profile_stats(stream: Any = sys.stderr) -> None:
+    """Print accumulated profiling statistics to *stream*.
+
+    Called automatically at interpreter exit; safe to invoke manually, e.g.
+    from tests. Use :func:`format_profile_stats` to obtain the table as a
+    string (e.g. for embedding in a GitHub step summary).
+    """
+    text = format_profile_stats()
+    if not text:
+        return
     try:
-        print("\n".join(lines), file=stream)
+        print(text, file=stream)
     except ValueError:
         # Stream already closed at interpreter shutdown (e.g. pytest exit).
         pass

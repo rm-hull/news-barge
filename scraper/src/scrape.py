@@ -49,6 +49,7 @@ from .log_helper import (
     write_step_summary,
 )
 from .pipeline import process_article
+from .profiling import format_profile_stats
 from .sites import SiteConfig
 
 # ---------------------------------------------------------------------------
@@ -411,6 +412,16 @@ async def main_async(args: argparse.Namespace) -> None:
             summary_lines.append(f"| {name} | {site_new_counts.get(slug, 0)} |")
         summary_lines.append(f"| **Total** | **{total_new}** |")
         summary_lines.append("")
+
+        # Surface the @profiled timing table in the step summary so it's
+        # always visible in CI (a trailing stderr atexit dump is easy to miss
+        # or lost entirely if the job is killed by the timeout).
+        profile_table = format_profile_stats()
+        if profile_table:
+            summary_lines.append("### Profiling statistics")
+            summary_lines.append("```")
+            summary_lines.append(profile_table)
+            summary_lines.append("```")
         write_step_summary("\n".join(summary_lines))
 
 
