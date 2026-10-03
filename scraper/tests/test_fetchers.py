@@ -150,230 +150,124 @@ class TestFetchHtmlAiohttp:
 
 
 class TestFetchHtmlPlaywright:
-    """Tests for fetch_html_playwright."""
+    """Tests for fetch_html_playwright with a shared BrowserContext."""
 
-    @pytest.mark.asyncio
-    async def test_success_returns_html(self) -> None:
-        """Should return HTML content on successful fetch."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html><body>Test</body></html>")
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
-        result = await fetch_html_playwright(
-            "https://example.com", mock_browser, semaphore
+    @pytest.fixture
+    def mock_page(self) -> AsyncMock:
+        page = AsyncMock()
+        page.content = AsyncMock(
+            return_value="<html><body>Test article content here.</body></html>"
         )
-        assert result == "<html><body>Test</body></html>"
+        page.goto = AsyncMock()
+        page.route = AsyncMock()
+        page.close = AsyncMock()
+        return page
+
+    @pytest.fixture
+    def mock_context(self, mock_page: AsyncMock) -> AsyncMock:
+        ctx = AsyncMock()
+        ctx.new_page = AsyncMock(return_value=mock_page)
+        ctx.route = AsyncMock()
+        ctx.close = AsyncMock()
+        return ctx
 
     @pytest.mark.asyncio
-    async def test_failure_returns_none(self) -> None:
-        """Should return None on fetch failure."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(side_effect=Exception("Browser crashed"))
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
+    async def test_success_returns_html(self, mock_context: AsyncMock) -> None:
+        """Should return HTML content on a successful fetch."""
         result = await fetch_html_playwright(
-            "https://example.com", mock_browser, semaphore
+            "https://example.com", mock_context, asyncio.Semaphore(1)
+        )
+        assert result == "<html><body>Test article content here.</body></html>"
+        mock_context.new_page.assert_awaited_once()
+
+    @pytest.mark.asyncio
+    async def test_failure_returns_none(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should return None on fetch failure and still close the page."""
+        mock_page.content = AsyncMock(side_effect=Exception("Browser crashed"))
+        result = await fetch_html_playwright(
+            "https://example.com", mock_context, asyncio.Semaphore(1)
         )
         assert result is None
+        mock_page.close.assert_awaited_once()
 
     @pytest.mark.asyncio
-    async def test_uses_user_agent_header(self) -> None:
-        """Should use FETCH_HEADERS User-Agent when creating context."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
-        await fetch_html_playwright("https://example.com", mock_browser, semaphore)
-
-        call_kwargs = mock_browser.new_context.call_args.kwargs
-        assert call_kwargs["user_agent"] == FETCH_HEADERS["User-Agent"]
-        assert call_kwargs["java_script_enabled"] is True
-        assert "Accept-Language" in call_kwargs["extra_http_headers"]
+    async def test_navigates_to_url(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should navigate to the given URL with the default wait mode."""
+        await fetch_html_playwright(
+            "https://example.com/page", mock_context, asyncio.Semaphore(1)
+        )
+        mock_page.goto.assert_awaited_once()
+        call_args = mock_page.goto.call_args
+        assert call_args[0][0] == "https://example.com/page"
+        assert call_args[1]["wait_until"] == "domcontentloaded"
 
     @pytest.mark.asyncio
-    async def test_registers_route_blocking(self) -> None:
-        """Should register a route to block analytics/ad requests."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
-        await fetch_html_playwright("https://example.com", mock_browser, semaphore)
-
-        mock_page.route.assert_called_once()
-        route_pattern = mock_page.route.call_args[0][0]
-        assert "analytics" in route_pattern
-
-    @pytest.mark.asyncio
-    async def test_navigates_to_url(self) -> None:
-        """Should navigate to the given URL."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
-        mock_page.goto = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
-        await fetch_html_playwright("https://example.com/page", mock_browser, semaphore)
-
-        mock_page.goto.assert_called_once()
-        call_kwargs = mock_page.goto.call_args
-        assert call_kwargs[0][0] == "https://example.com/page"
-        assert call_kwargs[1]["wait_until"] == "domcontentloaded"
-
-    @pytest.mark.asyncio
-    async def test_wait_until_networkidle(self) -> None:
+    async def test_wait_until_networkidle(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
         """Should pass wait_until='networkidle' through to page.goto."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
-        mock_page.goto = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
         await fetch_html_playwright(
             "https://example.com/page",
-            mock_browser,
-            semaphore,
+            mock_context,
+            asyncio.Semaphore(1),
             wait_until="networkidle",
         )
-
-        mock_page.goto.assert_called_once()
-        call_kwargs = mock_page.goto.call_args
-        assert call_kwargs[1]["wait_until"] == "networkidle"
+        mock_page.goto.assert_awaited_once()
+        assert mock_page.goto.call_args[1]["wait_until"] == "networkidle"
 
     @pytest.mark.asyncio
-    async def test_closes_page_and_context_on_success(self) -> None:
-        """Should close page and context after successful fetch."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
-        await fetch_html_playwright("https://example.com", mock_browser, semaphore)
-
-        mock_page.close.assert_called_once()
-        mock_context.close.assert_called_once()
+    async def test_closes_page_not_context(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should close the page but leave the shared context intact."""
+        await fetch_html_playwright(
+            "https://example.com", mock_context, asyncio.Semaphore(1)
+        )
+        mock_page.close.assert_awaited_once()
+        mock_context.close.assert_not_awaited()
 
     @pytest.mark.asyncio
-    async def test_logs_error_on_failure(self) -> None:
-        """Should log error with provided logger on failure."""
-        logger = SiteLogger("Test Site", "test")
+    async def test_does_not_register_per_page_route(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """The analytics/ad route is set once on the context, not per page."""
+        await fetch_html_playwright(
+            "https://example.com", mock_context, asyncio.Semaphore(1)
+        )
+        mock_page.route.assert_not_awaited()
 
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(side_effect=Exception("Failed"))
-        mock_page.route = AsyncMock()
-        mock_page.close = AsyncMock()
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock()
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
+    @pytest.mark.asyncio
+    async def test_handles_page_creation_failure(self, mock_context: AsyncMock) -> None:
+        """Should return None if the context cannot open a page."""
+        mock_context.new_page = AsyncMock(side_effect=Exception("Context died"))
         result = await fetch_html_playwright(
-            "https://example.com", mock_browser, semaphore, logger=logger
+            "https://example.com", mock_context, asyncio.Semaphore(1)
         )
         assert result is None
 
     @pytest.mark.asyncio
-    async def test_handles_context_failure(self) -> None:
-        """Should handle failure when creating context."""
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(side_effect=Exception("Browser crashed"))
-
-        semaphore = asyncio.Semaphore(1)
-
-        result = await fetch_html_playwright(
-            "https://example.com", mock_browser, semaphore
-        )
-        assert result is None
-
-    @pytest.mark.asyncio
-    async def test_handles_page_close_failure(self) -> None:
-        """Should handle failures during page.close gracefully."""
-        mock_page = AsyncMock()
-        mock_page.content = AsyncMock(return_value="<html></html>")
-        mock_page.route = AsyncMock()
+    async def test_handles_page_close_failure(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """A failure in page.close() should not mask the returned HTML."""
         mock_page.close = AsyncMock(side_effect=Exception("Close failed"))
-
-        mock_context = AsyncMock()
-        mock_context.new_page = AsyncMock(return_value=mock_page)
-        mock_context.close = AsyncMock(side_effect=Exception("Ctx close failed"))
-
-        mock_browser = AsyncMock()
-        mock_browser.new_context = AsyncMock(return_value=mock_context)
-
-        semaphore = asyncio.Semaphore(1)
-
         result = await fetch_html_playwright(
-            "https://example.com", mock_browser, semaphore
+            "https://example.com", mock_context, asyncio.Semaphore(1)
         )
-        assert result == "<html></html>"
+        assert result == "<html><body>Test article content here.</body></html>"
+
+    @pytest.mark.asyncio
+    async def test_logs_error_on_failure(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should log an error with the provided logger on failure."""
+        logger = SiteLogger("Test Site", "test")
+        mock_page.content = AsyncMock(side_effect=Exception("Failed"))
+        result = await fetch_html_playwright(
+            "https://example.com", mock_context, asyncio.Semaphore(1), logger=logger
+        )
+        assert result is None

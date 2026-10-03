@@ -8,12 +8,7 @@ import asyncio
 from typing import Any, Literal
 
 import aiohttp
-from playwright.async_api import (
-    Browser,
-    BrowserContext,
-    Page,
-    Route,
-)
+from playwright.async_api import BrowserContext, Page
 
 from .constants import FETCH_HEADERS
 from .log_helper import report_error
@@ -65,18 +60,27 @@ async def fetch_html_aiohttp(
 @profiled
 async def fetch_html_playwright(
     url: str,
-    browser: Browser,
+    context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     logger: Any = None,
     wait_until: Literal["commit", "domcontentloaded", "load", "networkidle"]
     | None = None,
 ) -> FetchResult:
-    """Full browser fetch for JS-heavy or anti-bot sites.
+    """Full browser render for JS-heavy or anti-bot pages.
+
+    Uses a *shared* ``BrowserContext`` (created once per scrape in
+    ``scrape._create_shared_context``) rather than creating one per fetch.
+    Opening a ``Page`` within that context is cheap, so the per-article ~2.8s
+    ``browser.new_context()`` cost is paid just once per run instead of once
+    per article (see issue #49).
+
+    The analytics/ad route is registered once on the context (not per page),
+    so every page inherits the blocking rule automatically.
 
     Args:
         url: The URL to fetch.
-        browser: Playwright Browser instance.
-        browser_semaphore: Semaphore to limit concurrent browser instances.
+        context: Shared Playwright BrowserContext to open pages from.
+        browser_semaphore: Semaphore to limit concurrent browser pages.
         logger: Optional logger for error reporting.
         wait_until: Playwright wait_until mode (default: "domcontentloaded").
 
@@ -84,25 +88,9 @@ async def fetch_html_playwright(
         The HTML content as a string, or None on failure.
     """
     async with browser_semaphore:
-        ctx: BrowserContext | None = None
         page: Page | None = None
         try:
-            ctx = await browser.new_context(
-                user_agent=FETCH_HEADERS["User-Agent"],
-                java_script_enabled=True,
-                extra_http_headers={
-                    "Accept-Language": FETCH_HEADERS["Accept-Language"]
-                },
-            )
-            page = await ctx.new_page()
-
-            async def abort_route(route: Route) -> None:
-                await route.abort()
-
-            await page.route(
-                "**/{analytics,doubleclick,googlesyndication,adservice,tracking}**",
-                abort_route,
-            )
+            page = await context.new_page()
             await page.goto(
                 url, wait_until=wait_until or "domcontentloaded", timeout=30000
             )
@@ -115,10 +103,5 @@ async def fetch_html_playwright(
             if page is not None:
                 try:
                     await page.close()
-                except Exception:
-                    pass
-            if ctx is not None:
-                try:
-                    await ctx.close()
                 except Exception:
                     pass

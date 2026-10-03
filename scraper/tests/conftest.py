@@ -108,9 +108,21 @@ ARTICLE_2 = "articles/test-article-two.html"
 
 @pytest.fixture
 def mock_playwright() -> Generator[AsyncMock]:
-    """Mock Playwright so tests don't need a real browser binary."""
+    """Mock Playwright so tests don't need a real browser binary.
+
+    main_async now creates one *shared* BrowserContext off the browser (via
+    scrape._create_shared_context), so the mock browser must support
+    new_context() returning a context whose route()/new_page()/close()
+    are awaitable.
+    """
+
+    mock_context = AsyncMock()
+    mock_context.route = AsyncMock()
+    mock_context.new_page = AsyncMock()
+    mock_context.close = AsyncMock()
 
     mock_browser = AsyncMock()
+    mock_browser.new_context = AsyncMock(return_value=mock_context)
     mock_browser.close = AsyncMock()
 
     mock_pw_instance = MagicMock()

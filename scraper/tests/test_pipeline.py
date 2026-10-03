@@ -63,13 +63,6 @@ def mock_context(mock_page: AsyncMock) -> AsyncMock:
     return ctx
 
 
-@pytest.fixture
-def mock_browser_with_context(mock_context: AsyncMock) -> AsyncMock:
-    browser = AsyncMock()
-    browser.new_context = AsyncMock(return_value=mock_context)
-    return browser
-
-
 class TestProcessArticle:
     """Unit tests for process_article."""
 
@@ -85,7 +78,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -100,7 +93,7 @@ class TestProcessArticle:
             dry_run=False,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -121,7 +114,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -136,7 +129,7 @@ class TestProcessArticle:
             dry_run=False,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -176,7 +169,7 @@ class TestProcessArticle:
                 dry_run=True,
                 force=True,
                 session=AsyncMock(),
-                browser=mock_browser,
+                context=mock_browser,
                 browser_semaphore=asyncio.Semaphore(1),
                 fetch_semaphore=asyncio.Semaphore(1),
                 logger=mock_logger,
@@ -202,7 +195,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -226,7 +219,7 @@ class TestProcessArticle:
             dry_run=False,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -247,7 +240,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -275,7 +268,7 @@ class TestProcessArticle:
             dry_run=False,
             force=False,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -296,7 +289,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -318,7 +311,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -343,7 +336,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -365,7 +358,7 @@ class TestProcessArticle:
             dry_run=False,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -393,7 +386,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -416,7 +409,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -439,7 +432,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -461,7 +454,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -482,7 +475,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -504,7 +497,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -525,7 +518,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -547,7 +540,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -568,7 +561,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -593,7 +586,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -614,7 +607,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -636,7 +629,7 @@ class TestProcessArticle:
             dry_run=True,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,
@@ -657,7 +650,7 @@ class TestProcessArticle:
         mock_extract: MagicMock,
         mock_fetch: AsyncMock,
         mock_session: AsyncMock,
-        mock_browser_with_context: AsyncMock,
+        mock_context: AsyncMock,
         mock_logger: SiteLogger,
         tmp_path: Path,
     ) -> None:
@@ -679,7 +672,7 @@ class TestProcessArticle:
             dry_run=False,
             force=True,
             session=mock_session,
-            browser=mock_browser_with_context,
+            context=mock_context,
             browser_semaphore=asyncio.Semaphore(1),
             fetch_semaphore=asyncio.Semaphore(1),
             logger=mock_logger,

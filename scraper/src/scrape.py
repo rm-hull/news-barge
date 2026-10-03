@@ -26,13 +26,14 @@ import aiohttp
 import feedparser
 import yaml
 from lxml import html as lxml_html
-from playwright.async_api import Browser, async_playwright
+from playwright.async_api import Browser, BrowserContext, Route, async_playwright
 from tqdm.asyncio import tqdm
 
 from .constants import (
     CONTENT_DIR,
     DEFAULT_BROWSER_CONCURRENCY,
     DEFAULT_CONCURRENCY,
+    FETCH_HEADERS,
     REPO_ROOT,
     SITES_FILE,
 )
@@ -98,7 +99,7 @@ async def urls_from_listing(
     limit: int,
     use_playwright: bool,
     session: aiohttp.ClientSession,
-    browser: Browser,
+    context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     listing_class: str | None = None,
     resolve_relative_to_root: bool = False,
@@ -109,7 +110,7 @@ async def urls_from_listing(
     ssl = not site.trust_insecure_certs if site else True
     html = (
         await fetch_html_playwright(
-            listing_url, browser, browser_semaphore, logger=logger
+            listing_url, context, browser_semaphore, logger=logger
         )
         if use_playwright
         else await fetch_html_aiohttp(listing_url, session, logger=logger, ssl=ssl)
@@ -186,6 +187,40 @@ def write_markdown(
     logger.log(f"  ✓ {display_path}")
 
 
+# Analytics/ad URL pattern blocked at the context level so every page opened
+# from the shared context avoids fetching them — registered once, not per fetch.
+_ANALYTICS_AD_ROUTE_PATTERN = (
+    "**/{analytics,doubleclick,googlesyndication,adservice,tracking}**"
+)
+
+
+async def _create_shared_context(browser: Browser) -> BrowserContext:
+    """Create the single reusable Playwright context for a scrape run.
+
+    Opens one ``BrowserContext`` off ``browser`` with the project User-Agent,
+    JS enabled, and an Accept-Language header, then registers the analytics/ad
+    route on it so *all* pages opened from it inherit the blocking rule (rather
+    than registering it per-page inside ``fetch_html_playwright``).
+
+    Args:
+        browser: A launched Playwright ``Browser``.
+
+    Returns:
+        The shared ``BrowserContext`` (closed once in ``main_async``).
+    """
+    context = await browser.new_context(
+        user_agent=FETCH_HEADERS["User-Agent"],
+        java_script_enabled=True,
+        extra_http_headers={"Accept-Language": FETCH_HEADERS["Accept-Language"]},
+    )
+
+    async def _abort_route(route: Route) -> None:
+        await route.abort()
+
+    await context.route(_ANALYTICS_AD_ROUTE_PATTERN, _abort_route)
+    return context
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -211,6 +246,13 @@ async def main_async(args: argparse.Namespace) -> None:
     async with aiohttp.ClientSession() as session:
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(headless=True)
+
+            # One shared browsing context for ALL Playwright fetches (listings
+            # and articles). A context is expensive to create (~2.8s on CI);
+            # reusing it instead of opening one per fetch is the biggest
+            # Playwright win (issue #49). Pages (cheap) are opened/closed
+            # inside it by fetch_html_playwright.
+            shared_context = await _create_shared_context(browser)
 
             # Phase 1 & 2: Discovery
             for site in sites:
@@ -246,7 +288,7 @@ async def main_async(args: argparse.Namespace) -> None:
                         limit,
                         use_playwright,
                         session,
-                        browser,
+                        shared_context,
                         browser_semaphore,
                         listing_class,
                         resolve_relative_to_root,
@@ -296,7 +338,7 @@ async def main_async(args: argparse.Namespace) -> None:
                 "dry_run": args.dry_run,
                 "force": args.force,
                 "session": session,
-                "browser": browser,
+                "context": shared_context,
                 "browser_semaphore": browser_semaphore,
                 "fetch_semaphore": fetch_semaphore,
                 "retention_months": args.retention_months,
@@ -334,6 +376,10 @@ async def main_async(args: argparse.Namespace) -> None:
                     total_new += 1
                     site_new_counts[site.slug] = site_new_counts.get(site.slug, 0) + 1
 
+            # Close the shared context before the browser; browser.close() would
+            # close it implicitly, but being explicit is clearer and symmetric
+            # with the single new_context() above.
+            await shared_context.close()
             await browser.close()
 
     # Print stashed logs grouped by site

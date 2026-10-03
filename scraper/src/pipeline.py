@@ -12,7 +12,7 @@ from typing import Any
 import yaml
 from aiohttp import ClientSession
 from markdownify import markdownify as to_markdown
-from playwright.async_api import Browser
+from playwright.async_api import BrowserContext
 
 from .classifiers import article_categories, named_entities
 from .constants import (
@@ -45,7 +45,7 @@ async def process_article(
     dry_run: bool,
     force: bool,
     session: ClientSession,
-    browser: Browser,
+    context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
     logger: SiteLogger,
@@ -60,7 +60,7 @@ async def process_article(
         dry_run: If True, only report what would be done.
         force: Force regeneration of existing files.
         session: aiohttp ClientSession for HTTP requests.
-        browser: Playwright Browser for JS-heavy pages.
+        context: Shared Playwright BrowserContext for JS-heavy pages.
         browser_semaphore: Semaphore for concurrent browser usage.
         fetch_semaphore: Semaphore for concurrent HTTP fetches.
         logger: Logger for progress reporting.
@@ -80,7 +80,7 @@ async def process_article(
         html = (
             await fetch_html_playwright(
                 url,
-                browser,
+                context,
                 browser_semaphore,
                 logger=logger,
                 wait_until=site.playwright_wait_until,
