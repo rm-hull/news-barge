@@ -50,15 +50,34 @@ CONCLUSION_COLORS = {
 }
 DEFAULT_COLOR = "#8b949e"
 
-# Preferred colors for the two scrape.yml jobs — the articles-scrape job
-# is orange for visibility; build-and-deploy is purple. Everything else
-# falls back to the cycle below.
+# Preferred colors for the two scrape.yml jobs. The articles-scrape job
+# ("Scrape articles") is orange; the deploy job ("Build site and deploy")
+# is purple. The GitHub jobs API returns the workflow `name:` fields, so we
+# match by exact name and by keyword (robust to display-name tweaks);
+# anything else falls back to the cycle below.
 JOB_COLORS_BY_NAME = {
-    "scrape": "#d29922",  # orange — the articles-scrape job
-    "build-and-deploy": "#8250df",  # purple
+    "Scrape articles": "#d29922",  # orange — the articles-scrape job
+    "Build site and deploy": "#8250df",  # purple
+}
+JOB_COLOR_KEYWORDS: dict[str, str] = {
+    "article": "#d29922",
+    "scrape": "#d29922",
+    "build": "#8250df",
+    "deploy": "#8250df",
 }
 # Fallback palette for any other job names, chosen for mutual contrast.
 JOB_COLOR_CYCLE = ["#0969da", "#8250df", "#d29922", "#1f734c", "#cb2439", "#54aeff"]
+
+
+def job_color(name: str, index: int) -> str:
+    """Bar color for a job display name: exact name, then keyword, then cycle."""
+    if name in JOB_COLORS_BY_NAME:
+        return JOB_COLORS_BY_NAME[name]
+    low = name.lower()
+    for kw, color in JOB_COLOR_KEYWORDS.items():
+        if kw in low:
+            return color
+    return JOB_COLOR_CYCLE[index % len(JOB_COLOR_CYCLE)]
 
 
 def gha(level: str, msg: str) -> None:
@@ -299,10 +318,7 @@ def main() -> None:
     if job_breakdown and job_names:
         color_for: dict[str, str] = {}
         for i, name in enumerate(job_names):
-            color_for[name] = (
-                JOB_COLORS_BY_NAME.get(name)
-                or JOB_COLOR_CYCLE[i % len(JOB_COLOR_CYCLE)]
-            )
+            color_for[name] = job_color(name, i)
         xs = list(range(len(job_breakdown)))
         bottoms = [0.0] * len(job_breakdown)
         for name in job_names:

@@ -8,6 +8,10 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    # Serialize stats runs so a manual dispatch and the daily schedule run
+    # don't both commit/push docs/scrape_stats.png at once (the original cause
+    # of the "Commit chart" push-rejected failure). Later runs queue behind.
+    concurrency: update-stats
     permissions:
       contents: write
       actions: read
