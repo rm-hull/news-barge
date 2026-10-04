@@ -92,7 +92,9 @@ async def fetch_html_playwright(
         try:
             page = await context.new_page()
             await page.goto(
-                url, wait_until=wait_until or "domcontentloaded", timeout=PLAYWRIGHT_TIMEOUT
+                url,
+                wait_until=wait_until or "domcontentloaded",
+                timeout=PLAYWRIGHT_TIMEOUT,
             )
             html = await page.content()
             return html

@@ -30,6 +30,7 @@ from playwright.async_api import Browser, BrowserContext, Route, async_playwrigh
 from tqdm.asyncio import tqdm
 
 from .constants import (
+    BLOCKED_REQUEST_KEYWORDS,
     CONTENT_DIR,
     DEFAULT_BROWSER_CONCURRENCY,
     DEFAULT_CONCURRENCY,
@@ -188,11 +189,15 @@ def write_markdown(
     logger.log(f"  ✓ {display_path}")
 
 
-# Analytics/ad URL pattern blocked at the context level so every page opened
-# from the shared context avoids fetching them — registered once, not per fetch.
-_ANALYTICS_AD_ROUTE_PATTERN = (
-    "**/{analytics,doubleclick,googlesyndication,adservice,tracking}**"
-)
+# Analytics/ad URL matcher.  Instead of a glob pattern (which only catches
+# keywords in the URL *path*), this predicate checks the full URL — including
+# the hostname — so domains like cdn.taboola.com or cmp.inmobi.com are blocked
+# even when the keyword appears outside the path.  Registered once on the
+# shared context so every page inherits the blocking rule.
+def _is_blocked_request(url: str) -> bool:
+    """Return True if *url* matches any analytics/ad/tracking keyword."""
+    url_lower = url.lower()
+    return any(kw in url_lower for kw in BLOCKED_REQUEST_KEYWORDS)
 
 
 async def _create_shared_context(browser: Browser) -> BrowserContext:
@@ -218,7 +223,7 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
     async def _abort_route(route: Route) -> None:
         await route.abort()
 
-    await context.route(_ANALYTICS_AD_ROUTE_PATTERN, _abort_route)
+    await context.route(_is_blocked_request, _abort_route)
     return context
 
 

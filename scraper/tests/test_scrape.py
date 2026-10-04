@@ -1,4 +1,4 @@
-"""Unit tests for the shared Playwright context created in src/scrape.py."""
+"""Unit tests for the shared Playwright context created in src.scrape.py."""
 
 from __future__ import annotations
 
@@ -61,6 +61,32 @@ async def test_create_shared_context_registers_analytics_route_once(
 
     mock_context.route.assert_awaited_once()
     args = mock_context.route.call_args.args
-    assert "analytics" in args[0] or "doubleclick" in args[0]
-    # second positional arg is the abort-route handler callable
+    # First positional arg is the URL-matcher predicate (a callable, not a
+    # string glob), so that keywords are matched in the full URL — including
+    # the hostname (e.g. cdn.taboola.com, not just /analytics/ in the path).
+    assert callable(args[0])
+    # Second positional arg is the abort-route handler callable.
     assert callable(args[1])
+
+
+@pytest.mark.asyncio
+async def test_blocked_request_matcher_catches_ads_and_tracking() -> None:
+    """The matcher should flag known analytics/ad/tracking URLs."""
+    matcher = scrape._is_blocked_request
+
+    # URLs that should be blocked (keywords appear in hostname or path).
+    assert matcher("https://cdn.taboola.com/widget.js")
+    assert matcher("https://cmp.inmobi.com/choice.js")
+    assert matcher("https://uk-script.dotmetrics.net/collect")
+    assert matcher("https://www.googletagmanager.com/gtag.js")
+    assert matcher("https://cdn.eu.amplitude.com/tracker")
+    assert matcher("https://example.com/analytics/pageview.gif")
+    assert matcher("https://securepubads.g.doubleclick.net/pixel")
+    assert matcher("https://livecomments.viafoura.co/embed")
+
+    # URLs that should NOT be blocked — normal article / content requests.
+    assert not matcher("https://www.leeds-live.co.uk/news/article-slug-12345")
+    assert not matcher("https://www.theguardian.com/uk-news/article")
+    assert not matcher("https://www.bbc.co.uk/news/uk-politics-12345")
+    assert not matcher("https://fonts.googleapis.com/css2?family=Roboto")
+    assert not matcher("https://example.com/api/articles/123")

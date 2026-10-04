@@ -210,7 +210,7 @@ class TestFetchHtmlPlaywright:
     async def test_uses_reduced_timeout(
         self, mock_context: AsyncMock, mock_page: AsyncMock
     ) -> None:
-        """Should pass a reduced timeout (not the Playwright default of 30s)."""
+        """Should pass a reduced timeout (far below Playwright's 30s default)."""
         await fetch_html_playwright(
             "https://example.com/page", mock_context, asyncio.Semaphore(1)
         )
