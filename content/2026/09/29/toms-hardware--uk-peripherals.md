@@ -1,0 +1,279 @@
+---
+title: Peripherals
+source_url: https://www.tomshardware.com/uk/peripherals
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-10-04T11:08:52Z'
+published: '2026-09-29T00:00:00Z'
+description: Peripherals reviews, news and features, created for the hardcore PC enthusiast
+  by the experts at Tom's Hardware.
+image: https://cdn.mos.cms.futurecdn.net/66SP87VgKh47nBZQMxwpG-800-80.jpg
+categories:
+- Technology & Software
+- Hardware
+people:
+- Jensen Huang
+- Mark Tyson
+- Matt Keith
+- Sarah Jacobsson
+- Stephen Warwick
+locations:
+- Brandon Hill
+- Bruno Ferreira
+- Foxconn
+- PrintersLos Angeles
+- Taipei
+organisations:
+- Aaron Klotz Published
+- Amazon
+- Brandon Hill
+- Camo Studio
+- Christopher Harper Published
+- ConnectorsJapanese
+- Crown
+- DK07
+- DealsFlexispot
+- DesksErgo Desk
+- DesksI
+- DesksLian Li
+- Ergo Desk
+- GamepadsCommodore
+- GamepadsEnthusiast
+- GamepadsNew
+- GamepadsSteam Controller
+- GamepadsThrustmaster
+- GamepadsValve
+- Gaming ChairsSecretlab
+- Gaming ChairsToyota
+- Gaming HeadsetsCorsair
+- Gaming MiceLogitech
+- Gaming MicePulsar Feinmann
+- Hassam Nasir
+- Hassam Nasir Published
+- Hon Hai
+- HubsPhysical
+- HubsThe Best Thunderbolt
+- HubsThis
+- Joe Shields Published
+- Jowi Morales
+- Jowi Morales Published
+- KeyboardsOpenAI
+- Keychron
+- Lexmark
+- Logitech G
+- Luke James
+- Luke James Published
+- Mac Studio
+- Mandalorian Titan Evo
+- Mark Tyson Published
+- Matt Safford Published
+- Mechanical KeyboardsKeychron
+- MicrophonesHyperX
+- MicrophonesLogitech
+- Nape Pro
+- Orico TB5
+- Orico TB5By Brandon Hill
+- PrintersAustralian
+- PrintersBrother
+- PrintersHP
+- PrintersMicrosoft
+- PrintersXerox
+- Puck CAD
+- Pulsar Feinmann
+- QuadCast
+- Razer BlackShark
+- Razer Kiyo
+- Razer Naga
+- Roshan Ashraf Shaikh
+- Sarah Jacobsson Purewal
+- Sarah Jacobsson Purewal Published
+- Steam Controller
+- USBWe
+- Valve
+- VectoTech V-Core
+- WebcamsHow
+- WebcamsRazer Kiyo
+- WebcamsThe
+- XLR
+- Xerox
+---
+
+# Peripherals
+
+## Latest about Peripherals
+
+* + ![](https://cdn.mos.cms.futurecdn.net/66SP87VgKh47nBZQMxwpG-800-80.jpg)PeripheralsPortable Bluetooth CD player has a glow-in-the-dark transparent green finish, modern featuresBy Mark Tyson Published
+  + ![Best PC Peripherals deals](https://cdn.mos.cms.futurecdn.net/k5Gbdi2rxbEhf8YkG2BopY-800-80.png)PeripheralsBest PC peripherals deals 2026By Sarah Jacobsson Purewal Last updated
+  + ![](https://cdn.mos.cms.futurecdn.net/MKQZevaP2uRJyvU737xQuZ-800-80.jpg)USBBest USB charger deals 2026By Joe Shields Last updated
+  + ![](https://cdn.mos.cms.futurecdn.net/wkS7988CuS5qn7xmAvHapU-800-80.jpg)USBWe tested 13 power banks to help you choose the best oneBy Joe Shields Published
+  + ![VectoTech V-Core vs Orico TB5](https://cdn.mos.cms.futurecdn.net/AjibR2iDcrNghnVFuWQMTW-800-80.jpg)Docking Stations and HubsTesting two Thunderbolt 5 docks with M.2 storage — VectoTech V-Core vs Orico TB5By Brandon Hill Published
+  + ![](https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-800-80.jpg)MicrophonesLogitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoisingBy Kunal Khullar Published
+  + ![Glorious GMMK Eternal](https://cdn.mos.cms.futurecdn.net/9eYRtjMnSkko6dZzcNdK8d-800-80.jpg)Gaming KeyboardsGlorious GMMK Eternal Review: Fits anywhere, sounds greatBy Sarah Jacobsson Purewal Published
+
+## Explore Peripherals
+
+## Cables and Connectors
+
+* + ![](https://cdn.mos.cms.futurecdn.net/MKQZevaP2uRJyvU737xQuZ-800-80.jpg)USBBest USB charger deals 2026By Joe Shields Last updated
+  + ![](https://cdn.mos.cms.futurecdn.net/wkS7988CuS5qn7xmAvHapU-800-80.jpg)USBWe tested 13 power banks to help you choose the best oneBy Joe Shields Published
+  + ![Best USB Chargers](https://cdn.mos.cms.futurecdn.net/MKQZevaP2uRJyvU737xQuZ-800-80.jpg)USBBest USB Chargers 2026By Joe Shields Last updated
+  + ![](https://cdn.mos.cms.futurecdn.net/PTaixDJxHcDJtSZcU69TAS-800-80.png)Cables and ConnectorsWhy you shouldn't travel without your HDMI business and entertainment products
+
+    Advertiser Content HDMI LA
+
+    By Sponsored Published
+  + ![A group of USB-C cables together](https://cdn.mos.cms.futurecdn.net/AdW6hjWnqJnwMkP7HFo67g-800-80.jpg)PremiumThe future of USB connectivity (2026) —bringing copper to its physical limitsBy Luke James Published
+  + ![Best USB Hubs](https://cdn.mos.cms.futurecdn.net/BY8kjKvcqwMTifJQzkCAUF-800-80.png)Cables and ConnectorsBest USB Hubs 2026: Powered, Portable and Type-CBy Avram Piltch Last updated
+  + ![GaN Charging](https://cdn.mos.cms.futurecdn.net/YvyvixQCgSruLnUaL4P8F6-800-80.jpg)USBWe tested 20 wall chargers, from cheap to expensive, to find the bestBy Joe Shields Published
+  + ![undersea cable cross section](https://cdn.mos.cms.futurecdn.net/9ZzpzkMqppsvbVMaZSHmmU-800-80.jpg)Cables and ConnectorsJapanese firm develops optical fiber with 4x traffic capacity, could be used for undersea cablesBy Jowi Morales Published
+  + ![Fiber optic HDMI cable with detachable ends](https://cdn.mos.cms.futurecdn.net/eaVbvitboKpTA7Eo8g5nqG-800-80.png)Cables and Connectors$500 fiber optic HDMI cable delivers flawless 48 Gbps performance across a staggering 990 feetBy Hassam Nasir Published
+
+## Controllers and Gamepads
+
+* + ![Thrustmaster Airbus Add-On Grip with AVA Joystick Base](https://cdn.mos.cms.futurecdn.net/zfKwdCfrYdaSytgonPLWeU-800-80.jpg)Controllers and GamepadsThrustmaster Airbus Add-On Grip with AVA Joystick Base Review: A First-Class Flight ExperienceBy Dan Mateescu Published
+  + ![](https://cdn.mos.cms.futurecdn.net/uQXysY3YNByfboRWYndEvF-800-80.jpg)Controllers and GamepadsCommodore re-releases TAC-2 joystick after 40 years for just $49By Mark Tyson Published
+  + ![Valve Steam Controller](https://cdn.mos.cms.futurecdn.net/afqXySTxPCEC6t4PTDCq7m-800-80.jpg)Controllers and GamepadsSteam Controller can now play stereo music through the haptic motors underneath its two trackpadsBy Hassam Nasir Published
+  + ![Valve Steam Controller](https://cdn.mos.cms.futurecdn.net/afqXySTxPCEC6t4PTDCq7m-800-80.jpg)Controllers and GamepadsEnthusiast creates DIY "OpenPuck" for Steam Controller 2 to natively emulate Xbox, Switch, & PS controllersBy Hassam Nasir Published
+  + ![Steam Controller auto-charge](https://cdn.mos.cms.futurecdn.net/36BZ8tAWCQtaJDjEoKPRY9-800-80.png)Controllers and GamepadsModded Steam Controller can automatically charge itself like a robot vacuumBy Jowi Morales Published
+  + ![Steam Controller 2 RC Car](https://cdn.mos.cms.futurecdn.net/n9MQTLFR7jCACG5JBUMVuG-800-80.png)Controllers and GamepadsNew web app can make Valve's Steam Controller drift across your desk like an RC carBy Luke James Published
+  + ![Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition ](https://cdn.mos.cms.futurecdn.net/LySuRTFp2wiQxacv4kAXsU-800-80.jpg)Controllers and GamepadsThrustmaster's new T.Flight Hotas 5 MFS Edition provides a plug & play flight sim setup for just $109By Hassam Nasir Published
+  + ![Valve Steam Controller](https://cdn.mos.cms.futurecdn.net/SBHHZNXTZVnqdJgZjJUTk7-800-80.jpg)Controllers and GamepadsValve opens Steam Controller reservations today at 10 AM PT after record-breaking sell-outBy Zhiye Liu Last updated
+  + ![Steam Controller 3D CAD files](https://cdn.mos.cms.futurecdn.net/E3RUVrc3SzDzM8kqdACXqP-800-80.png)Controllers and GamepadsSteam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the deviceBy Jowi Morales Published
+
+## Desks
+
+* + ![](https://cdn.mos.cms.futurecdn.net/TnoqMs3N6PGpf3nUvtMJuE-800-80.jpg)DesksSecretlab Magnus Evo Hands-on — a trimmed-down version of its popular, premium sit-stand deskBy Stephen Warwick Published
+  + ![Secretlab Magnus Pro](https://cdn.mos.cms.futurecdn.net/8Ak5i5p9FdUDjemoLyDHbZ-800-80.jpg)DesksI have the most luxurious standing desk imaginable, but I can't quite bring myself to game while standingBy Stephen Warwick Published
+  + ![Ergo Desk's Ergo Desk ](https://cdn.mos.cms.futurecdn.net/EyBXzTXpLNMN8kENFzF8VR-800-80.jpg)DesksErgo Desk reclines with your chair and tilts to match its angleBy Mark Tyson Published
+  + ![Real Deals](https://cdn.mos.cms.futurecdn.net/7WiUoeLDvuFg5fXDBtfjXg-800-80.jpg)DealsFlexispot's fabulous E7 standing desk drops down to $329 for Black FridayBy Stewart Bendle Published
+  + ![motorized desks](https://cdn.mos.cms.futurecdn.net/UjPvhVAo7wd24SBsEGtpMc-800-80.jpg)DesksTake a seat — standing desks aren't better for you, says new studyBy Mark Tyson Published
+  + ![Lian Li DK07 Standing Desk](https://cdn.mos.cms.futurecdn.net/dSERzk8xjXw6XZBiuEfFWW-800-80.jpg)DesksLian Li's DK07 mechanized standing desk PC case debuts at $1,399 USD — room inside for dual EATX PCsBy Christopher Harper Published
+  + ![DK-07 Prototype](https://cdn.mos.cms.futurecdn.net/XPDdNczYPExtr7Zfief2JL-800-80.png)DesksLian Li's protoype desk PC case has a transparent OLED screen built into itBy Aaron Klotz Published
+  + ![Thermaltake G700 Motorised Standing Desk ](https://cdn.mos.cms.futurecdn.net/kihAdZRdzMF5JTKixN6A3C-800-80.jpg)DesksThermaltake G700 gaming desk has RGB controls with mechanical switchesBy Roshan Ashraf Shaikh Published
+  + ![Corsair Platform:6](https://cdn.mos.cms.futurecdn.net/GhgJDyEPiFk4YL8SX76rH7-800-80.jpg)DesksCorsair Platform:6 Standing Desk Review: Premium Design with a Price Tag to MatchBy Brandon Hill Published
+
+## Docking Stations and Hubs
+
+* + ![VectoTech V-Core vs Orico TB5](https://cdn.mos.cms.futurecdn.net/AjibR2iDcrNghnVFuWQMTW-800-80.jpg)Docking Stations and HubsTesting two Thunderbolt 5 docks with M.2 storage — VectoTech V-Core vs Orico TB5By Brandon Hill Published
+  + ![](https://cdn.mos.cms.futurecdn.net/b6Yexe2y9qta8KpCPdKq9F-800-80.png)DealsSave a ridiculous 76% on this 7-in-1 Hyper Dual Monitor Thunderbolt 4 DockBy Joe Shields Published
+  + ![](https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-800-80.jpg)Docking Stations and HubsPhysical media nostalgia sees fundraisers flock to Blu-Ray KickstarterBy Mark Tyson Published
+  + ![Best Thunderbolt and USB-C Docks for Laptops](https://cdn.mos.cms.futurecdn.net/6JgTGGa4HkMDp5H7eAyZb7-800-80.jpg)Docking Stations and HubsThe Best Thunderbolt and USB-C Docks in 2026: Up to 140W power delivery, 10 GbE, and even internal M.2 SSD slotsBy Brandon Hill Last updated
+  + ![Thunderbolt 5 Docking Station Testing](https://cdn.mos.cms.futurecdn.net/VEupXC8GJaLkgkeDN7MGNc-800-80.jpg)Docking Stations and HubsSub-$400 Thunderbolt 5 dock roundupBy Brandon Hill Published
+  + ![Cooler Master MasterHUB](https://cdn.mos.cms.futurecdn.net/5PFx4Zs8vvY2rNXZVvR5eY-800-80.jpg)Docking Stations and HubsCooler Master MasterHUB review: A modular stream deck with potentialBy Sarah Jacobsson Purewal Published
+  + ![](https://cdn.mos.cms.futurecdn.net/gyiqjESLi9tJFhgubAx2p8-800-80.jpg)Docking Stations and HubsTake your OpenClaw box back to the future with retro Mac Mini, Mac Studio docksBy Matt Safford Published
+  + ![Thunderbolt 5 Docks](https://cdn.mos.cms.futurecdn.net/dC6AFmoVkDY9FeFZYRcybQ-800-80.jpg)Docking Stations and HubsTesting the top Thunderbolt 5 docks with up to 140W Power Delivery, 10 GbE, and even internal M.2 SSD slotsBy Brandon Hill Published
+  + ![Wokyis M5 Retro Dock Station](https://cdn.mos.cms.futurecdn.net/aYmmLmvbySWgxxRr9PvcXT-800-80.png)Docking Stations and HubsThis must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeoverBy Jowi Morales Published
+
+## Gaming Chairs
+
+* + ![Libernovo Omni Pro](https://cdn.mos.cms.futurecdn.net/c9SkuPHoVfkpgfCLE7FtcT-800-80.jpg)Gaming ChairsLibernovo Omni Pro Review: Cooler than you thinkBy Sarah Jacobsson Purewal Published
+  + ![Fractal Refine 2](https://cdn.mos.cms.futurecdn.net/wsXFFn8qWv6WSCXajNiXKo-800-80.jpg)Gaming ChairsFractal Design Refine 2 Review: Slightly refinedBy Sarah Jacobsson Purewal Published
+  + ![Cooler Master Hybrid 1](https://cdn.mos.cms.futurecdn.net/Dig8shFu2YRqrYQjq7gBJn-800-80.jpg)Gaming ChairsBest Gaming Chairs 2026: Tested for Size, Style, and BudgetBy Sarah Jacobsson Purewal Last updated
+  + ![Razer Soma Chroma](https://cdn.mos.cms.futurecdn.net/7e8jw5hCNX5WsYWq8iRcUT-800-80.jpg)Gaming ChairsRazer Soma Chroma Gaming Chair Review: Light on adjustability, but heavy on RGBsBy Brandon Hill Published
+  + ![Secretlab Atlas](https://cdn.mos.cms.futurecdn.net/8MA6o5DV5akM76AXuVbkWF-800-80.jpg)Gaming ChairsSecretlab Atlas review: The one you’ve been waiting forBy Stephen Warwick Last updated
+  + ![Autonomous ErgoChair Pro](https://cdn.mos.cms.futurecdn.net/ZCqdTjbqkDJuL4Hi4kiPaL-800-80.jpg)Gaming ChairsAutonomous ErgoChair Pro Review: Comfortable, but that's itBy Matt Keith Published
+  + ![](https://cdn.mos.cms.futurecdn.net/wqo4B6UtTANbF7aTFujB2U-800-80.png)Gaming ChairsSecretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4thBy Luke James Published
+  + ![](https://cdn.mos.cms.futurecdn.net/TCnfx2bgyYdxoiPx3uMJsU-800-80.jpg)Gaming ChairsToyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckleBy Mark Tyson Published
+  + ![Autonomous ErgoChair Core](https://cdn.mos.cms.futurecdn.net/AiGWVgVnstvWzvyUdHBY38-800-80.jpg)Gaming ChairsAutonomous ErgoChair Core Review: You get what you pay forBy Matt Keith Published
+
+## Headphones and Headsets
+
+* + ![Razer BlackShark V2 Pro](https://cdn.mos.cms.futurecdn.net/BshbC2wUURxs5XX5cXXEmC-800-80.jpeg)Gaming HeadsetsBest Gaming Headsets 2026: Tested for Comfort, Connectivity, and CommunicationBy Sarah Jacobsson Purewal Last updated
+  + ![Glorious GHS Wireless InfinitePlay](https://cdn.mos.cms.futurecdn.net/VRCTXynSm4Xiyk35RRDBFQ-800-80.jpg)Gaming HeadsetsGlorious Wireless InfinitePlay Gaming Headset ReviewBy Christopher Coke Published
+  + ![Corsair Virtuoso RGB Wireless XT](https://cdn.mos.cms.futurecdn.net/3ZEbd2AYUXXn4AZ4BLNskH-800-80.jpg)Gaming HeadsetsBest Wireless Gaming Headsets 2026: Our Tested Picks for Bluetooth, Budget, and MoreBy Sarah Jacobsson Purewal Last updated
+  + ![HyperX Cloud Stinger 3 Wireless](https://cdn.mos.cms.futurecdn.net/2K2zvSveGYHxyopxSwbRt3-800-80.jpg)Gaming HeadsetsHyperX Cloud Stinger 3 Wireless Headset Review: 80 hours and under $100By Sarah Jacobsson Purewal Published
+  + ![white corsair gaming headset on stand ](https://cdn.mos.cms.futurecdn.net/6Rj6yL3AeEGHrSaETH3utP-800-80.jpg)Gaming HeadsetsCorsair launches lightweight budget-friendly HS35 v3 gaming headsets — wired version weighs a cool 230 gramsBy Sarah Jacobsson Purewal Published
+  + ![Turtle Beach Stealth Pro II](https://cdn.mos.cms.futurecdn.net/AvJj69v8FjEVrRF2EbXHN3-800-80.jpg)Gaming HeadsetsTurtle Beach Stealth Pro II review: Impressively versatileBy Sarah Jacobsson Purewal Published
+  + ![Astro A20 X](https://cdn.mos.cms.futurecdn.net/f33Hgq5p63fHRxayoufB2h-800-80.jpg)Gaming HeadsetsAstro A20 X review: For PC gamers with a consoleBy Sarah Jacobsson Purewal Published
+  + ![](https://cdn.mos.cms.futurecdn.net/s6WQt9LLMZHFtbgE7tCekA-800-80.jpg)Gaming HeadsetsPC enthusiast finds relic Nvidia 3D Vision 2 glasses for $2.99By Mark Tyson Published
+  + ![Logitech G522 Lightspeed Wireless ](https://cdn.mos.cms.futurecdn.net/Bb8krTfeLngGmJ3GPeKZ7G-800-80.jpg)Gaming HeadsetsLogitech G522 Lightspeed Wireless Gaming Headset ReviewBy Christopher Coke Published
+
+## Keyboards
+
+* + ![Glorious GMMK Eternal](https://cdn.mos.cms.futurecdn.net/9eYRtjMnSkko6dZzcNdK8d-800-80.jpg)Gaming KeyboardsGlorious GMMK Eternal Review: Fits anywhere, sounds greatBy Sarah Jacobsson Purewal Published
+  + ![](https://cdn.mos.cms.futurecdn.net/FabLdCYY8TBh2dHmBWzS7M-800-80.jpg)SPONSOREDNeed a wired keyboard for PC gaming? Logitech G has the answer
+
+    Sponsored by Logitech G
+
+    By Sponsored Published
+  + ![](https://cdn.mos.cms.futurecdn.net/oEsh6YMv7qdbfWSMKJAEQC-800-80.jpg)SPONSOREDLogitech G's mechanical keyboard is a competitive gamer's dream
+
+    Sponsored by Logitech G
+
+    By Sponsored Published
+  + ![](https://cdn.mos.cms.futurecdn.net/vzNEYGttfZTibGbFeAiHPB-800-80.jpg)SPONSOREDLogitech G's latest gaming keyboard gives you options
+
+    Sponsored by Logitech G
+
+    By Sponsored Published
+  + ![the Keychron C100 8K 100-key macro pad on a desk](https://cdn.mos.cms.futurecdn.net/dEoEJfLjGi2QpdrHbmL99m-800-80.png)Mechanical KeyboardsKeychron launches ludicrous 100-key custom macro padBy Jowi Morales Published
+  + ![Turtle Beach KB5](https://cdn.mos.cms.futurecdn.net/E24GfKZ8PD4aKEeYexuJfL-800-80.jpg)Gaming KeyboardsTurtle Beach Command Series KB5 Review: A touchscreen and a numberpad in one keyboard?By Sarah Jacobsson Purewal Published
+  + ![OpenAI x WorkLouder Codex Micro](https://cdn.mos.cms.futurecdn.net/FfNHvj66S9MmZ5erWjsqAX-800-80.png)KeyboardsOpenAI's first piece of hardware is an RGB macropod called the "Codex Micro"By Hassam Nasir Published
+  + ![Turtle Beach Command Series KB7](https://cdn.mos.cms.futurecdn.net/zAFwJpJpMZFpxcr4wwseid-800-80.jpg)Gaming KeyboardsTurtle Beach Command Series KB7 Review: A keyboard with a touchscreen and a lot of potentialBy Sarah Jacobsson Purewal Published
+  + ![Turtle Beach KP7](https://cdn.mos.cms.futurecdn.net/7FLKqaKBFr96CjN2aa4LsB-800-80.jpg)Gaming KeyboardsTurtle Beach KP7 Review: The accessory that does everythingBy Sarah Jacobsson Purewal Published
+
+## Mice
+
+* + ![Razer HyperFlux V2](https://cdn.mos.cms.futurecdn.net/DJcMdCjyKogtAapmMGLCZP-800-80.jpg)Gaming MiceRazer HyperFlux V2 Review: The best wireless charging mat for Razer miceBy Sarah Jacobsson Purewal Published
+  + ![Razer Naga V3 Pro](https://cdn.mos.cms.futurecdn.net/xJziFqTZo8ViiLUmiMoiqg-800-80.jpg)Gaming MiceRazer Naga V3 Pro Review: My new 23-button mouseBy Sarah Jacobsson Purewal Published
+  + ![Pulsar Feinmann F01 Noctua Edition](https://cdn.mos.cms.futurecdn.net/b7GqL4UHXbShBfA3RDuLtG-800-80.jpg)Gaming MicePulsar Feinmann F01 Noctua Edition Review: Extra coolBy Sarah Jacobsson Purewal Published
+  + ![Keychron Nape Pro trackball mouse](https://cdn.mos.cms.futurecdn.net/j3dJZp9senxbci67YytFEG-800-80.png)MiceKeyboard giant Keychron launches Nape Pro wireless trackball mouseBy Jowi Morales Published
+  + ![best gaming mice](https://cdn.mos.cms.futurecdn.net/7rW2W6tAxZFubW2EE2vsCh-800-80.jpeg)Gaming MiceBest Gaming Mouse 2026: Tested for Every Grip StyleBy Sarah Jacobsson Purewal Last updated
+  + ![best wireless mouse](https://cdn.mos.cms.futurecdn.net/63QVV3MEpWXGvUF5mru6Hf-800-80.jpg)MiceBest Wireless Mouse 2026: Tested for Productivity, Portability, and ComfortBy Sarah Jacobsson Purewal Last updated
+  + ![Razer Naga V2 Pro](https://cdn.mos.cms.futurecdn.net/iLo9CSo5wNv578N2ZZrKxN-800-80.jpeg)Gaming MiceTelehealth doctor treats patients using Razer Naga gaming mouseBy Jowi Morales Published
+  + ![](https://cdn.mos.cms.futurecdn.net/a7jbVgATx7AS9Xg69P4zi6-800-80.jpg)Gaming MiceLogitech's new G305 X Superlight weighs just 59 grams and costs $79By Kunal Khullar Published
+  + ![](https://cdn.mos.cms.futurecdn.net/VfLBMyaEBeoAxjaPnLU8Xn-800-80.png)MiceLogi Mobi Fold portable mouse bends in half and slides neatly into your pocketBy Bruno Ferreira Published
+
+## Microphones
+
+* + ![](https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-800-80.jpg)MicrophonesLogitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoisingBy Kunal Khullar Published
+  + ![Best Microphones](https://cdn.mos.cms.futurecdn.net/PxNMbJZVwCHCdjyq8By7TX-800-80.png)MicrophonesBest Gaming Microphones 2026: Our Tested Picks for Sounding Like a ProBy Sarah Jacobsson Purewal Last updated
+  + ![Razer Seiren V3 Pro](https://cdn.mos.cms.futurecdn.net/WBJLXURfUDj7yNSRyZVTY8-800-80.jpg)MicrophonesRazer Seiren V3 Pro Review: USB, XLR, and 32-bit floatBy Sarah Jacobsson Purewal Published
+  + ![HyperX FlipCast](https://cdn.mos.cms.futurecdn.net/ib5zFJQvSrukmZsBTbtapW-800-80.jpg)MicrophonesHyperX FlipCast Review: For the gamer-podcasterBy Sarah Jacobsson Purewal Published
+  + ![HyperX SoloCast 2](https://cdn.mos.cms.futurecdn.net/p2XZqXPCDsqhrJDZDzFVYe-800-80.jpg)MicrophonesHyperX SoloCast 2 Review: A built-in stand that you'll want to mountBy Sarah Jacobsson Purewal Published
+  + ![Hollyland Lark M2 Wireless Lavalier Microphone](https://cdn.mos.cms.futurecdn.net/GDE5YpnRVRc3Ef5cf4LWpH-800-80.jpg)MicrophonesHollyland Lark M2 Wireless Lavalier Microphone drops to a low price for Amazon's Big Spring Sale 2025By Les Pounder Published
+  + ![Elgato Wave Neo](https://cdn.mos.cms.futurecdn.net/UGE7EsqELS4U2HMACKrYZG-800-80.jpg)MicrophonesElgato Wave Neo Review: I hope you got this as part of a bundleBy Sarah Jacobsson Purewal Published
+  + ![HyperX QuadCast 2 S](https://cdn.mos.cms.futurecdn.net/4bD28YsDbAuJPNtdFWpbPm-800-80.jpg)MicrophonesHyperX QuadCast 2 S Review: Pretty overkillBy Sarah Jacobsson Purewal Published
+  + ![HyperX Quadcast 2 S](https://cdn.mos.cms.futurecdn.net/KwpjPGB6w895jhWCYLgioj-800-80.jpg)MicrophonesHyperX finally updates its QuadCast gaming mic for real — QuadCast 2 and 2 S get boost in recording qualityBy Sarah Jacobsson Purewal Published
+
+## Printers
+
+* + ![](https://cdn.mos.cms.futurecdn.net/tSdc6WL7nF5y2UHwrBZTkW-800-80.png)PrintersWorking prototype of open-source printer that promises user-repairability and no subscriptions appears in first videoBy Luke James Published
+  + ![](https://cdn.mos.cms.futurecdn.net/9aqkttQru7fgzV5zgMyMt5-800-80.jpg)PrintersAustralian who smuggled 50 pounds of cocaine inside printers get nine years behind barsBy Mark Tyson Published
+  + ![](https://cdn.mos.cms.futurecdn.net/s3xySUYCCzMbDfv5Ju3ze7-800-80.jpg)PrintersMicrosoft clarifies Windows 11 printer driver policyBy Luke James Published
+  + ![](https://cdn.mos.cms.futurecdn.net/s3xySUYCCzMbDfv5Ju3ze7-800-80.jpg)PrintersMicrosoft purges Windows 11 printer drivers, putting millions of devices on borrowed timeBy Luke James Published
+  + ![Printer cartridges in the trash](https://cdn.mos.cms.futurecdn.net/xRzLk6DTAnE7M8kn9CLcna-800-80.jpg)PrintersLos Angeles is looking to ban single-use printer cartridges to curb waste in the cityBy Hassam Nasir Published
+  + ![Brother genuine toner](https://cdn.mos.cms.futurecdn.net/eLSU84Dz7bMKUxN8a9ouug-800-80.jpg)PrintersBrother denies firmware blocks third-party toner and ink useBy Mark Tyson Published
+  + ![Brother printers join the dark side](https://cdn.mos.cms.futurecdn.net/UYyMKvs4i434HgXSxP6QZL-800-80.jpg)PrintersBrother accused of locking down third-party printer ink cartridges via forced firmware updatesBy Mark Tyson Published
+  + ![Official render of the HP LaserJet Pro 3002dwe, one of the printers being discontinued.](https://cdn.mos.cms.futurecdn.net/R4qKkoKQk2238TimxMg5Cm-800-80.png)PrintersHP intentionally made customers hold for 15 minutes for telephone customer service, then quickly canceled it due to backlashBy Jowi Morales Published
+  + ![Xerox sign-in ](https://cdn.mos.cms.futurecdn.net/BkVmUvFsGgVLaQqPPD6Doj-800-80.jpg)PrintersXerox buys Lexmark for $1.5B as printer biz consolidation continuesBy Jowi Morales Published
+
+## Wearable Tech
+
+* + ![Jensen Huang at Hon Hai (Foxconn) Tech Day in Taipei on October 18, 2023.](https://cdn.mos.cms.futurecdn.net/uHBK4wNbkvpe2jTzJgKw7-800-80.jpg)Wearable TechNvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auctionBy Mark Tyson Published
+  + ![Asus ROG XREAL R1](https://cdn.mos.cms.futurecdn.net/2JbPvi6JXRzpM6WE4zu5fG-800-80.jpg)Wearable TechAsus ROG Xreal R1 Review: Gaming-focused AR glasses deliver 240 Hz performance and RGB styleBy Brandon Hill Published
+  + ![](https://cdn.mos.cms.futurecdn.net/YBZ4NMTFyoZRkzfJpUSTjm-800-80.jpg)Wearable TechFi Ultra becomes first dog tracker powered by Starlink satellitesBy Mark Tyson Published
+  + ![](https://cdn.mos.cms.futurecdn.net/tzjk3GBpz8eZqUq9ggzGsj-800-80.jpg)Wearable TechJensen Huang’s iconic signed leather jacket expected to fetch up to $60,000 in charity auctionBy Mark Tyson Published
+  + ![a man using a BCI](https://cdn.mos.cms.futurecdn.net/B82ZW8jNDoCmNpagotTmVQ-800-80.png)Wearable TechMeta releases version two of its brain-computer interface that can turn thoughts into keypressesBy Jowi Morales Published
+  + ![](https://cdn.mos.cms.futurecdn.net/FkSFLQTU2rQjyoxxVEEwET-800-80.jpg)Wearable TechResourceful runner 'can race my own ghost' using homemade Meta Ray-Ban Display appBy Mark Tyson Published
+  + ![](https://cdn.mos.cms.futurecdn.net/BKjP42XyFQRubRPsWkrLU8-800-80.jpg)Wearable TechCyberpunk 2077 cosplay jacket features a $1,200 flexible OLED collar that you can game on with a Steam ControllerBy Mark Tyson Published
+  + ![](https://cdn.mos.cms.futurecdn.net/mHHtFRF6hArdHpnpfoXjSN-800-80.jpg)Wearable TechAudi enthusiast upgrades 2001 A4 gear shift with old smartwatch in 3D-printed housingBy Mark Tyson Published
+  + ![RayNeo Air 4 Pro](https://cdn.mos.cms.futurecdn.net/SQvD3jE6nPwdMCTGzM9R8U-800-80.jpg)Wearable TechRayNeo Air 4 Pro AR glasses review: Now enhanced with HDR10 and enhanced audioBy Brandon Hill Published
+
+## Webcams
+
+* + ![Dell Pro 7 Webcam 4K](https://cdn.mos.cms.futurecdn.net/Qt92vKqaJJSRQw32Fty464-800-80.jpg)WebcamsDell Pro 7 Webcam 4K Review: Sounds surprisingly greatBy Sarah Jacobsson Purewal Published
+  + ![Dell Pro 5 Webcam 2K](https://cdn.mos.cms.futurecdn.net/hsmVve9ERPkrjbvj8WpL9a-800-80.jpg)WebcamsDell Pro 5 Webcam 2K Review: So you can look good in officeBy Sarah Jacobsson Purewal Published
+  + ![](https://cdn.mos.cms.futurecdn.net/3yurUPH49MgxYbgwxy4xPZ-800-80.jpg)WebcamsThe world's first webcam was switched off 25 years ago todayBy Mark Tyson Published
+  + ![Logitech MX Brio](https://cdn.mos.cms.futurecdn.net/Q6upzJNAn86z27ZyCgeM3S-800-80.jpg)WebcamsHow to look better on webcamBy Sarah Jacobsson Purewal Published
+  + ![Razer Kiyo V2 X](https://cdn.mos.cms.futurecdn.net/jDALMHbdFSg2jBnwDqqjtA-800-80.jpg)WebcamsRazer Kiyo V2 X Review: Auto-focus for lifeBy Sarah Jacobsson Purewal Published
+  + ![YoloLiv YoloCam S3](https://cdn.mos.cms.futurecdn.net/Yr8cLin6QrgFTkuGYPBa44-800-80.jpg)WebcamsYoloLiv YoloCam S3 Review: A 4K powerhouseBy Sarah Jacobsson Purewal Published
+  + ![Razer Kiyo V2](https://cdn.mos.cms.futurecdn.net/4u2BkUscwyYq4tbxva4NzE-800-80.jpg)WebcamsRazer Kiyo V2 Review: USB-C requiredBy Sarah Jacobsson Purewal Published
+  + ![Android Smartphone as a Webcam](https://cdn.mos.cms.futurecdn.net/WCEG3fFHhXPHLjeYW9kjyF-800-80.jpg)WebcamsHow to setup an Android smartphone as a webcam — Camo Studio unlocks new uses for old smartphones in Windows 10 or 11 and OBS softwareBy Les Pounder Published
+  + ![Emeet Piko](https://cdn.mos.cms.futurecdn.net/okGPekK5dvRuMFcsQJsGRh-800-80.jpg)WebcamsEmeet Piko+ Review: A 4K dual-camera, AI-powered webcam for active creatorsBy Sarah Jacobsson Purewal Published
+
+## More about Peripherals
+
+* + ![Glorious GMMK Eternal](https://cdn.mos.cms.futurecdn.net/9eYRtjMnSkko6dZzcNdK8d-800-80.jpg)Gaming KeyboardsGlorious GMMK Eternal Review: Fits anywhere, sounds greatBy Sarah Jacobsson Purewal Published
+  + ![Dell Pro 7 Webcam 4K](https://cdn.mos.cms.futurecdn.net/Qt92vKqaJJSRQw32Fty464-800-80.jpg)WebcamsDell Pro 7 Webcam 4K Review: Sounds surprisingly greatBy Sarah Jacobsson Purewal Published
+  + ![PS Audio PMG Super Audio CD transport](https://cdn.mos.cms.futurecdn.net/dvE8uTuuHfnW2YJyKBzPQg-800-80.png)PeripheralsCollapse of mainstream optical drive supply kills high-end CD playersBy Jowi Morales Published
