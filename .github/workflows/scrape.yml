@@ -45,10 +45,10 @@ jobs:
           # Fetch 2 commits so git rebase has a common ancestor when
           # the remote has advanced during a queued run.
           fetch-depth: 2
-          # Pin to ref "main" so that when a run is queued by the
-          # concurrency group, checkout fetches the *current* HEAD
-          # of main (not the stale github.sha captured at trigger time).
-          ref: main
+          # Use the triggering ref (branch) for manual dispatch, falling
+          # back to main for scheduled runs. This ensures CI tests the
+          # actual feature branch code, not stale main HEAD.
+          ref: ${{ github.ref_name }}
 
       - name: Install uv
         uses: astral-sh/setup-uv@v10.2.0
