@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import asyncio
 from unittest.mock import AsyncMock, MagicMock
 
 import pytest
@@ -174,9 +173,7 @@ class TestFetchHtmlPlaywright:
     @pytest.mark.asyncio
     async def test_success_returns_html(self, mock_context: AsyncMock) -> None:
         """Should return HTML content on a successful fetch."""
-        result = await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        result = await fetch_html_playwright("https://example.com", mock_context)
         assert result == "<html><body>Test article content here.</body></html>"
         mock_context.new_page.assert_awaited_once()
 
@@ -186,9 +183,7 @@ class TestFetchHtmlPlaywright:
     ) -> None:
         """Should return None on fetch failure and still close the page."""
         mock_page.content = AsyncMock(side_effect=Exception("Browser crashed"))
-        result = await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        result = await fetch_html_playwright("https://example.com", mock_context)
         assert result is None
         mock_page.close.assert_awaited_once()
 
@@ -197,9 +192,7 @@ class TestFetchHtmlPlaywright:
         self, mock_context: AsyncMock, mock_page: AsyncMock
     ) -> None:
         """Should navigate to the given URL with the default wait mode."""
-        await fetch_html_playwright(
-            "https://example.com/page", mock_context, asyncio.Semaphore(1)
-        )
+        await fetch_html_playwright("https://example.com/page", mock_context)
         mock_page.goto.assert_awaited_once()
         call_args = mock_page.goto.call_args
         assert call_args[0][0] == "https://example.com/page"
@@ -211,9 +204,7 @@ class TestFetchHtmlPlaywright:
         self, mock_context: AsyncMock, mock_page: AsyncMock
     ) -> None:
         """Should pass a reduced timeout (far below Playwright's 30s default)."""
-        await fetch_html_playwright(
-            "https://example.com/page", mock_context, asyncio.Semaphore(1)
-        )
+        await fetch_html_playwright("https://example.com/page", mock_context)
         assert mock_page.goto.call_args[1]["timeout"] == PLAYWRIGHT_TIMEOUT
         assert mock_page.goto.call_args[1]["timeout"] < 30000
 
@@ -225,7 +216,6 @@ class TestFetchHtmlPlaywright:
         await fetch_html_playwright(
             "https://example.com/page",
             mock_context,
-            asyncio.Semaphore(1),
             wait_until="networkidle",
         )
         mock_page.goto.assert_awaited_once()
@@ -236,9 +226,7 @@ class TestFetchHtmlPlaywright:
         self, mock_context: AsyncMock, mock_page: AsyncMock
     ) -> None:
         """Should close the page but leave the shared context intact."""
-        await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        await fetch_html_playwright("https://example.com", mock_context)
         mock_page.close.assert_awaited_once()
         mock_context.close.assert_not_awaited()
 
@@ -247,18 +235,14 @@ class TestFetchHtmlPlaywright:
         self, mock_context: AsyncMock, mock_page: AsyncMock
     ) -> None:
         """The analytics/ad route is set once on the context, not per page."""
-        await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        await fetch_html_playwright("https://example.com", mock_context)
         mock_page.route.assert_not_awaited()
 
     @pytest.mark.asyncio
     async def test_handles_page_creation_failure(self, mock_context: AsyncMock) -> None:
         """Should return None if the context cannot open a page."""
         mock_context.new_page = AsyncMock(side_effect=Exception("Context died"))
-        result = await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        result = await fetch_html_playwright("https://example.com", mock_context)
         assert result is None
 
     @pytest.mark.asyncio
@@ -267,9 +251,7 @@ class TestFetchHtmlPlaywright:
     ) -> None:
         """A failure in page.close() should not mask the returned HTML."""
         mock_page.close = AsyncMock(side_effect=Exception("Close failed"))
-        result = await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1)
-        )
+        result = await fetch_html_playwright("https://example.com", mock_context)
         assert result == "<html><body>Test article content here.</body></html>"
 
     @pytest.mark.asyncio
@@ -280,6 +262,31 @@ class TestFetchHtmlPlaywright:
         logger = SiteLogger("Test Site", "test")
         mock_page.content = AsyncMock(side_effect=Exception("Failed"))
         result = await fetch_html_playwright(
-            "https://example.com", mock_context, asyncio.Semaphore(1), logger=logger
+            "https://example.com", mock_context, logger=logger
         )
         assert result is None
+
+    @pytest.mark.asyncio
+    async def test_logs_warning_on_slow_fetch(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should report a warning when the fetch exceeds the timeout window."""
+        from unittest.mock import patch
+
+        logger = SiteLogger("Test Site", "test")
+        # Simulate elapsed time exceeding PLAYWRIGHT_TIMEOUT (in seconds).
+        threshold_s = PLAYWRIGHT_TIMEOUT / 1000
+        # perf_counter is called 4 times: decorator start, function start,
+        # function finally, profiler record — need 4 side-effect values.
+        with patch(
+            "src.fetchers.time.perf_counter",
+            side_effect=[0.0, 0.0, threshold_s + 2, 0.0],
+        ):
+            await fetch_html_playwright(
+                "https://example.com", mock_context, logger=logger
+            )
+        assert mock_page.close.assert_awaited_once
+        # The warning is routed through report_error → SiteLogger.log
+        assert any("slow" in line.lower() for line in logger.logs), (
+            f"Expected slow-fetch warning in logs: {logger.logs}"
+        )

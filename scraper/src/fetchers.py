@@ -4,7 +4,7 @@ HTTP fetchers: aiohttp and Playwright-based HTML retrieval.
 
 from __future__ import annotations
 
-import asyncio
+import time
 from typing import Any, Literal
 
 import aiohttp
@@ -61,7 +61,6 @@ async def fetch_html_aiohttp(
 async def fetch_html_playwright(
     url: str,
     context: BrowserContext,
-    browser_semaphore: asyncio.Semaphore,
     logger: Any = None,
     wait_until: Literal["commit", "domcontentloaded", "load", "networkidle"]
     | None = None,
@@ -77,33 +76,46 @@ async def fetch_html_playwright(
     The analytics/ad route is registered once on the context (not per page),
     so every page inherits the blocking rule automatically.
 
+    .. note::
+       Callers must acquire ``browser_semaphore`` **before** calling this
+       function.  The semaphore is deliberately *not* part of this function
+       so that ``@profiled`` measures only the actual fetch time — not queue
+       wait.  With ``DEFAULT_BROWSER_CONCURRENCY = 5`` and 200+ URLs, semaphore
+       wait can easily dominate the profile if it were measured here.
+
     Args:
         url: The URL to fetch.
         context: Shared Playwright BrowserContext to open pages from.
-        browser_semaphore: Semaphore to limit concurrent browser pages.
         logger: Optional logger for error reporting.
         wait_until: Playwright wait_until mode (default: "domcontentloaded").
 
     Returns:
         The HTML content as a string, or None on failure.
     """
-    async with browser_semaphore:
-        page: Page | None = None
-        try:
-            page = await context.new_page()
-            await page.goto(
-                url,
-                wait_until=wait_until or "domcontentloaded",
-                timeout=PLAYWRIGHT_TIMEOUT,
+    page: Page | None = None
+    start = time.perf_counter()
+    try:
+        page = await context.new_page()
+        await page.goto(
+            url,
+            wait_until=wait_until or "domcontentloaded",
+            timeout=PLAYWRIGHT_TIMEOUT,
+        )
+        html = await page.content()
+        return html
+    except Exception as e:
+        report_error(f"playwright fetch failed for {url}: {e}", logger=logger)
+        return None
+    finally:
+        if page is not None:
+            try:
+                await page.close()
+            except Exception:
+                pass
+        _elapsed = time.perf_counter() - start
+        if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:
+            report_error(
+                f"playwright fetch slow: {url} took {_elapsed:.1f}s "
+                f"(timeout={PLAYWRIGHT_TIMEOUT / 1000:.0f}s)",
+                logger=logger,
             )
-            html = await page.content()
-            return html
-        except Exception as e:
-            report_error(f"playwright fetch failed for {url}: {e}", logger=logger)
-            return None
-        finally:
-            if page is not None:
-                try:
-                    await page.close()
-                except Exception:
-                    pass

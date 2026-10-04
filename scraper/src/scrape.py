@@ -110,13 +110,11 @@ async def urls_from_listing(
 ) -> list[str]:
     """Discover article URLs from a listing page."""
     ssl = not site.trust_insecure_certs if site else True
-    html = (
-        await fetch_html_playwright(
-            listing_url, context, browser_semaphore, logger=logger
-        )
-        if use_playwright
-        else await fetch_html_aiohttp(listing_url, session, logger=logger, ssl=ssl)
-    )
+    if use_playwright:
+        async with browser_semaphore:
+            html = await fetch_html_playwright(listing_url, context, logger=logger)
+    else:
+        html = await fetch_html_aiohttp(listing_url, session, logger=logger, ssl=ssl)
     if not html:
         return []
 

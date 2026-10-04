@@ -42,7 +42,7 @@ FETCH_HEADERS: dict[str, str] = {
 # ---------------------------------------------------------------------------
 
 DEFAULT_CONCURRENCY = 10
-DEFAULT_BROWSER_CONCURRENCY = 2
+DEFAULT_BROWSER_CONCURRENCY = 5
 TAXOTAG_TOP_K = 3
 
 # Maximum time (in ms) to wait for page.goto() to complete.
