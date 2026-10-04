@@ -8,7 +8,7 @@ from unittest.mock import AsyncMock, MagicMock
 import pytest
 from aiohttp import ClientResponseError, ClientSession
 
-from src.constants import FETCH_HEADERS
+from src.constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
 from src.fetchers import fetch_html_aiohttp, fetch_html_playwright
 from src.log_helper import SiteLogger
 
@@ -204,6 +204,18 @@ class TestFetchHtmlPlaywright:
         call_args = mock_page.goto.call_args
         assert call_args[0][0] == "https://example.com/page"
         assert call_args[1]["wait_until"] == "domcontentloaded"
+        assert call_args[1]["timeout"] == PLAYWRIGHT_TIMEOUT
+
+    @pytest.mark.asyncio
+    async def test_uses_reduced_timeout(
+        self, mock_context: AsyncMock, mock_page: AsyncMock
+    ) -> None:
+        """Should pass a reduced timeout (not the Playwright default of 30s)."""
+        await fetch_html_playwright(
+            "https://example.com/page", mock_context, asyncio.Semaphore(1)
+        )
+        assert mock_page.goto.call_args[1]["timeout"] == PLAYWRIGHT_TIMEOUT
+        assert mock_page.goto.call_args[1]["timeout"] < 30000
 
     @pytest.mark.asyncio
     async def test_wait_until_networkidle(

@@ -10,7 +10,7 @@ from typing import Any, Literal
 import aiohttp
 from playwright.async_api import BrowserContext, Page
 
-from .constants import FETCH_HEADERS
+from .constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
 from .log_helper import report_error
 from .profiling import profiled
 
@@ -92,7 +92,7 @@ async def fetch_html_playwright(
         try:
             page = await context.new_page()
             await page.goto(
-                url, wait_until=wait_until or "domcontentloaded", timeout=30000
+                url, wait_until=wait_until or "domcontentloaded", timeout=PLAYWRIGHT_TIMEOUT
             )
             html = await page.content()
             return html

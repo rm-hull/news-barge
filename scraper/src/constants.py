@@ -44,3 +44,9 @@ FETCH_HEADERS: dict[str, str] = {
 DEFAULT_CONCURRENCY = 10
 DEFAULT_BROWSER_CONCURRENCY = 2
 TAXOTAG_TOP_K = 3
+
+# Maximum time (in ms) to wait for page.goto() to complete.
+# Pages that cannot load core content within this window are abandoned —
+# ad-heavy sites (e.g. Leeds Live) with continuous background requests
+# would otherwise always hit the timeout, wasting ~30s per article.
+PLAYWRIGHT_TIMEOUT = 5000
