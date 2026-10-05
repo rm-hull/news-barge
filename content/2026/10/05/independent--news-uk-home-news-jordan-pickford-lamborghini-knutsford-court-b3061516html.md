@@ -1,0 +1,70 @@
+---
+title: Jordan Pickford ‘almost caused crash’ while driving £200,000 Lamborghini, court
+  told
+source_url: https://www.independent.co.uk/news/uk/home-news/jordan-pickford-lamborghini-knutsford-court-b3061516.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-05T14:29:38Z'
+published: '2026-10-05T00:00:00Z'
+description: The incident happened in Knutsford on April 14, sparking a criminal prosecution
+  for driving without due care or attention
+image: https://static.independent.co.uk/2026/10/05/13/2298502814..?trim=182,0,182,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+people:
+- Jordan Pickford
+- Pc Cecil Ricardo
+- Pc Ricardo
+locations:
+- Bexton Road
+- Cheshire
+- Chester Magistrates’ Court
+- England
+- Knutsford
+- Princess Street
+- Toft Road
+organisations:
+- Bradford City
+- Burton Albion
+- Cheshire Police
+- England
+- Everton
+- Lamborghini
+- Preston North End
+- Sunderland
+- Warrington Magistrates Court
+---
+
+England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.
+
+The 32-year-old shotstopper was pulled over by police after ignoring a give way sign, forcing two cars to slam on the brakes, and then speeding off into the distance.
+
+The incident happened in the upmarket Cheshire town of Knutsford on April 14, sparking a criminal prosecution for driving without due care or attention.
+
+Pickford, who has 336 appearances for Everton and 92 England caps, has pleaded guilty to the charge and requested a court hearing to explain his mitigation.
+
+According to court documents, Pc Cecil Ricardo, from Cheshire Police, said he had just left the station when he saw Pickford’s blue Lamborghini Urus complete with personalised number plates.
+
+“I was stationary on Bexton Road, Knutsford, waiting for traffic signals to turn green,” he wrote.
+
+“I then witnessed a blue Lamborghini Urus driving along Princess Street.
+
+“It reached the junction with Toft Road, completely ignored the give way lines and pulled onto Toft Road causing two vehicles to slam on their brakes to avoid a collision.
+
+“The Lamborghini then sped down Toft Road, Knutsford.”
+
+![England's Jordan Pickford](https://static.independent.co.uk/2026/10/05/13/2026-10-03T163748Z_1738778147_UP1EMA31A6YCJ_RTRMADP_3_SOCCER-UEFANATIONS-CRO-ENG.JPG?quality=75&width=640&auto=webp)
+
+Pc Ricardo said he activated his lights and siren to set off in pursuit of the Lamborghini, noticing he was driving at 50mph while the Lamborghini “was still pulling away”.
+
+“The speed limit on that stretch of Toft Road, Knutsford, is 30mph,” he noted.
+
+The officer said Pickford appeared to notice the chasing police car and pulled over.
+
+Pickford pleaded guilty in writing in the Single Justice Procedure and told Warrington Magistrates Court: “I would like to attend court to put forward my mitigation.”
+
+His case was formally adjourned last week until a hearing at Chester Magistrates’ Court on December 7.
+
+Pickford, who started his career at Sunderland before loan spells at six clubs including Burton Albion, Bradford City and Preston North End, has featured for England at the 2018, 2022 and 2026 World Cups, and was in goal for the country’s Euro 2020 and 2024 final appearances.
