@@ -1,0 +1,104 @@
+---
+title: The one GOP incumbent who’s poised to defy the odds in midterms bloodbath
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/susan-collins-midterms-democrats-republicans-trump-b3062214.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-06T15:54:48Z'
+published: '2026-10-06T00:00:00Z'
+description: Susan Collins might be the one Republican who survives a GOP electoral
+  bloodbath, Eric Garcia writes, defying the old saw, 'As goes Maine, so goes the
+  nation'
+image: https://static.independent.co.uk/2026/10/05/18/2297924556..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
+people:
+- Abdul El-Sayed
+- Alexandria Ocasio-Cortez
+- Brett Kavanaugh
+- Dan Sullivan
+- Dobbs
+- Donald Trump
+- Graham Platner
+- Hamilton
+- JD Vance
+- James Talarico
+- Joan Sebastian Guerrero
+- Joe Biden
+- John Cornyn
+- Kamala Harris
+- Ken Paxton
+- Mike Rogers
+- Pete Hegseth
+- Roger Marshall
+- Susan Collins
+- Todd Blanche
+- Troy Jackson
+locations:
+- Alaska
+- Biddeford
+- Georgia
+- Iowa
+- Kansas
+- Maine
+- Michigan
+- Nebraska
+- New England
+- North Carolina
+- R-Maine
+- Texas
+organisations:
+- CBS
+- Congress
+- ICE
+- Immigration and Customs
+- MAGA
+- New York Times
+- Politico
+- Republican Party
+- Senate Appropriations Committee
+- Siena Michigan
+- Siena University
+- Supreme Court
+- The Times
+---
+
+The midterm election is less than a month away. And all signs point to a bloodbath for President Donald Trump and the Republican Party. The generic congressional ballot, which measures whether voters will pick a generic Democrat or Republican for Congress, shows Democrats have a nine-point lead.
+
+On an individual level, Democrats have wide leads in swing states like Georgia and North Carolina. And Trump’s gamble to replace the genteel Republican incumbent Sen. John Cornyn with MAGA Attorney General Ken Paxton seems to be blowing up in his face, as Democrat James Talarico leads in polling and fundraising. Vice President JD Vance had to be sent to Alaska Monday, which Trump won by 13 points, to campaign for Dan Sullivan.
+
+Republicans’ resources will now be stretched thin as they have to play defense not only in the traditional swing states, but even in ruby-red states like Kansas, Iowa and Nebraska. But ironically, even if Democrats massacre Republicans at the polls, they might not get their one prized possession: unseating Sen. Susan Collins in Maine.
+
+On Tuesday night, she will square off in a debate against her Democratic opponent, former Maine Senate President Troy Jackson. By all measures, this should be the year that the five-term incumbent Republican goes down. Kamala Harris won Maine by about seven points.
+
+![Sen. Susan Collins (R-Maine) has proven to be one of the most durable Republicans this cycle even as many look vulnerable](https://static.independent.co.uk/2026/10/05/18/2297924556...jpg?quality=75&width=640&auto=webp)
+
+The state has a Democratic governor and legislature. Earlier this year, an Immigration and Customs officer in Biddeford shot and killed Joan Sebastian Guerrero. Democrats like Rep. Alexandria Ocasio-Cortez have tried to pin the death on Collins since she voted for increased funding for ICE earlier this year, though Collins argues she put in place body cameras for ICE.
+
+But polling shows Collins is still in the hunt. A CBS poll showed that she is in a dead heat with Jackson. But other polls show a more difficult race for the challenger. And it might mean that Maine does not live up to its politics motto: “As Maine goes, so goes the nation.”
+
+Two weeks ago, a *New York Times*/Siena University poll showed Collins with a three-point lead.
+
+On the surface, it looks fairly easy to blame this on the debacle that was the Democratic Primary, wherein insurgent candidate Graham Platner won before he ultimately dropped out after a report in Politico that he allegedly sexually assaulted an ex-partner, which he denied. The fact Jackson campaigned heavily with Platner when Jackson ran for governor made it fairly easy for Republicans to tie the two together.
+
+A look under the hood seems to shows that’s only part of the story. Democrats hope to tie Collins, who has portrayed herself as a moderate New England Republican, closer to Trump this cycle, especially after she voted to confirm Brett Kavanaugh to the Supreme Court.
+
+![Collins' Democratic opponent, Troy Jackson, is trailing in some polls](https://static.independent.co.uk/2026/09/22/21/2294685975...jpg?quality=75&width=640&auto=webp)
+
+But she still enjoys some crossover support. *The Times*/Siena poll showed that 44 percent of women still support Collins. Compare that with* The Times*/Siena Michigan’s Senate race, where only 39 percent of women support Republican Senate nominee Mike Rogers. The same holds true for* The Times/Siena* poll in Kansas, where 40 percent of women support incumbent Republican Sen. Roger Marshall.
+
+Collins also still has support among a significant slice of Democrats, with 13 percent of self-identified Democrats saying if the election were held today, they’d pick Collins. By contrast, in Michigan, 95 percent of Democrats said they would support Democratic nominee Abdul El-Sayed. The same amount of Democrats in Texas would vote for Talarico.
+
+Collins also leads Jackson 51 percent to 45 percent with voters identified as “other.” In Kansas, Hamilton has 55 percent of voters with that identification. In Michigan, El-Sayed and Rogers are about dead-even with independents, with 46 percent for El-Sayed and 45 percent.
+
+This support can really only come with years of support Collins has cultivated from being a senator since 1996. As chairwoman of the Senate Appropriations Committee, she regularly touts the millions of dollars she brings back to a largely rural state like Maine and the fact she is an independent senator.
+
+Collins also bolstered her independent image by voting to convict Trump after January 6, opposing the confirmation of Pete Hegseth as Defense secretary, the confirmation of Todd Blanche as attorney general and the passage of the One, Buig Beautiful Bill. The fact that Collins is probably the only Republican who can win that seat is likely why Trump has largely refrained from criticizing her.
+
+And the chances are that Collins might have more support than even the polls are showing. In 2020, a host of polls had Collins down for the count, only for her to shock everyone and win by almost 8.6 points despite Joe Biden winning the state by about 9 points.
+
+There are significant differences between then and now, though. Collins no longer has the cache of being seen as a pro-abortion rights Republican given the Supreme Court’s *Dobbs v Jackson* decision in 2022 that killed the constitutional right to an abortion. And she’s voted more in line with Trump this go-around.
+
+Still, if she pulls off a victory, don’t be entirely surprised that she has pulled one last rabbit out of her hat.

@@ -1,0 +1,126 @@
+---
+title: Tories pledge £10bn for British anti-missile defence system
+source_url: https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-06T15:59:39Z'
+published: '2026-10-05T00:00:00Z'
+description: The Conservatives say their plan would protect the UK at a time when
+  Nato allies have warned of Russian drone incursions.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cc5/live/105c8760-c106-11f1-9ff2-3b6c88884537.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Andy Burnham
+- Ben Wallace
+- James Cartlidge
+- Kemi Badenoch
+- Napoleon
+- Richard Barrons
+- Sidharth Kaushal
+- Steven Barrett
+- Volodymyr Zelensky
+- Wes Streeting
+locations:
+- Baker Barracks
+- Birmingham
+- Britain
+- English Channel
+- Gulf
+- Iran
+- Israel
+- Middle East
+- Thorney Island
+- UK
+organisations:
+- Armed Forces
+- BBC
+- Badenoch
+- Britannia Shield
+- British Army
+- Cambridge Aerospace
+- Commons
+- Defence Investment Plan
+- Houses of Parliament
+- Labour
+- Nato
+- RUSI
+- Royal Artillery
+- Royal United Services Institute
+- Sky Sabre
+- Tories
+---
+
+Watch: Badenoch outlines 'Britannia Shield' policy
+
+**The Conservatives have pledged to invest £10bn in a system to defend Britain against long-range missiles and drones, if they win the next general election.**
+
+The party said the "Britannia Shield" would offer the UK an integrated network of radar, command and control systems, as well as interceptor missiles.
+
+The Tories initially said the system would be "in essence a British 'Iron Dome'", likening it to Israel's missile shield, however party leader Kemi Badenoch drew back from the comparison in broadcast interviews.
+
+She said the plan would be funded from within their commitment to spend 3% of GDP on defence by 2030, paid for by welfare reform and reprioritisation of other spending.
+
+Badenoch said that the £10bn cost would be split over 10 years, with £1bn allocated each year for the project.
+
+Earlier this year, Gen Sir Richard Barrons told MPs on the Commons defence select committee "the cost of an iron dome at entry level is probably £80bn over 10 years".
+
+Speaking to the BBC, Badenoch said: "We are not building the iron dome... we are designing something specific for the kind of threat that we face here."
+
+She added: "It is not going to be the daily onslaught that Israel has, so we don't need that level of capability."
+
+The Conservative leader said she had been listening to figures like Ukrainian President Volodymyr Zelensky and following the impact of the war in Iran on Gulf countries when crafting her plans.
+
+"There is a new type of warfare," she said, adding: "Drone warfare requires a different type of missile defence.
+
+"We could have a situation for example where people could come in very close to the English Channel and are able to send drones and missiles at our critical national infrastructure."
+
+Pressed on how her party would fund the spending, Badenoch said: "We are not messing around - we are very very concerned about the state not just of our defence but the state of our economy.
+
+"We need to get serious, we need to find savings."
+
+She said the Conservatives would find savings from the welfare budget, redirecting spending on net-zero research, reinstating the two-child benefit cap and restricting housing benefits.
+
+"Some people may not agree with those decisions but we are making choices."
+
+The Tories added the proposal would strengthen the UK's air defence systems at a time when Nato allies have warned they are facing repeated Russian drone incursions.
+
+The party also cited a report from the defence committee of MPs last November which said the UK was lagging behind its European counterparts in having a plan to defend itself and overseas territories from a military attack.
+
+![Troops march eyes right next to an Army vehicle.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1cc5/live/105c8760-c106-11f1-9ff2-3b6c88884537.jpg)
+
+The UK's existing Sky Sabre air defence system, seen in 2022 at the Royal Artillery's change of colours parade at Baker Barracks, Thorney Island
+
+The Conservatives said the system would have three components - new advanced radar systems, upgraded command and control systems to integrate information from across Britain's defences and rapidly decide a response, and new interceptor missiles as well as counter-drone capabilities.
+
+The three-tiered design of the proposal is similar to the British Army's current Sky Sabre, external air defence system.
+
+This system - which can intercept munitions and aircraft as well as integrate with wider air defences - was deployed by the UK to the Middle East earlier this year for defensive action against Iranian attacks.
+
+Sidharth Kaushal, a senior fellow at the defence and security think tank RUSI (the Royal United Services Institute), said £10bn would "probably cover" what the UK "actually needs" including horizon radar and more E-7 aircraft.
+
+"In contrast, if what the Conservatives envision is a truly Israeli-style multi-layered missile defence system, £10bn probably wouldn't get there," he said.
+
+"But that system would also be quite superfluous, arguably."
+
+Prof Steven Barrett, CEO of Cambridge Aerospace which has been developing interceptor missiles, told the BBC £10bn was a "significant commitment" but the exact cost of the project would depend on the detail of the Conservatives' proposal.
+
+He said that it would not be practical for the system to defend "every square inch" of UK territory and a more plausible setup would cover "significant parts of the population in key high density areas".
+
+He also said there needed to be a focus on protecting critical national infrastructure, adding that a "huge amount of damage" could be done if data centres used by transport and health systems came under attack.
+
+In his speech at the conference in Birmingham, shadow defence secretary James Cartlidge said: "With a £10bn budget, this would be one of Britain's most significant military programmes since the Cold War.
+
+"But one that is totally necessary because of the threats we face."
+
+Defence Secretary Wes Streeting said in response: "They [the Conservatives] cut the Army to its smallest size since Napoleon and left a £17bn hole in the equipment plan.
+
+"Their own defence secretary, Ben Wallace, admitted our Armed Forces had been 'hollowed out and underfunded'."
+
+Prime Minister Andy Burnham has been under pressure to set out how he will reach Nato's 3.5% of GDP spending target by 2035, up from an estimated 2.6% this year.
+
+The current Labour government's Defence Investment Plan includes more than £350m to double the number of Sky Sabre systems operated by the British Army, with ground-based air defence sitting alongside air and maritime capabilities.
+
+![Thin, red banner promoting the Politics Essential newsletter with text saying, “Top political analysis in your inbox every day”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6133/live/2bce6ee0-0b00-11f0-97d3-37df2b293ed1.png)
