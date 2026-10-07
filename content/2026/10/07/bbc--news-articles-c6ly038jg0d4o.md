@@ -1,0 +1,103 @@
+---
+title: Nobel Prize in Chemistry awarded to Kagan and Soai
+source_url: https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-07T13:17:53Z'
+published: '2026-10-07T00:00:00Z'
+description: The prize was given to the French and Japanese scientists for solving
+  the mystery of life's asymmetry.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png
+categories:
+- UK
+- News & Politics
+- Science
+- Arts & Culture
+people:
+- Angus Davison
+- Heiner Linke
+- Henri B. Kagan
+- Henri Kagan
+- Kenso Soai
+- Peter Somfai
+- Robert Mokaya
+locations:
+- Earth
+- Japan
+- UK
+- Université Paris-Sud
+organisations:
+- BBC News
+- Nature
+- Nobel Committee
+- Nobel Committee for Chemistry
+- Royal Society of Chemistry
+- Tokyo University of Science
+- University of Nottingham
+---
+
+![Gold medal in blue background with a picture of Nobel sketched out of the coin and roman numerals on the right. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png)
+
+The winners are awarded the Nobel Prize medal and a share of 12.0 million Swedish Kroner ($1.25m; £900,000)
+
+**The Nobel Prize in Chemistry has been awarded to French scientist Henri B. Kagan and Japan's Kenso Soai for providing a solution to the chemical mystery of life's asymmetry.**
+
+The researchers discovered how nature exclusively makes the correct version of a molecule - rather than its mirror image.
+
+For example, amino acid molecules, the building blocks of proteins, exist as two forms that are each other's mirror image.
+
+But living organisms on Earth only function with one of those forms. The Nobel laureates answered the question: why does life favour just one of these mirror image molecules over the other.
+
+In organic chemistry, this property is known as "chirality", so chiral molecules have both right and left-handed forms.
+
+You can think of them as looking like our hands - not identical, but each a mirror image of the other.
+
+And while nature almost exclusively produces the version it requires to function, chemical reactions in a lab usually create a 50-50 mix of both left- and right-handed molecules.
+
+When it comes to making drugs, this is particularly significant, because each version behaves differently when it interacts with our bodies.
+
+So, one might have disease-fighting properties, while the other version does nothing or even causes harm.
+
+The development of the Thalidomide drug is an example of this. In the 1950s it was prescribed to pregnant women suffering with morning sickness. But it is a chiral molecule - the right-handed version is an effective treatment, but the left-hand is toxic.
+
+The original drug given was a mixture of the two, and it was later discovered that the body will convert between the two. The result was thousands of children, born to women who took the drug, developed severe disabilities.
+
+Speaking to the Nobel Prize press conference this morning over the phone, Kenso Soai said: "This is one of the most exciting days of my life."
+
+![A man in a grey suit and black tie stands to the left of the picture and holds up both hands. There is a screen behind him that is titled in Swedish and English "The Nobel Prize in Chemistry 2026" below that are two pictures on the left a man in a black suit and blue tie - Henri Kagan - and to the right a man also in a black suit and blue tie - Kenso Soai. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b11d/live/073f5cf0-c23e-11f1-bc2e-018d645d8d21.jpg)
+
+The chair of the Nobel Committee for Chemistry, Heiner Linke, explains how chiral molecules have mirror forms like our hands
+
+By solving the mystery of chirality, Henri Kagan and Kenso Soai worked out how to design chemical reactions to produce much more of the desired version of a molecule.
+
+Heiner Linke, chair of the Nobel Committee for Chemistry, explained: "Henri Kagan and Kenso Soai have provided a solution to a chemical mystery that is over a century old: how homochirality - the selective production of the correct version of a molecule - can emerge spontaneously.
+
+"The chemical reactions they have developed are spectacular."
+
+Henri Kagan, who is at Université Paris-Sud, first discovered a new way of manipulating chemical reactions in 1986. This allowed him to create a greater excess of one of the mirror images than had previously been thought possible.
+
+Kenso Soai from Tokyo University of Science took the next step in 1995. He published a scientific paper in the journal Nature, external describing the first ever chemical reaction that had the potential to be homochiral - producing only the desired version of an organic molecule.
+
+In 2003, he finally succeeded in controlling a reaction in which only one of the two possible mirror images was formed.
+
+"Other than life itself," the Nobel Committee said in a statement, "no one had previously achieved this feat".
+
+At the press conference on Wednesday, Kenso Soai praised the "many, many excellent researchers" in this field.
+
+Professor Robert Mokaya, president of the UK's Royal Society of Chemistry said it was a "powerful example of how fundamental chemistry can underpin solutions to some of the biggest challenges facing society".
+
+"Different isomers (or versions of molecules) can have completely different biological and physical effects, so they are crucial in finding effective medicines to treat all sorts of illnesses," he added.
+
+![One snail sitting on top of the other facing the opposite way on a grey rock mottled with lichen. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a9c/live/e358d350-c244-11f1-b2a8-994b2a5598cb.jpg)
+
+Chirality is the foundation for animal features, like the way snail shells coil to the right
+
+Prof Angus Davison, from the University of Nottingham, studies the biology of chirality and said that the Nobel-winning chemistry could help reveal how and why life favours "one-handedness".
+
+"In ways that we don't yet quite understand, the chirality of the basic building blocks of life ends up making bodies that are themselves also chiral," he told BBC News.
+
+This was the foundation, he explained, of our hearts being on left hand side of our bodies and snail shells that coil to the right.
+
+Peter Somfai, a member of the Nobel Committee for Chemistry, said the research awarded this year's prize has become part of "our basic understanding of how chemistry functions".
+
+He said showing how a mirror image is created is "probably the most fundamental question in life - because somehow that happened four billion years ago when life was created. And now we have, for the first time, mimicked that in the lab".
