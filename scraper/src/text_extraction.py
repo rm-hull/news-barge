@@ -128,18 +128,42 @@ def parse_srcset(srcset: str) -> list[tuple[str, int | None]]:
     ``"url 2x"`` (pixel-density descriptor).  Only width descriptors are
     returned as ``int``; ``None`` means the entry had no width descriptor.
 
+    Handles URLs that contain commas in query parameters (e.g.
+    ``?crop=3:2,smart`` or ``?trim=0,0,0,0``) by tokenizing on commas that
+    are followed by whitespace (indicating an entry boundary), rather than
+    naively splitting on every comma.
+
     >>> parse_srcset(
     ...     "https://example.com/large.jpg 1400w, https://example.com/small.jpg 575w"
     ... )
     [('https://example.com/large.jpg', 1400), ('https://example.com/small.jpg', 575)]
     >>> parse_srcset("https://example.com/img.jpg 2x, https://example.com/img.jpg")
     [('https://example.com/img.jpg', None), ('https://example.com/img.jpg', None)]
+    >>> parse_srcset("https://example.com/a.jpg, https://example.com/b.jpg")
+    [('https://example.com/a.jpg', None), ('https://example.com/b.jpg', None)]
+    >>> parse_srcset("https://ex.com/i.jpg?c=a,b 320w, https://ex.com/i.jpg?c=a,b 640w")
+    [('https://ex.com/i.jpg?c=a,b', 320), ('https://ex.com/i.jpg?c=a,b', 640)]
+    >>> parse_srcset(
+    ...     "https://ex.com/i.jpeg?t=0,0,0,0 320w, https://ex.com/i.jpeg?t=0,0,0,0 640w"
+    ... )
+    [('https://ex.com/i.jpeg?t=0,0,0,0', 320), ('https://ex.com/i.jpeg?t=0,0,0,0', 640)]
     """
+    # Tokenize: split on commas followed by whitespace (entry boundary),
+    # rather than naively splitting on every comma. This correctly handles
+    # URLs that contain commas in query parameters (e.g. ``?crop=3:2,smart``
+    # or ``?trim=0,0,0,0``) because those commas are not followed by
+    # whitespace, while actual srcset entry separators always have
+    # whitespace after the comma.
+    parts = re.split(r",\s+", srcset.strip())
+
     entries: list[tuple[str, int | None]] = []
-    for part in srcset.split(","):
+    for part in parts:
         part = part.strip()
         if not part:
             continue
+
+        # Try to find a trailing descriptor (width "w" or density "x")
+        # The descriptor is preceded by whitespace and is at the end.
         tokens = _SRCSET_DELIMITER_PATTERN.split(part)
         url = tokens[0]
         width: int | None = None
@@ -150,7 +174,6 @@ def parse_srcset(srcset: str) -> list[tuple[str, int | None]]:
                     break
                 except ValueError:
                     continue
-            # Pixel-density descriptors (e.g. "2x") are not widths - skip.
         entries.append((url, width))
     return entries
 

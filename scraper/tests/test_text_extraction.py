@@ -267,6 +267,38 @@ class TestParseSrcset:
             ("https://example.com/b.jpg", None),
         ]
 
+    def test_handles_comma_in_query_parameter_crop(self) -> None:
+        """URLs with commas in query params (crop=3:2,smart) should not be split."""
+        srcset = (
+            "https://www.harrogateadvertiser.co.uk/webimg/"
+            "b25lY21zOjA2MWI1NTVkLWMxODAtNDNiNC04MmM0LWI4Mzc0YTFlYzkzMQ.jpg"
+            "?crop=3:2,smart&trim=&width=320&quality=65 320w,"
+            " https://www.harrogateadvertiser.co.uk/webimg/"
+            "b25lY21zOjA2MWI1NTVkLWMxODAtNDNiNC04MmM0LWI4Mzc0YTFlYzkzMQ.jpg"
+            "?crop=3:2,smart&trim=&width=626&quality=65 626w"
+        )
+        result = parse_srcset(srcset)
+        assert len(result) == 2
+        assert result[0][1] == 320
+        assert result[1][1] == 626
+        assert "crop=3:2,smart&trim=&width=320" in result[0][0]
+        assert "crop=3:2,smart&trim=&width=626" in result[1][0]
+
+    def test_handles_comma_in_query_parameter_trim(self) -> None:
+        """URLs with commas in trim param (trim=0,0,0,0) should not be split."""
+        srcset = (
+            "https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/10/07/"
+            "11/31/Artistic-impression.jpeg?trim=0,0,0,0&width=320&quality=65 320w,"
+            " https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/10/07/"
+            "11/31/Artistic-impression.jpeg?trim=0,0,0,0&width=640&quality=65 640w"
+        )
+        result = parse_srcset(srcset)
+        assert len(result) == 2
+        assert result[0][1] == 320
+        assert result[1][1] == 640
+        assert "trim=0,0,0,0" in result[0][0]
+        assert "trim=0,0,0,0" in result[1][0]
+
     def test_handles_empty_srcset(self) -> None:
         assert parse_srcset("") == []
         assert parse_srcset("  ") == []
