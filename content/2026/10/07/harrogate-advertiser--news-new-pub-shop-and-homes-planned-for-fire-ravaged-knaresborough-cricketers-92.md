@@ -40,7 +40,7 @@ organisations:
 
 A new pub could return to the site of Knaresborough’s fire-ravaged Cricketers in Calcutt, alongside seven new homes and a convenience store.
 
-![The Cricketers pub, in Calcutt, Knaresborough, that was destroyed by a fire in April 2025.](https://www.harrogateadvertiser.co.uk/news/smart&trim=&width=626&quality=65.jpg)
+![The Cricketers pub, in Calcutt, Knaesborough, that was destroyed by a fire in April 2025.](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA2MWI1NTVkLWMxODgtNDNiNC04MmM0LWI4Mzc0YTFlYzkzMTplNmYzNDhiNC01MTlkLTQ1ZGEtOWEzOS03MDRjMzYwMDUxYjQ=.jpg?crop=3:2,smart&trim=&width=626&quality=65)
 
 
 The Thistle Hill pub was badly damaged by a major fire in April last year and has stood empty since.
@@ -57,7 +57,7 @@ Firefighters from Knaresborough, Harrogate, Acomb, Tadcaster, Ripon and Wetherby
 
 Crews battled the fire into daylight, with huge plumes of smoke rising above the building.
 
-![Firefighters from Knaresborough, Harrogate, Acomb, Tadcaster, Ripon and Wetherby tackle the blaze at The Cricketers pub. ](https://www.harrogateadvertiser.co.uk/news/0&width=640&quality=65.jpg)
+![Firefighters from Knaresborough, Harrogate, Acomb, Tadcaster, Ripon and Wetherby tackle the blaze at The Cricketers pub.](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNiOTJlZDFlLWVmOGQtNDVhOC05OWVkLTVhZDBlN2I4YWEzMjoyNDM3YTA3ZC1mNGY3LTQxYjItYmUzYi01NjZjYmY5YjkwY2U=.jpg?trim=0,0,0,0&width=640&quality=65)
 
 
 The damaged property was later put on the market with an asking price of £100,000 before being acquired by Ashes Pub Company.
@@ -66,7 +66,7 @@ The new plans would see all the existing buildings demolished and replaced with 
 
 The homes would comprise two one-bedroom, four two-bedroom and one three-bedroom apartment.
 
-![Artistic impression of the proposed development of The Cricketers in Knaresborough.](https://www.harrogateadvertiser.co.uk/news/0&width=640&quality=65.jpg)
+![Artistic impression of the proposed development of The Cricketers in Knaresborough.](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/10/07/11/31/Artistic-impression-of-the-proposed-development-of-The-Cricketers-in-Knaresborough.jpeg?trim=0,0,0,0&width=640&quality=65)
 
 
 A separate new pub would be built towards the rear of the site, alongside a private beer garden looking towards the cricket pitch.
@@ -85,7 +85,7 @@ They say its position at the rear would allow it to “take advantage of views t
 
 They describe the proposal as a “community oriented, high-quality and sustainable development” providing a “vibrant, functional and attractive addition” to Knaresborough.
 
-![Artistic impression of the proposed development of The Cricketers in Knaresborough.](https://www.harrogateadvertiser.co.uk/news/0&width=640&quality=65.jpg)
+![Artistic impression of the proposed development of The Cricketers in Knaresborough.](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/10/07/12/26/Artistic-impression.jpg?trim=0,0,0,0&width=640&quality=65)
 
 
 More than 70 people attended a consultation event at Calcutt Village Hall in June, with the planning statement saying feedback was largely positive.
