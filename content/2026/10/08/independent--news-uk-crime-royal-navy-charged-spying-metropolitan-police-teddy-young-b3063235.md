@@ -1,0 +1,50 @@
+---
+title: Royal Navy member charged with ‘spying for foreign power’
+source_url: https://www.independent.co.uk/news/uk/crime/royal-navy-charged-spying-metropolitan-police-teddy-young-b3063235.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-08T10:33:13Z'
+published: '2026-10-08T00:00:00Z'
+description: Teddy Young, 24, was arrested at home in Bedfordshire
+image: https://static.independent.co.uk/2026/03/05/00/240a38ed430d0178d55ac1e53568cc17Y29udGVudHNlYXJjaGFwaSwxNzcyNzQ3MDAx-2.18763915.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
+people:
+- Helen Flanagan
+- Teddy Young
+locations:
+- Bedfordshire
+- London
+- RAF Fairford
+- United Kingdom
+- Westminster Magistrates’ Court
+organisations:
+- Counter Terrorism Policing London
+- Metropolitan Police
+- Ministry of Defence
+- Royal Navy
+---
+
+A serving member of the Royal Navy has been accused of spying for a foreign power after a counter-terrorism investigation.
+
+Teddy Young, 24, has been charged with two offences under the National Security Act, including having “obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power”.
+
+He was arrested at home in Bedfordshire on Tuesday and then taken into custody in London. The 24-year-old will appear at Westminster Magistrates’ Court on Thursday.
+
+![Police said the 24-year-old faces ‘very serious charges’](https://static.independent.co.uk/2026/08/11/18/xf7z5DQHJ1fUhAJ9rJhmhvS-YvJAQJXmf3Xxr4KHa1K4uFNBwRZGTnoDkF3bIN9ibY_VEENJI5KOm2OKCdZGnmKouk7OCkhcGhuL...jpg?quality=75&width=640&auto=webp)
+
+Police said the arrest and charges are not connected to the recent investigation into an incident at RAF Fairford.
+
+Detectives have worked alongside the Ministry of Defence to ensure risks related to the charges have been “mitigated”, the force said.
+
+Commander Helen Flanagan, head of Counter Terrorism Policing London, said: “These are very serious charges against a serving member of the armed forces. We have worked extremely closely with relevant operational colleagues within the Ministry of Defence as our investigation has progressed to ensure appropriate measures could be taken to mitigate any potential risks linked to this matter.
+
+“It is important now that any further speculation on this case is avoided and so that the case can progress through the courts and the justice process not be impeded in any way.”
+
+Young is accused of offences taking place between 26 November 2024 and 21 May 2025, including preparation for committing an offence of disclosing protected information and having obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power, knowing or having regard to other matters known to him ought reasonably to know were prejudicial to the safety or interests of the United Kingdom.
+
+The Metropolitan Police said the charges are not linked to the ongoing investigation over a suspected terror plot at RAF Fairford, over which a 22-year-old British man was arrested earlier this week.
+
+A Royal Navy spokesperson said: “A member of the Royal Navy has been charged with National Security Act offences following an investigation by Counter Terrorism Policing London. As legal proceedings are ongoing, it would be inappropriate to comment further at this stage.”

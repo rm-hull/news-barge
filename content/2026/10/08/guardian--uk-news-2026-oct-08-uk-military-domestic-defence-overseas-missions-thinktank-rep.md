@@ -1,0 +1,71 @@
+---
+title: UK’s military needs to focus spending on domestic defence, not overseas missions
+  – report
+source_url: https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-08T10:31:27Z'
+published: '2026-10-08T00:00:00Z'
+description: 'Exclusive: Thinktank says Britain’s drive towards global commitments
+  is symptom of ‘outdated foreign policy’'
+image: https://i.guim.co.uk/img/media/9f32467c8158f7db30b6d5793722f822a9c829fb/0_0_2556_2046/master/2556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1cb9ac650fd696f2475bc46259dee0ef
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+people:
+- Andy Burnham
+- John Healey
+- Keir Starmer
+- Kevin Cashman
+- Khem Rogaly
+locations:
+- Afghanistan
+- Britain
+- Cyprus
+- Europe
+- France
+- Iraq
+- Kenya
+- Libya
+- Oman
+- UK
+- United States
+- Washington
+organisations:
+- Common Wealth
+- Nato
+- Transition Security Project
+---
+
+The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even greater waste, a thinktank report has warned.
+
+According to an analysis by researchers at the Transition Security Project, Britain has the most overseas-oriented military among European nations, with almost a quarter of the defence budget spent on commitments across five continents.
+
+Calling this a symptom of a “destructive, outdated foreign policy” centred on overseas missions which have often made the globe less safe, the report says the imminent uptick in spending should be accompanied by a change of stance, with a much bigger focus on domestic defence.
+
+The government is committed to spending 3.5% of GDP on defence by 2035 amid a defence investment plan (Dip) unveiled in July at the tail end of Keir Starmer’s premiership.
+
+Starmer’s then defence secretary, John Healey, resigned over a refusal to commit to reaching 3% by 2030, but now that he is chancellor that target has been shelved for now.
+
+It would involve a doubling of the defence budget in nominal terms from £70bn in 2026 to £151bn in 2035, according to the Transition Security Project, a research centre which was spun out of Common Wealth, a thinktank with close links to Andy Burnham.
+
+Using figures from 2024/25, the study estimated that about 23% of the military budget for that year was spent on overseas commitments, costing just over £14bn, with the real figure likely to be higher. About £2.8bn was spent outside Europe, including bases in places like Cyprus, Kenya and Oman and elsewhere as “strategic hubs” for projecting UK military power.
+
+The report says this makes the UK the most overseas-committed military among European Nato members, even if France has more personnel posted abroad. The Dip seems unlikely to reverse this, talking about ongoing commitments in a series of continents.
+
+It questions whether more of the new money should be used for domestic defence, and whether the focus on overseas missions has even made the UK safer.
+
+Since 2001, the study said, the UK has spent more than £51bn in modern terms on military interventions in Iraq, Afghanistan, Libya and elsewhere.
+
+“Britain’s decision to maintain a global network of military bases and force projection capabilities, combined with high levels of waste in the military procurement system, raise serious questions about how it is allocating public investment,” it says, urging the government to “review its military posture, prioritising defence over the global projection of military force”.
+
+Kevin Cashman, a researcher at Transition Security Project, who co-authored the report, said: “Britain should not pour more money into a bloated military sector geared towards alignment with the United States while Washington starts wars around the world that drive up our bills.”
+
+Khem Rogaly, the co-director of the organisation, and also a co-author, said: “The billions of pounds Britain wastes on global military deployments every year symbolise its destructive, outdated foreign policy.
+
+“Britain should end its support for these attempts at global policing. Instead, it should focus its military resources on defence and its public investment on health, housing and the climate emergency.”
+
+There is an awareness of the importance of avoiding waste among defence officials, including the risk that an arbitrary focus on reaching a certain level of spending could exacerbate this.
+
+The intention is to focus instead on what is necessary – primarily on preparing the UK for a possible war in Europe.
