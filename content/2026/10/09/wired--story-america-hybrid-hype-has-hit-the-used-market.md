@@ -1,0 +1,57 @@
+---
+title: America’s Hybrid Hype Has Hit the Used Market
+source_url: https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-09T10:29:05Z'
+published: '2026-10-09T00:00:00Z'
+description: Demand is so high that some used cars are selling for more than new ones.
+image: https://media.wired.com/photos/6ac761317178fc1562f277f4/191:100/w_1280,c_limit/2026_Toyota-RAV4-HEV-Limited_0001H.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+people:
+- Karl Brauer
+- Kevin Roberts
+locations:
+- America
+- Iran
+- Strait of Hormuz
+- US
+organisations:
+- AAA
+- CNBC
+- CarGurus
+- Cox Automotive
+- Ford Maverick
+- GM
+- General Motors
+- Kia
+- Rav4
+- Toyota Highlander
+- Trump
+- iSeeCars
+---
+
+Conventional wisdom is that cars are bad investments. Drive one off the lot, and it starts losing value the minute its wheels touch the road. That makes what’s happening with the 2026 Toyota Rav4 downright weird.
+
+Some used vehicles are listing for $3,000 to $6,000 above brand-new dealership prices, according to new data from the online automotive marketplace CarGurus. The months-old cars are aging like fine wine.
+
+The crossover SUV—one of the top-selling in the US—went all-hybrid last year, after Toyota announced it would drop the gas-powered model from its lineup. That’s likely why we’re catching a glimpse of an economic Upside Down. Kevin Roberts, director of economic and market intelligence at CarGurus, says the situation reminds him of the pandemic-era chip shortage, when a supply crunch for new cars also drove up used prices, and buyers flipped them months later for a profit.
+
+“Hybrid demand is so strong, the Rav4 is still in that 2021 world,” he says. Toyota can’t make new models fast enough.
+
+The leaves are changing, and America’s hot hybrid summer has become a toasty hybrid autumn, for new cars and for old ones. Toyota reported this month that its hybrid sales are up 29 percent in the third quarter of 2026; Kia said its sales more than doubled. Nearly one in six new US cars sold is a hybrid, according to Cox Automotive data.
+
+“The American market has a reputation for gas guzzlers, but we're starting to shake that reputation because of how much we like hybrids,” Roberts says.
+
+The major driver is gas prices. They’ve skyrocketed since the start of the Iran war and the ensuing conflict in the Strait of Hormuz, a global center of oil and gas production and shipping. Nationally, a gallon costs an average of $4.40, up 40 percent from this time last year, according to AAA; Californians pay an average of $6.36. Car buyers are a simple bunch, Roberts says—when prices start rising, they immediately look for more fuel-efficient cars. Soon, drivers actually start buying them.
+
+For now, struggles in the US electric vehicle market are hybrids’ gain. New EV sales are down by almost half from last year, after the Trump administration cut a federal tax credit that made the often-expensive powertrains more affordable. Unlike electrics, hybrids don’t necessarily force drivers out of their familiar gas station routines. (Even plug-in hybrids sometimes need a gas top-up, though smart owners depend mostly on electricity.) Finally, more hybrids are available now than before. A buyer interested in nearly every major sort of passenger vehicle—three-row SUVs, pickups, minivans, or luxury cars—can find one with the powertrain
+
+Interest has spread to the used market, where hybrid prices are up almost 5 percent over last year, according to the automotive data website iSeeCars.com. At $34,500, the average price of used hybrids is higher than used EVs or gas-powered cars. Used buyers seem to be especially keen on long-term fuel savings.
+
+Hybrid tech has been around for decades, but it still may be just the beginning of its reign in the US. “Certainly from a philosophical, functional, and cost perspective, they make the most sense,” says Karl Brauer, iSeeCars’ executive analyst. Several hybrid models already outsell their gas counterparts, including the Toyota Highlander and the Ford Maverick. Soon, he predicts, most US cars will come with a hybrid drivetrain.
+
+US automakers seem to see the hybrid writing on the wall. At the beginning of the decade, General Motors said that 40 percent of its 2025 lineup would be electric. That didn’t happen, and the subsequent pivot left it well behind its Asian counterparts in the new hybrid race. Now, GM has changed its tune. Hybrids “are part of the plan,” an executive told CNBC this week. “We’re not tone-deaf to our customers. We know what they want, and we want to give that to them as quickly as we can.”
