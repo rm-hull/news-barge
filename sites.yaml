@@ -281,3 +281,25 @@ sites:
       - //p[contains(., 'community, you can')]
       # Variant 4 (safety): "special offers, promotions, and adverts..."
       - //p[contains(., 'special offers, promotions')]
+
+  - name: Berliner Morgenpost - English
+    slug: morgenpost-english
+    categories: [Berlin, Germany, News & Politics]
+    feed: https://www.morgenpost.de/berlin/morgenpost-english/rss
+    limit: 20
+    exclusions:
+      # Piano paywall/CTA banner injected into article body.
+      - id="piano-banner-kampagne"
+      # Opinary ad/rec placeholder injected into article body.
+      - id="opinary-automation-placeholder"
+      # "More articles from Berliner Morgenpost in English:" related-articles
+      # section (heading + bullet list) injected mid-flow into article body.
+      - //h3[contains(., 'More articles from Berliner Morgenpost')]
+      - //ul[contains(@class, 'list-disc')]
+      # "This text was originally written ... translated into English with the
+      # use of artificial intelligence (AI)." credit line injected at the end
+      # of AI-translated articles.
+      - //p[contains(., 'This text was originally written')]
+      # Source byline credit (e.g. "lth/dpa") at the end of some articles;
+      # shares the same paragraph styling as article body text.
+      - //p[contains(@class, 'text-brand')]
