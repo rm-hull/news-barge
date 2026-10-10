@@ -4,7 +4,7 @@ title: 125 years after Seebohm Rowntree’s landmark study, new report exposes m
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/rowntree-poverty-report/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-10-05T14:30:22Z'
+scraped_at: '2026-10-10T20:05:21Z'
 published: '2026-10-05T00:00:00Z'
 description: The University of York’s Cost of Living Research Group has looked at
   modern living standards across the city and revealed the extent of hidden pockets

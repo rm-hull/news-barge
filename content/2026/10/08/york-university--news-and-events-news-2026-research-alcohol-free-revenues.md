@@ -4,7 +4,7 @@ title: I’ll drink to that - offering alcohol-free beer on tap boosts pub choic
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/alcohol-free-revenues/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-10-08T18:45:24Z'
+scraped_at: '2026-10-10T20:05:21Z'
 published: '2026-10-08T00:00:00Z'
 description: Simple changes to pub environments can encourage drinkers to choose alcohol-free
   options without harming profits, according to new research.

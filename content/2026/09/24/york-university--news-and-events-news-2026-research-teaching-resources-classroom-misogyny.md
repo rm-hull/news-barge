@@ -3,7 +3,7 @@ title: New teaching resources to tackle classroom misogyny
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/teaching-resources-classroom-misogyny/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-09-26T15:24:55Z'
+scraped_at: '2026-10-10T20:05:21Z'
 published: '2026-09-24T00:00:00Z'
 description: A new teaching resource has been launched to help secondary schools challenge
   misogyny and the influence of the online ‘manosphere’.

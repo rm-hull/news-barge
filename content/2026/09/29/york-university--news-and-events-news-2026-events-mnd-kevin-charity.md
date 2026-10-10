@@ -4,7 +4,7 @@ title: Staff and students welcome Sir Kevin Sinfield to University on epic fundr
 source_url: https://www.york.ac.uk/news-and-events/news/2026/events/mnd-kevin-charity/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-09-29T12:59:25Z'
+scraped_at: '2026-10-10T20:05:20Z'
 published: '2026-09-29T00:00:00Z'
 description: Scores of students and staff welcomed Sir Kevin Sinfield to the University’s
   athletics track as part of his final endurance event to raise money for motor neurone

@@ -4,7 +4,7 @@ title: Programme helping patients self-regulate strong-opioid use has potential 
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/self-regulate-strong-opioid-use/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-10-08T18:44:58Z'
+scraped_at: '2026-10-10T20:05:20Z'
 published: '2026-10-08T00:00:00Z'
 description: A new support programme can increase the number of patients who successfully
   self-regulate their intake of long-term strong-opioid painkillers without worsening

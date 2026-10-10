@@ -221,6 +221,14 @@ sites:
     listing_link_pattern: "/news-and-events/news/[0-9]{4}/[a-z]+/[a-z0-9-]+"
     resolve_relative_to_root: true
     limit: 50
+    # The "Explore more news" related-articles sidebar (class uoy_grid__list)
+    # contains dates like "8 October 2026" that confuse trafilatura's metadata
+    # extractor into picking today's date as the article's publish date, which
+    # changes daily and defeats the skip-if-exists pipeline check.
+    # Excluding this container lets trafilatura correctly find the real
+    # "Posted on Monday 5 October 2026" date in the article body.
+    exclusions:
+      - //div[contains(@class, 'uoy_grid__list')]
 
   - name: Der Spiegel International
     slug: spiegel-international

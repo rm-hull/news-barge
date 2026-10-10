@@ -4,7 +4,7 @@ title: AI adoption and upskilling, aligned to high growth industrial sectors, co
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/ai-adoption-upskilling/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-09-28T05:22:57Z'
+scraped_at: '2026-10-10T20:05:21Z'
 published: '2026-09-27T00:00:00Z'
 description: AI adoption and upskilling could boost the Yorkshire and Humber economy
   by £38bn by 2030, according to landmark research detailing the region’s future skills

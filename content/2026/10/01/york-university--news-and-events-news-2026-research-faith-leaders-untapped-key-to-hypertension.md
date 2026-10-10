@@ -3,7 +3,7 @@ title: Faith leaders offer untapped key to hypertension crisis, research shows
 source_url: https://www.york.ac.uk/news-and-events/news/2026/research/faith-leaders-untapped-key-to-hypertension/
 source_site: University of York News
 source_slug: york-university
-scraped_at: '2026-10-01T13:21:10Z'
+scraped_at: '2026-10-10T20:05:20Z'
 published: '2026-10-01T00:00:00Z'
 description: A new study has shown that faith leaders would be willing to partner
   on hypertension screenings and education, despite challenges of past health collaborations.
