@@ -419,6 +419,7 @@ strong .searchable {
   font-size: x-small;
   color: var(--muted);
   display: block;
+  margin-bottom: 1rem;
 }
 .article table {
   border-collapse: collapse;
