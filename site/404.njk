@@ -4,17 +4,16 @@ title: Page Not Found
 permalink: /404.html
 ---
 <section class="index-section">
-  <div style="text-align: center; margin-bottom: 2rem;">
+  <div style="margin-bottom: 2rem;">
     <h1 class="page-title">Page Not Found</h1>
     <p>The page you're looking for doesn't exist or has been moved.</p>
-    <p><a href="/" class="page-link">Return to Latest Articles</a></p>
+    <p>Some recent articles are shown below.</p>
   </div>
 
   <hr style="margin: 2rem 0; opacity: 0.2;">
 
-  <h2 class="page-title" style="font-size: 1.5rem;">Recent Articles</h2>
   <ul class="article-list">
-    {% for article in collections.articles | slice(0, 10) %}
+    {% for article in collections.articles | limit(10) %}
     {% include "article-card.njk" %}
     {% endfor %}
   </ul>

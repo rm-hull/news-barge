@@ -362,6 +362,13 @@ export default function (eleventyConfig) {
   eleventyConfig.addGlobalData('lastUpdated', () => new Date().toISOString());
 
   // ── Filters ───────────────────────────────────────────────────────────────
+  // Take the first N items of an array (Nunjucks' built-in `slice` filter
+  // divides an array into N chunks, it does NOT perform array sub-slicing).
+  eleventyConfig.addFilter('limit', (arr, n) => {
+    if (!Array.isArray(arr)) return arr;
+    return arr.slice(0, n);
+  });
+
   eleventyConfig.addFilter('isoDate', (dateObj) => {
     if (!dateObj) return '';
     const date = new Date(dateObj);
