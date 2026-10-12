@@ -1,0 +1,78 @@
+---
+title: New global data reveals snakebites are a far bigger problem than originally
+  thought
+source_url: https://www.independent.co.uk/news/health/snakebite-snakes-venom-danger-medical-care-b3065351.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-12T19:07:27Z'
+published: '2026-10-12T00:00:00Z'
+description: The World Health Organization has set an ambitious target to halve snakebite
+  mortality and disability by 2030
+image: https://static.independent.co.uk/2026/10/12/15/17/iStock-1409549408.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+people:
+- Jodie Foster
+locations:
+- Asia
+- Democratic Republic of Congo
+- Ethiopia
+- Nigeria
+- sub-Saharan Africa
+organisations:
+- World Health Organization
+---
+
+Not every snakebite injects venom. When venom enters the body, however, it can cause snake envenoming. This is a potentially fatal condition and it mostly affects poor rural communities across tropical and subtropical regions who don’t have easy access to medical care.
+
+As researchers with decades of combined experience in snakebite and tropical disease epidemiology, we came to realise that snake envenoming faces a data crisis. Over half of the countries where venomous snakes pose a threat don’t keep count of how many people are bitten or envenomed.
+
+In rural sub-Saharan Africa and south Asia, many victims live hours away from the nearest clinic, lack transport, or seek care from traditional healers. As a result, their cases are never captured in national health statistics.
+
+To bridge this massive gap, we conducted a study to map the global burden of snake envenoming and related deaths.
+
+We looked at data from 79 countries by reviewing studies published up to 31 March 2025. This allowed us to update the findings from our milestone 2008 global burden study. To fill the remaining data gaps, we built a geostatistical model that combines real-world data with local environmental and socioeconomic factors. This allowed us to estimate envenoming and fatality rates.
+
+We conclude from our findings that snake envenoming is a public health crisis on a far greater scale than official statistics have shown. Our results show that sub-Saharan Africa bears the heaviest toll.
+
+The World Health Organization has set an ambitious target to halve snakebite mortality and disability by 2030. Mapping the problem at the country level is the first crucial step.
+
+## Uncovering the hidden burden
+
+To overcome the lack of reliable data, we turned to a model-based geostatistics framework.
+
+To understand how this modelling works, think of it as predicting invisible patterns by combining known data points with environmental signals. Instead of assuming data for every region, this modelling uses statistical probability to calculate a range of likely outcomes based on environmental signals.
+
+We fed our model with data including climate, snake species richness and socioeconomic indicators. The model then calculated the probability of snakebites occurring in specific locations, even where official health records were completely blank.
+
+By comparing different data sources (including hospital-reported data and regional statistics) against ground level community-survey data, our framework allowed us to account for unreported snake envenomings. It produced both a baseline floor and a potential upper ceiling for snake envenomings and fatalities.
+
+Based on this, we estimate that at least 2.1 million people experience snake envenoming each year globally. The true number could be high as 7 million. Using our model, which adjusts for substantial under-reporting, annual deaths may range from 274,000 to 513,000.
+
+The geographic distribution of this burden is uneven. Our research shows that sub-Saharan Africa alone accounts for 45% of all global envenomings and fatalities. That burden has likely been underestimated for decades. People in sub-Saharan Africa experience snake envenoming and death at nearly three times the rate seen in south Asia.
+
+![The 15-foot python is named after actress Jodie Foster](https://static.independent.co.uk/2026/08/20/16/01M0EW6ZFKPW62Y99A4GD7TYPY.jpg?quality=75&width=640&auto=webp)
+
+Countries like Nigeria, the Democratic Republic of Congo and Ethiopia face a high burden, driven by dense rural populations and high exposure in agricultural fields.
+
+## Why sub-Saharan Africa is hit hardest
+
+The reasons sub-Saharan Africa suffers such disproportionate harm are structural rather than accidental.
+
+Firstly, the continent hosts a rich diversity of medically important venomous species. These include saw-scaled vipers (Echis spp.), puff adders (Bitis arietans), African cobras (Naja spp.) and mambas (Dendroaspis spp.). They are responsible for substantial morbidity and mortality across the continent.
+
+Secondly, millions of rural agricultural workers labour in open fields without protective boots and walk on unlit footpaths at night. When a bite occurs, fragile health systems, long travel distances to regional facilities and the high cost or total absence of effective antivenom mean a treatable medical emergency can quickly become fatal. Similar conditions exist in parts of Asia.
+
+## About the author
+
+We estimate that over 800,000 survivors are left with long-term physical disabilities each year, including amputations and other permanent impairments. These disabilities can reduce household income, increase healthcare costs and push already vulnerable farming families deeper into poverty.
+
+## Going forward
+
+Meeting the World Health Organization’s goal requires moving away from guesswork and using spatial risk data to guide real-world policy.
+
+By identifying high-risk hotspots, governments and global health partners can strategically stockpile antivenom where it is needed most, train primary healthcare workers in high-burden rural zones and improve rapid transport infrastructure.
+
+Snake envenoming has remained hidden for too long. Better data cannot solve the problem, but can help ensure that antivenom, healthcare services and prevention efforts reach the communities that need them most.
