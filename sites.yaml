@@ -328,3 +328,19 @@ sites:
       # Author bio block at end of article — same class pattern as TechRadar
       # (both are Future PLC sites).
       - //div[contains(@class, 'slice-author-bio')]
+
+  - name: The Herald (Scotland)
+    slug: herald-scotland
+    categories: [News & Politics, UK]
+    feed: https://www.heraldscotland.com/news/rss/
+    limit: 50
+    # RSS article URLs include ?ref=rss tracking params — strip them from slugs
+    # so the same article always gets the same filename regardless of how it
+    # was discovered.
+    exclude_query_params: true
+    exclusions:
+      # "Public Notice Portal" advertorial promo injected at the top of some
+      # article bodies (e.g. vandalism / public-notice stories). Contains an
+      # <h3> heading and promotional text that is not part of the article prose.
+      # Affects ~2/50 articles in the feed.
+      - //div[contains(@class, 'public-notice-portal-promo')]
