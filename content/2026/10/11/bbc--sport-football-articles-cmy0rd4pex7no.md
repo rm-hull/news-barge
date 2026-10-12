@@ -1,0 +1,147 @@
+---
+title: 'Manchester City: A statement win but does it carry weight in a season of limbo?'
+source_url: https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-12T00:31:20Z'
+published: '2026-10-11T00:00:00Z'
+description: Manchester City record what they will view as a statement win at Liverpool
+  - but is it a statement that carries any weight during a Premier League season in
+  limbo, asks Phil McNulty?
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8204/live/a6de9a60-c5a8-11f1-9f28-03371a5c8220.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Alf-Inge
+- Andoni Iraola
+- Enzo Maresca
+- Erling Haaland
+- Ferran Soriano
+- Jeremy Doku
+- Jurgen Klopp
+- Khaldoon Al Mubarak
+- Noel Gallagher
+- Pep Guardiola
+- Rayan Cherki
+- Stephen Warnock
+- Wayne Rooney
+locations:
+- Anfield
+- England
+- Kop
+- Liverpool
+- Man City
+- Manchester City
+organisations:
+- Anfield
+- BBC Radio 5
+- Cheatchester
+- Derby County
+- Fleetwood Mac
+- Liverpool City
+- Manchester City
+- Manchester Citymade
+- Pep Guardiola
+- Premier League
+- ex-Man Utd
+---
+
+![Liverpool fans holding up banners at Anfield calling Manchester City 'Cheatchester' and 'Shamchester'](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/77e0/live/c9176210-c5a3-11f1-8ef2-31c45d39a4c9.jpg)
+
+Liverpool fans express their disgust towards Manchester City during the Premier League game at Anfield
+
+**Manchester Citymade what they will regard as a powerful statement in the most hostile territory againstLiverpoolat Anfield - but is it a statement that carries any weight during a Premier League season in limbo?**
+
+City's attention turned to on-field matters in their first game since being found guilty of 114 charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
+
+The fates, and fixture list, decreed it would be at Liverpool, whose fans nurse the most burning sense of injustice after finishing second to City in 2013-14, 2018-19 and 2021-22.
+
+Their argument centres on the belief those titles could have been theirs had City not possessed the high finance of their Abu Dhabi-based owners, using it in the manner that led to them being investigated.
+
+With this as the backdrop, City strode into this fevered Anfield atmosphere, with Liverpool fans high on adrenaline and determined to make their contempt for their rivals obvious - then outclassed Andoni Iraola's side in a 3-0 win.
+
+On another day, in other circumstances, the manner of City's victory would have fed the narrative that this was a performance of champions, a winning marker laid down to their rivals as they hold a three-point lead at the top of the table.
+
+Not here. Not in the Premier League's dysfunctional state.
+
+Instead, once the predictable sound and fury had been diluted by City's composure and the swift realisation they were not unnerved by Anfield or the storm raging around the club, this was a surreal experience.
+
+After the feast of excitement delivered when Pep Guardiola and Jurgen Klopp presided over the greatest domestic rivalry of recent years, this was an occasion - remarkable as it seems - that seemed robbed of a sense of jeopardy by the circumstances surrounding it.
+
+Yes, it was a statement display and City celebrated wildly at the final whistle, but will it count for anything given they await potential sanctions suggested including Premier League relegation or a record points deduction?
+
+What's going to happen to Manchester City?
+
+As Erling Haaland looked close to tears in front of Manchester City's fans, including his father Alf-Inge, and head coach Enzo Maresca pumped his fists in jubilation, Anfield's DJ slipped Fleetwood Mac's 'Little Lies' on to the loudspeakers in a final message of defiance.
+
+Maresca said: "We knew there was going to be noise but we need to make our own noise by winning games. We need to learn to deal with the noise but the message is to win games.
+
+"For me it's quite easy. I try to focus on things I can control. There are things that are not in my hands so I don't stress about them.
+
+"I cannot control things outside football, so why stress? I stress about gameplan, day-by-day training sessions, but the rest it's not in my hands."
+
+Haaland added: "For every single person part of Manchester City, every fan, this is a lovely moment that will stay with us for a long time. It was tough. It was hard, but we showed amazing character from back to front. So proud of everyone.
+
+"It's always tough to come here. If you look at the record it's tough. With the Pep Guardiola and Jurgen Klopp era it was tough for both teams, always has been. It was important to stay strong mentally, stick together and do what you can do something about. The thing we can do something about is to play good football and fight together. That's the only thing we can do."
+
+City have appealed against the verdict, but until the dust settles and final decisions are made, this Premier League season is in a holding pattern.
+
+When City come to Anfield and win, especially as convincingly as they did here, it should be a win without qualification or questions.
+
+This does not apply amid the current uncertainty.
+
+Every victory, every league table, will come with a metaphorical asterisk until clarity and finality comes. No-one knows when this will be.
+
+MOTD analysis - why Doku proved key in Man City's win at Liverpool
+
+City's players did their jobs to perfection, victory secured by second-half goals from Haaland, Jeremy Doku and Rayan Cherki. It is all they can do.
+
+There can be no escape, however, from the cloud hanging over Manchester City because every win will carry the same rider - producing a state of inertia that is not good for the Premier League.
+
+In the end, a day that promised huge discomfort for City ended in a stroll.
+
+City navigated the hostile reception awaiting them at Anfield by arriving through the staff and contractors' entrance - while an inevitable febrile environment awaited them.
+
+Even the derided half-and-half scarves were doing a roaring trade, until it was noticed the sky blue half read: 'Shamchester City - The Cheats'.
+
+The announcement of City's line-up was drowned out by deafening jeers, while banners around Anfield carried a variety of messages.
+
+They including 'A Generation Of Supporters Cheated', 'And After All You Really Robbed Us All' and - in a nod to the Oasis song Stop Crying Your Heart Out, written by Noel Gallagher who was at Anfield, 'All Of Your Stars Are Fading Away'.
+
+This was all watched by an impassive City chief executive Ferran Soriano, but any notion their fans would turn on the owners was dispelled by a flag reading: 'In Khaldoon We Trust. We've Won It All', a gesture of support for the embattled chairman Khaldoon Al Mubarak.
+
+City's fans also waved hundreds of inflatable bananas, an old habit when they spent time in the lower leagues in reduced circumstances. There remains the possibility they will get the chance to wave them down the tiers once more in the near future.
+
+![Manchester City fans hold a banner supporting chairman Khaldoon Al Mubarak at Anfield](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f371/live/71b65840-c5a4-11f1-8ef2-31c45d39a4c9.jpg)
+
+Manchester City fans expressed support for chairman Khaldoon Al Mubarak at Anfield
+
+The first half did much to pour cold water on what started as a red-hot atmosphere, further diluted by City's second-half domination, although Liverpool's fans rammed home their disgust until the final whistle, chanting "cheat" every time their opponents passed in a lengthy period of possession.
+
+Former Liverpool and England defender Stephen Warnock told BBC Radio 5 Live: "This needs rectifying as quickly as possible, but this isn't an easy thing to come to a conclusion. It's never-ending. It's so difficult and it's going to take so long to sort out."
+
+He added: "The hard part is that this is a brilliant Manchester City team, but you have to caveat it and say they have done it illegally and they bought their way. You're caught in what you're thinking about this City team.
+
+"I admire them because they're so good individually and so great, but the way it has been done and put together has not been put together correctly."
+
+While ex-Man Utd striker Wayne Rooney, added: "I know what it is like from managing Derby County when they had a points deduction. The mindset and message to the players was simple – just try to win the next game.
+
+"All the noise around the club, from the media and other fans, will make them even hungrier to succeed.
+
+"They could be fighting for the title or fighting for relegation by the end of the season. Who knows what's going to happen."
+
+As City walked off, they were accompanied by the taunt of "You're going down" from the Kop.
+
+City's fans answered with the trademark: "We're not really here."
+
+This, in essence, is what makes this Premier League campaign one that might yet be rendered void. City might win the title - but who knows if they will be here next season?
+
+As Maresca's side move into top gear and threaten to accelerate away from the chasing pack with wins such as this, no-one has a clue what their final destination will be.
+
+![Liverpool fans holding a banner which reads "And After All You Really Robbed Us All'.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0000/live/39080a60-c5a5-11f1-8ef2-31c45d39a4c9.jpg)
+
+Liverpool fans held up banners about Manchester City being found guilty of breaking financial rules
+
+Highlights: Manchester City beat Liverpool to extend perfect start
