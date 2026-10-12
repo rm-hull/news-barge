@@ -311,3 +311,20 @@ sites:
       # Source byline credit (e.g. "lth/dpa") at the end of some articles;
       # shares the same paragraph styling as article body text.
       - //p[contains(@class, 'text-brand')]
+
+  - name: PC Gamer
+    slug: pcgamer
+    categories: [Technology & Software]
+    feed: https://www.pcgamer.com/rss/
+    limit: 50
+    # PC Gamer uses Future PLC's Viafoura comment system, which injects a
+    # "confirm your public display name" overlay and author bio blocks into
+    # the article HTML that survive trafilaura's extraction and pollute the
+    # extracted prose. Strip them before extraction runs.
+    exclusions:
+      # Viafoura comment widget overlay + container (contains the
+      # "You must confirm your public display name" / "Please logout" <p> tags).
+      - //div[contains(@class, 'viafoura-twig-component')]
+      # Author bio block at end of article — same class pattern as TechRadar
+      # (both are Future PLC sites).
+      - //div[contains(@class, 'slice-author-bio')]
