@@ -1,0 +1,127 @@
+---
+title: MI5 tackling more state threats than during Cold War, warns intelligence chief
+source_url: https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-13T16:59:43Z'
+published: '2026-10-13T00:00:00Z'
+description: Sir Ken McCallum says operations to tackle terrorism and state threats
+  are now roughly of an "equal scale".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- AI
+- Al
+- Andy Burnham
+- Ken McCallum
+locations:
+- Al
+- China
+- Europe
+- Gloucesteshire
+- Iran
+- Kremlin
+- London
+- Moscow
+- RAF Fairford
+- Russia
+- Thames House
+- UK
+- Ukraine
+organisations:
+- AI Security Institute
+- AI Threat Assessment Centre
+- Al Qaeda
+- GCHQ
+- Islamic Revolutionary Guard
+- Islamic State
+- MI5
+- MI6
+- Nato
+- UK Intelligence Community
+---
+
+Watch: State threats and AI - Key takeaways from MI5 chief's speech
+
+**MI5 is devoting more resource to countering state threats than during the Cold War, the head of the intelligence service has said.**
+
+Sir Ken McCallum said threats from foreign adversaries had quadrupled in the last decade, with Russia "aggressor number one" as well as increased Iran-linked aggression against Jewish sites and military bases.
+
+At an annual speech in London, MI5's chief said Russia was waging hybrid warfare at a time when AI was "supercharging the cyber-security contest between attackers and defenders".
+
+He also warned of rising threats from "extreme right-wing terrorism" and said MI5 had "caught terrorists seeking to exploit Al," including by integrating the technology with drones.
+
+He said the biggest threat from the misuse of AI was extremist groups using the technology to harness new and existing bioweapons.
+
+However, he noted that work countering terrorism and state threats was now "pretty much of equal scale" which he described as a "huge shift" in recent years.
+
+Sir Ken said Russia had stopped short of "conventional conflict" against Nato and is instead trying to unsettle European countries while its progress in its full-scale invasion of Ukraine is "minimal and horrifically costly".
+
+Hybrid warfare or hybrid attacks are loose terms which tend to describe non-military methods, for example cyber-attacks, sabotage or misinformation, designed to exert pressure and destabilise an adversary.
+
+These are quite often employed using proxies, but Russia always denies involvement in such attacks despite growing evidence to the contrary.
+
+Sir Ken said MI5 successes in identifying and expelling Russian spies from the UK had left the Kremlin dependent on paying proxies for attempted attacks.
+
+"With its traditional covert footprint eviscerated by almost 1,000 expulsions since the invasion, the Kremlin's global toolkit is weak, he said.
+
+"So we see them scrambling to pay criminals to do their bidding."
+
+He added: "These are not the actions of a great power with the strategic upper hand."
+
+His comments come as a growing number of leaders across Europe have warned Russia may be preparing attacks to test their commitment to supporting Ukraine.
+
+Asked after the speech about Prime Minister Andy Burnham's recent comments that Russia interfered with the Brexit referendum, Sir Ken said it was "not new news" that there had been attempts from Moscow but distinguished between "interference attempted" and "outcome achieved".
+
+He said it was a matter of public record that there were pieces in Russian media and "so-called internet trolls and bot farms" seeking to influence the Brexit debate, but also stressed that the result of the 2016 referendum was "not in dispute".
+
+He added that he was "worried" about the the ongoing debate on Russian interference.
+
+"I am a little bit anxious that we don't play into our adversaries' hands by making these trolls look 10ft tall," he told reporters.
+
+![Ken McCallum stands at a podium in a dark suit and white shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg)
+
+Sir Ken McCallum gave his annual address at MI5's headquarters in central London
+
+Meanwhile, Sir Ken warned that Iran is also expanding a hybrid campaign in the UK.
+
+The intelligence chief said there had been 50 arrests in the last year over Iran-linked activities.
+
+Much of this Iranian aggression has been aimed at Jewish communities, Sir Ken added, and also at "harder targets, like military sites".
+
+Sir Ken did not mention arrests at RAF Fairford directly during his speech, but told reporters afterwards the incident was "not unique".
+
+He added: "We have seen Iranian interest beyond RAF Fairford in the UK."
+
+The incident at the airbase in Gloucesteshire, where three suspicious vans were seen parked nearby, has seen seven people arrested and bailed by counter-terrorism police.
+
+Burnham has said the incident was "almost certainly directed by Iran's Islamic Revolutionary Guard".
+
+The MI5 head said in his speech: "What I can say is that those who seek to cause mayhem on British streets - whether hired thugs here or their paymasters overseas - will meet an unflinching response."
+
+Sir Ken added that the National Security Act - a 2023 law designed to target people working against UK interests for foreign powers - is in heavy use, and has been employed to tackle threats from China as well as Iran and Russia.
+
+On the emerging threat posed by AI, Sir Ken said: "It can produce propaganda and radicalising material tailored to the individual.
+
+"We've caught terrorists seeking to exploit Al to improve their reconnaissance and attack methodologies, with Al-enabled drones adding a new twist."
+
+Sir Ken said the bioweapons threat posed by AI was "not yet realised" but warned the technology has the "potential to change the stakes".
+
+"These risks are real. The UK Intelligence Community - MI5, GCHQ, MI6 - is working closely with the UK's globally respected AI Security Institute to take them on."
+
+Sir Ken said AI poses unknown threats, telling Thames House: "Put at its simplest, human history has given us no experience of facing an actor which is smarter than we are".
+
+He announced MI5 had launched an AI Threat Assessment Centre, which he said would assess sources and "separate the bluster from the realities".
+
+In April, the UK's terrorism threat level was raised to severe for the first time in five years, meaning an attack is highly likely.
+
+Sir Ken said Islamist groups like Al Qaeda and so-called Islamic State both continue to direct and inspire attacks, while the increased risk was also driven "in significant part" by extreme right-wing terrorism.
+
+He continued: "Over the last year the most marked trend has been an increase in cases where extremist versions of anti-immigration and anti-Muslim grievance are tipping into terrorist intent."
+
+Sir Ken said extreme right-wing terrorism tended to "skew young", driven by the internet - adding that MI5 had in recent months investigated a "radicalised extreme right-wing 13-year-old here in the UK".
+
+He said: "That investigation generated insight that enabled one of our international partners to prevent a lethal attack on their soil."

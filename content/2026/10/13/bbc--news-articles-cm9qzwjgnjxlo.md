@@ -1,0 +1,88 @@
+---
+title: Bumble bought for $1.3bn in 'bet on the future of humanity'
+source_url: https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-13T16:56:33Z'
+published: '2026-10-13T00:00:00Z'
+description: The dating app which recently ditched its "women-first" chat rule has
+  been bought by an investment firm.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+people:
+- AI
+- Alex
+- Bumble
+- Gen Z
+- John Hegeman
+- Lidiane Jones
+- Ravi Gupta
+- Wolfe Herd
+locations:
+- UK
+organisations:
+- AI
+- BBC
+- Bumble
+- Bumble's
+- Hinge
+- Ithaca Holdings
+- Match Group
+- Ofcom
+- OkCupid
+- Tinder
+- Wolfe Herd
+---
+
+![Bumble dating app on smartphone ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg)
+
+**Dating app Bumble has been bought for $1.3bn (£980m) in what the new owners called "a bet on the future of humanity".**
+
+Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a "women-first" chat rule.
+
+Bumble ditched the rule in August this year.
+
+Wolfe Herd, Bumble's founder and current chief executive, said she would remain "actively involved" with the business she set up 12 years ago.
+
+While it is unclear what Wolfe Herd's role at the dating app will be, she said she will work closely with the new owners.
+
+Gupta and Hegeman said they wanted to use technology to "renew and accelerate businesses...in a world transformed by AI".
+
+They said: "Technology should work in service of our deepest source of fulfillment, human connection and this investment is a bet on the future of humanity."
+
+This contrasts with a recent debate over the safety of AI, with some experts claiming the speed of its development threatens the future of humanity.
+
+Bumble's share price has soared as news of the deal began to emerge. The jump lifted its company valuation to over $580m but that is still far below a peak of more than $14bn it reached after it floated the business on the Nasdaq stock index in 2021.
+
+Since becoming a public company, it has made an annual pre-tax profit only once, in 2023.
+
+In the following two years, it reported steep losses, though during that period Bumble had been working to incorporate new technology, including AI, into its app.
+
+Its chief executive in 2024, Lidiane Jones, told the BBC she believed AI had "exciting potential" in dating apps related to safety, and Bumble had been looking at research that found Gen Z and milliennials were interested in AI assistance with creating profiles.
+
+This year, the dating app unveiled several new AI features, including profile guidance to help people create dating profiles.
+
+Bumble was launched in 2014 by Wolfe Herd who built the brand around a distinctive feature that only allowed women to initiate conversations with matches.
+
+It recently abandoned that rule, prompting debate among users over whether the app had lost what set it apart from rivals.
+
+"Today, our community is asking for more flexibility, less pressure, and more opportunities to create real, meaningful connections and that is what this new experience provides," Wolfe Herd said in August.
+
+Dating apps like Bumble have come under pressure in recent years as some younger users have grown disillusioned with browsing for dates.
+
+Bumble said in 2025 that it would cut almost a third of its workforce as the industry grappled with what Wolfe Herd described as an "inflection point" in online dating.
+
+Investments in other dating companies have also soured as apps have struggled to convince users to pay for their services.
+
+Match Group - which owns apps including Tinder, OkCupid and Hinge - has also seen its shares fall sharply from their peak in 2021.
+
+According a report by media watchdog Ofcom in 2025, adults in the UK were spending less time on dating apps compared to three years earlier.
+
+Some single people are instead turning to board game get-togethers, book clubs and other group activities in the hope of finding a partner.
+
+* + Published2 August 2025![Alex waiting outside a bar with a cocktail](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2e5/live/c5cd13d0-695a-11f0-8dbd-f3d32ebd3327.jpg)
+* ![A treated image of the Love Island firepit with a image of couple edited on the side](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6805/live/5b30d6d0-86c6-11f1-8c61-e72dd81a46e3.jpg)
