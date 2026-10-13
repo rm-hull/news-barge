@@ -1,0 +1,164 @@
+---
+title: Death threats and isolation - the cost of fighting sexual violence in Iraq
+source_url: https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-13T06:47:45Z'
+published: '2026-10-13T00:00:00Z'
+description: Women say they share stories of abuse to highlight the issue, despite
+  social pressure and safety fears.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7425/live/2dfb6810-c645-11f1-b47f-e3f9cf703bc3.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Amal
+- Hanaa Edwar
+- Muqdad Miri
+- Mustafa Saadoon
+- Saddam Hussein
+- Sally Nabil
+- Salma Khattab
+- Samira
+- Sarah Jassim
+- Yanar Mohammed
+locations:
+- Baghdad
+- Iraq
+- UK
+organisations:
+- Amal
+- BBC
+- Instagram
+- Interior Ministry
+- Iraqi Observatory for Human Rights
+- UN Human Rights Council
+- interior ministry
+---
+
+![Sarah Jassim sitting at a desk typing on a laptop in a room with a bookshelf, flowers and a mirror in the background. She has dark, mid-length hair and is wearing a short-sleeved blue top.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7425/live/2dfb6810-c645-11f1-b47f-e3f9cf703bc3.jpg)
+
+"Your camera is your weapon," says Sarah Jassim, who says the videos she posts help document evidence of harassment
+
+**This story contains details of sexual violence which some readers may find upsetting**
+
+"Get out of the car!" screams a woman, accusing a driver of exposing himself and making obscene comments as she walked by. She is filming the scene in a busy Baghdad street on her phone, and the camera captures him resisting her attempts to open the door as she confronts him**.**
+
+The video can be seen, with others like it, on the Instagram page of Iraqi women's rights activist Sarah Jassim. She posts them on behalf of women who complain about sexual abuse and harassment by Iraqi men and boys.
+
+"Your camera is your weapon," she tells the BBC. "It's a way to document evidence in case a woman decides to sue her harasser, or at least it is a means to shame him."
+
+One of the videos she posted led to the arrest of the alleged perpetrator, a policeman accused of harassing schoolgirls, she says.
+
+![Three-image composite taken from video shared on Instagram by Sarah Jassim. The first image shows a white car with a night-time street scene behind it, the second shows a hand reaching towards the car and the man's hand resting through the window on the top of the door. The third shows the woman's hand on the door handle, partially opening the door. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/190d/live/c6630360-c325-11f1-bc2e-018d645d8d21.png)
+
+A video posted by Jassim shows a woman shouting at a man she accuses of exposing himself, then trying to open his car door
+
+Jassim says posting the videos is risky both for herself and for the women concerned. We have spoken to numerous victims of sexual abuse in Iraq who say that society often blames the victim.
+
+"I have received death threats, and I have also been threatened with acid attacks," Jassim says. "I have been accused of inciting public indecency, because I encourage women to speak in a society that expects us to be silent."
+
+She now barely leaves home, for her own safety, and instead spends hours playing with her dog.
+
+There is a need for stricter laws, she argues, including laws that explicitly criminalise "harassment" and "gender-based violence" - terms that are currently absent from the penal code.
+
+"Recognising the problem is the best way to address it," she says. "We need protection, abusers have to be deterred."
+
+## 'No-one will hear if I kill you'
+
+Many Iraqi women have told the BBC they felt failed by the justice and police systems. Pursuing legal action against a harasser or a rapist is a long path in Iraq, with complicated procedures, and uncertain results, according to a number of activists and lawyers we have spoken to.
+
+Violence against women and girls in Iraq is "widespread and under-reported," according to a report in May by a UN committee on discrimination against women, which called for stronger legislation.
+
+Among dozens of recommendations, it urged the authorities to repeal "discriminatory" laws that exonerate rapists if they marry their victims, and allow reduced sentences for murder in cases where a perpetrator was carrying out a so-called "honour killing".
+
+Amal - not her real name - has been battling in court for about five years. She accuses her ex-husband of repeatedly raping their daughter - who was under 18 at the time - at gunpoint.
+
+She recalls her daughter's harrowing account of the incident, when she says the father walked into the girl's room and laid his weapon on her bed. She says he told her: "No-one will hear you if I kill you."
+
+![Silhouette of Amal’s veiled head and shoulders, with the head slightly blurred  and a garden in the background](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/25f1/live/c70f2f60-c63a-11f1-a64c-550be9e3c66b.jpg)
+
+Amal accuses her ex-husband of repeatedly raping their daughter, who was under 18 at the time
+
+Sexual abuse has long been seen as a taboo subject in Iraq. I have been in touch with many survivors who say that they prefer to hush it up, because of a potential family backlash. Others told us they were afraid to go to the police, for fear of social stigma and possible harassment. But Amal was determined to seek justice and rushed to police to report the incident.
+
+"She had lots of bruises around her wrists, as he held her hands tight. Whenever she tried to scream, he would cover her mouth with his hands," Amal says.
+
+Amal showed me medical documents, including DNA evidence, which support her account.
+
+A further demonstration of her ex-husband's cruelty came, Amal says, when she heard him tell a family member to "wash off our disgrace" if he was arrested. The expression is used in Iraq to refer to so-called honour killings - carried out in the belief that a woman has compromised a family's reputation.
+
+Amal says she believes the father threatened to put an end to his daughter's life "so the medical report would not be released and the assault would not be proven".
+
+She says her ex-husband is on the run and the court case remains open.
+
+"I fought all alone," says Amal, bursting into tears as she says her ex-husband hired several lawyers but she could not afford legal representation, and her family turned a blind eye to the situation.
+
+She no longer has any faith that a court ruling will come in her favour. "I just want him to stay out of my way forever," she says, with a sigh of despair.
+
+## Activist killed
+
+Amal's daughter is more fortunate than some women who have experienced domestic sexual abuse in Iraq, as she has a safe place to live.
+
+Many survivors have no independent income and nowhere to go. Iraq has very few shelters for abused women.
+
+Those we know of were established by an organisation co-founded by Yanar Mohammed, an internationally recognised women's rights advocate. Last March she was murdered outside her house in Baghdad by armed men. The perpetrators are still unknown.
+
+Experts working for the UN Human Rights Council wrote in April that Mohammed had been receiving death threats and online abuse for years, which were "believed to come from extremist religious militia".
+
+![Iraqi women's rights activists Hanaa Edwar (left) and Yanar Mohammed, pictured together shortly before Mohammed was killed. Edwar has short grey hair and a black and white striped top, while Mohammed has longer brown hair and glasses and is wearing a checked jacket. Both are smiling and Mohammed has her arm around Edwar's shoulders.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/045d/live/e53900c0-c30f-11f1-8f04-85217d686658.png)
+
+Hanaa Edwar (left) shared a photo of her with Yanar Mohammed, taken, she recalls, just two days before the activist was killed
+
+Activists repeatedly told us that targeted attacks on their colleagues have been on the rise in recent years.
+
+Hanaa Edwar, another prominent women's rights activist, says she saw Mohammed just two days before she was killed. She says she has also been threatened.
+
+"There are no laws, no protection, and no justice for women in Iraq," she tells me.
+
+"The problem in Iraq is not that women stay silent. It is that when they speak, very little in the system is built to listen, Mustafa Saadoon, head of the Iraqi Observatory for Human Rights, tells the BBC.
+
+"A woman who reports sexual violence has to get past her family first, then a police station, then a court, and at every one of those doors someone is likely to tell her to settle it quietly."
+
+## 'Followed in a car'
+
+Among the Iraqi women who say they feel failed by the system is Samira - not her real name.
+
+She tells the BBC that walking in the street puts her on the edge, after repeated harassments.
+
+Once, she says a man "was watching a porn movie on his phone and put it in my face" on public transport.
+
+![Wide shot of Samira - whose name has been changed - speaking to the BBC's Sally Nabil in a park. The women are out of focus in order to conceal Samira's identity, while a tree trunk in the foreground is in focus. Samira is wearing black, while Nabil is wearing a light top and orange headscarf.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2378/live/137f6db0-c334-11f1-a64c-550be9e3c66b.jpg)
+
+Samira says she has been harassed on public transport and followed by a man in a car on her way to work
+
+In another incident in Baghdad, she says a man once followed her in his car for over 10 minutes. "It was extremely upsetting... I saw a police car. I went over and told them what had happened. They said they didn't have the authority to do anything."
+
+Although her mother is loving and supportive, Samira does not share any stories of sexual harassment with her. "If I tell my family, they will immediately ask me not to leave home in order to stay safe," she says.
+
+She has lost faith in state institutions: "Many men, including police officers, find nothing wrong with sexual harassment. If you are not a harasser, you are not a man, this is how they see it," she adds.
+
+Many women I spoke to in Iraq even accused police of sexual harassment. I put the accusation to Muqdad Miri, a spokesman for Iraq's interior ministry.
+
+"Cases of harassment involving police personnel happen but they are very few. They get a very harsh punishment, up to 10 years in prison and are dismissed," says Miri.
+
+![Muqdad Miri in a grey jacket, white shirt and grey patterned tie, in an office next to Iraqi flags and a globe on table](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05a1/live/b3a6e110-c334-11f1-9981-cf94ea240e40.jpg)
+
+Interior Ministry spokesman Muqdad Miri says some sexual violence is not reported because of "society, customs and traditions"
+
+I put it to him that some women were now documenting harassment on social media because they were afraid to report it to police. He said they were posting on social media because it was easier than filing an official report, and because doing so has become a common way to draw attention to a cause.
+
+I also put to him Samira's experience, in which she says an officer told her that he had no authority to stop harassment. Miri said Samira could have filed a complaint against this officer.
+
+There are no reliable statistics for sexual violence or harassment in Iraq. Miri told me that police have received about 300 reports of sexual violence since the beginning of the year. However, he accepts that the real number of cases is higher: "Many cases never reach the police because of society, customs and traditions."
+
+The stories of the women the BBC spoke to draw a picture of their battle not just against sexual violence itself, but against deeply entrenched mentalities and social beliefs that allow it to persist.
+
+Edwar has been advocating for women's causes for over 50 years and her assessment is gloomy: "Twenty-three years after Saddam Hussein's regime was brought down, it seems we are going backwards regarding women's rights."
+
+But both she and Jassim say they refuse to give up: "If all of us are going to get scared, no-one will change anything," says Sarah.
+
+*Additional reporting by Salma Khattab*
+
+**If you have been affected by issues involving sexual abuse and violence, you could speak to a health professional or an organisation that offers support. Details of organisations offering advice and support for people in the UK are available fromBBC Action Line.**

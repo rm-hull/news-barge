@@ -1,0 +1,123 @@
+---
+title: Russia's offensive ability is broken, Kyiv's former top general tells BBC
+source_url: https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-13T06:47:38Z'
+published: '2026-10-13T00:00:00Z'
+description: In his first interview since being forced from his post, Gen Syrskyi
+  speaks about Ukraine's future in the war.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9618/live/c8280840-c6d0-11f1-a64c-550be9e3c66b.jpg
+categories:
+- UK
+- News & Politics
+people:
+- Gen Syrskyi
+- Kyiv
+- Mykhailo Drapatyi
+- Mykhailo Fedorov
+- Oleksandr Syrskyi
+- Volodymyr Zelensky
+locations:
+- Avdiivka
+- Azov
+- Belarus
+- Crimea
+- Donetsk
+- Europe
+- Kharkiv
+- Kherson
+- Kursk
+- Kyiv
+- Lviv
+- Moldova
+- Moscow
+- Odesa
+- Pokrovsk
+- Russia
+- UK
+- Ukraine
+- Vuhledar
+- Zaporizhzhia
+organisations:
+- AEI
+- BBC
+- Center for Strategic and International Studies
+- ISW
+- Institute for Study of War
+- News Daily
+- Syrskyi
+- Unmanned Systems Forces
+---
+
+![Oleksandr Syrskyi bunches his fists and sits in a dark blue jacket and light blue shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aa73/live/c09286d0-c3f8-11f1-97a9-2d4b5e26e282.jpg)
+
+Gen Syrskyi lost his job over the summer after a public disagreement with the defence minister
+
+**Ukraine has stabilised the front line and "broken Russia's ability to advance" by killing so many of its men, Ukraine's former commander-in-chief has said in an interview with the BBC.**
+
+Gen Oleksandr Syrskyi made the comments in an exclusive interview, his first since he was dramatically forced from his post in the summer.
+
+He addressed his sacking, disagreeing with his critics who declared him too "old school" to command Ukraine's new, technologically advanced forces.
+
+He also pushed back against allegations made by soldiers who previously served under him, who told the BBC they were ordered to remain at their positions even when they were almost surrounded by Russians, leading to high losses.
+
+Syrskyi said that Moscow's overall losses in the war were six times higher than Ukraine's. "If you count only dead, then it's up to 11 times," he added.
+
+Neither Russia nor Ukraine officially release the numbers of their dead. Ukraine's military says it inflicted record losses this year on Russian soldiers in September, although that cannot be verified.
+
+UK intelligence chiefs estimate Russia has lost around half a million men killed in Ukraine since launching its full-scale invasion in 2022. The US-based Center for Strategic and International Studies meanwhile believes, external Ukraine has lost up to 150,000 troops killed by June 2026.
+
+He says this difference in death toll – as well as technological advances, and a strategy of attacking weak points in Russia's lines while containing their advances in other parts – accounts for the current stalemate at the front.
+
+In the first six months of 2026, Russia managed overall to seize 61 sq km, the general said. "It's an indication that the front line has been stabilised."
+
+The Institute for Study of War (ISW) has also confirmed this trend. One of its recent reports, external says that in September 2026, Moscow lost more territory than it took.
+
+![Map of Ukraine showing areas under Russian military control. Territories under Russian control are shaded pink, including Crimea, most of the occupied areas of Donetsk, large parts of Zaporizhzhia and Kherson regions, and a continuous belt of territory along the Sea of Azov connecting Crimea to eastern Ukraine. Areas of limited Russian control are marked with red diagonal hatching along parts of the front line, while small areas of claimed Russian control are shown in orange near the Russian border. Major cities including Kyiv, Kharkiv, Donetsk, Kherson, Odesa, Lviv, and Kursk are labelled, along with neighbouring countries Belarus, Russia, and Moldova. An inset map highlights Ukraine's location in Europe. A scale bar shows 100 km and 100 miles. Source: ISW and AEI's Critical Threats Project, 11 October](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9fda/live/e493dfb0-c647-11f1-bc2e-018d645d8d21.png)
+
+Syrskyi was appointed Ukraine's commander-in-chief in 2024. He had previously won praise for defending Kyiv at the start of Russia's full-scale invasion in 2022, and for leading the successful counteroffensive east of Kharkiv in the autumn of that year.
+
+But President Volodymyr Zelensky fired Syrskyi this summer, amid a major disagreement with then-defence minister Mykhailo Fedorov.
+
+Fedorov had said that instead of adapting to the realities of the changing war, the army under Syrskyi had blocked his initiatives.
+
+Zelensky initially fired Fedorov, as tensions burst into the open between the two men. But mass street protests then forced the president to also fire Syrskyi, replacing him with Maj Gen Mykhailo Drapatyi, 43.
+
+Syrskyi told the BBC that he had "disagreements" with Fedorov because the latter "didn't take into consideration the interests of the army" when procuring weapons and supplies.
+
+Fedorov had created an "imbalance" in supplies, Syrskyi said. He had prioritised drones while overlooking key front-line kit such as unmanned ground vehicles, pick-up trucks and motorbikes. Even with drones, Syrskyi said, there were shortages as the army got only half of what they needed.
+
+Fedorov was a popular young minister who was known for his digital and technological initiatives. Many contrasted him with Syrskyi, who critics thought was not fit to lead the new technological arms race with Russia.
+
+But Syrskyi disagrees with such criticism. It was during his time the use of drones reached this new, unprecedented level, including deep strikes more than 2,000km (1,200 miles) behind enemy lines, he said. Ukraine was the first country to create the Unmanned Systems Forces as a separate branch of armed forces, under his command: now, he said, drones account for 80% of Russia's losses.
+
+![Gen Syrskyi pictured from the side. He is wearing green military fatigues and has short grey hair. He is sat beside two other men in the same uniforms, with the blue-and-yellow Ukraine flag on their shoulders. They are sat in front of a wall of wooden panels.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b81/live/b08252d0-c645-11f1-bc2e-018d645d8d21.jpg)
+
+Syrskyi pictured after his appointment as Ukraine's commander-in-chief in early 2024
+
+Under his military leadership, however, Ukrainian troops undertook chaotic withdrawals from the eastern cities of Avdiivka and Vuhledar, and from around Pokrovsk.
+
+Soldiers who spoke to the BBC in the past complained that they were ordered to remain at their positions at any costs. By the time they were told to pull back, it was often too late as they were almost surrounded by Russian troops.
+
+Syrskyi does not deny that such situations occur on the front line. But he told the BBC that Ukraine was fighting against a far more powerful army.
+
+In 2025, the ratio of jets and bombs was 18 to one in Moscow's favour, he said. In the same year, Russia had two-and-a-half times more artillery pieces and shells than Ukraine. And with four million militarily trained men who they can mobilise, Russian forces can create chances to push through, he argued.
+
+One of Syrskyi's most famous operations was an incursion into Russia's Kursk region that started in August 2024. It ended with a dramatic retreat the following spring, which some soldiers described as "catastrophic". Syrskyi, however, insisted that the Kursk operation was "a necessity".
+
+"In the summer 2024, Russian forces were pushing along all main directions on the front line with up to six times more troops than we had," he explained.
+
+The Kursk incursion disrupted Russia's offensive and forced Moscow to redirect troops, giving Ukraine a respite and a chance for its stretched brigades in the east and south to recover, Syrskyi said.
+
+He also had strong words for European allies who doubt that Russia may have territorial ambitions beyond Ukraine. He advised European partners to start preparing for the war now and "drop all illusions that [it] will not come".
+
+He also said he believed Ukraine's war was going to become even more technological. There will be more robots, automated systems and artificial intelligence (AI). "Even ordinary weapons now get an AI-based control system to enhance their capabilities," he said.
+
+Such technologies can give a new life to conventional weapons like tanks. Both Russia and Ukraine were now racing to develop "active systems of defence" to protect armoured vehicles, Syrskyi said.
+
+But he insisted that "the human role will remain definitive [on the battlefield] because [people] will need to control those systems".
+
+![A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: “The latest news in your inbox first thing.”
+
+]([https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0da8/live/7ce65af0-c6ce-11f1-a64c-550be9e3c66b.png](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0da8/live/7ce65af0-c6ce-11f1-a64c-550be9e3c66b.png))
