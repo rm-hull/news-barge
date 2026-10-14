@@ -1,0 +1,71 @@
+---
+title: What surprise praise for UK economy tells us about the Budget
+source_url: https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-14T11:48:53Z'
+published: '2026-10-14T00:00:00Z'
+description: On three occasions in the past 24 hours, top IMF officials have praised
+  UK plans to reduce its annual levels of borrowing.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+people:
+- John Healey
+- Kristalina Georgieva
+- Silvana Tenreyro
+locations:
+- Canada
+- France
+- Germany
+- Italy
+- Japan
+- Middle East
+- Thailand
+- UK
+- US
+organisations:
+- Budget
+- G7
+- IMF
+- Institute for Fiscal Studies
+- International Monetary Fund
+- Liz Truss
+- Treasury
+---
+
+![Kristalina Georgieva, managing director of the International Monetary Fund, sits in an armchair, speaking and smiling while pointing upwards. The background is pink, and she wears a shiny jacket with a gold diamond repeated motif.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg)
+
+The managing director of the IMF, Kristalina Georgieva, has praised the UK's approach to debt reduction.
+
+**"Get your fiscal health in order," is a key message at the the International Monetary Fund's (IMF) annual meeting here in Thailand.**
+
+The IMF is worried about the debts of the world's biggest economies. It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.
+
+In the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world's biggest economies, such as the US.
+
+On three occasions in the past 24 hours, top IMF officials have praised the UK's plans to reduce its annual levels of borrowing, bucking the trend of the rest of the G7 group of countries, which includes Canada, France, Germany, Italy, Japan and the US.
+
+The IMF clearly seeing the UK in a different light to these major economies is very interesting.
+
+"The UK is actually one country where action to reduce debt and deficit has been taken decisively and we see the UK in that sense enjoying a bit of a better growth prospect," managing director Kristalina Georgieva said earlier.
+
+Her comments followed those of the IMF's chief economist Silvana Tenreyro who told me that UK borrowing reductions "stand out".
+
+The IMF's twice-yearly assessment of global countries' economic prospects showed only the UK among the G7 having a serious plan for consolidation of its annual borrowing over the next few years, worth nearly 4% of the size of the economy. The US, Germany and Japan are increasing borrowing. Canada and Italy are keeping borrowing at the same level.
+
+It appears the UK is now the IMF's model pupil - at the top of the G7 table for reducing deficits.
+
+## Leaning into austerity
+
+This matters because for the past half decade the UK has been on the bond market naughty step, often having the highest borrowing rates among the G7 since the Liz Truss mini budget, as political and economic crises afflicted different governments.
+
+While this is good news for the chancellor and the Treasury, it also points to the sort of Budget we will get in a fortnight's time. To keep its plans to reduce debt on track, John Healey is likely to have limited room for extra spending. He will want to marry this with limited tax rises. There could be a modest decrease in the margin for error around meeting debt rules - so-called headroom. If so that will be tied to providing a cushion against an expected rise in energy prices due to the ongoing Middle East conflict and the impact on the cost of living overall - the so called global inflation shock.
+
+This is likely to mean disappointment for many public services expecting cash injections to account for rising inflation, as suggested this week by think tank the Institute for Fiscal Studies. It will mean tough public sector pay discussions.
+
+It won't be "austerity" but the chancellor is likely to lean into the IMF framing of a government with austere plans, relative to other advanced countries. The initial prize is to avoid the direct gaze of the bond markets, whose full glare is on others, such as France now. The bigger prize could be lower relative borrowing costs for government and households.
+
+Ultimately forecasts mean nothing without the underpinning of solid plans. Those plans will be here for everyone to judge soon enough.
