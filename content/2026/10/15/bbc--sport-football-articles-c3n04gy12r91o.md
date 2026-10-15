@@ -1,0 +1,67 @@
+---
+title: 'Lisandro Martinez: Roy Keane says Man Utd ''like a circus'''
+source_url: https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-15T11:24:59Z'
+published: '2026-10-15T00:00:00Z'
+description: Lisandro Martinez's outburst shows Manchester United are in "chaos",
+  says former captain Roy Keane.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Bruno Fernandes
+- Gary Neville
+- Harry Maguire
+- Jason Wilcox
+- Lisandro Martinez
+- Roy Keane
+- Wayne Rooney
+locations:
+- Argentina
+organisations:
+- Ajax
+- Atletico Madrid
+- Leeds United
+- Manchester United
+- The Overlap
+---
+
+![Lisandro Martinez](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg)
+
+Lisandro Martinez joined Manchester United from Ajax in 2022
+
+**FormerManchester Unitedcaptain Roy Keane says the club are "like a circus" after defender Lisandro Martinez's criticism of the hierarchy.**
+
+Martinez's comments came after Tuesday's 2-0 defeat by Atletico Madrid in the Champions League, which stretched their winless streak to five games.
+
+The Argentina international criticised United for not strengthening the squad in the summer following qualification for the Champions League, saying he expected more investment in the United squad and "more from our technical director [Jason Wilcox]".
+
+Speaking on The Overlap, external podcast, Keane said Martinez's statement reflected the overall state of the club.
+
+"There will be some fans saying it's great and some saying you're letting the team down, especially from a player who hasn't been at his best, when the team is struggling," Keane said.
+
+"I think as a reflection of the club, it's obviously chaos there, like a bit of a circus.
+
+"When you're going through a difficult spell like United are, the issue I have with certain players saying things is you always have to start with the man in the mirror before you start coming out with all these comments."
+
+Martinez said on social media on Wednesday that he spoke out of "anger and frustration".
+
+The 28-year-old's contract expires at the end of the season and United have the option to extend it by another year.
+
+"I don't think it will be a big falling-out - because I think we have question marks over this dressing room anyway," Keane said.
+
+"I don't think there's enough characters - enough men in there - but I don't see him as a senior player at Manchester United. I see him as a centre-half who's making lots of mistakes."
+
+Former United defender Gary Neville compared the incident to comments made by Wayne Rooney when they were team-mates in 2010.
+
+"I've got a problem with this from a player's perspective," said Neville. "That is a direct attack on the players you are playing with.
+
+"So if I were Harry Maguire or Bruno Fernandes, or any other senior player, I would be absolutely fuming with him because you're basically saying we shouldn't be here and we should be bringing more players in."
+
+United travel to Leeds United in the Premier League on Sunday.
+
+'Players have a different responsibility' - Pundits react to Martinez comments
