@@ -1,0 +1,74 @@
+---
+title: Seven sailors missing after drones strike tankers near Romania’s Black Sea
+  coast
+source_url: https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-15T21:20:14Z'
+published: '2026-10-15T00:00:00Z'
+description: Nato source says drones came from Russia, while Romania’s president says
+  attacking commercial ships ‘is unacceptable and has to stop’
+image: https://i.guim.co.uk/img/media/e886f1a13a50a50476946b3452987388831e52f9/73_0_2249_1800/master/2249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4b4403b6c83eb7a09d3eed721692921
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+people:
+- Mark Rutte
+- Nicușor Dan
+- Rumen Radev
+locations:
+- Black Sea
+- Brussels
+- Bulgaria
+- Danube
+- Guinea-Bissau
+- Kyiv
+- Romania
+- Russia
+- Tunisia
+- Ukraine
+organisations:
+- EU
+- HS Dignity
+- Nato
+- North Atlantic Council
+- Reuters
+- Wine Trader
+- Yara J
+---
+
+Seven sailors are missing after drones struck two tankers near Romania’s Black Sea ⁠coast, setting them ablaze and raising ⁠fresh security concerns on a ​vital shipping route used by Ukraine.
+
+A Nato military source told Reuters the drones that had hit the Wine Trader and the Yara J came from Russia. “The drones that caused ⁠the fires on board two tankers inside Romanian territorial waters were of Russian origin,” the source said.
+
+Romania’s president, Nicușor Dan, described the situation in the Black Sea as serious. “Commercial ships are being attacked and sunk,” he wrote on X. “Seafarers killed, injured and missing very close to the shores of Romania and Bulgaria. This is unacceptable and it has to stop.”
+
+His statement followed a meeting with Bulgaria’s prime minister, Rumen Radev, and Nato’s secretary-general, Mark Rutte, on Thursday, where they agreed “to strengthen our defences in the Black Sea”, Dan said.
+
+Rutte said: “Nato will continue to work closely with our allies in the Black Sea, adjusting our deterrence and defence posture as needed.”
+
+A Nato official said the issue would be discussed at a meeting of the North Atlantic Council next week.
+
+The missing crew were from the Wine Trader, a San Marino-flagged tanker travelling from Tunisia to Romania. All crew on the Yara J, which was struck just inside Romanian waters late on Wednesday, were safe.
+
+Similar incidents in recent weeks have raised fears that the zone is becoming another front in Russia’s war on Ukraine.
+
+Dan said the two ships had been struck by drones, but declined to say whether Russia was responsible.
+
+Romania shares a 614km (381-mile) border with Ukraine, much of it along the Danube. The country has experienced frequent drone incursions since Russia launched its full-scale invasion of Ukraine in 2022, including a daytime encroachment last November that led Nato to scramble fighter jets.
+
+after newsletter promotion
+
+EU leaders were already concerned about drone strikes on merchant ships off the coast of Bulgaria. On Tuesday, drone strikes on two ships off the coast of Bulgaria prompted emergency rescue operations, with 11 crew member from the HS Dignity, a cargo ship sailing under a Guinea-Bissau flag, still missing.
+
+On another ship, the Ukrainian-operated Chelsea 3 sailing under a Maltese flag, rescuers evacuated all 15 crew members, with five receiving treatment for minor injuries. The crew reported that the ship’s deck and hull were hit by three aerial drones.
+
+“The results of this attack favour Russia. However, we don’t have any solid evidence that the drones are Russians,” Radev said after arriving in Brussels for an EU summit on Thursday.
+
+At least 23 sailors have been reported missing or killed after attacks on commercial shipping near the coasts of Bulgaria and Romania in the past 10 days, according to Reuters.
+
+Russia has stepped up its bombing campaign on Ukraine’s Black Sea infrastructure, forcing Kyiv to turn to Danube river ports and Black Sea routes off the coasts of Romania and Bulgaria to export its grain, sunflower oil and other products.
+
+According to a draft summit declaration, EU leaders will say that attacks against civilian shipping, including “member state-flagged vessels, such as the recent attacks in Bulgaria’s and Romania’s exclusive economic zones in the Black Sea, are unacceptable and constitute a serious violation of international and maritime law”.
