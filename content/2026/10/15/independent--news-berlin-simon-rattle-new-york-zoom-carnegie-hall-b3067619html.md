@@ -1,0 +1,93 @@
+---
+title: Berlin Philharmonic planning to vacate Philharmonie for renovation from 2032-40
+source_url: https://www.independent.co.uk/news/berlin-simon-rattle-new-york-zoom-carnegie-hall-b3067619.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-15T17:00:49Z'
+published: '2026-10-15T00:00:00Z'
+description: Kirill Petrenko and the Berlin Philharmonic face a big challenge
+image: https://static.independent.co.uk/2026/10/15/17/Berlin_Philharmonic_Petrenko_4_891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+people:
+- Andrea Zietzschmann
+- Claudio Abbado
+- Hans Scharoun
+- Herbert von Karajan
+- Kirill Petrenko
+- Noah Bendix-Balgley
+- Simon Rattle
+- Wilhelm Furtwängler
+locations:
+- Argentina
+- Austria
+- Berlin
+- Bogot
+- Buenos Aires
+- Colombia
+- Germany
+- Munich
+- Omsk
+- Philharmonie
+- Rattle
+- Russia
+- South America
+- Soviet Union
+- São Paulo
+- Tempelhof Airport
+- U.S
+organisations:
+- Berlin Philharmonic
+- Carnegie Hall
+- Digital Concert Hall
+- Komische Oper
+- Meininger State Theater
+- Philharmonie
+- Vienna Philharmonic
+- Vienna Volksoper
+- Zoom
+---
+
+Kirill Petrenko and the Berlin Philharmonic will be on the move.
+
+A renovation is planned for the Philharmonie, its home since 1963, and is likely to displace the orchestra from 2032-40.
+
+“It’s a huge challenge to have a different stage for us because the Philharmonie has this unique sound,” Petrenko, the orchestra's chief conductor, said during a recent Zoom news conference ahead of four U.S. concerts and its first South American tour in a quarter century. “It’s really a very difficult time.”
+
+The Berlin Philharmonic, which is among the world's top orchestras, plays in a 2,410-seat capacity main hall designed by Hans Scharoun with terraced seating.
+
+The orchestra is formulating plans for a temporary facility in hangars at Tempelhof Airport, which closed in 2008. The cost of the renovation and makeshift hall are estimated at 1.15 billion euros (currently $1.28 billion), and the German federal government has pledged 225 million euros ($251 million).
+
+Plans are to relocate from the Philharmonie after celebrating the orchestra's 150th anniversary during the first half of 2032.
+
+“First of all, we need to find the venue and build the right acoustic for us, for our big orchestra,” Petrenko said. “It will be quite a challenge in Berlin, but yes, we are already in negotiations and I think very soon we will have a sort of, a preliminary result.”
+
+Just 5 chief conductors in 7 decades
+
+Petrenko became chief conductor for the 2019-20 season, following Wilhelm Furtwängler, Herbert von Karajan, Claudio Abbado and Simon Rattle.
+
+Berlin opened Carnegie Hall's season last week, its 26th U.S. visit since 1955 and its third with the 54-year-old Petrenko, who has an evergreen contract rather than a fixed term. The orchestra then headed to South America for the first time since 2000 for performances in Bogotá, Colombia, São Paulo, and Buenos Aires, Argentina, that run through Oct. 23.
+
+With more than 45,000 active subscribers to its Digital Concert Hall, Berlin has a worldwide audience.
+
+Unlike the Vienna Philharmonic, which has no music director and engages only guest conductors, Berlin is led by a single musician with a distinct personality.
+
+“Each of our chief conductors left something behind, which formed the orchestra,” said Andrea Zietzschmann, the general manager since 2017. “After Karajan, Claudio Abbado had much more the — his attitude was: `I’m one of you. I am one of the orchestra and we all play together.' ... And then Simon Rattle came and he had a very different approach. He came more from the percussion and not from melodies and he gave the orchestra completely different input. He had much more repertoire from early Baroque until modern music.”
+
+Like Abbado and Rattle, Petrenko conducts in the shadow of Karajan, who headed the orchestra from 1955-89 and left a legacy of recordings that in many cases remain regarded as top choices. Petrenko said, “I don’t feel any fear” about comparisons with Karajan.
+
+“Of course, I feel this tradition every time I come into my conducting room, which was also the conductor’s room of Herbert von Karajan. I see the chair where he was sitting,” Petrenko said. “Of course, I still study the orchestra parts being played by Karajan. I learned his bowings. I learned his dynamic, but then I decide how it should sound today.”
+
+Petrenko has spent much of his career in Germany and Austria
+
+Born in 1972 in Omsk, Russia, which was then part of the Soviet Union, Petrenko moved with his family to Austria when he was 18. He conducted at the Vienna Volksoper from 1997-99, then served as music director of Germany’s Meininger State Theater (1999-02), Berlin’s Komische Oper (2002-07) and Munich's Bavarian State Opera (2013-21).
+
+When listening to Berlin Philharmonic recordings, at times he can differentiate sounds generated by his famous predecessors.
+
+“How people vibrate, how they do portamenti, which tempi they take, which details you cannot hear,” he said. “I might imagine the art of Furtwängler in comparison with Karajan’s style. I might recognize maybe the lucidity of Abbado or rhythmical power of Rattle.”
+
+Petrenko drives the musicians to never stop trying to perfect sound.
+
+“There’s never sort of a point where he says, `OK. We’ve got it.' And that's really inspiring,” Noah Bendix-Balgley, one of the first concertmasters, said before a Carnegie Hall performance. “Regardless of what’s going on in the world and in terms of your career, and what’s the current trend, you can always go further with wrestling with this music and with these composers and this art form.”
