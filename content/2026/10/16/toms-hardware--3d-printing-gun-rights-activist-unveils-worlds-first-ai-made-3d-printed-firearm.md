@@ -1,0 +1,62 @@
+---
+title: Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm
+source_url: https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-10-16T16:39:54Z'
+published: '2026-10-16T00:00:00Z'
+description: A gun rights activist has unveiled the world's first AI-made 3D printed
+  firearm.
+image: https://cdn.mos.cms.futurecdn.net/kUvhWUvLbNDuQhdLqEFYuK-1536-80.jpg
+categories:
+- Technology & Software
+- Hardware
+people:
+- Cody Wilson
+- Stephen Warwick
+- Tom
+locations:
+- California
+organisations:
+- AI
+- ATF
+- Apple
+- DEFCAD
+- Federal judge
+- Get Tom's Hardware
+- Google Gemini
+- Google News
+- TechRadar
+- The Verge
+- Tom's Hardware
+- WASP
+- iMore
+---
+
+![3D printed gun](https://cdn.mos.cms.futurecdn.net/kUvhWUvLbNDuQhdLqEFYuK-1536-80.jpg)
+
+Gun rights activist Cody Wilson, known for creating the world's first 3D-printed firearm over a decade ago, has unveiled a new creation he claims is "the first AI-made gun." Dubbed the WASP, the weapon is 3D-printed and was designed by an artificial intelligence model he has creatively named 'GatGPT,' *The Verge* reports.
+
+The report describes the WASP as "little more than a pistol barrel attached to a spring-loaded plastic box" that closely resembles another 3D-printed, single-shot weapon made by Wilson known as Liberator. As you can see from the image below, the weapon faintly resembles a regular firearm, but boasts a very strange grip and somewhat unconventional design.
+
+Wilson claims not to have simply made an AI-generated gun, but rather "an AI that can generate guns." Not simply one 3D printed creation, Wilson claims to have created a custom AI gunsmith model he calls GatGPT. According to the report, the model has been trained on DEFCAD's (the world's biggest online repo of digital guns) gun file library and can even help creators pick out parts for their builds.
+
+The story is a seemingly significant development in the proliferation of "ghost guns," homemade firearms that don't have serial numbers, making them much more difficult to track and regulate. Wilson claims firearm access is "a fundamental human right." Interestingly, the report reveals that the WASP was designed simply by way of a conversation with the AI model, a polite way of saying that the gun was vibe-coded. According to the report, it fires real bullets and doesn't have a serial number.
+
+3D-printed guns, while less regulated than the standard firearms market, have previously required manufacturers to have some level of technical knowledge in order to make weapons. However, the existence of a custom AI model that could bridge that knowledge gap would drastically decrease how difficult it is to 3D-print a working firearm. This leap requires exactly the type of unrestricted, custom AI model Wilson claims to have made, as using a mainstream AI service like Google Gemini, for example, isn't viable — the AI simply states "I cannot provide explanations or details regarding the creation, operation, or design of ghost guns or 3D-printed firearms."
+
+Lawmakers are trying to come to grips with this rapidly evolving problem, with ongoing court battles and legislation in numerous states trying to address the problem. California recently sued a 3D printer filament company for promoting ghost guns by marketing to a 3D-printed gun community. In August, a Federal judge struck down an ATF ruling requiring regulation of part kits that can be converted into functional weapons, frames, or receivers to the same degree as complete guns.
+
+The 3D-printed firearm market has advanced in recent years. In March, two brothers were convicted of running an entire ghost gun factory, while last year it emerged that 3D-printed full-auto bullpup ghost guns could be made for just a couple of hundred dollars. Where this latest development could cause some concern is in the aforementioned democratization of the 3D-printed firearm-making process, with AI assistance effectively opening up the practice to anyone with a 3D printer.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+The report cites experts who criticized the WASP's strange design and seemingly hallucinated details, like the unfinished trigger guard, but Wilson told the report that he expects the AI's design to improve, much like any AI model.
+
+
+
+*Follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+![Stephen Warwick](https://cdn.mos.cms.futurecdn.net/uWwzwaway8BM4BERLmtuNE-140-80.jpg)
+
+Stephen is Tom's Hardware's News Editor with almost a decade of industry experience covering technology, having worked at TechRadar, iMore, and even Apple over the years. He has covered the world of consumer tech from nearly every angle, including supply chain rumors, patents, and litigation, and more. When he's not at work, he loves reading about history and playing video games.
