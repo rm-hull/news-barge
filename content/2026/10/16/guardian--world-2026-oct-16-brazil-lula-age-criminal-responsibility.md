@@ -1,0 +1,47 @@
+---
+title: Brazil’s Lula says he now backs lowering age of criminal responsibility to
+  16
+source_url: https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-16T21:01:42Z'
+published: '2026-10-16T00:00:00Z'
+description: Lula reverses position on age of responsibility for ‘heinous’ crimes
+  in what many see as a desperate electoral gambit
+image: https://i.guim.co.uk/img/media/d849b27b6454c97e931470b1c5fe256748d76ce4/377_0_4335_3467/master/4335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c988ada82aca9b869e7bd33a8aa9c346
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Flávio Bolsonaro
+- Jair Bolsonaro
+- Josias de Souza
+- Luiz Inácio Lula da Silva
+locations:
+- Brazil
+organisations:
+- Episcopal Conference of Brazil
+- TV Globo
+- UOL
+---
+
+Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.
+
+The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls.
+
+Both the senator and his father, the former president, Jair Bolsonaro, have long supported lowering the age of criminal responsibility – they want it reduced to 14 rather than 16 – but Lula and his party have always opposed the change.
+
+After repeated opinion polls, the latest of them this week, showed that 80% of the population supports lowering the age, Lula said: “My view, as a Brazilian citizen, is that for any and every heinous crime, I am in favour of lowering the age.”
+
+He answered “yes” when the reporter asked whether he meant lowering it to 16.
+
+The list of crimes classified as “heinous” under Brazilian law is extensive, ranging from murder and rape to the falsification of medicines and drug trafficking – the offence for which about a quarter of the 816,000 people serving prison sentences in Brazil were incarcerated.
+
+Human rights organisations and security experts have long criticised proposals to lower the age of criminal responsibility, arguing that they do little to tackle violence while increasing recruitment into organised crime in Brazil’s overcrowded prisons.
+
+On Thursday, before Lula’s interview, the proposal had been discussed in the senate. The Episcopal Conference of Brazil, a Catholic bishops’ organisation, had criticised it for “not addressing the causes of violence”, adding that placing young people “prematurely in the prison system tends to deepen cycles of violence and exclusion, undermining their rehabilitation”.
+
+The columnist Josias de Souza wrote in his UOL column that, by reversing his longstanding position, Lula “decided to change himself. It was no ordinary transformation. On public security, Lula turned himself inside out. He began defending what he had always rejected.”
+
+The incumbent has doubled down in recent days in an effort to overturn Bolsonaro’s 2.2 million-vote first-round lead by appealing to independents and undecided voters. He has secured congressional approval for a shorter working week – a proposal on which Bolsonaro himself U-turned and decided to support at the last minute, when it appeared ready to pass – and debt relief for microentrepreneurs, as well as promising free public transport on weekends.
