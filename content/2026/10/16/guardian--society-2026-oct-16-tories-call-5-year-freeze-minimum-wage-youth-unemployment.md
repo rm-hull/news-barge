@@ -1,0 +1,58 @@
+---
+title: Tories call for 5-year freeze on minimum wage to tackle youth unemployment
+source_url: https://www.theguardian.com/society/2026/oct/16/tories-call-5-year-freeze-minimum-wage-youth-unemployment
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-16T06:51:58Z'
+published: '2026-10-16T00:00:00Z'
+description: Labour says idea is ‘tin-eared’ as report says fixing rate will cost
+  low-paid workers almost £9,000 over five years
+image: https://i.guim.co.uk/img/media/daa7879a6ac6cde8a361bc2746f376f1123ccec8/605_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e60522c532b5e154e5a7aec7238ec9d
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Personal Finance & Investing
+- Business & Entrepreneurship
+people:
+- Andrew Sharpe
+- Kate Dearden
+locations: []
+organisations:
+- Conservative
+- Kemi Badenoch
+- LPC
+- Labour
+- Low Pay Commission
+- Prosperity Institute
+---
+
+A shadow minister has called for the government to freeze the minimum wage for five years, a move that could cost low-paid workers almost £9,000.
+
+The call came in a report from the Prosperity Institute thinktank, which carries an endorsement from Andrew Sharpe, the shadow business minister. Sharpe said in his endorsement that it was time to take action to address the low rate of young people in work.
+
+“With almost 1 million young people not in education, employment or training this report is timely and its recommendations very sound. The government should adopt them in full,” the Conservative MP said.
+
+The paper recommends freezing the “national living wage” at £12.71 for five years and abolishing the Low Pay Commission (LPC), the independent body that recommends the yearly increase.
+
+It also recommends returning employer national insurance contributions to pre-April 2025 levels and reinstating the two-year qualifying period for unfair dismissal, which was abolished under Labour’s Employment Rights Act.
+
+The paper says a five-year freeze could result in an increase of about 270,000 young people in work, by suggesting that for every 1 percentage point increase in the minimum wage there is a a 0.37 percentage point decrease in the youth employment rate.
+
+The report’s authors said they “do not present these findings as costless to workers” and that minimum wage workers’ purchasing power would be eroded by 9% to 12% over the five years due to projected inflation of 2% to 2.5%, a cumulative loss over five years of about £8,900.
+
+The Labour business minister Kate Dearden said the recommendations were “tin-eared” and showed a pattern from the Conservatives of disparaging the minimum wage.
+
+“It’s clear that Kemi Badenoch’s top team are determined that the lowest paid workers should be worse off,” she said. “The Conservatives opposed the minimum wage when the last Labour government introduced it, and now they’re showing again how little they understand the pressures facing people on the lowest pay. It’s the same old Tories, they haven’t changed.
+
+“This Labour government believes that if you work hard, you should be able to get on in life. That’s why we’ve boosted work for the lowest paid, introduced more rights at work, and are giving people breathing space they deserve on the cost of living.”
+
+Labour has previously said it intends to equalise the different rates of minimum wage – promising to give 18- to 20-year-olds the full rate. But rising youth unemployment has led to a debate at the top of government over how fast it should meet its promise.
+
+The LPC last year recommended a 4.1% increase in the main rate of the minimum wage, and an 8.5% rise in the youth rate. The rates now stand at £12.71 and £10.85 respectively.
+
+The commission will tell the government in October what it is recommending for the financial year starting on 1 April 2027, though ministers are not bound to accept the commission’s recommendations.
+
+Earlier this year, ministers changed their guidance to the LPC to reflect the concerns in government over unemployment among young people, in the hope that it might recommend a lower level this year to make it easier for employers to take on younger staff.
+
+The LPC has said it does not believe wage rises are contributing to higher youth unemployment rates. “While the commission recognises that labour market outcomes for young people have deteriorated over the past two years, we are not aware of any robust evidence that higher youth rates have contributed to these falls,” it said.
