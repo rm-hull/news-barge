@@ -23,6 +23,10 @@ from pathlib import Path
 from typing import Any
 
 import aiohttp
+
+# Pre-import dateparser to avoid lazy-import deadlocks under high
+# concurrency (GitHub issue #32, run 38850341610).
+import dateparser  # noqa: F401
 import feedparser
 import yaml
 from lxml import html as lxml_html
@@ -219,7 +223,11 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
     )
 
     async def _abort_route(route: Route) -> None:
-        await route.abort()
+        try:
+            await route.abort()
+        except Exception:
+            # Page/context already closed; nothing to do.
+            pass
 
     await context.route(_is_blocked_request, _abort_route)
     return context
