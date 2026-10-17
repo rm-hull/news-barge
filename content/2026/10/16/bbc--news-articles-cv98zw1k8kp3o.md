@@ -1,0 +1,103 @@
+---
+title: Oregon teacher fought school attacker before armed dad killed suspect
+source_url: https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-17T04:19:10Z'
+published: '2026-10-16T00:00:00Z'
+description: The 16-year-old suspect previously attended the primary school and had
+  targeted a special educational needs classroom, police say.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Sports
+people:
+- Donald Trump
+- Griffin J John II
+- Kayla Epstein
+- Kaylub Giamanco
+- Kenda Freeman
+- Meghan Lambert
+- Mike Krantz
+- Rhoam Summer
+- Tina Kotek
+locations:
+- Bend
+- California
+- Georgia
+- Oregon
+- Sacramento
+- US
+- White House
+organisations:
+- Bend Police
+- CBS
+- NBC News
+- Silver Rail Elementary
+- Silver Rail Elementary School
+---
+
+Two of the victims were five-year-old Rhoam Summer (left) and teacher Meghan Lambert, 25 (right)
+
+**Some readers may find this article distressing.**
+
+An Oregon teacher threw her mobile phone before she tackled and tried to wrestle away a shotgun from the arms of a teen suspect who opened fire on a special educational needs class.
+
+As she tussled with him on the floor of the class - where three children and a teacher were killed - a bystander armed with a pistol ran inside and killed the teen.
+
+The bystander, a father of two girls at the school, had been driving past Silver Rail Elementary in Bend on Thursday lunchtime when he saw the suspect firing in the car park, then shooting through a window to enter.
+
+Police said the 16-year-old suspect used to be a student at the school.
+
+Police say the suspect was armed with about 44 more rounds of shotgun ammunition when he was stopped. He fired as many as 15 rounds in the class.
+
+"To the people who showed courage in the face of such violence, and intervened to prevent this tragedy from being any worse, we owe you a debt of gratitude," Bend Police Chief Mike Krantz said on Friday.
+
+Police offered more information on the attack at a news conference on Friday, where they identified two of the four victims. They include five-year-old Rhoam Summer and 25-year-old teacher Meghan Lambert.
+
+The families of the two other students who were killed, an eight-year-old and 11-year-old, did not wish to have them publicly identified yet, police said.
+
+Two others were injured in the attack. Another teacher, a 54-year-old, was still being treated at hospital, and a seven-year-old student, who was in serious but stable condition.
+
+Watch: Mother of Oregon school shooting 'hero' recounts call with son
+
+Krantz said the heroic actions of both the teacher and the father who ran inside the school saved lives.
+
+He said the teacher who wrestled with the gunman was not hurt but "almost certainly helped prevent more bloodshed".
+
+He identified the suspect as 16-year-old Griffin J John II, who previously attended the school and was a special educational needs student there.
+
+A search warrant has been executed at the suspect's home and a search is ongoing, the police chief said.
+
+Police believe the suspect travelled to the elementary school on foot, but they are still investigating his exact movements and how he acquired the gun. A motive is also not clear.
+
+Officials did not confirm the name of the father who intervened and fatally shot the suspect.
+
+But Kaylub Giamanco's family has identified him to US media as the person who sprang into action.
+
+The 36-year-old carpenter had just finished lunch and was on his way home when he passed the school, his brother told NBC News. He saw the suspect open fire on a vehicle outside the school then shoot through a window and go inside.
+
+![Community members grieve at the site of a makeshift memorial in front of Silver Rail Elementary School on October 16, 2026 in Bend, Oregon.
+]([https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg))
+
+Police said he had a legally concealed .40 calibre in his vehicle and his brother said he grabbed the pistol "and decided to go in after" the suspect. Police say he fired at the suspect "multiple times", killing him.
+
+Giamanco's mother, Kenda Freeman, who lives in Sacramento, California, told a local CBS station her son had called her moments after the shooting, and he was "traumatised".
+
+"He said a man went into my daughter's school," Freeman said, pausing as she started to tear up. "And, um, shot kids. And he said, and I looked at him point blank, and I shot and killed him, mom."
+
+She added: "I told him he saved a lot of lives, and he said, mom, I couldn't save them all."
+
+US President Donald Trump praised the bystander on Friday, calling him a "great hero".
+
+Addressing reporters at the White House before departing for Georgia, Trump said the situation could have been "much worse" with no intervention.
+
+"It's a terrible thing, but thank goodness for a man that had a gun and knew how to use it," he said.
+
+Without naming the bystander, Oregon Governor Tina Kotek acknowledged the man's heroic actions stopping further loss of life, but noted they "carry a heavy emotional burden, and I just want you to know that my thoughts are with you as well".
+
+*Kayla Epstein contributed to this report.*
+
+Candlelit vigil held for Oregon school shooting victims
