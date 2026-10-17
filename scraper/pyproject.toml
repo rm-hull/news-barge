@@ -8,7 +8,7 @@ dependencies = [
   "feedparser>=6.0.14",
   "flair>=0.15.1",
   "markdownify>=1.2.0",
-  "playwright>=1.63.0",
+  "playwright>=1.64.0",
   "pyyaml>=6.0.3",
   "taxotag[litert]>=0.1.3",
   "torch",
