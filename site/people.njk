@@ -9,8 +9,10 @@ permalink: /people/
   <ul class="people-list">
     {% for person in collections.peopleByArticleCount %}
     <li class="person-card">
-      <a href="/people/{{ person.slug }}/">{{ person.name }}</a>
-      <span class="person-meta">{{ person.count }} articles</span>
+      <a href="/people/{{ person.slug }}/">
+        {{ person.name }}
+        <span class="person-meta">{{ person.count }} articles</span>
+      </a>
     </li>
     {% endfor %}
   </ul>

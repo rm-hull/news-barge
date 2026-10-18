@@ -8,8 +8,10 @@ permalink: /categories/
   <ul class="category-list">
     {% for category, articles in collections.articlesByCategory | dictsort %}
     <li class="category-card">
-      <a href="/categories/{{ category | slugify }}/">{{ category }}</a>
-      <span class="category-meta">{{ articles.length }} articles</span>
+      <a href="/categories/{{ category | slugify }}/">
+        {{ category }}
+        <span class="category-meta">{{ articles.length }} articles</span>
+      </a>
     </li>
     {% endfor %}
   </ul>

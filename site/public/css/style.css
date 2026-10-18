@@ -502,7 +502,10 @@ strong .searchable {
 .category-card a {
   font-weight: 500;
   color: var(--text);
-  margin-right: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1;
 }
 .person-card a:hover,
 .location-card a:hover,
@@ -515,8 +518,10 @@ strong .searchable {
 .location-meta,
 .site-meta,
 .category-meta {
+  font-weight: 400;
   font-size: 0.75rem;
   color: var(--muted);
+  margin-left: auto;
 }
 .site-badge {
   border: 1px solid var(--border);
