@@ -1,0 +1,82 @@
+---
+title: Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher
+  ruled out
+source_url: https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-18T10:58:05Z'
+published: '2026-10-18T00:00:00Z'
+description: Magazine group points to restructuring bill but says it ‘remains profitable
+  in the UK for another year’
+image: https://i.guim.co.uk/img/media/c7465a5716e4761b66ca488921228d895a93f7a7/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51ae20d3fe7fe06d41c5fe19d08fdb8b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+people:
+- Condé Nast
+- Jeff Bezos
+- Natalia Gamero del Castillo Calleja
+- Roger Lynch
+- Steven Newhouse
+locations:
+- London
+- UK
+- US
+- Vogue House
+organisations:
+- AI Summaries
+- Advance
+- Amazon
+- Architectural Digest
+- Companies House
+- Condé Nast
+- Condé Nast Traveler
+- Financial Times
+- GQ
+- Google
+- House & Garden
+- Mattel
+- New Yorker
+- Newhouse
+- Tatler
+- Vanity Fair
+- Vogue House
+- Washington Post
+- Wired
+---
+
+Profits at Condé Nast’s UK arm slumped by more than a third last year, according to figures published shortly after the billionaire family that owns the luxury magazine group and titles from Vogue to GQ ruled out a sale.
+
+The publisher, which enjoyed a bumper 2024 after booking £64m in proceeds from the sale of its UK headquarters Vogue House in London, saw pre-tax profits excluding exceptional items tumble 36% from £28m that year to nearly £18m last year.
+
+Revenues generated in the UK fell 7% from £75.9m to £70.6m, newly filed accounts showed. However, an 18% increase in international revenues, to £29.7m, helped keep the company’s total revenues almost flat, at £100m.
+
+“Condé Nast remains profitable in the UK for another year,” a spokesperson for the publisher said. “The change in the exact level of profit reflects a period of planned investment in customised client solutions.”
+
+Restructuring costs at the company, which publishes glossy titles and brands including Vanity Fair, House & Garden and Tatler, more than doubled year on year, from £1.9m to £4.3m.
+
+Condé Nast said the latest restructuring charge was “primarily due to severance costs”. Despite the hefty restructuring bill, staff numbers remained almost flat, dipping from 466 to 461 between 2024 and last year.
+
+“There were no large restructures in the UK business in 2025. There were isolated instances of redundancy, but headcount remained flat as hiring continued across the business,” the spokesperson said. “In addition, there have been changes to the pension scheme projections and wage inflation, which also impacted profit for this year.”
+
+![People walk past the frontage of Vogue House, a stone building with an imposing glass doorway and revolving doors. The scene appears wintry with the passersby wearing hats, coats and scarves, and many are holding large shopping bags. ](https://i.guim.co.uk/img/media/e33445343d4e9882601f0f0a417a9998d157377f/0_0_4368_2912/master/4368.jpg?width=445&dpr=1&s=none&crop=none)
+
+Last week, Steven Newhouse, the chair of the Newhouse family holding company Advance that controls Condé Nast, ruled out a sale of the publishing giant. There had been speculation that the Amazon founder, Jeff Bezos, who owns the Washington Post, could buy the business.
+
+Newhouse made the comment after the abrupt departure of the chief executive Roger Lynch, hired in 2019 to turn around the business, to become the boss of the toymaker Mattel.
+
+“Maybe for a certain class of non-media owner, there’s a prestige to owning media properties,” he told the Financial Times. “But we’ve been a media owner for 100 years. So we’re not in it for the glamour.”
+
+Earlier this year, Lynch described the introduction of Google’s AI Summaries – which often negate the need to click through to source material – as “another sort of death blow” to the way consumers have traditionally searched online and reached media outlets. He said Google searches were “no longer a meaningful driver” of Condé Nast’s business, accounting for only about a quarter of visits to its websites last year.
+
+after newsletter promotion
+
+Globally, seven of Condé Nast’s largest brands – Vogue, GQ, the New Yorker, Wired, Vanity Fair, Architectural Digest and Condé Nast Traveler – account for 85% of the company’s revenues.
+
+Newsstand sales and other subscriptions account for about 14% of total revenues, with advertising and “other services” accounting for about 86%.
+
+The publisher’s accounts filed at Companies House show that the highest-paid director - Natalia Gamero del Castillo Calleja, the company’s most senior executive outside the US who resigned last August - took home more than £1.3m.
+
+Earlier this year, Condé Nast announced plans to shutter Self, its women’s health magazine, after 47 years.

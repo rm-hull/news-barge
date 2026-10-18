@@ -1,0 +1,109 @@
+---
+title: 'Rugby League World Cup 2026: New Zealand avoid massive shock against Fiji'
+source_url: https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-18T10:57:55Z'
+published: '2026-10-18T00:00:00Z'
+description: New Zealand women are given a World Cup "wake-up call" after they are
+  forced to come from behind to beat debutants Fiji in their opening game.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a63b/live/c7b10130-caba-11f1-84c6-4114668c8e74.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
+people:
+- Georgia Hale
+- Leianne Tufuga
+- Losana Lutu
+- Mick Potter
+- Raecene McGregor
+- Ricky Henry
+- Sereana Naitokatoka
+- Sienna Laing
+- Solomone Saukuru
+- Stacey Waaka
+- Tui Kamikamica
+- Wise Kativerata
+- Zehara Temara
+locations:
+- Australia
+- Christchurch
+- Cook Islands
+- Fiji
+- France
+- Group B
+- New Zealand
+- Newcastle
+- Papua New Guinea
+organisations:
+- Australia
+- Cook Islands
+- Group A
+- New Zealand
+- Solomone Saukuru
+- The Ferns
+---
+
+![New Zealand v Fiji](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a63b/live/c7b10130-caba-11f1-84c6-4114668c8e74.jpg)
+
+New Zealand are the joint most successful team in Women's World Cups, with three titles
+
+**New Zealand women were given a World Cup "wake-up call" after they were forced to come from behind to beat debutants Fiji in their opening game.**
+
+The Ferns are one of the most successful teams in women's rugby league history – they have reached the final of all six World Cups, winning the first three before finishing runners up to Australia in the previous three years.
+
+They are generally considered second favourites this time around and were expected to win easily against the Fijians in Newcastle on Sunday.
+
+Instead, New Zealand were made to battle to an 18-12 win, having trailed 12-4 in the first half.
+
+They were 12-10 down at the break – the first time they have ever been behind at half-time in a World Cup match.
+
+"I've not really got any nails left. Or teeth," New Zealand coach Ricky Henry told his post-match news conference.
+
+"The good thing is we found a way, but the way we played is not what we should.
+
+"We went away from what we were meant to do, so we are a little disappointed there. Rustiness is not an excuse.
+
+"I reckon it's a wake-up call, and the girls will think so too. We fought our way back, so we will take that away with things to work on."
+
+New Zealand looked to be on course for a comfortable day when Stacey Waaka scored after two minutes, but Fiji grew into the match before scoring after 21 minutes.
+
+Skipper Sereana Naitokatoka made a clever run from dummy half to find Losana Lutu who scored Fiji's first women's World Cup try
+
+And when Sienna Laing extended the lead five minutes later, suddenly the upset looked on.
+
+Waaka scored her second try to close the gap before the break, but after the interval Fiji's staunch defence still refused to give way.
+
+But the pressure eventually told as New Zealand levelled then took the lead from Zehara Temara penalty kicks.
+
+The win was not secured until the final minutes when Raecene McGregor's cross-field kick found Leianne Tufuga to score.
+
+"We didn't put any expectations on ourselves, but they played like they had nothing to lose," New Zealand player Georgia Hale said. "They tested our waters for sure.
+
+"Everything was in our control, then we lost it. It was uncharacteristically ill-disciplined, untidy play.
+
+"What we wanted to do today was basic. We wanted to set the tone for the tournament by being physical and by going forwards, but we went far away from that which is not us.
+
+"We then had to work extremely hard to make up for it. It was definitely luck in the end."
+
+New Zealand face France at home in Christchurch next in Group B, while Fiji play Papua New Guinea.
+
+## Fiji aim to disrupt 'two-horse race' in men's World Cup
+
+![Solomone Saukuru dives over for a try](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a90/live/6eddefd0-cac6-11f1-8a85-d15c66241b6c.jpg)
+
+Solomone Saukuru scored two tries for Fiji in their win against Cook Islands
+
+In the men's World Cup, Fiji made a strong start to their competition with a 40-12 win over Cook Islands in Newcastle.
+
+The two sides are in Group A, alongside co-hosts Australia and New Zealand, so face a tough ask to finish in the top two and reach the semi-finals.
+
+Fiji have endured a turbulent build-up, with Mick Potter replacing Wise Kativerata as head coach, a power struggle within the national governing body, and captain Tui Kamikamica having to retire after suffering a stroke in March.
+
+But they gave themselves a boost with a comfortable win - running in seven tries and scoring 34 unanswered points until two late consolation scores for Cook Islands.
+
+Fiji will face reigning champions Australia next, aiming to go one better than their women's team and cause a seismic upset.
+
+"Preparation will be standard," Potter said of getting ready to face Australia. "It is a two-horse race [for the championships] as far as I am concerned, so it is a chance to upset them."
