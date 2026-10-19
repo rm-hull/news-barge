@@ -1,0 +1,74 @@
+---
+title: Times’s investigation adds more intrigue to infamous OJ Simpson case
+source_url: https://www.theguardian.com/us-news/2026/oct/18/oj-simpson-case-times-report
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-19T04:34:27Z'
+published: '2026-10-18T00:00:00Z'
+description: Report reveals that a shady mobster-turned-informant may have been involved
+  in helping cover up murder
+image: https://i.guim.co.uk/img/media/85483f6dc40146b9441fe66c0dd88a68e3c9273d/0_42_2200_1760/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bb247a44917139c68db6a4b3519095a
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Al Cowlings
+- Joey
+- Joseph Ippolito
+- Nicole Brown Simpson
+- OJ Simpson
+- Ronald Goldman
+locations:
+- California
+- Cowlings
+- Florida
+- Los Angeles
+- New Jersey
+- US
+organisations:
+- DeCavalcante
+- New York Times
+- The New York Times
+- The Times
+---
+
+An in-depth investigation by the New York Times is raising further questions about the high-profile OJ Simpson case, in which the former football player was accused in the 1990s of killing his ex-wife – and whether a shady mobster-turned-informant may have been involved in helping cover up the murder.
+
+The Times’s investigation revealed that California prosecutors were unable to fully investigate whether Simpson, who was accused but not convicted of his ex-wife’s murder, may have had an accomplice at the scene of the crime.
+
+The extensive journalistic investigation, based on previously sealed court records and interviews, adds further intrigue to the infamous Simpson case. No one was ever criminally convicted for the 1994 murders of Nicole Brown Simpson and Ronald Goldman.
+
+That year, Nicole Brown Simpson and Goldman were found stabbed to death outside her home in Los Angeles. The American professional football player and actor, OJ Simpson, was suspected in the murder. Simpson’s prosecution gained international attention and became a media spectacle, being deemed the “trial of the century”.
+
+Simpson was acquitted by a jury in 1995 after a lengthy trial. The Los Angeles police department, which investigated the case, had a long history of racism. Simpson’s attorneys pointed to the racist policing practices and the department’s handling of key evidence, helping them secure the acquittal. Simpson was later held liable for the deaths by a jury in a civil case.
+
+But the New York Times has now revealed that a shady informant began revealing information about Simpson’s case towards the end of the prosecution. The informant, a wealthy mobster named Joseph Ippolito, had become a snitch after spending years on the run from the federal government.
+
+The information Ippolito had may have been key to the trial, but it was far too late for the prosecution to include his testimony.
+
+Ippolito, a longtime drug runner throughout the US known as Joey, came from the New Jersey underworld, where his father was a player within the DeCavalcante crime family, a major Italian American criminal organization. After a stint in prison for trafficking drugs in the east coast, he moved to California in the late 1980s and managed an Italian restaurant.
+
+There, he was able to embed himself in the inner circles of the Los Angeles elite. Ippolito befriended Al Cowlings, a former football star and close friend of OJ Simpson. But while he spent time with Los Angeles celebrities, Ippolito continued selling and trafficking drugs.
+
+In 1992, he was arrested by authorities again in a sting operation. But in May 1994, eight months after his sentencing, Ippolito escaped from his Florida prison. His brother helped him arrive back in Los Angeles, where he remained in hiding as a wanted fugitive.
+
+That year, the murder of Nicole Brown Simpson and Goldman took place in Los Angeles. When authorities attempted to arrest OJ Simpson, he fled. His friend Cowlings, the former football player, led the police on a widely-publicized chase through Los Angeles with Simpson in the car.
+
+After Simpson’s arrest, officials found Ippolito’s information in Cowlings’ wallet, leading them to urgently search for the mobster-at-large. Eventually they found Ippolito and arrested him. But he decided to flip and become an informant for the US government.
+
+As an informant, Ippolito revealed information about various drug deals throughout the country and helped federal agencies set up sting operations. But Ippolito also reportedly shared information with the government about the Los Angeles murders.
+
+The New York Times raises three separate theories for Ippolito’s involvement in the Simpson case, which he was seemingly willing to share with authorities:
+
+1) In one version, Ippolito told federal prosecutors he had information he learned from Cowlings about the murders, including the supposed location of the missing weapon.
+
+2) In another version, Ippolito’s brother told a reporter with the Times that Ippolito may have been at the scene of the killings. The brother said Ippolito literally had blood on his hands.
+
+3) And in a third version, Ippolito was prepared to help Simpson escape during the wild police chase throughout Los Angeles.
+
+“Taken together, the material points in different directions but veers significantly from the official account that has been proffered by the police and prosecutors,” the New York Times reports. “With many of the key players now dead, it’s possible the full truth will never be known.”
+
+Ippolito’s brother, who told the Times he had seen his brother’s hands with blood on them, later asked the publication for money and then recanted his statement to the publication. According to the report, the brother said he had been “offered a ton of money” to share his story elsewhere, likely a television program.
+
+The extent of Ippolito’s involvement is not fully known. Authorities interviewed by the Times expressed doubts on how involved Ippolito was and the value of his information in the case.
