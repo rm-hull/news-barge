@@ -1,0 +1,349 @@
+---
+title: Celebrity birthdays for the week of Oct. 25-31 include Katy Perry and Frank
+  Ocean
+source_url: https://www.independent.co.uk/news/world/americas/katy-perry-samantha-bee-adam-goldberg-keith-urban-rufus-sewell-b3069409.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-19T20:41:42Z'
+published: '2026-10-19T00:00:00Z'
+description: Celebrities having birthdays during the week of Oct. 25-31 include singer
+  Katy Perry, comedian Samantha Bee and drummer Chad Smith of Red Hot Chili Peppers
+image: null
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+people:
+- A Man
+- Ad-Rock
+- Adam Goldberg
+- Adam Pascal
+- Alias
+- American Graffiti
+- American Pie
+- Andrea Mitchell
+- Andy Richter
+- Annie Potts
+- Anthony Rapp
+- Austin Winkler
+- Babel
+- Ben Bailey
+- Ben Foster
+- Ben Harper
+- Beulah Koale
+- Billy Brown
+- Black Panther
+- Blades of Glory
+- Blind Melon
+- Bob Hearts Abishola
+- Bootsy Collins
+- Brad Paisley
+- Brendan Fehr
+- Brett Dennen
+- Brian Doyle-Murray
+- Brian Hallisay
+- Brian Kerwin
+- Brian Stokes Mitchell
+- Bruce Springsteen
+- Bryan Craig
+- Buddy Holly Story
+- Bush
+- CSI
+- Caddyshack
+- Cary Elwes
+- Chad Smith
+- Channon Roe
+- Charles Martin Smith
+- Charlie’s Angels
+- Chely Wright
+- Chickenfoot
+- Chris Baio
+- Chris Bauer
+- Chris Slade
+- Christine Evangelista
+- Ciara
+- Claude Lelouch
+- Conchita Campbell
+- Cowboy Junkies
+- Craig Robinson
+- D.W
+- Dan Castellaneta
+- Dan Rather
+- Danielle Rose Russell (“Legacies
+- Daphne Zuniga
+- Darryl Worley
+- Dave Tirio
+- David Was
+- Dawn
+- Deadwood
+- Dear,” “Glee
+- Deidre Hall
+- Dennis Franz
+- Dermot Mulroney
+- Desmond Child
+- Desperate Housewives
+- Dexter
+- Doctor Who
+- Downing
+- Dr. Ken
+- Duran Duran
+- Dylan McDermott
+- Ed Robertson
+- Eddie Holland
+- Eddie Kaye Thomas
+- Ellen
+- Everybody Hates Chris
+- Family Guy
+- Father Dowling Mysteries
+- Fiddler Caitlin Cary
+- Finn Wittrock
+- Fiona Dourif
+- Florence Kasumba
+- Folake Olowofoyeku
+- Fran Lebowitz
+- Frank Ocean
+- Frozen
+- Full Frontal
+- Gabrielle Union
+- Gael Garcia Bernal
+- Garry Tallent
+- Gavin Rossdale
+- General Hospital
+- Girlfriends
+- Glee
+- Glenn Tipton
+- Gotham
+- Grace Slick
+- Graham Brown
+- Grayson McCouch
+- Gwendoline Christie
+- Harry Hamlin
+- Henry Winkler
+- Hinder
+- Holly Taylor
+- India Eisley
+- J.D
+- Jack Plotnick
+- Jaclyn Smith
+- James Pickens Jr
+- Jami Gertz
+- Jane Alexander
+- Jane Pauley
+- Janel Parrish
+- Janet Montgomery
+- Jason Finn
+- Jayne Kennedy
+- Jeremy Davies
+- Jerome Jones “Romeo” (Immature
+- Jerry De Borg
+- Jesus Jones
+- Joaquin Phoenix
+- Joely Fisher
+- John Cleese
+- Johnny Marr
+- Jon Abrahams
+- Jon Anderson
+- Jon Heder
+- Josh Henderson
+- Judas Priest
+- Julia Roberts
+- Justin Chatwin
+- Justin Guarini
+- K.K
+- Kassidy Osborn
+- Kate Jackson
+- Katy Perry
+- Keith Strickland
+- Keith Urban
+- Kelly Osbourne
+- Kennedy McMann
+- Kevin Michael Richardson
+- Kevin Pollak
+- Krista Marie Yu
+- La La Land
+- Larry Mullen Jr
+- Lauren Holly
+- Lauren Tewes
+- Law & Order
+- Lee Grant
+- Lee Greenwood
+- Leon Rippy
+- Leslie Grossman
+- Lexi Ainsworth
+- Linn Berggren
+- Lord of the Rings
+- Lost
+- Madam
+- Manfred Mann
+- Marion Ross
+- Mark Barry
+- Mark Derwin
+- Mark Miller
+- Mary Chain
+- Mathieu Amalric
+- Matt Smith
+- Matthew Morrison
+- McFadden
+- Mehcad Brooks
+- Melba Moore
+- Melrose Place
+- Michael Beach
+- Michael Boatman
+- Midori
+- Mike O’Malley
+- Mikkey Dee
+- Milena Govich
+- Moffett
+- Murder
+- NYPD Blue
+- Nancy Cartwright
+- Nancy Drew
+- Napoleon Dynamite
+- Natalie Merchant
+- Nia Long
+- Nolan Gould
+- One Tree Hill
+- Otis Williams
+- Paris
+- Pat Sajak
+- Patrick Breen
+- Paula Faris
+- Persia White
+- Peter Firth
+- Peter Jackson
+- Peter Timmins
+- Piper Perabo
+- Pretty Little Liars
+- Rachel Matthews
+- Randy Jackson
+- Reno
+- Rent
+- Richard Dreyfuss
+- Rita Wilson
+- Rob Schneider
+- Rob Van Winkle
+- Robert Picardo
+- Roberto Benigni
+- Rogers Stevens
+- Ron Rifkin
+- Rosemarie DeWitt
+- Rufus Sewell
+- SA Martinez
+- Sabrina the Teenage Witch
+- Samaire Armstrong
+- Samantha Bee
+- Saving Grace
+- Saving Private Ryan
+- Sawyer Brown
+- Schoolboy Q
+- Sean Holland
+- Seth MacFarlane
+- Shaun Sipos
+- Sheeri Rappaport
+- Sheryl Underwood
+- Simon Le Bon
+- Singer Speech
+- Sixpence None the Richer
+- Smokie Norful
+- Soul Food
+- Spin City
+- SpongeBob SquarePants
+- Star Trek
+- Star Wars
+- Stephen Morris
+- Stephen Rea
+- Steve Valentine (“Crossing Jordan
+- Supergirl
+- TV’s “Revenge
+- Taffy Nivert
+- Tasso Feldman
+- Telma Hopkins
+- Tequan Richmond
+- The Crying Game
+- The Diplomat
+- The Flash,” “Ed
+- The Good Wife
+- The Simpsons
+- The Walking Dead
+- Third Watch
+- Timothy B. Schmit
+- Tom Cavanagh
+- Tom Paxton
+- Tom Wilson
+- Tony Orlando
+- Tracee Ellis Ross
+- Tracy Nelson
+- Trevor Lissauer
+- Troian Bellisario
+- Troy Gentile
+- Troy Hartman
+- True Blood
+- We Rise
+- William Reid
+- Willow Smith
+- Winona Ryder
+- 'Yes'
+- Ziggy
+locations:
+- Brooklyn
+- Chicago
+- China Beach
+- Hawaii
+- Miami
+- New Amsterdam
+- United States of America
+- Whiskeytown
+organisations:
+- AC/DC
+- Ace of Base
+- Arrested Development
+- BBMak
+- Barenaked Ladies
+- Beastie Boys
+- E Street Band
+- Earth Band
+- Holland-Dozier-Holland
+- Modern Family
+- Modest Mouse
+- Motorhead
+- New Order
+- Plain White T’s
+- Poco
+- Red Hot Chili Peppers
+- SHeDAISY
+- Scorpions
+- Starland Vocal Band
+- TV
+- The B-52
+- The Cleveland Show
+- The Crown
+- The Eagles
+- The Goldbergs
+- The Grand Budapest Hotel
+- The Jacksons
+- The Jesus
+- The Love Boat
+- The Mavericks
+- The Office
+- The Smiths
+- The Temptations
+- The View
+- United States of Tara
+- Vanilla Ice
+---
+
+Celebrity birthdays for the week of Oct. 25-31:
+
+Oct. 25: Actor Marion Ross is 98. Singer Jon Anderson (Yes) is 82. Singer Taffy Nivert (Starland Vocal Band) is 82. Guitarist Glenn Tipton (Judas Priest) is 79. Actor Brian Kerwin is 77. Actor Nancy Cartwright (“The Simpsons”) is 69. Country singer Mark Miller (Sawyer Brown) is 68. Drummer Chad Smith (Red Hot Chili Peppers, Chickenfoot) is 65. Actor Tracy Nelson (“Father Dowling Mysteries”) is 63. Actor Michael Boatman (“The Good Wife,” “Spin City”) is 62. Actor Kevin Michael Richardson (“The Cleveland Show”) is 62. Actor Mathieu Amalric (“The Grand Budapest Hotel,” “Quantum of Solace”) is 61. Singer Speech (Arrested Development) is 58. Comedian Samantha Bee (“Full Frontal with Samantha Bee,” “The Daily Show”) is 57. Actor Adam Goldberg (TV’s “The Equalizer,” film’s “Saving Private Ryan”) is 56. Actor Adam Pascal (“Rent”) is 56. Guitarist Ed Robertson (Barenaked Ladies) is 56. Actor Persia White (“The Vampire Diaries,” “Girlfriends”) is 56. Country singer Chely Wright is 56. Actor Leslie Grossman (“American Horror Story,” “Popular”) is 55. Classical violinist Midori is 55. Actor Craig Robinson (“The Office,” “Brooklyn Nine-Nine”) is 55. Actor Mehcad Brooks (“Supergirl,” “Desperate Housewives”) is 46. Actor Josh Henderson (“Desperate Housewives”) is 45. Singer Jerome Jones “Romeo” (Immature) is 45. Singer Katy Perry is 42. Singer Austin Winkler (Hinder) is 42. Singer Ciara is 41. Actor Krista Marie Yu (“Dr. Ken”) is 38. Actor Rachel Matthews (“Frozen 2”) is 33. Actor Conchita Campbell (“The 4400”) is 31.
+
+Oct. 26: Actor Jaclyn Smith (“Charlie’s Angels”) is 81. Former “Wheel of Fortune” host Pat Sajak is 80. Musician Bootsy Collins is 75. Actor James Pickens Jr. (“Grey’s Anatomy”) is 74. Musician David Was (Was (Not Was)) is 74. Guitarist Keith Strickland (The B-52′s) is 73. Actor Lauren Tewes (“The Love Boat”) is 73. Actor D.W. Moffett (“Chicago Med”) is 72. Actor-singer Rita Wilson is 70. Actor Patrick Breen (“Madam Secretary”) is 66. Actor Dylan McDermott is 65. Actor Cary Elwes is 64. Singer Natalie Merchant is 63. Actor Steve Valentine (“Crossing Jordan”) is 60. Country singer Keith Urban is 59. Actor Tom Cavanagh (“The Flash,” “Ed”) is 58. Actor Rosemarie DeWitt (“La La Land,” “United States of Tara”) is 55. Actor Anthony Rapp (“Star Trek: Discovery,” “Rent”) is 55. Writer-actor Seth MacFarlane (“Family Guy”) is 53. TV host Paula Faris (“The View”) is 51. Actor Florence Kasumba (“Black Panther”) is 50. Actor Jon Heder (“Blades of Glory,” “Napoleon Dynamite”) is 49. Singer Mark Barry (BBMak) is 48. Actor Folake Olowofoyeku (“Bob Hearts Abishola”) is 43. Rapper Schoolboy Q is 40. Actor Beulah Koale (“Hawaii Five-0”) is 35.
+
+Oct. 27: Actor-comedian John Cleese is 87. Country singer Lee Greenwood is 84. Bassist Garry Tallent (Bruce Springsteen and the E Street Band) is 77. Author Fran Lebowitz is 76. Guitarist K.K. Downing (Judas Priest) is 75. TV personality Jayne Kennedy is 75. Actor-director Roberto Benigni (“Life Is Beautiful”) is 74. Actor Peter Firth (“That’s Life”) is 73. Actor Robert Picardo (“The Wonder Years,” “China Beach”) is 73. Singer Simon Le Bon (Duran Duran) is 68. Keyboardist J.D. McFadden (Sixpence None the Richer, The Mavericks) is 62. Drummer Jason Finn (Presidents of the United States of America) is 59. Actor Sean Holland (film and TV “Clueless”) is 58. Actor Channon Roe (“Murder in the First”) is 57. Actor Sheeri Rappaport (“CSI,” “NYPD Blue”) is 49. TV personality Kelly Osbourne is 42. Actor Christine Evangelista (“The Walking Dead”) is 40. Actor Bryan Craig (“General Hospital”) is 35. Actor Troy Gentile (“The Goldbergs”) is 33.
+
+Oct. 28: Actor Jane Alexander is 87. Actor Dennis Franz (“NYPD Blue”) is 82. Actor-singer Telma Hopkins (Tony Orlando and Dawn) is 78. Actor Annie Potts is 74. Songwriter-music producer Desmond Child is 73. Drummer Stephen Morris (New Order) is 69. Singer-guitarist William Reid (The Jesus and Mary Chain) is 68. Actor Mark Derwin (“The Secret Life of the American Teenager,” “Life With Bonnie”) is 66. Actor Daphne Zuniga (“Melrose Place,” “One Tree Hill”) is 64. Actor Lauren Holly is 63. Sheryl Underwood (co-host of TV's “The Talk”) is 63. Actor Jami Gertz is 61. Actor Chris Bauer (“True Blood”) is 60. Actor-comedian Andy Richter is 60. Actor Julia Roberts is 59. Fiddler Caitlin Cary (Whiskeytown) is 58. Actor Jeremy Davies (“Lost,” “Justified”) is 57. Singer Ben Harper is 57. Country singer Brad Paisley is 54. Actor Joaquin Phoenix is 52. Actor Gwendoline Christie (“Game of Thrones,” “Star Wars” films) is 48. Singer Justin Guarini (“American Idol”) is 48. Singer Brett Dennen is 47. Guitarist Dave Tirio (Plain White T’s) is 47. Actor Matt Smith (“The Crown,” “Doctor Who”) is 44. Actor Finn Wittrock (“American Horror Story: Freak Show”) is 42. Actor Troian Bellisario (“Pretty Little Liars”) is 41. Singer-rapper Frank Ocean is 39. Actor Lexi Ainsworth (“General Hospital”) is 34. Actor Nolan Gould (“Modern Family”) is 28.
+
+Oct. 29: Singer-actor Melba Moore is 81. Actor Richard Dreyfuss is 79. Actor Kate Jackson is 78. Actor Dan Castellaneta (“The Simpsons”) is 69. Cartoonist Tom Wilson (“Ziggy”) is 69. Singer Randy Jackson (The Jacksons) is 65. Drummer Peter Timmins (Cowboy Junkies) is 61. Actor Joely Fisher (“Ellen”) is 59. Rapper Paris is 59. Actor Rufus Sewell (“The Diplomat”) is 59. Actor Grayson McCouch (“Gotham”) is 58. Singer SA Martinez (311) is 57. Actor Winona Ryder is 55. Actor Tracee Ellis Ross (“black-ish”) is 54. Actor Gabrielle Union is 54. Actor Trevor Lissauer (“Sabrina the Teenage Witch”) is 53. Actor Milena Govich (“Law & Order”) is 50. Actor Jon Abrahams (“Meet the Parents”) is 49. Actor Brendan Fehr (“CSI: Miami,” “Roswell”) is 49. Actor Ben Foster (“Six Feet Under”) is 46. Bassist Chris Baio (Vampire Weekend) is 42. Actor Janet Montgomery (“New Amsterdam”) is 41. Actor India Eisley (“The Secret Life of the American Teenager”) is 33.
+
+Oct. 30: Director Claude Lelouch (“A Man and a Woman”) is 89. Songwriter Eddie Holland (Holland-Dozier-Holland) is 87. Singer Grace Slick is 87. Singer Otis Williams (The Temptations) is 85. Actor Henry Winkler is 81. TV journalist Andrea Mitchell is 80. Drummer Chris Slade (Manfred Mann’s Earth Band, AC/DC) is 80. Bassist Timothy B. Schmit (The Eagles, Poco) is 79. Actor Leon Rippy (“Saving Grace,” “Deadwood”) is 77. Actor Harry Hamlin is 75. Actor Charles Martin Smith (“American Graffiti,” “The Buddy Holly Story”) is 73. Country singer T. Graham Brown is 72. Actor Kevin Pollak is 69. Singer-guitarist Jerry De Borg (Jesus Jones) is 66. Actor Michael Beach (“Soul Food,” “Third Watch”) is 63. Singer-guitarist Gavin Rossdale (Bush) is 61. Actor Jack Plotnick (“Reno 911!”) is 58. Ben Bailey (host of “Cash Cab”) is 56. Actor Billy Brown (“How To Get Away With Murder,” “Dexter”) is 56. Actor Nia Long is 56. Country singer Kassidy Osborn (SHeDAISY) is 50. Actor Gael Garcia Bernal (“Babel,” “The Motorcycle Diaries”) is 48. Actor Matthew Morrison (“Glee”) is 48. Actor Fiona Dourif (“When We Rise,” “True Blood”) is 45. Actor Shaun Sipos (“Melrose Place”) is 45. Actor Tasso Feldman (“The Resident”) is 43. Actor Janel Parrish (“Pretty Little Liars”) is 38. Actor Tequan Richmond (“Everybody Hates Chris”) is 34. Actor Kennedy McMann (TV’s “Nancy Drew”) is 30.
+
+Oct. 31: Actor Lee Grant is 101. Anchorman Dan Rather is 95. Folk singer Tom Paxton is 89. Actor Ron Rifkin (“Alias”) is 88. Actor Brian Doyle-Murray (“Caddyshack,” “SpongeBob SquarePants”) is 81. Actor Stephen Rea (“The Crying Game,” “V For Vendetta”) is 80. Actor Deidre Hall (“Days of Our Lives”) is 79. Journalist Jane Pauley is 76. Broadway performer Brian Stokes Mitchell is 69. Director Peter Jackson (“Lord of the Rings”) is 65. Drummer Larry Mullen Jr. (U2) is 65. Drummer Mikkey Dee (Motorhead, Scorpions) is 63. Guitarist Johnny Marr (The Smiths, Modest Mouse) is 63. Actor Dermot Mulroney is 63. Actor Rob Schneider is 63. Country singer Darryl Worley is 62. Actor Mike O’Malley (“Yes, Dear,” “Glee”) is 61. Guitarist Ad-Rock (the Beastie Boys) is 60. Musician Rob Van Winkle (Vanilla Ice) is 59. Guitarist Rogers Stevens (Blind Melon) is 57. Singer Linn Berggren (Ace of Base) is 56. Reality show host Troy Hartman (“Extreme Survival,” “No Boundaries”) is 55. Gospel singer Smokie Norful is 53. Actor Piper Perabo is 50. Actor Brian Hallisay (TV’s “Revenge”) is 48. Actor Samaire Armstrong (TV’s “Resurrection”) is 46. Actor Eddie Kaye Thomas (“American Pie”) is 46. Actor Justin Chatwin (“American Gothic”) is 44. Actor Holly Taylor (“The Americans”) is 29. Actor Danielle Rose Russell (“Legacies,” “The Originals”) is 27. Singer-actor Willow Smith is 26.

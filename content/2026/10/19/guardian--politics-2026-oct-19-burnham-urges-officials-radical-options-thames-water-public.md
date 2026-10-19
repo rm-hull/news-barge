@@ -1,0 +1,81 @@
+---
+title: Burnham urges officials to come up with more radical options for Thames Water
+source_url: https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-19T20:41:11Z'
+published: '2026-10-19T00:00:00Z'
+description: 'Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials
+  of life’ under public control'
+image: https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5190b4456aac8e1a19d01a103db3f92e
+categories:
+- UK
+- News & Politics
+people:
+- Andy Burnham
+- Angela Eagle
+- Emma Reynolds
+- Ewan McGaughey
+- Keir Starmer
+- Lena Swedlow
+- Thames
+locations:
+- London
+- Thames Water
+- Whitehall
+organisations:
+- Compass
+- King’s College
+- SAR
+- Thames Water
+---
+
+Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company.
+
+In an early test of his promise to bring “the essentials of life” under public control, the prime minister is urging his advisers to go back to the drawing board and create a new list of policies for the utility.
+
+One option being looked at is to convert about £100m of outstanding fines into a government stake in the company, saving its creditors money but giving ministers some say in how it is run.
+
+Burnham previously said he would nationalise Thames, which is running out of cash and recently asked its creditors for an additional £2.4bn, but is struggling to find a way to do so without spending billions of pounds, getting tied up in a lengthy court battle, or both.
+
+Sources familiar with the prime minister’s thinking say he has now told policy officials across Whitehall to contemplate options that were not previously considered feasible, even if that means spending taxpayer money and going to court.
+
+One government source described the fate of the company as a “litmus test” on whether the government could deal with challenges in the medium term, rather than just immediate cost of living support and longer-term structural changes.
+
+“There are more options than people have assumed to date including ones that have never been properly considered,” the source said.
+
+Another said the prime minister had told his officials to “look at all the options and not feel constrained”, in a departure from the advice under Burnham’s predecessor, Keir Starmer.
+
+Burnham has promised to end what he calls “40 years of neoliberalism” and has instructed his ministers to draw up a 10-year plan for government later this year, including detailed proposals for bringing utilities under public control.
+
+Meanwhile, Angela Eagle, the environment secretary, is working on a water bill that will lift a Thatcher-era cap on government ownership of water companies and could rewrite how the bankruptcy regime works for the industry.
+
+Government advisers believe changes to the “special administration regime” (SAR) would make it easier to take companies such as Thames into state control in the future.
+
+But Burnham is also looking for a more immediate solution to Thames’s problems.
+
+When the prime minister came to office, government insiders say he was presented with two main options for Thames: strike a bailout deal with the American hedge funds that own its debt, or pursue an SAR.
+
+Thames’s creditors had proposed a £10bn rescue plan for the company, but Emma Reynolds, the previous environment secretary, made clear her opposition to such a plan before Burnham became prime minister.
+
+Government lawyers also believe it will be difficult to have the company placed into SAR given that it is being kept afloat financially by its creditors and has managed to keep services running.
+
+Among the other options being discussed is the waiving of the approximately £100m in environmental fines the company still owes and taking a stake in it instead. Then, if and when the company is fined again, the government would automatically increase its share rather than collecting the cash.
+
+While some believe this would be a relatively straightforward way to give the government a say in how the company is run, many also believe it would fall short of Burnham’s promise to nationalise the company outright.
+
+The prime minister is under pressure to go further, for example by stripping Thames of its licence, pushing for it to go into SAR immediately and then taking it out of administration without offering anything to the existing creditors.
+
+Such a plan will inevitably be challenged in court, but Burnham is understood to be more willing to take on legal action than Starmer was. One adviser said: “Litigation was always a 100% certainty.”
+
+The prime minister’s advisers also believe they can go further with Thames than with other companies because international investors see the company as a unique case, and not an indication of how the government intends to treat every water company.
+
+Officials say other water companies are likely to be dealt with in different ways, through a mixture of stricter regulation and increased oversight by elected officials such as mayors.
+
+Ewan McGaughey, a professor in law at King’s College, London, said: “The government’s best option is to start a special administration process for Thames Water before it runs up more debts, and sends billions more overseas.
+
+“An orderly transition to public ownership does not require that banks in control are bailed out – on the contrary, the law says polluters should pay.”
+
+Lena Swedlow, deputy director of the Compass campaign group, said: “The obvious solution is to put Thames Water into SAR, and then brought into public ownership so it truly works for everyone.
+
+“While reform of the failing regulatory mechanisms is welcome, any recapitalisation and debt-to-equity schemes that do not seek to permanently wrestle the company from private hands will fail to be in the interests of the workers, stakeholders, and the 16 million people Thames serves. Everything else is noise in the wind.”
