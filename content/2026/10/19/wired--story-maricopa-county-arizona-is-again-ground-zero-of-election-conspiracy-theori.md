@@ -1,0 +1,88 @@
+---
+title: Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories
+source_url: https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-19T13:08:34Z'
+published: '2026-10-19T00:00:00Z'
+description: In 2020, Maricopa County became the epicenter for Trump’s claims the
+  election was stolen. Six years, later the president and his allies are dusting off
+  their “rigged” playbook ahead of the midterms.
+image: https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/191:100/w_1280,c_limit/101526-Maricopa%20County%202.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
+people:
+- Donald Trump
+- God
+- Jennifer Liewer
+- Justin Heap
+- Kari Lake
+- Kate Starbird
+- Maricopa
+- Shelby Busch
+- Steve Bannon
+locations:
+- Arizona
+- Lake
+- Maricopa County
+- White House
+organisations:
+- 12News
+- DHS
+- Department of Homeland Security
+- Department of Justice
+- FBI
+- Justice Department
+- Maricopa County
+- Maricopa County Board of Supervisors
+- People USA Alliance
+- RNC
+- Republican National Committee
+- Trump
+- US Senate
+- University of Washington
+- WIRED
+- We The People USA Alliance
+- We the People
+---
+
+“Maricopa is a very, very dishonest county,” President Donald Trump told reporters last week.
+
+One could be forgiven for thinking that you had time-traveled back to the chaotic weeks and months following the 2020 presidential election, when Arizona's Maricopa County became the focal point for the election denial movement.
+
+But Maricopa, and election deniers, are back. With just over two weeks to go before the midterms, extremist election activists are trying to undermine trust in the voting process and are ramping up their efforts to confuse and scare people. Central to this is to fall back on well-known tropes that have been used in the past, including the idea that Maricopa County is somehow corrupt.
+
+“At this point, people are tuned into Maricopa as a focus of election rumors,” Kate Starbird, cofounder of the Center for an Informed Public at the University of Washington, tells WIRED. “Sharpie pens bleeding through ballots in 2020. Tabulator machines not reading ballots in 2022. Maricopa has become a familiar setting, a place where election issues arise or are perceived to arise, and where those issues get wrapped into ‘rigged election’ conspiracy theories.”
+
+No evidence of widespread voter fraud in Maricopa County has ever been found, but in March of this year, the administration refocused attention on the county when the FBI seized dozens of hard drives and servers containing data from the Cyber Ninjas audit. The attention was intensified last week, when Trump told reporters that election officials in the county should “be ashamed of themselves” after 3,000 ballots were mailed early in error.
+
+But the rumors went into overdrive last weekend when We the People USA Alliance, an election-denial group central to the baseless claims about voter fraud in Maricopa County in 2020, posted a video on X with the caption “BUSTED.”
+
+The video shows two Maricopa County employees working late at night on October 7 inside the ballot tabulation center. The post insinuated that they were tampering with equipment by “inserting flash drives into computers … during an active election.”
+
+The post also named a Maricopa County employee, who was previously targeted with similarly unfounded claims and threats back in 2021.
+
+The video quickly racked up over 1 million views, boosted by figures like Kari Lake, the former TV star who is now a senior adviser in the Trump administration, who also boosted claims about election fraud in Maricopa County when she lost races in 2022 and 2024 for governor and the US Senate, respectively.
+
+“More shenanigans at the Maricopa county ballot tabulation center,” Lake wrote on X. “Only through God’s intervention was this even discovered.”
+
+But it wasn’t God who provided the video to the group. Jennifer Liewer, the deputy elections director for communications in Maricopa County tells WIRED that the clip was taken from a nonpublic backup livestream camera that is active but not currently one of the livestream cameras available on the county’s website. A source with knowledge of the matter who was not authorized to speak on the record tells WIRED that members of the We the People group had obtained the IP address for the camera years ago, allegedly allowing them to continue to monitor it. We the People did not respond to a request for comment.
+
+The Maricopa County Board of Supervisors issued a statement last week that debunked the claim, clarifying that the employees were “performing authorized and necessary work to update software and upload election data to a computer terminal that is not connected to the internet or ballot tabulation equipment.”
+
+Unsatisfied with this explanation, Shelby Busch, the founder of We The People USA Alliance and a representative for the Republican National Committee (RNC), then contacted the Maricopa County recorder Justin Heap, who is aligned with Trump. His office then contacted the FBI to investigate the issue, according to Heap’s chief of staff.
+
+The FBI asked an investigator from the Arizona attorney general’s office to investigate, and they quickly concluded there was nothing to investigate, according to a copy of their report seen by 12News. “Election integrity is one of the top priorities of this FBI, and we continue to work around the clock to pursue criminal actors who seek to undermine our system and the rule of law,” the FBI tells WIRED.
+
+The RNC and Busch did not respond to a request for comment.
+
+The FBI’s closed investigation has not quelled the conspiracy theories. On Thursday, Busch appeared on Steve Bannon’s *War Room* podcast repeating claims that something nefarious had happened, and that she had contacted the Department of Homeland Security and Department of Justice to investigate the matter further.
+
+“Can somebody get involved here?” Bannon replied.
+
+The Justice Department, DHS, and the White House did not respond to a request for comment.
+
+“Election rumors contain the same, or very similar, narrative tropes that make them easily digestible for audiences and remixable for rumor producers,” says Starbird, whose group has created a bingo card of such tropes. “Maricopa County has become a trope, a suspicious setting, for election rumors. It’s a ready-to-use building block for a new rumor or conspiracy theory.”
