@@ -1,0 +1,64 @@
+---
+title: Thames Water creditors secure former Labour minister to drive rescue deal
+source_url: https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-20T14:26:16Z'
+published: '2026-10-20T00:00:00Z'
+description: Stricken UK water supplier lines up John Hutton as independent chair
+  designate if takeover goes ahead
+image: https://i.guim.co.uk/img/media/2b6bdeea37e0ca32ddf4d68c86a653186c7297b5/146_0_1708_1366/master/1708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74d17c0e3c3e6cb5b7dedffcb1a4a426
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Adrian Montague
+- Andy Burnham
+- Gordon Brown
+- John Hutton
+- Mike McTighe
+- Tony Blair
+locations:
+- Britain
+- England
+- London
+- Thames Valley
+- Thames Water
+organisations:
+- Association of Infrastructure Investors
+- Energy UK
+- Guardian
+- Labour
+- London & Valley Water
+- London Luton Airport
+- Make UK
+- Nuclear Industry Association
+- Scottish Power Energy Networks
+- Thames Water
+- Thames Water board
+- Thames’s
+---
+
+The group of Thames Water creditors pursuing a £10bn rescue deal for Britain’s largest water supplier has lined up a former senior Labour minister to chair the company, as it tries to win over the government.
+
+The creditor consortium, called London & Valley Water, said on Tuesday that Lord John Hutton had been selected as independent chair designate of the Thames Water board, if the consortium’s deal is approved.
+
+Creditors have been locked in talks with ministers and regulators for months over the future ownership of the debt-laden water company, which has 16 million customers in the south of England.
+
+Andy Burnham has told officials to rip up their plans for how to fix Thames and present him with more radical options for the stricken company, the Guardian reported this week. Before he became prime minister, he said he would nationalise Thames.
+
+The company has been battling to stave off bankruptcy for years and is running out of cash. It recently asked its creditors for an additional £2.4bn.
+
+The creditor group said Hutton would be supported by Mike McTighe, a telecoms and turnaround specialist, who is leading Thames’s overhaul. McTighe had been lined up as the new chair in August to replace the incumbent Sir Adrian Montague, if the creditors’ takeover is approved by the government. McTighe has now been appointed vice-chair designate and is expected to work closely with the management team.
+
+Hutton served in Tony Blair’s and Gordon Brown’s governments as work and pensions secretary, business secretary and defence secretary and has experience ‌across public policy, energy and infrastructure.
+  
+  
+He has chaired the Nuclear Industry Association, Energy UK, and manufacturing association Make UK. Other roles include chairing the Association of Infrastructure Investors and London Luton Airport, and serving as non-executive director of Scottish Power Energy Networks.
+  
+  
+Hutton said: “I am looking forward to being part of the new leadership at Thames Water and helping get this hugely important business into a better place.
+  
+  
+“People living in London and the Thames Valley have the right to expect the highest possible standards of customer service and proper environmental stewardship from their water company, and that will be our focus as we look to the future.”
