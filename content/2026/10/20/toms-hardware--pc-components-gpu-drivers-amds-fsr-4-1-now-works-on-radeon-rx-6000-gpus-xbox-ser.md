@@ -1,0 +1,77 @@
+---
+title: AMD's FSR 4.1 now works on Radeon RX 6000 GPUs, Xbox Series X and S, and Ryzen
+  AI Max, AI 9, and Z2 SoCs — new release brings cutting-edge tech to older hardware
+  with a small performance cost
+source_url: https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-10-20T19:12:09Z'
+published: '2026-10-20T00:00:00Z'
+description: AMD gives older GPUs an image quality boost amid the ongoing AI chip
+  drought
+image: https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-2560-80.png
+categories:
+- Technology & Software
+- Hardware
+people:
+- Bruno Ferreira
+- Cachy
+- Jack Hyunh
+- Tom
+locations: []
+organisations:
+- AMD Adrenalin
+- APUs
+- FSR Frame Generation
+- FSR Ray Regeneration
+- GPU
+- Get Tom's Hardware
+- Google News
+- Nvidia
+- PC
+- Proton
+- RDNA 2
+- Radeon
+- Tom's Hardware
+- Xbox
+---
+
+![AMD GPU](https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png)
+
+Earlier this year, AMD brought the previously RX 9000-exclusive FSR 4 upscaling tech to Radeon RX 7000-series graphics cards and promised an early 2027 release for RX 6000-series products. Christmas has come early for RDNA 2 and many other Radeon gamers, as Radeon honcho Jack Hyunh has announced an FSR 4.1 release for Radeon RX 6000 series cards, Xbox Series X and Series S consoles, Ryzen Z-series handhelds, and machines with Ryzen AI Max and AI 9 chips today.
+
+To accomplish this feat, AMD says it tweaked FSR 4.1's neural network model to support the INT8 shader hardware (as opposed to the higher-precision FP8 matrix acceleration hardware on Radeon 9000 cards). Additionally, the version specific to handhelds is slimmed down even further, to less than half the size of the full one.
+
+AMD says that compared to FSR 3, games on the aforementioned GPUs and APUs will now deliver better image quality, all else equal. With *Cyberpunk 2077* running in FSR Balanced mode at 4K, our quick testing with a Radeon RX 6900 XT shows that running FSR 4 costs just about 13% performance, a small price to pay for sharper and more stable visuals, especially in motion.
+
+And the higher upscaling quality of FSR 4.1 might let gamers use Performance mode where they might previously have used Balanced, or so on, which might offset that performance cost.
+
+![AMD FSR™ Upscaling 4.1 for Desktop, Laptop, Handheld and Console - YouTube](https://img.youtube.com/vi/fT6TIXnmv-s/maxresdefault.jpg)
+
+There are more goodies in store, too. The Radeon team says that FSR Frame Generation now ought to have better frame pacing, resolving a longstanding complaint with the tech and potentially making for smoother gameplay with framegen enabled. Support for the Vulkan API with FSR 4.1 is set to arrive at some point, as well, a boon for some games and console emulators. Finally, AMD says FSR Ray Regeneration will also be coming to more games, too. The company showed the tech running in *Warhammer 40,000: Darktide*, and that integration is available now.
+
+To get all this goodness into your GPU, you can download the just-released Radeon 26.10.1 drivers from the AMD Adrenalin application or directly from AMD's website. The updated software also adds support for *Call of Duty: Modern Warfare 4*,* Star Wars: Galactic Racer*, and* Final Fantasy Resonance*. You can check out the full release notes here.
+
+For owners of Xbox and Ryzen Z2-series handhelds, AMD says that an update from their manufacturers will be forthcoming, as those devices depend on OEM-specific drivers.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+We're pleased to see that Radeon gamers are getting upgrades for their existing graphics chips along the lines of what Nvidia has been delivering throughout 2025, because the way things are going, it looks like it'll be around 2077 before there will be a new gaming graphics card launch. If you're an RDNA 2 gamer, go give FSR 4 a shot and see what you think.
+
+*Follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+
+
+![Bruno Ferreira](https://cdn.mos.cms.futurecdn.net/ZQiPPaXaAuQ4VrVEYnnR7G-140-80.png)
+
+Bruno Ferreira is a contributing writer for Tom's Hardware. He has decades of experience with PC hardware and assorted sundries, alongside a career as a developer. He's obsessed with detail and has a tendency to ramble on the topics he loves. When not doing that, he's usually playing games, or at live music shows and festivals.
+
+* Good to see AMD deliver on their promise... Albeit it was more like a forced hand than anything else, haha. Still a positive for AMD RDNA2 GPU owners!  
+    
+  \*looks at 6900XT\* You get to live longer.  
+    
+  Also, this: "Support for the Vulkan API with FSR 4.1 is set to arrive at some point, as well, a boon for some games and console emulators".  
+    
+  I hope that is soon. Cachy's Proton version already has FSR4.1 working for my 9070XT, so I'm hoping they add it for the 6800M in my laptop soon :D  
+    
+  Regards. Reply

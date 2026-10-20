@@ -1,0 +1,71 @@
+---
+title: Tommy Robinson threatened to make families of Mail journalists ‘famous’, court
+  hears
+source_url: https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-20T19:14:25Z'
+published: '2026-10-20T00:00:00Z'
+description: Jurors in harassment trial told reporters who had written about far-right
+  activist feared ‘vigilante attack’
+image: https://i.guim.co.uk/img/media/bf21030e73637f794e616ef0fd3ac6885f3b1050/378_164_2985_2388/master/2985.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e698e42ea487eeef78242626d21b08b
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Andrew Young
+- Ben Holt
+- Jacob Dirnhuber
+- Stephen Yaxley-Lennon
+- Ted Verity
+- Tommy Robinson
+locations:
+- Cyprus
+- Southport
+- Southwark
+organisations:
+- Daily Mail
+---
+
+Tommy Robinson told the Daily Mail’s editor he would make the paper’s journalists and their families “famous”, the harassment trial of the far-right activist has been told.
+
+The threat was made in a voicemail message left on the phone of Ted Verity as Robinson, whose real name is Stephen Yaxley-Lennon, allegedly waged a campaign of harassment against journalists from the newspaper.
+
+One of them was scared to go to their own house and left in fear of a potential “vigilante attack”, the trial was told on Tuesday. Another said they feared Robinson’s followers would “seek revenge” on them after reporting on his activities after the 2024 Southport killings and accusations he influenced subsequent riots.
+
+Jurors at Southwark crown court were played a recording of the message Robinson left on Verity’s phone in August 2024, saying: “I’ve already located every fucking one of you. I’ve got pictures of everyone here that can go in my story.”
+
+“I’m not threatening you with violence or anything like that. What I’m promising you is I’ll make you famous and your families because that’s what you’ve done to me.”
+
+He asked Verity to get in contact, saying that he was prepared to “come knocking”. Robinson said: “Now I know you wasn’t in your house yesterday … I don’t want to do it so please make sure you answer your phone so we can chat.”
+
+Robinson, 43, is charged with two counts of harassment causing fear of violence in 2024 to two journalists who were working for the Mail, Andrew Young and Jacob Dirnhuber. He denies the charges.
+
+A recording of Young responding to Robinson’s call after the journalists had tracked him down to Cyprus was also played to Southwark crown court.
+
+![Tommy Robinson with his entourage of other men on his way into court](https://i.guim.co.uk/img/media/20e46ce11136b27464f8d642a7c2edbd57a1f8a6/0_0_7721_5150/master/7721.jpg?width=445&dpr=1&s=none&crop=none)
+
+The court heard that Young’s address had been published online by an anonymous X account and unknown men started appearing outside his home and that of another journalist working with him.
+
+“My main concern was that while he may not physically harm me, he had 800,000 followers on X at the time who might have been tempted to seek revenge on me or my home or my family for what I had written,” Young said in a statement read out in court.
+
+Robinson, who attended court with a large number of supporters, was said to have become enraged after the Mail published a story about him with the headline “Stoking race riots from his sunbed”.
+
+In another witness statement read to the court, Young’s daughter said that after Robinson’s X account posted pictures of her mother and sister with their faces cropped out, they felt “very worried about our safety”.
+
+She described watching a video of Robinson saying he had photos of the wives and daughters of “the journalists involved in the article”. She also told of seeing a “lone male” waiting in a vehicle parked outside the family home and seemingly taking pictures of her with his phone.
+
+Dirnhuber said it was the Mail’s view that Robinson was working in Cyprus, since posting on X was part of how he made money, and so they felt they could legitimately report on his activity. They did not publish any identifiable images of his children.
+
+Dirnhuber and his partner had to leave their home address after Robinson shared images of the journalist online and allegedly messaged him photographs of an unknown woman, the court was told.
+
+Dirnhuber said he felt he would be “looking over my shoulder for a long time”, adding: “I have the knowledge that Tommy Robinson knows my address and my last name is very identifiable.”
+
+The alleged harassment may have had an “adverse impact” on his “willingness” to cover certain stories, he added in his witness statement.
+
+Social media messages and direct messages sent to journalists by anonymous accounts and apparent followers of Robinson after statements by him on his X account were also read out in court. They ranged from comments about their appearance to more direct messages such as an email to Dirnhuber which said he would have cause to “regret when you are in hospital”.
+
+The trial opened on Monday, with prosecutor Ben Holt saying the case was about Robinson’s reaction to what he perceived to be “an unnecessary intrusion into his holiday”. Journalists and their family members had to flee their homes after “bullyboy, intimidatory tactics” were deployed against them, Holt said.
+
+The trial continues.
