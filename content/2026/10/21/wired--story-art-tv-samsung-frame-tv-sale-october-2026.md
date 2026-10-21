@@ -1,0 +1,47 @@
+---
+title: These Are the Best Deals on Our Favorite Art TVs
+source_url: https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-21T21:37:54Z'
+published: '2026-10-21T00:00:00Z'
+description: Samsung’s Frame and Frame Pro are both on sale, as well as some of our
+  other favorite art TVs.
+image: https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/191:100/w_1280,c_limit/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
+- Film & TV
+people: []
+locations: []
+organisations:
+- Amazon
+- Black Friday
+- Frame Pro
+- Hisense
+- Samsung Frame
+- TCL
+- The Frame
+- The Frame Pro
+---
+
+We're big fans of art TVs here at WIRED. They're perfect for people who don't want a TV to be the constant center of attention in their living room. No art TV maker is better than the pioneer: Samsung. Specifically, Samsung's The Frame Pro series of TVs. The 2026 models (LS03HW) add tons of new features, including more intuitive software, a higher refresh rate for gaming, and even better picture quality.
+
+## The Best Art TV
+
+The problem with The Frame Pro has always been the price. The smallest 55-inch model dropped to $1,098 during Prime Day earlier this month, and I've been happy to see that the price has stayed around. (In fact, earlier this week, it dropped by an additional $100 to its lowest price ever.) Seeing it discounted to under $1,000 was fantastic, but even at $1,098, it's a really solid deal. It was selling for $200 more in September and for the full retail price of $1,498 in August. Beyond the smallest 55-inch model, you also have size options for The Frame Pro of a 65-inch, 75-inch, or 85-inch TV.
+
+## A Great Runner-Up at Its Lowest Price Ever
+
+Samsung also has an entry-level version of The Frame, which has an even deeper discount right now. It's just $898, which is $100 off its Prime Day price—the cheapest it's even been! It's actually the same price as the older 2025 model.
+
+We haven't tested this model yet ourselves, but the main difference between The Frame and The Frame Pro is the brightness and image quality. They both use a matte finish, but The Frame Pro has nearly double the max brightness, while the standard Frame only goes up to around 650 nits. The Frame Pro also comes with a wireless connect box for a cleaner and simpler setup. It's definitely the one to get if you can swing the extra $200.
+
+## Other Art TVs on Sale
+
+As we have documented, there's been an explosion of interest in art TVs in 2026, with competitors like Amazon, Hisense, and TCL joining the game. We've tested many of these new options—many of which try to undercut The Frame in price. The one on sale right now that I'd point to is the Hisense S7 CanvasTV (55S7SG). It's not even as bright as the standard Frame, but at $750 (for the 55-inch size), it's the cheapest art TV you can buy right now.
+
+With Black Friday coming up next month, it's certainly possible that prices on these art TVs will drop even more. The 2025 Samsung Frame and Frame Pro both dropped to their lowest prices during Black Friday last year. It's a gamble—you could wait for Black Friday or get a sure thing right now.
+
+*Power up with unlimited access to* WIRED*.**Get best-in-class reporting and exclusive subscriber content that’s too important to ignore. Subscribe Today.*
