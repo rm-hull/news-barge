@@ -1,0 +1,76 @@
+---
+title: Stratford International on track to get cross-Channel trains in budget boost
+source_url: https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-21T11:48:24Z'
+published: '2026-10-21T00:00:00Z'
+description: Sadiq Khan says upgrade would unlock station’s potential and allow it
+  to live up to its name and be truly international
+image: https://i.guim.co.uk/img/media/56b6cdee5adaae08a5660ee1f509c79ec8c515f7/0_0_4267_3413/master/4267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=991f7d79fa039fcafab5e40df3cb62a1
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+people:
+- John Healey
+- Sadiq Khan
+- Tony Berkeley
+locations:
+- Belgium
+- England
+- Europe
+- France
+- Germany
+- Heathrow
+- Kent
+- London
+- Midlands
+- Queen Elizabeth Olympic Park
+- St Pancras
+- Stratford
+- Temple Mills
+- UK
+organisations:
+- City Hall
+- Eurostar
+- Financial Times
+- Gemini Trains
+- Labour
+- Standard
+- Stratford International
+- Temple Mills
+- Virgin Group
+---
+
+Stratford International train station in east London will receive funding in next week’s budget, according to reports, putting it on track to live up to its name and become a hub for cross-Channel services.
+
+London’s mayor, Sadiq Khan, has been making a case to ministers for funding to upgrade the station to allow it to start running international rail services.
+
+Until now only domestic routes running to and from central London and Kent have stopped at the station, although Eurostar services pass through on the way to and from St Pancras.
+
+Khan said: “We’ve been working closely with the government to make Stratford International truly ‘international’ for the first time – opening up new opportunities for jobs, investment and tourism, while connecting one of the UK’s fastest-growing economic centres directly to Europe.
+
+“It’s time to unlock the full potential of this station and help write the next chapter in Stratford’s remarkable success story.”
+
+Khan recently argued that growth in international rail travel and environmental concerns meant it would be better to improve Stratford International than expand Heathrow airport by building a third runway.
+
+Stratford International would require a significant upgrade from its current two platforms to allow it to welcome international services, including adding a border post and security checks as well as a check-in zone, waiting area and facilities for passengers.
+
+![Eurostar trains parked at the Temple Mills maintenance depot in Stratford.](https://i.guim.co.uk/img/media/703057e529cf82d977082287f0e16370df5a0b91/0_0_5721_3814/master/5721.jpg?width=445&dpr=1&s=none&crop=none)
+
+The work opening up the station and the mothballed international section of the station, including platforms and a waiting area, would cost an estimated £20m, according to the Standard. It reported Khan’s plan was for one in three trains to and from France to stop at the station, while it could also become a hub for rail services from the continent to the Midlands and the north of England.
+
+The station, located close to the Queen Elizabeth Olympic Park, opened in late 2009 and was originally designed and built with the intention of handling Eurostar trains, but this was not fully developed.
+
+The chancellor, John Healey, is reportedly planning to greenlight the mayor’s proposal to create a business rate retention zone, according to the Financial Times, to help fund the station’s redevelopment. Such zones allow local authorities to keep all of the businesses rates growth collected in their area – rather than half of the rates collected, as is standard – to fund local regeneration directly.
+
+after newsletter promotion
+
+In recent months, Virgin and other rail companies have been in talks with City Hall about operating future international rail services from Stratford.
+
+Virgin is planning to launch rail services from London to the continent in 2030, bringing direct competition to Eurostar on the cross-Channel route for the first time since the opening of the tunnel. The operator has been granted access by the rail regulator to the track and to Eurostar’s nearby Temple Mills depot.
+
+A spokesperson for the Virgin Group said the operator was “looking forward to exploring additional stops, including Stratford International”. They added that the company had been “actively engaging with stakeholders to explore future expansion” beyond its initial launch plans.
+
+Gemini Trains, chaired by the Labour peer Tony Berkeley, is hoping to run trains to France, Belgium and Germany and has said it wanted to use Stratford as its London hub. However, it has not yet been granted depot and track access.

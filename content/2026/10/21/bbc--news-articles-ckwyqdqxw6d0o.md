@@ -1,0 +1,129 @@
+---
+title: 'Helen Haines: Australian MP loses both legs after alleged car attack, husband
+  says'
+source_url: https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-21T11:47:24Z'
+published: '2026-10-21T00:00:00Z'
+description: Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges
+  and appeared in court for the first time on Wednesday.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16b5/live/2cbe53a0-cd29-11f1-a64c-550be9e3c66b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Anthony Albanese
+- Brendan Nugent
+- Helen Haines
+- Jackie Evans
+- Jacob
+- Mike Bush
+- Phil Haines
+- Sam Mostyn
+locations:
+- Australia
+- Canberra
+- Helen Haines
+- Indi
+- Melbourne
+- Tarrawingee
+- Victoria
+- Wangaratta Magistrates' Court
+- Wangaretta
+organisations:
+- ABC
+- AFP
+- Australian Federal Police
+- BBC
+- Commonwealth
+- Herald Sun
+- National Press Club
+- Victoria Police
+---
+
+Watch: 'Her heart and her mind are in good shape', husband of Helen Haines says
+
+**Helen Haines, the Australian MP who was hit by a car in what authorities say was a deliberate attack, has lost both her legs, her husband has confirmed.**
+
+Phil Haines said the "horrendous incident" caused his wife significant injuries but "her heart and her mind are in good shape". He added that the "good news in all this is that she's alive".
+
+The alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.
+
+Nugent was arrested moments after he allegedly drove his Toyota LandCruiser into the independent MP outside her electorate office in the regional town of Wangaratta, about 240km (150miles) northeast of Melbourne.
+
+Haines' "road to recovery will be long and difficult, but we know she is a fighter," her husband said at a press conference in Melbourne where she is being treated.
+
+"She is a determined person who will do her best, with our support and love, to recover. And that is what we hope for."
+
+He thanked hospital staff and people, both in Australia and internationally, who have shown their concern for Haines, and urged those who want to show their support to donate to the Save the Children fund.
+
+"Please keep sending Helen your love," he added.
+
+Earlier on Wednesday, Nugent appeared at the local court to face three charges: dangerous driving causing serious injury, intentionally causing serious injury, and causing harm to a Commonwealth public official. Police said more charges may be laid, including attempted murder.
+
+Nugent - a local from the nearby town of Tarrawingee and known as an environmental campaigner - remained silent and emotionless during his brief court appearance.
+
+He did not apply for bail and is due back in court in February. Court documents show he was also charged with cultivating and possessing cannabis.
+
+Watch: BBC inside court with man charged with Australian MP attack
+
+In court, Nugent's lawyer said that his client had "mental health concerns" but did not give any further detail.
+
+The court also heard that Nugent has a rare neurological condition - idiopathic transverse myelitis - caused by inflammation of the spinal cord.
+
+Victoria Police said its investigation, with support from the Australian Federal Police (AFP), remains ongoing and a motive is yet to be established.
+
+"His motivation for this - what we allege is a deliberate attack - is very much a centrepiece of the investigation," said Victoria Police Commissioner Mike Bush.
+
+"Our people will continue to explore every element, angle and avenue to work that out. It's something that, when we work towards it, discover it, we will present in court."
+
+![Helen Haines and her husband Phil Haines pose during the Press Gallery Midwinter Ball in Canberra 2022](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbab/live/e334a4a0-cd28-11f1-9a39-31b474234113.jpg)
+
+Phil and Helen Haines have been married for nearly 40 years - next month is their anniversary
+
+Nugent was not on the radar of police and there was no intelligence of any threat to Haines before the incident, police said.
+
+Investigators are also looking into whether drug use or medication played a part in the incident and if there was any personal connection between Nugent and Haines.
+
+Nugent's family earlier put out a statement saying they were long-time friends with Haines, who is the independent MP for the regional seat of Indi in Victoria. They described the apparent attack as "devastating and unfathomable".
+
+The incident occurred on Monday afternoon at around 15.35, local time. Moments after the car hit Haines, bystanders pulled Nugent out of the vehicle and detained him.
+
+Jacob and Jackie Evans were among the first on the scene, and said Haines was grateful to them for coming to her aid as she lay severely injured.
+
+"Thank you, you lovely people," is what Haines said to them, according to the Herald Sun.
+
+"She was thanking us, it was incredible," Jackie told Nine's Today programme.
+
+Jacob used a tourniquet he had in a medical kit in his car to help stem the bleeding from one of Haines's legs.
+
+Haines underwent surgery after the incident and lost one of her legs. As of Wednesday morning she has also lost the other leg, her husband Phil told reporters.
+
+![A court sketch shows Brendan Nugent at the Wangaratta Magistrates' Court in Wangaratta, Australia, October 21, 2026](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2514/live/48c56d00-cd28-11f1-b459-2981bb26ef6d.jpg)
+
+The community in Wangaratta, as well as the wider political community, are in shock over the incident in a country where political violence is rare.
+
+Leaders from across the political spectrum have paid tribute to Haines, who was first elected in 2019 and is well regarded by her peers.
+
+Australia's Prime Minister Anthony Albanese said he had spoken to Haines's husband several times since the incident.
+
+In an interview with the national broadcaster ABC, Albanese said threats to female politicians were marked by a "different form of vilification and aggression" such as threats of rape.
+
+There has also been a recent growing trend of threats against "high office holders", with almost one person a week being charged for such offences, police said.
+
+Monday's incident has sparked debate over the level of security for MPs.
+
+Federal police said that individual protection for every one of the country's 226 federal MPs would require "incredible" levels of staffing.
+
+Instead, police assess the need for close personal protection based on a person's role and the threat environment around them, police said.
+
+Australia's Governor-General Sam Mostyn, who spoke at the same press conference as Haines' husband, said this was "a moment for us to pause, and to choose to be better".
+
+"We should do what I imagine Helen would be doing if she was not the victim of this terrible attack - reaching out to those who are terribly distressed by what has happened," she says.
+
+"Most importantly, that we learn or re-learn to exercise our muscle of decency."
+
+* + Published1 day ago![A woman lays a floral tributes at Helen Haines' office in Wangaretta](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/98d1/live/ef977c30-cc48-11f1-a64c-550be9e3c66b.jpg)
+* ![Helen Haines wears glasses and a beige striped suit during an address at the National Press Club in Canberra, Australia.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3997/live/05ab1e70-cbac-11f1-a64c-550be9e3c66b.jpg)
