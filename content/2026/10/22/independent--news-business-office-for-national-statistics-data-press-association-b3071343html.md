@@ -1,0 +1,49 @@
+---
+title: UK gender pay gap declines as more workers in low-paid jobs
+source_url: https://www.independent.co.uk/news/business/office-for-national-statistics-data-press-association-b3071343.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-22T11:53:38Z'
+published: '2026-10-22T00:00:00Z'
+description: The Office for National Statistics found the gender pay gap for full-time
+  employees was 6.8% in April.
+image: https://static.independent.co.uk/2025/06/10/07/09165706-64f720ca-ff9f-40d7-9b67-f94c55e711a4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
+- Society & Culture
+people: []
+locations:
+- UK
+organisations:
+- ONS
+- Office for National Statistics
+---
+
+The UK’s gender pay gap for workers declined further over the past year, according to official figures.
+
+Data also showed the proportion of UK workers in low-paid jobs swung higher compared with a year ago.
+
+The Office for National Statistics found the gender pay gap – the amount average female workers received less than the average male worker – for full-time employees was 6.8% in April 2026.
+
+This represents another decline in the gap, dipping from 7.2% a year earlier and from 9.4% a decade earlier.
+
+![](https://static.independent.co.uk/2026/10/22/12/30655820-thumbnail.jpg?quality=75&width=640&auto=webp)
+
+Median hourly earnings for full-time employees was £21.51 for men and £20.05 for women.
+
+The median earnings for all workers, including part-time workers, was £20.17 for men and £17.69 for women, driven by the larger proportion of women in part-time employment.
+
+The gender pay gap measures differences in pay for men and women in employment across the UK. It is not a measure of the difference in pay between men and women in the same jobs.
+
+While the gender pay gap has been decreasing over time, men continued to earn more than women in full-time work in all major occupation groups.
+
+The gap was particularly large, at 12.7%, for workers in skilled trades, while sales and customer service roles saw the narrowest gap, at 1.7%.
+
+The data showed a smaller gender pay gap among younger workers, with a 4.1% gap for workers aged between 30 and 39.
+
+ONS figures also showed the proportion of workers in “low-paid” employee jobs increased slightly to 2.8% this year, compared with 2.6% in 2025.
+
+The proportion of high-paid employee jobs was 23.7% in April 2026, up from 23.4% a year earlier, the ONS said.

@@ -1,0 +1,108 @@
+---
+title: New clinical trial backed by Andy Burnham could speed up Alzheimer’s treatments
+source_url: https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-alzheimers-disease-alzheimer-labour-b3071174.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-22T11:50:01Z'
+published: '2026-10-22T00:00:00Z'
+description: The Prime Minister’s father Roy died with Alzheimer’s disease in September.
+image: https://static.independent.co.uk/2026/10/22/07/21123701-82dda552-5f8d-49eb-bc19-02bb56aa407f.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+people:
+- Alzheimer
+- Andy Burnham
+- Eileen
+- Paresh Malhotra
+- Prof Malhotra
+- Roy Burnham
+- Sheona Scales
+- Siddharthan Chandran
+locations:
+- Britain
+- Cambridgeshire
+- Edinburgh
+- Greater Manchester
+- Imperial
+- London
+- PA
+- Southampton
+- UK
+organisations:
+- Alzheimer’s Research UK
+- Government
+- Labour
+- Peterborough NHS Foundation Trust
+- Surrey and Borders Partnership NHS Foundation Trust
+- UK Dementia Research Institute
+---
+
+A new clinical trial could dramatically speed up the discovery of treatments for Alzheimer’s disease.
+
+Prime Minister Andy Burnham, whose father Roy died with the illness in September, said he was proud to support the trial in the hope it could deliver results more quickly than traditional methods.
+
+Roy Burnham, a former telephone engineer, had been living in a care home at the time of his death. His illness meant he did not know his son had become Prime Minister.
+
+The new trial, called Ad-Smart (Alzheimer’s disease Systematic Multi-arm Adaptive Randomised Trial), is led by the UK Dementia Research Institute and Alzheimer’s Research UK, with support from funders including the Government.
+
+![Andy Burnham with his parents Eileen and Roy after he was selected as the Labour candidate for mayor of Greater Manchester (PA)](https://static.independent.co.uk/2026/10/22/07/ca42c53fdaf7c23e6e50c77a60ff9afbY29udGVudHNlYXJjaGFwaSwxNzkyNjU4OTcw-2.28285729.jpg?quality=75&width=640&auto=webp)
+
+Experts say the trial’s design could more than halve the time it takes to test Alzheimer’s treatments.
+
+The trial will test multiple drugs at the same time, starting with the type 2 diabetes drug metformin, and the medicine atomoxetine for attention deficit hyperactivity disorder (ADHD).
+
+There is some evidence already that atomoxetine affects the processes that cause further degeneration in Alzheimer’s, researchers said, while metformin also shows promise on some pathways.
+
+Existing drugs for a range of conditions – plus any new treatments designed for Alzheimer’s – can then be added to the trial over time.
+
+Mr Burnham said: “I know how it feels to lose a loved one to dementia and have seen first-hand the devastating impact this illness has on families.
+
+“That’s why I’m proud to see this trial being launched in the UK, so that cutting-edge treatments can reach patients here as soon as possible.
+
+“I have made dementia research a national priority. I want Britain to be the leading nation, making the breakthroughs that change people’s lives.”
+
+Alzheimer’s is the most common type of dementia, affecting around 600,000 people in the UK.
+
+Experts in the new trial are looking to see whether treatments help with issues such as poor memory and thinking problems, and whether they can help people maintain a good quality of life.
+
+The first people have been recruited at Cambridgeshire and Peterborough NHS Foundation Trust and Surrey and Borders Partnership NHS Foundation Trust.
+
+Other sites include at Imperial in London, Edinburgh and Southampton, with up to 20 NHS sites expected to open over the next 18 months to include more than 1,000 people.
+
+The first drugs should have conclusions by 2030, with people tested via scans and blood tests at regular intervals.
+
+Chief investigator Professor Paresh Malhotra, from the UK Dementia Research Institute, said: “For too long, Alzheimer’s research has moved at the pace of one drug, one trial, one answer, sometimes taking a decade or more before we know if we’ve found something that works.
+
+“We are applying advances from cancer and other conditions to accelerate testing of treatments for people with Alzheimer’s disease.
+
+“The way Ad-Smart is set up means we’re testing several treatments at the same time, and those that don’t show promise can be quickly stopped.
+
+“Then we can start testing something else. That’s the best way to get effective treatments to patients as quickly as we can.”
+
+Prof Malhotra told a briefing that the team “want to look at the multiple mechanisms that are involved in Alzheimer’s disease”.
+
+He said: “We know there are different processes that drive neurodegeneration, that drive deterioration, and so if we can compare and contrast different treatments that affect different processes, then we should find an effective treatment faster.”
+
+While the treatments lecanemab and donanemab, which have been rejected for use on the NHS, have advanced the field of drug treatments, other medicines are far cheaper and experts know already about the risk of side-effects for some of them.
+
+Professor Siddharthan Chandran, director of the UK Dementia Research Institute, said it was a “very exciting time” in the field, with major advances in both diagnostics and treatments for Alzheimer’s, but more needs to be done.
+
+For too long, treatments have been tested in a “grossly inefficient way” and it can take four or five years to find whether a drug works, he said.
+
+He added: “Because of the way Smart trials are designed, biotech and pharmaceutical companies can also bring their drugs straight into the trial.
+
+“That means more treatments tested more quickly, and for people living with Alzheimer’s, that could make all the difference.”
+
+Dr Sheona Scales, director of research at Alzheimer’s Research UK, said: “For people living with Alzheimer’s disease, time is precious.
+
+“We urgently need more treatment options that can help people live better for longer and stay connected to the people they love…
+
+“We hope this new approach to clinical trials could help bring a future closer where people affected by Alzheimer’s have more treatment options — and ultimately, a cure.”
+
+Elsewhere, the Government said it had hit its target to speed up clinical trials, with delivery times cut by 35%.
+
+The average set-up time for commercial trials in the UK dropped to 100 days in the three months to March this year, down from 153 in the same period last year.
+
+All of the 24 commercial trials during those months were set up within 150 days.

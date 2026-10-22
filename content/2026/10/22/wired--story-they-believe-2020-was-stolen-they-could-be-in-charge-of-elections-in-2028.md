@@ -1,0 +1,132 @@
+---
+title: They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028
+source_url: https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-22T11:48:54Z'
+published: '2026-10-22T00:00:00Z'
+description: A host of election-denying candidates are running for attorney general
+  in states across the country.
+image: https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/191:100/w_1280,c_limit/Election-Deniers-Politics.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
+people:
+- Adriana Guzmán Fralick
+- Alex Jones
+- Brian Strickland
+- Chris Mann
+- Christina Beeler
+- Donald Trump
+- Doug Lloyd
+- Eli Savit
+- Guzmán Fralick
+- Joe Biden
+- Joey Gilbert
+- Kris Kobach
+- Kris Mayes
+- Lavit
+- Matt DePerno
+- Mike Lindell
+- Nicole Cannizzaro
+- Tanya Miller
+- Texas
+- Trumpworld
+- Warren Petersen
+locations:
+- Arizona
+- Capitol
+- Eaton County
+- Fulton County
+- Georgia
+- Kansas
+- Maricopa County
+- Michigan
+- Nevada
+- US
+- Washington
+organisations:
+- Atlanta Journal Constitution
+- Chicago Lawyers’ Committee for Civil Rights
+- Congress
+- Cyber Ninjas
+- DC
+- Election Integrity Unit
+- FBI
+- Facebook
+- GOP
+- MAGA
+- MI True Red
+- Michigan Board of State Canvassers
+- Michigan State Police
+- MyPillow
+- Senate
+- Trump
+- WIRED
+---
+
+One was central to facilitating the bogus Cyber Ninjas audit of the 2020 vote in Maricopa County that found no evidence of voter fraud but cost taxpayers $4 million. Another is friends with a Covid-denying former boxer turned MAGA influencer who was filmed on the steps of the Capitol on January 6, 2021 shouting “1776.” Another was set to headline a rally with MyPillow founder and election denial funder Mike Lindell.
+
+This is not a list of edgy MAGA influencers sharing hot takes on X, or podcast hosts on Rumble boosting wild conspiracy theories. No, this is a list of some of the Republican candidates running for attorney general in states across the US.
+
+A WIRED review has identified a slate of GOP attorney general candidates in more than half a dozen states, including key swing states, who have repeatedly expressed their belief that the 2020 election was stolen. If elected, several have said, they are willing to relitigate 2020 once again—and all will potentially play a key role in the 2028 presidential election.
+
+“Any attorney general should be dedicated to upholding the rule of law,” Christina Beeler, senior counsel for the Chicago Lawyers’ Committee for Civil Rights, tells WIRED. “The office of attorney general is a powerful office, and it is deeply important that anyone in that role is dedicated to upholding the rule of law and the results of elections.”
+
+The role of attorney general in the administration and protection of elections differs from state to state, but in general, as their state’s chief legal officer they are required to be a check on both the governor and the federal government. The functions of the role have been highlighted in recent months, as attorneys general across the country have repeatedly stood up to President Donald Trump and his administration's efforts to take control of elections, seize ballots, and obtain voter rolls containing sensitive information on US citizens.
+
+Here, WIRED has looked at GOP candidates for attorney general in Arizona, Georgia, Michigan, Nevada, and Kansas, where some have openly espoused baseless allegations about the 2020 election.
+
+## Arizona
+
+Warren Petersen, an Arizona state senator, was one of the most vocal supporters of Trump’s baseless claim that the 2020 election was stolen. In 2020, he signed a document that asked Congress to accept 11 alternate electoral votes for Trump, and later signed another demanding the US Senate reject Arizona’s slate of electors.
+
+Petersen was also central to getting the bogus audit in Maricopa County approved, a process run by a firm called Cyber Ninjas. The audit ultimately showed that Joe Biden had won by more votes than originally thought. The whole process cost Arizona taxpayers millions.
+
+Earlier this year, Petersen complied with a grand jury subpoena, handing over files on the Cyber Ninjas audit to the FBI as part of its investigation into the 2020 election in Maricopa.
+
+And the lawmaker has also signaled a possible desire to relitigate the 2020 election if he’s elected, calling for an expansion of the attorney general’s Election Integrity Unit. “People will know we’re serious about it,” Petersen said during his primary campaign in July. “Just like they know the Trump DOJ is serious about it right now.”
+
+Polls show Petersen tied with his Democratic opponent, Kris Mayes.
+
+## Georgia
+
+In Georgia, the focus of much of Trumpworld’s conspiracy theories about elections, the GOP’s nominee for attorney general is Brian Strickland. In 2020, as a state senator, Strickland shared a press release that called for officials to consider launching an investigation into “fraudulent activities” in the 2020 election, a forensic audit of the election in Georgia, and new voting laws in the state.
+
+Strickland has also signaled his willingness to fall in line with the Trump administration’s continuing efforts to investigate the 2020 election. When FBI officials raided Fulton County’s election offices earlier this year and seized ballots from the 2020 election, Strickland called it a “transparency” measure. “Fulton County can't run elections,” Strickland wrote on X in February. “That's the simple truth. Every Georgian, regardless of party, should have faith in our election process.”
+
+An Atlanta Journal Constitution poll published this week shows Strickland in a tie with his Democrat opponent Tanya Miller.
+
+## Kansas
+
+Unlike the other election deniers on this list, Kris Kobach is already in the position he’s running for in November, having won the attorney general’s race in 2022.
+
+A long-time promoter of baseless conspiracy theories about fraudulent elections, Kobach previously served as Kansas’ secretary of state from 2011 to 2019. During his time in office, Kobach claimed that an estimated 18,000 noncitizens were on the state’s voter rolls based on non-peer reviewed research that initially found six people who may have attemped to register or registered to vote. In 2017, Trump appointed Kobach to the short-lived “election integrity” commission that found no evidence of widespread voter fraud.
+
+In the wake of the 2020 election, Kobach was an adviser to Texas’ effort to overturn the results and assisted a member of the Michigan Board of State Canvassers who tried to rescind her vote to certify Michigan’s 2020 presidential election results. In 2022, Kobach was announced as a headliner at a Kansas rally with prominent election denier Lindell.
+
+Recent polling suggests Kobach is in a tight race with his Democratic opponent, Chris Mann.
+
+## Michigan
+
+In Michigan, Eaton County prosecutor Doug Lloyd won the GOP nomination for attorney general earlier this year, in a race that had once included Matt DePerno, a lawyer facing felony charges for undue possession of a voting machine and conspiracy in the wake of the 2020 election. (DePerno pled not guilty to the charges, and the case is still pending in the district court.)
+
+Unlike DePerno, Lloyd is not typically labeled as an election denier, and he has claimed to be more moderate than his Democratic opponent, Eli Savit. But in a recent podcast interview reviewed by WIRED, when asked about “credible concerns raised by voters about the 2020 election,” he signaled his willingness to relitigate the six-year-old issue.
+
+“I believe the attorney general has the ability to actually use their investigative officers within their office or the Michigan State Police to actually go back and look at those items,” Lloyd told the MI True Red podcast. “And so as I look at it, you know, I want to take those things in.”
+
+Recent polling shows Lloyd tied in his race against Lavit.
+
+## Nevada
+
+In Nevada, Trump has endorsed lawyer Adriana Guzmán Fralick for the position of attorney general. That may be because she has said she would push for Nevada’s version of the SAVE Act, which Trump has failed to force Congress to approve on a federal level. The act would impose severe restrictions on eligible voters by requiring those registered to produce a passport or birth certificate, documents that tens of millions of Americans readily do not have.
+
+"President Trump is fighting for secure elections—but DC keeps dragging its feet,” Guzmán Fralick wrote on Facebook earlier this year. “Nevada shouldn't have to wait. As your Attorney General, I will push for the SAVE Nevada Act to remove non-citizens from our voter rolls, count all ballots on Election Day, and end universal mail-in voting. What Washington won't finish, Nevada will.”
+
+Experts have repeatedly said the SAVE Act would disenfranchise millions of voters.
+
+Guzmán Fralick has also touted the endorsement of Joey Gilbert, a far-right boxer turned MAGA influencer who gained fame for spreading conspiracy theories about the Covid-19 pandemic. Gilbert, who calls Fralick a “friend,” was also present at the rally at the Capitol on January 6, 2021. While he didn’t enter the building, he was captured on video near serial conspiracy theorist Alex Jones, chanting “1776.”
+
+Recent polling shows Guzmán Fralick trailing her Democratic opponent Nicole Cannizzaro by 8 points.
