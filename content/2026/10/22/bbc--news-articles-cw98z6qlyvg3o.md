@@ -1,0 +1,90 @@
+---
+title: 'Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb'
+source_url: https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-22T17:14:09Z'
+published: '2026-10-22T00:00:00Z'
+description: It has been a dramatic, public and global response, but the cyber event
+  hasn't happened yet.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/71b5/live/6f991250-ce0f-11f1-bc2e-018d645d8d21.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Alan Woodward
+- Gina Neff
+locations: []
+organisations:
+- BBC Radio 4
+- Cloudflare
+- JLR
+- M&S
+- PHP
+- Palo Alto Networks
+- Queen Mary University
+- Responsible AI
+- Surrey University
+- Today Programme
+---
+
+How did AI discover the internet's massive cyber-security risk?
+
+**I once worked opposite a site where a shopping centre was being built.**
+
+We were warned there might be unexploded bombs from World War Two unearthed during the construction.
+
+In the end, there were none, but procedures were put in place as a precaution and we all had to practice filing into designated safe zones inside our building.
+
+The PHP story feels like the cyber equivalent of an unexploded bomb - I have never seen such a dramatic, public and global response to a cyber event that hasn't happened yet.
+
+There has been no painful attack like the ransomware we saw knock out M&S and JLR in 2025.
+
+But the potential threat is so serious that websites around the world have been taken down as a precaution.
+
+Less than two months ago, 100 tech companies wrote an open letter warning the world to adopt a new level of cyber resilience in the age of AI.
+
+It turns out we didn't have to wait very long to find out what they meant.
+
+The weaknesses found in the PHP programming language, which is used by millions of websites, had been quietly resting there for years and are not easy to exploit.
+
+One cyber security researcher told me he'd been up all night trying to do it as an experiment, but it was proving very difficult.
+
+However, things that are very difficult for humans are increasingly very little trouble for AI.
+
+The tech is getting a lot of credit here for assisting researchers in finding the bugs, and the PHP foundation, which oversees the programming language, was on the case and issued a fix.
+
+## 'A real dilemma'
+
+It was supposed to be kept quiet until everyone had a chance to fix their sites - but the news was leaked.
+
+From that point the clock started ticking.
+
+As I write this, there are no reports that anyone or anything has succeeded in using the flaws to attack a site.
+
+"There's a real dilemma," said Prof Alan Woodward from Surrey University.
+
+"How do you alert people they need to be ready, and then that a patch is urgently required, whilst not alerting attackers?
+
+"Basically you're telling everyone about the problem at the same time and hoping the defenders aren't awake enough to act as soon as the patch is out."
+
+But we do know from large web companies like Cloudflare and Palo Alto Networks that millions of attempts have been made.
+
+We probably won't know for a while whether it has worked for any criminals, because the companies affected might not be aware yet either.
+
+As far as we know the unexploded bomb remains intact for now, and for some experts this is a success.
+
+Gina Neff, Professor of Responsible AI at Queen Mary University, described this as a good news story.
+
+"We've seen how a team of people supported by the large AI company have used AI to find the problem, work for months together to solve it and get everybody ready to be safe and secure," she told the Today Programme on BBC Radio 4.
+
+"We have enormous capability to handle these risks."
+
+But the baddies can use AI too, and those same tools are probably churning away right now trying to get in.
+
+Cyber security authorities are warning website owners to fix the weaknesses immediately, but the patch only works on the latest version of PHP, so older sites will need to upgrade first.
+
+For many it may be a significant repair job, so if there's a web developer in your life you may want to send them thoughts, prayers and maybe a strong coffee.
+
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png)
