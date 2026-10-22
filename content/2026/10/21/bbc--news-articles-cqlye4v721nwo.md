@@ -1,0 +1,106 @@
+---
+title: Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study
+source_url: https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-22T04:36:30Z'
+published: '2026-10-21T00:00:00Z'
+description: Drugs will be tested simultaneously, which it's hoped will speed up the
+  process of finding new treatments for this common type of dementia.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Science
+people:
+- Alzheimer
+- Andy Burnham
+- Angela Bucksey
+- Prof Malhotra
+- Prof Paresh Malhotra
+- Sheona Scales
+- Steve
+locations:
+- Cambridgeshire
+- Edinburgh
+- London
+- Southampton
+- Surrey
+- UK
+organisations:
+- AD-SMART
+- Alzheimer's Research UK
+- BBC
+- Imperial College London
+- Medical Research Council and Health Data Research UK
+- National Institute for Health and Care Research
+- UK Dementia Research Institute
+- UK Dementia Research Institute Centre for Care Research & Technology
+---
+
+![Steve and Angela Bucksey sit side-by-side smiling - Steve has grey hair and is wearing a light blue shirt with a collar, and Angela has shoulder-length greyish hair and wears a green round-necked T-shirt and a necklace](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg)
+
+**A clinical trial has been launched in the UK which scientists hope could cut years from the search for new treatments for Alzheimer's disease.**
+
+It will test multiple drugs simultaneously, starting with two repurposed medicines already used to treat type 2 diabetes and attention deficit hyperactivity disorder (ADHD).
+
+The study will examine whether the drugs can lessen symptoms such as memory and thinking problems, and help people maintain their quality of life.
+
+Angela Bucksey, 67, from Cambridgeshire, was diagnosed with Alzheimer's in January and is the first person to begin treatment on the trial, called AD-SMART.
+
+"We have Alzheimer's in the family," she told the BBC.
+
+"My mother had it and my aunts, so it was a disappointment rather than a shock when I was diagnosed because I knew it would restrict my life.
+
+"But I was determined that it wasn't going to define me."
+
+Angela said she felt empowered joining the trial because "at least you are doing something".
+
+"Instead of just sitting there, you're standing up and saying, I will fight back."
+
+Alzheimer's is the most common type of dementia, affecting around 600,000 people in the UK.
+
+## 'Cutting-edge treatments'
+
+Prime Minister Andy Burnham, whose father died from Alzheimer's last month, said he knew how it felt to lose a loved one to dementia, and had seen first-hand the devastating impact of the disease on families.
+
+"That's why I'm proud to see this trial being launched in the UK, so that cutting-edge treatments can reach patients here as soon as possible," he said.
+
+The AD-SMART study is what's known as a multi-arm, multi-stage platform trial where several treatments are tested simultaneously, with the results compared with one group of participants taking a placebo or dummy.
+
+This means those involved have a higher likelihood of getting an active treatment than in a traditional trial.
+
+If any drug isn't showing benefit it can be dropped quickly and a new treatment added in its place - the approach has been used successfully in cancer and motor neurone disease.
+
+The two initial drugs being tested are metformin, used to treat type 2 diabetes, and atomoxetine, for ADHD, which were selected by an international panel of experts.
+
+Both drugs may help reduce brain inflammation, which is a driver of neurodegeneration, said chief investigator Prof Paresh Malhotra, group leader at the UK Dementia Research Institute Centre for Care Research & Technology at Imperial College London.
+
+"For too long, Alzheimer's research has moved at the pace of one drug, one trial, one answer - sometimes taking a decade or more before we know if we've found something that works," he told the BBC.
+
+"We are applying advances from cancer and other conditions to accelerate testing of treatments for people with Alzheimer's disease."
+
+## 'Back from despair'
+
+For the drugs to be successful, the study has to show that they have beneficial effects on thinking and the ability to carry out everyday activities.
+
+"That's what patients and their carers care about," said Prof Malhotra.
+
+Some 1,200 participants with mild to moderate Alzheimer's will be recruited at more than 30 sites across the UK. Sites in Cambridgeshire, Surrey, London, Southampton and Edinburgh are already open.
+
+Scientists expect to finish evaluating the first drugs in 2030 and, in that time, additional treatments are likely to be added.
+
+All the participants will have regular health checks including cognitive tests, which will help researchers assess how effective the treatments are.
+
+Angela Bucksey's husband Steve, who is her study partner, told the BBC: "Joining the trial has brought us back from the despair of a diagnosis which everybody recognises is non-recoverable.
+
+"People who know we are on a drug trial understand that we're doing something about it and, rather than be sorry for us, they can be encouraging."
+
+Dr Sheona Scales, director of research at Alzheimer's Research UK said "time is precious" for people living with Alzheimer's disease and more treatment options are urgently needed.
+
+People with a confirmed Alzheimer's diagnosis who would like to take part can register their interest on the AD-SMART website, external.
+
+The trial is being led by the UK Dementia Research Institute and Alzheimer's Research UK.
+
+Partners include the National Institute for Health and Care Research, the Medical Research Council and Health Data Research UK, with funding by UK government.
