@@ -1,0 +1,126 @@
+---
+title: Conservation easement and migration route designation safeguard a ‘Path of
+  the Pronghorn’ bottleneck
+source_url: https://www.independent.co.uk/news/wyoming-funds-denver-casper-b3071845.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-22T21:31:17Z'
+published: '2026-10-22T00:00:00Z'
+description: The Sublette Pronghorn Herd's migration route in Wyoming has gained significant
+  protection from development
+image: https://static.independent.co.uk/2026/10/22/21/Pronghorn_Protections_44525.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+people:
+- Daniel
+- Joe Scott
+- Kerry Schultz
+- Kirkwood
+- Lindsay Dick
+- Looneys
+- Meghan Riley
+- Mike Looney
+- PureWest
+- Steve Degenfelder
+locations:
+- Looney’s Wild Horse Ranch
+- New Fork
+- New Fork River
+- Paradise Road
+- Sublette County
+- Sublette Pronghorn
+- Sublette Pronghorn Herd
+- Wild Horse Ranch
+- Wyoming
+organisations:
+- Green River Valley Program
+- Jackson Hole Land Trust
+- Kirkwood Oil and Gas
+- Knobloch Family Foundation
+- Land Trust
+- No. 194
+- Office of State Lands and Investments and Wyoming Game and Fish Department
+- PureWest Energy
+- The Associated Press
+- The WYldlife Fund
+- Ultra Resources
+- WyoFile
+- Wyoming Game and Fish Department
+- Wyoming Oil and Gas Conservation Commission
+- Wyoming Outdoor Council
+- Wyoming Wildlife and Natural Resource Trust
+---
+
+When an oil and gas company bid $19 per acre to drill a pinchpoint where the Sublette Pronghorn Herd migrates across the New Fork River, the 2023 lease sale turned into one of the largest fights in Wyoming wildlife circles.
+
+At the time, pronghorn were recovering from a devastating winter and a long delay in the state designating the famous migration route left the river crossing bottleneck vulnerable to drilling and disruption. Adjacent ranchland used by the fleet-footed ungulates, meanwhile, was equally at risk: The state’s policy, permissive of development, has no teeth on private land.
+
+Wildlife advocates pulled out all the stops to safeguard the ancient crossing, even unsuccessfully bidding on a state oil and gas lease — a move that led to a change in state law, prohibiting them from trying it again.
+
+Three short years later, almost all of the acreage where New Fork-crossing pronghorn pass through the bottleneck has been protected. A combination of public and private actions — Wyoming eventually designated the migration corridor and a conservation easement enabled, in part, by an oil and gas company — should deter development for the long haul.
+
+“This private parcel and this state parcel, to go from being so vulnerable to so secure, is just such a win,” said Kerry Schultz, who directs the Jackson Hole Land Trust’s Green River Valley Program.
+
+“It’s just so cool to me how this landowner stepped up and made the decision to exercise their property rights in such an interesting and beneficial way,” she added. “And state parcel 194 went from being really vulnerable and really at risk, and it has also turned around.”
+
+The private land
+
+The private land part of the story concerns the Wild Horse Ranch, 233 acres of riverside pastureland that Daniel resident Mike Looney’s father bought in the 1970s with the intent of subdividing and selling.
+
+“That’s just how he operated,” Looney told WyoFile. “He had to do that to pay for it.”
+
+Some of that subdivision occurred, but Looney had a different plan for the land after inheriting it when his father passed away in the 1980s. The Sublette County construction worker is “all about the wildlife,” and he wanted to see the “beautiful little place down on the river” stay the way it was.
+
+A conservation easement was compelling for Looney, who’s near retirement, partly because of dollars and cents.
+
+“The big motivator, to be honest with you, was the appraised value of the conservation easement,” he said. “It finally became pretty attractive.”
+
+But there were major impediments. PureWest Energy, for one, has had a surface lease agreement with the Looney family since 2005 entitling the Denver-based natural gas producer to develop up to three well pads on the property. One already exists. To enroll the rest of the property in a conservation easement that would prohibit development for perpetuity, Looney and the Land Trust needed to convince PureWest to waive some of its development rights.
+
+“I was shocked that we got that pulled off,” Looney said. “It’s great that we did.”
+
+PureWest Energy’s vice president of land, Lindsay Dick, fielded the inquiry. She told Looney that she couldn’t make any promises but would look into his request.
+
+“We were like, ‘OK, we have a pad on there currently,’” Dick told WyoFile. “We can make this work if and when we want to drill other wells.”
+
+Directional drilling, she said, would enable PureWest to get at gas deposits on the rest of the ranch without any additional disturbance on the surface, where the pronghorn pass over.
+
+“That’s the beauty of the technology,” Dick said. “We’ve come a long way since 2008.”
+
+The Looneys and Schultz, with PureWest Energy’s cooperation, were able to come to terms on a deal.
+
+“I’m thrilled about it,” Dick said.
+
+Funds for the easement on the Looney’s Wild Horse Ranch came from the Knobloch Family Foundation, Jackson Hole Land Trust, Wyoming Wildlife and Natural Resource Trust, The WYldlife Fund and 9 other groups and partners.
+
+The permanent protections safeguard 1.3 miles of the New Fork River, 104 acres of wetlands and 60 acres of sage grouse core area. The entirety of the ranch is within the designated pronghorn migration route and the easement protects 169 of the 183 acres — 92% — within the private land portion of the corridor’s bottleneck.
+
+And the public land
+
+The June designation of the Sublette Pronghorn corridor, culminating a quarter century of effort, also tilted circumstances in the migratory herd’s favor on federal and state land.
+
+The Office of State Lands and Investments and Wyoming Game and Fish Department tried unsuccessfully to add a special stipulation to the state parcel that caused a ruckus when Kirkwood Oil and Gas leased it in 2023. There hasn’t yet been any new development since. (The parcel is bisected by some development that is grandfathered in, such as Paradise Road and some Ultra Resources tanks.)
+
+“These wells, especially exploratory wells, are supposed to cost $13, $14 million, and so it is not something that you typically do quickly,” said Steve Degenfelder, a landman for Casper-based Kirkwood Oil and Gas.
+
+Degenfelder didn’t want to speculate on what would happen in the next two years. Because Kirkwood acquired the parcel, No. 194, in 2023, the company has until 2028 before its 5-year lease expires. There are no firm plans to try to build a new well pad, but Degenfelder also didn’t preclude the possibility.
+
+“I don’t want to say we wouldn’t,” he said, “and I don’t want to say that we will.”
+
+The standard ungulate migration stipulation isn’t affixed to Parcel 194 because the lease predated the corridor’s designation. But that doesn’t mean that the state’s migration regulations won’t come into play.
+
+Kirkwood would still need to submit an “application to drill” to advance its play. That process is handled by the Wyoming Oil and Gas Conservation Commission. If an application were to happen, the Wyoming Game and Fish Department would be consulted and the state would “apply appropriate stipulations” respecting the migration policy, said Joe Scott, the commission’s natural resources program manager.
+
+Scott quoted Wyoming’s migration policy in an email. It states: “New development within pre-existing oil and gas units inside bottlenecks should not be allowed.”
+
+The bottleneck portion of the migration path on Parcel 194, in other words, would be off-limits to new development for Kirkwood Oil and Gas and any other company down the road. That’s not to say there couldn’t be any development at all. “Medium-use” and “high-use” portions of the migration corridor also fall within the leased state section.
+
+The New Fork bottleneck’s protections have caused conservationists to cherish the moment. Meghan Riley, Wyoming Outdoor Council’s wildlife program manager, said that the importance of the newly protected crossing cannot be understated.
+
+“Many of the pronghorn that survived the bad winter of 2022-23 were only able to do so because this bottleneck provided the lifeline they needed to flee south,” Riley told WyoFile in a text message. “Seeing this habitat shift from being pretty vulnerable a few years ago to having this level of protection today is, frankly, inspiring.”
+
+\_\_
+
+This story was originally published by WyoFile and distributed through a partnership with The Associated Press.
