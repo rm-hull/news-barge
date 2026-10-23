@@ -1,0 +1,67 @@
+---
+title: Meghan did not let her father see her children to protect them
+source_url: https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-23T21:22:15Z'
+published: '2026-10-23T00:00:00Z'
+description: Today, without exactly using the word, Meghan claimed vindication.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d629/live/fafec820-cf0a-11f1-a701-fddedf244c16.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+people:
+- Harry
+- Meghan
+- Thomas Markle
+locations:
+- Austin
+- Duchess of Sussex
+- Mexico
+- Palace
+- Philippines
+- US
+organisations:
+- SXSW
+---
+
+![Meghan looks to the left of frame while sat onstage with blue and black background behind her, at SXSW in Austin in 2024.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d629/live/fafec820-cf0a-11f1-a701-fddedf244c16.jpg)
+
+**Before today's allegations and the statement from the Duchess of Sussex there was not much at all between Meghan and her father.**
+
+Quite when the duchess last saw her father Thomas isn't clear. By the time her engagement was announced in 2017, a once-close relationship had cooled.
+
+He had moved to Mexico following his retirement in the US and then, as he spoke freely to the media before and after her 2018 wedding, the relationship went into the deep freeze.
+
+He said she barely called as he underwent heart surgery, the duchess's people briefed that she had. Then they went silent as he complained in interview after interview that he no longer saw his daughter, had never met Harry nor, later, his grandchildren.
+
+Now Meghan has told us why.
+
+Thomas Markle gave the first, very large, hint that things would be different within weeks of the announcement of Meghan and Harry's wedding.
+
+Instead of accepting the embrace of the Palace - and the media silence that involves - he happily went rogue, giving comments, sometimes commentary, to various media outlets. He had what appeared to be a paid photoshoot whilst claiming that he was being harassed by the media, withdrawing from the wedding just days beforehand as he underwent heart surgery.
+
+There was no lack of drama.
+
+The interviews and comments never really stopped. Markle was a regular on some broadcast outlets, often complaining that he had no contact with his daughter and son-in-law or, later, his grandchildren.
+
+From Meghan came neither comment nor guidance as to why she had cut contact with the father with whom she had once been so close.
+
+And into that vacuum rushed theory and supposition - that Meghan was embarrassed by her father, that she and Harry felt their privacy had been compromised by him and so would no longer give him material to recycle, that the old man who was so close to the popular news outlets that tormented them was no longer part of the life they wanted to lead.
+
+Those theories became part of the case against Meghan; that she would sacrifice anyone and anything - even her father - to protect her position and save herself from any embarrassment.
+
+That must have stung. Because today, without exactly using the word, she claimed vindication.
+
+"I hope it can now be understood" she wrote.
+
+"That, despite certain media publications' distortion over the years, any distance from my father and my choice to not allow him to have contact with our children, was for one reason: to protect them."
+
+Meghan says she was informed of the allegations back in 2018. It is understood that it was after her marriage to Harry in May that year.
+
+Since then there has only been very limited contact between Meghan and her father - she wrote to him after he underwent surgery in the Philippines late last year.
+
+How much all of this changes the perception of Meghan is difficult to tell. Many people have made their minds up about Meghan and the saga with her father is only part of the tangled story of the duchess and the rest of the royal family.
+
+But her supporters will see vindication in the allegations - which have been denied by Thomas Markle - and the response that Meghan says she made when she first learned of them.
