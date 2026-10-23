@@ -1,0 +1,67 @@
+---
+title: Elon Musk Just Dumped Another $76 Million Into the Midterms
+source_url: https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-23T17:01:04Z'
+published: '2026-10-23T00:00:00Z'
+description: The trillionaire has given more than $445 million to Republican political
+  groups this election cycle, as Democrats vow to investigate him.
+image: https://media.wired.com/photos/6adb5fd2c971dd84b8dc4ea5/191:100/w_1280,c_limit/GettyImages-2246892016.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+people:
+- Elon Musk
+- James Talarico
+- Jimmy Panetta
+- Ken Paxton
+- Ro Khanna
+- Sam Liccardo
+- Zoe Lofgren
+locations:
+- America
+- California
+- Silicon Valley
+- Texas
+- US
+- Ukraine
+- White House
+organisations:
+- Congress
+- DOGE
+- Department of Government Efficiency
+- Emerson College
+- FEC
+- Federal Election Commission
+- House
+- Musk
+- PAC
+- Senate
+- SpaceX
+- Starshield
+- Talarico
+- Tesla
+- WIRED
+---
+
+Elon Musk gave his personal political committee, America PAC, more than $76 million in the first two weeks of October to boost Republicans in the final stretch of the midterms, according to a pre-election report the PAC filed Thursday evening with the Federal Election Commission.
+
+The group spent nearly $43 million in the first two weeks of October, and entered the campaign’s last leg holding nearly $47 million in cash.
+
+The Texas Senate race dominated the new spending. It drew $15.2 million, double what the PAC spent there all summer. That spending included $12.4 million to attack Democratic candidate James Talarico and $2.8 million to promote Republican Ken Paxton.
+
+Daily filings since then show $9.1 million more against Talarico, bringing the PAC’s spending against him this cycle to nearly $28 million, about 40 percent of everything it has spent supporting or opposing candidates. The PAC also shifted toward online ads, spending $11.4 million on digital ads in the same two weeks, which is close to what it spent on mail and texting combined.
+
+All told, Musk has given more than $445 million to Republican political groups this election cycle, according to WIRED’s analysis of FEC filings, making him the biggest known individual donor in the midterms. More than $165 million of that has gone to America PAC since July alone.
+
+America PAC declined to comment.
+
+Musk—who has several companies, including Tesla and SpaceX, based in Texas—has also been posting online about the race. On Wednesday, Musk posted on X that “there is something deeply wrong with Talarico,” then called him “a creep” and claimed, without evidence, that he “would vote to take away your kids and transition them.” Earlier this month, Musk amplified a false claim that Talarico had been treated at a mental health facility. Talarico shot back the same day: “There is something deeply wrong with a political system that allows one trillionaire to buy his own personal US Senator.”
+
+The Texas race remains a toss-up. An Emerson College poll of 1,000 likely Texas voters, conducted October 17 to 19, found Talarico at 48 percent and Paxton at 46 percent, within the poll’s 3-point margin of error.
+
+The stakes for Musk reach well beyond Texas. If Democrats win the House, the lawmakers in line to lead its committees have signaled they will investigate his role in the Department of Government Efficiency (DOGE), his companies’ federal contracts, and what Zoe Lofgren, a California Democrat, called an “astounding” number of conflicts of interest. Unified Democratic control of Congress would pose even more problems for him.
+
+Silicon Valley Democrats added another target on Friday: restrictions on SpaceX’s Starshield satellite service in Ukraine. In a letter to the White House demanding an investigation, Representatives Sam Liccardo, Jimmy Panetta, and Ro Khanna vowed that the next Congress “will closely scrutinize federal funding awarded to Mr. Musk’s businesses.”
