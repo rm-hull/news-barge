@@ -1,0 +1,188 @@
+---
+title: 'Ukraine war live: Explosions rock Russian petrochemical plant hit by drones'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-oleshky-melania-trump-ceasefire-starlink-b3072649.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-24T10:52:31Z'
+published: '2026-10-24T00:00:00Z'
+description: Several industrial facilities were damaged in the attack in Togliatti,
+  the city’s mayor confirmed
+image: https://static.independent.co.uk/2026/10/24/11/2300615471..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+people:
+- Alexander Novak
+- Anton Kovalskyi
+- Donald Trump
+- Elon Musk
+- Ilya Sukhikh
+- Kyiv
+- Marc Beckman
+- Melania Trump
+- Mykhailo Razvozhaev
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+locations:
+- Atlantic Ocean
+- Black Sea
+- Constanta
+- Crimea
+- Krasnodar Krai
+- Kyiv
+- North America
+- Oleshky
+- Romania
+- Russia
+- Sevastopol
+- Starlink
+- Starshield
+- Taman
+- Togliatti
+- Togloatti
+- US
+- Ukraine
+- Washington
+- White House
+- Yalta
+organisations:
+- ABC News
+- Agioi Fanendes
+- Avtovaz
+- Exilenova
+- First Lady
+- Kyiv Independent
+- Melania Trump
+- Musk
+- NASA FIRMS
+- NetBlocks
+- RDIF
+- Reuters
+- Russian Direct Investment Fund
+- SpaceX
+- Starlink
+- Telegram
+- Togliatti
+- Togliattiazot
+- UN Security Council
+---
+
+![Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke](https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/4ecb6b87-f397-4915-ae91-13cc6582acf0-thumbnail.jpeg?cb=1792727792789)
+
+Ukrainian forces struck a Russian petrochemical plant in Togliatti overnight, Kyiv's general staff said on Saturday.
+
+Footage circulating on social media showed thick black smoke rising from the industrial area.
+
+The attack ​caused ⁠an explosion ‌and fire, Ukrainian authorities said ‌on Telegram. Togloatti mayor Ilya Sukhikh said several industrial facilities were damaged in the attack.
+
+The city in western Russia ‌is home to the country’s ‌largest carmaker ‌Avtovaz and major ammonia ⁠producer Togliattiazot.
+
+It comes as the White House praised Melania Trump for reportedly securing a ceasefire for the Russian-occupied city of Oleshky, where up to 2,000 residents are cut off from world and facing starvation.
+
+Russia agreed to pause all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation through a designated safe passageway, according to the White House.
+
+The localised ceasefire will begin on October 29.
+
+A post on the White House’s social media account on Friday said: “Our incredible @FLOTUS Melania Trump has forged a ceasefire in war-torn Oleshky. Peace through strength.”
+
+## Explosions rock Russian petrochemical plant hit by drone strike
+
+Ukrainian forces struck a Russian petrochemical plant in Togliatti overnight, Kyiv's general staff said on Saturday.
+
+The attack ​caused ⁠an explosion ‌and fire, it said ‌on the Telegram ‌app.
+
+Togliatti ‌is home to Russia's ‌largest carmaker ‌Avtovaz and major ammonia ⁠producer Togliattiazot.
+
+Togloatti mayor Ilya Sukhikh said several industrial facilities were damaged in the attack.
+
+## Three Russian diesel tankers head to North America under US deal
+
+Three tankers carrying Russian diesel are heading towards North America, Russian deputy prime minister Alexander Novak said on Friday.
+
+The shipments are part of a deal that could see Russia supply 500,000 metric tonnes of fuel to US and global markets in October, he said.
+
+“The first ⁠three fuel tankers are already on their ​way to the eastern ‌coast of ‌the Atlantic Ocean, with significant support from the ‌RDIF (Russian Direct Investment Fund),” Novak said.
+
+Under a deal announced by US president Donald Trump this month, Washington temporarily lifted sanctions on Russian fuel in exchange for supplies aimed at lowering global fuel prices.
+
+Reuters reported that one tanker, the Malta-flagged Agioi Fanendes, carrying ultra-low sulphur diesel, is expected to arrive in the US on 7 November.
+
+## US lawmakers demand answers from Musk over Ukraine Starlink restrictions
+
+Six Democratic US lawmakers have demanded that Elon Musk explain restrictions on Starlink and its military version, Starshield, which have disrupted Ukrainian military operations.
+
+They gave Musk until 31 October to answer five questions, warning that his control over another country’s military communications raised concerns about corporate governance and geopolitical risks.
+
+“As a publicly traded company, SpaceX has a legal obligation to disclose to shareholders and the public material events that could affect your business model,” the lawmakers wrote in the letter.
+
+“The revelation that you personally wielded control over a foreign country’s military communications would require disclosure of elevated risks for corporate governance, geopolitical exposure, and potential adverse actions by foreign governments.”
+
+Volodymyr Zelensky confirmed the disruptions were ongoing, saying: “The speed restrictions for Starlink and Starshield are still in effect. The speed has not been restored. And the supply of interceptor missiles to protect against Russian ballistic missiles is still delayed.”
+
+## Mass blackouts reported across occupied Crimea
+
+A key electrical substation in southern Russia was reportedly damaged in an overnight attack on Saturday, triggering widespread power outages across Moscow-occupied Crimea, according to Telegram monitoring channels.
+
+"The entire peninsula is without electricity," the Telegram channel Exilenova+ reported on the evening of 23 October, *The Kyiv Independent* reported.
+
+Satellite imagery from NASA FIRMS reportedly indicated that an overnight attack damaged the Taman substation in Russia’s Krasnodar Krai, which supplies electricity to occupied Crimea.
+
+Major cities, including Sevastopol and Yalta, were left without power.
+
+“As a result of an enemy attack on energy infrastructure outside of Sevastopol, our city is temporarily without power,” Sevastopol's Russian-installed governor Mykhailo Razvozhaev said on Telegram.
+
+Internet monitoring group NetBlocks also reported widespread internet outages across Crimea.
+
+Ukraine has not commented on the attack yet.
+
+## Zelensky criticises Trump administration’s actions as ‘not supportive’
+
+Ukrainian president Volodymyr Zelensky has expressed frustration with the Trump administration’s recent actions towards Kyiv, describing them as “not supportive”.
+
+In an interview with ABC News, Zelensky appeared to take a swipe at US special envoy Steve Witkoff, who recently praised Russian president Vladimir Putin as "a humanitarian".
+
+Zelensky said: "I'm a normal person. I'm just human. Maybe not such a big humanitarian as Putin, of course."
+
+He focused on Ukraine’s urgent military needs, saying Starlink was still not operating at full speed on the battlefield, despite Donald Trump’s claims to the contrary.
+
+## Saving children is the US first lady's focus, Trump says, as Melania secures ceasefire for Ukrainian town
+
+Melania Trump has made helping children in conflict zones one of her signature issues in her husband's second term.
+
+She hosted a UN Security Council meeting on the issue earlier this year, and last year wrote to Russian president Vladimir Putin about efforts to reunite families with children who have been displaced by the war.
+
+She has helped reunite nearly three dozen children, according to her senior adviser, Marc Beckman.
+
+“What she wants to do is save children, and that’s her focus,” the president told reporters at the White House.
+
+## Ukraine and Russia swap prisoners in 'very important result'
+
+Ukraine and ​Russia swapped 270 servicemen each in a prisoner exchange yesterday, the Russian defence ministry said.
+
+Ukrainian president ‌described the swap, the first since August, as a "very important result”.
+
+Ukraine's acting prosecutor, Anton Kovalskyi, ​writing on Telegram, said more than 19,000 Ukrainian civilians, including 762 children, had been killed since Russia launched its full-scale war more than four years ago.
+
+## A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1
+
+A drone hit and sank a cargo vessel in the Black Sea on Friday, killing one crew member and leaving three missing, officials said, in the latest attack on commercial shipping in the region that has raised fears of an escalation in Russia's war against Ukraine.
+
+Romanian naval authorities said that a search and rescue mission was underway after the ship caught fire and sank about 13 nautical miles (15 miles) east of the port city of Constanta, near Romania's territorial waters. The crew consisted of 10 Ukrainian citizens and three Azerbaijanis. Nine were rescued.
+
+![](https://static.independent.co.uk/2026/10/23/16/Romania-Black-Sea-Ship-Fire_28873.jpg?trim=0%2C1%2C0%2C1&width=1200&height=800&crop=1200%3A800&quality=75&width=640&auto=webp)
+
+## Melania Trump claims to have secured ceasefire for single Ukrainian town in surprising peace breakthrough
+
+Melania Trump says she has secured a ceasefire for a Ukrainian city that was until now cut off from the world and facing starvation.
+
+The Russian-occupied city of Oleshky is located at the frontline and is made up of 2,000 residents who have faced an ongoing blockade restricting food and aid.
+
+But the First Lady said on Friday that Russia has agreed to pause all military action in the town to allow for humanitarian aid to enter and to prepare a civilian evacuation through a designated safe passageway, according to the White House.
+
+![](https://static.independent.co.uk/2026/10/23/14/2026-10-19T172009Z_1204063649_RC2G6OAKK3OD_RTRMADP_3_USA-TRUMP.JPG?trim=0%2C0%2C0%2C0&width=1200&height=800&crop=1200%3A800&quality=75&width=640&auto=webp)
+
+## Watch: Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke
+
+![Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke](https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/4ecb6b87-f397-4915-ae91-13cc6582acf0-thumbnail.jpeg?cb=1792727792789)
