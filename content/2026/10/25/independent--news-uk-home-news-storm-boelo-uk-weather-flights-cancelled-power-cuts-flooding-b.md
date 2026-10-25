@@ -1,0 +1,151 @@
+---
+title: Two men killed by falling trees as Storm Boelo batters UK with 84mph winds
+source_url: https://www.independent.co.uk/news/uk/home-news/storm-boelo-uk-weather-flights-cancelled-power-cuts-flooding-b3072977.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-10-25T20:46:27Z'
+published: '2026-10-25T00:00:00Z'
+description: Footage showed floodwater coursing through a Scottish town, while A roads
+  were closed, train lines blocked and hundreds of thousands of homes were left without
+  power
+image: https://static.independent.co.uk/2026/10/25/11/2301903373..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+people:
+- Amy
+- Austen
+- Bert
+- Boelo
+- Conall
+- Craig Snell
+- Darragh
+- Guy Ellwood
+locations:
+- Aberporth
+- Argyll
+- Belfast
+- Bute
+- Cairnryan
+- Calais
+- Clackmannanshire Bridge A876
+- Cornwall
+- Culdrose
+- Dalmarnock
+- Dover
+- Dumbuck Quarry
+- Dumfries and Galloway
+- England
+- Glasgow
+- Inner Hebrides
+- Ireland
+- Irish Sea
+- Irvine Harbour
+- Isles of Scilly
+- Largs
+- Leeds Bradford Airport
+- Liverpool
+- London
+- M90
+- Manchester
+- Merseyside
+- Mill Hill
+- New Brighton
+- North Ayrshire
+- Queensferry Crossing
+- Rutherglen
+- Scotland
+- Snowdonia
+- St Mary’s Airport
+- Storm Boelo
+- UK
+- Wales
+organisations:
+- Belfast International
+- CalMac
+- DFDS
+- Energy Networks Association
+- Environment Agency
+- Facebook
+- Met Office
+- Metro
+- Metropolitan Police
+- National Rail
+- Network Rail
+- Network Rail Scotland
+- North West Command Unit
+- Partick
+- Police Scotland
+- Scottish Environment Protection Agency
+- Stena Line
+- Western Ferries
+---
+
+Two men have been killed by falling trees and hundreds of thousands of homes have been left without power as Storm Boelo battered the country with gusts reaching 84mph.
+
+A Met Office amber weather warning for wind remains in place for Scotland and much of northern England until 9pm, having been activated at 9pm on Saturday, hours after the first named storm of the season – Storm Austen – petered out from the south west. Boelo poses a danger to life from flying debris and crashing waves and people should stay indoors as much as possible, the forecaster said.
+
+A 60-year-old man was killed by a falling tree in Dumfries and Galloway, Scotland, with police called to the scene at around 10:30am on Sunday. The man was pronounced dead at the scene, Police Scotland said.
+
+A man in his 20s was also killed after a tree fell onto his moving car in north London. Chief Inspector Guy Ellwood, from the Metropolitan Police’s North West Command Unit, said: “This is a deeply tragic incident and our thoughts are with the loved ones of the young man who lost his life.”
+
+A neighbour told the Metro that the man’s family had gathered at the scene in Mill Hill following the tragic incident. She said: “I believe he was on his own in the car. I spoke with his sister and gave her a hug. Then I see a young lad standing looking confused so I went over to speak to him and he said he was the victim’s best friend.
+
+“I came home upset but couldn’t settle so I had to go back and offer my support”.
+
+Sunday began with heavy winds in northern parts of the UK – widely reaching 60 to 70mph and at 84mph in Argyll and Bute, 83mph in Snowdonia and 82mph in the Inner Hebrides, the Met Office said, while video footage showed floodwater coursing through Largs in North Ayrshire.
+
+The business which shared the video on Facebook claimed that the street flooded “at its highest level ever”.
+
+The storm caused widespread power cuts in Scotland and England’s north west. Engineers have reconnected 344,900 customers to power but 82,600 were disconnected on Sunday afternoon, the Energy Networks Association said.
+
+Many A roads in Scotland were closed due to fallen trees, while National Rail said those wishing to travel by train also faced severe disruption, with many of the UK’s major operators impacted.
+
+![The A82 blocked at Dumbuck Quarry due to flooding caused by storm Boelo](https://static.independent.co.uk/2026/10/25/15/2301882420...jpg?quality=75&width=640&auto=webp)
+
+Network Rail shared images of a trampoline beneath a train and a shed by the tracks, in a call for those living near rail lines to secure their garden furniture, while a fallen tree blocked a line between Liverpool and Manchester and several lines in western and northern Scotland closed as a result of the strong wind and heavy rain warnings across the country.
+
+Network Rail Scotland shared an image of flooding from the tracks to the platform at Dalmarnock station in Glasgow. The floodwater submerged the tracks between the platforms overnight, overwhelming its water pumps for a time.
+
+The train operator said the station is now clear, but the line is closed between Partick and Rutherglen for planned engineering work.
+
+Bridges across Scotland are facing closures and warnings over the high wind speeds.
+
+The Queensferry Crossing, M90 and the Clackmannanshire Bridge A876 have been closed to high sided vehicles on Sunday, and a 30mph speed limit has been imposed on other traffic.
+
+![Waves crash over the promenade in Largs](https://static.independent.co.uk/2026/10/25/15/2301888955...jpg?quality=75&width=640&auto=webp)
+
+A number of flights to and from the UK and Ireland, particularly those across the Irish Sea, were cancelled.
+
+Some 17 flights at Belfast International were cancelled by Sunday lunchtime, while some services were diverted from landing at Leeds Bradford Airport and others were cancelled.
+
+An airport spokesperson thanked customers for their patience, adding: “We appreciate that this is a challenging situation. Our teams are working in very difficult conditions to support passengers as best they can.”
+
+Many ferry services across Scotland have also been cancelled or are facing disruption.
+
+![A fishing boat is stranded at Irvine Harbour in Ayrshire after coming loose from its moorings](https://static.independent.co.uk/2026/10/25/15/01M5SJNKY1PVCTMJFPE53Y3HYY.jpg?quality=75&width=640&auto=webp)
+
+Of CalMac’s 30 services, 24 have been cancelled, some of them until Monday.
+
+Stena Line also cancelled services from Belfast to Liverpool and Cairnryan, while Western Ferries’ services remained suspended and DFDS cancelled crossings between Dover and Calais.
+
+The Environment Agency had issued six warnings that flooding is expected for spots in northern parts of England, as well as 50 other alerts where it is possible. The Scottish Environment Protection Agency said 17 flood warnings and 11 flooding alerts were active on Sunday afternoon.
+
+Storm Boelo follows Storm Austen, the first named storm of the season, which brought strong winds to southern parts of the UK on Friday.
+
+Gusts of 76mph were recorded at St Mary’s Airport in the Isles of Scilly, with 74mph at Aberporth in south Wales and 71mph at Culdrose in Cornwall.
+
+Met Office meteorologist Craig Snell said it was hard to compare storms because they affect different areas and “if a branch falls on your car in one, then you’re probably going to feel like that one was the worst storm ever”.
+
+Storm Amy brought a gust of about 92mph to similar parts of the UK last year. Storms often happen in quick succession, he said, pointing to storms Bert, Conall and Darragh appearing in about one week in 2024.
+
+![A person walks their dog along the sea wall as waves created by the high winds of Storm Boelo hit the sea wall at New Brighton promenade in Merseyside](https://static.independent.co.uk/2026/10/25/11/2301903475...jpg?quality=75&width=640&auto=webp)
+
+“If the atmosphere is ripe for storm, it tends to mean it’s ripe for a couple of storms, so it is a fairly common thing.”
+
+Forecasters are monitoring another low pressure system moving in on Monday and Tuesday.
+
+It does not appear as potent as storms Austen and Boelo and there are no current plans to name it, but it will bring further wet and windy weather.
+
+The country can expect a return to more dry and settled conditions after that, Mr Snell said.
