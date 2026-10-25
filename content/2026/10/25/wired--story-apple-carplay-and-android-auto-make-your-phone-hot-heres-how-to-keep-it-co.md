@@ -1,0 +1,60 @@
+---
+title: Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool
+source_url: https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-25T11:20:20Z'
+published: '2026-10-25T00:00:00Z'
+description: Powering a car dashboard is more demanding on your handset than you might
+  think. These tips will save battery life and help your phone chill out.
+image: https://media.wired.com/photos/6ada0a2fe1636641cd0c0f13/191:100/w_1280,c_limit/Car%20Wired.jpg
+categories:
+- Technology & Software
+- Science
+- Automotive
+people: []
+locations: []
+organisations:
+- Android Auto
+- Apple Maps
+- CarPlay
+- Google Maps
+---
+
+Android Auto and CarPlay have transformed the way people drive.
+
+Rather than putting up with whatever infotainment systems car manufacturers have put together, we're now able to interact with our phones from our car dashboards—with our contacts, our music, our podcasts, and our mapping apps all available. And the list of supported vehicles just keeps growing.
+
+Both the Google and Apple solutions for this are really simple to use too. Most of the time they'll connect up automatically once you've done the initial setup. What you might not realize, though, are the demands that Android Auto and CarPlay put on your phone. Your handset is essentially doing all the regular phone stuff and then powering a large tablet-like display at the same time. That typically includes constantly updating a map in real time.
+
+With that in mind, your Android phone or iPhone can quickly start to lose battery life and heat up when it's connected to your vehicle, which you've perhaps already noticed. To keep your handset cool and your battery in good shape, here's what you need to do.
+
+## Go Wired if You Can (but Watch the Charging)
+
+Wireless Android Auto and CarPlay are convenient, just like wireless charging is convenient, but it puts more stress on your phone. If you've got the option of a wired connection, that's preferable—but that introduces a new potential heat problem, which is that your phone will always be charging up.
+
+To counter that, you can set charge limits (**Battery** and charging from Android Settings,**Battery > Charging** from iOS Settings), or simply make sure your phone is kept in a cool, dark spot of the car.
+
+This wired option has the added bonus of letting you switch to airplane mode on your phone, which will go a long way to limiting heat. Again there's a trade-off though: No one will be able to reach you, and you'll need to have your maps, music, podcasts, and whatever else you need downloaded to your device in advance.
+
+If you do stick with wireless Android Auto or CarPlay, try to avoid charging your phone at the same time, especially on the wireless pad built into the car’s dash (which generates more heat). You don't want to end up with a dead phone half way through the journey, so you may have to compromise at certain times.
+
+## Think About Where Your Phone Is Placed
+
+As mentioned above, where your phone is in the car makes a real difference to how hot it's going to be. If you have your phone's interface up on your car dashboard, then you don't necessarily need to have it fixed to the dashboard, too, possibly under direct sunlight. The glove compartment will do just fine.
+
+If you have a mount for your phone, think about attaching it in front of one of your car's air vents. Blasts of air conditioned air will significantly reduce how hot your handset gets, working like a DIY cooling system.
+
+You might also want to think about taking the case off of your phone for the length of the trip, if your phone is fitted with one. Your handset is less likely to be dropped or knocked while you're driving anyway, and a case can trap the heat in.
+
+The rules aren't too different to keeping your phone cool generally, though with the added wrinkle of needing to keep it connected to your car somehow. Make sure the cabin in general is at a comfortable temperature, though you're probably already doing that for your own sake. The bigger thing to remember is to avoid leaving your phone behind in a vehicle that's going to heat up in the sun if you're stopping off somewhere.
+
+## Limit the Work Your Phone Has to Do
+
+If your phone is hooked up to Android Auto or CarPlay, then it's probably got some work to do—whether it's getting you to a destination or streaming music. However, you can still reduce heat by keeping phone tasks down to a minimum. If your calls and (voice-activated) messages can wait, leave them until the end of the journey.
+
+We mentioned offline syncing above, but it doesn't have to go along with airplane mode. If you sync your tunes, podcasts, and maps to your phone ahead of time, your handset has less work to do while you’re driving since it doesn’t need to pull data from the cloud while also constantly searching for a wireless signal as you travel. Less stress on the modem means less heat overall.
+
+Both Apple Maps and Google Maps let you download maps ahead of a trip. In Apple Maps, tap your profile picture, then **Offline Maps**, then** Add Offline Map**and find your location. With Google Maps, tap your profile picture, then choose** Offline maps > Select your own map** to choose the coverage.
+
+There may be times when your phone has to be charging, wirelessly connected, making calls, in direct sunlight, and streaming music over a cellular connection, but try to keep these times to a minimum. Check regularly on how hot your phone is getting while connected to Android Auto or CarPlay, so you can take action if needed.
