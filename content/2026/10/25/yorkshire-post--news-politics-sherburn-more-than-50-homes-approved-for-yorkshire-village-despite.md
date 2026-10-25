@@ -1,0 +1,99 @@
+---
+title: More than 50 homes approved for Yorkshire village despite concerns over GP
+  surgery
+source_url: https://www.yorkshirepost.co.uk/news/politics/sherburn-more-than-50-homes-approved-for-yorkshire-village-despite-concerns-over-gp-surgery-9307700
+source_site: Yorkshire Post
+source_slug: yorkshire-post
+scraped_at: '2026-10-25T16:09:28Z'
+published: '2026-10-25T00:00:00Z'
+description: Plans for 52 new homes in a North Yorkshire village have been approved
+  despite warnings that the local GP surgery cannot cope with additional patients
+  and concerns about pressure on infrastructure.
+image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/10/24/12/52/land-close-to-the-Pastures-in-sherburn.png?trim=0,28,0,28&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+people:
+- Caroline Goodrick
+- Coun Goodrick
+- Daley Wharton
+- Richard Mowat
+- William Edward Cundall
+locations:
+- A64
+- Malton
+- North Yorkshire
+- Rillington Practice
+- Ryedale
+- Sherburn
+- The Pastures
+organisations:
+- Cromsdale Estates
+- Government
+- Humber and North Yorkshire Integrated Care Board
+- ICB
+- North Yorkshire Council
+- Sherburn Parish Council
+- Thirsk
+---
+
+# Sherburn: More than 50 homes approved for Yorkshire village despite concerns over GP surgery
+
+## Plans for 52 new homes in a North Yorkshire village have been approved despite warnings that the local GP surgery cannot cope with additional patients and concerns about pressure on infrastructure.
+
+North Yorkshire Council’s Thirsk and Malton area planning committee granted outline permission for the development in Sherburn, near Malton, following a debate in which its chair admitted councillors were in an “unenviable position” because of Government housing targets.
+
+The scheme, proposed by Cromsdale Estates and William Edward Cundall, involves building up to 52 homes on approximately 3.2 hectares of land adjacent to The Pastures, south of the A64.
+
+Of the homes, 35 per cent would be affordable, equivalent to 18 properties if the maximum number is built.
+
+However, the development has faced significant local opposition, with residents raising concerns about the capacity of healthcare services, schools, shops and public transport.
+
+The Humber and North Yorkshire Integrated Care Board (ICB) warned that Sherburn and Rillington Practice, less than half a mile from the site, does not have sufficient capacity to accommodate the additional population.
+
+It estimated the development would generate around 125 residents and requested a developer contribution of £61,368 towards improving healthcare facilities.
+
+![Land close to The Pastures in Sherburn](https://www.yorkshirepost.co.uk/jpim-static/image/2026/10/24/12/52/land-close-to-the-Pastures-in-sherburn.png?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+The ICB said it would not object provided the contribution was secured.
+
+Sherburn Parish Council also raised concerns about pressure on the village school, medical services and shops, as well as the lack of facilities for children and teenagers.
+
+Of 53 representations received by the council, 40 objected to the scheme and 13 supported it. A petition opposing the development was also submitted.
+
+Speaking at the committee meeting, objector Daley Wharton argued that the council’s housing land supply shortage should not automatically result in developments being approved.
+
+He said: “The fact that the council cannot demonstrate a five-year housing land supply, triggering the so-called ‘tilted balance’, should not mean that the protection of villages and the countryside becomes meaningless, or that every housing proposal is ultimately approved.
+
+“Objectors believe the harm caused to both existing and future residents of Sherburn by this development would far outweigh the benefits of approving it.”
+
+However, land agent Richard Mowat, speaking in support of the application, said the development would provide much-needed family homes, including affordable housing.
+
+He highlighted the shortage of available housing land in the former Ryedale district, where the council can demonstrate just 1.39 years of supply.
+
+He said: “Sherburn is identified in the local plan as a local service centre and a focus for growth, with a range of local amenities, services and good transport connections to larger settlements.”
+
+Planning officers acknowledged that the site lies outside the village’s existing development boundary but concluded that the benefits of providing additional housing outweighed the identified harm.
+
+The council’s education authority concluded that no additional school funding was required, while highways officers raised no objection subject to conditions.
+
+Committee chair Caroline Goodrick said the council’s failure to demonstrate a five-year housing land supply made it increasingly difficult to refuse housing applications.
+
+She said: “We are in an unenviable position in North Yorkshire because we don’t have a five-year housing land supply.
+
+“I know it feels very unfair, but that is where we are. Many villages are facing developments much larger than this, and we don’t have a choice because we have a housing target imposed on us by the Government, but simply don’t have the land supply to meet it.
+
+“It is a significant imposition. We’re expected to deliver more than 4,150 homes a year, and we’re not yet getting anywhere near that figure.
+
+“That makes it really difficult for the committee to refuse applications like this. It’s a very tricky position.”
+
+Coun Goodrick praised planning officers for addressing the concerns raised during the application process.
+
+She added: “I’m really reluctant to do this, but I am going to propose that we grant permission.”
+
+The approval is for outline planning permission, with the access arrangements agreed but further details of the development still to be determined.
+
+Permission is subject to planning conditions and a legal agreement securing developer contributions.
