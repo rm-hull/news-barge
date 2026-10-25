@@ -67,6 +67,18 @@ sites:
     feed: https://www.yourharrogate.co.uk/local-news/harrogate/feed.xml
     limit: 50
 
+  - name: Harrogate Live
+    slug: harrogate-live
+    categories: [Local, Harrogate]
+    feed: https://harrogatelive.co.uk/feed.xml
+    limit: 50
+    # Harrogate Live includes a "Sponsored feature for [Company]"
+    # disclosure line as the last paragraph of paid-content articles.
+    # trafilura captures it as part of the article body — strip it
+    # before extraction so it never leaks into the Markdown output.
+    exclusions:
+      - //p[contains(., 'Sponsored feature for')]
+
   - name: Harrogate Town Council
     slug: harrogate-town-council
     feed: https://harrogatetowncouncil.gov.uk/feed/
