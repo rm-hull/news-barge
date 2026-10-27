@@ -1,0 +1,128 @@
+---
+title: Israel heads to polls for pivotal election defined by security and democracy
+source_url: https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-27T08:55:16Z'
+published: '2026-10-27T00:00:00Z'
+description: Many fear neither of the leading political blocs will win enough seats
+  for a majority - meaning weeks or months of political wrangling may lie ahead.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Avigdor Lieberman
+- Benjamin Netanyahu
+- Bezalel Smotrich
+- Donald Trump
+- Eyal Zamir
+- Gadi Eisenkot
+- Itamar Ben Gvir
+- Itamar Ben-Gvir
+- Naftali Bennett
+- Yair Golan
+- Yashar
+locations:
+- Eisenkot
+- Gaza
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Ramle
+- Tel Aviv
+- US
+- West Bank
+organisations:
+- CNN
+- Channel 12
+- Hamas
+- IDF
+- Jewish Power
+- Likud
+- Supreme Court
+- UN
+- Yashar Party
+---
+
+![Two men wearing suits look ahead. It is Gadi Eisenkot and Benjamin Netanyahu in a composite image.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png)
+
+Polling published on Friday suggests Gadi Eisenkot (left) is in a tight race with incumbent Benjamin Netanyahu (right)
+
+**Israelis are heading to the polls for what many view as one of the most pivotal elections in the country's history.**
+
+Polling published on Friday suggests incumbent Benjamin Netanyahu is in a near neck-and-neck race with former military chief Gadi Eisenkot to become prime minister.
+
+But neither of their political blocs are projected to win the 61 seats needed to form a majority government - meaning weeks or months of political wrangling may lie ahead.
+
+The campaign has been shaped by the issue of security - with the opposition bloc hammering Netanyahu for the unprecedented security failure that led to the 7 October Hamas-led attacks on Israel, in which nearly 1,200 people were killed and 251 taken back to Gaza as hostages.
+
+They have pushed for an independent commission of inquiry into the attacks - something Netanyahu has long resisted, insisting it would be biased against him.
+
+Despite the opposition's attack lines, Netanyahu has once again framed himself as "Mr Security" - pointing to what he says are strategic victories in Israel's wars across the Middle East and his close relationship with US President Donald Trump.
+
+Israel's proportional representation system means governments have always been coalitions - and the race to power can, and has, produced unexpected alliances. But this election looks especially tight - and lines in the sand have already been drawn.
+
+Eisenkot, who leads the newly formed Yashar Party, is the main figure in the so-called "change bloc", a collection of parties who have ideological differences but share the goal of ousting Netanyahu.
+
+Other leaders in the bloc include former prime minister Naftali Bennett and Avigdor Lieberman - both right-wingers who take hardline positions on security - and Yair Golan, a left-leaning former general.
+
+For Netanyahu, a titan of Israeli politics who first served as prime minister in 1996, a return to power will hinge on another alliance with the far-right and ultra-Orthodox parties that make up his current governing coalition - the most right-wing in Israel's history.
+
+There are two Arab party blocs in the running too, as about one-fifth of Israel's population is Arab - many of whom describe themselves as Palestinian citizens of Israel. In theory, they could prove kingmakers. But all but one of the leading Jewish parties have ruled out working with them.
+
+![Three men in suits and two women stand speaking to the media in dappled evening sunlight. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e461/live/7ba6e3c0-d15b-11f1-9f24-99bf1cc18b1d.jpg)
+
+Far-right ministers and settlers Itamar Ben Gvir (left) and Bezalel Smotrich (centre) and have been key voices in Netanyahu's government, and lead separate far-right parties
+
+The opposition bloc also point to what they see as threats to democracy under Netanyahu, who faces an ongoing trial on corruption charges - which he denies - and is still pursuing contentious plans for reforms to the judicial system, which led to mass protests before the 7 October attacks.
+
+On Sunday, Israel's Channel 12 reported that Netanyahu had pushed for last-minute military action that could trigger a confrontation with Iran prior to the elections - but was opposed by his own military chief Eyal Zamir. The following day, CNN reported that he had also tried to persuade Trump to carry out new strikes on Iran, but that Trump had refused to give the green light. Netanyahu denied both reports.
+
+He also made headlines in the final days of his campaign for posting an AI-generated image of a nuclear bomb hitting Tel Aviv, warning that he is the only leader who can protect Israel "if the Iranians acquire nuclear weapons". Eisenkot called him "hysterical".
+
+Another dominating issue has been conscription, with Netanyahu's government failing to enforce a Supreme Court ruling that ultra-Orthodox Jewish men in full-time religious study should be conscripted to the military - a highly divisive move as thousands of others have been conscripted to fight in recent wars.
+
+![Hundreds or thousands of ultra-Orthodox jews stand beside barbed wire fencing. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8e2c/live/65984ad0-d159-11f1-9f24-99bf1cc18b1d.jpg)
+
+Netanyahu is currently in coalition with two ultra-Orthodox parties, who have supported protests against conscription
+
+Eisenkot takes a broadly similar position to Netanyahu on Gaza, and has pledged to end Hamas rule in the territory within 18 months, through a US-led peace plan or, if necessary, military means.
+
+Israel has continued to strike Gaza almost every day since a ceasefire was agreed last year, saying it is targeting Hamas operatives. The Israeli military has killed more than 74,000 people since the start of the war, according to Gaza's Hamas-run health ministry whose figures are considered reliable by the UN.
+
+Israel has faced growing international condemnation over its conduct in the war, and relations with its allies around the world have deteriorated.
+
+Eisenkot largely supports Israeli settlements in the occupied West Bank - which are illegal under international law - but wants to crack down on extremist Jewish settlers whose attacks are at an all-time high, according to UN figures. He has also spoken about creating the conditions for "autonomy or a state-minus" for Palestinians - under ultimate Israeli security control.
+
+The two-state solution - the creation of an independent Palestinian state in peaceful coexistence alongside Israel - has all but disappeared from mainstream Israeli politics.
+
+Though some have speculated the Arab parties may end up informally propping up an Eisenkot-led minority government - Lieberman, a key prospective member, has ruled out being part of such an arrangement.
+
+Red lines like these mean the electoral arithmetic is complex - but it remains to be seen what kind of concessions, deals and U-turns can be reached once the results come in.
+
+Watch: Why it could take time for a new Israeli government to form
+
+An unprecedented 70,000 people have reportedly flown home from abroad to vote, while half a million are set to cast ballots for the first time.
+
+At 22:00 (20:00 GMT) on Tuesday, Israeli broadcasters will publish exit polls. These will give some indication of the direction of voting, but can vary significantly.
+
+Up and down the country, Israelis will gather to watch the results trickle in, with Netanyahu's Likud meeting in Jerusalem and Eisenkot's Yashar - formed only last year - assembling in Tel Aviv.
+
+Hundreds of thousands of Israeli soldiers and reservists will also cast ballots, but many of those votes will not begin being counted until Wednesday - meaning there may be a late boon for the right-wing parties who are thought to have strong support from that demographic.
+
+Though often framed as a run-off between Eisenkot and Netanyahu, it is possible another leader could take power, if they were to withhold their party's support for a coalition unless given the top job.
+
+An outcome dreaded by many is political deadlock - where no bloc is able to reach a majority, and a minority government cannot be formed. In that scenario, new elections would be called, with Netanyahu to remain as interim prime minister.
+
+Between 2019 and 2022, Israel held five separate elections as parties struggled time and again to co-operate.
+
+## More on Israel's election
+
+* + Published16 hours ago![A split image showing Donald Trump and Benjamin Netanyahu](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg)
+* ![Young Israeli Arabs handing out election leaflets](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg)
+* ![Supporters of Israel's far-right National Security Minister Itamar Ben-Gvir wave blue flags of his Jewish Power party as he tours Ramle market, Israel (14 October 2026)](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg)
+* ![Two men wearing suits look ahead. It is Gadi Eisenkot and Benjamin Netanyahu in a composite image. ](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1056/live/b284a350-d089-11f1-92f6-357f3b0f345f.png)
+* ![A split image showing an IDF soldier on the left and a Haredi Jewish man on the right](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg)

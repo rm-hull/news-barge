@@ -1,0 +1,133 @@
+---
+title: 'US midterm elections: Trump''s biggest economic problem looks familiar'
+source_url: https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-27T09:01:01Z'
+published: '2026-10-27T00:00:00Z'
+description: Donald Trump heads into the US midterm elections with an issue similar
+  to his political foe Joe Biden.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png
+categories:
+- UK
+- News & Politics
+people:
+- Celinda Lake
+- Donald Trump
+- Joe Biden
+- Larry Kudlow
+- Matthew Middleton
+- Peter Morici
+- Roger Marshall
+locations:
+- Detroit
+- Germany
+- Iran
+- Kansas
+- Michigan
+- US
+- White House
+organisations:
+- Congress
+- Federal Reserve Bank of New York
+- Renaissance High School
+- Supreme Court
+- US Senate
+- University of Maryland
+---
+
+![Image shows US President Donald Trump on the left hand side, wearing a blue suit jacket, white shirt and red tie. On the right is Joe Biden wearing a blue suit jacket, white shirt and blue tie.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png)
+
+US President Donald Trump and his predecessor Joe Biden
+
+**The White House is confronting a familiar dilemma. The economic numbers aren't necessarily bad - but the public mood is.**
+
+It's a disconnect that haunted Joe Biden in 2024, when solid headline data failed to convince many voters that the economy was working for them.
+
+Now, Donald Trump faces a version of the same challenge.
+
+During the 2024 campaign, Trump promised voters swift relief from rising prices.
+
+"When I win, I will immediately bring prices down," he said.
+
+Delivering on that promise has proved harder than expected.
+
+Economic growth is holding up, unemployment remains low and the stock market is near record highs.
+
+Yet the final inflation report ahead of the midterm elections confirms what voters already know: prices remain high.
+
+The causes are different. Biden was grappling with the aftermath of the Covid pandemic. Trump faces higher energy prices linked to the US-Israel conflict with Iran and the fallout from some of his own trade and immigration policies.
+
+The political reality, however, is much the same. Voters are not judging the economy by GDP figures or record highs on the stock market. They are judging it by what they pay at the supermarket, petrol prices and whether they can keep up with the bills.
+
+## Numbers only tell part of the story
+
+US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.
+
+Trump argues that he inherited an economic mess from Biden, and points to strong growth, investment and stock market performance as evidence that his policies are working.
+
+Following the most recent inflation report, White House spokesman Matthew Middleton said the administration's "aggressive, pro-growth economic agenda" had blunted "Biden's inflation crisis".
+
+Larry Kudlow, a Trump ally and economic commentator, has described the current expansion as "the greatest story never told", external, arguing that "nobody is getting fired".
+
+But voters appear to be reading a different story - one in which Trump won the presidency promising to tackle the cost of living, only for prices to keep rising.
+
+Part of the problem is that wage increases have not kept pace with prices. Average hourly earnings have risen 3% over the last year, while consumer prices have increased 3.7%.
+
+That helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy.
+
+## Same language, different meanings
+
+For Democrats, the dynamic feels familiar.
+
+Celinda Lake, a veteran Democratic pollster, says the problem begins with the way economists and voters use the same language to mean different things.
+
+"When economists say inflation comes down, they mean the rate of increase has come down," she says.
+
+"When voters say inflation has come down, they mean the price has returned to what it was. Well, of course, it never returns to what it was."
+
+![US President Joe Biden at a campaign event at Renaissance High School on July 12, 2024 in Detroit, Michigan. He wears a blue suit jacket and a white shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9a1b/live/c665bb90-cc72-11f1-baeb-8d65d4bcd7ab.jpg)
+
+Joe Biden campaigned in 2024 on the economy but voters saw things differently
+
+The Biden administration spent much of 2024 highlighting low unemployment, solid growth and falling inflation. However, many voters remained focused on the higher prices they faced every day.
+
+Lake, who advised Biden's 2020 campaign but was not involved in the 2024 race, says voters judge the economy through personal experience, not economic indicators.
+
+"You can't argue with people about their own lived reality," she says.
+
+That may help explain why Trump's challenge looks so similar to Biden's.
+
+## The Trump effect
+
+Biden's critics blamed him for inflation. But he could point to forces largely outside his control, including the pandemic and its supply chain aftershocks.
+
+Trump has less room to do that.
+
+Some economists argue that today's higher prices are at least partly the result of his own policies, including tariffs, as well as the economic fallout from the US-Israel war with Iran.
+
+"The inflation is clearly traceable to Donald Trump," says Peter Morici, a University of Maryland economist who aligns with Republicans.
+
+"It's his tariffs and the war. People know that. They see it."
+
+Trump's "Liberation Day" tariffs, announced in April 2025, have added to costs for consumers.
+
+A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.
+
+![US President Donald Trump at a rally in support of Republican US Senate reelection candidate Roger Marshall in Kansas on 19 October. He wears a blue suit, white shirt and red and white patterned tie](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6672/live/d91144a0-cc7a-11f1-bed8-c51b95c602ec.jpg)
+
+Donald Trump pledged to lower prices for US households
+
+The impact might have been larger if Trump hadn't later paused some tariffs, struck new trade deals and been blocked by the Supreme Court from using emergency powers to impose many others.
+
+Then came another shock. Conflict with Iran pushed oil prices higher, lifting the cost of petrol and putting fresh pressure on household budgets.
+
+The White House points to tax cuts, job growth and lower prescription drug costs as evidence that the administration is delivering for American families. And it is increasingly embracing policies aimed at easing pressures.
+
+Trump has called for a cap on credit card interest rates and floated the idea of a $5,000 payment to American adults if Republicans retain control of Congress.
+
+The measures reflect a political reality familiar to both parties: when voters are anxious about prices, arguments about solid growth and low unemployment are rarely enough.
+
+Biden never found a way to bridge the gap between economic performance and economic sentiment. The question heading into the midterms is whether Trump can.
+
+If recent political history is any guide, perceptions of the economy may matter more than the economic data itself.
