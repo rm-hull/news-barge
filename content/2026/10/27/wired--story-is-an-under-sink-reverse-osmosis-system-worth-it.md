@@ -1,0 +1,87 @@
+---
+title: I Want Better Tap Water. Is Reverse Osmosis the Answer?
+source_url: https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-27T15:30:13Z'
+published: '2026-10-27T00:00:00Z'
+description: The Waterdrop X12 delivers on taste and convenience, though not everyone
+  needs this much filtration.
+image: https://media.wired.com/photos/6adfb30fcc0a6405c8bee722/191:100/w_1280,c_limit/Waterdrop%20X12%20Under-Sink%20Tankless%20Reverse%20Osmosis%20System%20102026%20top%20art%20SOURCE%20Amazon.jpg
+categories:
+- Technology & Software
+- Science
+- Food & Cooking
+people:
+- John Voll
+- Kat Merck
+locations:
+- Texas
+- US
+organisations:
+- PFAS
+- Tap & Air
+- WIRED
+- X12
+---
+
+That funny taste in your tap water may be a harmless nuisance—or it may be cause for serious concern. Either way, you can do something about it by installing a reverse osmosis (RO) water filtration system in your home.
+
+Stand-alone RO systems and pitchers sit on your countertop and generally require manual refilling from the tap. You’ll save space and avoid the hassle of constantly refilling the unit by installing an under-sink or under-counter model that connects directly to your plumbing lines. Either way, RO systems aren’t cheap. But for some homeowners, they may be an invaluable investment.
+
+## Featured in this Article
+
+## What Is Reverse Osmosis?
+
+Osmosis is the movement of molecules—usually water—through a semipermeable membrane that blocks larger particles like salts and sugars from passing through. After osmosis, the concentration of particles on both sides of the membrane ends up in equilibrium. It’s how plants get water from the soil, and it’s how your kidneys filter junk out of your blood.
+
+While osmosis is a spontaneous phenomenon that happens naturally, reverse osmosis requires pressure to force water through a membrane in the other direction, effectively removing all of those compounds from the water to render it pure. It’s how salt is removed from seawater to make it drinkable, and it’s one way tap water can be purified in your home.
+
+RO differs considerably from traditional filtration systems, which rely on physical barriers, typically activated carbon, to manually capture particles that pass through. Eventually, these filters become saturated with sediments and other matter and have to be replaced. While carbon filters are fairly blunt, able to capture larger particles of at least 0.1 microns in size, RO systems have a much finer-grained membrane that captures contaminants on a microscopic level (typically down to 0.0001 microns).
+
+Carbon filters can make your water taste and smell better, but with RO you are getting much, much cleaner water than what that inexpensive Brita filter can muster. (That said, RO can’t capture everything, and carbon filters are still useful for capturing certain volatile organic compounds through adsorption. Most RO systems also have an additional carbon filtration system included.)
+
+Note that two types of RO systems are available: Tanked RO systems filter water slowly (albeit passively, without electricity) and sequester it in a (rather large) tank under your sink. Today, tankless RO systems are more popular, processing water on demand but requiring electricity to keep things flowing expeditiously. Tankless systems are considerably more expensive due to their inherent complexity.
+
+## What Are the Real Risks of Contaminants in Water Today?
+
+“US tap water is safe for most people most of the time,” says John Voll, an industrial water treatment veteran and the founder of Tap & Air, a website that monitors water and air quality for hundreds of municipalities. “The problems are local, not universal.”
+
+The first step to understanding your personal risk is to gauge whether your own water is up to snuff by simply looking up its most recent data report online. The Safe Drinking Water Act requires community water systems to publish an annual report on the quality of water they’re delivering, due by July 1 each year.
+
+These are heady documents, so to keep things simple, Voll says to keep your eye on three key pollutant metrics: lead, nitrate or arsenic, and PFAS (so-called forever chemicals popular in nonstick cookware and other products). While the first two are serious issues, they’re fairly rare today. PFAS, however, are a particularly significant problem across the country. Voll says that 98 of the 200 largest US cities have at least one PFAS compound detected in their water supply. Reverse osmosis systems can handle them—as well as lead and other compounds. Carbon filters usually can’t.
+
+“Most people don't need RO,” Voll says, “but some households clearly do, and the way to tell is to read your own water report first.”
+
+## What Are the Drawbacks of Using an RO System?
+
+RO systems come with a host of downsides, but most are related in some fashion to cost.
+
+* **RO wastes water:** The particulars of RO technology have historically meant it requires a large amount of unprocessed tap water to create a small amount of purified water, sometimes up to 4 gallons or more of tap to 1 gallon of clean water (called the pure-to-drain ratio). In recent years that number has dramatically shifted, with 4 gallons of tap water producing up to 3 gallons of clean water, or a 3:1 pure-to-drain ratio.
+* **Filters are costly:** RO systems can require up to six different filtration cartridges that must be replaced every year or two, depending on use. Much like printer ink, these costs can be easily overlooked when making your initial purchase. Plan to spend $50 to $200 annually on replacement cartridges, but check prices before you buy.
+* **RO can strip “good” minerals from your water:** Calcium, magnesium, and potassium are all unable to pass through the RO membrane. RO systems also remove fluoride from your water, which many users may not desire and which dentists abhor. Some RO systems can remineralize water and/or raise the pH level of the processed water thanks to additional cartridges—but these, of course, mean further expense on replaceables.
+* **Plan for professional installation (and additional financial outlays):** I try not to DIY too much when there’s even a remote potential for a water leak, so I get a plumber involved for installations like these. And since most RO systems require their own faucet, you’ll need to prepare to have a new hole drilled into your countertop for your tap if you don’t already have one available.
+
+## Do You Need an Under-Sink RO System?
+
+Based on my analysis of my city’s water report, no I don’t really *need* an RO system, as there’s nothing hazardous to worry about. However, as the linked report notes, our water supplier uses chloramine as a disinfectant, and drinking that chloramine-treated water straight from the tap has a slight but noticeable, off-putting taste. This is exacerbated by the extreme hardness of the water; this part of Texas is basically built on top of nothing but limestone, and the resulting amount of calcium carbonate in the water can add a slightly bitter flavor, as well.
+
+For me, RO is all about the way the water tastes. Any lingering contaminants that are removed along the way are just a bonus.
+
+I tested the Waterdrop X12 for this story, hiring a plumber to remove a well-aged unit under the sink and replace it with this more capable one. The job was done in less than an hour.
+
+Under-sink RO filters are separate from your existing plumbing, and most use three color-coded lengths of tubing to tie into it. One connects to your incoming water supply through an adapter valve, one clips into your wastewater drainpipe via an included fitting, and one connects to the faucet. I am confident I could have made these connections on my own—especially since I was replacing an existing system—but I’ve seen how even a small water leak can lead to devastating problems and was happy for the peace of mind that professional oversight supplied.
+
+Once installed and powered up, the X12 launches a 35-minute priming process designed to flush the filters before first use. It seems like an awfully long time for the sink to run, and it is. If you have some way to capture and use all this extra water, plan ahead to collect it. After the session completed (it stops automatically), I was ready to start sipping from the tap.
+
+The X12 is exceedingly simple to use. Tap the LED-equipped button on top of the faucet to start or stop the flow of water, or twist the same button to dial in the number of ounces you want to dispense (up to 999) before depressing it. This way, you can drop your 64-ounce Stanley Quencher in the sink and walk away without having to wait around or worry about an overflow, with a digital timer first offering a measurement of your water’s current TDS (total dissolved solids), then counting down the ounces as they’re dispensed. The good news is that you won’t have to wait long: The X12 blasts water out of its spigot faster than my kitchen sink does—a far cry from the sad dribble of H2O my old RO system provided.
+
+The unit can also be switched into one of two alternate operating modes, including an energy-saving mode (which quiets the device) and “flow mode,” which is designed for high-use households. Both require pressing certain button combinations on the filtration unit. I have used the device in all three modes, and (contrary to other reviews I’ve seen) I’ve never found it to be noisy at all, even though it’s located just 20 feet from my bed.
+
+As for the water, it tastes great. The remineralization feature and pH adjustment (to about 7.5, which I confirmed with a pH test strip) give the water a pleasant tang while avoiding any harshness or chemical flavors. Unfortunately it doesn’t come out particularly cold, which means having to add non-RO ice to the glass to chill it down. First-world problem, I know.
+
+I was especially pleased to discover that the X12 has one of the best water efficiency rates in the business, with a 3:1 pure-to-drain ratio (3 gallons of pure water production to 1 gallon lost). Replacement filters (three are needed in total) are sold à la carte for $30 to $160 each.
+
+For an even more powerful version—ideal for larger households—consider the Waterdrop X16, which uses the same cartridges and offers the same features as the X12. WIRED editor Kat Merck, whose municipal water supply does contain PFAS, has had one installed for a year and a half without any maintenance or reliability issues.
+
+*Power up with unlimited access to* WIRED*.**Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.*

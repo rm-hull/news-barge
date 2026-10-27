@@ -1,0 +1,105 @@
+---
+title: Sovereign AI is about more than where data resides
+source_url: https://www.techradar.com/pro/sovereign-ai-is-about-more-than-where-data-resides
+source_site: TechRadar UK
+source_slug: techradar-uk
+scraped_at: '2026-10-27T15:31:23Z'
+published: '2026-10-27T00:00:00Z'
+description: How to build sovereign AI infrastructure beyond data residency
+image: https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-2560-80.jpg
+categories:
+- Technology & Software
+people: []
+locations:
+- AI
+- Europe
+organisations:
+- CIO
+- ERP
+- Future plc
+- Sovereign AI
+- Supermicro
+- TechRadar Pro
+- TechRadarPro
+---
+
+![A portion of the globe with countries displayed in digital pixels](https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-1920-80.jpg)
+![](https://cdn.mos.cms.futurecdn.net/iGCEJhusMZf623FQovppd9-200-100.png)
+
+As AI use expands globally, questions are emerging about where training data originates, who owns it, and how organizations keep sensitive information secure. This is the domain of sovereign AI: the protection of data, its uses, and its results, which is becoming increasingly important as AI moves from proof-of-concept to production deployments spanning entire countries and continents.
+
+Chief Business Officer at Supermicro.
+
+Beyond where data is stored, sovereign AI is really a question of who controls an organization's or region's AI capabilities. In practice, this requires control over the entire infrastructure stack, both software and hardware, along with policies governing who can view data, manage infrastructure, and install software.
+
+Because data protection laws and practices vary widely across geographies – even within Europe – the governance of data flows and processing pipelines must be understood and followed.
+
+While sovereign AI is often discussed on a country-by-country basis, the same rules and procedures apply to enterprises. For them, questions of data location, ownership, and transmission are even more complex.
+
+## Location is only part of the story
+
+Much attention has focused on where a data center is physically located, but a closer look at what a data center actually comprises is needed when assessing sovereign infrastructure.
+
+Physical location is usually easy to determine, but many providers run multi-cloud infrastructures in which data centers are linked by high-speed networks, and a cloud provider may shift workloads between its own facilities when capacity is tight. Organizations need assurance that their applications and data stay where originally intended.
+
+If the proprietary data behind AI workloads sits with a cloud provider, the end-user may not know the exact location of the storage devices. Additionally, putting location aside, control is the critical concern: if one jurisdiction owns data stored in another, who decides what it can be used for and whether it can cross borders? The question grows more complex when a company has offices in multiple countries or regions.
+
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+
+Traditional workloads like ERP, inventory and HR systems typically keep data in a corporate database accessed remotely. AI is different: users are widely dispersed, while inference increasingly takes place on edge devices such as smartphones, connected vehicles and industrial systems. These devices often need access to the underlying data and trained model outputs, rather than receiving a stream of rendered content.
+
+As models and proprietary data move between central infrastructure, regional data centers and edge environments, they may cross multiple networks and storage systems. Who owns that data in transit, especially when it crosses borders, is a question every organization scaling AI inference needs to answer.
+
+## Evaluating sovereignty layer-by-layer
+
+AI today demands substantial compute, high-performance data input/output, and high-speed networking – components that must work together under a common set of laws, processes and procedures. An organization's AI infrastructure might combine powerful servers in one location, edge devices in another, and cross-border communication between them.
+
+## And then there's the data itself: where does it live, is it centralized, and in what format?
+
+Ownership matters just as much as location. Data ownership might sit with an enterprise business unit, a compliance function, or the C-suite. Looking beyond the data, considerations include: who decides which data center runs a given training job, especially when a centralized scheduler manages many facilities for utilization and performance?
+
+Can that automation be overridden? Should certain data be restricted to certain training uses, and does making specific data available to certain providers create enterprise value?
+
+Because training data is drawn from sources around the world, enterprises need a clear governance framework for deciding which sources are trusted, who approves their use, and how regional regulatory or political requirements shape those decisions. That framework should establish accountability at both an organizational and individual level, with transparent records of where data originated, how it was used and whether the necessary permissions or licenses were secured.
+
+The same principles should extend across the infrastructure stack. Organizations need defined ownership of the training environment, model weights and deployment decisions, alongside controls that determine who can administer these systems and from which jurisdiction. AI users may not need visibility into every technical detail, but they should understand the provenance, governance and location of the systems handling sensitive data and intellectual property.
+
+Sovereign AI depends not only on where infrastructure is hosted, but on maintaining auditable control over the data, models, platforms, and people involved throughout the AI lifecycle.
+
+There is also the challenge of demonstrating that an AI system’s outputs are grounded in legitimate training data, while ensuring that the data remains protected and accessible only to authorized parties across the infrastructure stack. Verda, a European AI cloud provider, offers one example of how this can be addressed in practice. Its infrastructure is hosted in Nordic data centers and allows customers to configure hardware and software around their operational and regulatory requirements.
+
+The platform supports organizations across the private and public sectors, with controls designed to help address requirements including GDPR, the EU AI Act and sector-specific rules. These include confidential virtual machines, hardware-enforced trusted execution environments, and encryption for CPU and GPU memory, as well as data in transit and at rest.
+
+The broader lesson that we can take from Verda’s success is that sovereign AI depends on embedding governance, security, and regulatory control throughout the system lifecycle, rather than treating data location as the only measure of sovereignty.
+
+## Operational sovereignty means more than compliance
+
+AI is now critical infrastructure for enterprises worldwide, and compliance with local laws must be an architectural concern from the start, rather than being addressed after a data center goes live. From design through implementation and ongoing workloads, a sovereign data center must continually meet its operational sovereignty commitments.
+
+Once online, sovereignty may help data centers remain operational through commercial disruption like recessions, geopolitical shifts or conflicts, and technical changes – new chips, models and architectures.
+
+The concept of sovereignty is about resilience rather than eliminating every external dependency, with extreme events like war threatening to destroy infrastructure. It is about understanding where dependencies exist, deciding which ones are acceptable and avoiding unnecessary concentration of risk.
+
+Technical decisions in design and operation can help avoid vendor lock-in, allowing a data center to keep running even if a business relationship ends. Relying on a single supplier for critical technology carries risk, since shifting geopolitics can bring tariffs or restrictions that block business with suppliers from certain countries.
+
+Every data center operator depends on an ecosystem with a limited number of server, storage and power suppliers. Supply chains are global even when a facility sits in one geography, which optimizes cost but means not everything is controllable – so, understanding where risk concentrates matters. With many thousands of components from hundreds of suppliers, a smooth operation may still lean on a small set of vendors.
+
+Open standards and formal standardization reduce this risk by making interoperability less dependent on any single supplier, and by allowing workloads to move between technologies and environments. In turn, this builds confidence in sovereign data centers as resilient infrastructure.
+
+## Building trust through control, not assumptions
+
+Trust in sovereign AI depends on organizations knowing who can access their data, infrastructure and production environments, under what circumstances and with what oversight. Privileged access should be tightly controlled, clearly assigned and documented, with responsibility sitting at an appropriate level such as the CIO or Chief Compliance Officer.
+
+This is particularly important when AI workloads involve proprietary data, prompts, model outputs or fine-tuning datasets that could reveal commercially sensitive information about an organization's products, customers and internal processes.
+
+Policies and employee training remain important, but they should be reinforced through technical and operational controls. Organizations need clear assurances that their data will not be retained, reused or incorporated into provider model training without explicit permission.
+
+Access controls, encryption, logging, workload isolation and data-retention settings can help enforce these expectations, while documented processes should show who controls each part of the AI environment, where supply-chain risks exist and which regional laws govern the data.
+
+With this in mind, governance is becoming as important to AI infrastructure evaluation as performance, scalability and cost. Sovereign AI providers must be able to demonstrate, rather than simply claim, how they protect data and manage workloads across the full hardware and software stack.
+
+For organizations increasingly reliant on AI as critical infrastructure, transparent ownership, auditable controls and consistent processes will be central to building confidence and supporting broader adoption.
+
+*This article was produced as part of* * TechRadar Pro Perspectives**, our channel to feature the best and brightest minds in the technology industry today.*
+
+*The views expressed here are those of the author and are not necessarily those of TechRadarPro or Future plc. If you are interested in contributing find out more here:* * [https://www.techradar.com/pro/perspectives-how-to-submit*](https://www.techradar.com/pro/perspectives-how-to-submit*)
