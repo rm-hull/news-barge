@@ -1,0 +1,77 @@
+---
+title: Trump says government to ‘terminate’ Biden-era methane emissions rules
+source_url: https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-28T05:33:23Z'
+published: '2026-10-28T00:00:00Z'
+description: Critics warn of climate danger as president in Texas claims change will
+  save companies and consumers billions
+image: https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ada7daa7de359d76d7e8763429af9363
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Biden
+- Donald Trump
+- Harold Hamm
+- Julia Kane
+- Lee Fuller
+- Lee Zeldin
+- Robert Mackey
+- Rosalie Winn
+locations:
+- America
+- Corpus Christi
+- Iran
+- Lubbock
+- Texas
+- US
+organisations:
+- Continental Resources
+- EPA
+- Environmental Defense Fund
+- Environmental Protection Agency
+- Fieldnotes
+- Freedom of Information Act
+- Independent Petroleum Association of America
+- Methane
+- Trump Environmental Protection Agency
+---
+
+Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening.
+
+Trump said during a campaign rally in Texas that the change would save consumers and energy producers $45bn and unlock 210 million barrels of oil – equivalent to about 10 days of US petroleum consumption. “Tonight, I’m officially terminating Biden’s expensive and unnecessary methane regulations to save consumers and energy producers,” Trump said, lifting what he called “crippling regulations on methane that caused prices to skyrocket” for small oil and gas operators.
+
+The move aims to encourage more domestic drilling as Trump faces criticism over high fuel prices stemming from the US war in Iran.
+
+In a press release, the Environmental Protection Agency (EPA) administrator, Lee Zeldin, praised what he called Trump’s move “to end the war on oil and natural gas” by revising oil and natural gas regulations under the Clean Air Act.
+
+According to the EPA, the proposal is expected to save $45bn in costs to consumers and businesses, including small businesses operating marginal wells, and produce an estimated 210m additional barrels of oil and 1.41tn cubic ft of natural gas.
+
+Although some oil and gas executives spoke publicly in favor of the landmark methane rule, industry trade groups and corporations worked behind the scenes to gut the methane regulations, according to trade association materials and records obtained via the Freedom of Information Act by Fieldnotes, an oil and gas watchdog organization.
+
+The 2024 methane rule required oil and gas operators to eliminate and minimize leaking, flaring and venting of methane and of volatile organic compounds, which are harmful to human health.
+
+It was the first time the federal government had set nationwide requirements to limit methane emissions from existing oil and gas facilities. An earlier rule finalized under the Obama administration in 2016 applied to new and modified sources. Under the rule’s super emitter program, companies had to investigate major leaks near oil and gas facilities detected by third parties using EPA-approved remote sensing technology.
+
+In March 2025, EPA administrator Lee Zeldin announced that the agency was reconsidering the Biden-Harris regulations “to ensure that they do not prevent America from unleashing energy dominance and continuing our trajectory as a leader in clean energy and emissions reductions”.
+
+Last year, the US emitted more methane from its oil and gas sector than any other country in the world. Methane is responsible for at least a quarter of today’s warming.
+
+Julia Kane, a researcher for Fieldnotes, said the Trump Environmental Protection Agency was giving oil and gas corporations exactly what they want. “The oil and gas industry says it’s a ‘good-faith’ partner eager to help craft regulations, but time and time again it’s worked behind the scenes to delay and weaken them,” she said.
+
+Records obtained by Fieldnotes, including calendar events, presentation slides and meeting request forms, show that industry groups and companies met with the EPA to discuss methane regulations at least 38 times during the current administration’s first year.
+
+“I do think it’s just an extraordinary level of access,” Kane said, adding that industry groups themselves were pleasantly surprised by their access under Trump. For example, during a conference call with industry representatives last year, Independent Petroleum Association of America executive Lee Fuller described a discussion with EPA staff, saying: “It was one of the more fascinating meetings that we’ve ever had, just because they were suddenly willing to talk to us. And they were also suddenly willing to talk about things that we’ve been trying to get them to do for years, and they’ve never even let it come on to the radar screen.”
+
+At a Trump rally in Corpus Christi earlier today, Trump shouted out Harold Hamm, saying the founder of Continental Resources was in the audience. In April, Continental Resources wrote a letter to the EPA pushing back against measures in the methane rule that prohibit routine flaring of associated gas.
+
+Since the EPA announced it would no longer enforce oil and gas regulations in March 2025, oil and gas operators have leaked, vented or flared $7bn worth of natural gas, according to calculations by the Environmental Defense Fund.
+
+Rosalie Winn, senior director and lead counsel at the Environmental Defense Fund, said the Trump administration was seeking to curtail the federal government’s ability to do anything to address climate pollution across all of the largest sectors responsible for emissions.
+
+“What this administration is doing is enabling the worst polluters in the industry to continue to make ever more money off the back of American consumers while they’re wasting energy,” she said.
+
+*Robert Mackey contributed reporting*
