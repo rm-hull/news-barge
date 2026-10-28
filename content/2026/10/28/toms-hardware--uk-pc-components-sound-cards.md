@@ -1,0 +1,64 @@
+---
+title: Sound Cards
+source_url: https://www.tomshardware.com/uk/pc-components/sound-cards
+source_site: Tom's Hardware
+source_slug: toms-hardware
+scraped_at: '2026-10-28T12:45:16Z'
+published: '2026-10-28T00:00:00Z'
+description: Sound Card reviews, news and features, created for the hardcore PC enthusiast
+  by the experts at Tom's Hardware.
+image: https://cdn.mos.cms.futurecdn.net/kaNkoLdKfnWZYMsxyWVjUe-840-80.png
+categories:
+- Technology & Software
+- Hardware
+- Music
+people: []
+locations: []
+organisations:
+- Creative
+- Get Tom's Hardware
+- Gravis UltraSound
+- OPL3
+---
+
+![](https://cdn.mos.cms.futurecdn.net/kaNkoLdKfnWZYMsxyWVjUe-840-80.png)
+
+$4,700 audiophile-grade network hub promises a noise-free experience and music with "emotional impact." Seven isolation stages per port were chosen with "listening comparisons"
+
+![](https://cdn.mos.cms.futurecdn.net/RHL3sVXa7MPMAuBGnGspWa-840-80.jpg)
+
+There’s a new remake of the legendary Gravis Ultrasound ISA soundcard on the block with the arrival of the open source Beavis Ultrasound project.
+
+![](https://cdn.mos.cms.futurecdn.net/48tSZiGWBQUjk2TY8UFabH-840-80.jpg)
+
+Want real Sound Blaster, Gravis UltraSound, OPL3 FM synthesis, and MPU-401 MIDI support? You got it.
+
+![Creative AudigyFX Pro](https://cdn.mos.cms.futurecdn.net/nKs9ZJjS5qkCLb4c48Pms7-840-80.jpg)
+
+Creative's new Audigy FX Pro sound card is an $80 discrete internal sound card with 7.1 surround sound, high-res playback, 120dB SNR, and the support of Creative's new Nexus app.
+
+![](https://cdn.mos.cms.futurecdn.net/VHGxfUxJPGwKY85Y3Hj79c-840-80.jpg)
+
+Those upgraded audio cables probably won't take your music listening pleasure up to the next level. All you need are the basics, literally.
+
+![](https://cdn.mos.cms.futurecdn.net/vtw8NLoMesbvPhrKuQEaob-840-80.jpg)
+
+Creative updates its roster of PCIe sound cards for PC desktop DIYers with the new Sound Blaster Audigy FX Pro 7.1,
+
+![](https://cdn.mos.cms.futurecdn.net/BhVhVFM9mfKXft8cgTtxcJ-840-80.jpg)
+
+A three-decade old 'Amiga mystery' has been solved by an intrepid electronics-focused TechTuber.
+
+![The Sound Blaster Re:Imagine modular audio hub with AI](https://cdn.mos.cms.futurecdn.net/CqCkgVKDEcSuJXH62GHsoV-840-80.jpg)
+
+A new modular audio hub combining sound card power and stream deck flexibility.
+
+![Creative Sound Blaster AWE32](https://cdn.mos.cms.futurecdn.net/kBYXTExBMupS3b4tY2SKn5-840-80.jpg)
+
+Creative Sound Blaster AWE32 fixes arrive for the Linux 6.16-rc3 kernel.
+
+![Sound Blaster 16 cards being repaired](https://cdn.mos.cms.futurecdn.net/yaKtJSFDAzU2zDkMY9jCUd-840-80.jpg)
+
+Two ancient Creative Sound Blaster cards have been repaired, and TechTuber Necroware has demonstrated them.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.

@@ -1,0 +1,43 @@
+---
+title: Apple AirPods Max 2 Are $100 Off Right Now. Let the Rationalizing Begin
+source_url: https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-28T12:45:14Z'
+published: '2026-10-28T00:00:00Z'
+description: If Apple headphones have been sitting on your wish list, now might be
+  the time to buy ahead of the holiday rush.
+image: https://media.wired.com/photos/6ae11d65f409d832a824126b/191:100/w_1280,c_limit/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+people: []
+locations:
+- Amazon
+organisations:
+- ANC
+- Apple
+- USB-C
+- WIRED
+---
+
+Apple makes some of the best headphones on the market. I almost never want to pay full price for them, though. Here at WIRED, we spend a lot of time testing Apple gear and tracking prices, so we know when it’s a smart time to buy and when it’s best to wait.
+
+Right now, Apple AirPods Max 2 are $100 off on Amazon. If you prefer wireless earbuds, the Apple AirPods Pro 3 are also $49 off. We’ve seen both products go for a bit less, and they are likely to drop further for Black Friday. But if you've been eyeing Apple's headphones for a while, and need them sooner than late November, now is a good time to buy.
+
+For more of our Apple recommendations, check out our guides to the Best Apple Watches, iPhones, and iPads.
+
+## Apple AirPods Max 2 for $449 ($100 Off)
+
+The AirPods Max 2 are the best-sounding headphones for Apple loyalists. I have been testing them for about three months now, and they have become my favorite headphones for travel. They unfortunately can’t prevent airplane ear, but their plush over-ear cuffs feel way more comfortable than cramming buds into my ear canals for hours on end. The headphones deliver up to 1.5 times more automated noise-canceling (ANC) performance than the previous version, support lossless audio, and can be plugged in via USB-C for ultra-low latency audio.
+
+This sale applies to all five colorways (midnight, blue, orange, purple, and starlight). I’ve seen the AirPods Max 2 go for cheaper, but $449 is still a good deal. If you already own the OGs, I wouldn’t upgrade, but if you need a new pair, think these over.
+
+## Apple AirPods Pro 3 for $200 ($49 Off)
+
+This isn’t the best deal I’ve seen on the flagship AirPods Pro 3, so if you can hold out until Black Friday, I’d wait. But if you need a new pair of earbuds now and own an iPhone, these are my favorite, and $49 off is still better than full price.
+
+When I'm out and about, working out, or want the convenience of removing an earbud to hear something—though transparency mode often makes that unnecessary—I reach for my AirPods Pro 3. They are my go-to for runs because their silicone ear tips stay in place even when I start to sweat. They may not be as new as AirPods 5, but they are better, with three times more ANC and built-in heart rate sensing for workouts. That's in addition to Apple's adaptive EQ and hearing aid features. Battery life is around eight hours with ANC enabled, and up to 24 hours with the charging case. You get five sizes of ear tips to tailor the fit.
+
+*Power up with unlimited access to* WIRED*.**Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.*
