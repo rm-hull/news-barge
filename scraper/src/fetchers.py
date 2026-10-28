@@ -53,7 +53,7 @@ async def fetch_html_aiohttp(
             response.raise_for_status()
             return await response.text()
     except Exception as e:
-        report_error(f"HTTP fetch failed ({repr(e)}) for: {url}", logger=logger)
+        report_error(f"HTTP fetch failed ({e!r}) for: {url}", logger=logger)
         return None
 
 
@@ -111,7 +111,7 @@ async def fetch_html_playwright(
             )
         return html
     except Exception as e:
-        report_error(f"Playwright fetch failed ({repr(e)}) for: {url}", logger=logger)
+        report_error(f"Playwright fetch failed ({e!r}) for: {url}", logger=logger)
         return None
     finally:
         if page is not None:
