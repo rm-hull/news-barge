@@ -53,7 +53,7 @@ async def fetch_html_aiohttp(
             response.raise_for_status()
             return await response.text()
     except Exception as e:
-        report_error(f"HTTP fetch failed for {url}: {e}", logger=logger)
+        report_error(f"HTTP fetch failed ({repr(e)}) for: {url}", logger=logger)
         return None
 
 
@@ -104,7 +104,7 @@ async def fetch_html_playwright(
         html = await page.content()
         return html
     except Exception as e:
-        report_error(f"playwright fetch failed for {url}: {e}", logger=logger)
+        report_error(f"Playwright fetch failed ({repr(e)}) for: {url}", logger=logger)
         return None
     finally:
         if page is not None:
@@ -115,7 +115,7 @@ async def fetch_html_playwright(
         _elapsed = time.perf_counter() - start
         if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:
             report_error(
-                f"playwright fetch slow: {url} took {_elapsed:.1f}s "
-                f"(timeout={PLAYWRIGHT_TIMEOUT / 1000:.0f}s)",
+                f"Playwright fetch slow (took {_elapsed:.1f}s, "
+                f"timeout={PLAYWRIGHT_TIMEOUT / 1000:.0f}s) for: {url}",
                 logger=logger,
             )
