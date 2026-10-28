@@ -102,6 +102,13 @@ async def fetch_html_playwright(
             timeout=PLAYWRIGHT_TIMEOUT,
         )
         html = await page.content()
+        _elapsed = time.perf_counter() - start
+        if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:
+            report_error(
+                f"Playwright fetch slow (took {_elapsed:.1f}s, "
+                f"timeout={PLAYWRIGHT_TIMEOUT / 1000:.0f}s) for: {url}",
+                logger=logger,
+            )
         return html
     except Exception as e:
         report_error(f"Playwright fetch failed ({repr(e)}) for: {url}", logger=logger)
@@ -112,10 +119,3 @@ async def fetch_html_playwright(
                 await page.close()
             except Exception:
                 pass
-        _elapsed = time.perf_counter() - start
-        if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:
-            report_error(
-                f"Playwright fetch slow (took {_elapsed:.1f}s, "
-                f"timeout={PLAYWRIGHT_TIMEOUT / 1000:.0f}s) for: {url}",
-                logger=logger,
-            )

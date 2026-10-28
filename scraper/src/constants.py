@@ -49,7 +49,7 @@ TAXOTAG_TOP_K = 3
 # Pages that cannot load core content within this window are abandoned —
 # ad-heavy sites (e.g. Leeds Live) with continuous background requests
 # would otherwise always hit the timeout, wasting ~30s per article.
-PLAYWRIGHT_TIMEOUT = 7000
+PLAYWRIGHT_TIMEOUT = 10000
 
 # Keywords in a request URL (hostname or path) that identify analytics,
 # ad-tech, or tracking endpoints to abort at the Playwright context level.
