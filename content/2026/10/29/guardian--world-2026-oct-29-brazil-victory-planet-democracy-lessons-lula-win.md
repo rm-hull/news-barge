@@ -1,0 +1,84 @@
+---
+title: 'Brazil’s victory for the planet and democracy: seven lessons from Lula’s win'
+source_url: https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-10-29T18:26:39Z'
+published: '2026-10-29T00:00:00Z'
+description: The trouncing of the far right provides a playbook for social and environmental
+  movements in other countries facing elections, including the US, Spain and France
+image: https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ffdbfce0ac067fb56a83131134e1039
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
+people:
+- André Janones
+- Donald Trump
+- Flavio Bolsonaro
+- Flavío Bolsonaro
+- Flávio
+- Hey Meta
+- Jair Bolsonaro
+- Luiz Inácio Lula da Silva
+- Marina Silva
+- Mark Zuckerberg
+- Woman
+locations:
+- Amazon
+- Brazil
+- Chile
+- China
+- Colombia
+- Europe
+- France
+- Hollywood
+- Peru
+- Spain
+- US
+- Washington
+organisations:
+- Lula’s Army
+- Meta
+- Shield of the Americas
+- WhatsApp
+---
+
+Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow. This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France.
+
+The astonishing comeback victory of Luiz Inácio Lula da Silva in Sunday’s presidential runoff against his extreme right challenger Flavío Bolsonaro has brought oceans of rapturous supporters on to the streets, while also thrilling conservationists, climate activists and social justice campaigners across the world.
+
+Coming just weeks after the Lula administration announced a record fall in Amazon and Cerrado destruction, they hope Brazil can now go on to achieve its target of zero deforestation by 2030 and continue to support a global transition away from fossil fuels. That would provide a huge boost to flagging global efforts to stabilise the climate and protect degraded ecosystems. It would also set a remarkable example of leadership by the global south.
+
+Big battles lie ahead. In the Amazon region itself, far-right members of Bolsonaro’s party have won the governorships of seven of the nine states and a large number of municipal mayorships. Brazil’s congress is now dominated by agribusiness and mining interests that have set the political agenda in recent years, and will push hard to allow more extractivist industries in indigenous lands, expand road-building, privatise rivers, weaken environmental protections and possibly attempt to impeach the president.
+
+In the regional sphere, Lula, alone among the leaders of main South American nations in not aligning with Donald Trump’s so-called Shield of the Americas, will face pressure from Washington to channel critical minerals and other natural resources to the US, rather than selling to China or Europe, or leaving them in the ground. And, on the planetary level, Brazil faces the threat of accelerating global heating, which is pushing the Amazon ever closer to the point of no return.
+
+![Indigenous activists protest, with a giant globe in backdrop.](https://i.guim.co.uk/img/media/cd808e14ecf157e2efacdf045c15f6eba685298c/0_0_7991_5327/master/7991.jpg?width=445&dpr=1&s=none&crop=none)
+
+So although Sunday’s result will hopefully provide a little breathing space for the Amazon and other crucially important biomes, the joy and hope that Brazil has gifted the world will quickly fade unless it inspires political change in other countries. In that sense, the biggest environmental impact of Lula’s victory may be the lessons it provides for campaigners elsewhere. Here are some initial takeaways:
+
+**1 Politics matter**. There is no higher environmental priority than defeating the far right, which is a Trojan horse for extractivist – and often criminal – groups to capture states and erode protections for people, democracy and the environment. Just look at the 59.5% surge of Amazon deforestation under the 2019-2022 term of Jair Bolsonaro – the highest level of any four-year presidency in Brazil. Compare that with the 71.2% fall during the Lula administration. Over the past year, forest loss was 3,335 sq km, the lowest level since the start of satellite measurements in 1988. And Lula is not, by any means, an environmentalist. He has approved several destructive projects himself, but he is a people person who listens to the voice of social movements.
+
+**2 Don’t give up**. Lula was largely written off by the markets and some polls after his first-round defeat. No first-round loser had ever previously come back to win the runoff. Lula was able to do so by securing an extra 10m votes over three weeks. The energy for this came from the streets and the forests. Social movements organised giant rallies in cities. In the Amazon, indigenous, riverine and quilombola groups travelled by hours – sometimes days – to reach polling stations by boats or buses.
+
+![Bare-chested man at rally with red scarf round lower half of face with pro-Lula slogan.](https://i.guim.co.uk/img/media/9622531a1b3bbb833349d1174c282359b31a2312/0_0_12500_9473/master/12500.jpg?width=445&dpr=1&s=none&crop=none)
+
+**3 Mobilise a campaign army**. The first round of Lula’s campaign had been stodgy, old-fashioned and defensive – three traits that are also often applicable to environmental campaigns. This was transformed during the runoff, when federal deputy André Janones launched a “Lula’s Army” WhatsApp group that used humorous memes, live streams and algorithmic outreach to seize digital territory that had long been dominated by the right. By voting day, this army had 10m “soldiers”, about 8% of the electorate. Volunteers devoted hours posting stories and spreading messages across social media, speeding up the Lula campaign’s response time and emotional impact. Everyone was instructed not to share or respond to posts by the opposition camp.
+
+**4 Go on the offensive against US tech giants.** Lula’s campaign accused Meta, which runs the Facebook, WhatsApp and Instagram social media platforms, of political favouritism towards Bolsonaro in its algorithms and AI tools. Meta denied bias but acknowledged technical failures. Brazil’s electoral court ordered corrective action. Among the most popular chants of Lula supporters was “Hey Meta, vai tomar no cu!” (Hey Meta, take it up the arse!). Many on the left have blamed US social media platforms for spreading rightwing disinformation and fearmongering, causing recent electoral defeats in Colombia, Chile and Peru. Lula made clear that would not be allowed in Brazil: “We had to overcome foreign interference through digital platforms, which we will have to regulate. We cannot have a monstrously large corporation earning millions and billions paying no taxes to this country and trying to steer our election results.”
+
+![Woman holds up mask of Meta chief executive Mark Zuckerberg outside Meta headquarters.](https://i.guim.co.uk/img/media/46504bb9166d3a514f31dcd11b295f203dccd455/0_0_6192_4128/master/6192.jpg?width=445&dpr=1&s=none&crop=none)
+
+**5 Reclaim the flag**. Brazil’s green, yellow and blue national colours had been associated with Bolsonaro’s movement in previous elections. This time, Lula seized it back by posing in a national football team strip while his “army” launched a campaign called “The green and yellow is ours”. Before voting day, millions of people across Brazil and the world – from Indigenous leaders in the Amazon to Hollywood celebrities and European football stars – flooded social networks with images of themselves in Brazil colours making an L (for Lula) sign with their thumb and little finger extended.
+
+![Flavio Bolsonaro descends aircraft steps with a backpack ](https://i.guim.co.uk/img/media/3f4333d576a180937bce7d536e3f0d66115fda8f/316_0_1615_1293/master/1615.jpg?width=445&dpr=1&s=none&crop=none)
+
+**6 Increase social spending**. Amazon protection may have galvanised conservationists, but the far greater motivations for many Lula voters were record low unemployment, robust wage growth, a 15% increase in “bolsa familia” poverty relief payments and a promise to raise the minimum wage. The importance of combining social justice with climate and nature action is widely recognised by Brazilian environmental groups. Without it, elections are lost and protests can erupt in the streets – as the world learned from France during the violent* gilets jaunes* (yellow vests) demonstrations of 2018.
+
+**7 Defend sovereignty, democracy and sustainability**. Lula and his army called out the interlinked threats posed by the Bolsonaro family’s fealty to Donald Trump (now doubly confirmed by Flávio’s post-election flight to the US). They highlighted the interlinked threats posed by the obsequience to Trump, Bolsonaro’s desire to change the constitution and his promise to open up exploration of the Amazon and other biomes. This reflects a global phenomenon. Now that seven of the planetary boundaries essential for the flourishing of life have been breached, more and more people are affected by business activities that make the situation worse by destabilising the climate, damaging ecosystems and polluting the air, soil and rivers. This makes it harder for extractive companies to secure a social mandate so they become more inclined to either break the law or support extreme politics that override democracy.
+
+The former environment minister Marina Silva pulled these threads together during the victory celebrations, saying Brazil had come together against these threats: “Long live the people who emerged from every corner of Brazil to sow hope for a future that is socially just, sovereign, democratic and sustainable.”
+
+Brazil has given the world a remarkable example of hope through action. Now it needs others to follow.
