@@ -1,0 +1,105 @@
+---
+title: FADU wants to take the CPU out of AI storage by putting the file system inside
+  the SSD, but the proof won't arrive until 2027
+source_url: https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027
+source_site: TechRadar UK
+source_slug: techradar-uk
+scraped_at: '2026-10-29T09:57:14Z'
+published: '2026-10-29T00:00:00Z'
+description: But samples won't land until Q3 2027
+image: https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg
+categories:
+- Technology & Software
+people:
+- Nam Yi-hyun
+locations:
+- AI
+organisations:
+- CPU
+- DDR5
+- DPU
+- DevFS
+- F2FS
+- FADU
+- FS-SSD
+- GPU
+- GPUDirect Storage
+- Gen5
+- Intel
+- Los Alamos National Laboratory
+- NFS
+- NFSv3
+- NVM Express
+- Nvidia
+- OCP Storage
+- ODM
+- OEM
+- PCIe
+- SCADA
+- SK hynix
+- SSD
+- SanDisk
+- Seoul National University
+- TechRadar Pro
+- The Herald Business
+- Western Digital
+- Xsight Labs
+---
+
+![FADU](https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg)
+
+* **FADU's File-Semantic SSD runs path lookup, permission checks, and file-to-flash mapping in firmware instead of on the host**
+* **NFSv3 requests ride inside standard NVMe commands, so GPUs, DPUs, and remote clients can reach files without requiring a host file system**
+* **Its headline 460,000 ops/s result came from a PCIe 5.0 host, with PCIe 6.0 results promised by Q1 2027**
+
+South Korean controller designer FADU has shown off an SSD that understands files rather than just blocks, betting that the next bottleneck in AI storage is not raw bandwidth but the CPU time spent working out where data lives.
+
+The File-Semantic SSD (FS-SSD), unveiled at the OCP Global Summit, moves file lookup, access checks and file-to-address translation into firmware on FADU's sixth-generation controller.
+
+FADU's whitepaper promises GPUs, DPUs and network cards a route to their files with "no host filesystem, no block layer, and no storage-server CPU in the path." Partner samples are not expected until Q3 2027.
+
+## Not the first approach to the 'CPU problem'
+
+FADU is no newcomer to data center flash. Its Gen5 controller sits in the SN861, which Western Digital launched and SanDisk now sells; last year, the company said it had signed controller supply deals with two of the four hyperscalers, weeks after revealing its Sierra PCIe 6.0 controller.
+
+Its pitch here, however, isn't entirely new, with the recognition coming from a not-so-surprising front: Nvidia. Nvidia has been doing the same from the other end of the PCIe bus. GPUDirect Storage removed the CPU from the data path years ago, letting drives move data straight into GPU memory, but host software still decides what to fetch and issues every request.
+
+Its decision to open source cuFile and shift that control path onto the GPU, with SCADA attacks adding accelerator-side overhead even as FADU attacks it from the drive end of the equation.
+
+FADU says its own measurements show the host file system and block layer consuming about 30% of CPU cycles in a GPUDirect Storage random-read workload, a vendor figure that has not been independently reproduced. It also argues that existing bypass schemes only get the CPU out of the way by abandoning files altogether.
+
+Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!
+
+## How does this work?
+
+Rather than invent a new language for its drive, FADU borrowed an old one. NFS, short for Network File System, has let computers open files stored on other machines for decades. FS-SSD tucks NFS requests, such as looking up a file by name or reading part of it, inside the standard NVMe commands that SSDs already use.
+
+Those commands can come from inside the same server or, using a networked version of NVMe called NVMe over Fabrics (NVMe-oF), from other machines in the data center. FADU chose NFS version 3 for three reasons: it is small, with just 21 operations; it works with any operating system; and it is stateless, meaning each request carries everything the drive needs to answer it, so the drive never has to remember who has which file open.
+
+FADU has also merged two lookups that normally happen separately. On a regular system, the computer’s file system first works out which numbered block holds each piece of a file, and the SSD’s own internal software, called the flash translation layer, then works out where that block physically sits on the flash chips.
+
+FS-SSD does both jobs with a single file layer based on F2FS, a Linux file system designed for flash memory, laid out to match how the chips are physically organized. One map then takes the drive straight from a file to the spot where it is stored, and that map is much smaller. A typical SSD carries about 1GB of DRAM for every terabyte of flash and fills almost all of it with its block map. FS-SSD uses the same amount, but FADU says about 95% of it is left free to keep details of frequently used files close at hand.
+
+That layout also makes cleanup simpler. Flash memory cannot overwrite old data in place, so drives regularly move the data they still need elsewhere and wipe whole blocks clean, a chore known as garbage collection.
+
+When F2FS runs on an ordinary computer, the file system and the SSD each do their own version of this cleanup, and the two end up multiplying each other’s work. FS-SSD runs just one, and FADU says that cuts write amplification by 63% compared with F2FS on a regular host. Lower write amplification means less wear on the flash, but the 63% figure comes from simulated tests on NVMeVirt, software from Seoul National University that imitates an SSD, rather than from a real drive.
+
+In FADU’s own preliminary test, remote file throughput held at about 460,000 ops/s as the server was cut from 16 cores to one, while a standard Linux NFS server fell from roughly 150,000 ops/s to 40,000.
+
+The testing has its limits, though. FADU’s Gen6 drive sat in a PCIe 5.0 host, so every sequential read result topped out near 14.1GB/s, roughly the Gen5 link limit, even as Gen6 drives such as Micron’s 9650, rated for 28GB/s reads, are already in mass production.
+
+Both the client and server ran Intel’s Core i5-13600K desktop chip with 128GB of DDR5 and a 100Gb ConnectX-6 NIC. That processor has 14 physical cores and 20 threads, so FADU’s test likely counted threads rather than physical cores.
+
+## The world’s first file-semantic SSD is an idea that isn't entirely new
+
+FADU calls FS-SSD the world’s first file-semantic SSD, and it may well be the first hardware demonstration of its kind, but the idea isn’t new. The DevFS research paper, presented in 2018, described a direct-access file system “embedded completely within a storage device,” though the authors tested it only as an emulated prototype.
+
+NVM Express has standardized a key-value command set that addresses data by key rather than block address, and SK hynix has developed a key-value computational storage drive with Los Alamos National Laboratory. Unlike the key-value command set, FS-SSD has no standard behind it yet. FADU has not submitted a file-semantic command set to NVM Express or OCP Storage, so for now every client needs FADU’s own software.
+
+FADU’s longer-term goal is a flash enclosure with nothing in front of it but a PCIe switch and a DPU (a network card with its own processors) or NIC handling NVMe-oF in hardware, with a reference design built on Xsight Labs’ 800G E1 DPU due by the end of 2027.
+
+FADU’s model puts that at about 42% lower power and 57% lower cost per 16-drive system than a conventional storage server, though those are projections rather than measurements. DPU-fronted flash boxes already exist, such as Supermicro’s BlueField-powered JBOF, but those still run the storage software on the DPU’s Arm cores. FADU wants the drives themselves to serve the files.
+
+FADU chief executive Nam Yi-hyun said the company will use FS-SSD as “a springboard to become a leading company in AI storage solutions,” according to *The Herald Business*. The bottleneck FADU is chasing is real, and building on NFSv3 rather than inventing a new protocol gives it a credible starting point.
+
+For now, though, the evidence amounts to a Gen5 test bench, an emulated write-amplification figure, and modeled savings, with OEM and ODM talks still early. The Gen6-host results FADU expects by Q1 2027 will be the first real sign of whether the drive can do the most important part: handling the CPU’s job at full speed.
