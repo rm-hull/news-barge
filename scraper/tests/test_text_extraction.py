@@ -19,6 +19,7 @@ from src.text_extraction import (
     parse_srcset,
     pick_largest_srcset_url,
     remove_excluded_elements,
+    restore_trailing_dot_images,
     resolve_srcset_images,
     unfurl_multipage_article,
 )
@@ -374,6 +375,66 @@ class TestEnsureImageExtension:
         url = "/resources/images/21500997/?type=mds-article-620"
         result = ensure_image_extension(url)
         assert result == "/resources/images/21500997.jpg?type=mds-article-620"
+
+    def test_adds_jpg_to_trailing_dot_path(self) -> None:
+        """CDNs like The Independent serve images with trailing dots (e.g. '123..').
+        ensure_image_extension appends .jpg so trafilatura accepts the URL."""
+        url = "https://static.independent.co.uk/2026/10/30/12/2279298894.."
+        result = ensure_image_extension(url)
+        assert result == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg"
+
+    def test_adds_jpg_to_trailing_dot_path_with_query(self) -> None:
+        """Trailing dot paths with query strings should also get .jpg appended."""
+        url = "https://static.independent.co.uk/2026/10/30/12/2279298894..?quality=75&width=640&auto=webp"
+        result = ensure_image_extension(url)
+        assert result == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg?quality=75&width=640&auto=webp"
+
+
+class TestRestoreTrailingDotImages:
+    """Tests for restore_trailing_dot_images."""
+
+    def test_restores_trailing_dot_in_img_src(self) -> None:
+        html = '<img src="https://cdn.com/2279298894...jpg?quality=75&width=640">'
+        result = restore_trailing_dot_images(html)
+        assert 'src="https://cdn.com/2279298894..?quality=75&width=640"' in result
+
+    def test_restores_trailing_dot_in_markdown_image(self) -> None:
+        md = '![alt](https://cdn.com/2279298894...jpg?quality=75&width=640)'
+        result = restore_trailing_dot_images(md)
+        assert '](https://cdn.com/2279298894..?quality=75&width=640)' in result
+
+    def test_does_not_touch_normal_jpg(self) -> None:
+        html = '<img src="https://cdn.com/photo.jpg">'
+        result = restore_trailing_dot_images(html)
+        assert result == html
+
+    def test_does_not_touch_jpeg(self) -> None:
+        html = '<img src="https://cdn.com/photo.jpeg?w=640">'
+        result = restore_trailing_dot_images(html)
+        assert result == html
+
+    def test_restores_multiple_images(self) -> None:
+        html = (
+            '<img src="https://cdn.com/123...jpg?w=320">'
+            '<img src="https://cdn.com/456...jpg?w=640">'
+        )
+        result = restore_trailing_dot_images(html)
+        assert "123..?w=320" in result
+        assert "456..?w=640" in result
+
+    def test_handles_empty_string(self) -> None:
+        assert restore_trailing_dot_images("") == ""
+
+    def test_no_change_when_no_trailing_dot_pattern(self) -> None:
+        html = "<p>No images here</p>"
+        result = restore_trailing_dot_images(html)
+        assert result == html
+
+    def test_restores_independent_cdn_url(self) -> None:
+        """Real-world example from The Independent CDN."""
+        html = '<img src="https://static.independent.co.uk/2026/10/30/12/2279298894...jpg?quality=75&width=640&auto=webp">'
+        result = restore_trailing_dot_images(html)
+        assert 'src="https://static.independent.co.uk/2026/10/30/12/2279298894..?quality=75&width=640&auto=webp"' in result
 
 
 class TestResolveSrcsetImages:

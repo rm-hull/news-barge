@@ -444,10 +444,17 @@ def ensure_image_extension(url: str) -> str:
     extension and are silently dropped.  This helper inserts a ``.jpg``
     extension into the path when none is present.
 
+    For CDN URLs with trailing dots (e.g. ``/img/123..``), this appends
+    ``.jpg`` producing ``/img/123...jpg`` so that trafilatura accepts the
+    URL.  Use :func:`restore_trailing_dot_images` after extraction to
+    restore the original URLs.
+
     >>> ensure_image_extension("https://ex.com/img/123/?type=large")
     'https://ex.com/img/123.jpg?type=large'
     >>> ensure_image_extension("https://ex.com/img/photo.jpg")
     'https://ex.com/img/photo.jpg'
+    >>> ensure_image_extension("https://ex.com/img/123..")
+    'https://ex.com/img/123...jpg'
     """
     parsed = urlparse(url)
     path = parsed.path
@@ -458,6 +465,28 @@ def ensure_image_extension(url: str) -> str:
     else:
         path = path + ".jpg"
     return urlunparse(parsed._replace(path=path))
+
+
+# Pattern to detect fake .jpg appended to trailing-dot CDN paths
+# e.g. "2279298894...jpg" → should be "2279298894.."
+_TRAILING_DOT_FAKE_JPG_PATTERN: re.Pattern[str] = re.compile(r"\.\.\.jpg")
+
+
+def restore_trailing_dot_images(html: str) -> str:
+    """Restore CDN image URLs where ``ensure_image_extension`` added fake ``.jpg``.
+
+    Some CDNs (e.g. The Independent) serve images with trailing-dot paths
+    like ``2279298894..``.  The :func:`ensure_image_extension` helper appends
+    ``.jpg`` to these so that trafilatura accepts them, producing URLs like
+    ``2279298894...jpg``.  This function reverses that transformation after
+    trafilatura extraction, restoring the original CDN URLs.
+
+    >>> restore_trailing_dot_images('<img src="https://cdn.com/123...jpg?w=640">')
+    '<img src="https://cdn.com/123..?w=640">'
+    >>> restore_trailing_dot_images('<img src="https://cdn.com/photo.jpg">')
+    '<img src="https://cdn.com/photo.jpg">'
+    """
+    return _TRAILING_DOT_FAKE_JPG_PATTERN.sub("..", html)
 
 
 def resolve_srcset_images(html: str, base_url: str = "", logger: Any = None) -> str:

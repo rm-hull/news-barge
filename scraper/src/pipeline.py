@@ -34,6 +34,7 @@ from .text_extraction import (
     linkify_text,
     normalize_inline_spacing,
     remove_excluded_elements,
+    restore_trailing_dot_images,
     resolve_srcset_images,
     unfurl_multipage_article,
 )
@@ -84,6 +85,9 @@ def extract_article_from_html(
         report_error(f"extraction returned nothing for {url}", logger=logger)
         return None
 
+    # Restore CDN trailing-dot image URLs that were given fake .jpg extensions
+    # so that trafilatura would accept them
+    extracted_html = restore_trailing_dot_images(extracted_html)
     extracted_html = normalize_inline_spacing(extracted_html)
     md_body = to_markdown(extracted_html, heading_style="ATX")
 
