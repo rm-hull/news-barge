@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import asyncio
 from unittest.mock import MagicMock
 
 import pytest
@@ -19,8 +18,8 @@ from src.text_extraction import (
     parse_srcset,
     pick_largest_srcset_url,
     remove_excluded_elements,
-    restore_trailing_dot_images,
     resolve_srcset_images,
+    restore_trailing_dot_images,
     unfurl_multipage_article,
 )
 
@@ -381,13 +380,18 @@ class TestEnsureImageExtension:
         ensure_image_extension appends .jpg so trafilatura accepts the URL."""
         url = "https://static.independent.co.uk/2026/10/30/12/2279298894.."
         result = ensure_image_extension(url)
-        assert result == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg"
+        assert (
+            result == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg"
+        )
 
     def test_adds_jpg_to_trailing_dot_path_with_query(self) -> None:
         """Trailing dot paths with query strings should also get .jpg appended."""
         url = "https://static.independent.co.uk/2026/10/30/12/2279298894..?quality=75&width=640&auto=webp"
         result = ensure_image_extension(url)
-        assert result == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg?quality=75&width=640&auto=webp"
+        assert (
+            result
+            == "https://static.independent.co.uk/2026/10/30/12/2279298894...jpg?quality=75&width=640&auto=webp"
+        )
 
 
 class TestRestoreTrailingDotImages:
@@ -399,9 +403,9 @@ class TestRestoreTrailingDotImages:
         assert 'src="https://cdn.com/2279298894..?quality=75&width=640"' in result
 
     def test_restores_trailing_dot_in_markdown_image(self) -> None:
-        md = '![alt](https://cdn.com/2279298894...jpg?quality=75&width=640)'
+        md = "![alt](https://cdn.com/2279298894...jpg?quality=75&width=640)"
         result = restore_trailing_dot_images(md)
-        assert '](https://cdn.com/2279298894..?quality=75&width=640)' in result
+        assert "](https://cdn.com/2279298894..?quality=75&width=640)" in result
 
     def test_does_not_touch_normal_jpg(self) -> None:
         html = '<img src="https://cdn.com/photo.jpg">'
@@ -432,9 +436,16 @@ class TestRestoreTrailingDotImages:
 
     def test_restores_independent_cdn_url(self) -> None:
         """Real-world example from The Independent CDN."""
-        html = '<img src="https://static.independent.co.uk/2026/10/30/12/2279298894...jpg?quality=75&width=640&auto=webp">'
+        html = (
+            '<img src="https://static.independent.co.uk/2026/10/30/12/'
+            '2279298894...jpg?quality=75&width=640&auto=webp">'
+        )
         result = restore_trailing_dot_images(html)
-        assert 'src="https://static.independent.co.uk/2026/10/30/12/2279298894..?quality=75&width=640&auto=webp"' in result
+        expected = (
+            'src="https://static.independent.co.uk/2026/10/30/12/'
+            '2279298894..?quality=75&width=640&auto=webp"'
+        )
+        assert expected in result
 
 
 class TestResolveSrcsetImages:
@@ -590,7 +601,7 @@ class TestFindNextPageUrl:
     def test_arrow_link_text(self) -> None:
         html = """<html><body>
         <p>Page 1</p>
-        <a href="/article/2">›</a>
+        <a href="/article/2">\u203a</a>
         </body></html>"""
         result = _find_next_page_url(html, "https://example.com/article/1")
         assert result == "https://example.com/article/2"
@@ -617,7 +628,7 @@ class TestFindNextPageUrl:
 
     def test_aria_label_next(self) -> None:
         html = """<html><body>
-        <a aria-label="Next page" href="/article/2">›</a>
+        <a aria-label="Next page" href="/article/2">\u203a</a>
         </body></html>"""
         result = _find_next_page_url(html, "https://example.com/article/1")
         assert result == "https://example.com/article/2"
@@ -707,7 +718,7 @@ class TestUnfurlMultipageArticle:
             <a class="next-page" href="/article/3">Next</a>
             </body></html>"""
 
-        result = await unfurl_multipage_article(
+        await unfurl_multipage_article(
             html, "https://example.com/article/1", fetcher, max_pages=3
         )
         # Should have fetched 2 additional pages (max_pages=3, page 1 already fetched)

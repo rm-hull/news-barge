@@ -53,7 +53,7 @@ _NEXT_PAGE_SELECTORS = [
 
 # Link text patterns that indicate a "Next page" link
 _NEXT_PAGE_TEXTS = re.compile(
-    r"^(next|next\s+page|page\s+\d+|→|›|»|\s*>\s*)$", re.IGNORECASE
+    r"^(next|next\s+page|page\s+\d+|→|\u203a|»|\s*>\s*)$", re.IGNORECASE
 )
 
 
@@ -216,9 +216,11 @@ async def unfurl_multipage_article(
                 body = tree.xpath("//body")
                 if body:
                     body_el = body[0]
-                    fragment = lxml_html.fromstring(
-                        f"<div class=\"unfurled-page\" data-page=\"{pages_fetched + 1}\">{next_body}</div>"
+                    wrapper = (
+                        f'<div class="unfurled-page" '
+                        f'data-page="{pages_fetched + 1}">{next_body}</div>'
                     )
+                    fragment = lxml_html.fromstring(wrapper)
                     if isinstance(fragment, list):
                         for child in fragment:
                             body_el.append(child)
@@ -227,10 +229,11 @@ async def unfurl_multipage_article(
                 merged_html = cast(str, lxml_html.tostring(tree, encoding="unicode"))
             except lxml_html.ParserError:
                 # If parsing fails, just concatenate
-                merged_html = merged_html.replace(
-                    "</body>",
-                    f"<div class=\"unfurled-page\" data-page=\"{pages_fetched + 1}\">{next_body}</div></body>"
+                wrapper = (
+                    f'<div class="unfurled-page" '
+                    f'data-page="{pages_fetched + 1}">{next_body}</div></body>'
                 )
+                merged_html = merged_html.replace("</body>", wrapper)
 
         pages_fetched += 1
         current_url = next_url

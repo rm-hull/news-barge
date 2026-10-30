@@ -271,7 +271,9 @@ async def _debug_url(args: argparse.Namespace) -> None:
                 browser = await playwright.chromium.launch(headless=True)
                 context = await _create_shared_context(browser)
                 html = await fetch_html_playwright(
-                    url, context, logger=logger,
+                    url,
+                    context,
+                    logger=logger,
                     wait_until=site.playwright_wait_until,
                 )
                 await context.close()

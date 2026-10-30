@@ -34,8 +34,8 @@ from .text_extraction import (
     linkify_text,
     normalize_inline_spacing,
     remove_excluded_elements,
-    restore_trailing_dot_images,
     resolve_srcset_images,
+    restore_trailing_dot_images,
     unfurl_multipage_article,
 )
 
@@ -43,8 +43,10 @@ from .text_extraction import (
 @dataclass
 class ExtractionResult:
     """Result of extracting an article from raw HTML."""
+
     frontmatter: dict[str, Any]
     markdown_body: str
+
 
 # ---------------------------------------------------------------------------
 
@@ -196,16 +198,18 @@ async def process_article(
                         page_url, session, logger=logger, ssl=ssl
                     )
 
-        html = await unfurl_multipage_article(
-            html, url, _page_fetcher, logger=logger
-        )
+        html = await unfurl_multipage_article(html, url, _page_fetcher, logger=logger)
 
     # Extract metadata early for date-based retention checks
     if site.exclusions:
-        preprocessed_html = remove_excluded_elements(html, site.exclusions, logger=logger)
+        preprocessed_html = remove_excluded_elements(
+            html, site.exclusions, logger=logger
+        )
     else:
         preprocessed_html = html
-    preprocessed_html = resolve_srcset_images(preprocessed_html, base_url=url, logger=logger)
+    preprocessed_html = resolve_srcset_images(
+        preprocessed_html, base_url=url, logger=logger
+    )
 
     meta = await asyncio.to_thread(extract_article_metadata, preprocessed_html, url=url)
 
@@ -263,7 +267,9 @@ async def process_article(
     frontmatter["categories"] = categories
     frontmatter["people"] = sorted(filter_duplicate_names(entities.people))
     frontmatter["locations"] = sorted(filter_duplicate_names(entities.locations))
-    frontmatter["organisations"] = sorted(filter_duplicate_names(entities.organisations))
+    frontmatter["organisations"] = sorted(
+        filter_duplicate_names(entities.organisations)
+    )
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(
