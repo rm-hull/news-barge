@@ -1,0 +1,113 @@
+---
+title: Police Scotland carrying out 'active inquiries' into Andrew Mountbatten-Windsor,
+  Jeffrey Epstein and Ghislane Maxwell Balmoral visits
+source_url: https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-10-30T22:18:57Z'
+published: '2026-10-30T00:00:00Z'
+description: The force said it had received information and stressed its inquiries
+  were at "an early stage".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/107f/live/fce8fef0-d47b-11f1-80bc-6d398902272f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Andrew Mountbatten-Windsor
+- Andy Burnham
+- Elizabeth II
+- Ghislaine Maxwell
+- Ghislane Maxwell
+- Jeffrey Epstein
+- John Swinney
+locations:
+- Aberdeenshire
+- Balmoral Castle
+- Balmoral Summer Camp
+- Edinburgh
+- Luton
+- Royal Lodge
+- Sandringham
+- US
+- Windsor
+organisations:
+- Balmoral The Royal
+- Daily Express
+- Edinburgh Airport
+- Epstein Files
+- Mountbatten-Windsor
+- Police Scotland
+- Range Rover
+- Royal Family
+- Thames Valley Police
+- US Department of Justice
+---
+
+![Andrew Mountbatten-Windsor driving a Range Rover in Sandringham on Friday. He is spotted wearing sunglasses and a maroon shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/107f/live/fce8fef0-d47b-11f1-80bc-6d398902272f.jpg)
+
+Andrew Mountbatten-Windsor has consistently denied any wrongdoing
+
+**Police Scotland is making inquiries into the activities of Andrew Mountbatten-Windsor, Jeffrey Epstein and Ghislane Maxwell during their time at Balmoral Castle.**
+
+The Daily Express reported, external that the inquiry relates to allegations that women were trafficked to the royal residence in Aberdeenshire.
+
+Sex offender Epstein - who died in 2019 - and Maxwell, who was jailed in 2022 for sex trafficking, are understood to have visited the castle with Mountbatten-Windsor, who has previously denied any wrongdoing.
+
+Police Scotland said inquiries were at "a very early stage" and that it would be inappropriate to comment further.
+
+Representatives of Mountbatten-Windsor have been contacted for comment.
+
+![Epstein and Maxwell pictured sitting on a bench side by side](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad4a/live/18894860-d448-11f1-97f9-27ebf08d99fe.jpg)
+
+An image released by the US Department of Justice appears to show Epstein and Maxwell at Balmoral
+
+The Royal family traditionally spend summer at Balmoral, where Queen Elizabeth II died in 2022.
+
+Asked about the Express report, a Police Scotland spokesperson said: "We have received information and active inquiries are ongoing but these are at a very early stage.
+
+"All inquiries are evidence led, with the needs of victim survivors at the heart of those inquiries.
+
+"We would never confirm details of ongoing inquiries and it would be inappropriate to comment further."
+
+In February, the force said it wanted to "speak to anyone with information" about Epstein's private jet using Edinburgh Airport.
+
+At the time officers said they had not received any reports or complaints in relating to the trip.
+
+Flight logs show Mountbatten-Windsor and Maxwell flew from Luton to Edinburgh on Epstein's private jet with two other passengers on 1 September 2006.
+
+An image believed to show disgraced financier Epstein and former socialite Maxwell at Balmoral was also released by US prosecutors during her sex trafficking trial.
+
+It is thought to have been taken in 1999, when Mountbatten-Windsor reportedly invited the couple to stay at the castle.
+
+Epstein and Maxwell were reportedly regular guests at royal residences in the late 1990s and early 2000s.
+
+Last year, the so-called Epstein Files were released by the US Department of Justice.
+
+Among them was an email from someone named 'A' to Maxwell which said they were at Balmoral and asked for "new inappropriate friends".
+
+The message, sent to Maxwell on 16 August 2001, begins: "I am up here at Balmoral Summer Camp for the Royal Family."
+
+Later in the email, the sender asks: "How's LA? Have you found me some new inappropriate friends?" before signing off "see ya A xxx".
+
+![An undated picture of Jeffrey Epstein and Ghislaine Maxwell dressed in country clothing with someone who appears to be a gamekeeper, near Balmoral](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a7d5/live/0c4eec00-d45a-11f1-93e1-3b657b665bcf.jpg)
+
+A picture taken at Balmoral was released as part of the Epstein Files
+
+Jeffrey Epstein was 66 when he died by suicide in 2019 in a US prison while awaiting trial for sex trafficking charges.
+
+Maxwell, 60, was jailed for 20 years in 2022 for her role in procuring girls for Epstein.
+
+Last October it was confirmed Andrew had been stripped of his "prince" title and would be leaving his Windsor mansion, Royal Lodge.
+
+In February he was arrested on suspicion of misconduct in public office, in the wake of information that emerged from the Epstein files in the US, and later released.
+
+Earlier this month it emerged he was taking legal action against Thames Valley Police over search warrants issued before his arrest.
+
+Mountbatten-Windsor has consistently denied any wrongdoing linked to his association with Epstein.
+
+Asked about the latest reports, Scottish First Minister John Swinney said: "I understand the seriousness of the points that have been made and the concern that has been expressed.
+
+"This is an operational matter for Police Scotland to fully and comprehensively investigate and I'm very confident that's exactly what Police Scotland will do."
+
+Prime Minister Andy Burnham said he did not want to comment on the police inquiries, which "should properly be independent".
