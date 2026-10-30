@@ -5,6 +5,7 @@ Per-article processing pipeline: fetch, extract, classify, write.
 from __future__ import annotations
 
 import asyncio
+from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
@@ -37,7 +38,87 @@ from .text_extraction import (
     unfurl_multipage_article,
 )
 
+
+@dataclass
+class ExtractionResult:
+    """Result of extracting an article from raw HTML."""
+    frontmatter: dict[str, Any]
+    markdown_body: str
+
 # ---------------------------------------------------------------------------
+
+
+def extract_article_from_html(
+    html: str,
+    url: str,
+    site: SiteConfig,
+    logger: SiteLogger | None = None,
+    title_fallback: str | None = None,
+) -> ExtractionResult | None:
+    """Extract frontmatter and markdown body from preprocessed article HTML.
+
+    This is the shared core used by both the main pipeline and debug mode.
+    Callers should pass HTML that has already had exclusions removed and
+    srcset images resolved.
+
+    Args:
+        html: Preprocessed HTML of the article page (exclusions removed,
+            srcset images resolved).
+        url: The article URL (used for relative URL resolution).
+        site: Site configuration for exclusions and title suffix.
+        logger: Optional logger for progress reporting.
+        title_fallback: Fallback title when metadata is missing. Defaults to
+            the URL if not provided.
+
+    Returns:
+        ExtractionResult with frontmatter dict and markdown body, or None
+        if extraction failed.
+    """
+    if logger is None:
+        logger = SiteLogger("", "")
+
+    meta = extract_article_metadata(html, url=url)
+    extracted_html = extract_article_html(html, url=url)
+
+    if not extracted_html:
+        report_error(f"extraction returned nothing for {url}", logger=logger)
+        return None
+
+    extracted_html = normalize_inline_spacing(extracted_html)
+    md_body = to_markdown(extracted_html, heading_style="ATX")
+
+    # Clean markdown inline
+    md_body = clean_markdown_formatting(md_body)
+    md_body = linkify_text(md_body)
+
+    # Fallback to first image in markdown if metadata image is missing
+    image: str | None = None
+    if meta and meta.image:
+        image = meta.image
+    else:
+        image = extract_first_image_from_markdown(md_body)
+
+    title = (meta.title if meta else None) or title_fallback or url
+    if title:
+        suffix = site.remove_suffix
+        if suffix and title.endswith(suffix):
+            title = title[: -len(suffix)].strip()
+        if "|" in title:
+            title = title.split("|")[0].strip()
+    description = (meta.description if meta else None) or ""
+
+    frontmatter: dict[str, Any] = {
+        "title": title,
+        "source_url": url,
+        "source_site": site.name,
+        "source_slug": site.slug,
+        "description": description,
+        "image": image,
+    }
+    if meta and meta.date:
+        frontmatter["published"] = meta.date
+
+    return ExtractionResult(frontmatter=frontmatter, markdown_body=md_body)
 
 
 async def process_article(
@@ -115,14 +196,14 @@ async def process_article(
             html, url, _page_fetcher, logger=logger
         )
 
-    # Strip site-level chrome before trafilatura sees it
+    # Extract metadata early for date-based retention checks
     if site.exclusions:
-        html = remove_excluded_elements(html, site.exclusions, logger=logger)
+        preprocessed_html = remove_excluded_elements(html, site.exclusions, logger=logger)
+    else:
+        preprocessed_html = html
+    preprocessed_html = resolve_srcset_images(preprocessed_html, base_url=url, logger=logger)
 
-    # Promote srcset images to src so trafilatura retains them
-    html = resolve_srcset_images(html, base_url=url, logger=logger)
-
-    meta = await asyncio.to_thread(extract_article_metadata, html, url=url)
+    meta = await asyncio.to_thread(extract_article_metadata, preprocessed_html, url=url)
 
     now = datetime.now(UTC)
     pub_date: datetime | None = None
@@ -149,34 +230,15 @@ async def process_article(
         logger.log(f"  · already exists, skipping: {path.name}")
         return False
 
-    extracted_html = await asyncio.to_thread(extract_article_html, html, url=url)
-
-    if not extracted_html:
-        report_error(f"extraction returned nothing for {url}", logger=logger)
+    # Use shared extraction logic
+    result = await asyncio.to_thread(
+        extract_article_from_html, preprocessed_html, url, site, logger, article_slug
+    )
+    if result is None:
         return False
 
-    extracted_html = normalize_inline_spacing(extracted_html)
-    md_body = to_markdown(extracted_html, heading_style="ATX")
-
-    # Clean markdown inline
-    md_body = clean_markdown_formatting(md_body)
-    md_body = linkify_text(md_body)
-
-    # Fallback to first image in markdown if metadata image is missing
-    image: str | None = None
-    if meta and meta.image:
-        image = meta.image
-    else:
-        image = extract_first_image_from_markdown(md_body)
-
-    title = (meta.title if meta else None) or article_slug
-    if title:
-        suffix = site.remove_suffix
-        if suffix and title.endswith(suffix):
-            title = title[: -len(suffix)].strip()
-        if "|" in title:
-            title = title.split("|")[0].strip()
-    description = (meta.description if meta else None) or ""
+    md_body = result.markdown_body
+    frontmatter = dict(result.frontmatter)
 
     if dry_run:
         display_path = (
@@ -185,25 +247,19 @@ async def process_article(
         logger.log(f"  [dry-run] would write {display_path}")
         return True
 
-    # Prefer site-defined categories; append classifier-derived ones, no dupes.
+    # Augment frontmatter with classification data
+    title = frontmatter.get("title", "")
+    description = frontmatter.get("description", "")
     derived_categories = await asyncio.to_thread(article_categories, title, description)
     categories = list(dict.fromkeys(site.categories + derived_categories))
     entities = await asyncio.to_thread(named_entities, md_body)
 
-    frontmatter: dict[str, Any] = {
-        "title": title,
-        "source_url": url,
-        "source_site": site.name,
-        "source_slug": site.slug,
-        "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "description": description,
-        "image": image,
-        "categories": categories,
-        "people": sorted(filter_duplicate_names(entities.people)),
-        "locations": sorted(filter_duplicate_names(entities.locations)),
-        "organisations": sorted(filter_duplicate_names(entities.organisations)),
-    }
+    frontmatter["scraped_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    frontmatter["published"] = file_date.strftime("%Y-%m-%dT%H:%M:%SZ")
+    frontmatter["categories"] = categories
+    frontmatter["people"] = sorted(filter_duplicate_names(entities.people))
+    frontmatter["locations"] = sorted(filter_duplicate_names(entities.locations))
+    frontmatter["organisations"] = sorted(filter_duplicate_names(entities.organisations))
 
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(

@@ -248,6 +248,7 @@ def scraper_args(
     return argparse.Namespace(
         config=tmp_sites_file,
         site=None,
+        debug_url=None,
         dry_run=False,
         force=True,
         retention_months=0,

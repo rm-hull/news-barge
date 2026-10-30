@@ -150,6 +150,7 @@ sites:
     args = argparse.Namespace(
         config=tmp_sites_file,
         site=None,
+        debug_url=None,
         dry_run=True,
         force=True,
         retention_months=0,
@@ -180,6 +181,7 @@ async def test_listing_url_discovery(
     args = argparse.Namespace(
         config=tmp_sites_file,
         site=None,
+        debug_url=None,
         dry_run=False,
         force=True,
         retention_months=0,
@@ -210,6 +212,7 @@ async def test_exclusions_strip_site_chrome(
     args = argparse.Namespace(
         config=tmp_sites_file,
         site=None,
+        debug_url=None,
         dry_run=False,
         force=True,
         retention_months=0,
@@ -339,6 +342,7 @@ sites:
     args = argparse.Namespace(
         config=tmp_sites_file,
         site="nonexistent",
+        debug_url=None,
         dry_run=False,
         force=True,
         retention_months=0,

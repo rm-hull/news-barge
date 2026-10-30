@@ -32,5 +32,16 @@ Agents should never modify `sites.yaml` automatically. They should:
 2. Propose the configuration snippet.
 3. Explicitly ask the user for permission to apply the change.
 
+### Debug a Single URL
+
+Use `--debug-url` with `--site` to fetch and process a single article URL using the specified site's configuration. The raw HTML is saved to a temp file (path printed to stderr), and the extracted markdown with frontmatter is printed to stdout. This is the fastest way to get feedback when tuning `sites.yaml` configuration (e.g., `listing_class`, `exclusions`, `listing_link_pattern`):
+
+```bash
+uv run scrape --site guardian \
+  --debug-url "https://www.theguardian.com/world/2024/jan/01/example-article"
+```
+
+Check the markdown output for correct title, description, image, and body content. Use the temp HTML file path from stderr to inspect the raw page if extraction looks wrong.
+
 ### Filesystem Search
 **Never run `find /` against the whole filesystem.** The Poolside Laguna LLM has a recurring tendency to reach for `find /` when searching, which is slow, noisy, and sweeps up virtual filesystems and caches. Always prefer **ripgrep (`rg`)** instead — it's fast, respects `.gitignore`/`ignore` files, and is the right tool for content and path searches. For example, use `rg -l "pattern" path` to find files by content, or `rg --files path` to list files.

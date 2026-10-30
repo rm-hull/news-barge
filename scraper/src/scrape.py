@@ -19,6 +19,7 @@ import os
 import random
 import re
 import sys
+import tempfile
 from pathlib import Path
 from typing import Any
 
@@ -53,9 +54,13 @@ from .log_helper import (
     report_notice,
     write_step_summary,
 )
-from .pipeline import process_article
+from .pipeline import extract_article_from_html, process_article
 from .profiling import format_profile_stats
 from .sites import SiteConfig
+from .text_extraction import (
+    remove_excluded_elements,
+    resolve_srcset_images,
+)
 
 # ---------------------------------------------------------------------------
 # Feed handlers
@@ -234,11 +239,102 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
 
 
 # ---------------------------------------------------------------------------
+# Debug mode
+# ---------------------------------------------------------------------------
+
+
+async def _debug_url(args: argparse.Namespace) -> None:
+    """Debug mode: fetch a single URL, process it, and print the result.
+
+    Saves the raw HTML to a temp file for inspection, then runs the full
+    extraction pipeline (exclusions, srcset resolution, trafilatura, markdown
+    conversion) and prints the resulting markdown to stdout.
+    """
+    if not args.site:
+        report_error("--debug-url requires --site to specify the site slug.")
+        sys.exit(1)
+
+    sites = SiteConfig.load_sites(args.config)
+    site = next((s for s in sites if s.slug == args.site), None)
+    if site is None:
+        report_error(f"No site with slug '{args.site}' found.")
+        sys.exit(1)
+
+    url = args.debug_url
+    logger = SiteLogger(site.name, site.slug)
+    print(f"Debug mode: processing {url} with site '{site.slug}'")
+
+    async with aiohttp.ClientSession() as session:
+        ssl = not site.trust_insecure_certs
+        if site.force_playwright:
+            async with async_playwright() as playwright:
+                browser = await playwright.chromium.launch(headless=True)
+                context = await _create_shared_context(browser)
+                html = await fetch_html_playwright(
+                    url, context, logger=logger,
+                    wait_until=site.playwright_wait_until,
+                )
+                await context.close()
+                await browser.close()
+        else:
+            html = await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
+
+    if not html:
+        report_error(f"Failed to fetch HTML from {url}")
+        sys.exit(1)
+
+    # Save raw HTML to a temp file for inspection
+    tmp = tempfile.NamedTemporaryFile(
+        mode="w", suffix=".html", delete=False, encoding="utf-8"
+    )
+    tmp.write(html)
+    tmp.close()
+    tmp_path = Path(tmp.name)
+    print(f"Raw HTML saved to: {tmp_path}")
+
+    # Preprocess HTML before extraction (same as pipeline)
+    if site.exclusions:
+        html = remove_excluded_elements(html, site.exclusions, logger=logger)
+    html = resolve_srcset_images(html, base_url=url, logger=logger)
+
+    # Use shared extraction logic
+    result = extract_article_from_html(html, url, site, logger)
+    if result is None:
+        report_error(f"Extraction returned nothing for {url}")
+        print(f"\n--- Raw HTML available at: {tmp_path} ---", file=sys.stderr)
+        sys.exit(1)
+
+    # Print result
+    fm_yaml = yaml.dump(
+        result.frontmatter,
+        allow_unicode=True,
+        default_flow_style=False,
+        sort_keys=False,
+    )
+    print("---")
+    print(fm_yaml, end="")
+    print("---")
+    print()
+    print(result.markdown_body.strip())
+    print()
+    print(f"--- Raw HTML available at: {tmp_path} ---", file=sys.stderr)
+
+    # Print any log messages
+    for log_line in logger.logs:
+        print(log_line, file=sys.stderr)
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 
 async def main_async(args: argparse.Namespace) -> None:
+    # Handle --debug-url mode: single URL, fast feedback, no file write
+    if args.debug_url:
+        await _debug_url(args)
+        return
+
     sites = SiteConfig.load_sites(args.config)
     if args.site:
         sites = [s for s in sites if s.slug == args.site]
@@ -440,6 +536,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
     parser.add_argument("--dry-run", action="store_true", help="Don't write files")
     parser.add_argument("--site", help="Only process this slug")
+    parser.add_argument(
+        "--debug-url",
+        help="Debug mode: fetch and process a single URL, print markdown to stdout, "
+        "and save raw HTML to a temp file (requires --site)",
+    )
     parser.add_argument(
         "--config",
         type=Path,

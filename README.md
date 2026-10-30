@@ -136,8 +136,23 @@ uv run playwright install chromium
 
 uv run scrape --dry-run       # preview only
 uv run scrape                  # write to ../content/
+```
 
-# Build and preview the site
+### Debug a single URL
+
+Use `--debug-url` with `--site` to fetch and process a single article URL
+using the specified site's configuration. The raw HTML is saved to a temp
+file (path printed to stderr), and the extracted markdown is printed to
+stdout — useful for fast feedback when tuning site configuration:
+
+```bash
+uv run scrape --site guardian \
+  --debug-url "https://www.theguardian.com/world/2024/jan/01/example-article"
+```
+
+### Build and preview the site
+
+```bash
 cd ../site
 npm install
 npm start    # http://localhost:8080
