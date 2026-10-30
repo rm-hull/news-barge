@@ -1,0 +1,57 @@
+---
+title: This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling
+source_url: https://www.wired.com/story/oh-my-hours-ios-app/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-10-30T18:06:54Z'
+published: '2026-10-30T00:00:00Z'
+description: The iOS app Oh My Hours takes a new approach to curbing screen time.
+  It splits up your day into hour-long blocks, then shows which ones you wasted on
+  Instagram and TikTok.
+image: https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/191:100/w_1280,c_limit/GettyImages-2240550047.jpg
+categories:
+- Technology & Software
+- Science
+people: []
+locations: []
+organisations:
+- Apple
+- Google
+- NFC
+---
+
+You know that phone addiction has become a big issue when even Google and Apple are bundling time management tools into their handsets—Digital Wellbeing and Screen Time, respectively. There are now also a plethora of apps looking to help you cultivate a healthier relationship with your device.
+
+One of the newer ones, which takes a slightly different approach to the norm, is Oh My Hours for iOS. (There's no sign of an Android version yet.) Rather than giving you a mass of menus and options to wade through, it simply splits each day into blocks of hours that you can either waste or use productively, then puts a black mark next to the hours during which your phone has distracted you.
+
+It's simple, it's effective, and it just might work. Rather than seeing how long you spent on X and Instagram, you see the hours you've lost to social media algorithms and the infinite scroll. Here's how Oh My Hours works on your iPhone, plus some other apps to check out if you’re looking to develop healthier phone habits.
+
+## Moments Lost
+
+You can get started with Oh My Hours for free on iOS. But to really make the most of it, a $10-per-year or $20 lifetime payment is required. This lets you customize what counts as a “lost” hour or day, and it gives you access to month and year views, which provide the best insights into how you're spending time on your phone.
+
+Here's how it works. First, you indicate which apps you consider distractions, either by category (social media apps and games, for example) or by selecting apps individually. If you use any distracting app for a certain amount of time—this can be customized in settings—then that hour of the day is marked as “lost.”
+
+The main interface shows each day as a straightforward series of circles representing hours. Every circle that’s filled in black is an hour you’ve lost to an app that has pulled you away from something more worthwhile.
+
+It’s quite a brutal and minimalist approach, but I like it. It really brings home how much time you can spend on apps that aren’t really all that good for you, especially when you start looking at your progress (or lack of it) over entire weeks or months. However, I did find that once I’d lost a particular hour, my brain wanted to cram in as much absent-minded scrolling as possible during the rest of that hour.
+
+By default, an hour is marked as lost if only if you spend seconds inside a distracting app. It's quite a harsh approach, but it needs to be—otherwise I think there would be the temptation to use up any allotted free time after every hour resets. You can extend this threshold period through settings, if you pay for the app.
+
+Another handy feature here is the ability to set designated quiet hours. These are times when you really, absolutely do not want to look at your phone unnecessarily: Any use of a distracting app here blackens the boxes for all the hours in the quiet zone, not just one. Again, this can be customized, whether or not you’re using the app for free.
+
+There’s one more option here, which is to reset an hour if you think it’s been marked incorrectly. (Maybe your finger slipped and you really didn’t mean to launch Instagram.) It’s all very simple and easy to use, and there’s an export tool here that gives you a CSV file of your stats if you want to do more with them.
+
+## Other App Picks
+
+As I’ve already mentioned, if you’re in the market for an app that’ll gently nudge your habits toward spending less time on your phone, there are abundant options that look at the problem from a variety of angles. These are in addition to the Digital Wellbeing (Android) and Screen Time (iOS) tools you’ll find on your phone, which can be accessed from the Settings screens.
+
+**One Sec** for Android or iOS takes a simple approach to phone addiction. For the apps you specify, it will load up a breathing exercise for you to complete before giving you the choice to continue to the app or back out. It’s a small tweak, but it’s surprisingly effective, and it’s backed by science. You can get started for free, while $20 a year gets you more features, including full app blocking and more advanced time tracking.
+
+Then there’s **Forest**, for Android or iOS, which I’ve found to be useful whenever I’ve wanted to try to encourage myself to spend less time on my phone. The longer you ignore your handset, the bigger your virtual forest grows, and the app developers invest in real tree planting to further incentivize you. The main focus timer can be used without paying, while upgrades like customizations and allowed lists will set you back at least $6 a month.
+
+**ScreenZen**, available for Android or iOS, is comprehensive and completely free (though you can donate to the developer if you find it helpful, which I’d recommend). You can set up a variety of barriers between you and your distracting apps, depending on your preference, including customized pauses (with motivational messages) and math challenges. Conventional app and timer blocks are also included.
+
+One of the most thorough options here is **Roots**, though it’s available only on iOS. You’re able to schedule phone-free periods, block specific apps, and set up phone detox challenges that you can take on with friends and family. Like Oh My Hours, the app is also really good at giving you a breakdown of how much time you’ve saved by staying out of certain apps. Basic blocks and limits are free, with more advanced customizations available for $10 a month.
+
+Also worth considering is **Brick**, which combines the free Android or iOS app with a small physical device that’ll set you back $59. The Brick itself is an NFC transmitter (it works like tap-to-pay), and when you want some distraction-free time, just press your phone against it to block (or unblock) specific apps. The controls are all managed in the Brick app. It’s incredibly simple, and that’s what makes it effective.
