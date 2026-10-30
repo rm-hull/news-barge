@@ -4,6 +4,7 @@ HTTP fetchers: aiohttp and Playwright-based HTML retrieval.
 
 from __future__ import annotations
 
+import asyncio
 import time
 from typing import Any, Literal
 
@@ -102,6 +103,25 @@ async def fetch_html_playwright(
             timeout=PLAYWRIGHT_TIMEOUT,
         )
         html = await page.content()
+        # Wait for Cloudflare/anti-bot challenge to resolve if present
+        lower = html.lower()
+        if (
+            "cloudflare" in lower
+            or "just a moment" in lower
+            or "security verification" in lower
+            or "checking your browser" in lower
+        ):
+            for _ in range(30):
+                await asyncio.sleep(1)
+                html = await page.content()
+                lower = html.lower()
+                if (
+                    "cloudflare" not in lower
+                    and "just a moment" not in lower
+                    and "security verification" not in lower
+                    and "checking your browser" not in lower
+                ):
+                    break
         _elapsed = time.perf_counter() - start
         if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:
             report_error(

@@ -70,6 +70,9 @@ class SiteConfig:
     resolve_relative_to_root: bool = False
     exclusions: list[str] = field(default_factory=list)
     remove_suffix: str | None = None
+    # If True, attempt to unfurl multi-page articles (detect "Next page"
+    # links, fetch subsequent pages, and merge into a single article).
+    unfurl_multipage: bool = False
 
     # ── Metadata ───────────────────────────────────────────────────────────
     categories: list[str] = field(default_factory=list)
@@ -131,6 +134,7 @@ class SiteConfig:
             listing_class=data.get("listing_class"),
             resolve_relative_to_root=data.get("resolve_relative_to_root", False),
             remove_suffix=data.get("remove_suffix"),
+            unfurl_multipage=data.get("unfurl_multipage", False),
             notes=data.get("notes"),
         )
 

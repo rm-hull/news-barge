@@ -96,6 +96,7 @@ sites:
     listing_class: article-link
     limit: 10
     force_playwright: true   # use a real browser for JS-heavy sites
+    unfurl_multipage: true   # merge multi-page articles into one
 ```
 
 #### Adding a custom extraction rule for noisy sites

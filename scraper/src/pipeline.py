@@ -34,6 +34,7 @@ from .text_extraction import (
     normalize_inline_spacing,
     remove_excluded_elements,
     resolve_srcset_images,
+    unfurl_multipage_article,
 )
 
 # ---------------------------------------------------------------------------
@@ -90,6 +91,29 @@ async def process_article(
 
     if not html:
         return False
+
+    # Unfurl multi-page articles (fetch subsequent pages and merge)
+    if site.unfurl_multipage:
+        # Build a fetcher that matches the site's fetch method
+        async def _page_fetcher(page_url: str) -> str | None:
+            async with fetch_semaphore:
+                ssl = not site.trust_insecure_certs
+                if site.force_playwright:
+                    async with browser_semaphore:
+                        return await fetch_html_playwright(
+                            page_url,
+                            context,
+                            logger=logger,
+                            wait_until=site.playwright_wait_until,
+                        )
+                else:
+                    return await fetch_html_aiohttp(
+                        page_url, session, logger=logger, ssl=ssl
+                    )
+
+        html = await unfurl_multipage_article(
+            html, url, _page_fetcher, logger=logger
+        )
 
     # Strip site-level chrome before trafilatura sees it
     if site.exclusions:

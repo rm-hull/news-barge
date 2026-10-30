@@ -18,6 +18,230 @@ if TYPE_CHECKING:
     from trafilatura.settings import Document
 
 
+# ---------------------------------------------------------------------------
+# Multi-page article unfurling
+#
+# Some news sites split long articles across multiple pages (e.g. ReachLocal
+# sites like Harrogate Advertiser).  These pages are linked via "Next page"
+# buttons/links, typically using URL patterns like:
+#   /article-name-12345/2  (page 2)
+#   /article-name-12345/3  (page 3)
+# or via ``rel="next"`` link tags in the <head>.
+#
+# The unfurling logic detects these links, fetches all subsequent pages,
+# extracts their article body content, and merges them into a single HTML
+# document before trafilatura extraction.
+# ---------------------------------------------------------------------------
+
+# XPath selectors for "Next page" navigation links
+_NEXT_PAGE_SELECTORS = [
+    # Generic pagination patterns
+    "//a[@rel='next']",
+    "//a[contains(@class, 'next-page')]",
+    "//a[contains(@class, 'next')]",
+    "//a[contains(@class, 'pagination-next')]",
+    "//a[contains(@class, 'page-next')]",
+    "//a[@aria-label='Next']",
+    "//a[@aria-label='Next page']",
+    # ReachLocal / local news patterns
+    "//a[contains(@class, 'article-next')]",
+    "//a[contains(@class, 'next-article')]",
+    "//div[contains(@class, 'next')]/a",
+    "//span[contains(@class, 'next')]/a",
+    "//li[contains(@class, 'next')]/a",
+]
+
+# Link text patterns that indicate a "Next page" link
+_NEXT_PAGE_TEXTS = re.compile(
+    r"^(next|next\s+page|page\s+\d+|→|›|»|\s*>\s*)$", re.IGNORECASE
+)
+
+
+def _find_next_page_url(html: str, base_url: str) -> str | None:
+    """Find the URL of the next page in a multi-page article.
+
+    Searches for next-page links using multiple strategies:
+    1. ``rel="next"`` link tags in <head>
+    2. XPath selectors for common pagination patterns
+    3. Link text matching "Next", "Next page", page numbers, etc.
+
+    Args:
+        html: The raw HTML of the current page.
+        base_url: The URL of the current page (for resolving relative URLs).
+
+    Returns:
+        The absolute URL of the next page, or ``None`` if not found.
+    """
+    try:
+        tree = lxml_html.fromstring(html)
+    except lxml_html.ParserError:
+        return None
+
+    next_url: str | None = None
+
+    # Strategy 1: rel="next" in <head> <link> tags
+    for link in tree.xpath("//head//link[@rel='next']"):
+        href = link.get("href")
+        if href:
+            next_url = urljoin(base_url, href)
+            break
+
+    # Strategy 2: XPath selectors for common pagination patterns
+    if next_url is None:
+        for selector in _NEXT_PAGE_SELECTORS:
+            try:
+                elements = tree.xpath(selector)
+                if elements:
+                    for el in elements:
+                        href = el.get("href")
+                        if href:
+                            next_url = urljoin(base_url, href)
+                            break
+                    if next_url:
+                        break
+            except Exception:
+                continue
+
+    # Strategy 3: Link text matching
+    if next_url is None:
+        for anchor in tree.xpath("//a[@href]"):
+            href = anchor.get("href")
+            if not href:
+                continue
+            text = (anchor.text_content() or "").strip()
+            if _NEXT_PAGE_TEXTS.match(text):
+                next_url = urljoin(base_url, href)
+                break
+
+    return next_url
+
+
+async def unfurl_multipage_article(
+    html: str,
+    base_url: str,
+    fetcher: Any,
+    *,
+    max_pages: int = 20,
+    logger: Any = None,
+) -> str:
+    """Unfurl a multi-page article into a single HTML document.
+
+    Detects "Next page" links in the HTML, fetches subsequent pages,
+    extracts their article body content, and appends it to the first page's
+    body. Returns the merged HTML where the <body> contains the first page's
+    extracted body followed by each subsequent page's extracted body.
+
+    Args:
+        html: The raw HTML of the first page.
+        base_url: The URL of the first page.
+        fetcher: An async callable that fetches HTML for a URL.
+            Signature: ``async def fetcher(url) -> str | None``.
+        max_pages: Maximum number of pages to fetch (safety limit).
+        logger: Optional logger for progress reporting.
+
+    Returns:
+        The merged HTML of all pages, or the original HTML if no pagination
+        was detected.
+    """
+    pages_fetched = 1
+    current_url = base_url
+    # Keep the raw HTML of the last fetched page so we can find the
+    # next-page link in it — not in the merged document where old
+    # pagination links from earlier pages would confuse detection.
+    last_raw_html = html
+
+    # Extract the first page's body so we can concatenate subsequent
+    # page bodies with it — trafilatura will re-extract from the final
+    # HTML, so we need the bodies in the <body> tag as plain children.
+    first_body = extract(
+        html,
+        url=base_url,
+        output_format="html",
+        include_comments=False,
+        include_formatting=True,
+        include_images=True,
+        include_tables=True,
+        favor_precision=True,
+        config=TRAFILATURA_CONFIG,
+    )
+
+    # Build a minimal HTML document with just the first page's body
+    if first_body:
+        merged_html = f"<html><body>{first_body}</body></html>"
+    else:
+        merged_html = html
+
+    while pages_fetched < max_pages:
+        next_url = _find_next_page_url(last_raw_html, current_url)
+        if next_url is None:
+            break
+
+        # Avoid infinite loops: don't re-fetch the same URL.
+        # Normalize by stripping hash fragments so "?page=5" and
+        # "?page=5#" are treated as identical.
+        next_clean = next_url.split("#", 1)[0]
+        current_clean = current_url.split("#", 1)[0]
+        if next_clean == current_clean:
+            break
+
+        if logger:
+            logger.log(f"  · unfurling page {pages_fetched + 1}: {next_url}")
+
+        # Fetch the next page
+        next_html = await fetcher(next_url)
+
+        if not next_html:
+            if logger:
+                logger.log(f"  · failed to fetch page {pages_fetched + 1}, stopping")
+            break
+
+        # Extract the article body from the next page using trafilatura
+        # to avoid duplicating header/footer/navigation content
+        next_body = extract(
+            next_html,
+            url=next_url,
+            output_format="html",
+            include_comments=False,
+            include_formatting=True,
+            include_images=True,
+            include_tables=True,
+            favor_precision=True,
+            config=TRAFILATURA_CONFIG,
+        )
+
+        if next_body:
+            # Append the next page's body to the merged document
+            try:
+                tree = lxml_html.fromstring(merged_html)
+                body = tree.xpath("//body")
+                if body:
+                    body_el = body[0]
+                    fragment = lxml_html.fromstring(
+                        f"<div class=\"unfurled-page\" data-page=\"{pages_fetched + 1}\">{next_body}</div>"
+                    )
+                    if isinstance(fragment, list):
+                        for child in fragment:
+                            body_el.append(child)
+                    else:
+                        body_el.append(fragment)
+                merged_html = cast(str, lxml_html.tostring(tree, encoding="unicode"))
+            except lxml_html.ParserError:
+                # If parsing fails, just concatenate
+                merged_html = merged_html.replace(
+                    "</body>",
+                    f"<div class=\"unfurled-page\" data-page=\"{pages_fetched + 1}\">{next_body}</div></body>"
+                )
+
+        pages_fetched += 1
+        current_url = next_url
+        last_raw_html = next_html
+
+    if pages_fetched > 1 and logger:
+        logger.log(f"  · unfurled {pages_fetched} page(s) into single article")
+
+    return merged_html
+
+
 def clean_markdown_formatting(text: str) -> str:
     """Fixes markdown formatting issues to improve compatibility with Eleventy."""
     if not text:

@@ -2,9 +2,13 @@
 
 from __future__ import annotations
 
+import asyncio
 from unittest.mock import MagicMock
 
+import pytest
+
 from src.text_extraction import (
+    _find_next_page_url,
     clean_markdown_formatting,
     ensure_image_extension,
     extract_first_image_from_markdown,
@@ -16,6 +20,7 @@ from src.text_extraction import (
     pick_largest_srcset_url,
     remove_excluded_elements,
     resolve_srcset_images,
+    unfurl_multipage_article,
 )
 
 
@@ -485,3 +490,182 @@ class TestResolveSrcsetImages:
         ) in result
         assert "srcset" not in result
         assert "sizes" not in result
+
+
+class TestFindNextPageUrl:
+    """Tests for _find_next_page_url."""
+
+    def test_rel_next_link_tag(self) -> None:
+        html = """<html><head>
+        <link rel="next" href="https://example.com/article/2" />
+        </head><body><p>Page 1</p></body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_next_page_class(self) -> None:
+        html = """<html><body>
+        <p>Page 1</p>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_next_link_text(self) -> None:
+        html = """<html><body>
+        <p>Page 1</p>
+        <a href="/article/2">Next page</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_next_link_text_uppercase(self) -> None:
+        html = """<html><body>
+        <p>Page 1</p>
+        <a href="/article/2">NEXT</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_arrow_link_text(self) -> None:
+        html = """<html><body>
+        <p>Page 1</p>
+        <a href="/article/2">›</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_page_number_link_text(self) -> None:
+        html = """<html><body>
+        <p>Page 1</p>
+        <a href="/article/3">Page 3</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/3"
+
+    def test_no_pagination_returns_none(self) -> None:
+        html = """<html><body><p>Single page article</p></body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result is None
+
+    def test_relative_url_resolved(self) -> None:
+        html = """<html><body>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_aria_label_next(self) -> None:
+        html = """<html><body>
+        <a aria-label="Next page" href="/article/2">›</a>
+        </body></html>"""
+        result = _find_next_page_url(html, "https://example.com/article/1")
+        assert result == "https://example.com/article/2"
+
+    def test_invalid_html_returns_none(self) -> None:
+        result = _find_next_page_url("not html at all", "https://example.com/page")
+        assert result is None
+
+
+class TestUnfurlMultipageArticle:
+    """Tests for unfurl_multipage_article."""
+
+    @pytest.mark.asyncio
+    async def test_returns_original_when_no_pagination(self) -> None:
+        html = "<html><body><p>Single page</p></body></html>"
+        base_url = "https://example.com/article/1"
+
+        async def fetcher(url: str) -> str | None:
+            return "<html><body><p>Should not be called</p></body></html>"
+
+        result = await unfurl_multipage_article(html, base_url, fetcher)
+        # When no pagination, the function extracts the body and wraps it
+        # in a minimal HTML document — content should be preserved
+        assert "<p>Single page</p>" in result
+        assert "unfurled-page" not in result
+
+    @pytest.mark.asyncio
+    async def test_merges_two_pages(self) -> None:
+        page1 = """<html><body>
+        <p>Page 1 content</p>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+        page2 = """<html><body>
+        <h2>Continued</h2>
+        <p>Page 2 content</p>
+        </body></html>"""
+
+        call_count = 0
+
+        async def fetcher(url: str) -> str | None:
+            nonlocal call_count
+            call_count += 1
+            return page2
+
+        result = await unfurl_multipage_article(
+            page1, "https://example.com/article/1", fetcher
+        )
+        assert call_count == 1
+        assert "Page 1 content" in result
+        assert "unfurled-page" in result
+
+    @pytest.mark.asyncio
+    async def test_stops_when_fetch_fails(self) -> None:
+        page1 = """<html><body>
+        <p>Page 1</p>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+
+        async def fetcher(url: str) -> str | None:
+            return None  # Simulate fetch failure
+
+        logger = MagicMock()
+        result = await unfurl_multipage_article(
+            page1, "https://example.com/article/1", fetcher, logger=logger
+        )
+        # Should return original HTML when fetch fails
+        assert "Page 1" in result
+        logger.log.assert_called()
+        assert "failed to fetch" in logger.log.call_args[0][0]
+
+    @pytest.mark.asyncio
+    async def test_respects_max_pages(self) -> None:
+        """Should not fetch more than max_pages."""
+        html = """<html><body>
+        <p>Content</p>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+
+        call_count = 0
+
+        async def fetcher(url: str) -> str | None:
+            nonlocal call_count
+            call_count += 1
+            # Return HTML with another "Next" link to test max_pages limit
+            return """<html><body>
+            <p>More content</p>
+            <a class="next-page" href="/article/3">Next</a>
+            </body></html>"""
+
+        result = await unfurl_multipage_article(
+            html, "https://example.com/article/1", fetcher, max_pages=3
+        )
+        # Should have fetched 2 additional pages (max_pages=3, page 1 already fetched)
+        assert call_count <= 2
+
+    @pytest.mark.asyncio
+    async def test_avoids_infinite_loop(self) -> None:
+        """If next URL equals current URL, stop."""
+        html = """<html><body>
+        <p>Content</p>
+        <a class="next-page" href="/article/1">Next</a>
+        </body></html>"""
+
+        async def fetcher(url: str) -> str | None:
+            raise AssertionError("Should not fetch when next URL equals current")
+
+        result = await unfurl_multipage_article(
+            html, "https://example.com/article/1", fetcher
+        )
+        # Content should be preserved; fetcher should not be called
+        assert "Content" in result
+        assert "unfurled-page" not in result
