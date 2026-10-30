@@ -1,0 +1,33 @@
+---
+title: 'Video. Ukraine: Russian strike kills two teenage girls in Chernihiv'
+source_url: https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv
+source_site: Euronews
+source_slug: euronews
+scraped_at: '2026-10-30T00:54:28Z'
+published: '2026-10-30T00:00:00Z'
+description: Video. A Russian strike on Chernihiv killed two 15-year-old girls and
+  injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern
+  Ukraine is allowing demining work aimed at opening humanitarian routes.
+image: https://images.euronews.com/articles/stories/09/97/26/67/1200x675_cmsv2_72194766-53cf-5c75-a033-89c12ebde793-9972667.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+people:
+- Volodymyr Zelensky
+locations:
+- Kherson
+- Oleshky
+- Russia
+- Ukraine
+organisations:
+- Defence Ministry
+---
+
+**Firefighters rushed to extinguish burning cars** and tackle flames and smoke pouring from damaged buildings, while emergency crews attended to victims amid scattered debris. Footage shows rescuers carrying a person into an ambulance and a**body lying under a blanket** near the scene.
+
+The local military administration said the attack involved a **Banderol cruise missile**, a relatively inexpensive jet-powered weapon capable of loitering before striking its target. Businesses, homes and vehicles were damaged in the attack.
+
+The strike came as a separate, **US-brokered ceasefire in southern Ukraine** was reported to be holding around the**Russian-occupied city of Oleshky**, in the** Kherson region**. Ukrainian and Russian human rights ombudsmen said on Wednesday that the** local truce had passed 30 hours without an incident**. Images released by Russia's Defence Ministry purportedly show** military engineers clearing mines near Oleshky**, although the filming date was not provided.
+
+The operation is intended to **open routes for humanitarian aid** and allow residents who wish to leave to do so.**Around 2,000 people** are believed to remain in the city, where food, water and medicine have been scarce for months. Ukrainian**President Volodymyr Zelensky** welcomed the respite but said the**evacuation of civilians would be crucial to the truce's success**.
