@@ -43,7 +43,6 @@ from .constants import (
     REPO_ROOT,
     SITES_FILE,
 )
-from .slugs import url_to_slug
 from .fetchers import (
     fetch_html_aiohttp,
     fetch_html_playwright,
@@ -58,6 +57,7 @@ from .log_helper import (
 from .pipeline import extract_article_from_html, process_article
 from .profiling import format_profile_stats
 from .sites import SiteConfig
+from .slugs import url_to_slug
 from .text_extraction import (
     remove_excluded_elements,
     resolve_srcset_images,
@@ -479,7 +479,9 @@ async def main_async(args: argparse.Namespace) -> None:
                     article_slug = url_to_slug(url, site.exclude_query_params)
                     site_existing = existing_slugs.get(site.slug)
                     if site_existing is not None and article_slug in site_existing:
-                        logger.log(f"  · already exists (skipping fetch): {article_slug}")
+                        logger.log(
+                            f"  · already exists (skipping fetch): {article_slug}"
+                        )
                         continue
                     filtered_tasks.append((url, site, logger))
                 all_tasks = filtered_tasks

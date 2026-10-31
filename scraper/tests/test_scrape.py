@@ -100,9 +100,7 @@ class TestBuildExistingSlugsMap:
         assert "second-article" in result["guardian"]
         assert "another-piece" in result["bbc"]
 
-    def test_handles_article_slugs_with_double_dashes(
-        self, tmp_path: Path
-    ) -> None:
+    def test_handles_article_slugs_with_double_dashes(self, tmp_path: Path) -> None:
         """Article slugs may contain '--' themselves; only the first '--'
         separates the site slug from the article slug."""
         d = tmp_path / "2024" / "02" / "10"
