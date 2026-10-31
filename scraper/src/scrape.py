@@ -366,197 +366,208 @@ async def _debug_url(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
-async def main_async(args: argparse.Namespace) -> None:
-    # Handle --debug-url mode: single URL, fast feedback, no file write
-    if args.debug_url:
-        await _debug_url(args)
-        return
+def _deduplicate_urls(urls: list[str]) -> list[str]:
+    """Deduplicate URLs while preserving order."""
+    seen: set[str] = set()
+    deduped: list[str] = []
+    for u in urls:
+        if u not in seen:
+            deduped.append(u)
+            seen.add(u)
+    return deduped
 
-    sites = SiteConfig.load_sites(args.config)
-    if args.site:
-        sites = [s for s in sites if s.slug == args.site]
-        if not sites:
-            report_error(f"No site with slug '{args.site}' found.")
-            sys.exit(1)
 
-    total_new = 0
-    concurrency = args.concurrency or DEFAULT_CONCURRENCY
-    browser_concurrency = args.browser_concurrency or DEFAULT_BROWSER_CONCURRENCY
-    fetch_semaphore = asyncio.Semaphore(concurrency)
-    browser_semaphore = asyncio.Semaphore(browser_concurrency)
+async def _discover_urls(
+    sites: list[SiteConfig],
+    session: aiohttp.ClientSession,
+    shared_context: BrowserContext,
+    browser_semaphore: asyncio.Semaphore,
+) -> tuple[list[tuple[str, SiteConfig, SiteLogger]], dict[str, SiteLogger]]:
+    """Discover article URLs for each site from feeds, listings, and static config.
 
+    Returns a tuple of (task_list, site_loggers) where task_list contains
+    `(url, site, logger)` triples for every discovered URL.
+    """
     site_loggers: dict[str, SiteLogger] = {}
     all_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
 
-    async with aiohttp.ClientSession() as session:
-        async with async_playwright() as playwright:
-            browser = await playwright.chromium.launch(headless=True)
+    for site in sites:
+        site_logger = SiteLogger(site.name, site.slug)
+        site_loggers[site.slug] = site_logger
 
-            # One shared browsing context for ALL Playwright fetches (listings
-            # and articles). A context is expensive to create (~2.8s on CI);
-            # reusing it instead of opening one per fetch is the biggest
-            # Playwright win (issue #49). Pages (cheap) are opened/closed
-            # inside it by fetch_html_playwright.
-            shared_context = await _create_shared_context(browser)
+        print(f"Discovery: {site.name} ({site.slug})", end="", flush=True)
 
-            # Phase 1 & 2: Discovery
-            for site in sites:
-                site_slug = site.slug
-                logger = SiteLogger(site.name, site_slug)
-                site_loggers[site_slug] = logger
+        urls = list(site.urls)
 
-                print(f"Discovery: {site.name} ({site.slug})", end="", flush=True)
+        if site.feed:
+            feed_urls = await urls_from_feed(
+                site.feed,
+                site.feed_limit_or_default,
+                session,
+                logger=site_logger,
+                site=site,
+            )
+            print(
+                f" | Feed {site.feed} -> found {len(feed_urls)} URLs",
+                end="",
+                flush=True,
+            )
+            urls = feed_urls + urls
 
-                urls = list(site.urls)
+        for listing_url in site.listing_urls:
+            discovered = await urls_from_listing(
+                listing_url,
+                site.listing_link_pattern,
+                site.listing_limit_or_default,
+                site.force_playwright,
+                session,
+                shared_context,
+                browser_semaphore,
+                site.listing_class,
+                site.resolve_relative_to_root,
+                logger=site_logger,
+                site=site,
+            )
+            print(
+                f" | Listing {listing_url} -> found {len(discovered)} URLs",
+                end="",
+                flush=True,
+            )
+            urls = discovered + urls
 
-                if site.feed:
-                    limit = site.feed_limit_or_default
-                    feed_urls = await urls_from_feed(
-                        site.feed, limit, session, logger=logger, site=site
-                    )
-                    print(
-                        f" | Feed {site.feed} -> found {len(feed_urls)} URLs",
-                        end="",
-                        flush=True,
-                    )
-                    urls = feed_urls + urls
+        print()  # Newline after all sources for this site are printed
 
-                for listing_url in site.listing_urls:
-                    use_playwright = site.force_playwright
-                    limit = site.listing_limit_or_default
-                    pattern = site.listing_link_pattern
-                    listing_class = site.listing_class
-                    resolve_relative_to_root = site.resolve_relative_to_root
-                    discovered = await urls_from_listing(
-                        listing_url,
-                        pattern,
-                        limit,
-                        use_playwright,
-                        session,
-                        shared_context,
-                        browser_semaphore,
-                        listing_class,
-                        resolve_relative_to_root,
-                        logger=logger,
-                        site=site,
-                    )
-                    print(
-                        f" | Listing {listing_url} -> found {len(discovered)} URLs",
-                        end="",
-                        flush=True,
-                    )
-                    urls = discovered + urls
-
-                print()  # Newline after all sources for this site are printed
-
-                if not urls:
-                    logger.log("  No URLs configured, skipping.")
-                    continue
-
-                # Deduplicate URLs discovered across feed / listing / static
-                # sources for this site, preserving order.
-                seen_urls: set[str] = set()
-                deduped_urls: list[str] = []
-                for u in urls:
-                    if u not in seen_urls:
-                        deduped_urls.append(u)
-                        seen_urls.add(u)
-                urls = deduped_urls
-
-                # Log discovery to the stashed logger for the final grouped report
-                logger.log(f"\n{'─' * 50}")
-                logger.log(f"Site: {site.name} ({site.slug})")
-                if site.feed:
-                    logger.log(f"  Fetching feed: {site.feed}")
-                for listing_url in site.listing_urls:
-                    logger.log(f"  Fetching listing: {listing_url}")
-                logger.log(f"  Total URLs discovered: {len(urls)}")
-
-                for url in urls:
-                    all_tasks.append((url, site, logger))
-
-            # Phase 2.5: Skip articles that already exist on disk
-            if not args.force:
-                existing_slugs = build_existing_slugs_map(args.output_dir)
-                total_before = len(all_tasks)
-                filtered_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
-                for url, site, logger in all_tasks:
-                    article_slug = url_to_slug(url, site.exclude_query_params)
-                    site_existing = existing_slugs.get(site.slug)
-                    if site_existing is not None and article_slug in site_existing:
-                        logger.log(
-                            f"  · already exists (skipping fetch): {article_slug}"
-                        )
-                        continue
-                    filtered_tasks.append((url, site, logger))
-                all_tasks = filtered_tasks
-                skipped = total_before - len(all_tasks)
-                if skipped:
-                    print(
-                        f"\nSkipping {skipped} article(s) that already exist "
-                        f"on disk ({len(all_tasks)} remaining to fetch)."
-                    )
-
-            # Phase 3: Shuffle
-            random.shuffle(all_tasks)
-
-            # Phase 4: Processing
-            process_kwargs: dict[str, Any] = {
-                "dry_run": args.dry_run,
-                "force": args.force,
-                "session": session,
-                "context": shared_context,
-                "browser_semaphore": browser_semaphore,
-                "fetch_semaphore": fetch_semaphore,
-                "retention_months": args.retention_months,
-                "output_dir": args.output_dir,
-            }
-
-            async def _tagged_process(
-                url: str, site: SiteConfig, logger: SiteLogger
-            ) -> tuple[SiteConfig, bool]:
-                was_new = await process_article(
-                    url, site, logger=logger, **process_kwargs
-                )
-                return site, was_new
-
-            article_tasks = [
-                _tagged_process(url, site, logger) for url, site, logger in all_tasks
-            ]
-
-            is_gh = os.environ.get("GITHUB_ACTIONS") == "true"
-            tqdm_kwargs: dict[str, Any] = {
-                "total": len(article_tasks),
-                "desc": "Processing articles",
-            }
-            if is_gh:
-                tqdm_kwargs["mininterval"] = 10
-                tqdm_kwargs["bar_format"] = (
-                    "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, "
-                    "{n_fmt}/{total_fmt} [{elapsed}]"
-                )
-
-            site_new_counts: dict[str, int] = {}
-            for future in tqdm(asyncio.as_completed(article_tasks), **tqdm_kwargs):
-                site, was_new = await future
-                if was_new:
-                    total_new += 1
-                    site_new_counts[site.slug] = site_new_counts.get(site.slug, 0) + 1
-
-            # Close the shared context before the browser; browser.close() would
-            # close it implicitly, but being explicit is clearer and symmetric
-            # with the single new_context() above.
-            await shared_context.close()
-            await browser.close()
-
-    # Print stashed logs grouped by site
-    for site_slug in sorted(site_loggers.keys()):
-        logger = site_loggers[site_slug]
-        if not logger.logs:
+        if not urls:
+            site_logger.log("  No URLs configured, skipping.")
             continue
 
-        with report_group(f"Site: {logger.site_name} ({logger.site_slug})"):
-            for line in logger.logs:
+        urls = _deduplicate_urls(urls)
+
+        # Log discovery to the stashed logger for the final grouped report
+        site_logger.log(f"\n{'─' * 50}")
+        site_logger.log(f"Site: {site.name} ({site.slug})")
+        if site.feed:
+            site_logger.log(f"  Fetching feed: {site.feed}")
+        for listing_url in site.listing_urls:
+            site_logger.log(f"  Fetching listing: {listing_url}")
+        site_logger.log(f"  Total URLs discovered: {len(urls)}")
+
+        for url in urls:
+            all_tasks.append((url, site, site_logger))
+
+    return all_tasks, site_loggers
+
+
+def _filter_existing(
+    tasks: list[tuple[str, SiteConfig, SiteLogger]],
+    force: bool,
+    output_dir: Path,
+) -> list[tuple[str, SiteConfig, SiteLogger]]:
+    """Remove tasks for articles that already exist on disk.
+
+    Returns the filtered task list with existing articles skipped.
+    """
+    if force:
+        return tasks
+
+    existing_slugs = build_existing_slugs_map(output_dir)
+    filtered: list[tuple[str, SiteConfig, SiteLogger]] = []
+    for url, site_cfg, site_logger in tasks:
+        article_slug = url_to_slug(url, site_cfg.exclude_query_params)
+        site_existing = existing_slugs.get(site_cfg.slug)
+        if site_existing is not None and article_slug in site_existing:
+            site_logger.log(f"  · already exists (skipping fetch): {article_slug}")
+            continue
+        filtered.append((url, site_cfg, site_logger))
+
+    skipped = len(tasks) - len(filtered)
+    if skipped:
+        print(
+            f"\nSkipping {skipped} article(s) that already exist "
+            f"on disk ({len(filtered)} remaining to fetch)."
+        )
+
+    return filtered
+
+
+async def _process_articles(
+    tasks: list[tuple[str, SiteConfig, SiteLogger]],
+    *,
+    dry_run: bool,
+    force: bool,
+    session: aiohttp.ClientSession,
+    shared_context: BrowserContext,
+    browser_semaphore: asyncio.Semaphore,
+    fetch_semaphore: asyncio.Semaphore,
+    retention_months: int,
+    output_dir: Path,
+) -> tuple[int, dict[str, int]]:
+    """Process all article tasks concurrently.
+
+    Returns (total_new, site_new_counts).
+    """
+
+    process_kwargs: dict[str, Any] = {
+        "dry_run": dry_run,
+        "force": force,
+        "session": session,
+        "context": shared_context,
+        "browser_semaphore": browser_semaphore,
+        "fetch_semaphore": fetch_semaphore,
+        "retention_months": retention_months,
+        "output_dir": output_dir,
+    }
+
+    async def _tagged_process(
+        url: str, site_cfg: SiteConfig, site_logger: SiteLogger
+    ) -> tuple[SiteConfig, bool]:
+        was_new = await process_article(
+            url, site_cfg, logger=site_logger, **process_kwargs
+        )
+        return site_cfg, was_new
+
+    article_tasks = [
+        _tagged_process(url, site_cfg, site_logger)
+        for url, site_cfg, site_logger in tasks
+    ]
+
+    is_gh = os.environ.get("GITHUB_ACTIONS") == "true"
+    tqdm_kwargs: dict[str, Any] = {
+        "total": len(article_tasks),
+        "desc": "Processing articles",
+    }
+    if is_gh:
+        tqdm_kwargs["mininterval"] = 10
+        tqdm_kwargs["bar_format"] = (
+            "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, "
+            "{n_fmt}/{total_fmt} [{elapsed}]"
+        )
+
+    total_new = 0
+    site_new_counts: dict[str, int] = {}
+    for future in tqdm(asyncio.as_completed(article_tasks), **tqdm_kwargs):
+        site_cfg, was_new = await future
+        if was_new:
+            total_new += 1
+            site_new_counts[site_cfg.slug] = site_new_counts.get(site_cfg.slug, 0) + 1
+
+    return total_new, site_new_counts
+
+
+def _print_summary(
+    site_loggers: dict[str, SiteLogger],
+    site_new_counts: dict[str, int],
+    total_new: int,
+) -> None:
+    """Print the final summary report and GitHub Actions step summary."""
+    # Print stashed logs grouped by site
+    for site_slug in sorted(site_loggers.keys()):
+        site_logger = site_loggers[site_slug]
+        if not site_logger.logs:
+            continue
+
+        with report_group(f"Site: {site_logger.site_name} ({site_logger.site_slug})"):
+            for line in site_logger.logs:
                 print(line)
 
     print(f"\n{'─' * 50}")
@@ -589,6 +600,65 @@ async def main_async(args: argparse.Namespace) -> None:
             summary_lines.append(profile_table)
             summary_lines.append("```")
         write_step_summary("\n".join(summary_lines))
+
+
+async def main_async(args: argparse.Namespace) -> None:
+    # Handle --debug-url mode: single URL, fast feedback, no file write
+    if args.debug_url:
+        await _debug_url(args)
+        return
+
+    sites = SiteConfig.load_sites(args.config)
+    if args.site:
+        sites = [s for s in sites if s.slug == args.site]
+        if not sites:
+            report_error(f"No site with slug '{args.site}' found.")
+            sys.exit(1)
+
+    concurrency = args.concurrency or DEFAULT_CONCURRENCY
+    browser_concurrency = args.browser_concurrency or DEFAULT_BROWSER_CONCURRENCY
+    fetch_semaphore = asyncio.Semaphore(concurrency)
+    browser_semaphore = asyncio.Semaphore(browser_concurrency)
+
+    async with aiohttp.ClientSession() as session:
+        async with async_playwright() as playwright:
+            browser = await playwright.chromium.launch(headless=True)
+
+            # One shared browsing context for ALL Playwright fetches (listings
+            # and articles). A context is expensive to create (~2.8s on CI);
+            # reusing it instead of opening one per fetch is the biggest
+            # Playwright win (issue #49). Pages (cheap) are opened/closed
+            # inside it by fetch_html_playwright.
+            shared_context = await _create_shared_context(browser)
+
+            # Phase 1: Discovery
+            tasks, site_loggers = await _discover_urls(
+                sites, session, shared_context, browser_semaphore
+            )
+
+            # Phase 2: Filter existing
+            tasks = _filter_existing(tasks, args.force, args.output_dir)
+
+            # Phase 3: Shuffle
+            random.shuffle(tasks)
+
+            # Phase 4: Process
+            total_new, site_new_counts = await _process_articles(
+                tasks,
+                dry_run=args.dry_run,
+                force=args.force,
+                session=session,
+                shared_context=shared_context,
+                browser_semaphore=browser_semaphore,
+                fetch_semaphore=fetch_semaphore,
+                retention_months=args.retention_months,
+                output_dir=args.output_dir,
+            )
+
+            await shared_context.close()
+            await browser.close()
+
+    _print_summary(site_loggers, site_new_counts, total_new)
 
 
 def main() -> None:
