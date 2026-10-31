@@ -5,7 +5,7 @@ from pathlib import Path
 from threading import Lock
 
 import yaml
-from piitag import Label, Options, Redaction, Redact
+from piitag import Label, Options, Redact, Redaction
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
@@ -70,7 +70,7 @@ def main() -> None:
 
     with SITES_FILE.open(encoding="utf-8") as file:
         sites = yaml.safe_load(file).get("sites", [])
-    site_categories = {
+    {
         site["slug"]: site.get("categories") or [] for site in sites if site.get("slug")
     }
 

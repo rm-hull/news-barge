@@ -1,26 +1,24 @@
-import json
 import os
 from pathlib import Path
-from typing import List
-from pydantic import BaseModel, Field
-from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 from google import genai
-from google.genai import types
+from pydantic import BaseModel
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
 PROMPT = """
-Give me a JSON list of locations, people, organisations that are mentioned in the article. Example:
+Give me a JSON list of locations, people, organisations
+that are mentioned in the article. Example:
 
 {"locations":[...],"people":[...],"organisations":[...]}
 """
 
 
 class Categories(BaseModel):
-    locations: List[str]
-    people: List[str]
-    organisations: List[str]
+    locations: list[str]
+    people: list[str]
+    organisations: list[str]
 
 
 class Classifier:

@@ -1,31 +1,26 @@
 import argparse
-import json
-import os
 from pathlib import Path
-from typing import List, Optional
-import litert_lm
-from pydantic import BaseModel, Field
-from dotenv import load_dotenv
 
-from google import genai
-from google.genai import types
-from regex import T
+import litert_lm
 import yaml
+from pydantic import BaseModel
 from tqdm import tqdm
 
 
 class Categories(BaseModel):
-    locations: Optional[List[str]]
-    people: Optional[List[str]]
-    organisations: Optional[List[str]]
+    locations: list[str] | None
+    people: list[str] | None
+    organisations: list[str] | None
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
 
 PROMPT = """
-Extract geographical locations (include city, state, country), people, and organisations mentioned in the article.
-Respond with ONLY raw JSON (no markdown, no code fences, no commentary) matching this example: {"locations":["UK","London"],"people":["Ben Smith"],"organisations":["Microsoft"]}
+Extract geographical locations (include city, state, country), people, and
+organisations mentioned in the article. Respond with ONLY raw JSON (no markdown,
+no code fences, no commentary) matching this example:
+{"locations":["UK","London"],"people":["Ben Smith"],"organisations":["Microsoft"]}
 """
 
 
@@ -68,9 +63,18 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    # model = "/Users/rhu/.litert-lm/cache/huggingface/litert-community/gemma-4-E4B-it-litert-lm/gemma-4-E4B-it.litertlm"
-    model = "/Users/rhu/.litert-lm/cache/huggingface/litert-community/gemma-4-E2B-it-litert-lm/gemma-4-E2B-it.litertlm"
-    # model = "/Users/rhu/.litert-lm/cache/huggingface/litert-community/Qwen3-0.6B/Qwen3-0.6B.litertlm"
+    # model = (
+    #     "/Users/rhu/.litert-lm/cache/huggingface/litert-community/"
+    #     "gemma-4-E4B-it-litert-lm/gemma-4-E4B-it.litertlm"
+    # )
+    model = (
+        "/Users/rhu/.litert-lm/cache/huggingface/litert-community/"
+        "gemma-4-E2B-it-litert-lm/gemma-4-E2B-it.litertlm"
+    )
+    # model = (
+    #     "/Users/rhu/.litert-lm/cache/huggingface/litert-community/"
+    #     "Qwen3-0.6B/Qwen3-0.6B.litertlm"
+    # )
 
     with litert_lm.Engine(
         model,

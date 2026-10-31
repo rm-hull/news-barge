@@ -1,11 +1,10 @@
 import argparse
-from pathlib import Path
 import re
-
-from flair.nn import Classifier
-from flair.splitter import SegtokSentenceSplitter
+from pathlib import Path
 
 import yaml
+from flair.nn import Classifier
+from flair.splitter import SegtokSentenceSplitter
 from tqdm import tqdm
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -137,7 +136,10 @@ if __name__ == "__main__":
 
         changed += 1
         # action = "WRITE" if args.write else "WOULD WRITE"
-        # print(f"{action} {path.relative_to(REPO_ROOT)}: locations={locations} people={people} orgs={orgs}")
+        # print(
+        #     f"{action} {path.relative_to(REPO_ROOT)}: "
+        #     f"locations={locations} people={people} orgs={orgs}"
+        # )
         if args.write:
             path.write_text(render_article(frontmatter, body), encoding="utf-8")
 

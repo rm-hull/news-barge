@@ -1,20 +1,17 @@
 import argparse
 from pathlib import Path
-from typing import List, Optional
-from pydantic import BaseModel, Field
-from dotenv import load_dotenv
 
-from regex import T
-import spacy
 import en_core_web_trf
+import spacy
 import yaml
+from pydantic import BaseModel
 from tqdm import tqdm
 
 
 class Categories(BaseModel):
-    locations: Optional[List[str]]
-    people: Optional[List[str]]
-    organisations: Optional[List[str]]
+    locations: list[str] | None
+    people: list[str] | None
+    organisations: list[str] | None
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -93,7 +90,10 @@ if __name__ == "__main__":
 
         changed += 1
         # action = "WRITE" if args.write else "WOULD WRITE"
-        # print(f"{action} {path.relative_to(REPO_ROOT)}: locations={locations} people={people} orgs={orgs}")
+        # print(
+        #     f"{action} {path.relative_to(REPO_ROOT)}: "
+        #     f"locations={locations} people={people} orgs={orgs}"
+        # )
         if args.write:
             path.write_text(render_article(frontmatter, body), encoding="utf-8")
 

@@ -19,9 +19,8 @@ and is left untouched.
 
 import hashlib
 import re
-import sys
 from pathlib import Path
-from urllib.parse import urlparse, urlencode, parse_qsl
+from urllib.parse import parse_qsl, urlencode, urlparse
 
 import yaml
 
