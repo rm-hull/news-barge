@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from unittest.mock import MagicMock, patch
 
-from src.classifiers import article_categories
+from src.classifiers import article_categories, strip_non_alnum
 
 
 class TestArticleCategories:
@@ -79,3 +79,43 @@ class TestArticleCategories:
 
         result = article_categories("Some Title", "Some Description")
         assert result == []
+
+
+class TestStripNonAlnum:
+    """Tests for the strip_non_alnum function."""
+
+    def test_preserves_diacritics(self) -> None:
+        """Accented letters like ë and É must survive trimming."""
+        assert strip_non_alnum("Zoë") == "Zoë"
+        assert strip_non_alnum("Émile") == "Émile"
+
+    def test_strips_leading_punctuation(self) -> None:
+        """Leading non-word characters should be removed."""
+        assert strip_non_alnum("'s") == "s"
+        assert strip_non_alnum("--hello") == "hello"
+        assert strip_non_alnum("...world") == "world"
+
+    def test_strips_trailing_punctuation(self) -> None:
+        """Trailing non-word characters should be removed."""
+        assert strip_non_alnum("hello...") == "hello"
+        assert strip_non_alnum("world!!") == "world"
+
+    def test_strips_both_ends(self) -> None:
+        """Both leading and trailing non-word characters should be removed."""
+        assert strip_non_alnum("'Émile Zola.'") == "Émile Zola"
+        assert strip_non_alnum("--Zoë--") == "Zoë"
+
+    def test_empty_result_for_punctuation_only(self) -> None:
+        """A string of only punctuation should become empty."""
+        assert strip_non_alnum("'") == ""
+        assert strip_non_alnum("---") == ""
+        assert strip_non_alnum("...") == ""
+
+    def test_preserves_internal_hyphens(self) -> None:
+        """Hyphens in the middle of a name should be preserved."""
+        assert strip_non_alnum("Stokes-McCullum") == "Stokes-McCullum"
+
+    def test_preserves_numbers(self) -> None:
+        """Alphanumeric strings with digits should be preserved."""
+        assert strip_non_alnum("Python3") == "Python3"
+        assert strip_non_alnum("2024") == "2024"

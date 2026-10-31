@@ -82,7 +82,12 @@ def article_categories(title: str, description: str) -> list[str]:
 
 
 def strip_non_alnum(s: str) -> str:
-    return re.sub(r"^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$", "", s)
+    """Strip leading/trailing non-alphanumeric chars using Unicode-aware matching.
+
+    Preserves letters with diacritics (e.g. Zoë, Émile) while removing
+    punctuation, quotes, and other non-word characters at the edges.
+    """
+    return re.sub(r"^\W+|\W+$", "", s, flags=re.UNICODE)
 
 
 @profiled
@@ -98,6 +103,8 @@ def named_entities(text: str) -> NamedEntities:
     for sentence in sentences:
         for label in sentence.get_labels():
             entity = strip_non_alnum(label.data_point.text)
+            if not entity:
+                continue
             if label.value == "LOC":
                 entities.locations.add(entity)
             if label.value == "PER":

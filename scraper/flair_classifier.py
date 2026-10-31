@@ -13,7 +13,12 @@ CONTENT_DIR = REPO_ROOT / "content"
 
 
 def strip_non_alnum(s: str) -> str:
-    return re.sub(r"^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$", "", s)
+    """Strip leading/trailing non-alphanumeric chars using Unicode-aware matching.
+
+    Preserves letters with diacritics (e.g. Zoë, Émile) while removing
+    punctuation, quotes, and other non-word characters at the edges.
+    """
+    return re.sub(r"^\W+|\W+$", "", s, flags=re.UNICODE)
 
 
 def parse_article(path: Path) -> tuple[dict, str]:
@@ -116,12 +121,15 @@ if __name__ == "__main__":
 
         for sentence in sentences:
             for label in sentence.get_labels():
+                entity = strip_non_alnum(label.data_point.text)
+                if not entity:
+                    continue
                 if label.value == "LOC" and label.data_point.text not in locations:
-                    locations.append(strip_non_alnum(label.data_point.text))
+                    locations.append(entity)
                 if label.value == "PER" and label.data_point.text not in people:
-                    people.append(strip_non_alnum(label.data_point.text))
+                    people.append(entity)
                 if label.value == "ORG" and label.data_point.text not in orgs:
-                    orgs.append(strip_non_alnum(label.data_point.text))
+                    orgs.append(entity)
 
         frontmatter["locations"] = sorted(filter_duplicate_names(locations))
         frontmatter["people"] = sorted(filter_duplicate_names(people))
