@@ -257,19 +257,25 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
         extra_http_headers={"Accept-Language": FETCH_HEADERS["Accept-Language"]},
     )
 
-    async def _abort_route(route: Route) -> None:
+    async def _route(route: Route) -> None:
         # Never abort the main document navigation — a legitimate article
         # URL may contain a blocked keyword (e.g. "tracking" in the path).
         if route.request.resource_type == "document":
             return
-        if _is_blocked_request(route.request.url):
+        if route.request.resource_type in {
+            "image",
+            "media",
+            "font",
+        } or _is_blocked_request(route.request.url):
             try:
                 await route.abort()
             except Exception:
                 # Page/context already closed; nothing to do.
                 pass
+        else:
+            await route.continue_()
 
-    await context.route("*", _abort_route)
+    await context.route("*", _route)
     return context
 
 
