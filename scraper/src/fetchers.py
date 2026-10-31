@@ -5,6 +5,7 @@ HTTP fetchers: aiohttp and Playwright-based HTML retrieval.
 from __future__ import annotations
 
 import asyncio
+import re
 import time
 from typing import Any, Literal
 
@@ -17,6 +18,46 @@ from .profiling import profiled
 
 # Type alias for fetch results
 FetchResult = str | None
+
+# Cloudflare challenge page markers — these are specific to the challenge
+# interstitial, not present on normal pages that merely load Cloudflare CDN
+# resources (e.g. cdnjs.cloudflare.com).
+_CF_CHALLENGE_TITLE = re.compile(
+    r"<title>\s*Just a moment\.\.\.\s*</title>", re.IGNORECASE
+)
+_CF_CHALLENGE_RUNNING = re.compile(
+    r"""id\s*=\s*['"]challenge-running['"]""", re.IGNORECASE
+)
+_CF_CHALLENGE_WIDGET = re.compile(
+    r"""class\s*=\s*['"].*?challenge-widget.*?['"]""", re.IGNORECASE
+)
+_CF_CHALLENGE_NOSCRIPT = re.compile(
+    r"""class\s*=\s*['"].*?noscript-warning.*?['"]""", re.IGNORECASE
+)
+_CF_CHALLENGE_SCRIPT = re.compile(r"challenges\.cloudflare\.com", re.IGNORECASE)
+
+
+def _is_cloudflare_challenge(html: str) -> bool:
+    """Return True if the HTML looks like a Cloudflare challenge interstitial.
+
+    Checks for specific markers that only appear on the challenge page itself,
+    avoiding false positives from pages that merely reference Cloudflare CDN
+    domains (e.g. cdnjs.cloudflare.com).
+    """
+    hits = 0
+    if _CF_CHALLENGE_TITLE.search(html):
+        hits += 1
+    if _CF_CHALLENGE_RUNNING.search(html):
+        hits += 1
+    if _CF_CHALLENGE_WIDGET.search(html):
+        hits += 1
+    if _CF_CHALLENGE_NOSCRIPT.search(html):
+        hits += 1
+    if _CF_CHALLENGE_SCRIPT.search(html):
+        hits += 1
+    # Require at least one strong signal to avoid false positives.
+    # The title match alone is the most reliable single indicator.
+    return hits >= 1
 
 
 @profiled
@@ -104,23 +145,11 @@ async def fetch_html_playwright(
         )
         html = await page.content()
         # Wait for Cloudflare/anti-bot challenge to resolve if present
-        lower = html.lower()
-        if (
-            "cloudflare" in lower
-            or "just a moment" in lower
-            or "security verification" in lower
-            or "checking your browser" in lower
-        ):
+        if _is_cloudflare_challenge(html):
             for _ in range(30):
                 await asyncio.sleep(1)
                 html = await page.content()
-                lower = html.lower()
-                if (
-                    "cloudflare" not in lower
-                    and "just a moment" not in lower
-                    and "security verification" not in lower
-                    and "checking your browser" not in lower
-                ):
+                if not _is_cloudflare_challenge(html):
                     break
         _elapsed = time.perf_counter() - start
         if _elapsed > PLAYWRIGHT_TIMEOUT / 1000:

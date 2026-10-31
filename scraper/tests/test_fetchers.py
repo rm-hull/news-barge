@@ -8,7 +8,11 @@ import pytest
 from aiohttp import ClientResponseError, ClientSession
 
 from src.constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
-from src.fetchers import fetch_html_aiohttp, fetch_html_playwright
+from src.fetchers import (
+    _is_cloudflare_challenge,
+    fetch_html_aiohttp,
+    fetch_html_playwright,
+)
 from src.log_helper import SiteLogger
 
 
@@ -290,3 +294,115 @@ class TestFetchHtmlPlaywright:
         assert any("slow" in line.lower() for line in logger.logs), (
             f"Expected slow-fetch warning in logs: {logger.logs}"
         )
+
+
+class TestIsCloudflareChallenge:
+    """Tests for the _is_cloudflare_challenge helper."""
+
+    def test_false_positive_cdnjs_cloudflare(self) -> None:
+        """Pages loading cdnjs.cloudflare.com must not trigger challenge detection."""
+        html = """
+        <html><head><title>My Article</title></head>
+        <body>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <p>Some article content.</p>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is False
+
+    def test_false_positive_cloudflare_in_text(self) -> None:
+        """Mentions of 'cloudflare' in article body text must NOT trigger detection."""
+        html = """
+        <html><head><title>Cloudflare News</title></head>
+        <body>
+        <p>Cloudflare announced new features today.</p>
+        <p>The company uses cloudflare.com for their services.</p>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is False
+
+    def test_false_positive_security_verification_in_body(self) -> None:
+        """'security verification' in normal page content must NOT trigger detection."""
+        html = """
+        <html><head><title>Security Blog</title></head>
+        <body>
+        <p>Two-factor security verification is important.</p>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is False
+
+    def test_true_positive_challenge_title(self) -> None:
+        """A page with the 'Just a moment…' title should be detected as a challenge."""
+        html = """
+        <!DOCTYPE html><html lang="en-US"><head>
+        <title>Just a moment...</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        </head><body><p>Please wait...</p></body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_true_positive_challenge_running_id(self) -> None:
+        """A page with id='challenge-running' should be detected as a challenge."""
+        html = """
+        <html><head><title>Loading</title></head>
+        <body><h2 class="h2" id="challenge-running">Checking…</h2></body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_true_positive_challenge_widget(self) -> None:
+        """A page with challenge-widget class should be detected as a challenge."""
+        html = """
+        <html><body><div class="challenge-widget">Verifying...</div></body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_true_positive_noscript_warning(self) -> None:
+        """A page with noscript-warning class should be detected as a challenge."""
+        html = """
+        <html><body><div class="noscript-warning">Enable JavaScript</div></body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_true_positive_challenges_cloudflare_script(self) -> None:
+        """A page loading challenges.cloudflare.com should be detected."""
+        html = """
+        <html><body>
+        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_true_positive_full_challenge_page(self) -> None:
+        """A realistic Cloudflare challenge page should be detected."""
+        html = """
+        <!DOCTYPE html><html lang="en-US"><head>
+        <title>Just a moment...</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="robots" content="noindex,nofollow">
+        </head><body>
+        <div class="main-wrapper">
+        <h2 class="h2" id="challenge-running">Checking the site connection</h2>
+        <div class="challenge-widget"></div>
+        <noscript><div class="noscript-warning">Enable JavaScript</div></noscript>
+        </div>
+        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is True
+
+    def test_normal_page_no_false_positive(self) -> None:
+        """A typical news article page should never trigger detection."""
+        html = """
+        <!DOCTYPE html><html><head>
+        <title>Breaking News - Daily Herald</title>
+        <meta charset="utf-8">
+        </head><body>
+        <nav><a href="/">Home</a></nav>
+        <article><h1>Local Council Approves New Park</h1>
+        <p>The city council voted unanimously to approve the new community park.</p>
+        </article>
+        <footer>© 2024 Daily Herald</footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash/4.17.21/lodash.min.js"></script>
+        </body></html>
+        """
+        assert _is_cloudflare_challenge(html) is False
