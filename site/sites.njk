@@ -12,6 +12,9 @@ permalink: /sites/
     <li class="site-card">
       <a href="/sites/{{ site.slug }}/">
         {{ site.name }}
+        {% if site.slug in collections.sitesWithRecentArticles %}
+        <span class="recently-updated" title="Recent articles added">●</span>
+        {% endif %}
         <span class="site-meta">{{ siteArticles | length }} articles</span>
       </a>
     </li>

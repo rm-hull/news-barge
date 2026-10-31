@@ -361,6 +361,25 @@ export default function (eleventyConfig) {
   // Add last updated time
   eleventyConfig.addGlobalData('lastUpdated', () => new Date().toISOString());
 
+  // Array of site slugs that have had articles scraped within the last 6 hours
+  // (computed via a collection so it has access to all article frontmatter)
+  eleventyConfig.addCollection('sitesWithRecentArticles', (collectionApi) => {
+    const SIX_HOURS_MS = 6 * 60 * 60 * 1000;
+    const now = Date.now();
+    const slugs = new Set();
+    const all = collectionApi.getFilteredByGlob('content/**/*.md');
+    for (const art of all) {
+      const scrapedAt = art.data.scraped_at;
+      if (scrapedAt) {
+        const age = now - new Date(scrapedAt).getTime();
+        if (age < SIX_HOURS_MS && art.data.source_slug) {
+          slugs.add(art.data.source_slug);
+        }
+      }
+    }
+    return [...slugs];
+  });
+
   // ── Filters ───────────────────────────────────────────────────────────────
   // Take the first N items of an array (Nunjucks' built-in `slice` filter
   // divides an array into N chunks, it does NOT perform array sub-slicing).

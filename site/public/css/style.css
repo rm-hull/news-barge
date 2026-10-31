@@ -20,6 +20,7 @@
   --cat-text: #9a3412;
   --mark: #fef3c7;
   --searchable: rgba(0, 86, 179, 0.1);
+  --recently-updated: #4ee53e;
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --mono: "JetBrains Mono", "Fira Code", monospace;
   --max: 720px;
@@ -40,6 +41,7 @@
     --cat-text: #fed7aa;
     --mark: rgba(255, 214, 0, 0.25);
     --searchable: rgba(0, 86, 179, 0.6);
+    --recently-updated: #2b7c23;
 
     --pf-text: #e8e6e0!important;
     --pf-text-secondary: #666!important;
@@ -527,6 +529,13 @@ strong .searchable {
   border: 1px solid var(--border);
   padding: 0.1rem 0.4rem;
   border-radius: 4px;
+}
+
+.recently-updated {
+  color: var(--recently-updated);
+  font-size: 0.65rem;
+  line-height: 1;
+  border: inherit;
 }
 
 /* ── Footer ───────────────────────────────────────────── */
