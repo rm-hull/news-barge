@@ -48,6 +48,25 @@ class ExtractionResult:
     markdown_body: str
 
 
+def format_frontmatter(frontmatter: dict[str, Any]) -> str:
+    """Serialize a frontmatter dict to a YAML string."""
+    return yaml.dump(
+        frontmatter,
+        allow_unicode=True,
+        default_flow_style=False,
+        sort_keys=False,
+    )
+
+
+def write_article(path: Path, frontmatter: dict[str, Any], body: str) -> None:
+    """Write a markdown file with YAML frontmatter."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fm_yaml = format_frontmatter(frontmatter)
+    path.write_text(
+        "---\n" + fm_yaml + "---\n\n" + body.strip() + "\n", encoding="utf-8"
+    )
+
+
 # ---------------------------------------------------------------------------
 
 
@@ -296,16 +315,7 @@ async def process_article(
         filter_duplicate_names(entities.organisations)
     )
 
-    path.parent.mkdir(parents=True, exist_ok=True)
-    fm_yaml = yaml.dump(
-        frontmatter,
-        allow_unicode=True,
-        default_flow_style=False,
-        sort_keys=False,
-    )
-    path.write_text(
-        "---\n" + fm_yaml + "---\n\n" + md_body.strip() + "\n", encoding="utf-8"
-    )
+    write_article(path, frontmatter, md_body)
     display_path = (
         path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
     )

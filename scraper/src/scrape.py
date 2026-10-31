@@ -29,7 +29,6 @@ import aiohttp
 # concurrency (GitHub issue #32, run 38850341610).
 import dateparser  # noqa: F401
 import feedparser
-import yaml
 from lxml import html as lxml_html
 from playwright.async_api import Browser, BrowserContext, Route, async_playwright
 from tqdm.asyncio import tqdm
@@ -40,7 +39,6 @@ from .constants import (
     DEFAULT_BROWSER_CONCURRENCY,
     DEFAULT_CONCURRENCY,
     FETCH_HEADERS,
-    REPO_ROOT,
     SITES_FILE,
 )
 from .fetchers import (
@@ -54,7 +52,7 @@ from .log_helper import (
     report_notice,
     write_step_summary,
 )
-from .pipeline import extract_article_from_html, process_article
+from .pipeline import extract_article_from_html, format_frontmatter, process_article
 from .profiling import format_profile_stats
 from .sites import SiteConfig
 from .slugs import url_to_slug
@@ -206,26 +204,6 @@ async def urls_from_listing(
     return unique_urls[:limit]
 
 
-def write_markdown(
-    path: Path, frontmatter: dict[str, Any], body: str, logger: SiteLogger
-) -> None:
-    """Write a markdown file with YAML frontmatter."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    fm_yaml = yaml.dump(
-        frontmatter,
-        allow_unicode=True,
-        default_flow_style=False,
-        sort_keys=False,
-    )
-    path.write_text(
-        "---\n" + fm_yaml + "---\n\n" + body.strip() + "\n", encoding="utf-8"
-    )
-    display_path = (
-        path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
-    )
-    logger.log(f"  ✓ {display_path}")
-
-
 # Analytics/ad URL matcher.  Instead of a glob pattern (which only catches
 # keywords in the URL *path*), this predicate checks the full URL — including
 # the hostname — so domains like cdn.taboola.com or cmp.inmobi.com are blocked
@@ -348,14 +326,8 @@ async def _debug_url(args: argparse.Namespace) -> None:
         sys.exit(1)
 
     # Print result
-    fm_yaml = yaml.dump(
-        result.frontmatter,
-        allow_unicode=True,
-        default_flow_style=False,
-        sort_keys=False,
-    )
     print("---")
-    print(fm_yaml, end="")
+    print(format_frontmatter(result.frontmatter), end="")
     print("---")
     print()
     print(result.markdown_body.strip())

@@ -8,7 +8,6 @@ from typing import TYPE_CHECKING, Any, cast
 from urllib.parse import urljoin, urlparse, urlunparse
 
 from lxml import html as lxml_html
-from markdownify import markdownify as to_markdown
 from trafilatura import extract, extract_metadata
 
 from .constants import TRAFILATURA_CONFIG
@@ -418,14 +417,6 @@ def extract_first_image_from_markdown(md: str) -> str | None:
     if match:
         return match.group(1)
     return None
-
-
-def html_to_markdown(extracted_html: str) -> str:
-    """Convert extracted HTML to clean markdown."""
-    md_body = to_markdown(extracted_html, heading_style="ATX")
-    md_body = clean_markdown_formatting(md_body)
-    md_body = linkify_text(md_body)
-    return md_body
 
 
 # ---------------------------------------------------------------------------

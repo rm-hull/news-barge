@@ -11,7 +11,6 @@ from src.text_extraction import (
     clean_markdown_formatting,
     ensure_image_extension,
     extract_first_image_from_markdown,
-    html_to_markdown,
     linkify_text,
     normalize_exclusion,
     normalize_inline_spacing,
@@ -159,20 +158,6 @@ class TestExtractFirstImageFromMarkdown:
         md = "![first](https://a.com/1.jpg)\n![second](https://b.com/2.jpg)"
         result = extract_first_image_from_markdown(md)
         assert result == "https://a.com/1.jpg"
-
-
-class TestHtmlToMarkdown:
-    """Tests for html_to_markdown."""
-
-    def test_converts_html_to_markdown(self) -> None:
-        html = "<p>Hello <strong>world</strong></p>"
-        result = html_to_markdown(html)
-        assert "Hello" in result
-        assert "world" in result
-
-    def test_handles_empty_html(self) -> None:
-        result = html_to_markdown("")
-        assert result.strip() == ""
 
 
 class TestNormalizeInlineSpacing:

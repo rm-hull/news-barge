@@ -17,10 +17,9 @@ Only the *filename* changes; the frontmatter ``source_url`` is already correct
 and is left untouched.
 """
 
-import hashlib
 import re
+import sys
 from pathlib import Path
-from urllib.parse import parse_qsl, urlencode, urlparse
 
 import yaml
 
@@ -32,34 +31,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
 SITES_FILE = REPO_ROOT / "sites.yaml"
 
-
-def slugify(text: str) -> str:
-    text = text.lower().strip()
-    text = re.sub(r"[^\w\s-]", "", text)
-    text = re.sub(r"[\s_]+", "-", text)
-    text = re.sub(r"-+", "-", text)
-    return text[:80].strip("-")
-
-
-def url_to_slug(url: str, exclude_query_params: bool = False) -> str:
-    parsed = urlparse(url)
-
-    path = parsed.path.strip("/").replace("/", "--")
-
-    if not exclude_query_params:
-        query_params = parse_qsl(parsed.query)
-        filtered_query_params = [
-            (k, v) for k, v in query_params if not k.startswith("utm_")
-        ]
-        filtered_query = urlencode(filtered_query_params)
-
-        if filtered_query:
-            query_slug = slugify(filtered_query).replace("=", "--").replace("&", "--")
-            path = f"{path}--{query_slug}"
-
-    short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
-    return short
-
+# Ensure the scraper package is importable when running this script standalone.
+sys.path.insert(0, str(REPO_ROOT / "scraper"))
+from src.slugs import url_to_slug  # noqa: E402
 
 # ---------------------------------------------------------------------------
 

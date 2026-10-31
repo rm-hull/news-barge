@@ -13,8 +13,8 @@ created.
 
 from __future__ import annotations
 
-import inspect
 import atexit
+import inspect
 import sys
 import threading
 import time
