@@ -65,9 +65,10 @@ async def test_create_shared_context_registers_analytics_route_once(
 
     mock_context.route.assert_awaited_once()
     args = mock_context.route.call_args.args
-    # The single positional arg is the handler callable that checks
-    # resource_type and URL keywords internally.
-    assert callable(args[0])
+    # The first arg is the glob pattern ("*"), the second is the handler
+    # callable that checks resource_type and URL keywords internally.
+    assert args[0] == "*"
+    assert callable(args[1])
 
 
 class TestBuildExistingSlugsMap:
@@ -167,7 +168,7 @@ async def test_route_handler_does_not_abort_document_with_blocked_keyword() -> N
     # Track which handler was registered with context.route()
     registered_handler = None
 
-    async def capture_route(handler: Any) -> None:
+    async def capture_route(pattern: Any, handler: Any) -> None:
         nonlocal registered_handler
         registered_handler = handler
 
@@ -202,7 +203,7 @@ async def test_route_handler_aborts_non_document_with_blocked_keyword() -> None:
 
     registered_handler = None
 
-    async def capture_route(handler: Any) -> None:
+    async def capture_route(pattern: Any, handler: Any) -> None:
         nonlocal registered_handler
         registered_handler = handler
 
