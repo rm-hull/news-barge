@@ -83,9 +83,9 @@ jobs:
       - name: Run scraper
         working-directory: ./scraper
         run: |
-          ARGS=""
+          ARGS="--browser-concurrency 2"
           if [ -n "${{ github.event.inputs.site }}" ]; then
-            ARGS="--site ${{ github.event.inputs.site }}"
+            ARGS="$ARGS --site ${{ github.event.inputs.site }}"
           fi
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
