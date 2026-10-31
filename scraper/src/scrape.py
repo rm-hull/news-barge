@@ -258,13 +258,18 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
     )
 
     async def _abort_route(route: Route) -> None:
-        try:
-            await route.abort()
-        except Exception:
-            # Page/context already closed; nothing to do.
-            pass
+        # Never abort the main document navigation — a legitimate article
+        # URL may contain a blocked keyword (e.g. "tracking" in the path).
+        if route.request.resource_type == "document":
+            return
+        if _is_blocked_request(route.request.url):
+            try:
+                await route.abort()
+            except Exception:
+                # Page/context already closed; nothing to do.
+                pass
 
-    await context.route(_is_blocked_request, _abort_route)
+    await context.route("*", _abort_route)
     return context
 
 
