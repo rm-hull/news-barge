@@ -246,7 +246,13 @@ async def unfurl_multipage_article(
 
 
 def clean_markdown_formatting(text: str) -> str:
-    """Fixes markdown formatting issues to improve compatibility with Eleventy."""
+    """Fixes markdown formatting issues to improve compatibility with Eleventy.
+
+    Removes boilerplate bullets ("* Published", "**Recommended reading:**")
+    and cleans up empty bold markers.  Spacing fixes around emphasis delimiters
+    apply *only* when the delimiter is word-adjacent (real markdown emphasis),
+    not when surrounded by spaces on both sides (e.g. "2 * 3 * 4").
+    """
     if not text:
         return ""
 
@@ -257,9 +263,53 @@ def clean_markdown_formatting(text: str) -> str:
         r"\*\*Recommended reading:\*\*", "\n", text, flags=re.MULTILINE | re.IGNORECASE
     )
 
-    text = re.sub(r"(\*\*|\*)[ \t]+([^*\n]+?)[ \t]*\1", r"\1\2\1", text)
-    text = re.sub(r"(\*\*|\*)([^*\n]+?)[ \t]+\1", r"\1\2\1", text)
-    text = re.sub(r"(\*\*|\*)([^\*\n]+?)\1([a-zA-Z0-9])", r"\1\2\1 \3", text)
+    # Fix spacing inside emphasis delimiters, but only when the opening *
+    # is preceded by a non-space (or start of line) — this avoids touching
+    # prose like "2 * 3 * 4" where the * is surrounded by spaces.
+    #
+    # Process ** (bold) and * (italic) separately to avoid the closing **
+    # bleeding into the next match.  A negative lookbehind for * ensures we
+    # don't start a new emphasis match right after a * that belongs to a
+    # closing delimiter.
+
+    def _fix_emphasis(m: re.Match[str]) -> str:
+        delim = m.group(1)
+        inner = m.group(2).strip()
+        return f"{delim}{inner}{delim}"
+
+    # --- Bold (** ... **) ---
+    # Double-asterisk is unlikely in prose, so no lookbehind needed.
+    # ** word **  =>  **word**   (leading space)
+    text = re.sub(r"(?<!\*)(\*\*)\s+([^\*\n]+?)\s*\1", _fix_emphasis, text)
+    # **word **   =>  **word**   (trailing space)
+    text = re.sub(r"(?<!\*)(\*\*)([^\*\n]+?)\s+\1", _fix_emphasis, text)
+
+    # **word**X   =>  **word** X (missing space after closing)
+    def _add_space_after_bold(m: re.Match[str]) -> str:
+        inner = m.group(1)
+        trailing = m.group(2)
+        return f"**{inner}** {trailing}"
+
+    text = re.sub(
+        r"(?<!\*)\*\*([^\*\n]+?)\*\*([a-zA-Z0-9])", _add_space_after_bold, text
+    )
+
+    # --- Italic (* ... *) ---
+    # * word *  =>  *word*   (leading space)
+    text = re.sub(r"(?<!\*)(?<=\S)(\*)\s+([^\*\n]+?)\s*\1", _fix_emphasis, text)
+    # *word *   =>  *word*   (trailing space)
+    text = re.sub(r"(?<!\*)(?<=\S)(\*)([^\*\n]+?)\s+\1", _fix_emphasis, text)
+
+    # *word*X   =>  *word* X (missing space after closing)
+    def _add_space_after_italic(m: re.Match[str]) -> str:
+        inner = m.group(1)
+        trailing = m.group(2)
+        return f"*{inner}* {trailing}"
+
+    text = re.sub(
+        r"(?<!\*)(?<=\S)\*([^\*\n]+?)\*([a-zA-Z0-9])", _add_space_after_italic, text
+    )
+
     text = re.sub(r"\*\*\s*\*\*", "", text)
 
     return text.strip()
@@ -295,9 +345,24 @@ def normalize_inline_spacing(extracted_html: str) -> str:
 
 
 def linkify_text(text: str) -> str:
-    """Linkify bare URLs and emails in text, preserving existing markdown."""
+    """Linkify bare URLs and emails in text, preserving existing markdown.
+
+    Skips URLs inside inline code spans (backticks) and strips trailing
+    punctuation (.,;:!?) from captured URLs so that prose like
+    "see https://example.com/a." doesn't swallow the full stop.
+    """
     if not text:
         return ""
+
+    # First, protect inline code spans by replacing them with placeholders.
+    _CODE_PLACEHOLDER_PREFIX = "\x00CODE\x00"
+    code_spans: list[str] = []
+
+    def _save_code_span(m: re.Match[str]) -> str:
+        code_spans.append(m.group(0))
+        return f"{_CODE_PLACEHOLDER_PREFIX}{len(code_spans) - 1}\x00"
+
+    text = re.sub(r"`+[^`]+`+", _save_code_span, text)
 
     pattern = (
         r"(!\[.*?\]\(https?://[^\s\)]+\))"
@@ -317,12 +382,23 @@ def linkify_text(text: str) -> str:
         if link:
             return link
         if url:
-            return f"[{url}]({url})"
+            # Strip trailing punctuation that's likely prose, not part of URL,
+            # but preserve it after the link.  Note: '?' is excluded because
+            # it usually starts a query string, not ends prose.
+            trailing = url[len(url.rstrip(".,;:!")) :]
+            url = url[: len(url) - len(trailing)]
+            return f"[{url}]({url}){trailing}"
         if email:
             return f"[{email}](mailto:{email})"
         return match.group(0)
 
-    return re.sub(pattern, replace, text)
+    text = re.sub(pattern, replace, text)
+
+    # Restore code spans
+    for i, span in enumerate(code_spans):
+        text = text.replace(f"{_CODE_PLACEHOLDER_PREFIX}{i}\x00", span)
+
+    return text
 
 
 def extract_first_image_from_markdown(md: str) -> str | None:

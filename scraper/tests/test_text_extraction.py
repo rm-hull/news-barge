@@ -47,6 +47,31 @@ class TestCleanMarkdownFormatting:
         result = clean_markdown_formatting(text)
         assert result == "some content"
 
+    def test_preserves_prose_with_asterisks(self) -> None:
+        """Prose like "2 * 3 * 4" must not be treated as italics."""
+        text = "2 * 3 * 4"
+        result = clean_markdown_formatting(text)
+        assert result == "2 * 3 * 4"
+
+    def test_preserves_prose_asterisks_in_sentence(self) -> None:
+        """Asterisks surrounded by spaces in a sentence should survive."""
+        text = "The ratio is 2 * 3 * 4"
+        result = clean_markdown_formatting(text)
+        assert result == "The ratio is 2 * 3 * 4"
+
+    def test_preserves_valid_bold_and_italic(self) -> None:
+        """Valid markdown emphasis should not be corrupted."""
+        text = "**bold** and *italic*"
+        result = clean_markdown_formatting(text)
+        assert "**bold**" in result
+        assert "*italic*" in result
+
+    def test_preserves_italic_surrounded_by_spaces(self) -> None:
+        """Single * surrounded by spaces is prose, not emphasis."""
+        text = "word *emphasis* word"
+        result = clean_markdown_formatting(text)
+        assert result == "word *emphasis* word"
+
 
 class TestLinkifyText:
     """Tests for linkify_text."""
@@ -78,6 +103,45 @@ class TestLinkifyText:
         text = "![alt text](https://example.com/img.jpg)"
         result = linkify_text(text)
         assert "![alt text](https://example.com/img.jpg)" in result
+
+    def test_strips_trailing_period_from_url(self) -> None:
+        """Trailing punctuation should not be captured inside the URL."""
+        text = "See https://example.com/a."
+        result = linkify_text(text)
+        assert result == "See [https://example.com/a](https://example.com/a)."
+
+    def test_strips_trailing_semicolon_from_url(self) -> None:
+        text = "Visit https://example.com/page; it is good."
+        result = linkify_text(text)
+        assert (
+            "Visit [https://example.com/page](https://example.com/page); it is good."
+            == result
+        )
+
+    def test_strips_trailing_exclamation_from_url(self) -> None:
+        text = "Check https://example.com/x! Yes."
+        result = linkify_text(text)
+        assert "Check [https://example.com/x](https://example.com/x)! Yes." == result
+
+    def test_preserves_query_string_in_url(self) -> None:
+        """A '?' in a URL should not be stripped — it starts a query string."""
+        text = "What about https://example.com/?q=test"
+        result = linkify_text(text)
+        assert "[https://example.com/?q=test](https://example.com/?q=test)" in result
+
+    def test_skips_urls_in_inline_code_spans(self) -> None:
+        """URLs inside backtick code spans must not be linkified."""
+        text = "Code: `https://x.io/y`"
+        result = linkify_text(text)
+        assert result == "Code: `https://x.io/y`"
+
+    def test_preserves_multiple_code_spans(self) -> None:
+        """Multiple code spans should all be preserved."""
+        text = "See `https://a.com` and `https://b.com` for details."
+        result = linkify_text(text)
+        assert "`https://a.com`" in result
+        assert "`https://b.com`" in result
+        assert "[" not in result
 
 
 class TestExtractFirstImageFromMarkdown:
