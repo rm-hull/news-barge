@@ -123,13 +123,17 @@ async def unfurl_multipage_article(
     *,
     max_pages: int = 20,
     logger: Any = None,
-) -> str:
+) -> tuple[str, Document | None]:
     """Unfurl a multi-page article into a single HTML document.
 
     Detects "Next page" links in the HTML, fetches subsequent pages,
     extracts their article body content, and appends it to the first page's
-    body. Returns the merged HTML where the <body> contains the first page's
-    extracted body followed by each subsequent page's extracted body.
+    body. Returns the merged HTML along with metadata extracted from the
+    original first-page HTML before any restructuring.
+
+    Because the merged document is rebuilt as ``<html><body>…</body></html>``
+    (dropping ``<head>``), metadata (title, date, og:image, description) must
+    be captured from the original first-page HTML first.
 
     Args:
         html: The raw HTML of the first page.
@@ -140,9 +144,16 @@ async def unfurl_multipage_article(
         logger: Optional logger for progress reporting.
 
     Returns:
-        The merged HTML of all pages, or the original HTML if no pagination
-        was detected.
+        A tuple of (merged_html, metadata).  ``merged_html`` contains all
+        pages merged together.  ``metadata`` is the trafilatura Document
+        extracted from the original first-page HTML (or ``None`` if
+        extraction failed).
     """
+    # Extract metadata from the original first-page HTML BEFORE rebuilding.
+    # The merged document drops <head>, so this is the only chance to get
+    # title, date, og:image, and description.
+    first_page_meta = extract_metadata(html, default_url=base_url)
+
     pages_fetched = 1
     current_url = base_url
     # Keep the raw HTML of the last fetched page so we can find the
@@ -242,7 +253,7 @@ async def unfurl_multipage_article(
     if pages_fetched > 1 and logger:
         logger.log(f"  · unfurled {pages_fetched} page(s) into single article")
 
-    return merged_html
+    return merged_html, first_page_meta
 
 
 def clean_markdown_formatting(text: str) -> str:

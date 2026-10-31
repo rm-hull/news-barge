@@ -57,6 +57,7 @@ def extract_article_from_html(
     site: SiteConfig,
     logger: SiteLogger | None = None,
     title_fallback: str | None = None,
+    meta: Any = None,
 ) -> ExtractionResult | None:
     """Extract frontmatter and markdown body from preprocessed article HTML.
 
@@ -72,6 +73,9 @@ def extract_article_from_html(
         logger: Optional logger for progress reporting.
         title_fallback: Fallback title when metadata is missing. Defaults to
             the URL if not provided.
+        meta: Pre-extracted metadata (trafilatura Document). If provided,
+            this is used instead of extracting from HTML. This is important
+            for multi-page articles where the merged HTML has no <head>.
 
     Returns:
         ExtractionResult with frontmatter dict and markdown body, or None
@@ -80,7 +84,8 @@ def extract_article_from_html(
     if logger is None:
         logger = SiteLogger("", "")
 
-    meta = extract_article_metadata(html, url=url)
+    if meta is None:
+        meta = extract_article_metadata(html, url=url)
     extracted_html = extract_article_html(html, url=url)
 
     if not extracted_html:
@@ -179,7 +184,11 @@ async def process_article(
     if not html:
         return False
 
-    # Unfurl multi-page articles (fetch subsequent pages and merge)
+    # Unfurl multi-page articles (fetch subsequent pages and merge).
+    # This also extracts metadata from the original first-page HTML before
+    # the document is rebuilt (which drops <head>), so title, date, and
+    # og:image are not lost.
+    unfurled_meta: Any = None
     if site.unfurl_multipage:
         # Build a fetcher that matches the site's fetch method
         async def _page_fetcher(page_url: str) -> str | None:
@@ -198,9 +207,13 @@ async def process_article(
                         page_url, session, logger=logger, ssl=ssl
                     )
 
-        html = await unfurl_multipage_article(html, url, _page_fetcher, logger=logger)
+        html, unfurled_meta = await unfurl_multipage_article(
+            html, url, _page_fetcher, logger=logger
+        )
 
-    # Extract metadata early for date-based retention checks
+    # Extract metadata early for date-based retention checks.
+    # If the article was unfurled, use the metadata captured from the
+    # original first-page HTML (before <head> was dropped).
     if site.exclusions:
         preprocessed_html = remove_excluded_elements(
             html, site.exclusions, logger=logger
@@ -211,7 +224,12 @@ async def process_article(
         preprocessed_html, base_url=url, logger=logger
     )
 
-    meta = await asyncio.to_thread(extract_article_metadata, preprocessed_html, url=url)
+    if unfurled_meta is not None:
+        meta = unfurled_meta
+    else:
+        meta = await asyncio.to_thread(
+            extract_article_metadata, preprocessed_html, url=url
+        )
 
     now = datetime.now(UTC)
     pub_date: datetime | None = None
@@ -238,9 +256,16 @@ async def process_article(
         logger.log(f"  · already exists, skipping: {path.name}")
         return False
 
-    # Use shared extraction logic
+    # Use shared extraction logic, passing pre-extracted metadata for
+    # unfurled articles so title/date/image are not lost.
     result = await asyncio.to_thread(
-        extract_article_from_html, preprocessed_html, url, site, logger, article_slug
+        extract_article_from_html,
+        preprocessed_html,
+        url,
+        site,
+        logger,
+        article_slug,
+        meta,
     )
     if result is None:
         return False

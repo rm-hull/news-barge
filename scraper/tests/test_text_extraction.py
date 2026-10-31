@@ -713,11 +713,11 @@ class TestUnfurlMultipageArticle:
         async def fetcher(url: str) -> str | None:
             return "<html><body><p>Should not be called</p></body></html>"
 
-        result = await unfurl_multipage_article(html, base_url, fetcher)
+        merged_html, _meta = await unfurl_multipage_article(html, base_url, fetcher)
         # When no pagination, the function extracts the body and wraps it
         # in a minimal HTML document — content should be preserved
-        assert "<p>Single page</p>" in result
-        assert "unfurled-page" not in result
+        assert "<p>Single page</p>" in merged_html
+        assert "unfurled-page" not in merged_html
 
     @pytest.mark.asyncio
     async def test_merges_two_pages(self) -> None:
@@ -737,12 +737,12 @@ class TestUnfurlMultipageArticle:
             call_count += 1
             return page2
 
-        result = await unfurl_multipage_article(
+        merged_html, _meta = await unfurl_multipage_article(
             page1, "https://example.com/article/1", fetcher
         )
         assert call_count == 1
-        assert "Page 1 content" in result
-        assert "unfurled-page" in result
+        assert "Page 1 content" in merged_html
+        assert "unfurled-page" in merged_html
 
     @pytest.mark.asyncio
     async def test_stops_when_fetch_fails(self) -> None:
@@ -755,11 +755,11 @@ class TestUnfurlMultipageArticle:
             return None  # Simulate fetch failure
 
         logger = MagicMock()
-        result = await unfurl_multipage_article(
+        merged_html, _meta = await unfurl_multipage_article(
             page1, "https://example.com/article/1", fetcher, logger=logger
         )
         # Should return original HTML when fetch fails
-        assert "Page 1" in result
+        assert "Page 1" in merged_html
         logger.log.assert_called()
         assert "failed to fetch" in logger.log.call_args[0][0]
 
@@ -782,7 +782,7 @@ class TestUnfurlMultipageArticle:
             <a class="next-page" href="/article/3">Next</a>
             </body></html>"""
 
-        await unfurl_multipage_article(
+        _merged_html, _meta = await unfurl_multipage_article(
             html, "https://example.com/article/1", fetcher, max_pages=3
         )
         # Should have fetched 2 additional pages (max_pages=3, page 1 already fetched)
@@ -799,9 +799,42 @@ class TestUnfurlMultipageArticle:
         async def fetcher(url: str) -> str | None:
             raise AssertionError("Should not fetch when next URL equals current")
 
-        result = await unfurl_multipage_article(
+        merged_html, _meta = await unfurl_multipage_article(
             html, "https://example.com/article/1", fetcher
         )
         # Content should be preserved; fetcher should not be called
-        assert "Content" in result
-        assert "unfurled-page" not in result
+        assert "Content" in merged_html
+        assert "unfurled-page" not in merged_html
+
+    @pytest.mark.asyncio
+    async def test_preserves_metadata_from_first_page(self) -> None:
+        """Metadata (title, date, og:image) must be captured from the original
+        first-page HTML before the document is rebuilt without <head>."""
+        page1 = """<html><head>
+        <title>Article Title</title>
+        <meta property="og:image" content="https://example.com/img.jpg" />
+        <meta property="article:published_time" content="2024-06-15T10:00:00Z" />
+        <meta name="description" content="Article description" />
+        </head><body>
+        <p>Page 1 content</p>
+        <a class="next-page" href="/article/2">Next</a>
+        </body></html>"""
+        page2 = """<html><body>
+        <p>Page 2 content</p>
+        </body></html>"""
+
+        async def fetcher(url: str) -> str | None:
+            return page2
+
+        merged_html, meta = await unfurl_multipage_article(
+            page1, "https://example.com/article/1", fetcher
+        )
+
+        # The merged HTML has no <head>, so metadata extraction on it would fail
+        assert "<head>" not in merged_html
+        # But the pre-extracted metadata should have the title
+        assert meta is not None
+        assert meta.title == "Article Title"
+        assert meta.image == "https://example.com/img.jpg"
+        assert meta.date is not None
+        assert "2024-06-15" in meta.date
