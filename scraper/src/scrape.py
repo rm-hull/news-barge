@@ -43,6 +43,7 @@ from .constants import (
     REPO_ROOT,
     SITES_FILE,
 )
+from .slugs import url_to_slug
 from .fetchers import (
     fetch_html_aiohttp,
     fetch_html_playwright,
@@ -61,6 +62,35 @@ from .text_extraction import (
     remove_excluded_elements,
     resolve_srcset_images,
 )
+
+# ---------------------------------------------------------------------------
+# Existing articles index
+# ---------------------------------------------------------------------------
+
+
+def build_existing_slugs_map(
+    output_dir: Path = CONTENT_DIR,
+) -> dict[str, set[str]]:
+    """Walk the content directory and build a map of site_slug -> set of article slugs.
+
+    Scans all .md files under ``output_dir`` (structured as
+    ``YYYY/MM/DD/site--article.md``) and extracts the site slug and article
+    slug from each filename.  Returns a dict mapping each site slug to the set
+    of article slugs that already have a file on disk.
+    """
+    existing: dict[str, set[str]] = {}
+    if not output_dir.is_dir():
+        return existing
+
+    for md_path in output_dir.rglob("*.md"):
+        stem = md_path.stem  # e.g. "guardian--some-article-slug"
+        parts = stem.split("--", 1)
+        if len(parts) == 2:
+            site_slug, article_slug = parts
+            existing.setdefault(site_slug, set()).add(article_slug)
+
+    return existing
+
 
 # ---------------------------------------------------------------------------
 # Feed handlers
@@ -439,6 +469,26 @@ async def main_async(args: argparse.Namespace) -> None:
 
                 for url in urls:
                     all_tasks.append((url, site, logger))
+
+            # Phase 2.5: Skip articles that already exist on disk
+            if not args.force:
+                existing_slugs = build_existing_slugs_map(args.output_dir)
+                total_before = len(all_tasks)
+                filtered_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
+                for url, site, logger in all_tasks:
+                    article_slug = url_to_slug(url, site.exclude_query_params)
+                    site_existing = existing_slugs.get(site.slug)
+                    if site_existing is not None and article_slug in site_existing:
+                        logger.log(f"  · already exists (skipping fetch): {article_slug}")
+                        continue
+                    filtered_tasks.append((url, site, logger))
+                all_tasks = filtered_tasks
+                skipped = total_before - len(all_tasks)
+                if skipped:
+                    print(
+                        f"\nSkipping {skipped} article(s) that already exist "
+                        f"on disk ({len(all_tasks)} remaining to fetch)."
+                    )
 
             # Phase 3: Shuffle
             random.shuffle(all_tasks)

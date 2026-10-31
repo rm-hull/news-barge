@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from pathlib import Path
 from unittest.mock import AsyncMock
 
 import pytest
@@ -67,6 +68,66 @@ async def test_create_shared_context_registers_analytics_route_once(
     assert callable(args[0])
     # Second positional arg is the abort-route handler callable.
     assert callable(args[1])
+
+
+class TestBuildExistingSlugsMap:
+    """Tests for the existing articles index builder."""
+
+    def test_returns_empty_when_directory_missing(self, tmp_path: Path) -> None:
+        """Should return empty dict when the output directory does not exist."""
+        result = scrape.build_existing_slugs_map(tmp_path / "nonexistent")
+        assert result == {}
+
+    def test_returns_empty_when_directory_empty(self, tmp_path: Path) -> None:
+        """Should return empty dict when the output directory has no .md files."""
+        (tmp_path / "2024" / "01" / "15").mkdir(parents=True)
+        result = scrape.build_existing_slugs_map(tmp_path)
+        assert result == {}
+
+    def test_extracts_site_and_article_slugs(self, tmp_path: Path) -> None:
+        """Should parse filenames and build the site -> slugs map."""
+        d = tmp_path / "2024" / "01" / "15"
+        d.mkdir(parents=True)
+        (d / "guardian--some-article.md").touch()
+        (d / "bbc--another-piece.md").touch()
+        (d / "guardian--second-article.md").touch()
+
+        result = scrape.build_existing_slugs_map(tmp_path)
+
+        assert "guardian" in result
+        assert "bbc" in result
+        assert "some-article" in result["guardian"]
+        assert "second-article" in result["guardian"]
+        assert "another-piece" in result["bbc"]
+
+    def test_handles_article_slugs_with_double_dashes(
+        self, tmp_path: Path
+    ) -> None:
+        """Article slugs may contain '--' themselves; only the first '--'
+        separates the site slug from the article slug."""
+        d = tmp_path / "2024" / "02" / "10"
+        d.mkdir(parents=True)
+        (d / "reuters--path--to--article.md").touch()
+
+        result = scrape.build_existing_slugs_map(tmp_path)
+
+        assert "reuters" in result
+        assert "path--to--article" in result["reuters"]
+
+    def test_ignores_non_md_files(self, tmp_path: Path) -> None:
+        """Non-.md files should be ignored."""
+        d = tmp_path / "2024" / "01"
+        d.mkdir(parents=True)
+        (d / "guardian--article.md").touch()
+        (d / "guardian--article.txt").touch()
+        (d / "README.md").touch()
+
+        result = scrape.build_existing_slugs_map(tmp_path)
+
+        assert "guardian" in result
+        assert "article" in result["guardian"]
+        # README.md has no '--' separator, so it should be ignored
+        assert "" not in result
 
 
 @pytest.mark.asyncio
