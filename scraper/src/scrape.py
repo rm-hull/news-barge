@@ -161,8 +161,8 @@ async def urls_from_listing(
 
     if listing_class:
         links = tree.xpath(
-            f"//*[contains(concat(' ', normalize-space(@class)"
-            f", ' '), ' {listing_class} ')]//a[@href]"
+            "//*[contains(concat(' ', normalize-space(@class), ' '), $cls)]//a[@href]",
+            cls=f" {listing_class} ",
         )
     else:
         links = tree.xpath("//a[@href]")

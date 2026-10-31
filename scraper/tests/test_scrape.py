@@ -1,10 +1,12 @@
-"""Unit tests for the shared Playwright context created in src.scrape.py."""
+"""Unit tests for src.scrape.py."""
 
 from __future__ import annotations
 
+import asyncio
 from pathlib import Path
-from unittest.mock import AsyncMock
+from unittest.mock import AsyncMock, MagicMock, patch
 
+import aiohttp
 import pytest
 
 import src.scrape as scrape
@@ -149,3 +151,145 @@ async def test_blocked_request_matcher_catches_ads_and_tracking() -> None:
     assert not matcher("https://www.bbc.co.uk/news/uk-politics-12345")
     assert not matcher("https://fonts.googleapis.com/css2?family=Roboto")
     assert not matcher("https://example.com/api/articles/123")
+
+
+class TestUrlsFromListing:
+    """Tests for the listing page URL discovery function."""
+
+    @pytest.mark.asyncio
+    async def test_listing_class_selects_matching_links(self) -> None:
+        """listing_class should select only links inside elements with that class."""
+        html = b"""<!DOCTYPE html>
+        <body>
+          <div class="article-link">
+            <a href="/articles/one.html">One</a>
+            <a href="/articles/two.html">Two</a>
+          </div>
+          <div class="sidebar">
+            <a href="/other.html">Other</a>
+          </div>
+        </body>"""
+        with patch.object(
+            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+        ) as mock_fetch:
+            mock_fetch.return_value = html.decode()
+            session = MagicMock(spec=aiohttp.ClientSession)
+            context = MagicMock()
+            browser_semaphore = asyncio.Semaphore(1)
+
+            result = await scrape.urls_from_listing(
+                listing_url="https://example.com/listing",
+                pattern=None,
+                limit=10,
+                use_playwright=False,
+                session=session,
+                context=context,
+                browser_semaphore=browser_semaphore,
+                listing_class="article-link",
+            )
+
+            assert len(result) == 2
+            assert "https://example.com/articles/one.html" in result
+            assert "https://example.com/articles/two.html" in result
+            assert "https://example.com/other.html" not in result
+
+    @pytest.mark.asyncio
+    async def test_listing_class_with_single_quote_does_not_crash(self) -> None:
+        """A class name containing a single quote must not raise XPathEvalError.
+
+        This is the injection vulnerability: f-string interpolation of the class
+        name into the XPath expression would break on quotes.
+        """
+        html = b"""<!DOCTYPE html>
+        <body>
+          <div class="o'neill-article">
+            <a href="/articles/one.html">One</a>
+          </div>
+        </body>"""
+        with patch.object(
+            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+        ) as mock_fetch:
+            mock_fetch.return_value = html.decode()
+            session = MagicMock(spec=aiohttp.ClientSession)
+            context = MagicMock()
+            browser_semaphore = asyncio.Semaphore(1)
+
+            # Should not raise XPathEvalError
+            result = await scrape.urls_from_listing(
+                listing_url="https://example.com/listing",
+                pattern=None,
+                limit=10,
+                use_playwright=False,
+                session=session,
+                context=context,
+                browser_semaphore=browser_semaphore,
+                listing_class="o'neill-article",
+            )
+
+            assert len(result) == 1
+            assert "https://example.com/articles/one.html" in result
+
+    @pytest.mark.asyncio
+    async def test_listing_class_with_special_xpath_chars(self) -> None:
+        """A class name with XPath-special characters must not crash."""
+        html = b"""<!DOCTYPE html>
+        <body>
+          <div class="article[link]">
+            <a href="/articles/one.html">One</a>
+          </div>
+        </body>"""
+        with patch.object(
+            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+        ) as mock_fetch:
+            mock_fetch.return_value = html.decode()
+            session = MagicMock(spec=aiohttp.ClientSession)
+            context = MagicMock()
+            browser_semaphore = asyncio.Semaphore(1)
+
+            result = await scrape.urls_from_listing(
+                listing_url="https://example.com/listing",
+                pattern=None,
+                limit=10,
+                use_playwright=False,
+                session=session,
+                context=context,
+                browser_semaphore=browser_semaphore,
+                listing_class="article[link]",
+            )
+
+            assert len(result) == 1
+
+    @pytest.mark.asyncio
+    async def test_no_listing_class_selects_all_links(self) -> None:
+        """Without listing_class, all links on the page should be selected."""
+        html = b"""<!DOCTYPE html>
+        <body>
+          <div class="article-link">
+            <a href="/articles/one.html">One</a>
+          </div>
+          <div class="sidebar">
+            <a href="/other.html">Other</a>
+          </div>
+        </body>"""
+        with patch.object(
+            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+        ) as mock_fetch:
+            mock_fetch.return_value = html.decode()
+            session = MagicMock(spec=aiohttp.ClientSession)
+            context = MagicMock()
+            browser_semaphore = asyncio.Semaphore(1)
+
+            result = await scrape.urls_from_listing(
+                listing_url="https://example.com/listing",
+                pattern=None,
+                limit=10,
+                use_playwright=False,
+                session=session,
+                context=context,
+                browser_semaphore=browser_semaphore,
+                listing_class=None,
+            )
+
+            assert len(result) == 2
+            assert "https://example.com/articles/one.html" in result
+            assert "https://example.com/other.html" in result
