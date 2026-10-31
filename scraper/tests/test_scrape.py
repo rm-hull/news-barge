@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import asyncio
 from pathlib import Path
+from typing import Any
 from unittest.mock import AsyncMock, MagicMock, patch
 
 import aiohttp
@@ -166,7 +167,7 @@ async def test_route_handler_does_not_abort_document_with_blocked_keyword() -> N
     # Track which handler was registered with context.route()
     registered_handler = None
 
-    async def capture_route(handler):
+    async def capture_route(handler: Any) -> None:
         nonlocal registered_handler
         registered_handler = handler
 
@@ -201,7 +202,7 @@ async def test_route_handler_aborts_non_document_with_blocked_keyword() -> None:
 
     registered_handler = None
 
-    async def capture_route(handler):
+    async def capture_route(handler: Any) -> None:
         nonlocal registered_handler
         registered_handler = handler
 
