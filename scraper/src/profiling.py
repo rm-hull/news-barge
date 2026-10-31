@@ -13,7 +13,7 @@ created.
 
 from __future__ import annotations
 
-import asyncio
+import inspect
 import atexit
 import sys
 import threading
@@ -68,7 +68,7 @@ def profiled[T](func: Callable[..., T]) -> Callable[..., T]:
     with _registry_lock:
         _registry.append(stats)
 
-    if asyncio.iscoroutinefunction(func):
+    if inspect.iscoroutinefunction(func):
 
         @wraps(func)
         async def async_wrapper(*args: Any, **kwargs: Any) -> T:
