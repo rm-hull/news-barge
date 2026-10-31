@@ -355,24 +355,21 @@ def _deduplicate_urls(urls: list[str]) -> list[str]:
     return deduped
 
 
-async def _discover_urls(
-    sites: list[SiteConfig],
+async def _discover_site_urls(
+    site: SiteConfig,
     session: aiohttp.ClientSession,
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
-) -> tuple[list[tuple[str, SiteConfig, SiteLogger]], dict[str, SiteLogger]]:
-    """Discover article URLs for each site from feeds, listings, and static config.
+    fetch_semaphore: asyncio.Semaphore,
+) -> tuple[SiteConfig, SiteLogger, list[str]]:
+    """Discover article URLs for a single site from feeds, listings, and static config.
 
-    Returns a tuple of (task_list, site_loggers) where task_list contains
-    `(url, site, logger)` triples for every discovered URL.
+    Returns (site, logger, urls) so the caller can aggregate results from
+    multiple sites discovered in parallel.
     """
-    site_loggers: dict[str, SiteLogger] = {}
-    all_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
+    site_logger = SiteLogger(site.name, site.slug)
 
-    for site in sites:
-        site_logger = SiteLogger(site.name, site.slug)
-        site_loggers[site.slug] = site_logger
-
+    async with fetch_semaphore:
         print(f"Discovery: {site.name} ({site.slug})", end="", flush=True)
 
         urls = list(site.urls)
@@ -415,21 +412,53 @@ async def _discover_urls(
 
         print()  # Newline after all sources for this site are printed
 
-        if not urls:
-            site_logger.log("  No URLs configured, skipping.")
-            continue
+    if not urls:
+        site_logger.log("  No URLs configured, skipping.")
+        return site, site_logger, []
 
-        urls = _deduplicate_urls(urls)
+    urls = _deduplicate_urls(urls)
 
-        # Log discovery to the stashed logger for the final grouped report
-        site_logger.log(f"\n{'─' * 50}")
-        site_logger.log(f"Site: {site.name} ({site.slug})")
-        if site.feed:
-            site_logger.log(f"  Fetching feed: {site.feed}")
-        for listing_url in site.listing_urls:
-            site_logger.log(f"  Fetching listing: {listing_url}")
-        site_logger.log(f"  Total URLs discovered: {len(urls)}")
+    # Log discovery to the stashed logger for the final grouped report
+    site_logger.log(f"\n{'─' * 50}")
+    site_logger.log(f"Site: {site.name} ({site.slug})")
+    if site.feed:
+        site_logger.log(f"  Fetching feed: {site.feed}")
+    for listing_url in site.listing_urls:
+        site_logger.log(f"  Fetching listing: {listing_url}")
+    site_logger.log(f"  Total URLs discovered: {len(urls)}")
 
+    return site, site_logger, urls
+
+
+async def _discover_urls(
+    sites: list[SiteConfig],
+    session: aiohttp.ClientSession,
+    shared_context: BrowserContext,
+    browser_semaphore: asyncio.Semaphore,
+    fetch_semaphore: asyncio.Semaphore,
+) -> tuple[list[tuple[str, SiteConfig, SiteLogger]], dict[str, SiteLogger]]:
+    """Discover article URLs for each site from feeds, listings, and static config.
+
+    All sites are discovered in parallel using ``asyncio.gather``, gated by
+    ``fetch_semaphore`` to bound concurrency.
+
+    Returns a tuple of (task_list, site_loggers) where task_list contains
+    `(url, site, logger)` triples for every discovered URL.
+    """
+    site_loggers: dict[str, SiteLogger] = {}
+    all_tasks: list[tuple[str, SiteConfig, SiteLogger]] = []
+
+    discovery_tasks = [
+        _discover_site_urls(
+            site, session, shared_context, browser_semaphore, fetch_semaphore
+        )
+        for site in sites
+    ]
+
+    results = await asyncio.gather(*discovery_tasks)
+
+    for site, site_logger, urls in results:
+        site_loggers[site.slug] = site_logger
         for url in urls:
             all_tasks.append((url, site, site_logger))
 
@@ -611,7 +640,7 @@ async def main_async(args: argparse.Namespace) -> None:
 
             # Phase 1: Discovery
             tasks, site_loggers = await _discover_urls(
-                sites, session, shared_context, browser_semaphore
+                sites, session, shared_context, browser_semaphore, fetch_semaphore
             )
 
             # Phase 2: Filter existing
