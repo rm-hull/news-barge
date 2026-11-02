@@ -1,0 +1,53 @@
+---
+title: '''There was some really fair criticism'': Arc Raiders'' devs understand why
+  players were so upset about its AI use but say that it was ''too impractical to
+  record'' every voice line'
+source_url: https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/
+source_site: PC Gamer
+source_slug: pcgamer
+description: Embark has since re-recorded lines to inject more real human voices to
+  the game.
+image: https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg
+published: '2026-11-02T00:00:00Z'
+scraped_at: '2026-11-02T23:04:04Z'
+categories:
+- Technology & Software
+- Video Gaming
+people:
+- AI
+- Bence Pajor
+- Embark
+- Stefan Strandberg
+locations: []
+organisations:
+- Arc Raiders
+- Embark Studios
+- Marathon
+- PC Gamer
+---
+
+![Arc Raiders: A raider standing with a gun in their right hand, looking upwards at something out of shot, surrounded by red smoke.](https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg)
+
+"Every time you're testing out a new technology you don't really know how people will react to it. We'd seen some similar reactions with The Finals, we had used a similar technology, so I knew that we were heading into a bit of potential rocky territory. I think there was some really fair criticism in there. There's no point in trying to be defensive, it's just what's best for the game at the end of the day." via Arc Raiders' YouTube channel.
+
+![The Evolution of ARC Raiders S2: EP5 - Sound & Music - YouTube](https://img.youtube.com/vi/_xwbP8KV530/maxresdefault.jpg)
+
+The start of Arc Raiders was a very mixed bag. On one hand it managed to attract an unbelievable amount of players as Embark Studios struck gold with its gentler take on extraction shooters. But all of this hype was somewhat overshadowed by the controversy surrounding its use of AI to mimic voice actors and supplement the dialogue.
+
+While the actors involved did sign contracts allowing Embark to do this, there was still a great deal of backlash from players who were frustrated to see AI injected into the game. Many players pointed out, rightfully so, just how lifeless, lacklustre, and odd some of the AI voicelines sounded, a fact that was made all the more apparent by how fantastic Marathon's NPCs were.
+
+![Arc Raiders Frozen Trail screenshots](https://cdn.mos.cms.futurecdn.net/Fd4TUWBBCNNNPuCwFugtUZ-1200-80.jpg)
+
+Embark's devs have pointed out, however, that it only used AI in order to get updates out the door faster; that this was due to efficiency rather than an affinity for the technology. "[The actors] have been here all along," Embark's audio director Bence Pajor says. "But we haven't always used them to record the actual thing you're going [to hear] because that's only been solidified super late. We made a lot of training data from their voices so we could prototype as well with their voice.
+
+"Every new item that appears in the game, every new feature, everything needs to have a lot of dialogue because you can ping it. There's so much going into everything. To record the training data for the ping system becomes too impractical to record every possible version of something. I mean the actors would just go crazy if they had to read all of that. That's not feasible because the game has been changing so fast and we can't call them in every time we just change a feature."
+
+Since the controversy first erupted, Embark has stressed multiple times that it wants to support voice actors. "We are not in the industry of replacing actors, actually quite the opposite we should celebrate the performance and give them more space," chief creative officer Stefan Strandberg says. "And that is something that I'm hoping to bring to players over the coming years for Arc Raiders: really seeing what the characters are like and who they are, and what motivates them, making it real."
+
+Arguably, though, the damage has already been done. Using AI to bulk up voice lines may be easier, and replacing it with real voice actors when you can is certainly better than the alternative, but it has still set a bad precedent for voice actors in an industry which is relentless in its attempt to cut creative corners to optimise costs.
+
+![Arc Raiders guideArc Raiders roadmapArc Raiders best skillsArc Raiders best weaponsArc Raiders ExpeditionsArc Raiders quests]([https://cdn.mos.cms.futurecdn.net/TCou4LpWxSUzfBu3QPeR6P-200-80.jpg.webp](https://cdn.mos.cms.futurecdn.net/TCou4LpWxSUzfBu3QPeR6P-200-80.jpg.webp) "Arc Raiders guideArc Raiders roadmapArc Raiders best skillsArc Raiders best weaponsArc Raiders ExpeditionsArc Raiders quests")
+
+**Arc Raiders guide**: What's hot this week** Arc Raiders roadmap**: New and improved** Arc Raiders best skills**: Survive the surface** Arc Raiders best weapons**: Just don't lose them** Arc Raiders Expeditions**: Retire your Raider** Arc Raiders quests**: All the missions and how to beat 'em
+
+Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team.
