@@ -1,0 +1,49 @@
+---
+title: La bola negra becomes Spain's third highest-grossing film ever
+source_url: https://www.euronews.com/2026/11/03/la-bola-negra-becomes-spains-third-highest-grossing-film-ever
+source_site: Euronews
+source_slug: euronews
+description: 'The film by Javier Calvo and Javier Ambrossi has grossed 36.7 million
+  euros and is only behind ''Spanish Affair'' and ''The Impossible''. #Cinema'
+image: https://images.euronews.com/articles/stories/09/93/14/63/1200x675_cmsv2_e8104621-74ac-5642-9b31-b24ff1fcfa8c-9931463.jpg
+published: '2026-11-03T00:00:00Z'
+scraped_at: '2026-11-03T23:16:17Z'
+categories:
+- Europe
+- News & Politics
+- Film & TV
+people:
+- Federico García Lorca
+- Glenn Close
+- Jack Lowden
+- James Bond
+- Javier Ambrossi
+- Javier Calvo
+- Kristin Scott Thomas
+- Penélope Cruz
+- Zvyagintsev
+locations:
+- Spain
+organisations:
+- Rentrak
+---
+
+## The film by Javier Calvo and Javier Ambrossi has grossed 36.7 million euros and is only behind 'Spanish Affair' and 'The Impossible'.
+
+'La bola negra', directed by Javier Calvo and Javier Ambrossi, has become the third most successful Spanish film of all time, with **36,7 million euros taken and 5,4 million cinema-goers** up to 1 November.
+
+The production, starring Penélope Cruz and Glenn Close and inspired by Federico García Lorca, is only behind 'Ocho apellidos vascos' and 'Lo imposible'.
+
+The film’s success comes as Spanish box office revenues recover, with **a 40% increase in takings** during the first 41 weeks of 2026, reaching 489,4 million euros. This figure is 8% higher than the average for the same period before the pandemic.
+
+The film has also managed to attract a younger audience than usual for the drama genre. According to data from Rentrak, almost 40% of those surveyed were under 35, while women accounted for more than 62%. Its success has also strengthened the role of **independent distributors** in the Spanish market.
+
+In addition, 'La bola negra' has been preselected to represent Spain at the **2027 Oscars**, a recognition that could further boost its box office run.
+
+Despite the improvement in revenues, **cinema attendance has still not returned to pre-pandemic levels**. Between January and September, the number of cinema-goers rose by 29% compared with 2025, but remained 13% below the average recorded between 2017 and 2019.
+
+## Read more
+
+![Zvyagintsev at the awards ceremony of the 79th Cannes International Film Festival on 23 May 2026.](https://images.euronews.com/articles/stories/09/91/68/59/1024x576_cmsv2_9ee25382-5bce-5797-85cb-ac5df3c40c03-9916859.jpg)
+![The Black Ball](https://images.euronews.com/articles/stories/09/93/14/63/1024x576_cmsv2_e8104621-74ac-5642-9b31-b24ff1fcfa8c-9931463.jpg)
+![Kristin Scott Thomas weighs in on Slow Horses co-star Jack Lowden for next James Bond](https://images.euronews.com/articles/stories/09/97/80/46/1024x576_cmsv2_dbf857f6-2f53-5d55-8fc1-b22c971271d1-9978046.jpg)

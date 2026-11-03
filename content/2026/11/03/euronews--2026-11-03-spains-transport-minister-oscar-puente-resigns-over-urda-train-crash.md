@@ -1,0 +1,80 @@
+---
+title: Spain’s transport minister resigns over Urda train crash
+source_url: https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69
+source_site: Euronews
+source_slug: euronews
+description: 'Óscar Puente revealed that a high-speed train was allowed to keep running
+  at over 160 km/h after its safety system failed, as rail workers threaten to strike.
+  #EuropeNews'
+image: https://images.euronews.com/articles/stories/09/97/85/54/1200x675_cmsv2_57173d35-1a94-5eb6-ac55-8e9447faf041-9978554.jpg
+published: '2026-11-03T00:00:00Z'
+scraped_at: '2026-11-03T23:17:02Z'
+categories:
+- Europe
+- News & Politics
+people:
+- Adif
+- Ester Muñoz
+- Pedro Sánchez
+- Pepa Millán
+- Vox
+- Óscar Puente
+locations:
+- Adamuz
+- Córdoba
+- Madrid-Seville
+- Spain
+- Toledo
+- Urda
+organisations:
+- AVE
+- Adif
+- Basque Nationalist Party
+- Iryo
+- Junts
+- LZB
+- PNV
+- PP
+- People’s Party
+- Permanent Deputation of the Congress of Deputies
+- Socialist
+- Vox
+---
+
+## Óscar Puente revealed that a high-speed train was allowed to keep running at over 160 km/h after its safety system failed, as rail workers threaten to strike.
+
+Spain’s Transport Minister Óscar Puente resigned on Tuesday over last week’s train crash near Urda, in the central province of Toledo, which killed 69 people.
+
+He announced the decision during an appearance before the Permanent Deputation of the Congress of Deputies, the standing committee that represents Spain’s lower house when it is not in full session.
+
+Puente, a member of Prime Minister Pedro Sánchez’s Socialist party, said stepping down was “good for the country and for democracy”. He presented it as an act of political responsibility, adding: “It is not true that all politicians are the same.”
+
+He also said he would not stand as a candidate at the next election, saying he wanted “to live up to my party”.
+
+During the session, Puente defended the safety of the Madrid-Seville high-speed line, where the crash happened. As well as the 69 dead, around 200 people were injured.
+
+“It is neither an abandoned nor a forgotten piece of infrastructure,” he said, pointing to a €780 million renewal plan launched by the government.
+
+He ended his speech with a farewell: “I trust my country will live up to the occasion. I have tried to live up to it. Farewell.”
+
+## **Second disaster on the same line**
+
+The Urda crash came nine months after a derailment near Adamuz, in the southern province of Córdoba, killed 46 people in January. That accident also happened on the Madrid-Seville line.
+
+Puente told MPs that the control centre run by Adif, Spain’s state-owned rail infrastructure manager, had allowed the AVE high-speed train involved to continue its journey even though its LZB automatic safety system had failed. A train operated by the private company Iryo had stopped further along the track.
+
+The AVE then travelled about 25 kilometres at more than 160 km/h before the collision.
+
+Puente defended the reliability of the LZB system and announced new technology to strengthen rail safety.
+
+## **Opposition attacks**
+
+Ester Muñoz, spokesperson for the conservative People’s Party (PP), said the minister’s job “is not to explain fatal accidents, it is to prevent them”.
+
+Pepa Millán, spokesperson for the far-right Vox party, accused Puente of “shirking his responsibilities” and criticised how he had behaved after the crash. “He has neither dignity nor shame,” she said.
+
+The PP and Vox had demanded his resignation, as had two parties whose votes the Sánchez government has relied on: the Basque Nationalist Party (PNV) and the Catalan pro-independence party Junts.
+
+Meanwhile, the works council at Adif has agreed to push for a strike on 17 November to demand better rail safety, although the strike has not yet been formally called.
+
+The planned protest reflects growing concern about the safety of Spain’s high-speed network after two deadly crashes in less than a year.
