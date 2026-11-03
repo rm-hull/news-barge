@@ -1,0 +1,73 @@
+---
+title: Hampshire Reform UK councillor charged with rape and sexual assault
+source_url: https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The Crown Prosecution Service has charged George Madgwick with 35 offences,
+  including 12 counts of rape.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg
+published: '2026-11-03T00:00:00Z'
+scraped_at: '2026-11-03T17:01:11Z'
+categories:
+- UK
+- News & Politics
+- Music
+people:
+- George Madgwick
+locations:
+- Anchorage Park
+- Hampshire
+- Paulsgrove
+- Portsmouth Magistrates' Court
+- Wales
+organisations:
+- CPS
+- Crown Prosecution Service
+- Hampshire County Council
+- ITV News Exposure
+- Isle of Wight Constabulary
+- North East Havant
+- Portsmouth City Council
+- Portsmouth Patriots
+- Reform UK
+---
+
+![George Madgwick looks into the lens of the camera. He has a full, short, grey beard and black-rimmed glasses. He is wearing a light blue, open-collar shirt and a navy blue tweed jacket.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg)
+
+George Madgwick is the leader of Reform UK in Hampshire
+
+**The leader of Reform UK in Hampshire has been charged with 35 offences against four victims over a 13-year period, including 12 counts of rape.**
+
+The Crown Prosecution Service (CPS) said it had charged George Madgwick with the offences, which it said took place between 2008 and 2021 in Portsmouth and Wales.
+
+It said the 37-year-old faced charges including rape, sexual assault, controlling or coercive behaviour, and making indecent images of a child against four victims - who were aged 16 and 17 at the time.
+
+Reform UK said Madgwick had been suspended "with immediate effect". He is due to appear at Portsmouth Magistrates' Court on 25 November.
+
+Hampshire and Isle of Wight Constabulary said its investigation into Madgwick began on 24 July 2025, after receiving a report of a sexual offence.
+
+The force said it first arrested him on 6 January 2026, before he was charged by the CPS on Tuesday.
+
+In total, Madgwick, who is from the the Anchorage Park area of Portsmouth, has been charged with 12 counts of rape, two counts of assault by penetration and two of sexual assault.
+
+Madgwick has also been charged with two counts of making indecent images of children, two of controlling or coercive behaviour and eight of assault occasioning actual bodily harm.
+
+He faces one charge each of causing or inciting sexual exploitation of a child, distributing an indecent image of a child, stalking, making threats to kill, false imprisonment, theft and criminal damage.
+
+A spokesperson for the CPS said: "Our prosecutors have worked to establish that there is sufficient evidence and that it is in the public interest to bring the case to court.
+
+"We remind all concerned that proceedings against the defendant are now active and that he has the right to a fair trial. There should be no reporting, commentary or sharing of information which could in any way prejudice these proceedings."
+
+The 37-year-old councillor represents North East Havant on Hampshire County Council and Paulsgrove on Portsmouth City Council.
+
+Madgwick was elected to his position on the county council by a large margin in May - just months after he was first arrested by police.
+
+In a statement, the local authority said it was aware of the "extremely serious allegations" and that "as criminal proceedings are now under way, it would not be appropriate" to comment further.
+
+It added that being charged with a criminal offence did not disqualify a councillor, such as Madgwick, from office.
+
+Last month, he featured in the the ITV News Exposure documentary Undercover: A Year In Reform - after which he accused the broadcaster of "electoral interference".
+
+In the programme, he was shown voicing support for the Portsmouth Patriots anti-immigration group.
+
+He subsequently issued a statement saying the undercover reporters potentially had an "impact on the result" of council elections.
