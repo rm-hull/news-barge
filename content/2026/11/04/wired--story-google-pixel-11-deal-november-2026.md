@@ -1,0 +1,43 @@
+---
+title: My Favorite Android Phones Are on Sale
+source_url: https://www.wired.com/story/google-pixel-11-deal-november-2026/
+source_site: Wired
+source_slug: wired
+description: Upgrade to the smartest Android smartphones. Google’s latest Pixel 11
+  phones are all on sale at their lowest prices to date, well ahead of Black Friday.
+image: https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/191:100/w_1280,c_limit/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg
+published: '2026-11-04T00:00:00Z'
+scraped_at: '2026-11-04T21:26:10Z'
+categories:
+- Technology & Software
+- Science
+people:
+- Frost
+- Pistachio
+locations: []
+organisations:
+- Black Friday
+- Google
+- Google’s AI
+- Pro XL
+---
+
+New smartphones used to hold their value, and it was typically months before you’d see any real discounts. But with smartphone sales dwindling and budgets squeezed, some manufacturers are offering tasty discounts on their latest and greatest devices sooner than you might think. Google’s Pixel 11 range landed in August, with the slick Pixel 11, the more powerful Pixel 11 Pro and Pro XL, and the folding Pixel 11 Pro Fold, and all four phones are already majorly discounted for the first time, well before Black Friday.
+
+You can get $200 off the Pixel 11, $300 off the 11 Pro, $350 off the 11 Pro XL, and $250 off the 11 Pro Fold. These are deep discounts on the best Pixel phones right now, and they cancel out the $100 price bump we saw across the board from phone makers this year (blamed on the memory shortage driven by AI).
+
+## The Biggest Discount
+
+The biggest savings are on the worst value, but most powerful, Pixels: the 11 Pro and 11 Pro XL. Featuring classy designs, bright, colorful screens, and powerfully versatile camera systems, these are perhaps the best Android phones you can buy right now. What sets them apart from the rest of the range is the cameras, with faster lowlight performance and powerful telephoto lenses to zoom in from afar. The displays are also brighter, and there’s the customizable HiLight LED on the back of the phone (though it’s a little underbaked).
+
+Google’s AI features are slick and genuinely helpful, offering proactive assistance, more conversational ability, and handy photography features like Magic Capture to automatically capture photos and videos for you. Pixels are also the only major Android phones with full Qi2 support, including magnets that make for easy mounting in the right spot.
+
+## The Best Value
+
+The regular Pixel 11 offers a broadly similar experience to the Pro models, with the same Tensor G6 chipset, smart features, and Qi2 25W support. But it comes in more fun colors, including the bright pink Hibiscus I tested. You can also get Pistachio (warm green), Frost (pale lavender), or Obsidian (black). This phone is the perfect size, and the sweet spot in Google’s range for most folks, at least until the cheaper A series variant comes along.
+
+## The Folding Upgrade
+
+This polished update to Google’s foldable brings real improvements, and it’s impressively durable, scoring an IP68 water and dust resistance rating. While it’s not my favorite folding phone, it does have two lovely, sharp OLED displays: an 8-inch main screen and a 6.5-inch cover screen. It misses out on the better cameras in the other Pro models, but you get the same smart AI features and overall polish of a premium device. I felt it was a bit pricey on release, but on sale, it’s certainly more tempting.
+
+*Power up with unlimited access to*WIRED*.**Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.*
