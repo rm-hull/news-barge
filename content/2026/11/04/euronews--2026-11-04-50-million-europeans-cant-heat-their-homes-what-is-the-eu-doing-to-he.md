@@ -1,0 +1,40 @@
+---
+title: 50 million Europeans can’t heat their homes. How is the EU helping?
+source_url: https://www.euronews.com/2026/11/04/50-million-europeans-cant-heat-their-homes-what-is-the-eu-doing-to-help
+source_site: Euronews
+source_slug: euronews
+description: 'Europe enters winter with its gas tanks emptier than at any point since
+  2011, and EU ministers have offered few binding answers on how to shield households
+  from another energy shock. Watch the video! #EuXl'
+image: https://images.euronews.com/articles/stories/09/97/86/08/1200x675_cmsv2_085cc573-b53a-5938-8606-12941b774489-9978608.jpg
+published: '2026-11-04T00:00:00Z'
+scraped_at: '2026-11-04T14:26:36Z'
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+people: []
+locations:
+- Brussels
+- Europe
+- Iran
+- Luxembourg
+- Russia
+- Strait of Hormuz
+- Ukraine
+organisations:
+- Commission
+- EU
+---
+
+## Europe enters winter with its gas tanks emptier than at any point since 2011, and EU ministers have offered few binding answers on how to shield households from another energy shock. Watch the video!
+
+EU gas storage was 74% full on 20 October, the lowest since 2011. Brussels says there is no immediate supply risk but admits the price crisis is turning into a supply crisis.
+
+The Strait of Hormuz, carrying a fifth of the world’s oil and gas, has been closed for almost eight months. Brent crude has climbed to $110 a barrel, and gas prices have surged 140% since the war on Iran began, topping €100 per megawatt-hour for the first time since 2022.
+
+Meeting in Luxembourg on 29 October, EU energy ministers weighed four packages: voluntary demand cuts; a lower storage target of 80% instead of 90% to avoid panic buying; more LNG and joint purchasing; and measures to cut bills, including smart meters in half of homes by 2030.
+
+But the meeting was a debate, not a decision. No specific cuts were set. Capitals are split on joint purchasing and energy taxes, and a deal on network charges isn’t expected before December.
+
+The Commission says the EU is more resilient than before Russia invaded Ukraine, but not comfortable. Europe may have enough gas to get through the winter. The question is who pays.

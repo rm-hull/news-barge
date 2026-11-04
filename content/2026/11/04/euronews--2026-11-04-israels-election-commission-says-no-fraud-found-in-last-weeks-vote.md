@@ -1,0 +1,50 @@
+---
+title: Israel's election commission says no fraud found in last week's vote
+source_url: https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote
+source_site: Euronews
+source_slug: euronews
+description: Prime Minister Benjamin Netanyahu and his supporters have repeatedly
+  made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly
+  with foreign assistance.
+image: https://images.euronews.com/articles/stories/09/97/91/60/1200x675_cmsv2_3de46196-550f-564b-8a7e-41b8455b0e0c-9979160.jpg
+published: '2026-11-04T00:00:00Z'
+scraped_at: '2026-11-04T14:30:44Z'
+categories:
+- Europe
+- News & Politics
+people:
+- Benjamin Netanyahu
+- Dean Livne
+- Gadi Eisenkot
+- Isaac Herzog
+locations:
+- Israel
+organisations:
+- Shin Bet
+---
+
+## Prime Minister Benjamin Netanyahu and his supporters have repeatedly made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly with foreign assistance.
+
+Israel’s election commission said on Wednesday it had found no fraud in last week’s vote, dealing a blow to Prime Minister Benjamin Netanyahu’s attempts to discredit the results.
+
+Netanyahu and his supporters have repeatedly made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly with foreign assistance.
+
+The results showed Netanyahu's religious-nationalist bloc losing its parliamentary majority, while Arab-led parties made substantial gains.
+
+“The review found no evidence of irregularities that compromised the integrity of the election or affected its results,” the committee said in a statement.
+
+The acting director of the elections committee, Dean Livne, said its investigation examined every complaint “individually and thoroughly,” but found no evidence to support allegations that the election results were invalid.
+
+The results, which are set to be formally certified on Wednesday, “accurately reflect the choices voters made at the ballot box,” Livne added.
+
+A separate investigation by the Shin Bet intelligence service into allegations of foreign interference in the elections is ongoing, according to a spokesperson for the elections committee.
+
+After receiving the certified results, Israel’s President Isaac Herzog will begin to meet with each of the parties elected to parliament.
+
+Following two days of consultations, he will choose the candidate, most likely Netanyahu or his chief rival, opposition leader Gadi Eisenkot, who he believes is best positioned to form a coalition government, setting the stage for weeks of negotiations.
+
+Neither Netanyahu's bloc nor Eisenkot's bloc of allies secured a parliamentary majority needed to form a new government.
+
+That raises the possibility of an alliance between the two rivals or an alliance between Eisenkot and some of the Arab-led parties.
+
+If neither man can put together a government, the country would hold a new election early next year.
