@@ -1,0 +1,193 @@
+---
+title: 'South Africa local elections: ANC under pressure to reverse decline'
+source_url: https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: As South Africans vote in local elections, residents tell the BBC they
+  are tired of the poor quality of services they get.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg
+published: '2026-11-04T00:00:00Z'
+scraped_at: '2026-11-04T06:11:00Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Alex
+- Alexandra
+- Cyril Ramaphosa
+- Helen Zille
+- Jacob Zuma
+- Levy Ndou
+- Lwandle Dladla
+- Mduduzi Makhubo
+- Melanie Verwoerd
+- Sanele Ntombela
+- Tsakani Maluleke
+- Tshiamo Mbange
+- Zandile Mncube
+locations:
+- Alex
+- Alexandra
+- Cape Town
+- Durban
+- Ekurhuleni
+- Ethekwini
+- Gauteng
+- Ireland
+- Johannesburg
+- KwaZulu-Natal
+- Sandton
+- South Africa
+- Soweto
+- Tshwane
+organisations:
+- ANC
+- African National Congress
+- BBC News Africa
+- DA
+- Democratic Alliance
+- Ipsos
+- Sanele Ntombela
+- The BBC
+- Zandile Mncube
+- uMkhonto weSizwe (MK) Party
+---
+
+![A resident walks past election posters in a township north-east of Johannesburg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9a6f/live/8553d9a0-d74b-11f1-9867-a51b98b8c879.jpg)
+
+More than 500 parties are contesting the elections
+
+**South Africans are voting in highly contested local elections likely to see a haemorrhaging of votes for the country's former ruling party, the African National Congress (ANC).**
+
+This year's voting season has been marked by intense campaigns that have included politicians spinning cars, watching grannies knit and even wading through giant-sized potholes.
+
+Leaders are campaigning to head South Africa's nearly 300 municipalities, responsible for basic service provision such as water, electricity and refuse collection.
+
+For the ANC, the elections are a chance to prove it still has what it takes to govern. The party had a disastrous showing in the last national election, when it lost its parliamentary majority for the first time since 1994 when the racist apartheid system ended.
+
+Support for the party has been dropping significantly over the years because of anger over high levels of corruption, unemployment and crime.
+
+At its peak, in 2004, the ANC got 70% of the vote in the general election. Two decades later its share dropped to 40%.
+
+Polls and pundits have predicted a further loss in these elections but President Cyril Ramaphosa has denied that his party was in a downward spiral.
+
+"What I'm seeing here is that the ANC is going higher and higher and on the 4th [of November] we will show those naysayers," he told supporters at the party's final election rally on Sunday.
+
+In townships like Alexandra, north-east of Johannesburg, the ANC has traditionally had a strong supporter base but poor governance and voter apathy are unravelling this support.
+
+The BBC visited the sprawling township a week before the elections and spoke to residents to get their views. One of them was Sanele Ntombela, who is a first-time voter excited to make his voice heard.
+
+![Three young boys stand in Alexandra as they speak to the BBC about the elections](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df34/live/6e6a03a0-d790-11f1-9440-953b82c8f55a.jpg)
+
+Sanele Ntombela (left), seen here with his friends Tshiamo Mbange (centre) and Lwandle Dladla, is excited to cast his vote
+
+We found the 18-year-old hanging out with his friends on a street corner. Most of his friends said they had no intention of voting and had not registered to do so.
+
+They cited a lack of change and deteriorating delivery of basic services.
+
+But Ntombela was looking forward to voting for the first time and thought it might lead to change.
+
+"We face many challenges in Alexandra. There's rubbish everywhere and we struggle with electricity and water and many other issues," he said.
+
+Just metres away, heaps of rubbish lay gathered beneath a streetlight pole covered in election posters from the different political parties.
+
+On the other side of the street, drain water trickles through the many potholes that have gutted that part of the road.
+
+![A woman approaches a pile of uncollected rubbish in Alexandra just below a poster put up by the ANC](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/de06/live/18f81fa0-d791-11f1-801d-cf196dc7232c.jpg)
+
+The ANC faces immense pressure to reverse years of decline
+
+The BBC also spoke to Zandile Mncube, who said she wouldn't vote, even though she is registered to do so.
+
+The 33-year-old woman also cited poor service delivery and performance by local leaders for her decision.
+
+"It makes no difference [whether I vote or not]. Things have gotten worse over the years," she said.
+
+Alex, as the township is known, is a stone's throw away from Sandton, Africa's richest square mile, but the differences could not be starker.
+
+Sandton is known for its skyscrapers, designer shops and well-maintained roads but in Alex, houses are sandwiched together and rubbish, either piled together or left strewn across the pavement, is everywhere. The stench of raw sewage and uncollected rubbish is heavy in the air, but residents appear used to it.
+
+The issues plaguing Alexandra are not unique. A drive around Gauteng province reveals similar patterns of neglect and disrepair, especially in the townships.
+
+South of Johannesburg, Soweto looks marginally cleaner than Alexandra, but residents also complain about service delivery.
+
+Mduduzi Makhubo, 45, has lived in Soweto his entire life and he told the BBC of the community's daily struggles with accessing water and electricity.
+
+"Every Monday we know we won't have water after 2pm," he said.
+
+Makhubo is registered to vote and intends to use his vote to deal with the "arrogance" he says local leaders have towards residents and "change the status quo".
+
+These areas offer a small, but important, glimpse into the state of South Africa's local governance.
+
+Years of reports by the auditor-general have highlighted the dire state of most of South Africa's 257 municipalities.
+
+A recent report only gave 39 clean audits - the highest ranking a public entity can achieve - between 2024 and 2025. None of Gauteng's three metro cities, Johannesburg, Tshwane and Ekurhuleni, featured in this list.
+
+Earlier this year auditor-general Tsakani Maluleke said Johannesburg "needs ongoing attention".
+
+"If we don't that, we are going to continue on this slide where financial health deteriorates [and] where service delivery continues to be compromised, which is what we are living," she told lawmakers.
+
+The city has been labelled "effectively bankrupt" due to the dire state of its finances. Dirty streets, unstable electricity supply and persistent water issues have been common for years.
+
+Experts the BBC spoke to agreed that all eyes will be on Africa's wealthiest city as well as the country's seven other biggest municipalities, or metros, particularly those in Gauteng when the results come in.
+
+> The expectation is that the ANC generally in the country is going to [perform] the worst it's ever done
+
+!["The expectation is that the ANC generally in the country is going to [perform] the worst it's ever done", Source: Melanie Verwoerd, Source description: Political analyst, Image: Political analyst Melanie Verwoerd is seen smiling with a denim jacket](https://ichef.bbci.co.uk/news/920/idt2/idt2/8a4103fb-3109-4ca5-aaaa-115f717b9a98/image/460.jpg)
+
+Of South Africa's eight metros, only three are governed by a single party. In Gauteng, all three metros are governed by coalition governments, with the ANC the largest party.
+
+But that might change.
+
+Political analyst Melanie Verwoerd said the elections would be a "verdict ... and judgment" on the ANC.
+
+"And the expectation is that the ANC generally in the country is going to [perform] the worst it's ever done," she said.
+
+Several polls point to a continued decline in support for the party in Wednesday's election, contested by over 500 political parties.
+
+One, conducted by Ipsos, put the ANC's support at 30%, down from the 46% it got at the last local elections in 2021.
+
+The same poll, along with others, points to a slight increase in electoral support for the Democratic Alliance (DA), especially in Johannesburg. Ipsos predicts the DA will garner 25% support in this election, up from 22% last time.
+
+DA leader Helen Zille has been vying for the mayoral chain in the city and her unusual campaign has attracted a lot of attention.
+
+The former Cape Town mayor has been captured swimming in crater-sized potholes, ziplining over sinkholes and riding into her final rally in the city in a classic BMW 325i, known locally as a "Gusheshe".
+
+She believes the DA is the country's best choice for a government, telling local radio broadcaster 702 last week that "towns and cities that work best are under DA governance".
+
+Verwoerd, a former ANC MP and South Africa's ambassador to Ireland, predicted that coalitions would continue being the order of the day across Gauteng.
+
+These types of arrangements have often been viewed as unstable and chaotic at a local level and the constant change in leadership, usually caused by parties falling out with each other, has affected service delivery in many municipalities.
+
+![A young woman is seen with headphones in a white jacket and top](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f21c/live/54115300-d790-11f1-9440-953b82c8f55a.jpg)
+
+Zandile Mncube says things have got worse in her township over the years
+
+Verwoerd said in her view, the most stable coalitions would be those that replicate what the ANC and DA have done on a national level, where the historic rivals have agreed to share power.
+
+Reflecting on Cape Town, she said it was unlikely that the DA would lose control of the municipality. The coastal city is widely considered the country's best-performing metro and has been run by the DA since the late 2000s when it unseated the ANC.
+
+Ethekwini, which includes the port city of Durban in KwaZulu-Natal, would be a "different story", Verwoerd said.
+
+The uMkhonto weSizwe (MK) Party has been projected to perform well in the area but it is unclear if it will secure the outright majority needed to run the metro. Polls suggest it won't and will need partners to form a government.
+
+The party was founded by former South African President Jacob Zuma and was the biggest party across his home province of KwaZulu-Natal in the 2024 provincial election.
+
+Verwoerd reflected that while various options were on the table for the party, forming a government would be "very messy" given its refusal to work with either the ANC or DA.
+
+A confident Zuma, addressing supporters on Sunday, vowed to take control of a number of municipalities after the elections.
+
+Another political analyst Dr Levy Ndou echoed Verwoerd's assessment, saying that a coalition between the DA and ANC seemed unavoidable in most metros.
+
+"We're not sure whether the arrangement of the government of national unity could have the potential to influence how the metros are going to be run," he said.
+
+Both experts also spoke about the declining voter turnout in South Africa's elections. Over 29 million citizens are registered to vote, but the turnout, especially among young people, has seen a steady decline.
+
+Ndou attributed this to the "calibre" of the candidates campaigning and the lack of visibility of local councillors, who are often the ones elected to lead their neighbourhoods, in election campaigns.
+
+South Africa's electoral commission has seven days to announce the results, but parties have 14 days to form a governing structure.
+
+## You may also be interested in:
+
+![To the right of the banner a woman with sunglasses on her head and wearing a denim jacket and yellow T-shirt looks down at her mobile phone. A graphic for BBC News Africa in black and red is on the left of the image which has a pale golden brown background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a743/live/681bd460-6ee0-11f1-8e1d-bbbb1017d210.png)
