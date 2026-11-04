@@ -379,6 +379,9 @@ strong .searchable {
 .article p {
   margin-bottom: 1.1rem;
 }
+.article blockquote > p:last-child {
+    margin-bottom: 0;
+}
 .article ul,
 .article ol {
   padding-left: 1.5rem;
