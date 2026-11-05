@@ -1,0 +1,103 @@
+---
+title: Europe’s far right has a Trump problem after Republican US midterms wipeout
+source_url: https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message
+source_site: The Guardian
+source_slug: guardian
+description: European far-right leaders quick to distance themselves from US president
+  and stress their own priorities
+image: https://i.guim.co.uk/img/media/c32732bdc5bcc0ff55bff43d1afcfb6e2062583e/629_694_3773_3018/master/3773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9e9b83d28deaf474defb6100d125c5c
+published: '2026-11-05T00:00:00Z'
+scraped_at: '2026-11-05T17:25:46Z'
+categories:
+- UK
+- News & Politics
+people:
+- Alice Weidel
+- Dan Dungaciu
+- Donald Trump
+- Giorgia Meloni
+- Jordan Bardella
+- Maga
+- Marine Le Pen
+- Matteo Salvini
+- Mujtaba Rahman
+- Pedro Sánchez
+- Roberto Vannacci
+- Santiago Abascal
+locations:
+- Europe
+- France
+- Germany
+- Greenland
+- Iran
+- Italy
+- Madrid
+- Michigan
+- Milan
+- Romania
+- Rome
+- Santander
+- Spain
+- US
+- Washington
+- White House
+organisations:
+- AUR
+- Alternative für Deutschland
+- EU
+- Eurasia Group
+- Futuro Nazionale
+- Le Pen
+- League
+- National Future party
+- RN
+- Vox
+---
+
+The historic Republican defeat in the US midterm elections has forcibly reminded Europe’s far-right leaders of their perennial Donald Trump dilemma: they may love his nativist agenda, but the man himself is a toxic electoral liability.
+
+Since his re-election in 2024, European populist leaders such as Marine Le Pen in France and Giorgia Meloni in Italy have carefully calibrated their public postures towards the US president, walking a delicate transatlantic tightrope.
+
+They adore his policies on hard borders, culture wars and anti-globalism. But European voters, even on the far right, detest Trump’s personal volatility, geopolitical unpredictability, unreliability on Europe’s defence, and trade protectionism.
+
+Trump’s territorial threats over Greenland and economic nationalism have proved particular problems: no leader who champions national sovereignty and domestic jobs could back threats to invade the largely self-governing territory of an EU member state or punitive trade tariffs.
+
+The sheer scale of Tuesday’s Republican wipeout has now prompted Europe’s populists to distance themselves yet further while taking away one big lesson: angry, economically squeezed voters topple incumbents.
+
+Across European capitals on Wednesday, far-right politicians were actively insulating themselves from the White House, while dutifully avoiding any personal attacks.
+
+Jordan Bardella, the leader of the National Rally (RN) in France and a possible prime minister if Le Pen wins next year’s presidential ballot, led the charge. Without naming the president who ordered them, Bardella blamed the US attacks on Iran, which he said had carried “very heavy consequences” for world economies.
+
+In Germany, Alice Weidel, a co-leader of Alternative für Deutschland, said Trump had promised his voters “not to pursue an interventionist foreign policy” and that “this broken campaign promise has now come back to haunt the Republicans”.
+
+![Roberto Vannacci addresses a crowd in Milan. There are media personnel with microphones around him and an Italian flag and Futuro Nazionale logos behind him. He is in his late 50s with short dark hair and wears a dark jacket and open-necked white shirt. ](https://i.guim.co.uk/img/media/bac4888c5e69a8808ddbfb3ebd16f6e923db11d8/0_0_3189_2126/master/3189.jpg?width=445&dpr=1&s=none&crop=none)
+
+In Italy, Roberto Vannacci, the founder of the insurgent far-right National Future party, also said the result showed the political dangers of failing to deliver on electoral promises. “Trump failed to live up to expectations,” he said.
+
+In Madrid, the Vox leader, Santiago Abascal, dumped all pretence of a Washington connection, brushing off questions about an ideological alliance by saying he was “in Spain, not in Michigan” and cared “quite little about what happens in other places”.
+
+Mujtaba Rahman, of the Eurasia Group consultancy, said all were acting for domestic advantage, hoping still to benefit from the “ideological momentum of Trumpism” without being tarred by the “chaos and economic disruption of his presidency”.
+
+For far-right parties in opposition, however, the US midterms offer a clear playbook: mounting public anger over rising prices and unaffordable housing can be channelled into electoral victory. That is clearly the hope of the National Rally in France.
+
+Bardella has repeatedly said purchasing power and the cost of living would be “the absolute priority” of an RN government, with plans to cut VAT on electricity, gas and fuel and allow employers to boost wages without additional payroll charges.
+
+In Spain, Vox is similarly weaponising soaring living costs and plunging housing affordability against the Socialist prime minister, Pedro Sánchez, in hopes of entering government as partner in a rightwing coalition after elections on 29 November.
+
+after newsletter promotion
+
+![Santiago Abascal addresses supporters on a dockside site in Santander. There is a white industrial building behind him with what appears to be a dangling winch from a crane. ](https://i.guim.co.uk/img/media/906b0e10bbdb046e08e9d669a627300e053d6451/0_0_5981_3987/master/5981.jpg?width=445&dpr=1&s=none&crop=none)
+
+For populist leaders already in power in Europe, such as Meloni, that is not good news. The Italian prime minister has already faced several waves of domestic protest in Rome, Milan and elsewhere, some of them violent, over fuel costs and inflation.
+
+Her coalition partner Matteo Salvini, leader of the far-right League, conceded that the US vote was “influenced above all by the wars, international tensions and the increase in the cost of living, the consequences of which fall directly on families”.
+
+Opposition MPs were equally quick to connect the dots, noting that Trump had pledged to lower prices and bring back quality jobs, but that never happened. And once in power, far-right leaders who fail to deliver are as vulnerable to voter anger as any others.
+
+Some on the European far right, such Dan Dungaciu of Romania’s AUR, sought to play down Trump’s crushing defeat by arguing that reports of his “political death” were greatly exaggerated, but the broader political lesson may go beyond the populists.
+
+The electoral fortunes of Europe’s far right, whose nationalist leaders will in all probability continue espousing Maga’s ideas while keeping Trump himself at arm’s length, do not depend on the success or failure of the US president at the ballot box.
+
+The underlying grievances driving the rise of European populism – the cost of living, the housing crises, the rural-urban divide, arguments about immigration – are rooted firmly in European domestic conditions, not in American election results.
+
+Some warn the worst consequence of these midterms would be for Europe’s mainstream parties to assume they showed the populist tide was receding. What they actually showed was that voter anger over the cost of living is unforgiving – whoever is in power.
