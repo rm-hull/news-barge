@@ -1,0 +1,44 @@
+---
+title: Salon, internet’s oldest general interest publication, shuts down after 31
+  years
+source_url: https://www.theguardian.com/media/2026/nov/05/salon-website-shuts-down
+source_site: The Guardian
+source_slug: guardian
+description: Website known for politics, arts and culture coverage announces closure
+  just weeks before anniversary
+image: https://i.guim.co.uk/img/media/9a71af56d490c4e97b2b95f13e48a18fb5a565fa/478_0_1137_910/master/1137.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55d390427038afcf9dda23a0e89cfc54
+published: '2026-11-05T00:00:00Z'
+scraped_at: '2026-11-05T23:38:07Z'
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+people:
+- Salon
+locations:
+- New York City
+- San Francisco
+organisations:
+- BusinessWeek
+- Columbia Journalism Review
+- Salon
+- Time magazine
+---
+
+Salon, one of the early internet’s pioneering publications, is closing after more than three decades, the outlet announced on Thursday.
+
+“It’s difficult to find the right words for the end of something that has meant so much to so many people. Salon was never just a website,” Salon said in a statement. “It was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier.”
+
+The site, which built its reputation from politics, arts and culture coverage, announced its closure just weeks before its anniversary on 20 November.
+
+“The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable. We know this news will be deeply disappointing to many of you, and we share that sadness,” the statement said.
+
+Founded in San Francisco in 1995, Salon said its output “helped pioneer a form of journalism that would come to define an entirely new era of publishing.”
+
+Salon, which moved most editorial staff to New York City in the 2000s, was described as the oldest general interest publication on the internet, according to a piece by the Columbia Journalism Review in 2011.
+
+“We are profoundly grateful to the journalists, editors, photographers, producers, designers, business teams and countless other colleagues who brought this publication to life across its many chapters,” the Salon statement said.
+
+The publication won a plethora of awards for its work through the 1990s, including 1996’s website of the year from Time magazine and 1997’s best website from BusinessWeek.
+
+“Thirty-one years is a remarkable run,” Salon said. “What matters most is what happened during those years: the journalism, the ideas, the voices, the conversations and the community that grew around them.”
