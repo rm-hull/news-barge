@@ -1,0 +1,107 @@
+---
+title: Vance walks Trump tightrope with scathing election critique blaming Iran war
+source_url: https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The vice-president's blunt assessment of Republican election defeat marked
+  one of the sharpest breaks with a sitting president in recent memory.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f611/live/a9e3b7f0-d8cb-11f1-91f1-d78b0d8c70b4.jpg
+published: '2026-11-05T00:00:00Z'
+scraped_at: '2026-11-05T06:36:28Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Ashley Davis
+- Daniel Byman
+- Donald Trump
+- JD Vance
+- Marco Rubio
+- Nardine Saad
+locations:
+- America
+- Iran
+- Israel
+- Tehran
+- US
+- Washington
+- White House
+organisations:
+- BBC
+- Center for Strategic and International Studies
+- Congress
+- Republican Party
+- Senate
+- The New York Times
+- Trump
+- US Capitol
+- US Constitution
+- US House of Representatives
+---
+
+With Congress flipped, what does Donald Trump do next?
+
+**Vice-President JD Vance sent shockwaves through Washington on Wednesday by blaming hisparty's midterm defeatsquarely on the Iran war, in what was widely interpreted as an effort to distance himself from President Donald Trump ahead of a potential 2028 White House run.**
+
+In a carefully calibrated, 600-word statement on X, the vice-president acknowledged that Trump's 2024 voters had deserted Republicans in the midterm election.
+
+"The reason we lost is the war," he wrote. "The president himself said so last night."
+
+In interviews late Tuesday night and Wednesday, Trump had defended the war but acknowledged that it played a factor in Democrats flipping control of the US House of Representatives and the Senate.
+
+Vance's view on the war in Iran is an open secret in Washington. While he has repeatedly backed the conflict since the US and Israel attacked Tehran in February, he has reportedly expressed opposition in private meetings with administration officials.
+
+But those disagreements had been kept out of the public eye - until now.
+
+Could Democrats in Congress end the war in Iran?
+
+Hours after Trump and the party were handed a bruising election defeat, Vance made clear that he felt the decision to go to war was a clear political mistake.
+
+"If you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost to pay. Agree or disagree, that's at least honest," Vance said.
+
+It was a striking statement, and one with no recent precedent: it's hard to recall a similar moment in recent US political history when a sitting vice-president has so sharply broken with the president on a signature foreign policy issue.
+
+Then came an arguably even greater surprise: Trump - who typically demands steadfast loyalty from his senior advisers - agreed with Vance that the midterms were "largely" decided by the war. He added that he would "do it again" if given the same choices.
+
+![Purple banner reading "US Midterm Elections 2026" alongside a stylised image of the US Capitol and white stars.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/30cf/live/6861e1b0-c16c-11f1-bc2e-018d645d8d21.png)
+
+* LIVE: Follow latest updates
+* BOWEN: Trump's loss limits powers at home, but it will likely be different abroad
+* THE BIG MOMENTS: Ecstatic scenes that greeted key results
+* ZURCHER: Midterm carnage weakens Trump but he still wields power for now
+* 'A DISASTER': Angry Republicans blame Trump for midterms defeat
+
+It was an early sign that Trump - who has prized loyalty from his advisers - may give Vance a wide berth should he choose to launch a presidential campaign.
+
+"I know how he feels about it. I think it was -- I think it was fine," Trump told reporters when asked about Vance's post blaming the war. "I knew that when I went in, and we stopped them from having a nuclear weapon, and they will never have a nuclear weapon."
+
+Vance's statement seemed like "a way of separating himself from Trump," said Daniel Byman, a foreign policy expert at the Center for Strategic and International Studies.
+
+![JD Vance walks on a stage. An American flag is behind him ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ceb9/live/5752a230-d8cb-11f1-91f1-d78b0d8c70b4.jpg)
+
+Drawing contrasts with Trump will be a delicate balancing act if Vance seeks the presidency, Byman added.
+
+That balance was on display in Vance's post. The vice president didn't mention Trump by name and attributed much of his election results analysis to unnamed pollsters.
+
+Vance "put his toe in the water to see what he's going to do," Ashley Davis, a Republican strategist, told the BBC.
+
+Beyond the Iran war criticism, Vance also offered a political roadmap that could preview a possible presidential campaign. He distilled the party's strategy to win back voters into a neat four-point gameplan: "1) End the war 2) Focus on cost of living/inflation 3) Put America First 4) Change our relationship to Israel."
+
+The list encapsulated much of Vance's worldview since bursting onto the national political scene, and read like the core argument in a future stump speech.
+
+The BBC has contacted Vance's office for comment.
+
+Of course, the next presidential election is still two years away. Vance is expected to run but hasn't made an official decision, and aides insist that he's still mulling it over.
+
+It's also up for debate exactly how much Vance broke from Trump. Vance showed the message to Trump before posting it online, according to The New York Times.
+
+Trump, for his part, could change his mind and make clear he'll brook no dissent from Vance or anyone else.
+
+The president has been circumspect about who he'd support to succeed him as the 2028 Republican presidential nominee. Trump has praised Vance and Secretary of State Marco Rubio on several occasions, but hasn't said when - or if – he'd make an endorsement.
+
+The president appears to relish the guessing game of who he'd back to carry on his political movement, even in the past floating the idea that he'd continue to a third term (which is barred by the US Constitution).
+
+Vance's midterms missive might not be that significant in the end. Or it could have been the starting gun for the 2028 race and the battle for the post-Trump Republican Party.
+
+*Nardine Saad contributed reporting.*

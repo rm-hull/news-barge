@@ -1,0 +1,58 @@
+---
+title: US singer Bob Dylan meets Pope Leo XIV in Vatican City
+source_url: https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Pope Leo had previously quoted Dylan's work in the preface of a book
+  warning against nuclear rearmament.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfbd/live/91275ec0-d8b6-11f1-a51b-9f26c18566b3.jpg
+published: '2026-11-05T00:00:00Z'
+scraped_at: '2026-11-05T06:36:50Z'
+categories:
+- UK
+- News & Politics
+- Science
+people:
+- Blowin
+- Bob Dylan
+- John Paul
+- Pope Leo XIV
+locations:
+- Apostolic Palace
+- Bologna
+- Italy
+- Rome
+- US Midwest
+- Wind
+organisations:
+- 23rd National Eucharistic Congress
+- New York Times
+- Palazzo dello Sport
+- Vatican News
+---
+
+![The Pope, in all white vestments including a cap and a cross on a chain around his neck, stands in a room with Bob Dylan who is wearing all black with a hood pulled up, holding a black umbrella](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7d7f/live/7f1a17e0-d8b6-11f1-a51b-9f26c18566b3.jpg)
+
+The two Americans met during Dylan's tour of Italy
+
+**Pope Leo XIV hosted Bob Dylan at his official residence, the Apostolic Palace, on Wednesday during the Rome stop on the singer-songwriter's Italian tour.**
+
+Dylan, 85, wore a nearly all-black outfit, including a pulled up hoodie, gloves and umbrella, starkly contrasting with the Chicago-born Pope's all-white vestments.
+
+The meeting between the pair, who both hail from the US Midwest, was brief, according to Vatican News.
+
+Leo presented the Nobel laureate with a rosary and Dylan gifted Leo a copy of his autobiography, Chronicles: Volume One.
+
+The visit happened ahead of Dylan's scheduled performance on Thursday at the Palazzo dello Sport, one of several Italian stops on his Rough and Rowdy Ways tour.
+
+Leo has previously referenced Dylan in his own work, quoting Dylan's unreleased anti-nuclear song, Go Away You Bomb, in the preface to a book titled Disarmed and Disarming: Peace Is a Gift.
+
+"I hate you cause yer man-made and man-owned, an' man-handled," was the line quoted in the book's warning to the world against rearmament.
+
+The song was written in 1963 amid the Cold War, but was never recorded. The typewritten lyrics were unpublished until 2013 when they were discovered and put up for auction, according to the New York Times.
+
+It was the second time Dylan had met a pope. In 1997 Dylan was invited to perform in front of Pope John Paul II and about 300,000 young people for the 23rd National Eucharistic Congress in Bologna.
+
+Dylan played four songs including Knockin' on Heaven's Door, and reportedly climbed the stage mid-set to greet John Paul with a handshake and exchange a few words.
+
+The then-Pope quoted Dylan's hit Blowin' in the Wind in his sermon to the crowd.
