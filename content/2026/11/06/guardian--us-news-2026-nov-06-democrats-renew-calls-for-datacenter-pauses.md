@@ -1,0 +1,71 @@
+---
+title: Several Democrats renew calls for datacenter pauses after blue wave
+source_url: https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses
+source_site: The Guardian
+source_slug: guardian
+description: Tech industry fears delays to its multi-trillion dollar infrastructure
+  buildout meant to power artificial intelligence
+image: https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a5fc6d0a7bcf33bce8d637d10a5af78
+published: '2026-11-06T00:00:00Z'
+scraped_at: '2026-11-06T23:04:23Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Science
+people:
+- Bernie Sanders
+- Chris Pappas
+- Dina Powell McCormick
+- Elon Musk
+- Gabe Vasquez
+- Gina Hinojosa
+- Kevin Hassett
+- Sherrod Brown
+- Yassamin Ansari
+locations:
+- AI
+- Arizona
+- Georgia
+- New Hampshire
+- New Mexico
+- Ohio
+- Texas
+- US
+organisations:
+- AI
+- Big Tech
+- CNBC
+- CNN
+- Meta
+- SpaceX
+- Wall Street Journal
+- White House National Economic Council
+---
+
+Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The sweeping Democratic victory, which was buoyed in part by backlash to the tech industry, has added momentum to efforts to slow down the multi-trillion-dollar buildout of the controversial facilities.
+
+On the social media platform X, Sanders posted a call for an immediate national datacenter moratorium this week. “Americans don’t want Big Tech oligarchs wrecking the environment, gutting jobs and threatening humanity’s future,” Sanders said on Wednesday.
+
+Sanders was joined by several Democrats, including Representative Yassamin Ansari of Arizona – a state where Elon Musk’s SpaceX has proposed a datacenter project that would span more than 700 acres.
+
+“Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence,” Ansari posted Wednesday on X. Musk mocked her post in a retweet, and the two sparred, with Ansari forecasting congressional hearings, telling the centi-billionaire: “See you soon.”
+
+The pushback to the buildout of datacenters, which tech companies need to power the AI products that have become central to their businesses, was one of the most visible issues of the midterms. Opposition to datacenters figured heavily in campaigns across the US, while voters passed dozens of local ballot measures aimed at restricting datacenter projects in their states.
+
+The outcome of the midterm elections has so far alarmed tech investors and executives, with Meta platforms president Dina Powell McCormick telling the Wall Street Journal that it is “going to be harder” to build datacenters following the vote. After Elon Musk spent nearly half a billion dollars backing Republican candidates and attacking Democrats on his social media platform, he jokingly posted on election night that “datacenters in space looking pretty appealing right now.”
+
+Post-midterms anxiety also helped fuel a massive selloff of AI stocks this week, as tech investors worried about new regulation such as datacenter pauses. White House National Economic Council director Kevin Hassett was confident that the construction of datacenters would continue, however, arguing to CNBC that the ballot initiatives largely wouldn’t affect existing projects.
+
+Datacenters and AI opposition featured in numerous Democratic victory speeches after midterms, as newly elected representatives vowed to curb the power of Big Tech. In New Hampshire, Senator-elect Chris Pappas praised his constituents for “opposing big data centers that harm our communities”. New Mexico congressman Gabe Vasquez meanwhile proclaimed “the time is now to stop the AI billionaire class from forcing datacenters in our community.”
+
+Several victorious Democratic candidates also promised that they would hand local communities the decision-making power over AI and data centers.
+
+after newsletter promotion
+
+“I do not work for data centers,” Ohio Senator-elect Sherrod Brown said to applause. “I work for you. I work for Ohio.”
+
+Newly elected governors in several states key to the datacenter buildout, including Texas and Georgia, have also called for moratoriums on datacenters. Incoming Texas Governor Gina Hinojosa, whose state has become a hotspot for datacenter construction, pledged to halt new datacenter projects until new protections are in place.
+
+“There are no rules and laws to protect Texans, and Texans are being taken advantage of,” Hinojosa said this week on CNN. “We need to stop what we are doing with data centers until we have those protections.”

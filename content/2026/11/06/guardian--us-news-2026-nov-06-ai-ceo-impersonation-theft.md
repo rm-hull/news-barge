@@ -1,0 +1,68 @@
+---
+title: Three men charged in US with using AI to impersonate CEOs and steal millions
+source_url: https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft
+source_site: The Guardian
+source_slug: guardian
+description: Men allegedly impersonated voices and images of executives to convince
+  employees to send large payments
+image: https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca24c099200a4119230c96f17695f31
+published: '2026-11-06T00:00:00Z'
+scraped_at: '2026-11-06T23:05:02Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
+people:
+- Fat Boy
+- Guy Sheetrit
+- Jacob Soall
+- James C Barnacle Jr
+- Jamie McDonald
+- Rocky Balboa
+- Ron
+- Seba Clarke
+- Sharon Hazan
+- Superman Cash
+locations:
+- Austria
+- California
+- China
+- Florida
+- Greece
+- Massachusetts
+- Missouri
+- New York
+- Portugal
+- Rhode Island
+- Singapore
+- Slovakia
+- Spain
+- UK
+- US
+- United Arab Emirates
+- United Kingdom
+- United States
+organisations:
+- AI
+- DoJ
+- FBI
+- US Department of Justice
+---
+
+Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by the US Department of Justice.
+
+According to a press release from the United States attorney’s office for the southern district of New York, three men – Jacob Soall, Sharon Hazan, and Guy Sheetrit – were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026.
+
+With the help of AI, the men allegedly acted as a corporate executive, targeting employees of various companies and telling them they needed their help with sensitive financial transactions. They would then instruct the employees to get in touch with lawyers at a large international law firm. The men would then impersonate a lawyer at these firms and have the employees wire a large amount of money.
+
+The men ultimately stole more than $129m from companies all over the world including in the US, according to the DoJ. The men allegedly stole nearly $5m from a hospital system headquartered in Missouri; about $2.7m from a Rhode Island bank, about $3m from a California hospital system, over $4.6m from a mutual fund headquartered in Massachusetts and about $5m from a pet food company in Florida. The men also stole over $11m from a UK tech company.
+
+The men would direct employees to wire money to bank accounts all over the world including in the United States, Spain, Portugal, Greece, the United Arab Emirates, Singapore, Austria, Slovakia and China. After the money had been wired, the men would covert the money into cryptocurrency “in an attempt to conceal the source, ownership, and control of the stolen proceeds and distributed it amongst themselves and their co-conspirators”, according to the DoJ press release. Soall and Hazan went by several aliases: Soal’s nicknames included “Seba Clarke” and “Rocky Balboa,” while Hazan went by “Superman Cash,” “Fat Boy,” and “Ron.”
+
+In a statement, Jamie McDonald, a US attorney, said artificial intelligence had great potential but that the public should recognize that some may seek to use the technology to pursue criminal goals.
+
+“The alleged scheme orchestrated by Soall, Hazan, and Sheetrit demonstrates how the use of advanced technology can be exploited to commit large-scale fraud,” said James C Barnacle Jr, the FBI assistant director in charge, in a statement. “As criminals continue to weaponize emerging technologies, the FBI remains committed to rapidly adapting our capabilities to identify, investigate, and disrupt those who seek to harm New Yorkers and businesses operating in our communities.”
+
+The men have been charged with conspiracy to commit wire fraud, various counts of money-laundering conspiracy and aggravated identity theft.
