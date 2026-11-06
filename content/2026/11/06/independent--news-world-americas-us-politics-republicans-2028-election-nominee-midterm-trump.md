@@ -1,0 +1,126 @@
+---
+title: Unlikely candidate sees huge surge in race to become US president in 2028
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/republicans-2028-election-nominee-midterm-trump-desantis-vance-rubio-b3080314.html
+source_site: The Independent
+source_slug: independent
+description: Vice President JD Vance has long been considered the front-runner, but
+  Ron DeSantis has emerged as a popular contender as the GOP seeks a successor to
+  President Donald Trump
+image: https://static.independent.co.uk/2026/11/03/12/2303168747..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+published: '2026-11-06T00:00:00Z'
+scraped_at: '2026-11-06T16:53:08Z'
+categories:
+- News & Politics
+- UK
+people:
+- Amy Acton
+- Benjamin Netanyahu
+- Don Jr
+- Donald Trump
+- Donald Trump Jr
+- Eric
+- JD Vance
+- Laura Ingraham
+- Marco Rubio
+- Pete Hegseth
+- Ron DeSantis
+- Tucker Carlson
+- Vivek Ramaswamy
+locations:
+- Florida
+- Iran
+- Israel
+- Jerusalem
+- Middle East
+- Ohio
+- U.S
+- White House
+organisations:
+- Axios
+- Congress
+- Fox News
+- GOP
+- House
+- MAGA
+- Pentagon
+- Polymarket
+- Republican Party
+- Senate
+- Trump Organization
+- VP
+- Vance
+---
+
+Ron DeSantis has surfaced as an unlikely leading candidate to replace Donald Trump after a surge in predictions market Polymarket following the Democrats massive success at the midterms.
+
+The Republican Party is reeling after this week’s results that saw it lose dozens of seats in Congress to rival Democrats, who now control both the House and Senate.
+
+The outcome of Tuesday’s vote prompted a flood of anger and recrimination from many within the GOP, with some conservatives blaming President Donald Trump – both explicitly and implicitly – for the disaster, given the deep unpopularity of his Iran war and his perceived failure to find answers to the cost of living crisis.
+
+The next two years are almost certain to see the eruption of infighting in the party as figures from both its past and present vie to become Trump’s successor when he finally departs the political scene in January 2029.
+
+Here’s a look at which Republicans are currently best placed to seek the Republican presidential nomination in 2028.
+
+While JD Vance and Marco Rubio are frontrunners, the Florida governor DeSantis has climbed 9 percent since Thursday, the only candidate to move more than a couple of percent.
+
+## **JD Vance**
+
+![Vice President JD Vance has long been considered the heir apparent to Donald Trump’s political project](https://static.independent.co.uk/2026/11/03/12/2303168747..?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+The vice president has moved swiftly to try to distance himself from one of the biggest decisions the Trump administration has made, launching its Operation Epic Fury airstrikes against Iran, despite being at the heart of government when it was made.
+
+Taking to X Wednesday, Vance flatly admitted: “The reason we lost is the war.” He also acknowledged the desire of much of the American electorate to change the U.S.’s relationship with Israel as a factor behind the result.
+
+It was previously known that the VP had privately opposed the war but pledged to support Trump if he decided to go ahead with it.
+
+*Axios* now reports that Vance has been lambasting Israeli Prime Minister Benjamin Netanyahu for dragging the U.S. back into the Middle East, warning the president that the war was “highly unpopular and could cost Republicans the election,” albeit to no avail.
+
+The clear front-runner for the 2028 nomination – although he has yet to say definitely that he will run – the author and former Ohio senator is given a 34 percent chance of securing the nomination by Polymarket as of Thursday morning.
+
+## **Marco Rubio**
+
+![Secretary of State Marco Rubio has said he will not seek the GOP nomination of Vance runs but might be a popular choice](https://static.independent.co.uk/2026/11/01/14/2026-10-31T194516Z_177594876_RC2HEOASZKE0_RTRMADP_3_USA-BRAZIL-RUBIO.JPG?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+Vance’s prospects will depend on whether or not he can convince voters he really was always against the Iran misadventure, a problem that Secretary of State Marco Rubio could also face.
+
+The pair may be able to hang the blame on Trump and Defense Secretary Pete Hegseth, who quickly became the face of the conflict as a result of his combative Pentagon press conferences.
+
+Rubio has largely managed to steer clear of association with the war, no mean feat given his foreign policy brief, and spent little time on the campaign trail during the midterms, perhaps having correctly determined which way the wind was blowing.
+
+Unlike Vance in Ohio, the Floridian’s home state remained red, which is also a point in his favor, but he has explicitly said he has no intention of running for the White House if the VP throws his hat into the ring.
+
+Polymarket currently puts his odds at 17 per cent.
+
+## **Ron DeSantis**
+
+![Florida Gov. Ron DeSantis proved a disastrous candidate two years ago but could make a second attempt](https://static.independent.co.uk/2026/09/23/21/2293087037..?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+Like Rubio, the outgoing Florida governor has been largely untainted by association with the administration’s failings or the blue wave that was this year’s midterms.
+
+He has also been one of the first Republicans to come out with a clear-eyed analysis of what happened, appearing on Laura Ingraham’s Fox News show late Wednesday to describe the results as “a rebuke” to the president and a Republican-led Congress defined by “a lack of productivity” on its watch.
+
+A popular conservative figure during the pandemic for resisting Covid-era social distancing rules, DeSantis failed badly as a candidate for the Republican nomination two years ago when he was roundly mocked over his robotic interactions with voters and, even less kindly, over his short stature.
+
+Polymarket nevertheless gives him a 13 percent chance of carrying the day following a fresh surge in the wake of the midterms.
+
+## And two outsiders...
+
+## **Tucker Carlson**
+
+![Broadcaster Tucker Carlson has a huge conservative fanbase but has previously been coy about his ambitions](https://static.independent.co.uk/2026/09/03/15/2252102246..?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+The former Fox News host is a hugely popular figure within conservative media and has consistently spoken out against the war in Iran, even before the Operation Midnight Hammer strikes on its nuclear facilities in June 2025 that predated February’s joint U.S.-Israeli assault.
+
+He has also regularly lashed out at Israel – drawing accusations of anti-semitism – a stance that might endear him to Republicans seeking to reset relations with Jerusalem in light of recent events.
+
+Carlson has always been coy about his ambitions for elected office but has shown he can always find an audience. Polymarket gives him a 3 percent chance of being on the ballot in two years’ time.
+
+## **Donald Trump Jr**
+
+![Trump’s eldest son has never held elected office but is beloved by MAGA](https://static.independent.co.uk/2026/11/03/14/2026-11-02T182705Z_1448254633_RC2TFOA3PU43_RTRMADP_3_USA-VANCE.JPG?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+The president’s eldest son is also popular with the MAGA base but has never held elected office, preferring to stay above the fray and manage the Trump Organization with his brother Eric.
+
+He always proves a popular presence at rallies and never shies away from culture war issues, recently campaigning with Vivek Ramaswamy in Ohio amid the furore over his Amy Acton attack ad, which ultimately doomed the candidate’s bid for the governor’s mansion.
+
+Don Jr is currently on 2 percent with Polymarket.

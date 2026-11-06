@@ -1,0 +1,158 @@
+---
+title: 'Russell Brand: Met Police boss ''wouldn''t be surprised'' if more allegations
+  made about disgraced star'
+source_url: https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Sir Mark Rowley tells the BBC that what he heard reported from Brand's
+  trial came close to "victim blaming".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg
+published: '2026-11-06T00:00:00Z'
+scraped_at: '2026-11-06T16:47:03Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Andy Burnham
+- Ed Miliband
+- Jack Bayles
+- Justice Bennathan
+- Katherine Ryan
+- Mark Rowley
+- Met
+- Russell Brand
+- Victim
+locations:
+- Britain
+- Frank Of Ireland
+- Hillsborough
+- London
+- Southwark Crown Court
+organisations:
+- BBC Radio 4
+- Brand
+- Channel 4
+- Derry Girls
+- Labour Party
+- Metropolitan Police
+- Southwark Crown Court
+- TV
+- The Sun
+- Twitter
+- Various Artists Ltd
+---
+
+'It’s not always the case that people know everything about people in public life,' says Burnham on Brand
+
+**The head of the Metropolitan Police said he "wouldn't be surprised" if more people came forward to make allegations about entertainer and comedian Russell Brand.**
+
+On Thursday, Brand was found guilty of one count of rape and three counts of sexual assault.
+
+Met Police boss Sir Mark Rowley also told BBC Radio 4's Today programme on Friday that what he heard reported from Brand's trial at Southwark Crown Court came very close to "victim blaming".
+
+Brand was acquitted of two other rape charges and one allegation of attempted indecent assault. The 51-year-old will be sentenced on Monday.
+
+Speaking to the BBC, Sir Mark said that he "wouldn't be surprised if more people came forward" about Brand and said there were "two ongoing rape investigations" into him.
+
+Brand has already been interviewed under caution in relation to those allegations.
+
+Sir Mark praised the bravery of the women who came forward to tell their story to the police and during the trial.
+
+"That's a real challenge for anyone having gone through something so ghastly and you have to admire them."
+
+The head of the Met also said that whilst Brand's case "may look different because it's about celebrity, the majority of sex offending is about people abusing power", adding that victims will be believed.
+
+"We will do everything we can to bring to justice the powerful person who is responsible for probably the most ghastly moment in your life," he said.
+
+Prime Minister Andy Burnham has also spoken about the case, seeking to explain the Labour Party's previous association with Brand, saying "it's not always the case that people know everything about people in public life".
+
+Some within the party attempted to court Brand's support more than a decade ago, before police began investigating him.
+
+Ed Miliband, then the Labour leader, was interviewed by Brand in the run-up to the 2015 general election.
+
+Now foreign secretary, Miliband has since said he regrets the interview. The BBC has approached Miliband for comment.
+
+In 2014, Burnham, then the shadow health secretary, posted in support of Brand on Twitter following allegations about the comedian's housing arrangements.
+
+It is not clear what Burnham had been referring to in his tweet, but the previous day, The Sun claimed Brand had paid rent at a property owned by a landlord in a tax haven, while at the same time campaigning against tax avoidance.
+
+Brand threatened to sue the newspaper and said he would give the money to victims of the Hillsborough disaster, a group Burnham has long campaigned with.
+
+In his 2014 tweet, Burnham said it was "depressing to see media mission to discredit someone who stops playing their game" and urged Brand to "keep going".
+
+Speaking on Friday, Burnham told the BBC: "His crimes are horrific".
+
+"All I can say is I had no idea of the full extent of what he was doing or what he went on to do."
+
+![Russell Brand arriving at Southwark Crown Court, London on Thursday. He is wearing sunglasses and a suit jacket and shirt](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg)
+
+Brand has been found guilty of rape and sexual assault, following a three-week trial at Southwark Crown Court
+
+It was put to Sir Mark during an interview with BBC Radio 4's Today programme that Brand's defence barrister "told jurors none of the complainants had in his words 'resisted, screamed or even tried to leave'".
+
+Sir Mark said that what he heard reported from the trial was "very close to victim blaming".
+
+Asked whether he would support the Victim's Commissioner's call for a legal duty in the Courts and Tribunals Bill that would require judges to direct juries on rape myths and misconceptions in every rape trial.
+
+He said he would "strongly support" such a decision, adding: "It shouldn't be possible for inaccurate statements to be made to a jury to suggest that because a rape victim didn't behave in one way that somehow undermines their case."
+
+Brand was refused bail following his conviction on Thursday and will now spend the weekend in custody before a return to court on Monday for sentencing.
+
+He is expected to face a substantial prison sentence.
+
+Once the trial was over, it was reported that Brand is also facing further rape allegations made by two women and has already been questioned by officers in relation to the complaints. The Metropolitan Police said its investigation "remains ongoing".
+
+Details in legal documents from a hearing at London's Southwark Crown Court before Brand's criminal trial began suggest that one of the women was 16 years old at the time and featured in a Channel 4 documentary.
+
+The actor and comedian denied the allegations.
+
+None of the women who featured in the media investigation were the complainants from Brand's criminal trial.
+
+During a pre-trial hearing in October, Brand tried unsuccessfully to have his criminal case thrown out.
+
+His lawyers argued that the actor and entertainer could not receive a fair trial because of the publicity following the Dispatches programme.
+
+During the trial, Brand faced allegations from six women spanning the decade between 1999 and 2009, when he rose to fame as one of Britain's most high-profile entertainers.
+
+The women came to court to reveal how Brand used his immense fame to force them into sexual activity.
+
+The judge, Mr Justice Bennathan, told Brand to expect "a significant custodial term" after the verdicts were delivered.
+
+A man who was accused of laughing while Russell Brand sexually assaulted a woman in 2009, has been asked "to step back" from his employer while they consider the verdicts.
+
+Jack Bayles was part of his entourage in 2009 and was said to be present when one of the sexual assaults took place.
+
+Brand had been working on a Channel 4 project when he laid his head into the groin area of a woman who was helping him at the time.
+
+During the trial, the victim told the court Bayles and another member of Brand's staff had asked her to give the comedian a massage, and said he wouldn't continue unless she did.
+
+Shortly after, he sexually assaulted her.
+
+She had complained to her manager, who told the court through a statement at the trial that the victim had described how the men had laughed while the attack took place.
+
+In recent years, Bayles has been working for the TV production company, Various Artists Ltd, as their head of comedy.
+
+In a statement, they told the BBC: "We have asked Jack Bayles to step back from the company whilst we consider the verdict and events surrounding the trial. Our thoughts, though, are primarily with every one of Brand's victims at this time."
+
+According to his biography on the Various Artists Ltd website, Bayles commissioned shows for Channel 4 including two series Derry Girls and Aisling Bea's This Way Up, plus Back, Year Of The Rabbit, Frank Of Ireland and Hullraisers.
+
+In a statement, Bayles said he was sorry but doesn't remember the sexual assault.
+
+"I am appalled and sickened by Brand's actions and have co-operated fully and voluntarily with the investigation and endeavoured to assist as best I can," he said.
+
+"However, I do not remember the incident that took place 17 years ago in 2009. But I acknowledge that I clearly missed something at the time and did not see nor recognise that it caused distress. For that I am sincerely sorry."
+
+Bayles said at the time of the offence he was in the early stages of his career, calling it "a frantic, pressured and toxic working environment".
+
+He described Brand as someone who was "chaotic, dismissive and manipulated the people around him".
+
+Bayles said this was why he decided to stop working with Brand in 2010 and had not had any contact with him since. He added that during his time with Brand, no complaints were made about the entertainer's behaviour.
+
+"I am unaware if any were raised to anyone else more senior to me," he said.
+
+"I would never willingly or proactively wish to make anyone feel uncomfortable, unsafe or unsupported at work. If I was ever present when Brand acted inappropriately and I failed to spot it and step in, then I sincerely apologise".
+
+* + Published1 day ago![Russell Brand arriving in court with his wife today , 5th November 2026](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/74e2/live/3a920d20-d92a-11f1-93e1-3b657b665bcf.jpg)
+* ![Katherine Ryan in a dress](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b84/live/76485280-d9e7-11f1-93e1-3b657b665bcf.jpg)
+* ![A close-up of Russell Brand as he arrived in court on Thursday](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/385f/live/1cce7ae0-d924-11f1-b441-2b33b063138f.jpg)

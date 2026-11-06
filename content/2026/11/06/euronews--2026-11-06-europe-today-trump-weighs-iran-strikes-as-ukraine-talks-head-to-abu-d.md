@@ -1,0 +1,58 @@
+---
+title: Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi
+source_url: https://www.euronews.com/2026/11/06/europe-today-trump-weighs-iran-strikes-as-ukraine-talks-head-to-abu-dhabi
+source_site: Euronews
+source_slug: euronews
+description: 'With the midterms over, attention turns to Donald Trump''s next move
+  on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes.
+  Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats
+  on European flights and a new book on Emmanuel Macron. #EuropeToday'
+image: https://images.euronews.com/articles/stories/09/97/41/20/1200x675_cmsv2_2896fcb9-97e6-5e64-8a96-7a2cf587e2e8-9974120.jpg
+published: '2026-11-06T00:00:00Z'
+scraped_at: '2026-11-06T16:49:53Z'
+categories:
+- Europe
+- News & Politics
+- History
+- Business & Entrepreneurship
+people:
+- Aadel Haleem
+- Antti Häkkänen
+- Bruce Stokes
+- Donald Trump
+- Emmanuel Macron
+- Eoghan Corry
+- Estelle Nilsson-Julien
+- Françoise Degrois
+- Maria Tadeo
+- Méabh Mc Mahon
+- Shona Murray
+locations:
+- Abu Dhabi
+- Brussels
+- Doha
+- Europe
+- France
+- Gulf
+- Iran
+- Paris
+- US
+- Ukraine
+organisations:
+- Chatham House
+- Democratic Party
+- EU
+- Euronews
+- Facebook
+- Marshall Fund
+- TV
+- YouTube
+---
+
+## With the midterms over, attention turns to Donald Trump's next move on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes. Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats on European flights and a new book on Emmanuel Macron.
+
+## On today's show:
+
+**Aadel Haleem** reports from Doha on how Gulf countries are reacting to the midterms and whether a new US attack on Iran can still be avoided.**Shona Murray** brings the latest on Ukraine's need for interceptors, and talks to Finnish Defence Minister**Antti Häkkänen** ahead of next week's Abu Dhabi talks.**Bruce Stokes**, Chatham House associate fellow and German Marshall Fund senior fellow, discusses what lessons the Democratic Party will draw ahead of 2028.** Eoghan Corry**, aviation expert and travel journalist, explains what happens when a plane gets a bomb threat, and whether a state could be behind the wave of hoaxes.** Estelle Nilsson-Julien**, Euronews reporter in Paris, reports on the latest protests in France and the budget battle. Also: a new book on** Emmanuel Macron**'s decade in power, with its author** Françoise Degrois**.
+
+## **When and where to watch Europe Today?** You can join Euronews’ chief anchor**Méabh Mc Mahon** and our EU editor Maria Tadeo live on TV and Euronews' website as well as digital platforms (YouTube, Facebook, X, and Instagram),**every weekday at 8 am Brussels time.** In just**20 minutes**, our new format brings you the day's key events plus crucial analysis of all the stories shaping the EU and beyond. It's also available as a** newsletter**and** podcast.**
