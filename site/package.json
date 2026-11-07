@@ -6,8 +6,10 @@
   "license": "MIT",
   "scripts": {
     "prestart": "[ -L content ] || ln -s ../content content",
-    "prebuild": "[ -L content ] || ln -s ../content content",
-    "build": "eleventy --config=eleventy.config.js && pagefind --site _site",
+    "link:content": "[ -L content ] || ln -s ../content content",
+    "build:site": "npm run link:content && eleventy --config=eleventy.config.js",
+    "build:search": "pagefind",
+    "build": "npm run build:site && npm run build:search",
     "start": "eleventy --config=eleventy.config.js --serve --incremental",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
