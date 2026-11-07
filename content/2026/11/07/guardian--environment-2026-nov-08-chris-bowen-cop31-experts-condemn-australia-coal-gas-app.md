@@ -1,0 +1,116 @@
+---
+title: How do you broker UN climate talks when your own country is a big coal and
+  gas exporter? Chris Bowen is about to find out
+source_url: https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals
+source_site: The Guardian
+source_slug: guardian
+description: The climate change minister dismisses concerns about whether Australia
+  as a major producer can keep the world moving away from fossil fuels
+image: https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4f2d24a6d0fde110efd556e83a3b05f
+published: '2026-11-07T00:00:00Z'
+scraped_at: '2026-11-07T19:23:54Z'
+categories:
+- UK
+- News & Politics
+- Science
+people:
+- Anthony Albanese
+- Bill Hare
+- Chris Bowen
+- Frank Jotzo
+- Kathryn McCallum
+- Lynda Tabuya
+- Murat Kurum
+- Simon Stiell
+locations:
+- Antalya
+- Brazil
+- China
+- Fiji
+- Middle East
+- Nadi
+- North West Shelf
+- Paris
+- Qatar
+- Russia
+- Saudi Arabia
+- Turkey
+- US
+- United States
+- Western Australia
+organisations:
+- Albanese
+- Australian National University
+- Climate Action Network Australia
+- Climate Analytics
+- Coalition
+- Cop31
+- Guardian
+- One Nation
+- UN
+- Woodside
+---
+
+Australia has been urged to set aside support for its near US$100bn fossil fuel export industries and fight for a global agreement to move away from coal, gas and oil as its climate change minister, Chris Bowen, leads negotiations between nearly 200 countries at UN talks this week.
+
+Delegates will gather in the Turkish Mediterranean resort city of Antalya on Monday for Cop31, two weeks of climate talks held amid geopolitical turmoil, with conflict in the Middle East driving an oil price crisis that has raised living costs across the globe.
+
+The talks – which open two months after climate scientists confirmed global heating would reach at least 1.8C – will seek support for a new 2035 electrification goal, backed by Turkey and Australia, to have 35% of final energy use around the world coming from electricity instead of fossil fuels.
+
+Australia is the world’s second largest exporter of coal for burning in power stations and the largest exporter of coal for steelmaking. About one fifth of the world’s liquefied natural gas exports also come from its shores – on par with Qatar, but behind the world’s biggest exporter, the United States. The government expects the export value of the three fuels to be $141bn (US$98bn) this financial year.
+
+Turkey and Australia vied for hosting rights and came to a compromise with Turkey as president of the conference and Australia president of the negotiations themselves.
+
+Bowen, the Cop31 president of negotiations, will try to somehow find consensus across rich fossil fuel producers such as Saudi Arabia and Russia and emerging economic giants – including the world’s biggest emitter, China – and poorer vulnerable countries for whom climate change is seen as an existential threat.
+
+Speaking to the Guardian on Thursday, Bowen highlighted three areas of focus: minimising overshoot past the 1.5C Paris agreement temperature goal; helping poorer countries to access enough finance to deal with the climate crisis; and the new electrification goal. Ocean protection is likely to be another major theme.
+
+Climate advocates have questioned if, as a major fossil fuel producer, Australia can keep the world moving away from fossil fuels.
+
+Bowen dismissed that notion, saying all countries were dealing with the transition and Australia’s domestic moves away from coal in electricity had been recognised internationally.
+
+Not on the official Cop31 agenda is any mention of countries developing detailed plans to transition away from fossil fuels – a step seen by climate experts as central to limiting the crisis.
+
+![Turkey’s Murat Kurum and Bowen with Fiji’s Lynda Tabuya and the UN’s Simon Stiell at the Pacific Pre-Cop31 summit in Nadi, Fiji](https://i.guim.co.uk/img/media/3a0ef18e5da4e75ad9c4ac01f5152f71728e3b5b/372_0_4663_3733/master/4663.jpg?width=445&dpr=1&s=none&crop=none)
+
+The Australian scientist Bill Hare, the chief executive of Climate Analytics and veteran Cop attender, said countries agreed at the 2023 summit that a transition was needed and the president of last year’s climate summit, Brazil, had progressed calls for countries to develop plans to leave fossil fuels behind, even when it couldn’t find consensus at the talks.
+
+“Australia could pitch this up – to continue this process of developing a fossil fuel roadmap. Australia could do that,” said Hare.
+
+“Why should this process stop? That’s a hard political question for Australia to answer. I think [Bowen] needs to be brave at this Cop.”
+
+Brazil published the first global fossil fuel roadmap this week but experts pointed to a lack of benchmarks or timelines.
+
+Hare said a “critical issue” at Cop31 was to address the 1.5C overshoot.
+
+“Fossil fuels are critical to that because they are about 75% of global emissions. We can’t limit overshoot without a very rapid transition away from fossil fuels. Whatever the theatre of the talks is, this has to be the central point.”
+
+Climate and energy policy is divisive in Australia with the conservative Coalition, in opposition, pledging to scrap the 2050 net zero emissions target, and the rightwing populist party One Nation rejecting the science of climate change entirely. Both are vocal in their objections to renewable energy projects.
+
+The prime minister, Anthony Albanese, will need to thread this political needle when he speaks during a two-day leaders summit at the talks.
+
+after newsletter promotion
+
+## Cover decision
+
+Turkey and Australia want the talks to end with an overarching agreement from all countries – known as a cover decision. The UN talks work by consensus, meaning every country must agree before resolutions are passed.
+
+Prof Frank Jotzo, an economist and climate policy expert at the Australian National University, said he doubted all participants would agree on mapping a route away from fossil fuels because “those countries that want to keep that out of the process will simply prevail in having that struck off the agenda”.
+
+“The Australian government will want to play this very safe,” he said. “I think the Australian presidency will have a strong focus on an orderly procedure with no surprises.”
+
+![Preparations for Cop31 in Antalya, Turkey](https://i.guim.co.uk/img/media/3267aa018069c9ae159cc58eeca3fb7cccb34f38/0_0_5318_4254/master/5318.jpg?width=445&dpr=1&s=none&crop=none)
+
+More than 500 mostly Australian scientists and academics wrote to Albanese this week pleading for an end to coal and gas approvals and asking for a legislated plan to phase out fossil fuel production that protects workers and communities.
+
+“Australia cannot credibly lead on climate abroad nor ensure national nor regional security while it expands coal and gas at home,” the letter said. “We ask you to be brave, to be bold, and to act with the urgency that the evidence demands.”
+
+They wrote that championing access to climate finance while approving new coal and gas projects “invites the charge of hypocrisy”.
+
+Kathryn McCallum, the director of strategy at the Climate Action Network Australia, said the Albanese government had approved 38 coal, oil and gas projects since it was elected in 2022. Those developments include extending the life of one of the biggest gas projects on the planet – Woodside’s giant North West Shelf processing facility in Western Australia – until 2070.
+
+“Australia has the opportunity to play a climate leadership role, but as one of the biggest producers and exporters that’s expanding coal and gas production at an enormous scale, it doesn’t pass the pub test to talk about limiting overshoot while approving corporate proposals for new coal and gas,” McCallum said.
+
+“A lot of people are asking if Australia is serious [about climate action] because of these approvals.
+
+“Australia will be right in the spotlight. The Australian government needs to stand up to the corporations that want to export this coal and gas, and act in the global interest.”

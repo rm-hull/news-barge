@@ -1,0 +1,99 @@
+---
+title: Pope Leo greeted by 40,000 for first Mass in South America after cancer surgery
+source_url: https://www.independent.co.uk/news/world/americas/pope-leo-uruguay-south-america-mass-cancer-surgery-b3080985.html
+source_site: The Independent
+source_slug: independent
+description: Thousands gathered in a park in Uruguay on Saturday to see the pope
+image: https://static.independent.co.uk/2026/11/07/14/2026-11-07T143559Z_454958910_RC21JOAJDHNQ_RTRMADP_3_POPE-LATAM-URUGUAY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+published: '2026-11-07T00:00:00Z'
+scraped_at: '2026-11-07T19:24:51Z'
+categories:
+- News & Politics
+- UK
+- Society & Culture
+people:
+- Blessed Jacinto Vera
+- Christ
+- Leo XIV
+- Luciana Lobato
+- Pope Leo
+- Santiago Biglieri
+- Soledad Sánchez
+- Teresa Sabellini
+locations:
+- Argentina
+- Brazil
+- Buenos Aires
+- Centenary Stadium
+- Colón
+- Córdoba
+- Luján
+- Mass
+- Montevideo
+- Paraguay
+- Parque París Londres
+- Paysandú
+- Peru
+- South America
+- Uruguay River
+- Vatican
+organisations: []
+---
+
+Addressing an estimated gathering of 40,000 people in Uruguay on Saturday, Pope Leo XIV called for the construction of bridges grounded in faith and fraternity.
+
+Delivering his maiden Mass in South America just weeks after undergoing lung cancer surgery, the pontiff offered a warm homage to the region's cherished mate tea while seeking to elevate the presence of the Catholic Church within South America's most secular nation.
+
+Chants of "Olé, olé, olé, olé, Pope, Pope!" resounded as Leo’s aircraft landed in the western city of Paysandú, situated along the border with Argentina. The congregation erupted into cheers once more, sounding horns and waving yellow handkerchiefs, as he arrived in his open-sided popemobile at the Parque París Londres, a sprawling green expanse on the southern fringe of the city.
+
+Over 30,000 people, hailing from Uruguay alongside neighbouring Argentina and Brazil, had registered in advance for the service held roughly 375 kilometres (230 miles) from the capital, Montevideo. According to the Vatican, a further 10,000 attendees arrived unannounced on Saturday, undeterred by morning rainfall and grey, windy skies.
+
+Selected for its accessible position along the Uruguay River, the city served as the opening venue for a Mass on Leo’s three-nation tour of South America. The ambitious journey had previously been thrown into uncertainty after the pontiff underwent lung cancer surgery on 13 October.
+
+![A huge crowd flocked to see the pope on Saturday](https://static.independent.co.uk/2026/11/07/14/2026-11-07T143929Z_595095750_RC22JOA8GGWS_RTRMADP_3_POPE-LATAM-URUGUAY.JPG?quality=75&width=640&auto=webp)
+
+Clad in rain ponchos—many in the yellow colours of the Vatican—crowds began streaming through the gates from 5.30am to the sound of popular Spanish hymns performed by a band. Several gathered expressed deep emotion at Leo's determination to press ahead with the demanding 12-day trip despite his recent cancer diagnosis.
+
+"He’s the representative of Christ but he’s human. And we weren’t sure if he could make it, but he pushed through for us," said Soledad Sánchez, 73, who had driven to Paysandú from the north of Uruguay, her eyes brimming with tears. "He made it here to give us a message of peace because he knows our world needs it right now."
+
+Having arrived in Uruguay on Friday, Leo is seeking to encourage citizens across the nation of 3.5 million to draw upon the Catholic faith when navigating modern dilemmas and challenges.
+
+In his homily, the pope implored the congregation to build bridges of faith, fraternity and encounter. He referenced the nearby bridge crossing the Uruguay River, which links Uruguay and Argentina and served as a crossing point for many pilgrims travelling to the service.
+
+He also highlighted the tradition of drinking mate—the bitter herbal infusion carried universally by Uruguayans and their neighbours—framing it as a poignant symbol of unity and shared experience that could inspire the contemporary spreading of faith.
+
+A revered national symbol across Paraguay, Argentina and Uruguay, mate is fundamentally a communal practice. The leaves are steeped inside a hollowed gourd and consumed through a metal straw known as a bombilla, with the vessel passed continuously among friends, relatives and strangers alike as it is replenished over hours.
+
+With every drinker sipping from the same straw, Uruguayans consume more mate per capita than any other population globally, using approximately 9 kilograms (around 20 pounds) of dried leaf annually per person, industry estimates show.
+
+![Pope Leo underwent cancer surgery less than a month ago](https://static.independent.co.uk/2026/11/07/14/download..?quality=75&width=640&auto=webp)
+
+During his remarks, Leo offered a heartfelt tribute to the beverage. "It teaches us to share and to be together, strengthening the bonds that unite us as brothers and sisters," he said, prompting applause from the crowd and a smile from the pope.
+
+He observed that cultural symbols such as mate bestow a sense of identity and belonging that points toward the future.
+
+"Faith, too, has been part of the life of the Uruguayan people since their earliest days, and it must be passed on to future generations with creative courage," he said.
+
+Later on Saturday, Leo was scheduled to reinforce the church’s commitment to social causes by visiting a district in Montevideo impacted by drug trafficking and gang violence. In the area, the church collaborates with municipal authorities to construct housing and provide rehabilitation programs for addicts.
+
+His schedule for the day was set to conclude with a prayer vigil at Montevideo's Centenary Stadium, an event intended to reinforce his call to reject religious indifference and embrace the faith.
+
+Due to its position in western Uruguay just across the river from the Argentine city of Colón, Paysandú proved easier to reach for many Argentines than the scheduled stops within Argentina itself, which forms the next leg of Leo’s itinerary.
+
+Following his departure from Uruguay, the pope will visit Buenos Aires, Luján and Córdoba in Argentina, prior to travelling onwards to Peru, his second homeland and the final destination of the tour.
+
+"Argentina is a much more religious country than Uruguay, and there’s this desire to be here to witness something historic," said Luciana Lobato, 20, an Argentine tour agent who organised coaches for 180 pilgrims crossing the border.
+
+Younger Catholics active in local church groups expressed hope that the sight of the pope drawing substantial crowds would counter Uruguay’s reputation as a country indifferent to religion.
+
+![The pope received a positive reception from the people of Uruguay](https://static.independent.co.uk/2026/11/07/14/2303481800..?quality=75&width=640&auto=webp)
+
+"The reality I see in my town is that there are tons of young people who are really interested in religion, who are trying to find meaning and community in difficult moments," said Teresa Sabellini, 18, from Paysandú. "And now look around here. This place is full of people," she added.
+
+Despite the turnout at the Mass, Paysandú itself greeted the visit quietly, taking on the tone of an ordinary weekend with minimal decorations and only sporadic Vatican flags displayed outside homes.
+
+Saturday’s service paid tribute to Blessed Jacinto Vera, a 19th-century priest who served as Uruguay’s inaugural bishop. On Friday, Leo praised him as a dedicated pastor who traversed the country’s roads to assist the poor, remarking that people who met him "found something of Christ’s goodness" even before he preached.
+
+Several younger attendees noted that Leo’s compassionate tone and focus on supporting the vulnerable resonated beyond the faithful in their secular country as people grapple with a turbulent world.
+
+"I wouldn’t call myself religious, but I like this pope. He has a really good message for humanity," said Santiago Biglieri, 18, a Colombian living in Uruguay. "Even for the nonbelievers, there’s something to take from his ideas."

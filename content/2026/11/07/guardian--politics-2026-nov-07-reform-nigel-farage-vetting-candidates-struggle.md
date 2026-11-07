@@ -1,0 +1,87 @@
+---
+title: Vetting candidates is a tricky process but Reform can’t seem to get it right
+source_url: https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle
+source_site: The Guardian
+source_slug: guardian
+description: Charges against party members and off-piste remarks highlight problems
+  brought about by rapid expansion
+image: https://i.guim.co.uk/img/media/79076a3b05d8796724e0007bdd12c573ab1f8e2d/1172_0_5860_4688/master/5860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3295afc0a2697d66c9329c6360afcbda
+published: '2026-11-07T00:00:00Z'
+scraped_at: '2026-11-07T19:23:51Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Andy Burnham
+- Bashar al-Assad
+- Carol Vorderman
+- Covid
+- George Madgwick
+- Glenn Gibbins
+- Nigel Farage
+- Paul Nuttall
+- Robert Kenyon
+- Ryan Dinnage
+- Vetting
+locations:
+- Hampshire
+- Hillsborough
+- Makerfield
+- Sunderland
+organisations:
+- BBC News
+- Commons
+- ITV
+- Reform UK
+- TV
+- Ukip
+---
+
+Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, was a Reform UK councillor who was arrested in January over multiple alleged sexual offences still in his role nearly 10 months later?
+
+“I have no idea,” Farage replied icily. “I was told yesterday, and I wasn’t very happy.”
+
+A later question about Reform’s misfiring processes for vetting candidates did nothing to improve the mood. Why, Farage asked, was wrongdoing in other parties barely covered, when the news that the arrested Reform councillor had been charged prompted a BBC News alert?
+
+In fairness to the BBC, the charges brought against George Madgwick, who was Reform’s leader on Hampshire county council, were many and deeply serious, 35 in all, including 12 allegations of rape. Madgwick has said he is innocent.
+
+But more generally, it is another difficult moment for a party that has had to expand and professionalise at unprecedented speed, a process that its internal structures have at times failed to keep up with.
+
+Little more than a week earlier, it emerged that a member of Farage’s security team, Ryan Dinnage, who was with him during this year’s local elections campaign, was facing a rape charge at the time for which he was later convicted and jailed. Reform UK said they were unaware of the charge and that Dinnage “ceased to be used” by the party when it came to light.
+
+And on Monday, a now suspended Reform councillor on Sunderland city council, Glenn Gibbins, will appear in court charged with making “grossly offensive” social media posts about Nigerians. Gibbins denies the charge.
+
+While such incidents are rare, notably more common has been Reform being called on to disown candidates after the emergence of previous offensive or prejudiced comments, often made on social media.
+
+Perhaps the most prominent example was Robert Kenyon, who Reform had hoped would block Andy Burnham’s return to the Commons in June’s Makerfield byelection.
+
+The local plumber had contested the seat in 2024, but greater scrutiny in the new contest saw comments unearthed in which he expressed scepticism about vaccines and the seriousness of Covid, interacted with far-right figures, and most memorably, endorsed an eye-openingly lewd comment about the TV presenter Carol Vorderman.
+
+Being challenged about vetting is nothing new for Farage, which might in part explain his frustration at the subject. Shortly before the 2024 election he blamed an external company for not doing proper background checks on candidates, hinting that Reform had been “stitched up politically”.
+
+Vetting was then brought in-house, initially under the control of a “business psychologist” and former parliamentary candidate who had once described the Syrian dictator Bashar al-Assad as “gentle by nature”.
+
+It is now run by Paul Nuttall, the party’s deputy chair, who spent a brief period a decade ago as leader of Ukip, one of Farage’s earlier parties, a period which saw Nuttall come under scrutiny over his CV and a claim he had lost close friends in the Hillsborough stadium disaster.
+
+The party is tight-lipped about how its vetting now works. Intemperate social media output is not an automatic bar, with members told last year that the aim was to create a “commonsense” system that struck a balance between the party’s reputation and individual freedom.
+
+Other aspects are more rigorous, with would-be candidates trying their luck at regional events reportedly being made to give a speech and undertake a mock interview without preparation.
+
+One Conservative official with knowledge of Reform’s approach said there was a heavy reliance on prospective candidates being open and honest about their past careers and expressed opinions.
+
+“There is a degree of that in every party,” they said. “With us, we begin by asking people if there is anything about them which could bring the party into disrepute, and if we find out later about something they didn’t tell us, it is very problematic.
+
+“With Reform it seems to be more of a judgment call. People do not necessarily get rejected because of comments they did not admit to.”
+
+Outside scrutiny plays a role in all parties. Conservative candidates for parliamentary seats must submit their full employment and residence history, and face what the official called “tricky conversations” in a subsequent interview.
+
+But there is always at least some reliance on integrity. ITV’s recent undercover documentary about Reform UK, which featured a series of councillors and candidates making offensive remarks, also included footage of a regional chair advising a reporter posing as a possible candidate to delete problematic social media posts.
+
+Similarly, it is not usually possible to know whether someone has been arrested or even charged with an alleged offence if they do not tell you.
+
+Parties must therefore rely at least in part on things such as informal knowledge, intensive questioning, and ultimately a trust in the candidate. When, as with Reform, you are seeking many hundreds of potential councillors and MPs at the same time, things can go wrong.
+
+There is, of course, another possible factor at work. When your party’s offering is based largely on immigration and sweeping talk of supposedly problematic foreign cultures, then it seems inevitable it will attract at least some with off-piste views.
+
+Farage vehemently rejects the idea that Reform’s culture is inherently more toxic than any other party. He now needs a vetting system to match.
