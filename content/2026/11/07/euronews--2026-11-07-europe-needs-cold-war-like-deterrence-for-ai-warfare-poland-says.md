@@ -1,0 +1,64 @@
+---
+title: Europe needs Cold War-like deterrence for AI warfare, Poland says
+source_url: https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says
+source_site: Euronews
+source_slug: euronews
+description: The rise in AI-powered cyberattacks requires Europe to build a deterrence
+  system similar to the one that prevented mutual destruction during the Cold War,
+  Polish Deputy Minister Krzysztof Gawkowski has said.
+image: https://images.euronews.com/articles/stories/09/98/29/97/1200x675_cmsv2_ba2bd33d-d727-56ab-8de7-37f447250273-9982997.jpg
+published: '2026-11-07T00:00:00Z'
+scraped_at: '2026-11-07T12:54:36Z'
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- History
+- Business & Entrepreneurship
+people:
+- Krzysztof Gawkowski
+locations:
+- Belarus
+- Europe
+- Poland
+- Russia
+- Soviet Union
+- United States
+organisations:
+- AI
+- Euronews
+- Ministry for Digital Affairs
+- NATO
+---
+
+## The rise in AI-powered cyberattacks requires Europe to build a deterrence system similar to the one that prevented mutual destruction during the Cold War, Polish Deputy Minister Krzysztof Gawkowski has said.
+
+Europe must develop a deterrence akin to the Cold War-era doctrine of mutually assured destruction to counter AI-powered warfare, Polish Deputy Prime Minister Krzysztof Gawkowski has said, calling the technology a "force multiplier" that demands a sweeping rethink of the continent's common security.
+
+Gawkowski, who oversees Poland's Ministry for Digital Affairs, estimates the number of cyberattacks in the country will rise by "tenfold" in 2027 as frontier large language models (LLMs) become increasingly effective, sophisticated and available to users.
+
+"The frequency of such incidents will only increase. This is not merely a matter for cybercriminals, who are a threat that we are generally well equipped to handle. It's about adversaries. It's about states. That is the biggest problem," Gawkowski said during a conversation with journalists attended by Euronews.
+
+"Let's call a spade a spade: this is a digital war in Europe. Some countries are on the front line, like Poland, while others are not yet on that front, but their time will come too."
+
+During the Cold War, the theory of "mutually assured destruction" prevented the United States and the Soviet Union from engaging in a direct armed confrontation that would have led to nuclear catastrophe.
+
+The threat of mutual annihilation alone was enough to prevent open war.
+
+In the current age, Gawkowski said, such devastation could be unleashed by AI systems that hack a country's critical infrastructure, plunging it into complete paralysis.
+
+This week's cyberattacks targeting dozens of supermarkets across Europe, which disrupted refrigerators and freezers and caused millions in losses, are only a "prelude" to the havoc that is yet to come, he warned.
+
+"We must remain acutely aware of state-level adversaries, such as Russia, Belarus, and others. We must also communicate clearly: if you attack us, we will strike back," Gawkowski said in a reply to a Euronews question.
+
+"If we fail to signal our intent to retaliate, we risk reaching a point where a counterstrike is no longer possible."
+
+Throughout the conversation, Gawkowski repeatedly challenged the description of cyberattacks as "hybrid warfare", a term used by NATO allies to avoid triggering Article 5, and insisted they should be treated as a modern act of war.
+
+The minister urged European countries to stop "turning a blind eye" to the scale of the AI threat and adapt their national strategies and security resources accordingly. NATO last revised its AI strategy in 2024.
+
+"If a bomb dropped on a power plant, would anyone in Europe doubt that we were at war? If a tank rolled in and destroyed a supermarket, would anyone question whether a war was taking place?" Gawkowski said.
+
+"Yet, today, we are facing exactly these kinds of attacks. Digital bombs are falling on power plants, striking supermarkets and hitting hospitals in Poland, causing them to cease operations," he added.
+
+"And let us be clear: this is no coincidence."

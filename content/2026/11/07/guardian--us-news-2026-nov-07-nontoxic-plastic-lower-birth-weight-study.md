@@ -1,0 +1,67 @@
+---
+title: New ‘high safety’ chemicals in plastic food packaging linked to lower birth
+  weight, study finds
+source_url: https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study
+source_site: The Guardian
+source_slug: guardian
+description: Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found
+  to cause fetal development complications
+image: https://i.guim.co.uk/img/media/bded037b56b875b1683b1d9f645ebbd8415d4582/384_0_3560_2848/master/3560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37d7b99d4c4c7aec4838561ce3f3ec95
+published: '2026-11-07T00:00:00Z'
+scraped_at: '2026-11-07T12:54:47Z'
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+people:
+- Dinch
+- Leonardo Trasande
+locations:
+- US
+- United States
+organisations:
+- BASF
+- DINCH
+- Dinch
+- EU
+- Echo
+- European Union
+- Food Packaging Forum
+- NYU
+- National Institutes of Health
+- New York University Langone Health
+- Switzerland-based Food Packaging Forum
+- United Nations
+---
+
+Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cause serious health problems later in life, a new peer-reviewed study found.
+
+As the health risks in exposure to common phthalate plasticizers became clear over the last few decades, industry began switching to a new type of chemical, called Dinch, that it claimed was a “high safety”, nontoxic alternative. It is widely used in soft plastic food packaging in the United States and European Union, and is found in children’s toys, medical devices, some textiles, flooring and other consumer goods.
+
+But it may not be as safe as industry has claimed, the New York University Langone Health analysis of federal US health data suggests. There is a dearth of research into Dinch health risks, though what exists points toward the chemicals being hormone disruptors that can impact kids’ development.
+
+The new paper is the first to link Dinch to lower birth weights and birth lengths. Fetal growth problems can raise the risk for heart disease, learning difficulties, obesity and other issues that can echo into adolescence and adulthood, the authors wrote.
+
+“Chemicals should be properly tested for their safety before they become a widespread exposure for unwitting people in the general public,” said Leonardo Trasande, a lead author on the NYU paper.
+
+The chemical is formally named 1,2-cyclohexane dicarboxylic acid diisononyl ester. It is used to make plastic more flexible and durable, and is found in common kitchen products such as cling film and plastic wine corks.
+
+Researchers looked at data for over 6,600 pregnancies collected as part of the National Institutes of Health Environmental influences on Child Health Outcomes (Echo) Program. Up to 70% of women showed Dinch in their urine, and higher levels increased the risk of the child being classified as “small for gestational age”, or below the 10th percentile for babies born at the same stage of pregnancy.
+
+Each tenfold increase in Dinch exposure resulted in a 27-gram reduction in newborn birth weight. An average newborn weighs about 3,400 grams (about 7.5lbs). Hispanic mothers or those with lower education levels were more likely to have children affected by Dinch, the study found.
+
+Previous research on animals and human cells has found that Dinch by-products can interfere with the hormones in a pregnant woman that guide fetal development, and may trigger inflammation that affects how nutrients and oxygen reach the baby, NYU’s authors wrote.
+
+The paper appears to expose yet another classic example of industry replacing one dangerous chemical with a compound that has similar health effects. This resets the regulatory and research process, even though the new chemical is very similar in structure or has the same health risks.
+
+After the US and EU regulators began taking action in the aughts over toxic phthalates such as DEHP, industry began increasing the use of Dinch. German chemical giant BASF is among Dinch’s major producers and overall global production volume jumped from 25,000 tons in 2002 to 400,000 tons in 2024.
+
+This process is called “regrettable substitution”, and is common. For example, many chemical companies and goods producers replaced the most dangerous Pfas “forever chemicals”, such as Pfoa, with GenX compounds. But after years of research, the latter have been found to be more toxic.
+
+Researchers with the Switzerland-based Food Packaging Forum said they are concerned about Dinch and the lack of health information around it. But there is evidence that it migrates from food packaging into food, and levels in the EU population have been increasing across recent decades. The Food Packaging Forum is currently conducting health research on DINCH.
+
+The NYU findings “raise pretty serious concerns about regrettable substitution”, Trasande said.
+
+“These results underscore the need for stronger oversight of chemicals used in food packaging and other household products by requiring they be tested before they are introduced to the market, instead of after they are connected to health concerns,” Trasande said, noting that the plastics treaty under negotiation at the United Nations is an opportunity to establish better policies.
+
+Women can protect themselves and their children by buying plastic-free products as much as possible, including clothing and toys. Look for food at the grocery store that comes in glass packaging, and use glass or wood storage and utensils in the kitchen.
