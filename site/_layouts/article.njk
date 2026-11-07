@@ -28,8 +28,11 @@ layout: base.njk
 
     <div itemprop="articleBody">
         {% if image and image | basename not in content and image | stripQueryParams not in content and image | stripImageSize | basename not in content %}
-          <img src="{{ image }}" alt="{{ title }}" class="article-image">
+          <span class="img-alt-overlay">
+            <img src="{{ image }}" alt="{{ title }}" class="article-image">
+            <span class="img-alt-text">{{ title }}</span>
+          </span>
         {% endif %}
-        {{ content | nerSearch(locations or [], people or [], organisations or []) | safe }}
+        {{ content | nerSearch(locations or [], people or [], organisations or []) | altOverlay | safe }}
     </div>
 </article>

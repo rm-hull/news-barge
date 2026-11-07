@@ -418,13 +418,39 @@ strong .searchable {
   font-size: 0.875rem;
 }
 .article img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   border-radius: 4px;
   font-size: x-small;
   color: var(--muted);
   display: block;
   margin-bottom: 1rem;
+}
+
+/* ── Image alt-text overlay ───────────────────────────── */
+.img-alt-overlay {
+  display: block;
+  position: relative;
+  margin-bottom: 1rem;
+}
+.img-alt-overlay > img {
+  display: block;
+  margin-bottom: 0;
+}
+.img-alt-text {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 90%;
+  font-size: 0.7rem;
+  line-height: 1.2;
+  color: rgba(255, 255, 255, 0.85);
+  background: rgba(0, 0, 0, 0.45);
+  padding: 2px 6px;
+  border-radius: 3px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .article table {
   border-collapse: collapse;
