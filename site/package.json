@@ -8,8 +8,9 @@
     "prestart": "[ -L content ] || ln -s ../content content",
     "link:content": "[ -L content ] || ln -s ../content content",
     "build:site": "npm run link:content && eleventy --config=eleventy.config.js --quiet",
+    "build:minify": "html-minifier-terser --input-dir _site --output-dir _site --file-ext html --collapse-whitespace --remove-comments --minify-css true --minify-js true",
     "build:search": "pagefind",
-    "build": "npm run build:site && npm run build:search",
+    "build": "npm run build:site && npm run build:minify && npm run build:search",
     "start": "eleventy --config=eleventy.config.js --serve --incremental",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -17,6 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.8",
+    "html-minifier-terser": "^7.2.0",
     "js-yaml": "^5.5.0"
   },
   "devDependencies": {

@@ -152,6 +152,10 @@ jobs:
         working-directory: site
         run: npm run build:site
 
+      - name: Minify HTML
+        working-directory: site
+        run: npm run build:minify
+
       - name: Build search
         working-directory: site
         run: npm run build:search
