@@ -606,25 +606,25 @@ export default function (eleventyConfig) {
     if (!html) return html;
     const input = typeof html === 'string' ? html : String(html);
 
-    // Single pass: match <img ...> tags with non-empty alt, handling both
-    // standalone images and those alone in <p> tags.
-    const imgRe = /(<p>\s*)?(<img\b[^>]*\balt\s*=\s*(?:"([^"]+)"|'([^']+)'[^>]*)\/?>)(\s*<\/p>)?/gi;
+    const imgRe = /(<p>\s*)?(<img\b[^>]*?\salt\s*=\s*(?:"([^"]+)"|'([^']+)')[^>]*>)(\s*<\/p>)?/gi;
 
     return input.replace(imgRe, (match, pOpen, imgTag, dqAlt, sqAlt, pClose) => {
       const altText = dqAlt || sqAlt || '';
       if (!altText.trim()) return match;
+
       const safeAlt = altText
-        .replace(/&/g, '&amp;')
+        .replace(/&(?!(?:[a-z][a-z0-9]*|#\d+|#x[0-9a-f]+);)/gi, '&amp;') // leave existing entities alone
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
 
-      // If the image was alone in a <p>, drop the <p> tags and replace with our wrapper
-      if (pOpen && pClose) {
-        return `<span class="img-alt-overlay">${imgTag}<span class="img-alt-text">${safeAlt}</span></span>`;
-      }
-      // Otherwise just wrap the img tag
-      return `<span class="img-alt-overlay">${imgTag}<span class="img-alt-text">${safeAlt}</span></span>`;
+      const wrapper =
+        `<span class="img-alt-overlay">${imgTag}` +
+        `<span class="img-alt-text" aria-hidden="true">${safeAlt}</span></span>`;
+
+      // Image alone in its <p>: drop the <p> tags. Otherwise preserve whatever was captured.
+      if (pOpen && pClose) return wrapper;
+      return (pOpen || '') + wrapper + (pClose || '');
     });
   });
 
