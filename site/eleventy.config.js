@@ -8,6 +8,9 @@ const MIN_ARTICLES_FOR_PEOPLE = 10;
 const MIN_ARTICLES_FOR_LOCATIONS = 50;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+const fmt = new Intl.DateTimeFormat('en-GB', { dateStyle: 'long', timeZone: 'UTC' });
+const dateCache = new Map();
+
 function byDescendingPublishedDate(a, b) {
   const order = new Date(b.data.published) - new Date(a.data.published);
   if (order !== 0) {
@@ -26,9 +29,15 @@ function categoriesForArticle(article, siteMap) {
 
 function normalizePersonName(person) {
   // Strip stray markdown characters and annotations
-  let name = person.trim().replace(/^[‘’']+/, '').replace(/[‘’']+$/, '');
+  let name = person
+    .trim()
+    .replace(/^[‘’']+/, '')
+    .replace(/[‘’']+$/, '');
   // Remove markdown heading/list artifacts that sometimes leak in (##, etc.)
-  name = name.replace(/^#+\s*/, '').replace(/[……]+$/, '').trim();
+  name = name
+    .replace(/^#+\s*/, '')
+    .replace(/[……]+$/, '')
+    .trim();
   if (!name) return null;
   // Normalize: strip trailing punctuation (periods, commas, etc.)
   name = name.replace(/[.,;:!?]+$/, '');
@@ -39,9 +48,15 @@ function normalizePersonName(person) {
 
 function normalizeLocationName(location) {
   // Strip stray markdown characters and annotations
-  let name = location.trim().replace(/^[‘’']+/, '').replace(/[‘’']+$/, '');
+  let name = location
+    .trim()
+    .replace(/^[‘’']+/, '')
+    .replace(/[‘’']+$/, '');
   // Remove markdown heading/list artifacts that sometimes leak in (##, etc.)
-  name = name.replace(/^#+\s*/, '').replace(/[……]+$/, '').trim();
+  name = name
+    .replace(/^#+\s*/, '')
+    .replace(/[……]+$/, '')
+    .trim();
   if (!name) return null;
   // Normalize: strip trailing punctuation (periods, commas, etc.)
   name = name.replace(/[.,;:!?]+$/, '');
@@ -154,7 +169,6 @@ export default function (eleventyConfig) {
 
     return grouped;
   });
-
 
   // Locations grouped by name with article count and articles
   eleventyConfig.addCollection('locationsByArticleCount', (collectionApi) => {
@@ -394,13 +408,17 @@ export default function (eleventyConfig) {
     return date.toISOString().split('T')[0];
   });
 
-  eleventyConfig.addFilter('readableDate', (dateObj) => {
-    if (!dateObj) return '';
-    return new Date(dateObj).toLocaleDateString('en-GB', {
-      day: 'numeric',
-      month: 'short',
-      year: 'numeric',
-    });
+  eleventyConfig.addFilter('readableDate', (d) => {
+    if (!d) return '';
+    const date = d instanceof Date ? d : new Date(d);
+    if (Number.isNaN(date.getTime())) return '';
+    const key = d instanceof Date ? d.getTime() : d;
+    let out = dateCache.get(key);
+    if (out === undefined) {
+      out = fmt.format(date);
+      dateCache.set(key, out);
+    }
+    return out;
   });
 
   eleventyConfig.addFilter('readableDateTime', (dateObj) => {
