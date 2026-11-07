@@ -7,7 +7,7 @@
   "scripts": {
     "prestart": "[ -L content ] || ln -s ../content content",
     "link:content": "[ -L content ] || ln -s ../content content",
-    "build:site": "npm run link:content && eleventy --config=eleventy.config.js",
+    "build:site": "npm run link:content && eleventy --config=eleventy.config.js --quiet",
     "build:search": "pagefind",
     "build": "npm run build:site && npm run build:search",
     "start": "eleventy --config=eleventy.config.js --serve --incremental",
