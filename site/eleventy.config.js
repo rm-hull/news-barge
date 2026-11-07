@@ -11,6 +11,26 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const fmt = new Intl.DateTimeFormat('en-GB', { dateStyle: 'long', timeZone: 'UTC' });
 const dateCache = new Map();
 
+// Simple LRU cache for compiled NER regex patterns.
+// With ~25k articles, an unbounded cache exhausts the JS heap because each
+// cached entry holds a compiled V8 regex (native code).  Capping it at 500
+// entries keeps the most common term combinations while staying well within
+// memory limits.
+const NER_CACHE_MAX = 500;
+const nerCache = new Map();
+
+function nerCacheSet(key, value) {
+  // If already present, move to end (most recently used).
+  if (nerCache.has(key)) {
+    nerCache.delete(key);
+  } else if (nerCache.size >= NER_CACHE_MAX) {
+    // Evict the oldest entry.
+    const oldest = nerCache.keys().next().value;
+    nerCache.delete(oldest);
+  }
+  nerCache.set(key, value);
+}
+
 function byDescendingPublishedDate(a, b) {
   const order = new Date(b.data.published) - new Date(a.data.published);
   if (order !== 0) {
@@ -129,14 +149,63 @@ export default function (eleventyConfig) {
     return sites;
   });
 
+  // ── Shared data cache ────────────────────────────────────────────────────
+  // Avoid scanning 25k files repeatedly: cache the article list and derived
+  // data so every collection reuses the same results.
+  let cachedArticles = null;
+  let cachedArticlesSorted = null;
+  let cachedPeople = null;
+  let cachedLocations = null;
+  let cachedSiteMap = null;
+
+  function getArticles(collectionApi) {
+    if (!cachedArticles) {
+      cachedArticles = collectionApi.getFilteredByGlob('content/**/*.md');
+    }
+    return cachedArticles;
+  }
+
+  function getArticlesSorted(collectionApi) {
+    if (!cachedArticlesSorted) {
+      cachedArticlesSorted = getArticles(collectionApi).slice().sort(byDescendingPublishedDate);
+    }
+    return cachedArticlesSorted;
+  }
+
+  function getPeople(collectionApi, eleventyCfg) {
+    if (!cachedPeople) {
+      cachedPeople = groupPeopleByArticle(getArticlesSorted(collectionApi), eleventyCfg);
+    }
+    return cachedPeople;
+  }
+
+  function getLocations(collectionApi, eleventyCfg) {
+    if (!cachedLocations) {
+      cachedLocations = groupLocationsByArticle(
+        getArticlesSorted(collectionApi),
+        eleventyCfg,
+        MIN_ARTICLES_FOR_LOCATIONS
+      );
+    }
+    return cachedLocations;
+  }
+
+  function getSiteMap() {
+    if (!cachedSiteMap) {
+      const sites = yaml.load(readFileSync(join(__dirname, '../sites.yaml'), 'utf-8')).sites;
+      cachedSiteMap = new Map(sites.map((s) => [s.slug, s.categories || []]));
+    }
+    return cachedSiteMap;
+  }
+
   // ── Collections ──────────────────────────────────────────────────────────
   eleventyConfig.addCollection('articles', (collectionApi) => {
-    return collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    return getArticlesSorted(collectionApi);
   });
 
   // Articles grouped by source site slug
   eleventyConfig.addCollection('articlesBySite', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const all = getArticlesSorted(collectionApi);
     const grouped = {};
     for (const art of all) {
       const slug = art.data.source_slug || 'unknown';
@@ -148,9 +217,8 @@ export default function (eleventyConfig) {
 
   // Articles grouped by category
   eleventyConfig.addCollection('articlesByCategory', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md');
-    const sites = yaml.load(readFileSync(join(__dirname, '../sites.yaml'), 'utf-8')).sites;
-    const siteMap = new Map(sites.map((s) => [s.slug, s.categories || []]));
+    const all = getArticles(collectionApi);
+    const siteMap = getSiteMap();
 
     const grouped = {};
     for (const art of all) {
@@ -172,14 +240,12 @@ export default function (eleventyConfig) {
 
   // Locations grouped by name with article count and articles
   eleventyConfig.addCollection('locationsByArticleCount', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    return groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+    return getLocations(collectionApi, eleventyConfig);
   });
 
   // Locations listing pages (pagination of the locations index)
   eleventyConfig.addCollection('locationsByArticleCountPages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    const locations = groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+    const locations = getLocations(collectionApi, eleventyConfig);
     const pages = [];
     const totalPages = Math.ceil(locations.length / PAGE_SIZE);
 
@@ -197,8 +263,7 @@ export default function (eleventyConfig) {
 
   // Articles grouped by location name, split into pages
   eleventyConfig.addCollection('articlesByLocationPages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    const locations = groupLocationsByArticle(all, eleventyConfig, MIN_ARTICLES_FOR_LOCATIONS);
+    const locations = getLocations(collectionApi, eleventyConfig);
 
     const pages = [];
     for (const location of locations) {
@@ -223,14 +288,12 @@ export default function (eleventyConfig) {
   // People grouped by name with article count and articles
   // (filtered to people mentioned in at least MIN_ARTICLES_FOR_PEOPLE articles)
   eleventyConfig.addCollection('peopleByArticleCount', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    return groupPeopleByArticle(all, eleventyConfig);
+    return getPeople(collectionApi, eleventyConfig);
   });
 
   // People listing pages (pagination of the people index)
   eleventyConfig.addCollection('peopleByArticleCountPages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    const people = groupPeopleByArticle(all, eleventyConfig);
+    const people = getPeople(collectionApi, eleventyConfig);
     const pages = [];
     const totalPages = Math.ceil(people.length / PAGE_SIZE);
 
@@ -248,8 +311,7 @@ export default function (eleventyConfig) {
 
   // Articles grouped by person name, split into pages
   eleventyConfig.addCollection('articlesByPersonPages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    const people = groupPeopleByArticle(all, eleventyConfig);
+    const people = getPeople(collectionApi, eleventyConfig);
 
     const pages = [];
     for (const person of people) {
@@ -275,7 +337,7 @@ export default function (eleventyConfig) {
 
   // Articles grouped by site, split into pages (30 per page)
   eleventyConfig.addCollection('articlesBySitePages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const all = getArticlesSorted(collectionApi);
 
     const grouped = {};
     for (const art of all) {
@@ -308,9 +370,8 @@ export default function (eleventyConfig) {
 
   // Articles grouped by category, split into pages (30 per page)
   eleventyConfig.addCollection('articlesByCategoryPages', (collectionApi) => {
-    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
-    const sites = yaml.load(readFileSync(join(__dirname, '../sites.yaml'), 'utf-8')).sites;
-    const siteMap = new Map(sites.map((s) => [s.slug, s.categories || []]));
+    const all = getArticlesSorted(collectionApi);
+    const siteMap = getSiteMap();
 
     const grouped = {};
     for (const art of all) {
@@ -381,7 +442,7 @@ export default function (eleventyConfig) {
     const SIX_HOURS_MS = 6 * 60 * 60 * 1000;
     const now = Date.now();
     const slugs = new Set();
-    const all = collectionApi.getFilteredByGlob('content/**/*.md');
+    const all = getArticles(collectionApi);
     for (const art of all) {
       const scrapedAt = art.data.scraped_at;
       if (scrapedAt) {
@@ -460,9 +521,26 @@ export default function (eleventyConfig) {
     return String(str).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   }
 
+  // Precompiled regex for the uppercase check in wrapSearchable.
+  const hasUpperCase = /[A-Z]/;
+
+  // Hoisted replacement handler — avoids creating a closure on every call.
+  function wrapSearchable(match) {
+    // Entities are proper nouns: avoid matching all-lowercase words
+    // that merely share a case-insensitive form (the pronoun "us"
+    // vs. the acronym "US").
+    if (hasUpperCase.test(match)) {
+      return `<a href="/search/?q=${encodeURIComponent('"' + match + '"')}" class="searchable">${match}</a>`;
+    }
+    return match;
+  }
+
   eleventyConfig.addFilter('nerSearch', (html, ...termArrays) => {
     if (!html) return html;
     const input = typeof html === 'string' ? html : String(html);
+
+    // Fast path: if there are no term arrays at all, skip everything.
+    if (termArrays.length === 0) return input;
 
     const seen = new Set();
     const terms = [];
@@ -484,34 +562,42 @@ export default function (eleventyConfig) {
     }
     if (terms.length === 0) return input;
 
-    // Escape for use in a regex alternation, longest first so multi-word
-    // phrases win over their shorter sub-strings.
-    const alternation = terms
-      .map(escapeRegExp)
-      .sort((a, b) => b.length - a.length)
-      .join('|');
-    const termPattern = new RegExp('\\b(?:' + alternation + ')\\b', 'gi');
+    // Build a cache key from the sorted, lowercased terms so articles sharing
+    // the same set of terms reuse the compiled regex.
+    const cacheKey = terms
+      .map((t) => t.toLowerCase())
+      .sort()
+      .join('\x00');
+    let cached = nerCache.get(cacheKey);
+    if (!cached) {
+      // Escape for use in a regex alternation, longest first so multi-word
+      // phrases win over their shorter sub-strings.
+      const alternation = terms
+        .map(escapeRegExp)
+        .sort((a, b) => b.length - a.length)
+        .join('|');
+      cached = new RegExp('\\b(?:' + alternation + ')\\b', 'gi');
+      nerCacheSet(cacheKey, cached);
+    }
+
+    // String.prototype.replace() resets lastIndex on /g regexes before each
+    // call, so the cached instance can be reused directly without copying.
+    const termPattern = cached;
+
+    // Fast path: if the input has no HTML tags, apply the replacement directly
+    // without the chunking loop.
+    if (input.indexOf('<') === -1) {
+      return input.replace(termPattern, wrapSearchable);
+    }
 
     // Only rewrite text that lives outside of HTML tags so attribute
     // values (hrefs, alt text, ...) are left untouched.
-    const chunkRe = /<[^>]*>|[^<]+/g;
-    let out = '';
-    let m;
-    while ((m = chunkRe.exec(input)) !== null) {
-      const chunk = m[0];
-      if (chunk.charCodeAt(0) === 60 /* '<' */) {
-        out += chunk;
-      } else {
-        out += chunk.replace(termPattern, (match) => {
-          // Entities are proper nouns: avoid matching all-lowercase words
-          // that merely share a case-insensitive form (the pronoun "us"
-          // vs. the acronym "US").
-          if (/[A-Z]/.test(match)) {
-            return `<a href="/search/?q=${encodeURIComponent('"' + match + '"')}" class="searchable">${match}</a>`;
-          }
-          return match;
-        });
-      }
+    const parts = input.split(/(<[^>]*>)/);
+    // split() with capturing group produces: [text, tag, text, tag, ...]
+    // Odd indices are tags, even indices are text.
+    let out = parts[0].replace(termPattern, wrapSearchable);
+    for (let i = 1; i < parts.length; i += 2) {
+      out += parts[i] + parts[i + 1].replace(termPattern, wrapSearchable);
     }
     return out;
   });
