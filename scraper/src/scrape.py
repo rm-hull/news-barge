@@ -155,7 +155,9 @@ async def urls_from_listing(
     if not html:
         return []
 
-    tree = lxml_html.fromstring(html)
+    from .text_extraction import _strip_xml_declaration
+
+    tree = lxml_html.fromstring(_strip_xml_declaration(html))
 
     if listing_class:
         links = tree.xpath(
