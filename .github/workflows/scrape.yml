@@ -150,7 +150,11 @@ jobs:
 
       - name: Build site
         working-directory: site
-        run: npm run build
+        run: npm run build:site
+
+      - name: Build search
+        working-directory: site
+        run: npm run build:search
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
