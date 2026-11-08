@@ -1,0 +1,170 @@
+---
+title: 'Duo-euthanasia: When your parents choose to die'
+source_url: https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Els and Jan sought medical intervention to end their lives after 50 happy
+  years of marriage, leaving behind their only child.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg
+published: '2026-11-08T00:00:00Z'
+scraped_at: '2026-11-08T10:13:17Z'
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
+people:
+- Alzheimer
+- Bas
+- Els
+- Jan
+- Rozemarijn van Bruchem
+- van Bruchem
+locations:
+- Bas
+- Erasmus Medical Centre
+- Friesland
+- Netherlands
+- Rotterdam
+- UK
+organisations:
+- Alzheimer's
+- BBC
+- Navy
+- RTE
+- Regional Euthanasia Review Committees
+---
+
+![Els, Jan and Bas. Els has short grey hair and is wearing glasses and a Navy top. Jan has brown, grey hair and a brown moustache which is big and bushy and wears a blue and white stripe polo top. Bas has short brown hair and is wearing a grey t-shirt underneath a navy and white top.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg)
+
+Bas pictured with his parents Els and Jan in 1994
+
+*Some people might find this article upsetting.*
+
+Early one morning in June 2024, Bas pulled up next to his parents' campervan, parked on a sunny marina in the north of the Netherlands.
+
+His father and mother, Jan and Els, had spent most of their married life on water. Now in their 70s, they could no longer manage a houseboat. Their campervan, positioned close to the yachts and dinghies, was the next best thing.
+
+Jan and Els got into their son's car. Bas started the engine. This would be the final time he drove his parents anywhere. For Jan and Els, this journey - to the local hospice - would be their last.
+
+At 10:30 that morning they would be administered lethal medication by doctors and die together in what is known in the Netherlands as duo-euthanasia. It's legal and it's rare, but every year more Dutch people choose to end their lives this way.
+
+![Els and Jan near a lake in 2012. Els has short grey hair and is wearing shaded glasses, patterned top and a large necklace. Jan has grey hair and a bushy moustache and is wearing a light blue shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/02a8/live/dc161a60-d916-11f1-93e1-3b657b665bcf.jpg)
+
+Els and Jan had spent most of their married life on water
+
+Three days before their fatal appointment at the hospice, Jan and Els gave an interview to the BBC in their campervan. Jan was living with continual pain, the legacy of years hauling cargo on the Netherlands' inland waterways. Els had been diagnosed with dementia. Their story was picked up and commented on around the world.
+
+Now, more than two years on, the couple's only child describes trying to persuade his mother and father to delay their deaths while supporting their decision to stop living. He reveals the emotional burden his parents' decision placed on him and the profound loneliness that followed.
+
+## The journey
+
+Bas had planned a scenic route to the hospice, taking in Friesland's meadows and canals.
+
+"I still remember the whole trip," he says. His mum was in the back seat and his dad sat beside him. At first, they talked. Els seemed resolute about their decision to opt for euthanasia.
+
+"My mum was convinced, certain about doing it," Bas says. "But my dad was a little bit emotional."
+
+Jan asked his son if they were doing the right thing. Bas was thrown - he thought it would be his mum who might have doubts.
+
+"My mum had always really enjoyed life," he says. "I remember she told me, 'I'd love to be 80 or maybe even 90 years old.'"
+
+But his father had been talking about euthanasia for more than a decade because of all the years of pain.
+
+In the car, Bas reassured his dad. Once Jan calmed down, they drove without speaking, listened to music and watched the scenery go by.
+
+![A black and white photo of a man and a woman on a sailing dinghy. Two other dinghies can be seen in the far distance on the water in the distant background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b474/live/889c2f70-d90f-11f1-b441-2b33b063138f.jpg)
+
+Els and Jan, pictured here in 1977, were keen racing sailors
+
+In the months before the family made this journey, Bas had tried to persuade his parents to delay their deaths.
+
+"I tried to convince them to stay a bit longer - why not wait until winter, or next year?"
+
+Bas was conflicted. Although he thought his parents' decision to ask for euthanasia was the right one, he didn't want them to go.
+
+"My dad, he was in this situation for 10 to 15 years, so he could probably have stretched it for another few years. But I think waiting for another year, then my mum would get into trouble…"
+
+If Els delayed applying for euthanasia, she risked her Alzheimer's worsening, which might mean she would not be deemed capable of making the decision to end her own life.
+
+## At the hospice
+
+Bas found a parking space.
+
+"My dad said goodbye to my car - he liked my car, and he said, 'Good job', and 'thank you'.
+
+"And then we walked inside," Bas says. "Imagine doing that - being in their shoes, taking that trip and that walk. It's so unreal."
+
+For the next two hours, the couple's family and friends came and went. They reminisced, and listened to music. At one point, it crossed Bas' mind to call a halt to the proceedings.
+
+"I had a feeling - 'OK, let's leave… Let's step into the car and drive away,'" he says. "But I didn't want to bring anything up that would make them feel uncertain - I had supported the whole [euthanasia] process.
+
+"Better to keep everybody calm, and take the moment to say goodbye."
+
+**Where to get help**
+
+Just before 10:30am, doctors arrived to inject Jan and Els with the lethal medication that would kill them. The couple lay on hospital beds side by side. And in those final moments, before they lost consciousness, Bas witnessed his parents' closeness.
+
+"I've seen them maybe three or four times in all my life walking hand in hand," he says. "But now they were laying there, hand in hand. And that gave me a really good feeling - they're really doing this together."
+
+Bas describes that first half hour after his parents stopped breathing as "a factual thing" - they weren't alive anymore.
+
+"Then you realise what the situation is - that's an unimaginable feeling."
+
+![Jan and Bas. Jan has brown hair and a brown moustache which is big and bushy and wears a white top and navy shorts and red flip flops. He is sitting on a foldable chair in a grass space as Bas stands nearby. Bas, photgrpahed when he was a toddler, has light blonde hair and is wearing a matching towelling top and shorts which are light blue and white striped](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a4ea/live/8aed4400-d912-11f1-a701-fddedf244c16.jpg)
+
+Jan coached hockey - and often took his son along with him
+
+In the hospice, sorrow hit Bas. He began to experience a profound loneliness.
+
+"Grieving is a very, very deep thing to go through," he says, "and I don't have brothers and sisters - I really felt alone."
+
+If we've been brought up by two parents, when the first dies, we can share our memories and sadness with the other as part of the process of bereavement. But Jan and Els were both gone.
+
+"It was like my legs were cut off," remembers Bas.
+
+His grief was physical too - he felt sick for four or five weeks. His body hurt.
+
+"I would not really recommend this to others, and that's maybe a hard conclusion," he says. "It was maybe for them [my parents] the best option, but having lost them both at the same moment was very, very impactful."
+
+![A page of pictures from a family album show Bas and his mother watching sailboats and back home in his high chair being ded.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7639/live/2d033cc0-d91a-11f1-a701-fddedf244c16.png)
+
+Els and Jan took Bas to watch sailing competitions when he was a child
+
+## Did Jan and Els go too soon?
+
+Among people planning to apply for euthanasia in the Netherlands, especially those with dementia like Els, choosing the right moment to end your life may be complicated.
+
+* **9,958 people in the Netherlands chose death by euthanasia in 2024**
+* **427 of those who chose death by euthanasia in 2024 had dementia - six had advanced dementia**
+* **108 people chose death by duo-euthanasia (54 pairs) that year**
+
+*Source: Regional Euthanasia Review Committees (RTE)*
+
+As well as demonstrating they are suffering unbearably, they must be assessed by doctors as still having the capacity to decide for themselves they want to die. This can cause immense distress in dementia patients thinking about euthanasia, explains Dr Rozemarijn van Bruchem, a geriatrician and ethicist at the Erasmus Medical Centre in Rotterdam.
+
+"They think… I have that power right now, but now is too soon. But maybe next month is too late. So how do I decide at what point I need to start this process to see if I meet the criteria, to see if I can get euthanasia? And if I wait too long, might I have missed the window?"
+
+Dr van Bruchem says it's because euthanasia is legal in the Netherlands that her patients experience this anxiety. And they know permission for an assisted death in cases of advanced dementia is rare. In countries where euthanasia is prohibited, like the UK, people with dementia may face many challenges, but they rarely have to weigh these life-or-death options - as Els did.
+
+In 2024, she told the BBC that she and her husband couldn't wait because there was a chance her Alzheimer's would progress. And Jan was committed to dying with Els. He told the BBC that perhaps he was going too soon, but he had lived his life – his life was completed.
+
+## Was everything said?
+
+![A page from a photo album marked as the summer of 1985 showing various pictures of Bas and his father, on boats and playing near water.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7f96/live/4c975800-d91a-11f1-a701-fddedf244c16.png)
+
+Bas inherited his parents' love of boats and water
+
+Jan and Els were very aware of the burden their end-of-life decisions placed on their son. Bas attended all the meetings his parents had with their separate doctors during the euthanasia process. There were open family discussions. Often, we have regrets when a loved-one dies – especially about what may have been left unspoken. This didn't happen to Bas. Two days before Jan and Els' appointment at the hospice on Monday 3 June he wrote them a letter.
+
+"It was about eight pages," Bas says. "I went to the campervan late in the evening on Saturday night. I read the whole letter to them. It was about our lives, thanking them for what they'd done."
+
+Jan and Els were deeply moved. And just as they rarely displayed affection to each other in public, they hadn't usually been demonstrative with their son either.
+
+"You feel that they love you, but it's shown by doing stuff, not really saying it, or giving you a hug," says Bas. "My mum did [hug] more when she got dementia, but my dad never did – I never got a hug."
+
+That changed in the campervan on that last Saturday night. Jan hugged Bas.
+
+"He did it after that letter. It was maybe one of the best moments.
+
+"Everything was said."

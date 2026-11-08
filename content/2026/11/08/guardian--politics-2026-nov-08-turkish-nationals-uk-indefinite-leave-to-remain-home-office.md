@@ -1,0 +1,71 @@
+---
+title: ‘Windrush’ accusations over sharp rise in Turkish nationals facing removal
+  from UK
+source_url: https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush
+source_site: The Guardian
+source_slug: guardian
+description: David Lammy among those raising concerns after errors found in rejected
+  applications for indefinite leave to remain
+image: https://i.guim.co.uk/img/media/0414c19d72a249c412526994fab75b7dd4939e03/225_0_2332_1867/master/2332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1875b8ed20c21b3d46bd5369f32c544a
+published: '2026-11-08T00:00:00Z'
+scraped_at: '2026-11-08T10:12:58Z'
+categories:
+- UK
+- News & Politics
+people:
+- Alzheimer
+- David Lammy
+- Priti Patel
+- Shabana Mahmood
+locations:
+- Britain
+- Turkey
+- UK
+- United Kingdom
+organisations:
+- ECAA
+- European Community Association Agreement
+- Guardian
+- Home Office
+- Labour
+- NHS
+- Tottenham
+---
+
+Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accusations that the Home Office has failed to learn the lessons of the Windrush scandal.
+
+Since the start of the year, there has been a sharp rise in the number of rejected applications for indefinite leave to remain for those on European Community Association Agreement (ECAA) visas, a longstanding route to residency for Turkish nationals seeking to set up a business in the UK.
+
+The rise in refusals appears to apply to applications lodged since September 2025, shortly before Shabana Mahmood announced controversial proposals at the Labour conference for tougher conditions on those applying for leave to remain.
+
+The home secretary said at the time: “In solving this crisis, you may not always like what I do. We will have to question some of the assumptions and legal constraints that have lasted for a generation and more.”
+
+The Home Office maintains that there has been no change to the rules but doubts about this have been raised, including by the former foreign secretary David Lammy, who said there “seems to be a sudden change” in the government’s policy, which had “devastated” the lives of those affected and evoked memories of the Windrush scandal.
+
+Hundreds of ECAA holders have been refused permanent residency since the start of the year, a big uptick compared with previous years, while the number of successful applications has plummeted from the usual several thousand to just a few hundred since January.
+
+Refusal letters have been riddled with basic errors, made-up requirements and a disregard of human tragedies, which were previously treated with discretion.
+
+Many of those being denied arrived in the UK within the past seven years and have set up successful businesses. Among them is a woman who started treatment for cancer in Turkey after being diagnosed on a trip during the Covid-19 pandemic, when the NHS restricted such care. Her application was denied because she “chose” to begin treatment in Turkey, even though her medical team advised that transferring clinical care treatment “carried significant clinical risk”.
+
+Despite a review, the Home Office stood firm and informed the woman in October that she and her three young children “should now leave the United Kingdom”.
+
+Another refused applicant was told his window-cleaning business was not legitimate because he did not have a social media presence, a requirement that does not exist. One woman whose father in Turkey lives with terminal Alzheimer’s was denied indefinite leave to remain because the Home Office said his condition had been “known for several years”, meaning her absences from the UK did not stem from an “urgent unforeseen situation”.
+
+Lammy, the MP for Tottenham, a constituency with a large Turkish-speaking population, said: “I have been contacted by constituents whose lives have been devastated by what seems to be a sudden change in Home Office policy – people who have built their lives and families here and played by the rules.
+
+“I can’t help remembering the Windrush scandal when I hear these terrible stories. The Home Office needs to urgently revisit and consider the Lessons Learned review. This is entirely unacceptable. I would like to see justice for Britain’s Turkish-origin community.”
+
+The number of ECAA applications under administrative review, a process where the Home Office re-examines a refusal, has soared since the start of the year, according to a freedom of information request, jumping from 145 in 2025 to 395 from January to mid-August 2026. Lawyers dealing with ECAA cases have told the Guardian there have been long delays for applications lodged from September 2025, beyond the usual six-month wait time.
+
+after newsletter promotion
+
+Data from the department shows a stark fall in the number of Turkish nationals applying through this route being granted indefinite leave to remain. From January to June 2025, there were 3,378 grants of settlement in the UK for ECAA applicants. For the same period in 2026, this plummeted to 745, a 78% drop.
+
+Lawyers have said these types of cases were previously routinely approved because of guidance on compassionate circumstances but that a harsher shift occurred for applications lodged from last September.
+
+Home Office caseworkers also appear to be making significant errors or applying requirements that do not exist. In one refusal, which was eventually overturned, the department said it had been “unable to locate a website for your business” or any “evidence of any online presence, for example social media presence” and falsely claimed the applicant did not provide a complete set of bank statements. In another, the Home Office wrongly calculated the number of days the applicant was out of the country, incorrectly claiming they were out of the country for more than 180 days within a 12-month period.
+
+The Home Office’s approach to ECAA holders appears to contradict certain recommendations made in the independent review into the Windrush scandal, which Priti Patel, the home secretary at the time, accepted and promised to act on. These included establishing clearer guidance on the burden and standard of proof, increasing direct contact with applicants, and revising the criteria and process for assessing cases involving vulnerable applicants.
+
+A Home Office spokesperson said: “There has been no change to how ECAA settlement applications are considered. Every application continues to be considered on its individual circumstances, in line with the published rules and guidance.”
