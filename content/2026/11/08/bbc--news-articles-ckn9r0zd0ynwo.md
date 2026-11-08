@@ -1,0 +1,68 @@
+---
+title: '''Time is up'': Nandy warns media industry to take abuse seriously in wake
+  of Brand case'
+source_url: https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Lisa Nandy tells the BBC "many people" in the media industry have come
+  forward to her.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg
+published: '2026-11-08T00:00:00Z'
+scraped_at: '2026-11-08T17:57:15Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Laura Kuenssberg
+- Lisa Nandy
+- Russell Brand
+locations:
+- Big Mouth
+organisations:
+- 6 Music
+- BBC Radio 2
+- Big Brother
+- Brand
+- Channel 4
+- Creative Industries Independent Standards Authority
+- First Sight
+---
+
+Lisa Nandy says she "would wager" that sexual abuse in the media industry is still happening
+
+**Abuse in the media industry is probably still happening as organisations are not doing enough to protect women, the culture secretary has warned in the wake of Russell Brand's conviction.**
+
+Lisa Nandy told the BBC's Sunday with Laura Kuenssberg: "Time is up, it really is time for the media industry to take this seriously."
+
+She added that since entering government, "many people" from within the industry had reached out to her "to allege that things have happened to them".
+
+Brand was found guilty of rape and sexual assault after a four-week trial, following allegations from multiple women spanning the decade between 1999 and 2009.
+
+Nandy was asked whether she believed there was still exploitation and abuse within the media industry, following the Brand trial and cancellation of Channel 4 reality show Married at First Sight after the BBC revealed rape allegations.
+
+She said: "I do not see that much has changed in terms of the way that institutions in the media industry and across public life, including politics, deal with women who very bravely come forward to allege abuse."
+
+Nandy added that there was often no protection and a "very heavy cost" for women who speak up in industries such as media and politics, pointing to power imbalances and short-term contracts some staff members are given.
+
+"Hand on heart, I can't say to you as the culture secretary that this is not happening today. In fact, if I had to wager, I would say it is," she said.
+
+Nandy said many had come forward from within the industry, including from the BBC.
+
+But she added that the BBC had been an "exemplar" in signing up to the industry body to protect whistleblowers - the Creative Industries Independent Standards Authority - and urged other organisations to follow suit.
+
+A BBC spokesperson said the broadcaster "has made a significant commitment to improve its culture, processes and standards".
+
+"Last year, following an independent culture review, we set out the behavioural expectations for everyone who works with or for the BBC and we were clear action would be taken if these were not met," the spokesperson added.
+
+Brand found guilty of one count of rape and three counts of sexual assault
+
+Starting his career as a stand-up comedian, Brand became a household name as a host of TV shows such as Big Brother's Big Mouth. He also had his own radio programmes on BBC Radio 2 and 6 Music.
+
+During Brand's trial, he faced allegations from six women and was found guilty of one count of rape and three counts of sexual assault. The women revealed how Brand used his fame to force them into sexual activity.
+
+Following his conviction, a BBC spokesperson said there could be "no place for the abuse of power", adding: "Across the industry we must work together to ensure that anyone who suffers at someone else's hand feels able to report it, that their concerns are taken seriously and that they are listened to."
+
+The corporation restated its apology to staff who felt they could not speak up with concerns about Brand's behaviour when he worked at the BBC between 2006 and 2008, because he was seen as "too influential".
+
+Channel 4, which aired Big Brother and its spin-off programmes at the time Brand was a presenter, said it recognised the "profound impact of these crimes".

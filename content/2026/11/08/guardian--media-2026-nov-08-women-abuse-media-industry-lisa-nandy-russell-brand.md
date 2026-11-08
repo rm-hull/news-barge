@@ -1,0 +1,50 @@
+---
+title: Russell Brand case must be wake-up call to protect women in media, Lisa Nandy
+  says
+source_url: https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand
+source_site: The Guardian
+source_slug: guardian
+description: Culture secretary says there is still a problem with exploitation and
+  abuse in the industry and public life
+image: https://i.guim.co.uk/img/media/762ae91c8ce0a67e86d117452274a6e484f8f369/273_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57eb86061a47be19d4b87fab7085f03e
+published: '2026-11-08T00:00:00Z'
+scraped_at: '2026-11-08T17:56:01Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Laura Kuenssberg
+- Lisa Nandy
+- Russell Brand
+locations:
+- UK
+organisations:
+- BBC
+- Creative Industries Independent Standards Authority
+- Sky News
+---
+
+The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after Russell Brand’s conviction for rape and sexual assault.
+
+She said women who came forward were too often not protected by institutions across public life, including in politics, and that huge power imbalances meant speaking up came at a very heavy cost.
+
+Nandy told the media industry that “time is up” to bring in systems to protect vulnerable whistleblowers, and said that while the BBC had taken action in recent years, other organisations still had to take the issue seriously.
+
+Brand’s conviction on Thursday renewed scrutiny of how the UK’s entertainment industry has treated celebrities accused of abusing their power, with some women saying they feared that speaking out could harm their careers.
+
+Brand faces sentencing on Monday after being found guilty of raping a woman and sexually assaulting three others.
+
+Nandy said last week that the case must be a wake-up call to the media world and beyond, after widespread concerns over failures to confront Brand’s behaviour. It emerged after the verdicts that he is under investigation for two further rape allegations.
+
+In an interview with the BBC’s Sunday with Laura Kuenssberg programme, Nandy was asked whether she thought there was still a problem in the media and creative industries. “Yes, I do, and I think hand on heart I can’t say to you as the culture secretary that this is not happening today. In fact, if I had to wager, I would say it is,” she said.
+
+“The biggest reason I say that, and I won’t say it lightly, is because I do not see that much has changed in terms of the way that institutions in the media industry and across public life, including politics, deal with women who very bravely come forward to allege abuse. I think they’re not protected.
+
+“I think that they work in industries like politics and media where the power imbalances are huge, where they’re often on short-term flexible contracts, and where who you know and reputation is often the key to career advancement. Speaking up has a very heavy cost.”
+
+She praised the BBC for signing up to the Creative Industries Independent Standards Authority, a whistleblowing body, and for taking other steps in recent years, but she said there was more the corporation could do.
+
+“There are other institutions that haven’t done that, and time is up,” she said. “It really is time for the media industry to take this seriously and to put those practices into action.”
+
+Nandy had said earlier on Sky News Sunday Morning that the government was considering what further steps it could take to help protect whistleblowers in such circumstances.
