@@ -1,0 +1,93 @@
+---
+title: '‘Settle down’ and ‘do your own swabs’: how alleged rape victims are treated
+  in Queensland revealed in major report'
+source_url: https://www.theguardian.com/australia-news/2026/nov/10/settle-down-do-your-own-swabs-how-alleged-victims-are-treated-in-queensland-revealed-in-major-report
+source_site: The Guardian
+source_slug: guardian
+description: Prosecutors dropped cases because survivors ‘didn’t act how a rape victim
+  should’, Australian Institute of Criminology review of 19,000 sexual assault cases
+  finds
+image: https://i.guim.co.uk/img/media/c97abbd2d42262f1d2aaa94eb91adc07a4fe6a8c/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69db42957e9f7cfcc05db8b9feda895c
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T23:53:12Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Angela Lynch
+- Qsan
+locations:
+- Queensland
+organisations:
+- Australian Institute of Criminology
+- DPP
+- Qsan
+- Queensland Sexual Assault Network
+---
+
+Queensland police put sexual assault investigations “on the backburner” because detectives were overworked and under pressure to prioritise cases linked to political issues such as youth crime, a major new study has found.
+
+The report, published this month by the Australian Institute of Criminology, sought to investigate why so many sexual assault complaints – about two-thirds of those made to police in Queensland – were withdrawn, not substantiated or considered unsolved.
+
+Interviews with detectives and others paint a grim picture about the experience of making a sexual assault complaint. One told the researchers that police interviews with victim-survivors were often conducted in “the room where the admin ladies sit”.
+
+“Previous to that we used the ladies’ change room,” the officer said.
+
+Another said: “We have victims of rapes coming into this office with other officers here answering phones.”
+
+Detectives told researchers they were struggling to cope with heavy workloads and faced pressure to respond to matters that were considered political priorities, including youth crime, property crime and domestic and family violence.
+
+“The serious jobs like sexual assault, they’re life changing, life-ruining stuff,” one detective said.
+
+“And they’re not getting any attention at all because some kid walked into a bottle shop and stole a bottle of vodka, and we end up dealing with that instead.”
+
+Another said: “So you take a statement from them, and then something will pop up where someone’s running around with a gun, so now that’s your focus.
+
+“A few jobs like this back up, and then all of a sudden … it’s been 12 months.”
+
+Investigators told the researchers that cases, particularly relating to historical sexual offence allegations, had been “sitting there for yonks” and “get put on the backburner because there’s just too much other work”.
+
+Officers spoke about being in a state of permanent “stress response” because of the intense workload.
+
+“When we’re in a stress response, we don’t act with our compassion systems in place; neurobiologically, your empathy system is offline,” an officer said. “The police are under so much stress and then we’re asking them to perform in a trauma informed victim-centric way.”
+
+The researchers found that officers who investigated sexual assault offences were often generalist detectives required to also handle property crime or complex fraud cases. Their data showed that when investigations were handled by officers who had specialist training in sexual offences, case attrition rates decreased.
+
+Some sexual assault support service workers raised concerns about police responses in interviews with researchers.
+
+One spoke about a victim-survivor who “presented very heightened to police [and] basically was told settle down or we’ll arrest you”.
+
+Detectives described difficulties obtaining rape kit forensic tests at public hospitals, including cases where they had to drive victim-survivors up to seven hours for a test, or where qualified hospital staff were not available to conduct tests.
+
+“We’ve got a hospital that is literally 250 metres from the police station,” one officer said. “If somebody turns up at 2am reporting a rape, you’re not getting them back here until at least 9am in the morning.”
+
+Another said: “We’ve been told there is someone on call 24 hours every day of the year to do the kits locally. But they’re not picking up the phone.”
+
+after newsletter promotion
+
+In one case recounted by a detective, a victim-survivor waited 14 hours in an emergency ward and was then told to “do their own swabs”.
+
+“This is a regular occurrence.”
+
+Detectives working on sexual assault cases also expressed frustration about the decisions of prosecutors not to proceed with cases in court; they said the DPP did not have the same accountability measures as the police.
+
+“The DPP get rid of cases by saying ‘I don’t believe what she said because they didn’t act how a rape victim should’,” one officer said.
+
+Another said: “Victim trust is affected when they’re reassured by police that it’s a good case, and then the DPP decides no.”
+
+The study looked at more than 19,000 sexual assault allegations made to police between 2018 and 2022. It found that only 36% were considered “solved”. Of the remainder, 31% were “withdrawn by the victim-survivor”, 11% were deemed by police to be not substantiated, and 22% considered “unsolved”.
+
+The chief executive of the Queensland Sexual Assault Network (Qsan), Angela Lynch, said data showing nearly one-third of sexual violence cases were withdrawn was “very concerning” and pointed to “larger systemic issues and barriers for victims”.
+
+“These issues unfortunately are consistent with frontline sexual violence worker and victim-survivor experience. Delays in the system are a huge impediment to victim-survivors being able to continue to engage and these, along with other issues, can leave [them] with an impression their case is not a priority.”
+
+She said Qsan supported a specialist response to sexual violence, including by police.
+
+The authors of the new report – titled Attrition of sexual offences in police investigations: Exploring police, case and system factors that lead to withdrawn and unfounded outcomes – made a number of recommendations, including that police should “invest in specialist domestic, family and sexual violence investigation units”.
+
+The Queensland police service recently closed its specialist domestic and family violence and vulnerable persons command.
+
+The report researchers also argued that general duties officers should receive “foundational” training about sexual offences. They said officers and prosecutors should be required to advise victim-survivors personally when a case is not proceeding to prosecution.
+
+The Queensland police service was contacted and offered the opportunity to comment.

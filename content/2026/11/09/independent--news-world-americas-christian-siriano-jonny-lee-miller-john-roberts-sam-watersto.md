@@ -1,0 +1,328 @@
+---
+title: Celebrity birthdays for the week of Nov. 15-21 include Christian Siriano and
+  Allison Janney
+source_url: https://www.independent.co.uk/news/world/americas/christian-siriano-jonny-lee-miller-john-roberts-sam-waterston-barry-jenkins-b3081982.html
+source_site: The Independent
+source_slug: independent
+description: Celebrities having birthdays during the week of Nov. 15-21 include “Project
+  Runway” winner and designer Christian Siriano, “Mom” actor Allison Janney and comedian
+  Pete Davidson
+image: https://static.independent.co.uk/2026/11/09/19/2_26_CFDA_Fashion_Awards_29492.jpg?width=1200&height=800&crop=1200:800
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T23:51:56Z'
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
+people:
+- Aaron Lines
+- Adam Driver
+- Ahmad Rashad
+- Alex James
+- Allison Janney
+- Always Sunny
+- Andrea Marcovicci
+- Andrea Riseborough
+- Andrew Davis
+- Animal House
+- Ann Curry
+- Anni-Frid Lyngstad
+- Arrow
+- Ashley Fink
+- Band Perry
+- Barry Jenkins
+- Becker
+- Bell Biv DeVoe
+- Ben Wilson
+- Better Than Ezra
+- Beverly D’Angelo
+- Big Love
+- Billy Currington
+- Bjork
+- Blue Bloods
+- Blur
+- Bo Derek
+- Bob Gaudio
+- Bob Gunton
+- Boys Don’t Cry
+- Brandon Call
+- Braveheart
+- Brenda Vaccaro
+- Brian Ritchie
+- Broken Bones
+- Broken Bridges
+- Brooklyn Bridge
+- Brothers Osborne
+- Browan Lollar
+- Bryan Abrams
+- Callie Thorne
+- Calvin Klein
+- Cam
+- Carly Rae Jepsen
+- Carter
+- Casey Moss
+- Chad Kroeger
+- Chauncey Hannibal
+- Cherry Jones
+- Chloe Sevigny
+- Christian Siriano
+- Christina Vidal
+- Chuck
+- Cody Linley
+- Color Me Badd
+- Cypress Hill
+- Daisy Fuentes
+- Damon Wayans Jr
+- Dan Bakkedahl
+- Danny DeVito
+- Dave Kushner
+- David Carr
+- David Leisure
+- David Ramsey
+- Delroy Lindo
+- Diana Krall
+- Dick Cavett
+- Dick Smothers
+- Dierks Bentley
+- Dylan Walsh
+- Dynasty
+- Elementary
+- Eli Stone
+- Elizabeth Perkins
+- Emma Dumont
+- Empty Nest
+- Erika Alexander
+- Estelle Parsons
+- Glee
+- Glynnis O’Connor
+- Goldie Hawn
+- Graham Parker
+- Halloweentown
+- Hannah Montana
+- Harold
+- Harry Lennix
+- Heroes
+- Hill Street Blues
+- Hunger Games
+- Iron Man
+- Iron Man,” TV’s “Popular
+- Isaac Hanson
+- Jack Ingram
+- Jacky Ward
+- Jacob Pitts
+- Jaina Lee Ortiz
+- James Widdoes
+- Jameson Parker
+- Jared Followill
+- Jason Albert
+- Jay Leno
+- Jena Malone
+- Jeremy Jordan
+- Jersey Girl
+- Jesse Sandoval
+- Jim Brickman
+- Jimmi Simpson
+- Jimmy Brown
+- Jodie Foster
+- Joe Walsh
+- Joel McHale
+- Joey Williams
+- John Roberts
+- Jonny Lee Miller
+- Josh Turner
+- Joshua Gomez
+- Judy Gold
+- Judy Woodruff
+- Juliet Mills
+- Justin Cooper
+- Kathleen Quinlan
+- Keith Burns
+- Kelly
+- Kelsi Osborn
+- Kevin Eubanks
+- Kevin Nealon
+- Kim Wilde
+- Kimberly J. Brown
+- King of the Hill,” “NewsRadio
+- Kings of Leon
+- Kirk Hammett
+- Kumar Escape
+- La Femme Nikita
+- Lauren Hutton
+- Laurence Luckinbill
+- Law & Order
+- Leslie Bibb
+- Liar
+- Lil’ Mo
+- Linda Evans
+- Lindsey Haun
+- Lisa Bonet
+- Living Single
+- Livingston Taylor
+- Lonnie Jordan of War
+- Lorna Luft
+- Lorne Michaels
+- Lost Boyz
+- Maggie Gyllenhaal
+- Marg Helgenberger
+- Marina de Tavira
+- Marisa Ryan
+- Marlo Thomas
+- Martha Plimpton
+- Martin Scorsese
+- Mary Elizabeth Mastrantonio
+- Matt Sorum
+- Medium
+- Meg Ryan
+- Mekia Cox (“Secrets
+- Metallica
+- Michael Clifford
+- Michael Irby
+- Michael Strahan
+- Miguel Sandoval
+- Mike D
+- Mike Epps
+- Mike Jones
+- Ming-Na (“Marvel
+- Missi Pyle
+- Mom
+- Moonlight
+- My Name Is Earl
+- Nadine Velazquez
+- Nanny
+- Nasim Pedrad
+- Nate Parker
+- Nathan Kress
+- Nicollette Sheridan
+- Nip/Tuck
+- Noah Gray-Cabey
+- Norman Greenbaum
+- Oscar Nunez
+- Owen Wilson
+- Passions
+- Peta Wilson
+- Pete Davidson
+- Petula Clark
+- Polyphonic Spree
+- Poppa
+- Pretty Lou
+- Rachel McAdams
+- Rachel True
+- Rapper B.o.B
+- Rapper E-40
+- Rapper Fabolous
+- Rapper Tyga
+- Raquel Castro
+- Reid Perry
+- Reid Scott (“Veep
+- Rhoda
+- Rib Hillis
+- Richard Masur
+- Robert Beltran
+- Romany Malco
+- Ronnie DeVoe
+- Roseanne
+- RuPaul
+- S.H.I.E.L.D.,” “Mulan
+- Sabrina Lloyd (“Numb3rs
+- Sam Palladio
+- Sam Waterston
+- Savion Glover
+- Scream Queens
+- Sean Murray
+- Sean Young
+- Sen Dog
+- Shailene Woodley
+- Simon
+- Siva Kaneswaran
+- Sneaky Pete
+- Sophie Marceau
+- Stephen Root
+- Steve Railsback
+- Steven Curtis Chapman
+- Steven Pasquale
+- Sugarland
+- Supergirl
+- Susan Sullivan
+- Sydney Tamiia Poitier-Heartsong
+- TJ Osborne
+- Tamika Scott
+- Tammy Lauren
+- Terry Farrell
+- The Connors
+- The Fugitive,” “Holes
+- The Good Fight
+- The Good Wife
+- The Horse Whisperer
+- Tim DeLaughter
+- Tim Guinee
+- Tony Rich
+- Travis McNabb
+- Trevor Penick
+- Trick Pony
+- True Blood
+- Veronica Hamel
+- Veronica Mars
+- Virginie Ledoyen
+- Wanda
+- Wedding Crashers
+- Weeds
+- Westworld
+- William Moses
+locations:
+- Alabama
+- BLACKstreet
+- Guantanamo Bay
+- Heartland
+- Lies
+- Nashville
+- New York
+- Nickelback
+- Philadelphia
+- St. Paul
+- The Beach
+organisations:
+- ABBA
+- Beastie Boys
+- Blues Traveler
+- Good Morning America
+- Grand Hotel
+- Guns N’ Roses
+- NCIS
+- New Edition
+- News
+- O-Town
+- Project Runway
+- Roma
+- SHeDAISY
+- Station
+- The Blacklist
+- The Blind Boys
+- The Four Seasons
+- The Office
+- The Shins
+- The Tonight Show
+- The Wanted
+- The West Wing
+- Tripping Daisy
+- UB40
+- Velvet Revolver
+- Xscape
+---
+
+Celebrity birthdays for the week of Nov. 15-21:
+
+Nov. 15: Singer Petula Clark is 94. Actor Sam Waterston (“Law & Order”) is 86. Singer Anni-Frid Lyngstad of ABBA is 81. Actor Bob Gunton (TV’s “24,” film’s “The Shawshank Redemption”) is 81. Actor Beverly D’Angelo (“National Lampoon’s Vacation”) is 75. Actor-director James Widdoes (“Animal House”) is 73. News correspondent John Roberts is 70. Bandleader Kevin Eubanks (“The Tonight Show With Jay Leno”) is 69. Comedian Judy Gold is 64. Actor Rachel True (“Half and Half”) is 60. Rapper E-40 is 59. Country singer Jack Ingram is 56. Actor Jonny Lee Miller (“Elementary,” “Eli Stone”) is 54. Actor Sydney Tamiia Poitier-Heartsong (“Carter,” “Veronica Mars”) is 53. Drummer David Carr of Third Day is 52. Singer Chad Kroeger of Nickelback is 52. Drummer Jesse Sandoval (The Shins) is 52. Actor Virginie Ledoyen (“The Beach”) is 50. Actor Sean Murray (“NCIS”) is 49. Rapper B.o.B is 38. Actor Shailene Woodley is 35. Actor Emma Dumont (film’s “Oppenheimer,” TV’s “Bunheads”) is 32.
+
+Nov. 16: Actor Steve Railsback is 81. Actor David Leisure (“Empty Nest”) is 76. Actor Miguel Sandoval (“Medium”) is 75. Actor Marg Helgenberger (“CSI”) is 68. Country singer-guitarist Keith Burns of Trick Pony is 63. Jazz singer Diana Krall is 62. Actor Harry Lennix (“The Blacklist”) is 62. Guitarist Dave Kushner of Velvet Revolver is 60. Actor Lisa Bonet is 59. Actor Tammy Lauren (“Wanda at Large,” “Martial Law”) is 58. Singer Bryan Abrams of Color Me Badd is 57. Actor Martha Plimpton is 56. Actor Michael Irby (“Barry,” “The Unit”) is 54. Actor Missi Pyle (“Harold and Kumar Escape from Guantanamo Bay,” “Dodgeball”) is 54. Actor Maggie Gyllenhaal is 49. Singer Trevor Penick (O-Town) is 47. Actor Kimberly J. Brown (“Halloweentown”) is 42. Singer Siva Kaneswaran of The Wanted is 38. Comedian Pete Davidson (“Saturday Night Live”) is 33. Actor Casey Moss (“Days of Our Lives”) is 33. Actor Noah Gray-Cabey (“Heroes,” “My Wife and Kids”) is 31.
+
+Nov. 17: Singer-songwriter Bob Gaudio of The Four Seasons is 85. Movie director Martin Scorsese is 84. Actor Lauren Hutton is 83. Actor-director Danny DeVito is 82. “Saturday Night Live” producer Lorne Michaels is 82. Actor Stephen Root (“King of the Hill,” “NewsRadio”) is 75. Actor Mary Elizabeth Mastrantonio is 68. Actor William Moses is 67. Entertainer RuPaul is 66. Musician Joey Williams of The Blind Boys of Alabama is 64. Actor Dylan Walsh (“Nip/Tuck,” “Brooklyn Bridge”) is 63. Actor-model Daisy Fuentes is 60. Actor Sophie Marceau (“Braveheart”) is 60. Singer Ronnie DeVoe of New Edition and Bell Biv DeVoe is 59. Keyboardist Ben Wilson of Blues Traveler is 59. Actor David Ramsey (“Arrow,” “Blue Bloods”) is 55. Actor Leslie Bibb (Film’s “Iron Man,” TV’s “Popular”) is 53. Actor Brandon Call (“Step By Step”) is 50. Country singer Aaron Lines is 49. Actor Rachel McAdams (“Wedding Crashers,” “The Notebook”) is 48. Guitarist Isaac Hanson of Hanson is 46. Actor Justin Cooper (“Liar, Liar”) is 38. Bassist Reid Perry of The Band Perry is 38. Actor-singer Raquel Castro (“Jersey Girl”) is 32.
+
+Nov. 18: Actor Brenda Vaccaro is 87. Actor Linda Evans (“Dynasty”) is 84. Actor Susan Sullivan is 84. Country singer Jacky Ward is 80. Actor Jameson Parker (“Simon and Simon”) is 79. Actor-singer Andrea Marcovicci is 78. Singer Graham Parker is 76. Actor Delroy Lindo (“The Good Fight”) is 74. Comedian Kevin Nealon is 73. Actor Oscar Nunez (“The Office”) is 68. Actor Elizabeth Perkins is 66. Singer Kim Wilde is 66. Actor Tim Guinee (“Iron Man,” “Elementary”) is 64. Guitarist Kirk Hammett of Metallica is 64. Singer Tim DeLaughter of Polyphonic Spree (and Tripping Daisy) is 61. Actor Romany Malco (“A Million Little Things,” “Weeds”) is 58. Actor Owen Wilson is 58. Actor Dan Bakkedahl (“Life in Pieces,” “The Mindy Project”) is 58. Actor Mike Epps is 56. Actor Peta Wilson (“La Femme Nikita”) is 56. Actor Chloe Sevigny (“Big Love,” “Boys Don’t Cry”) is 52. Actor Steven Pasquale (“The Good Wife”) is 50. Rapper Fabolous is 49. Actor-director Nate Parker (“Birth of a Nation”) is 47. Rapper Mike Jones is 46. Actor Mekia Cox (“Secrets and Lies”) is 45. Actor-comedian Nasim Pedrad (“Scream Queens,” “Saturday Night Live”) is 45. Actor Christina Vidal (TV’s “Grand Hotel”) is 45. Actor Damon Wayans Jr. (“Poppa’s House”) is 44. Singer TJ Osborne of Brothers Osborne is 42. “Project Runway” winner and designer Christian Siriano is 41. Actor Nathan Kress (“iCarly”) is 34.
+
+Nov. 19: Talk show host Dick Cavett is 90. Fashion designer Calvin Klein is 84. Sportscaster Ahmad Rashad is 77. Actor Robert Beltran (“Big Love,” “Star Trek: Voyager”) is 73. Actor Kathleen Quinlan is 72. Actor Glynnis O’Connor is 71. Journalist Ann Curry is 70. Actor Allison Janney (“Mom,” “The West Wing”) is 67. Drummer Matt Sorum of Velvet Revolver (and Guns N’ Roses) is 66. Actor Meg Ryan is 65. Actor Jodie Foster is 64. Actor Terry Farrell (“Becker”) is 63. Actor Erika Alexander (“Living Single,” “The Cosby Show”) is 57. Drummer Travis McNabb (Better Than Ezra, Sugarland) is 57. Singer Tony Rich is 55. Singer Jason Albert of Heartland is 53. Country singer Billy Currington is 53. Dancer-choreographer Savion Glover is 53. Singer Tamika Scott of Xscape is 51. Rapper Lil’ Mo is 49. Actor Reid Scott (“Veep,” “My Boys”) is 49. Director Barry Jenkins (“Moonlight”) is 47. Guitarist Browan Lollar of St. Paul and the Broken Bones is 44. Actor Adam Driver is 43. Country singer Cam is 42. Rapper Tyga is 37.
+
+Nov. 20: Actor Estelle Parsons (“The Connors,” “Roseanne”) is 99. Comedian Dick Smothers is 88. Singer Norman Greenbaum is 84. Actor Veronica Hamel (“Hill Street Blues”) is 83. Broadcast journalist Judy Woodruff is 80. Musician Joe Walsh is 79. Actor Richard Masur (“One Day at a Time,” “Rhoda”) is 78. Actor Bo Derek is 70. Drummer Jimmy Brown of UB40 is 69. Actor Sean Young is 67. Pianist Jim Brickman is 65. Actor Ming-Na (“Marvel’s Agents of S.H.I.E.L.D.,” “Mulan”) is 63. Rapper Mike D of the Beastie Boys is 61. Rapper Sen Dog of Cypress Hill is 61. Actor Callie Thorne (“Rescue Me,” “Homicide: Life on the Street”) is 57. Actor Sabrina Lloyd (“Numb3rs”) is 56. Actor Joel McHale (“Community”) is 55. Actor Marisa Ryan (“New York Undercover”) is 52. Country singer Dierks Bentley is 51. Actor Joshua Gomez (“Chuck”) is 51. Country singer Josh Turner is 49. Actor Nadine Velazquez (“My Name Is Earl”) is 48. Actor Jacob Pitts (“Sneaky Pete,” “Justified”) is 47. Actor Andrea Riseborough (“National Treasure”) is 45. Actor Jeremy Jordan (“Supergirl”) is 42. Actor Ashley Fink (“Glee”) is 40. Bassist Jared Followill of Kings of Leon is 40. Actor Jaina Lee Ortiz (“Station 19”) is 40. Actor Cody Linley (“Hannah Montana”) is 37. Guitarist Michael Clifford of 5 Seconds of Summer is 31.
+
+Nov. 21: Actor Laurence Luckinbill is 92. Actor Marlo Thomas is 89. Actor Juliet Mills (“Passions,” “Nanny and the Professor”) is 85. Actor Goldie Hawn is 81. Director Andrew Davis (“The Fugitive,” “Holes”) is 80. Keyboardist Lonnie Jordan of War is 78. Singer Livingston Taylor is 76. Actor-singer Lorna Luft is 75. Actor Cherry Jones (“The Horse Whisperer”) is 70. Bassist Brian Ritchie of Violent Femmes is 66. Contemporary Christian singer Steven Curtis Chapman is 64. Actor Nicollette Sheridan is 63. Singer Bjork is 61. Singer Chauncey Hannibal of BLACKstreet is 58. Bassist Alex James of Blur is 58. TV personality Rib Hillis (“Extreme Makeover: Home Edition”) is 56. Rapper Pretty Lou of Lost Boyz is 55. Football player-turned-TV host Michael Strahan (“Good Morning America,” “Live With Kelly and Michael”) is 55. Actor Marina de Tavira (“Roma”) is 53. Country singer Kelsi Osborn of SHeDAISY is 52. Actor Jimmi Simpson (“Westworld,” “It’s Always Sunny in Philadelphia”) is 51. Actor Lindsey Haun (“True Blood,” “Broken Bridges”) is 42. Actor Jena Malone (“Hunger Games” films) is 42. Singer-songwriter Carly Rae Jepsen is 41. Actor Sam Palladio (“Nashville”) is 40.
