@@ -1,0 +1,53 @@
+---
+title: The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement
+source_url: https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/
+source_site: Wired
+source_slug: wired
+description: A shifting political landscape gives right-to-repair advocates their
+  best shot yet at meaningful federal reform.
+image: https://media.wired.com/photos/6aedfe0f80b2626fa065567c/191:100/w_1280,c_limit/GettyImages-2302892700.jpg
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T16:21:29Z'
+categories:
+- Technology & Software
+- Science
+- News & Politics
+people:
+- Jake Johnson
+- Josh Turek
+- Kevin O’Reilly
+- Nathan Proctor
+- O'Reilly
+locations:
+- Iowa
+- Iran
+- Minnesota
+- St. Paul
+- US
+organisations:
+- Congress
+- DMCA
+- Fulu
+- PIRG
+- WIRED
+---
+
+Right-to-repair policies weren’t the headline issue in the midterms, but lawmakers across party lines ran on fixing the systems that lock buyers out.
+
+Iowa senator-elect Josh Turek and presumptive Minnesota state representative Jake Johnson both centered repair policies in their platforms, focusing on issues that affect farmers and their equipment. (As of publication, Johnson’s race has not yet been called and may be headed to a recount.) In St. Paul, Minnesota, voters also passed a measure ensuring renters' right to repair with overwhelming support.
+
+The right-to-repair movement, propelled by advocates in the US and internationally, pushes lawmakers for rules that prevent manufacturers from locking owners out of their own devices. Repair efforts tend to be bipartisan, with support ranging from consumers to farmers to wheelchair users.
+
+“A political climate where people want policies that stand up for the little guy, help reduce unnecessary costs, and work in a bipartisan way—that’s a very good environment for right-to-repair,” says Nathan Proctor, senior director of PIRG’s right-to-repair campaign, in a text to WIRED.
+
+Advancing right-to-repair legislation would be a step toward the larger ownership battles taking place in the US. People are angry that companies are turning everything into a subscription service or using software locks to restrict people from modifying or fixing their gear. That meshes with a long-simmering fury about the broader political climate, where tariffs, a memory shortage, and an extremely unpopular war with Iran have driven prices up on just about everything.
+
+As Kevin O’Reilly, executive director of Fulu, an advocacy group focused on consumer digital ownership and product rights, points out, the efforts to claw back control over devices mimic the broader message voters sent at the ballot box.
+
+“There’s a lot to be excited about,” O’Reilly tells WIRED. “People want things to be more affordable, politics to be less polarized, and Congress to solve problems that affect them.”
+
+That discontent points straight to the root of the problem: Section 1201 of the Digital Millennium Copyright Act (DMCA). The 1998 federal statute made it illegal to circumvent digital locks, enabling companies to punish people who break them with possible prison time. Repair advocates have widely decried the legislation, as companies have used it to prevent people from fixing their devices without software access.
+
+For advocates, the reshuffled Congress is the cleanest legislative target in decades. With voter frustration cutting cleanly across party lines, O'Reilly suggests the mandate is hard to ignore.
+
+“If I were a new or returning member of Congress,” O’Reilly says, “I would see DMCA reform as a no-brainer.”

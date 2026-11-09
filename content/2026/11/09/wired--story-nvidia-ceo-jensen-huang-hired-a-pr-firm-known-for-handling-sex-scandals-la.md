@@ -1,0 +1,67 @@
+---
+title: Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year
+source_url: https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/
+source_site: Wired
+source_slug: wired
+description: The Nvidia CEO began working with consultants from Heller as early as
+  October 2025, around the same time he was first linked to a suspected Chinese spy.
+image: https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/191:100/w_1280,c_limit/Jensen%20Huang.jpg
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T16:19:45Z'
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Personal Finance & Investing
+people:
+- Alice Huang
+- Anthony Weiner
+- Chuck Schumer
+- Jane Harman
+- Jeffrey Toobin
+- Jensen Huang
+- John Rizzo
+- Madison
+- Mario Batali
+- Megaspeed
+- Risa Heller
+locations:
+- California
+- China
+- New York City
+- US
+organisations:
+- Heller
+- Heller’s
+- Megaspeed
+- New York Magazine
+- New York Times
+- Nvidia
+- The New York Times
+- US Commerce Department
+- WIRED
+---
+
+Nvidia CEO Jensen Huang began working with a crisis communications firm known for handling public scandals a year before the CEO admitted to having an extramarital affair with a woman suspected by US intelligence of being a Chinese spy. The firm, Heller, has handled Huang’s behind-the-scenes communications since at least October 2025, according to two sources familiar with the matter.
+
+Risa Heller, the firm’s founder, has built a reputation as a fixer for powerful men facing allegations of sexual misconduct and other personal controversies, according to a 2023 New York Magazine profile. Her past clients and people who have sought her advice include former congressman Anthony Weiner, chef Mario Batali, and writer Jeffrey Toobin. Heller also handles corporate communications and issues unrelated to personal controversies for its clients.
+
+Heller’s public relations consultants were initially believed to be hired for matters related to Huang’s personal life, including his family’s philanthropic endeavors, according to people familiar with the arrangement. The firm frequently communicated with Huang and his daughter Madison, a product marketing director at Nvidia who has become an increasingly prominent figure within the company, sources tell WIRED. It’s not clear whether Heller’s early work with the Huang family involved Huang’s affair.
+
+| Got a Tip? |
+| --- |
+| Are you a current or former Nvidia employee who has information to share? We’d like to hear from you. Using a nonwork phone or computer, contact WIRED reporters securely on Signal at ChaoticGoode.12 & Peard33.24 |
+
+In 2024, Huang began appearing in public with a woman who goes by Alice Huang, a former executive at the Singapore-based chip buyer Megaspeed, according to The New York Times. Megaspeed was created when it split off from a Chinese gaming and cloud computing firm in 2023, a few months after the US government began restricting exports of advanced semiconductors to China, including those developed by Nvidia. A subsidiary of Megaspeed later became a major buyer of Nvidia chips.
+
+In early October 2025, Jensen Huang’s business dealings with Megaspeed and his connection to Alice became public in a lengthy New York Times report, which alleged that the US Commerce Department was investigating whether the company was helping Chinese firms evade American export controls through its subsidiaries.
+
+The report caused tensions to rise within Nvidia’s top ranks, and Jensen was rankled by the story, according to sources. By the end of that month, Nvidia’s internal communications teams had been instructed to include Heller’s firm on any press inquiries about Huang, whether personal or professional, according to people familiar with the matter.
+
+When reached by email, a representative for Heller referred WIRED to Nvidia. Nvidia did not immediately respond to requests for comment.
+
+US intelligence officials have determined that Alice (who has no known relation to Jensen) is a spy working for the Chinese government, according to the Times. Nvidia initially said that Jensen’s interactions with Alice were part of routine business with clients. But on Sunday, Huang acknowledged that his relationship with her was romantic in nature. In an email to Nvidia staff, he said he owed them and his family an apology. “I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry,” Huang wrote.
+
+Nvidia’s board of directors announced it was opening an independent investigation into Jensen’s activities. It said it had no reason to believe that national security or confidential Nvidia information was compromised.
+
+Before founding her firm, Risa Heller worked for Jane Harman, then a Democratic congresswoman from California, and later served as Democratic senator Chuck Schumer’s New York City press secretary. Nvidia’s head of public policy communications, John Rizzo, also previously worked for Schumer, serving as his deputy communications director.

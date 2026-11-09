@@ -1,0 +1,33 @@
+---
+title: Audioengine Made a Kit for You, and It Was All Yellow
+source_url: https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/
+source_site: Wired
+source_slug: wired
+description: The canary-yellow set is equal parts design and audio performance, and
+  includes speakers, speaker stands, a turntable, and a subwoofer.
+image: https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/191:100/w_1280,c_limit/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T16:19:45Z'
+categories:
+- Technology & Software
+- Science
+- Music
+people:
+- Wassily Kandinsky
+locations: []
+organisations:
+- Audioengine
+- Crosley
+---
+
+The artist Wassily Kandinsky said, “Color is a power that directly influences the soul.” But in the realm of home stereo gear, the color wheel gets minimal airtime, with equipment typically available in scant options: silver-faced classics, wood-grain boxes, all manner of modern reflective piano black, and not a whole lot else.
+
+Not so with Audioengine, which has painted a neat little world with its annual Color of the Year kit: a suite of home audio components, including laptop speakers, a subwoofer, a turntable, and speaker stands. Each year, the brand drops a new edition of the series in a different color; in the launch year of 2024, a dusky matte blue; in 2025, a subtle metallic green; and now in 2026, a lustrous and smooth egg-yolk yellow.
+
+Having a home audio system in such an unusual color palette is, to me, irresistibly joyful; whenever I look at these stereo components, I can’t help but smile. And the tech holds up, too. After months of testing the suite, I was colored impressed. Straight out of the box, it's a great option for music lovers who value the look *and* sound of their home stereo setup.
+
+## Four Pops of Color
+
+The anchoring component of the Color of the Year suite are the A2+ Gen 3 Wireless Speakers. At 6 inches tall by 4 inches wide, they’re sized like laptop speakers—and get high marks for that purpose as WIRED’s top pick for computer speakers—but that’s really just the start of what they can do. Alone, the speakers pack enough power for a small home theater. They're also easy to integrate into a bigger system, thanks to their included stereo mini-jack inputs, USB inputs, and both stereo RCA inputs and outputs. To make the sound quality more targeted, place the A2+ speakers atop the included DS1M Desktop Stands, and angle them 15 degrees up toward your ears.
+
+This year, Audioengine expanded its Color of the Year suite to include a color-matched Bluetooth turntable in collaboration with Crosley. Called the C6, it's a manual two-speed machine with a nice, heavy steel platter and medium-density fiberboard (MDF) plinth. It's Bluetooth-enabled and features a built-in preamp that lets you directly connect your A2+ speakers—wired or wireless—without a need for additional components.
