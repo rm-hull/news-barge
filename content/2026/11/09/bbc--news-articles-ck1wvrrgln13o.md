@@ -1,0 +1,74 @@
+---
+title: Cruise ship pianist rescued from sea after nine hours in Pacific Ocean
+source_url: https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Two US fishermen say they spotted the man treading water around 20 miles
+  (32km) off the Californian coast.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg
+published: '2026-11-09T00:00:00Z'
+scraped_at: '2026-11-09T06:11:43Z'
+categories:
+- UK
+- News & Politics
+- Travel
+- Sports
+people:
+- Adam Yacenda
+- Grant Garrett
+- Sean Norton
+locations:
+- Australia
+- Catalina Island
+- Pacific Ocean
+- Royal Caribbean
+- Sydney
+- US
+organisations:
+- BBC
+- CBS News
+- Coast Guard
+- Good Samaritan
+- Newport Beach Lifeguard Battalion
+- Newport Beach Lifeguards
+- Ovation of the Seas
+- Royal Caribbean Cruises Ltd
+- Royal Caribbean Group
+- US Coast Guard
+---
+
+![The Royal Caribbean Cruises Ltd. Ovation of the Seas cruise ship docked in Sydney, Australia](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg)
+
+The man identified himself as a pianist on the Ovation of the Seas cruise ship
+
+**A cruise ship pianist was found treading water around 20 miles (32km) off the Californian coast after falling overboard, according to US media reports.**
+
+Two fishermen discovered the Royal Caribbean employee near Catalina Island on Friday and officials believe he may have been in the Pacific Ocean for nine hours, according to CBS News, the BBC's US news partner.
+
+"I'm like, 'Yeah, it's a human being. Stop the boat; let's get all of our lines in," Grant Garrett was quoted as saying, recalling the moment he and Sean Norton spotted him.
+
+The man, who has not yet been identified, was taken to hospital in a stable condition, the US Coast Guard told the BBC, adding it was investigating the incident.
+
+The fishermen say the man identified himself as a pianist on a 14-deck cruise ship called the Ovation of the Seas.
+
+"The only thing he said to me was, 'Thank you. I thought I was gonna die,'" Norton said.
+
+The Coast Guard said in a statement it had received a report from "a Good Samaritan who recovered a conscious individual from the water".
+
+The person was handed over to Newport Beach Lifeguards, who confirmed he was an employee of the Ovation of the Seas cruise ship, it said.
+
+Lifeguard officials believe he may have fallen overboard at around 02:30, about nine hours before he was discovered.
+
+"It was approximately 15 to 20 miles offshore, pretty much in the middle of the ocean," Newport Beach Lifeguard Battalion Chief Adam Yacenda told CBS.
+
+Norton credited the man's survival to unusually warm ocean temperatures.
+
+"You have this crazy super El Niño year. This guy was in the water for probably 10 hours, but the water's 76 degrees," Norton said, which equates to about 24C.
+
+"A different year, no way he makes it," Norton said.
+
+The developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring the Pacific, with ocean temperatures about 3.05C above average.
+
+In a statement to the BBC, a Royal Caribbean Group spokesperson said: "We are providing support and assistance to our crew member during this difficult time.
+
+"To respect the privacy of our employee, we have no additional details to share."
