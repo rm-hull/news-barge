@@ -1,0 +1,69 @@
+---
+title: Senate advances bill to speed up permit reviews for infrastructure projects
+source_url: https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects
+source_site: The Guardian
+source_slug: guardian
+description: Chamber voted 73-25 to formally take up bill that will shorten timelines
+  to start energy and datacenter projects
+image: https://i.guim.co.uk/img/media/45348d68d25eb0d8e900408b066ef3a3e0e37684/1197_0_5670_4536/master/5670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3122b6c100551e55f1d208bb54dfce2f
+published: '2026-11-10T00:00:00Z'
+scraped_at: '2026-11-10T01:32:56Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Donald Trump
+- Hakeem Jeffries
+- Martin Heinrich
+- Mike Lee
+- Sheldon Whitehouse
+- Shelley Moore Capito
+locations:
+- America
+- New Mexico
+- New York
+- Rhode Island
+- U.S
+- Utah
+- West Virginia
+organisations:
+- Congress
+- House
+- NEPA
+- National Wildlife Federation
+- Senate
+- Sierra Club
+---
+
+The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudiated Donald Trump and congressional Republicans.
+
+The Senate voted 73-25 to formally take up the bill, which senators and the president have pushed as a way to meet growing demand for electricity and other forms of energy that now face years-long delays in getting to the grid.
+
+The legislation’s sweeping changes would shorten the timeline to get big energy projects started – both for clean energy and fossil fuel projects – and make sure datacenters pay for the energy they use. Anger over artificial intelligence datacenters and rising electricity helped usher in a wave of Democrats pledging to clamp down on the massive, energy-hungry structures.
+
+Trump urged senators to vote for it, calling it a “BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE” in a social media post on Sunday. The bill will “ensure that we can build Pipelines, Mines, and Power Plants faster than ever before, lowering Energy Costs for American Families”, Trump wrote.
+
+Major industry groups representing developers in clean energy and in the oil and gas sector also support the bill.
+
+However, many environmental organizations have panned the deal because they say it would lock in fossil fuel development, weaken environmental safeguards and make it harder for communities to challenge energy project approvals.
+
+Midterm results could complicate bill’s passage in lame-duck sessions.
+
+While the bill has received bipartisan support, the Democrats’ sweeping midterm win could complicate its passage.
+
+Some Democrats say the party should use its stronger position in the next Congress to pass legislation that produces needed clean energy, but limits expansion of oil, natural gas and mining. Some critics have said the permitting bill as proposed could lead to a vast increase in exports of liquefied natural gas and facilitate a “reckless” build-out of datacenters powered by natural gas.
+
+Hakeem Jeffries, the House minority leader, a New York Democrat who is expected to become speaker in January, criticized the bill last week, with his office saying it “falls short” in a number of areas.
+
+Major environmental groups, including the Sierra Club and National Wildlife Federation, have strongly opposed the measure in recent days, citing concerns about its limits on judicial review and changes to the National Environmental Policy Act and Endangered Species Act. The environmental policy law, known as NEPA, requires agencies to consider a project’s possible impacts and allows the public to be heard before a project is approved, but supporters of an overhaul say that causes yearslong delays in federal permitting.
+
+The bill’s four main champions – two Democrats and two Republicans – released a detailed set of amendments Saturday designed to bolster support for the legislation.
+
+The four senators, who lead the chamber’s energy and environment panels, negotiated the deal weeks before the election. Republican Sens. Shelley Moore Capito, a Republican senator of West Virginia, Mike Lee, a Republican senator of Utah, Martin Heinrich a Democratic senator of New Mexico and Sheldon Whitehouse, a Democratic senator of Rhode Island, say Americans are tired of paying more in utility bills while projects that could lower costs sit stuck in the planning phase for years.
+
+“Americans can’t afford to wait for lower electricity prices. We need to pass this bill now,” said Heinrich.
+
+If passed, the bill will save households billions on electricity costs, create jobs, cut emissions and force big corporations to pay their full share for datacenters instead of pushing energy costs on consumers, Heinrich said.
+
+Capito called the bill “a win for America”, adding: “We cannot let this moment pass by. The reality is this, over the next several years, we will have no choice but to increase our national energy production. This is an unprecedented opportunity … to come together to show the American people we are listening to you.”
