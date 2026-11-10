@@ -1,0 +1,60 @@
+---
+title: Spain clears Ceuta port migrant camp as 300 return to Morocco
+source_url: https://www.euronews.com/2026/11/10/spain-clears-ceuta-port-migrant-camp-as-300-return-to-morocco
+source_site: Euronews
+source_slug: euronews
+description: 'Around 5,800 people are still living in emergency facilities set up
+  after mass arrivals in the territory at the end of July. #EuropeNews'
+image: https://images.euronews.com/articles/stories/09/98/67/20/1200x675_cmsv2_8f924b60-9fb5-57fa-b890-36b5be8c5736-9986720.jpg
+published: '2026-11-10T00:00:00Z'
+scraped_at: '2026-11-10T19:42:23Z'
+categories:
+- Europe
+- News & Politics
+- Travel
+- Society & Culture
+people:
+- Elma Saiz
+locations:
+- Ceuta
+- El Tarajal
+- Morocco
+- Spain
+organisations:
+- Aecid
+- Audiencia Nacional
+- CATE
+- Centre for the Temporary Stay of Foreigners
+- El Faro de Ceuta
+- Interior Ministry
+- Ministry of Inclusion, Social Security and Migration
+- National High Court
+- National Police
+- SUP
+- Spanish Agency for International Development Cooperation
+- Unified Police Union
+---
+
+## Around 5,800 people are still living in emergency facilities set up after mass arrivals in the territory at the end of July.
+
+Spanish police on Monday launched a fresh operation to clear a temporary migrant camp in the port of Ceuta, Spain’s exclave on the North African coast, with the aim of shutting the site down. According to local media, the move has led to a rise in the number of Moroccans going home.
+
+Officers from Spain’s National Police returned to the camp before 7am, a day after a first operation there on Sunday. The migrants are being moved to other accommodation provided by the government or to the Centre for the Temporary Stay of Foreigners (CATE) in El Tarajal, where their immigration status is checked.
+
+Those who say they want to go back to Morocco can return voluntarily. Others are being transferred to facilities run by the Ministry of Inclusion, Social Security and Migration.
+
+Under the government’s plan, all seven temporary reception facilities set up around the city after the mass arrivals at the end of July will be closed in stages. Together they have about 7,000 places and currently house around 5,800 registered people. The dismantling began on Sunday, when 50 tents belonging to the Spanish Agency for International Development Cooperation (Aecid) were taken down on the port’s west quay.
+
+Using port land for reception facilities had been criticised on security grounds, because the port is considered strategically important. In September, the Interior Ministry temporarily tightened maritime security and raised the port’s alert to level 2. It said the camp had changed the normal operating and protection conditions at the site.
+
+The Unified Police Union (SUP) challenged the decision to set up the camp in court and asked for its opening to be suspended. Spain’s National High Court, the Audiencia Nacional, refused to grant that interim measure.
+
+## **More than 300 Moroccans return home**
+
+The closure of the camp has sped up voluntary departures. Local newspaper El Faro de Ceuta reports that more than 300 Moroccans have gone home in the past two days. They had spent more than three months in Ceuta waiting for their cases to be resolved.
+
+Their decision to return may have been influenced by poor prospects of being allowed to stay in Spain and by the rejection of most asylum applications.
+
+According to the latest official figures, 14,818 migrants have returned to Morocco since an estimated 80,000 arrivals in late July. Of these, 14,180 left voluntarily and 638 were deported.
+
+Elma Saiz, Spain’s migration minister, said 6,113 people had so far been through the screening process. Meanwhile, 3,650 minors remain in the care of Ceuta’s local authorities.
