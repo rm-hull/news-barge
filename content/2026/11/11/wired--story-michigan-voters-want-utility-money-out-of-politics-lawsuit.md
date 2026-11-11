@@ -1,0 +1,89 @@
+---
+title: Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities
+  Are Suing
+source_url: https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/
+source_site: Wired
+source_slug: wired
+description: Amid rising electricity costs, Michiganders decisively voted for a ballot
+  proposition to curtail the ability of utilities to spend on elections—a move utilities
+  say limits their freedom of speech.
+image: https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/191:100/w_1280,c_limit/science_michigan_utilities_money_politics2.jpg
+published: '2026-11-11T00:00:00Z'
+scraped_at: '2026-11-11T19:33:23Z'
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Personal Finance & Investing
+people:
+- Daniel Weiner
+- David Pomerantz
+- Gretchen Whitmer
+- Katie Carey
+- Matt Hall
+- Samuel Bagenstos
+- Susan Collins
+locations:
+- Alabama
+- Connecticut
+- Georgia
+- Illinois
+- Maine
+- Michigan
+- New Jersey
+- New Mexico
+- Ohio
+- US
+organisations:
+- Brennan Center for Justice
+- Bridge Michigan
+- Consumers Energy
+- DTE
+- Elections and Government
+- Energy & Policy Institute
+- Energy Bill Lab
+- House
+- Michigan Energy First
+- PAC
+- PACs
+- ProPublica
+- Public Utilities Commission
+- The Detroit News
+- WIRED
+---
+
+Michigan residents overwhelmingly passed a ballot measure last week intended to restrict the ability of utilities and state contractors to influence politics. Now, the utilities are fighting back.
+
+In a lawsuit filed last Thursday, the two major utilities in Michigan, Consumers Energy and DTE, argue that the measure—dubbed Proposal 2—threatens their First and 14th Amendment rights.
+
+The ballot measure, which passed with 81 percent of the vote, amends the state’s campaign finance laws to put restrictions on donations for both utilities and companies with more than $250,000 annually in state and local government contracts. The new language explicitly bans political donations from utilities, contractors, and high-level employees, lobbyists, and their immediate family members. The ballot measure also tightens the state’s regulations around disclosures for political ads, mailers, and other forms of communication.
+
+Michigan was part of the blue tsunami election where energy prices and government corruption—and data centers—played a huge role in getting Democrats elected and getting ballot measures like this passed. The state is a major hub for data center development, with at least 26 projects planned across the state as of July.
+
+The utilities have supported that development: the industry has lobbied in the past for tax breaks for data centers, and DTE has proposed building two new massive gas plants to handle potential data center load, at a cost of $6.4 billion, with consumers potentially on the hook. Michiganders have seen energy bills increase by 10 percent over the past 12 months, the fourth-largest increase in the US, according to Energy Bill Lab.
+
+“Michigan really is ground zero right now for a utility accountability wave that is quite national,” says David Pomerantz, the director of the Energy & Policy Institute, a nonprofit utility watchdog.
+
+The ballot initiative, the utilities say in the lawsuit, was drawn up as “a means of excluding Plaintiffs from critical aspects of the political debate.”
+
+Consumers spokesperson Katie Carey writes in an email that the proposal “unfairly targets a Michigan business, its Michigan employees, and their family members from exercising their constitutionally protected rights to participate in the political process, while allowing out-of-state special interest groups and billionaires to continue flooding Michigan with political spending. Michiganders should not lose their First Amendment rights because of where they work.”
+
+DTE did not respond to WIRED’s request for comment.
+
+Utilities are regulated by state-level bodies, either elected or appointed by the governor, which Pomerantz says means that there’s much more incentive to participate in pay-to-play schemes. Corruption scandals involving utilities have rocked neighboring states like Ohio and Illinois. In the lawsuit, DTE and Consumers Energy say there is “no scandal, no exchange of official acts for money, no examples whatsoever.”
+
+Daniel Weiner, the director of the Elections and Government program at the Brennan Center for Justice, says that the new language set up by the ballot proposal “moves Michigan toward being one of the states that more effectively regulates this kind of political giving, where there's a particularly heightened risk of corruption.”
+
+The lawsuit states that the new provisions “goes well beyond the laws of any other state.” Weiner points out that it’s unusual, but not unprecedented, for states to restrict or prohibit political donations from the family members of people affiliated with government contractors. New Jersey, Connecticut, and New Mexico have similar language in their laws. However, these laws make no specific mention of utilities. (Other states, including Georgia and Alabama, do have restrictions on utilities making political donations.)
+
+“If you're going to have an effective restriction on major state contractors pouring tons of money into campaigns, it cannot just be limited to the entity that holds the contract—that just creates an enormous loophole,” Weiner says, pointing to a recent ProPublica story about a government contractor who used a shell company to funnel donations to a super PAC affiliated with Senator Susan Collins of Maine.
+
+A 2023 analysis from local outlet Bridge Michigan found organizations linked to the two utilities had given more than $2 million to state politicians via their PACs. But the companies do much of their political spending via dark money distributed by affiliated outside groups, Pomerantz says. Michigan Energy First, a 501(c)4 linked to DTE, has received more than $51 million in donations since 2014, according to the Energy & Policy Institute; DTE gave $8 million to Michigan Energy First from September 2025 through August 2026. (DTE has repeatedly denied any connections between the company and this group, despite the fact that it has been staffed by company executives.)
+
+The Detroit News reported last year that Michigan Energy First had given $550,000 to a group associated with Governor Gretchen Whitmer and $750,000 to state House Speaker Matt Hall in 2024, amid an influx of data center proposals in the state. The donations also arrived right before the Public Utilities Commission approved a rate hike for customers. In total, Michigan Energy First had given $1.8 million to the Whitmer-affiliated group since its founding in 2020. (DTE told the outlet that any insinuation that it expected preferential treatment for its contributions was “blatantly false.”)
+
+Michigan utilities spent a little over $200,000 in an attempt to defeat the measure.
+
+“We are fully confident in the legality of Proposal 2 and look forward to seeing this out in court,” says Samuel Bagenstos, legal counsel for the groups behind the measure. “The language of Proposal 2 was carefully crafted with constitutionality in mind, and we are well prepared for this expected legal challenge. We intend to vigorously defend the will of Michiganders who overwhelmingly approved this measure just one week ago.”
+
+Even if they had spent a massive amount of money to defeat the initiative, “they probably still would have lost, because they're so unbelievably unpopular,” Pomerantz says.
