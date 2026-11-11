@@ -1,0 +1,66 @@
+---
+title: '‘No one is in charge’: social care system in England in chaos, Louise Casey
+  to say'
+source_url: https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system
+source_site: The Guardian
+source_slug: guardian
+description: Head of major review into adult social care will say that governments
+  have been ‘asleep at the wheel’ of vital system
+image: https://i.guim.co.uk/img/media/860b5a9535cfcf834db49bf2a07988a7b4b0ed12/1058_92_4917_3934/master/4917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff896f230c666888611c918d528dbbf1
+published: '2026-11-11T00:00:00Z'
+scraped_at: '2026-11-11T01:13:14Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Andy Burnham
+- Heather Hallett
+- Lady Casey
+- Louise Casey
+locations:
+- Covid-19
+- England
+- France
+- Germany
+- Japan
+- UK
+organisations:
+- Covid-19
+- Institute for Government
+- Labour
+- Nuffield Trust
+- Starmer
+---
+
+Successive governments in England have been “asleep at the wheel” on social care, leaving the system to grow as a chaotic patchwork of local services with no clear vision, Louise Casey, the head of the social care commission, is to warn.
+
+Lady Casey, who is preparing proposals for a big review of adult social care, will say the result is that in effect “no one is in charge” of a system that provides vital services for millions of vulnerable people.
+
+People’s experiences of care have varied depending on where they live, with different standards, assessment processes and waiting times, while the private care sector has grown dominant and regulation of services has often been ineffectual, she will say.
+
+She will add that England has no clear “system stewardship” for social care, making it difficult for governments to target improvements to services or translate policy into practice, unlike in comparable countries such as France, Germany and Japan.
+
+Casey is expected to call for a “new settlement” for care, “one based on values I still believe this country shares: decency, contribution and a duty to care for our neighbours, our loved ones and ourselves”.
+
+Casey’s latest robust critique of adult social care, together with her view that the system faces a “moment of reckoning”, has additional force given Andy Burnham’s ambitions to introduce a new national care service and reform care funding and the workforce.
+
+The prime minister has embraced the Casey review, accelerating its completion to next year – 12 months quicker than envisaged by the Starmer government – with the expectation that a national care service plan will be in Labour’s next election manifesto.
+
+He has already announced he would use savings from scrapping the state pension triple lock, starting in the next parliament, to target investment into a care service based on the Scottish approach of free personal care, with individuals paying for “bed and board” costs.
+
+Speaking at the annual national children and adult services conference on Wednesday, Casey will also say she has written to the Covid-19 inquiry agreeing with its findings on social care.
+
+She is expected to say: “The Covid-19 inquiry took apart the argument that a ‘protective ring’ had been thrown around care homes during the pandemic. Many old people died without their loved ones by their side. Many care workers left their jobs after what they had seen.
+
+“It is a national shame that this was allowed to happen. It should never happen again.”
+
+The Covid-19 inquiry chair, Heather Hallett, last month described the adult care sector during the pandemic as “something of an afterthought”, with care home residents and staff given insufficient protection. More than 43,000 people died from Covid-19 in UK care homes between March 2020 and July 2022.
+
+Casey has drawn on research that highlights how the lack of oversight and a “clear coherent narrative” in English social care is a “significant weakness” in the system, exacerbated by the historic low visibility of social care among successive governments.
+
+The research, by the Nuffield Trust and the Institute for Government, found the lack of clarity in the system made it difficult and slow for policy change to happen. But it warned politicians against embarking on disruptive structural changes without a clear purpose or political determination.
+
+“One last and inescapable point is that successful reform of social care requires political will and bravery to make the choices outlined throughout this report,” it said.
+
+“No amount of reorganisation of governance structures or processes will be sufficient in the absence of political impetus to drive through change and dedicate resources, time and energy to social care. Maintaining social care visibility and priority within the government’s agenda will be essential.”
