@@ -1,0 +1,119 @@
+---
+title: Crystal Palace sack boss Pierre Sage after 16 games
+source_url: https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Crystal Palace have sacked manager Pierre Sage after 16 games in charge
+  and the club bottom of the table.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg
+published: '2026-11-12T00:00:00Z'
+scraped_at: '2026-11-12T19:52:33Z'
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Alvaro Arbeloa
+- Damien Della Santa
+- Ismaila Sarr
+- Jamal Alioui
+- Jean-Philippe Mateta
+- Jens Berthel Askou
+- Michael Carrick
+- Oliver Glasner
+- Palace
+- Pierre Sage
+- Sandy Guichard
+- Sean Dyche
+- Thomas Frank
+locations:
+- Coventry
+- Crystal Palace
+- Selhurst Park
+- South London
+organisations:
+- Brentford
+- Brighton
+- Crystal Palace
+- Crystal Palacehave
+- Eagles
+- Europa League
+- Everton
+- Fulham
+- Lens
+- Ligue
+- Liverpool
+- Manchester United
+- Nottingham Forest
+- Premier League
+- Sage
+- Spurs
+- Tottenham
+- Toulouse
+---
+
+![Pierre Sage reacts during Crystal Palace's Premier League defeat by Liverpool](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg)
+
+Pierre Sage's time as Crystal Palace manager lasted just five months and 16 games
+
+**Crystal Palacehave sacked manager Pierre Sage after just five months in charge, with the club bottom of the Premier League.**
+
+Former Brentford and Tottenham boss Thomas Frank is in advanced talks to take over.
+
+Sunday's 3-1 defeat by Liverpool was Palace's fourth in succession in the Premier League.
+
+The Eagles have won just two of their opening 10 games and also have the worst defensive record in the league, conceding 24 goals.
+
+Palace are also 21st in the 36-team Europa League table, with one win from their four matches.
+
+In a statement, the club said that three members of Sage's coaching staff - Jamal Alioui, Damien Della Santa and Sandy Guichard - had also left the club.
+
+Palace added: "The club thanks Pierre and his staff for their efforts during their time in South London, and wish them well for the future.
+
+"An update on the process of appointing a new manager will be provided in due course."
+
+Sage is the second Premier League manager to be sacked this season, after Michael Carrick was also dismissed by Manchester United on Thursday.
+
+The 47-year-old Frenchman was appointed on a three-year contract in June after Oliver Glasner departed at the end of last season.
+
+He previously led Lens to a second-place finish in Ligue 1 and a first French Cup triumph in their 120-year history.
+
+However, he has been unable to replicate Glasner's success at Palace. Glasner, now manager of Nottingham Forest, led Palace to a first FA Cup title and a Europa Conference League triumph.
+
+Would Thomas Frank be a good fit for Crystal Palace?
+
+Palace are winless in the league since 11 October and their losing run began with a 5-0 defeat by fierce rivals Brighton.
+
+Sage said afterwards he felt "shame" from the defeat and admitted he did not know if he would be given time to turn Palace's fortunes around.
+
+However, there was a degree of sympathy from some behind the scenes at Selhurst Park in the immediate aftermath of that loss.
+
+Injuries were not kind to his plans, while the absence of forward players Jean-Philippe Mateta and Ismaila Sarr - due to a mixture of fitness and personal issues related to both players' desire to leave the club - did not help.
+
+However, three successive defeats followed, with Palace hitting the bar and having a goal ruled out in their loss to Liverpool at Selhurst Park.
+
+Sage won five of his 16 games in all competitions.
+
+Palace's next Premier League match is at Coventry on 21 November, after the international break.
+
+Frank was sacked by Tottenham in February, after just under eight months in charge.
+
+The former Brentford boss left Spurs 16th in the Premier League and five points above the relegation zone following an eight-match winless run in the league.
+
+## 'Frank is the man'
+
+Frank or Dyche? Who should be next Palace boss?
+
+Palace believe Frank is the man to lead the club away from relegation trouble.
+
+Discussions are understood to have reached the closing stages amid growing hope that a deal can be struck before the start of next week when players start trickling back from international duty.
+
+The club have explored other options: former Everton and Nottingham Forest boss Sean Dyche and Toulouse boss Jens Berthel Askou among them.
+
+But Frank is viewed as the overwhelming favourite to replace Sage, whose failure to instil defensive robustness to the team was a key factor in his sacking.
+
+Danish coach Frank has been out of work since being sacked by Tottenham in February and took the decision over the summer not to take a job in the close season.
+
+In recent weeks, it is understood Fulham have taken an interest in Frank's situation amid some uncertainty over Alvaro Arbeloa's future.
+
+But Fulham's results have picked up in recent weeks and Palace have made their move.

@@ -1,0 +1,141 @@
+---
+title: Can Andy Burnham avoid another Labour welfare rebellion?
+source_url: https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Any revolt among MPs is likely to be smaller than the one that badly
+  damaged Keir Starmer's government.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de16/live/ad3f4d10-dec0-11f1-8fb5-a771a656a227.jpg
+published: '2026-11-12T00:00:00Z'
+scraped_at: '2026-11-12T19:55:30Z'
+categories:
+- UK
+- News & Politics
+- History
+people:
+- Alan Milburn
+- Andy Burnham
+- Anneliese Midgeley
+- Bell Ribiero-Addy
+- Brian Leishman
+- Clapham
+- Keir Starmer
+- Liz Kendall
+- Louise Haigh
+- Meg Hillier
+- Pat McFadden
+- Pip
+- Rachael Maskell
+- Rachel Reeves
+- Simon Opher
+locations:
+- Downing Street
+- England
+- Wales
+- York
+organisations:
+- BBC
+- Brixton Hill
+- Houses of Parliament
+- NHS
+- New Labour
+- Parliamentary Labour Party
+- Pip
+- Starmer
+- Stroud
+- Times
+- Universal Credit
+- Work and Pensions
+---
+
+![Andy Burnham pictured during a visit to a manufacturing facility, with Alan Milburn standing behind him](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de16/live/ad3f4d10-dec0-11f1-8fb5-a771a656a227.jpg)
+
+A review by Alan Milburn (left) could create political headaches for Andy Burnham
+
+**Andy Burnham has committed to bringing the welfare bill down, but he knows just how the high the political stakes are.**
+
+He saw how last year's welfare rebellion marked the beginning of the end for his predecessor in Downing Street.
+
+Sir Keir Starmer's authority was shredded when 120 - more than a quarter - of his own MPs threatened to derail his reforms.
+
+To defuse this, Sir Keir was compelled to guarantee that existing claimants of personal independence payment (Pip), the main disability benefit in England and Wales, wouldn't lose out.
+
+Even then, 49 of the 120 potential Labour rebels still voted against their own government.
+
+Next week, a review from former New Labour cabinet minister Alan Milburn has the capacity to create another internal row in Labour's ranks.
+
+Milburn has spent a year grappling with how to reduce the nearly one million young people who are not in employment, education or training (Neets).
+
+In an interview with the Times, he has now confirmed he is set to recommend cutting benefits for some 16-24 year olds who currently receive Pip, or the enhanced health-related payment of Universal Credit.
+
+Taking benefit cuts to the Parliamentary Labour Party would usually have a similar effect to adding phosphorous to water.
+
+But from my soundings, the deep waters of the Labour ranks are calmer than might be expected.
+
+Why?
+
+## 'Fair wind'
+
+Importantly, two of the most effective organisers of last year's welfare rebellion are batting for the current prime minister, rather than against the previous one.
+
+Louise Haigh is now the most powerful cabinet minister after Andy Burnham himself, while Anneliese Midgeley is his chief whip.
+
+And the MP who fronted that rebellion - Meg Hillier - has said she wants to give Milburn's proposals a "fair wind".
+
+There are also clear differences to the previous approach to welfare reform.
+
+First, it is not being presented as primarily a cost-cutting exercise with pre-determined savings.
+
+Instead, there will be upfront investment to provide more support to unemployed young people, and a timeframe for net savings likely to be set at around a decade – gradualism, not a short, sharp shock.
+
+Second, last year's initial reforms would have affected people in all age groups, whilst benefit cuts this time would be limited to the under 25s, who make up around 11% of Pip claimants.
+
+I've spoken to government ministers who had expressed concerns – at least privately – about the changes devised previously by Rachel Reeves and Liz Kendall. This time, they are on board.
+
+One of them told me that so long as there was enough support for young people, with guaranteed jobs and training, MPs would be "fine" with some benefit cuts.
+
+But they added that it was vital that those who really couldn't work wouldn't be worse off.
+
+Milburn will suggest there could even be enhanced payments for people in this category, while some young people with disabilities who lose out on Pip could nonetheless be given an additional "allowance" to help with living costs.
+
+Another minister who opposed the previous reforms praised the process this time.
+
+There had been a high level of engagement not just from Milburn, but Work and Pensions Secretary Pat McFadden, who has been taking MPs through the principles behind the reforms.
+
+One minister was a little more cautious, suggesting support for a reduction in benefits would depend on what the entire "package" of reforms looked like.
+
+Milburn's recommendations are likely to be wide-ranging – from pre-school policies to how the NHS deals with mental health.
+
+## 'Devil in the detail'
+
+Some of the eventual 49 rebels from last year are in a similar place.
+
+York MP Rachael Maskell told me it was essential that she saw the detail of the proposals rather than the "drip, drip" of press reports which would "cause young people stress and distress".
+
+She felt withdrawing Pip from young people was "like a sledgehammer to crack a nut" and was concerned that some disabled people required it to remain in work.
+
+She also suggested that the government "shouldn't just point the finger at young people," and should look closely at how employers could take more youngsters on.
+
+Stroud MP Simon Opher also voted against the government on welfare last year.
+
+He told me there was a "crisis" with so many Neets, and Milburn had come up with a "credible solution".
+
+But he believes cutting benefits should be a "last resort" and is worried about restricting access to the health element of Universal Credit, as a quarter of young claimants aren't Neet. He concludes that the "devil will be in the detail".
+
+So much of politics - like comedy – depends on timing.
+
+For some sceptics, including serving ministers, the Milburn proposals will be more warmly welcomed if support for young people is in place before entitlements are withdrawn.
+
+But for some Labour MPs, cutting payments to existing claimants crosses a line.
+
+Clapham and Brixton Hill MP Bell Ribiero-Addy has she wasn't sure she could back cuts.
+
+Referring to Pip, she didn't believe that "you get a disabled young person into work by taking away the money that helps them to get into work".
+
+And another MP on the left of the party, Brian Leishman, told the BBC he couldn't back benefits cuts as "we are in the middle of a cost of living crisis".
+
+So a welfare rebellion seems guaranteed if Burnham accepts Milburn's recommendations.
+
+But it seems unlikely to be of the same scale, or have a similar level of political jeopardy to the one which shook the Starmer government.
+
+![Thin, red banner promoting the Politics Essential newsletter with text saying, “Top political analysis in your inbox every day”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6133/live/2bce6ee0-0b00-11f0-97d3-37df2b293ed1.png)

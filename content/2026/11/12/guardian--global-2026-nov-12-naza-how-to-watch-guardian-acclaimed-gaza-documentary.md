@@ -1,0 +1,103 @@
+---
+title: 'NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary'
+source_url: https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary
+source_site: The Guardian
+source_slug: guardian
+description: Film features testimony from 24 Israeli officials involved in surveillance
+  and remote killing of Palestinian civilians
+image: https://i.guim.co.uk/img/media/957f6dec1a8ee34b1e924a5c925bf2a53729185c/649_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c159a472e2520d69b86568e06f400bb1
+published: '2026-11-12T00:00:00Z'
+scraped_at: '2026-11-12T19:53:38Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Ariel Averbuch
+- Basel Adra
+- Benjamin Netanyahu
+- Eyal Zamir
+- Hamdan Ballal
+- James Wilson
+- Jonathan Glazer
+- Rachel Szor
+- Yuval Abraham
+locations:
+- Gaza
+- Israel
+- Masafer Yatta
+- No Other Land
+- Tel Aviv
+- Venice
+- West Bank
+organisations:
+- AI
+- British Vogue
+- Critics Choice Association
+- Financial Times
+- Guardian
+- Guardian’s
+- Hamas
+- Local Call
+- NAZA
+- New York Magazine
+- Shin Bet
+- The New York Times
+- The Zone of Interest
+---
+
+## Where can I watch the film?
+
+NAZA will be released in full on the Guardian’s website for free in early December. Sign up here to be notified of the exact streaming date and to be sent a link to the film when it is live.
+
+NAZA has been shown by cinemas in 47 countries and seen by more than 1.5 million people since its release last month, making it one of the most-watched documentary films with a theatrical release in 2026. The film has been offered to a number of distributors and cinemas in Israel but has not been screened there yet.
+
+You can watch a trailer here.
+
+![Yuval Abraham and Rachel Szor take questions](https://i.guim.co.uk/img/media/241c043646c7d797b35c7ec7cf41dbddb2911395/585_158_5038_3904/master/5038.jpg?width=445&dpr=1&s=none&crop=none)
+
+## What is NAZA about?
+
+NAZA is a documentary featuring testimony from 24 Israeli military intelligence officers and soldiers involved in the surveillance and remote killing of Palestinian civilians during the war in Gaza. The film’s title comes from an Israeli military acronym used euphemistically to refer to civilians expected to be killed in a military attack.
+
+The interviewees detail the methods used by the Israeli military in Gaza, including AI-based systems built to identify large numbers of potential Hamas operatives, who were then bombed in their homes at night, in the knowledge that the attacks would also kill their families.
+
+Interviews were filmed at night on rooftops in Tel Aviv, on the condition of anonymity, because of the risks involved in speaking publicly. The appearance and voices of participants in the film have been digitally altered to disguise their identities.
+
+## Who is behind the film?
+
+The film was directed by the Oscar-winning Israeli directors Yuval Abraham and Rachel Szor and produced by the Guardian. It builds on revelations first published by the Israeli-Palestinian magazine +972, the Hebrew-language news outlet Local Call and the Guardian newspaper between 2023 and 2025.
+
+Abraham and Szor were two of the four co-directors – with the Palestinians Basel Adra and Hamdan Ballal – of No Other Land, which documents the destruction of Masafer Yatta, a village in the occupied West Bank targeted by Israeli forces. It won the Oscar for best documentary in 2025.
+
+NAZA was co-produced by James Wilson and executive-produced by Jonathan Glazer, the team behind the Oscar-winning film The Zone of Interest.
+
+![A night-time shot from NAZA showing the sketching out of a building on a notepad](https://i.guim.co.uk/img/media/962a5c1ada7f0e3ce4aef2db2d44d4394e9eeaa0/0_0_3840_2023/master/3840.jpg?width=445&dpr=1&s=none&crop=none)
+
+## How has it been received?
+
+NAZA has received widespread critical acclaim and is selling out in cinemas across the world. The New York Times says it is “tough to watch and impossible to ignore”, while New York Magazine describes it as “one of the most important films of our time”. In a five-star review, the Financial Times says that “journalism and film-making brilliantly entwine”. British Vogue calls NAZA a “brilliant and harrowing film”.
+
+The film won the special jury prize at the Venice film festival in September, where its premiere had a 25-minute ovation – a festival record. In November, it won the best political documentary from the Critics Choice Association.
+
+## Why has there been an Israeli backlash?
+
+The film, its directors and their confidential sources have faced fierce attacks from the Israeli government and military. The prime minister, Benjamin Netanyahu, has ordered the attorney general and the head of the Shin Bet security service to reveal the identities of sources interviewed and prosecute them for causing “harm to Israel’s diplomatic and security interests”.
+
+Netanyahu also threatened to strip Abraham and Szor of their citizenship, accusing them of treason. The Israeli military’s chief of staff, Eyal Zamir, said the military would “not allow soldiers to be made targets through lies and blood libels” and would use “every tool at our disposal” against the film.
+
+Far-right groups have vowed to hound the film-makers on their return to Israel and picketed Szor’s family home. Some of the messages included explicit calls for violence, with one protester demanding the “death penalty for traitors”.
+
+The Israeli military claimed there were “substantial errors” in the film and that it had relied on sources who had only a partial picture of the target approval process. It said that while AI was used to help identify targets in Gaza, final decisions on strikes, and the risk of civilian casualties, were signed off by officers.
+
+In response, the team behind the film have revealed they spoke to more than 100 sources with knowledge of the military systems used in the war.
+
+## What is NAZA: The Real Story?
+
+The Israeli government is promoting an online film project, called NAZA: The Real Story, which mimics the style of the genuine NAZA film and is hosted on a website called nazadocumentary.com. It is not the real NAZA documentary and has been misleading some viewers.
+
+Initially, the rival film’s website falsely presented itself as a promotional page for NAZA itself, naming Abraham and Szor as the directors, and listing film festivals where the documentary was to be screened. The site now appears as a platform for the rival film, which has been promoted by Israeli embassies.
+
+Ariel Averbuch, an Israeli attorney and army reservist who co-created NAZA: The Real Story, describes it as an “offensive move” to shift the world’s focus from allegations about the Israeli military’s killing of civilians.
+
+Szor and Abraham have addressed the backlash to their documentary. “Our country is doing so much to hide these systems,” Szor said.
