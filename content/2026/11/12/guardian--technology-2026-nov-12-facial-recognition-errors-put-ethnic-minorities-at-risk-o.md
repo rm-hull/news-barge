@@ -1,0 +1,67 @@
+---
+title: Facial recognition errors put ethnic minorities at risk of wrongful arrest,
+  police watchdog warns
+source_url: https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns
+source_site: The Guardian
+source_slug: guardian
+description: Inspectors find some officers acted on potential matches from retrospective
+  searches without making enough checks
+image: https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9800d51d82b7778b758c85ff6322cdc0
+published: '2026-11-12T00:00:00Z'
+scraped_at: '2026-11-12T02:15:38Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Ben Russell
+- Jasleen Chaggar
+- Kathryn Stone
+- Pete Fussey
+locations: []
+organisations:
+- Big Brother Watch
+- HMICFRS
+- His Majesty’s Inspectorate of Constabulary
+- National Police Chiefs’ Council
+- RFR
+- University of Southampton
+---
+
+Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found.
+
+Although the technology can help fight crime, the report found it is beset by errors and biases, and operators do not always realise they must make further inquiries to verify the data.
+
+The report by His Majesty’s Inspectorate of Constabulary, published on Wednesday, covers only retrospective facial recognition. The technology is seen as less controversial and less tricky to get right than live facial recognition, which is used in real time to find suspects.
+
+“Some investigators didn’t know that RFR results were intelligence rather than evidence and required further enquiries before officers took enforcement action,” the report said.
+
+“This creates a risk that people could be incorrectly identified or arrested, which could undermine public confidence in the technology.
+
+“We found that some investigators didn’t always carry out enough corroborative enquiries before acting on potential matches. In a small number of cases, officers relied too heavily on RFR results, which led to inappropriate investigative action.”
+
+The report said there are still issues with bias in the algorithm, including being more likely to wrongly flag people from ethnic minorities as suspects.
+
+It said: “More needs to be done to reduce the risks of people being wrongly arrested … Auditors also identified cases where users uploaded poor-quality or unsuitable probe images, including blurred images and images containing multiple faces. These factors reduced the system’s ability to return reliable matches.”
+
+Inspectors also found a risk of public confidence being undermined because custody images that should have been deleted were in fact kept.
+
+The report says: “Inspectors found that legislation hasn’t kept up with changes in facial recognition technology and there is no comprehensive statutory framework governing this technology’s use. This makes it more difficult for forces to understand the lawful basis for RFR’s use and what safeguards are needed to protect the public.”
+
+His Majesty’s Inspector of Constabulary Kathryn Stone said continued public support relied on showing the technology was being used properly: “Police forces must be able to show that appropriate safeguards are in place, risks relating to bias and data retention are effectively managed, and decisions are still subject to human judgment. A clearer statutory framework, stronger national standards and improved governance and oversight arrangements are essential to maintaining public confidence.”
+
+Facial recognition is seen by police chiefs as the next big leap forward in crime fighting, and next huge threat to civil liberties by sceptics.
+
+Jasleen Chaggar, from Big Brother Watch, said: “The revelations that officers are treating facial recognition as bona fide evidence rather than a probability score is alarming.
+
+after newsletter promotion
+
+“This approach significantly increases the risk that more innocent people will have officers knock on their door to arrest them for crimes committed in towns they’ve never visited, as we’ve seen before.
+
+“Worse still, police aren’t even logging their use of retrospective facial recognition, meaning people could wrongfully become suspects in criminal investigations without even realising why they’ve been accused.
+
+“Police cannot be allowed to continue using the algorithm with so few safeguards and at biased settings that are more likely to misidentify women, Asian and black people and search against millions of unlawfully held custody images.”
+
+Ben Russell, lead on facial recognition for the National Police Chiefs’ Council, said: “Policing remains committed to the ethical, proportionate and responsible use of retrospective facial recognition to help investigate crime, bring offenders to justice and keep communities safe and we are pleased that HMICFRS has recognised the exciting possibilities of this technology.”
+
+Prof Pete Fussey of the University of Southampton, formerly a police adviser on facial recognition, said: “Meaningful human scrutiny of AI systems is a legal requirement, yet the report gives examples of investigators taking the computer’s suggestions at face value without further checks.”
