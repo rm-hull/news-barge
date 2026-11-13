@@ -1,0 +1,147 @@
+---
+title: What’s next for Ukraine-Russia peace talks as war approaches five-year mark?
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-peace-talks-putin-zelensky-witkoff-kushner-b3084258.html
+source_site: The Independent
+source_slug: independent
+description: Steve Witkoff and Jared Kushner, who is also President Donald Trump's
+  son-in-law, brokered talks this week between delegations from Moscow and Kyiv
+image: https://static.independent.co.uk/2026/11/12/23/8ca7a67162b0d9a3909d44ed3dd9d9a2Y29udGVudHNlYXJjaGFwaSwxNzk0NjEwODcw-2.86471174.jpg?width=1200&height=800&crop=1200:800
+published: '2026-11-13T00:00:00Z'
+scraped_at: '2026-11-13T10:55:23Z'
+categories:
+- News & Politics
+- UK
+people:
+- Andy Burnham
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- Kyiv
+- Mark Rutte
+- Musk
+- Stefan Rousseau
+- Steve Witkoff
+- Vladimir Putin
+- Volodymyr Zelensky
+- Yuri Ushakov
+locations:
+- Abu Dhabi
+- Central and Eastern Europe
+- Dublin
+- Fontanka
+- Ireland
+- Kremlin
+- Kyiv
+- Moscow
+- PA
+- Paris
+- Russia
+- St. Petersburg
+- U.S
+- Ukraine
+- United Arab Emirates
+- Washington
+- Zelensky
+organisations:
+- Defense Ministry
+- Investigative Committee
+- Kyiv
+- NATO
+- SpaceX
+- Starlink
+- Starshield
+---
+
+U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelensky as Washington sought new momentum for its peace efforts.
+
+Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from Moscow and Kyiv.
+
+The session in Abu Dhabi, United Arab Emirates, brought the first direct discussions between Ukrainian and Russian representatives in nine months as the push for a settlement stalled.
+
+The talks produced no major breakthrough, aside from an agreement to swap a large number of prisoners, with the exact figure still to be announced.
+
+Plans for another round of talks were announced as well, with Witkoff and Zelensky saying Europe will join, though they gave no details about which countries or how many.
+
+![Prime Minister Andy Burnham (left) sits next to the President of Ukraine Volodymyr Zelensky during the Ukraine security meeting (Stefan Rousseau/PA)](https://static.independent.co.uk/2026/11/13/02/58ad86a535e0b5a9f32cdbf9d0e234b7Y29udGVudHNlYXJjaGFwaSwxNzk0NjE0NjMw-2.86468227.jpg?quality=75&width=640&auto=webp)
+
+Kushner and Witkoff met with Putin for about two hours before going to Dublin, where they met with Zelensky for more than an hour as the conflict stretches toward the five-year mark.
+
+## **Europe seeks a place at the negotiating table**
+
+Kushner said one goal of the meeting with Putin was to get the Russian leader’s blessing for European representatives to be part of the talks, which are looking at the continent’s broader security arrangements.
+
+In Abu Dhabi, several European security advisers were involved on the sidelines but not in the main three-way talk.
+
+Speaking to reporters before boarding a plane to leave Moscow, Witkoff said the next round of talks has been agreed upon.
+
+Russian state TV showed Witkoff saying that “the Europeans will join at the next meeting,” but he did not elaborate.
+
+Zelensky in Dublin indicated the Europeans would not be on the sidelines.
+
+“Next meeting, Europe will be during negotiations, will be a negotiation team – not some way, not separately. They will have a voice,” he said.
+
+The U.S. and Zelensky want Europe to appoint a single person to negotiate with Moscow.
+
+![](https://static.independent.co.uk/2026/11/13/03/01M790H66KFRJ1NB1CM21SQPV3.jpg?quality=75&width=640&auto=webp)
+
+Russia, meanwhile, doesn’t want European countries involved in the direct negotiations, complaining they are financing and supplying Ukraine’s military effort. The Europeans are concerned about Russia’s conduct and broader intentions on the continent.
+
+But Washington and European capitals have sometimes seemed at odds in their diplomatic efforts.
+
+Trump has repeatedly sided with Putin, last month waiving sanctions and striking a deal to import Russian diesel, in moves that dismayed Ukraine and European leaders.
+
+The Kremlin spokesperson Dmitry Peskov argued that for Europe to join peace talks, it first must name a representative.
+
+“The Europeans squabble like spiders in a jar. If someone takes the initiative to establish contact with the Russian side, such people are facing ostracism.”
+
+Many in Europe also see the inclusion of Moscow in discussions about postwar European security as an unwelcome concession to Putin, who has described NATO’s eastward expansion as a main security threat and has demanded the alliance’s troops be pulled back from Russia’s borders.
+
+## **Putin's aide calls the talks ‘constructive’**
+
+Some analysts say negotiators may be looking to grant Russia concessions on NATO's strategy in return for peace in Ukraine – a possibility that alarms European leaders.
+
+Thursday’s talks were “substantive, constructive, frank and useful,” Putin’s aide Yuri Ushakov said.
+
+He added that the Kremlin leader reminded Witkoff and Kushner about Moscow’s proposals from 2021 – before it sent troops into Ukraine – demanding that NATO roll back the alliance’s military deployments in Central and Eastern Europe.
+
+![](https://static.independent.co.uk/2026/11/13/03/download..?quality=75&width=640&auto=webp)
+
+Russia will update those with “fresh considerations,” Ushakov said.
+
+Putin reaffirmed to the U.S. envoys that any European troops sent to Ukraine after a ceasefire — an idea long floated by Europe to prevent a new attack by Moscow — would be “absolutely unacceptable” and Russia would regard the deployment as a security threat and legitimate target.
+
+“In other words, the war would resume immediately,” the Russian president said.He also said Russia regards its border with Ukraine to be sealed by a prospective peace deal as now extending to cover the four Ukrainian regions that Moscow annexed in 2022 but never fully controlled.
+
+## **Fighting continues as another bitter winter approaches**
+
+Zelensky is in Dublin for a meeting of more than 40 European countries that also includes NATO Secretary-General Mark Rutte.
+
+Rutte said the U.S., Europe and Ukraine are “very much aligned” on what security guarantees should look like, following a meeting in Paris in January.
+
+“But now of course we need the peace deal, or at least a ceasefire,” Rutte said.
+
+Amid the negotiations, fighting continues along the 1,200-kilometer (about 750-mile) front line.
+
+Russia’s bigger army has been held back by dogged Ukrainian resistance while Moscow’s drone and missile strikes on Ukraine’s energy facilities disrupted heat, electricity and water supplies to Ukrainian cities, sapping public morale in what Kyiv calls a “weaponization of winter.”
+
+Russia’s Defense Ministry said its air defenses downed 71 Ukrainian drones overnight. Its forces struck a drone-manufacturing plant in Kyiv and three other facilities producing missile fuel and drone components in the area around the Ukrainian capital, the ministry said.Russia launched missiles and 123 drones, 73 of them jet-powered drones, at Ukraine overnight, the Ukrainian air force said. Hits were recorded at 17 locations, it said.
+
+![](https://static.independent.co.uk/2026/11/13/03/download.-1..jpg?quality=75&width=640&auto=webp)
+
+Ukraine is experiencing another slowdown in the U.S. Starshield system — SpaceX’s military-grade version of the Starlink satellite internet service — that the country needs to defend itself against Russian attacks, Zelensky said Thursday on social media.
+
+Military units have recorded “significant disruptions,” including speed restrictions limiting Ukrainian drones to 161 kph (100 mph), Zelensky said, adding that a military investigation established that the restrictions weren't random errors.
+
+Ukraine uses Starlink and Starshield for intercepting Russian drones and launching its own strikes.
+
+Last month, limits on Ukrainian drone speeds severely disrupted operations and alarmed Kyiv officials who fear U.S. support could drop off.Elon Musk acknowledged that his company SpaceX had throttled the Starlink internet service in Ukraine for about a week, saying the system couldn’t be used for offensive strikes against Russia.
+
+Zelensky said the speed limits cover operations in Russian-occupied parts of Ukraine and that Kyiv is trying to find out from U.S. officials what is going on.
+
+## **Russian colonel reportedly killed by a car bomb**
+
+A Russian serviceman was killed in St. Petersburg early Thursday when his vehicle exploded, according to the Investigative Committee, the country’s main criminal investigation agency.
+
+It didn’t identify the victim or say who was behind the bombing. The Fontanka news outlet said the victim was a colonel and that a bomb in his car exploded as he drove off.
+
+Several senior Russian military officers have died in bombings and other attacks that Moscow blames on Ukraine. Kyiv has claimed responsibility for some attacks on Russian soil.
