@@ -1,0 +1,116 @@
+---
+title: 'Rosenberg: Uncompromising Putin ups demands for peace with Ukraine'
+source_url: https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The fact the question of European security now features in discussions
+  is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg
+published: '2026-11-13T00:00:00Z'
+scraped_at: '2026-11-13T19:38:41Z'
+categories:
+- UK
+- News & Politics
+people:
+- Churchill
+- Dmitry Peskov
+- Donald Trump
+- Jared Kushner
+- Kaja Kallas
+- Roosevelt
+- Stalin
+- Steve Witkoff
+- Vladimir Putin
+- Xi Jinping
+- Yuri Ushakov
+locations:
+- Abu Dhabi
+- China
+- Europe
+- Finland
+- Georgia
+- Kremlin
+- Moscow
+- Norway
+- Russia
+- Shenzhen
+- Soviet Union
+- US
+- Ukraine
+- Ukraine-Russia
+- West
+organisations:
+- EU
+- Komsomolskaya Pravda
+- Kyiv
+- Nato
+- Presidential Council for the Development of Physical Culture and Sport
+---
+
+![Russian President Vladimir Putin chairs a meeting of the Presidential Council for the Development of Physical Culture and Sport at the Kremlin in Moscow, Russia, 12 November 2026.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg)
+
+Putin sounded uncompromising and confident at his talks with the US envoys
+
+**Russia's President Vladimir Putin says he wishes "eternal peace" for Ukraine.**
+
+That is the same Russian president who ordered the full-scale invasion of Russia's neighbour nearly five years ago and who continues to reject the idea of a comprehensive ceasefire.
+
+And what, in Moscow's view, is a prerequisite for peace?
+
+The Kremlin spelt it out after talks with US envoys Steve Witkoff and Jared Kushner: "A new, long-term architecture of indivisible security and peace."
+
+Translated from Kremlin-speak, it means Moscow wants to change the security set-up of Europe in a way that benefits Russia.
+
+What Russia is pushing for is, potentially, the biggest change to European security arrangements since the end of the Cold War.
+
+The Kremlin has put back on the table its controversial proposal from December 2021 – the "draft treaties" with the US and Nato which would not only have put the brakes on the alliance's eastward enlargement by giving Moscow cast-iron guarantees that, for instance, Ukraine and Georgia would never be allowed to join, but also rolled back Nato military infrastructure from countries of central and eastern Europe which became Nato members following the dissolution of the Soviet Union.
+
+Western leaders dismissed such demands as an unacceptable Russian ultimatum. Two months later Moscow launched its full-scale invasion of Ukraine.
+
+The "draft treaties" were put away. Now they are out of the geopolitical filing cabinet, and being quoted again by the Kremlin.
+
+What is more, Yuri Ushakov, Putin's foreign policy aide, has suggested that Moscow is about to "add certain new considerations" to its list of demands in light of Western efforts "to inflict a strategic defeat on Russia".
+
+That does not mean, of course, that Western governments will accept them.
+
+But the fact that the question of European security is featuring now in discussions on Ukraine is viewed here as a victory for Moscow.
+
+"In December 2021 Russia actively proposed that Nato rethink the security system in Europe," wrote newspaper Komsomolskaya Pravda earlier this week.
+
+"Our proposals were almost laughed at.
+
+"Having secured one victory by forcing the West to think about security, our diplomats need a second by making the West heed Russia's concerns about Nato enlargement."
+
+The EU's top diplomat, Kaja Kallas, has called Russia's demands for a new European security architecture a "trap" designed to "shift attention away from a ceasefire".
+
+"The sequencing of Ukraine-Russia talks is important," Kallas wrote on social media. "The priority should be securing a ceasefire, followed by a peace agreement. Only then can there be discussions on Europe's wider security architecture."
+
+Europe's problem is that, right now, it is not at the table.
+
+Moscow has had no desire to give it a chair. It has slammed European leaders for their military support for Kyiv and tough stance on Russia.
+
+This week's peace talks in Abu Dhabi involved Ukraine, Russia and the US.
+
+After his discussions in Moscow, Witkoff indicated that Putin had agreed to the idea of European representatives joining the next round of Ukraine peace talks.
+
+But on Friday the Kremlin indicated a final decision on European participation had not been taken.
+
+"Once we understand their true intentions and their readiness to facilitate the peace process, then it will be possible to take a decision about dialogue on Ukraine in a wider format," said Kremlin spokesman Dmitry Peskov.
+
+And what of Putin?
+
+At the talks with Witkoff and Kushner he was sounding uncompromising and confident.
+
+You can see why.
+
+The Americans are knocking at his door and seeking a deal and the Europeans are contemplating contacts with him. Last month the leaders of Norway and Finland reached out and called him.
+
+And next week in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Co-operation summit, Putin may have a separate meeting with Donald Trump and Xi Jinping. Russian media are already comparing them to the "Big Three" - Stalin, Roosevelt and Churchill - who met in 1945 to reorganise post-World War Two Europe.
+
+And yet, after nearly five years of war, Russia has suffered huge losses on the battlefield.
+
+The Russian economy is under increasing pressure.
+
+Ukrainian drone strikes continue to target Russian oil refineries, sparking fears of new fuel shortages.
+
+But, so far, none of this has convinced the Kremlin leader to end the fighting.

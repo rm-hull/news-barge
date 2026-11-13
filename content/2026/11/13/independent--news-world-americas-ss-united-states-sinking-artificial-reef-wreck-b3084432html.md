@@ -1,0 +1,97 @@
+---
+title: 'SS United States: How life will take over the world’s largest artificial reef'
+source_url: https://www.independent.co.uk/news/world/americas/ss-united-states-sinking-artificial-reef-wreck-b3084432.html
+source_site: The Independent
+source_slug: independent
+description: One of the world’s most famous ocean liners has been sunk off the coast
+  of Florida
+image: https://static.independent.co.uk/2026/11/12/06/2026-11-11T205020Z_1308217209_RC2PLOAPVCAG_RTRMADP_3_USA-SHIP-SINKING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+published: '2026-11-13T00:00:00Z'
+scraped_at: '2026-11-13T19:37:36Z'
+categories:
+- News & Politics
+- UK
+- History
+people:
+- Nicholas Ray
+locations:
+- Aruba
+- Atlantic
+- Caribbean Sea
+- Earth
+- Florida
+- German-built Star Gerren
+- Gulf of Mexico
+- Okaloosa County
+- Palm Beach
+- Pennsylvania
+- Philadelphia
+- SS United States
+- United States
+organisations:
+- Nottingham Trent University
+- The Conversation
+- USS Oriskany
+---
+
+As a marine ecologist and keen scuba diver, I’ve long been fascinated by what happens when a large structure is introduced to the sea. Within hours, microscopic organisms begin colonising its surfaces, forming a thin biological layer. Over the following months and years, barnacles, mussels, sponges and other marine life become established, creating a new habitat that attracts fish and a diverse range of species.
+
+This week, one of the world’s most famous ocean liners, the SS United States, was sunk off the coast of Florida. At 302 metres long, it has become the world’s largest artificial reef. It is a very exciting prospect to one day dive on such a giant, and to see how it changes as marine life makes it home.
+
+The SS United States was built as a luxury ocean liner, and its maiden voyage in 1952 captured the coveted Blue Riband by crossing the Atlantic in only three days and ten hours – a passenger liner record that remains unbroken.
+
+As the years went by, commercial jetliners superseded transatlantic sea travel, and the vessel was retired and neglected for decades. Rather than facing the ignominy of a breaker’s yard, the legendary ship was bought by Okaloosa County, Florida, to turn it into a diving attraction.
+
+![The SS United States at a dock in Philadelphia, Pennsylvania, on 10 October, 2015](https://static.independent.co.uk/2026/11/13/10/492615400..?quality=75&width=640&auto=webp)
+
+The SS United States is a particularly enormous structure to introduce to the seabed – longer even than the Titanic. It will rest in around 55 metres of water, with its upper sections rising to within about 17 metres of the surface. This will create habitats at different depths, making it an unusually varied site for both wildlife and divers of different abilities.
+
+It will also eclipse the nearby 275-metre aircraft carrier USS Oriskany, deliberately sunk in 2006, to become the largest artificial reef on Earth.
+
+So what do we expect to happen? Here’s a suggested ecological succession pattern, month-by-month.
+
+## First, microorganisms arrive
+
+The first organisms to colonise the SS United States will be almost invisible. Within hours of immersion, marine bacteria and microalgae will begin attaching themselves to its cleaned metal surfaces, forming a thin layer of “biofilm”.
+
+This slime is the foundation of the new ecosystem. As the biofilm develops, it releases chemical cues that help drifting larvae recognise the surface as a suitable place to settle.
+
+![Corals cover the hull of the German-built Star Gerren shipwreck in the southern Caribbean Sea, off Palm Beach in the western coast of Aruba](https://static.independent.co.uk/2026/11/13/10/2300989457..?quality=75&width=640&auto=webp)
+
+Carried by Gulf currents, these tiny organisms begin attaching themselves to the structure.
+
+By the end of the first three months, a variety of small animals and algae will have established themselves on the hull, beginning the transformation of bare metal into a living reef.
+
+## Then the ship becomes covered in marine life
+
+As the biofilm matures, larger organisms arrive to feed on it. These include more mobile invertebrates like sea urchins and porcelain crabs, and filter-feeders like oysters and mussels which attach themselves to vertical walls where the currents tend to send the most nutrients their way.
+
+## Fish and larger predators move in
+
+By the end of the first year, hard corals will begin to establish themselves permanently. The transformation will still be in its early stages, but over the next five to ten years the hull will become increasingly encrusted with corals, sponges and other marine life. At some point, casual divers will no longer see a ship covered in coral, but a coral-covered reef that happens to contain a ship.
+
+As the reef develops, fish will be attracted by the shelter and the growing supply of food. Smaller fish will begin to find refuge to evade open-water predators.
+
+![As the reef develops, fish will be attracted by the shelter and the growing supply of food](https://static.independent.co.uk/2026/11/13/10/2300989529..?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp)
+
+Snappers and groupers are among the medium-sized reef fish that will begin to take up permanent residency around the wreck, using the long internal corridors for protection. Larger predators, including barracuda, king mackerel and sharks, could also patrol its decks and upper sections.
+
+The ship’s enormous size and varied structure will offer a range of habitats, from sheltered spaces for smaller fish to exposed areas where larger, free-swimming species can hunt. Over time, these interactions could create a complex food web, turning the wreck into a significant biological hotspot.
+
+## About the author
+
+Nicholas Ray is a doctoral programmes manager and Researcher in Aquatic Ecology at Nottingham Trent University.
+
+This article is republished from The Conversation under a Creative Commons licence. Read the original article.
+
+A common misconception is that artificial reefs simply concentrate fish that were already present, leaving surrounding waters poorer. In reality, while some fish are attracted from elsewhere, a large reef structure also creates vast amounts of new habitat and food.
+
+As corals, sponges, barnacles and other reef builders colonise the wreck, they create food and shelter that did not previously exist, allowing the ecosystem to support more life overall. The result is generally not an underwater crowd gathered around a ship, but a gradual increase in the total amount of marine life the area can support.
+
+![Scuba diver with an Atlantic Goliath Grouper](https://static.independent.co.uk/2026/11/13/10/1669523926..?quality=75&width=640&auto=webp)
+
+Another widespread misconception is that marine scientists “seed” artificial reefs with organisms or their larvae. In reality, colonisation happens naturally: the Gulf of Mexico already harbours an abundant pool of drifting larvae and migratory fish. Artificially introducing marine life is unnecessary and risks introducing non-native species or pathogens.
+
+Instead, human engineering is largely about preparing the ship for sinking. This includes removing hazards such as oil, asbestos and loose wires, and sealing off parts of the vessel to prevent divers getting disorientated or lost in silt-outs deep in the hull.
+
+The scuttling of the SS United States represents a rare convergence of maritime history, ecology, and engineering. Transformed into the world’s largest artificial reef, this record-breaking ocean liner could potentially anchor a vibrant marine ecosystem for decades to come. I’m looking forward to seeing how that transformation unfolds – and maybe, one day, exploring it myself.

@@ -1,0 +1,67 @@
+---
+title: Did El Niño cause an early breakdown in the polar vortex?
+source_url: https://www.newscientist.com/article/2599008-did-el-nino-cause-an-early-breakdown-in-the-polar-vortex/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
+source_site: New Scientist
+source_slug: new-scientist
+description: The polar vortex winds have undergone an unprecedented weakening, which
+  could bring cold weather to Europe. Some scientists suspect the record El Niño is
+  to blame
+image: https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320559766.jpg
+published: '2026-11-13T00:00:00Z'
+scraped_at: '2026-11-13T19:40:20Z'
+categories:
+- Science
+- Technology & Software
+- News & Politics
+people:
+- Adam Scaife
+- Andrew Charlton-Perez
+locations:
+- Alaska
+- El Niño
+- Europe
+- North America
+- Pacific
+- Scandinavia
+- UK
+organisations:
+- El Niño
+- Met Office
+- University of Reading
+---
+
+![](https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320559766.jpg?w=840)
+
+The polar vortex has suffered an unprecedented early breakdown, threatening Europe with cold and snow, and some scientists think the record super El Niño is to blame.
+
+The polar vortex, a high-altitude band of westerly winds circling the Arctic that bottles up cold air over the north pole, typically strengthens through the winter and weakens in the spring.
+
+The El Niño climate phase, which has already warmed surface waters in the tropical Pacific to record temperatures and continues to heat up, tends to keep the vortex strong in autumn and early winter. Then, in late winter, it often weakens the vortex, allowing that cold air to spill southwards into Europe and sometimes North America.
+
+Advertisement
+
+But on 10 November, the polar vortex weakened to the point that it broke down, with the winds reversing direction to blow weakly from the east. While these collapses happen every few years, they almost never occur in November. This is the earliest it has happened since weather balloon records began in the 1950s, beating the old record by 18 days.
+
+This may have been due to random fluctuations in the atmosphere. It is also possible, however, that the extremely strong El Niño could have sped up the weakening of the polar vortex that typically happens later in the winter, though that isn’t proven, according to Adam Scaife at the Met Office, the UK’s weather service.
+
+“There probably is some kind of El Niño influence on it,” he says. “That would be my suspicion, but we don’t know that for sure.”
+
+As east-to-west trade winds weaken during El Niño and the warm water they built up in the western Pacific washes back eastwards, a low-pressure centre of warm, rising air moves eastwards with it. This causes extra waviness in the jet stream, another band of strong westerly winds that circles the globe, except further south and lower in the atmosphere than the polar vortex. The jet stream meanders further southwards around Alaska, deepening a low-pressure system there called the Aleutian low.
+
+But the El Niño-linked wave doesn’t just propagate side to side in the jet stream. It can also propagate upwards into the stratosphere, where the polar vortex is. As the air gets thinner, the wave’s amplitude gets bigger until it crashes into the polar vortex like a wave crashing onto a beach, says Scaife. And while the polar vortex is westerly, these waves carry easterly momentum.
+
+“When they dump that momentum, they push the polar vortex against its flow, and they weaken it,” he says.
+
+But another reason for the polar vortex breakdown could be a high-pressure “blocking” system that developed over Scandinavia in recent weeks, which blocked the jet stream and caused large meanders in it. This waviness could also have weakened the polar vortex through the same wave-breaking process, regardless of El Niño.
+
+“I would be wary of saying it was caused by El Niño,” says Andrew Charlton-Perez at the University of Reading, UK. “I would say the blocking high is probably more important.”
+
+The reversal of the polar vortex isn’t related to the current cold weather in the UK. But it could bring even more cold, snowy weather in the coming weeks.
+
+A polar vortex breakdown is also known as a sudden stratospheric warming event. As the winds weaken, high-level air rushes in over the north pole, increasing atmospheric pressure and raising temperatures, just as pumping up a bike tyre warms it up.
+
+Meanwhile, over the following weeks, cold surface-level air can descend from the Arctic into northern Europe. A polar vortex breakdown preceded the “Beast from the East” cold snap in 2018, when blizzards covered much of the UK in snow and killed 10 people.
+
+While the polar vortex is expected to strengthen towards the end of November, bringing warmer weather, it could break down again this winter, Scaife warns.
+
+“The risk of cold easterlies this winter is increasing,” he says.
