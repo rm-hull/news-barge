@@ -360,3 +360,20 @@ sites:
       # <h3> heading and promotional text that is not part of the article prose.
       # Affects ~2/50 articles in the feed.
       - //div[contains(@class, 'public-notice-portal-promo')]
+
+  - name: KDnuggets
+    slug: kdnuggets
+    feed: https://www.kdnuggets.com/feed
+    limit: 50
+    categories: [Technology & Software, Science]
+    exclusions:
+      # Author byline / bio block (contains author name, date, tags)
+      - //div[contains(@class, "author-link")]
+      # AddThis share toolbox (social sharing buttons)
+      - //div[contains(@class, "addthis_native_toolbox")]
+      # "More On This Topic" related posts section
+      - //div[contains(@class, "crp_related")]
+      # Newsletter signup form (Mailchimp)
+      - //div[contains(@class, "field-container")]
+      # AddToAny share buttons container
+      - //div[contains(@class, "addtoany_shortcode")]
