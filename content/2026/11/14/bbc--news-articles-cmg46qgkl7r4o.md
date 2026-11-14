@@ -1,0 +1,161 @@
+---
+title: Neets review won't be for the faint-hearted - and will test Burnham's appetite
+  for a welfare fight
+source_url: https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Milburn is not the first to try and fix the Neets problem - so what’s
+  different this time round, asks Laura Kuenssberg.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg
+published: '2026-11-14T00:00:00Z'
+scraped_at: '2026-11-14T17:57:23Z'
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+people:
+- Alan Milburn
+- Andy Burnham
+- Emma Barnett
+- Iain Watson
+- John Simpson
+- Keir Starmer
+- Laura Kuenssberg
+- Pat McFadden
+- Paul Smith
+- Sadiq Khan
+- Tony Blair
+locations:
+- Downing Street
+- Liverpool
+- Merseyside
+- Northern Ireland
+- Scotland
+- UK
+- Wales
+- Westminster
+organisations:
+- Greens
+- Labour
+- Lib Dems
+- Milburn
+- Millburn
+- National Insurance
+- Neets
+- PM Burnham The Conservatives and Reform
+- Reuters
+- SNP
+- Sainsbury's
+- Tories
+- Treasury
+---
+
+![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/160/cpsprodpb/9b3c/live/363c8430-ceee-11f1-a701-fddedf244c16.png)
+
+**It's an ugly acronym. And it's an even uglier situation.**
+
+The reality of so-called "Neets" in the UK - young people who haven't got jobs, aren't studying or being trained up - has seen hundreds upon hundreds of thousands in their late teens or early-20s struggle to find a decent future for well over a decade.
+
+It costs the taxpayer billions. And the human cost is variously described as a disaster, a national shame, even a moral crisis.
+
+When the phrase Neet was first coined by Tony Blair's Downing Street in 1999, the focus was on 170,000 or so teenagers who were not in education, employment or training. After many attempts at solving the problem, add in a pandemic and years of a sluggish economy, it's acute - with nearly a million under-25s in that situation.
+
+A tome full of proposals to try and fix it once and for all will be published on Tuesday, after a year in the making.
+
+How the government reacts will test its appetite and capacity for radical change, and the prime minister's real, not rhetorical, hunger for tricky political arguments.
+
+The canny smooth talker behind the huge review, former Labour MP Alan Milburn, wants you to know that Andy Burnham knows exactly what's coming.
+
+Speaking to me in Liverpool, where in Merseyside 14.5% of 16 to 24-year-olds are unemployed,, external he tells me: "All the way through, the prime minister, the chancellor, all the ministers, they know what's going on. It won't be a surprise to them when this is launched and that gives it a fighting chance of actually being implemented."
+
+But his collection of proposals is not for the faint-hearted.
+
+On top of a plan to stop under-25s claiming the main sickness and disability benefits, Milburn will argue for a dramatic shift in the balance of what the taxpayer spends on benefits for young people compared with what is spent on support to help them get into work.
+
+He says the amount spent on young people's benefits is 25 times as much as that on employment support - and he wants to shift it to a drastically different two to one.
+
+He won't put specific numbers on it yet, but accepts openly that means a significant number of young people losing their benefits or facing cuts.
+
+But that would come with a chunky expansion of the amount of further education, training, health support and likely jobs subsidised by the taxpayer too. A big cut to state support on one side of the ledger, but a big increase on the other.
+
+And to make sure that government gets really serious about improving the mess, Milburn is asking for a new law that would give young people a guarantee of help and support - a job, an apprenticeship, a training place, or perhaps health treatment so they are able to work - an "opportunity guarantee".
+
+He told me he won't fall into the "elephant's trap", where a feisty teenager could sue the prime minister if they didn't get the job they fancied. But the idea is to put a legal duty on the authorities in a similar vein to councils' obligation to look after children in care, or to provide accommodation or advice to homeless people.
+
+![The exterior window of a Job Centre ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5535/live/ed1979f0-df7a-11f1-93e1-3b657b665bcf.jpg)
+
+Millburn has already said under-25s should no longer be able to claim the personal independence payment and the health element of universal credit
+
+Westminster jargon often describes earnest sets of recommendations published in reports like this as "wide-ranging". This review genuinely is, arguing for changes not just in welfare, but in the health and education systems.
+
+It's a real expansion of the state's involvement in the next generation, from one of the Blairites still standing, with the expensive Paul Smith knitwear to match.
+
+He is not the first government veteran nor is Burnham the first PM, to try to sort out this problem.
+
+But what Milburn and his allies say is different this time round is they're pushing for a whole new system that's permanent, not just another scheme that gets introduced by one secretary of state, then is dropped or scrapped by the next one that turns up.
+
+And the notion of a legal guarantee is designed to make the state, likely through local councils or mayors, take responsibility for making sure young people have something useful to do when they emerge from school – for good.
+
+The recommendations apply to the whole UK, but the precise way the powers might be used in Scotland, Wales and Northern Ireland will be worked out when it gets to the finer details of draft laws.
+
+The scale of the practical challenge can be seen from space. New research from the Lib Dems this weekend suggests that if nothing was done, the number of Neets would hit 1.26 million by 2031.
+
+And Milburn himself cites figures that puts the cost of the issue at £22bn a year.
+
+No politician would argue for the status quo. But agreement that something must be done doesn't automatically translate into consensus over what that something is.
+
+For all Milburn's talk of grand ambition – his plans will not, any time soon, make much difference to the ballooning costs to welfare.
+
+His plan will take as long as a decade before making a real dent in the benefits bill. And it will require taxpayers' cash at the start, although not the £6bn guesstimates that have done the rounds.
+
+He's still coy about the upfront cost, but it will be billions over the years.
+
+And he says plainly there are many young people who are capable of working but don't, although tiptoes carefully around any accusations that some take advantage of the system, saying he's convinced the vast majority of young people do want to work.
+
+![Alan Milburn wears a black shirt and a dark grey suit as he addresses a room of people](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c8f/live/e88747a0-df7a-11f1-93e1-3b657b665bcf.jpg)
+
+Milburn's forthcoming report has been described as a "watershed moment" by PM Burnham
+
+The Conservatives and Reform have both put saving tens of billions from the welfare bill, and fast, at the top of their list.
+
+The Tories said Milburn was right that benefits must be cut - but that "unlike Labour, our plan goes to the root of the problem" including by halving employer National Insurance for young people and creating 100,000 new apprenticeships. Reform said the review "is pointless unless we get action from Burnham straight away" and it cannot be "another 10 years before the youth benefits bill comes down."
+
+Milburn and the government can expect sustained criticism that it's not acceptable the plans would take so long to start cutting the enormous bill for the taxpayer. There is no question the expected increases in benefit payments are absolutely eye-watering.
+
+The opposition from that quarter, and indeed from the Greens on the left arguing already that what they have seen so far is "cruel", is entirely predictable to Downing Street. What's harder to read, and therefore more difficult to contend with, is how Labour MPs will respond.
+
+Sir Keir Starmer tried, and painfully failed to make changes to welfare, sabotaging his own authority when he backed down in the face of backbenchers.
+
+That's why Pat McFadden, the welfare secretary, has spent hours and hours talking to Labour MPs in the last year, trying to patiently make the case for this plan.
+
+And why Milburn, as he was keen to point out, has continually been in touch with No 10 and 11, trying to get Burnham on board even before he made it to Downing Street. A government source said hopefully, this time "we've done the ground work – it's not a rushed Treasury process driven by numbers".
+
+As my colleague Iain Watson has written, the signs are healthier for Milburn, with a few key critics from last time showing more than an open mind to the new plans.
+
+The political climate is completely different with Labour, for now, cheerier about the polls, and backbenchers reluctant to make trouble.
+
+Burnham still is in possession of course, of the enormous majority that Starmer won.
+
+![Left to right: Pat McFadden, Sadiq Khan and Andy Burnham stack shelves with loaves of bread in a branch of Sainsbury's](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a01b/live/df9fc4f0-df7a-11f1-a701-fddedf244c16.jpg)
+
+Pat McFadden - pictured here with Sadiq Khan and Andy Burnham - has been taking MPs through the principles behind the reforms
+
+There will, without doubt, be voices on the left of the party, concerned perhaps about opposition from the Greens or the SNP in their constituency who will never sign up to anything that would mean a cut to payments for anyone on benefits now.
+
+"Look at the chaos Starmer got into," one source on the left warned, saying Burnham wouldn't be so "boneheaded" to do the same as "he wants to be everyone's friend".
+
+So a possible fault line may become whether the reduced benefits apply to those already claiming, as Milburn believes, or only those in future.
+
+A No 10 source is plain the plans would have to apply to those on benefits now, warning they must act as soon as they can, although new laws will take time.
+
+They told me "an argument on welfare is an argument we are happy to have". Let's see if that sentiment stands the test of time.
+
+The Milburn review was set on its path by Starmer. But it will emerge blinking into the light under a different leader, and in a very different political moment.
+
+Perhaps, some in Labour wonder, Milburn's ideas are arriving at a time when a newish prime minister has big rhetoric but perhaps is short of big concrete ideas, mocked by his opponents for reportedly bringing in private consultants to fill out his much-vaunted 10-year plan.
+
+Burnham is widely expected to adopt most of Milburn's genuinely radical ideas. Months of arguments lie ahead, however settled the political picture appears right now.
+
+But Milburn's ideas just might have come around at the right time for a relatively new government . As one senior Labour figure believes: "You need some meat on the bones that isn't just, 'nationalise everything' – this could be it."
+
+*Lead image: PA/Reuters*![Thin, lobster red banner with white text saying ‘InDepth newsletter’. To the right are black and white portrait images of Emma Barnett and John Simpson. Emma has dark-rimmed glasses, long fair hair and a striped shirt. John has short white hair with a white shirt and dark blazer. They are set on an oatmeal, curved background with a green overlapping circle. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/23c7/live/fdf6e630-5e7f-11f1-8b8c-6d33e1d5abb6.png)* BBC InDepth* * is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.* * Sign up for the newsletter here*
