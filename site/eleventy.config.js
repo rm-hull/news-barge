@@ -134,6 +134,86 @@ export default function (eleventyConfig) {
   // Process markdown as template (for article metadata)
   eleventyConfig.addTemplateFormats('md');
 
+  // ── Markdown ─────────────────────────────────────────────────────────────
+  // Prevent markdown-it from consuming backslashes before [ ] ( ).
+  // Those sequences are MathJax delimiters (\[ … \] and \( … \)), not
+  // markdown escapes.  We replace the built-in "escape" inline rule with
+  // a version that preserves the backslash for these four characters.
+  eleventyConfig.amendLibrary('md', (md) => {
+    // Build the same ESCAPED lookup table as markdown-it, but without [ ] ( )
+    const ESCAPED = new Uint8Array(256);
+    '\\!"#$%&\'()*+,./:;<=>?@[]^_`{|}~-'
+      .split('').forEach((ch) => { ESCAPED[ch.charCodeAt(0)] = 1 });
+    // Remove MathJax delimiters from the escapable set
+    ESCAPED[0x5B] = 0; // [
+    ESCAPED[0x5D] = 0; // ]
+    ESCAPED[0x28] = 0; // (
+    ESCAPED[0x29] = 0; // )
+
+    md.inline.ruler.disable('escape');
+    md.inline.ruler.push('escape', (state, silent) => {
+      const src = state.src;
+      const max = state.posMax;
+      let pos = state.pos;
+
+      if (pos >= max || src.charCodeAt(pos) !== 0x5C) return false;
+      pos++;
+
+      if (pos >= max) return false;
+
+      const ch1 = src.charCodeAt(pos);
+
+      // Hard break: \ at end of line
+      if (ch1 === 0x0A) {
+        if (!silent) {
+          state.push('hardbreak', 'br', 0);
+        }
+        pos++;
+        while (pos < max) {
+          const c = src.charCodeAt(pos);
+          if (c !== 0x20 && c !== 0x09) break;
+          pos++;
+        }
+        state.pos = pos;
+        return true;
+      }
+
+      // \ before space is a literal backslash
+      if (ch1 === 0x20) {
+        if (!silent) {
+          const token = state.push('text_special', '', 0);
+          token.content = '\\';
+          token.markup = '\\';
+          token.info = 'escape';
+        }
+        state.pos = pos;
+        return true;
+      }
+
+      let escapedStr = src[pos];
+      if (ch1 >= 0xD800 && ch1 <= 0xDBFF && pos + 1 < max) {
+        const ch2 = src.charCodeAt(pos + 1);
+        if (ch2 >= 0xDC00 && ch2 <= 0xDFFF) {
+          escapedStr += src[pos + 1];
+          pos++;
+        }
+      }
+
+      const origStr = '\\' + escapedStr;
+
+      if (!silent) {
+        const token = state.push('text_special', '', 0);
+        // Only consume backslash for characters in the ESCAPED set
+        token.content = ch1 < 256 && ESCAPED[ch1] ? escapedStr : origStr;
+        token.markup = origStr;
+        token.info = 'escape';
+      }
+
+      state.pos = pos + 1;
+      return true;
+    });
+  });
+
   // ── Content ──────────────────────────────────────────────────────────────
   // Pull markdown articles from ./content into the build
   eleventyConfig.addWatchTarget('./content');
@@ -584,20 +664,37 @@ export default function (eleventyConfig) {
     // call, so the cached instance can be reused directly without copying.
     const termPattern = cached;
 
-    // Fast path: if the input has no HTML tags, apply the replacement directly
-    // without the chunking loop.
-    if (input.indexOf('<') === -1) {
-      return input.replace(termPattern, wrapSearchable);
-    }
+    // Split input by LaTeX math delimiters so we don't mangle terms inside
+    // math expressions.  Display math: \[ … \], inline math: \( … \).
+    // We split on the delimiters and process only the non-math segments.
+    const mathSplit = input.split(/(\\\[[\s\S]*?\\\]|\\\([\s\S]*?\\\))/);
 
-    // Only rewrite text that lives outside of HTML tags so attribute
-    // values (hrefs, alt text, ...) are left untouched.
-    const parts = input.split(/(<[^>]*>)/);
-    // split() with capturing group produces: [text, tag, text, tag, ...]
-    // Odd indices are tags, even indices are text.
-    let out = parts[0].replace(termPattern, wrapSearchable);
-    for (let i = 1; i < parts.length; i += 2) {
-      out += parts[i] + parts[i + 1].replace(termPattern, wrapSearchable);
+    let out = '';
+    for (let i = 0; i < mathSplit.length; i++) {
+      const segment = mathSplit[i];
+      // Odd indices are math blocks (captured by the alternation) — skip them
+      if (i % 2 === 1) {
+        out += segment;
+        continue;
+      }
+
+      // Even indices are non-math text — apply term replacement
+      // Fast path: if the segment has no HTML tags, replace directly.
+      if (segment.indexOf('<') === -1) {
+        out += segment.replace(termPattern, wrapSearchable);
+        continue;
+      }
+
+      // Only rewrite text that lives outside of HTML tags so attribute
+      // values (hrefs, alt text, ...) are left untouched.
+      const parts = segment.split(/(<[^>]*>)/);
+      // split() with capturing group produces: [text, tag, text, tag, ...]
+      // Odd indices are tags, even indices are text.
+      let segOut = parts[0].replace(termPattern, wrapSearchable);
+      for (let j = 1; j < parts.length; j += 2) {
+        segOut += parts[j] + parts[j + 1].replace(termPattern, wrapSearchable);
+      }
+      out += segOut;
     }
     return out;
   });

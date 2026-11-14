@@ -30,6 +30,16 @@
   <link rel="manifest" href="/site.webmanifest">
   <script defer src="https://analytics.destructuring-bind.org/script.js" data-website-id="{{ site.umamiWebsiteID }}"></script>
   <script src="/js/share-link.js" defer></script>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)']],
+        displayMath: [['\\[', '\\]']]
+      },
+      startup: { typeset: true }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" defer></script>
 </head>
 <body>
   <header class="site-header">
