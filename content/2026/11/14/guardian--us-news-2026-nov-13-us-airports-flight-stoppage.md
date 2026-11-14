@@ -1,0 +1,98 @@
+---
+title: '‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to
+  a halt'
+source_url: https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage
+source_site: The Guardian
+source_slug: guardian
+description: Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of
+  upset amid nationwide ground stop
+image: https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68d437780fbfb97448d03edcbc01bb8a
+published: '2026-11-14T00:00:00Z'
+scraped_at: '2026-11-14T10:15:03Z'
+categories:
+- UK
+- News & Politics
+- Travel
+people:
+- Andy
+- Larson Welsh
+- Laura
+- Rashid Kahn
+- Steve Honberger
+- Tom Johnson
+- Tom Rolenaitis
+- Tsuki
+locations:
+- California
+- Finland
+- JFK Airport
+- John F Kennedy
+- Las Vegas
+- Miami
+- New York
+- Oregon
+- Paris
+- Portland
+- San Francisco
+- US
+organisations:
+- American Airlines
+- Barcelona
+- Delta
+- FAA
+- FlightAware
+- Flightradar24
+- JetBlue
+- NBA
+- NHL
+- US Federal Aviation Administration
+- World Trade Center
+---
+
+The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.
+
+At New York’s John F Kennedy airport, passengers found their travel plans abruptly cancelled – some even after they’d boarded.
+
+Steve Honberger, heading home to Portland, Oregon, with his wife and daughter, said he’d been on a plane about to take off when the shutdown was announced.
+
+“They didn’t seem to know what’s happening, and they wanted to hold off as long as possible,” Honberger said. The plane sat at the gate for an hour and 40 minutes.
+
+![Passengers sit in a dim airplane cabin while a man reaches into an overhead bin near an exit sign](https://i.guim.co.uk/img/media/7e2300f5aeb93e7b634eb89498298604329c3104/0_0_5000_3333/master/5000.jpg?width=445&dpr=1&s=none&crop=none)
+
+They realized they were just going to be sitting at the gate, so they eventually asked to deplane and rebook.
+
+Many still thought it worth showing up despite the uncertainty of when flights would resume. Rashid Kahn, heading for Miami, said he’d “heard about the ground stop on the news, but the airline said we might take off 10 or 11pm”.
+
+“I am hopeful,” he added. “But maybe it’s something to do with the date. I’m not super serious, but it’s Friday the 13th.”
+
+Tom Rolenaitis, returning a Shiba Inu show dog named Tsuki to Finland, said it was frustrating. “It’s cutting into a three-day trip and I have to get him back to his owner. We have no idea what’s happening.”
+
+A flight attendant headed for Barcelona, who declined to give his name, said he had been told his American Airlines flight would be slightly delayed and all incoming international flights were being allowed to land.
+
+Another crew member from the flight said cheerfully: “Things happen. Hopefully it will all be resolved.”
+
+As the day wore on, passengers on international flights began to be boarding, prompting applause to erupt at the gates. “It’s moving, so that’s good,” said an airline representative. “But only international is going.”
+
+The FAA issued the nationwide ground stop on Friday afternoon, citing a communications problems at regional air traffic control centers, according to an FAA notice. Four hours later, FAA sent out an advisory lifting the stop.
+
+![Delta planes parked on the tarmac after a ground stop at JFK Airport](https://i.guim.co.uk/img/media/a99f02bdb5444668928da7f9c0de58bd772a05f5/0_0_4000_2667/master/4000.jpg?width=445&dpr=1&s=none&crop=none)
+
+“You can’t moan about this kind of thing ... it’s such a first-world problem,” said Laura, a woman who lives in New York and was heading for San Francisco when her JetBlue flight was grounded. She still hoped her flight would go. “That what I have to figure out,” she said, sitting on the floor of the terminal.
+
+With the lifting of the ground stop, more chaos followed. “My flight was cancelled, then I go to a kiosk, put my information in and it says I’m leaving at 3am. Then I talk to the desk and they know nothing,” said Larson Welsh, heading to Las Vegas from Paris.
+
+The outage has nonetheless caused upheaval for thousands of passengers. There have been 10,343 flight delays within, into or out of the US so far, according to the website FlightAware, and 1,479 cancellations. More than 1,000 aircraft were bound for US when the ground stop was announced, according to Flightradar24.
+
+Only two national ground stops have previously been issued: on 11 September 2001, after the terrorist attack on the World Trade Center; and in January 2023, after a communications failure.
+
+The ground stop also snarled the sports world, leaving NBA, NHL and college teams stranded as they tried to reach their destinations before a big weekend of games. It also was unclear whether referees, who typically fly to their assignments the day before games, would make it on time.
+
+![Travellers speak with a Delta check-in staff member during an airport ground stop](https://i.guim.co.uk/img/media/97d67b58ebb1ea860a77c43a2496b3aed707467e/0_0_3000_2000/master/3000.jpg?width=445&dpr=1&s=none&crop=none)
+
+Back at JFK, travelers expressed frustration and resignation.
+
+“My flight to California was cancelled with no information and no rebooking. My flight was cancelled last night as well due to bad weather. Now I’m missing a family event,” said a man who gave his name only as Andy. “It’s frustrating. And I’m pissed.”
+
+Honberger, meanwhile, tried to stay optimistic, saying: “There are people sitting on tarmac, so we count ourselves lucky and we were able to book ourselves a hotel for the night.”
+
+*Tom Johnson and agencies contributed reporting*
