@@ -82,6 +82,9 @@ jobs:
 
       - name: Run scraper
         working-directory: ./scraper
+        env:
+          PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+          PROXY_USER_PASS: ${{ secrets.PROXY_USER_PASS }}
         run: |
           ARGS="--browser-concurrency 2"
           if [ -n "${{ github.event.inputs.site }}" ]; then
