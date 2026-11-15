@@ -1,0 +1,79 @@
+---
+title: Senator-elect Scott Colom vows to ensure Trump follows through on his promises
+source_url: https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump
+source_site: The Guardian
+source_slug: guardian
+description: 'Mississippi Democrat points to commitments Trump made: lower prices,
+  halt endless wars and release Epstein files'
+image: https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e92fdda22814c43e890756929fa8e2
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T22:47:43Z'
+categories:
+- UK
+- News & Politics
+people:
+- Cindy Hyde-Smith
+- Dana Bash
+- Donald Trump
+- Jeffrey Epstein
+- Joe Biden
+- Kristen Welker
+- Pick
+- Scott Colom
+- Sean Duffy
+locations:
+- Alaska
+- Atlanta
+- Iran
+- Israel
+- Mississippi
+- US House
+- Washington DC
+- White House
+organisations:
+- CNN
+- Congress
+- Epstein
+- FAA
+- Federal Aviation Administration
+- NBC News
+- Senate
+- Trump
+- US Capitol
+---
+
+After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024.
+
+Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential administrations, and fully releasing files related to the prosecution of Jeffrey Epstein, the late accused sex trafficker whose social circle encompassed the US and global elite.
+
+But prices for fuel and other goods soared as Trump and Israel started war in Iran in February, a conflict which has dragged on for months – and critics have said many of the so-called Epstein files have been excluded from allegedly incomplete disclosures by the president’s administration.
+
+Voters “elected me to make sure he follows through on the commitments he made in 2024,” Colom said. “Well, I want to work … to actually accomplish that.”
+
+Colom also said that he intended to support efforts to pass legislation restricting stock trading by members of Congress, saying it was important for Americans to know lawmakers at the US Capitol in Washington DC “aren’t making money instead of looking out for them”.
+
+“We [have] got to look out for our families – not DC families,” Colom said.
+
+In a separate interview with NBC News’s Kristen Welker on Sunday, Colom added: “I’m not here to look out for the billionaires. I’m here to look out for working people.”
+
+Those remarks from Colom came after he unseated Republican incumbent Cindy Hyde-Smith during the 3 November midterm elections to become the first Black US senator from Mississippi since 1875 – during the Reconstruction period after the American civil war.
+
+Colom’s triumph over Hyde-Smith occurred about three years after she blocked the former state prosecutor’s nomination for a federal judgeship during Joe Biden’s presidency, which interrupted Trump’s two White House terms. His victory in many ways punctuated a midterm “blue wave” that saw Trump and his Republican party lose control of Congress to their Democratic counterparts for the latter half of his second presidency beginning in January.
+
+With the outcome of the US Senate race in Alaska still pending on Sunday, the seat to which Colom was elected was among eight that the Democrats had flipped in that congressional chamber. Democrats had also gained more than three dozen seats in the US House during the midterms while significantly expanding their control of state governors’ offices, igniting hopes among the party’s supporters that it could impede Trump’s agenda for the rest of his time in power.
+
+Trump has responded to the new political reality for the rest of his presidency by reminding the public that he has veto powers which he can wield to dictate policy with respect to matters such as the Iran war.
+
+Asked by Bash to reflect on the historic significance of his win over Hyde-Smith, Colom replied: “It says that we have made a lot of progress in the journey to have people judged by the content of their character and not the color of their skin.
+
+“I had faith that Mississippians would give me a chance … if I could get my values out there and a vision for our state out there,” Colom said. “And – you know – Mississippi proved me right.”
+
+Colom appeared on both networks remotely from Atlanta, where he was stranded after his flight to Washington DC was cancelled in the chaotic aftermath of Friday’s nationwide Federal Aviation Administration (FAA) ground stop.
+
+From Atlanta’s airport on Saturday night, Colom documented the frustrations of fellow travelers on social media.
+
+The senator-elect said one traveler even made a reference to his viral campaign ad criticizing Hyde-Smith for once suggesting those concerned about rising beef prices could opt for cheaper sources of protein.
+
+The campaign ad’s tagline was: “Pick another protein? … I’d rather pick another senator instead.”
+
+As the clock passed midnight at the airport, Colom wrote that another passenger made a joke at the expense of Trump’s transportation secretary Sean Duffy, saying, “Pick another flight? … Pick another transportation secretary.”

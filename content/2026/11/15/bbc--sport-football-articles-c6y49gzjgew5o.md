@@ -1,0 +1,133 @@
+---
+title: 'Women''s Super League: London City''s ''bravery'' paying off in top three
+  pursuit'
+source_url: https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: After 10 games in the Women's Super League season, London City Lionesses
+  have shown they are capable of finishing inside the top three.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/342a/live/cd3dcfa0-e141-11f1-b838-e76e4fa8abe5.jpg
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T22:47:44Z'
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
+people:
+- Alexia Putellas
+- Delphine Cascarino
+- Eder Maestre
+- Freya Godfrey
+- Frida Maanum
+- Izzy Goodwin
+- Kadidiatou Diani
+- Leah Williamson
+- Lucia Corrales
+- Mapi Leon
+- Mary Earps
+- Michele Kang
+- Sarina Wiegman
+locations:
+- Emirates
+- England
+- London City
+- Paris St-Germain
+- US
+organisations:
+- Arsenal
+- Barcelona
+- Chelsea
+- Emirates Goodwin
+- Gunners
+- London City
+- London City Lionesses
+- Manchester City
+- Manchester United
+- WSL
+- XI
+---
+
+London City earn point in thrilling draw against Arsenal
+
+**After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.**
+
+Their narrow 2-1 defeat by Manchester City two weeks ago provided snippets of their potential but a 1-1 draw at the Emirates against an improved Arsenal on Sunday confirmed their credentials.
+
+Eder Maestre's side sit third in the table - the last qualification spot for next season's Women's Champions League - and are six points above Arsenal.
+
+It is a strong position to be in just shy of the halfway stage having already faced big hitters Arsenal, Manchester City and Manchester United.
+
+Current leaders Chelsea await in December but, for now, London City's progress is moving at a pace that looks set to challenge the usual suspects.
+
+## Showing 'bravery' at the Emirates
+
+Goodwin's glorious solo strike draws London City Lionesses level
+
+A sold-out away end helped fill out the 32,000-strong crowd at the Emirates on Sunday as many hoped for an end-to-end encounter.
+
+They were not disappointed as fearless London City showed bravery against an Arsenal side who played with a spark following their 1-1 draw with Barcelona.
+
+The visitors were helped out by Arsenal's wastefulness - the Gunners had 17 shots and only converted one - but London City caused plenty of problems of their own.
+
+Maestre said after their defeat by Manchester City that their opponents showed more experience and know-how but against Arsenal, his side matured.
+
+They were under pressure early on and fell a goal down thanks to Frida Maanum's opener but it took just 98 seconds for Izzy Goodwin to equalise for London City.
+
+That killed Arsenal's momentum and when the pressure increased again from the hosts in the second half, goalkeeper and player of the match Mary Earps stepped up to make crucial saves.
+
+"The performance was there. We had the chances to score and get a better result but Arsenal had chances too. The game was very open," said Maestre.
+
+"The way we faced and challenged every circumstance in the game shows we are here, and able to play with that mentality in these big games.
+
+"We came here to take risks. Our energy was good. We were brave and weren't scared about the context or the opponent.
+
+"We tried to play as if we were at home. I always want to feel that my teams are brave and go for the win."
+
+That bravery showed as Alexia Putellas came close twice with long-range efforts, Goodwin could have been onside when she was played in behind later on.
+
+London City hit the crossbar through substitute Delphine Cascarino and had 14 shots compared to Arsenal's 17, including four inside the box.
+
+Arsenal are still yet to win at home this season in the WSL but this was still an impressive showing from London City, who came to the Emirates to play.
+
+But while they were willing to take risks, they were smarter than they were against Manchester City, choosing when to press aggressively and when to hold off.
+
+"We tried to match the pace of the ball and not expose ourselves as much to the players that Arsenal have," added Maestre.
+
+"We were trying to mix the moments we were more clinical in our press. We made some adjustments at half-time and were much better at recognising those."
+
+## Earps and Goodwin shine on big stage
+
+Mary Earps, what a save!
+
+London City are backed by US billionaire Michele Kang and that has made a big difference in the transfer market.
+
+They recruited superstars Alexia Putellas, Mary Earps, Mapi Leon and Kadidiatou Diani in the summer.
+
+Such is their depth that high-flying Spaniard Lucia Corrales, the dangerous Cascarino and England international Freya Godfrey came off the bench.
+
+Those individual talents have made a difference and on Sunday it was goalkeeper Earps who took the plaudits, claiming the player of the match award.
+
+She made crucial saves late on as Arsenal pushed ferociously for a winner, tipping Maanum's effort onto the crossbar and blocking her shot from close range.
+
+Earps had to bide her time for the number one shirt after making the switch from Paris St-Germain this summer but has started the past three WSL games.
+
+"Mary is a very strong character and is much more than the things we see in terms of the performance," said Maestre.
+
+"She has experience, and energy that you can bring to every part in the process and not just the things we see in the matches.
+
+"I think the energy that she brings to the position is massive and has a massive impact. I'm very pleased with her."
+
+Watching on in the stands was England boss Sarina Wiegman who will have been pleased with the display from goalscorer Goodwin.
+
+The 23-year-old got the better of England captain Leah Williamson when she fooled her with quick feet and fired the ball into the back of the net, making it 1-1.
+
+She is proof that competition for places in the London City starting XI is pushing players on and that their depth is improving each week.
+
+"I think Izzy is becoming a more mature player. She has the inner competition and the signings sometimes push you to bring 100% every time," added Maestre.
+
+"She is committed to keep pushing and, with the performances she is having, why not [earn an England call-up]?
+
+"Izzy is moving forward in the ways she can take advantage and that commitment is the way she is reaching those performances. I'm very proud of her."
+
+* + Published18 September![Michele Kang in London City shirt ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a127/live/b29a2fc0-b01f-11f1-95e6-93ee8a80cb38.jpg)

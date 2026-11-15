@@ -1,0 +1,67 @@
+---
+title: Nvidia RTX 5090 stock returns to Newegg with 21 models — but scarcity pricing
+  keeps the cheapest air-cooled cards at least three times MSRP
+source_url: https://www.tomshardware.com/uk/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn
+  from the consumer retail channel it is pleasing to see major U.S. eTailers like
+  Newegg stuffed with cheaper stock today.
+image: https://cdn.mos.cms.futurecdn.net/jzKCnT5TDpoxxFHV85FXgk-1920-80.jpg
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T22:46:56Z'
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+people:
+- Mark Tyson
+- TechieTwo
+- Tom
+locations:
+- Newegg
+- U.S
+organisations:
+- Asus
+- Blackwell
+- GPU
+- Google News
+- MSI
+- Newegg
+- Nvidia
+- PC
+- ROFLMAO
+- Tom's Hardware
+- Zotac
+---
+
+![RTX 5090 listings](https://cdn.mos.cms.futurecdn.net/jzKCnT5TDpoxxFHV85FXgk-1920-80.jpg)
+
+After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel, it is pleasing to see major U.S. e-tailers like Newegg stuffed with stock today. Checking out this popular online electronics retailer, we note that there are 21 RTX 5090 SKUs available, and 11 are sold by and shipped by Newegg. Sadly, pricing remains in 3x MSRP+ territory at the time of writing. Remember, you can sift through pricing trends in our comprehensive GPU price tracking 2026 feature to see that Nvidia's Blackwell flagship was once available at its fabled sub-$2,000 price.
+
+![RTX 5090 listings](https://cdn.mos.cms.futurecdn.net/dEo68vKHBzmhHAKc8axnpk-1200-80.jpg)
+
+Despite what looks on the surface like an ample supply (but there are order limits of one per customer), prices for RTX 5090s remain extremely high. The best prices we can see at Newegg are $6,599, but this price applies only to a water-cooled Aorus model and another sold inside a Gigabyte AI BOX eGPU. They might still appeal to you, depending on your setup, though.
+
+For a ‘standard’ air-cooled graphics card, albeit a very nice Aorus RTX 5090 Master, you’ll need to squeeze at least $6,659 out of your savings. A bonus with this card, alongside several others from the Gigabyte stables now purchasable from Newegg, is that it comes with a free motherboard. Many of these Gigabyte Aorus designs are being bundled with a full-ATX-sized X870 Aorus Elite WIFI7 AM5 motherboard, purportedly worth $319. Please note that the same motherboard is available to purchase outside this bundle for a more reasonable $249.
+
+If you have money to burn, there are plenty of even more expensive SKUs to pick from. There are no opulent Golden Dhabab models on Newegg, sadly, but you’ll still be asked to part with $11,896 for the Asus ROG Astral GeForce RTX 5090 Edition 20 (sold by a Newegg marketplace partner). Perhaps surprisingly, given recent trending pricing news, that’s the only model above $10K, but there are still many models that are almost $10,000 from Asus, MSI, and Zotac. Even an Nvidia Founders Edition RTX 5090 refurb is priced at $8,899.
+
+In context, these RTX 5090s are still at astronomical prices for consumer gaming PC add-in hardware. But they are now purchasable from a big retailer with fast delivery, rather than off a random scalper. It was only a month ago that rumors swirled about the RTX 5090 and the RTX 5080 being withdrawn from retail. That seemed to trigger crazy levels of price inflation, and reports of $10,000+ prices for the flagship card seemed to become the norm.
+
+One can only hope that stock continues to flow to Newegg and other outlets, and RTX 5090 / RTX 5080 prices will settle lower as a result.
+
+
+
+*Download the Tom's Hardware app for up-to-the-minute updates on* * iOS* * and* * Android**. Also follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Mark Tyson](https://cdn.mos.cms.futurecdn.net/56vqMYLDaKRHPhHZgbADFR-140-80.jpg)
+
+Mark Tyson is a news editor at Tom's Hardware. He enjoys covering the full breadth of PC tech; from business and semiconductor design to products approaching the edge of reason.
+
+* TechieTwo said:You gotta have deep pockets and questionable judgement to spend $6000+ on a GPU card.  
+  I do possess a questionable judgement.  
+    
+  Alas, i'm kinda lacking at the deep pockets department! :ROFLMAO: Reply

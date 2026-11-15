@@ -1,0 +1,92 @@
+---
+title: Trident nuclear submarine concludes record underwater deployment
+source_url: https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour
+source_site: The Guardian
+source_slug: guardian
+description: HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance
+  of ageing fleet and strain on crew
+image: https://i.guim.co.uk/img/media/092370dd24a52c58bc3c62c308a112aa0c5eccdc/426_0_2757_2206/master/2757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0810c6d630be45146210d4da7ea4021b
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T22:47:07Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Andy Burnham
+- David Cullen
+- Gwyn Jenkins
+- Keir Starmer
+- Lou Haigh
+- Sophie Brook
+- Wes Streeting
+locations:
+- Britain
+- Devonport
+- Downing Street
+- Faslane
+- Moscow
+- Portsmouth
+- Scotland
+- UK
+organisations:
+- HMS Dreadnought
+- HMS Vanguard
+- HMS Vengeance
+- Labour
+- Manchester United
+- Premier League
+- Royal Navy
+---
+
+A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting.
+
+HMS Vengeance began its patrol on 12 April and spent 217 days submerged before returning on Sunday, having left the country when Keir Starmer was in Downing Street and Manchester United were third in the Premier League.
+
+Its tour surpasses the previous 205-day record set by HMS Vanguard, and has raised questions about the strains placed on sailors and the reliability of ageing submarines sent on the extended missions.
+
+“Patrols are getting longer and longer,” said David Cullen, a nuclear expert with the Basic thinktank. “The fleet was designed around three-month tours, and that was considered to be a long time to be stuck underwater in a metal box with no contact with the outside world.”
+
+The increase in the time spent at sea reflects the slow pace of submarine maintenance, prompting Labour to blame spending cuts implemented by the Conservatives, though naval chiefs insist there is a plan for improvement.
+
+Streeting said the length of time the crew had spent submerged did not “sit lightly” with him.
+
+Streeting, who was accompanied in Faslane by the first secretary of state, Lou Haigh, added: “It makes me feel even more indebted to the crew for the service they’ve given to the country, for the commitment they show, the dedication, the professionalism, the expertise.
+
+“I think the whole country can be extraordinarily proud of our submariners and of our nuclear deterrent.”
+
+He described the nuclear patrols as the “ultimate national endeavour” and thanked the returning submariners for their “dedicated, heroic service” which he said was the model of patriotism.
+
+![HMS Vengeance submarine cruises homeward with wind turbines and hills in the background](https://i.guim.co.uk/img/media/ede8eea10a8394803e146be1ee071dabfe0a1f3f/691_0_4997_3998/master/4997.jpg?width=445&dpr=1&s=none&crop=none)
+
+HMS Vengeance is one of four submarines that carryBritain’s Trident nuclear missiles. A boat is at sea at all times, so the UK could launch strikes even if land-based systems had been destroyed in a nuclear war.
+
+When the Vanguard class of submarines was brought into service in the 1990s, they were designed to carry three to four months of food for the crew of about 140, and deployments of more than 100 days were considered highly exceptional. Missions now start with tinned food crammed into corridors and other available spaces.
+
+Each submarine has to keep its location secret so it cannot be targeted, meaning it also cannot be resupplied. The boats maintain radio silence and so the crew cannot message out on the long deployments, though they can receive news and other information.
+
+Such is the length of the patrols that the return of a Trident submarine, known as a “day zero”, has become a political event. Starmer made an unannounced visit when the last patrol ended in April, praising the crew on their return.
+
+There have been worries about the psychological impact of the patrols on the crew members, who have to spend seven months underwater in a boat 150 metres long, at a time when the Royal Navy is struggling to recruit new personnel.
+
+Last week, the head of the Royal Navy, Gen Sir Gwyn Jenkins, said he had “nothing but tremendous respect” for the Trident sailors, but added that the UK needed to “improve our submarine maintenance” to allow faster turnaround.
+
+The submarine service, in line with the rest of the navy, has a “no touching rule” – prohibiting physical intimacy on board – though the service has had to contend with allegations of sexual abuse and harassment during deployments.
+
+after newsletter promotion
+
+In October 2024, the then first sea lord was forced to issue an apology to women – who make up about 10% of the navy – who had suffered “misogyny, bullying and other unacceptable behaviours” in the submarine service.
+
+The navy conducted an inquiry after a whistleblower, Sophie Brook, complained of a “constant campaign of sexual bullying” from male sailors. Reports of rape, physical and verbal abuse were examined in a heavily redacted report.
+
+Trident submarines can carry 40 nuclear warheads, with enough destructive power to destroy Moscow and several other major Russian cities, and a letter from the prime minister to tell the captain how to proceed in the event it is determined the UK no longer exists after an all-out nuclear attack.
+
+Such is the length of the boat’s patrol it will still be carrying Starmer’s letter, though the replacement submarine on rotation will have Andy Burnham’s instructions, written in longhand in the days after he took over at Downing Street.
+
+![Families hold a “Welcome Home Freddie” banner on a beach, awaiting a returning submariner](https://i.guim.co.uk/img/media/0e002dfadd956d988289c56bba2ce7da90cfdb4e/0_0_5835_4668/master/5835.jpg?width=445&dpr=1&s=none&crop=none)
+
+In July, Labour announced a £26bn, 10-year plan to invest in Britain’s three main naval bases, at Faslane, the operational home of the Trident submarines, Devonport and Portsmouth, as part of a wider increase in defence spending.
+
+However, the first of the replacements for the four Vanguard class submarines, HMS Dreadnought, is not expected to be ready until about 2032, meaning that the old boats have at least five more years to remain in service.
+
+“The inherent risks of operating submarines are being pushed by them being run as they are. At the end of the submarines’ design life they should be run gently, not as hard as they are,” Cullen said.

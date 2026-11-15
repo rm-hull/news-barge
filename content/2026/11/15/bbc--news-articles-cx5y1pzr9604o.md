@@ -1,0 +1,73 @@
+---
+title: Clothing factories shut in Bangladesh as workers strike over pay
+source_url: https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Workers are striking over demands for a minimum wage of 30,000 taka (£182)
+  a month.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T22:47:07Z'
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
+people:
+- Mahmud Hasan Khan
+- Mohammad Amjad Hossain
+locations:
+- Ashulia
+- Bangladesh
+- China
+- Dhaka
+- Dhaka-Tangail
+- Gazipur
+- Savar
+organisations:
+- BBC
+- BGMEA
+- BKMEA
+- Bangladesh Garment Manufacturers and Exporters Association
+- Bangladesh Knitwear Manufacturers and Exporters Association
+- H&M
+- Primark
+- Zara
+---
+
+![A group of protesters stand behind a colourful banner demanding a new minimum wage in the garment industry](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg)
+
+Protesters in Dhaka, Bangladesh, on Friday demanding a new minimum wage
+
+**Dozens of factories in Bangladesh's main clothes-producing area have been shut by workers striking over a higher minimum wage.**
+
+Nearly 150 sites across the country have been closed in the textile hubs of Savar, Ashulia and Gazipur this weekend.
+
+The garment industry is big business for Bangladesh, generating nearly $40bn (£30bn) in exports every year and making up 10% of the country's total GDP.
+
+Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month. The minimum monthly wage in Bangladesh is currently 12,500 taka but employees say this is not enough to deal with the cost of living crisis.
+
+On Sunday morning workers massed on the Dhaka-Tangail highway in Gazipur to block the road. Traffic was stopped by the protests for about an hour before police stepped in.
+
+A "No Work No Pay" provision of labour laws allows owners to suspend operations and withhold wages when production is disrupted.
+
+Police Supt Mohammad Amjad Hossain told the BBC officers shut factories in the city after the workers walked out.
+
+He said 13 factories were closed on Saturday night and "sixteen factories were closed during the morning unrest".
+
+The garment industry in Bangladesh employs about four million workers making clothes for big brands including H&M, Primark and Zara.
+
+Bangladesh is the world's second largest exporter of ready- to-wear clothes after China and it is feared that the current unrest could have a knock-on effect for international buyers if it carries on for substantial amount of time.
+
+The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and the Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA) is calling for protection for factories.
+
+"BGMEA and BKMEA have questioned the justification of continuing to participate in wage board negotiations without any assurance that the factories will be protected," BGMEA President Mahmud Hasan Khan said.
+
+"Garment factories that have been unable to continue production due to the ongoing unrest will remain indefinitely closed from tomorrow under... Bangladesh's labour law."
+
+On 1 November the government formed a minimum wage board to recommend a revised pay structure for workers.
+
+The board, chaired by a senior district judge, said at its first meeting it would finalise any recommendations by the end of November.
+
+Once it is put in place, the revised pay structure is expected to take effect from 1 December.
