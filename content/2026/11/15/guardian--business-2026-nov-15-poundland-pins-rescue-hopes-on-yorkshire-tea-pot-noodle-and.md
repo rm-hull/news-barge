@@ -1,0 +1,91 @@
+---
+title: Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor
+source_url: https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor
+source_site: The Guardian
+source_slug: guardian
+description: Chain restocks stores in operation named after singer of I Will Survive,
+  as US owners release some of withheld funds
+image: https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b78ad1d4cf5c66c9ecd0be61ced76470
+published: '2026-11-15T00:00:00Z'
+scraped_at: '2026-11-15T16:19:31Z'
+categories:
+- UK
+- News & Politics
+- Music
+people:
+- Andy Burnham
+- Gloria Gaynor
+- Gordon Brothers
+- Jonathan Reynolds
+- Liam Byrne
+- Poundland
+locations:
+- Ireland
+- UK
+- US
+- Wall Street
+organisations:
+- Department for Business, Innovation, Science and Trade
+- Gloria Gaynor
+- Gordon Brothers
+- Guardian
+- Innovest
+- Martin Property Group
+- Pepco
+- Pot Noodles
+- Poundland
+- Sky News
+- Tesco
+- Xyra Group Holdings
+- Yorkshire Tea
+---
+
+Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch talks with the government.
+
+In an emergency resupply effort codenamed “Operation Gloria” by senior Poundland staff, about 16m grocery items were dispatched to 600 shops in the UK and Ireland over the weekend.
+
+The name comes from the Gloria Gaynor song I Will Survive, which soundtracked a defiant video posted by Poundland on social media showing pallets of Yorkshire Tea and Pot Noodles making their way from depots to the shelves.
+
+The US investment firm Gordon Brothers earlier agreed to unlock £21m of £50m that it had been withholding, amid accusations it was endangering the business.
+
+![Gloria Gaynor, with a microphone in her right hand, singing on Top of the Pops in the 1970s](https://i.guim.co.uk/img/media/9b30e4f4898bf3e55edd3551390c0ae0ee3cd241/128_647_2209_2268/master/2209.jpg?width=445&dpr=1&s=none&crop=none)
+
+The money will provide breathing space while rescue talks continue, ensuring that suppliers continue sending goods to branches during the crucial pre-Christmas trading period.
+
+Poundland filed a notice of intention to appoint administrators at the end of last month, throwing the fate of its 12,000 staff and about 2,000 suppliers into uncertainty.
+
+Last week the chain won approval from the high court for an extension of legal protection from creditors, giving it until 26 November to find a buyer.
+
+The company and Gordon Brothers are now heading for a frantic period of talks with potential buyers and the business secretary, Jonathan Reynolds.
+
+Discussions could be soured by allegations – denied by Gordon Brothers – that the US investment group is more interested in protecting its own interests by breaking up the business despite signs of a dramatic improvement in its trading performance.
+
+Gordon Brothers bought Poundland from the Polish retail group Pepco last year for a nominal £1 and claims to have rescued the company from collapse when nobody else would.
+
+However, the US business has faced criticism from MPs, who have accused it of “predatory capitalism” and extracting millions of pounds as Poundland found itself on a knife-edge.
+
+Liam Byrne, the chair of the business select committee, has likened Gordon Brothers to “the wolf of Wall Street, on the British high street”.
+
+Documents provided to MPs showed the finance firm had taken close to £20m in interest payments and various fees, including those relating to store closures, since acquiring Poundland.
+
+Gordon Brothers has denied freezing any funds that should have been available to Poundland, and pointed to loans that it has provided to prop up the company.
+
+Reynolds plans to meet Poundland and Gordon Brothers before the deadline to stave off administration runs out, according to a report by Sky News.
+
+after newsletter promotion
+
+He and Andy Burnham have expressed concerns about Gordon Brothers’ conduct, with the prime minister asking why the US company has yet to accept an offer for a business that employs 11,000 people.
+
+Poundland has said it is in discussions with three potential buyers.
+
+Bids from the investment groups Xyra Group Holdings and Innovest are understood to have relatively little chance of success.
+
+Martin Property Group, a Northern Irish company, is Poundland’s preferred bidder but progress has stalled over the repayment terms of a loan from Gordon Brothers.
+
+A number of high-street retailers, including Tesco, are eyeing up some of Poundland’s shops.
+
+A Gordon Brothers spokesperson said: “Funds will be released to allow payroll to be made in full this month, while additional funds continue to be released to support Poundland’s ongoing trading.
+
+“While our preference remains a sale of the whole company, we are taking due care to ensure that any successful offer can provide the funds required to acquire the business and see it through to sustainable cash generation.”
+
+The Guardian approached Poundland for comment. The Department for Business, Innovation, Science and Trade declined to comment.
