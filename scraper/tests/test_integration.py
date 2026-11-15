@@ -380,8 +380,8 @@ async def test_ci_emits_notice_and_step_summary(
     assert summary_file.exists()
     summary = summary_file.read_text(encoding="utf-8")
     assert "### News barge scrape summary" in summary
-    assert "| Test Site | 2 |" in summary
-    assert "| **Total** | **2** |" in summary
+    assert "| Test Site | 2 | 0 |" in summary
+    assert "| **Total** | **2** | **0** |" in summary
 
 
 async def test_no_summary_or_notice_outside_ci(

@@ -39,6 +39,17 @@ class SiteLogger:
     def info(self, message: str) -> None:
         self.log(message)
 
+    @property
+    def error_count(self) -> int:
+        """Return the number of error messages logged for this site."""
+        count = 0
+        for line in self.logs:
+            if line.startswith("::error::") or line.startswith(
+                f"{Style.BRIGHT + Fore.RED}ERROR:{Style.RESET_ALL}"
+            ):
+                count += 1
+        return count
+
 
 def report_error(message: str, logger: SiteLogger | None = None) -> None:
     """Prints an error message to stderr with colors and GitHub Actions support."""

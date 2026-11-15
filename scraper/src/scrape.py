@@ -606,13 +606,18 @@ def _print_summary(
         summary_lines = [
             "### News barge scrape summary",
             "",
-            "| Site | New articles |",
-            "| --- | --- |",
+            "| Site | New articles | Scrape errors |",
+            "| --- | --- | --- |",
         ]
+        total_errors = 0
         for slug in sorted(site_loggers, key=lambda s: site_loggers[s].site_name):
             name = site_loggers[slug].site_name
-            summary_lines.append(f"| {name} | {site_new_counts.get(slug, 0)} |")
-        summary_lines.append(f"| **Total** | **{total_new}** |")
+            errors = site_loggers[slug].error_count
+            total_errors += errors
+            summary_lines.append(
+                f"| {name} | {site_new_counts.get(slug, 0)} | {errors} |"
+            )
+        summary_lines.append(f"| **Total** | **{total_new}** | **{total_errors}** |")
         summary_lines.append("")
 
         # Surface the @profiled timing table in the step summary so it's
