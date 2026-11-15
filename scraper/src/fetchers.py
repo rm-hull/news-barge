@@ -10,7 +10,7 @@ import time
 from typing import Any, Literal
 
 import aiohttp
-from playwright.async_api import BrowserContext, Page
+from playwright.async_api import Browser, BrowserContext, Page
 
 from .constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
 from .log_helper import report_error
@@ -18,6 +18,23 @@ from .profiling import profiled
 
 # Type alias for fetch results
 FetchResult = str | None
+
+
+# ─── Proxy helpers ──────────────────────────────────────────────────────────
+
+
+def _build_proxy_url(server: str | None, user_pass: str | None) -> str | None:
+    """Build a proxy URL from server and optional user:pass credentials.
+
+    If *server* is ``None`` or empty, returns ``None``.
+    If *user_pass* is provided, it is prepended to the host (before the ``://``).
+    """
+    if not server:
+        return None
+    if user_pass:
+        return re.sub(r"^(https?)://", r"\1://" + user_pass + "@", server, count=1)
+    return server
+
 
 # Cloudflare challenge page markers — these are specific to the challenge
 # interstitial, not present on normal pages that merely load Cloudflare CDN
@@ -68,6 +85,7 @@ async def fetch_html_aiohttp(
     headers: dict[str, str] | None = None,
     allow_redirects: bool = True,
     ssl: bool = True,
+    proxy: str | None = None,
 ) -> FetchResult:
     """Lightweight fetch using aiohttp.
 
@@ -78,6 +96,7 @@ async def fetch_html_aiohttp(
         headers: Optional HTTP headers to use instead of defaults.
         allow_redirects: Whether to follow redirects.
         ssl: Whether to verify SSL certificates.
+        proxy: Optional proxy URL (e.g. ``http://user:pass@proxy:8080``).
 
     Returns:
         The HTML content as a string, or None on failure.
@@ -91,6 +110,7 @@ async def fetch_html_aiohttp(
             timeout=timeout,
             allow_redirects=allow_redirects,
             ssl=ssl,
+            proxy=proxy,
         ) as response:
             response.raise_for_status()
             return await response.text()
@@ -106,6 +126,8 @@ async def fetch_html_playwright(
     logger: Any = None,
     wait_until: Literal["commit", "domcontentloaded", "load", "networkidle"]
     | None = None,
+    proxy: str | None = None,
+    browser: Browser | None = None,
 ) -> FetchResult:
     """Full browser render for JS-heavy or anti-bot pages.
 
@@ -117,6 +139,10 @@ async def fetch_html_playwright(
 
     The analytics/ad route is registered once on the context (not per page),
     so every page inherits the blocking rule automatically.
+
+    If *proxy* is set, a new context is created with that proxy instead of
+    using the shared context. The *browser* argument must be provided in that
+    case so the new context can be created.
 
     .. note::
        Callers must acquire ``browser_semaphore`` **before** calling this
@@ -130,14 +156,36 @@ async def fetch_html_playwright(
         context: Shared Playwright BrowserContext to open pages from.
         logger: Optional logger for error reporting.
         wait_until: Playwright wait_until mode (default: "domcontentloaded").
+        proxy: Optional proxy URL (e.g. ``http://user:pass@proxy:8080``).
+        browser: Playwright Browser instance (required when *proxy* is set).
 
     Returns:
         The HTML content as a string, or None on failure.
     """
     page: Page | None = None
+    temp_context: BrowserContext | None = None
     start = time.perf_counter()
     try:
-        page = await context.new_page()
+        # If a proxy is configured, create a new context with that proxy
+        # because Playwright sets proxy at the context level, not per-request.
+        use_context = context
+        if proxy:
+            if browser is None:
+                report_error(
+                    "Playwright proxy requires browser instance", logger=logger
+                )
+                return None
+            use_context = await browser.new_context(
+                proxy={"server": proxy},
+                user_agent=FETCH_HEADERS["User-Agent"],
+                java_script_enabled=True,
+                extra_http_headers={
+                    "Accept-Language": FETCH_HEADERS["Accept-Language"]
+                },
+            )
+            temp_context = use_context
+
+        page = await use_context.new_page()
         await page.goto(
             url,
             wait_until=wait_until or "domcontentloaded",
@@ -166,5 +214,10 @@ async def fetch_html_playwright(
         if page is not None:
             try:
                 await page.close()
+            except Exception:
+                pass
+        if temp_context is not None:
+            try:
+                await temp_context.close()
             except Exception:
                 pass

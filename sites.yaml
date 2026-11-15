@@ -22,6 +22,17 @@
 #                            - role="dialog"                      # bare attr form
 #                            - //div[contains(@class, "modal")]   # full XPath
 #                            - //script | //style
+#   proxy_server:   HTTPS proxy URL for this site (e.g. http://proxy.example.com:8080)
+#   proxy_user_pass: Proxy authentication in "user:password" format
+#
+#   Both fields support environment variable substitution using ${VAR_NAME} syntax.
+#   If a value contains ${...}, it will be replaced with the corresponding env var
+#   at load time. Otherwise the value is used literally. Examples:
+#     proxy_server: ${MY_PROXY_SERVER}
+#     proxy_user_pass: ${MY_PROXY_USER_PASS}
+#     proxy_server: http://proxy.internal:3128
+#     proxy_user_pass: admin:secret123
+#
 #   notes:      Freeform reminder
 #
 # {yyyy} placeholder:
@@ -228,6 +239,8 @@ sites:
     feed: https://www.thetelegraphandargus.co.uk/news/rss/
     exclude_query_params: true
     limit: 50
+    proxy_server: ${PROXY_SERVER}
+    proxy_user_pass: ${PROXY_USER_PASS}
 
   - name: University of York News
     slug: york-university

@@ -42,6 +42,7 @@ from .constants import (
     SITES_FILE,
 )
 from .fetchers import (
+    _build_proxy_url,
     fetch_html_aiohttp,
     fetch_html_playwright,
 )
@@ -111,6 +112,7 @@ async def urls_from_feed(
         ),
     }
     ssl = not site.trust_insecure_certs if site else True
+    proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass) if site else None
     body = await fetch_html_aiohttp(
         feed_url,
         session,
@@ -118,6 +120,7 @@ async def urls_from_feed(
         headers=feed_headers,
         allow_redirects=True,
         ssl=ssl,
+        proxy=proxy,
     )
     if not body:
         return []
@@ -147,11 +150,16 @@ async def urls_from_listing(
 ) -> list[str]:
     """Discover article URLs from a listing page."""
     ssl = not site.trust_insecure_certs if site else True
+    proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass) if site else None
     if use_playwright:
         async with browser_semaphore:
-            html = await fetch_html_playwright(listing_url, context, logger=logger)
+            html = await fetch_html_playwright(
+                listing_url, context, logger=logger, proxy=proxy
+            )
     else:
-        html = await fetch_html_aiohttp(listing_url, session, logger=logger, ssl=ssl)
+        html = await fetch_html_aiohttp(
+            listing_url, session, logger=logger, ssl=ssl, proxy=proxy
+        )
     if not html:
         return []
 
@@ -283,6 +291,7 @@ async def _debug_url(args: argparse.Namespace) -> None:
     logger = SiteLogger(site.name, site.slug)
     print(f"Debug mode: processing {url} with site '{site.slug}'")
 
+    proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass)
     async with aiohttp.ClientSession() as session:
         ssl = not site.trust_insecure_certs
         if site.force_playwright:
@@ -294,11 +303,15 @@ async def _debug_url(args: argparse.Namespace) -> None:
                     context,
                     logger=logger,
                     wait_until=site.playwright_wait_until,
+                    proxy=proxy,
+                    browser=browser,
                 )
                 await context.close()
                 await browser.close()
         else:
-            html = await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
+            html = await fetch_html_aiohttp(
+                url, session, logger=logger, ssl=ssl, proxy=proxy
+            )
 
     if not html:
         report_error(f"Failed to fetch HTML from {url}")
@@ -370,7 +383,8 @@ async def _discover_site_urls(
     site_logger = SiteLogger(site.name, site.slug)
 
     async with fetch_semaphore:
-        print(f"Discovery: {site.name} ({site.slug})", end="", flush=True)
+        proxy_tag = f" [proxy: {site.proxy_server}]" if site.proxy_server else ""
+        print(f"Discovery: {site.name} ({site.slug}){proxy_tag}", end="", flush=True)
 
         urls = list(site.urls)
 
@@ -421,6 +435,8 @@ async def _discover_site_urls(
     # Log discovery to the stashed logger for the final grouped report
     site_logger.log(f"\n{'─' * 50}")
     site_logger.log(f"Site: {site.name} ({site.slug})")
+    if site.proxy_server:
+        site_logger.log(f"  Proxy: {site.proxy_server}")
     if site.feed:
         site_logger.log(f"  Fetching feed: {site.feed}")
     for listing_url in site.listing_urls:
@@ -508,6 +524,7 @@ async def _process_articles(
     fetch_semaphore: asyncio.Semaphore,
     retention_months: int,
     output_dir: Path,
+    browser: Any = None,
 ) -> tuple[int, dict[str, int]]:
     """Process all article tasks concurrently.
 
@@ -523,6 +540,7 @@ async def _process_articles(
         "fetch_semaphore": fetch_semaphore,
         "retention_months": retention_months,
         "output_dir": output_dir,
+        "browser": browser,
     }
 
     async def _tagged_process(
@@ -660,6 +678,7 @@ async def main_async(args: argparse.Namespace) -> None:
                 fetch_semaphore=fetch_semaphore,
                 retention_months=args.retention_months,
                 output_dir=args.output_dir,
+                browser=browser,
             )
 
             await shared_context.close()

@@ -120,6 +120,37 @@ sites:
       - //p[contains(., "Follow on Google")] # text-based XPath
 ```
 
+#### Configuring a proxy for a site
+
+Some sites may require an HTTPS proxy to access them. Add `proxy_server` and
+optionally `proxy_user_pass` to the site's entry. Both fields support
+environment variable substitution using `${VAR_NAME}` syntax:
+
+```yaml
+sites:
+  - name: Behind a Proxy
+    slug: proxied
+    feed: https://example.com/rss
+    proxy_server: ${MY_PROXY_SERVER}
+    proxy_user_pass: ${MY_PROXY_USER_PASS}
+```
+
+When the scraper loads `sites.yaml`, any `${VAR_NAME}` placeholder is replaced
+with the corresponding environment variable value. If the variable is not set,
+the placeholder is left intact so you get a clear error. Literal values also
+work:
+
+```yaml
+sites:
+  - name: Behind a Proxy
+    slug: proxied
+    feed: https://example.com/rss
+    proxy_server: http://proxy.internal:3128
+    proxy_user_pass: admin:secret123
+```
+
+The proxy is used for both direct (aiohttp) and Playwright fetches.
+
 ### 4. Commit and push
 
 The Action runs every 4 hours. You can also trigger it manually

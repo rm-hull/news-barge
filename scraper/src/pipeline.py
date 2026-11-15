@@ -20,7 +20,11 @@ from .constants import (
     REPO_ROOT,
 )
 from .dates import months_ago
-from .fetchers import fetch_html_aiohttp, fetch_html_playwright
+from .fetchers import (
+    _build_proxy_url,
+    fetch_html_aiohttp,
+    fetch_html_playwright,
+)
 from .log_helper import SiteLogger, report_error
 from .output import output_path
 from .sites import SiteConfig
@@ -163,6 +167,7 @@ async def process_article(
     logger: SiteLogger,
     retention_months: int = 1,
     output_dir: Path = REPO_ROOT / "content",
+    browser: Any = None,
 ) -> bool:
     """Process a single article: fetch, extract, classify, write.
 
@@ -178,12 +183,15 @@ async def process_article(
         logger: Logger for progress reporting.
         retention_months: Minimum age of article to write (0 = all).
         output_dir: Directory to write output files.
+        browser: Playwright Browser instance (required when proxy is set).
 
     Returns:
         True if article was processed successfully.
     """
     exclude_query_params = site.exclude_query_params
     article_slug = url_to_slug(url, exclude_query_params)
+
+    proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass)
 
     logger.log(f"  → {url}")
 
@@ -196,9 +204,13 @@ async def process_article(
                     context,
                     logger=logger,
                     wait_until=site.playwright_wait_until,
+                    proxy=proxy,
+                    browser=browser,
                 )
         else:
-            html = await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
+            html = await fetch_html_aiohttp(
+                url, session, logger=logger, ssl=ssl, proxy=proxy
+            )
 
     if not html:
         return False
@@ -220,10 +232,12 @@ async def process_article(
                             context,
                             logger=logger,
                             wait_until=site.playwright_wait_until,
+                            proxy=proxy,
+                            browser=browser,
                         )
                 else:
                     return await fetch_html_aiohttp(
-                        page_url, session, logger=logger, ssl=ssl
+                        page_url, session, logger=logger, ssl=ssl, proxy=proxy
                     )
 
         html, unfurled_meta = await unfurl_multipage_article(

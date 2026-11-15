@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import os
+import re
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
@@ -26,6 +28,32 @@ def expand_placeholders(value: str | None) -> str | None:
         return None
     current_year = datetime.now(UTC).strftime("%Y")
     return value.replace("{yyyy}", current_year)
+
+
+# Pattern for ${VAR_NAME} environment variable placeholders
+_ENV_VAR_RE = re.compile(r"\$\{([^}]+)\}")
+
+
+def resolve_env_vars(value: str | None) -> str | None:
+    """Replace ``${VAR_NAME}`` placeholders in *value* with environment variable values.
+
+    If the environment variable is not set, the placeholder is left unchanged
+    so the user gets a clear signal that something is misconfigured.
+
+    Returns ``None`` unchanged, otherwise returns the resolved string.
+    """
+    if value is None:
+        return None
+
+    def _replacer(match: re.Match[str]) -> str:
+        env_name = match.group(1)
+        env_value = os.environ.get(env_name)
+        if env_value is not None:
+            return env_value
+        # Leave the placeholder intact if the env var is not set
+        return match.group(0)
+
+    return _ENV_VAR_RE.sub(_replacer, value)
 
 
 @dataclass
@@ -63,6 +91,14 @@ class SiteConfig:
         Literal["commit", "domcontentloaded", "load", "networkidle"] | None
     ) = None  # "domcontentloaded" (default),
     # "load", "networkidle", etc.
+
+    # ── Proxy configuration ──────────────────────────────────────────────
+    # Per-site HTTPS proxy. Supports ${VAR_NAME} for environment variable
+    # substitution, or a literal URL.
+    proxy_server: str | None = None
+    # Proxy authentication in "user:password" format. Supports ${VAR_NAME}
+    # for environment variable substitution, or a literal value.
+    proxy_user_pass: str | None = None
 
     # ── Listing / article processing ───────────────────────────────────────
     listing_link_pattern: str | None = None
@@ -129,6 +165,8 @@ class SiteConfig:
             trust_insecure_certs=data.get("trust_insecure_certs", False),
             exclude_query_params=data.get("exclude_query_params", False),
             playwright_wait_until=data.get("playwright_wait_until"),
+            proxy_server=resolve_env_vars(data.get("proxy_server")),
+            proxy_user_pass=resolve_env_vars(data.get("proxy_user_pass")),
             exclusions=data.get("exclusions") or [],
             listing_link_pattern=data.get("listing_link_pattern"),
             listing_class=data.get("listing_class"),
