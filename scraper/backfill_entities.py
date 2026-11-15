@@ -70,9 +70,7 @@ def main() -> None:
 
     with SITES_FILE.open(encoding="utf-8") as file:
         sites = yaml.safe_load(file).get("sites", [])
-    {
-        site["slug"]: site.get("categories") or [] for site in sites if site.get("slug")
-    }
+    {site["slug"]: site.get("categories") or [] for site in sites if site.get("slug")}
 
     changed = 0
     skipped = 0

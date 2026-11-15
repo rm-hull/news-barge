@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 import yaml
-from aiohttp import ClientSession
+from curl_cffi.requests import AsyncSession
 from markdownify import markdownify as to_markdown
 from playwright.async_api import BrowserContext
 
@@ -22,7 +22,7 @@ from .constants import (
 from .dates import months_ago
 from .fetchers import (
     _build_proxy_url,
-    fetch_html_aiohttp,
+    fetch_html_curl,
     fetch_html_playwright,
 )
 from .log_helper import SiteLogger, report_error
@@ -160,7 +160,7 @@ async def process_article(
     site: SiteConfig,
     dry_run: bool,
     force: bool,
-    session: ClientSession,
+    session: AsyncSession,
     context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
@@ -176,7 +176,7 @@ async def process_article(
         site: Site configuration (SiteConfig).
         dry_run: If True, only report what would be done.
         force: Force regeneration of existing files.
-        session: aiohttp ClientSession for HTTP requests.
+        session: curl_cffi AsyncSession for HTTP requests.
         context: Shared Playwright BrowserContext for JS-heavy pages.
         browser_semaphore: Semaphore for concurrent browser usage.
         fetch_semaphore: Semaphore for concurrent HTTP fetches.
@@ -208,8 +208,8 @@ async def process_article(
                     browser=browser,
                 )
         else:
-            html = await fetch_html_aiohttp(
-                url, session, logger=logger, ssl=ssl, proxy=proxy
+            html = await fetch_html_curl(
+                url, session, logger=logger, verify=ssl, proxy=proxy
             )
 
     if not html:
@@ -236,8 +236,8 @@ async def process_article(
                             browser=browser,
                         )
                 else:
-                    return await fetch_html_aiohttp(
-                        page_url, session, logger=logger, ssl=ssl, proxy=proxy
+                    return await fetch_html_curl(
+                        page_url, session, logger=logger, verify=ssl, proxy=proxy
                     )
 
         html, unfurled_meta = await unfurl_multipage_article(

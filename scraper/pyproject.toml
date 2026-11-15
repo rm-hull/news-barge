@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "News barge site scraper"
 requires-python = ">=3.14"
 dependencies = [
-  "aiohttp>=3.14.5",
   "feedparser>=6.0.14",
   "flair>=0.15.1",
   "markdownify>=1.2.0",
@@ -16,6 +15,7 @@ dependencies = [
   "trafilatura>=2.3.1",
   "colorama>=0.4.6",
   "types-dateparser>=1.4.3.20260907",
+  "curl-cffi>=0.17.0",
 ]
 
 [[tool.uv.index]]
@@ -41,6 +41,7 @@ package = true
 
 [dependency-groups]
 dev = [
+  "aiohttp>=3.14.5",
   "mypy>=1.13.0",
   "pytest>=9.2.0",
   "pytest-asyncio>=1.4.1",
@@ -83,6 +84,7 @@ mypy_path = "src"
 [[tool.mypy.overrides]]
 module = [
   "colorama",
+  "curl_cffi.*",
   "feedparser",
   "taxotag.*",
   "lxml.*",

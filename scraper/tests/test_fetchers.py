@@ -5,12 +5,11 @@ from __future__ import annotations
 from unittest.mock import AsyncMock, MagicMock
 
 import pytest
-from aiohttp import ClientResponseError, ClientSession
 
-from src.constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
+from src.constants import PLAYWRIGHT_TIMEOUT
 from src.fetchers import (
     _is_cloudflare_challenge,
-    fetch_html_aiohttp,
+    fetch_html_curl,
     fetch_html_playwright,
 )
 from src.log_helper import SiteLogger
@@ -20,68 +19,43 @@ def _make_success_response(html: str) -> MagicMock:
     """Create a mock successful HTTP response."""
     mock_response = MagicMock()
     mock_response.raise_for_status = MagicMock()
-    mock_response.text = AsyncMock(return_value=html)
-    mock_response.__aenter__ = AsyncMock(return_value=mock_response)
-    mock_response.__aexit__ = AsyncMock(return_value=None)
+    mock_response.text = html
     return mock_response
 
 
-class TestFetchHtmlAiohttp:
-    """Tests for fetch_html_aiohttp."""
+class TestFetchHtmlCurl:
+    """Tests for fetch_html_curl."""
 
     @pytest.mark.asyncio
     async def test_success_returns_html(self) -> None:
         """Should return HTML content on successful fetch."""
         mock_response = _make_success_response("<html><body>Test</body></html>")
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        result = await fetch_html_aiohttp("https://example.com", mock_session)
+        result = await fetch_html_curl("https://example.com", mock_session)
         assert result == "<html><body>Test</body></html>"
 
     @pytest.mark.asyncio
     async def test_failure_returns_none(self) -> None:
         """Should return None on HTTP error."""
         mock_response = MagicMock()
-        mock_response.raise_for_status = MagicMock(
-            side_effect=ClientResponseError(
-                request_info=MagicMock(),
-                history=(),
-                status=404,
-                message="Not Found",
-            )
-        )
-        mock_response.text = AsyncMock(return_value="<html></html>")
-        mock_response.__aenter__ = AsyncMock(return_value=mock_response)
-        mock_response.__aexit__ = AsyncMock(return_value=None)
+        mock_response.raise_for_status = MagicMock(side_effect=Exception("HTTP 404"))
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
-
-        result = await fetch_html_aiohttp("https://example.com", mock_session)
+        result = await fetch_html_curl("https://example.com", mock_session)
         assert result is None
 
     @pytest.mark.asyncio
-    async def test_uses_default_headers(self) -> None:
-        """Should use FETCH_HEADERS when no custom headers provided."""
-        mock_response = _make_success_response("<html></html>")
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
-
-        await fetch_html_aiohttp("https://example.com", mock_session)
-
-        call_kwargs = mock_session.get.call_args.kwargs
-        assert call_kwargs["headers"] == FETCH_HEADERS
-
-    @pytest.mark.asyncio
     async def test_uses_custom_headers(self) -> None:
-        """Should use provided custom headers instead of defaults."""
-        custom_headers = {"User-Agent": "TestAgent"}
+        """Should use provided custom headers."""
+        custom_headers = {"Accept": "text/html"}
         mock_response = _make_success_response("<html></html>")
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        await fetch_html_aiohttp(
+        await fetch_html_curl(
             "https://example.com", mock_session, headers=custom_headers
         )
 
@@ -92,25 +66,25 @@ class TestFetchHtmlAiohttp:
     async def test_allow_redirects_parameter(self) -> None:
         """Should pass allow_redirects parameter to session.get."""
         mock_response = _make_success_response("<html></html>")
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        await fetch_html_aiohttp(
+        await fetch_html_curl(
             "https://example.com", mock_session, allow_redirects=False
         )
         call_kwargs = mock_session.get.call_args.kwargs
         assert call_kwargs["allow_redirects"] is False
 
     @pytest.mark.asyncio
-    async def test_ssl_parameter(self) -> None:
-        """Should pass ssl parameter to session.get."""
+    async def test_verify_parameter(self) -> None:
+        """Should pass verify parameter to session.get."""
         mock_response = _make_success_response("<html></html>")
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        await fetch_html_aiohttp("https://example.com", mock_session, ssl=False)
+        await fetch_html_curl("https://example.com", mock_session, verify=False)
         call_kwargs = mock_session.get.call_args.kwargs
-        assert call_kwargs["ssl"] is False
+        assert call_kwargs["verify"] is False
 
     @pytest.mark.asyncio
     async def test_logs_error_on_failure(self) -> None:
@@ -118,22 +92,11 @@ class TestFetchHtmlAiohttp:
         logger = SiteLogger("Test Site", "test")
 
         mock_response = MagicMock()
-        mock_response.raise_for_status = MagicMock(
-            side_effect=ClientResponseError(
-                request_info=MagicMock(),
-                history=(),
-                status=500,
-                message="Internal Server Error",
-            )
-        )
-        mock_response.text = AsyncMock(return_value="<html></html>")
-        mock_response.__aenter__ = AsyncMock(return_value=mock_response)
-        mock_response.__aexit__ = AsyncMock(return_value=None)
+        mock_response.raise_for_status = MagicMock(side_effect=Exception("HTTP 500"))
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(return_value=mock_response)
 
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
-
-        result = await fetch_html_aiohttp(
+        result = await fetch_html_curl(
             "https://example.com", mock_session, logger=logger
         )
         assert result is None
@@ -141,14 +104,10 @@ class TestFetchHtmlAiohttp:
     @pytest.mark.asyncio
     async def test_timeout_handling(self) -> None:
         """Should handle timeout errors gracefully."""
-        mock_response = MagicMock()
-        mock_response.__aenter__ = AsyncMock(side_effect=TimeoutError("timeout"))
-        mock_response.__aexit__ = AsyncMock(return_value=None)
+        mock_session = AsyncMock()
+        mock_session.get = AsyncMock(side_effect=TimeoutError("timeout"))
 
-        mock_session = AsyncMock(spec=ClientSession)
-        mock_session.get = MagicMock(return_value=mock_response)
-
-        result = await fetch_html_aiohttp("https://example.com", mock_session)
+        result = await fetch_html_curl("https://example.com", mock_session)
         assert result is None
 
 

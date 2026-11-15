@@ -1,5 +1,5 @@
 """
-HTTP fetchers: aiohttp and Playwright-based HTML retrieval.
+HTTP fetchers: curl_cffi and Playwright-based HTML retrieval.
 """
 
 from __future__ import annotations
@@ -9,10 +9,10 @@ import re
 import time
 from typing import Any, Literal
 
-import aiohttp
+from curl_cffi.requests import AsyncSession
 from playwright.async_api import Browser, BrowserContext, Page
 
-from .constants import FETCH_HEADERS, PLAYWRIGHT_TIMEOUT
+from .constants import PLAYWRIGHT_TIMEOUT
 from .log_helper import report_error
 from .profiling import profiled
 
@@ -78,42 +78,44 @@ def _is_cloudflare_challenge(html: str) -> bool:
 
 
 @profiled
-async def fetch_html_aiohttp(
+async def fetch_html_curl(
     url: str,
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     logger: Any = None,
     headers: dict[str, str] | None = None,
     allow_redirects: bool = True,
-    ssl: bool = True,
+    verify: bool = True,
     proxy: str | None = None,
 ) -> FetchResult:
-    """Lightweight fetch using aiohttp.
+    """Lightweight fetch using curl_cffi with Chrome impersonation.
+
+    Uses ``impersonate="chrome"`` so headers, TLS handshake, and HTTP/2
+    settings are all set consistently for a Chrome browser — no need to
+    set a custom User-Agent or other browser headers manually.
 
     Args:
         url: The URL to fetch.
-        session: aiohttp ClientSession to use.
+        session: curl_cffi AsyncSession to use.
         logger: Optional logger for error reporting.
-        headers: Optional HTTP headers to use instead of defaults.
+        headers: Optional extra HTTP headers (merged on top of impersonated ones).
         allow_redirects: Whether to follow redirects.
-        ssl: Whether to verify SSL certificates.
+        verify: Whether to verify SSL certificates.
         proxy: Optional proxy URL (e.g. ``http://user:pass@proxy:8080``).
 
     Returns:
         The HTML content as a string, or None on failure.
     """
     try:
-        timeout = aiohttp.ClientTimeout(total=30)
-        request_headers = headers if headers is not None else FETCH_HEADERS
-        async with session.get(
+        response = await session.get(
             url,
-            headers=request_headers,
-            timeout=timeout,
+            headers=headers,
             allow_redirects=allow_redirects,
-            ssl=ssl,
+            verify=verify,
             proxy=proxy,
-        ) as response:
-            response.raise_for_status()
-            return await response.text()
+            timeout=30,
+        )
+        response.raise_for_status()  # type: ignore[no-untyped-call]
+        return response.text
     except Exception as e:
         report_error(f"HTTP fetch failed ({e!r}) for: {url}", logger=logger)
         return None
@@ -177,11 +179,7 @@ async def fetch_html_playwright(
                 return None
             use_context = await browser.new_context(
                 proxy={"server": proxy},
-                user_agent=FETCH_HEADERS["User-Agent"],
                 java_script_enabled=True,
-                extra_http_headers={
-                    "Accept-Language": FETCH_HEADERS["Accept-Language"]
-                },
             )
             temp_context = use_context
 

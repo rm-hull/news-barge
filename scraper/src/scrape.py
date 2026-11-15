@@ -23,12 +23,11 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
-import aiohttp
-
 # Pre-import dateparser to avoid lazy-import deadlocks under high
 # concurrency (GitHub issue #32, run 38850341610).
 import dateparser  # noqa: F401
 import feedparser
+from curl_cffi.requests import AsyncSession
 from lxml import html as lxml_html
 from playwright.async_api import Browser, BrowserContext, Route, async_playwright
 from tqdm.asyncio import tqdm
@@ -38,12 +37,11 @@ from .constants import (
     CONTENT_DIR,
     DEFAULT_BROWSER_CONCURRENCY,
     DEFAULT_CONCURRENCY,
-    FETCH_HEADERS,
     SITES_FILE,
 )
 from .fetchers import (
     _build_proxy_url,
-    fetch_html_aiohttp,
+    fetch_html_curl,
     fetch_html_playwright,
 )
 from .log_helper import (
@@ -99,27 +97,26 @@ def build_existing_slugs_map(
 async def urls_from_feed(
     feed_url: str,
     limit: int,
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     logger: SiteLogger | None = None,
     site: SiteConfig | None = None,
 ) -> list[str]:
     """Fetch URLs from an RSS/Atom feed."""
     feed_headers: dict[str, str] = {
-        "User-Agent": "curl/7.81.0",
         "Accept": (
             "application/rss+xml,application/xml,text/xml,"
             "application/xhtml+xml,text/html;q=0.9,*/*;q=0.8"
         ),
     }
-    ssl = not site.trust_insecure_certs if site else True
+    verify = not site.trust_insecure_certs if site else True
     proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass) if site else None
-    body = await fetch_html_aiohttp(
+    body = await fetch_html_curl(
         feed_url,
         session,
         logger=logger,
         headers=feed_headers,
         allow_redirects=True,
-        ssl=ssl,
+        verify=verify,
         proxy=proxy,
     )
     if not body:
@@ -140,7 +137,7 @@ async def urls_from_listing(
     pattern: str | None,
     limit: int,
     use_playwright: bool,
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     listing_class: str | None = None,
@@ -149,7 +146,7 @@ async def urls_from_listing(
     site: SiteConfig | None = None,
 ) -> list[str]:
     """Discover article URLs from a listing page."""
-    ssl = not site.trust_insecure_certs if site else True
+    verify = not site.trust_insecure_certs if site else True
     proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass) if site else None
     if use_playwright:
         async with browser_semaphore:
@@ -157,8 +154,8 @@ async def urls_from_listing(
                 listing_url, context, logger=logger, proxy=proxy
             )
     else:
-        html = await fetch_html_aiohttp(
-            listing_url, session, logger=logger, ssl=ssl, proxy=proxy
+        html = await fetch_html_curl(
+            listing_url, session, logger=logger, verify=verify, proxy=proxy
         )
     if not html:
         return []
@@ -238,9 +235,7 @@ async def _create_shared_context(browser: Browser) -> BrowserContext:
         The shared ``BrowserContext`` (closed once in ``main_async``).
     """
     context = await browser.new_context(
-        user_agent=FETCH_HEADERS["User-Agent"],
         java_script_enabled=True,
-        extra_http_headers={"Accept-Language": FETCH_HEADERS["Accept-Language"]},
     )
 
     async def _route(route: Route) -> None:
@@ -292,8 +287,8 @@ async def _debug_url(args: argparse.Namespace) -> None:
     print(f"Debug mode: processing {url} with site '{site.slug}'")
 
     proxy = _build_proxy_url(site.proxy_server, site.proxy_user_pass)
-    async with aiohttp.ClientSession() as session:
-        ssl = not site.trust_insecure_certs
+    async with AsyncSession(impersonate="chrome") as session:
+        verify = not site.trust_insecure_certs
         if site.force_playwright:
             async with async_playwright() as playwright:
                 browser = await playwright.chromium.launch(headless=True)
@@ -309,8 +304,8 @@ async def _debug_url(args: argparse.Namespace) -> None:
                 await context.close()
                 await browser.close()
         else:
-            html = await fetch_html_aiohttp(
-                url, session, logger=logger, ssl=ssl, proxy=proxy
+            html = await fetch_html_curl(
+                url, session, logger=logger, verify=verify, proxy=proxy
             )
 
     if not html:
@@ -370,7 +365,7 @@ def _deduplicate_urls(urls: list[str]) -> list[str]:
 
 async def _discover_site_urls(
     site: SiteConfig,
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
@@ -448,7 +443,7 @@ async def _discover_site_urls(
 
 async def _discover_urls(
     sites: list[SiteConfig],
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
@@ -518,7 +513,7 @@ async def _process_articles(
     *,
     dry_run: bool,
     force: bool,
-    session: aiohttp.ClientSession,
+    session: AsyncSession,
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
@@ -650,7 +645,7 @@ async def main_async(args: argparse.Namespace) -> None:
     fetch_semaphore = asyncio.Semaphore(concurrency)
     browser_semaphore = asyncio.Semaphore(browser_concurrency)
 
-    async with aiohttp.ClientSession() as session:
+    async with AsyncSession(impersonate="chrome") as session:
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(headless=True)
 

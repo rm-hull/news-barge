@@ -67,7 +67,7 @@ class TestProcessArticle:
     """Unit tests for process_article."""
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -103,7 +103,7 @@ class TestProcessArticle:
         assert result is False
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -139,7 +139,7 @@ class TestProcessArticle:
         assert result is False
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -184,7 +184,7 @@ class TestProcessArticle:
         assert call_kwargs[1].get("wait_until") is None
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -229,7 +229,7 @@ class TestProcessArticle:
         assert result is False
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -278,7 +278,7 @@ class TestProcessArticle:
         assert result is False
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -325,7 +325,7 @@ class TestProcessArticle:
         assert len(md_files) == 0
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -375,7 +375,7 @@ class TestProcessArticle:
         assert "title" in content
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -417,11 +417,11 @@ class TestProcessArticle:
             output_dir=tmp_path,
         )
 
-        # Verify fetch_html_aiohttp was called
+        # Verify fetch_html_curl was called
         mock_fetch.assert_called_once()
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -464,7 +464,7 @@ class TestProcessArticle:
         assert result is True
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -507,7 +507,7 @@ class TestProcessArticle:
         assert result is True
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -550,7 +550,7 @@ class TestProcessArticle:
         assert result is True
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -596,7 +596,7 @@ class TestProcessArticle:
         assert result is True
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")
@@ -639,7 +639,7 @@ class TestProcessArticle:
         assert result is True
 
     @pytest.mark.asyncio
-    @patch("src.pipeline.fetch_html_aiohttp")
+    @patch("src.pipeline.fetch_html_curl")
     @patch("src.pipeline.extract_article_html")
     @patch("src.pipeline.extract_article_metadata")
     @patch("src.pipeline.article_categories")

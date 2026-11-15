@@ -7,11 +7,9 @@ from pathlib import Path
 from typing import Any
 from unittest.mock import AsyncMock, MagicMock, patch
 
-import aiohttp
 import pytest
 
 import src.scrape as scrape
-from src.constants import FETCH_HEADERS
 
 
 def _make_mock_browser() -> tuple[AsyncMock, AsyncMock]:
@@ -37,21 +35,17 @@ def mock_browser_and_context() -> tuple[AsyncMock, AsyncMock]:
 
 
 @pytest.mark.asyncio
-async def test_create_shared_context_sets_ua_js_headers(
+async def test_create_shared_context_sets_js(
     mock_browser_and_context: tuple[AsyncMock, AsyncMock],
 ) -> None:
-    """new_context should receive the project UA, JS enabled, and headers."""
+    """new_context should receive JS enabled."""
     mock_browser, _mock_context = mock_browser_and_context
 
     await scrape._create_shared_context(mock_browser)
 
     mock_browser.new_context.assert_awaited_once()
     kwargs = mock_browser.new_context.call_args.kwargs
-    assert kwargs["user_agent"] == FETCH_HEADERS["User-Agent"]
     assert kwargs["java_script_enabled"] is True
-    assert kwargs["extra_http_headers"] == {
-        "Accept-Language": FETCH_HEADERS["Accept-Language"]
-    }
 
 
 @pytest.mark.asyncio
@@ -241,10 +235,10 @@ class TestUrlsFromListing:
           </div>
         </body>"""
         with patch.object(
-            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+            scrape, "fetch_html_curl", new_callable=AsyncMock
         ) as mock_fetch:
             mock_fetch.return_value = html.decode()
-            session = MagicMock(spec=aiohttp.ClientSession)
+            session = MagicMock()
             context = MagicMock()
             browser_semaphore = asyncio.Semaphore(1)
 
@@ -278,10 +272,10 @@ class TestUrlsFromListing:
           </div>
         </body>"""
         with patch.object(
-            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+            scrape, "fetch_html_curl", new_callable=AsyncMock
         ) as mock_fetch:
             mock_fetch.return_value = html.decode()
-            session = MagicMock(spec=aiohttp.ClientSession)
+            session = MagicMock()
             context = MagicMock()
             browser_semaphore = asyncio.Semaphore(1)
 
@@ -310,10 +304,10 @@ class TestUrlsFromListing:
           </div>
         </body>"""
         with patch.object(
-            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+            scrape, "fetch_html_curl", new_callable=AsyncMock
         ) as mock_fetch:
             mock_fetch.return_value = html.decode()
-            session = MagicMock(spec=aiohttp.ClientSession)
+            session = MagicMock()
             context = MagicMock()
             browser_semaphore = asyncio.Semaphore(1)
 
@@ -343,10 +337,10 @@ class TestUrlsFromListing:
           </div>
         </body>"""
         with patch.object(
-            scrape, "fetch_html_aiohttp", new_callable=AsyncMock
+            scrape, "fetch_html_curl", new_callable=AsyncMock
         ) as mock_fetch:
             mock_fetch.return_value = html.decode()
-            session = MagicMock(spec=aiohttp.ClientSession)
+            session = MagicMock()
             context = MagicMock()
             browser_semaphore = asyncio.Semaphore(1)
 
