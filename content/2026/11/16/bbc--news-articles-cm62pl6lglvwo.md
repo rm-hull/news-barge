@@ -1,0 +1,124 @@
+---
+title: 'Alan Milburn’s Neets review: Why some young people don’t go to school'
+source_url: https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: As a landmark report is published, the BBC speaks to school avoiders
+  and those trying to fix the issue.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f38b/live/1056afd0-e117-11f1-93e1-3b657b665bcf.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T06:17:58Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Alan Milburn
+- Covid
+- Dan Lilley
+- Eva
+- Laura Kuenssberg
+- Paul Browne
+- Sheila Griffiths
+locations:
+- Crewe
+- England
+- Mali
+organisations:
+- BBC
+- CSJ
+- Centre for Social Justice
+- Cheshire College South & West
+- Department for Education
+- Eva
+- Hope4More
+- National Centre for Social Research
+---
+
+'It felt like I was dying’: Why some teenagers don’t go to school
+
+**Thirteen-year-old Eva hadn't been to school for 15 months before September.**
+
+She describes how she used to get up every morning, try to get ready for school and get stuck by the front door.
+
+"It's like a physical barrier that you can't cross and you can't move," she recalls.
+
+"If I was able to get in the car, we'd drive to school," she continues. "I'd probably normally either faint or throw up while we were sat in the car park."
+
+Eva's one of the thousands of school pupils in England who misses more than half the academic year. Experts say that children who miss school are more at risk of becoming Neet - not in employment, education or training. A government-commissioned review into how to solve the problem of nearly one million young people being Neet is due to be published on Tuesday.
+
+Eva is autistic and stopped going to school after struggling with the transition to secondary education.
+
+Every morning, one of Eva's parents would call her teachers to tell them she wouldn't be going in that day, and she says she would stay at home watching YouTube videos and episodes of Horrible Histories "just to try and keep up".
+
+![Eva close-up shot of head and shoulders ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2f6/live/588fc2f0-e117-11f1-93e1-3b657b665bcf.jpg)
+
+Eva, 13, stopped going to school after struggling with the transition to secondary school
+
+This year, she has started at an alternative provision school which has smaller class sizes, therapy animals and more freedom to take breaks. But she still worries about her future and whether her record of school avoidance might turn off future employers.
+
+Eva recognises that many older people will assume "tough love" is the answer, and that they might even call pupils like her lazy - but she believes the situation is more complex.
+
+"We're not lazy, we want to go, we want to do something, we want to live our lives, but we can't," she says.
+
+![Eva facing the camera and the BBC's reporter, who has her back to the camera](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a05a/live/73cd1c50-e119-11f1-a7db-d90284d21c62.jpg)
+
+Eva now attends an alternative provision school with smaller class sizes
+
+Total school absence numbers have fallen since their peak during the pandemic but they're yet to return to pre-Covid levels.
+
+In the autumn and spring terms of the 2025/26 academic year, the overall absence rate was 6.6%, down from 7.38% in 2021/2022 but much higher than pre-pandemic levels, which were below 5%.
+
+The latest figures published in October show that 168,000 pupils (2.32%) were classed as severely absent - missing more than half of their classes - in the 2025/2026 autumn and spring terms. Back in spring 2019, this figure was under 60,000.
+
+Experts are concerned that this absence will translate into worse outcomes for thousands of young people.
+
+New analysis from the Centre for Social Justice (CSJ) shows that 133,000 of today's persistently absent GCSE pupils (those missing more than 10% of school) are on course to spend a year or more being Neet. Similar research from the National Centre for Social Research linked persistent absence to much higher rates of not being in work, education or training between the ages of 16 and 24.
+
+"Ministers must recognise that getting children back into school is the first step to getting young people into work," says Dan Lilley, head of youth at the Centre for Social Justice.
+
+"That means restoring the expectation that children are in school every day."
+
+Research suggests many parents may be comfortable with regular school absences. CSJ polling found that 44% of parents think it reasonable for a child to miss one in every 10 school days – the threshold for persistent absence.
+
+In response to the CSJ research, the Department for Education said it was "helping tackle the barriers that stop children attending school, through free breakfast clubs in every primary school, better mental health support and earlier help for pupils with special educational needs".
+
+Autism and ADHD can contribute to children avoiding school, says Sheila Griffiths, who co-founded the charity Hope4More in Crewe after her own son struggled to attend school.
+
+"The classroom environment doesn't suit [those children], so we support them here," she explains.
+
+Hope4More runs art classes that combine creativity and business skills, and it also supports parents to ask for the help they need from schools or their local authority to get their child back into education.
+
+"We've got families here who have already had to give up work. They're struggling. It's so stressful the situations they end up in."
+
+Sheila also runs a programme at Cheshire College South & West to help young people with the transition into further education.
+
+She says: "With our older ones, so perhaps the ones that should be in year 10 or 11, we work with them at college and then they get used to being in that environment which is different to school, but it's also still quite busy."
+
+Paul Browne, who is one of the assistant principals there, says: "Especially since Covid, there's a lot of learners who are not engaging in education. The thought of coming into a mainstream college is quite a big step for them.
+
+![Paul Browne speaking to the camera, wearing a suit ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2106/live/c3bc0560-e118-11f1-a2d0-ff163dc3689d.jpg)
+
+Paul Browne is an assistant principal at Cheshire College South & West
+
+"We're seeing [most of] our students now are more like they were before Covid, where doing exams and coming to college is the norm. But there's still that small cohort [who struggle] and it's about getting them ready and helping them back into education."
+
+Mali, 18, stopped attending school three years ago in year 10.
+
+"We didn't do our Sats because that's when the first lockdown hit," she recalls.
+
+"It was so isolating and so strange, but I loved it. I was able to sit in my own room and do schoolwork.
+
+"Going back into school, it was difficult. I started struggling with panic attacks a lot, to the point where I was being pulled out of classes."
+
+Mali was diagnosed with autism when she was 15. After she stopped attending school, her mental health deteriorated to the point where she didn't leave her bedroom.
+
+"It was like the second I got past my doorframe, my whole body would stop. My legs would go numb, my head would tense. It felt like I was dying. I can't explain it any other way."
+
+She still doesn't leave the house.
+
+"I do get quite emotional about it. I feel like I've tried so hard and I went to school for so long and I went through so much and I have nothing to show for it. I don't have my GCSEs, I didn't even do my Sats."
+
+* ![Alan Milburn, wearing glasses and a suit jacket with a polo shirt, talking to Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg)
+* + Published1 day ago![A treated image showing left to right, a Job Centre sign, Alan Milburn's face, and Laura Kuenssberg wearing a bright pink jacket](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg)
+* ![A person sits on a light beige sofa, writing notes in a lined notebook while using a silver laptop. The laptop screen is open to a webpage, and the person is wearing a dark navy-blue jumper. The image is taken from above, with warm lighting and neutral beige tones creating a home-working or study environment.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/47db/live/a3e3a0e0-de75-11f1-9115-cfe6d179af3a.jpg)
