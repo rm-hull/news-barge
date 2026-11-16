@@ -1,0 +1,54 @@
+---
+title: 'We almost got a medieval Call of Duty with knights and swords: ''If it''s
+  a war story, sure, it can be Call of Duty'''
+source_url: https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/
+source_site: PC Gamer
+source_slug: pcgamer
+description: Instead we just got more guns.
+image: https://cdn.mos.cms.futurecdn.net/XfNTGDQvvJwVWuwYpnBxmL-1920-80.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:36:32Z'
+categories:
+- Technology & Software
+- History
+- Arts & Culture
+people:
+- Glen Schofield
+- Jason West
+- Napoleon
+- Sledgehammer
+- Taylor Kurosaki
+- Vince Zampella
+locations:
+- Infinity Ward
+- Vietnam
+organisations:
+- Activision
+- Advanced Warfare
+- Call of Duty
+- IW
+- Infinite Warfare
+- Infinity Ward
+- PC Gamer
+- Sledgehammer
+---
+
+![Infinite Warfare character holding WoW&#039;s Frostmourne](https://cdn.mos.cms.futurecdn.net/XfNTGDQvvJwVWuwYpnBxmL-1920-80.jpg)
+
+Call of Duty is an inherently conservative series. You know what you're getting: guns, explosions, cinematic flourishes inspired by action movies, and probably some jingoism. And that's largely what the annual series' adherents seem to want. But it could be so much more.
+
+Taylor Kurosaki, writer and co-director for Call of Duty: Infinite Warfare, tells us he still thinks it has broad potential. That's why Infinite Warfare was set in the future—though, at the time, the team didn't realise it would end up being the third futuristic CoD, following Advanced Warfare and Black Ops 3.
+
+"Look, Call of Duty is a massive tree with a lot of branches, right? It can be World War 2. The team at IW had prototyped a medieval Call of Duty. Where you were a knight and had a sword and all kinds of crazy shit. But if it's a war story, sure, it can be Call of Duty."
+
+I would love for that to be true. Call of Duty: The American Revolutionary War, Call of Duty: The Hundred Years War, Call of Duty: Napoleon. A military romp that isn't set between 1941 and 2065. After 23 years, it would be nice to see it spread out a bit.
+
+But big swings are not in CoD's nature. Or rather, Activision isn't particularly interested in rocking the money boat. A medieval CoD isn't the only massive detour the series almost took. Before it was forced to salvage Infinity Ward's Modern Warfare 3, Sledgehammer was working on a third-person horror game set in Vietnam, called Call of Duty: Fog of War.
+
+"We wanted to make a scary version of Vietnam," Sledgehammer co-founder Glen Schofield told us last year. "And not just scary, we wanted intense battles that were personal, but stuff you've never seen before. We were making it, and we were really psyched about having you go through tunnels, and everything is scary because there's not much light down there. Sometimes you're shooting in the dark."
+
+When Vince Zampella and Jason West left Infinity Ward amid a legal dispute, Activision told Sledgehammer to drop their project and pivot to Modern Warfare 3. It was never allowed to return to Fog of War.
+
+Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team.
+
+![2026 gamesBest PC gamesFree PC gamesBest FPS gamesBest RPGsBest co-op games]([https://cdn.mos.cms.futurecdn.net/6offQUY4CXebir2TC27dMd-200-80.jpg.webp](https://cdn.mos.cms.futurecdn.net/6offQUY4CXebir2TC27dMd-200-80.jpg.webp) "2026 gamesBest PC gamesFree PC gamesBest FPS gamesBest RPGsBest co-op games")

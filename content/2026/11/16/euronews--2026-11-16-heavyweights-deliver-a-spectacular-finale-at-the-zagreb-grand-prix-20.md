@@ -1,0 +1,83 @@
+---
+title: Heavyweights deliver a spectacular finale at the Zagreb Grand Prix 2026
+source_url: https://www.euronews.com/2026/11/16/heavyweights-deliver-a-spectacular-finale-at-the-zagreb-grand-prix-2026
+source_site: Euronews
+source_slug: euronews
+description: The Zagreb Grand Prix 2026 concluded with thrilling heavyweight action!
+  Guilherme Schimidt, Julie Hoelterhoff, Anton Savytskiy, Beatriz Souza and Kanan
+  Nasibov claimed gold on the final day, bringing an unforgettable tournament in Croatia
+  to a spectacular close.
+image: https://images.euronews.com/articles/stories/09/99/36/44/1200x675_cmsv2_68991b50-d51d-5116-ba1e-4e9321c87815-9993644.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:36:26Z'
+categories:
+- Europe
+- News & Politics
+- Sports
+people:
+- Anton SAVYTSKIY
+- Anton Savytskiy
+- Beatriz SOUZA
+- Beatriz Souza
+- Elena DENGG
+- Guilherme SCHIMIDT
+- Guilherme Schimidt
+- Julie HOELTERHOFF
+- Julie Hoelterhoff
+- Kanan Nasibov
+- Losseni KONE
+- Louisa AGIUS GALEA
+- Mathieu BATAILLE
+- Neil ADAMS
+- SCHMIDT
+- Sanda CORAK
+- Theodoros TSELIDIS
+- Vladimir BARTA
+- Zsombor VEG
+locations:
+- Austria
+- Brazil
+- Croatia
+- Germany
+- Greece
+- Hungary
+- New Zealand
+- Ukraine
+- Zagreb
+organisations:
+- Azerbijan’s Kanan NASIBOV
+- Croatian Judo Federation
+- International Judo Federation
+- Sydnee ANDREWS
+- Zagreb
+---
+
+**Euronews** with**IJF**
+
+## The Zagreb Grand Prix 2026 concluded with thrilling heavyweight action! Guilherme Schimidt, Julie Hoelterhoff, Anton Savytskiy, Beatriz Souza and Kanan Nasibov claimed gold on the final day, bringing an unforgettable tournament in Croatia to a spectacular close.
+
+It’s the third and final day of the Zagreb Grand Prix. Fans were treated to more incredible action as the heavyweights took to the tatami.
+
+At -90Kg Brazil’s Guilherme SCHIMIDT was up against Theodoros TSELIDIS of Greece. In the final, with just 10 seconds to go, a perfectly timed ashi-waza gave SCHMIDT his third Grand Prix gold.
+
+**World Champion & Double Olympic Medallist, Mr Neil ADAMS** awarded the medals.
+
+Julie HOELTERHOFF of Germany and Austria’s Elena DENGG were both competing their first Grand Prix final at -78Kg. It was HOELTERHOFF who would dictate the result producing some fantastic counters to claim the title.
+
+**IJF Head Sport Director, Mr Vladimir BARTA** awarded the medals.
+
+At -100Kg, Ukraine’s Anton SAVYTSKIY met Zsombor VEG of Hungary in the final. SAVYTSKIY took gold here in 2024 and a stunning switch from o soto to ko soto gari secured him another Zagreb title.
+
+**Mrs Louisa AGIUS GALEA, Logistics Director of the International Judo Federation** awarded the medals.
+
+Current olympic champion Beatriz SOUZA of Brazil was up against New Zealand’s Sydnee ANDREWS in the +78KG final. A huge Ashi-garuma from SOUZA showed just why she’s the one to beat.
+
+An incredible 23rd world tour medal for SOUZA!
+
+**Dr Sanda CORAK, President of the Croatian Judo Federation** awarded the medals.
+
+At +100Kg Losseni KONE of Germany met Azerbijan’s Kanan NASIBOV in the final. Fresh from his World Bronze medal, a Waza-ari score gave NASIBOV his 2nd consecutive Zagreb gold medal.
+
+**Mr Mathieu BATAILLE, Referee Supervisor of the International Judo Federation** awarded the medals.
+
+It’s been an incredible tournament, thank you Croatia.

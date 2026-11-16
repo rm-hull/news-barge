@@ -1,0 +1,70 @@
+---
+title: Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with
+  EU
+source_url: https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu
+source_site: The Guardian
+source_slug: guardian
+description: PM to meet European leaders at summit this week aiming to secure agreements
+  that ‘could raise GDP by 0.4%’
+image: https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1e4d7e583534c7f41d4078defba34ba
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:34:45Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+people:
+- Andy Burnham
+- Boris Johnson
+- Brexit
+- Farage
+- Hamish Falconer
+- Partygate
+locations:
+- Boulogne-sur-Mer
+- Britain
+- Calais
+- City of London
+- UK
+organisations:
+- BBC
+- Brexit
+- EU
+- Eurotunnel
+- Labour
+- Reform
+- Telegraph
+---
+
+Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU.
+
+It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.
+
+Burnham is due to meet European leaders at a summit this week and secure agreements that he says could raise GDP by 0.4% – about £17bn – including on food and farming, emissions trading and a youth mobility scheme.
+
+Speaking at the lord mayor’s banquet in the City of London, Burnham is expected to argue that Boris Johnson’s promise to take back control was not delivered, and that the country was left with a needlessly hard Brexit that created barriers for businesses and damaged its economic potential.
+
+“It’s like the Emperor’s New Clothes – where no one is prepared to say the obvious truth. Well, I say it as I see it. And to be frank, the emperor has nothing on,” Burnham will say. “The Brexit we were given has not worked. We have lost more than we gained.”
+
+Burnham is to say he will sign an agreement with the EU, so long as it:
+
+* Is consistent with the Labour manifesto and the government’s red lines.
+* It improves the Brexit deal and brings it closer to what people thought they were voting for in 2016.
+* And it passes the so-called “Makerfield test” by delivering real, tangible improvements in people’s everyday lives.
+
+“This is a win-win,” Burnham is expected to say. “It illustrates our new approach. Not adversarial. No longer burning bridges – but being constructive and positive, showing that we can come together to confront shared challenges.”
+
+However, the EU relations minister, Hamish Falconer, told the BBC on Sunday that the UK could have a “voice in the room” under a new deal with the bloc, but no vote on EU food policies.
+
+He added there could well be an “exit clause” in case a future UK government reversed the closer alignment, explaining that the EU was “worried” about the possibility of a future Reform or Conservative government undoing the agreement.
+
+after newsletter promotion
+
+The exit clause, previously nicknamed the “Farage clause”, is designed to guard against any the cost of potentially reversing any reset on Friday should the UK’s political landscape change.
+
+The cost of infrastructure at the borders has largely been paid for by private companies, including Eurotunnel, but French staff the food checks there, at Calais port and at Boulogne-sur-Mer, where all fish checks take place.
+
+Meanwhile, Johnson, the former Conservative prime minister who resigned over Partygate in 2022, has said Britain would “absolutely” vote for Brexit again if Burnham forced another vote on the issue.
+
+He told the Telegraph: “It is madness to escalate the Brexit issue as your political priority. He will impale himself and his party on this point, and he needs to move off it because he won’t win – because the reality is that people are not fools.”

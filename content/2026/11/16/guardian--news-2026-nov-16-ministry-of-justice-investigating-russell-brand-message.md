@@ -1,0 +1,87 @@
+---
+title: Ministry of Justice investigating Russell Brand message from prison claiming
+  he is not guilty
+source_url: https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message
+source_site: The Guardian
+source_slug: guardian
+description: PM’s spokesperson calls message, read out by convicted rapist’s wife
+  on their YouTube channel, ‘clearly appalling’
+image: https://i.guim.co.uk/img/media/d57aa2b8f95231e7400a5ffa8a372cc6c25e1437/416_0_2740_2192/master/2740.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a18b08659bd647333416c68a3068552
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:35:20Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Charles Bronson
+- Christ
+- David Walliams
+- Ed Miliband
+- God
+- Kemi Badenoch
+- Laura Brand
+- Mia Latter
+- Russell Brand
+locations:
+- Cambridgeshire
+- Europe
+- HMP Littlehey
+- HMP Woodhill
+- London
+- Southwark
+- Wandsworth
+organisations:
+- Ministry of Justice
+- Sky News
+- The Jeremy Vine Show
+- YouTube
+---
+
+The Ministry of Justice has launched an investigation into whether Russell Brand has broken prison rules after the jailed comedian shared a message claiming he was not guilty of sexual offences just days after his conviction.
+
+Brand’s wife, Laura Brand, read a message from her rapist husband in a video uploaded to their YouTube channel in which he claimed: “I am not guilty of the offences I have been jailed for.”
+
+If found to have broken the rules, Brand could face sanctions ranging from an extension of his sentence to loss of privileges such as access to a telephone for a limited period.
+
+It is understood a prisoner will be deemed to have broken the rules if they provide comments to a family member that they know will be published.
+
+Asked about the comments, the prime minister’s official spokesperson said: “This is clearly appalling and is being urgently investigated. We expect action to be taken if he is found to have broken the rules.
+
+“Prisoners are strictly banned from making statements that cause distress to victims, and speaking to the media is only permitted in exceptional circumstances. Prisoners cannot get around these rules by having someone else publish their comments … This is being urgently investigated. We expect action to be taken if the rules have been broken.”
+
+Brand, 51, is serving a 10-and-a-half-year prison term after he was convicted of one count of rape and three sexual assaults at Southwark crown court on 5 November.
+
+In his message, Brand said he had been moved from the category-B Wandsworth prison in south-west London to the category-C HMP Littlehey in Cambridgeshire, a prison for men convicted of sexual offences.
+
+Reading the message from a notebook, Laura Brand said: “As you know, I am not guilty for the offences I have been jailed for, so something strange is happening.
+
+“I am incarcerated in HMP Littlehey, little as in small, and hey as in hey, I’m in the biggest sex offenders’ prison in Europe. The good news is that I have already seen that the staff here are strong, they are kind, and they are dedicated. And as for my fellow prisoners, I now know that I am in no position to judge anyone.
+
+“I don’t know which other men here are not guilty, and the ones that are, they are people that Christ died to save, like you and me, let us all love, pray for and forgive one another as God forgave us.”
+
+Prisoners are allowed to protest their innocence, meaning that no criminal offence has been committed in the release of the podcast. They are not, however, allowed to make statements from jail that cause distress to victims, and heavy restrictions apply to speaking to the media.
+
+According to official guidance on prisoner access to the media, a prison governor must decide whether to permit it, and must consider that “serious distress to victims of the prisoner and/or outrage to public sensibilities is not likely to result from the broadcast. This is likely to occur if, for example, the prisoner’s crimes or conduct are recent, notorious or horrific.”
+
+The rules state that correspondence likely to be published or broadcast “must not contain material about the prisoner’s own crime or past offences or those of others, except where it consists of serious representations about conviction or sentence”.
+
+Mia Latter, who alleges she was raped by Brand when she was 16 and has waived her right to anonymity, said his message was an “insult” to his victims and questioned why YouTube had allowed the video to be shared.
+
+She told The Jeremy Vine Show on Channel 5: “I was shocked that YouTube put it out, because I feel like they have some kind of responsibility not to let these things be broadcast.
+
+“And, it was an insult to all the women that stood trial, and it was an insult to the jurors that gave their time. It’s an insult to the criminal justice system.”
+
+In July 2022, prisoner Charles Bronson said he was given a 28-day phone ban after sending an unauthorised voice note from his cell at HMP Woodhill.
+
+Prison sources said it was not yet clear whether Brand had broken a rule because the message was posted by Brand’s wife, not by him, and the material may have been written before conviction. “There are a lot of possible scenarios, and the full facts are still to emerge,” a source said.
+
+Responding to the video on Monday, the foreign secretary, Ed Miliband, told Sky News: “His crimes are heinous and awful. I think it’s revolting, by the way, that he shows no remorse today in his comments. No remorse, no sympathy for the victims. Just disgusting comments.”
+
+According to official guidance, prisoners are expected to make a formal application through their governor if they wish to contact the media.
+
+Allegations against Brand and fellow comedian David Walliams have prompted conversations about introducing a staggered age of consent.
+
+The Conservative leader, Kemi Badenoch, said there was “some common sense” in the idea, but expressed doubts about how it could be enforced.
+
+“I do think that there’s some common sense there in terms of a staggered age of consent. My issue is with how we will enforce it,” she told a press conference. Walliams denies wrongdoing.

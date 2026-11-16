@@ -1,0 +1,158 @@
+---
+title: Russell Brand prison message claiming innocence being investigated, No 10 says
+source_url: https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Brand's wife read out comments from the comedian on their podcast in
+  which the convicted rapist said he was "not guilty of the offences I have been jailed
+  for".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:32:40Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+- Comedy & Entertainment
+people:
+- Alex Norris
+- Andrea Simon
+- Anna Edmundson
+- Ed Miliband
+- Laura Brand
+- Laura Trott
+- Layla Stone
+- Lisa Nandy
+- Mia Latter
+- Russell Brand
+- Stephen Doughty
+locations:
+- Cambridgeshire
+- Downing Street
+- England
+- Littlehey
+- London
+- Northern Ireland
+- Scotland
+- US
+- Wales
+organisations:
+- BBC Breakfast
+- BBC Radio 4
+- Brand
+- Channel 4
+- Close the Consent Gap
+- Department for Culture, Media and Sport
+- Dispatches
+- Foreign Office
+- HMP Littlehey
+- HMP Wandsworth
+- Justice
+- LBC
+- Labour
+- NSPCC
+- Scottish Government
+- Sky News
+- Southwark Crown Court
+- Sunday Times
+---
+
+![British comedian Russell Brand (L) and his wife Laura Brand (R) arrive at Southwark Crown Court in London on 4 November 2026](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg)
+
+Russell Brand (pictured during his trial) delivered a message to followers via his wife Laura
+
+**A message by Russell Brand to his followers in which he claimed innocence for his sexual offences was "clearly appalling" and is being urgently investigated, Downing Street has said.**
+
+The comedian is currently serving a 10-and-half-year prison sentence after being convicted of rape and three counts of sexual assault.
+
+His wife Laura read out a message from him on their Sunday Service show on YouTube, in which the convicted rapist claimed: "I am not guilty of the offences I have been jailed for."
+
+No 10 said it expects action to be taken if Brand is found to have broken prison rules.
+
+Justice Secretary Alex Norris said the broadcast of a statement from Russell Brand is "completely unacceptable".
+
+In a post on X, Norris wrote: "Prisoners are rightly banned from making statements that cause distress to victims.
+
+"This is being urgently investigated, and I expect action to be taken if he is found to have broken the rules."
+
+In the couple's podcast, released on Sunday, Laura Brand can be seen sitting on a sofa and is holding a Bible with a candle burning in front of her.
+
+Relaying the message from her husband, Laura Brand said the comedian - who is currently being held at HMP Littlehey in Cambridgeshire - called prison staff "strong", "kind" and "dedicated", and asked people to support his "treasured wife and family".
+
+She said she had been speaking to him and he "is OK and is praying".
+
+Brand has positioned himself as a Christian influencer, and has a large following among believers, including in the US.
+
+Asked about the message, the prime minister's official spokesman said: "Prisoners are strictly banned from making statements that cause distress to victims and speaking to the media is only permitted in exceptional circumstances.
+
+"Prisoners cannot get around these rules by having someone else publish their comments."
+
+Speaking earlier, Foreign Secretary Ed Miliband told Sky News: "His crimes are heinous and awful. I think it's revolting, by the way, that he shows no remorse today in his comments."
+
+"No remorse, no sympathy for the victims. Just disgusting comments," he added.
+
+Victims' commissioner for London Andrea Simon said the claims will "certainly retraumatise his victims and other survivors of rape who have to hear it".
+
+Speaking on BBC Radio 4's Today programme, she added: "The victims during the sentencing hearing highlighted how his denials and ongoing media fame over two decades had added to their pain and trauma.
+
+"The fact survivors are still having to hear this now is really problematic and very concerning that we can't do more to protect them from it."
+
+While freedom of expression allows convicted sex offenders such as Brand to profess their innocence, Simon said terms of service of media platforms should regulate "the way in which they get their message out".
+
+She added that prison rules should also be reviewed to "bar those convicted of sending messages to be broadcast" unless permission is granted by the prison governor.
+
+If Brand is found to have broken prison rules, possible punishments enforceable by prison governors can result in restrictions on social visits or loss of privileges such as access to additional time in the gym or loss of TV.
+
+Governors can also impose proportionate restrictions on communications where justified.
+
+This could include blocking specific phone numbers, increased monitoring of calls or restricting contact with individuals where necessary to protect victims or maintain prison security.
+
+It come as Culture Secretary Lisa Nandy met with senior leaders in media, entertainment, arts and sports organisations as part of her call to end the culture of abuse in industries where there can be large power imbalances.
+
+In the meeting, she asked the leaders what they were doing to create a culture where bullying, harassment and abuse are challenged, how they are empowering whistleblowers to speak out and how their safeguarding systems apply to freelance employees.
+
+The attendees are due to report back to Nandy on the questions she asked them within the coming weeks, the Department for Culture, Media and Sport said.
+
+Over the weekend, Brand was moved from the category B HMP Wandsworth in south London to the category C HMP Littlehey in Cambridgeshire, a prison that mostly houses sex offenders and has tailored programmes for them.
+
+Foreign Office minister Stephen Doughty, told LBC he agreed it was not "a good look" that he'd been moved to a lower security prison.
+
+"I think people want to see him facing the appropriate punishment for what are appalling crimes against women and others and I think the whole episode is shocking," he said.
+
+## Staggered age of consent calls
+
+Meanwhile, there have been calls for a change in the law following Brand's conviction so that sexual relationships between 16 and 17-year-olds and adults would be illegal. The government says a discussion is to take place.
+
+Mia Latter, who has alleged she was raped by Russell Brand when she was 16, is among those campaigning for ministers to introduce a staggered age of consent.
+
+She was one of six women who made allegations against Brand in 2023 as part of a Times, Sunday Times and Channel 4's Dispatches investigation. Brand denied the allegations at the time. None of the women were complainants in his recent criminal trial.
+
+Latter, who was known under the pseudonym "Alice" in the 2023 investigation, has now waived her right to anonymity.
+
+In an interview with LBC on Monday, Latter said: "We don't want to criminalise anybody under the age of 18 [including] 16, 17-year-olds, 18-year-olds having sex with each other...
+
+"I think healthy relationships are important, and they're important in helping you develop and grow."
+
+But she said there should be an age "threshold" for the partners of 16 and 17 year-olds.
+
+Layla Stone, founder of the campaign group Close the Consent Gap, is urging a change in the law to prevent 16 year-olds from having a sexual relationship with anyone older than 19, and someone aged 17 from having a relationship with anyone older than 20.
+
+She told BBC Breakfast that "predators know exactly what they are doing".
+
+Asked about the issue on BBC Breakfast, the foreign secretary said: "I think the reason why it's right to have this debate is we've seen some of the very, very brave victims of Russell Brand come forward and say 'we think this needs looking at'".
+
+Shadow education secretary Laura Trott said she is glad there is a conversation around staggering the age of consent but warned that it had "been quite complicated to actually implement" in some US states where it is used.
+
+Trott said a suggestion that the age of consent should be raised to 18 is also a "conversation we need to have" but "probably isn't practical".
+
+Anna Edmundson, director of policy & social change at the NSPCC charity, said: "We urgently need a review of what is and isn't working to ensure 16 and 17-year-olds are fully protected in law from this predatory behaviour.
+
+"However, closing these gaps will only be part of the solution. We must question why adults have been able to exploit teenagers in plain sight for so long, and look at what further action is needed to help people recognise the signs of exploitation."
+
+Any change in the law would only affect England and Wales as Scotland and Northern Ireland have separate legislative powers in relation to the age of consent, which is also currently set at 16 in both nations.
+
+The Scottish Government said it had "no current plans" to change the age of consent, following the calls by campaigners, but any proposals would be considered.
+
+The foreign secretary also apologised for having appeared on Russell Brand's online show in 2015, when he was Labour leader.
+
+Miliband told Today if he'd known about the allegations then, he would not have done spoken to him, adding: "I deeply regret doing that interview and all my sympathies are with those victims."

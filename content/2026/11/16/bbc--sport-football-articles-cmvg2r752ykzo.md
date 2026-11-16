@@ -1,0 +1,129 @@
+---
+title: Has James Trafford replaced Jordan Pickford as England No 1?
+source_url: https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: James Trafford was given a chance to stake his claim as England's new
+  number one - and away to the world champions, he absolutely took it.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:34:44Z'
+categories:
+- UK
+- News & Politics
+- History
+- Sports
+people:
+- David Raya
+- Declan Rice
+- Father Time
+- Fermin Lopez
+- Gianluigi Donnarumma
+- James Trafford
+- Jordan Pickford
+- Jude Bellingham
+- Lamine Yamal
+- Luis de la Fuente
+- Paul Robinson
+- Roy Keane
+- Spain Tuchel
+- Thomas Tuchel
+locations:
+- Croatia
+- Czech Republic
+- England
+- Europe
+- Germany
+- Madrid
+- Spain
+organisations:
+- Arsenal
+- BBC Sport
+- Burnley
+- England
+- Etihad
+- Everton
+- ITV Sport
+- Leeds
+- Manchester City
+- Manchester United
+- Opta
+- Pep Guardiola
+- Pickford
+- Three Lions
+- Trafford
+---
+
+![James Trafford with Jude Bellingham](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg)
+
+James Trafford has made five appearances for England, all of them in 2026
+
+**It was some night for James Trafford.**
+
+As he was mobbed by his England team-mates for a late double save that secured a memorable 3-2 win against world champions Spain, the debate that followed about who the country's number one is was inevitable.
+
+The Leeds keeper was given his chance to show England boss Thomas Tuchel what he could do again - and he absolutely took it.
+
+On his fifth England cap the 24-year-old enjoyed a magnificent performance in Madrid as his side handed the hosts their first loss in 43 matches.
+
+Trafford made four key saves in the final 12 minutes of the game, including an incredible double stop to first deny a Lamine Yamal curler and then dive again to his right to keep out Fermin Lopez from close range.
+
+Last week Tuchel had made it clear that Everton goalkeeper Jordan Pickford was his number one.
+
+But after full-time in Spain Tuchel told ITV Sport "there's no number one" and Trafford had "a brilliant match".
+
+So, following his performance on Sunday night, is Trafford now likely to oust Pickford as England's go-to goalkeeper?
+
+## The case for Trafford
+
+Is Trafford 'closing the gap' on Pickford?
+
+Despite being just 24 years old Trafford has already been England's most expensive goalkeeper by transfer fee... twice.
+
+Trafford returned to his boyhood Manchester City from Burnley for a £31m fee in 2025 and then left the Etihad for Leeds for £45m this summer - having been limited to being Pep Guardiola's 'cup goalkeeper'.
+
+Given the downturn in form of their current goalkeeper Gianluigi Donnarumma, many City fans may well be wishing Trafford had stayed. Their loss is Leeds' - and maybe England's - gain.
+
+At Leeds he has found his form and this season ranks first among the 52 goalkeepers who have played at least 10 games in Europe's big five leagues by save percentage (81.4%).
+
+He has made five appearances for England, all of them in 2026, and has rotated with Pickford across the Three Lions' five matches since the World Cup.
+
+Pickford has started against Czech Republic and Croatia twice whereas Trafford has played against Czech Republic and started both England's matches with Spain, home and away.
+
+After England's win in Madrid, which was the first time Spain had lost in the city in 39 years, Trafford's double-save was praised by his Three Lions team-mate Declan Rice.
+
+"Everything happened so quick so for him to make two in the space of two seconds is massive," he told ITV. "A massive night for him."
+
+Spain manager Luis de la Fuente agreed. He said: "We did generate some chances but England's goalkeeper has produced a fantastic performance and stopped two or three potential goals in the last 10 or 15 minutes."
+
+After the double-save several England players ran over to celebrate with Trafford.
+
+And on Tuchel's decision to rotate between his two keepers former Manchester United captain Roy Keane told ITV: "I think it's smart management.
+
+"This is the perfect time for Trafford to come in, against top players, and show what he's capable of doing."
+
+Social media has been full of the 'England number one' debate since, with many suggesting this was a moment that marked the changing of the guard.
+
+Could Tuchel really now not start with Trafford for England's Nations League quarter-finals? Only time will tell.
+
+## The case for Pickford
+
+Pickford - "You've got to respect it"
+
+What about Pickford though? England's undisputed first choice for almost 10 years has rarely let his country down.
+
+The 32-year-old has won 94 caps for England since making his debut in a 0-0 draw with Germany in 2017 and during his time as number one England have reached two World Cup semi-finals and two Euros finals.
+
+According to Opta stats, Pickford has only made two errors leading to goals across his England career, with 46 clean sheets and a 74.3% save ratio.
+
+And since the start of the 2024-25 season, only Arsenal's title-winning keeper David Raya has more clean sheets in the league than Pickford at Everton.
+
+"We saw the last selections and all thought Jordan Pickford's place is under threat and James Trafford is going to be the next number one. I don't think Thomas Tuchel saw it as starkly or simply as that," said former England number one goalkeeper Paul Robinson to BBC Sport before England's win against Spain,
+
+"It's a conversation that will definitely take place down the road, but not now. Jordan is England's first choice, in my opinion, rightfully so given his consistency and performances over such a long period.
+
+"This is a debate and conversation for the future definitely because Father Time catches up with everyone eventually and the manager needs to have a contingency plan, but Jordan Pickford very much remains number one and Thomas Tuchel has said as much.
+
+"I don't think Jordan Pickford is under threat for his jersey on a permanent basis any time soon, irrespective of the next selection."
+
+This isn't a debate that is going away any time soon. But having two goalkeepers genuinely competing for that number one shirt can only be to England's benefit.

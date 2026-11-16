@@ -1,0 +1,54 @@
+---
+title: Gerard Depardieu drops appeal for sexual assault conviction
+source_url: https://www.euronews.com/2026/11/16/french-actor-gerard-depardieu-drops-appeal-for-sexual-assault-conviction
+source_site: Euronews
+source_slug: euronews
+description: 'Depardieu, who has acted in more than 200 films and television series,
+  is the highest-profile figure caught up in France''s response to the #MeToo movement.
+  #EuropeNews'
+image: https://images.euronews.com/articles/stories/09/99/41/96/1200x675_cmsv2_a0cf082e-3b9e-54b9-b187-e91cb87aee48-9994196.jpg
+published: '2026-11-16T00:00:00Z'
+scraped_at: '2026-11-16T19:33:03Z'
+categories:
+- Europe
+- News & Politics
+- Film & TV
+people:
+- Charlotte Arnould
+- Gerard Depardieu
+- Jean Becker
+locations:
+- France
+organisations:
+- AFP
+---
+
+## Depardieu, who has acted in more than 200 films and television series, is the highest-profile figure caught up in France's response to the #MeToo movement.
+
+French actor Gerard Depardieu formally dropped his appeal on Monday against a conviction for sexually assaulting two women during the filming of a movie in 2021.
+
+A court last year handed the 77-year-old an 18-month suspended sentence and ordered him to register as a sex offender, marking a spectacular fall from grace for an actor who dominated French cinema for half a century.
+
+Depardieu, who has acted in more than 200 films and television series, is the highest-profile figure caught up in France's response to the #MeToo movement.
+
+The trial related to charges of sexual assault during the filming in 2021 of "Les Volets Verts" ("The Green Shutters") by director Jean Becker.
+
+Depardieu's withdrawal was lodged at the start of the appeal trial on Monday, bringing it to an end and rendering the original judgement final.
+
+"Justice has spoken. I was found guilty. I hear it and I accept this conviction," Depardieu said in a statement sent to the AFP news agency shortly before the hearing began.
+
+At the start of the hearing, the prosecutor and the civil parties also withdrew their appeals.
+
+"For a long time on film sets, I hid behind provocation and ribald humour," Depardieu said, acknowledging that his remarks and "some of my gestures" were not "without consequences."
+
+He offered his "deep and sincere apologies" to those who "may have suffered as a result."
+
+The actor said he had never intended to hurt the women he encountered, but added that he had "come to understand that intention changes nothing about the harm caused."
+
+"Court proceedings damage us," added the actor.
+
+The plaintiffs were a set dresser and an assistant director. Depardieu has denied the allegations.
+
+In another case, a French investigating judge in 2025 ordered Depardieu to stand trial on charges of raping actor Charlotte Arnould in 2018.
+
+He has denied those charges and is appealing.
