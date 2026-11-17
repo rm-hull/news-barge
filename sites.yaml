@@ -67,6 +67,8 @@ sites:
     # Some articles are split across multiple pages (e.g. /article-id/2, /3).
     # Unfurling detects "Next page" links and merges all pages into one article.
     unfurl_multipage: true
+    proxy_server: ${MY_PROXY_SERVER}
+    proxy_user_pass: ${MY_PROXY_USER_PASS}
 
   - name: Harrogate News
     slug: harrogate-news
