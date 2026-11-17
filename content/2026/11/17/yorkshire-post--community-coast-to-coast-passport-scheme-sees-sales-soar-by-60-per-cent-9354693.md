@@ -1,0 +1,112 @@
+---
+title: Coast to Coast Passport scheme sees sales soar by 60 per cent
+source_url: https://www.yorkshirepost.co.uk/community/coast-to-coast-passport-scheme-sees-sales-soar-by-60-per-cent-9354693
+source_site: Yorkshire Post
+source_slug: yorkshire-post
+description: A scheme encouraging walkers to explore and spend money in communities
+  along the Coast to Coast route has seen sales soar by 60 per cent in a year, prompting
+  organisers to recruit a dedicated leader to oversee its next phase.
+image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZkNDFlMWIxLTU5MjgtNDUzOS1hODY3LTg1Mjg4ZmY2Y2U1NTpkMjc5OWMyZC0yZDA1LTRkMjktYmU5MC01MjJjZDVlMzdiNDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+published: '2026-11-17T00:00:00Z'
+scraped_at: '2026-11-17T15:58:52Z'
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Travel
+people:
+- Alfred Wainwright
+- Donald Cline
+- Liz Gould
+- Lizzie Bushby
+- Stacy
+- Steve And
+- Tina Holt
+locations:
+- Bay
+- Britain
+- Coast National Trail
+- Coast to Coast
+- Coast to Coast Walk
+- England
+- North Yorkshire
+- Robin Hood
+- St Bees
+organisations:
+- Carina Lightbody
+- Coast to Coast
+- Coast to Coast National Trail Partnership
+- Coast to Coast Passport
+- Companion App
+- Cumberland Council
+- Furness Council
+- Government
+- Natural England
+- North York Moors
+- North Yorkshire Council
+- Richmond Yorkshire
+- Richmond Yorkshire CIC
+- Richmond Yorkshire Community Interest Company
+- Sherpa-Packhorse
+- Sustainable Development Fund
+- The Birchwood Cafe
+- Westmorland
+- Yorkshire Dales
+- Yorkshire Dales National Park Authority
+---
+
+# Coast to Coast Passport scheme sees sales soar by 60 per cent
+
+## A scheme encouraging walkers to explore and spend money in communities along the Coast to Coast route has seen sales soar by 60 per cent in a year, prompting organisers to recruit a dedicated leader to oversee its next phase.
+
+The Coast to Coast Passport was launched by Richmond Yorkshire Community Interest Company (CIC) last year.
+
+The initiative allows walkers tackling the 190-mile Coast to Coast National Trail to collect stamps from participating businesses and other locations along the route, before receiving a personalised certificate on completing their journey.
+
+Organisers say sales increased by 60 per cent in 2026 compared with the previous year, with an estimated 25 to 30 per cent of Coast to Coast walkers now carrying a Passport.
+
+![Steve And Liz Gould complete the Coast to Coast trail.](https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZkNDFlMWIxLTU5MjgtNDUzOS1hODY3LTg1Mjg4ZmY2Y2U1NTpkMjc5OWMyZC0yZDA1LTRkMjktYmU5MC01MjJjZDVlMzdiNDg=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+The scheme is designed to encourage walkers to stop, explore and spend money in communities along the route, benefiting shops, pubs, cafés and accommodation providers.
+
+The Passport was conceived in 2024 by volunteer Donald Cline, who says long-distance walkers take readily to becoming “stamp-collectors”.
+
+“It has grown beyond anything we imagined and now deserves a dedicated leader. I’m delighted to hand over the reins,” said Mr Cline, passport volunteer coordinator and director of Richmond Yorkshire CIC.
+
+The scheme was launched with financial backing from North Yorkshire Council, Cumberland Council, Westmorland and Furness Council, Natural England and the Yorkshire Dales and North York Moors national park authorities.
+
+![Lek And Stacy at The Birchwood Cafe at Shap.](https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkwOTYyNmMzLTU5YzUtNDc3My05NzE2LTk2ZjZlODAwNTRkYzoxOTdiYTY5Ny1iZDQzLTQ5ZDEtOTJhNy05OGVhZDA3ZTA2Mzc=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+Sixteen North Yorkshire councillors also contributed funding from their locality budgets to support the production of more Passports.
+
+Lizzie Bushby, deputy chair and member champion for recreation management at the Yorkshire Dales National Park Authority, said: “The Passport gives walkers a reason to stop, explore and spend locally along the route, delivering real benefits for local businesses. It’s great to see the project become self-sustaining after just two years.
+
+“We’re proud to have played a part in supporting the Passport through the Yorkshire Dales National Park Authority’s Sustainable Development Fund.”
+
+Holiday companies that operate along the Coast to Coast trail have become the Passport’s most important customers.
+
+![Tina Holt at the Mountain Warehouse Richmond with the Passport.](https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNlYjhlZjljLWEwZmYtNDU0Mi04YzY5LWFhM2VhZWE3MjgxNjo2OGRlMzIwNS0wNjc5LTRiMDEtYTlkYy0xMWYwYzA2NTQ0Y2I=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+Carina Lightbody, manager of Sherpa-Packhorse, which organises holidays on the route and operates a luggage transfer service, said: “Supporters of the Coast to Coast Passport since its inception and are delighted to provide copies to our own customers as part of their walking experience.
+
+“The feedback we receive is wonderful, with many of our customers particularly enjoying collecting stamps along the trail. It’s a lovely way to mark their progress, celebrate the places they’ve visited and create a lasting memento of their adventure.”
+
+Richmond Yorkshire CIC is now seeking a part-time freelance Coast to Coast Passport lead to guide its development during 2027.
+
+The role will involve around 50 working days over the year, supported by a small team of volunteers.
+
+A free Companion App, which is being developed with the input of the Coast to Coast National Trail Partnership, will be available from spring 2027 to anyone walking the route.
+
+New printed editions of the Passport appear towards the end of January.
+
+The Coast to Coast Walk is one of Britain’s most famous long-distance routes, stretching about 190 miles from St Bees on the Cumbrian coast to Robin Hood’s Bay in North Yorkshire.
+
+The trail was devised by renowned fell walker and guidebook author Alfred Wainwright, who outlined the route in his 1973 book A Coast to Coast Walk.
+
+After decades of campaigning for official status, the Government announced in 2022 that the Coast to Coast would become England’s newest National Trail.
+
+Expressions of interest in the freelance leadership role should be registered by mid-December.
