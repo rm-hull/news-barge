@@ -1,0 +1,58 @@
+---
+title: Ring, Ring! It’s the Best Black Friday Deals on Phones
+source_url: https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/
+source_site: Wired
+source_slug: wired
+description: As the holidays creep closer, I’m already seeing some tempting early
+  Black Friday phone deals.
+image: https://media.wired.com/photos/6afde765a3ba61ac1ff46232/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Phone-Deals.jpg
+published: '2026-11-18T00:00:00Z'
+scraped_at: '2026-11-18T20:29:53Z'
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Shopping & Deals
+people: []
+locations:
+- Amazon
+- Home Depot
+organisations:
+- Apple
+- Black Friday Deals
+- Mint Mobile
+- Samsung
+- T-Mobile
+- Verizon
+- iPhone Air
+---
+
+We see tempting Black Friday phone deals every year, and in 2026, the sales have kicked off early. I spotted phones we have tested and already recommend at a cheaper price than usually, and collected them below. It’s possible some of these prices will dip lower as day-of Black Friday deals, and more phones will definitely be on sale for the event, but we’ll update this guide as we spot them.
+
+Want more deals? Check out our guide to the Best Early Black Friday Deals on Amazon, the Best Early Black Friday TV Deals, and Black Friday Deals at Home Depot. Plus, read our related shopping guides, including how to avoid scams and sketchy wares on Amazon.
+
+## Best Black Friday iPhone Deals
+
+The iPhone Air impressed us with its super svelte form factor. A lovely 6.5-inch OLED screen and excellent performance, courtesy of Apple’s A19 Pro chipset, are wrapped up in a body that’s just 5.6 millimeters thick and only weighs 165 grams. Battery life isn’t stellar, and the main camera is a lone 48-MP shooter, but it’s *so thin*. Discounts on iPhones can be hard to find, so if you’ve had your eye on the iPhone Air, this deal is worth grabbing.
+
+## Best Black Friday Samsung Phone Deals
+
+Our top pick of the best folding phones pulls all of Samsung’s experience together into a fresh form factor that feels *just right*. The 5.5-inch cover screen is usable, and the 7.7-inch inner screen is perfect for opening two apps side by side. This is also a powerful phone with a Qualcomm Snapdragon 8 Elite Gen 5 chipset and has plenty of stamina thanks to the 4,800-mAh silicon-carbon battery. This $350 discount brings it to the lowest price we’ve seen so far.
+
+If you prefer a compact flip phone, the Samsung Galaxy Z Flip8 is calling. Samsung’s eighth-generation clamshell is wonderfully refined, slimmer than ever, and offers a 4.1-inch AMOLED cover screen with a 6.9-inch display inside. Performance and battery life are excellent. The camera will be enough for most folks, and there’s a healthy dose of AI. Best of all, this discount deletes the annual $100 price bump and knocks another $100 off. It has never been cheaper.
+
+Samsung’s most powerful phone is the pick for professionals. It combines excellent performance, great battery life, and a reliable quad-camera system. The Samsung Galaxy S26 Ultra has a special Privacy Display to keep folks from peeking over your shoulder at what’s on your screen. The Ultra is also the only Samsung phone with the integrated S Pen stylus. It has dipped as low as $950 before (and may do again), but this is a decent discount.
+
+Here are a couple of other Samsung phones on sale:
+
+## Best Black Friday Nothing Phone Deals
+
+While we prefer the Google Pixel 10a as a midrange phone, the Nothing Phone (4a) Pro is a full $200 cheaper with this Black Friday discount, making it a better pick today for folks on a budget. It promises good performance, a nice screen, reliable battery life, and a solid triple-camera system with 3.5X zoom. You also get to enjoy Nothing’s unique software design with the fun Glyph Matrix pixelated screen on the back.
+
+Find other Nothing phones on sale right now below:
+
+## Consider Black Friday Carrier Deals
+
+While it usually makes more sense to buy your phone outright and then shop around for service, several carriers are offering discounted phones or extras such as earbuds and smartwatches if you sign up for new contracts with them. Popular budget carrier Mint Mobile is offering some solid discounts; Verizon has some interesting bundle deals; you’ll find deep discounts as incentives to switch to T-Mobile, and there are lots of trade-in deals at AT&T. Just make sure you crunch the numbers to understand how much you’ll pay over the course of the contract.
+
+*Power up with unlimited access to*WIRED*.**Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.*
