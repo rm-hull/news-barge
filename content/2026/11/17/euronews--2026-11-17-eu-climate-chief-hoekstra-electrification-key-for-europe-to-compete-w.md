@@ -1,0 +1,65 @@
+---
+title: 'EU climate chief: Electrification key to competing with China'
+source_url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
+source_site: Euronews
+source_slug: euronews
+description: Hoekstra tells On the Record that electrification is key to Europe's
+  industrial competitiveness, as COP talks push for a global target of 35% by 2035.
+image: https://images.euronews.com/articles/stories/09/99/42/01/1200x675_cmsv2_ce6340c1-e41c-5338-836e-6c8b72ffabd1-9994201.jpg
+published: '2026-11-17T00:00:00Z'
+scraped_at: '2026-11-18T00:56:55Z'
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+people:
+- Wopke Hoekstra
+locations:
+- Beijing
+- Brussels
+- China
+- Europe
+- Germany
+- Turkey
+organisations:
+- BMW
+- COP
+- EU
+- Euronews
+- European Commission
+- European Parliament
+- Mercedes-Benz
+- Stellantis
+- Volkswagen
+- Volvo
+---
+
+## Hoekstra tells On the Record that electrification is key to Europe's industrial competitiveness, as COP talks push for a global target of 35% by 2035.
+
+The European Commission's proposed U-turn on its 2035 ban on new petrol and diesel cars does not give Brussels carte blanche to roll back its climate ambitions, Wopke Hoekstra has told Euronews.
+
+In an exclusive interview with Euronews' *On the Record*, the EU's climate chief defended the Commission's decision to give the automotive industry greater flexibility as a way to protect European manufacturers while keeping the transition to electric vehicles on track.
+
+His comments come as Europe's car industry struggles to remain competitive amid high energy costs and growing pressure from international rivals.
+
+German carmaker Mercedes-Benz has announced plans to halt investments in Germany and is weighing plant closures, amid similar challenges facing Volkswagen, Stellantis, BMW and Volvo.
+
+Hoekstra rejected calls for further concessions on the 2035 targets, including those backed by the European Parliament, arguing that additional flexibility risks undermining both the EU's climate ambitions and the competitiveness of European manufacturers as Chinese electric vehicle makers gain ground.
+
+"Significantly loosening the targets of 2035 is exactly not what the Commission did," he said, defending the proposal as a compromise between climate action, industrial competitiveness and energy independence.
+
+He also argued that further loosening the targets would do little to help European manufacturers, warning that the industry risks falling further behind if it slows its transition to electric vehicles while Chinese competitors continue to advance.
+
+"I am not convinced that loosening the targets further (...) will be in the interest of European car makers," he said.
+
+## Electrification as a competitive edge
+
+Hoekstra has also doubled down on efforts to electrify the European economy as he leads the bloc's negotiating team at this week's COP climate conference in Turkey.
+
+The summit aims to establish a global target of 35% electrification by 2035, a goal backed by the EU. Brussels argues that accelerating electrification would also strengthen European competitiveness, pointing to China's major push to electrify its economy and expand its electric vehicle industry.
+
+But while acknowledging China's progress, Hoekstra accused Beijing of dumping goods on European markets and using its dominance in sectors such as solar panels, electric vehicles and critical raw materials to strengthen its geopolitical position.
+
+He argued that European carmakers must step up their efforts to compete in the global electric vehicle market.
+
+"Let's not fight the quest for electrification. Let's make sure it is European companies that win that race," he said.

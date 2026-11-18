@@ -1,0 +1,52 @@
+---
+title: Costa Rican journalist shot dead in first such killing in 25 years
+source_url: https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead
+source_site: The Guardian
+source_slug: guardian
+description: Camilo Rodriguez’s death comes as the country grapples with a surge in
+  drug violence
+image: https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4732bd54781e8ecf5dfb44a48c26f842
+published: '2026-11-17T00:00:00Z'
+scraped_at: '2026-11-18T00:55:54Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Camilo Rodríguez
+- Carlo Díaz
+- Laura Fernández
+- Parmenio Medina
+- Rodriguez
+- Silencing
+locations:
+- Central America
+- Costa Rica
+- San José
+- Santo Domingo
+organisations:
+- Extra Noticias
+- Red Cross
+---
+
+The Costa Rican journalist Camilo Rodríguez, who gained prominence for publishing allegations against ⁠suspected drug traffickers and politicians, was shot dead on Monday, authorities said.
+
+The first known killing of a journalist ⁠in Costa Rica in ⁠25 years, ​Rodriguez’s death comes as the country grapples with a surge in drug violence driven by international trafficking groups, despite long ⁠being regarded as one of Central America’s most peaceful and stable democracies.
+
+Rodriguez, 51, was attacked at about 3.20pm local ⁠time amid heavy traffic on a main highway on the outskirts of the capital ​San José, the Red Cross ‌reported.
+
+President Laura Fernández condemned ‌the attack in a video message.
+
+“I am filled with indignation and outrage over ‌the cowardly murder of communicator Camilo Rodríguez. Regardless of the content of his communications, what happened today in our country is a stain on freedom of expression,” Fernández said.
+
+The attorney general, Carlo Díaz, told the local news outlet Extra Noticias that investigators found multiple bullet impacts and a crime scene resembling a contract ‌killing, probably linked to the allegations Rodríguez had published. He gave no further evidence and did not name suspects.
+
+“We know he ​was a communicator who publicly identified people for alleged links to drug trafficking,” Díaz said, adding that Rodríguez had previously reported threats but had declined protection.
+
+“Silencing someone who reports on drug trafficking or corruption, in this case a communicator, is a ⁠signal we cannot tolerate in a democratic society.“
+
+Díaz pledged efforts to ​hold those responsible ​for the murder accountable.
+
+The last such ​attack on a media worker happened in July 2001 when the radio ​producer Parmenio ‌Medina was gunned ​down on a ​Santo Domingo highway, in roughly the same area as Rodríguez’s attack took place.
+
+Costa Rica’s homicide rate doubled between 2013 and 2023 and has only eased slightly since then.
