@@ -144,6 +144,7 @@ async def urls_from_listing(
     resolve_relative_to_root: bool = False,
     logger: SiteLogger | None = None,
     site: SiteConfig | None = None,
+    browser: Browser | None = None,
 ) -> list[str]:
     """Discover article URLs from a listing page."""
     verify = not site.trust_insecure_certs if site else True
@@ -151,7 +152,7 @@ async def urls_from_listing(
     if use_playwright:
         async with browser_semaphore:
             html = await fetch_html_playwright(
-                listing_url, context, logger=logger, proxy=proxy
+                listing_url, context, logger=logger, proxy=proxy, browser=browser
             )
     else:
         html = await fetch_html_curl(
@@ -369,6 +370,7 @@ async def _discover_site_urls(
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
+    browser: Browser | None = None,
 ) -> tuple[SiteConfig, SiteLogger, list[str]]:
     """Discover article URLs for a single site from feeds, listings, and static config.
 
@@ -411,6 +413,7 @@ async def _discover_site_urls(
                 site.resolve_relative_to_root,
                 logger=site_logger,
                 site=site,
+                browser=browser,
             )
             print(
                 f" | Listing {listing_url} -> found {len(discovered)} URLs",
@@ -447,6 +450,7 @@ async def _discover_urls(
     shared_context: BrowserContext,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
+    browser: Browser | None = None,
 ) -> tuple[list[tuple[str, SiteConfig, SiteLogger]], dict[str, SiteLogger]]:
     """Discover article URLs for each site from feeds, listings, and static config.
 
@@ -461,7 +465,7 @@ async def _discover_urls(
 
     discovery_tasks = [
         _discover_site_urls(
-            site, session, shared_context, browser_semaphore, fetch_semaphore
+            site, session, shared_context, browser_semaphore, fetch_semaphore, browser
         )
         for site in sites
     ]
@@ -658,7 +662,12 @@ async def main_async(args: argparse.Namespace) -> None:
 
             # Phase 1: Discovery
             tasks, site_loggers = await _discover_urls(
-                sites, session, shared_context, browser_semaphore, fetch_semaphore
+                sites,
+                session,
+                shared_context,
+                browser_semaphore,
+                fetch_semaphore,
+                browser,
             )
 
             # Phase 2: Filter existing
