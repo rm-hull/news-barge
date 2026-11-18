@@ -1,0 +1,125 @@
+---
+title: Iran war dents Middle East sports model as events are canceled or postponed.
+  F1 bucks the trend
+source_url: https://www.independent.co.uk/news/saudi-arabia-qatar-persian-gulf-middle-east-mohammed-ben-sulayem-b3086873.html
+source_site: The Independent
+source_slug: independent
+description: The season-ending Formula 1 races in the Middle East are going ahead
+  despite the war in Iran and retaliatory attacks across the region that have canceled
+  or postponed other large sports events
+image: https://static.independent.co.uk/2026/11/18/05/Middle_East_Sports_Funding_Auto_Racing_56532.jpg?width=1200&height=800&crop=1200:800
+published: '2026-11-18T00:00:00Z'
+scraped_at: '2026-11-18T11:32:05Z'
+categories:
+- News & Politics
+- UK
+- Sports
+people:
+- Ben Sulayem
+- Cristiano Ronaldo
+- Instagram
+- Kristian Ulrichsen
+- Mohammed Ben Sulayem
+- Sascha Bruchmann
+- Sebastian Sons
+locations:
+- Abu Dhabi
+- Almaty
+- Bahrain
+- Beijing
+- Europe
+- India
+- Iran
+- Kazakhstan
+- Middle East
+- Morocco
+- North America
+- Persian Gulf
+- Portugal
+- Qatar
+- Riyadh
+- Saudi Arabia
+- Trojena
+- UAE
+- United Arab Emirates
+- United States
+- Yemen
+organisations:
+- Al-Nassr
+- Baker Institute
+- CARPO
+- F1
+- FIA
+- Formula 1
+- International Institute for Strategic Studies
+- LIV Golf
+- Liberty Media
+- Manchester City
+- MotoGP
+- Newcastle
+- Paris Saint-Germain
+- Premier League
+- Public Investment Fund
+- Rice University
+- The AP
+- The Associated Press
+- WTA
+---
+
+Two season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events. This includes two Formula 1 races earlier this year in Saudi Arabia and Bahrain.
+
+The conflict has upended the region's image as a safe haven where governments and sponsors have kicked in billions to lure mega-sports events. This comes as Europe and North America appear wary of such lavish spending.
+
+“The situation could change but the geography will not change,” Sebastian Sons, who follows sports in the Middle East with the German research institute CARPO, told The Associated Press. “The Middle East and the Gulf region are always a volatile and fragile region.”
+
+Going ahead is an endorsement for doing business in the region, but has also prompted concerns about safety from some teams and staff. Mohammed Ben Sulayem, the president of auto racing's world governing body FIA, has said “we are fully prepared” to pull off the two races: Qatar on Nov. 29 and Abu Dhabi on Dec. 6.
+
+Ben Sulayem is from the United Arab Emirates.
+
+A MotoGP race was held in Qatar on Nov. 8 on the track where F1 races. MotoGP is operated by Liberty Media, which also runs F1.
+
+“Holding the races in Qatar and Abu Dhabi signals that those two are stable and able to host large-scale sporting events. It is important they are seen to be open for business,” Kristian Ulrichsen, a political scientist at Rice University's Baker Institute, told The AP.
+
+“Predictability in long-term decision-making and policy planning,” Ulrichsen added, “made the region so attractive as a host of mega-events at a time when many cities and countries around the world are rethinking the cost of doing so.”
+
+Qatar bids for the 2036 Olympics
+
+Qatar’s reputation is on the line. It held the 2022 World Cup and is a co-favorite — with India — to land the 2036 Olympics. It’s also host next year to the basketball World Cup (Aug. 27-Sept. 12) and has the 2030 Asian Games.
+
+It took a hit last week when the United States pulled its team from the boys’ under-17 World Cup being played in Qatar.
+
+Saudi Arabia and its Persian Gulf neighbors have spent big to hold major sports events but were cutting back on mega-sports funding before the war began nine months ago.
+
+“For Saudi, the war has accelerated the need to find economies, to maybe reassess what was feasible and what wasn’t,” Ulrichsen said. He said landing the “big prize,” two years ago — the 2034 World Cup — probably honed Saudi's focus.
+
+“Qatar and the UAE will probably have to at some point do the same,” he added.
+
+Major events called off, postponed or relocated include the two Formula 1 races earlier in the season, and the WTA season-ending tennis finals and soccer’s monthlong Asian Cup — both originally scheduled for Saudi Arabia. The 2027 Dakar Rally was also moved from Saudi Arabia to Portugal and Morocco.
+
+Soft power meets hard power
+
+The region has been using sports to promote “soft power” to enhance its brand. But Saudi Arabia now faces hard power with Yemen’s Iran-backed Houthi rebels having struck Saudi Arabia’s main international airport in Riyadh. Riyadh’s business district has also recently been targeted.
+
+The war has also affected the large Gulf air carriers and changed travel patterns in the region.
+
+“One of the things Iran did during the war was to deliberately attack the connective tissue between Gulf states and the world,” Sascha Bruchmann, an analyst at the International Institute for Strategic Studies, told The AP. “This includes ports, airports, hotels and data centers — signaling that Iran can attack important issues beyond hydrocarbons and challenge the Gulf states’ ambitions to diversify.”
+
+Sons, the researcher at the German think tank, estimated that Saudi Arabia invested more than $6 billion in international sports between 2021 and 2023. Sons said the country hosted more than 100 international sports events between 2019 and 2024.
+
+Gulf states' business model changing
+
+A visible failure was the bankruptcy of LIV Golf, which reports say was funded by approximately $5 billion from Saudi Arabia’s Public Investment Fund. Saudi Arabia also canceled the 2029 Asian Winter Games, planned for the Trojena ski village in the south of the desert kingdom.
+
+The event has been moved to Almaty, Kazakhstan, which lost to Beijing in a close vote for the 2022 Winter Olympics.
+
+Ulrichsen said Saudi Arabia was backing off what seemed like a “scattergun approach,” backing LIV Golf, planning an unlikely Winter Asian Games, bankrolling soccer star Cristiano Ronaldo, and buying the Premier League team Newcastle. All are varied approaches to “soft power.”
+
+Ronaldo is reported to earn more than $200 million annually with Saudi club Al-Nassr.
+
+Qatar's sovereign wealth fund controls French club Paris Saint-Germain, and Manchester City is controlled by an Abu Dhabi investment group. Ulrichsen argued sports teams are a more effective investment than World Cups or Olympics “because people care more about the teams they support than an event that happens for three or four weeks.”
+
+“When Ronaldo would post on Instagram about the amazing lifestyle he was enjoying in Riyadh, that would reach upward of a half a billion people,” Ulrichsen added. “You simply can't buy that kind of reach with a conventional PR campaign.”
+
+\_\_\_
+
+See AP’s full sports coverage here

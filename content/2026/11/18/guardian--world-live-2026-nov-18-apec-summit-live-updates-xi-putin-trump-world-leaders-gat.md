@@ -1,0 +1,330 @@
+---
+title: 'Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe
+  in ‘humiliating decline’ in speech'
+source_url: https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china
+source_site: The Guardian
+source_slug: guardian
+description: Summit in Chinese tech hub Shenzhen set to include highly anticipated
+  meeting between Xi, Trump and Putin
+image: https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eb28a735eafcb9579e3bb1a1d516119e
+published: '2026-11-18T00:00:00Z'
+scraped_at: '2026-11-18T11:32:30Z'
+categories:
+- UK
+- News & Politics
+people:
+- AI
+- Andriy Sybiga
+- Chiang Ying-ying
+- Donald Trump
+- EPA Kim
+- Ferdinand Marcos Jr
+- Getty Images Xi
+- Jakub Krupa
+- Joe Biden
+- Kim Dong-yup
+- Kim Jong Un
+- Kim Jong-un
+- Kim Ju-ae
+- Kim Yo-jong
+- Lai Ching-te
+- Lizzi Lee
+- Loh
+- Marco Rubio
+- Marina Zhang
+- Mark Carney
+- Mark Schiefelbein
+- Rebecca Bailey
+- Reuters Carney
+- Sanae Takaichi
+- Sergei Bobylyov
+- Stan Shih
+- Sydney Seiler
+- Vladimir Putin
+- Vyacheslav Prokofyev
+- Win McNamee
+- Xi Jinping
+- Yuri Ushakov
+- Zelenskyy
+locations:
+- AI
+- Australia
+- Beijing
+- Britain
+- Canada
+- China
+- China-Russia
+- Chinese Taipei
+- Crimea
+- Europe
+- India
+- Iran
+- Japan
+- Kerch
+- Koreas
+- Kremlin
+- Malacanang
+- Manila
+- Miami
+- Moscow
+- Ninoy Aquino
+- North Korea
+- North Korea-China
+- Panmunjom
+- Philippines
+- Pyongyang
+- Quad
+- Rose Garden
+- Russia
+- Samjiyon
+- Shenzhen Bao'an
+- South Korea
+- Soviet Union
+- Taiwan
+- US
+- Ukraine
+- United States
+- Washington
+- White House
+organisations:
+- 49th Association of Southeast Asian Nations
+- AFP
+- AI
+- AP Beijing
+- AP Trump
+- AP US
+- APEC
+- ASPI
+- Acer Group
+- Air Force Once
+- Air Force One
+- Anadolu
+- Apec
+- Asean
+- Asia Society Policy Institute
+- Asia-Pacific Economic Cooperation
+- Center for Strategic and International Studies
+- DMZ
+- Far East Institute
+- Florence Lo
+- Interfax
+- KCNA
+- KNS
+- Kremlin Press Service
+- Kyungnam University
+- NTU
+- National Security
+- Nvidia
+- Pool Sputnik Kremlin
+- Presidential Office
+- Reuters Trump
+- Rolex dela Pena
+- TSMC
+- Tass
+- Trade
+- Trump-Xi
+- Truth Social
+- University of Technology Sydney
+- Xinhua
+- Yalta Conference
+---
+
+Putin and Trump could meet informally during Apec summit, Russia state media reports
+
+Vladimir Putin and Donald Trump could have several opportunities to speak during the Apec summit in China, according to Russia’s state news agency, Tass.
+
+Citing Kremlin aide Yuri Ushakov, Tass reported that the two leaders could exchange words informally at various points during the summit.
+
+They will communicate “on their feet, on the steps, in chairs”, Ushakov reportedly said, suggesting their interactions need not be limited to a formal sit-down meeting.
+
+Xi says he hopes to build 'stable' China-US ties with Trump - state media
+
+Xi Jinping told Donald Trump he hoped their talks would help advance a “constructive, strategic and stable relationship” between China and the US, based on “respect, fairness and reciprocity”, according to China’s state news agency Xinhua.
+
+Xi also recalled Trump’s personal welcome at the airport during his visit to the US in September, saying China’s own welcome for the US president reflected its tradition of reciprocity.
+
+Xinhua reported the following remarks by the Chinese president:
+
+When I visited the United States in September this year, president Trump and his wife made a special trip to the airport to welcome me, and a grand welcoming ceremony was held.
+
+China is a nation of courtesy, with a tradition of reciprocity. I welcome you back to China and look forward to exchanging in-depth views with you on major issues concerning China–US relations, Asia-Pacific cooperation and the global landscape, so as to advance a constructive, strategic and stable relationship between China and the US based on respect, fairness and reciprocity.”
+
+Donald Trump is welcomed by Xi Jinping at Shenzhen Bao'an airport on Wednesday. Photograph: Win McNamee/Getty Images
+
+Xi hails ‘unshaken’ China-Russia ties after talks with Putin
+
+Rebecca Bailey
+
+in Shenzhen
+
+Chinese state media have released a readout of Xi Jinping’s earlier meeting with Vladimir Putin.
+
+In it, Xi is quoted as saying China-Russia relations are “unshaken by storms and steady as a mountain”, and have set “an example of a new type of major-country relationship characterised by equality, mutual respect, trustworthiness, and win-win co-operation”.
+
+Xi also urged closer political and military ties between the two countries.
+
+He said “the two sides should leverage the mechanisms for exchanges between the two countries’ governments, legislative bodies, militaries and political parties, ensuring that the consensus reached by the two countries’ heads of state is effectively implemented”, according to the readout.
+
+Russian president Vladimir Putin and Chinese leader Xi Jinping hold talks in Shenzhen, China, on Wednesday. Photograph: Kremlin Press Service/Anadolu/Getty Images
+
+The attack earlier this week dealt a significant blow to a key transport link and a symbolic project for Vladimir Putin, as the Russian president sat down with Chinese leader Xi Jinping for talks at the Apec summit.
+
+My colleague Jakub Krupa has the latest on the Ukraine conflict over on our Europe live blog here:
+
+Carney challenges Putin's claim that sanctions no longer work
+
+While we await Trump to disembark Air Force Once, we have this report from our China correspondent Rebecca Bailey in Shenzhen:
+
+Canada’s Mark Carney has hit back at Vladimir Putin’s earlier assertion that sanctions no longer work in this day and age.
+
+“Mr Putin can ask his financial institutions, he can ask his oligarch friends, he can ask his hockey players whether or not sanctions are a thing of the past. I think he’ll find out that they’re very real, they’re biting,” Carney told reporters.
+
+In his address to the summit this morning, Putin had said that “the traditional tools of economic dominance and de facto coercion have largely run their course, having ⁠lost much of their intimidating power”.
+
+Speaking at an outdoor press conference as purple clouds lingered ominously in the background, Carney said: “Not for the first time, Vladimir Putin is lying about the situation on the ground. Sanctions are very real and they’re going to continue to increase as long as this war goes on.”
+
+Canadian prime minister Mark Carney speaks at a press conference on the sidelines of the Apec summit in Shenzhen, China. Photograph: Florence Lo/Reuters
+
+Carney had previously said he would not boycott a group photo with Putin out of respect for hosts China. But he said if he were to find himself next to the Russian president, he would make Canada’s position clear.
+
+Carney met China’s president Xi Jinping on Tuesday, with the two countries announcing remission measures for certain Chinese steel and aluminium products by two years in exchange for tariff relief on Canadian pork, fish and seafood exports.
+
+The two men also discussed AI, Carney said Wednesday, adding he had taken the opportunity to share Canada’s views on a model for global governance.
+
+“The absence of any global governance around AI is an enormous risk,” he said. “It’s an enormous economic risk but it’s a biohazard risk, and it’s a risk to democracy, human dignity, other factors... So it is past time to develop global governance frameworks for these sectors.”
+
+Carney is due to meet Donald Trump later today, he said, where they would discuss efforts to reach a trade deal.
+
+“We have been making progress... Two steps forward, one step back type thing,” he said.
+
+He said he fully respected Trump’s engagement with China.
+
+“I’m going to say something positive here about the initiative around denuclearization, the trilateral meeting that is going to happen,” he said. “Guess what? Canada’s in favor of denuclearization. If the relationship can be used towards that end, we’re very much supportive of it.”
+
+The Japanese prime minister, Sanae Takaichi, has arrived in China for the Apec summit, Reuters reports, in her first official visit to the country since becoming the leader of Japan.
+
+Like Trump, she also travelled from Manila, the Philippines, where she met with the leaders of the US, Australia and India as part of the Quad (a security grouping of the four countries) held in parallel with the 49th Association of Southeast Asian Nations (Asean).
+
+Japan's prime minister Sanae Takaichi at the meeting of the leaders of the Quad in Manila on Wednesday. Photograph: Mark Schiefelbein/AP
+
+Trump announces new trade deal with Philippines as he heads to China
+
+As Trump makes his way to China, he has posted a message on his Truth Social platform reflecting on his visit to the Philippines and his meeting with president Ferdinand Marcos Jr.
+
+The US president wrote:
+
+I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in particular, a Deal that will be great for our Farmers and those in the business of “Energy.” President Marcos is a powerful leader, and a man of high integrity and substance. It was an Honor to be with him, and his beautiful wife and son.”
+
+Donald Trump and Ferdinand Marcos Jr have a toast during a luncheon at the Malacanang presidential palace in Manila on Wednesday. Photograph: Rolex dela Pena/Reuters
+
+Trump has suggested this week that he could meet North Korean leader Kim Jong-un in China, but there has been no official confirmation from Beijing and Pyongyang has only published photos of its leader visiting a ski resort.
+
+In case you missed it, here are those extraordinary photos:
+
+Kim Jong-un inspecting the tourist zone under development in Samjiyon, North Korea. Photograph: KCNA/EPA
+
+Kim’s daughter, Kim Ju-ae, skiing in Samjiyon. Photograph: KCNA/EPA
+
+Kim’s sister, Kim Yo-jong, (left), skiing at the resort. Photograph: KCNA/KNS/AP
+
+US president Donald Trump pictured at Ninoy Aquino airport in Manila, the Philippines, pumping his fist as he boards Air Force One for Shenzhen, China, to attend the Apec summit.
+
+Thanks for tuning into our live blog of the Apec summit currently under way in the Chinese city of Shenzhen.
+
+There is plenty more to come, so don’t go away, but here is a quick summary of what we know so far.
+
+Chinese president Xi Jinping opened the Apec CEO summit on Wednesday with a speech calling for freer trade and greater cooperation around AI. “We should not only eliminate trade and investment barriers... but also promote inclusive and balanced development,” he said. “We should actively build partnerships for scientific and technological innovation, deepen cooperation in the digital economy and artificial intelligence and promote a green and low-carbon transition.”
+
+Russian president Vladimir Putin also addressed the summit, speaking after Ukraine destroyed the vital Kerch road bridge linking occupied Crimea to Russia in a major blow to his four-year-old war. Putin followed Xi on stage with a speech that described Western powers as “former hegemons”. He said Europe was in a “humiliating decline” and that anti-Russian sanctions imposed ⁠after his invasion of Ukraine had backfired, instead making his country stronger.
+
+Xi and Putin headed into a meeting after their opening addresses, according to Chinese and Russian state media.
+
+Russia’s president Vladimir Putin and Chinese president Xi Jinping shake hands prior to a meeting on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen, China. Photograph: Sergei Bobylyov/AFP/Getty Images
+
+The much-anticipated trilateral meeting between US president Donald Trump, Xi and Putin will take place on Thursday. The three men are due to meet on the sidelines and potentially discuss Russia’s war with Ukraine and the US war in Iran, as well as other flashpoints such as trade, ⁠AI and nuclear weapons.
+
+The meeting has drawn comparisons with the 1945 Yalta Conference between the US, Britain and the Soviet Union that formalised spheres of influence, set the stage for world order after the second world war and became shorthand for great power deals imposed on smaller countries.
+
+It is unclear whether North Korean leader Kim Jong-un will attend the talks, but Trump has floated the possibility. On Wednesday US secretary of state Marco Rubio said the US president was willing to engage, but he did not confirm whether a meeting had been set in Shenzhen.
+
+Trump said on Wednesday that the US has just ⁠concluded a “very big ⁠trade ​deal” with the Philippines, but he did not provide any details, and Manila ⁠did not announce any agreement. “We’ve just consummated a very big trade deal, the ⁠biggest trade deal we’ve ever made so far, and it ​is a fair ‌deal for both countries,” ‌Trump said during a state luncheon at the Philippine ‌presidential palace. Trump is set to arrive in Shenzhen on Wednesday evening.
+
+Donald Trump has said he doesn’t want to talk about Nvidia, the AI giant at the centre of a global espionage scandal, but AI will surely be on the agenda.
+
+Countries have called for stronger governance and regulation of AI, as worries grow about its potential for military use and the risks posed by rogue autonomous-agent tools.
+
+The China-US talks could build on the AI “communication channel” agreed when Trump and Xi met in Washington in September, Reuters reports.
+
+The next step should be to agree on what constitutes a reportable incident, who has authority to communicate, how quickly notifications must occur and how information can be verified without disclosing sensitive capabilities,” said Marina Zhang from the University of Technology Sydney.
+
+Media reports have also suggested Xi, Putin and Trump may discuss the use of AI in nuclear weapons command systems.
+
+Trump’s predecessor Joe Biden and Xi had agreed in 2024 that any decision to use nuclear weapons should be controlled by humans, not by AI, the White House said.
+
+Taiwan’s representative Stan Shih, founder of computer manufacturer Acer, is expected to arrive in Shenzhen with a delegation this morning.
+
+Among the 21 Apec member economies, Taiwan’s participation is particularly sensitive, given that host country China claims the self-governing democracy as its territory.
+
+Taiwan joined Apec in 1991 under the name “Chinese Taipei” and remains a full member despite its limited diplomatic recognition. Home to TSMC, the world’s leading contract chipmaker, the island plays a crucial role in the global supply of advanced semiconductors essential to AI, a key focus of discussions at the summit.
+
+Taiwanese President Lai Ching-te, center, and Acer Group Honorary Chairman Stan Shih, fifth from left, pose for a group photo during a press conference at the Presidential Office announcing Stan Shih as Taiwan's representative for the upcoming APEC leaders' summit in China in Taipei, Taiwan, Thursday, Nov. 12, 2026. Photograph: Chiang Ying-ying/AP
+
+Ahead of the summit, China reiterated that Taiwan’s participation in Apec must adhere to its “one-China principle”, a position rejected by Taipei, which insists that its participation as a forum member is not subject to Beijing’s policy.
+
+A Tuesday poll shows that 71.8% of respondents in Taiwan supported the government’s participation in the Shenzhen summit on “equal and dignified terms.”
+
+Taiwan could also come up in talks between US President Donald Trump and Chinese leader Xi Jinping on the sidelines of the summit on Thursday.
+
+Asked on Tuesday whether Taiwan had communicated with Washington ahead of Trump’s talks with Chinese and Russian leaders, Taiwan’s foreign ministry spokesperson said communication channels with the US are “running smoothly” and the ministry is closely monitoring Trump’s meetings at the summit.
+
+Trade tensions are likely to loom over the Apec summit this year, just a year after Trump and Xi Jinping reached a tenuous truce in their trade war on the sidelines of the last Apec summit in South Korea.
+
+But that deal expires in January.
+
+The leaders’ “priority” would be “keeping the truce alive”, especially with another Trump-Xi meeting expected at the G20 summit in Miami in December, said Lizzi Lee, a fellow at the Asia Society Policy Institute (ASPI), as reported by Reuters.
+
+Countries like Canada are also expected to be looking to broaden their trade partnerships – including with China – to reduce dependence on the United States.
+
+President Donald Trump speaks during an event to announce tariffs in the Rose Garden at the White House, April 2, 2025, in Washington. Photograph: Mark Schiefelbein/AP
+
+Trump has of course upended global trade order by imposing wide-ranging tariffs on many countries.
+
+Kim Jong-un had plenty to gain from his three meetings with Donald Trump during the US president’s first term in office.
+
+Seven years on from their last meeting, along the heavily armed border dividing the Korean peninsula, speculation is mounting that the North Korean leader will end their estrangement at this week’s Apec summit in Shenzhen.
+
+But some analysts are casting doubt on the likelihood of a fourth Trump-Kim meeting in the Chinese city.
+
+After making rapid progress with his country’s nuclear and missile programmes and forming a loose “axis of upheaval” with Beijing and Moscow, what, they ask, would Kim have to gain from another encounter with his American counterpart?
+
+Apec’s Chinese hosts say they have no information on a possible bilateral, while the US secretary of state, Marco Rubio, appeared to play down the prospect, saying preparations for a dialogue between Kim and Trump did not mean it would happen.
+
+Trump, who floated the idea just before leaving Washington on Monday, has raised the prospect of a resumption of nuclear diplomacy before, yet the men have not met since their brief meeting along the DMZ in June 2019, months after they failed to agree on how US would compensate Pyongyang for dismantling its nuclear arsenal.
+
+Trump and Kim Jong Un pose at the demilitarized zone (DMZ) separating the two Koreas, in Panmunjom, South Korea, June 30, 2019. Photograph: KCNA/Reuters
+
+Speculation that Kim would make an appearance alongside other world leaders increased, however, after a report by Russia’s Interfax news agency quoted the Kremlin as saying Vladimir Putin could meet Kim ⁠if he attended the Apec summit.
+
+The Kremlin “wouldn’t do that unless they were certain he was going to meet”, Sydney Seiler, a former US national intelligence officer for North Korea, now at the Center for Strategic and International Studies, told Reuters. “I’m pretty confident something’s underway.”
+
+Others North Korea experts were more skeptical. Kim would have nothing to gain from a trip to Shenzhen except photo opportunities, said Kim Dong-yup, a professor at Kyungnam University’s Far East Institute. “Let’s say they offer to remove sanctions. But sanctions are already not working. There’s nothing to gain for Kim. Why would he go and open himself up to potential uncertainty?”
+
+North Korean state media have been silent on the speculation. Official photos released this week showed a smiling Kim, accompanied by his wife and daughter, perched on an armchair in the snow at a ski resort near the North Korea-China border.
+
+Wearing aviator shades, a cigarette dangling from his fingers, Kim did not give the impression he was ready to resurrect his “friendship” with a weakened US president.
+
+As mentioned earlier, Zelenskyy is undeniably concerned about the Apec trilateral meeting between the Donald Trump, Xi Jinping and Vladimir Putin.
+
+Ukraine’s foreign minister Andriy Sybiga said earlier this week that a meeting between US, Chinese and Russian leaders would “only encourage Putin to continue this war”.
+
+Beijing has said the three leaders will discuss “safeguarding world peace”, but US officials say Trump is not expected to bring up Russia’s war in Ukraine.
+
+Russian President Vladimir Putin attends a meeting with China's President Xi Jinping at the APEC summit in Shenzhen, China, Wednesday, Nov. 2026. Photograph: Vyacheslav Prokofyev/Pool Sputnik Kremlin/AP
+
+Beijing, insisting it is a neutral party, has never denounced the Russian invasion, and has instead called for peace talks.
+
+“Beijing will remain respectful of Russia’s own aims in the war and balance that with growing calls from Europe to exert a little more influence in that regard,” NTU’s Loh said, as reported by Reuters news agency.
+
+Putin would probably have the most to gain from the trilateral meeting, ASPI’s Lee added.
+
+Just being at the table with Trump and Xi would elevate Russia’s standing and potentially shift the conversation toward a broader great-power bargain over European security.
