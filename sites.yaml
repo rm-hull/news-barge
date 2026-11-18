@@ -62,13 +62,10 @@ sites:
     listing_urls:
       - https://www.harrogateadvertiser.co.uk/news/latest
     listing_link_pattern: "/news/"
-    force_playwright: true
     limit: 100
     # Some articles are split across multiple pages (e.g. /article-id/2, /3).
     # Unfurling detects "Next page" links and merges all pages into one article.
     unfurl_multipage: true
-    proxy_server: ${PROXY_SERVER}
-    proxy_user_pass: ${PROXY_USER_PASS}
 
   - name: Harrogate News
     slug: harrogate-news
