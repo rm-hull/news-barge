@@ -1,0 +1,51 @@
+---
+title: Anthropic sets share price at $83 for stock market debut, above expected range
+source_url: https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo
+source_site: The Guardian
+source_slug: guardian
+description: Artificial intelligence firm positioned for one of the biggest IPOs in
+  history, with trading slated to begin Thursday
+image: https://i.guim.co.uk/img/media/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/718_0_6195_4958/master/6195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c02326ff1b6d20aab2d725d4c67d34d4
+published: '2026-11-18T00:00:00Z'
+scraped_at: '2026-11-19T02:31:54Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
+people:
+- Dario Amodei
+- Jensen Huang
+- Sam Altman
+locations:
+- US
+- Wall Street
+organisations:
+- AI
+- Amodei
+- Anthropic
+- Elon Musk
+- IPO
+- Nvidia
+- OpenAI
+- SpaceX
+---
+
+Anthropic set the share price for its debut on the US stock market at $83 on Wednesday, positioning the artificial intelligence company for one of the biggest initial public offerings in history. The firm is slated to begin trading on Thursday under the ticker symbol ANT, with CEO Dario Amodei and other co-founders ringing the bell to open the Nasdaq exchange.
+
+The pricing is above Anthropic’s earlier estimates. Last week, the San Francisco-based company, founded in 2021, set its preliminary share price at $70 to $78. With all shares counted, those prices put Anthropic’s initial public offering (IPO) from $1.26tn to $1.41tn. Elon Musk’s SpaceX debuted on Wall Street in June with the biggest market offering ever at $1.77tn. With Anthropic setting its share price at $83, it could now surpass SpaceX.
+
+Amodei is planning to sell about $260m worth of shares with the IPO, as are his six fellow co-founders. At the top of the price range, the co-founders’ stakes will be worth more than $18bn each.
+
+When Anthropic filed for its IPO last month, the company detailed rapidly rising revenue in its prospectus: $41m in 2023, $386m in 2024, $4.585bn in 2025 (an increase of more than 1,000%), then $16.286bn in the first six months of 2026 alone. The company disclosed that, as of the end of June, it had raised $141.1bn.
+
+Despite the increasing revenue, Anthropic disclosed a net loss of $80bn for the first half of 2026.
+
+Anthropic’s main expenditure listed in its investor prospectus is computing power from datacenters. The company has compute purchase commitments and lease agreements of more than $70bn over the next 12 months and more than $450bn by 2030, with a further $450bn due by 2045.
+
+Anthropic is the first company at the forefront of the generative AI boom to go public, and its performance is likely to affect investors’ enthusiasm. Its competitor OpenAI was slated to hit Wall Street later this year, but CEO Sam Altman has said that the company opted to delay its IPO until it can overcome safety concerns.
+
+after newsletter promotion
+
+Anthropic’s IPO comes during a volatile time for AI and the stock market. Last month, the industry saw a broader slowdown, with share prices dropping at several companies amid growing concern about the technology. Then, last week, Nvidia, which designs the chips AI companies use to power their chatbots, was racked with a scandal that led to CEO Jensen Huang resigning after reports of multiple extramarital affairs.

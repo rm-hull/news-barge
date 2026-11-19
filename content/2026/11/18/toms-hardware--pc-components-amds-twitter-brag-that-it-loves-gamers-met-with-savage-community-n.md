@@ -1,0 +1,57 @@
+---
+title: AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note
+source_url: https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: Following a post on X, AMD Japan's claim that the company values gamers
+  "above all else" saw those gamers point out that its own CEO believes the company
+  is more focused on data centers.
+image: https://cdn.mos.cms.futurecdn.net/Qrx3YDjFfkMfvHwJgVHPSA-2000-80.jpg
+published: '2026-11-18T00:00:00Z'
+scraped_at: '2026-11-19T02:31:46Z'
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Video Gaming
+people:
+- Gamer
+- Jensen Huang
+- Lisa Su
+- Oliver Haslam
+- Tom
+locations: []
+organisations:
+- AMD Japan
+- AMD Japan X
+- GPU
+- Google News
+- House
+- Nvidia
+- Oliver Haslam
+- PC
+---
+
+![AMD Radeon logo](https://cdn.mos.cms.futurecdn.net/Qrx3YDjFfkMfvHwJgVHPSA-1920-80.jpg)
+
+AMD Japan's X account has been met with sharp reproach after claiming the company loves gamers and values its interactions with gamers above all else, with commenters and even a community note expressing dissent at the sentiment, owing to AMD's comments on its "data center-first" ethos and a commitment to AI that has driven the price of consumer PC gaming up to nearly unaffordable levels.
+
+Quoting a *Tom's Hardware* post on the X social network discussing CEO Dr. Lisa Su meeting gamers and autographing a GPU, the AMD Japan account was quick to seize the moment. "AMD values its interactions with gamers above all else," the post read, but it was met with a stark reminder that gamers don't feel the same way. The post soon received a new community note that pointed out that AMD's own CEO doesn't agree. In fact, Su was quoted as saying that AMD is now "a data center-first company," with the note also pointing to the fact that AMD's data center revenue increased 97% year-over-year, as per its Q3 2026 earnings report. That equates to around $8.5 billion in revenue, while client and gaming revenue fell 8% to $3.7 billion. Gaming alone was down 40%.
+
+At the time, Su said that AMD expected its server revenue to double year over year in 2027, with its data center AI revenue growing at an even faster rate. "As a result, we expect data center to be more than eighty percent of our total revenue in 2027 and to drive the majority of our revenue and earnings growth," the CEO said during the company's earnings call.
+
+By comparison, the same call heard Su say that, in 2027, AMD was "planning for PC market unit shipments to decline by a double-digit percentage." With this all in mind, it's perhaps no surprise that the AMD Japan X account stirred such a strong response from gamers who feel that AMD has left them behind in search of a more lucrative data center market. AMD is certainly not alone in that regard. Nvidia, once the darling of the PC component enthusiast, is now focused on AI data center components instead. The company's high-performance AI chips are so capable that they're export-controlled, something that, among other reasons, will put former CEO Jensen Huang in front of a House Foreign Affairs panel in December.
+
+As for AMD, its ill-timed, misjudged X post ended with "AMD loves gamers." Gamers would appear to disagree.
+
+
+
+*Download the Tom's Hardware app for up-to-the-minute updates on* * iOS* * and* * Android**. Also follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Oliver Haslam](https://cdn.mos.cms.futurecdn.net/3XaHYJa7vPsa7PG8i5U8F5-140-80.jpg)
+
+Oliver Haslam has written about technology of all shapes and sizes for over 15 years, both online and in print. He's fascinated by how personal computing continues to change as tower PCs give way to foldable phones and beyond.
+
+* The gamers are confusing Biz growth vs. gamer love. AMD has always catered to gamers. Gamer's may not have realized it but it's true. Data centers and AI have driven costs up and the entire industry has jacked their prices accordingly. Eventually prices will drop to practical levels but it won't happen for a few years.Reply
