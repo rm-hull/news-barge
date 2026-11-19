@@ -1,0 +1,130 @@
+---
+title: UK joins in GTA 6 frenzy as game becomes available worldwide
+source_url: https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The game, which was in development for 13 years, is set become one of
+  the world's most popular entertainment products ever.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01c9/live/8b711120-e422-11f1-99b6-a35a62fa4264.jpg
+published: '2026-11-19T00:00:00Z'
+scraped_at: '2026-11-19T20:31:01Z'
+categories:
+- UK
+- News & Politics
+- Video Gaming
+people:
+- Aleana Fernando
+- Arion Kurtaj
+- Bugzy Malone
+- Charlie Wood
+- Clare
+- Jason
+- Keza MacDonald
+- Kieran Youens-Byrne
+- Leonida
+- Lucia
+- Thomas Cordrey
+- Timur
+locations:
+- America
+- Auckland
+- Edinburgh
+- Essex
+- Germany
+- Leonida
+- London
+- Manchester
+- New Zealand
+- Oxford
+- UK
+- US
+- Wales
+organisations:
+- BBC Newsbeat
+- BT
+- EE
+- GTA 6
+- GTA VI
+- Grand Theft Auto
+- Grand Theft Auto 6
+- Laura Cress
+- Metacritic
+- Nintendo
+- Rockstar North
+- Tech Now
+- The Guardian
+- Virgin Media O2
+---
+
+![Two hands hold the GTA 6 box to the camera. The cover shows the game's title and cartoon images of characters and items from the game.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f7de/live/89b24190-e40b-11f1-99b6-a35a62fa4264.jpg)
+
+**After years of anticipation and delays, as well as controversy around worker rights, Grand Theft Auto 6 has completed its phased worldwide release and is available to gamers everywhere, including the UK.**
+
+There has been near universal praise from critics, with review aggregator Metacritic calculating its average score at 99 out of 100 based on 150 reviews., external
+
+Nintendo's The Legend of Zelda: Ocarina of Time has held the top spot since 1998 - but Metacritic confirmed to the BBC that this has now officially been overtaken.
+
+GTA 6 is set to become one of the world's most popular entertainment products ever, with fans booking time off work, and schools warning students not to bunk off.
+
+Some schools have reminded parents and pupils to prioritise study over the game, which has an 18 rating, external for "strong graphic violence, strong sexual themes and use of illegal drugs".
+
+One school in Essex incentivised pupils to attend with prizes such as vouchers, Christmas dinners and a pass to skip the lunch queue.
+
+The UK rating means it can only be legally sold to an adult. It does not stop an adult letting their child play the game - instead it is meant to inform their decision.
+
+**Bugzy Malone’s Grandest Game**
+
+It's the game that shocked and thrilled the world: Grand Theft Auto. As a new installment is released in 2026, go deep into the history of the game with rapper Bugzy Malone.
+
+The game, set in the fictional US state of Leonida, follows two protagonists, Lucia and Jason, through the seedy underbelly of America after an "easy score goes wrong".
+
+It was released at midnight in all the countries it is available in, which meant New Zealanders were the first to access it.
+
+"The graphics are great. Even from the set-up and credits, it's feeling pretty good," Aleana Fernando, who lives in Auckland, New Zealand, told BBC Newsbeat soon after she started playing.
+
+Once the game was released at midnight UK time, gamers were equally enthralled by the game's graphics and attention to detail.
+
+Charlie Wood from London said he had "already laughed at the dialogue before even stepping into the gameplay".
+
+About 30 minutes into playing in Leonida, he said it was "most definitely worth the wait".
+
+Meanwhile in Germany, Timur told the BBC he was impressed by how lifelike the game was.
+
+"It really feels like a life simulation with the amount of in-game encounters," he said.
+
+The Guardian's Keza MacDonald, external was impressed by the relationship between the main characters.
+
+"GTA has never been particularly kind to women... there is still a lot of sexism in GTA VI's world, but now we have Lucia to react to it," she said.
+
+"This is the first GTA in which I have felt the women are treated as people, not only Lucia but also the many other female characters in the story".
+
+After GTA 5 became one of the most successful entertainment products of all time - with estimates of net profits soaring as high up as $10bn (£7.6bn) - anticipation could not be higher for the sixth instalment.
+
+Makers Rockstar North, headquartered in Edinburgh, delayed the release twice, saying it needed extra months to finish the game with the level of polish fans had come to "expect and deserve".
+
+The company was also set back by hacks and leaks of its unfinished version.
+
+On Monday, 21-year-old Arion Kurtaj, from Oxford, pleaded guilty to the Rockstar Games hack and a handful of others which he carried out when he was 16 and 17 years old with the hacking gang Lapsus$.
+
+He stole internal company data including 90 clips showing nearly 60 minutes of gameplay from the unfinished and hugely anticipated Grand Theft Auto 6.
+
+A group of Rockstar workers who were sacked by the company have also been protesting outside its offices, ahead of a tribunal which heard they were penalised for discussing working conditions in a private online forum while working on the game.
+
+They claimed they were punished for being part of a workers' union, but Thomas Cordrey, representing Rockstar, said employees made disparaging comments about the company on a semi-public Discord server and shared confidential information.
+
+Tech Now's Laura Cress previews GTA 6 with the game's original creators
+
+Players were able to download the 212GB game ahead of time, in order to be able to play it as soon as it was made available.
+
+Some had even gone to the lengths of buying a whole new console dedicated to the game.
+
+Broadband providers Virgin Media O2, as well as BT and EE, said internet traffic records had been broken in the days leading up to the UK release.
+
+The BBC has heard from people planning to take time off work - as well as a company which has given its employees the day off - in order to dedicate time to the game.
+
+Kieran Youens-Byrne, 34, from Manchester said he was "going on a pilgrimage to Wales" where he would be "completely off grid" for a week.
+
+He added his partner Clare "has been incredibly understanding, although I suspect she's questioning why our romantic getaway revolves around a PlayStation".
+
+![Your Voice banner image. Your Voice is written in white against a purple background. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fdf6/live/f5706920-e41f-11f1-a094-5fdc692f3e33.png)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png)
