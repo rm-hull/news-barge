@@ -1,0 +1,122 @@
+---
+title: Far-right activist Danny Tommo jailed for slashing migrant boat in English
+  Channel
+source_url: https://www.independent.co.uk/news/uk/crime/danny-tommo-jail-migrant-boat-english-channel-b3088741.html
+source_site: The Independent
+source_slug: independent
+description: Tommo’s sentence was handed down at Portsmouth Crown Court on Friday
+image: https://static.independent.co.uk/2026/09/21/16/40/danny-tommo-boat.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+published: '2026-11-20T00:00:00Z'
+scraped_at: '2026-11-20T20:03:57Z'
+categories:
+- News & Politics
+- UK
+- Sports
+people:
+- Daniel Thomas
+- Danny Tommo
+- Elizabeth Cook
+- Graham Page
+- James Newton-Price KC
+- Jesus Christ
+- Stephen Yaxley-Lennon
+- Tommy Robinson
+locations:
+- Birmingham
+- Dover
+- England
+- France
+- HMP Winchester
+- Hampshire
+- PA
+- Portsmouth Crown Court
+- UK
+- Unite the Kingdom
+- Westminster Magistrates’ Court
+organisations:
+- Border Force
+- English Channel
+- Patriot Platform
+- RNLI
+- Raise the Colours
+- Royal Hussars
+- Section 53
+- Ukip
+- Union
+---
+
+Anti-migration campaigner Daniel Thomas has been jailed for 15 months after slashing a migrant dinghy with a knife in the English Channel and broadcasting the incident online.
+
+Thomas, 37, who is known to supporters as Danny Tommo, received the prison sentence for criminal damage at Portsmouth Crown Court on Friday, appearing via video-link from HMP Winchester.
+
+The founder of the anti-immigration group Patriot Platform had taken a vessel into the Channel on 22 September, where he observed Border Force, the RNLI and the French Coastguard assisting migrants in a dinghy.
+
+He instructed his boat to be steered towards the adrift, empty vessel and armed himself with a knife as rescue crews approached and a French national boarded from a rescue ship.
+
+Thomas was recorded in video footage saying: “This is what needs to happen,” and: “This is England, this is not France any more,” after slashing the craft.
+
+![Tommo has been jailed for 15 months](https://static.independent.co.uk/2026/11/20/15/01M7W000DR50W76BJK72JKMZZB.jpg?quality=75&width=640&auto=webp)
+
+The incident was livestreamed to a “large audience” on Thomas’s social media account, the court previously heard.
+
+Thomas initially entered a not guilty plea to the offence before changing his plea at a hearing earlier this month.
+
+An associate of Stephen Yaxley-Lennon, who uses the alias Tommy Robinson, Thomas led protests in Portsmouth and Dover during September that involved masked men wearing black clothing.
+
+Thomas, whose address was withheld by the court at an earlier hearing, denies failing to disclose his phone Pin to police under Section 53 of the Regulation of Investigatory Powers Act 2000, an allegation that was ordered to lie on file.
+
+Judge James Newton-Price KC previously refused bail, concluding there was a “substantial risk” of Thomas committing or inciting further offences “by carrying out similar offences and by broadcasting”.
+
+He noted that his opinion was reinforced because the offence occurred while Thomas was released on bail for separate other matters.
+
+Thomas is scheduled to stand trial at Westminster Magistrates’ Court next June accused of multiple offences, including entering a restricted area at a migrant processing centre in Dover on 31 March.
+
+He also faces allegations of using threatening words or behaviour in Dover on 1 April and obstructing a person engaged in lawful activity on 6 April.
+
+According to court documents, Thomas has denied entering or remaining in Dover docks without having permission or lawful business on 1 April and 6 April.
+
+He is further accused of racially aggravated harassment by allegedly using abusive or threatening words within sight of a person likely to be caused harassment, alarm or distress in Dover on 1 April.
+
+Thomas denies the charges.
+
+## Who is Daniel Thomas?
+
+Far-right activist Daniel Thomas rapidly rose to a leadership position among the anti-migrant movement in the UK before he slashed a dinghy in the English Channel.
+
+Professional roofer Thomas, who goes by the name Danny Tommo, is the founder of Patriot Platform – the group responsible for the protests that happened in Portsmouth and Dover and, later, other organised marches across England.
+
+The activist said the group is made up of “working class men”, including roofers, bricklayers and scaffolders when their protests caught the public eye.
+
+The son of a university-educated father, Thomas attended a fee-paying public school in Hampshire and later joined the army.
+
+According to reports, he was a tank driver with the King’s Royal Hussars, but was medically discharged before seeing active service.
+
+Thomas had a major run-in with the law in 2016 when he was jailed for two years after admitting his part in an attempted kidnap at knifepoint of a man called Graham Page.
+
+Alongside two accomplices, court reports from the time said Thomas wrongly accused Mr Page of stealing £10,000 of drugs from the trio and tried to drag him away – an incident the sentencing judge described as “extraordinarily frightening”.
+
+Following his release from prison two years later, the father-of-four turned to far-right activism and eventually worked as a bodyguard for high-profile anti-migrant figure Tommy Robinson.
+
+He said he had become a Christian and began attending church every week to “pray for forgiveness”.
+
+![Court artist drawing of anti-migrant activist Daniel Thomas at a previous hearing (Elizabeth Cook/PA)](https://static.independent.co.uk/2026/11/20/15/2e312a3b07c7c2bf6a515900ae9dda53Y29udGVudHNlYXJjaGFwaSwxNzk1MjczNjM0-2.86052242.jpg?quality=75&width=640&auto=webp)
+
+His bio on X says he is “dedicated to defending my family and homeland”, and “Trusting in Jesus Christ, Our Saviour”.
+
+Thomas has previously organised a Ukip rally and a “Brexit Betrayal” march, as well as becoming a key part of the Raise the Colours anti-migrant group based in Birmingham, which played a role in England and Union flags being put up across the country, known as “Operation Overlord”.
+
+After parting company with Raise the Colours, Thomas continued to use the phrase “Operation Overlord” for his “stop the boats” protests.
+
+French authorities eventually introduced a ban on British far-right activists involved in the protests from travelling to the country, saying it was “part of a xenophobic and anti-immigrant ideology and creates a clear risk of public disorder”.
+
+In May, Thomas attended Robinson’s Unite the Kingdom rally, lauding it as an “incredible” achievement in a video on social media.
+
+On 1 June, Thomas launched Patriot Platform, and said in a message to his 176,000 followers on X: “Let’s build an army of patriots. Let’s push back. Let’s do this properly.”
+
+In a strategy markedly different from Robinson’s Unite the Kingdom rallies, where anyone can turn up, Thomas said every man who joined Patriot Platform would be “vetted”, adding: “We know exactly who he is. The community knows him. We can trust him.”
+
+He said the group would be “disciplined” and non-violent, and the masked men’s success in occupying the port of Dover in September appeared to come as a surprise to authorities.
+
+The Patriot Platform movement’s momentum appeared to be slowed down dramatically after Thomas was remanded into custody suspected of slashing a migrant dinghy in the channel.
+
+*PA*

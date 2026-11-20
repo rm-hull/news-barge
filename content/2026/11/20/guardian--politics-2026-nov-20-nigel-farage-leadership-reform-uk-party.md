@@ -1,0 +1,70 @@
+---
+title: No one else in Reform is suitable to lead the party, Nigel Farage says
+source_url: https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party
+source_site: The Guardian
+source_slug: guardian
+description: Farage issues warning to potential rivals and says he will fight next
+  election as leader if ‘still here and fit and healthy’
+image: https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1422f1cc5e07c0d5c31c236bbcd3b8e1
+published: '2026-11-20T00:00:00Z'
+scraped_at: '2026-11-20T20:05:30Z'
+categories:
+- UK
+- News & Politics
+people:
+- Andy Burnham
+- Ann Widdecombe
+- Brexit
+- Christopher Harborne
+- Nigel Farage
+- Richard Tice
+- Robert Jenrick
+- Rupert Lowe
+- Zia Yusuf
+locations:
+- Brussels
+- Clacton
+- Europe
+organisations:
+- EU
+- Labour
+- Reform UK
+- Restore Britain
+- Sun
+- Times
+- Tories
+---
+
+Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to replace him.
+
+The Reform UK leader delivered a message that he was going nowhere despite his worries over his personal safety in the wake of the killing of the Reform politician Ann Widdecombe.
+
+There has been speculation over Farage’s future in light of police and parliamentary investigations of Reform’s financial affairs. The Commons standards watchdog is due to report soon on whether he should have declared a £5m personal gift from the crypto billionaire Christopher Harborne before the last election. If he gets a substantial suspension from parliament, he could face a second byelection, contested by other main parties, in his Clacton constituency.
+
+However, Farage sounded a note of defiance in an interview with the Sun, saying: “These are very thoughtful moments, but, you know what, if I’m not here doing this job right now, who else could? Who else would? I don’t see that person. So I’m gonna do it.”
+
+A number of other Reform UK politicians are potential contenders to succeed him, including the party’s economics spokesperson and former Conservative, Robert Jenrick, the home affairs spokesperson, Zia Yusuf, and the former leader Richard Tice. Another possibility is the return of Rupert Lowe, who left Reform in acrimonious circumstances and founded his own party, Restore Britain, but who is popular on the online hard right.
+
+The party is going through a difficult period after slipping from first place in the polls to second or third behind behind Labour and sometimes the Conservatives.
+
+Asked by the Sun if he had “blown” his chances of reaching No 10, Farage said: “No, far from it.”
+
+He admitted there had been “self-inflicted wounds” in the past year but said he still had a chance of becoming prime minister.
+
+He told the newspaper that he would fight the next election as Reform leader if he was “still here and fit and healthy”.
+
+He also batted away questions about the £5m, which he has insisted was to pay for his personal security despite the fact the party has been providing this.
+
+“What’s it got to do with you? Drugs, sports cars, desert islands. It’s a gift,” he said, adding that although the party had had “ebbs and flows” and had made mistakes after growing “too far and too fast”, he was confident it was “more than through the worst of it”.
+
+On the prospect of another battle over Europe as Andy Burnham weighs the case for rejoining the EU, the Reform leader said: “If you ask me, have I got the energy and the enthusiasm to do this again? I would say to you, hold my jacket. I’m ready for it.”
+
+after newsletter promotion
+
+He also warned of people taking to the streets with “direct action” if Brexit is reversed.
+
+In a separate interview with the Times while travelling to Brussels, where Burnham was attempting a reset deal, Farage said he believed the issue of Europe would dominate the years to come.
+
+“It’s going to be absolutely huge. It’s going to be much bigger than anyone realises. The genie is out of the bottle; it literally can’t be stopped now,” he said.
+
+He also ruled out joining a new campaign called Stay Out, led by former Tories, suggesting he would make his own case for keeping Brexit.

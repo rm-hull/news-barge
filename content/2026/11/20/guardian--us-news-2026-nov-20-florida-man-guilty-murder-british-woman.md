@@ -1,0 +1,67 @@
+---
+title: Florida mechanic found guilty of murdering British woman who attorney says
+  came to US to die
+source_url: https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman
+source_site: The Guardian
+source_slug: guardian
+description: Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who
+  prosecutors say suffered from mental illness
+image: https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d932edfa3eab7116f3f90f8a0c3c333a
+published: '2026-11-20T00:00:00Z'
+scraped_at: '2026-11-20T20:06:52Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+people:
+- Alpha Sadist
+- Amy Beth Berndt
+- Barry Wilton
+- Dwain Hall
+- Junior Barrett
+- Sonia Exelby
+locations:
+- England
+- Florida
+- Gainesville
+- Portsmouth
+- UK
+- US
+- United States
+organisations:
+- Airbnb
+- Ocala Starbanner
+- Times
+---
+
+A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States.
+
+Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US.
+
+Hall had pleaded not guilty to the charges of kidnap and first-degree murder.
+
+At trial, jurors heard from several witnesses, most of them law enforcement officials, who detailed Hall’s email, phone records, social media accounts and other records to trace his movements after Exelby travelled from the UK to meet him.
+
+Exelby’s disappearance from her home sparked an international investigation. Prosecutors this week described how she suffered from mental illness. Investigators said that Exelby had traveled to Florida after posting online about wanting someone to end her life.
+
+Hall’s arrest affidavit said that Exelby had previously expressed suicidal thoughts and investigators alleged that Hall knew about her struggles and used that vulnerability to bring her to Florida, the Ocala Starbanner reported.
+
+The authorities said Exelby boarded a flight to the US seemingly with an intention “to be possibly sexually abused, tortured and murdered by unknown individuals living in the United States”.
+
+After Exelby traveled to the US in October 2025, authorities say Hall picked her up from the Gainesville airport in central Florida.
+
+He drove her to an Airbnb rental, where investigators later found evidence they say connected him to her disappearance and death, including transactions on her bank cards and a video of Exelby on Hall’s cellphone.
+
+According to the Times, Junior Barrett, Hall’s attorney, argued that Exelby took her own life. “She came here with the intention of dying, she thought she was worthless, useless, a burden on other people,” he said in his closing statement.
+
+“This isn’t a question about what porn he likes. You can disagree with him about what he likes, but the case can’t be decided on you not liking his lifestyle. The fact he did not stop her from killing herself does not make it murder.”
+
+Prosecutor Amy Beth Berndt said jurors should use their “common sense”. She added that Hall targeted Exelby for her mental illness and killed her for his sadistic pleasure.
+
+Berndt said Exelby “was beautiful. She was kind and she was deeply loved by everyone who knew her. And she also suffered from mental illness for most of her life. She should be alive today.”
+
+She added: “No one could save her from the defendant, the ‘Alpha Sadist’. He took advantage of a severely depressed, mentally ill woman who was incapable of making any rational decisions.”
+
+After the verdict was read, Exelby’s brother Barry Wilton said: “This last year has been one of the hardest of our lives. Losing our dear sister Sonia has had a profound impact on me and my entire family. I’m not sure we will ever be the same again.”
+
+Wilton then addressed Hall directly, adding: “You pretended to care for Sonia. You didn’t at all. You used her to fulfil your sick fantasies. You had her life in your hands. You had the opportunity to save her, but instead you preyed on her vulnerabilities and you took her from us.”
