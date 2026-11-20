@@ -1,0 +1,58 @@
+---
+title: Russian attacks on Kyiv kill 3, cripple bridges and cut power
+source_url: https://www.independent.co.uk/news/vladimir-putin-ukraine-vitali-klitschko-kyiv-china-b3088469.html
+source_site: The Independent
+source_slug: independent
+description: Russia has launched missiles and drones across Kyiv, killing three people
+  and injuring nine
+image: https://static.independent.co.uk/2026/11/20/08/Ukrainian_Emergency_Service_26818.jpg?width=1200&height=800&crop=1200:800
+published: '2026-11-20T00:00:00Z'
+scraped_at: '2026-11-20T11:35:57Z'
+categories:
+- News & Politics
+- UK
+- Technology & Software
+people:
+- Kyiv
+- Vitali Klitschko
+- Vladimir Putin
+locations:
+- China
+- Crimea
+- Darnitskyi Bridge
+- Darnytskyi
+- Dnipro River
+- Dniprovskyi
+- Holosiivskyi
+- Kerch Bridge
+- Kyiv
+- Obolonskyi
+- Pecherskyi
+- Podilskyi Bridge
+- Russia
+- Solomianskyi
+- Southern Bridge
+- U.S
+- Ukraine
+organisations:
+- DTEK
+- Kyiv City Military Administration
+---
+
+Russia launched missiles and drones across Kyiv overnight that killed three people, injured nine others and damaged bridges and transport infrastructure, local authorities said Friday.
+
+The attacks came hours after President Vladimir Putin vowed to retaliate against Ukraine for three aerial attacks this week on the vital Kerch Bridge, which links occupied Crimea with the Russian mainland.
+
+“We will respond to these attacks, and I want everyone to be clear about that,” Putin told reporters Thursday in China, where he attended a summit with the Chinese and U.S. presidents. Putin said the road side of the bridge had been “seriously damaged” and vowed to rebuild.
+
+The Kyiv City Military Administration said the attack struck four districts of the capital. The attack caused widespread electricity disruptions. Energy provider DTEK said parts of the Pecherskyi, Solomianskyi, Holosiivskyi, Dniprovskyi and Darnytskyi districts were without power following the strikes.
+
+Non-residential buildings were damaged in the Obolonskyi and Holosiivskyi districts, while transport and logistics infrastructure was hit in the Podilskyi and Darnytskyi districts, it said in a statement.
+
+Kyiv's Mayor Vitali Klitschko said a ballistic missile attack damaged the Podilskyi Bridge, forcing authorities to close traffic from the right bank to the left bank of the Dnipro River.
+
+The Darnitskyi Bridge was also damaged, he said.
+
+A further strike hit the Southern Bridge, where traffic remains restricted. Only vehicles weighing up to 10 tons traveling from the left bank to the right bank, and public transport weighing up to 18 tons, are being permitted, he said.
+
+Klitschko urged residents to avoid traveling into the city by private car unless absolutely necessary. He asked businesses and institutions to arrange remote working wherever possible.

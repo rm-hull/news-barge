@@ -1,0 +1,45 @@
+---
+title: After the GTA 6 Xbox port leaked, modders reckon it will be playable in mere
+  days
+source_url: https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/
+source_site: PC Gamer
+source_slug: pcgamer
+description: That's if Rockstar can't take it down first.
+image: https://cdn.mos.cms.futurecdn.net/uFTYVTAcEQq9dzQ7KuHtnf-2344-80.jpg
+published: '2026-11-20T00:00:00Z'
+scraped_at: '2026-11-20T11:35:53Z'
+categories:
+- Technology & Software
+- Video Gaming
+people:
+- Cyberleek
+locations:
+- Rockstar
+organisations:
+- Cyberleek
+- GTA
+- PC Gamer
+- VX Underground
+---
+
+![Grand Theft Auto 6](https://cdn.mos.cms.futurecdn.net/uFTYVTAcEQq9dzQ7KuHtnf-1920-80.jpg)
+
+You remember when The Legend of Zelda: Ocarina of Time Remake launched earlier this month on Nintendo Switch 2, and it was running on PC in hours? Well, modders are claiming essentially the same will be happening for Grand Theft Auto 6, a much bigger and more complicated game.
+
+If you're wondering how these games are getting ported so quickly, it's a mixture of people dumping the game files for the public to access and, oftentimes, generative AI coding doing a lot of the grunt work of recompiling.
+
+Just yesterday, Cyberleek (the hacking team or person who leaked GTA 6 files earlier this year) reportedly leaked the GTA 6 Xbox build, giving modders access to the game's release files. That's one important part of the porting process checked off.
+
+The only file Cyberleek says it hasn't dropped is the main executable file, and they say they will release it when their crypto coin reaches a $15 million market cap. However, Cyberleek did say they would drop the exe file on November 23 either way. Even Cyberleek claims "this community will have it emulated inside a week, running far past 30fps"
+
+Cybersecurity expert VX Underground took a look at the Xbox file dump and reckons it's real, and even reckons it will be playable on the 23rd if the executable file is released. Another X user notes that the dump appears to be missing the "EmbeddedXvd folders that is inside the gameos.xvd" which apparently contain system DLL files, as well as the NT kernel and drivers. Still, this is something modders can work around.
+
+> > wake up> take a shit> get out of bed> check beep boop> over 9000 DMs> "SCHMEELI, GTA VI LEAK"> ???> sends link> torrent> ok> look inside> actual assets> huh> squint eyes> look closer> not larphuh, how about that. the cyberleek guy released the full xbox gta 6… pic.twitter.com/1MDrGI97DyNovember 19, 2026
+
+There's nothing to do but wait to see if modders actually will release a port of GTA 6 on PC, but Rockstar is infamously litigious, and emulation is a legally grey area at best, and downright illegal at worst. Emulation tools and recompilers aren't illegal by themselves, but downloading ROMs and game dumps you don't own is a form of copyright infringement, and game companies would argue that it costs them a lot of cash at the end of the day.
+
+If you're planning on waiting and playing the game legally when it eventually launches on PC, that lead time for modders does mean the GTA 6 modding scene will likely be seriously vibrant by launch, though.
+
+Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team.
+
+![Razer Blade 16 gaming laptop](https://cdn.mos.cms.futurecdn.net/YwnnY4PZ7TcCYKRYDho7VW-140-80.jpg)
