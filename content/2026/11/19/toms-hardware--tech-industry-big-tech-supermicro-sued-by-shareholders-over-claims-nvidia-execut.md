@@ -1,0 +1,60 @@
+---
+title: Supermicro sued by shareholders over claims Nvidia executive’s wife knew about
+  illicit China sales — former Chief Growth Officer Cenly Chen is married to outgoing
+  Nvidia VP Jay Puri
+source_url: https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: A civil lawsuit claimed that there was "no way Cenly Chen lacked knowledge
+  about the company's illicit sales."
+image: https://cdn.mos.cms.futurecdn.net/Rs4SbA8spx4NMQeGPyN2G8-2000-80.jpg
+published: '2026-11-19T00:00:00Z'
+scraped_at: '2026-11-20T02:16:30Z'
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+people:
+- Cenly Chen
+- Jay Puri
+- Jensen Huang
+- Jowi Morales
+- Supermicro
+- Tom
+- Yih-Shyan “Wally” Liaw
+locations:
+- China
+- Silicon Valley
+- U.S
+organisations:
+- AI
+- ChronoScale
+- Company
+- Google News
+- Jowi Morales
+- LinkedIn
+- Nvidia
+- Supermicro
+- The Telegraph
+- Worldwide Field Operations
+---
+
+![Supermicro](https://cdn.mos.cms.futurecdn.net/Rs4SbA8spx4NMQeGPyN2G8-1920-80.jpg)
+
+More information about the alleged knowledge of chip diversion by a Supermicro executive is being revealed as shareholders’ civil lawsuit against the company progresses. According to *The Telegraph*, the investors alleged that there was “no way Cenly Chen lacked knowledge about the company’s illicit sales.” Chen, the former Chief Growth Officer at Supermicro and described by a colleague as the company’s sales leader, resigned from her position in April of this year — about a month after the three Supermicro employees, including its co-founder Yih-Shyan “Wally” Liaw, were arrested for a $2.5-billion AI GPU smuggling scheme.
+
+Cenly Chen is married to former Nvidia Executive Vice President of Worldwide Field Operations Jay Puri, who is also described as the company’s sales chief. *The Information* also called him Jensen Huang’s right-hand man and said he was the person that Nvidia’s customers turned to if they wanted to buy chips or had other pressing concerns. The shareholders’ accusations and her relationship with Puri have put the former Supermicro executive in the spotlight, especially after Huang’s sudden departure from the AI chipmaker amid a flurry of affairs and smuggling accusations.
+
+Sources say that Puri controlled the AI chip allocations to server manufacturers, including Supermicro, while the lawsuit claims that Chen decided how many Nvidia racks each Supermicro customer could get. A former Supermicro employee was also quoted in the complaint saying that it was “widely known within the Company that Chen had to leave because she had sent emails requesting that Nvidia release chips with serial numbers associated with the GPUs illegally diverted to customers in China.” This apparently refers to the serial numbers that were moved from real to dummy servers using a hairdryer.
+
+Supermicro has said multiple times that it has cooperated with the U.S. government regarding the smuggling investigation and that it has not been included in the lawsuit against the three defendants. Furthermore, the company has denied her involvement regarding Nvidia GPU allocations. “Chen did not manage Supermicro’s relationship with Nvidia and did not decide how Nvidia GPUs were distributed to customers,” a Supermicro spokesperson told *The Information*. They also said that she left voluntarily and that her LinkedIn profile now reads her current position as CEO of ChronoScale, an Nvidia cloud partner based in Silicon Valley. As for Puri, he stepped away from his position at Nvidia in late August, about two months before the Jensen Huang scandal blew up, although he remains as an advisor to the AI chipmaker.
+
+
+
+*Download the Tom's Hardware app for up-to-the-minute updates on* * iOS* * and* * Android**. Also follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Jowi Morales](https://cdn.mos.cms.futurecdn.net/gM7E2WSDg2wgCFoaDPz9yK-140-80.jpg)
+
+Jowi Morales is a tech enthusiast with years of experience working in the industry. He’s been writing with several tech publications since 2021, where he’s been interested in tech hardware and consumer electronics.

@@ -1,0 +1,75 @@
+---
+title: Developer vibe codes Windows 11 alternative operating system for amd64, arm64,
+  and riscv64 hardware — LiberNT is a free 64-bit clone promising reliable, stable,
+  and efficient performance
+source_url: https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: There’s a new vibe-coded OS in town going by the name of LiberNT.
+image: https://cdn.mos.cms.futurecdn.net/5p8cbG9PKWyM6kkPPAFXyP-1920-80.jpg
+published: '2026-11-19T00:00:00Z'
+scraped_at: '2026-11-20T02:17:12Z'
+categories:
+- Technology & Software
+- Hardware
+people:
+- Mark Tyson
+- Tom
+locations:
+- AI
+- Vulkan
+organisations:
+- AI
+- AMD GPU
+- GNU
+- GitHub
+- Google News
+- Intel
+- LiberNT
+- Mac
+- Microsoft
+- OS
+- Raspberry Pi GPU
+- ReactOS
+- Tom's Hardware
+---
+
+![LiberNT operating system](https://cdn.mos.cms.futurecdn.net/5p8cbG9PKWyM6kkPPAFXyP-1920-80.jpg)
+
+There’s a new vibe-coded OS in town going by the name of LiberNT. Its name provides a big clue to its nature: Liber (free), NT (New Technology architecture, as in Windows NT). As it has been released under GNU’s GPL3.0 license, LiberNT also provides a free new way to run apps designed for Microsoft’s Windows 11.
+
+![LiberNT operating system](https://cdn.mos.cms.futurecdn.net/fuzrtrpitT58iLG7oZTDwP-1200-80.jpg)
+
+LiberNT has been under development for some time, but on Wednesday it made a big leap. Reading the intro, you might have wondered if this work had a ReactOS connection, and indeed there is. But what started as a fork of ReactOS has already got a new boot loader, graphics stack, memory manager – and yesterday a new kernel. “LiberNT is not affiliated with or endorsed by the ReactOS project or Microsoft,” insist the devs behind this OS.
+
+This still fledgling operating system is designed (mostly) for modern hardware and focuses on 64-bit platforms: amd64, arm64 and riscv64. Ambitiously, the goal is to develop this OS to deliver a free Windows alternative that is “stable, reliable and efficient.” On that latter point, yesterday’s blog update relays some impressive efficiency and performance stats.
+
+The LiberNT team has benchmarked their eponymous OS against Microsoft’s Windows NT, and it beats it hands-down in 112 of 132 system tests. The testing assessed performance in the following areas: file caching, memory handling, threads and locks, plus FAT32 and NTFS storage. Interestingly, both the free and commercial OS were benchmarked on a Mac with an Apple M3 Pro chip. We scanned through the results, and the worst loss for LiberNT was a 28% performance deficit vs Win11, but it claims some astounding relative performance wins showing the free OS being over 2000% faster.
+
+The devs are entirely clear about the fact that the operating system was vibe coded. “AI is part of how LiberNT is built. It helps us review and write code, and everything it writes is then reviewed by a human,” explains a section of the GitHub page for the project. “Before anything reaches the main branch, a person runs and validates the end-to-end tests. We care about this project too much to let a regression slip through.”
+
+If the above highlights about this new OS's scope, mission, compatibility, and performance have whetted your appetite, there is the full code available via the GitHub link (top), and even some ready-made builds as bootable disk images. Indeed, I’m quite eager to give this new OS a spin. Hopefully, it works as well as the ambitious developers suggest, and I won’t be disappointed by any stability issues using my daily productivity apps like Firefox, Word, and an old release of Photoshop.
+
+
+
+*Download the Tom's Hardware app for up-to-the-minute updates on* * iOS* * and* * Android**. Also follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Mark Tyson](https://cdn.mos.cms.futurecdn.net/56vqMYLDaKRHPhHZgbADFR-140-80.jpg)
+
+Mark Tyson is a news editor at Tom's Hardware. He enjoys covering the full breadth of PC tech; from business and semiconductor design to products approaching the edge of reason.
+
+* > The devs are entirely clear about the fact that the operating system was vibe coded. “AI is part of how LiberNT is built. It helps us review and write code, and everything it writes is then reviewed by a human,” explains a section of the GitHub page for the project. “Before anything reaches the main branch, a person runs and validates the end-to-end tests. We care about this project too much to let a regression slip through.”
+
+    
+  and thats fine way to do it.  
+    
+  So long as the code is actually tested and stuff prior to pushing it then thats a valid use of the tool. Reply
+* Well, vibe-coded specifically means you give the AI a vibe of what you want and let it make the whole thing. Using AI to help write code, then reviewing each bit by a human doesn't really count as "vibe coded" to me.Reply
+* Vertigo\_1 said:How's app compatibility? Steam, in particular. Any games working?Still early days, their wiki shows 2 games working, the wiki curiously says Raspberry Pi GPU is supported and Intel/AMD GPU's in development.  
+    
+  I'm going to try is later on an actual Raspberry Pi, I wonder is the AI actually wrote Direct3D drivers for the Broadcom GPU or is it doing translation into Vulkan.  
+    
+    
+  This is a cool project with a lot of promise a classic Windows experience I hope it matures into something that can actually be used as Linux is just too programmer/terminal centric. Reply
