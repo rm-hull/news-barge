@@ -1,0 +1,105 @@
+---
+title: '‘No time for a culture war’: Victoria’s electricity supply is at risk. Can
+  it avoid power shortages and bill shocks?'
+source_url: https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy
+source_site: The Guardian
+source_slug: guardian
+description: State faces electricity supply gap when Yallourn coal-fired power station
+  closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans
+image: https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1cd5a542238d8829ad8d58eb78c54410
+published: '2026-11-22T00:00:00Z'
+scraped_at: '2026-11-22T11:10:20Z'
+categories:
+- UK
+- News & Politics
+people:
+- Carroll
+- David Davis
+- Jess Wilson
+- Jono La Nauze
+- Nexa
+- Oliver Nunn
+- Ryan Milgate
+- Stephanie Bashir
+- Tim Baxter
+locations:
+- Bass Strait
+- Golden Plains
+- Hazelwood
+- Latrobe Valley
+- Melbourne
+- NSW
+- New South Wales
+- South Australia
+- VNI West
+- Victoria
+- Yallourn
+organisations:
+- Baillieu-Napthine Coalition
+- Endgame Analytics
+- Environment Victoria
+- Herald Sun
+- Labor and the Coalition
+- Liberal
+- Naru Research
+- Nexa Advisory
+- VNI West
+- VicGrid
+- Victorian Farmers Federation
+- Western Renewables Link
+- Yallourn
+---
+
+Victoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offering a plan at this month’s state election to deal with it, experts have warned.
+
+All parties concede the giant Yallourn coal plant, which has operated in the Latrobe Valley since the 1970s and supplies a fifth of Victoria’s energy, is at the end of its functional life and will shut in less than two years. Analysts say the parties vying to run the state are failing to properly explain how they will fill the power shortfall the closure will create.
+
+The challenge facing Victoria is exacerbated by the growth in energy demand from datacentres and the electrification of buildings, homes and vehicles. Experts are most critical of the Coalition, under Liberal leader Jess Wilson, which is favoured to win the election. It says it would stop work on new transmission lines – the high-voltage power lines needed to connect new wind and solar farms and allow Victoria to import power from neighbouring states.
+
+Tim Baxter, of consultancy Naru Research, says there is no “time for a culture war on energy in Victoria” because poor choices now would be “devastating” for the state’s economy and create bill shocks for households and businesses.
+
+He says cheap gas helped build Victoria’s past prosperity, but it is quickly running out with offshore gas supply from Bass Strait in steep decline. And there is no evidence the state has meaningful gas resources elsewhere to replace it. This has contributed to a 62% increase in gas prices in five years, he says, while electricity bills have risen by 18%.
+
+Given Victorians rely more on gas than other states, Baxter says it underlines the need for households to move away from gas and increasingly run on renewable energy. “Every windfarm, solar farm and battery that comes online before 2028 reduces how much expensive gas Victoria has to burn when Yallourn goes. That makes speeding up the build-out the single best way to protect households from higher bills,” he says.
+
+## What are Labor and the Coalition promising?
+
+Victoria’s wholesale electricity prices are the lowest on the east coast, but households still rely heavily on expensive gas. Regardless of who wins, energy bills are likely to increase, according to a government briefing reported in the Herald Sun.
+
+The Coalition says it would scrap VNI West, a transmission line linking Victoria to New South Wales, and pause work on the Western Renewables Link, between Melbourne and the state’s west. Instead, it would undertake a “short, sharp and independent” review of the state’s transmission plan, which would consider alternatives, such as solar power on commercial and industrial rooftops.
+
+It has also pledged to “throw open the doors to gas exploration”, reverse Labor’s policy of making new homes all-electric, and tender for new firming capacity with an Energy Security Requirement modelled on schemes in NSW and South Australia. There is no plan to change the state’s emission reduction targets – cutting greenhouse gas emissions by 75%–80% below 2005 levels by 2035 and reaching net zero emissions by 2045 **–** but it has not said how it would achieve them.
+
+Labor says it would continue to expand the power grid, shift homes from gas to electricity for heating and cooking and continue to support the development of offshore windfarms. But the Carroll government is also reviewing the Western Renewables Link. It recently cancelled a renewable energy zone, approved two gas developments (although one has since entered administration), and announced $7.5m to kickstart a “renewable gas industry”.
+
+## ‘Time to put our foot on the accelerator’
+
+Nexa Advisory chief executive Stephanie Bashir says new transmission is crucial for developing renewable energy and allowing power to be imported across state lines at times of high demand, such as during heatwaves. “This is not the time to be cancelling any of the projects in the pipeline,” she says. “This is the time where we put our foot on the accelerator and go hard.”
+
+Environment Victoria’s chief executive, Jono La Nauze, says the Coalition’s plan – including a proposal to reinstate a policy introduced by the previous Baillieu-Napthine Coalition government preventing wind turbines being built within 2km of dwellings – is “the greatest swindle ever attempted on Victorian voters”.
+
+“The Coalition are promising to stop all the things that are necessary to replace our coal and gas generation. They’ve got some quick slogans for how they’re going to instead rely on gas, with absolutely no substance,” he says.
+
+But analysts say Labor is also not building energy infrastructure fast enough.
+
+after newsletter promotion
+
+Oliver Nunn, managing director of the consultancy Endgame Analytics, says the lack of an adequate plan to stave off an energy shortfall means that “whoever wins [the election], we lose”.
+
+“You can see demand for electricity pulling up rapidly in Victoria, 5% year-on-year growth,” Nunn says. “Coal’s going out, and we just do not have, at this point, a really viable plan.”
+
+![The Golden Plains windfarm in Victoria’s central highlands](https://i.guim.co.uk/img/media/e164f99206808c0318184b4707191d1b30535625/0_0_5568_3712/master/5568.jpg?width=445&dpr=1&s=none&crop=none)
+
+In its 12 years in government, Labor has overseen a surge in Victoria’s share of renewable energy from 10% to 44% and the closure of the large Hazelwood coal-fired power station. The number of windfarms has grown from 14 to 44 and large-scale solar farms from two to 57. Labor also ended the state’s moratorium on conventional gas exploration in 2021.
+
+But the state’s auditor general says both VNI West and the Western Renewables Link are behind schedule, and not likely to be completed until after Yallourn’s scheduled closure.
+
+Recent attempts to fast-track the process by legislating for compulsory land acquisition before environmental approvals have been unpopular in regional communities, but Labor says the changes were needed to reduce delays and improve certainty for landowners. Controversially, Labor also passed laws to allow VicGrid and its contractors access to private land without a landholder’s consent, as a last resort to facilitate works.
+
+“Every time the government seems to hit a hurdle, what they’ve done is not gone back and reassessed the engagement and tried to improve it, what they’ve done is changed legislation to give them broader powers,” the Victorian Farmers Federation president, Ryan Milgate, says.
+
+The shadow energy minister, David Davis, refers to the laws as Labor’s “double bazooka powers” and says the Coalition will ditch them and reinstate landholder appeal rights.
+
+But Nexa’s Bashir says energy policy should not be “a political football”.
+
+“We do need to back the replacement generation. We can’t do any more reviews; we’ve just got to get on with it.”
