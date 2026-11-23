@@ -1,0 +1,82 @@
+---
+title: Russia is towing drone-hit cargo ship after Baltic Sea attack
+source_url: https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack
+source_site: Euronews
+source_slug: euronews
+description: 'Russian authorities begin towing a damaged military-linked cargo vessel
+  after a suspected Ukrainian drone attack near Finnish waters, highlighting growing
+  security risks in the Baltic Sea. #EuropeNews'
+image: https://images.euronews.com/articles/stories/10/00/36/70/1200x675_cmsv2_70afc514-edf9-57bd-b999-1e956d1cb25e-10003670.jpg
+published: '2026-11-22T00:00:00Z'
+scraped_at: '2026-11-23T01:37:45Z'
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+people:
+- Alexander Stubb
+locations:
+- Baltic Sea
+- Estonia
+- Gogland Island
+- Gulf of Finland
+- Helsinki
+- Kaliningrad
+- Kirkkonummi
+- Lithuania
+- Poland
+- Russia
+- Sparta II
+- St Petersburg
+- US
+- Ukraine
+organisations:
+- Finnish Air Force
+- Ministry of Defence
+- NATO
+- Oboronlogistika
+- Sparta II
+---
+
+## Russian authorities begin towing a damaged military-linked cargo vessel after a suspected Ukrainian drone attack near Finnish waters, highlighting growing security risks in the Baltic Sea.
+
+A Russian cargo ship hit by drones in the Baltic Sea is being towed out of Finnish waters by Russian rescue vessels after catching fire and drifting into Finnish territory, according to Finnish authorities.
+
+Finnish President Alexander Stubb said in a post on X that the *Sparta II*, which had posed a serious threat, had left Finnish waters. He added that "the consequences of Russia's war of aggression are also being felt in our neighbouring regions" and reaffirmed Finland's commitment to maintaining stability and security in the Gulf of Finland.
+
+The Russian-flagged vessel, *Sparta II*, was reportedly struck by two drones on November 21 while sailing in the eastern Gulf of Finland, west of Gogland Island. The ship caught fire and lost its ability to manoeuvre before drifting into Finnish territorial waters. Its 16 crew members were evacuated, while Finnish and Russian rescue teams worked to contain the blaze.
+
+The attack sparked a fire aboard the ship, forcing its 16 crew members to evacuate. One crew member reportedly sustained minor injuries.
+
+By November 22, Russian vessels had begun towing the damaged ship away from Finnish waters following an emergency response involving maritime authorities from Finland, Estonia and Russia.
+
+Although the immediate danger appears to have been contained, the incident raises broader questions about the security of Russian shipping, the vulnerability of Baltic maritime routes and the possibility of further military escalation near NATO territory.
+
+## A Russian military-linked vessel under attack
+
+The *Sparta II* is a 121-metre cargo ship operated by Oboronlogistika, a Russian logistics company associated with the country's Ministry of Defence.
+
+The company provides transportation and logistical support for Russian state operations, making its vessels potentially significant assets within Russia's broader military supply network.
+
+At the time of the attack, the ship was travelling from St Petersburg toward Kaliningrad, Russia's heavily militarized exclave on the Baltic Sea, situated between NATO members Poland and Lithuania.
+
+Kaliningrad occupies a particularly important position in Russia's military strategy. The territory hosts major naval installations and other military infrastructure, while its geographic separation from mainland Russia makes maritime transportation an important logistical connection.
+
+The cargo carried by the *Sparta II* has not been publicly established. Finnish authorities indicated that military equipment could not be ruled out, although no definitive confirmation of such cargo was available.
+
+The vessel is also subject to US sanctions, reflecting broader Western restrictions targeting Russian entities connected to military and logistical activities.
+
+## Suspected Ukrainian involvement
+
+Finnish military officials reportedly assessed that Ukraine was likely responsible for the drone attack.
+
+However, Ukrainian authorities had not publicly confirmed responsibility in the reporting available at the time. The identity of the attacker, the operational objectives and the precise circumstances surrounding the strike have not yet been independently established.
+
+If Ukrainian involvement is confirmed, the incident could represent a notable development in the maritime dimension of the Russia-Ukraine war.
+
+## Read more
+
+![The smoke rise from Russian cargo ship Sparta II, in the Gulf of Finland on Saturday, Nov. 21, 2026](https://images.euronews.com/articles/stories/10/00/27/74/480x270_cmsv2_ec037588-b301-5fe7-bd29-b01e517cd07a-10002774.jpg)
+![Seized vessel Fitburg in the harbor of Kirkkonummi, 1 January, 2026](https://images.euronews.com/articles/stories/09/98/09/98/480x270_cmsv2_22dd7894-6107-5e40-8e7a-2ed3950fa4c0-9980998.jpg)
+![A Hornet fighter of the Finnish Air Force flying above Helsinki, 15 May, 2026](https://images.euronews.com/articles/stories/09/92/75/46/480x270_cmsv2_58d7ec5b-9013-5730-aa5f-9787242db029-9927546.jpg)

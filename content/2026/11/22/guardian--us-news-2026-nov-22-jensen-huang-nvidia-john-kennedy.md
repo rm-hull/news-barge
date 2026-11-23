@@ -1,0 +1,82 @@
+---
+title: Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’,
+  US senator says
+source_url: https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy
+source_site: The Guardian
+source_slug: guardian
+description: John Kennedy looks to Trump leaders as he asks how China evidently bypassed
+  export controls for Nvidia’s top AI chips
+image: https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8e8b50f80c4d0b9b0893fe618c22bc9
+published: '2026-11-22T00:00:00Z'
+scraped_at: '2026-11-23T01:37:15Z'
+categories:
+- UK
+- News & Politics
+people:
+- Alice Huang
+- Helen of Troy
+- Howard Lutnick
+- Huang Le
+- Jay Clayton
+- Jensen Huang
+- John Kennedy
+- Kristen Welker
+- Megaspeed
+- Scott Bessent
+- Trump
+locations:
+- China
+- Louisiana
+- Troy
+- UK
+- US
+organisations:
+- CBS News
+- CNN
+- Face the Nation
+- Fox News
+- Meet the Press
+- Megaspeed International
+- NBC
+- Nvidia
+- Oxford University
+- Senate
+- State of the Union
+- Trump
+- University of Virginia School of Law
+- Vanderbilt University
+---
+
+Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”.
+
+The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom.
+
+Huang stepped down as Nvidia’s CEO on 12 November after allegations surfaced of extramarital relationships with the suspected Chinese spy Alice Huang and two Nvidia employees.
+
+Alice Huang, also known as Huang Le, had been executive director of Megaspeed International. Megaspeed facilitated about $12bn in chip sales, in violation of export controls in the US, where the Trump administration has prohibited the selling of advanced AI chips to China.
+
+On Sunday’s edition of CNN’s State of the Union, the Trump administration’s national intelligence director, Jay Clayton, said he suspected China was able to obtain Nvidia’s most advanced AI chips.
+
+He also said on Fox News Sunday: “There are chips that have ended up in places that they should not.”
+
+Kennedy said he was “less interested in … what [Huang] did” than in asking the Trump administration’s commerce secretary, Howard Lutnick, and its treasury secretary, Scott Bessent, about how China was evidently able to circumvent US “export controls”.
+
+“Mr Huang … did what he did. I hope he had a good time. It was the most expensive sex since Helen of Troy,” Kennedy said.
+
+Lutnick has faced scrutiny over allegedly ignoring warnings that Megaspeed was smuggling chips to China. Other administration leaders, including Bessent, wanted to put Megaspeed on a trade blacklist – but the commerce department stalled enforcement of it.
+
+Kennedy said he could only conclude commerce department leaders are either “so incompetent you wouldn’t put them in charge of a food truck” – or “they knowingly allowed this to happen”.
+
+He said he wanted to get Bessent and Lutnick under oath in front of a Senate committee to “answer some hard questions”.
+
+![Man in suit speaks to people inside corridor with hand on chin](https://i.guim.co.uk/img/media/f22b89a6e9d478e5fd37d641bb4e1f5415c6e1a0/0_0_5500_3667/master/5500.jpg?width=445&dpr=1&s=none&crop=none)
+
+“And if secretary Lutnick is giving our chips away, he needs to stop it, in my opinion,” Kennedy said.
+
+Bessent said on Sunday’s edition of CBS News’s Face the Nation that the Trump administration had been in touch with Nvidia’s temporary management, lead directors and lawyers while trying to find out who was in charge of compliance at the company.
+
+“It behooves Nvidia to move ⁠quickly on this because we want to know what the culture was,” Bessent said on the program.
+
+Kennedy, a former Louisiana state treasurer who began his political career as a Democrat before switching parties and becoming a staunch Trump administration ally, delivers many of the colloquialisms that have become his calling card with a southern US drawl.
+
+Many believe Kennedy resorts to the drawl to come off as folksy – while he holds degrees from Vanderbilt University, the University of Virginia School of Law and the UK’s Oxford University, and is estimated to be one of the wealthiest US senators.

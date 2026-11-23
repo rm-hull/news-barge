@@ -1,0 +1,67 @@
+---
+title: US Army to detonate tonnes of unstable explosives in Iowa despite court order
+source_url: https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The Army says "swift action" is necessary to protect its personnel and
+  nearby communities around its ammunition plant in Iowa.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg
+published: '2026-11-22T00:00:00Z'
+scraped_at: '2026-11-23T01:36:38Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people: []
+locations:
+- Iowa
+- Middletown
+organisations:
+- Department of Health and Human Services
+- Department of the Army
+- EPA
+- IAAAP
+- Iowa Army Ammunition Plant
+- Iowa Environmental Council
+- Iowa Public Radio
+- Sierra Club
+- US Army
+---
+
+![A red signed that reads "Iowa Army Ammunition Plant" stands behind barbed wire](https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg)
+
+**The US Army plans to move ahead with detonating five tonnes of degraded explosives in Iowa despite a ruling to halt it indefinitely, a new court filing shows.**
+
+"To protect its personnel and the surrounding communities, the Army needs to take swift action," the justice department notified the court on Saturday. "Protection of human health and the environment demand action now, not delay."
+
+The court had ordered a pause after environmental groups sued to stop the detonation, arguing the army failed to consider safer alternatives.
+
+The detonation was originally scheduled for Friday at the Iowa Army Ammunition Plant in Middletown. The army now plans to act by 24 November under an emergency exemption.
+
+In the new filing, the Department of the Army argued that a controlled detonation was necessary to protect the public from an unplanned explosion, a risk it said would become more likely as temperatures were set to fall in the coming days.
+
+"There is an immediate risk that the lead azide at the Iowa Army Ammunition Plant will explode as temperatures are expected to drop below 30 degrees Fahrenheit (-1C) in the next several days," the filing states.
+
+It argued that the army had removed the doors to the bunker where the barrels were stored in preparation for the detonation and that made the explosives more "vulnerable to temperature changes".
+
+The government has not released details for the rescheduled detonation.
+
+Earlier, the army had warned residents to leave their homes for six hours on the original scheduled day of the explosion, for the duration of the explosion and until the dust settled. An advisory warned "all humans" to avoid being outside in the affected areas while the demolition detonation was set to take place.
+
+Lead azide is a highly volatile compound used as a detonator. Earlier this year, the IAAAP found that the material had degraded over time to the point where it was now too risky to move the material, according to Iowa Public Radio.
+
+On Friday, the military said it was working with the Department of Health and Human Services and the EPA to ensure the explosion was done in the safest manner possible.
+
+Military and environmental officials determined that detonating it in place was the safest way to eliminate the explosive safety hazard.
+
+The EPA, which granted an emergency permit to detonate 68 drums of the material, said it did so because the explosion risk "presented an imminent and substantial threat to human health and the environment".
+
+One of the Environmental groups suing to pause the detonation, the Iowa Environmental Council, argued that many Iowans living within the risk-zone were unaware that the explosion was scheduled to happen.
+
+"There is no safe level of lead exposure, and Iowans were given just days to prepare for the November 20 detonation," the organisation said in a press statement.
+
+The Iowa Environmental Council and Sierra Club, which filed the lawsuit on Thursday that prompted the court-ordered pause, filed a new motion on Sunday in response to the army's filing.
+
+The group asks the court to pause proceedings so that it may submit additional information before the scheduled detonation.
+
+The motion includes declarations from environmental experts and local officials who support pausing the detonation, citing a lack of public notice and questioning the Army's claim that delay would cause significant risks.
