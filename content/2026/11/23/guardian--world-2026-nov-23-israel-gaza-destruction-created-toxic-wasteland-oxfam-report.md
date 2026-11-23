@@ -1,0 +1,71 @@
+---
+title: Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find
+source_url: https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report
+source_site: The Guardian
+source_slug: guardian
+description: Scientific and satellite findings warn of widespread contamination in
+  Gaza, posing grave threats to public health ‘for generations to come’
+image: https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc45482dada91d8db094017e4cadcacb
+published: '2026-11-23T00:00:00Z'
+scraped_at: '2026-11-23T12:20:03Z'
+categories:
+- UK
+- News & Politics
+- Science
+people:
+- Amitabh Behar
+- Benjamin Netanyahu
+- Lama Abdul Samad
+locations:
+- Gaza City
+- Geneva
+- Israel
+- Nuseirat
+organisations:
+- Ceobs
+- Conflict and Environment Observatory
+- ICC
+- Oxfam International
+- UN Environment Programme
+- UNEP
+---
+
+Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the population depends on for survival, according to a report.
+
+Israel’s military assault has created widespread contamination across the entire strip, the report by Oxfam and the Conflict and Environment Observatory (Ceobs) finds, with heavy metals, explosive residues, asbestos from destroyed buildings, and sewage making the air, soil and water dangerous for Palestinians for decades to come.
+
+Oxfam International’s executive director, Amitabh Behar, said: “Israel’s ongoing genocide in Gaza includes military assaults on its environment, which are environmental war crimes threatening life now and for generations to come.”
+
+He said the “destruction and contamination of Gaza” have “fundamentally degraded the environmental conditions necessary for human safety and survival” and breach Israel’s legal obligations under international humanitarian and human rights law.
+
+“Palestinians living in Gaza are being exposed to toxins … through air, food, water and via direct contact with contaminated soils and debris. These risks will persist for generations to come, unless clean-up, remediation and recovery actions are prioritised.”
+
+![A boy carries sticks across bulldozed land near ruins in Gaza’s Nuseirat area](https://i.guim.co.uk/img/media/771679d891b24325b217869d12ab85c61d8fa435/474_0_4743_3795/master/4743.jpg?width=445&dpr=1&s=none&crop=none)
+
+In 2025 and earlier this year, the UN independent international commission of inquiry found that Israel had committed genocide in Gaza and that Israeli officials, including the prime minister, Benjamin Netanyahu, incited these acts. The Israeli mission in Geneva said Israel rejected the commission’s “libellous sham”. Netanyahu is separately wanted by the international criminal court (ICC) for war crimes.
+
+Oxfam’s report gives the most comprehensive picture to date of what it calls the “toxic wasteland” created by the Israeli assault which has killed more than 74,000 Palestinians and wounded at least 175,000, while thousands still remain unaccounted for under the rubble.
+
+Using satellite imagery, remote sensing, scientific analysis and other open-source data, it concludes contamination in Gaza is “widespread, severe and consequential, with serious implications for public health and civilian survival”.
+
+Behar said: “It is horrifying to begin to understand the extent of toxic contamination being faced by the population, who can neither escape nor protect themselves properly from the dangers. In an area as small, oppressed and densely populated as Gaza, continuous exposure is inevitable, with people surrounded by waste and sewage, spreading pests and the risk of disease growing.
+
+“Raw sewage is pouring into the sea and leaking into the ground, while the destruction of Gaza’s sanitation systems leaves people with little protection from the contamination around them.”
+
+![Displaced Palestinians, including children, stand near a rubbish-filled sewage stream in Gaza City](https://i.guim.co.uk/img/media/53846dac23aa8f46b71687de22bb8ca69108a2e5/480_0_4800_3840/master/4800.jpg?width=445&dpr=1&s=none&crop=none)
+
+He added the “associated health consequences will be severe, with children and pregnant women among those facing the highest risks”.
+
+The UN Environment Programme (UNEP) estimates that Israel’s military operations have generated more than 61m tonnes of debris across the territory, turning Gaza’s destroyed homes, neighbourhoods and infrastructure into a vast reservoir of potentially hazardous materials.
+
+The report’s author, Lama Abdul Samad, a global water and sanitation specialist at Oxfam, said tackling the environmental damage in Gaza will be “highly challenging because contamination is dispersed across the urban rubble, farmland, water systems and soils, while unexploded ordnance continues to restrict safe access to most areas”.
+
+![Children walk past an unexploded missile at a Gaza City rubbish dump](https://i.guim.co.uk/img/media/bc637be7b11523b3b41c26d2147ebda1c61af173/558_0_4118_3295/master/4118.jpg?width=445&dpr=1&s=none&crop=none)
+
+“The analysis highlights the urgent need for Israel to grant access for a detailed environmental assessment on the ground to clarify the risks to public health and identify options for urgent harm-reduction measures. Restoration is likely to require extensive clearance, monitoring and specialised remediation of affected areas from contaminants such as explosive residues, organic pollutants and heavy metals.”
+
+Behar said that as international attention increasingly turned to Gaza’s reconstruction, environmental recovery must not be treated as an afterthought, but as a vital undertaking in parallel.
+
+“Rebuilding Gaza without simultaneously understanding and addressing the extent of environmental contamination risks creating long-term public health consequences for generations to come,” he said.
+
+The Israeli government has been contacted for comment.

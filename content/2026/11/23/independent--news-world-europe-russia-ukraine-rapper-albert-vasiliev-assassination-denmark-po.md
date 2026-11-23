@@ -1,0 +1,99 @@
+---
+title: Russia allegedly tried to kill Ukrainian rapper in Poland and then Denmark
+source_url: https://www.independent.co.uk/news/world/europe/russia-ukraine-rapper-albert-vasiliev-assassination-denmark-poland-b3089573.html
+source_site: The Independent
+source_slug: independent
+description: Denmark expels Russian official over alleged plot to assassinate Albert
+  Vasiliev
+image: https://static.independent.co.uk/2026/11/23/04/2305476894..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+published: '2026-11-23T00:00:00Z'
+scraped_at: '2026-11-23T12:21:41Z'
+categories:
+- News & Politics
+- UK
+- True Crime
+people:
+- Albert Vasiliev
+- Donald Tusk
+- Familia
+- Ms Von der Leyen
+- Rapper
+- Rasmus Kieffer-Kristensen
+- Ursula von der Leyen
+locations:
+- Copenhagen
+- Denmark
+- Europe
+- Kyiv
+- Moscow
+- Poland
+- Russia
+- Slovakia
+- US
+- Ukraine
+- Warsaw
+organisations:
+- Danish Security and Intelligence Service
+- EU
+- European Commission
+- FSB
+- Hryby
+- Instagram
+- Nato
+- PET
+- SBU
+---
+
+Denmark expelled a Russian official after claiming it had thwarted a plot to kill a Ukrainian-American citizen on its soil.
+
+The case took a new twist on Sunday when Polish authorities said the same man was allegedly targeted by Russian intelligence services last summer in Poland.
+
+Denmark is expected to ask the EU this week for more decisive action stemming from the case, perhaps restricting Russian citizens from entering and travelling freely within the bloc. Poland said that it would support such measures.
+
+European Commission president Ursula von der Leyen declared that Russia’s threats were growing more real, reaching EU soil as the bloc continued supporting Ukraine’s war effort.
+
+The case involves Albert Vasiliev, a rapper who performs under the name Kyivstoner, and holds Ukrainian and US citizenship, according to Danish media.
+
+The assassination attempt in Denmark was planned for 25 September, during a concert north of the capital Copenhagen, the Danish Security and Intelligence Service, known commonly as PET, claimed, adding that the plot was “planned and initiated by Russian intelligence services”.
+
+Danish authorities thwarted the alleged plot, the prime minister’s office said, and charged two men with attempted murder and assisting a foreign intelligence service in operating in the country.
+
+The men were linked to Loyal to Familia, PET said, a banned gang known for “extensive, serious and violent criminal activity.”
+
+Russia, through its embassy in Copenhagen, dismissed the allegations as unsubstantiated.
+
+Denmark still expelled Russia’s defence attaché.
+
+“In our assessment, the individual was a particular target of the Russian intelligence services," said Rasmus Kieffer-Kristensen, director general of PET. “The case demonstrates that Russian intelligence services are both willing and capable of initiating an assassination attempt on Danish soil, during a public event and using individuals from Danish criminal gangs. This is a concrete indication of the heightened threat posed by Russia.”
+
+## Poland claims plot against the rapper in August
+
+As Denmark announced the plot against the rapper on Friday, the Polish foreign ministry posted on X that it was noting the news with “outrage and concern”.
+
+“This is another assassination attempt against this person,” the ministry said. “The first took place on Polish territory in August 2026 but was thwarted thanks to the efforts of the Polish services and the would-be perpetrator, a Russian citizen, was detained.”
+
+The suspect, allegedly recruited by Russia’s secret services, was held by Polish authorities on 7 August.
+
+On 13 August, Polish prime minister Donald Tusk disclosed a plot to kill a Ukrainian-American citizen in Warsaw had been thwarted, noting it was the first time that “someone on the order of Russia” sought to attack a US citizen on the territory of another Nato country.
+
+Tusk did not, however, disclose Mr Vasiliev's name, saying only that the target “was uncomfortable” for the Russian government.
+
+## Rapper left Ukraine after invasion
+
+Mr Vasiliev was born in Kyiv in 1991, according to Polish media. He posted online comedy sketches and was a former member of the Ukrainian band Hryby. He also was popular in Russia before its invasion of Ukraine.
+
+He left Ukraine after the war broke out and lived for two years in the US before moving to Slovakia. He has expressed his support for Ukraine against Russia.
+
+He performed across Europe this year before his concerts were cancelled for security reasons.
+
+Russia's domestic security service, the FSB, accused Mr Vasiliev of being involved in supplying drones for an alleged Ukrainian attack on a defence enterprise in the Moscow region.
+
+It said he was “acting under the patronage” of Ukraine's internal security service, the SBU.
+
+Danish broadcaster DR reported that Mr Vasiliev denied the FSB accusations. He did not comment on social media about the plot against him in Poland, but DR reported that he announced on Instagram that “the intelligence service banned us from holding the concert” referring to the cancellation of his event in Denmark.
+
+Western officials have accused Russia and its proxies of staging dozens of attacks and other incidents across Europe since the invasion of Ukraine.
+
+“Russia’s hybrid threats are becoming less and less hybrid, and more and more real,” Ms Von der Leyen, who condemned the alleged plot against Mr Vasiliev in Denmark, said.
+
+Russia has denied accusations by Western officials that it has been conducting a sabotage campaign in Europe.
