@@ -1,0 +1,58 @@
+---
+title: Justice system failing crime victims ‘at every point’, UK ministers told
+source_url: https://www.theguardian.com/law/2026/nov/24/justice-system-failing-victims-at-every-point-uk-ministers-told
+source_site: The Guardian
+source_slug: guardian
+description: Without reform there will soon be ‘no point’ in the public reporting
+  crimes to the police, says victims’ commissioner for England and Wales
+image: https://i.guim.co.uk/img/media/1770cb26e511e3432816e0321b8005045124f639/706_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=381888868abbfded93d1ec92da72613e
+published: '2026-11-24T00:00:00Z'
+scraped_at: '2026-11-24T13:35:57Z'
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
+people:
+- Alex Davies-Jones
+- Andy Burnham
+- Claire Waxman
+- Nick Robinson
+locations:
+- England
+- Wales
+organisations:
+- BBC
+- BBC’s Political Thinking
+- Labour
+---
+
+There will soon be “no point” in the public reporting crimes to the police, the victims commissioner for England and Wales has said, as she urged ministers to reform the justice system.
+
+Claire Waxman called on Andy Burnham to put reforming the justice system at the heart of his 10-year plan for government, expected to be unveiled next month, because victims were being failed “at every point”.
+
+She warned that the early release of prisoners to ease overcrowding in jails, long waits in the courts, and difficulties communicating with the police had eroded the trust of victims. Speaking to the BBC’s Political Thinking with Nick Robinson podcast, Waxman said the justice system had been “under-invested and mismanaged”, adding: “It can’t continue. Otherwise I will be in a position as the victims’ commissioner to have to be very honest and open with victims publicly to say there’s no point coming forward and reporting.”
+
+The commissioner’s latest annual survey of more than 6,000 victims, published on Tuesday, found many had experienced long waits for justice. In all, 47% of respondents whose case went to a crown court had seen their trial postponed, with 28% reporting the trial had taken place more than a year after it was originally scheduled.
+
+Almost one in three (28%) of victims chose not to report to the police, with 38% of Black and 45% of Asian victims choosing not to report. Meanwhile, 46% of respondents said they were dissatisfied with communication from the police. The report cited one rape survivor who said she only learned that her trial would take place on Monday morning at 5.15pm on Friday.
+
+Commenting on the report, Waxman said: “Victims are still being let down by a criminal justice system that too often treats them as an afterthought. Too many are left chasing updates, fighting for support, and navigating a process that compounds, rather than alleviates, the trauma of crime.”
+
+Waxman said the state was “failing” in its duty to keep the public safe, adding that the early release of prisoners could lead to risky offenders being supervised by a probation service “on its knees”.
+
+Victims needed further reassurance that they would be kept safe when offenders were let out under the programme to ease overcrowding in jails, she said. Letters sent over the summer to warn victims ahead of releases had been “very poor” and lacked detail on how offenders were going to be risk-assessed.
+
+About 5,000 prisoners are scheduled to eventually be released under the latest version of the scheme, which Labour said was needed as a result of a lack of investment in prisons under the Conservatives. Waxman said she was “still waiting to see” data about the impact of releases.
+
+As part of the latest survey report, the commissioner is recommending that all crime victims should receive an identifier number to track their progress through the justice system to give them a more seamless experience and enabling them to monitor access to their legal rights under the victims’ code.
+
+The report also calls for an “end-to-end” review of how victims experience and navigate the system at every step, similar to recent reviews that have focused on sentencing or the courts.
+
+Waxman told the BBC that there should be a dedicated agency responsible for ensuring victims have a seamless experience, as at present “nobody has the full picture”. “All victims say they want a single point of contact, they don’t want to have to talk to different police officers about their case,” she said.
+
+Responding to the survey, the victims minister, Alex Davies-Jones, said: “We are doing everything we can to fix the broken system we inherited.
+
+“We have already taken important steps to fix this, investing an unprecedented £550m in victims’ services over three years and taking action to tackle the crown court backlog to make sure victims get the fast justice they deserve.
+
+“We’re also publishing a new Victims’ Code next year to make it easier for victims to understand, set clear expectations for criminal justice agencies and help victims feel supported.”
