@@ -1,0 +1,46 @@
+---
+title: Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo
+  4's next season starts
+source_url: https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/
+source_site: PC Gamer
+source_slug: pcgamer
+description: Most of the secrets from the current season aren't going anywhere.
+image: https://cdn.mos.cms.futurecdn.net/m2KePNqos3tQNXQw6yUfTc-1920-80.jpg
+published: '2026-11-24T00:00:00Z'
+scraped_at: '2026-11-24T21:54:02Z'
+categories:
+- Technology & Software
+- Sports
+people:
+- Blizzard
+- Deckard Cain
+- Griswold
+locations:
+- Amazon
+- Uber Tristram
+organisations:
+- Blizzard
+- Diablo
+- Moophisto
+- PC Gamer
+- Prime Evil
+- Season of Tyrael
+---
+
+![A screencap of the Diablo 4 Season of Hell&#039;s Legacy gameplay trailer. Old man Deckard Cain sits at a candlelit table.](https://cdn.mos.cms.futurecdn.net/m2KePNqos3tQNXQw6yUfTc-1920-80.jpg)
+
+According to every Diablo 4 player known to man, I screwed up by skipping its last season. Blizzard shoved just about every iconic Diablo 2 boss and item it could think of into the modern game, and, by all accounts, it was one of the best seasons it ever had.
+
+Even though the Season of Hell's Legacy is about to come to an end, Blizzard has delivered good news for me and everyone else who missed it: Most of it will remain in the game permanently.
+
+On December 1, when the Season of Tyrael's Gambit begins, all of the unique Prime Evil boss fights will still be available, along with the Diablo world boss, Moophisto, and a handful of Diablo 2-inspired items, including the Hellfire Torch Charm. However, the craftable items, like the Enigma chest piece that gives you a free teleport skill, will not carry over.
+
+Even without all the craftable unique items, that's quite a lot of stuff to keep around. Blizzard tends to ditch seasonal additions as soon as a new season starts, and you usually have to wait a while to see them slipped back into the game in a slightly altered form. The overwhelming excitement around the Diablo 2 content must've convinced Blizzard it was worth putting in the work to keep them around.
+
+I would've been happy if the portal to Tristram, the rickety old town at the center of Diablo 2, was all that came back. Blizzard pulled off an incredibly faithful remake of it, complete with the old guitar theme and the voice of the blacksmith Griswold. And if you follow the hidden steps to make the Hellfire Torch, you'll be able to visit Uber Tristram, a special version of the town where you can square off against all three of the series' major villains, the Prime Evils, at once.
+
+Diablo 4 was always kind of light on hidden quests and bosses, so it's nice to see that Blizzard found a way to bring an important part of the series back. I'll be curious to see what else comes to the game over the next three years before Diablo 5 arrives. The Amazon class will drop next year, but no expansions are planned to fill the gap. Hopefully Blizzard will take this opportunity to experiment with more things like the Diablo 2 anniversary secrets before it moves onto the sequel.
+
+![2026 gamesBest PC gamesFree PC gamesBest FPS gamesBest RPGsBest co-op games]([https://cdn.mos.cms.futurecdn.net/6offQUY4CXebir2TC27dMd-200-80.jpg.webp](https://cdn.mos.cms.futurecdn.net/6offQUY4CXebir2TC27dMd-200-80.jpg.webp) "2026 gamesBest PC gamesFree PC gamesBest FPS gamesBest RPGsBest co-op games")
+
+Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team.

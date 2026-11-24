@@ -1,0 +1,80 @@
+---
+title: 'Todd Blanche erupts when asked about investigations into Jensen Huang: ‘For
+  what?’'
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/todd-blanche-trump-jensen-huang-nvidia-investigations-b3090873.html
+source_site: The Independent
+source_slug: independent
+description: Flustered attorney general appears to rule out prosecutions while investigations
+  are still ongoing
+image: https://static.independent.co.uk/2026/11/24/16/2306157510..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+published: '2026-11-24T00:00:00Z'
+scraped_at: '2026-11-24T21:53:58Z'
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
+people:
+- Donald Trump
+- Jensen Huang
+- Nvidia
+- Todd Blanche
+locations:
+- China
+- U.S
+- United States
+organisations:
+- AI
+- CNBC
+- Commerce Department
+- DOJ
+- Department of Justice
+- Justice Department
+- Megaspeed
+- Nvidia
+- Truth Social
+---
+
+Attorney General Todd Blanche refused to say whether Nvidia’s newly reinstalled CEO Jensen Huang was under federal investigation or posed any risk to national security before Donald Trump pressured the company’s board to bring him back to the artificial intelligence giant.
+
+Blanche told reporters Tuesday that the president “talked to a lot of people going into the decision” and was “exactly right.”
+
+“To the extent that the Department of Justice had information he was committing crimes, or something like this, that’s something I would’ve certainly told the president, if it were true,” Blanche said.
+
+The DOJ head then erupted over what he called “hypothetical questions” about investigations into the embattled CEO.
+
+“What does that mean? Had Huang been investigated? For what? I don’t understand the question,” Blanche said.
+
+Huang resigned earlier this month following news of his affair with an executive at the Singapore-based company Megaspeed who is allegedly tied to Chinese intelligence agencies.
+
+![Attorney General Todd Blanche repeatedly rebuffed questions about Nvidia and Jensen Huang after Donald Trump claimed the embattled CEO has been ‘exonerated’ over investigations into whether the AI giant violated export controls or if Huang posed a risk to national security](https://static.independent.co.uk/2026/11/24/16/2306157510..?quality=75&width=640&auto=webp)
+
+Last week, the Department of Justice and Commerce Department issued a joint public statement indicating they were investigating Megaspeed for possibly diverting advanced Nvidia semiconductor chips to China in violation of U.S. export controls.
+
+But on his Truth Social account Monday, Trump claimed that the “Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct.”
+
+During an hourlong interview with CNBC that morning, as he celebrated his intervention with Nvidia’s leadership, Trump was asked what Blanche told him about Jensen Huang’s potential exposure to criminal liability .
+
+“They did a pretty good investigation, and they felt that he, himself, was exonerated,” Trump told the network.
+
+Blanche said the Justice Department is handling “hundreds, if not more” export investigations and insisted that he had no idea what reporters meant when they questioned him about the Justice Department’s previous statements about Nvidia.
+
+“I don’t know if there’s going to be an investigation that starts tomorrow that will lead to different results,” he said. “I can’t talk about a particular investigation, for one, and there are many investigations ongoing.”
+
+![Trump claimed his government ‘did a pretty good investigation’ into Huang despite warnings about his potential exposure to criminal liability for export controls and national security risks following an affair with an alleged Chinese spy](https://static.independent.co.uk/2026/11/24/16/40/GettyImages-2297774940-(1).jpeg?quality=75&width=640&auto=webp)
+
+Blanche said reports that the president had assured Nvidia that the Justice Department would not be prosecuting anyone at the company in an effort to return Huang as CEO is based on the “public reporting of leaks.”
+
+“I don’t deal in leaks,” he said. “We have to deal in facts. … I do think there’s a lot of baked-in assumptions about the situation that are baked in from reporting, from leaks … That certainly makes it more challenging for folks to understand what really happened.”
+
+Asked whether he is satisfied with Nvidia’s response to federal law enforcement, Blanche called Nvidia a “good corporate citizen” but refused to acknowledge widely published reports about potential threats to national security and whether the company played a role violating export restrictions.
+
+“I don’t know what folks are asking about specifically,” he said. “You’re mocking me … but what are you asking about? … You guys are asking me to comment about investigations to the extent that they exist … The president is free to talk about what he wants to talk about.”
+
+Trump called into a meeting of Nvidia’s board of directors to “convince” them to reinstate Jensen Huang as the company’s CEO, the president admitted Monday.
+
+“I spoke to them and I convinced them,” he told CNBC during a nearly hour-long on-air call Monday morning. “And it was a lot easier to convince them yesterday than it was a week ago.”
+
+The president said he believes his unprecedented intervention was “very important” in the wake of the scandal, which will now be the subject of several congressional investigations.
+
+“We gave him assurance, at least with everything we know, and we know a lot,” Trump told CNBC. “People say, ‘is it a threat to have him?’ No, it’s a threat to lose him.”

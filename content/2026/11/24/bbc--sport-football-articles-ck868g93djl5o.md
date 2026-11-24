@@ -1,0 +1,147 @@
+---
+title: 'Leny Yoro red card: Manchester United defender cleared to face Brentford on
+  Saturday'
+source_url: https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Manchester United defender Leny Yoro is clear to face Brentford on Saturday
+  as his red card at Anfield is overturned.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg
+published: '2026-11-24T00:00:00Z'
+scraped_at: '2026-11-24T21:53:30Z'
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Alexander Isak
+- Christian Norgaard
+- Howard Webb
+- Leny Yoro
+- Man Utd
+- Matthijs de Ligt
+- Mauricio Pochettino
+- Michael Carrick
+- Pascal Struijk
+- Paulo Fonseca
+- Sam Barrott
+- Senne Lammens
+locations:
+- Anfield
+- Lisbon
+- Old Trafford
+- Sunderland
+- United States
+- Yoro
+organisations:
+- Brentford
+- Brighton
+- Everton
+- FA
+- Football Association
+- KMI Panel
+- Key Match Incidents Panel
+- Liverpool
+- Lyon
+- Manchester United
+- Manchester United United
+- New United
+- Premier League
+- Roma
+- Sky Sports
+- Sporting
+- VAR
+- Yoro
+---
+
+![Manchester United defender Leny Yoro brings down Liverpool's Alexander Isak](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e765/live/325a07e0-e81e-11f1-99b6-a35a62fa4264.jpg)
+
+Leny Yoro was sent off for this tackle on Alexander Isak
+
+**Manchester United defender Leny Yoro has had the red card shown to him at Anfield overturned by the Football Association - even though referees' chief Howard Webb has backed the decision to send the defender off.**
+
+Yoro was dismissed by referee Sam Barrott for bringing down Liverpool forward Alexander Isak just eight minutes into Sunday's match.
+
+Isak had run onto a ball that bounced over Matthijs de Ligt but took a heavy touch that meant the ball was likely to run through to United goalkeeper Senne Lammens even if Yoro had not brought down the Swede.
+
+New United head coach Mauricio Pochettino was furious at a decision he felt had changed the course of the game, which Liverpool won 4-0.
+
+"The ball wasn't in his control," he said. "Isak, when he saw the control wasn't good, it's normal to delay, and stop to the run. In that moment that Yoro came from the back, and you go down.
+
+"But all that we play football; you know that wasn't intentional. That is never a foul."
+
+The FA backed that view, meaning Yoro will be clear to face Brentford in the Premier League at Old Trafford on Saturday.
+
+However, in the latest edition of Mic'd Up on Sky Sports, Webb said Barrott got it right.
+
+"I think, by and large, most people would see that as a correct decision, with Isak moving quickly on towards that ball," he said.
+
+## How can a decision be both right and wrong?
+
+How on earth can the head of referees say a decision was right, but the FA say it was wrong?
+
+"The alternative view is that Lammens might get there first, but I think it's a little bit debatable," Webb said. "Certainly not clearly wrong."
+
+Not clearly and obviously wrong for a VAR intervention, but clearly and obviously wrong for the FA to rescind the red card.
+
+You wonder how the general fan is supposed to understand it all.
+
+The FA's appeals process is notoriously difficult to predict, especially on highly borderline situations like Yoro.
+
+A commission features three people, usually former players though sometimes there is a retired official is on the panel.
+
+A simple majority is needed, so a club just needs two people to agree with them.
+
+It's why clubs might appeal against red cards when it seems impossible to win, you just never know.
+
+Such was the split of opinion on Yoro, United always stood a chance of at least getting those key two votes.
+
+And this is the crux of appeals process. An FA commission is just the subjective opinion of three people.
+
+Do the appeal again tomorrow with three different panel members, and United might lose.
+
+This is why Pro Ref don't use the outcome of FA appeals to determine how games are officiated.
+
+Two years ago, Brentford's Christian Norgaard won an appeal against a red card at Everton. That was a split 2:1 vote, but enough to say a decision was wrong.
+
+Pro Ref told its referees not to alter their interpretation based on this vote.
+
+Let's throw in another one. The Premier League's Key Match Incidents Panel.
+
+Earlier this season, Brighton appealed against Pascal Struijk's VAR red card at Sunderland.
+
+An FA commission upheld the appeal, but in contradiction the KMI Panel voted the VAR intervention was correct.
+
+Make it make sense, supporters might ask.
+
+This will forever be the problem with officiating, and indeed any hope of true consistency with VAR.
+
+Was Yoro's red card right or wrong? On which side of the fence will the KMI Panel fall?
+
+Football is just a floating mass of subjectivity. Of referees, of VARs, of panel members and of fans. It just depends whose opinion you ask.
+
+## Sporting boss Fonseca dismisses Man Utd fragile talk
+
+![Sporting coach Paulo Fonseca](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ef95/live/0e8cef20-e824-11f1-a094-5fdc692f3e33.jpg)
+
+Sporting coach Paulo Fonseca speaks to the media ahead of the Champions League clash with Manchester United
+
+United have travelled to Lisbon for their next Champions League match on Wednesday (20:00 GMT).
+
+The early dismissal of Yoro at Anfield meant Sporting had no chance to assess any changes Pochettino might have made after he replaced Michael Carrick during the international break.
+
+But despite United sitting 19th in the Premier League, Sporting boss refuses to accept United are "fragile".
+
+"I don't following the reasoning," said Fonseca, who was only appointed on 4 November after the Portuguese club bought him out of his contract at Lyon.
+
+"Manchester is a great team," he said. "I don't believe a lot that great teams are fragile. The last game they played in the Champions League, they were trailing 2-0, then won 3-2 against a very difficult opponent in Roma.
+
+"Moreover, when they have a new head coach, with such world-class players, it's extremely unpredictable to see if they will have a good day or bad day."
+
+United have not won in the Premier League since August and have conceded 19 goals in their past six games in all competitions.
+
+Yet, such was the nature of the Liverpool game, Fonseca has had to watch analysis of Pochettino's time in charge of the United States to get an idea of what to expect.
+
+"Eight minutes, red card. It's impossible to make an analysis," he said.
+
+"I tried to see Pochettino with the United States and what kind of solutions he used. There is some information but it is very difficult to predict."
