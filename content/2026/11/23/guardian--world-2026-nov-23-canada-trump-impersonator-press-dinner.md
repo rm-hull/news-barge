@@ -1,0 +1,67 @@
+---
+title: 'Butt of the joke: Trump impersonator mocks president at Canada press dinner'
+source_url: https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner
+source_site: The Guardian
+source_slug: guardian
+description: Carney watches on as comedian lampoons US leader and his interest in
+  men’s backsides at correspondents’ event Ottawa
+image: https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c88aa5713477d0de2d92033b6c335c
+published: '2026-11-23T00:00:00Z'
+scraped_at: '2026-11-24T02:12:07Z'
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+people:
+- Avi Lewis
+- Damn
+- Donald Trump
+- God
+- Justin Trudeau
+- Katy Perry
+- Louise Arbour
+- Mark Carney
+- Mark Critch
+- Mark McKinney
+- Pierre Poilievre
+locations:
+- Canada
+- Ottawa
+- US
+organisations:
+- House of Commons
+- New Democratic party
+- Oval Office
+---
+
+Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday.
+
+With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada.
+
+“We’re going to have a great deal,” Critch said, channeling Trump’s distinct mannerisms. “There’s only one thing standing in the way: me, because I’m crazy.”
+
+The fake Trump continued that he was “so popular we just had a big, blue wave”, a reference to the Democratic rout of Republicans in this month’s US midterm elections.
+
+He also mocked Trump’s frequent mentions of other men’s physiques, saying of the comedian Mark McKinney, who was portraying Carney, that he had “a great ass – doesn’t he? What a beautiful ass, he’s got such an incredible ass.”
+
+He earned the most laughter of his short appearance for saying of Carney: “I don’t call him the governor to his face, because I’m a coward”. The real Trump has frequently attempted to insult Canada’s leaders by calling them governor, not prime minister, suggesting Canada is a US state.
+
+The annual dinner, attended by media, political leaders and lobbyists, is often defined by carefully written jokes by the staff of party leaders.
+
+Throughout his own 16-minute set, Carney poked fun at his political rivals, the media and the US president.
+
+At one point, he remarked: “Damn, this is a tough room, and I’ve been in the Oval Office. Alone. With its new interior decorator.”
+
+Clips of the dinner, including the crowd laughing at the president, have circulated widely on US media.
+
+The newly appointed governor general, Louise Arbour, also gave a speech, including a nod to the prime minister’s decision to travel extensively around the globe.
+
+“Our prime minister is already getting a lot of attention. Actually, I heard a guy the other day compare him to God. Now seriously, do you know the difference between God and Mark Carney? God is everywhere, and Mark Carney is everywhere except in Ottawa where he’s supposed to be,” she said.
+
+The Conservative leader, Pierre Poilievre, also used the evening to poke fun at his own reputation.
+
+“Some say that Mark has a controlling leadership style. There’s been reports that he yells and micromanages his staff. He acts like a miserable prick to journalists,” he said. “And when I hear things like that, I say once again, he’s stealing all my ideas.”
+
+He attracted a stunned silence, however, for alluding to Justin Trudeau’s relationship with Katy Perry, saying, “Trudeau is running around the world doing to a faded pop princess what he did to Canada” while prime minister, a remark that was widely criticised as demeaning to the pop star.
+
+The New Democratic party leader, Avi Lewis, who has not yet won a seat in parliament, took a shot at Carney’s early exit from the event, as well his own party’s dismal standings. “I do not have a seat in the House of Commons, but when I am given one at dinner, I stay there all night long,” he said.

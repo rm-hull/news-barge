@@ -1,0 +1,183 @@
+---
+title: How does Mauricio Pochettino halt Man Utd's desperate slide
+source_url: https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: How does Mauricio Pochettino halt Manchester United's desperate slide
+  towards the foot of the Premier League
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg
+published: '2026-11-23T00:00:00Z'
+scraped_at: '2026-11-24T02:12:03Z'
+categories:
+- UK
+- News & Politics
+- Sports
+people:
+- Alexander Isak
+- Andrey Santos
+- Ashley Young
+- Benjamin Sesko
+- Bruno Fernandes
+- Carlos Baleba
+- De Ligt
+- Harry Amass
+- Harry Maguire
+- Kobbie Mainoo
+- Leny Yoro
+- Lisandro Martinez
+- Luke Shaw
+- Man Utd
+- Matthijs de Ligt
+- Mauricio Pochettino
+- Michael Carrick
+- Omar Berrada
+- Tommy Docherty
+- Youri Tielemans
+locations:
+- Anfield
+- Carrington
+- Como
+- Crystal Palace
+- England
+- Hull
+- Lisbon
+- Liverpool
+- Old Trafford
+- Southampton
+organisations:
+- Anfield
+- Chelsea
+- Coventry
+- Liverpool
+- MUTV
+- Manchester Airport
+- Manchester City
+- Manchester United
+- Nottingham Forest
+- PSG
+- Pochettino
+- Premier League
+- RB Leipzig
+- Roma
+- Sabah FK
+- Sky Sports
+- Sporting
+- Sunderland
+- Tottenham
+---
+
+![Bruno Fernandes dejected at Anfield](https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg)
+
+Manchester United lost 4-0 at Liverpool in their opening match under Mauricio Pochettino
+
+**Manchester United's Premier League trip to Anfield was described by some as a free hit for new head coach Mauricio Pochettino.**
+
+The theory was expectations for United were so low as they travelled to Liverpool that a positive outcome would be a huge bonus, and anything else was expected.
+
+But Pochettino did not look like a man without pressure after 15 minutes of what turned into a 4-0 defeat.
+
+By that point, his side were already 2-0 behind and down to 10 men. Liverpool's fans were gleefully singing about the Argentine being "sacked in the morning", even though he was only a sixth of the way through his first game in charge.
+
+A day later, United supporters began filtering through Manchester Airport on their way to Lisbon for a Champions League match that marks the next stop in what has turned into a desperate campaign.
+
+The prevailing mood was one of resigned acceptance punctuated by dark humour around what a season in the Championship might look like, and whether Manchester City might be there with them.
+
+United's England midfielder Kobbie Mainoo summed the situation up when he spoke to MUTV after the final whistle at Anfield.
+
+"We're at the lowest we've ever been and no-one's coming to save us," said the 21-year-old.
+
+"There are no helping hands coming, so we've got to work together, lean on each other, keep working and hopefully it will come good.
+
+"It's all about character now."
+
+## Tough tests before the transfer window opens
+
+![Mauricio Pochettino](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7b5d/live/46157f90-e750-11f1-a094-5fdc692f3e33.jpg)
+
+Pochettino has signed a two-and-a-half-year contract
+
+United are giving little away about their plans for the January transfer window.
+
+For now, it is being stressed, Pochettino's priority is to get the most from the players currently at his disposal.
+
+However, there was sympathy with former boss Michael Carrick's belief he had been let down in the summer window and there was a plan to address that.
+
+That situation remains. A striker is thought to be Pochettino's priority given United's only recognised number nine, Benjamin Sesko, is out at least until January with a shin issue that has bothered him since March.
+
+United have a long-standing issue at left-back. First choice Luke Shaw missed his eighth successive game on Sunday and the only other orthodox left-back in senior ranks is England Under-20 international Harry Amass, who didn't even make the bench at Anfield.
+
+However, Pochettino worked with Shaw at the start of his career at Southampton and feels the 31-year-old can be a positive influence on his group.
+
+The reality though is United still have nine games to play before they can make any changes to their squad.
+
+Among those fixtures are home games against Coventry, Nottingham Forest and Sunderland.
+
+Newly promoted Coventry are four points ahead of United, who are second from bottom. Forest and Sunderland are in the two positions immediately above the Old Trafford club.
+
+A trip to Crystal Palace - the one side below United, and the other Premier League club to replace their coach during the international break - looms on 13 December.
+
+After Wednesday's encounter with Sporting, Pochettino's side have one Champions League game before the end of the year - against RB Leipzig on 8 December.
+
+Any solutions to be found to the current mess over the next five weeks have to come from within. If they don't, light-hearted discussions about a first relegation since 1973-74 under Tommy Docherty start to get serious.
+
+"They have got enough in that squad to get themselves out of the bottom three," Ashley Young - a Premier League winner with United - told Match of the Day.
+
+"They have not been showing that, but Pochettino has only just come in. He is going to want to get his team set up in a way that they are hard to beat. Right now, they do not look like they are hard to beat.
+
+"It doesn't look like there is that togetherness. He has got to find a way to get that out of them. I am sure he will be able to do that when he has been longer in the job."
+
+Man Utd shouldn't worry about relegation right now - Young
+
+## Fixing a leaky defence
+
+Pochettino shut down a question about United's terrible recent defensive record when he spoke to the media immediately after the game at Anfield.
+
+"Tell me only about the circumstance today," he said. "I wasn't [here] in the past."
+
+That is true - and may also have been a useful diversion exercise in avoiding a dissection of a defensive unit he is still getting to know.
+
+However, Pochettino knows United have kept one clean sheet all season - against Azerbaijani champions Sabah FK in September. He will also know United have now conceded 19 goals in their past six games.
+
+Pochettino's big decision at Liverpool was to pick Matthijs de Ligt in the centre of a three-man defence ahead of Harry Maguire.
+
+"He played in the Champions League you know, before the internationals," said the former Tottenham, PSG and Chelsea boss.
+
+It was not clear when Pochettino meant.
+
+In the 4-1 loss at Como on 21 October, De Ligt made his first appearance in 11 months following major back problems that eventually required surgery, largely because Leny Yoro was suspended and Lisandro Martinez was injured. He then played for two minutes against Roma on 3 November, when he was thrown on as then manager Carrick searched desperately for a winner.
+
+Most goals can be broken down into a number of mistakes that compound to make an eventual negative outcome.
+
+Team positioning has been mentioned as a reason De Ligt found himself exposed under a high ball at Anfield. However, his failure to deal with it presented Alexander Isak with a clear run at goal and prompted Yoro to make the tackle that led to his controversial dismissal, which Pochettino felt shaped the 82 minutes that followed.
+
+But United have been conceding bad goals all season. Numerous players have been culpable.
+
+There is a limit to what Pochettino can do in the time available. However, he wants to maximise what he can do.
+
+Whereas Carrick tended to let his starting players have a day off after matches, the new regime has decided a warm-down session at Carrington is the better option.
+
+And defensive organisation was surely one of the key points his coaching team had on their list of things to work on when the players began preparations to face Sporting on Wednesday.
+
+## Will January be the answer Man Utd need?
+
+![Manchester United midfielder Andrey Santos](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/88f0/live/cbe25ba0-e752-11f1-99b6-a35a62fa4264.jpg)
+
+Midfielder Andrey Santos has started three out of 10 Premier League games since the opening-day defeat at Hull
+
+With £70m summer arrival Carlos Baleba injured for the second time since the start of pre-season, Pochettino must find a way to protect United's goal, which might require additional support in midfield.
+
+The strengths of Mainoo and Youri Tielemans are with the ball. Either with three in the middle of defence or a third man in midfield, a way needs to be found to stop opposition attacks running straight at the defence.
+
+In his recent interview with Sky Sports, United chief executive Omar Berrada said the club needed to be "disciplined" in the transfer market and avoid spending huge sums on players who would not necessarily make the squad better.
+
+But the fact former Chelsea midfielder Andrey Santos went five games between Premier League starts under Carrick from the opening-day defeat at Hull - and was only introduced for the final three minutes at Anfield - suggests there are doubts over the Brazilian, who cost £48m in the summer.
+
+Underneath that is the knowledge United borrowed from their revolving credit facility around all their major summer purchases and did the same again earlier this month when Pochettino was hired at a cost of just over £7.5m.
+
+In public accounts released last week, United confirmed there was another £160m available in credit - but also they owe £417m in outstanding transfer fees, £236m of which is due within 12 months.
+
+Neither before nor after the transfer window opens do any simple solutions to United's predicament present themselves.
+
+Last season, fellow 'big-six' club Tottenham did not save themselves until the final day of the season.
+
+Confidence remains high at Old Trafford the situation will not be quite so dire for them, but it could be a very bumpy ride.

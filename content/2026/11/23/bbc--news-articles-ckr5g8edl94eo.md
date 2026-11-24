@@ -1,0 +1,73 @@
+---
+title: Why Jensen Huang proved too big to fire
+source_url: https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Huang's role at the centre of his company's journey to lynchpin of AI
+  proved crucial.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg
+published: '2026-11-23T00:00:00Z'
+scraped_at: '2026-11-24T02:10:35Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Jensen Huang
+- Nvidia
+- Sam Altman
+- Steve Jobs
+- Trump
+- Xi
+locations:
+- China
+- US
+- White House
+organisations:
+- Apple
+- Congress
+- Nvidia
+- OpenAI
+---
+
+'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia
+
+**There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese spy.**
+
+The shock announcement of his return to the chipmaker was followed by the addition of one trillion dollars of stock market value to Nvidia.
+
+Then it was the moment President Trump admitted the obvious: that it was his "You're unfired" message direct to the board that changed the decision.
+
+The nature of the U-turn is clear from what Nvidia was saying just last week. The board was clear that Huang was not returning.
+
+The interim management had also suggested some shifts in strategy away from the Huang era.
+
+All of that is now in the dustbin of corporate history.
+
+This is a comeback that exceeds the return of Sam Altman to OpenAI or Steve Jobs to Apple, in terms of sheer numbers.
+
+The reason for the turnaround was pretty clear in the first statement. The US government had said there were no national security concerns with his reinstatement. Such a reassurance could only have come from the White House.
+
+And an hour later President Trump revealed that he had spoken directly to the Nvidia board.
+
+This is where I go back to my own conversation with Jensen Huang last September, where he openly advocated for allowing Chinese access to advanced Nvidia microchips. He was one of the few people in the world who could credibly say he knew the minds of both President Trump and President Xi.
+
+Reports in the US say there were splits in the Trump administration between China hawks wanting to restrict exports, and others who backed Huang's argument.
+
+There is still an independent investigation into the company's compliance with export controls.
+
+Nvidia's chips are critical to the development of frontier artificial intelligence systems. Jensen Huang's influence over this pipeline meant he was more important than many world leaders.
+
+This is a move of importance not just to the flagging US tech stock boom, but the future of the world economy, of US politics, and of course the geopolitical race between the US and China.
+
+The recent doubts about Nvidia struck at the heart of the AI boom. This is after all a company actually generating phenomenal amounts of real sales - over $400bn (£305bn) this year, compared with $27bn four years ago.
+
+Nvidia's stock market valuation has been used as a critical form of financing for other companies to construct data centres.
+
+A complex web of loans, guarantees, and shareholdings helped spread and sustain the AI boom. Jensen Huang's exit had raised doubts about the fragility of this system, and the interim management had suggested a more "disciplined and selective" approach.
+
+The concerns about so-called "circular financing" still raise concerns from some analysts. The public backlash against datacentres and AI evident at the US midterm elections also point to a changed environment.
+
+The Democrats in Congress have vowed to investigate both the President and Mr Huang, and he is due to appear before them next week. Jensen Huang is at the centre of it all - the technology, the financing, the US politics and the geopolitics.
+
+Today has proven Jensen Huang was in fact, too big to fire.
