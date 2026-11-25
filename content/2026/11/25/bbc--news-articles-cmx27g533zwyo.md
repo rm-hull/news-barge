@@ -1,0 +1,117 @@
+---
+title: Russia's own figures show almost 500,000 deaths in war in Ukraine
+source_url: https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Leaked data reveal how the full-scale invasion of Ukraine has fundamentally
+  changed mortality patterns in Russia.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-25T08:23:14Z'
+categories:
+- UK
+- News & Politics
+- History
+people:
+- Ilya Barabanov
+- Vladimir Putin
+- Volodymyr Zelensky
+locations:
+- Afghanistan
+- Andriivka
+- Bakhmut
+- Buryatia
+- Crimean Bridge
+- Donetsk
+- Eastern Siberia
+- Kaluga
+- Kostroma
+- Luhansk
+- Maloyaroslavets
+- Moscow
+- Pyongyang
+- Russia
+- St Petersburg
+- Tyva
+- Ukraine
+- Volga
+- Zabaykalsky Krai
+organisations:
+- BBC
+- Cyber Partisans BY
+- Mediazona
+- Red Army
+- Rosstat
+- Silent Crow
+- UA Losses
+---
+
+![A view of a massive burial site of Russian soldiers killed during the country's military action in Ukraine, in the rural Volga region of Kostroma](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg)
+
+Russia does not provide numbers of its fallen soldiers
+
+**At least 490,334 Russian soldiers have died since the start of the war in Ukraine in 2022, according to Russian government statistics analysed by the BBC.**
+
+The leaked Rosstat data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia, and show the high cost paid in human life in a war that Vladimir Putin had assumed would last only days but is now almost five years old.
+
+BBC Russian has had access to more than 11 million death records from 2021 to September 2026, after a hack by Belarusian group Cyber Partisans BY and Ukraine's Silent Crow.
+
+Russia's statistics agency admitted to a cyber-attack, but denied any protected information had been leaked.
+
+Together with independent Russian outlet Mediazona, BBC Russian has compared the Rosstat data with its own list of confirmed military deaths, pulled from open sources since the start of the invasion, and it has found matches for 90% of the records.
+
+Military experts estimate that the BBC's list of 290,012 deaths, gleaned from official reports, social media, new memorials and graves, may account for 45-55% of the true death toll, which would range from 527,295 to 644,471.
+
+The records show that 65% of 18 to 24 year-olds in Russia who lost their lives in 2025 died in the war. For those aged 25-34 the number was 59%. Only among 45 to 54 year-olds does cardiovascular disease claim more Russian lives than the conflict.
+
+The data also reveal the extent of losses in specific areas of Ukraine. Some 20,000 Russian soldiers died fighting for control of 10 Ukrainian villages whose combined pre-war population was 12,000.
+
+During the fight for one small village called Andriivka, south of the town of Bakhmut in Donetsk region, 1,122 Russians lost their lives. Before the war 74 people lived there.
+
+Russia does not give public figures for losses sustained since the war began in February 2022. And two years ago Rosstat stopped publishing data of deaths from external causes, which was used to gauge the extent of military losses.
+
+For example, only 70% of deaths we have established of soldiers from the occupied regions of Donetsk and Luhansk in eastern Ukraine who fought in the Russian army were accounted for in the Rosstat files.
+
+Overall, the Rosstat dataset confirms the trends that we have observed with our own count.
+
+Ukrainian losses were last put at about 50,000 by President Volodymyr Zelensky in July 2026, but another list based on open sources by the anonymous UA Losses website puts the figure at 115,952.
+
+## How we came to a figure near half a million
+
+The Rosstat dataset contains no names but does include ages, places of residence, places of death and also circumstances of death.
+
+We have filtered the records first by location, leaving only Ukraine as well as Russian border regions that saw incursions by the Ukrainian army.
+
+Next, we identified 425,174 entries explicitly indicating a military-related cause of death, such as explosions or shrapnel during combat operations.
+
+As this count could include civilians, we filtered out women as well as men outside the 18-65 age group. And if someone lived and died in the four Ukrainian regions occupied by Russia, we excluded them as a possible civilian – unless he had a record of military service attached to his entry.
+
+Another 14,093 entries were identified by looking at employment, and 51,067 were recorded in the database as deceased on the basis of a court ruling. This often happens when a soldier goes missing in a combat zone for more than six months and their body has not been recovered.
+
+Again, we filtered out civilians by only counting deaths in the war zones in Ukraine and Russia.
+
+According to BBC Russian's analysis of the leaked files, in the first year of the war the average age of those killed was 34. By 2025, as prisoners and contract soldiers entered the ranks, it had risen to 40 (38 according to our own list).
+
+Some of Russia's poorest regions in Eastern Siberia account for a disproportionately large share of the losses. Men from Tyva, Buryatia and Zabaykalsky Krai are 20-25 times more likely to die in the war than residents of the biggest cities of Moscow and St Petersburg.
+
+![A portrait of a Russian soldier killed in Ukraine sits on a lamp post in central Maloyaroslavets, 110 km southwest of Moscow, in the Kaluga region](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/24c6/live/e4989610-e832-11f1-917e-35f1674fb52c.jpg)
+
+In most regions, the distribution of deaths based on Rosstat data differs from that in the BBC's list by just a few tenths of a percentage point.
+
+At least 5,017 foreigners are among those who died fighting for Russia, according to our analysis of the Rosstat files, including 1,031 Uzbeks and 720 Tajiks. We have left out Ukrainians from this count to avoid including civilians.
+
+This is a conservative estimate as dual nationals are listed as Russians in the database, and there is no reference to North Koreans who died repelling the Ukrainian incursion into Russia in 2024.
+
+The BBC identified 2,304 North Korean soldiers who died there by analysing satellite imagery and official photographs of a newly built memorial in Pyongyang.
+
+The leaked Russian statistics may not be complete but taken in conjunction with BBC Russian's own work they are significant.
+
+In the context of a war that has lasted four years and 10 months, these are high numbers for Russia, when compared with the Soviet war in Afghanistan that ended in 1989.
+
+In that 10-year war, an estimated 15,000 Red Army troops died, and an estimated one million civilians were killed.
+
+*Additional reporting by Ilya Barabanov*
+
+* + Published30 December 2025![A burial site of Russian soldiers killed during the country's war in Ukraine, in the rural Volga region of Kostroma, 300kms from the Russian capital of Moscow.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/825a/live/91bf3ca0-e57c-11f0-b67b-690eb873de1b.jpg)
+* ![A soldier, call sign Musician, stands in a trench under a cover of tree logs in eastenr Ukraine](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg)
+* + Published17 November![Crimean Bridge partly collapses](https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png)

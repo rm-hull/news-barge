@@ -1,0 +1,80 @@
+---
+title: Energy bills in Great Britain to rise 26% in January, lifting annual bills
+  over £2,000
+source_url: https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap
+source_site: The Guardian
+source_slug: guardian
+description: Ofgem’s price cap will increase for third quarter in a row after rise
+  in wholesale cost of gas
+image: https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b276989316f4f5423f498cca9cca670d
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-25T08:23:07Z'
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+people:
+- Craig Lowrey
+- Danny Gross
+- Lorwey
+- Miatta Fahnbulleh
+locations:
+- England
+- Europe
+- Great Britain
+- Gulf
+- Hormuz
+- Iran
+- Middle East
+- Russia
+- Scotland
+- Ukraine
+- Wales
+organisations:
+- Cornwall Insight
+- Friends of the Earth
+- Goldman Sachs
+- Ofgem
+- Treasury
+---
+
+Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of Ukraine, as the cap on energy bills climbs for a third straight quarter.
+
+Gas and electricity prices will rise by 26% from January under the government’s new price cap after an increase in wholesale prices not experienced since the first winter after the invasion.
+
+The regulator for Great Britain, Ofgem, said about 22 million households covered by the price cap would need to pay an average equivalent to £2,166 a year for gas and electricity from the new year, up from £1,723 under the current quarterly cap.
+
+The increase means that the average household will be forced to pay almost £600 a year more on their dual-fuel bill than before the start of the Middle East crisis. There was a 4% rise at the start of October and a 13% increase at the start of July.
+
+About a third of households that pay for their gas and electricity on fixed tariffs will not be affected by the latest price cap rise. However, the highest energy price cap since early 2023 is still expected to reignite calls for the government to help struggling families and reduce reliance on fossil fuels.
+
+The cap is a limit on how much energy suppliers can charge for a unit of electricity or gas, not a ceiling for how high bills can rise.
+
+Miatta Fahnbulleh, the energy secretary, said: “I know people are deeply concerned by another rise in energy bills. For too long, British families have been paying the price for conflicts overseas and volatile fossil fuel markets.”
+
+The government has promised to give “breathing space” to struggling households this winter through a one-off payment of £100 in January for 20 million households in council tax bands A to D.
+
+The payment will be in addition to the warm home discount, which offers about 6 million means-tested households in England, Wales and Scotland £150 off winter fuel bills.
+
+“But there is more to do to take the pressure off families and bring bills down for good,” Fahnbulleh said. “That means more cheap, clean, homegrown power so we’re less reliant on expensive fossil fuels, and reforming our broken energy system so it’s fairer for British people.”
+
+The government help remains well below the surging prices for gas, electricity and road fuels, which have forced up living costs in the nine months since the US-Israeli strikes on Iran.
+
+Energy bills are expected to only fall slightly in April, when the price cap is next set, according to a new forecast from Cornwall Insight on Wednesday. The energy consultancy said market volatility caused by disruption to the strait of Hormuz meant its predictions could change “several times” in the coming months.
+
+Europe’s benchmark gas price has tripled in response to a global supply squeeze, that meant the continent entered the cooler months with gas stores at some of the lowest levels ever recorded.
+
+after newsletter promotion
+
+The price could climb even higher, according to Goldman Sachs, if disruption to Gulf gas exports causes storage facilities to empty before the end of the heating season.
+
+Craig Lowrey, a principal at Cornwall Insight, warned that if the Middle East conflict continues, current forecasts suggest bills could remain about £2,000 a year for the typical household until the end of 2027.
+
+Lorwey said the forecast fall of 1% in April was “so small that many households will barely notice it, and by then the £100 payment, for those who are eligible, will be a distant memory”.
+
+Ministers have sought to cushion the blow by moving electricity levies into general taxation over the past year, which has shaved about £150 a year off costs. The Treasury also promised to keep the 5% VAT levy off electricity bills for 29 million households until July next year, which should extend the tax relief to £50 a year.
+
+Danny Gross, a climate campaigner at Friends of the Earth, called on the government to accelerate the shift to “cheap, homegrown renewable energy” to cushion energy bills from the volatility of the fossil fuel markets.
+
+“This will cut bills, create long-term jobs, strengthen our energy security and tackle the climate crisis at the same time,” Gross said. “But people need relief now, not just promises. Ministers must introduce a social tariff to protect low-income households and move the hidden levies piled onto electricity bills into general taxation,” he added.

@@ -1,0 +1,97 @@
+---
+title: IVF, elective abortion, gender-affirming care and VAD to cease under Catholic
+  ownership of private hospitals
+source_url: https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb
+source_site: The Guardian
+source_slug: guardian
+description: ACCC approves Calvary’s takeover of 14 hospitals around Australia, with
+  critics concerned move will add to pressures on public health system
+image: https://i.guim.co.uk/img/media/6ebe6074312b0df5c8a62642fa32e3fe391286ba/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f778cc5cc23353eea20dc19f4d58f4bd
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-25T08:23:06Z'
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
+people:
+- Amanda Cohn
+- Calvary
+- John Hunter
+- Linda Swan
+- Nisha Khot
+- Prof Ada Cheung
+- Ryan Park
+locations:
+- Brisbane
+- Calvary Mater
+- Hobart
+- Holmesglen
+- John Hunter
+- Melbourne
+- NSW
+- Newcastle
+- Northern Territory
+- South Australia
+- Victoria
+organisations:
+- ACCC
+- Australian Competition and Consumer Commission
+- Calvary
+- Catholic Health Australia
+- Go Gentle
+- Healthscope
+- IVF
+- NSW Greens
+- Ranzcog
+- Royal Australian and New Zealand College of Obstetricians and Gynaecologists
+- Trans Health Research Group
+---
+
+Advocates say access to voluntary assisted dying, IVF, elective abortions and gender-affirming care is under threat after the competition watchdog approved the takeover of 14 private hospitals by a Catholic healthcare provider.
+
+The Australian Competition and Consumer Commission (ACCC) announced on Wednesday it had approved the takeover of the private hospitals by not-for-profit Catholic healthcare operator Calvary from collapsed provider Healthscope.
+
+In a statement on Wednesday, Calvary welcomed the ACCC’s decision.
+
+A spokesperson for the provider confirmed that under the proposed acquisition, reproductive services including IVF, elective abortions, voluntary assisted dying (VAD) and gender reassignment procedures would cease at any hospitals currently offering those services.
+
+The acquisition, for which a date is not yet confirmed, is still dependent on the issuing of hospital licenses by state governments.
+
+Ahead of the ACCC’s announcement on Wednesday, the NSW health minister, Ryan Park, announced the state government would step in to support access to IVF at two of the hospitals, John Hunter and Newcastle private hospital, through theatre access at the publicly-run John Hunter hospital.
+
+Park said “the vast majority of [other] services will either continue or be available through alternative local providers”.
+
+The 14 hospitals include six in NSW, four in Victoria, two in Brisbane, and one each in the Northern Territory and South Australia. They include rehabilitation clinics as well as private hospitals.
+
+The ACCC has already approved Calvary’s acquisition of Hobart private hospital, with the provider assuming responsibility next month. It took over Holmesglen private hospital in Melbourne last month.
+
+The regulator’s assessment was limited to examining the acquisition’s competition impacts, finding there was “no real likelihood of any operator other than Calvary buying the 14 hospitals”, which were unlikely to remain open otherwise.
+
+But it acknowledged the concerns raised by medical practitioners and community members “that some services would no longer be provided if the acquisition went ahead”.
+
+## ‘Pay more and wait longer’
+
+As a Catholic healthcare provider, Calvary says it is guided by the Catholic Health Australia’s code of ethics. The guidelines say any action or omission that “causes death with the purpose of eliminating all suffering” is not permissible.
+
+The provider has said it will work with clinicians to provide pathways for treatments no longer offered under the acquisition.
+
+Dr Linda Swan, CEO of charity Go Gentle, described the ACCC’s decision as “disappointing but not unexpected”, saying the organisation was “deeply concerned that Calvary’s acquisitions will reduce choice for dying people”.
+
+“This is not as simple as Calvary wants us to believe. Relocating seriously unwell patients at the end of life is not straightforward and can cause considerable distress and trauma.”
+
+“At the same time, the public hospital system is facing ongoing bed shortages. Redirecting more patients into that environment will inevitably increase those pressures.”
+
+The NSW Greens health spokesperson, Amanda Cohn, said the state government had added “insult to injury” by allowing Calvary to continue to operate the troubled public-private partnership at Calvary Mater hospital in Newcastle.
+
+Cohn, who chaired a parliamentary inquiry into the hospital, said patients receiving cancer care or end-of-life care at the hospital had already had to be transferred to Newcastle private to be able to access voluntary assisted dying.
+
+“Where will these patients go, now that this is not an option?” she said.
+
+Dr Nisha Khot, president of the Royal Australian and New Zealand College of Obstetricians and Gynaecologists (Ranzcog) said the acquisition could put “more pressure on the public healthcare system in the places where Calvary is the only private option”.
+
+“Women who are on a public waitlist, for example, for gynecological surgery, will not get their gynecological surgery because instead somebody who’s having IVF is being prioritised.”
+
+Endocrinologist Prof Ada Cheung, head of the Trans Health Research Group, said state governments needed to step in to guarantee all forms of care.
+
+“Gender-affirming surgery is mainly delivered privately at significant cost to patients, and public access is very limited across Australia. When options are this scarce, losing any of them means people travel further, pay more and wait longer.”
