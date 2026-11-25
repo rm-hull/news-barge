@@ -1,0 +1,85 @@
+---
+title: US blacklists Megaspeed, but leaves potential loophole for lower-performance
+  chips — company at center of Jensen Huang affair scandal added to entity list
+source_url: https://www.tomshardware.com/uk/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: The U.S. Department of Commerce has added Megaspeed and six affiliated
+  entities to its Entity List due to concerns about the diversion of advanced AI accelerators
+  to China.
+image: https://cdn.mos.cms.futurecdn.net/fz9pYfMDdnCBzedQbzBuUR-2000-80.jpg
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-25T19:14:05Z'
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+people:
+- Alice Huang
+- Anton Shilov
+- Biden
+- Chris McGuire
+- Jensen Huang
+- Megaspeed
+- Tom
+locations:
+- Brazil
+- China
+- Indonesia
+- Malaysia
+- Singapore
+- Taiwan
+- Thailand
+- U.S
+organisations:
+- AMD
+- BIS
+- Bureau of Industry and Security
+- Council on Foreign Relations
+- Department of Commerce
+- EAR
+- Entity List
+- Get Tom's Hardware
+- Google News
+- Megaspeed
+- Microsoft
+- Ministry of Investment, Trade and Industry
+- National Security Council
+- Nvidia
+- TSMC
+- Tom’s Hardware
+- U.S. Department of Commerce
+- U.S. Export Administration Regulations
+---
+
+![Megaspeed logo](https://cdn.mos.cms.futurecdn.net/fz9pYfMDdnCBzedQbzBuUR-1920-80.jpg)
+
+The U.S. Department of Commerce has added Megaspeed and six affiliated entities to its Entity List due to concerns about diversion of advanced AI accelerators to China. However, unlike previous additions of companies suspected of similar activities, the department did not apply a special foreign direct product rule (FDPR) designation to Megaspeed, which raised questions about the effectiveness of the restrictions. While the omission potentially limits the scope of the sanctions, existing U.S. export controls should still restrict Megaspeed's access to advanced processors from AMD and Nvidia. Former Megaspeed executive Alice Huang, allegedly a Chinese intelligence asset, is the woman at the heart of the Jensen Huang scandal, which saw Nvidia's CEO resign and then be reinstated as head of the company in recent days.
+
+![tsmc](https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1200-80.jpg)
+
+Chris McGuire, a fellow at the Council on Foreign Relations and a former Biden administration official who dealt with export controls at the National Security Council, noted that neither Megaspeed nor any of the six associated entities received a so-called Footnote 4 designation on the Entity List. According to McGuire, the Department of Commerce had previously applied the designation to Chinese companies blacklisted over concerns about their access to advanced AI processors.
+
+McGuire claims that without the application of the Entity List-specific FDPR, the new restrictions will have essentially no effect on Megaspeed's ability to procure Nvidia's AI processors since, while they are developed in the U.S., the vast majority of them are produced by TSMC in Taiwan.
+
+While McGuire acknowledged that new U.S. export controls that took effect on November 19 already require licenses for shipments of high-end AI accelerators to Malaysia, Singapore, Thailand, Indonesia, and Brazil, with exemptions for U.S.-based companies and their subsidiaries (i.e., Google or Microsoft can get Rubin-based machines for their data centers in the said countries, but Megaspeed or other local players cannot), he questioned the rationale behind Megaspeed's addition to the Entity List without Footnote 4.
+
+It is necessary to note that the new country-wide controls impose a license requirement, not an outright ban, whereas the addition of Megaspeed to the Entity List subjects license applications to a presumption of denial, which is a reason why the designation has practical effect even without Footnote 4. Meanwhile, McGuire suggested that the omission could be either a regulatory oversight or a deliberate decision to reduce the scope of restrictions.
+
+Companies on the Entity List typically cannot procure products subject to the U.S. Export Administration Regulations (EAR) without a license from the Bureau of Industry and Security (BIS). Such license applications are reviewed with a presumption of denial, and this certainly concerns Megaspeed and entities linked to it. Footnote 4 substantially expands the scope of products subject to the EAR to include foreign-made goods that use American technology or are made using American technologies.
+
+Meanwhile, advanced AI accelerators from AMD and Nvidia are already subject to a separate Advanced Computing FDPR (§734.9(h) of the EAR), which has worldwide geographical coverage irrespective of where the chips are made. In fact, BIS explicitly retained the worldwide scope of this provision in its November 19 amendments to the EAR. Therefore, Megaspeed's addition to the Entity List should effectively cut the company off from qualifying advanced AI accelerators even in the absence of Footnote 4.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+What the absence of Footnote 4 could mean, though, is that Megaspeed may retain access to certain foreign-made lower-performance AI GPUs, networking chips, and other data center hardware that falls outside the scope of the EAR. At this point, it remains unclear whether the Department of Commerce deliberately opted for a narrower set of restrictions.
+
+Meanwhile, Malaysia's Ministry of Investment, Trade and Industry announced on Tuesday that it would advise all data center operators in the country against the provision of infrastructure, space, or services to the seven blacklisted entities, a move that could affect Megaspeed's ability to operate its existing AI infrastructure in Malaysia, regardless of the scope of U.S. export restrictions.
+
+
+
+*Download the Tom's Hardware app for up-to-the-minute updates on* * iOS* * and* * Android**. Also follow* * Tom's Hardware on Google News**, or* * add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+![Anton Shilov](https://cdn.mos.cms.futurecdn.net/uMZ5kNphxA2Ut6whdLaSQV-140-80.png)
+
+Anton Shilov is a contributing writer at Tom’s Hardware. Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.

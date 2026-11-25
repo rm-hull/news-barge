@@ -1,0 +1,85 @@
+---
+title: Poundland falls into administration with 11,000 jobs at risk
+source_url: https://www.independent.co.uk/news/business/poundland-andy-burnham-usdaw-jonathan-reynolds-government-b3091616.html
+source_site: The Independent
+source_slug: independent
+description: The chain has entered insolvency after failing to strike a deal before
+  a key deadline late on Wednesday.
+image: https://static.independent.co.uk/2026/11/25/16/99a1ec5280ea1b2cfed92c85b584e00dY29udGVudHNlYXJjaGFwaSwxNzk1NzA0MTgw-2.86343878.jpg?width=1200&height=800&crop=1200:800
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-25T19:12:18Z'
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+people:
+- Andy Burnham
+- Bally Auluk
+- Jonathan Reynolds
+- Mark Newton-Jones
+locations: []
+organisations:
+- AlixPartners
+- B&M
+- Gordon Brothers
+- Government and Usdaw
+- Martin Property Group
+- Poundland
+- Tesco
+- Xyra Holdings
+- Zachert Private Equity
+---
+
+Discount retailer Poundland has fallen into administration after failing to secure a takeover deal, putting around 11,000 jobs at risk.
+
+The chain, which runs roughly 600 stores, has held urgent talks over the past month to seek a buyer but has entered insolvency after failing to strike a deal before a key deadline late on Wednesday.
+
+Prime Minister Andy Burnham said the retailer is “part of the fabric” of high streets across the country and “the news that it has gone into administration just weeks before Christmas will be deeply concerning” for workers and their families.
+
+AlixPartners confirmed that experts from the corporate finance firm have been hired as administrators for Poundland.
+
+The retailer will continue to trade from its stores as the administrators seek a sale of the retailer and its assets, such as stores.
+
+Gordon Brothers bought the business for £1 early last year before overseeing a major overhaul, which included shutting more than 100 shops.
+
+Poundland’s ownership had received a number of offers, including from Irish real estate firm Martin Property Group, investment firm Xyra Holdings and German investment firm Zachert Private Equity but failed to secure a deal.
+
+![Gordon Brothers have faced mounting political pressure to protect the chain’s future (PA)](https://static.independent.co.uk/2026/11/25/14/169323859bedfa3719b312e7c4e5ce89Y29udGVudHNlYXJjaGFwaSwxNzk1NzAzNDYx-2.86342043.jpg?quality=75&width=640&auto=webp)
+
+Administrators said the sale talks failed to “identify a viable solvent solution” for Poundland as a whole.
+
+It is likely that the group will be broken up, with retailers such as Tesco and B&M already having expressed interest in buying parts of the company, including stores.
+
+A spokeswoman for the administrators said: “We appreciate this is a deeply concerning time for all involved – customers, suppliers and, in particular, Poundland colleagues.
+
+“Our priority now is to work with all stakeholders, including representatives from Government and Usdaw, as we identify the best possible route forward.”
+
+Gordon Brothers has faced mounting political pressure to protect the chain’s future and MPs have accused it of deliberately cutting off funds and pushing the retailer to the brink of insolvency.
+
+Executives met with Business Secretary Jonathan Reynolds on Monday for an update on the process amid hopes that a sale could still be secured.
+
+Following the insolvency, the Prime Minister said: “The news that it has gone into administration just weeks before Christmas will be deeply concerning for workers and their families.
+
+“We want every effort made to secure a deal that protects jobs and keeps as many shops open as possible.
+
+“While it is worrying, going into administration does give other potential buyers the opportunity to engage and we will work hard with all the relevant parties to ensure the best possible outcome.”
+
+A committee of MPs has also called Mark Newton-Jones, Gordon Brothers regional managing director, to appear in Parliament to give assurance that it will not act to liquidate Poundland’s stock or act in the insolvency process.
+
+![Gordon Brothers has faced mounting political pressure to protect the chain’s future (PA)](https://static.independent.co.uk/2026/11/25/17/dcdbd9ac3d0320243d18fa22b50bf970Y29udGVudHNlYXJjaGFwaSwxNzk1NzEyMDg4-2.80614958.jpg?quality=75&width=640&auto=webp)
+
+A spokesman for Gordon Brothers said: “First and foremost, our thoughts are with Poundland colleagues. We recognise how difficult the continued uncertainty is for them.
+
+“Efforts to preserve as many jobs and stores as possible will continue, led by the administrators.
+
+“Commercial negotiations with interested parties for both the whole of the company and with established retailers interested in acquiring substantial portions of the business will now continue, led by the administrators, and conclude through the administration process.
+
+“Despite a reduced cost base, looking forward, the business is still vulnerable to inflationary pressures or any downturn in sales and margin.
+
+“We recognise and we are thankful for all the hard work and effort by management and colleagues throughout.”
+
+Bally Auluk, national officer of the Usdaw union, says: “This is devastating news for our members, who were only recently praised by management for helping to turn the business around and now face the threat of losing their jobs.
+
+“There is never a good time for this to happen, but just before Christmas has to be the worst.
+
+“This decision has been made by the owners Gordon Brothers, despite failing to engage with Usdaw, which is a disgraceful way to treat our members.”
