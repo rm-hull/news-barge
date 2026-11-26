@@ -1,0 +1,48 @@
+---
+title: Razer China partners up with Durex for a limited-edition kit of mousepad and
+  condoms — Long-Lasting Battle Armor meets Heavy Armored Beetle
+source_url: https://www.tomshardware.com/peripherals/razer-china-partners-up-with-durex-for-a-limited-edition-kit-with-a-mousepad-and-condoms-long-lasting-battle-armor-meets-heavy-armored-beetle
+source_site: Tom's Hardware
+source_slug: toms-hardware
+description: Razer China partners up with Durex for a limited-edition kit of mousepad
+  and condoms — Long-Lasting Battle Armor meets Heavy Armored Beetle
+image: https://cdn.mos.cms.futurecdn.net/LvzzCmtJd89Gi5SbhDaP6o-1536-80.png
+published: '2026-11-25T00:00:00Z'
+scraped_at: '2026-11-26T03:31:22Z'
+categories:
+- Technology & Software
+- Hardware
+people:
+- Bruno Ferreira
+- Razer Gillette
+locations:
+- China
+- Dùlěisī
+organisations:
+- Chinese League of Legends Pro League
+- Durex
+- Dài Léishé
+- Get Tom's Hardware
+- PC
+- Razer
+- Tmall
+- Tom's Hardware
+---
+
+![Razer-Durex partnership](https://cdn.mos.cms.futurecdn.net/LvzzCmtJd89Gi5SbhDaP6o-1536-80.png)
+
+Razer, the brand best-known for its gaming peripherals and laptops, has another quirky collaboration. This time around, the Singapore-American company managed to squeeze in a partnership with Durex for a limited-edition pack of a Razer Goliath mousepad with two Razer-branded Durex Performa delay condoms.
+
+Before everyone gets too excited, this partnership is specific to the China region. Prospective gamers hoping for a bit of extra after-match fun can reportedly get their hands on the package in two ways: as post-purchase gifts at the Razer or Durex stores on JD.com, or at Tmall's Durex store via redeeming points or as a special offer during live-stream events. There will also be a giveaway held on Dec. 7, though no further details were provided.
+
+There's a lot of inter-cultural play in this promotion, as the Goliathus mouse pad is named Heavy Armored Beetle in China (重装甲虫), while the specific Durex condom variant is 持久战甲, roughly "long-lasting battle armor," or protection — plus, both contain the armor/shell symbol 甲. The doubles fun continues with "DLS", as it can be read as "take Razer" (Dài Léishé) or the local pronunciation of Durex, Dùlěisī. The partnership's slogan is "for gaming, bring Razer; for romance, bring Durex."
+
+Razer and Durex may stand out as quite the odd couple, but the condom maker has been a sponsor of the Chinese League of Legends Pro League since 2023. Meanwhile, Razer is no stranger to quirky collaborations, as we've seen Razer Gillette razors, Razer-Panerai watches, sneakers, pickleball paddles, Dolce & Gabbana-branded headsets, and even tea. The younger Chinese demographic is reportedly more open to this type of initiative, with unconventional branding pairings having good market uptake.
+
+Online commenters were quick to exercise their proverbial mouths, questioning if the target gamer demographics would have a use for the condoms to begin with, and some suggested the decision to offer only two per pack was probably wise. Some outlets were cracking jokes about RGB lighting on the rubbers, too.
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Bruno Ferreira](https://cdn.mos.cms.futurecdn.net/ZQiPPaXaAuQ4VrVEYnnR7G-140-80.png)
+
+Bruno Ferreira is a contributing writer for Tom's Hardware. He has decades of experience with PC hardware and assorted sundries, alongside a career as a developer. He's obsessed with detail and has a tendency to ramble on the topics he loves. When not doing that, he's usually playing games, or at live music shows and festivals.
