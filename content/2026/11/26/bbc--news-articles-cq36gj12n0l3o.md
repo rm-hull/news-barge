@@ -1,0 +1,101 @@
+---
+title: UK net migration at lowest level since 1997 as asylum claims also fall
+source_url: https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Net migration figures of 77,000 in the year to the end of June mark the
+  lowest this century outside of the Covid pandemic.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg
+published: '2026-11-26T00:00:00Z'
+scraped_at: '2026-11-26T16:50:29Z'
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+people:
+- Andy Burnham
+- Ben Brindle
+- Boris Johnson
+- Chris Philp
+- David Cameron
+- Paul Kohler
+- Rishi Sunak
+- Shabana Mahmood
+- Zia Yusuf
+locations:
+- Britain
+- Europe
+- UK
+organisations:
+- EU
+- English Channel
+- Green Party
+- Home Office
+- Labour
+- Liberal Democrat
+- Migration Observatory
+- ONS
+- Office for National Statistics
+- Oxford University
+- Reform UK
+---
+
+![An airport corridor with the words 'International Arrivals' printed in large black letters onto a white wall. A man can be seen walking in front of the sign with a wheeled suitcase, beige trousers and a dark jacket, but he is slightly blurred to indicate the fact he is moving quickly. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg)
+
+**Net migration to the UK has fallen to 77,000 in the year to the end of June - the lowest level this century, other than during the pandemic, Office for National Statistics (ONS) figures show.**
+
+Excluding the limited movements of people during the worldwide travel restrictions in 2020, the figures show the number of people arriving in the UK, minus those leaving, tumbled 92% from the record high of 944,000 in the year to March 2023.
+
+The ONS said this was the lowest net migration since 1997.
+
+Net migration is a measure of how many extra people are added to the population in a given year.
+
+Prime Minister Andy Burnham said the figures showed there was now "a sufficient degree of control" over the migration system.
+
+The prime minister went on to say: "I'm not going to say all of the work is done, and I don't want to appear complacent, but I think we're finally as a country getting into the position that the public has long wanted to see."
+
+The underlying official statistics show that an estimated 738,000 people immigrated to the UK in the year to June while 661,000 emigrated.
+
+Home Secretary Shabana Mahmood said the figures showed that Labour had "delivered" after Conservative failures - but Chris Philp, her Tory shadow, said restrictions introduced by his party before the 2024 General Election were behind the falls.
+
+The 77,000 figure is also the first time the UK has seen net migration in the tens of thousands since former PM David Cameron's controversial pledge 16 years ago to reach such a level.
+
+The biggest factors in Thursday's record low were falls in the arrivals of people coming from outside Europe in three major categories of migration: The number of people coming to the UK to work fell by 45,000, asylum claims fell by 19,000 and the total number of students fell by 33,000.
+
+These number had been expected to fall because of the tightening of visas rules that began under the previous Conservative government which was then continued by Labour from July 2024.
+
+The effect of those policies, plus emigration from the UK, has meant that while net migration had already begun to fall, it more than halved in the last 12 months alone.
+
+Mahmood said the figures showed the government had "restored control".
+
+"We have brought net migration to 77,000, down 92% from its peak under the Conservatives," she said. "Where they failed, we have delivered for the British people."
+
+This is a reference to the so-called "Boris Wave" after Brexit. When the UK left the EU and its freedom of movement rules, Boris Johnson's government allowed in many more people to work and study from other parts of the world.
+
+That led to the record-breaking arrivals in the year to March 2023. Johnson's successor, Rishi Sunak, introduced major restrictions on visas in the last months of his government.
+
+Shadow home secretary Chris Philp said the falls were a result of those changes.
+
+In a post on X, he called for an "annual legally binding inward migration cap, set by Parliament, at far lower levels".
+
+Dr Ben Brindle of Oxford University's Migration Observatory, an impartial expert body, said: "We are entering an unusual period where immigration has come down and may still have further to fall - but we still have relatively high emigration, at least for the time being.
+
+"Most of those emigrants are non-citizens, including people who arrived a few years ago when immigration was very high. That could push the net migration figures down even further next year, but the downwards blip is unlikely to last forever."
+
+In the year to June some 73,000 people arriving in the UK seeking asylum - down from 93,000 the previous year.
+
+As of September, the number of people who were waiting for a decision was 41,000, down 49% on the previous year.
+
+The Home Office said that these changes were driven by speeding up the system in taking decisions and a fall in the arrivals of new claimants via "illegal entry routes" - largely meaning English Channel small boats.
+
+As a result, the number of people accommodated in September by the Home Office was 93,000 - 16% lower than the year before. Some 52 hotels that had been dedicated to asylum seekers have been emptied this year. While some 140 are still in use the total number of people in hotels has fallen 64% to 13,000.
+
+Responding to the latest statistics, Reform UK's home affairs spokesman Zia Yusuf said the figures were "no cause for celebration".
+
+"This population explosion is why British people struggle to get a GP appointment, can't get housing and our prisons are overwhelmed."
+
+Liberal Democrat asylum and immigration spokesperson Paul Kohler said: "Britain faces serious demographic and economic challenges, and urgently needs a proper immigration plan to support our economy and public services."
+
+A spokesperson for the Green Party added: "Creating a harsh environment for migrants and people seeking asylum is not a measure of success. The British people are overwhelmingly compassionate and will not be taken in by the dangerous and opportunistic narratives of the far right."
+
+![Your Voice banner image. Your Voice is written in white against a purple background. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cee6/live/d1e7ac20-e9a6-11f1-99b6-a35a62fa4264.png)

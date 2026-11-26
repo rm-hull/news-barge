@@ -1,0 +1,92 @@
+---
+title: Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt
+source_url: https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt
+source_site: The Guardian
+source_slug: guardian
+description: People’s party alters video of PM putting on Lamine Yamal’s Spain shirt
+  in latest contentious use of AI in election race
+image: https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1e103892aec12b1bfae52fc8c057ab2
+published: '2026-11-26T00:00:00Z'
+scraped_at: '2026-11-26T16:49:52Z'
+categories:
+- UK
+- News & Politics
+- Technology & Software
+people:
+- Alberto Núñez Feijóo
+- Begoña Gómez
+- Brahim Díaz
+- Lamine Yamal
+- Mariano Rajoy
+- Martínez Corcuera
+- Pedro Sánchez
+- Raúl Martínez Corcuera
+- Xavier García Albiol
+- Xavier Garcí­a Albiol
+locations:
+- Barcelona
+- Ceuta
+- Egypt
+- Equatorial Guinea
+- France
+- Morocco
+- Spain
+organisations:
+- AI
+- Barça
+- EU
+- Málaga-born Real Madrid
+- PP
+- People’s party
+- Publico
+- SOS Racismo
+- Sport
+- University of Vic
+- Vox
+---
+
+Spanning 17 seconds, the campaign video showed the Spanish prime minister, Pedro Sánchez, speaking to the camera as he put on the jersey of the national football team. “Because this is what Spain is: a pluralistic and diverse country,” he said as he turned to reveal the number 19 on his back – the shirt number of the star player Lamine Yamal.
+
+One day later, the opposition People’s party (PP) came under fire after it used AI to manipulate the same video, making it falsely appear as if Sánchez had put on the shirt of the Moroccan national team.
+
+The row comes as people across Spain prepare to cast their votes on Sunday after an election campaign marked by bitter polarisation. Most polls suggest Sánchez’s Socialist-led government is set to be replaced by a coalition led by the conservative PP and backed by the far-right, anti-immigrant Vox party.
+
+As the altered video made headlines across Spain, many were swift to point out that it made no mention of being made with AI, suggesting it could fall short of EU obligations regarding AI. Others described it as the latest in a list of problematic uses of AI by the PP during the campaign, after it notably stoked outrage with a deepfake video of Sánchez’s wife, Begoña Gómez.
+
+One leftwing news site suggested the PP was relying on AI rather than ideas to do most of the heavy lifting in the campaign. “That’s how the PP operates: when they run out of arguments, they hit ‘generate’,” Publico said in a piece that captured some of the criticism the party had faced over the football shirt video. “They must have thought [Sánchez’s] message lacked a touch of xenophobia and wanted to remedy that.”
+
+The incident hinted at the tug of war that has played out among political parties during the campaign as Sánchez and his allies on the left seek to keep the spotlight on issues such as housing, pensions and women’s rights, while the PP and Vox had sought to centre the conversation on issues such as immigration.
+
+Sánchez’s video was seemingly a direct response to remarks made earlier this week by a PP candidate, Xavier García Albiol. The candidate – who in 2013 became the first mayor to face trial for racist remarks and who has repeatedly been accused of employing racist rhetoric – said he did not like Lamine Yamal, the wonderkid whose talents helped Spain win this year’s World Cup and Euro 2024, citing what he claimed was the teenager’s lack of maturity.
+
+Albiol said he would not wear Lamine Yamal’s jersey. “I’d feel more comfortable with any other Barça player on the national team,” he told the Barcelona-based newspaper Sport.
+
+![Xavier Garcí­a Albiol speaking at a campaign rally with a crowd behind him](https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none)
+
+As people across the country raced to defend Lamine Yamal, who was born in Spain to parents from Morocco and Equatorial Guinea, Sánchez joined in, touting Spain as a “plural and diverse” country and asserting that he would wear the shirt of any player on the national team.
+
+Raúl Martínez Corcuera, a lecturer in media studies at the University of Vic who collaborates with the anti-racist group SOS Racismo, said the PP’s AI manipulation was probably an attempt to steer the campaign towards issues it saw as vote boosters, such as the mass influx of people into Spain’s north African territory of Ceuta.
+
+“I think the goal is to portray Morocco as a threat, cast immigration as a security issue and highlight the government’s alleged weakness regarding border control,” Martínez Corcuera said.
+
+Throughout the campaign, the PP has consistently sought to portray Sánchez as a pawn of Morocco, a view underlined by the text of the AI-generated video. The PP video also altered Sánchez’s speech to make it seem as if he was advocating for wearing the Moroccan team’s kit.
+
+The PP leader, Alberto Núñez Feijóo, has said that should he become prime minister, his first foreign trip will be to Morocco, where he will demand that it respects Spain’s territorial integrity or face problems – hinting at a view that could clash with the complexities of Spain and the EU’s deep reliance on the kingdom to control migration into the bloc.
+
+after newsletter promotion
+
+However, Martínez Corcuera said the result of the AI-generated video had been a form of “subtle racism” by the PP. “Morocco is being used as a symbol of ‘the other’,” he said, while at the same time “Sánchez and Lamine Yamal were being singled out as ‘players’ for Spain but not as Spaniards”.
+
+![Lamine Yamal in a Spain shirt with a medal hung around his neck](https://i.guim.co.uk/img/media/8c73773862e4abc7428c9b39c5d950dd2eae09ef/365_0_4595_3676/master/4595.jpg?width=445&dpr=1&s=none&crop=none)
+
+It tapped into the vein of racism that Lamine Yamal has long faced off against, from the anti-Muslim cheers lobbed at Egypt during a friendly in Barcelona to the spike in racist and Islamophobic messages directed at the player online during the World Cup.
+
+For Martínez Corcuera, the AI video also recalled the widespread scorn and accusations of racism aimed at Spain’s former prime minister Mariano Rajoy, also of the PP, after he wrote in a newspaper column during the World Cup that the French national team “does not have any French players”.
+
+Rajoy’s words provoked a furious response in France as well as from Sánchez, who shot back that Spain belonged to “those who love it and work for it. Not to those who shame it with xenophobic statements.”
+
+Martínez Corcuera described the former PP leader’s remarks as part of a long tradition of questioning the national identity of minority ethnic citizens, particularly when they were in the public eye. This week’s AI video had managed to tap into all of this, he noted. “As you can see, there are many intersecting issues playing out here,” he said.
+
+In Spanish media, many were quick to highlight that the PP had done a sloppy job in putting together the video, pointing to various errors it had made in replicating the Moroccan kit.
+
+Martínez Corcuera had one more to add to the list, one that had inadvertently highlighted the interconnectedness between Spain and Morocco. “They had the bad luck of using No 10, which in Morocco is worn by [the Málaga-born Real Madrid player] Brahim Díaz, who is Spanish.”

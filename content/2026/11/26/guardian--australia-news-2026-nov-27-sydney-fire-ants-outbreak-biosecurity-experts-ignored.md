@@ -1,0 +1,111 @@
+---
+title: ‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity
+  recommendations
+source_url: https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored
+source_site: The Guardian
+source_slug: guardian
+description: Farmers’ federation president says Australia ‘can’t even keep cigarettes
+  out of the country … let alone some of these difficult-to-detect pests’
+image: https://i.guim.co.uk/img/media/99d2feb195ab09ebe90cf8d6c5c285f643644dc3/159_0_4000_3201/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e15166ed0264ce01805d603402ccf2b1
+published: '2026-11-26T00:00:00Z'
+scraped_at: '2026-11-26T16:51:19Z'
+categories:
+- UK
+- News & Politics
+people:
+- Carol Booth
+- Hamish McIntyre
+- Jack Gough
+- Julie Collins
+- Tara Moriarty
+- Tom Kompas
+locations:
+- Auburn
+- Australia
+- Enfield
+- Queensland
+- Sydney
+organisations:
+- Guardian
+- Invasive Species Council
+- Khapra
+- Kompas
+- NSW
+- National Farmers’ Federation
+- University of Melbourne
+- World Trade Organization
+---
+
+Years-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts.
+
+Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture.
+
+The nest was found in Auburn and is the second outbreak of the invasive species in Sydney this year after they were discovered at the Enfield intermodal logistics centre on 23 September.
+
+Both sites are industrial areas dealing with imported goods.
+
+The NSW agriculture minister, Tara Moriarty, said on Wednesday that the Auburn outbreak was “different to what has occurred in the past and is seemingly the result of infested imported goods”.
+
+“Our government is boosting our on-ground resources and establishing a taskforce to focus on tracing the supply chains that have led to this occurring,” she said.
+
+But experts say there have been years of warnings about Australia’s biosecurity, often not acted on by the federal government, that might have made a difference in halting the ants’ spread.
+
+The policy director of the Invasive Species Council, Carol Booth, pointed to a 2021 review by the inspector general of biosecurity of the controls for the Khapra beetle, which made recommendations to improve the entire quarantine system.
+
+The South Asian beetle is the second-highest identified national priority plant pest, due to its risks to the grain industry.
+
+At the time, the inspector general made 13 recommendations, including that the department “improve its level of regulatory agility”, “with an expectation of response time frames of days or weeks, not months or years” due to the rapidly-evolving risk of outbreak.
+
+It also criticised the federal government for not acting when the risk of the beetle arriving was first identified in July 2020.
+
+“This delay is an illustration of the department’s continuing regulatory immaturity,” the inspector general found, suggesting either a poorly defined risk assessment process or an overly cavalier attitude to risk.
+
+Four years later, nothing had been done about the recommendation to improve response times. An October 2025 review of the report by the inspector general found that all but one of the recommendations were still open.
+
+Booth said the recommendation was particularly significant because biosecurity risks to Australia were endlessly evolving and increasing, partly due to climate change.
+
+“There are just so many things they should be doing that they’re not, or they weren’t doing well, or they weren’t auditing to ensure that their measures were being actually implemented,” Booth said.
+
+“There’s definitely some things they do well, but others, they just don’t have the resources.”
+
+The Guardian understands the recommendation has since been implemented.
+
+Hamish McIntyre, the president of the National Farmers’ Federation, said farmers “believe we are watching a national biosecurity and human health disaster unfold in front of our eyes around fire ants” due to a failure of the quarantine system.
+
+“We can’t even keep [illicit] cigarettes out of the country through our borders, let alone some of these difficult-to-detect pests.”
+
+He said being an island nation was Australia’s greatest biosecurity advantage.
+
+The federal minister for agriculture, Julie Collins, said the government had delivered over $2bn in additional biosecurity resourcing since 2022.
+
+after newsletter promotion
+
+“This includes more than $296m in the current red imported fire ant eradication program,” she said.
+
+“In the last financial year alone, federal biosecurity officers inspected almost 350,000 commercial sea and air cargoes, preventing tens of thousands of harmful pests, diseases and weeds from entering Australia.”
+
+Tom Kompas, a professor of environmental economics and biosecurity at the University of Melbourne, said it was likely that Sydney’s infestation was broader than currently thought.
+
+“If it does get into metro Sydney, it would be a disaster. It would be an absolute disaster,” he said.
+
+## Tax the importer
+
+Australia has a reputation for extraordinarily tough and strict biosecurity controls, but no system can block, inspect or decontaminate every container of every pest.
+
+“We’re going to have incursions of fire ants, among other things,” the Invasive Species Council CEO, Jack Gough, said.
+
+“The key is basically how early in the biosecurity system we’re catching these things, such that then it’s a lot easier to deal with.”
+
+While the Enfield site had been subject to pest inspections, Gough said there had been “clear failings” because its fire ant mitigation process did not match the ant’s biology.
+
+Lures were only placed in some businesses once a year, but ants can move after six months, he said. They were also placed too far apart, further than the 40 or so metres the ants will roam.
+
+He said this was partly due to underfunding and an overreliance on mitigation in the private sector.
+
+Kompas said the biosecurity system was hampered by its approach to risk, with funding against an individual pest allocated according to concern levels. According to him, a better approach would be to allocate funding based on an assessment of cost effectiveness and suggested testing Australian cows for foot-and-mouth disease is probably overfunded.
+
+He said the system placed an overemphasis on mitigating risks to agriculture rather than the environment.
+
+Ultimately, it falls to the taxpayer to pay for eradication, Gough said. Queensland’s fire ant eradication program costs more than $100m a year.
+
+The Invasive Species Council has long called for a new tax on importers to fund the country’s biosecurity system, but Gough said Australia’s obligations under World Trade Organization agreements had prevented its implementation as a flat fee.
