@@ -1,0 +1,96 @@
+---
+title: 'New Zealand election: final results show ruling coalition needs minor party
+  to govern'
+source_url: https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results
+source_site: The Guardian
+source_slug: guardian
+description: Incumbent prime minister Christopher Luxon loses majority and needs support
+  of Opportunity party to remain in power, or country faces another election
+image: https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e59803feeecc1af1d51cb6e9eb9cd1e2
+published: '2026-11-27T00:00:00Z'
+scraped_at: '2026-11-27T12:04:39Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Chris Hipkins
+- Christopher Luxon
+- Lara Greaves
+- Qiulae Wong
+- Seymour
+- Te Pati Māori
+- Winston Peters
+locations:
+- Auckland
+- Hamilton East
+- New Zealand
+- Wairarapa
+- Wellington Bays
+organisations:
+- Greens
+- Kiwis
+- Labour
+- National party
+- National’s
+- New Zealand First
+- New Zealand First and libertarian Act
+- New Zealand First, Act and Opportunity
+- Victoria University of Wellington
+---
+
+The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls.
+
+Preliminary results on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, making the election too close to call until final votes were tallied.
+
+On Friday, the electoral commission released the results from nearly 485,000 “special votes” – those cast from overseas or outside a voter’s electorate. National dropped two seats to 40, Labour stayed on 36 seats, the Greens picked up one seat to 17, Act had 13, New Zealand First 12, Opportunity seven and Te Pati Māori five.
+
+The National-led bloc currently has 65 seats. In the 130-seat parliament, 66 seats are needed for a majority.
+
+The revised results mean the National-led coalition has the only realistic path to power – if it can negotiate a deal with Opportunity. If it cannot, New Zealand will probably need to hold another election.
+
+Three electorate seats changed hands after the special votes. Labour won Wairarapa off National with just 81 votes, and took Hamilton East from National with 173 votes. The Greens won Wellington Bays from Labour with 1,610 votes.
+
+If National applies for a recount and wins back just one of those seats, it could return to power with a slim majority and without needing Opportunity. Applications for a recount must be made by 3 December, and results could take another five days.
+
+Special votes in previous elections have favoured the left, and typically have cost the right one or two seats. Until Friday, a question mark hung over whether National would be able to govern comfortably alongside its coalition partners, or whether it would be forced to cut a deal with the Opportunity party – a newcomer centrist party that incumbent prime minister Christopher Luxon had previously ruled out working with.
+
+After the election, Luxon softened his stance on his initial rule-out, saying he intended to find common ground with the Opportunity party.
+
+On Friday afternoon, Luxon said National will now begin formal negotiations with New Zealand First, Act and Opportunity, but he cautioned discussions would be “challenging” and could take some time.
+
+“Getting it right matters far more than getting it done quickly,” Luxon said. “Kiwis won’t thank us for rushing to an agreement that falls apart, or for sending them back to the polls.”
+
+Lara Greaves, a political scientist at Victoria University of Wellington, said the prospect of New Zealand heading back to the polls was unprecedented, because negotiations between the four parties will be so complex.
+
+“It’s not a 0% chance, it’s the highest chance we’ve ever had of it being another election,” she said.
+
+Opportunity, led by Auckland businesswoman Qiulae Wong, has long said it will negotiate first with the party that secures the highest number of seats.
+
+After the final results were announced, Wong confirmed she would speak with Luxon and that her party’s bottom-lines – which include climate and environment policies and capping political donations – were non-negotiable.
+
+The party would focus on bringing New Zealanders a stable government, Wong told media, and she did not rule out heading back to the polls.
+
+“Clearly stability is important. But setting that more hopeful and aspirational vision, where we can come together as much as possible as New Zealanders and move forward, I think is the priority,” she said.
+
+Having Opportunity in parliament was a “pivotal moment” for the country, Wong said.
+
+“I have every expectation that we will get in there and we will deliver, regardless of what shape the government takes.”
+
+Previously, Wong has said its vision for a low-emissions future, and an inclusive New Zealand, will drive its final decision. Its five bottom-line issues include action on New Zealand’s supermarket duopoly, capping political donations, a 10-year cross-party plan for health, ending bottom trawling in the fishing industry and strengthening New Zealand’s climate commitments.
+
+Negotiations with Opportunity could hit a snag with National’s coalition partner New Zealand First. On Friday, Wong confirmed she would not strike a deal if New Zealand First’s leader, the veteran politician Winston Peters, serves as foreign affairs minister – a position he has held on three occasions.
+
+“We think that his behaviour over successive governments is not the kind of behavior that we expect of someone in that position,” she said.
+
+![Luxon, Peters, Seymour and other officials sit outdoors at a Waitangi Day ceremony](https://i.guim.co.uk/img/media/9b3883fc79b35d93509d687f7f037e23e9e293fb/0_0_3500_2334/master/3500.jpg?width=445&dpr=1&s=none&crop=none)
+
+In other points of tension, New Zealand First and Act have diametrically opposed climate policies, and Act are also unlikely to back Opportunity’s drive for political donation reforms.
+
+Greaves said the Opportunity party will have to make difficult decisions over what it is prepared to gain, or lose. “For minor parties, it’s really hard to go into coalition, or be seen as being too close to a major party or propping up a government, and then turn around later and sell their brand ... as separate from that [major] party.”
+
+Labour leader Chris Hipkins said he was proud the party had gained the highest share of the party vote, but was disappointed it could not deliver a change of government.
+
+It is the second election Hipkins has lost, raising questions over his political future. Hipkins said a decision over his leadership would be made after a government had been formed.
+
+New Zealand could be facing weeks of negotiations in what could become its first ever four-party coalition. In 2023, negotiations took five weeks. With Christmas just four weeks away, New Zealand may need to wait until 2027 to know the shape of its next government.
