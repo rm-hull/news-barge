@@ -1,0 +1,37 @@
+---
+title: 'Hong Kong fire: I found my dad''s watch in the ashes of Wang Fuk Court blaze'
+source_url: https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The city marks a year since a huge blaze tore through seven apartment
+  blocks, killing 168 people.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg
+published: '2026-11-26T00:00:00Z'
+scraped_at: '2026-11-27T01:42:28Z'
+categories:
+- UK
+- News & Politics
+- Society & Culture
+people:
+- Brigitte Pu
+- Phoebe Kong
+- So
+- Yik Lam
+locations:
+- Hong Kong
+- Wang Fuk Court
+organisations:
+- BBC Chinese
+---
+
+# My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire
+
+Mr So's parents, both in their 80s, were among the 168 people killed in last year's Hong Kong tower-block blaze - the deadliest the city had seen in decades.
+
+Their building was the first of the Wang Fuk Court complex to catch fire, and their bodies were burned beyond recognition.
+
+In this video Mr So, who is only using his surname, visits his parents' grave and shows what is left of his parents' possessions.
+
+*Video by Phoebe Kong and Yik Lam, BBC Chinese*
+
+*Editor: Brigitte Pu*
