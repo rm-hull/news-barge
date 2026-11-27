@@ -1,0 +1,100 @@
+---
+title: Satellite imagery shows how fast Lagos and Alexandria are sinking
+source_url: https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: Cities including Lagos and Alexandria are sinking faster than previously
+  thought, a new study shows.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg
+published: '2026-11-27T00:00:00Z'
+scraped_at: '2026-11-27T21:08:40Z'
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+people:
+- Manoochehr Shirzaei
+- Oluwaseyi Dasho
+locations:
+- Alexandria
+- Angola
+- Aswan Dam
+- Durban
+- Earth
+- Egypt
+- Lagos
+- Luanda
+- Nigeria
+- Nile
+- Pacific
+- South Africa
+organisations:
+- European Space Agency
+- IPCC
+- Intergovernmental Panel on Climate Change
+- Sentinel-1
+- UN
+- Virginia Tech
+---
+
+![An aerial view of Lagos, Nigeria with the sea visible in the background. A wide, brown river snakes through a city centre crowded with tall buildings.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg)
+
+Four million people in Lagos, Nigeria may be exposed to extreme sea levels by the end of the century, a new study says
+
+**Some of Africa's largest cities are sinking faster than previously thought, new research shows.**
+
+Scientists used radar imagery from the European Space Agency's Sentinel-1 satellites to map how much the land beneath 20 African coastal cities had moved.
+
+The study found that some cities - including Lagos in Nigeria and Alexandria in Egypt - were sinking much faster than previously estimated in 2021 by the UN's climate body, the Intergovernmental Panel on Climate Change (IPCC).
+
+While some causes of this sinking, or subsidence, are natural, many are the result of human activities, such as the extraction of groundwater from underneath the Earth's surface.
+
+Lead author Oluwaseyi Dasho said the effects of subsidence "are often invisible in everyday life, but over decades they can substantially increase flood exposure".
+
+This is because when the ground sinks it becomes lower relative to the ocean and adds to the risk of the sea level rises caused by climate change.
+
+Seven million people, one billion buildings and $180bn (£137bn) of assets could be at flood risk by 2050, the paper estimated.
+
+## Satellites give a clearer picture
+
+In the past, a lack of monitoring stations has prevented scientists from obtaining up-to-date localised information on subsidence in Africa, Dasho said.
+
+But by using satellite data, the researchers from Virginia Tech were able to detect land movements as small as 1mm per year.
+
+Senior author Manoochehr Shirzaei said Sentinel-1 satellites flew over the same region of the Earth every six to 12 days.
+
+"[The satellite] transmits the radar signal, which hits the ground and bounces back to the satellite," the geosciences professor explained. This process is then repeated on "many revisits".
+
+The time between sending the signal and receiving it back is recorded, with changes in this value over time revealing how much the land has moved.
+
+![A view of Alexandria from a high vantage point. In the foreground is a road and a line of palm trees. Behind them is a multi-storey car park attached to a hotel. A row of skyscrapers under a blue sky fills the background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/04ac/live/9aac6350-e9b4-11f1-8d2a-f5d2aabc11cb.jpg)
+
+More of Alexandria could be exposed to flooding than previously thought, the research says
+
+The ground under Alexandria and Lagos was found to have sunk an average of 6mm and 5mm per year respectively.
+
+If this rate continued, sea levels around Alexandria would rise 36% more by 2050 than the IPCC predicted, external, under the middle estimates for how much planet-warming emissions will increase.
+
+Luanda in Angola has also sunk significantly, but other cities such as Durban in South Africa have remained stable or even risen slightly.
+
+Shirzaei said showing where the IPCC had underestimated risks - but also where the threat had been overestimated - could help planners allocate resources more effectively.
+
+## Sinking caused by local activities
+
+The man-made drivers of subsidence are usually "extremely local, [which] means that we can combat them by creating local policies", Shirzaei explained.
+
+One major cause is the increased water consumption of rapidly growing cities. Too much water being extracted from the ground can lead to the soil becoming compacted and the surface sinking.
+
+The Aswan Dam on the Nile may also be trapping sediment upstream and preventing the replacement of sinking land in Alexandria, the study suggests.
+
+In Lagos, the reclaiming of land from the ocean to create artificial islands and the construction of buildings on loose ground are other possible causes of subsidence.
+
+Methods of preventing cities from sinking include supplying other water sources and growing less water-intensive crops.
+
+"Whatever we cannot mitigate, we try to adapt to it," Shirzaei added. This could mean building flood defences or moving key infrastructure to a higher level.
+
+The professor said developing countries had been "left out" of much of the planning for sea-level rises due to a lack of monitoring.
+
+The techniques developed in this study could potentially be used to address the knowledge gap in other regions, such as the Pacific islands, Shirzaei suggested.
+
+Oluwaseyi Dasho said he hoped the paper, in Science Advances,, external could help African governments "prepare adequately for future challenges and more importantly for the future generations".

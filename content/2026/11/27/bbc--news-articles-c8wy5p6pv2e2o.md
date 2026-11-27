@@ -1,0 +1,112 @@
+---
+title: DWP 'cyber incident' causes millions to lose access to benefits and pensions
+  services
+source_url: https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+description: The Department for Work and Pensions says some of its services were taken
+  offline as a precaution.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg
+published: '2026-11-27T00:00:00Z'
+scraped_at: '2026-11-27T21:10:47Z'
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+people:
+- David Knott
+- Gemma Barnes
+- Georgina Howarth
+- Richard Horne
+- Samantha Reah
+locations:
+- Cambridgeshire
+- Cardiff
+- Downing Street
+- London
+- Plymouth
+- St Neots
+- UK
+- US
+organisations:
+- AI
+- BBC Newsnight
+- DWP
+- Department for Work and Pensions
+- Legal Aid Agency
+- Microsoft
+- National Cyber Security Centre
+- National Cyber Security Centre and Government Cyber Coordination Centre
+- PHP
+- US National Security Agency
+---
+
+![Image showing sign for the department for work and pensions as a person walks past with bokeh from depth of field, taken in London in 2025.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg)
+
+**Millions of people have been left without access to online benefits and pensions services after the government said its system had been hit by a "cyber incident".**
+
+Downing Street has not ruled out an attempted hack but said there was "currently no evidence" personal data had been lost, adding an investigation was ongoing.
+
+The Department for Work and Pensions (DWP) said it took the digital services down as a "precaution", and assured claimants regular benefit and pension payments would be paid.
+
+But a number of benefits recipients say money they rely on has still not come through - and they fear being penalised for not being able to fill in an online journal that proves they are looking for jobs.
+
+The UK's former Chief Technology Officer David Knott told BBC Newsnight his "strong suspicion" was that the incident was an attack.
+
+"They've taken down some of the citizen-facing services which implies to me that there's some kind of attack could be mounted through the front door," he said.
+
+Single Cardiff mother-of-four Samantha Reah told the BBC the technological disruption meant she was missing £1,600: "I rely on the payment today - it's my payday.
+
+"I have just enough money in my account to do a food shop. I'm panicking - it's going to be a long and stressful weekend."
+
+Georgina Howarth, 30, from Plymouth, said she had to ask her mother for money to help buy food after not receiving her universal credit payment.
+
+"I've been on the phone to them [DWP staff] every hour since 8am. They said they can't even get on the system."
+
+Claimants are also unable to fill in an online journal which shows the DWP they have been applying for jobs, a condition of their benefits.
+
+Gemma Barnes from St Neots in Cambridgeshire told the BBC she was worried her payments could be cut as a result.
+
+She said she has been trying to access the universal credit website "all of today and since last night as well" but she has not been able to get through to the site.
+
+"With it being so close to Christmas I need [that money] at the moment," she said., explaining she has to often rely on items in the reduced food section to make ends meet.
+
+The DWP says regular payments are not affected and if customers have any issues with their payments, they should call on their benefit phoneline. They say they will not be sanctioned over missing journal entries during the incident.
+
+There are also problems with Healthy Start, an NHS scheme for women who are pregnant or have young children to help them buy milk or fruit.
+
+A spokesperson told the BBC the online application service was unavailable but there was no interruption to payments.
+
+As of around 12:00 GMT on Friday, the online systems for pensions, universal credit and Pip applications, as well as the "Tell Us Once'" system to inform government when someone has died, could not be accessed.
+
+It was not clear when the government expected services to be up and running again.
+
+A DWP spokesperson said: "We are working closely with the National Cyber Security Centre and Government Cyber Coordination Centre to investigate and to bring services back online as quickly as possible and to minimise any disruption."
+
+A statement continued: "As always, we will never message you to ask for bank details or ask you to click on links."
+
+Tech disruption to major service around the world have hit the headlines repeatedly in recent months.
+
+There was a major outage of Microsoft services, the grounding of all US flights, problems at the US National Security Agency, and disruption at major American banks.
+
+The causes of these incidents have varied. Many were linked to upgrades going wrong but experts have also mentioned factors including outdated IT systems and the use of AI to potentially exploit tech vulnerabilities.
+
+While the nature of the DWP incident is unclear, officials could not rule out the involvement of a "malicious actor", but added there was "no evidence" that other government departments had been targeted in this way.
+
+The DWP outage follows warnings that AI technology could fuel attacks on UK digital infrastructure.
+
+Earlier this month a National Cyber Security Centre report urged organisations to strengthen their defences against hackers as the technology becomes more complex and capable.
+
+Its CEO Richard Horne said there was a "real prospect of an unprecedented rise in the number of cyber incidents".
+
+Last month the government carried out inspections on several websites after a flaw was identified in a programming language used around the world.
+
+The PHP security flaw prompted a global race for organisations to identify whether they were impacted and fix it before it could be exploited.
+
+UK government websites have been impacted by other cyber incidents in recent years.
+
+In April 2025, the government reported that cyber attackers had breached the Legal Aid Agency's online services.
+
+It said the group responsible accessed a "significant amount" of personal data going back decades, including contact details of people who had applied for legal aid.
+
+The agency took some services offline while responding to the incident.
