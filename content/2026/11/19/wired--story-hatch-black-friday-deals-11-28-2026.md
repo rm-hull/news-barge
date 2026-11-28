@@ -1,0 +1,42 @@
+---
+title: Don’t Sleep on This Hatch Sleep Clock Deal
+source_url: https://www.wired.com/story/hatch-black-friday-deals-11-28-2026/
+source_site: Wired
+source_slug: wired
+description: The Hatch Sleep is a bedside multitasker that makes waking up less dreadful.
+  It’s 25 percent off for Black Friday.
+image: https://media.wired.com/photos/6aff45858b074d85bf38a65e/191:100/w_1280,c_limit/Wake-Up,-The-Hatch-Sleep-Clock-Is-on-Sale-Ahead-of-Black-Friday.jpg
+published: '2026-11-19T00:00:00Z'
+scraped_at: '2026-11-28T18:01:52Z'
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
+people:
+- Hatch
+locations:
+- Amazon
+- Hatch
+organisations:
+- Hatch
+---
+
+If you’re still using your iPhone’s “Radar” sound as an alarm, it might be time for an upgrade. The latest Hatch Sleep Clock is designed to make both falling asleep and waking up a little more pleasant. It combines a sunrise alarm clock, dimmable bedside light, sound machine, and contactless sleep tracking into one bedside gadget. And for the first time, it’s going on sale for Black Friday.
+
+The Sleep Clock is 25 percent off at Hatch and Amazon. Normally $250, it’s down to $188, which is just $18 more than the Hatch Restore 3’s $170 retail price. And unlike its predecessor, the newer Hatch adds passive sleep monitoring, which is pretty compelling for anyone who hates wearing wearables to bed. Or maybe you’re like me and occasionally forget to wear your Oura Ring to bed; in that case, you don’t have to worry because the Hatch quietly tracks your sleep in the background.
+
+## Hatch Sleep Clock for $188 ($62 Off)
+
+I’ve been testing the Hatch Sleep Clock for over two months, and it’s earned a permanent spot on my nightstand. As someone who already wears a smart ring and smartwatch to bed, I’m not exactly short on sleep-tracking data. But I’ve never owned a sunrise alarm clock, and I became a convert instantly. Unlike my iPhone or Amazon Echo Dot, it doesn’t wake me up by blaring an obnoxious alarm in my pitch-black bedroom. Instead, it gradually brightens the room as my scheduled wake-up time approaches. You can customize the sunrise’s duration and brightness, and pair it with a soundscape of your choosing. It truly makes getting out of bed feel less jarring, especially as the mornings get darker.
+
+Most notably, the Sleep Clock also doubles as a contactless sleep tracker, using a built-in motion sensor to detect your movements and breathing throughout the night. I compared its readings against my Oura Ring 5 and Apple Watch Series 12, and while sleep duration estimates were generally aligned, the sleep-stage readings were less consistent. The device doesn’t measure physiological metrics like heart rate, and it can’t detect snoring or other audio-based sleep disruptions. I also found that placement significantly matters. My nightstand tends to collect clutter, so I had to rearrange my trinkets to make room for the clock.
+
+Each morning, the Hatch app gives you a breakdown of when you went to bed, when you fell asleep, when you woke up, and how much time you spent in different sleep stages. The color-coded reports are easy to understand without burying me in random metrics. Plus, unlike most sleep trackers, Hatch doesn’t require a subscription to access your sleep data. (You will need that Hatch+ membership ($6 per month) to access the full *audio library*, however.)
+
+Overall, the Hatch Sleep Clock is the best all-in-one bedside device. I wouldn’t recommend replacing your dedicated wearable with it if detailed health tracking is your priority. But if you’ve been wanting a sunrise alarm clock that also offers a little insight into your sleep, don’t sleep on this Black Friday deal.
+
+## More Hatch Deals
+
+If you don’t care for sleep tracking, Hatch is also offering deals on several other products across its lineup. (Discount auto-applies at checkout.)
+
+*Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that’s too important to ignore. Subscribe Today.*
