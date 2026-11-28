@@ -95,7 +95,9 @@ sites:
 
   - name: Harrogate Town Council
     slug: harrogate-town-council
-    feed: https://harrogatetowncouncil.gov.uk/feed/
+    listing_urls:
+      - https://harrogatetowncouncil.gov.uk/news-and-notices/
+    listing_link_pattern: /\d{4}/\d{2}/
     limit: 100
     categories: [Local, Harrogate, Government]
 
