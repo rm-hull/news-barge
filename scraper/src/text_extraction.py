@@ -72,7 +72,7 @@ def _find_next_page_url(html: str, base_url: str) -> str | None:
         The absolute URL of the next page, or ``None`` if not found.
     """
     try:
-        tree = lxml_html.fromstring(html)
+        tree = lxml_html.fromstring(_strip_xml_declaration(html))
     except lxml_html.ParserError:
         return None
 
@@ -591,7 +591,7 @@ def resolve_srcset_images(html: str, base_url: str = "", logger: Any = None) -> 
     if not html or not html.strip():
         return html
 
-    tree = lxml_html.fromstring(html)
+    tree = lxml_html.fromstring(_strip_xml_declaration(html))
     if isinstance(tree, list):
         tree = lxml_html.fragment_fromstring(
             lxml_html.tostring(tree, encoding="unicode"),
@@ -632,6 +632,22 @@ _EXCLUSION_ATTR_PATTERN: re.Pattern[str] = re.compile(
     r'^\s*([\w:-]+)\s*=\s*["\']([^"\']+)["\']\s*$'
 )
 
+# Matches an XML declaration at the very start of a string, e.g.
+# <?xml version="1.0" encoding="UTF-8"?>
+_XML_DECLARATION_PATTERN: re.Pattern[str] = re.compile(
+    r'^<\?xml[^>]*>\s*', re.DOTALL
+)
+
+
+def _strip_xml_declaration(html: str) -> str:
+    """Remove an XML declaration from the start of *html*.
+
+    lxml refuses to parse Unicode strings that contain an XML encoding
+    declaration, so strip it before any ``lxml_html.fromstring`` call
+    on raw fetched HTML.
+    """
+    return _XML_DECLARATION_PATTERN.sub("", html)
+
 
 def normalize_exclusion(expr: str) -> str:
     """Translate an ``exclusions`` entry into an XPath expression."""
@@ -652,7 +668,7 @@ def remove_excluded_elements(
     if not exclusions:
         return html
 
-    tree = lxml_html.fromstring(html)
+    tree = lxml_html.fromstring(_strip_xml_declaration(html))
     if isinstance(tree, list):
         tree = lxml_html.fragment_fromstring(
             lxml_html.tostring(tree, encoding="unicode"),

@@ -238,6 +238,13 @@ class TestRemoveExcludedElements:
         log_msg = logger.log.call_args[0][0]
         assert "excluded 2" in log_msg
 
+    def test_handles_xml_encoding_declaration(self) -> None:
+        """HTML with an XML encoding declaration must not crash lxml."""
+        html = '<?xml version="1.0" encoding="UTF-8"?>\n<div><p role="dialog">Remove</p><p>Keep</p></div>'
+        result = remove_excluded_elements(html, ["role='dialog'"])
+        assert "Remove" not in result
+        assert "Keep" in result
+
     def test_handles_list_tree_fromstring(self) -> None:
         html = '<div><p role="dialog">Remove</p><p>Keep</p></div>'
         result = remove_excluded_elements(html, ["role='dialog'"])
