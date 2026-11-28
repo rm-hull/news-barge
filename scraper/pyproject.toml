@@ -14,7 +14,7 @@ dependencies = [
   "tqdm>=4.70.1",
   "trafilatura>=2.3.1",
   "colorama>=0.4.6",
-  "types-dateparser>=1.4.3.20260907",
+  "types-dateparser>=1.4.3.20261122",
   "curl-cffi>=0.17.0",
 ]
 
